@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+
+    <title>HAdventista</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="./src/css/index.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <p>Himnario Adventista</p>
+
+    <div class="search-container">
+      <form id="search-form">
+        <input
+          id="search-input"
+          type="search"
+          name="buscar"
+          placeholder="Número o título"
+          autocomplete="off"
+          required
+        />
+
+        <button type="submit" aria-label="Buscar">
+          <img src="./src/assets/icons/buscador.png" alt="Buscar" />
+        </button>
+      </form>
+
+      <div id="search-suggestions"></div>
+    </div>
+
+    <script type="module" src="./src/js/app.js"></script>
+  </body>
+</html>
