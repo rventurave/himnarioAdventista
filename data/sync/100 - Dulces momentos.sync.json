@@ -1,0 +1,624 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.956,
+  "language": "es",
+  "model": "medium",
+  "hymn": 100,
+  "source": "100 - Dulces momentos.mp3",
+  "duration": 172.2,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Dulces momentos consoladores",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Dulces",
+          "start": 11.86,
+          "end": 13.26
+        },
+        {
+          "word": "momentos,",
+          "start": 13.26,
+          "end": 14.66
+        },
+        {
+          "word": "consonadores,",
+          "start": 15.8,
+          "end": 19.2
+        }
+      ],
+      "start": 11.86,
+      "end": 20.04,
+      "confidence": 0.983,
+      "time": 11.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "los que me paso junto a la cruz!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "los",
+          "start": 20.04,
+          "end": 21.22
+        },
+        {
+          "word": "que",
+          "start": 21.22,
+          "end": 21.78
+        },
+        {
+          "word": "me",
+          "start": 21.78,
+          "end": 22.68
+        },
+        {
+          "word": "pasan",
+          "start": 22.68,
+          "end": 24.72
+        },
+        {
+          "word": "junto",
+          "start": 24.72,
+          "end": 26.08
+        },
+        {
+          "word": "a",
+          "start": 26.08,
+          "end": 26.8
+        },
+        {
+          "word": "la",
+          "start": 26.8,
+          "end": 27.4
+        },
+        {
+          "word": "cruz.",
+          "start": 27.4,
+          "end": 29.28
+        }
+      ],
+      "start": 20.04,
+      "end": 29.28,
+      "confidence": 0.975,
+      "time": 20.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Allí sufriendo crueles dolores",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Allí",
+          "start": 29.28,
+          "end": 31.56
+        },
+        {
+          "word": "sufriendo",
+          "start": 31.56,
+          "end": 34.52
+        },
+        {
+          "word": "crueles",
+          "start": 34.52,
+          "end": 36.58
+        },
+        {
+          "word": "amores,",
+          "start": 36.58,
+          "end": 39.32
+        }
+      ],
+      "start": 29.28,
+      "end": 39.9,
+      "confidence": 0.942,
+      "time": 29.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "veo al Cordero, Cristo Jesús.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "veo",
+          "start": 39.9,
+          "end": 40.98
+        },
+        {
+          "word": "al",
+          "start": 40.98,
+          "end": 41.54
+        },
+        {
+          "word": "Cordejo",
+          "start": 41.54,
+          "end": 44.32
+        },
+        {
+          "word": "Cristo",
+          "start": 44.32,
+          "end": 46.26
+        },
+        {
+          "word": "Jesús.",
+          "start": 46.26,
+          "end": 48.84
+        }
+      ],
+      "start": 39.9,
+      "end": 48.84,
+      "confidence": 0.983,
+      "time": 39.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "De sus heridas, la viva fuente",
+      "verse": 2,
+      "words": [
+        {
+          "word": "De",
+          "start": 48.84,
+          "end": 50.5
+        },
+        {
+          "word": "sus",
+          "start": 50.5,
+          "end": 51.2
+        },
+        {
+          "word": "heridas",
+          "start": 51.2,
+          "end": 53.92
+        },
+        {
+          "word": "la",
+          "start": 53.92,
+          "end": 55.46
+        },
+        {
+          "word": "viva",
+          "start": 55.46,
+          "end": 56.6
+        },
+        {
+          "word": "fuente,",
+          "start": 56.6,
+          "end": 58.94
+        }
+      ],
+      "start": 48.84,
+      "end": 59.18,
+      "confidence": 1.0,
+      "time": 48.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "de pura sangre veo manar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 59.18,
+          "end": 60.48
+        },
+        {
+          "word": "pura",
+          "start": 60.48,
+          "end": 61.76
+        },
+        {
+          "word": "sangre",
+          "start": 61.76,
+          "end": 63.74
+        },
+        {
+          "word": "veo",
+          "start": 63.74,
+          "end": 65.8
+        },
+        {
+          "word": "mano.",
+          "start": 65.8,
+          "end": 66.86
+        }
+      ],
+      "start": 59.18,
+      "end": 66.86,
+      "confidence": 0.96,
+      "time": 59.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "que, salpicando mi impura frente,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Que",
+          "start": 70.84,
+          "end": 72.24
+        },
+        {
+          "word": "salpicando",
+          "start": 72.24,
+          "end": 73.64
+        },
+        {
+          "word": "mi",
+          "start": 73.64,
+          "end": 74.96
+        },
+        {
+          "word": "impura",
+          "start": 74.96,
+          "end": 76.18
+        },
+        {
+          "word": "frente,",
+          "start": 76.18,
+          "end": 78.18
+        }
+      ],
+      "start": 70.84,
+      "end": 78.96,
+      "confidence": 1.0,
+      "time": 70.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "la infame culpa logra borrar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 78.96,
+          "end": 79.5
+        },
+        {
+          "word": "infana",
+          "start": 79.5,
+          "end": 81.16
+        },
+        {
+          "word": "curva",
+          "start": 81.16,
+          "end": 83.6
+        }
+      ],
+      "start": 78.96,
+      "end": 86.86,
+      "confidence": 0.512,
+      "time": 78.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Veo su angustia ya terminada,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Veo",
+          "start": 88.88,
+          "end": 90.28
+        },
+        {
+          "word": "su",
+          "start": 90.28,
+          "end": 90.56
+        },
+        {
+          "word": "angustia",
+          "start": 90.56,
+          "end": 93.22
+        },
+        {
+          "word": "ya",
+          "start": 93.22,
+          "end": 94.58
+        },
+        {
+          "word": "terminada",
+          "start": 94.58,
+          "end": 98.0
+        }
+      ],
+      "start": 88.88,
+      "end": 98.0,
+      "confidence": 1.0,
+      "time": 88.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hecha la ofrenda de la expiación;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Echa",
+          "start": 98.0,
+          "end": 100.1
+        },
+        {
+          "word": "la",
+          "start": 100.1,
+          "end": 100.7
+        },
+        {
+          "word": "ofrenda",
+          "start": 100.7,
+          "end": 103.16
+        },
+        {
+          "word": "de",
+          "start": 103.16,
+          "end": 104.4
+        },
+        {
+          "word": "la",
+          "start": 104.4,
+          "end": 104.92
+        },
+        {
+          "word": "expiación",
+          "start": 104.92,
+          "end": 106.86
+        }
+      ],
+      "start": 98.0,
+      "end": 106.86,
+      "confidence": 0.989,
+      "time": 98.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "su noble frente, mustia, inclinada,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Su",
+          "start": 106.86,
+          "end": 109.26
+        },
+        {
+          "word": "nombre",
+          "start": 109.26,
+          "end": 110.4
+        },
+        {
+          "word": "frente,",
+          "start": 110.4,
+          "end": 112.94
+        },
+        {
+          "word": "bestia",
+          "start": 113.64,
+          "end": 114.9
+        },
+        {
+          "word": "inclinada,",
+          "start": 114.9,
+          "end": 117.44
+        }
+      ],
+      "start": 106.86,
+      "end": 118.44,
+      "confidence": 0.927,
+      "time": 106.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y consumada mi redención.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 118.44,
+          "end": 119.2
+        },
+        {
+          "word": "consumada",
+          "start": 119.2,
+          "end": 122.52
+        },
+        {
+          "word": "mi",
+          "start": 122.52,
+          "end": 124.06
+        },
+        {
+          "word": "redención.",
+          "start": 124.06,
+          "end": 127.26
+        }
+      ],
+      "start": 118.44,
+      "end": 127.26,
+      "confidence": 1.0,
+      "time": 118.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "¡Dulces momentos, ricos en dones,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Dulces",
+          "start": 127.26,
+          "end": 129.54
+        },
+        {
+          "word": "momentos",
+          "start": 129.54,
+          "end": 132.2
+        },
+        {
+          "word": "ricos",
+          "start": 132.2,
+          "end": 134.42
+        },
+        {
+          "word": "en",
+          "start": 134.42,
+          "end": 135.36
+        },
+        {
+          "word": "dones",
+          "start": 135.36,
+          "end": 137.32
+        }
+      ],
+      "start": 127.26,
+      "end": 137.32,
+      "confidence": 1.0,
+      "time": 127.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "de paz y gracia, de vida y luz!",
+      "verse": 4,
+      "words": [
+        {
+          "word": "de",
+          "start": 137.32,
+          "end": 138.72
+        },
+        {
+          "word": "paz",
+          "start": 138.72,
+          "end": 139.34
+        },
+        {
+          "word": "y",
+          "start": 139.34,
+          "end": 140.06
+        },
+        {
+          "word": "gracia,",
+          "start": 140.06,
+          "end": 142.24
+        },
+        {
+          "word": "de",
+          "start": 143.54,
+          "end": 143.74
+        },
+        {
+          "word": "vida",
+          "start": 143.74,
+          "end": 144.48
+        },
+        {
+          "word": "y",
+          "start": 144.48,
+          "end": 145.58
+        },
+        {
+          "word": "luz",
+          "start": 145.58,
+          "end": 146.9
+        }
+      ],
+      "start": 137.32,
+      "end": 146.9,
+      "confidence": 1.0,
+      "time": 137.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Solo hay consuelo y bendiciones,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "solo",
+          "start": 146.9,
+          "end": 148.78
+        },
+        {
+          "word": "hay",
+          "start": 148.78,
+          "end": 149.38
+        },
+        {
+          "word": "consuelo",
+          "start": 149.38,
+          "end": 151.92
+        },
+        {
+          "word": "y",
+          "start": 151.92,
+          "end": 153.38
+        },
+        {
+          "word": "bendiciones",
+          "start": 153.38,
+          "end": 156.84
+        }
+      ],
+      "start": 146.9,
+      "end": 156.84,
+      "confidence": 1.0,
+      "time": 146.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "cerca de Cristo, junto a la cruz.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "cerco",
+          "start": 156.84,
+          "end": 158.98
+        },
+        {
+          "word": "de",
+          "start": 158.98,
+          "end": 159.7
+        },
+        {
+          "word": "Cristo",
+          "start": 159.7,
+          "end": 161.68
+        },
+        {
+          "word": "junto",
+          "start": 161.68,
+          "end": 163.38
+        },
+        {
+          "word": "a",
+          "start": 163.38,
+          "end": 164.42
+        },
+        {
+          "word": "la",
+          "start": 164.42,
+          "end": 164.8
+        },
+        {
+          "word": "cruz.",
+          "start": 164.8,
+          "end": 169.3
+        }
+      ],
+      "start": 156.84,
+      "end": 169.3,
+      "confidence": 0.983,
+      "time": 156.84
+    }
+  ]
+}

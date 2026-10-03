@@ -1,0 +1,971 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.736,
+  "language": "es",
+  "model": "medium",
+  "hymn": 147,
+  "source": "147 - A Dios sea gloria.mp3",
+  "duration": 219.77,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "A Dios sea gloria, es el Creador,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 1.08,
+          "end": 2.76
+        },
+        {
+          "word": "el",
+          "start": 2.76,
+          "end": 2.86
+        }
+      ],
+      "start": 1.08,
+      "end": 3.22,
+      "confidence": 0.286,
+      "time": 1.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y amó tanto al mundo que a su Hijo dio,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Santos",
+          "start": 3.22,
+          "end": 3.22
+        },
+        {
+          "word": "Su",
+          "start": 30.0,
+          "end": 31.02
+        },
+        {
+          "word": "Hijo",
+          "start": 31.02,
+          "end": 32.36
+        },
+        {
+          "word": "dio,",
+          "start": 32.36,
+          "end": 33.32
+        }
+      ],
+      "start": 3.22,
+      "end": 34.1,
+      "confidence": 0.384,
+      "time": 3.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "quien puso su vida muriendo en la cruz",
+      "verse": 1,
+      "words": [
+        {
+          "word": "quien",
+          "start": 34.1,
+          "end": 34.5
+        },
+        {
+          "word": "puso",
+          "start": 34.5,
+          "end": 35.92
+        },
+        {
+          "word": "su",
+          "start": 35.92,
+          "end": 36.46
+        },
+        {
+          "word": "vida",
+          "start": 36.46,
+          "end": 37.48
+        },
+        {
+          "word": "muriendo",
+          "start": 37.48,
+          "end": 38.86
+        },
+        {
+          "word": "en",
+          "start": 38.86,
+          "end": 39.66
+        },
+        {
+          "word": "la",
+          "start": 39.66,
+          "end": 40.2
+        },
+        {
+          "word": "cruz,",
+          "start": 40.2,
+          "end": 41.22
+        }
+      ],
+      "start": 34.1,
+      "end": 41.22,
+      "confidence": 1.0,
+      "time": 34.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y abrió los portales de gloria y luz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 41.56,
+          "end": 42.0
+        },
+        {
+          "word": "abrió",
+          "start": 42.0,
+          "end": 42.62
+        },
+        {
+          "word": "los",
+          "start": 42.62,
+          "end": 43.34
+        },
+        {
+          "word": "portales",
+          "start": 43.34,
+          "end": 45.16
+        },
+        {
+          "word": "de",
+          "start": 45.16,
+          "end": 46.02
+        },
+        {
+          "word": "gloria",
+          "start": 46.02,
+          "end": 46.96
+        },
+        {
+          "word": "y",
+          "start": 46.96,
+          "end": 47.88
+        },
+        {
+          "word": "luz.",
+          "start": 47.88,
+          "end": 48.76
+        }
+      ],
+      "start": 41.56,
+      "end": 48.76,
+      "confidence": 1.0,
+      "time": 41.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Exaltad a Jesús! Es el Rey y Señor.",
+      "words": [
+        {
+          "word": "¡Exaltada",
+          "start": 48.76,
+          "end": 51.2
+        },
+        {
+          "word": "Jesús",
+          "start": 51.2,
+          "end": 52.4
+        },
+        {
+          "word": "es",
+          "start": 52.4,
+          "end": 53.28
+        },
+        {
+          "word": "el",
+          "start": 53.28,
+          "end": 53.66
+        },
+        {
+          "word": "Rey",
+          "start": 53.66,
+          "end": 54.5
+        },
+        {
+          "word": "y",
+          "start": 54.5,
+          "end": 54.64
+        },
+        {
+          "word": "Señor!",
+          "start": 55.2,
+          "end": 56.14
+        }
+      ],
+      "start": 48.76,
+      "end": 56.14,
+      "confidence": 0.868,
+      "time": 48.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Alabad a Jesús! Es el buen Salvador.",
+      "words": [
+        {
+          "word": "¡Arrabada",
+          "start": 57.42,
+          "end": 58.82
+        },
+        {
+          "word": "Jesús",
+          "start": 58.82,
+          "end": 60.04
+        },
+        {
+          "word": "es",
+          "start": 60.04,
+          "end": 60.92
+        },
+        {
+          "word": "el",
+          "start": 60.92,
+          "end": 61.18
+        },
+        {
+          "word": "buen",
+          "start": 61.18,
+          "end": 61.68
+        },
+        {
+          "word": "salvador!",
+          "start": 61.68,
+          "end": 64.06
+        }
+      ],
+      "start": 57.42,
+      "end": 64.06,
+      "confidence": 0.833,
+      "time": 57.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Load sobre todos su nombre inmortal.",
+      "words": [
+        {
+          "word": "sobre",
+          "start": 66.28,
+          "end": 66.98
+        },
+        {
+          "word": "todo,",
+          "start": 66.98,
+          "end": 68.08
+        },
+        {
+          "word": "su",
+          "start": 68.26,
+          "end": 68.76
+        },
+        {
+          "word": "nombre",
+          "start": 68.76,
+          "end": 69.94
+        },
+        {
+          "word": "inmortal,",
+          "start": 69.94,
+          "end": 71.72
+        }
+      ],
+      "start": 66.28,
+      "end": 71.72,
+      "confidence": 0.823,
+      "time": 66.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Él salva a sus hijos del yugo del mal.",
+      "words": [
+        {
+          "word": "Él",
+          "start": 72.34,
+          "end": 72.88
+        },
+        {
+          "word": "salva",
+          "start": 72.88,
+          "end": 73.88
+        },
+        {
+          "word": "a",
+          "start": 73.88,
+          "end": 74.12
+        },
+        {
+          "word": "sus",
+          "start": 74.12,
+          "end": 74.86
+        },
+        {
+          "word": "hijos",
+          "start": 74.86,
+          "end": 75.76
+        },
+        {
+          "word": "del",
+          "start": 75.76,
+          "end": 76.52
+        },
+        {
+          "word": "jugo",
+          "start": 76.52,
+          "end": 78.0
+        },
+        {
+          "word": "del",
+          "start": 78.0,
+          "end": 78.78
+        },
+        {
+          "word": "mar.",
+          "start": 78.78,
+          "end": 80.16
+        }
+      ],
+      "start": 72.34,
+      "end": 80.16,
+      "confidence": 0.961,
+      "time": 72.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cantad a su gloria, pues Hijo es de Dios.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cantada",
+          "start": 81.02,
+          "end": 82.42
+        },
+        {
+          "word": "su",
+          "start": 82.42,
+          "end": 82.76
+        },
+        {
+          "word": "gloria,",
+          "start": 82.76,
+          "end": 84.0
+        },
+        {
+          "word": "pues",
+          "start": 84.5,
+          "end": 84.72
+        },
+        {
+          "word": "hijo",
+          "start": 84.72,
+          "end": 85.64
+        },
+        {
+          "word": "es",
+          "start": 85.64,
+          "end": 86.3
+        },
+        {
+          "word": "de",
+          "start": 86.3,
+          "end": 86.88
+        },
+        {
+          "word": "Dios,",
+          "start": 86.88,
+          "end": 87.64
+        }
+      ],
+      "start": 81.02,
+      "end": 87.64,
+      "confidence": 0.882,
+      "time": 81.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Su amor inefable a todos nos dio.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "sabor",
+          "start": 87.64,
+          "end": 89.28
+        },
+        {
+          "word": "inefable",
+          "start": 89.28,
+          "end": 91.76
+        },
+        {
+          "word": "a",
+          "start": 91.76,
+          "end": 92.7
+        },
+        {
+          "word": "todos",
+          "start": 92.7,
+          "end": 93.68
+        },
+        {
+          "word": "nos",
+          "start": 93.68,
+          "end": 94.5
+        },
+        {
+          "word": "dio,",
+          "start": 94.5,
+          "end": 95.42
+        }
+      ],
+      "start": 87.64,
+      "end": 96.26,
+      "confidence": 0.829,
+      "time": 87.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Contad hoy la historia de la redención;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "contado",
+          "start": 96.26,
+          "end": 97.72
+        },
+        {
+          "word": "la",
+          "start": 97.98,
+          "end": 98.26
+        },
+        {
+          "word": "historia",
+          "start": 98.26,
+          "end": 99.38
+        },
+        {
+          "word": "de",
+          "start": 99.38,
+          "end": 100.2
+        },
+        {
+          "word": "la",
+          "start": 100.2,
+          "end": 101.14
+        },
+        {
+          "word": "redención",
+          "start": 101.14,
+          "end": 102.84
+        }
+      ],
+      "start": 96.26,
+      "end": 102.84,
+      "confidence": 0.849,
+      "time": 96.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que todos los pueblos entonen canción.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 102.84,
+          "end": 104.0
+        },
+        {
+          "word": "todos",
+          "start": 104.0,
+          "end": 105.08
+        },
+        {
+          "word": "los",
+          "start": 105.08,
+          "end": 105.98
+        },
+        {
+          "word": "pueblos",
+          "start": 105.98,
+          "end": 107.42
+        },
+        {
+          "word": "en",
+          "start": 108.62,
+          "end": 109.02
+        },
+        {
+          "word": "canción.",
+          "start": 109.02,
+          "end": 110.6
+        }
+      ],
+      "start": 102.84,
+      "end": 110.6,
+      "confidence": 0.99,
+      "time": 102.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Exaltad a Jesús! Es el Rey y Señor.",
+      "words": [
+        {
+          "word": "altar",
+          "start": 111.6,
+          "end": 113.22
+        },
+        {
+          "word": "al",
+          "start": 113.22,
+          "end": 113.5
+        },
+        {
+          "word": "Jesús,",
+          "start": 113.5,
+          "end": 114.66
+        },
+        {
+          "word": "es",
+          "start": 115.5,
+          "end": 115.6
+        },
+        {
+          "word": "el",
+          "start": 115.6,
+          "end": 115.92
+        },
+        {
+          "word": "Rey",
+          "start": 115.92,
+          "end": 116.88
+        },
+        {
+          "word": "y",
+          "start": 116.88,
+          "end": 117.14
+        },
+        {
+          "word": "Señor,",
+          "start": 118.44,
+          "end": 118.56
+        }
+      ],
+      "start": 111.6,
+      "end": 119.38,
+      "confidence": 0.95,
+      "time": 111.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Alabad a Jesús! Es el buen Salvador.",
+      "words": [
+        {
+          "word": "alabar",
+          "start": 119.38,
+          "end": 121.02
+        },
+        {
+          "word": "al",
+          "start": 121.02,
+          "end": 121.32
+        },
+        {
+          "word": "Jesús,",
+          "start": 121.32,
+          "end": 122.4
+        },
+        {
+          "word": "es",
+          "start": 123.22,
+          "end": 123.26
+        },
+        {
+          "word": "el",
+          "start": 123.26,
+          "end": 123.5
+        },
+        {
+          "word": "buen",
+          "start": 123.5,
+          "end": 124.0
+        },
+        {
+          "word": "salvador.",
+          "start": 124.0,
+          "end": 126.28
+        }
+      ],
+      "start": 119.38,
+      "end": 126.28,
+      "confidence": 0.957,
+      "time": 119.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Load sobre todos su nombre inmortal.",
+      "words": [
+        {
+          "word": "Loar",
+          "start": 126.28,
+          "end": 128.46
+        },
+        {
+          "word": "sobre",
+          "start": 128.46,
+          "end": 129.16
+        },
+        {
+          "word": "todo",
+          "start": 129.16,
+          "end": 130.26
+        },
+        {
+          "word": "su",
+          "start": 130.26,
+          "end": 131.02
+        },
+        {
+          "word": "nombre",
+          "start": 131.02,
+          "end": 132.2
+        },
+        {
+          "word": "mortal,",
+          "start": 132.2,
+          "end": 133.88
+        }
+      ],
+      "start": 126.28,
+      "end": 133.88,
+      "confidence": 0.951,
+      "time": 126.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Él salva a sus hijos del yugo del mal.",
+      "words": [
+        {
+          "word": "Él",
+          "start": 134.64,
+          "end": 135.04
+        },
+        {
+          "word": "salva",
+          "start": 135.04,
+          "end": 136.22
+        },
+        {
+          "word": "a",
+          "start": 136.22,
+          "end": 136.4
+        },
+        {
+          "word": "sus",
+          "start": 136.4,
+          "end": 137.16
+        },
+        {
+          "word": "hijos",
+          "start": 137.16,
+          "end": 138.06
+        },
+        {
+          "word": "del",
+          "start": 138.06,
+          "end": 138.76
+        },
+        {
+          "word": "jugo",
+          "start": 138.76,
+          "end": 140.34
+        },
+        {
+          "word": "de",
+          "start": 140.34,
+          "end": 141.0
+        }
+      ],
+      "start": 134.64,
+      "end": 142.58,
+      "confidence": 0.866,
+      "time": 134.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Ya sea en el canto o en dulce oración,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 153.88,
+          "end": 154.02
+        },
+        {
+          "word": "canal",
+          "start": 154.02,
+          "end": 155.02
+        },
+        {
+          "word": "en",
+          "start": 159.7,
+          "end": 159.7
+        }
+      ],
+      "start": 153.88,
+      "end": 159.7,
+      "confidence": 0.307,
+      "time": 153.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "load al sublime y fiel Redentor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 159.7,
+          "end": 159.7
+        }
+      ],
+      "start": 159.7,
+      "end": 172.56,
+      "confidence": 0.133,
+      "time": 159.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Que joven y anciano proclamen su amor;",
+      "verse": 3,
+      "start": 172.56,
+      "end": 172.76,
+      "confidence": 0.0,
+      "time": 172.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "que sordos y mudos le rindan loor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Que",
+          "start": 172.58,
+          "end": 174.78
+        },
+        {
+          "word": "todos",
+          "start": 174.78,
+          "end": 175.92
+        },
+        {
+          "word": "y",
+          "start": 175.92,
+          "end": 176.94
+        },
+        {
+          "word": "todos",
+          "start": 176.94,
+          "end": 178.1
+        },
+        {
+          "word": "rindan",
+          "start": 179.1,
+          "end": 180.42
+        }
+      ],
+      "start": 172.76,
+      "end": 172.96,
+      "confidence": 0.657,
+      "time": 172.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Exaltad a Jesús! Es el Rey y Señor.",
+      "words": [
+        {
+          "word": "a",
+          "start": 180.42,
+          "end": 180.42
+        },
+        {
+          "word": "Jesús",
+          "start": 184.34,
+          "end": 185.48
+        },
+        {
+          "word": "es",
+          "start": 185.48,
+          "end": 186.38
+        },
+        {
+          "word": "el",
+          "start": 186.38,
+          "end": 186.74
+        },
+        {
+          "word": "Rey",
+          "start": 186.74,
+          "end": 187.44
+        },
+        {
+          "word": "y",
+          "start": 187.44,
+          "end": 187.88
+        },
+        {
+          "word": "Señor",
+          "start": 188.36,
+          "end": 189.06
+        }
+      ],
+      "start": 180.42,
+      "end": 189.06,
+      "confidence": 0.875,
+      "time": 180.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Alabad a Jesús! Es el buen Salvador.",
+      "words": [
+        {
+          "word": "A",
+          "start": 189.28,
+          "end": 190.16
+        },
+        {
+          "word": "la",
+          "start": 190.16,
+          "end": 190.62
+        },
+        {
+          "word": "Jesús",
+          "start": 191.88,
+          "end": 193.08
+        },
+        {
+          "word": "es",
+          "start": 193.08,
+          "end": 193.92
+        },
+        {
+          "word": "el",
+          "start": 193.92,
+          "end": 194.22
+        },
+        {
+          "word": "buen",
+          "start": 194.22,
+          "end": 194.66
+        },
+        {
+          "word": "salvador",
+          "start": 194.66,
+          "end": 197.0
+        }
+      ],
+      "start": 189.28,
+      "end": 197.0,
+      "confidence": 0.963,
+      "time": 189.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Load sobre todos su nombre inmortal.",
+      "words": [
+        {
+          "word": "Lo",
+          "start": 197.0,
+          "end": 198.3
+        },
+        {
+          "word": "sobre",
+          "start": 199.18,
+          "end": 199.88
+        },
+        {
+          "word": "todo",
+          "start": 199.88,
+          "end": 200.96
+        },
+        {
+          "word": "su",
+          "start": 200.96,
+          "end": 201.68
+        },
+        {
+          "word": "nombre",
+          "start": 201.68,
+          "end": 202.94
+        },
+        {
+          "word": "mortal,",
+          "start": 202.94,
+          "end": 204.54
+        }
+      ],
+      "start": 197.0,
+      "end": 204.54,
+      "confidence": 0.966,
+      "time": 197.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Él salva a sus hijos del yugo del mal.",
+      "words": [
+        {
+          "word": "salva",
+          "start": 205.9,
+          "end": 207.1
+        },
+        {
+          "word": "sus",
+          "start": 207.1,
+          "end": 207.76
+        },
+        {
+          "word": "hijos",
+          "start": 207.76,
+          "end": 209.08
+        },
+        {
+          "word": "malestar.",
+          "start": 210.88,
+          "end": 212.82
+        }
+      ],
+      "start": 205.9,
+      "end": 212.82,
+      "confidence": 0.438,
+      "time": 205.9
+    }
+  ]
+}

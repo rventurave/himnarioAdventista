@@ -1,0 +1,963 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.982,
+  "language": "es",
+  "model": "medium",
+  "hymn": 72,
+  "source": "072 - Fue un milagro.mp3",
+  "duration": 183.04,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mi Padre omnipotente es;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 9.3,
+          "end": 10.7
+        },
+        {
+          "word": "Padre,",
+          "start": 10.7,
+          "end": 11.6
+        },
+        {
+          "word": "potentez,",
+          "start": 12.46,
+          "end": 14.7
+        }
+      ],
+      "start": 9.3,
+      "end": 15.18,
+      "confidence": 0.711,
+      "time": 9.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "negarlo no podré.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "negarlo",
+          "start": 15.18,
+          "end": 16.2
+        },
+        {
+          "word": "no",
+          "start": 16.2,
+          "end": 16.92
+        },
+        {
+          "word": "podré.",
+          "start": 16.92,
+          "end": 18.82
+        }
+      ],
+      "start": 15.18,
+      "end": 19.18,
+      "confidence": 1.0,
+      "time": 15.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Dios de milagros y poder,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 19.18,
+          "end": 19.7
+        },
+        {
+          "word": "de",
+          "start": 19.7,
+          "end": 20.34
+        },
+        {
+          "word": "milagros",
+          "start": 20.34,
+          "end": 21.92
+        },
+        {
+          "word": "y",
+          "start": 21.92,
+          "end": 22.42
+        },
+        {
+          "word": "poder,",
+          "start": 22.42,
+          "end": 23.36
+        }
+      ],
+      "start": 19.18,
+      "end": 23.92,
+      "confidence": 1.0,
+      "time": 19.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "doquier lo puedo ver.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "doquierlo",
+          "start": 23.92,
+          "end": 25.28
+        },
+        {
+          "word": "puedo",
+          "start": 25.28,
+          "end": 26.12
+        },
+        {
+          "word": "ver.",
+          "start": 26.12,
+          "end": 28.66
+        }
+      ],
+      "start": 23.92,
+      "end": 28.66,
+      "confidence": 0.735,
+      "time": 23.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Fue un milagro que los astros ordenó,",
+      "words": [
+        {
+          "word": "Fue",
+          "start": 28.66,
+          "end": 29.84
+        },
+        {
+          "word": "un",
+          "start": 29.84,
+          "end": 30.56
+        },
+        {
+          "word": "milagro",
+          "start": 30.56,
+          "end": 31.9
+        },
+        {
+          "word": "que",
+          "start": 31.9,
+          "end": 33.54
+        },
+        {
+          "word": "los",
+          "start": 33.54,
+          "end": 34.14
+        },
+        {
+          "word": "astros",
+          "start": 34.14,
+          "end": 35.44
+        },
+        {
+          "word": "ordenó,",
+          "start": 35.44,
+          "end": 37.54
+        }
+      ],
+      "start": 28.66,
+      "end": 38.58,
+      "confidence": 1.0,
+      "time": 28.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y este mundo en su sitio instaló.",
+      "words": [
+        {
+          "word": "y",
+          "start": 38.58,
+          "end": 38.76
+        },
+        {
+          "word": "este",
+          "start": 38.76,
+          "end": 39.72
+        },
+        {
+          "word": "mundo",
+          "start": 39.72,
+          "end": 40.8
+        },
+        {
+          "word": "en",
+          "start": 40.8,
+          "end": 42.48
+        },
+        {
+          "word": "su",
+          "start": 42.48,
+          "end": 43.04
+        },
+        {
+          "word": "sitio",
+          "start": 43.04,
+          "end": 44.26
+        },
+        {
+          "word": "instaló.",
+          "start": 44.26,
+          "end": 46.56
+        }
+      ],
+      "start": 38.58,
+      "end": 46.56,
+      "confidence": 1.0,
+      "time": 38.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Mas cuando me salvó y me redimió",
+      "words": [
+        {
+          "word": "Mas",
+          "start": 46.56,
+          "end": 47.44
+        },
+        {
+          "word": "cuando",
+          "start": 47.44,
+          "end": 48.42
+        },
+        {
+          "word": "me",
+          "start": 48.42,
+          "end": 50.0
+        },
+        {
+          "word": "salvó",
+          "start": 50.0,
+          "end": 51.88
+        },
+        {
+          "word": "y",
+          "start": 51.88,
+          "end": 52.46
+        },
+        {
+          "word": "me",
+          "start": 52.46,
+          "end": 53.96
+        },
+        {
+          "word": "redimió,",
+          "start": 53.96,
+          "end": 56.78
+        }
+      ],
+      "start": 46.56,
+      "end": 57.28,
+      "confidence": 1.0,
+      "time": 46.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "fue el mayor milagro de su amor.",
+      "words": [
+        {
+          "word": "fue",
+          "start": 57.28,
+          "end": 57.54
+        },
+        {
+          "word": "el",
+          "start": 57.54,
+          "end": 58.38
+        },
+        {
+          "word": "mayor",
+          "start": 58.38,
+          "end": 59.52
+        },
+        {
+          "word": "milagro",
+          "start": 59.52,
+          "end": 60.82
+        },
+        {
+          "word": "de",
+          "start": 60.82,
+          "end": 62.04
+        },
+        {
+          "word": "su",
+          "start": 62.04,
+          "end": 62.8
+        },
+        {
+          "word": "amor.",
+          "start": 62.8,
+          "end": 66.34
+        }
+      ],
+      "start": 57.28,
+      "end": 66.34,
+      "confidence": 1.0,
+      "time": 57.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si bien su gloria aquí mostró,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 66.34,
+          "end": 67.54
+        },
+        {
+          "word": "bien",
+          "start": 67.54,
+          "end": 68.06
+        },
+        {
+          "word": "su",
+          "start": 68.06,
+          "end": 68.62
+        },
+        {
+          "word": "gloria",
+          "start": 68.62,
+          "end": 69.64
+        },
+        {
+          "word": "aquí",
+          "start": 69.64,
+          "end": 70.18
+        },
+        {
+          "word": "mostró,",
+          "start": 70.18,
+          "end": 71.18
+        }
+      ],
+      "start": 66.34,
+      "end": 71.48,
+      "confidence": 1.0,
+      "time": 66.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "me cuesta comprender",
+      "verse": 2,
+      "words": [
+        {
+          "word": "me",
+          "start": 71.48,
+          "end": 72.0
+        },
+        {
+          "word": "cuesta",
+          "start": 72.0,
+          "end": 73.06
+        },
+        {
+          "word": "comprender",
+          "start": 73.06,
+          "end": 75.54
+        }
+      ],
+      "start": 71.48,
+      "end": 75.54,
+      "confidence": 1.0,
+      "time": 71.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "las maravillas de su amor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "las",
+          "start": 75.54,
+          "end": 76.5
+        },
+        {
+          "word": "maravillas",
+          "start": 76.5,
+          "end": 78.6
+        },
+        {
+          "word": "de",
+          "start": 78.6,
+          "end": 79.08
+        },
+        {
+          "word": "su",
+          "start": 79.08,
+          "end": 79.32
+        },
+        {
+          "word": "amor,",
+          "start": 79.32,
+          "end": 80.06
+        }
+      ],
+      "start": 75.54,
+      "end": 80.56,
+      "confidence": 1.0,
+      "time": 75.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "su trono y su poder.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "su",
+          "start": 80.56,
+          "end": 80.94
+        },
+        {
+          "word": "trono",
+          "start": 80.94,
+          "end": 81.74
+        },
+        {
+          "word": "y",
+          "start": 81.74,
+          "end": 82.04
+        },
+        {
+          "word": "su",
+          "start": 82.04,
+          "end": 82.66
+        },
+        {
+          "word": "poder.",
+          "start": 82.66,
+          "end": 85.48
+        }
+      ],
+      "start": 80.56,
+      "end": 85.48,
+      "confidence": 1.0,
+      "time": 80.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Fue un milagro que los astros ordenó,",
+      "words": [
+        {
+          "word": "Fue",
+          "start": 85.7,
+          "end": 86.58
+        },
+        {
+          "word": "un",
+          "start": 86.58,
+          "end": 87.34
+        },
+        {
+          "word": "milagro",
+          "start": 87.34,
+          "end": 88.58
+        },
+        {
+          "word": "que",
+          "start": 88.58,
+          "end": 90.18
+        },
+        {
+          "word": "los",
+          "start": 90.18,
+          "end": 90.84
+        },
+        {
+          "word": "astros",
+          "start": 90.84,
+          "end": 92.0
+        },
+        {
+          "word": "ordenó",
+          "start": 92.0,
+          "end": 94.24
+        }
+      ],
+      "start": 85.7,
+      "end": 94.24,
+      "confidence": 1.0,
+      "time": 85.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y este mundo en su sitio instaló.",
+      "words": [
+        {
+          "word": "y",
+          "start": 94.24,
+          "end": 95.24
+        },
+        {
+          "word": "este",
+          "start": 95.24,
+          "end": 96.38
+        },
+        {
+          "word": "mundo",
+          "start": 96.38,
+          "end": 97.46
+        },
+        {
+          "word": "en",
+          "start": 97.46,
+          "end": 99.16
+        },
+        {
+          "word": "su",
+          "start": 99.16,
+          "end": 99.76
+        },
+        {
+          "word": "sitio",
+          "start": 99.76,
+          "end": 100.94
+        },
+        {
+          "word": "instaló.",
+          "start": 100.94,
+          "end": 103.3
+        }
+      ],
+      "start": 94.24,
+      "end": 103.3,
+      "confidence": 1.0,
+      "time": 94.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Mas cuando me salvó y me redimió",
+      "words": [
+        {
+          "word": "Mas",
+          "start": 103.52,
+          "end": 104.26
+        },
+        {
+          "word": "cuando",
+          "start": 104.26,
+          "end": 105.24
+        },
+        {
+          "word": "me",
+          "start": 105.24,
+          "end": 106.66
+        },
+        {
+          "word": "salvó",
+          "start": 106.66,
+          "end": 108.46
+        },
+        {
+          "word": "y",
+          "start": 108.46,
+          "end": 109.2
+        },
+        {
+          "word": "me",
+          "start": 109.2,
+          "end": 110.72
+        },
+        {
+          "word": "redimió,",
+          "start": 110.72,
+          "end": 113.46
+        }
+      ],
+      "start": 103.52,
+      "end": 113.46,
+      "confidence": 1.0,
+      "time": 103.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "fue el mayor milagro de su amor.",
+      "words": [
+        {
+          "word": "fue",
+          "start": 114.0,
+          "end": 114.28
+        },
+        {
+          "word": "el",
+          "start": 114.28,
+          "end": 115.16
+        },
+        {
+          "word": "mayor",
+          "start": 115.16,
+          "end": 116.16
+        },
+        {
+          "word": "milagro",
+          "start": 116.16,
+          "end": 117.54
+        },
+        {
+          "word": "de",
+          "start": 117.54,
+          "end": 118.74
+        },
+        {
+          "word": "su",
+          "start": 118.74,
+          "end": 119.56
+        },
+        {
+          "word": "amor.",
+          "start": 119.56,
+          "end": 122.76
+        }
+      ],
+      "start": 114.0,
+      "end": 122.76,
+      "confidence": 1.0,
+      "time": 114.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "La Biblia me revela hoy",
+      "verse": 3,
+      "words": [
+        {
+          "word": "La",
+          "start": 122.76,
+          "end": 124.32
+        },
+        {
+          "word": "Biblia",
+          "start": 124.32,
+          "end": 125.28
+        },
+        {
+          "word": "me",
+          "start": 125.28,
+          "end": 126.44
+        },
+        {
+          "word": "revela",
+          "start": 126.44,
+          "end": 127.2
+        },
+        {
+          "word": "hoy",
+          "start": 127.2,
+          "end": 127.8
+        }
+      ],
+      "start": 122.76,
+      "end": 127.8,
+      "confidence": 1.0,
+      "time": 122.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "que todo lo creó;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 127.8,
+          "end": 128.72
+        },
+        {
+          "word": "todo",
+          "start": 128.72,
+          "end": 129.76
+        },
+        {
+          "word": "lo",
+          "start": 129.76,
+          "end": 130.56
+        },
+        {
+          "word": "creó,",
+          "start": 130.56,
+          "end": 132.44
+        }
+      ],
+      "start": 127.8,
+      "end": 132.92,
+      "confidence": 1.0,
+      "time": 127.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "las aves y la bella flor",
+      "verse": 3,
+      "words": [
+        {
+          "word": "las",
+          "start": 132.92,
+          "end": 133.36
+        },
+        {
+          "word": "aves",
+          "start": 133.36,
+          "end": 134.26
+        },
+        {
+          "word": "y",
+          "start": 134.26,
+          "end": 134.9
+        },
+        {
+          "word": "la",
+          "start": 134.9,
+          "end": 135.5
+        },
+        {
+          "word": "velia",
+          "start": 135.5,
+          "end": 136.06
+        },
+        {
+          "word": "flor",
+          "start": 136.06,
+          "end": 136.84
+        }
+      ],
+      "start": 132.92,
+      "end": 136.84,
+      "confidence": 0.96,
+      "time": 132.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "proclaman su amor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "proclaman",
+          "start": 136.84,
+          "end": 138.58
+        },
+        {
+          "word": "su",
+          "start": 138.58,
+          "end": 139.36
+        },
+        {
+          "word": "amor.",
+          "start": 139.36,
+          "end": 142.16
+        }
+      ],
+      "start": 136.84,
+      "end": 142.16,
+      "confidence": 1.0,
+      "time": 136.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Fue un milagro que los astros ordenó,",
+      "words": [
+        {
+          "word": "Fue",
+          "start": 142.16,
+          "end": 143.32
+        },
+        {
+          "word": "un",
+          "start": 143.32,
+          "end": 143.98
+        },
+        {
+          "word": "milagro",
+          "start": 143.98,
+          "end": 145.36
+        },
+        {
+          "word": "que",
+          "start": 145.36,
+          "end": 147.0
+        },
+        {
+          "word": "los",
+          "start": 147.0,
+          "end": 147.7
+        },
+        {
+          "word": "astros",
+          "start": 147.7,
+          "end": 148.68
+        },
+        {
+          "word": "ordenó",
+          "start": 148.68,
+          "end": 151.12
+        }
+      ],
+      "start": 142.16,
+      "end": 151.12,
+      "confidence": 1.0,
+      "time": 142.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y este mundo en su sitio instaló.",
+      "words": [
+        {
+          "word": "y",
+          "start": 151.12,
+          "end": 152.2
+        },
+        {
+          "word": "este",
+          "start": 152.2,
+          "end": 153.1
+        },
+        {
+          "word": "mundo",
+          "start": 153.1,
+          "end": 154.24
+        },
+        {
+          "word": "en",
+          "start": 154.24,
+          "end": 155.94
+        },
+        {
+          "word": "su",
+          "start": 155.94,
+          "end": 156.54
+        },
+        {
+          "word": "sitio",
+          "start": 156.54,
+          "end": 157.62
+        },
+        {
+          "word": "instaló",
+          "start": 157.62,
+          "end": 160.12
+        }
+      ],
+      "start": 151.12,
+      "end": 160.12,
+      "confidence": 1.0,
+      "time": 151.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Mas cuando me salvó y me redimió",
+      "words": [
+        {
+          "word": "más",
+          "start": 160.12,
+          "end": 160.94
+        },
+        {
+          "word": "cuando",
+          "start": 160.94,
+          "end": 161.9
+        },
+        {
+          "word": "me",
+          "start": 161.9,
+          "end": 163.28
+        },
+        {
+          "word": "salvó",
+          "start": 163.28,
+          "end": 165.22
+        },
+        {
+          "word": "y",
+          "start": 165.22,
+          "end": 165.96
+        },
+        {
+          "word": "me",
+          "start": 165.96,
+          "end": 167.46
+        },
+        {
+          "word": "redimió",
+          "start": 167.46,
+          "end": 170.3
+        }
+      ],
+      "start": 160.12,
+      "end": 170.3,
+      "confidence": 1.0,
+      "time": 160.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "fue el mayor milagro de su amor.",
+      "words": [
+        {
+          "word": "Fue",
+          "start": 170.3,
+          "end": 171.36
+        },
+        {
+          "word": "el",
+          "start": 171.36,
+          "end": 171.84
+        },
+        {
+          "word": "mayor",
+          "start": 171.84,
+          "end": 172.9
+        },
+        {
+          "word": "milagro",
+          "start": 172.9,
+          "end": 174.28
+        },
+        {
+          "word": "de",
+          "start": 174.28,
+          "end": 175.5
+        },
+        {
+          "word": "su",
+          "start": 175.5,
+          "end": 176.12
+        },
+        {
+          "word": "amor.",
+          "start": 176.12,
+          "end": 178.88
+        }
+      ],
+      "start": 170.3,
+      "end": 178.88,
+      "confidence": 1.0,
+      "time": 170.3
+    }
+  ]
+}

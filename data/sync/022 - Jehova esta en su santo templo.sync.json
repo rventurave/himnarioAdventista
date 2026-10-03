@@ -1,0 +1,147 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.337,
+  "language": "es",
+  "model": "medium",
+  "hymn": 22,
+  "source": "022 - Jehova esta en su santo templo.mp3",
+  "duration": 85.76,
+  "needsReview": true,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jehová está en su santo templo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 1.9,
+          "end": 3.12
+        },
+        {
+          "word": "en",
+          "start": 4.02,
+          "end": 4.04
+        },
+        {
+          "word": "Santos",
+          "start": 4.08,
+          "end": 4.08
+        }
+      ],
+      "start": 1.9,
+      "end": 29.98,
+      "confidence": 0.48,
+      "time": 1.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jehová está en su santo templo;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 31.72,
+          "end": 38.12
+        },
+        {
+          "word": "en",
+          "start": 39.56,
+          "end": 39.56
+        },
+        {
+          "word": "español",
+          "start": 39.56,
+          "end": 39.56
+        }
+      ],
+      "start": 31.72,
+      "end": 39.56,
+      "confidence": 0.457,
+      "time": 31.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "seamos reverentes,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Santos",
+          "start": 39.56,
+          "end": 39.56
+        }
+      ],
+      "start": 39.56,
+      "end": 59.98,
+      "confidence": 0.4,
+      "time": 39.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "seamos reverentes",
+      "verse": 1,
+      "start": 59.98,
+      "end": 60.73,
+      "confidence": 0.0,
+      "time": 59.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ante el Señor.",
+      "verse": 1,
+      "start": 60.73,
+      "end": 61.49,
+      "confidence": 0.0,
+      "time": 60.73
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Silencio!, ¡silencio!,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "silencio",
+          "start": 62.24,
+          "end": 65.18
+        }
+      ],
+      "start": 61.49,
+      "end": 62.24,
+      "confidence": 0.5,
+      "time": 61.49
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ante el Señor.",
+      "verse": 1,
+      "start": 62.24,
+      "end": 72.07,
+      "confidence": 0.0,
+      "time": 62.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Amén.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Amén.",
+          "start": 81.9,
+          "end": 83.3
+        }
+      ],
+      "start": 72.07,
+      "end": 81.9,
+      "confidence": 1.0,
+      "time": 72.07
+    }
+  ]
+}

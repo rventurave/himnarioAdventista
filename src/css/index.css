@@ -37,7 +37,7 @@ body {
    TITULO
 ======================================== */
 
-body > p {
+.app-title {
   margin-bottom: 35px;
 
   color: #d4af37;
@@ -237,7 +237,7 @@ button:active {
     padding: 20px;
   }
 
-  body > p {
+  .app-title {
     margin-bottom: 25px;
 
     font-size: 2.4rem;
@@ -445,8 +445,6 @@ button:active {
 @media (max-width: 600px) {
   #search-suggestions {
     top: calc(100% + 6px);
-
-    border-radius: 12px;
   }
 
   .suggestion-item {
@@ -458,4 +456,695 @@ button:active {
   .suggestion-title {
     font-size: 0.95rem;
   }
+}
+/* ========================================
+   SELECTOR
+======================================== */
+
+.selector {
+  position: relative;
+  width: 50px;
+}
+
+/* ========================================
+   BOTÓN PRINCIPAL
+======================================== */
+
+.selector-btn {
+  width: 50px;
+  height: 50px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 0;
+  border: none;
+  background: #000000;
+
+  cursor: pointer;
+}
+
+/* Imagen del botón principal */
+.selector-btn img {
+  width: 60px;
+  height: 60px;
+
+  object-fit: contain;
+
+  padding: 0;
+  border: none;
+  background: transparent;
+
+  transition: transform 0.2s ease;
+}
+
+/* Efecto al pasar el mouse */
+.selector-btn:hover img {
+  transform: scale(1.05);
+}
+
+/* ========================================
+   MENÚ DESPLEGABLE
+======================================== */
+
+.opciones {
+  display: none;
+
+  position: absolute;
+
+  top: 55px;
+  left: 0;
+
+  width: 50px;
+
+  padding: 5px;
+
+  background-color: #ffffff;
+
+  border-radius: 8px;
+
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+
+  z-index: 1000;
+}
+
+/* ========================================
+   MENÚ ABIERTO
+======================================== */
+
+.selector.abierto .opciones {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 5px;
+}
+
+/* ========================================
+   CADA OPCIÓN
+======================================== */
+
+.opcion {
+  width: 50px;
+  height: 50px;
+
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+
+  padding: 0;
+
+  cursor: pointer;
+
+  border-radius: 8px;
+}
+
+/* ========================================
+   IMAGEN DE CADA OPCIÓN
+======================================== */
+
+.opcion img {
+  width: 40px;
+  height: 40px;
+
+  object-fit: contain;
+
+  padding: 8px;
+
+  border-radius: 8px;
+
+  background-color: #9d00ff;
+
+  transition:
+    transform 0.2s ease,
+    background-color 0.2s ease;
+}
+
+/* ========================================
+   EFECTO HOVER
+======================================== */
+
+.opcion:hover img {
+  transform: scale(1.1);
+
+  background-color: #9d00ff;
+}
+
+/* ========================================
+   SHELL SPA (INICIO / HIMNO)
+======================================== */
+
+[hidden] {
+  display: none !important;
+}
+
+#app {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#view-home {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#view-hymn {
+  width: 100%;
+  min-height: calc(100vh - 40px);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* ========================================
+   BARRA SUPERIOR DEL HIMNO
+======================================== */
+
+.hymn-topbar {
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  gap: 16px;
+
+  margin-bottom: 18px;
+}
+
+.hymn-heading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  gap: 4px;
+
+  text-align: center;
+}
+
+.hymn-number {
+  font-family: "Roboto", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 700;
+
+  color: #d4af37;
+}
+
+.hymn-title {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: clamp(1.3rem, 3vw, 2.2rem);
+  font-weight: 700;
+
+  color: #ffffff;
+
+  text-align: center;
+}
+
+.hymn-reference {
+  font-family: "Roboto", sans-serif;
+  font-size: 0.85rem;
+
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.hymn-icon-btn {
+  width: auto;
+  height: auto;
+
+  padding: 10px 16px;
+
+  border-radius: 10px;
+
+  background: rgba(0, 0, 0, 0.35);
+
+  color: #ffffff;
+
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 500;
+
+  white-space: nowrap;
+}
+
+.hymn-icon-btn:hover {
+  background: #9d00ff;
+
+  transform: translateY(-1px);
+}
+
+/* ========================================
+   AVISO DISCRETO
+======================================== */
+
+.hymn-notice {
+  margin: 8px 0;
+
+  padding: 8px 16px;
+
+  border-radius: 999px;
+
+  background: rgba(0, 0, 0, 0.4);
+
+  color: #ffe08a;
+
+  font-family: "Roboto", sans-serif;
+  font-size: 0.9rem;
+
+  text-align: center;
+}
+
+/* ========================================
+   CONTENIDO PRINCIPAL
+======================================== */
+
+.hymn-content {
+  position: relative;
+
+  flex: 1;
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  gap: 30px;
+
+  padding: 20px 0;
+
+  overflow-x: hidden;
+}
+
+/* ========================================
+   PRESENTACIÓN INICIAL (NÚMERO + TÍTULO)
+======================================== */
+
+/* Capa superpuesta: no ocupa espacio ni bloquea los clics de debajo. */
+.hymn-intro {
+  position: absolute;
+
+  inset: 0;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  gap: clamp(8px, 1.6vw, 18px);
+
+  max-width: 100%;
+
+  padding: 0 20px;
+
+  pointer-events: none;
+
+  text-align: center;
+
+  opacity: 0;
+  transform: translateY(20px);
+
+  transition:
+    opacity 0.5s ease,
+    transform 0.5s ease;
+}
+
+.hymn-intro.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.intro-number {
+  font-family: "Roboto", sans-serif;
+  font-size: clamp(1rem, 2.2vw, 1.6rem);
+  font-weight: 700;
+
+  letter-spacing: 0.14em;
+
+  color: #d4af37;
+}
+
+.intro-title {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: clamp(2rem, 6vw, 5rem);
+  font-weight: 700;
+
+  line-height: 1.15;
+
+  color: #ffffff;
+
+  text-shadow: 0 4px 28px rgba(0, 0, 0, 0.65);
+
+  overflow-wrap: break-word;
+}
+
+/* ========================================
+   LETRA (FRASE ACTUAL / SIGUIENTE)
+======================================== */
+
+.lyrics-stage {
+  width: min(100%, 1100px);
+
+  padding: 0 16px;
+
+  text-align: center;
+}
+
+.lyric-current {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: clamp(2rem, 5.5vw, 4.5rem);
+  font-weight: 600;
+
+  line-height: 1.25;
+  white-space: pre-line;
+
+  color: #ffffff;
+
+  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.6);
+}
+
+.lyric-current.lyric-enter {
+  animation: lyric-in 0.35s ease;
+}
+
+.lyric-next {
+  margin-top: 24px;
+
+  font-family: "Josefin Sans", sans-serif;
+  font-size: clamp(1.2rem, 3vw, 2.4rem);
+  font-weight: 500;
+
+  line-height: 1.25;
+  white-space: pre-line;
+
+  color: #ffffff;
+  opacity: 0.35;
+
+  transition: opacity 0.35s ease;
+}
+
+@keyframes lyric-in {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ========================================
+   LETRA COMPLETA (LISTA SINCRONIZADA)
+======================================== */
+
+.lyrics-list {
+  width: min(100%, 1100px);
+  max-height: 68vh;
+
+  overflow-y: auto;
+
+  list-style: none;
+
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  padding: 10px 20px;
+}
+
+.lyric-line {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: clamp(1.2rem, 2.6vw, 2rem);
+  font-weight: 500;
+
+  color: #ffffff;
+  opacity: 0.4;
+
+  text-align: center;
+
+  cursor: pointer;
+
+  transition:
+    opacity 0.3s ease,
+    transform 0.3s ease,
+    color 0.3s ease;
+}
+
+.lyric-line:hover {
+  opacity: 0.75;
+}
+
+.lyric-line.active {
+  opacity: 1;
+
+  font-weight: 700;
+
+  color: #d4af37;
+
+  transform: scale(1.03);
+}
+
+/* ========================================
+   NAVEGACIÓN (FLECHAS DISCRETAS)
+======================================== */
+
+.hymn-nav {
+  width: 100%;
+
+  margin-top: auto;
+
+  padding: 0 clamp(12px, 3vw, 44px);
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hymn-arrow {
+  width: 46px;
+  height: 46px;
+
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 50%;
+
+  background: rgba(255, 255, 255, 0.08);
+
+  color: #ffffff;
+  opacity: 0.6;
+
+  font-size: 1.25rem;
+
+  transition:
+    opacity 0.2s ease,
+    background 0.2s ease,
+    transform 0.2s ease;
+}
+
+.hymn-arrow:hover {
+  opacity: 1;
+
+  background: #9d00ff;
+
+  transform: translateY(-1px);
+}
+
+.hymn-counter {
+  min-width: 72px;
+
+  font-family: "Roboto", sans-serif;
+  font-size: 0.9rem;
+
+  color: rgba(255, 255, 255, 0.7);
+
+  text-align: center;
+}
+
+/* ========================================
+   AUDIO OCULTO
+   El <audio> existe para reproducir, pero no muestra controles nativos.
+======================================== */
+
+.hymn-audio-hidden {
+  display: none;
+}
+
+/* ========================================
+   AUTOPLAY BLOQUEADO
+======================================== */
+
+.hymn-start {
+  width: auto;
+  height: auto;
+
+  padding: 14px 32px;
+
+  border-radius: 14px;
+
+  background: #9d00ff;
+
+  color: #ffffff;
+
+  font-family: "Josefin Sans", sans-serif;
+  font-size: clamp(1rem, 2vw, 1.3rem);
+  font-weight: 600;
+
+  box-shadow: 0 12px 34px rgba(0, 0, 0, 0.4);
+
+  transition:
+    background 0.2s ease,
+    transform 0.2s ease;
+}
+
+.hymn-start:hover {
+  background: #fc0808;
+
+  transform: translateY(-1px);
+}
+
+/* ========================================
+   INDICADOR PLAY / PAUSA (SPACE)
+======================================== */
+
+.hymn-state-icon {
+  position: fixed;
+
+  inset: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  pointer-events: none;
+
+  font-size: clamp(3rem, 10vw, 7rem);
+
+  color: rgba(255, 255, 255, 0.9);
+
+  opacity: 0;
+
+  transition: opacity 0.25s ease;
+}
+
+.hymn-state-icon.visible {
+  opacity: 1;
+}
+
+/* ========================================
+   HIMNO NO ENCONTRADO
+======================================== */
+
+.hymn-notfound {
+  margin-top: 60px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  gap: 20px;
+}
+
+.hymn-notfound-title {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: clamp(1.6rem, 4vw, 2.6rem);
+  font-weight: 700;
+
+  color: #ffffff;
+}
+
+.hymn-home-btn {
+  width: auto;
+  height: auto;
+
+  padding: 12px 24px;
+
+  border-radius: 12px;
+
+  background: #9d00ff;
+
+  color: #ffffff;
+
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.hymn-home-btn:hover {
+  background: #fc0808;
+}
+
+/* ========================================
+   PANTALLA COMPLETA
+======================================== */
+
+:fullscreen .lyric-current {
+  font-size: clamp(2.5rem, 6vw, 6rem);
+}
+
+:fullscreen .intro-title {
+  font-size: clamp(2.5rem, 6.5vw, 6rem);
+}
+
+/* ========================================
+   RESPONSIVE VISTA HIMNO
+======================================== */
+
+@media (max-width: 600px) {
+  .hymn-topbar {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .hymn-icon-btn {
+    font-size: 0.8rem;
+  }
+
+  .hymn-nav {
+    padding: 0 14px;
+  }
+
+  .hymn-arrow {
+    width: 40px;
+    height: 40px;
+
+    font-size: 1.1rem;
+  }
+
+  .hymn-content {
+    gap: 22px;
+  }
+}
+
+
+.lyric-section {
+  position: fixed;
+  top: 90px;
+  right: 24px;
+  padding: 6px 12px;
+  border-radius: 20px;
+  background: rgba(0, 0, 0, 0.3);
+  color: rgba(255, 255, 255, 0.8);
+  font-size: clamp(0.75rem, 1.5vw, 0.95rem);
+  letter-spacing: 0.04em;
+}
+
+.lyric-previous {
+  margin-bottom: 20px;
+  font-size: clamp(1rem, 2vw, 1.6rem);
+  opacity: 0.22;
+  white-space: pre-line;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .lyric-current.lyric-enter { animation: none; }
+  .lyric-next { transition: none; }
 }

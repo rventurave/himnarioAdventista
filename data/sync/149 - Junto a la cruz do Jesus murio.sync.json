@@ -1,0 +1,1165 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.98,
+  "language": "es",
+  "model": "medium",
+  "hymn": 149,
+  "source": "149 - Junto a la cruz do Jesus murio.mp3",
+  "duration": 188.06,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Junto a la cruz do Jesús murió,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Junto",
+          "start": 20.5,
+          "end": 21.54
+        },
+        {
+          "word": "a",
+          "start": 21.54,
+          "end": 21.88
+        },
+        {
+          "word": "la",
+          "start": 21.88,
+          "end": 22.16
+        },
+        {
+          "word": "cruz",
+          "start": 22.16,
+          "end": 22.68
+        },
+        {
+          "word": "do",
+          "start": 22.68,
+          "end": 22.98
+        },
+        {
+          "word": "Jesús",
+          "start": 22.98,
+          "end": 23.8
+        },
+        {
+          "word": "murió",
+          "start": 23.8,
+          "end": 25.46
+        }
+      ],
+      "start": 20.5,
+      "end": 25.46,
+      "confidence": 1.0,
+      "time": 20.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "do por su gracia clamaba yo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Do",
+          "start": 25.46,
+          "end": 26.32
+        },
+        {
+          "word": "por",
+          "start": 26.32,
+          "end": 26.74
+        },
+        {
+          "word": "su",
+          "start": 26.74,
+          "end": 27.02
+        },
+        {
+          "word": "gracia",
+          "start": 27.02,
+          "end": 28.02
+        },
+        {
+          "word": "clamaba",
+          "start": 28.02,
+          "end": 29.42
+        },
+        {
+          "word": "yo",
+          "start": 29.42,
+          "end": 30.54
+        }
+      ],
+      "start": 25.46,
+      "end": 30.54,
+      "confidence": 1.0,
+      "time": 25.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mis manchas su sangre allí quitó:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "mis",
+          "start": 30.54,
+          "end": 31.34
+        },
+        {
+          "word": "manchas,",
+          "start": 31.34,
+          "end": 31.98
+        },
+        {
+          "word": "su",
+          "start": 32.68,
+          "end": 32.68
+        },
+        {
+          "word": "sangre",
+          "start": 32.68,
+          "end": 33.28
+        },
+        {
+          "word": "riquito",
+          "start": 33.28,
+          "end": 35.46
+        }
+      ],
+      "start": 30.54,
+      "end": 35.46,
+      "confidence": 0.817,
+      "time": 30.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡a su nombre gloria!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 35.46,
+          "end": 36.76
+        },
+        {
+          "word": "su",
+          "start": 36.76,
+          "end": 37.06
+        },
+        {
+          "word": "nombre",
+          "start": 37.06,
+          "end": 38.16
+        },
+        {
+          "word": "gloria,",
+          "start": 38.16,
+          "end": 40.42
+        }
+      ],
+      "start": 35.46,
+      "end": 40.42,
+      "confidence": 1.0,
+      "time": 35.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡A su nombre gloria!",
+      "words": [
+        {
+          "word": "a",
+          "start": 40.42,
+          "end": 41.7
+        },
+        {
+          "word": "su",
+          "start": 41.7,
+          "end": 42.12
+        },
+        {
+          "word": "nombre",
+          "start": 42.12,
+          "end": 43.14
+        },
+        {
+          "word": "gloria,",
+          "start": 43.14,
+          "end": 45.64
+        }
+      ],
+      "start": 40.42,
+      "end": 45.64,
+      "confidence": 1.0,
+      "time": 40.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡A su nombre gloria!",
+      "words": [
+        {
+          "word": "a",
+          "start": 45.84,
+          "end": 46.76
+        },
+        {
+          "word": "su",
+          "start": 46.76,
+          "end": 47.16
+        },
+        {
+          "word": "nombre",
+          "start": 47.16,
+          "end": 48.14
+        },
+        {
+          "word": "gloria.",
+          "start": 48.14,
+          "end": 50.66
+        }
+      ],
+      "start": 45.84,
+      "end": 50.66,
+      "confidence": 1.0,
+      "time": 45.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cristo Jesús es mi Salvador:",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 50.66,
+          "end": 51.7
+        },
+        {
+          "word": "Jesús",
+          "start": 51.7,
+          "end": 52.78
+        },
+        {
+          "word": "es",
+          "start": 52.78,
+          "end": 53.26
+        },
+        {
+          "word": "mi",
+          "start": 53.26,
+          "end": 53.48
+        },
+        {
+          "word": "salvador,",
+          "start": 53.48,
+          "end": 55.74
+        }
+      ],
+      "start": 50.66,
+      "end": 56.38,
+      "confidence": 1.0,
+      "time": 50.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡a su nombre gloria!",
+      "words": [
+        {
+          "word": "a",
+          "start": 56.38,
+          "end": 56.98
+        },
+        {
+          "word": "su",
+          "start": 56.98,
+          "end": 57.18
+        },
+        {
+          "word": "nombre",
+          "start": 57.18,
+          "end": 58.34
+        },
+        {
+          "word": "gloria.",
+          "start": 58.34,
+          "end": 60.94
+        }
+      ],
+      "start": 56.38,
+      "end": 60.94,
+      "confidence": 1.0,
+      "time": 56.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cuando por fe en la cruz lo vi,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 62.08,
+          "end": 63.08
+        },
+        {
+          "word": "por",
+          "start": 63.08,
+          "end": 63.72
+        },
+        {
+          "word": "fe",
+          "start": 63.72,
+          "end": 64.42
+        },
+        {
+          "word": "la",
+          "start": 64.42,
+          "end": 64.72
+        },
+        {
+          "word": "cruz",
+          "start": 64.72,
+          "end": 65.36
+        },
+        {
+          "word": "lo",
+          "start": 65.36,
+          "end": 66.04
+        },
+        {
+          "word": "vi,",
+          "start": 66.04,
+          "end": 66.76
+        }
+      ],
+      "start": 62.08,
+      "end": 67.68,
+      "confidence": 0.875,
+      "time": 62.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de mis pecados salvado fui,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 67.68,
+          "end": 67.92
+        },
+        {
+          "word": "mis",
+          "start": 67.92,
+          "end": 68.3
+        },
+        {
+          "word": "pecados",
+          "start": 68.3,
+          "end": 69.52
+        },
+        {
+          "word": "salvado",
+          "start": 69.52,
+          "end": 70.94
+        },
+        {
+          "word": "fui,",
+          "start": 70.94,
+          "end": 71.78
+        }
+      ],
+      "start": 67.68,
+      "end": 71.78,
+      "confidence": 1.0,
+      "time": 67.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hoy él me guarda y mora en mí;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 71.78,
+          "end": 72.9
+        },
+        {
+          "word": "Él",
+          "start": 72.9,
+          "end": 73.32
+        },
+        {
+          "word": "me",
+          "start": 73.32,
+          "end": 73.66
+        },
+        {
+          "word": "guarda",
+          "start": 73.66,
+          "end": 74.62
+        },
+        {
+          "word": "y",
+          "start": 74.62,
+          "end": 75.18
+        },
+        {
+          "word": "mora",
+          "start": 75.18,
+          "end": 75.86
+        },
+        {
+          "word": "en",
+          "start": 75.86,
+          "end": 76.26
+        },
+        {
+          "word": "mí,",
+          "start": 76.26,
+          "end": 77.06
+        }
+      ],
+      "start": 71.78,
+      "end": 77.56,
+      "confidence": 1.0,
+      "time": 71.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡a su nombre gloria!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 77.56,
+          "end": 78.32
+        },
+        {
+          "word": "Su",
+          "start": 78.32,
+          "end": 78.66
+        },
+        {
+          "word": "nombre",
+          "start": 78.66,
+          "end": 79.56
+        },
+        {
+          "word": "gloria,",
+          "start": 79.56,
+          "end": 82.06
+        }
+      ],
+      "start": 77.56,
+      "end": 82.62,
+      "confidence": 1.0,
+      "time": 77.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡A su nombre gloria!",
+      "words": [
+        {
+          "word": "a",
+          "start": 82.62,
+          "end": 83.06
+        },
+        {
+          "word": "Su",
+          "start": 83.06,
+          "end": 83.68
+        },
+        {
+          "word": "nombre",
+          "start": 83.68,
+          "end": 84.5
+        },
+        {
+          "word": "gloria,",
+          "start": 84.5,
+          "end": 87.04
+        }
+      ],
+      "start": 82.62,
+      "end": 87.3,
+      "confidence": 1.0,
+      "time": 82.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡A su nombre gloria!",
+      "words": [
+        {
+          "word": "a",
+          "start": 87.3,
+          "end": 88.04
+        },
+        {
+          "word": "Su",
+          "start": 88.04,
+          "end": 88.64
+        },
+        {
+          "word": "nombre",
+          "start": 88.64,
+          "end": 89.6
+        },
+        {
+          "word": "gloria.",
+          "start": 89.6,
+          "end": 92.06
+        }
+      ],
+      "start": 87.3,
+      "end": 92.06,
+      "confidence": 1.0,
+      "time": 87.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cristo Jesús es mi Salvador:",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 92.06,
+          "end": 93.28
+        },
+        {
+          "word": "Jesús",
+          "start": 93.28,
+          "end": 94.22
+        },
+        {
+          "word": "es",
+          "start": 94.22,
+          "end": 94.82
+        },
+        {
+          "word": "mi",
+          "start": 94.82,
+          "end": 95.02
+        },
+        {
+          "word": "Salvador,",
+          "start": 95.02,
+          "end": 96.94
+        }
+      ],
+      "start": 92.06,
+      "end": 98.0,
+      "confidence": 1.0,
+      "time": 92.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡a su nombre gloria!",
+      "words": [
+        {
+          "word": "a",
+          "start": 98.0,
+          "end": 98.48
+        },
+        {
+          "word": "su",
+          "start": 98.48,
+          "end": 98.74
+        },
+        {
+          "word": "nombre",
+          "start": 98.74,
+          "end": 99.68
+        },
+        {
+          "word": "gloria.",
+          "start": 99.68,
+          "end": 102.38
+        }
+      ],
+      "start": 98.0,
+      "end": 102.38,
+      "confidence": 1.0,
+      "time": 98.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Fuente preciosa de salvación!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Puente",
+          "start": 102.98,
+          "end": 103.9
+        },
+        {
+          "word": "preciosa",
+          "start": 103.9,
+          "end": 105.12
+        },
+        {
+          "word": "de",
+          "start": 105.12,
+          "end": 105.6
+        },
+        {
+          "word": "salvación,",
+          "start": 105.6,
+          "end": 107.66
+        }
+      ],
+      "start": 102.98,
+      "end": 108.34,
+      "confidence": 0.975,
+      "time": 102.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Gozo en ti halla mi corazón;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "gozo",
+          "start": 108.34,
+          "end": 108.78
+        },
+        {
+          "word": "en",
+          "start": 108.78,
+          "end": 109.14
+        },
+        {
+          "word": "ti,",
+          "start": 109.14,
+          "end": 109.62
+        },
+        {
+          "word": "mi",
+          "start": 110.28,
+          "end": 110.9
+        },
+        {
+          "word": "corazón.",
+          "start": 110.9,
+          "end": 112.52
+        }
+      ],
+      "start": 108.34,
+      "end": 112.52,
+      "confidence": 0.833,
+      "time": 108.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en ti, Jesús salva y da perdón:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 112.52,
+          "end": 113.46
+        },
+        {
+          "word": "Ti,",
+          "start": 113.46,
+          "end": 114.02
+        },
+        {
+          "word": "Jesús,",
+          "start": 114.12,
+          "end": 114.86
+        },
+        {
+          "word": "salva",
+          "start": 115.16,
+          "end": 115.52
+        },
+        {
+          "word": "y",
+          "start": 115.52,
+          "end": 115.86
+        },
+        {
+          "word": "da",
+          "start": 115.86,
+          "end": 116.18
+        },
+        {
+          "word": "perdón",
+          "start": 116.18,
+          "end": 117.98
+        }
+      ],
+      "start": 112.52,
+      "end": 117.98,
+      "confidence": 1.0,
+      "time": 112.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡a su nombre gloria!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 117.98,
+          "end": 119.08
+        },
+        {
+          "word": "su",
+          "start": 119.08,
+          "end": 119.3
+        },
+        {
+          "word": "nombre",
+          "start": 119.3,
+          "end": 120.4
+        },
+        {
+          "word": "gloria,",
+          "start": 120.4,
+          "end": 122.72
+        }
+      ],
+      "start": 117.98,
+      "end": 122.72,
+      "confidence": 1.0,
+      "time": 117.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡A su nombre gloria!",
+      "words": [
+        {
+          "word": "a",
+          "start": 122.72,
+          "end": 124.0
+        },
+        {
+          "word": "su",
+          "start": 124.0,
+          "end": 124.32
+        },
+        {
+          "word": "nombre",
+          "start": 124.32,
+          "end": 125.26
+        },
+        {
+          "word": "gloria,",
+          "start": 125.26,
+          "end": 127.88
+        }
+      ],
+      "start": 122.72,
+      "end": 128.04,
+      "confidence": 1.0,
+      "time": 122.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡A su nombre gloria!",
+      "words": [
+        {
+          "word": "a",
+          "start": 128.04,
+          "end": 129.0
+        },
+        {
+          "word": "su",
+          "start": 129.0,
+          "end": 129.3
+        },
+        {
+          "word": "nombre",
+          "start": 129.3,
+          "end": 130.3
+        },
+        {
+          "word": "gloria.",
+          "start": 130.3,
+          "end": 132.88
+        }
+      ],
+      "start": 128.04,
+      "end": 132.88,
+      "confidence": 1.0,
+      "time": 128.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cristo Jesús es mi Salvador:",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 132.88,
+          "end": 134.06
+        },
+        {
+          "word": "Jesús",
+          "start": 134.06,
+          "end": 135.12
+        },
+        {
+          "word": "es",
+          "start": 135.12,
+          "end": 135.5
+        },
+        {
+          "word": "mi",
+          "start": 135.5,
+          "end": 135.84
+        },
+        {
+          "word": "salvador,",
+          "start": 135.84,
+          "end": 137.92
+        }
+      ],
+      "start": 132.88,
+      "end": 138.92,
+      "confidence": 1.0,
+      "time": 132.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡a su nombre gloria!",
+      "words": [
+        {
+          "word": "a",
+          "start": 138.92,
+          "end": 139.2
+        },
+        {
+          "word": "su",
+          "start": 139.2,
+          "end": 139.52
+        },
+        {
+          "word": "nombre",
+          "start": 139.52,
+          "end": 140.5
+        },
+        {
+          "word": "gloria.",
+          "start": 140.5,
+          "end": 143.36
+        }
+      ],
+      "start": 138.92,
+      "end": 143.36,
+      "confidence": 1.0,
+      "time": 138.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "¡Ven a esta fuente, oh pecador!",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Ven",
+          "start": 144.54,
+          "end": 144.94
+        },
+        {
+          "word": "a",
+          "start": 144.94,
+          "end": 145.26
+        },
+        {
+          "word": "esta",
+          "start": 145.26,
+          "end": 145.48
+        },
+        {
+          "word": "fuente,",
+          "start": 145.48,
+          "end": 146.46
+        },
+        {
+          "word": "oh",
+          "start": 146.62,
+          "end": 147.04
+        },
+        {
+          "word": "pecador,",
+          "start": 147.04,
+          "end": 148.88
+        }
+      ],
+      "start": 144.54,
+      "end": 149.66,
+      "confidence": 1.0,
+      "time": 144.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Ponte a los pies de tu Salvador;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "ponte",
+          "start": 149.66,
+          "end": 150.0
+        },
+        {
+          "word": "a",
+          "start": 150.0,
+          "end": 150.36
+        },
+        {
+          "word": "los",
+          "start": 150.36,
+          "end": 150.64
+        },
+        {
+          "word": "pies",
+          "start": 150.64,
+          "end": 151.1
+        },
+        {
+          "word": "de",
+          "start": 151.1,
+          "end": 151.6
+        },
+        {
+          "word": "tu",
+          "start": 151.6,
+          "end": 151.82
+        },
+        {
+          "word": "salvador,",
+          "start": 151.82,
+          "end": 153.86
+        }
+      ],
+      "start": 149.66,
+      "end": 153.86,
+      "confidence": 1.0,
+      "time": 149.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "te colmará de su santo amor:",
+      "verse": 4,
+      "words": [
+        {
+          "word": "te",
+          "start": 153.86,
+          "end": 154.9
+        },
+        {
+          "word": "colmará",
+          "start": 154.9,
+          "end": 156.18
+        },
+        {
+          "word": "de",
+          "start": 156.18,
+          "end": 156.64
+        },
+        {
+          "word": "su",
+          "start": 156.64,
+          "end": 156.86
+        },
+        {
+          "word": "santo",
+          "start": 156.86,
+          "end": 157.78
+        },
+        {
+          "word": "amor",
+          "start": 157.78,
+          "end": 158.92
+        }
+      ],
+      "start": 153.86,
+      "end": 158.92,
+      "confidence": 1.0,
+      "time": 153.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "¡a su nombre gloria!",
+      "verse": 4,
+      "words": [
+        {
+          "word": "a",
+          "start": 158.92,
+          "end": 160.32
+        },
+        {
+          "word": "su",
+          "start": 160.32,
+          "end": 160.6
+        },
+        {
+          "word": "nombre",
+          "start": 160.6,
+          "end": 161.48
+        },
+        {
+          "word": "gloria,",
+          "start": 161.48,
+          "end": 164.06
+        }
+      ],
+      "start": 158.92,
+      "end": 164.06,
+      "confidence": 1.0,
+      "time": 158.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡A su nombre gloria!",
+      "words": [
+        {
+          "word": "a",
+          "start": 164.06,
+          "end": 165.18
+        },
+        {
+          "word": "su",
+          "start": 165.18,
+          "end": 165.5
+        },
+        {
+          "word": "nombre",
+          "start": 165.5,
+          "end": 166.38
+        },
+        {
+          "word": "gloria,",
+          "start": 166.38,
+          "end": 169.1
+        }
+      ],
+      "start": 164.06,
+      "end": 169.5,
+      "confidence": 1.0,
+      "time": 164.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡A su nombre gloria!",
+      "words": [
+        {
+          "word": "a",
+          "start": 169.5,
+          "end": 170.28
+        },
+        {
+          "word": "su",
+          "start": 170.28,
+          "end": 170.64
+        },
+        {
+          "word": "nombre",
+          "start": 170.64,
+          "end": 171.6
+        },
+        {
+          "word": "gloria.",
+          "start": 171.6,
+          "end": 174.2
+        }
+      ],
+      "start": 169.5,
+      "end": 174.2,
+      "confidence": 1.0,
+      "time": 169.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Cristo Jesús es mi Salvador:",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 174.2,
+          "end": 175.32
+        },
+        {
+          "word": "Jesús",
+          "start": 175.32,
+          "end": 176.2
+        },
+        {
+          "word": "es",
+          "start": 176.2,
+          "end": 176.8
+        },
+        {
+          "word": "mi",
+          "start": 176.8,
+          "end": 177.04
+        },
+        {
+          "word": "Salvador",
+          "start": 177.04,
+          "end": 179.06
+        }
+      ],
+      "start": 174.2,
+      "end": 179.06,
+      "confidence": 1.0,
+      "time": 174.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡a su nombre gloria!",
+      "words": [
+        {
+          "word": "A",
+          "start": 179.06,
+          "end": 180.54
+        },
+        {
+          "word": "su",
+          "start": 180.54,
+          "end": 180.8
+        },
+        {
+          "word": "nombre",
+          "start": 180.8,
+          "end": 182.0
+        },
+        {
+          "word": "gloria",
+          "start": 182.0,
+          "end": 184.3
+        }
+      ],
+      "start": 179.06,
+      "end": 184.3,
+      "confidence": 1.0,
+      "time": 179.06
+    }
+  ]
+}

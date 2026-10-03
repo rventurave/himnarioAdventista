@@ -1,0 +1,1068 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.96,
+  "language": "es",
+  "model": "medium",
+  "hymn": 112,
+  "source": "112 - Ningun otro me amo cual Cristo.mp3",
+  "duration": 181.11,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo hallome en la miseria y el pecado,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 13.96,
+          "end": 15.04
+        },
+        {
+          "word": "en",
+          "start": 16.28,
+          "end": 16.66
+        },
+        {
+          "word": "la",
+          "start": 16.66,
+          "end": 17.0
+        },
+        {
+          "word": "miseria",
+          "start": 17.0,
+          "end": 17.92
+        },
+        {
+          "word": "y",
+          "start": 17.92,
+          "end": 18.32
+        },
+        {
+          "word": "el",
+          "start": 18.32,
+          "end": 18.68
+        },
+        {
+          "word": "pecado,",
+          "start": 18.68,
+          "end": 20.98
+        }
+      ],
+      "start": 13.96,
+      "end": 21.54,
+      "confidence": 0.875,
+      "time": 13.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "lleno estaba el corazón de iniquidad;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "lleno",
+          "start": 21.54,
+          "end": 21.94
+        },
+        {
+          "word": "estaba",
+          "start": 21.94,
+          "end": 22.66
+        },
+        {
+          "word": "el",
+          "start": 22.66,
+          "end": 23.04
+        },
+        {
+          "word": "corazón",
+          "start": 23.04,
+          "end": 24.02
+        },
+        {
+          "word": "de",
+          "start": 24.02,
+          "end": 24.46
+        },
+        {
+          "word": "iniquidad.",
+          "start": 24.46,
+          "end": 27.26
+        }
+      ],
+      "start": 21.54,
+      "end": 27.26,
+      "confidence": 1.0,
+      "time": 21.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mas Jesús abrió sus brazos y amoroso",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mas",
+          "start": 27.26,
+          "end": 28.18
+        },
+        {
+          "word": "Jesús",
+          "start": 28.18,
+          "end": 29.2
+        },
+        {
+          "word": "abrió",
+          "start": 29.2,
+          "end": 29.92
+        },
+        {
+          "word": "sus",
+          "start": 29.92,
+          "end": 30.42
+        },
+        {
+          "word": "brazos",
+          "start": 30.42,
+          "end": 31.2
+        },
+        {
+          "word": "amoroso,",
+          "start": 31.68,
+          "end": 34.12
+        }
+      ],
+      "start": 27.26,
+      "end": 34.12,
+      "confidence": 0.857,
+      "time": 27.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "guió mis pasos por la senda de verdad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "guió",
+          "start": 34.68,
+          "end": 34.94
+        },
+        {
+          "word": "mis",
+          "start": 34.94,
+          "end": 35.4
+        },
+        {
+          "word": "pasos",
+          "start": 35.4,
+          "end": 36.3
+        },
+        {
+          "word": "por",
+          "start": 36.3,
+          "end": 36.84
+        },
+        {
+          "word": "la",
+          "start": 36.84,
+          "end": 37.32
+        },
+        {
+          "word": "senda",
+          "start": 37.32,
+          "end": 38.0
+        },
+        {
+          "word": "de",
+          "start": 38.0,
+          "end": 38.62
+        },
+        {
+          "word": "verdad.",
+          "start": 38.62,
+          "end": 40.88
+        }
+      ],
+      "start": 34.68,
+      "end": 40.88,
+      "confidence": 1.0,
+      "time": 34.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Ningún otro me amó cual Cristo,",
+      "words": [
+        {
+          "word": "Ningún",
+          "start": 41.52,
+          "end": 42.46
+        },
+        {
+          "word": "otro",
+          "start": 42.46,
+          "end": 43.08
+        },
+        {
+          "word": "me",
+          "start": 43.08,
+          "end": 43.96
+        },
+        {
+          "word": "amó,",
+          "start": 43.96,
+          "end": 45.18
+        },
+        {
+          "word": "cual",
+          "start": 45.44,
+          "end": 45.62
+        },
+        {
+          "word": "Cristo,",
+          "start": 45.62,
+          "end": 47.32
+        }
+      ],
+      "start": 41.52,
+      "end": 47.32,
+      "confidence": 1.0,
+      "time": 41.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "no hay amigo tan leal y fiel;",
+      "words": [
+        {
+          "word": "no",
+          "start": 48.26,
+          "end": 48.62
+        },
+        {
+          "word": "hay",
+          "start": 48.62,
+          "end": 49.06
+        },
+        {
+          "word": "amigo",
+          "start": 49.06,
+          "end": 49.84
+        },
+        {
+          "word": "tan",
+          "start": 49.84,
+          "end": 50.58
+        },
+        {
+          "word": "leal",
+          "start": 50.58,
+          "end": 51.48
+        },
+        {
+          "word": "y",
+          "start": 51.48,
+          "end": 52.48
+        },
+        {
+          "word": "fiel.",
+          "start": 52.48,
+          "end": 54.28
+        }
+      ],
+      "start": 48.26,
+      "end": 54.28,
+      "confidence": 1.0,
+      "time": 48.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "nadie más limpiar pudiera mis pecados,",
+      "words": [
+        {
+          "word": "Nadie",
+          "start": 54.28,
+          "end": 55.86
+        },
+        {
+          "word": "más",
+          "start": 55.86,
+          "end": 56.4
+        },
+        {
+          "word": "limpiar",
+          "start": 56.4,
+          "end": 57.08
+        },
+        {
+          "word": "pudiera",
+          "start": 57.08,
+          "end": 58.42
+        },
+        {
+          "word": "mis",
+          "start": 58.42,
+          "end": 59.04
+        },
+        {
+          "word": "pecados,",
+          "start": 59.04,
+          "end": 62.36
+        }
+      ],
+      "start": 54.28,
+      "end": 63.12,
+      "confidence": 1.0,
+      "time": 54.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "solo Cristo, mi buen Rey.",
+      "words": [
+        {
+          "word": "solo",
+          "start": 63.12,
+          "end": 63.66
+        },
+        {
+          "word": "Cristo",
+          "start": 63.66,
+          "end": 64.54
+        },
+        {
+          "word": "mi",
+          "start": 64.54,
+          "end": 65.54
+        },
+        {
+          "word": "buen",
+          "start": 65.54,
+          "end": 66.46
+        },
+        {
+          "word": "rey.",
+          "start": 66.46,
+          "end": 69.2
+        }
+      ],
+      "start": 63.12,
+      "end": 69.2,
+      "confidence": 1.0,
+      "time": 63.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cada día mi Jesús me da más fuerza,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cada",
+          "start": 69.2,
+          "end": 70.18
+        },
+        {
+          "word": "día",
+          "start": 70.18,
+          "end": 71.48
+        },
+        {
+          "word": "mi",
+          "start": 71.48,
+          "end": 71.86
+        },
+        {
+          "word": "Jesús",
+          "start": 71.86,
+          "end": 72.58
+        },
+        {
+          "word": "me",
+          "start": 72.58,
+          "end": 73.06
+        },
+        {
+          "word": "da",
+          "start": 73.06,
+          "end": 73.42
+        },
+        {
+          "word": "más",
+          "start": 73.42,
+          "end": 73.82
+        },
+        {
+          "word": "fuerza,",
+          "start": 73.82,
+          "end": 75.5
+        }
+      ],
+      "start": 69.2,
+      "end": 76.44,
+      "confidence": 1.0,
+      "time": 69.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hoy entiendo su lenguaje arrobador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "hoy",
+          "start": 76.44,
+          "end": 76.8
+        },
+        {
+          "word": "entiendo",
+          "start": 76.8,
+          "end": 77.76
+        },
+        {
+          "word": "su",
+          "start": 77.76,
+          "end": 78.24
+        },
+        {
+          "word": "lenguaje",
+          "start": 78.24,
+          "end": 79.3
+        },
+        {
+          "word": "arrobador,",
+          "start": 79.3,
+          "end": 82.16
+        }
+      ],
+      "start": 76.44,
+      "end": 82.16,
+      "confidence": 1.0,
+      "time": 76.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Por qué vino él del cielo a salvarme?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Porque",
+          "start": 82.16,
+          "end": 83.28
+        },
+        {
+          "word": "vino",
+          "start": 83.28,
+          "end": 84.16
+        },
+        {
+          "word": "el",
+          "start": 84.16,
+          "end": 84.6
+        },
+        {
+          "word": "del",
+          "start": 84.6,
+          "end": 85.06
+        },
+        {
+          "word": "cielo",
+          "start": 85.06,
+          "end": 85.56
+        },
+        {
+          "word": "a",
+          "start": 85.56,
+          "end": 86.4
+        },
+        {
+          "word": "salvarme,",
+          "start": 86.4,
+          "end": 88.62
+        }
+      ],
+      "start": 82.16,
+      "end": 89.1,
+      "confidence": 0.868,
+      "time": 82.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Lo sabré tan solo allá, en su mansión.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "lo",
+          "start": 89.1,
+          "end": 89.42
+        },
+        {
+          "word": "sabré",
+          "start": 89.42,
+          "end": 90.3
+        },
+        {
+          "word": "tan",
+          "start": 90.3,
+          "end": 90.86
+        },
+        {
+          "word": "solo",
+          "start": 90.86,
+          "end": 91.38
+        },
+        {
+          "word": "allá",
+          "start": 91.38,
+          "end": 91.92
+        },
+        {
+          "word": "en",
+          "start": 91.92,
+          "end": 92.48
+        },
+        {
+          "word": "su",
+          "start": 92.48,
+          "end": 92.76
+        },
+        {
+          "word": "mansión.",
+          "start": 92.76,
+          "end": 95.1
+        }
+      ],
+      "start": 89.1,
+      "end": 95.1,
+      "confidence": 1.0,
+      "time": 89.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Ningún otro me amó cual Cristo,",
+      "words": [
+        {
+          "word": "Ningún",
+          "start": 95.76,
+          "end": 96.56
+        },
+        {
+          "word": "otro",
+          "start": 96.56,
+          "end": 97.1
+        },
+        {
+          "word": "me",
+          "start": 97.1,
+          "end": 97.98
+        },
+        {
+          "word": "amó,",
+          "start": 97.98,
+          "end": 99.12
+        },
+        {
+          "word": "cual",
+          "start": 99.42,
+          "end": 99.6
+        },
+        {
+          "word": "Cristo,",
+          "start": 99.6,
+          "end": 101.34
+        }
+      ],
+      "start": 95.76,
+      "end": 102.26,
+      "confidence": 1.0,
+      "time": 95.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "no hay amigo tan leal y fiel;",
+      "words": [
+        {
+          "word": "no",
+          "start": 102.26,
+          "end": 102.52
+        },
+        {
+          "word": "hay",
+          "start": 102.52,
+          "end": 102.9
+        },
+        {
+          "word": "amigo",
+          "start": 102.9,
+          "end": 103.58
+        },
+        {
+          "word": "tan",
+          "start": 103.58,
+          "end": 104.42
+        },
+        {
+          "word": "leal",
+          "start": 104.42,
+          "end": 105.52
+        },
+        {
+          "word": "y",
+          "start": 105.52,
+          "end": 106.48
+        },
+        {
+          "word": "fiel.",
+          "start": 106.48,
+          "end": 107.84
+        }
+      ],
+      "start": 102.26,
+      "end": 107.84,
+      "confidence": 1.0,
+      "time": 102.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "nadie más limpiar pudiera mis pecados,",
+      "words": [
+        {
+          "word": "Nadie",
+          "start": 107.84,
+          "end": 109.24
+        },
+        {
+          "word": "más",
+          "start": 109.24,
+          "end": 109.72
+        },
+        {
+          "word": "limpiar",
+          "start": 109.72,
+          "end": 110.46
+        },
+        {
+          "word": "pudiera",
+          "start": 110.46,
+          "end": 111.64
+        },
+        {
+          "word": "mis",
+          "start": 111.64,
+          "end": 112.18
+        },
+        {
+          "word": "pecados,",
+          "start": 112.18,
+          "end": 115.6
+        }
+      ],
+      "start": 107.84,
+      "end": 116.26,
+      "confidence": 1.0,
+      "time": 107.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "solo Cristo, mi buen Rey.",
+      "words": [
+        {
+          "word": "solo",
+          "start": 116.26,
+          "end": 116.8
+        },
+        {
+          "word": "Cristo",
+          "start": 116.8,
+          "end": 117.68
+        },
+        {
+          "word": "mío",
+          "start": 117.68,
+          "end": 119.3
+        }
+      ],
+      "start": 116.26,
+      "end": 120.88,
+      "confidence": 0.576,
+      "time": 116.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Yo quisiera hablarte del amor de Cristo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 122.18,
+          "end": 122.8
+        },
+        {
+          "word": "quisiera",
+          "start": 122.8,
+          "end": 124.38
+        },
+        {
+          "word": "hablarte",
+          "start": 124.38,
+          "end": 125.14
+        },
+        {
+          "word": "del",
+          "start": 125.14,
+          "end": 125.64
+        },
+        {
+          "word": "amor",
+          "start": 125.64,
+          "end": 126.36
+        },
+        {
+          "word": "de",
+          "start": 126.36,
+          "end": 126.98
+        },
+        {
+          "word": "Cristo,",
+          "start": 126.98,
+          "end": 128.6
+        }
+      ],
+      "start": 122.18,
+      "end": 129.24,
+      "confidence": 1.0,
+      "time": 122.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pues en él hallé un amigo fuerte y fiel,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 129.24,
+          "end": 129.64
+        },
+        {
+          "word": "en",
+          "start": 129.64,
+          "end": 130.28
+        },
+        {
+          "word": "él",
+          "start": 130.28,
+          "end": 130.62
+        },
+        {
+          "word": "hayle",
+          "start": 130.62,
+          "end": 131.06
+        },
+        {
+          "word": "un",
+          "start": 131.06,
+          "end": 131.44
+        },
+        {
+          "word": "amigo",
+          "start": 131.44,
+          "end": 132.18
+        },
+        {
+          "word": "fuerte",
+          "start": 132.18,
+          "end": 132.84
+        },
+        {
+          "word": "y",
+          "start": 132.84,
+          "end": 133.92
+        },
+        {
+          "word": "fiel.",
+          "start": 133.92,
+          "end": 135.16
+        }
+      ],
+      "start": 129.24,
+      "end": 135.16,
+      "confidence": 0.987,
+      "time": 129.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "por su gracia transformó mi vida entera;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Por",
+          "start": 135.16,
+          "end": 135.78
+        },
+        {
+          "word": "su",
+          "start": 135.78,
+          "end": 136.26
+        },
+        {
+          "word": "gracia",
+          "start": 136.26,
+          "end": 137.06
+        },
+        {
+          "word": "transformó",
+          "start": 137.06,
+          "end": 138.26
+        },
+        {
+          "word": "mi",
+          "start": 138.26,
+          "end": 138.7
+        },
+        {
+          "word": "vida",
+          "start": 138.7,
+          "end": 139.16
+        },
+        {
+          "word": "entera.",
+          "start": 139.16,
+          "end": 141.52
+        }
+      ],
+      "start": 135.16,
+      "end": 141.52,
+      "confidence": 1.0,
+      "time": 135.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "todo lo que soy aquí lo debo a él.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Todo",
+          "start": 142.14,
+          "end": 142.42
+        },
+        {
+          "word": "lo",
+          "start": 142.42,
+          "end": 143.1
+        },
+        {
+          "word": "que",
+          "start": 143.1,
+          "end": 143.46
+        },
+        {
+          "word": "soy",
+          "start": 143.46,
+          "end": 143.86
+        },
+        {
+          "word": "aquí",
+          "start": 143.86,
+          "end": 144.62
+        },
+        {
+          "word": "lo",
+          "start": 144.62,
+          "end": 145.14
+        },
+        {
+          "word": "debo",
+          "start": 145.14,
+          "end": 145.72
+        },
+        {
+          "word": "a",
+          "start": 145.72,
+          "end": 146.64
+        },
+        {
+          "word": "él.",
+          "start": 146.64,
+          "end": 147.74
+        }
+      ],
+      "start": 142.14,
+      "end": 147.74,
+      "confidence": 1.0,
+      "time": 142.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Ningún otro me amó cual Cristo,",
+      "words": [
+        {
+          "word": "Ningún",
+          "start": 148.3,
+          "end": 149.24
+        },
+        {
+          "word": "otro",
+          "start": 149.24,
+          "end": 149.76
+        },
+        {
+          "word": "me",
+          "start": 149.76,
+          "end": 150.52
+        },
+        {
+          "word": "amó,",
+          "start": 150.52,
+          "end": 151.68
+        },
+        {
+          "word": "cual",
+          "start": 151.96,
+          "end": 152.18
+        },
+        {
+          "word": "Cristo,",
+          "start": 152.18,
+          "end": 154.04
+        }
+      ],
+      "start": 148.3,
+      "end": 154.04,
+      "confidence": 1.0,
+      "time": 148.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "no hay amigo tan leal y fiel;",
+      "words": [
+        {
+          "word": "no",
+          "start": 154.72,
+          "end": 154.94
+        },
+        {
+          "word": "hay",
+          "start": 154.94,
+          "end": 155.3
+        },
+        {
+          "word": "amigo",
+          "start": 155.3,
+          "end": 155.96
+        },
+        {
+          "word": "tal",
+          "start": 155.96,
+          "end": 156.7
+        },
+        {
+          "word": "leal",
+          "start": 156.7,
+          "end": 157.98
+        },
+        {
+          "word": "y",
+          "start": 157.98,
+          "end": 158.64
+        },
+        {
+          "word": "fiel.",
+          "start": 158.64,
+          "end": 160.18
+        }
+      ],
+      "start": 154.72,
+      "end": 160.18,
+      "confidence": 0.971,
+      "time": 154.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "nadie más limpiar pudiera mis pecados,",
+      "words": [
+        {
+          "word": "Nadie",
+          "start": 160.18,
+          "end": 161.74
+        },
+        {
+          "word": "más",
+          "start": 161.74,
+          "end": 162.2
+        },
+        {
+          "word": "limpiar",
+          "start": 162.2,
+          "end": 162.92
+        },
+        {
+          "word": "pudiera",
+          "start": 162.92,
+          "end": 164.16
+        },
+        {
+          "word": "mis",
+          "start": 164.16,
+          "end": 164.76
+        },
+        {
+          "word": "pecados,",
+          "start": 164.76,
+          "end": 167.72
+        }
+      ],
+      "start": 160.18,
+      "end": 169.02,
+      "confidence": 1.0,
+      "time": 160.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "solo Cristo, mi buen Rey.",
+      "words": [
+        {
+          "word": "solo",
+          "start": 169.02,
+          "end": 169.52
+        },
+        {
+          "word": "Cristo",
+          "start": 169.52,
+          "end": 170.4
+        },
+        {
+          "word": "mi",
+          "start": 170.4,
+          "end": 171.7
+        },
+        {
+          "word": "buen",
+          "start": 171.7,
+          "end": 173.0
+        }
+      ],
+      "start": 169.02,
+      "end": 176.16,
+      "confidence": 0.8,
+      "time": 169.02
+    }
+  ]
+}

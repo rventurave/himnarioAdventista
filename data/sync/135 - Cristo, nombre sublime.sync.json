@@ -1,0 +1,140 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.998,
+  "language": "es",
+  "model": "medium",
+  "hymn": 135,
+  "source": "135 - Cristo, nombre sublime.mp3",
+  "duration": 55.22,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo, nombre sublime,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 17.36,
+          "end": 18.76
+        },
+        {
+          "word": "nombre",
+          "start": 20.96,
+          "end": 21.54
+        },
+        {
+          "word": "sublime,",
+          "start": 21.54,
+          "end": 24.68
+        }
+      ],
+      "start": 17.36,
+      "end": 25.48,
+      "confidence": 1.0,
+      "time": 17.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Salvador nuestro, glorioso Dios;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Salvador",
+          "start": 25.48,
+          "end": 26.1
+        },
+        {
+          "word": "nuestro,",
+          "start": 26.1,
+          "end": 27.98
+        },
+        {
+          "word": "Glorioso",
+          "start": 27.98,
+          "end": 30.26
+        },
+        {
+          "word": "Dios,",
+          "start": 30.26,
+          "end": 33.96
+        }
+      ],
+      "start": 25.48,
+      "end": 34.46,
+      "confidence": 1.0,
+      "time": 25.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "es Emanuel, Dios con nosotros,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 34.46,
+          "end": 35.02
+        },
+        {
+          "word": "Emmanuel,",
+          "start": 35.02,
+          "end": 37.16
+        },
+        {
+          "word": "Dios",
+          "start": 37.5,
+          "end": 37.8
+        },
+        {
+          "word": "con",
+          "start": 37.8,
+          "end": 38.4
+        },
+        {
+          "word": "nosotros,",
+          "start": 38.4,
+          "end": 41.02
+        }
+      ],
+      "start": 34.46,
+      "end": 41.82,
+      "confidence": 0.992,
+      "time": 34.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Palabra viva, gran Redentor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Palabra",
+          "start": 41.82,
+          "end": 42.7
+        },
+        {
+          "word": "Viva,",
+          "start": 42.7,
+          "end": 44.96
+        },
+        {
+          "word": "Gran",
+          "start": 46.04,
+          "end": 46.36
+        },
+        {
+          "word": "Redentor.",
+          "start": 46.36,
+          "end": 50.54
+        }
+      ],
+      "start": 41.82,
+      "end": 50.54,
+      "confidence": 1.0,
+      "time": 41.82
+    }
+  ]
+}

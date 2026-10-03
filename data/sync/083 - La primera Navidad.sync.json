@@ -1,0 +1,967 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.824,
+  "language": "es",
+  "model": "medium",
+  "hymn": 83,
+  "source": "083 - La primera Navidad.mp3",
+  "duration": 219.77,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "La primera Navidad en Belén sucedió,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "La",
+          "start": 17.6,
+          "end": 19.0
+        },
+        {
+          "word": "primera",
+          "start": 19.0,
+          "end": 20.4
+        },
+        {
+          "word": "Navidad",
+          "start": 20.4,
+          "end": 22.4
+        },
+        {
+          "word": "Melén",
+          "start": 22.9,
+          "end": 24.16
+        },
+        {
+          "word": "sucedió",
+          "start": 24.16,
+          "end": 26.3
+        }
+      ],
+      "start": 17.6,
+      "end": 26.3,
+      "confidence": 0.813,
+      "time": 17.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a pastores el ángel les anunció.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "A",
+          "start": 26.3,
+          "end": 26.92
+        },
+        {
+          "word": "pastores",
+          "start": 26.92,
+          "end": 28.66
+        },
+        {
+          "word": "el",
+          "start": 28.66,
+          "end": 29.52
+        },
+        {
+          "word": "ángeles",
+          "start": 29.52,
+          "end": 31.42
+        },
+        {
+          "word": "anunció,",
+          "start": 31.42,
+          "end": 34.34
+        }
+      ],
+      "start": 26.3,
+      "end": 34.34,
+      "confidence": 0.823,
+      "time": 26.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Velaban el rebaño con solicitud",
+      "verse": 1,
+      "words": [
+        {
+          "word": "daban",
+          "start": 35.4,
+          "end": 36.68
+        },
+        {
+          "word": "el",
+          "start": 36.68,
+          "end": 37.14
+        },
+        {
+          "word": "rebaño",
+          "start": 37.14,
+          "end": 38.8
+        },
+        {
+          "word": "con",
+          "start": 38.8,
+          "end": 39.24
+        },
+        {
+          "word": "solicitud,",
+          "start": 39.24,
+          "end": 42.32
+        }
+      ],
+      "start": 35.4,
+      "end": 42.32,
+      "confidence": 0.96,
+      "time": 35.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en la noche de invierno de dulce quietud.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 42.88,
+          "end": 43.06
+        },
+        {
+          "word": "la",
+          "start": 43.06,
+          "end": 43.5
+        },
+        {
+          "word": "noche",
+          "start": 43.5,
+          "end": 44.64
+        },
+        {
+          "word": "de",
+          "start": 44.64,
+          "end": 45.3
+        },
+        {
+          "word": "invierno",
+          "start": 45.3,
+          "end": 46.54
+        },
+        {
+          "word": "de",
+          "start": 46.54,
+          "end": 47.5
+        },
+        {
+          "word": "dulce",
+          "start": 47.5,
+          "end": 48.82
+        }
+      ],
+      "start": 42.88,
+      "end": 50.28,
+      "confidence": 0.875,
+      "time": 42.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Navidad, Navidad,",
+      "start": 50.28,
+      "end": 56.72,
+      "confidence": 0.0,
+      "time": 50.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Jesús nació.",
+      "words": [
+        {
+          "word": "estación",
+          "start": 56.72,
+          "end": 59.22
+        }
+      ],
+      "start": 56.72,
+      "end": 59.22,
+      "confidence": 0.385,
+      "time": 56.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Es el Mesías, el Rey de Israel.",
+      "words": [
+        {
+          "word": "es",
+          "start": 59.22,
+          "end": 60.44
+        },
+        {
+          "word": "el",
+          "start": 60.44,
+          "end": 61.18
+        },
+        {
+          "word": "mes",
+          "start": 61.18,
+          "end": 61.74
+        }
+      ],
+      "start": 59.22,
+      "end": 67.18,
+      "confidence": 0.42,
+      "time": 59.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "La estrella contemplaron con grande pavor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "La",
+          "start": 67.18,
+          "end": 68.38
+        },
+        {
+          "word": "estrella",
+          "start": 68.38,
+          "end": 69.98
+        },
+        {
+          "word": "contempla",
+          "start": 69.98,
+          "end": 71.82
+        },
+        {
+          "word": "con",
+          "start": 72.2,
+          "end": 72.78
+        },
+        {
+          "word": "grande",
+          "start": 72.78,
+          "end": 73.78
+        },
+        {
+          "word": "amor,",
+          "start": 73.78,
+          "end": 75.48
+        }
+      ],
+      "start": 67.18,
+      "end": 76.2,
+      "confidence": 0.957,
+      "time": 67.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en el este brillando con gran resplandor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 76.2,
+          "end": 76.58
+        },
+        {
+          "word": "el",
+          "start": 76.58,
+          "end": 77.26
+        },
+        {
+          "word": "este",
+          "start": 77.26,
+          "end": 78.0
+        },
+        {
+          "word": "brillando",
+          "start": 78.0,
+          "end": 79.78
+        },
+        {
+          "word": "con",
+          "start": 79.78,
+          "end": 80.98
+        },
+        {
+          "word": "gran",
+          "start": 80.98,
+          "end": 81.7
+        }
+      ],
+      "start": 76.2,
+      "end": 84.14,
+      "confidence": 0.857,
+      "time": 76.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Día y noche alumbró esa luz celestial,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "día",
+          "start": 84.14,
+          "end": 84.7
+        },
+        {
+          "word": "y",
+          "start": 84.7,
+          "end": 85.06
+        },
+        {
+          "word": "noche",
+          "start": 85.06,
+          "end": 86.16
+        },
+        {
+          "word": "alumno",
+          "start": 86.16,
+          "end": 88.0
+        },
+        {
+          "word": "esa",
+          "start": 88.0,
+          "end": 88.72
+        },
+        {
+          "word": "luz",
+          "start": 88.72,
+          "end": 89.44
+        },
+        {
+          "word": "celestial",
+          "start": 89.44,
+          "end": 91.66
+        }
+      ],
+      "start": 84.14,
+      "end": 91.66,
+      "confidence": 0.98,
+      "time": 84.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "anunciando las nuevas de gozo eternal.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "anunciando",
+          "start": 91.66,
+          "end": 94.1
+        },
+        {
+          "word": "las",
+          "start": 94.1,
+          "end": 94.84
+        },
+        {
+          "word": "nuevas",
+          "start": 94.84,
+          "end": 96.14
+        },
+        {
+          "word": "de",
+          "start": 96.14,
+          "end": 97.1
+        },
+        {
+          "word": "gozo",
+          "start": 97.1,
+          "end": 97.98
+        },
+        {
+          "word": "eterno.",
+          "start": 97.98,
+          "end": 99.96
+        }
+      ],
+      "start": 91.66,
+      "end": 99.96,
+      "confidence": 0.977,
+      "time": 91.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Navidad, Navidad,",
+      "words": [
+        {
+          "word": "Navidad,",
+          "start": 100.82,
+          "end": 102.22
+        },
+        {
+          "word": "Navidad,",
+          "start": 102.6,
+          "end": 104.06
+        }
+      ],
+      "start": 100.82,
+      "end": 104.82,
+      "confidence": 1.0,
+      "time": 100.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Jesús nació.",
+      "words": [
+        {
+          "word": "Jesucristo",
+          "start": 104.82,
+          "end": 106.94
+        },
+        {
+          "word": "nació,",
+          "start": 106.94,
+          "end": 108.78
+        }
+      ],
+      "start": 104.82,
+      "end": 108.78,
+      "confidence": 0.9,
+      "time": 104.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Es el Mesías, el Rey de Israel.",
+      "words": [
+        {
+          "word": "me",
+          "start": 112.38,
+          "end": 113.44
+        }
+      ],
+      "start": 112.38,
+      "end": 116.8,
+      "confidence": 0.134,
+      "time": 112.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Del oriente es guiada por esa gran luz,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Del",
+          "start": 116.8,
+          "end": 118.1
+        },
+        {
+          "word": "oriente",
+          "start": 118.1,
+          "end": 119.58
+        },
+        {
+          "word": "es",
+          "start": 119.58,
+          "end": 120.06
+        },
+        {
+          "word": "guiada",
+          "start": 120.06,
+          "end": 121.7
+        },
+        {
+          "word": "por",
+          "start": 121.7,
+          "end": 122.5
+        },
+        {
+          "word": "esa",
+          "start": 122.5,
+          "end": 123.48
+        },
+        {
+          "word": "gran",
+          "start": 123.48,
+          "end": 124.16
+        },
+        {
+          "word": "luz,",
+          "start": 124.16,
+          "end": 125.34
+        }
+      ],
+      "start": 116.8,
+      "end": 125.94,
+      "confidence": 1.0,
+      "time": 116.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "una hueste de sabios buscando a Jesús.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "una",
+          "start": 125.94,
+          "end": 126.22
+        },
+        {
+          "word": "hueste",
+          "start": 126.22,
+          "end": 127.5
+        },
+        {
+          "word": "de",
+          "start": 127.5,
+          "end": 128.68
+        },
+        {
+          "word": "sabios",
+          "start": 128.68,
+          "end": 129.58
+        },
+        {
+          "word": "buscando",
+          "start": 129.58,
+          "end": 130.9
+        },
+        {
+          "word": "a",
+          "start": 130.9,
+          "end": 131.74
+        },
+        {
+          "word": "Jesús.",
+          "start": 131.74,
+          "end": 133.2
+        }
+      ],
+      "start": 125.94,
+      "end": 133.2,
+      "confidence": 1.0,
+      "time": 125.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Deseaban contemplar y adorar al Señor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Desean",
+          "start": 133.2,
+          "end": 135.7
+        },
+        {
+          "word": "contemplar",
+          "start": 135.7,
+          "end": 137.68
+        },
+        {
+          "word": "y",
+          "start": 137.68,
+          "end": 138.0
+        },
+        {
+          "word": "adorar",
+          "start": 138.0,
+          "end": 139.06
+        },
+        {
+          "word": "al",
+          "start": 139.06,
+          "end": 139.62
+        },
+        {
+          "word": "Señor,",
+          "start": 139.62,
+          "end": 141.24
+        }
+      ],
+      "start": 133.2,
+      "end": 142.0,
+      "confidence": 0.986,
+      "time": 133.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "a la estrella siguieron por su resplandor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 142.0,
+          "end": 142.12
+        },
+        {
+          "word": "la",
+          "start": 142.12,
+          "end": 142.48
+        },
+        {
+          "word": "estrella",
+          "start": 142.48,
+          "end": 143.68
+        },
+        {
+          "word": "siguieron",
+          "start": 143.68,
+          "end": 145.64
+        },
+        {
+          "word": "por",
+          "start": 145.64,
+          "end": 146.42
+        },
+        {
+          "word": "su",
+          "start": 146.42,
+          "end": 147.28
+        },
+        {
+          "word": "respandor.",
+          "start": 147.28,
+          "end": 149.56
+        }
+      ],
+      "start": 142.0,
+      "end": 149.56,
+      "confidence": 0.995,
+      "time": 142.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Navidad, Navidad,",
+      "words": [
+        {
+          "word": "vida,",
+          "start": 150.26,
+          "end": 151.7
+        },
+        {
+          "word": "realidad,",
+          "start": 152.14,
+          "end": 153.52
+        }
+      ],
+      "start": 150.26,
+      "end": 154.2,
+      "confidence": 0.818,
+      "time": 150.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Jesús nació.",
+      "words": [
+        {
+          "word": "Jesucristo",
+          "start": 154.2,
+          "end": 155.84
+        },
+        {
+          "word": "nació,",
+          "start": 155.84,
+          "end": 158.24
+        }
+      ],
+      "start": 154.2,
+      "end": 158.24,
+      "confidence": 0.9,
+      "time": 154.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Es el Mesías, el Rey de Israel.",
+      "words": [
+        {
+          "word": "es",
+          "start": 158.96,
+          "end": 159.42
+        },
+        {
+          "word": "el",
+          "start": 159.42,
+          "end": 160.0
+        },
+        {
+          "word": "mes",
+          "start": 160.0,
+          "end": 160.74
+        },
+        {
+          "word": "el",
+          "start": 162.4,
+          "end": 163.1
+        },
+        {
+          "word": "rey",
+          "start": 163.1,
+          "end": 163.6
+        },
+        {
+          "word": "de",
+          "start": 163.6,
+          "end": 164.28
+        },
+        {
+          "word": "Israel.",
+          "start": 164.28,
+          "end": 165.88
+        }
+      ],
+      "start": 158.96,
+      "end": 165.88,
+      "confidence": 0.991,
+      "time": 158.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Los sabios, al llegar al humilde mesón,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Los",
+          "start": 167.1,
+          "end": 168.26
+        },
+        {
+          "word": "años",
+          "start": 168.26,
+          "end": 169.08
+        },
+        {
+          "word": "llegado",
+          "start": 169.6,
+          "end": 171.18
+        },
+        {
+          "word": "al",
+          "start": 171.18,
+          "end": 171.52
+        },
+        {
+          "word": "humilde",
+          "start": 171.52,
+          "end": 172.84
+        },
+        {
+          "word": "mesón,",
+          "start": 172.84,
+          "end": 174.96
+        }
+      ],
+      "start": 167.1,
+      "end": 174.96,
+      "confidence": 0.803,
+      "time": 167.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "reverentes se postran en adoración.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Revenentes",
+          "start": 174.96,
+          "end": 177.16
+        },
+        {
+          "word": "se",
+          "start": 177.16,
+          "end": 178.02
+        },
+        {
+          "word": "postarán",
+          "start": 178.02,
+          "end": 180.04
+        },
+        {
+          "word": "en",
+          "start": 180.04,
+          "end": 180.46
+        },
+        {
+          "word": "adoración.",
+          "start": 180.46,
+          "end": 183.04
+        }
+      ],
+      "start": 174.96,
+      "end": 183.04,
+      "confidence": 0.98,
+      "time": 174.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Oro y mirra le ofrecen al niño Jesús",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Oro",
+          "start": 183.32,
+          "end": 183.9
+        },
+        {
+          "word": "y",
+          "start": 183.9,
+          "end": 184.2
+        },
+        {
+          "word": "mira,",
+          "start": 184.2,
+          "end": 185.04
+        },
+        {
+          "word": "le",
+          "start": 185.18,
+          "end": 185.72
+        },
+        {
+          "word": "ofrecen",
+          "start": 185.72,
+          "end": 187.58
+        },
+        {
+          "word": "al",
+          "start": 187.58,
+          "end": 188.1
+        },
+        {
+          "word": "Niño",
+          "start": 188.1,
+          "end": 189.14
+        },
+        {
+          "word": "Jesús",
+          "start": 189.14,
+          "end": 190.8
+        }
+      ],
+      "start": 183.32,
+      "end": 190.8,
+      "confidence": 0.992,
+      "time": 183.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "y regresan gozosos con la nueva luz.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 190.8,
+          "end": 191.66
+        },
+        {
+          "word": "regresan",
+          "start": 191.66,
+          "end": 193.64
+        },
+        {
+          "word": "osos",
+          "start": 194.16,
+          "end": 195.22
+        },
+        {
+          "word": "con",
+          "start": 195.22,
+          "end": 196.12
+        },
+        {
+          "word": "la",
+          "start": 196.12,
+          "end": 196.86
+        },
+        {
+          "word": "nueva",
+          "start": 196.86,
+          "end": 197.76
+        },
+        {
+          "word": "luz.",
+          "start": 197.76,
+          "end": 199.08
+        }
+      ],
+      "start": 190.8,
+      "end": 199.08,
+      "confidence": 0.977,
+      "time": 190.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Navidad, Navidad,",
+      "start": 199.08,
+      "end": 203.74,
+      "confidence": 0.0,
+      "time": 199.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Jesús nació.",
+      "words": [
+        {
+          "word": "Jesucristo",
+          "start": 203.74,
+          "end": 205.44
+        },
+        {
+          "word": "nació,",
+          "start": 205.44,
+          "end": 207.88
+        }
+      ],
+      "start": 203.74,
+      "end": 207.88,
+      "confidence": 0.9,
+      "time": 203.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Es el Mesías, el Rey de Israel.",
+      "words": [
+        {
+          "word": "desvía",
+          "start": 209.6,
+          "end": 211.4
+        },
+        {
+          "word": "el",
+          "start": 211.4,
+          "end": 212.3
+        },
+        {
+          "word": "rey",
+          "start": 212.3,
+          "end": 213.34
+        },
+        {
+          "word": "del",
+          "start": 213.34,
+          "end": 214.16
+        }
+      ],
+      "start": 209.6,
+      "end": 216.74,
+      "confidence": 0.526,
+      "time": 209.6
+    }
+  ]
+}

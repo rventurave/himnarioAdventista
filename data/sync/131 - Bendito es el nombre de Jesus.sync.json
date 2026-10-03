@@ -1,0 +1,554 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.837,
+  "language": "es",
+  "model": "medium",
+  "hymn": 131,
+  "source": "131 - Bendito es el nombre de Jesus.mp3",
+  "duration": 163.53,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Bendito es el nombre de Jesús,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 13.68,
+          "end": 15.08
+        },
+        {
+          "word": "el",
+          "start": 15.08,
+          "end": 15.08
+        },
+        {
+          "word": "de",
+          "start": 16.18,
+          "end": 16.18
+        },
+        {
+          "word": "Jesucristo",
+          "start": 16.18,
+          "end": 20.9
+        }
+      ],
+      "start": 13.68,
+      "end": 20.9,
+      "confidence": 0.633,
+      "time": 13.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a cuantos le confiesan con amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Santos",
+          "start": 20.9,
+          "end": 20.9
+        }
+      ],
+      "start": 20.9,
+      "end": 29.98,
+      "confidence": 0.144,
+      "time": 20.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús es Rey por la eternidad,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 31.72,
+          "end": 33.26
+        },
+        {
+          "word": "por",
+          "start": 33.26,
+          "end": 33.26
+        },
+        {
+          "word": "la",
+          "start": 33.26,
+          "end": 34.16
+        },
+        {
+          "word": "eternidad.",
+          "start": 34.16,
+          "end": 36.68
+        }
+      ],
+      "start": 31.72,
+      "end": 39.86,
+      "confidence": 0.667,
+      "time": 31.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Aleluya! ¡Aleluya!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Aleluya,",
+          "start": 39.86,
+          "end": 41.26
+        },
+        {
+          "word": "aleluya.",
+          "start": 42.14,
+          "end": 46.78
+        }
+      ],
+      "start": 39.86,
+      "end": 46.78,
+      "confidence": 1.0,
+      "time": 39.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Tú eres Señor, Castillo y Roca fiel;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 46.78,
+          "end": 48.5
+        },
+        {
+          "word": "eres",
+          "start": 48.5,
+          "end": 49.3
+        },
+        {
+          "word": "Señor,",
+          "start": 49.3,
+          "end": 51.4
+        },
+        {
+          "word": "castillo",
+          "start": 51.62,
+          "end": 53.08
+        },
+        {
+          "word": "y",
+          "start": 53.08,
+          "end": 53.58
+        },
+        {
+          "word": "roca",
+          "start": 53.58,
+          "end": 54.4
+        },
+        {
+          "word": "fiel,",
+          "start": 54.4,
+          "end": 55.86
+        }
+      ],
+      "start": 46.78,
+      "end": 56.62,
+      "confidence": 1.0,
+      "time": 46.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "el Capitán que lucha contra el mal;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 56.62,
+          "end": 57.0
+        },
+        {
+          "word": "capital",
+          "start": 57.0,
+          "end": 60.08
+        },
+        {
+          "word": "que",
+          "start": 60.08,
+          "end": 61.38
+        },
+        {
+          "word": "lucha",
+          "start": 61.38,
+          "end": 62.46
+        },
+        {
+          "word": "contra",
+          "start": 62.46,
+          "end": 63.36
+        },
+        {
+          "word": "el",
+          "start": 63.36,
+          "end": 64.16
+        },
+        {
+          "word": "mal,",
+          "start": 64.16,
+          "end": 65.1
+        }
+      ],
+      "start": 56.62,
+      "end": 65.1,
+      "confidence": 0.988,
+      "time": 56.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "bendita Luz en la oscuridad,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Bendita",
+          "start": 67.2,
+          "end": 68.6
+        },
+        {
+          "word": "luz",
+          "start": 68.6,
+          "end": 70.0
+        },
+        {
+          "word": "en",
+          "start": 70.0,
+          "end": 70.66
+        },
+        {
+          "word": "la",
+          "start": 70.66,
+          "end": 71.74
+        },
+        {
+          "word": "oscuridad,",
+          "start": 71.74,
+          "end": 74.0
+        }
+      ],
+      "start": 67.2,
+      "end": 75.2,
+      "confidence": 1.0,
+      "time": 67.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Aleluya! ¡Aleluya!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Aleluya,",
+          "start": 75.2,
+          "end": 78.8
+        },
+        {
+          "word": "Aleluya.",
+          "start": 79.74,
+          "end": 84.3
+        }
+      ],
+      "start": 75.2,
+      "end": 84.3,
+      "confidence": 1.0,
+      "time": 75.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Que con valor peleen por Jesús",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 89.06,
+          "end": 89.78
+        },
+        {
+          "word": "por",
+          "start": 90.64,
+          "end": 91.36
+        },
+        {
+          "word": "Jesús,",
+          "start": 91.36,
+          "end": 93.32
+        }
+      ],
+      "start": 89.06,
+      "end": 94.0,
+      "confidence": 0.5,
+      "time": 89.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "los santos que aman a su Salvador.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "los",
+          "start": 94.0,
+          "end": 94.68
+        },
+        {
+          "word": "santos",
+          "start": 94.68,
+          "end": 96.48
+        },
+        {
+          "word": "que",
+          "start": 96.48,
+          "end": 97.46
+        },
+        {
+          "word": "aman",
+          "start": 97.46,
+          "end": 98.66
+        },
+        {
+          "word": "a",
+          "start": 98.66,
+          "end": 99.52
+        },
+        {
+          "word": "su",
+          "start": 99.52,
+          "end": 99.98
+        },
+        {
+          "word": "salvador,",
+          "start": 99.98,
+          "end": 102.54
+        }
+      ],
+      "start": 94.0,
+      "end": 102.54,
+      "confidence": 1.0,
+      "time": 94.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Dios les dará, por gracia, galardón,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 102.54,
+          "end": 103.5
+        },
+        {
+          "word": "es",
+          "start": 104.72,
+          "end": 104.84
+        },
+        {
+          "word": "dará",
+          "start": 104.84,
+          "end": 107.44
+        },
+        {
+          "word": "por",
+          "start": 107.44,
+          "end": 108.26
+        },
+        {
+          "word": "gracia",
+          "start": 108.26,
+          "end": 109.42
+        }
+      ],
+      "start": 102.54,
+      "end": 111.14,
+      "confidence": 0.813,
+      "time": 102.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Aleluya! ¡Aleluya!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Aleluya,",
+          "start": 118.92,
+          "end": 120.32
+        },
+        {
+          "word": "aleluya.",
+          "start": 120.32,
+          "end": 121.72
+        }
+      ],
+      "start": 118.92,
+      "end": 121.72,
+      "confidence": 1.0,
+      "time": 118.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "De mar a mar y en la Santa Ciudad,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "De",
+          "start": 121.72,
+          "end": 123.66
+        },
+        {
+          "word": "mar",
+          "start": 123.66,
+          "end": 124.48
+        },
+        {
+          "word": "a",
+          "start": 124.48,
+          "end": 125.42
+        },
+        {
+          "word": "mar",
+          "start": 125.42,
+          "end": 126.54
+        },
+        {
+          "word": "y",
+          "start": 126.54,
+          "end": 127.02
+        },
+        {
+          "word": "en",
+          "start": 127.02,
+          "end": 127.56
+        },
+        {
+          "word": "la",
+          "start": 127.56,
+          "end": 127.88
+        },
+        {
+          "word": "santa",
+          "start": 127.88,
+          "end": 128.76
+        },
+        {
+          "word": "ciudad,",
+          "start": 128.76,
+          "end": 130.78
+        }
+      ],
+      "start": 121.72,
+      "end": 131.64,
+      "confidence": 1.0,
+      "time": 121.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "el canto pronto habrá de resonar",
+      "verse": 4,
+      "words": [
+        {
+          "word": "el",
+          "start": 131.64,
+          "end": 131.78
+        },
+        {
+          "word": "canto",
+          "start": 131.78,
+          "end": 134.02
+        },
+        {
+          "word": "pronto",
+          "start": 134.02,
+          "end": 135.5
+        },
+        {
+          "word": "habrá",
+          "start": 135.5,
+          "end": 136.88
+        },
+        {
+          "word": "de",
+          "start": 136.88,
+          "end": 137.76
+        },
+        {
+          "word": "resonar.",
+          "start": 137.76,
+          "end": 139.72
+        }
+      ],
+      "start": 131.64,
+      "end": 139.72,
+      "confidence": 1.0,
+      "time": 131.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "al Creador, bendito Redentor:",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Al",
+          "start": 139.72,
+          "end": 141.24
+        },
+        {
+          "word": "creador,",
+          "start": 141.24,
+          "end": 144.96
+        },
+        {
+          "word": "bendito",
+          "start": 145.34,
+          "end": 146.76
+        },
+        {
+          "word": "Redentor,",
+          "start": 146.76,
+          "end": 149.18
+        }
+      ],
+      "start": 139.72,
+      "end": 150.24,
+      "confidence": 1.0,
+      "time": 139.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "¡Aleluya! ¡Aleluya!",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Aleluya,",
+          "start": 150.24,
+          "end": 153.1
+        },
+        {
+          "word": "Aleluya.",
+          "start": 154.5,
+          "end": 159.66
+        }
+      ],
+      "start": 150.24,
+      "end": 159.66,
+      "confidence": 1.0,
+      "time": 150.24
+    }
+  ]
+}

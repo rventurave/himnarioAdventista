@@ -1,0 +1,1192 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.89,
+  "language": "es",
+  "model": "medium",
+  "hymn": 90,
+  "source": "090 - Somos del oriente.mp3",
+  "duration": 198.9,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Somos del oriente los tres,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Somos",
+          "start": 10.0,
+          "end": 11.4
+        },
+        {
+          "word": "del",
+          "start": 11.4,
+          "end": 12.34
+        },
+        {
+          "word": "oriente",
+          "start": 12.34,
+          "end": 13.18
+        },
+        {
+          "word": "los",
+          "start": 13.18,
+          "end": 13.72
+        },
+        {
+          "word": "tres",
+          "start": 13.72,
+          "end": 14.46
+        }
+      ],
+      "start": 10.0,
+      "end": 14.46,
+      "confidence": 1.0,
+      "time": 10.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y venimos a adorar",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 14.46,
+          "end": 15.56
+        },
+        {
+          "word": "venimos",
+          "start": 15.56,
+          "end": 17.02
+        },
+        {
+          "word": "a",
+          "start": 17.02,
+          "end": 17.9
+        },
+        {
+          "word": "adorar,",
+          "start": 17.9,
+          "end": 19.02
+        }
+      ],
+      "start": 14.46,
+      "end": 19.94,
+      "confidence": 1.0,
+      "time": 14.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al bebé recién nacido,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 19.94,
+          "end": 20.12
+        },
+        {
+          "word": "bebé",
+          "start": 20.12,
+          "end": 21.42
+        },
+        {
+          "word": "recién",
+          "start": 21.42,
+          "end": 22.46
+        },
+        {
+          "word": "nacido",
+          "start": 22.46,
+          "end": 23.72
+        }
+      ],
+      "start": 19.94,
+      "end": 23.72,
+      "confidence": 1.0,
+      "time": 19.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que es Rey divinal.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 23.72,
+          "end": 24.26
+        },
+        {
+          "word": "es",
+          "start": 24.26,
+          "end": 24.64
+        },
+        {
+          "word": "rey",
+          "start": 24.64,
+          "end": 25.62
+        },
+        {
+          "word": "divinal.",
+          "start": 25.62,
+          "end": 26.9
+        }
+      ],
+      "start": 23.72,
+      "end": 26.9,
+      "confidence": 1.0,
+      "time": 23.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh!, bella estrella angelical,",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 26.9,
+          "end": 28.4
+        },
+        {
+          "word": "bella",
+          "start": 28.4,
+          "end": 29.36
+        },
+        {
+          "word": "estrella",
+          "start": 29.36,
+          "end": 30.48
+        },
+        {
+          "word": "angelical,",
+          "start": 30.48,
+          "end": 32.6
+        }
+      ],
+      "start": 26.9,
+      "end": 33.34,
+      "confidence": 1.0,
+      "time": 26.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "tu fulgor nos guiará",
+      "words": [
+        {
+          "word": "tu",
+          "start": 33.34,
+          "end": 33.54
+        },
+        {
+          "word": "pulgón",
+          "start": 33.54,
+          "end": 34.84
+        },
+        {
+          "word": "nos",
+          "start": 34.84,
+          "end": 35.66
+        },
+        {
+          "word": "guiará,",
+          "start": 35.66,
+          "end": 37.18
+        }
+      ],
+      "start": 33.34,
+      "end": 38.0,
+      "confidence": 0.95,
+      "time": 33.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "al lugar donde hallaremos",
+      "words": [
+        {
+          "word": "al",
+          "start": 38.0,
+          "end": 38.2
+        },
+        {
+          "word": "lugar",
+          "start": 38.2,
+          "end": 39.16
+        },
+        {
+          "word": "haremos",
+          "start": 40.3,
+          "end": 41.74
+        }
+      ],
+      "start": 38.0,
+      "end": 41.74,
+      "confidence": 0.724,
+      "time": 38.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "al Enviado celestial.",
+      "words": [
+        {
+          "word": "alenteado",
+          "start": 41.74,
+          "end": 44.04
+        },
+        {
+          "word": "celestial.",
+          "start": 44.04,
+          "end": 45.94
+        }
+      ],
+      "start": 41.74,
+      "end": 45.94,
+      "confidence": 0.592,
+      "time": 41.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Oro traigo para ofrendar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "traigo",
+          "start": 48.46,
+          "end": 49.58
+        },
+        {
+          "word": "para",
+          "start": 49.58,
+          "end": 50.16
+        },
+        {
+          "word": "ofrendar",
+          "start": 50.16,
+          "end": 51.8
+        }
+      ],
+      "start": 48.46,
+      "end": 51.8,
+      "confidence": 0.75,
+      "time": 48.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al nacido para reinar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 51.8,
+          "end": 52.82
+        },
+        {
+          "word": "nacido",
+          "start": 52.82,
+          "end": 54.1
+        },
+        {
+          "word": "para",
+          "start": 54.1,
+          "end": 54.88
+        },
+        {
+          "word": "reinar,",
+          "start": 54.88,
+          "end": 56.18
+        }
+      ],
+      "start": 51.8,
+      "end": 57.06,
+      "confidence": 1.0,
+      "time": 51.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y a sus plantas mi corona",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 57.06,
+          "end": 57.08
+        },
+        {
+          "word": "a",
+          "start": 57.08,
+          "end": 57.24
+        },
+        {
+          "word": "sus",
+          "start": 57.24,
+          "end": 57.6
+        },
+        {
+          "word": "plantas",
+          "start": 57.6,
+          "end": 58.72
+        },
+        {
+          "word": "mi",
+          "start": 58.72,
+          "end": 59.44
+        },
+        {
+          "word": "corona",
+          "start": 59.44,
+          "end": 60.64
+        }
+      ],
+      "start": 57.06,
+      "end": 60.64,
+      "confidence": 1.0,
+      "time": 57.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "quiero depositar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "quiero",
+          "start": 60.64,
+          "end": 61.7
+        },
+        {
+          "word": "depositar.",
+          "start": 61.7,
+          "end": 63.92
+        }
+      ],
+      "start": 60.64,
+      "end": 63.92,
+      "confidence": 1.0,
+      "time": 60.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh!, bella estrella angelical,",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 63.92,
+          "end": 65.62
+        },
+        {
+          "word": "bella",
+          "start": 65.62,
+          "end": 66.44
+        },
+        {
+          "word": "estrella",
+          "start": 66.44,
+          "end": 67.58
+        },
+        {
+          "word": "angelical,",
+          "start": 67.58,
+          "end": 69.52
+        }
+      ],
+      "start": 63.92,
+      "end": 70.38,
+      "confidence": 1.0,
+      "time": 63.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "tu fulgor nos guiará",
+      "words": [
+        {
+          "word": "tu",
+          "start": 70.38,
+          "end": 70.68
+        },
+        {
+          "word": "furgón",
+          "start": 70.68,
+          "end": 71.84
+        },
+        {
+          "word": "nos",
+          "start": 71.84,
+          "end": 72.24
+        },
+        {
+          "word": "guiará",
+          "start": 72.24,
+          "end": 74.36
+        }
+      ],
+      "start": 70.38,
+      "end": 74.36,
+      "confidence": 0.95,
+      "time": 70.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "al lugar donde hallaremos",
+      "words": [
+        {
+          "word": "al",
+          "start": 74.36,
+          "end": 75.28
+        },
+        {
+          "word": "lugar",
+          "start": 75.28,
+          "end": 76.26
+        },
+        {
+          "word": "donde",
+          "start": 76.26,
+          "end": 77.36
+        },
+        {
+          "word": "añademos",
+          "start": 77.36,
+          "end": 79.04
+        }
+      ],
+      "start": 74.36,
+      "end": 79.04,
+      "confidence": 0.95,
+      "time": 74.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "al Enviado celestial.",
+      "words": [
+        {
+          "word": "al",
+          "start": 79.04,
+          "end": 79.9
+        },
+        {
+          "word": "enviado",
+          "start": 79.9,
+          "end": 81.2
+        },
+        {
+          "word": "celestial.",
+          "start": 81.2,
+          "end": 83.58
+        }
+      ],
+      "start": 79.04,
+      "end": 83.58,
+      "confidence": 1.0,
+      "time": 79.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Llevo incienso para el Señor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "cienzo",
+          "start": 85.98,
+          "end": 86.74
+        },
+        {
+          "word": "para",
+          "start": 86.74,
+          "end": 87.32
+        },
+        {
+          "word": "el",
+          "start": 87.32,
+          "end": 87.66
+        },
+        {
+          "word": "Señor,",
+          "start": 87.66,
+          "end": 88.62
+        }
+      ],
+      "start": 85.98,
+      "end": 89.32,
+      "confidence": 0.766,
+      "time": 85.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "que también es el Mediador",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 89.32,
+          "end": 89.8
+        },
+        {
+          "word": "también",
+          "start": 89.8,
+          "end": 90.88
+        },
+        {
+          "word": "es",
+          "start": 90.88,
+          "end": 91.48
+        },
+        {
+          "word": "el",
+          "start": 91.48,
+          "end": 91.92
+        },
+        {
+          "word": "Mediador.",
+          "start": 91.92,
+          "end": 92.62
+        }
+      ],
+      "start": 89.32,
+      "end": 92.62,
+      "confidence": 1.0,
+      "time": 89.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "entre el Padre y los mortales,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Entre",
+          "start": 93.84,
+          "end": 94.56
+        },
+        {
+          "word": "el",
+          "start": 94.56,
+          "end": 95.08
+        },
+        {
+          "word": "Padre",
+          "start": 95.08,
+          "end": 95.8
+        },
+        {
+          "word": "y",
+          "start": 95.8,
+          "end": 95.84
+        },
+        {
+          "word": "los",
+          "start": 95.84,
+          "end": 96.64
+        },
+        {
+          "word": "mortales,",
+          "start": 96.64,
+          "end": 98.04
+        }
+      ],
+      "start": 93.84,
+      "end": 98.1,
+      "confidence": 1.0,
+      "time": 93.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "único intercesor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "único",
+          "start": 98.1,
+          "end": 98.98
+        },
+        {
+          "word": "intercesor,",
+          "start": 98.98,
+          "end": 100.58
+        }
+      ],
+      "start": 98.1,
+      "end": 100.58,
+      "confidence": 1.0,
+      "time": 98.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh!, bella estrella angelical,",
+      "words": [
+        {
+          "word": "estrella",
+          "start": 103.7,
+          "end": 104.7
+        },
+        {
+          "word": "angelical,",
+          "start": 104.7,
+          "end": 106.64
+        }
+      ],
+      "start": 103.7,
+      "end": 107.54,
+      "confidence": 0.5,
+      "time": 103.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "tu fulgor nos guiará",
+      "words": [
+        {
+          "word": "tu",
+          "start": 107.54,
+          "end": 107.82
+        },
+        {
+          "word": "fulgor",
+          "start": 107.82,
+          "end": 108.9
+        },
+        {
+          "word": "nos",
+          "start": 108.9,
+          "end": 109.4
+        },
+        {
+          "word": "guiará",
+          "start": 109.4,
+          "end": 110.58
+        }
+      ],
+      "start": 107.54,
+      "end": 110.58,
+      "confidence": 1.0,
+      "time": 107.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "al lugar donde hallaremos",
+      "words": [
+        {
+          "word": "al",
+          "start": 110.58,
+          "end": 112.38
+        },
+        {
+          "word": "lugar",
+          "start": 112.38,
+          "end": 113.44
+        },
+        {
+          "word": "donde",
+          "start": 113.44,
+          "end": 114.24
+        },
+        {
+          "word": "hallaremos",
+          "start": 114.24,
+          "end": 115.98
+        }
+      ],
+      "start": 110.58,
+      "end": 115.98,
+      "confidence": 1.0,
+      "time": 110.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "al Enviado celestial.",
+      "words": [
+        {
+          "word": "al",
+          "start": 115.98,
+          "end": 116.98
+        },
+        {
+          "word": "enviado",
+          "start": 116.98,
+          "end": 118.34
+        },
+        {
+          "word": "celestial.",
+          "start": 118.34,
+          "end": 120.78
+        }
+      ],
+      "start": 115.98,
+      "end": 120.78,
+      "confidence": 1.0,
+      "time": 115.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Mirra ofrezco para el dolor",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 121.82,
+          "end": 122.4
+        },
+        {
+          "word": "fresco",
+          "start": 122.84,
+          "end": 123.88
+        },
+        {
+          "word": "para",
+          "start": 123.88,
+          "end": 124.48
+        },
+        {
+          "word": "el",
+          "start": 124.48,
+          "end": 124.8
+        },
+        {
+          "word": "dolor",
+          "start": 124.8,
+          "end": 125.84
+        }
+      ],
+      "start": 121.82,
+      "end": 125.84,
+      "confidence": 0.96,
+      "time": 121.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "del sufriente Salvador,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "del",
+          "start": 125.84,
+          "end": 126.88
+        },
+        {
+          "word": "sufriente",
+          "start": 126.88,
+          "end": 128.4
+        },
+        {
+          "word": "Salvador,",
+          "start": 128.4,
+          "end": 129.58
+        }
+      ],
+      "start": 125.84,
+      "end": 129.58,
+      "confidence": 1.0,
+      "time": 125.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "que en cruenta cruz su sangre",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 131.18,
+          "end": 131.9
+        },
+        {
+          "word": "cuenta",
+          "start": 131.9,
+          "end": 132.84
+        },
+        {
+          "word": "cruz",
+          "start": 132.84,
+          "end": 133.66
+        },
+        {
+          "word": "su",
+          "start": 133.66,
+          "end": 134.04
+        },
+        {
+          "word": "sangre,",
+          "start": 134.04,
+          "end": 134.98
+        }
+      ],
+      "start": 131.18,
+      "end": 135.94,
+      "confidence": 0.826,
+      "time": 131.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "dio por el pecador.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "el",
+          "start": 135.94,
+          "end": 136.54
+        },
+        {
+          "word": "pecador,",
+          "start": 136.54,
+          "end": 137.58
+        }
+      ],
+      "start": 135.94,
+      "end": 137.58,
+      "confidence": 0.5,
+      "time": 135.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Oh!, bella estrella angelical,",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 137.58,
+          "end": 139.74
+        },
+        {
+          "word": "bella",
+          "start": 139.74,
+          "end": 140.7
+        },
+        {
+          "word": "estrella",
+          "start": 140.7,
+          "end": 141.82
+        },
+        {
+          "word": "angelical,",
+          "start": 141.82,
+          "end": 143.84
+        }
+      ],
+      "start": 137.58,
+      "end": 144.76,
+      "confidence": 1.0,
+      "time": 137.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "tu fulgor nos guiará",
+      "words": [
+        {
+          "word": "tu",
+          "start": 144.76,
+          "end": 144.96
+        },
+        {
+          "word": "nos",
+          "start": 146.0,
+          "end": 146.48
+        },
+        {
+          "word": "guiará",
+          "start": 146.48,
+          "end": 148.72
+        }
+      ],
+      "start": 144.76,
+      "end": 148.72,
+      "confidence": 0.75,
+      "time": 144.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "al lugar donde hallaremos",
+      "words": [
+        {
+          "word": "al",
+          "start": 148.72,
+          "end": 149.52
+        },
+        {
+          "word": "lugar",
+          "start": 149.52,
+          "end": 150.52
+        },
+        {
+          "word": "donde",
+          "start": 150.52,
+          "end": 151.56
+        },
+        {
+          "word": "hallaremos",
+          "start": 151.56,
+          "end": 153.12
+        }
+      ],
+      "start": 148.72,
+      "end": 155.4,
+      "confidence": 1.0,
+      "time": 148.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "al Enviado celestial.",
+      "words": [
+        {
+          "word": "celestial.",
+          "start": 155.4,
+          "end": 157.94
+        }
+      ],
+      "start": 155.4,
+      "end": 157.94,
+      "confidence": 0.333,
+      "time": 155.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 8,
+      "text": "Ved la gloria de Emanuel,",
+      "verse": 5,
+      "words": [
+        {
+          "word": "la",
+          "start": 159.46,
+          "end": 160.04
+        },
+        {
+          "word": "gloria",
+          "start": 160.04,
+          "end": 161.02
+        },
+        {
+          "word": "de",
+          "start": 161.02,
+          "end": 161.9
+        },
+        {
+          "word": "Manuel,",
+          "start": 161.9,
+          "end": 163.0
+        }
+      ],
+      "start": 159.46,
+      "end": 164.02,
+      "confidence": 0.791,
+      "time": 159.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 8,
+      "text": "sacerdote, Rey, Redentor.",
+      "verse": 5,
+      "words": [
+        {
+          "word": "sacerdote",
+          "start": 164.02,
+          "end": 165.52
+        },
+        {
+          "word": "redentor,",
+          "start": 166.06,
+          "end": 166.94
+        }
+      ],
+      "start": 164.02,
+      "end": 166.94,
+      "confidence": 0.667,
+      "time": 164.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 8,
+      "text": "Aleluya, tierra y cielo,",
+      "verse": 5,
+      "words": [
+        {
+          "word": "Aleluya,",
+          "start": 168.58,
+          "end": 169.98
+        },
+        {
+          "word": "tierra",
+          "start": 169.98,
+          "end": 170.92
+        },
+        {
+          "word": "y",
+          "start": 170.92,
+          "end": 171.18
+        },
+        {
+          "word": "cielo,",
+          "start": 171.18,
+          "end": 172.12
+        }
+      ],
+      "start": 168.58,
+      "end": 172.5,
+      "confidence": 1.0,
+      "time": 168.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 8,
+      "text": "canten su gran amor.",
+      "verse": 5,
+      "words": [
+        {
+          "word": "canten",
+          "start": 172.5,
+          "end": 172.9
+        },
+        {
+          "word": "su",
+          "start": 172.9,
+          "end": 173.5
+        },
+        {
+          "word": "gran",
+          "start": 173.5,
+          "end": 174.18
+        },
+        {
+          "word": "amor.",
+          "start": 174.18,
+          "end": 175.4
+        }
+      ],
+      "start": 172.5,
+      "end": 175.4,
+      "confidence": 1.0,
+      "time": 172.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 9,
+      "text": "¡Oh!, bella estrella angelical,",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 176.2,
+          "end": 176.94
+        },
+        {
+          "word": "a",
+          "start": 178.8,
+          "end": 179.36
+        }
+      ],
+      "start": 176.2,
+      "end": 181.64,
+      "confidence": 0.485,
+      "time": 176.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 9,
+      "text": "tu fulgor nos guiará",
+      "words": [
+        {
+          "word": "tu",
+          "start": 181.64,
+          "end": 182.0
+        },
+        {
+          "word": "fulgor",
+          "start": 182.0,
+          "end": 183.16
+        },
+        {
+          "word": "nos",
+          "start": 183.16,
+          "end": 183.62
+        },
+        {
+          "word": "guiará",
+          "start": 183.62,
+          "end": 184.94
+        }
+      ],
+      "start": 181.64,
+      "end": 184.94,
+      "confidence": 1.0,
+      "time": 181.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 9,
+      "text": "al lugar donde hallaremos",
+      "words": [
+        {
+          "word": "al",
+          "start": 184.94,
+          "end": 186.7
+        },
+        {
+          "word": "lugar",
+          "start": 186.7,
+          "end": 187.64
+        },
+        {
+          "word": "donde",
+          "start": 187.64,
+          "end": 188.5
+        },
+        {
+          "word": "añaremos",
+          "start": 188.5,
+          "end": 190.34
+        }
+      ],
+      "start": 184.94,
+      "end": 190.34,
+      "confidence": 0.967,
+      "time": 184.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 9,
+      "text": "al Enviado celestial.",
+      "words": [
+        {
+          "word": "al",
+          "start": 190.34,
+          "end": 191.28
+        },
+        {
+          "word": "enviado",
+          "start": 191.28,
+          "end": 192.58
+        },
+        {
+          "word": "celestial.",
+          "start": 192.58,
+          "end": 194.24
+        }
+      ],
+      "start": 190.34,
+      "end": 194.24,
+      "confidence": 1.0,
+      "time": 190.34
+    }
+  ]
+}

@@ -1,0 +1,978 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.935,
+  "language": "es",
+  "model": "medium",
+  "hymn": 109,
+  "source": "109 - Un buen amigo tengo yo.mp3",
+  "duration": 155.82,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Un buen amigo tengo yo, su amor salvó mi vida;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Un",
+          "start": 16.62,
+          "end": 18.02
+        },
+        {
+          "word": "buen",
+          "start": 18.02,
+          "end": 18.74
+        },
+        {
+          "word": "amigo",
+          "start": 18.74,
+          "end": 19.96
+        },
+        {
+          "word": "tengo",
+          "start": 19.96,
+          "end": 20.78
+        },
+        {
+          "word": "yo,",
+          "start": 20.78,
+          "end": 21.44
+        },
+        {
+          "word": "su",
+          "start": 21.46,
+          "end": 22.3
+        },
+        {
+          "word": "amor",
+          "start": 22.3,
+          "end": 23.24
+        },
+        {
+          "word": "salvó",
+          "start": 23.24,
+          "end": 24.06
+        },
+        {
+          "word": "mi",
+          "start": 24.06,
+          "end": 24.42
+        },
+        {
+          "word": "vida,",
+          "start": 24.42,
+          "end": 25.24
+        }
+      ],
+      "start": 16.62,
+      "end": 25.24,
+      "confidence": 1.0,
+      "time": 16.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y por su muerte gozo hoy tal gracia inmerecida.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 25.24,
+          "end": 26.12
+        },
+        {
+          "word": "por",
+          "start": 26.12,
+          "end": 26.74
+        },
+        {
+          "word": "su",
+          "start": 26.74,
+          "end": 27.1
+        },
+        {
+          "word": "muerte",
+          "start": 27.1,
+          "end": 28.16
+        },
+        {
+          "word": "gozoy",
+          "start": 28.16,
+          "end": 29.48
+        },
+        {
+          "word": "tal",
+          "start": 29.48,
+          "end": 30.26
+        },
+        {
+          "word": "gracia",
+          "start": 30.26,
+          "end": 31.54
+        },
+        {
+          "word": "inmerecida",
+          "start": 31.54,
+          "end": 33.72
+        }
+      ],
+      "start": 25.24,
+      "end": 33.72,
+      "confidence": 0.882,
+      "time": 25.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Y con el lazo de este amor, que nunca se ha cortado,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 33.72,
+          "end": 34.96
+        },
+        {
+          "word": "con",
+          "start": 34.96,
+          "end": 35.46
+        },
+        {
+          "word": "el",
+          "start": 35.46,
+          "end": 35.94
+        },
+        {
+          "word": "lazo",
+          "start": 35.94,
+          "end": 36.94
+        },
+        {
+          "word": "de",
+          "start": 36.94,
+          "end": 37.3
+        },
+        {
+          "word": "este",
+          "start": 37.3,
+          "end": 37.56
+        },
+        {
+          "word": "amor",
+          "start": 37.56,
+          "end": 38.1
+        },
+        {
+          "word": "que",
+          "start": 38.1,
+          "end": 39.04
+        },
+        {
+          "word": "nunca",
+          "start": 39.04,
+          "end": 40.1
+        },
+        {
+          "word": "se",
+          "start": 40.1,
+          "end": 40.58
+        },
+        {
+          "word": "ha",
+          "start": 40.58,
+          "end": 40.78
+        },
+        {
+          "word": "acordado",
+          "start": 40.78,
+          "end": 42.22
+        }
+      ],
+      "start": 33.72,
+      "end": 42.22,
+      "confidence": 0.99,
+      "time": 33.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "seguro puedo siempre andar, a él estoy ligado.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "seguro",
+          "start": 42.22,
+          "end": 43.46
+        },
+        {
+          "word": "puedo",
+          "start": 43.46,
+          "end": 44.62
+        },
+        {
+          "word": "siempre",
+          "start": 44.62,
+          "end": 45.42
+        },
+        {
+          "word": "andar",
+          "start": 45.42,
+          "end": 46.18
+        },
+        {
+          "word": "a",
+          "start": 46.18,
+          "end": 47.34
+        },
+        {
+          "word": "él",
+          "start": 47.34,
+          "end": 48.08
+        },
+        {
+          "word": "estoy",
+          "start": 48.08,
+          "end": 48.66
+        },
+        {
+          "word": "llegado",
+          "start": 48.66,
+          "end": 51.26
+        }
+      ],
+      "start": 42.22,
+      "end": 51.26,
+      "confidence": 0.983,
+      "time": 42.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Un buen amigo tengo yo, el ser me dio al crearme,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Un",
+          "start": 51.26,
+          "end": 52.24
+        },
+        {
+          "word": "buen",
+          "start": 52.24,
+          "end": 52.78
+        },
+        {
+          "word": "amigo",
+          "start": 52.78,
+          "end": 53.9
+        },
+        {
+          "word": "tengo",
+          "start": 53.9,
+          "end": 54.76
+        },
+        {
+          "word": "yo,",
+          "start": 54.76,
+          "end": 55.42
+        },
+        {
+          "word": "el",
+          "start": 56.04,
+          "end": 56.42
+        },
+        {
+          "word": "ser",
+          "start": 56.42,
+          "end": 57.38
+        },
+        {
+          "word": "medio",
+          "start": 57.38,
+          "end": 57.72
+        },
+        {
+          "word": "al",
+          "start": 57.72,
+          "end": 58.18
+        },
+        {
+          "word": "crearme,",
+          "start": 58.18,
+          "end": 59.2
+        }
+      ],
+      "start": 51.26,
+      "end": 59.74,
+      "confidence": 0.895,
+      "time": 51.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y a sí mismo se entregó a fin de rescatarme.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 59.74,
+          "end": 60.62
+        },
+        {
+          "word": "a",
+          "start": 60.62,
+          "end": 60.76
+        },
+        {
+          "word": "sí",
+          "start": 60.76,
+          "end": 61.12
+        },
+        {
+          "word": "mismo",
+          "start": 61.12,
+          "end": 61.92
+        },
+        {
+          "word": "se",
+          "start": 61.92,
+          "end": 62.72
+        },
+        {
+          "word": "entregó,",
+          "start": 62.72,
+          "end": 63.68
+        },
+        {
+          "word": "a",
+          "start": 64.12,
+          "end": 64.36
+        },
+        {
+          "word": "fin",
+          "start": 64.36,
+          "end": 65.16
+        },
+        {
+          "word": "de",
+          "start": 65.16,
+          "end": 65.74
+        },
+        {
+          "word": "rescatarme.",
+          "start": 65.74,
+          "end": 67.8
+        }
+      ],
+      "start": 59.74,
+      "end": 67.8,
+      "confidence": 1.0,
+      "time": 59.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Pues, cuanto tengo es todo de él,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Pues",
+          "start": 67.8,
+          "end": 68.84
+        },
+        {
+          "word": "cuanto",
+          "start": 68.84,
+          "end": 69.54
+        },
+        {
+          "word": "tengo",
+          "start": 69.54,
+          "end": 70.58
+        },
+        {
+          "word": "es",
+          "start": 70.58,
+          "end": 71.14
+        },
+        {
+          "word": "todo",
+          "start": 71.14,
+          "end": 71.68
+        },
+        {
+          "word": "de",
+          "start": 71.68,
+          "end": 71.98
+        },
+        {
+          "word": "él,",
+          "start": 71.98,
+          "end": 72.5
+        }
+      ],
+      "start": 67.8,
+      "end": 72.86,
+      "confidence": 1.0,
+      "time": 67.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "él mismo me lo ha dado;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 72.86,
+          "end": 73.24
+        },
+        {
+          "word": "mismo",
+          "start": 73.24,
+          "end": 74.18
+        },
+        {
+          "word": "leo",
+          "start": 74.18,
+          "end": 74.9
+        },
+        {
+          "word": "adado,",
+          "start": 74.9,
+          "end": 76.04
+        }
+      ],
+      "start": 72.86,
+      "end": 76.44,
+      "confidence": 0.636,
+      "time": 72.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "mi vida, fuerza y corazón, a él le he entregado.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mi",
+          "start": 76.44,
+          "end": 76.98
+        },
+        {
+          "word": "vida,",
+          "start": 76.98,
+          "end": 77.58
+        },
+        {
+          "word": "fuerza",
+          "start": 77.72,
+          "end": 78.36
+        },
+        {
+          "word": "y",
+          "start": 78.36,
+          "end": 79.0
+        },
+        {
+          "word": "corazón",
+          "start": 79.0,
+          "end": 80.02
+        },
+        {
+          "word": "a",
+          "start": 80.02,
+          "end": 81.34
+        },
+        {
+          "word": "él",
+          "start": 81.34,
+          "end": 82.02
+        },
+        {
+          "word": "he",
+          "start": 82.4,
+          "end": 82.86
+        },
+        {
+          "word": "entregado.",
+          "start": 82.86,
+          "end": 84.62
+        }
+      ],
+      "start": 76.44,
+      "end": 84.62,
+      "confidence": 0.9,
+      "time": 76.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Un buen amigo tengo yo, el Todopoderoso,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Un",
+          "start": 84.62,
+          "end": 86.18
+        },
+        {
+          "word": "buen",
+          "start": 86.18,
+          "end": 86.76
+        },
+        {
+          "word": "amigo",
+          "start": 86.76,
+          "end": 87.92
+        },
+        {
+          "word": "tengo",
+          "start": 87.92,
+          "end": 88.74
+        },
+        {
+          "word": "yo,",
+          "start": 88.74,
+          "end": 89.52
+        },
+        {
+          "word": "el",
+          "start": 89.94,
+          "end": 90.36
+        },
+        {
+          "word": "todo",
+          "start": 90.36,
+          "end": 91.56
+        }
+      ],
+      "start": 84.62,
+      "end": 93.96,
+      "confidence": 0.991,
+      "time": 84.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que quiere al fin llevarme a mí a su hogar glorioso.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 93.96,
+          "end": 94.34
+        },
+        {
+          "word": "quiere",
+          "start": 94.34,
+          "end": 94.74
+        },
+        {
+          "word": "al",
+          "start": 94.74,
+          "end": 95.06
+        },
+        {
+          "word": "fin",
+          "start": 95.06,
+          "end": 95.54
+        },
+        {
+          "word": "llevarme",
+          "start": 95.54,
+          "end": 96.82
+        },
+        {
+          "word": "a",
+          "start": 96.82,
+          "end": 96.96
+        },
+        {
+          "word": "mí,",
+          "start": 96.96,
+          "end": 97.24
+        },
+        {
+          "word": "a",
+          "start": 97.9,
+          "end": 98.32
+        },
+        {
+          "word": "su",
+          "start": 98.32,
+          "end": 99.34
+        },
+        {
+          "word": "hogar",
+          "start": 99.34,
+          "end": 99.96
+        },
+        {
+          "word": "glorioso.",
+          "start": 99.96,
+          "end": 101.76
+        }
+      ],
+      "start": 93.96,
+      "end": 101.76,
+      "confidence": 1.0,
+      "time": 93.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Para animar mi vida aquí, me deja ver su gloria,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Para",
+          "start": 101.76,
+          "end": 103.14
+        },
+        {
+          "word": "animar",
+          "start": 103.14,
+          "end": 104.42
+        },
+        {
+          "word": "mi",
+          "start": 104.42,
+          "end": 105.04
+        },
+        {
+          "word": "vida",
+          "start": 105.04,
+          "end": 105.46
+        },
+        {
+          "word": "aquí,",
+          "start": 105.46,
+          "end": 106.02
+        },
+        {
+          "word": "deja",
+          "start": 107.06,
+          "end": 108.14
+        },
+        {
+          "word": "su",
+          "start": 108.62,
+          "end": 108.96
+        },
+        {
+          "word": "gloria,",
+          "start": 108.96,
+          "end": 109.94
+        }
+      ],
+      "start": 101.76,
+      "end": 110.28,
+      "confidence": 0.8,
+      "time": 101.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y con la ayuda que me da yo gano la victoria.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 110.28,
+          "end": 111.1
+        },
+        {
+          "word": "con",
+          "start": 111.1,
+          "end": 111.34
+        },
+        {
+          "word": "la",
+          "start": 111.34,
+          "end": 111.64
+        },
+        {
+          "word": "ayuda",
+          "start": 111.64,
+          "end": 112.58
+        },
+        {
+          "word": "que",
+          "start": 112.58,
+          "end": 113.36
+        },
+        {
+          "word": "me",
+          "start": 113.36,
+          "end": 113.68
+        },
+        {
+          "word": "da,",
+          "start": 113.68,
+          "end": 114.02
+        },
+        {
+          "word": "yo",
+          "start": 114.7,
+          "end": 115.02
+        },
+        {
+          "word": "gano",
+          "start": 115.02,
+          "end": 116.14
+        },
+        {
+          "word": "la",
+          "start": 116.14,
+          "end": 116.76
+        },
+        {
+          "word": "victoria.",
+          "start": 116.76,
+          "end": 118.6
+        }
+      ],
+      "start": 110.28,
+      "end": 118.6,
+      "confidence": 1.0,
+      "time": 110.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Un buen amigo tengo yo, tan fiel y tan amante;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Un",
+          "start": 118.6,
+          "end": 120.24
+        },
+        {
+          "word": "buen",
+          "start": 120.24,
+          "end": 120.8
+        },
+        {
+          "word": "amigo",
+          "start": 120.8,
+          "end": 121.88
+        },
+        {
+          "word": "tengo",
+          "start": 121.88,
+          "end": 122.76
+        },
+        {
+          "word": "yo,",
+          "start": 122.76,
+          "end": 123.44
+        },
+        {
+          "word": "tan",
+          "start": 123.64,
+          "end": 124.2
+        },
+        {
+          "word": "fiel",
+          "start": 124.2,
+          "end": 125.38
+        },
+        {
+          "word": "y",
+          "start": 125.38,
+          "end": 125.8
+        },
+        {
+          "word": "tan",
+          "start": 125.8,
+          "end": 126.08
+        },
+        {
+          "word": "amante,",
+          "start": 126.08,
+          "end": 127.24
+        }
+      ],
+      "start": 118.6,
+      "end": 127.24,
+      "confidence": 1.0,
+      "time": 118.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "mi sabio consejero es, mi protector constante.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "mi",
+          "start": 127.98,
+          "end": 128.24
+        },
+        {
+          "word": "sabio",
+          "start": 128.24,
+          "end": 128.92
+        },
+        {
+          "word": "consejero",
+          "start": 128.92,
+          "end": 130.86
+        },
+        {
+          "word": "es,",
+          "start": 130.86,
+          "end": 131.36
+        },
+        {
+          "word": "mi",
+          "start": 132.06,
+          "end": 133.12
+        },
+        {
+          "word": "protector",
+          "start": 133.12,
+          "end": 133.88
+        },
+        {
+          "word": "constante.",
+          "start": 133.88,
+          "end": 135.22
+        }
+      ],
+      "start": 127.98,
+      "end": 135.22,
+      "confidence": 1.0,
+      "time": 127.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "De quien al mundo tanto amó,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "¿De",
+          "start": 136.28,
+          "end": 136.94
+        },
+        {
+          "word": "quién",
+          "start": 136.94,
+          "end": 137.4
+        },
+        {
+          "word": "al",
+          "start": 137.4,
+          "end": 137.68
+        },
+        {
+          "word": "mundo",
+          "start": 137.68,
+          "end": 138.76
+        },
+        {
+          "word": "tanto",
+          "start": 138.76,
+          "end": 139.4
+        },
+        {
+          "word": "amor",
+          "start": 139.4,
+          "end": 140.16
+        }
+      ],
+      "start": 136.28,
+      "end": 140.16,
+      "confidence": 0.99,
+      "time": 136.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "jamás podrá apartarme",
+      "verse": 4,
+      "words": [
+        {
+          "word": "ganas",
+          "start": 140.16,
+          "end": 141.92
+        },
+        {
+          "word": "podrá",
+          "start": 141.92,
+          "end": 142.76
+        },
+        {
+          "word": "pagarme?",
+          "start": 142.76,
+          "end": 143.96
+        }
+      ],
+      "start": 140.16,
+      "end": 143.96,
+      "confidence": 0.87,
+      "time": 140.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "ni el mundo, ni la muerte, pues soy suyo para siempre.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "el",
+          "start": 144.74,
+          "end": 145.04
+        },
+        {
+          "word": "mundo",
+          "start": 145.04,
+          "end": 145.54
+        },
+        {
+          "word": "a",
+          "start": 146.6,
+          "end": 147.0
+        },
+        {
+          "word": "muerte",
+          "start": 147.0,
+          "end": 147.42
+        },
+        {
+          "word": "pues,",
+          "start": 147.42,
+          "end": 148.04
+        },
+        {
+          "word": "soy",
+          "start": 148.76,
+          "end": 148.92
+        },
+        {
+          "word": "suyo",
+          "start": 148.92,
+          "end": 150.18
+        },
+        {
+          "word": "para",
+          "start": 150.18,
+          "end": 150.96
+        },
+        {
+          "word": "siempre.",
+          "start": 150.96,
+          "end": 152.1
+        }
+      ],
+      "start": 144.74,
+      "end": 152.1,
+      "confidence": 0.8,
+      "time": 144.74
+    }
+  ]
+}

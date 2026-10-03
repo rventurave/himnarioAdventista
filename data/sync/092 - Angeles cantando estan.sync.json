@@ -1,0 +1,308 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.506,
+  "language": "es",
+  "model": "medium",
+  "hymn": 92,
+  "source": "092 - Angeles cantando estan.mp3",
+  "duration": 122.51,
+  "needsReview": true,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ángeles cantando están",
+      "verse": 1,
+      "words": [
+        {
+          "word": "canal",
+          "start": 9.42,
+          "end": 9.44
+        },
+        {
+          "word": "español",
+          "start": 29.58,
+          "end": 29.6
+        }
+      ],
+      "start": 9.42,
+      "end": 29.76,
+      "confidence": 0.523,
+      "time": 9.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "bella y celestial canción.",
+      "verse": 1,
+      "start": 29.76,
+      "end": 29.96,
+      "confidence": 0.0,
+      "time": 29.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Sus palabras gozo dan",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Amara",
+          "start": 29.68,
+          "end": 29.72
+        }
+      ],
+      "start": 29.96,
+      "end": 30.16,
+      "confidence": 0.192,
+      "time": 29.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a la entera creación.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 30.0,
+          "end": 31.06
+        },
+        {
+          "word": "la",
+          "start": 31.06,
+          "end": 32.88
+        },
+        {
+          "word": "entera",
+          "start": 32.88,
+          "end": 34.36
+        },
+        {
+          "word": "creación.",
+          "start": 34.36,
+          "end": 36.0
+        }
+      ],
+      "start": 30.16,
+      "end": 36.0,
+      "confidence": 1.0,
+      "time": 30.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Gloria, in excelsis Deo, (*)",
+      "words": [
+        {
+          "word": "Gloria,",
+          "start": 45.22,
+          "end": 45.24
+        },
+        {
+          "word": "in",
+          "start": 46.5,
+          "end": 47.14
+        },
+        {
+          "word": "excelsis",
+          "start": 47.14,
+          "end": 49.1
+        },
+        {
+          "word": "Deo,",
+          "start": 49.1,
+          "end": 50.0
+        }
+      ],
+      "start": 45.22,
+      "end": 50.0,
+      "confidence": 1.0,
+      "time": 45.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Gloria, in excelsis Deo.",
+      "words": [
+        {
+          "word": "Gloria",
+          "start": 58.3,
+          "end": 59.7
+        }
+      ],
+      "start": 58.3,
+      "end": 66.26,
+      "confidence": 0.25,
+      "time": 58.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Hoy anuncian con fervor",
+      "verse": 2,
+      "start": 66.26,
+      "end": 70.43,
+      "confidence": 0.0,
+      "time": 66.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "paz y buena voluntad;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "paz",
+          "start": 74.6,
+          "end": 75.28
+        },
+        {
+          "word": "y",
+          "start": 75.28,
+          "end": 76.02
+        },
+        {
+          "word": "buena",
+          "start": 76.02,
+          "end": 76.74
+        },
+        {
+          "word": "voluntad,",
+          "start": 76.74,
+          "end": 78.8
+        }
+      ],
+      "start": 70.43,
+      "end": 74.6,
+      "confidence": 1.0,
+      "time": 70.43
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pues nació el Salvador",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pues",
+          "start": 79.32,
+          "end": 79.7
+        },
+        {
+          "word": "salvador,",
+          "start": 81.42,
+          "end": 83.44
+        }
+      ],
+      "start": 79.32,
+      "end": 84.66,
+      "confidence": 0.5,
+      "time": 79.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de la pobre humanidad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 84.66,
+          "end": 85.18
+        },
+        {
+          "word": "humanidad.",
+          "start": 85.92,
+          "end": 88.28
+        }
+      ],
+      "start": 84.66,
+      "end": 88.28,
+      "confidence": 0.5,
+      "time": 84.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Nota:",
+      "verse": 2,
+      "start": 88.28,
+      "end": 90.84,
+      "confidence": 0.0,
+      "time": 88.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "(*) Gloria a Dios en lo alto.",
+      "verse": 2,
+      "start": 90.84,
+      "end": 93.4,
+      "confidence": 0.0,
+      "time": 90.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Gloria, in excelsis Deo, (*)",
+      "words": [
+        {
+          "word": "Gloria,",
+          "start": 95.96,
+          "end": 97.36
+        },
+        {
+          "word": "in",
+          "start": 98.24,
+          "end": 98.96
+        },
+        {
+          "word": "excelsis",
+          "start": 98.96,
+          "end": 101.02
+        },
+        {
+          "word": "Deo",
+          "start": 101.02,
+          "end": 102.22
+        }
+      ],
+      "start": 93.4,
+      "end": 95.96,
+      "confidence": 1.0,
+      "time": 93.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Gloria, in excelsis Deo.",
+      "words": [
+        {
+          "word": "Gloria",
+          "start": 110.06,
+          "end": 111.46
+        },
+        {
+          "word": "in",
+          "start": 111.46,
+          "end": 112.86
+        },
+        {
+          "word": "excelsis",
+          "start": 112.86,
+          "end": 115.02
+        },
+        {
+          "word": "Deo.",
+          "start": 115.02,
+          "end": 120.62
+        }
+      ],
+      "start": 110.06,
+      "end": 120.62,
+      "confidence": 1.0,
+      "time": 110.06
+    }
+  ]
+}

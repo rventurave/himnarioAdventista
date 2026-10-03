@@ -1,0 +1,426 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.602,
+  "language": "es",
+  "model": "medium",
+  "hymn": 5,
+  "source": "005 - A ti, glorioso Dios.mp3",
+  "duration": 158.72,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "A ti, glorioso Dios, cantamos alabanzas;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 2.9,
+          "end": 3.02
+        },
+        {
+          "word": "Santos",
+          "start": 3.02,
+          "end": 3.02
+        }
+      ],
+      "start": 2.9,
+      "end": 29.98,
+      "confidence": 0.271,
+      "time": 2.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "rendímoste honor por todas tus grandezas.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "días.",
+          "start": 29.98,
+          "end": 29.98
+        },
+        {
+          "word": "tus",
+          "start": 30.0,
+          "end": 30.8
+        },
+        {
+          "word": "grandezas.",
+          "start": 30.8,
+          "end": 34.62
+        }
+      ],
+      "start": 29.98,
+      "end": 34.62,
+      "confidence": 0.467,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Nos das tu bendición en nuestra senda aquí;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Nos",
+          "start": 35.14,
+          "end": 35.86
+        },
+        {
+          "word": "das",
+          "start": 35.86,
+          "end": 36.26
+        },
+        {
+          "word": "tu",
+          "start": 36.26,
+          "end": 37.04
+        },
+        {
+          "word": "bendición",
+          "start": 37.04,
+          "end": 39.74
+        },
+        {
+          "word": "en",
+          "start": 39.74,
+          "end": 41.0
+        },
+        {
+          "word": "nuestra",
+          "start": 41.0,
+          "end": 42.22
+        },
+        {
+          "word": "sendadilla.",
+          "start": 42.22,
+          "end": 45.32
+        }
+      ],
+      "start": 35.14,
+      "end": 45.32,
+      "confidence": 0.868,
+      "time": 35.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nos guiarás, Señor, a tu mansión allí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Nos",
+          "start": 45.64,
+          "end": 46.24
+        },
+        {
+          "word": "guiarás,",
+          "start": 46.24,
+          "end": 48.34
+        },
+        {
+          "word": "Señor,",
+          "start": 48.34,
+          "end": 50.38
+        },
+        {
+          "word": "a",
+          "start": 51.4,
+          "end": 51.72
+        },
+        {
+          "word": "tu",
+          "start": 51.72,
+          "end": 52.28
+        },
+        {
+          "word": "mansión",
+          "start": 52.28,
+          "end": 54.08
+        },
+        {
+          "word": "allí.",
+          "start": 54.08,
+          "end": 54.94
+        }
+      ],
+      "start": 45.64,
+      "end": 54.94,
+      "confidence": 1.0,
+      "time": 45.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Ven siempre, oh gran Dios, muy cerca de nosotros;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "siempre",
+          "start": 62.28,
+          "end": 63.6
+        },
+        {
+          "word": "Dios,",
+          "start": 64.74,
+          "end": 66.58
+        },
+        {
+          "word": "de",
+          "start": 69.0,
+          "end": 69.66
+        },
+        {
+          "word": "nosotros,",
+          "start": 69.66,
+          "end": 72.72
+        }
+      ],
+      "start": 62.28,
+      "end": 74.84,
+      "confidence": 0.444,
+      "time": 62.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "con celo y con fervor queremos ir a otros.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 74.84,
+          "end": 75.14
+        },
+        {
+          "word": "fermo,",
+          "start": 76.5,
+          "end": 78.66
+        },
+        {
+          "word": "queremos",
+          "start": 79.1,
+          "end": 80.4
+        },
+        {
+          "word": "ir",
+          "start": 80.4,
+          "end": 82.14
+        },
+        {
+          "word": "a",
+          "start": 82.14,
+          "end": 83.66
+        },
+        {
+          "word": "otros.",
+          "start": 83.66,
+          "end": 85.18
+        }
+      ],
+      "start": 74.84,
+      "end": 85.18,
+      "confidence": 0.626,
+      "time": 74.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Tu brazo protector del mal nos guardará;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "protector",
+          "start": 87.56,
+          "end": 90.48
+        },
+        {
+          "word": "de",
+          "start": 90.48,
+          "end": 91.64
+        },
+        {
+          "word": "guardará,",
+          "start": 93.12,
+          "end": 95.7
+        }
+      ],
+      "start": 87.56,
+      "end": 96.88,
+      "confidence": 0.42,
+      "time": 87.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "en lucha y aflicción consuelo nos será.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "lucha",
+          "start": 96.88,
+          "end": 98.06
+        },
+        {
+          "word": "y",
+          "start": 98.06,
+          "end": 98.78
+        },
+        {
+          "word": "aflicción,",
+          "start": 98.78,
+          "end": 101.36
+        },
+        {
+          "word": "será.",
+          "start": 104.48,
+          "end": 106.22
+        }
+      ],
+      "start": 96.88,
+      "end": 106.22,
+      "confidence": 0.571,
+      "time": 96.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Oh Padre, eterno Dios, cantámoste loores,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Oh",
+          "start": 106.22,
+          "end": 108.52
+        },
+        {
+          "word": "Padre",
+          "start": 108.52,
+          "end": 110.04
+        },
+        {
+          "word": "cantamos",
+          "start": 113.68,
+          "end": 115.34
+        },
+        {
+          "word": "lores,",
+          "start": 116.34,
+          "end": 119.56
+        }
+      ],
+      "start": 106.22,
+      "end": 119.56,
+      "confidence": 0.648,
+      "time": 106.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y al Hijo Redentor, Señor de los señores,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Redector,",
+          "start": 122.38,
+          "end": 124.86
+        },
+        {
+          "word": "Señor",
+          "start": 125.96,
+          "end": 126.64
+        },
+        {
+          "word": "de",
+          "start": 126.64,
+          "end": 127.38
+        },
+        {
+          "word": "los",
+          "start": 127.38,
+          "end": 128.26
+        },
+        {
+          "word": "señores,",
+          "start": 128.26,
+          "end": 131.7
+        }
+      ],
+      "start": 122.38,
+      "end": 131.7,
+      "confidence": 0.616,
+      "time": 122.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y al Santo Espíritu, el gran Consolador:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "al",
+          "start": 132.36,
+          "end": 132.6
+        },
+        {
+          "word": "Santo",
+          "start": 132.6,
+          "end": 133.56
+        },
+        {
+          "word": "Espíritu,",
+          "start": 133.56,
+          "end": 136.96
+        },
+        {
+          "word": "el",
+          "start": 137.6,
+          "end": 137.92
+        },
+        {
+          "word": "gran",
+          "start": 137.92,
+          "end": 138.68
+        },
+        {
+          "word": "Consolador,",
+          "start": 138.68,
+          "end": 142.18
+        }
+      ],
+      "start": 132.36,
+      "end": 142.18,
+      "confidence": 0.857,
+      "time": 132.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al grande, trino Dios cantamos con fervor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Dino",
+          "start": 144.82,
+          "end": 145.76
+        },
+        {
+          "word": "Dios!",
+          "start": 145.76,
+          "end": 147.52
+        },
+        {
+          "word": "¡Cállamos,",
+          "start": 148.78,
+          "end": 150.18
+        }
+      ],
+      "start": 144.82,
+      "end": 154.64,
+      "confidence": 0.379,
+      "time": 144.82
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.844,
+  "language": "es",
+  "model": "medium",
+  "hymn": 82,
+  "source": "082 - Ya repican las campanas.mp3",
+  "duration": 99.37,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ya repican las campanas alabando al Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "las",
+          "start": 9.72,
+          "end": 10.22
+        },
+        {
+          "word": "campanas",
+          "start": 10.22,
+          "end": 11.44
+        },
+        {
+          "word": "alabando",
+          "start": 11.44,
+          "end": 13.3
+        },
+        {
+          "word": "al",
+          "start": 13.3,
+          "end": 13.82
+        },
+        {
+          "word": "Señor",
+          "start": 13.82,
+          "end": 14.82
+        }
+      ],
+      "start": 9.72,
+      "end": 14.82,
+      "confidence": 0.714,
+      "time": 9.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Nuestros cantos elevemos cual las aves al Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Nuestros",
+          "start": 14.82,
+          "end": 16.04
+        },
+        {
+          "word": "cantos",
+          "start": 16.04,
+          "end": 17.06
+        },
+        {
+          "word": "cualas",
+          "start": 18.56,
+          "end": 19.74
+        },
+        {
+          "word": "aves",
+          "start": 19.74,
+          "end": 20.38
+        },
+        {
+          "word": "al",
+          "start": 20.38,
+          "end": 20.7
+        },
+        {
+          "word": "Señor",
+          "start": 20.7,
+          "end": 21.8
+        }
+      ],
+      "start": 14.82,
+      "end": 21.8,
+      "confidence": 0.742,
+      "time": 14.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Es la estación festiva de la reunión familiar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Es",
+          "start": 21.8,
+          "end": 22.86
+        },
+        {
+          "word": "la",
+          "start": 22.86,
+          "end": 23.18
+        },
+        {
+          "word": "estación",
+          "start": 23.18,
+          "end": 24.4
+        },
+        {
+          "word": "festival",
+          "start": 24.4,
+          "end": 25.28
+        },
+        {
+          "word": "de",
+          "start": 25.28,
+          "end": 26.14
+        },
+        {
+          "word": "la",
+          "start": 26.14,
+          "end": 26.58
+        },
+        {
+          "word": "reunión",
+          "start": 26.58,
+          "end": 27.34
+        },
+        {
+          "word": "familiar",
+          "start": 27.34,
+          "end": 28.76
+        }
+      ],
+      "start": 21.8,
+      "end": 28.76,
+      "confidence": 0.993,
+      "time": 21.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Nuestras voces jubilosas den la gloria al cantar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "voces",
+          "start": 30.06,
+          "end": 30.84
+        },
+        {
+          "word": "pubermelosas,",
+          "start": 30.84,
+          "end": 32.44
+        },
+        {
+          "word": "del",
+          "start": 32.82,
+          "end": 33.24
+        },
+        {
+          "word": "al",
+          "start": 34.18,
+          "end": 34.86
+        },
+        {
+          "word": "cantar.",
+          "start": 34.86,
+          "end": 36.84
+        }
+      ],
+      "start": 30.06,
+      "end": 36.84,
+      "confidence": 0.575,
+      "time": 30.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "No existe otro sitio más querido que el hogar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "No",
+          "start": 37.38,
+          "end": 38.02
+        },
+        {
+          "word": "existe",
+          "start": 38.02,
+          "end": 38.96
+        },
+        {
+          "word": "otro",
+          "start": 38.96,
+          "end": 39.68
+        },
+        {
+          "word": "sitio",
+          "start": 39.68,
+          "end": 40.66
+        },
+        {
+          "word": "más",
+          "start": 40.66,
+          "end": 41.24
+        },
+        {
+          "word": "querido",
+          "start": 41.24,
+          "end": 42.56
+        },
+        {
+          "word": "que",
+          "start": 42.56,
+          "end": 43.0
+        },
+        {
+          "word": "el",
+          "start": 43.0,
+          "end": 43.36
+        },
+        {
+          "word": "hogar,",
+          "start": 43.36,
+          "end": 44.22
+        }
+      ],
+      "start": 37.38,
+      "end": 44.22,
+      "confidence": 1.0,
+      "time": 37.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Nuestras preocupaciones allí suelen disipar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "nuestra",
+          "start": 44.56,
+          "end": 45.14
+        },
+        {
+          "word": "compasiones",
+          "start": 46.36,
+          "end": 47.8
+        },
+        {
+          "word": "suelen",
+          "start": 48.72,
+          "end": 49.68
+        },
+        {
+          "word": "visitar.",
+          "start": 49.68,
+          "end": 51.16
+        }
+      ],
+      "start": 44.56,
+      "end": 51.16,
+      "confidence": 0.711,
+      "time": 44.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Jesucristo, nuestro hermano,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesucristo,",
+          "start": 51.92,
+          "end": 53.12
+        },
+        {
+          "word": "nuestro",
+          "start": 53.34,
+          "end": 53.92
+        }
+      ],
+      "start": 51.92,
+      "end": 55.12,
+      "confidence": 0.667,
+      "time": 51.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "nos reúne con amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "nos",
+          "start": 55.12,
+          "end": 55.7
+        },
+        {
+          "word": "reúne",
+          "start": 55.7,
+          "end": 56.62
+        },
+        {
+          "word": "con",
+          "start": 56.62,
+          "end": 57.22
+        },
+        {
+          "word": "amor,",
+          "start": 57.22,
+          "end": 58.16
+        }
+      ],
+      "start": 55.12,
+      "end": 58.16,
+      "confidence": 1.0,
+      "time": 55.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Fue al hijo de María que alabaron con fervor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Fue",
+          "start": 58.16,
+          "end": 59.26
+        },
+        {
+          "word": "al",
+          "start": 59.26,
+          "end": 59.58
+        },
+        {
+          "word": "hijo",
+          "start": 59.58,
+          "end": 60.18
+        },
+        {
+          "word": "de",
+          "start": 60.18,
+          "end": 60.9
+        },
+        {
+          "word": "Marina,",
+          "start": 60.9,
+          "end": 61.76
+        },
+        {
+          "word": "que",
+          "start": 62.26,
+          "end": 62.42
+        },
+        {
+          "word": "a",
+          "start": 62.42,
+          "end": 62.54
+        },
+        {
+          "word": "fervor.",
+          "start": 64.42,
+          "end": 66.54
+        }
+      ],
+      "start": 58.16,
+      "end": 66.54,
+      "confidence": 0.876,
+      "time": 58.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Es la época dichosa y de gran felicidad.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "es",
+          "start": 67.36,
+          "end": 67.58
+        },
+        {
+          "word": "la",
+          "start": 67.58,
+          "end": 67.78
+        },
+        {
+          "word": "época",
+          "start": 67.78,
+          "end": 68.94
+        },
+        {
+          "word": "dichosa",
+          "start": 68.94,
+          "end": 70.2
+        },
+        {
+          "word": "y",
+          "start": 70.2,
+          "end": 70.8
+        },
+        {
+          "word": "de",
+          "start": 70.8,
+          "end": 71.28
+        },
+        {
+          "word": "gran",
+          "start": 71.28,
+          "end": 71.84
+        },
+        {
+          "word": "felicidad,",
+          "start": 71.84,
+          "end": 73.6
+        }
+      ],
+      "start": 67.36,
+      "end": 73.6,
+      "confidence": 1.0,
+      "time": 67.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Haya paz entre los hombres y la buena voluntad.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "entre",
+          "start": 75.22,
+          "end": 76.0
+        },
+        {
+          "word": "los",
+          "start": 76.0,
+          "end": 76.68
+        },
+        {
+          "word": "hombres",
+          "start": 76.68,
+          "end": 77.14
+        },
+        {
+          "word": "y",
+          "start": 77.14,
+          "end": 77.8
+        },
+        {
+          "word": "la",
+          "start": 77.8,
+          "end": 78.44
+        },
+        {
+          "word": "buena",
+          "start": 78.44,
+          "end": 79.22
+        },
+        {
+          "word": "voluntad.",
+          "start": 79.22,
+          "end": 80.76
+        }
+      ],
+      "start": 75.22,
+      "end": 80.76,
+      "confidence": 0.778,
+      "time": 75.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Compartamos bendiciones, nuestro pan y nuestro amor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Compartamos",
+          "start": 81.5,
+          "end": 82.7
+        },
+        {
+          "word": "bendiciones,",
+          "start": 82.7,
+          "end": 84.14
+        },
+        {
+          "word": "nuestro",
+          "start": 84.54,
+          "end": 85.26
+        },
+        {
+          "word": "y",
+          "start": 85.94,
+          "end": 86.38
+        },
+        {
+          "word": "nuestro",
+          "start": 86.38,
+          "end": 87.0
+        },
+        {
+          "word": "amor,",
+          "start": 87.0,
+          "end": 87.66
+        }
+      ],
+      "start": 81.5,
+      "end": 87.66,
+      "confidence": 0.857,
+      "time": 81.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Brille Cristo en nuestras vidas,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "¡Ríe",
+          "start": 87.66,
+          "end": 88.98
+        },
+        {
+          "word": "Cristo",
+          "start": 88.98,
+          "end": 89.52
+        },
+        {
+          "word": "en",
+          "start": 89.52,
+          "end": 89.9
+        },
+        {
+          "word": "nuestras",
+          "start": 89.9,
+          "end": 90.58
+        },
+        {
+          "word": "vidas!",
+          "start": 90.58,
+          "end": 91.56
+        }
+      ],
+      "start": 87.66,
+      "end": 92.86,
+      "confidence": 0.96,
+      "time": 87.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "alabemos al Señor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "vemos",
+          "start": 92.86,
+          "end": 93.52
+        },
+        {
+          "word": "al",
+          "start": 93.52,
+          "end": 94.1
+        },
+        {
+          "word": "Señor!",
+          "start": 94.1,
+          "end": 95.18
+        }
+      ],
+      "start": 92.86,
+      "end": 95.18,
+      "confidence": 0.923,
+      "time": 92.86
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.908,
+  "language": "es",
+  "model": "medium",
+  "hymn": 62,
+  "source": "062 - Santo, Santo, Santo, santo es el Senor.mp3",
+  "duration": 134.27,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Santo, Santo, Santo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Santo,",
+          "start": 16.26,
+          "end": 17.66
+        },
+        {
+          "word": "santo,",
+          "start": 17.66,
+          "end": 19.06
+        },
+        {
+          "word": "santo,",
+          "start": 19.06,
+          "end": 22.48
+        }
+      ],
+      "start": 16.26,
+      "end": 22.68,
+      "confidence": 1.0,
+      "time": 16.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Santo es el Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "santo",
+          "start": 22.68,
+          "end": 24.36
+        },
+        {
+          "word": "es",
+          "start": 24.36,
+          "end": 25.46
+        },
+        {
+          "word": "el",
+          "start": 25.46,
+          "end": 25.92
+        },
+        {
+          "word": "Señor,",
+          "start": 25.92,
+          "end": 27.82
+        }
+      ],
+      "start": 22.68,
+      "end": 27.82,
+      "confidence": 1.0,
+      "time": 22.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Santo, Santo, Santo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Santo,",
+          "start": 30.76,
+          "end": 32.16
+        },
+        {
+          "word": "santo,",
+          "start": 32.16,
+          "end": 33.56
+        },
+        {
+          "word": "santo,",
+          "start": 33.64,
+          "end": 36.94
+        }
+      ],
+      "start": 30.76,
+      "end": 37.24,
+      "confidence": 1.0,
+      "time": 30.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Santo es nuestro Dios.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "santo",
+          "start": 37.24,
+          "end": 38.62
+        },
+        {
+          "word": "es",
+          "start": 38.62,
+          "end": 39.16
+        },
+        {
+          "word": "nuestro",
+          "start": 39.16,
+          "end": 40.74
+        },
+        {
+          "word": "Dios.",
+          "start": 40.74,
+          "end": 43.8
+        }
+      ],
+      "start": 37.24,
+      "end": 43.8,
+      "confidence": 1.0,
+      "time": 37.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Todopoderoso",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Todo",
+          "start": 43.8,
+          "end": 46.04
+        }
+      ],
+      "start": 43.8,
+      "end": 50.78,
+      "confidence": 0.94,
+      "time": 43.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "siempre reinará.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "siempre",
+          "start": 50.78,
+          "end": 53.0
+        },
+        {
+          "word": "reinará,",
+          "start": 53.0,
+          "end": 57.6
+        }
+      ],
+      "start": 50.78,
+      "end": 58.56,
+      "confidence": 1.0,
+      "time": 50.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Su dominio eterno",
+      "verse": 1,
+      "words": [
+        {
+          "word": "su",
+          "start": 58.56,
+          "end": 59.6
+        },
+        {
+          "word": "domingo",
+          "start": 59.6,
+          "end": 61.52
+        },
+        {
+          "word": "eterno",
+          "start": 61.52,
+          "end": 65.3
+        }
+      ],
+      "start": 58.56,
+      "end": 65.3,
+      "confidence": 0.971,
+      "time": 58.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nunca pasará.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "nunca",
+          "start": 65.3,
+          "end": 67.18
+        },
+        {
+          "word": "pasará.",
+          "start": 67.18,
+          "end": 71.1
+        }
+      ],
+      "start": 65.3,
+      "end": 71.1,
+      "confidence": 1.0,
+      "time": 65.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Santo, Santo, Santo,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¡Santo,",
+          "start": 73.74,
+          "end": 75.14
+        },
+        {
+          "word": "santo,",
+          "start": 75.14,
+          "end": 76.54
+        },
+        {
+          "word": "santo!",
+          "start": 76.84,
+          "end": 79.66
+        }
+      ],
+      "start": 73.74,
+      "end": 80.36,
+      "confidence": 1.0,
+      "time": 73.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Santo es el Señor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¡Santo",
+          "start": 80.36,
+          "end": 81.76
+        },
+        {
+          "word": "es",
+          "start": 81.76,
+          "end": 82.72
+        },
+        {
+          "word": "el",
+          "start": 82.72,
+          "end": 83.58
+        },
+        {
+          "word": "Señor!",
+          "start": 83.58,
+          "end": 85.86
+        }
+      ],
+      "start": 80.36,
+      "end": 85.86,
+      "confidence": 1.0,
+      "time": 80.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Santo, Santo, Santo,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "santo,",
+          "start": 88.26,
+          "end": 89.66
+        },
+        {
+          "word": "santo,",
+          "start": 89.66,
+          "end": 91.06
+        },
+        {
+          "word": "santo,",
+          "start": 91.06,
+          "end": 94.46
+        }
+      ],
+      "start": 88.26,
+      "end": 94.66,
+      "confidence": 1.0,
+      "time": 88.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Santo es nuestro Dios.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "santo",
+          "start": 94.66,
+          "end": 96.12
+        },
+        {
+          "word": "es",
+          "start": 96.12,
+          "end": 96.7
+        },
+        {
+          "word": "nuestro",
+          "start": 96.7,
+          "end": 98.2
+        },
+        {
+          "word": "Dios.",
+          "start": 98.2,
+          "end": 101.44
+        }
+      ],
+      "start": 94.66,
+      "end": 101.44,
+      "confidence": 1.0,
+      "time": 94.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Digno es de gloria,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "es",
+          "start": 103.92,
+          "end": 105.14
+        },
+        {
+          "word": "de",
+          "start": 105.14,
+          "end": 105.76
+        }
+      ],
+      "start": 103.92,
+      "end": 108.46,
+      "confidence": 0.5,
+      "time": 103.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "honra y poder.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "contra",
+          "start": 108.46,
+          "end": 110.44
+        },
+        {
+          "word": "y",
+          "start": 110.44,
+          "end": 111.98
+        },
+        {
+          "word": "por",
+          "start": 111.98,
+          "end": 112.66
+        }
+      ],
+      "start": 108.46,
+      "end": 115.6,
+      "confidence": 0.895,
+      "time": 108.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Su grandiosa obra",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Su",
+          "start": 115.64,
+          "end": 117.04
+        },
+        {
+          "word": "gran",
+          "start": 117.04,
+          "end": 117.72
+        },
+        {
+          "word": "obra",
+          "start": 120.4,
+          "end": 122.42
+        }
+      ],
+      "start": 115.64,
+      "end": 122.42,
+      "confidence": 0.98,
+      "time": 115.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "brilla por doquier.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "por",
+          "start": 126.0,
+          "end": 127.14
+        }
+      ],
+      "start": 126.0,
+      "end": 129.2,
+      "confidence": 0.333,
+      "time": 126.0
+    }
+  ]
+}

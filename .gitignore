@@ -5,3 +5,7 @@ dataBase/audios/
 *.mp3
 *.wav
 *.ogg
+
+# Entorno de las herramientas de sincronización vocal
+.venv/
+__pycache__/

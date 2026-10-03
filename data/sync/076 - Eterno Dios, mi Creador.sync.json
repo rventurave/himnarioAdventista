@@ -1,0 +1,356 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.463,
+  "language": "es",
+  "model": "medium",
+  "hymn": 76,
+  "source": "076 - Eterno Dios, mi Creador.mp3",
+  "duration": 106.66,
+  "needsReview": true,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Eterno Dios, mi Creador,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Este",
+          "start": 0.0,
+          "end": 1.1
+        }
+      ],
+      "start": 0.0,
+      "end": 4.06,
+      "confidence": 0.19,
+      "time": 0.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mi amparo en aflicción,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 4.06,
+          "end": 4.06
+        }
+      ],
+      "start": 4.06,
+      "end": 29.98,
+      "confidence": 0.25,
+      "time": 4.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tú has sido mi Consolador",
+      "verse": 1,
+      "start": 29.98,
+      "end": 30.95,
+      "confidence": 0.0,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en toda ocasión.",
+      "verse": 1,
+      "start": 30.95,
+      "end": 31.93,
+      "confidence": 0.0,
+      "time": 30.95
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Mil años a tu vista son",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mil",
+          "start": 32.9,
+          "end": 34.3
+        },
+        {
+          "word": "años",
+          "start": 34.3,
+          "end": 35.7
+        },
+        {
+          "word": "a",
+          "start": 35.7,
+          "end": 36.5
+        },
+        {
+          "word": "tu",
+          "start": 36.5,
+          "end": 36.92
+        }
+      ],
+      "start": 31.93,
+      "end": 32.9,
+      "confidence": 0.667,
+      "time": 31.93
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "cual brisas del ayer;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "albrisas",
+          "start": 39.3,
+          "end": 40.82
+        },
+        {
+          "word": "del",
+          "start": 40.82,
+          "end": 41.8
+        },
+        {
+          "word": "ayer,",
+          "start": 41.8,
+          "end": 43.94
+        }
+      ],
+      "start": 39.3,
+      "end": 43.94,
+      "confidence": 0.729,
+      "time": 39.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "cual hierba es mi condición,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "calieba",
+          "start": 44.58,
+          "end": 46.3
+        },
+        {
+          "word": "es",
+          "start": 46.3,
+          "end": 46.96
+        },
+        {
+          "word": "mi",
+          "start": 46.96,
+          "end": 47.64
+        },
+        {
+          "word": "condición,",
+          "start": 47.64,
+          "end": 49.44
+        }
+      ],
+      "start": 44.58,
+      "end": 50.14,
+      "confidence": 0.754,
+      "time": 44.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "perece atardecer.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "eres",
+          "start": 50.14,
+          "end": 50.84
+        }
+      ],
+      "start": 50.14,
+      "end": 54.54,
+      "confidence": 0.38,
+      "time": 50.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mi vida bajo tu ala está,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 54.54,
+          "end": 56.26
+        },
+        {
+          "word": "vida",
+          "start": 56.26,
+          "end": 57.5
+        },
+        {
+          "word": "bajo",
+          "start": 57.5,
+          "end": 58.66
+        },
+        {
+          "word": "tu",
+          "start": 58.66,
+          "end": 59.5
+        },
+        {
+          "word": "ala",
+          "start": 59.5,
+          "end": 60.16
+        },
+        {
+          "word": "está,",
+          "start": 60.16,
+          "end": 60.72
+        }
+      ],
+      "start": 54.54,
+      "end": 61.6,
+      "confidence": 1.0,
+      "time": 54.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "seguro habitaré;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "seguro",
+          "start": 61.6,
+          "end": 62.36
+        },
+        {
+          "word": "habitaré,",
+          "start": 62.36,
+          "end": 65.74
+        }
+      ],
+      "start": 61.6,
+      "end": 66.2,
+      "confidence": 1.0,
+      "time": 61.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu Espíritu me ayudará",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tu",
+          "start": 66.2,
+          "end": 66.78
+        },
+        {
+          "word": "espíritu",
+          "start": 66.78,
+          "end": 68.76
+        },
+        {
+          "word": "me",
+          "start": 68.76,
+          "end": 69.5
+        },
+        {
+          "word": "ayudará",
+          "start": 69.5,
+          "end": 71.26
+        }
+      ],
+      "start": 66.2,
+      "end": 71.26,
+      "confidence": 1.0,
+      "time": 66.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y en calma andaré.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 71.26,
+          "end": 72.06
+        },
+        {
+          "word": "en",
+          "start": 72.06,
+          "end": 72.42
+        },
+        {
+          "word": "calma",
+          "start": 72.42,
+          "end": 73.74
+        },
+        {
+          "word": "andaré.",
+          "start": 73.74,
+          "end": 76.54
+        }
+      ],
+      "start": 71.26,
+      "end": 76.54,
+      "confidence": 1.0,
+      "time": 71.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Eterno Dios, mi Redentor,",
+      "verse": 4,
+      "start": 76.54,
+      "end": 77.49,
+      "confidence": 0.0,
+      "time": 76.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "confío solo en ti;",
+      "verse": 4,
+      "start": 77.49,
+      "end": 78.43,
+      "confidence": 0.0,
+      "time": 77.49
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "sé tú mi Guía, oh Señor,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Este",
+          "start": 79.38,
+          "end": 80.78
+        }
+      ],
+      "start": 78.43,
+      "end": 79.38,
+      "confidence": 0.133,
+      "time": 78.43
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "en mi camino aquí.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 83.24,
+          "end": 83.24
+        }
+      ],
+      "start": 83.24,
+      "end": 105.94,
+      "confidence": 0.25,
+      "time": 83.24
+    }
+  ]
+}

@@ -1,0 +1,998 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.991,
+  "language": "es",
+  "model": "medium",
+  "hymn": 132,
+  "source": "132 - Dulce, hermoso nombre es Jesus.mp3",
+  "duration": 193.2,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hay nombres que me encanta escuchar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hay",
+          "start": 15.66,
+          "end": 16.52
+        },
+        {
+          "word": "nombres",
+          "start": 16.52,
+          "end": 17.44
+        },
+        {
+          "word": "que",
+          "start": 17.44,
+          "end": 17.9
+        },
+        {
+          "word": "me",
+          "start": 17.9,
+          "end": 18.44
+        },
+        {
+          "word": "encanta",
+          "start": 18.44,
+          "end": 19.32
+        },
+        {
+          "word": "escuchar",
+          "start": 19.32,
+          "end": 22.7
+        }
+      ],
+      "start": 15.66,
+      "end": 22.7,
+      "confidence": 1.0,
+      "time": 15.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mas no hay otro como el de Jesús;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mas",
+          "start": 22.7,
+          "end": 23.82
+        },
+        {
+          "word": "no",
+          "start": 23.82,
+          "end": 24.46
+        },
+        {
+          "word": "hay",
+          "start": 24.46,
+          "end": 24.94
+        },
+        {
+          "word": "otro",
+          "start": 24.94,
+          "end": 25.54
+        },
+        {
+          "word": "como",
+          "start": 25.54,
+          "end": 26.18
+        },
+        {
+          "word": "el",
+          "start": 26.18,
+          "end": 26.72
+        },
+        {
+          "word": "de",
+          "start": 26.72,
+          "end": 27.08
+        },
+        {
+          "word": "Jesús",
+          "start": 27.08,
+          "end": 30.26
+        }
+      ],
+      "start": 22.7,
+      "end": 30.26,
+      "confidence": 1.0,
+      "time": 22.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nombre sin igual, nombre celestial;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Nombre",
+          "start": 30.78,
+          "end": 31.86
+        },
+        {
+          "word": "sin",
+          "start": 31.86,
+          "end": 32.66
+        },
+        {
+          "word": "igual,",
+          "start": 32.66,
+          "end": 34.08
+        },
+        {
+          "word": "nombre",
+          "start": 34.52,
+          "end": 35.4
+        },
+        {
+          "word": "celestial",
+          "start": 35.4,
+          "end": 37.34
+        }
+      ],
+      "start": 30.78,
+      "end": 37.34,
+      "confidence": 1.0,
+      "time": 30.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús, el más precioso nombre.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 37.34,
+          "end": 38.5
+        },
+        {
+          "word": "el",
+          "start": 38.9,
+          "end": 39.0
+        },
+        {
+          "word": "más",
+          "start": 39.0,
+          "end": 39.48
+        },
+        {
+          "word": "precioso",
+          "start": 39.48,
+          "end": 41.64
+        },
+        {
+          "word": "nombre",
+          "start": 41.64,
+          "end": 44.7
+        }
+      ],
+      "start": 37.34,
+      "end": 44.7,
+      "confidence": 1.0,
+      "time": 37.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Dulce, hermoso nombre es Jesús,",
+      "words": [
+        {
+          "word": "hermoso",
+          "start": 45.62,
+          "end": 47.1
+        },
+        {
+          "word": "nombre",
+          "start": 47.1,
+          "end": 47.94
+        },
+        {
+          "word": "es",
+          "start": 47.94,
+          "end": 48.58
+        },
+        {
+          "word": "Jesús",
+          "start": 48.58,
+          "end": 51.0
+        }
+      ],
+      "start": 45.62,
+      "end": 51.0,
+      "confidence": 0.8,
+      "time": 45.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "así como es su infinito amor;",
+      "words": [
+        {
+          "word": "Así",
+          "start": 51.0,
+          "end": 52.38
+        },
+        {
+          "word": "como",
+          "start": 52.38,
+          "end": 53.62
+        },
+        {
+          "word": "es",
+          "start": 53.62,
+          "end": 54.8
+        },
+        {
+          "word": "su",
+          "start": 54.8,
+          "end": 55.34
+        },
+        {
+          "word": "infinito",
+          "start": 55.34,
+          "end": 56.84
+        },
+        {
+          "word": "amor,",
+          "start": 56.84,
+          "end": 58.4
+        }
+      ],
+      "start": 51.0,
+      "end": 59.0,
+      "confidence": 1.0,
+      "time": 51.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "por eso para siempre amaré",
+      "words": [
+        {
+          "word": "por",
+          "start": 59.0,
+          "end": 59.74
+        },
+        {
+          "word": "eso",
+          "start": 59.74,
+          "end": 60.46
+        },
+        {
+          "word": "para",
+          "start": 60.46,
+          "end": 61.26
+        },
+        {
+          "word": "siempre",
+          "start": 61.26,
+          "end": 62.32
+        },
+        {
+          "word": "amaré",
+          "start": 62.32,
+          "end": 65.2
+        }
+      ],
+      "start": 59.0,
+      "end": 65.2,
+      "confidence": 1.0,
+      "time": 59.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "el dulce nombre de mi buen Jesús.",
+      "words": [
+        {
+          "word": "el",
+          "start": 65.2,
+          "end": 66.76
+        },
+        {
+          "word": "doce",
+          "start": 66.76,
+          "end": 67.6
+        },
+        {
+          "word": "nombre",
+          "start": 67.6,
+          "end": 68.44
+        },
+        {
+          "word": "de",
+          "start": 68.44,
+          "end": 69.14
+        },
+        {
+          "word": "mi",
+          "start": 69.14,
+          "end": 69.54
+        },
+        {
+          "word": "buen",
+          "start": 69.54,
+          "end": 69.86
+        },
+        {
+          "word": "Jesús.",
+          "start": 69.86,
+          "end": 72.8
+        }
+      ],
+      "start": 65.2,
+      "end": 72.8,
+      "confidence": 0.971,
+      "time": 65.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "No hay en tierra o cielo nombre igual",
+      "verse": 2,
+      "words": [
+        {
+          "word": "No",
+          "start": 72.8,
+          "end": 75.14
+        },
+        {
+          "word": "hay",
+          "start": 75.14,
+          "end": 76.02
+        },
+        {
+          "word": "en",
+          "start": 76.02,
+          "end": 76.36
+        },
+        {
+          "word": "tierra",
+          "start": 76.36,
+          "end": 76.76
+        },
+        {
+          "word": "o",
+          "start": 76.76,
+          "end": 77.14
+        },
+        {
+          "word": "cielo",
+          "start": 77.14,
+          "end": 77.64
+        },
+        {
+          "word": "nombre",
+          "start": 77.64,
+          "end": 78.54
+        },
+        {
+          "word": "igual",
+          "start": 78.54,
+          "end": 80.92
+        }
+      ],
+      "start": 72.8,
+      "end": 80.92,
+      "confidence": 1.0,
+      "time": 72.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al que ofrezcamos todo nuestro honor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 80.92,
+          "end": 82.28
+        },
+        {
+          "word": "que",
+          "start": 82.28,
+          "end": 82.7
+        },
+        {
+          "word": "ofrezcamos",
+          "start": 82.7,
+          "end": 84.14
+        },
+        {
+          "word": "todo",
+          "start": 84.14,
+          "end": 85.0
+        },
+        {
+          "word": "nuestro",
+          "start": 85.0,
+          "end": 85.8
+        },
+        {
+          "word": "honor",
+          "start": 85.8,
+          "end": 88.22
+        }
+      ],
+      "start": 80.92,
+      "end": 88.22,
+      "confidence": 1.0,
+      "time": 80.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "como el nombre fiel de mi Salvador;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Como",
+          "start": 88.22,
+          "end": 90.04
+        },
+        {
+          "word": "el",
+          "start": 90.04,
+          "end": 90.44
+        },
+        {
+          "word": "nombre",
+          "start": 90.44,
+          "end": 91.22
+        },
+        {
+          "word": "fiel",
+          "start": 91.22,
+          "end": 92.82
+        },
+        {
+          "word": "de",
+          "start": 92.82,
+          "end": 93.52
+        },
+        {
+          "word": "mi",
+          "start": 93.52,
+          "end": 93.96
+        },
+        {
+          "word": "Salvador,",
+          "start": 93.96,
+          "end": 95.76
+        }
+      ],
+      "start": 88.22,
+      "end": 96.44,
+      "confidence": 1.0,
+      "time": 88.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesús, el más precioso nombre.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 96.44,
+          "end": 97.0
+        },
+        {
+          "word": "el",
+          "start": 97.34,
+          "end": 97.48
+        },
+        {
+          "word": "más",
+          "start": 97.48,
+          "end": 98.04
+        },
+        {
+          "word": "precioso",
+          "start": 98.04,
+          "end": 100.14
+        },
+        {
+          "word": "nombre",
+          "start": 100.14,
+          "end": 103.18
+        }
+      ],
+      "start": 96.44,
+      "end": 103.18,
+      "confidence": 1.0,
+      "time": 96.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Dulce, hermoso nombre es Jesús,",
+      "words": [
+        {
+          "word": "Dulce",
+          "start": 103.18,
+          "end": 104.68
+        },
+        {
+          "word": "hermoso",
+          "start": 104.68,
+          "end": 105.7
+        },
+        {
+          "word": "nombre",
+          "start": 105.7,
+          "end": 106.46
+        },
+        {
+          "word": "es",
+          "start": 106.46,
+          "end": 106.96
+        },
+        {
+          "word": "Jesús,",
+          "start": 106.96,
+          "end": 109.7
+        }
+      ],
+      "start": 103.18,
+      "end": 109.7,
+      "confidence": 1.0,
+      "time": 103.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "así como es su infinito amor;",
+      "words": [
+        {
+          "word": "así",
+          "start": 109.7,
+          "end": 110.96
+        },
+        {
+          "word": "como",
+          "start": 110.96,
+          "end": 112.12
+        },
+        {
+          "word": "es",
+          "start": 112.12,
+          "end": 113.42
+        },
+        {
+          "word": "su",
+          "start": 113.42,
+          "end": 113.98
+        },
+        {
+          "word": "infinito",
+          "start": 113.98,
+          "end": 115.38
+        },
+        {
+          "word": "amor",
+          "start": 115.38,
+          "end": 117.32
+        }
+      ],
+      "start": 109.7,
+      "end": 117.32,
+      "confidence": 1.0,
+      "time": 109.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "por eso para siempre amaré",
+      "words": [
+        {
+          "word": "Por",
+          "start": 117.32,
+          "end": 118.26
+        },
+        {
+          "word": "eso",
+          "start": 118.26,
+          "end": 118.96
+        },
+        {
+          "word": "para",
+          "start": 118.96,
+          "end": 119.86
+        },
+        {
+          "word": "siempre",
+          "start": 119.86,
+          "end": 120.8
+        },
+        {
+          "word": "amaré",
+          "start": 120.8,
+          "end": 123.82
+        }
+      ],
+      "start": 117.32,
+      "end": 123.82,
+      "confidence": 1.0,
+      "time": 117.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "el dulce nombre de mi buen Jesús.",
+      "words": [
+        {
+          "word": "el",
+          "start": 123.82,
+          "end": 125.28
+        },
+        {
+          "word": "dulce",
+          "start": 125.28,
+          "end": 126.14
+        },
+        {
+          "word": "nombre",
+          "start": 126.14,
+          "end": 127.04
+        },
+        {
+          "word": "de",
+          "start": 127.04,
+          "end": 127.7
+        },
+        {
+          "word": "mi",
+          "start": 127.7,
+          "end": 128.06
+        },
+        {
+          "word": "buen",
+          "start": 128.06,
+          "end": 128.44
+        },
+        {
+          "word": "Jesús.",
+          "start": 128.44,
+          "end": 131.86
+        }
+      ],
+      "start": 123.82,
+      "end": 131.86,
+      "confidence": 1.0,
+      "time": 123.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Un día cara a cara lo veré,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Un",
+          "start": 132.86,
+          "end": 133.7
+        },
+        {
+          "word": "día",
+          "start": 133.7,
+          "end": 134.56
+        },
+        {
+          "word": "cara",
+          "start": 134.56,
+          "end": 135.4
+        },
+        {
+          "word": "a",
+          "start": 135.4,
+          "end": 135.46
+        },
+        {
+          "word": "cara",
+          "start": 135.46,
+          "end": 136.2
+        },
+        {
+          "word": "lo",
+          "start": 136.2,
+          "end": 136.88
+        },
+        {
+          "word": "veré,",
+          "start": 136.88,
+          "end": 139.78
+        }
+      ],
+      "start": 132.86,
+      "end": 139.78,
+      "confidence": 1.0,
+      "time": 132.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "tributos por su gracia le daré.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tributos",
+          "start": 140.02,
+          "end": 141.66
+        },
+        {
+          "word": "por",
+          "start": 141.66,
+          "end": 142.12
+        },
+        {
+          "word": "su",
+          "start": 142.12,
+          "end": 142.66
+        },
+        {
+          "word": "gracia",
+          "start": 142.66,
+          "end": 143.54
+        },
+        {
+          "word": "le",
+          "start": 143.54,
+          "end": 144.14
+        },
+        {
+          "word": "daré.",
+          "start": 144.14,
+          "end": 146.72
+        }
+      ],
+      "start": 140.02,
+      "end": 146.72,
+      "confidence": 1.0,
+      "time": 140.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Él me redimió, me dio libertad;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Él",
+          "start": 146.72,
+          "end": 148.36
+        },
+        {
+          "word": "me",
+          "start": 148.36,
+          "end": 149.16
+        },
+        {
+          "word": "redimió,",
+          "start": 149.16,
+          "end": 151.3
+        },
+        {
+          "word": "me",
+          "start": 151.98,
+          "end": 152.06
+        },
+        {
+          "word": "dio",
+          "start": 152.06,
+          "end": 152.36
+        },
+        {
+          "word": "libertad,",
+          "start": 152.36,
+          "end": 154.64
+        }
+      ],
+      "start": 146.72,
+      "end": 154.98,
+      "confidence": 1.0,
+      "time": 146.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Jesús, el más precioso nombre.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 154.98,
+          "end": 155.5
+        },
+        {
+          "word": "del",
+          "start": 155.5,
+          "end": 155.96
+        },
+        {
+          "word": "más",
+          "start": 155.96,
+          "end": 156.56
+        },
+        {
+          "word": "precioso",
+          "start": 156.56,
+          "end": 158.62
+        },
+        {
+          "word": "nombre",
+          "start": 158.62,
+          "end": 161.6
+        }
+      ],
+      "start": 154.98,
+      "end": 161.6,
+      "confidence": 0.976,
+      "time": 154.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Dulce, hermoso nombre es Jesús,",
+      "words": [
+        {
+          "word": "¡Dulce",
+          "start": 161.6,
+          "end": 163.12
+        },
+        {
+          "word": "hermoso",
+          "start": 163.12,
+          "end": 164.14
+        },
+        {
+          "word": "nombre",
+          "start": 164.14,
+          "end": 164.94
+        },
+        {
+          "word": "es",
+          "start": 164.94,
+          "end": 165.54
+        },
+        {
+          "word": "Jesús,",
+          "start": 165.54,
+          "end": 167.9
+        }
+      ],
+      "start": 161.6,
+      "end": 168.3,
+      "confidence": 1.0,
+      "time": 161.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "así como es su infinito amor;",
+      "words": [
+        {
+          "word": "así",
+          "start": 168.3,
+          "end": 169.38
+        },
+        {
+          "word": "como",
+          "start": 169.38,
+          "end": 170.56
+        },
+        {
+          "word": "es",
+          "start": 170.56,
+          "end": 171.82
+        },
+        {
+          "word": "su",
+          "start": 171.82,
+          "end": 172.32
+        },
+        {
+          "word": "infinito",
+          "start": 172.32,
+          "end": 173.86
+        },
+        {
+          "word": "amor!",
+          "start": 173.86,
+          "end": 175.2
+        }
+      ],
+      "start": 168.3,
+      "end": 175.2,
+      "confidence": 1.0,
+      "time": 168.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "por eso para siempre amaré",
+      "words": [
+        {
+          "word": "¡Por",
+          "start": 175.48,
+          "end": 176.7
+        },
+        {
+          "word": "eso",
+          "start": 176.7,
+          "end": 177.42
+        },
+        {
+          "word": "para",
+          "start": 177.42,
+          "end": 178.28
+        },
+        {
+          "word": "siempre",
+          "start": 178.28,
+          "end": 179.2
+        },
+        {
+          "word": "amaré",
+          "start": 179.2,
+          "end": 182.1
+        }
+      ],
+      "start": 175.48,
+      "end": 182.1,
+      "confidence": 1.0,
+      "time": 175.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "el dulce nombre de mi buen Jesús.",
+      "words": [
+        {
+          "word": "el",
+          "start": 182.1,
+          "end": 183.74
+        },
+        {
+          "word": "dulce",
+          "start": 183.74,
+          "end": 184.64
+        },
+        {
+          "word": "nombre",
+          "start": 184.64,
+          "end": 185.54
+        },
+        {
+          "word": "de",
+          "start": 185.54,
+          "end": 186.2
+        },
+        {
+          "word": "mi",
+          "start": 186.2,
+          "end": 186.56
+        },
+        {
+          "word": "buen",
+          "start": 186.56,
+          "end": 186.92
+        },
+        {
+          "word": "Jesús!",
+          "start": 186.92,
+          "end": 188.32
+        }
+      ],
+      "start": 182.1,
+      "end": 188.32,
+      "confidence": 1.0,
+      "time": 182.1
+    }
+  ]
+}

@@ -1,0 +1,1073 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.977,
+  "language": "es",
+  "model": "medium",
+  "hymn": 161,
+  "source": "161 - Oh cuan gratas las nuevas.mp3",
+  "duration": 206.16,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh! cuán gratas las nuevas al peregrino aquí,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "O",
+          "start": 32.06,
+          "end": 33.34
+        },
+        {
+          "word": "cuán",
+          "start": 33.34,
+          "end": 33.82
+        },
+        {
+          "word": "gratas",
+          "start": 33.82,
+          "end": 34.86
+        },
+        {
+          "word": "las",
+          "start": 34.86,
+          "end": 35.36
+        },
+        {
+          "word": "nuevas",
+          "start": 35.36,
+          "end": 36.34
+        },
+        {
+          "word": "al",
+          "start": 36.34,
+          "end": 36.84
+        },
+        {
+          "word": "peregrino",
+          "start": 36.84,
+          "end": 38.26
+        },
+        {
+          "word": "aquí,",
+          "start": 38.26,
+          "end": 38.98
+        }
+      ],
+      "start": 32.06,
+      "end": 39.5,
+      "confidence": 0.975,
+      "time": 32.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en destierro obligado a vagar:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 39.5,
+          "end": 39.8
+        },
+        {
+          "word": "destierro",
+          "start": 39.8,
+          "end": 41.22
+        },
+        {
+          "word": "obligado",
+          "start": 41.22,
+          "end": 42.62
+        },
+        {
+          "word": "a",
+          "start": 42.62,
+          "end": 42.96
+        },
+        {
+          "word": "vagar.",
+          "start": 42.96,
+          "end": 45.14
+        }
+      ],
+      "start": 39.5,
+      "end": 45.14,
+      "confidence": 1.0,
+      "time": 39.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "\"He aquí, pronto en gloria tu Salvador vendrá,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "He",
+          "start": 45.72,
+          "end": 46.26
+        },
+        {
+          "word": "aquí",
+          "start": 46.26,
+          "end": 47.16
+        },
+        {
+          "word": "pronto",
+          "start": 47.16,
+          "end": 47.7
+        },
+        {
+          "word": "en",
+          "start": 47.7,
+          "end": 48.08
+        },
+        {
+          "word": "gloria",
+          "start": 48.08,
+          "end": 49.04
+        },
+        {
+          "word": "tu",
+          "start": 49.04,
+          "end": 49.56
+        },
+        {
+          "word": "Salvador",
+          "start": 49.56,
+          "end": 50.72
+        },
+        {
+          "word": "vendrá,",
+          "start": 50.72,
+          "end": 51.82
+        }
+      ],
+      "start": 45.72,
+      "end": 52.16,
+      "confidence": 1.0,
+      "time": 45.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y podrás en su reino entrar\".",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 52.16,
+          "end": 52.5
+        },
+        {
+          "word": "podrás",
+          "start": 52.5,
+          "end": 53.86
+        },
+        {
+          "word": "en",
+          "start": 53.86,
+          "end": 54.12
+        },
+        {
+          "word": "su",
+          "start": 54.12,
+          "end": 54.56
+        },
+        {
+          "word": "reino",
+          "start": 54.56,
+          "end": 55.88
+        },
+        {
+          "word": "entrar.",
+          "start": 55.88,
+          "end": 57.8
+        }
+      ],
+      "start": 52.16,
+      "end": 57.8,
+      "confidence": 1.0,
+      "time": 52.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Sí, viene, viene, viene, esto sé;",
+      "words": [
+        {
+          "word": "Si",
+          "start": 57.8,
+          "end": 59.54
+        },
+        {
+          "word": "viene,",
+          "start": 59.54,
+          "end": 60.92
+        },
+        {
+          "word": "viene,",
+          "start": 61.24,
+          "end": 62.62
+        },
+        {
+          "word": "viene",
+          "start": 62.76,
+          "end": 63.5
+        },
+        {
+          "word": "esto",
+          "start": 63.5,
+          "end": 64.32
+        },
+        {
+          "word": "se,",
+          "start": 64.32,
+          "end": 64.92
+        }
+      ],
+      "start": 57.8,
+      "end": 65.24,
+      "confidence": 1.0,
+      "time": 57.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "a la tierra Jesús vendrá;",
+      "words": [
+        {
+          "word": "a",
+          "start": 65.24,
+          "end": 65.66
+        },
+        {
+          "word": "la",
+          "start": 65.66,
+          "end": 66.02
+        },
+        {
+          "word": "tierra",
+          "start": 66.02,
+          "end": 67.06
+        },
+        {
+          "word": "Jesús",
+          "start": 67.06,
+          "end": 68.22
+        },
+        {
+          "word": "vendrá.",
+          "start": 68.22,
+          "end": 70.68
+        }
+      ],
+      "start": 65.24,
+      "end": 70.68,
+      "confidence": 1.0,
+      "time": 65.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y los peregrinos a la gloria irán,",
+      "words": [
+        {
+          "word": "Y",
+          "start": 71.14,
+          "end": 71.82
+        },
+        {
+          "word": "los",
+          "start": 71.82,
+          "end": 72.72
+        },
+        {
+          "word": "peregrinos",
+          "start": 72.72,
+          "end": 78.26
+        },
+        {
+          "word": "a",
+          "start": 78.26,
+          "end": 79.36
+        },
+        {
+          "word": "la",
+          "start": 79.36,
+          "end": 79.7
+        },
+        {
+          "word": "gloria",
+          "start": 79.7,
+          "end": 80.18
+        },
+        {
+          "word": "irán,",
+          "start": 80.18,
+          "end": 80.92
+        }
+      ],
+      "start": 71.14,
+      "end": 81.22,
+      "confidence": 1.0,
+      "time": 71.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "a su reino el Señor los guiará.",
+      "words": [
+        {
+          "word": "a",
+          "start": 81.22,
+          "end": 81.62
+        },
+        {
+          "word": "su",
+          "start": 81.62,
+          "end": 81.96
+        },
+        {
+          "word": "reino",
+          "start": 81.96,
+          "end": 82.92
+        },
+        {
+          "word": "el",
+          "start": 82.92,
+          "end": 83.22
+        },
+        {
+          "word": "Señor",
+          "start": 83.22,
+          "end": 84.36
+        },
+        {
+          "word": "los",
+          "start": 84.36,
+          "end": 84.98
+        }
+      ],
+      "start": 81.22,
+      "end": 86.52,
+      "confidence": 0.857,
+      "time": 81.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Los sepulcros de cuantos en Cristo duermen ya,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Los",
+          "start": 87.8,
+          "end": 89.12
+        },
+        {
+          "word": "sepulcros",
+          "start": 89.12,
+          "end": 90.52
+        },
+        {
+          "word": "de",
+          "start": 90.52,
+          "end": 91.14
+        },
+        {
+          "word": "cuantos",
+          "start": 91.14,
+          "end": 92.24
+        },
+        {
+          "word": "en",
+          "start": 92.24,
+          "end": 92.64
+        },
+        {
+          "word": "Cristo",
+          "start": 92.64,
+          "end": 93.22
+        },
+        {
+          "word": "duermen",
+          "start": 93.22,
+          "end": 94.14
+        },
+        {
+          "word": "ya",
+          "start": 94.14,
+          "end": 94.98
+        }
+      ],
+      "start": 87.8,
+      "end": 94.98,
+      "confidence": 1.0,
+      "time": 87.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "otra vez todos se han de abrir;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "otra",
+          "start": 94.98,
+          "end": 95.82
+        },
+        {
+          "word": "vez",
+          "start": 95.82,
+          "end": 96.56
+        },
+        {
+          "word": "todos",
+          "start": 96.56,
+          "end": 97.28
+        },
+        {
+          "word": "se",
+          "start": 97.28,
+          "end": 97.94
+        },
+        {
+          "word": "han",
+          "start": 97.94,
+          "end": 98.26
+        },
+        {
+          "word": "de",
+          "start": 98.26,
+          "end": 98.98
+        },
+        {
+          "word": "abrir",
+          "start": 98.98,
+          "end": 100.54
+        }
+      ],
+      "start": 94.98,
+      "end": 100.54,
+      "confidence": 1.0,
+      "time": 94.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "los millones también que en el mar profundo están",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Los",
+          "start": 100.54,
+          "end": 101.8
+        },
+        {
+          "word": "millones",
+          "start": 101.8,
+          "end": 103.2
+        },
+        {
+          "word": "también",
+          "start": 103.2,
+          "end": 104.44
+        },
+        {
+          "word": "que",
+          "start": 104.44,
+          "end": 104.94
+        },
+        {
+          "word": "en",
+          "start": 104.94,
+          "end": 105.3
+        },
+        {
+          "word": "el",
+          "start": 105.3,
+          "end": 105.44
+        },
+        {
+          "word": "mar",
+          "start": 105.44,
+          "end": 105.82
+        },
+        {
+          "word": "profundo",
+          "start": 105.82,
+          "end": 106.86
+        },
+        {
+          "word": "están",
+          "start": 106.86,
+          "end": 107.72
+        }
+      ],
+      "start": 100.54,
+      "end": 107.72,
+      "confidence": 1.0,
+      "time": 100.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "volverán otra vez a vivir.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "volverán",
+          "start": 107.72,
+          "end": 109.6
+        },
+        {
+          "word": "otra",
+          "start": 109.6,
+          "end": 110.38
+        },
+        {
+          "word": "vez",
+          "start": 110.38,
+          "end": 111.2
+        },
+        {
+          "word": "a",
+          "start": 111.2,
+          "end": 111.74
+        },
+        {
+          "word": "vivir",
+          "start": 111.74,
+          "end": 113.68
+        }
+      ],
+      "start": 107.72,
+      "end": 113.68,
+      "confidence": 1.0,
+      "time": 107.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Sí, viene, viene, viene, esto sé;",
+      "words": [
+        {
+          "word": "Si",
+          "start": 113.68,
+          "end": 115.24
+        },
+        {
+          "word": "viene,",
+          "start": 115.24,
+          "end": 116.58
+        },
+        {
+          "word": "viene,",
+          "start": 117.0,
+          "end": 118.14
+        },
+        {
+          "word": "viene",
+          "start": 119.6,
+          "end": 119.6
+        },
+        {
+          "word": "Estosé,",
+          "start": 119.6,
+          "end": 120.8
+        }
+      ],
+      "start": 113.68,
+      "end": 120.94,
+      "confidence": 0.823,
+      "time": 113.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "a la tierra Jesús vendrá;",
+      "words": [
+        {
+          "word": "a",
+          "start": 120.94,
+          "end": 121.4
+        },
+        {
+          "word": "la",
+          "start": 121.4,
+          "end": 121.76
+        },
+        {
+          "word": "tierra",
+          "start": 121.76,
+          "end": 122.78
+        },
+        {
+          "word": "Jesús",
+          "start": 122.78,
+          "end": 123.94
+        },
+        {
+          "word": "vendrá.",
+          "start": 123.94,
+          "end": 126.6
+        }
+      ],
+      "start": 120.94,
+      "end": 126.6,
+      "confidence": 1.0,
+      "time": 120.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y los peregrinos a la gloria irán,",
+      "words": [
+        {
+          "word": "Y",
+          "start": 127.04,
+          "end": 127.6
+        },
+        {
+          "word": "los",
+          "start": 127.6,
+          "end": 128.72
+        },
+        {
+          "word": "peregrinos",
+          "start": 128.72,
+          "end": 134.04
+        },
+        {
+          "word": "a",
+          "start": 134.04,
+          "end": 135.1
+        },
+        {
+          "word": "la",
+          "start": 135.1,
+          "end": 135.38
+        },
+        {
+          "word": "gloria",
+          "start": 135.38,
+          "end": 135.9
+        },
+        {
+          "word": "irán,",
+          "start": 135.9,
+          "end": 136.64
+        }
+      ],
+      "start": 127.04,
+      "end": 136.96,
+      "confidence": 1.0,
+      "time": 127.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "a su reino el Señor los guiará.",
+      "words": [
+        {
+          "word": "a",
+          "start": 136.96,
+          "end": 137.32
+        },
+        {
+          "word": "su",
+          "start": 137.32,
+          "end": 137.7
+        },
+        {
+          "word": "reino",
+          "start": 137.7,
+          "end": 138.66
+        },
+        {
+          "word": "el",
+          "start": 138.66,
+          "end": 138.94
+        },
+        {
+          "word": "Señor",
+          "start": 138.94,
+          "end": 140.08
+        },
+        {
+          "word": "los",
+          "start": 140.08,
+          "end": 140.62
+        },
+        {
+          "word": "guiará.",
+          "start": 140.62,
+          "end": 142.64
+        }
+      ],
+      "start": 136.96,
+      "end": 142.64,
+      "confidence": 1.0,
+      "time": 136.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Nos veremos allá en el nuevo Edén feliz;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Nos",
+          "start": 143.68,
+          "end": 144.76
+        },
+        {
+          "word": "veremos",
+          "start": 144.76,
+          "end": 146.46
+        },
+        {
+          "word": "allá",
+          "start": 146.46,
+          "end": 147.54
+        },
+        {
+          "word": "en",
+          "start": 147.54,
+          "end": 148.18
+        },
+        {
+          "word": "el",
+          "start": 148.18,
+          "end": 148.4
+        },
+        {
+          "word": "Nuevo",
+          "start": 148.4,
+          "end": 148.96
+        },
+        {
+          "word": "Edén",
+          "start": 148.96,
+          "end": 149.64
+        },
+        {
+          "word": "feliz,",
+          "start": 149.64,
+          "end": 150.46
+        }
+      ],
+      "start": 143.68,
+      "end": 151.08,
+      "confidence": 1.0,
+      "time": 143.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "el \"adiós\" no diremos jamás;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 151.08,
+          "end": 151.3
+        },
+        {
+          "word": "adiós",
+          "start": 151.3,
+          "end": 152.38
+        },
+        {
+          "word": "no",
+          "start": 152.38,
+          "end": 152.76
+        },
+        {
+          "word": "diremos",
+          "start": 152.76,
+          "end": 154.26
+        },
+        {
+          "word": "jamás,",
+          "start": 154.26,
+          "end": 156.56
+        }
+      ],
+      "start": 151.08,
+      "end": 156.56,
+      "confidence": 1.0,
+      "time": 151.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pues del norte y del sur los salvados llegarán,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 156.96,
+          "end": 157.48
+        },
+        {
+          "word": "del",
+          "start": 157.48,
+          "end": 158.06
+        },
+        {
+          "word": "norte",
+          "start": 158.06,
+          "end": 158.84
+        },
+        {
+          "word": "y",
+          "start": 158.84,
+          "end": 159.12
+        },
+        {
+          "word": "del",
+          "start": 159.12,
+          "end": 159.56
+        },
+        {
+          "word": "sur",
+          "start": 159.56,
+          "end": 160.24
+        },
+        {
+          "word": "los",
+          "start": 160.24,
+          "end": 160.8
+        },
+        {
+          "word": "salvados",
+          "start": 160.8,
+          "end": 161.86
+        },
+        {
+          "word": "negarán",
+          "start": 161.86,
+          "end": 163.54
+        }
+      ],
+      "start": 156.96,
+      "end": 163.54,
+      "confidence": 0.987,
+      "time": 156.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "a morar en el reino de paz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 163.54,
+          "end": 164.08
+        },
+        {
+          "word": "morar",
+          "start": 164.08,
+          "end": 165.3
+        },
+        {
+          "word": "en",
+          "start": 165.3,
+          "end": 165.74
+        },
+        {
+          "word": "el",
+          "start": 165.74,
+          "end": 166.18
+        },
+        {
+          "word": "reino",
+          "start": 166.18,
+          "end": 167.16
+        },
+        {
+          "word": "de",
+          "start": 167.16,
+          "end": 167.78
+        },
+        {
+          "word": "paz.",
+          "start": 167.78,
+          "end": 169.34
+        }
+      ],
+      "start": 163.54,
+      "end": 169.34,
+      "confidence": 1.0,
+      "time": 163.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Sí, viene, viene, viene, esto sé;",
+      "words": [
+        {
+          "word": "Si",
+          "start": 169.34,
+          "end": 170.88
+        },
+        {
+          "word": "viene,",
+          "start": 170.88,
+          "end": 172.22
+        },
+        {
+          "word": "viene,",
+          "start": 172.84,
+          "end": 173.96
+        },
+        {
+          "word": "viene",
+          "start": 175.3,
+          "end": 175.3
+        },
+        {
+          "word": "Escoce,",
+          "start": 175.3,
+          "end": 176.26
+        }
+      ],
+      "start": 169.34,
+      "end": 176.58,
+      "confidence": 0.793,
+      "time": 169.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "a la tierra Jesús vendrá;",
+      "words": [
+        {
+          "word": "a",
+          "start": 176.58,
+          "end": 177.06
+        },
+        {
+          "word": "la",
+          "start": 177.06,
+          "end": 177.44
+        },
+        {
+          "word": "tierra",
+          "start": 177.44,
+          "end": 178.46
+        },
+        {
+          "word": "Jesús",
+          "start": 178.46,
+          "end": 179.68
+        },
+        {
+          "word": "vendrá",
+          "start": 179.68,
+          "end": 182.3
+        }
+      ],
+      "start": 176.58,
+      "end": 182.3,
+      "confidence": 1.0,
+      "time": 176.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y los peregrinos a la gloria irán,",
+      "words": [
+        {
+          "word": "Y",
+          "start": 182.3,
+          "end": 183.3
+        },
+        {
+          "word": "los",
+          "start": 183.3,
+          "end": 184.14
+        },
+        {
+          "word": "peregrinos",
+          "start": 184.14,
+          "end": 189.82
+        },
+        {
+          "word": "a",
+          "start": 189.82,
+          "end": 190.86
+        },
+        {
+          "word": "la",
+          "start": 190.86,
+          "end": 191.16
+        },
+        {
+          "word": "gloria",
+          "start": 191.16,
+          "end": 191.62
+        },
+        {
+          "word": "irán,",
+          "start": 191.62,
+          "end": 192.48
+        }
+      ],
+      "start": 182.3,
+      "end": 192.74,
+      "confidence": 1.0,
+      "time": 182.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "a su reino el Señor los guiará.",
+      "words": [
+        {
+          "word": "a",
+          "start": 192.74,
+          "end": 193.06
+        },
+        {
+          "word": "su",
+          "start": 193.06,
+          "end": 193.42
+        },
+        {
+          "word": "reino",
+          "start": 193.42,
+          "end": 194.38
+        },
+        {
+          "word": "el",
+          "start": 194.38,
+          "end": 194.68
+        },
+        {
+          "word": "Señor",
+          "start": 194.68,
+          "end": 195.78
+        },
+        {
+          "word": "los",
+          "start": 195.78,
+          "end": 196.32
+        },
+        {
+          "word": "guiará.",
+          "start": 196.32,
+          "end": 199.64
+        }
+      ],
+      "start": 192.74,
+      "end": 199.64,
+      "confidence": 1.0,
+      "time": 192.74
+    }
+  ]
+}

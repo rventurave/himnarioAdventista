@@ -1,0 +1,686 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.935,
+  "language": "es",
+  "model": "medium",
+  "hymn": 66,
+  "source": "066 - Sabes cuantos.mp3",
+  "duration": 130.3,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Sabes cuántos claros astros dan al cielo su fulgor?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¿Sabes",
+          "start": 9.26,
+          "end": 10.66
+        },
+        {
+          "word": "cuántos",
+          "start": 10.66,
+          "end": 12.06
+        },
+        {
+          "word": "claros",
+          "start": 12.06,
+          "end": 13.3
+        },
+        {
+          "word": "astros",
+          "start": 13.3,
+          "end": 14.2
+        },
+        {
+          "word": "van",
+          "start": 14.2,
+          "end": 14.8
+        },
+        {
+          "word": "al",
+          "start": 14.8,
+          "end": 15.28
+        },
+        {
+          "word": "cielo",
+          "start": 15.28,
+          "end": 16.34
+        },
+        {
+          "word": "su",
+          "start": 16.34,
+          "end": 17.08
+        },
+        {
+          "word": "fulgor?",
+          "start": 17.08,
+          "end": 18.64
+        }
+      ],
+      "start": 9.26,
+      "end": 18.64,
+      "confidence": 0.978,
+      "time": 9.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Sabes cuántas nubes bellas van del mundo alrededor?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¿Sabes",
+          "start": 19.08,
+          "end": 19.92
+        },
+        {
+          "word": "cuántas",
+          "start": 19.92,
+          "end": 21.5
+        },
+        {
+          "word": "nubes",
+          "start": 21.5,
+          "end": 22.28
+        },
+        {
+          "word": "bellas",
+          "start": 22.28,
+          "end": 23.72
+        },
+        {
+          "word": "van",
+          "start": 23.72,
+          "end": 24.24
+        },
+        {
+          "word": "de",
+          "start": 24.24,
+          "end": 24.64
+        },
+        {
+          "word": "mundo",
+          "start": 24.64,
+          "end": 25.58
+        },
+        {
+          "word": "alrededor?",
+          "start": 25.58,
+          "end": 27.28
+        }
+      ],
+      "start": 19.08,
+      "end": 27.28,
+      "confidence": 0.993,
+      "time": 19.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Solo Dios los ha contado y ninguno le ha faltado.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Sólo",
+          "start": 27.28,
+          "end": 29.4
+        },
+        {
+          "word": "Dios",
+          "start": 29.4,
+          "end": 30.12
+        },
+        {
+          "word": "nos",
+          "start": 30.12,
+          "end": 30.9
+        },
+        {
+          "word": "ha",
+          "start": 30.9,
+          "end": 31.46
+        },
+        {
+          "word": "contado,",
+          "start": 31.46,
+          "end": 33.2
+        },
+        {
+          "word": "y",
+          "start": 33.6,
+          "end": 33.82
+        },
+        {
+          "word": "ninguno",
+          "start": 33.82,
+          "end": 35.48
+        },
+        {
+          "word": "le",
+          "start": 35.48,
+          "end": 35.78
+        },
+        {
+          "word": "ha",
+          "start": 35.78,
+          "end": 36.08
+        },
+        {
+          "word": "faltado,",
+          "start": 36.08,
+          "end": 37.28
+        }
+      ],
+      "start": 27.28,
+      "end": 37.28,
+      "confidence": 0.98,
+      "time": 27.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Entre todos ¿cuántos son? Entre todos ¿cuántos son?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "entre",
+          "start": 38.52,
+          "end": 38.9
+        },
+        {
+          "word": "todos",
+          "start": 38.9,
+          "end": 40.36
+        },
+        {
+          "word": "cuantos",
+          "start": 40.36,
+          "end": 41.38
+        },
+        {
+          "word": "son,",
+          "start": 41.38,
+          "end": 42.46
+        },
+        {
+          "word": "entre",
+          "start": 42.82,
+          "end": 43.5
+        },
+        {
+          "word": "todos",
+          "start": 43.5,
+          "end": 45.08
+        },
+        {
+          "word": "cuantos",
+          "start": 45.08,
+          "end": 46.14
+        },
+        {
+          "word": "son.",
+          "start": 46.14,
+          "end": 47.36
+        }
+      ],
+      "start": 38.52,
+      "end": 47.36,
+      "confidence": 1.0,
+      "time": 38.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¿Sabes cuántas mariposas jugueteando al sol están?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¿Sabes",
+          "start": 47.36,
+          "end": 49.18
+        },
+        {
+          "word": "cuántas",
+          "start": 49.18,
+          "end": 50.74
+        },
+        {
+          "word": "mariposas",
+          "start": 50.74,
+          "end": 52.94
+        },
+        {
+          "word": "jugueteando",
+          "start": 52.94,
+          "end": 55.04
+        },
+        {
+          "word": "al",
+          "start": 55.04,
+          "end": 55.64
+        },
+        {
+          "word": "sol",
+          "start": 55.64,
+          "end": 56.1
+        },
+        {
+          "word": "están?",
+          "start": 56.1,
+          "end": 57.24
+        }
+      ],
+      "start": 47.36,
+      "end": 57.24,
+      "confidence": 1.0,
+      "time": 47.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¿Sabes cuántos pececitos en el agua saltos dan?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¿Sabes",
+          "start": 57.78,
+          "end": 58.6
+        },
+        {
+          "word": "cuántos",
+          "start": 58.6,
+          "end": 60.34
+        },
+        {
+          "word": "peces",
+          "start": 60.34,
+          "end": 61.1
+        },
+        {
+          "word": "en",
+          "start": 62.24,
+          "end": 63.2
+        },
+        {
+          "word": "el",
+          "start": 63.2,
+          "end": 64.06
+        },
+        {
+          "word": "agua",
+          "start": 64.06,
+          "end": 64.82
+        },
+        {
+          "word": "saltos",
+          "start": 64.82,
+          "end": 65.9
+        },
+        {
+          "word": "dan?",
+          "start": 65.9,
+          "end": 66.74
+        }
+      ],
+      "start": 57.78,
+      "end": 66.74,
+      "confidence": 0.979,
+      "time": 57.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Dios a todos ha creado, de la vida el gozo ha dado,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 67.3,
+          "end": 67.84
+        },
+        {
+          "word": "a",
+          "start": 67.84,
+          "end": 68.32
+        },
+        {
+          "word": "todos",
+          "start": 68.32,
+          "end": 69.54
+        },
+        {
+          "word": "ha",
+          "start": 69.54,
+          "end": 70.18
+        },
+        {
+          "word": "creado,",
+          "start": 70.18,
+          "end": 71.64
+        },
+        {
+          "word": "la",
+          "start": 72.46,
+          "end": 72.98
+        },
+        {
+          "word": "vida",
+          "start": 72.98,
+          "end": 74.06
+        },
+        {
+          "word": "el",
+          "start": 74.06,
+          "end": 74.54
+        },
+        {
+          "word": "ha",
+          "start": 75.06,
+          "end": 75.44
+        },
+        {
+          "word": "dado",
+          "start": 75.44,
+          "end": 76.3
+        }
+      ],
+      "start": 67.3,
+      "end": 76.3,
+      "confidence": 0.833,
+      "time": 67.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "para disfrutar su don, para disfrutar su don.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "para",
+          "start": 76.3,
+          "end": 77.5
+        },
+        {
+          "word": "disfrutar",
+          "start": 77.5,
+          "end": 79.46
+        },
+        {
+          "word": "su",
+          "start": 79.46,
+          "end": 80.04
+        },
+        {
+          "word": "para",
+          "start": 81.42,
+          "end": 82.2
+        },
+        {
+          "word": "disfrutar",
+          "start": 82.2,
+          "end": 84.22
+        },
+        {
+          "word": "su",
+          "start": 84.22,
+          "end": 84.78
+        }
+      ],
+      "start": 76.3,
+      "end": 86.16,
+      "confidence": 0.75,
+      "time": 76.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Sabes cuántos tiernos niños con el sol despertarán?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "¿Sabes",
+          "start": 86.94,
+          "end": 87.88
+        },
+        {
+          "word": "cuántos",
+          "start": 87.88,
+          "end": 89.58
+        },
+        {
+          "word": "cernos",
+          "start": 89.58,
+          "end": 90.5
+        },
+        {
+          "word": "niños",
+          "start": 90.5,
+          "end": 91.4
+        },
+        {
+          "word": "con",
+          "start": 91.4,
+          "end": 92.36
+        },
+        {
+          "word": "el",
+          "start": 92.36,
+          "end": 92.76
+        },
+        {
+          "word": "sol",
+          "start": 92.76,
+          "end": 93.38
+        },
+        {
+          "word": "despertarán?",
+          "start": 93.38,
+          "end": 95.86
+        }
+      ],
+      "start": 86.94,
+      "end": 95.86,
+      "confidence": 0.983,
+      "time": 86.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Sabes cuántas son las madres que su sueño velarán?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "¿Sabes",
+          "start": 96.48,
+          "end": 97.32
+        },
+        {
+          "word": "cuántas",
+          "start": 97.32,
+          "end": 98.84
+        },
+        {
+          "word": "son",
+          "start": 98.84,
+          "end": 99.24
+        },
+        {
+          "word": "las",
+          "start": 99.24,
+          "end": 100.04
+        },
+        {
+          "word": "madres",
+          "start": 100.04,
+          "end": 100.9
+        },
+        {
+          "word": "que",
+          "start": 100.9,
+          "end": 101.58
+        },
+        {
+          "word": "su",
+          "start": 101.76,
+          "end": 101.98
+        },
+        {
+          "word": "sueño",
+          "start": 101.98,
+          "end": 103.6
+        },
+        {
+          "word": "velarán?",
+          "start": 103.6,
+          "end": 105.44
+        }
+      ],
+      "start": 96.48,
+      "end": 105.44,
+      "confidence": 1.0,
+      "time": 96.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Dios, que a todos ha otorgado su placer y buen agrado,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 105.44,
+          "end": 106.46
+        },
+        {
+          "word": "ha",
+          "start": 106.82,
+          "end": 107.0
+        },
+        {
+          "word": "dodo,",
+          "start": 107.0,
+          "end": 108.28
+        },
+        {
+          "word": "Orado,",
+          "start": 109.1,
+          "end": 110.48
+        },
+        {
+          "word": "su",
+          "start": 110.92,
+          "end": 111.08
+        },
+        {
+          "word": "placer",
+          "start": 111.08,
+          "end": 112.3
+        },
+        {
+          "word": "y",
+          "start": 112.3,
+          "end": 113.24
+        },
+        {
+          "word": "buen",
+          "start": 113.24,
+          "end": 113.66
+        },
+        {
+          "word": "agrado,",
+          "start": 113.66,
+          "end": 115.08
+        }
+      ],
+      "start": 105.44,
+      "end": 115.74,
+      "confidence": 0.769,
+      "time": 105.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "te conoce y te ama a ti, te conoce y te ama a ti.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "te",
+          "start": 115.74,
+          "end": 116.06
+        },
+        {
+          "word": "conoce",
+          "start": 116.06,
+          "end": 117.74
+        },
+        {
+          "word": "y",
+          "start": 117.74,
+          "end": 117.96
+        },
+        {
+          "word": "te",
+          "start": 117.96,
+          "end": 118.18
+        },
+        {
+          "word": "ama",
+          "start": 118.18,
+          "end": 118.64
+        },
+        {
+          "word": "a",
+          "start": 118.64,
+          "end": 119.04
+        },
+        {
+          "word": "ti,",
+          "start": 119.04,
+          "end": 119.8
+        },
+        {
+          "word": "te",
+          "start": 120.26,
+          "end": 120.86
+        },
+        {
+          "word": "conoce",
+          "start": 120.86,
+          "end": 122.74
+        },
+        {
+          "word": "y",
+          "start": 122.74,
+          "end": 123.06
+        },
+        {
+          "word": "te",
+          "start": 123.06,
+          "end": 123.28
+        },
+        {
+          "word": "ama",
+          "start": 123.28,
+          "end": 123.82
+        },
+        {
+          "word": "a",
+          "start": 123.82,
+          "end": 124.42
+        },
+        {
+          "word": "ti.",
+          "start": 124.42,
+          "end": 126.58
+        }
+      ],
+      "start": 115.74,
+      "end": 126.58,
+      "confidence": 1.0,
+      "time": 115.74
+    }
+  ]
+}

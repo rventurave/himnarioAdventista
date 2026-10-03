@@ -1,0 +1,499 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 1.0,
+  "language": "es",
+  "model": "medium",
+  "hymn": 19,
+  "source": "019 - Padre nuestro.mp3",
+  "duration": 104.39,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Padre nuestro, Padre nuestro,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Padre",
+          "start": 16.52,
+          "end": 17.92
+        },
+        {
+          "word": "Nuestro,",
+          "start": 17.92,
+          "end": 19.32
+        },
+        {
+          "word": "Padre",
+          "start": 19.32,
+          "end": 20.36
+        },
+        {
+          "word": "Nuestro,",
+          "start": 20.36,
+          "end": 22.52
+        }
+      ],
+      "start": 16.52,
+      "end": 22.92,
+      "confidence": 1.0,
+      "time": 16.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "te alabamos porque eres",
+      "verse": 1,
+      "words": [
+        {
+          "word": "te",
+          "start": 22.92,
+          "end": 23.24
+        },
+        {
+          "word": "alabamos",
+          "start": 23.24,
+          "end": 24.4
+        },
+        {
+          "word": "porque",
+          "start": 24.4,
+          "end": 25.24
+        },
+        {
+          "word": "eres",
+          "start": 25.24,
+          "end": 26.08
+        }
+      ],
+      "start": 22.92,
+      "end": 26.08,
+      "confidence": 1.0,
+      "time": 22.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nuestro Padre.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "nuestro",
+          "start": 26.08,
+          "end": 26.84
+        },
+        {
+          "word": "Padre.",
+          "start": 26.84,
+          "end": 29.14
+        }
+      ],
+      "start": 26.08,
+      "end": 29.14,
+      "confidence": 1.0,
+      "time": 26.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Elevamos nuestras mentes",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Elevamos",
+          "start": 29.14,
+          "end": 31.46
+        },
+        {
+          "word": "nuestras",
+          "start": 31.46,
+          "end": 32.24
+        },
+        {
+          "word": "mentes",
+          "start": 32.24,
+          "end": 33.2
+        }
+      ],
+      "start": 29.14,
+      "end": 33.2,
+      "confidence": 1.0,
+      "time": 29.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "como signo de amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "como",
+          "start": 33.2,
+          "end": 34.18
+        },
+        {
+          "word": "signo",
+          "start": 34.18,
+          "end": 35.22
+        },
+        {
+          "word": "de",
+          "start": 35.22,
+          "end": 35.88
+        },
+        {
+          "word": "amor,",
+          "start": 35.88,
+          "end": 37.0
+        }
+      ],
+      "start": 33.2,
+      "end": 37.58,
+      "confidence": 1.0,
+      "time": 33.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Padre nuestro, Padre nuestro.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Padre",
+          "start": 37.58,
+          "end": 38.14
+        },
+        {
+          "word": "nuestro,",
+          "start": 38.14,
+          "end": 39.94
+        },
+        {
+          "word": "Padre",
+          "start": 40.64,
+          "end": 41.56
+        },
+        {
+          "word": "nuestro",
+          "start": 41.56,
+          "end": 43.74
+        }
+      ],
+      "start": 37.58,
+      "end": 43.74,
+      "confidence": 1.0,
+      "time": 37.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Jesucristo, Jesucristo,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesucristo,",
+          "start": 47.5,
+          "end": 48.9
+        },
+        {
+          "word": "Jesucristo,",
+          "start": 48.9,
+          "end": 50.3
+        }
+      ],
+      "start": 47.5,
+      "end": 50.74,
+      "confidence": 1.0,
+      "time": 47.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "gracias por tu muerte",
+      "verse": 2,
+      "words": [
+        {
+          "word": "gracias",
+          "start": 50.74,
+          "end": 51.32
+        },
+        {
+          "word": "por",
+          "start": 51.32,
+          "end": 52.02
+        },
+        {
+          "word": "tu",
+          "start": 52.02,
+          "end": 52.22
+        },
+        {
+          "word": "muerte",
+          "start": 52.22,
+          "end": 52.82
+        }
+      ],
+      "start": 50.74,
+      "end": 52.82,
+      "confidence": 1.0,
+      "time": 50.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "cruenta en el Calvario.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cruenta",
+          "start": 52.82,
+          "end": 53.58
+        },
+        {
+          "word": "en",
+          "start": 53.58,
+          "end": 54.0
+        },
+        {
+          "word": "el",
+          "start": 54.0,
+          "end": 54.28
+        },
+        {
+          "word": "calvario",
+          "start": 54.28,
+          "end": 56.3
+        }
+      ],
+      "start": 52.82,
+      "end": 56.3,
+      "confidence": 1.0,
+      "time": 52.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Elevamos nuestras voces",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Elevamos",
+          "start": 56.3,
+          "end": 59.04
+        },
+        {
+          "word": "nuestras",
+          "start": 59.04,
+          "end": 59.76
+        },
+        {
+          "word": "voces",
+          "start": 59.76,
+          "end": 60.68
+        }
+      ],
+      "start": 56.3,
+      "end": 60.68,
+      "confidence": 1.0,
+      "time": 56.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "como signo de amor. Jesucristo, Jesucristo.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "como",
+          "start": 60.68,
+          "end": 61.6
+        },
+        {
+          "word": "signo",
+          "start": 61.6,
+          "end": 62.52
+        },
+        {
+          "word": "de",
+          "start": 62.52,
+          "end": 63.2
+        },
+        {
+          "word": "amor,",
+          "start": 63.2,
+          "end": 64.46
+        },
+        {
+          "word": "Jesucristo,",
+          "start": 64.74,
+          "end": 67.44
+        },
+        {
+          "word": "Jesucristo.",
+          "start": 67.64,
+          "end": 71.4
+        }
+      ],
+      "start": 60.68,
+      "end": 71.4,
+      "confidence": 1.0,
+      "time": 60.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Santo Espíritu, Santo Espíritu;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Santo",
+          "start": 71.86,
+          "end": 72.3
+        },
+        {
+          "word": "Espíritu,",
+          "start": 72.3,
+          "end": 74.84
+        },
+        {
+          "word": "Santo",
+          "start": 74.88,
+          "end": 75.48
+        },
+        {
+          "word": "Espíritu,",
+          "start": 75.48,
+          "end": 78.0
+        }
+      ],
+      "start": 71.86,
+      "end": 78.44,
+      "confidence": 1.0,
+      "time": 71.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "llena nuestros corazones plenamente.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "llena",
+          "start": 78.44,
+          "end": 78.96
+        },
+        {
+          "word": "nuestros",
+          "start": 78.96,
+          "end": 79.86
+        },
+        {
+          "word": "corazones",
+          "start": 79.86,
+          "end": 81.32
+        },
+        {
+          "word": "plenamente,",
+          "start": 81.32,
+          "end": 83.52
+        }
+      ],
+      "start": 78.44,
+      "end": 83.52,
+      "confidence": 1.0,
+      "time": 78.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Consagramos nuestras vidas",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Consagramos",
+          "start": 85.18,
+          "end": 86.58
+        },
+        {
+          "word": "nuestras",
+          "start": 86.58,
+          "end": 87.48
+        },
+        {
+          "word": "vidas",
+          "start": 87.48,
+          "end": 88.4
+        }
+      ],
+      "start": 85.18,
+      "end": 88.4,
+      "confidence": 1.0,
+      "time": 85.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "como signo de amor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "como",
+          "start": 88.4,
+          "end": 89.34
+        },
+        {
+          "word": "signo",
+          "start": 89.34,
+          "end": 90.62
+        },
+        {
+          "word": "de",
+          "start": 90.62,
+          "end": 90.92
+        },
+        {
+          "word": "amor,",
+          "start": 90.92,
+          "end": 92.02
+        }
+      ],
+      "start": 88.4,
+      "end": 92.46,
+      "confidence": 1.0,
+      "time": 88.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Santo Espíritu, Santo Espíritu.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Santo",
+          "start": 92.46,
+          "end": 92.66
+        },
+        {
+          "word": "Espíritu,",
+          "start": 92.66,
+          "end": 95.04
+        },
+        {
+          "word": "Santo",
+          "start": 95.76,
+          "end": 96.26
+        },
+        {
+          "word": "Espíritu.",
+          "start": 96.26,
+          "end": 99.84
+        }
+      ],
+      "start": 92.46,
+      "end": 99.84,
+      "confidence": 1.0,
+      "time": 92.46
+    }
+  ]
+}

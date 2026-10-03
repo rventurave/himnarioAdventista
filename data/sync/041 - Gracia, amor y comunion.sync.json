@@ -1,0 +1,301 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.972,
+  "language": "es",
+  "model": "medium",
+  "hymn": 41,
+  "source": "041 - Gracia, amor y comunion.mp3",
+  "duration": 82.26,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Que la gracia de Jesús,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Que",
+          "start": 8.46,
+          "end": 9.86
+        },
+        {
+          "word": "la",
+          "start": 9.86,
+          "end": 9.86
+        },
+        {
+          "word": "gracia",
+          "start": 9.86,
+          "end": 23.9
+        },
+        {
+          "word": "de",
+          "start": 23.9,
+          "end": 24.56
+        },
+        {
+          "word": "Jesús,",
+          "start": 24.56,
+          "end": 26.68
+        }
+      ],
+      "start": 8.46,
+      "end": 26.68,
+      "confidence": 1.0,
+      "time": 8.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "el amor de Dios el Padre",
+      "verse": 1,
+      "words": [
+        {
+          "word": "El",
+          "start": 26.68,
+          "end": 27.5
+        },
+        {
+          "word": "amor",
+          "start": 27.5,
+          "end": 28.44
+        },
+        {
+          "word": "de",
+          "start": 28.44,
+          "end": 29.14
+        },
+        {
+          "word": "Dios,",
+          "start": 29.14,
+          "end": 29.68
+        },
+        {
+          "word": "el",
+          "start": 30.04,
+          "end": 30.6
+        },
+        {
+          "word": "Padre,",
+          "start": 30.6,
+          "end": 32.2
+        }
+      ],
+      "start": 26.68,
+      "end": 32.5,
+      "confidence": 1.0,
+      "time": 26.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y la comunión del Espíritu nos llenen hoy.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 32.5,
+          "end": 32.76
+        },
+        {
+          "word": "la",
+          "start": 32.76,
+          "end": 33.58
+        },
+        {
+          "word": "comunión",
+          "start": 33.58,
+          "end": 34.94
+        },
+        {
+          "word": "del",
+          "start": 34.94,
+          "end": 35.54
+        },
+        {
+          "word": "Espíritu",
+          "start": 35.54,
+          "end": 37.5
+        },
+        {
+          "word": "nos",
+          "start": 37.5,
+          "end": 38.28
+        },
+        {
+          "word": "llenemos.",
+          "start": 38.28,
+          "end": 42.28
+        }
+      ],
+      "start": 32.5,
+      "end": 42.28,
+      "confidence": 0.854,
+      "time": 32.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Que la gracia de Jesús,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 42.28,
+          "end": 43.18
+        },
+        {
+          "word": "la",
+          "start": 43.18,
+          "end": 43.62
+        },
+        {
+          "word": "gracia",
+          "start": 43.62,
+          "end": 44.96
+        },
+        {
+          "word": "de",
+          "start": 44.96,
+          "end": 45.66
+        },
+        {
+          "word": "Jesús,",
+          "start": 45.66,
+          "end": 47.74
+        }
+      ],
+      "start": 42.28,
+      "end": 48.46,
+      "confidence": 1.0,
+      "time": 42.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "el amor de Dios el Padre",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 48.46,
+          "end": 48.66
+        },
+        {
+          "word": "amor",
+          "start": 48.66,
+          "end": 49.6
+        },
+        {
+          "word": "de",
+          "start": 49.6,
+          "end": 50.28
+        },
+        {
+          "word": "Dios",
+          "start": 50.28,
+          "end": 50.92
+        },
+        {
+          "word": "el",
+          "start": 50.92,
+          "end": 51.62
+        },
+        {
+          "word": "Padre,",
+          "start": 51.62,
+          "end": 53.12
+        }
+      ],
+      "start": 48.46,
+      "end": 53.56,
+      "confidence": 1.0,
+      "time": 48.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y la comunión del Espíritu eternal",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 53.56,
+          "end": 53.9
+        },
+        {
+          "word": "la",
+          "start": 53.9,
+          "end": 54.36
+        },
+        {
+          "word": "comunión",
+          "start": 54.36,
+          "end": 56.18
+        },
+        {
+          "word": "del",
+          "start": 56.18,
+          "end": 56.52
+        },
+        {
+          "word": "Espíritu",
+          "start": 56.52,
+          "end": 58.58
+        },
+        {
+          "word": "eternal.",
+          "start": 58.58,
+          "end": 62.78
+        }
+      ],
+      "start": 53.56,
+      "end": 62.78,
+      "confidence": 1.0,
+      "time": 53.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "perduren por siempre en nuestro corazón.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Perduren",
+          "start": 65.06,
+          "end": 66.46
+        },
+        {
+          "word": "por",
+          "start": 66.46,
+          "end": 67.14
+        },
+        {
+          "word": "siempre",
+          "start": 67.14,
+          "end": 68.68
+        },
+        {
+          "word": "en",
+          "start": 68.68,
+          "end": 69.86
+        },
+        {
+          "word": "nuestro",
+          "start": 69.86,
+          "end": 71.16
+        },
+        {
+          "word": "corazón.",
+          "start": 71.16,
+          "end": 74.42
+        }
+      ],
+      "start": 65.06,
+      "end": 74.42,
+      "confidence": 1.0,
+      "time": 65.06
+    }
+  ]
+}

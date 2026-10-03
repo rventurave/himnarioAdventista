@@ -1,0 +1,597 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.872,
+  "language": "es",
+  "model": "medium",
+  "hymn": 14,
+  "source": "014 - Engrandecido sea Dios.mp3",
+  "duration": 141.09,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Engrandecido sea Dios",
+      "verse": 1,
+      "words": [
+        {
+          "word": "grandes",
+          "start": 13.2,
+          "end": 14.6
+        },
+        {
+          "word": "sea",
+          "start": 15.72,
+          "end": 16.68
+        },
+        {
+          "word": "Dios",
+          "start": 16.68,
+          "end": 17.44
+        }
+      ],
+      "start": 13.2,
+      "end": 17.44,
+      "confidence": 0.926,
+      "time": 13.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en esta ocasión.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 17.44,
+          "end": 18.4
+        },
+        {
+          "word": "esta",
+          "start": 18.4,
+          "end": 19.4
+        },
+        {
+          "word": "ocasión",
+          "start": 19.4,
+          "end": 22.2
+        }
+      ],
+      "start": 17.44,
+      "end": 22.2,
+      "confidence": 1.0,
+      "time": 17.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Alegres, juntos a una voz",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Alegrés",
+          "start": 22.2,
+          "end": 24.28
+        },
+        {
+          "word": "juntos",
+          "start": 24.28,
+          "end": 25.36
+        },
+        {
+          "word": "a",
+          "start": 25.36,
+          "end": 26.06
+        },
+        {
+          "word": "una",
+          "start": 26.06,
+          "end": 26.76
+        },
+        {
+          "word": "voz,",
+          "start": 26.76,
+          "end": 27.26
+        }
+      ],
+      "start": 22.2,
+      "end": 28.08,
+      "confidence": 1.0,
+      "time": 22.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "dad gloria, gloria, gloria",
+      "verse": 1,
+      "words": [
+        {
+          "word": "gloria,",
+          "start": 28.08,
+          "end": 30.2
+        },
+        {
+          "word": "gloria,",
+          "start": 30.2,
+          "end": 32.9
+        },
+        {
+          "word": "gloria",
+          "start": 32.9,
+          "end": 36.34
+        }
+      ],
+      "start": 28.08,
+      "end": 36.34,
+      "confidence": 0.75,
+      "time": 28.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al Dios eternal.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 36.34,
+          "end": 38.02
+        },
+        {
+          "word": "Dios",
+          "start": 38.02,
+          "end": 39.4
+        }
+      ],
+      "start": 36.34,
+      "end": 43.54,
+      "confidence": 0.6,
+      "time": 36.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Durante el día que pasó,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Durante",
+          "start": 43.54,
+          "end": 45.82
+        },
+        {
+          "word": "el",
+          "start": 45.82,
+          "end": 46.38
+        },
+        {
+          "word": "día",
+          "start": 46.38,
+          "end": 47.02
+        },
+        {
+          "word": "que",
+          "start": 47.02,
+          "end": 47.82
+        },
+        {
+          "word": "pasó,",
+          "start": 47.82,
+          "end": 48.76
+        }
+      ],
+      "start": 43.54,
+      "end": 49.52,
+      "confidence": 1.0,
+      "time": 43.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "la mano del Señor",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 49.52,
+          "end": 49.88
+        },
+        {
+          "word": "mano",
+          "start": 49.88,
+          "end": 50.66
+        },
+        {
+          "word": "del",
+          "start": 50.66,
+          "end": 51.42
+        },
+        {
+          "word": "Señor,",
+          "start": 51.42,
+          "end": 53.4
+        }
+      ],
+      "start": 49.52,
+      "end": 54.28,
+      "confidence": 0.95,
+      "time": 49.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "de muchos males nos salvó:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 54.28,
+          "end": 54.44
+        },
+        {
+          "word": "muchos",
+          "start": 54.44,
+          "end": 55.54
+        },
+        {
+          "word": "malestos",
+          "start": 55.54,
+          "end": 57.6
+        }
+      ],
+      "start": 54.28,
+      "end": 59.02,
+      "confidence": 0.588,
+      "time": 54.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "dad gloria, gloria, gloria",
+      "verse": 2,
+      "words": [
+        {
+          "word": "dan",
+          "start": 59.02,
+          "end": 59.18
+        },
+        {
+          "word": "gloria,",
+          "start": 59.18,
+          "end": 61.34
+        },
+        {
+          "word": "gloria,",
+          "start": 61.62,
+          "end": 63.74
+        },
+        {
+          "word": "gloria",
+          "start": 63.94,
+          "end": 67.26
+        }
+      ],
+      "start": 59.02,
+      "end": 67.26,
+      "confidence": 0.95,
+      "time": 59.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "al Dios eternal.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¡A",
+          "start": 67.26,
+          "end": 68.76
+        },
+        {
+          "word": "Dios",
+          "start": 68.76,
+          "end": 69.9
+        },
+        {
+          "word": "tenta!",
+          "start": 71.12,
+          "end": 74.12
+        }
+      ],
+      "start": 67.26,
+      "end": 74.12,
+      "confidence": 0.867,
+      "time": 67.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Él hasta aquí nos ayudó,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Él",
+          "start": 74.88,
+          "end": 75.76
+        },
+        {
+          "word": "hasta",
+          "start": 75.76,
+          "end": 76.42
+        },
+        {
+          "word": "aquí",
+          "start": 76.42,
+          "end": 77.0
+        },
+        {
+          "word": "nos",
+          "start": 77.0,
+          "end": 77.88
+        },
+        {
+          "word": "ayudó",
+          "start": 77.88,
+          "end": 79.24
+        }
+      ],
+      "start": 74.88,
+      "end": 79.24,
+      "confidence": 1.0,
+      "time": 74.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y siempre proveerá.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 79.24,
+          "end": 80.08
+        },
+        {
+          "word": "siempre",
+          "start": 80.08,
+          "end": 81.1
+        },
+        {
+          "word": "proveerá.",
+          "start": 81.1,
+          "end": 84.02
+        }
+      ],
+      "start": 79.24,
+      "end": 84.02,
+      "confidence": 1.0,
+      "time": 79.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Con gratitud, placer y amor",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Con",
+          "start": 84.2,
+          "end": 84.84
+        },
+        {
+          "word": "gratitud,",
+          "start": 84.84,
+          "end": 86.6
+        },
+        {
+          "word": "placer",
+          "start": 86.6,
+          "end": 87.62
+        },
+        {
+          "word": "y",
+          "start": 87.62,
+          "end": 88.44
+        },
+        {
+          "word": "amor",
+          "start": 88.44,
+          "end": 88.92
+        }
+      ],
+      "start": 84.2,
+      "end": 88.92,
+      "confidence": 1.0,
+      "time": 84.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "dad gloria, gloria, gloria",
+      "verse": 3,
+      "words": [
+        {
+          "word": "gloria,",
+          "start": 89.68,
+          "end": 91.96
+        },
+        {
+          "word": "gloria,",
+          "start": 92.02,
+          "end": 94.6
+        },
+        {
+          "word": "gloria",
+          "start": 94.64,
+          "end": 98.0
+        }
+      ],
+      "start": 89.68,
+      "end": 98.0,
+      "confidence": 0.75,
+      "time": 89.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al Dios eternal.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "al",
+          "start": 98.0,
+          "end": 99.42
+        },
+        {
+          "word": "Dios",
+          "start": 99.42,
+          "end": 100.7
+        },
+        {
+          "word": "eterno.",
+          "start": 100.7,
+          "end": 105.28
+        }
+      ],
+      "start": 98.0,
+      "end": 105.28,
+      "confidence": 0.954,
+      "time": 98.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "A otras almas salva, ¡oh Dios!",
+      "verse": 4,
+      "words": [
+        {
+          "word": "A",
+          "start": 106.04,
+          "end": 106.62
+        },
+        {
+          "word": "otra",
+          "start": 106.62,
+          "end": 107.36
+        },
+        {
+          "word": "salva,",
+          "start": 107.36,
+          "end": 108.56
+        },
+        {
+          "word": "salva",
+          "start": 109.04,
+          "end": 109.82
+        },
+        {
+          "word": "Dios,",
+          "start": 109.82,
+          "end": 110.26
+        }
+      ],
+      "start": 106.04,
+      "end": 110.26,
+      "confidence": 0.783,
+      "time": 106.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Despiértalas, Señor;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "desperta",
+          "start": 111.14,
+          "end": 112.24
+        },
+        {
+          "word": "Señor.",
+          "start": 112.66,
+          "end": 114.6
+        }
+      ],
+      "start": 111.14,
+      "end": 114.6,
+      "confidence": 0.94,
+      "time": 111.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "escucha nuestra petición,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Escucha",
+          "start": 114.6,
+          "end": 117.02
+        },
+        {
+          "word": "nuestra",
+          "start": 117.02,
+          "end": 118.18
+        },
+        {
+          "word": "petición",
+          "start": 118.18,
+          "end": 120.04
+        }
+      ],
+      "start": 114.6,
+      "end": 120.04,
+      "confidence": 1.0,
+      "time": 114.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "y salva, salva, salva,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 120.04,
+          "end": 121.0
+        },
+        {
+          "word": "salva,",
+          "start": 121.0,
+          "end": 123.02
+        },
+        {
+          "word": "salva,",
+          "start": 123.54,
+          "end": 125.36
+        },
+        {
+          "word": "salva,",
+          "start": 125.78,
+          "end": 129.02
+        }
+      ],
+      "start": 120.04,
+      "end": 129.06,
+      "confidence": 1.0,
+      "time": 120.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "salva al pecador.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "salva",
+          "start": 129.06,
+          "end": 131.86
+        }
+      ],
+      "start": 129.06,
+      "end": 135.7,
+      "confidence": 0.333,
+      "time": 129.06
+    }
+  ]
+}

@@ -1,0 +1,1035 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.93,
+  "language": "es",
+  "model": "medium",
+  "hymn": 128,
+  "source": "128 - Tu nombre es dulce, buen Jesus.mp3",
+  "duration": 167.6,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Tu nombre es dulce, buen Jesús!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 9.82,
+          "end": 11.22
+        },
+        {
+          "word": "nombre",
+          "start": 11.22,
+          "end": 11.94
+        },
+        {
+          "word": "es",
+          "start": 11.94,
+          "end": 12.94
+        },
+        {
+          "word": "dulce,",
+          "start": 12.94,
+          "end": 13.7
+        },
+        {
+          "word": "buen",
+          "start": 13.7,
+          "end": 14.04
+        },
+        {
+          "word": "Jesús,",
+          "start": 14.04,
+          "end": 15.04
+        }
+      ],
+      "start": 9.82,
+      "end": 15.78,
+      "confidence": 1.0,
+      "time": 9.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh cuánta paz, consuelo y luz",
+      "verse": 1,
+      "words": [
+        {
+          "word": "oh,",
+          "start": 15.78,
+          "end": 16.08
+        },
+        {
+          "word": "cuanta",
+          "start": 16.34,
+          "end": 16.7
+        },
+        {
+          "word": "paz,",
+          "start": 16.7,
+          "end": 17.78
+        },
+        {
+          "word": "consuelo",
+          "start": 18.02,
+          "end": 18.9
+        },
+        {
+          "word": "luz",
+          "start": 19.1,
+          "end": 19.62
+        }
+      ],
+      "start": 15.78,
+      "end": 20.56,
+      "confidence": 0.833,
+      "time": 15.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "dimana de tu santa cruz!,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "mano",
+          "start": 20.56,
+          "end": 21.06
+        },
+        {
+          "word": "de",
+          "start": 21.06,
+          "end": 22.28
+        },
+        {
+          "word": "tu",
+          "start": 22.28,
+          "end": 22.7
+        },
+        {
+          "word": "Santa",
+          "start": 22.7,
+          "end": 23.48
+        },
+        {
+          "word": "Cruz,",
+          "start": 23.48,
+          "end": 24.28
+        }
+      ],
+      "start": 20.56,
+      "end": 24.98,
+      "confidence": 0.952,
+      "time": 20.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mi luz, mi esperanza.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "mi",
+          "start": 24.98,
+          "end": 25.0
+        },
+        {
+          "word": "luz,",
+          "start": 25.0,
+          "end": 25.32
+        },
+        {
+          "word": "mi",
+          "start": 26.72,
+          "end": 26.72
+        },
+        {
+          "word": "esperanza.",
+          "start": 26.72,
+          "end": 29.6
+        }
+      ],
+      "start": 24.98,
+      "end": 29.6,
+      "confidence": 1.0,
+      "time": 24.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Dulce nombre: Emanuel!",
+      "words": [
+        {
+          "word": "Dulce",
+          "start": 29.6,
+          "end": 31.74
+        },
+        {
+          "word": "nombre",
+          "start": 31.74,
+          "end": 32.44
+        },
+        {
+          "word": "Emanuel,",
+          "start": 32.44,
+          "end": 34.38
+        }
+      ],
+      "start": 29.6,
+      "end": 35.14,
+      "confidence": 1.0,
+      "time": 29.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Dulce nombre, siempre fiel!",
+      "words": [
+        {
+          "word": "dulce",
+          "start": 35.14,
+          "end": 36.22
+        },
+        {
+          "word": "nombre",
+          "start": 36.22,
+          "end": 36.82
+        },
+        {
+          "word": "siempre",
+          "start": 36.82,
+          "end": 37.78
+        },
+        {
+          "word": "fiel,",
+          "start": 37.78,
+          "end": 38.92
+        }
+      ],
+      "start": 35.14,
+      "end": 39.58,
+      "confidence": 1.0,
+      "time": 35.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Dulce nombre: gloria a él",
+      "words": [
+        {
+          "word": "dulce",
+          "start": 39.58,
+          "end": 40.72
+        },
+        {
+          "word": "nombre",
+          "start": 40.72,
+          "end": 41.44
+        },
+        {
+          "word": "gloria",
+          "start": 41.44,
+          "end": 42.32
+        },
+        {
+          "word": "el,",
+          "start": 42.32,
+          "end": 43.18
+        }
+      ],
+      "start": 39.58,
+      "end": 43.42,
+      "confidence": 0.8,
+      "time": 39.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "los santos todos canten!",
+      "words": [
+        {
+          "word": "los",
+          "start": 43.42,
+          "end": 43.98
+        },
+        {
+          "word": "santos,",
+          "start": 44.8,
+          "end": 45.34
+        },
+        {
+          "word": "todos",
+          "start": 45.58,
+          "end": 46.66
+        },
+        {
+          "word": "canten.",
+          "start": 46.66,
+          "end": 48.72
+        }
+      ],
+      "start": 43.42,
+      "end": 48.72,
+      "confidence": 1.0,
+      "time": 43.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesús; en cuyo corazón",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 48.72,
+          "end": 50.38
+        },
+        {
+          "word": "en",
+          "start": 50.82,
+          "end": 51.04
+        },
+        {
+          "word": "tuyo",
+          "start": 51.04,
+          "end": 52.28
+        },
+        {
+          "word": "corazón,",
+          "start": 52.28,
+          "end": 53.58
+        }
+      ],
+      "start": 48.72,
+      "end": 54.18,
+      "confidence": 0.963,
+      "time": 48.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "descargo entera mi aflicción,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "descalba",
+          "start": 54.18,
+          "end": 55.08
+        },
+        {
+          "word": "entera",
+          "start": 55.08,
+          "end": 56.6
+        },
+        {
+          "word": "mi",
+          "start": 56.6,
+          "end": 56.92
+        },
+        {
+          "word": "aflicción,",
+          "start": 56.92,
+          "end": 58.0
+        }
+      ],
+      "start": 54.18,
+      "end": 58.44,
+      "confidence": 0.944,
+      "time": 54.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pues calma toda turbación,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pues",
+          "start": 58.44,
+          "end": 58.98
+        },
+        {
+          "word": "calba",
+          "start": 58.98,
+          "end": 59.68
+        },
+        {
+          "word": "toda",
+          "start": 59.68,
+          "end": 61.04
+        },
+        {
+          "word": "turbación,",
+          "start": 61.04,
+          "end": 62.86
+        }
+      ],
+      "start": 58.44,
+      "end": 63.38,
+      "confidence": 0.97,
+      "time": 58.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesús, tu amado nombre.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 63.38,
+          "end": 63.82
+        },
+        {
+          "word": "tu",
+          "start": 64.06,
+          "end": 64.18
+        },
+        {
+          "word": "amado",
+          "start": 64.18,
+          "end": 66.38
+        },
+        {
+          "word": "nombre.",
+          "start": 66.38,
+          "end": 68.08
+        }
+      ],
+      "start": 63.38,
+      "end": 68.08,
+      "confidence": 1.0,
+      "time": 63.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Dulce nombre: Emanuel!",
+      "words": [
+        {
+          "word": "Dulce",
+          "start": 68.08,
+          "end": 70.26
+        },
+        {
+          "word": "nombre,",
+          "start": 70.26,
+          "end": 70.94
+        },
+        {
+          "word": "Emanuel,",
+          "start": 71.06,
+          "end": 72.8
+        }
+      ],
+      "start": 68.08,
+      "end": 73.6,
+      "confidence": 1.0,
+      "time": 68.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Dulce nombre, siempre fiel!",
+      "words": [
+        {
+          "word": "dulce",
+          "start": 73.6,
+          "end": 74.72
+        },
+        {
+          "word": "nombre",
+          "start": 74.72,
+          "end": 75.32
+        },
+        {
+          "word": "siempre",
+          "start": 75.32,
+          "end": 76.3
+        },
+        {
+          "word": "fiel,",
+          "start": 76.3,
+          "end": 77.48
+        }
+      ],
+      "start": 73.6,
+      "end": 78.1,
+      "confidence": 1.0,
+      "time": 73.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Dulce nombre: gloria a él",
+      "words": [
+        {
+          "word": "dulce",
+          "start": 78.1,
+          "end": 79.22
+        },
+        {
+          "word": "nombre,",
+          "start": 79.22,
+          "end": 79.94
+        },
+        {
+          "word": "gloria",
+          "start": 79.94,
+          "end": 80.8
+        }
+      ],
+      "start": 78.1,
+      "end": 81.64,
+      "confidence": 0.6,
+      "time": 78.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "los santos todos canten!",
+      "words": [
+        {
+          "word": "los",
+          "start": 81.64,
+          "end": 82.46
+        },
+        {
+          "word": "santos,",
+          "start": 83.42,
+          "end": 83.84
+        },
+        {
+          "word": "todos",
+          "start": 84.04,
+          "end": 85.16
+        },
+        {
+          "word": "ante.",
+          "start": 85.16,
+          "end": 86.46
+        }
+      ],
+      "start": 81.64,
+      "end": 86.46,
+      "confidence": 0.97,
+      "time": 81.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Tu nombre pláceme escuchar;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 86.46,
+          "end": 88.42
+        },
+        {
+          "word": "nombre",
+          "start": 88.42,
+          "end": 89.16
+        },
+        {
+          "word": "bláceo",
+          "start": 89.16,
+          "end": 90.98
+        },
+        {
+          "word": "escuchar,",
+          "start": 90.98,
+          "end": 92.22
+        }
+      ],
+      "start": 86.46,
+      "end": 92.74,
+      "confidence": 0.942,
+      "time": 86.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "lo siento a mi alma alentar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "lo",
+          "start": 92.74,
+          "end": 93.1
+        },
+        {
+          "word": "siento",
+          "start": 93.1,
+          "end": 93.46
+        },
+        {
+          "word": "a",
+          "start": 93.46,
+          "end": 93.82
+        },
+        {
+          "word": "mi",
+          "start": 93.82,
+          "end": 94.12
+        },
+        {
+          "word": "alma",
+          "start": 94.12,
+          "end": 95.12
+        },
+        {
+          "word": "alentar,",
+          "start": 95.12,
+          "end": 96.58
+        }
+      ],
+      "start": 92.74,
+      "end": 96.58,
+      "confidence": 1.0,
+      "time": 92.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cual canto calma mi llorar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "cual",
+          "start": 96.94,
+          "end": 97.4
+        },
+        {
+          "word": "canto",
+          "start": 97.4,
+          "end": 98.16
+        },
+        {
+          "word": "calma",
+          "start": 98.16,
+          "end": 99.64
+        },
+        {
+          "word": "mi",
+          "start": 99.64,
+          "end": 100.12
+        },
+        {
+          "word": "llorar,",
+          "start": 100.12,
+          "end": 101.2
+        }
+      ],
+      "start": 96.94,
+      "end": 101.86,
+      "confidence": 1.0,
+      "time": 96.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Jesús, tu santo nombre.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 101.86,
+          "end": 102.28
+        },
+        {
+          "word": "tu",
+          "start": 102.28,
+          "end": 102.88
+        },
+        {
+          "word": "santo",
+          "start": 102.88,
+          "end": 104.86
+        },
+        {
+          "word": "nombre.",
+          "start": 104.86,
+          "end": 106.34
+        }
+      ],
+      "start": 101.86,
+      "end": 106.34,
+      "confidence": 1.0,
+      "time": 101.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Dulce nombre: Emanuel!",
+      "words": [
+        {
+          "word": "Dulce",
+          "start": 107.4,
+          "end": 108.8
+        },
+        {
+          "word": "nombre",
+          "start": 108.8,
+          "end": 109.74
+        },
+        {
+          "word": "Manuel,",
+          "start": 109.74,
+          "end": 111.14
+        }
+      ],
+      "start": 107.4,
+      "end": 112.12,
+      "confidence": 0.985,
+      "time": 107.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Dulce nombre, siempre fiel!",
+      "words": [
+        {
+          "word": "dulce",
+          "start": 112.12,
+          "end": 113.2
+        },
+        {
+          "word": "nombre",
+          "start": 113.2,
+          "end": 113.84
+        },
+        {
+          "word": "siempre",
+          "start": 113.84,
+          "end": 114.78
+        },
+        {
+          "word": "fiel,",
+          "start": 114.78,
+          "end": 115.66
+        }
+      ],
+      "start": 112.12,
+      "end": 115.66,
+      "confidence": 1.0,
+      "time": 112.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Dulce nombre: gloria a él",
+      "words": [
+        {
+          "word": "Dulce",
+          "start": 115.66,
+          "end": 117.76
+        },
+        {
+          "word": "nombre,",
+          "start": 117.76,
+          "end": 118.44
+        },
+        {
+          "word": "gloria",
+          "start": 118.44,
+          "end": 119.3
+        },
+        {
+          "word": "él,",
+          "start": 119.3,
+          "end": 120.1
+        }
+      ],
+      "start": 115.66,
+      "end": 120.88,
+      "confidence": 0.8,
+      "time": 115.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "los santos todos canten!",
+      "words": [
+        {
+          "word": "los",
+          "start": 120.88,
+          "end": 120.92
+        },
+        {
+          "word": "santos,",
+          "start": 121.72,
+          "end": 122.54
+        },
+        {
+          "word": "todos",
+          "start": 122.58,
+          "end": 123.72
+        },
+        {
+          "word": "cante.",
+          "start": 123.72,
+          "end": 125.66
+        }
+      ],
+      "start": 120.88,
+      "end": 125.66,
+      "confidence": 0.985,
+      "time": 120.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Jamás contó profano autor",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Ambas",
+          "start": 126.64,
+          "end": 127.44
+        },
+        {
+          "word": "con",
+          "start": 127.44,
+          "end": 127.88
+        },
+        {
+          "word": "profano",
+          "start": 128.78,
+          "end": 129.76
+        },
+        {
+          "word": "autor,",
+          "start": 129.76,
+          "end": 130.48
+        }
+      ],
+      "start": 126.64,
+      "end": 131.26,
+      "confidence": 0.955,
+      "time": 126.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "cuán dulce el nombre es del Señor;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "cuán",
+          "start": 131.26,
+          "end": 131.54
+        },
+        {
+          "word": "dulce",
+          "start": 131.54,
+          "end": 132.28
+        },
+        {
+          "word": "el",
+          "start": 132.28,
+          "end": 132.88
+        },
+        {
+          "word": "nombre",
+          "start": 132.88,
+          "end": 133.54
+        },
+        {
+          "word": "es",
+          "start": 133.54,
+          "end": 133.84
+        },
+        {
+          "word": "del",
+          "start": 133.84,
+          "end": 134.08
+        },
+        {
+          "word": "Señor,",
+          "start": 134.08,
+          "end": 135.0
+        }
+      ],
+      "start": 131.26,
+      "end": 135.0,
+      "confidence": 1.0,
+      "time": 131.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "ascienda siempre mi loor",
+      "verse": 4,
+      "words": [
+        {
+          "word": "hacienda",
+          "start": 135.9,
+          "end": 136.56
+        },
+        {
+          "word": "siempre",
+          "start": 136.56,
+          "end": 138.18
+        },
+        {
+          "word": "mi",
+          "start": 138.18,
+          "end": 138.66
+        },
+        {
+          "word": "logón",
+          "start": 138.66,
+          "end": 139.88
+        }
+      ],
+      "start": 135.9,
+      "end": 139.88,
+      "confidence": 0.931,
+      "time": 135.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "a su glorioso nombre.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "a",
+          "start": 139.88,
+          "end": 140.5
+        },
+        {
+          "word": "su",
+          "start": 140.5,
+          "end": 140.8
+        },
+        {
+          "word": "glorioso",
+          "start": 140.8,
+          "end": 143.34
+        },
+        {
+          "word": "nombre.",
+          "start": 143.34,
+          "end": 144.46
+        }
+      ],
+      "start": 139.88,
+      "end": 144.46,
+      "confidence": 1.0,
+      "time": 139.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Dulce nombre: Emanuel!",
+      "words": [
+        {
+          "word": "Dulce",
+          "start": 145.92,
+          "end": 147.32
+        },
+        {
+          "word": "nombre",
+          "start": 147.32,
+          "end": 148.08
+        },
+        {
+          "word": "Manuel,",
+          "start": 148.08,
+          "end": 149.8
+        }
+      ],
+      "start": 145.92,
+      "end": 150.78,
+      "confidence": 0.985,
+      "time": 145.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Dulce nombre, siempre fiel!",
+      "words": [
+        {
+          "word": "dulce",
+          "start": 150.78,
+          "end": 151.78
+        },
+        {
+          "word": "nombre",
+          "start": 151.78,
+          "end": 152.34
+        },
+        {
+          "word": "siempre",
+          "start": 152.34,
+          "end": 153.3
+        },
+        {
+          "word": "fiel,",
+          "start": 153.3,
+          "end": 154.32
+        }
+      ],
+      "start": 150.78,
+      "end": 155.1,
+      "confidence": 1.0,
+      "time": 150.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Dulce nombre: gloria a él",
+      "words": [
+        {
+          "word": "dulce",
+          "start": 155.1,
+          "end": 156.26
+        },
+        {
+          "word": "nombre",
+          "start": 156.26,
+          "end": 156.9
+        }
+      ],
+      "start": 155.1,
+      "end": 159.02,
+      "confidence": 0.4,
+      "time": 155.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "los santos todos canten!",
+      "words": [
+        {
+          "word": "los",
+          "start": 159.02,
+          "end": 159.34
+        },
+        {
+          "word": "santos,",
+          "start": 160.18,
+          "end": 161.2
+        },
+        {
+          "word": "todos",
+          "start": 161.2,
+          "end": 162.28
+        },
+        {
+          "word": "canten.",
+          "start": 162.28,
+          "end": 163.92
+        }
+      ],
+      "start": 159.02,
+      "end": 163.92,
+      "confidence": 1.0,
+      "time": 159.02
+    }
+  ]
+}

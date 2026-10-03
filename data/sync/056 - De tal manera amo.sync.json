@@ -1,0 +1,170 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.755,
+  "language": "es",
+  "model": "medium",
+  "hymn": 56,
+  "source": "056 - De tal manera amo.mp3",
+  "duration": 49.97,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "De tal manera amó al mundo nuestro Dios",
+      "verse": 1,
+      "words": [
+        {
+          "word": "De",
+          "start": 16.44,
+          "end": 17.14
+        },
+        {
+          "word": "tal",
+          "start": 17.14,
+          "end": 18.42
+        },
+        {
+          "word": "manera",
+          "start": 18.42,
+          "end": 19.14
+        },
+        {
+          "word": "mundo",
+          "start": 21.42,
+          "end": 22.22
+        },
+        {
+          "word": "nuestro",
+          "start": 22.22,
+          "end": 22.8
+        },
+        {
+          "word": "Dios",
+          "start": 22.8,
+          "end": 23.68
+        }
+      ],
+      "start": 16.44,
+      "end": 23.68,
+      "confidence": 0.75,
+      "time": 16.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que ha dado a su Hijo, Cristo el Señor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ha",
+          "start": 24.54,
+          "end": 24.88
+        },
+        {
+          "word": "dado",
+          "start": 24.88,
+          "end": 25.68
+        },
+        {
+          "word": "a",
+          "start": 25.68,
+          "end": 26.24
+        },
+        {
+          "word": "su",
+          "start": 26.24,
+          "end": 26.62
+        },
+        {
+          "word": "hijo,",
+          "start": 26.62,
+          "end": 27.74
+        },
+        {
+          "word": "Cristo,",
+          "start": 28.1,
+          "end": 28.88
+        },
+        {
+          "word": "el",
+          "start": 29.22,
+          "end": 29.38
+        },
+        {
+          "word": "Señor.",
+          "start": 29.38,
+          "end": 30.36
+        }
+      ],
+      "start": 24.54,
+      "end": 30.36,
+      "confidence": 0.889,
+      "time": 24.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que todos los que en él confían en verdad,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "todos",
+          "start": 31.58,
+          "end": 32.52
+        },
+        {
+          "word": "los",
+          "start": 32.52,
+          "end": 32.92
+        },
+        {
+          "word": "que",
+          "start": 32.92,
+          "end": 33.7
+        },
+        {
+          "word": "confían",
+          "start": 34.28,
+          "end": 36.0
+        },
+        {
+          "word": "en",
+          "start": 36.0,
+          "end": 36.36
+        }
+      ],
+      "start": 31.58,
+      "end": 38.08,
+      "confidence": 0.556,
+      "time": 31.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tienen vida eternal.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tiene",
+          "start": 38.08,
+          "end": 39.6
+        },
+        {
+          "word": "vida",
+          "start": 39.6,
+          "end": 40.42
+        },
+        {
+          "word": "eterna.",
+          "start": 40.42,
+          "end": 43.06
+        }
+      ],
+      "start": 38.08,
+      "end": 43.06,
+      "confidence": 0.96,
+      "time": 38.08
+    }
+  ]
+}

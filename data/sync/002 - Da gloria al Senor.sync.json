@@ -1,0 +1,736 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.967,
+  "language": "es",
+  "model": "medium",
+  "hymn": 2,
+  "source": "002 - Da gloria al Senor.mp3",
+  "duration": 157.73,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Da gloria al Señor, de rodillas adórale",
+      "verse": 1,
+      "words": [
+        {
+          "word": "gloria",
+          "start": 19.08,
+          "end": 20.14
+        },
+        {
+          "word": "al",
+          "start": 20.14,
+          "end": 20.46
+        },
+        {
+          "word": "Señor",
+          "start": 20.46,
+          "end": 22.26
+        },
+        {
+          "word": "de",
+          "start": 22.26,
+          "end": 22.78
+        },
+        {
+          "word": "rodillas",
+          "start": 22.78,
+          "end": 24.56
+        },
+        {
+          "word": "adórale",
+          "start": 24.56,
+          "end": 26.28
+        }
+      ],
+      "start": 19.08,
+      "end": 26.28,
+      "confidence": 0.857,
+      "time": 19.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en la hermosura de su santidad,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 26.28,
+          "end": 27.38
+        },
+        {
+          "word": "la",
+          "start": 27.38,
+          "end": 27.9
+        },
+        {
+          "word": "hermosura",
+          "start": 27.9,
+          "end": 29.88
+        },
+        {
+          "word": "de",
+          "start": 29.88,
+          "end": 30.54
+        },
+        {
+          "word": "su",
+          "start": 30.54,
+          "end": 31.18
+        },
+        {
+          "word": "sanidad,",
+          "start": 31.18,
+          "end": 33.62
+        }
+      ],
+      "start": 26.28,
+      "end": 33.88,
+      "confidence": 0.993,
+      "time": 26.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tu plena obediencia cual oro ofreciéndole",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tu",
+          "start": 33.88,
+          "end": 34.5
+        },
+        {
+          "word": "plena",
+          "start": 34.5,
+          "end": 35.5
+        },
+        {
+          "word": "obediencia",
+          "start": 35.5,
+          "end": 37.4
+        },
+        {
+          "word": "cualoro",
+          "start": 37.4,
+          "end": 39.24
+        },
+        {
+          "word": "ofreciéndole",
+          "start": 39.24,
+          "end": 41.68
+        }
+      ],
+      "start": 33.88,
+      "end": 41.68,
+      "confidence": 0.823,
+      "time": 33.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con el incienso de grata humildad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "con",
+          "start": 41.68,
+          "end": 42.8
+        },
+        {
+          "word": "el",
+          "start": 42.8,
+          "end": 43.66
+        },
+        {
+          "word": "incienso",
+          "start": 43.66,
+          "end": 45.06
+        },
+        {
+          "word": "de",
+          "start": 45.06,
+          "end": 45.82
+        },
+        {
+          "word": "grata",
+          "start": 45.82,
+          "end": 46.9
+        },
+        {
+          "word": "humildad.",
+          "start": 46.9,
+          "end": 50.08
+        }
+      ],
+      "start": 41.68,
+      "end": 50.08,
+      "confidence": 1.0,
+      "time": 41.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "La carga del mal deposita hoy a sus pies,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "La",
+          "start": 51.94,
+          "end": 53.34
+        },
+        {
+          "word": "carga",
+          "start": 53.34,
+          "end": 54.54
+        },
+        {
+          "word": "del",
+          "start": 54.54,
+          "end": 55.36
+        },
+        {
+          "word": "mal",
+          "start": 55.36,
+          "end": 56.52
+        },
+        {
+          "word": "posita",
+          "start": 57.06,
+          "end": 58.42
+        },
+        {
+          "word": "hoy",
+          "start": 58.42,
+          "end": 59.1
+        },
+        {
+          "word": "a",
+          "start": 59.1,
+          "end": 59.48
+        },
+        {
+          "word": "sus",
+          "start": 59.48,
+          "end": 59.7
+        },
+        {
+          "word": "pies",
+          "start": 59.7,
+          "end": 60.62
+        }
+      ],
+      "start": 51.94,
+      "end": 60.62,
+      "confidence": 0.99,
+      "time": 51.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "la llevará sobre su corazón;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 60.62,
+          "end": 61.78
+        },
+        {
+          "word": "llevará",
+          "start": 61.78,
+          "end": 63.6
+        },
+        {
+          "word": "sobre",
+          "start": 63.6,
+          "end": 64.44
+        },
+        {
+          "word": "su",
+          "start": 64.44,
+          "end": 65.34
+        },
+        {
+          "word": "corazón.",
+          "start": 65.34,
+          "end": 67.5
+        }
+      ],
+      "start": 60.62,
+      "end": 67.5,
+      "confidence": 0.96,
+      "time": 60.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "tus penas te quitará,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tus",
+          "start": 67.5,
+          "end": 68.52
+        },
+        {
+          "word": "penas",
+          "start": 68.52,
+          "end": 69.78
+        },
+        {
+          "word": "te",
+          "start": 69.78,
+          "end": 70.42
+        },
+        {
+          "word": "quitará",
+          "start": 70.42,
+          "end": 71.74
+        }
+      ],
+      "start": 67.5,
+      "end": 71.74,
+      "confidence": 1.0,
+      "time": 67.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "limpiando tus lágrimas,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "limpiando",
+          "start": 71.74,
+          "end": 73.58
+        },
+        {
+          "word": "tus",
+          "start": 73.58,
+          "end": 74.3
+        },
+        {
+          "word": "lágrimas,",
+          "start": 74.3,
+          "end": 75.98
+        }
+      ],
+      "start": 71.74,
+      "end": 76.18,
+      "confidence": 1.0,
+      "time": 71.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "guiando tus pies a mayor bendición.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "guiando",
+          "start": 76.18,
+          "end": 77.46
+        },
+        {
+          "word": "tus",
+          "start": 77.46,
+          "end": 78.06
+        },
+        {
+          "word": "pies",
+          "start": 78.06,
+          "end": 78.74
+        },
+        {
+          "word": "a",
+          "start": 78.74,
+          "end": 79.8
+        },
+        {
+          "word": "mayor",
+          "start": 79.8,
+          "end": 80.5
+        },
+        {
+          "word": "bendición.",
+          "start": 80.5,
+          "end": 83.84
+        }
+      ],
+      "start": 76.18,
+      "end": 83.84,
+      "confidence": 1.0,
+      "time": 76.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En sus santos atrios adonde convídate,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 86.04,
+          "end": 87.44
+        },
+        {
+          "word": "sus",
+          "start": 87.44,
+          "end": 88.2
+        },
+        {
+          "word": "santos",
+          "start": 88.2,
+          "end": 90.08
+        },
+        {
+          "word": "atrios",
+          "start": 90.08,
+          "end": 91.12
+        },
+        {
+          "word": "adonde",
+          "start": 91.12,
+          "end": 92.56
+        },
+        {
+          "word": "convídate,",
+          "start": 92.56,
+          "end": 94.62
+        }
+      ],
+      "start": 86.04,
+      "end": 95.46,
+      "confidence": 1.0,
+      "time": 86.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "aunque eres pobre no temas entrar;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "aunque",
+          "start": 95.46,
+          "end": 95.98
+        },
+        {
+          "word": "eres",
+          "start": 95.98,
+          "end": 96.92
+        },
+        {
+          "word": "pobre",
+          "start": 96.92,
+          "end": 97.96
+        },
+        {
+          "word": "no",
+          "start": 97.96,
+          "end": 98.86
+        },
+        {
+          "word": "temas",
+          "start": 98.86,
+          "end": 100.06
+        },
+        {
+          "word": "entrar,",
+          "start": 100.06,
+          "end": 101.72
+        }
+      ],
+      "start": 95.46,
+      "end": 101.72,
+      "confidence": 1.0,
+      "time": 95.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la firme, constante fe y el puro, sencillo amor:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 101.72,
+          "end": 102.74
+        },
+        {
+          "word": "firme",
+          "start": 102.74,
+          "end": 103.96
+        },
+        {
+          "word": "constante",
+          "start": 103.96,
+          "end": 105.0
+        },
+        {
+          "word": "fe",
+          "start": 105.0,
+          "end": 105.84
+        },
+        {
+          "word": "y",
+          "start": 105.84,
+          "end": 106.28
+        },
+        {
+          "word": "el",
+          "start": 106.28,
+          "end": 106.6
+        },
+        {
+          "word": "puro",
+          "start": 106.6,
+          "end": 107.78
+        },
+        {
+          "word": "sencillo",
+          "start": 107.78,
+          "end": 109.02
+        },
+        {
+          "word": "amor",
+          "start": 109.02,
+          "end": 110.1
+        }
+      ],
+      "start": 101.72,
+      "end": 110.1,
+      "confidence": 1.0,
+      "time": 101.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tales ofrendas pon sobre el altar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tales",
+          "start": 110.1,
+          "end": 111.46
+        },
+        {
+          "word": "ofrendas",
+          "start": 111.46,
+          "end": 113.38
+        },
+        {
+          "word": "pon",
+          "start": 113.38,
+          "end": 113.92
+        },
+        {
+          "word": "sobre",
+          "start": 113.92,
+          "end": 115.28
+        },
+        {
+          "word": "el",
+          "start": 115.28,
+          "end": 115.88
+        },
+        {
+          "word": "altar.",
+          "start": 115.88,
+          "end": 117.94
+        }
+      ],
+      "start": 110.1,
+      "end": 117.94,
+      "confidence": 1.0,
+      "time": 110.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Y cuando tus dones le entregues a tu Señor,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Y",
+          "start": 120.24,
+          "end": 121.64
+        },
+        {
+          "word": "cuando",
+          "start": 121.64,
+          "end": 122.8
+        },
+        {
+          "word": "tus",
+          "start": 122.8,
+          "end": 123.7
+        },
+        {
+          "word": "dones",
+          "start": 123.7,
+          "end": 125.12
+        },
+        {
+          "word": "le",
+          "start": 125.12,
+          "end": 125.58
+        },
+        {
+          "word": "entregues",
+          "start": 125.58,
+          "end": 126.68
+        },
+        {
+          "word": "a",
+          "start": 126.68,
+          "end": 127.4
+        },
+        {
+          "word": "tu",
+          "start": 127.4,
+          "end": 127.6
+        },
+        {
+          "word": "Señor",
+          "start": 127.6,
+          "end": 128.84
+        }
+      ],
+      "start": 120.24,
+      "end": 128.84,
+      "confidence": 1.0,
+      "time": 120.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "por su Hijo amado los aceptará;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Por",
+          "start": 128.84,
+          "end": 129.82
+        },
+        {
+          "word": "su",
+          "start": 129.82,
+          "end": 130.22
+        },
+        {
+          "word": "Hijo",
+          "start": 130.22,
+          "end": 130.76
+        },
+        {
+          "word": "amado",
+          "start": 130.76,
+          "end": 132.24
+        },
+        {
+          "word": "los",
+          "start": 132.24,
+          "end": 133.26
+        },
+        {
+          "word": "aceptará,",
+          "start": 133.26,
+          "end": 135.66
+        }
+      ],
+      "start": 128.84,
+      "end": 135.66,
+      "confidence": 1.0,
+      "time": 128.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "y tras noche lúgubre habrá aurora espléndida:",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 136.4,
+          "end": 136.9
+        },
+        {
+          "word": "tras",
+          "start": 136.9,
+          "end": 137.6
+        },
+        {
+          "word": "noche",
+          "start": 137.6,
+          "end": 138.62
+        },
+        {
+          "word": "lúbrea",
+          "start": 138.62,
+          "end": 140.52
+        },
+        {
+          "word": "habrá",
+          "start": 140.52,
+          "end": 141.18
+        },
+        {
+          "word": "aurora",
+          "start": 141.18,
+          "end": 142.14
+        },
+        {
+          "word": "espléndida,",
+          "start": 142.14,
+          "end": 144.2
+        }
+      ],
+      "start": 136.4,
+      "end": 144.2,
+      "confidence": 0.98,
+      "time": 136.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "gozo, alegría y paz te dará.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "alegría",
+          "start": 145.68,
+          "end": 147.44
+        },
+        {
+          "word": "y",
+          "start": 147.44,
+          "end": 148.36
+        },
+        {
+          "word": "paz",
+          "start": 148.36,
+          "end": 148.98
+        },
+        {
+          "word": "te",
+          "start": 148.98,
+          "end": 149.72
+        },
+        {
+          "word": "dará.",
+          "start": 149.72,
+          "end": 152.4
+        }
+      ],
+      "start": 145.68,
+      "end": 152.4,
+      "confidence": 0.833,
+      "time": 145.68
+    }
+  ]
+}

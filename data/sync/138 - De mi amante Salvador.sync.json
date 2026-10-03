@@ -1,0 +1,1574 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.985,
+  "language": "es",
+  "model": "medium",
+  "hymn": 138,
+  "source": "138 - De mi amante Salvador.mp3",
+  "duration": 205.74,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "De mi amante Salvador cantaré el inmenso amor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "De",
+          "start": 12.8,
+          "end": 14.06
+        },
+        {
+          "word": "mi",
+          "start": 14.06,
+          "end": 14.42
+        },
+        {
+          "word": "amante",
+          "start": 14.42,
+          "end": 15.14
+        },
+        {
+          "word": "Salvador",
+          "start": 15.14,
+          "end": 16.1
+        },
+        {
+          "word": "cantaré",
+          "start": 16.1,
+          "end": 17.38
+        },
+        {
+          "word": "el",
+          "start": 17.38,
+          "end": 17.72
+        },
+        {
+          "word": "inmenso",
+          "start": 17.72,
+          "end": 18.34
+        },
+        {
+          "word": "amor,",
+          "start": 18.34,
+          "end": 18.98
+        }
+      ],
+      "start": 12.8,
+      "end": 19.28,
+      "confidence": 1.0,
+      "time": 12.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "gloriareme en el favor de Jesús.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "gloriaré",
+          "start": 19.28,
+          "end": 20.16
+        },
+        {
+          "word": "en",
+          "start": 20.16,
+          "end": 20.46
+        },
+        {
+          "word": "el",
+          "start": 20.46,
+          "end": 20.94
+        },
+        {
+          "word": "favor",
+          "start": 20.94,
+          "end": 21.76
+        },
+        {
+          "word": "de",
+          "start": 21.76,
+          "end": 22.24
+        },
+        {
+          "word": "Jesús.",
+          "start": 22.24,
+          "end": 23.74
+        }
+      ],
+      "start": 19.28,
+      "end": 23.74,
+      "confidence": 0.99,
+      "time": 19.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "De tinieblas me llamó, de cadenas me libró,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "De",
+          "start": 23.74,
+          "end": 24.72
+        },
+        {
+          "word": "ti",
+          "start": 24.72,
+          "end": 24.98
+        },
+        {
+          "word": "me",
+          "start": 25.68,
+          "end": 26.06
+        },
+        {
+          "word": "llamó,",
+          "start": 26.06,
+          "end": 26.86
+        },
+        {
+          "word": "de",
+          "start": 27.08,
+          "end": 27.32
+        },
+        {
+          "word": "cadenas",
+          "start": 27.32,
+          "end": 28.18
+        },
+        {
+          "word": "me",
+          "start": 28.18,
+          "end": 28.68
+        },
+        {
+          "word": "libró,",
+          "start": 28.68,
+          "end": 30.32
+        }
+      ],
+      "start": 23.74,
+      "end": 30.92,
+      "confidence": 0.993,
+      "time": 23.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de la muerte me salvó, mi Jesús.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 30.92,
+          "end": 31.24
+        },
+        {
+          "word": "la",
+          "start": 31.24,
+          "end": 31.52
+        },
+        {
+          "word": "muerte",
+          "start": 31.52,
+          "end": 32.04
+        },
+        {
+          "word": "me",
+          "start": 32.04,
+          "end": 32.6
+        },
+        {
+          "word": "salvó",
+          "start": 32.6,
+          "end": 33.54
+        },
+        {
+          "word": "Mi",
+          "start": 36.1,
+          "end": 36.44
+        },
+        {
+          "word": "Jesús,",
+          "start": 36.44,
+          "end": 38.12
+        }
+      ],
+      "start": 30.92,
+      "end": 38.62,
+      "confidence": 1.0,
+      "time": 30.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Mi Jesús! ¡Mi Jesús!",
+      "words": [
+        {
+          "word": "mi",
+          "start": 38.62,
+          "end": 38.98
+        },
+        {
+          "word": "Jesús,",
+          "start": 38.98,
+          "end": 39.9
+        },
+        {
+          "word": "mi",
+          "start": 39.98,
+          "end": 40.14
+        },
+        {
+          "word": "Jesús,",
+          "start": 40.14,
+          "end": 41.14
+        }
+      ],
+      "start": 38.62,
+      "end": 41.32,
+      "confidence": 1.0,
+      "time": 38.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Cuán precioso es el nombre de Jesús!",
+      "words": [
+        {
+          "word": "cuán",
+          "start": 41.32,
+          "end": 41.76
+        },
+        {
+          "word": "precioso",
+          "start": 41.76,
+          "end": 42.58
+        },
+        {
+          "word": "es",
+          "start": 42.58,
+          "end": 43.08
+        },
+        {
+          "word": "el",
+          "start": 43.08,
+          "end": 43.32
+        },
+        {
+          "word": "nombre",
+          "start": 43.32,
+          "end": 43.82
+        },
+        {
+          "word": "de",
+          "start": 43.82,
+          "end": 44.36
+        },
+        {
+          "word": "Jesús.",
+          "start": 44.36,
+          "end": 46.04
+        }
+      ],
+      "start": 41.32,
+      "end": 46.04,
+      "confidence": 1.0,
+      "time": 41.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Con su sangre me limpió,",
+      "words": [
+        {
+          "word": "Con",
+          "start": 46.46,
+          "end": 46.98
+        },
+        {
+          "word": "su",
+          "start": 46.98,
+          "end": 47.16
+        },
+        {
+          "word": "sangre",
+          "start": 47.16,
+          "end": 47.7
+        },
+        {
+          "word": "me",
+          "start": 47.7,
+          "end": 48.28
+        },
+        {
+          "word": "limpió,",
+          "start": 48.28,
+          "end": 48.96
+        }
+      ],
+      "start": 46.46,
+      "end": 49.38,
+      "confidence": 1.0,
+      "time": 46.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "de su gozo me llenó,",
+      "words": [
+        {
+          "word": "de",
+          "start": 49.38,
+          "end": 49.6
+        },
+        {
+          "word": "su",
+          "start": 49.6,
+          "end": 49.82
+        },
+        {
+          "word": "gozo",
+          "start": 49.82,
+          "end": 50.42
+        },
+        {
+          "word": "me",
+          "start": 50.42,
+          "end": 50.98
+        },
+        {
+          "word": "llenó.",
+          "start": 50.98,
+          "end": 52.62
+        }
+      ],
+      "start": 49.38,
+      "end": 52.62,
+      "confidence": 1.0,
+      "time": 49.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "de su vida me dotó, mi Jesús.",
+      "words": [
+        {
+          "word": "de",
+          "start": 52.62,
+          "end": 53.48
+        },
+        {
+          "word": "su",
+          "start": 53.48,
+          "end": 53.76
+        },
+        {
+          "word": "vida",
+          "start": 53.76,
+          "end": 54.28
+        },
+        {
+          "word": "me",
+          "start": 54.28,
+          "end": 54.82
+        },
+        {
+          "word": "dotó",
+          "start": 54.82,
+          "end": 55.7
+        },
+        {
+          "word": "mi",
+          "start": 55.7,
+          "end": 56.12
+        },
+        {
+          "word": "Jesús.",
+          "start": 56.12,
+          "end": 59.28
+        }
+      ],
+      "start": 52.62,
+      "end": 59.28,
+      "confidence": 1.0,
+      "time": 52.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Oh, qué triste condición de mi impío corazón!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 60.64,
+          "end": 60.66
+        },
+        {
+          "word": "qué",
+          "start": 60.86,
+          "end": 60.88
+        },
+        {
+          "word": "triste",
+          "start": 60.88,
+          "end": 61.44
+        },
+        {
+          "word": "condición",
+          "start": 61.44,
+          "end": 62.74
+        },
+        {
+          "word": "de",
+          "start": 62.74,
+          "end": 63.18
+        },
+        {
+          "word": "mi",
+          "start": 63.18,
+          "end": 63.32
+        },
+        {
+          "word": "impío",
+          "start": 63.32,
+          "end": 64.0
+        },
+        {
+          "word": "corazón",
+          "start": 64.0,
+          "end": 65.0
+        }
+      ],
+      "start": 60.64,
+      "end": 65.0,
+      "confidence": 1.0,
+      "time": 60.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Lo salvó de perdición mi Jesús.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "lo",
+          "start": 65.0,
+          "end": 65.76
+        },
+        {
+          "word": "salvó",
+          "start": 65.76,
+          "end": 66.36
+        },
+        {
+          "word": "de",
+          "start": 66.36,
+          "end": 66.76
+        },
+        {
+          "word": "perdición",
+          "start": 66.76,
+          "end": 68.12
+        },
+        {
+          "word": "mi",
+          "start": 68.12,
+          "end": 68.42
+        },
+        {
+          "word": "Jesús.",
+          "start": 68.42,
+          "end": 69.62
+        }
+      ],
+      "start": 65.0,
+      "end": 69.62,
+      "confidence": 1.0,
+      "time": 65.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mi pecado perdonó, de la ruina me salvó,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 70.68,
+          "end": 71.02
+        },
+        {
+          "word": "pecado",
+          "start": 71.02,
+          "end": 71.9
+        },
+        {
+          "word": "perdono,",
+          "start": 71.9,
+          "end": 73.12
+        },
+        {
+          "word": "de",
+          "start": 73.26,
+          "end": 73.68
+        },
+        {
+          "word": "la",
+          "start": 73.68,
+          "end": 73.98
+        },
+        {
+          "word": "ruina",
+          "start": 73.98,
+          "end": 74.54
+        },
+        {
+          "word": "me",
+          "start": 74.54,
+          "end": 75.08
+        },
+        {
+          "word": "salvó,",
+          "start": 75.08,
+          "end": 76.92
+        }
+      ],
+      "start": 70.68,
+      "end": 76.92,
+      "confidence": 1.0,
+      "time": 70.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de la angustia me sacó mi Jesús.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 77.36,
+          "end": 77.54
+        },
+        {
+          "word": "la",
+          "start": 77.54,
+          "end": 77.84
+        },
+        {
+          "word": "angustia",
+          "start": 77.84,
+          "end": 78.5
+        },
+        {
+          "word": "me",
+          "start": 78.5,
+          "end": 78.88
+        },
+        {
+          "word": "sacó",
+          "start": 78.88,
+          "end": 79.7
+        },
+        {
+          "word": "mi",
+          "start": 79.7,
+          "end": 80.12
+        },
+        {
+          "word": "Jesús.",
+          "start": 80.12,
+          "end": 81.94
+        }
+      ],
+      "start": 77.36,
+      "end": 81.94,
+      "confidence": 1.0,
+      "time": 77.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Mi Jesús! ¡Mi Jesús!",
+      "words": [
+        {
+          "word": "¡Mi",
+          "start": 81.94,
+          "end": 82.78
+        },
+        {
+          "word": "Jesús!",
+          "start": 82.78,
+          "end": 83.52
+        },
+        {
+          "word": "¡Mi",
+          "start": 85.02,
+          "end": 85.34
+        },
+        {
+          "word": "Jesús!",
+          "start": 85.34,
+          "end": 87.3
+        }
+      ],
+      "start": 81.94,
+      "end": 88.0,
+      "confidence": 1.0,
+      "time": 81.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Cuán precioso es el nombre de Jesús!",
+      "words": [
+        {
+          "word": "precioso",
+          "start": 88.0,
+          "end": 88.94
+        },
+        {
+          "word": "es",
+          "start": 88.94,
+          "end": 89.42
+        },
+        {
+          "word": "el",
+          "start": 89.42,
+          "end": 89.56
+        },
+        {
+          "word": "nombre",
+          "start": 89.56,
+          "end": 90.12
+        },
+        {
+          "word": "de",
+          "start": 90.12,
+          "end": 90.64
+        },
+        {
+          "word": "Jesús!",
+          "start": 90.64,
+          "end": 92.38
+        }
+      ],
+      "start": 88.0,
+      "end": 92.38,
+      "confidence": 0.857,
+      "time": 88.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Con su sangre me limpió,",
+      "words": [
+        {
+          "word": "Con",
+          "start": 92.78,
+          "end": 93.26
+        },
+        {
+          "word": "Su",
+          "start": 93.26,
+          "end": 93.44
+        },
+        {
+          "word": "sangre",
+          "start": 93.44,
+          "end": 94.02
+        },
+        {
+          "word": "me",
+          "start": 94.02,
+          "end": 94.56
+        },
+        {
+          "word": "limpió,",
+          "start": 94.56,
+          "end": 95.34
+        }
+      ],
+      "start": 92.78,
+      "end": 95.46,
+      "confidence": 1.0,
+      "time": 92.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "de su gozo me llenó,",
+      "words": [
+        {
+          "word": "de",
+          "start": 95.46,
+          "end": 95.9
+        },
+        {
+          "word": "Su",
+          "start": 95.9,
+          "end": 96.12
+        },
+        {
+          "word": "gozo",
+          "start": 96.12,
+          "end": 96.7
+        },
+        {
+          "word": "me",
+          "start": 96.7,
+          "end": 97.22
+        },
+        {
+          "word": "llenó,",
+          "start": 97.22,
+          "end": 99.72
+        }
+      ],
+      "start": 95.46,
+      "end": 100.06,
+      "confidence": 1.0,
+      "time": 95.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "de su vida me dotó, mi Jesús.",
+      "words": [
+        {
+          "word": "de",
+          "start": 100.06,
+          "end": 100.44
+        },
+        {
+          "word": "Su",
+          "start": 100.44,
+          "end": 100.72
+        },
+        {
+          "word": "vida",
+          "start": 100.72,
+          "end": 101.22
+        },
+        {
+          "word": "me",
+          "start": 101.22,
+          "end": 101.78
+        },
+        {
+          "word": "dotó",
+          "start": 101.78,
+          "end": 102.64
+        },
+        {
+          "word": "mi",
+          "start": 102.64,
+          "end": 103.02
+        },
+        {
+          "word": "Jesús.",
+          "start": 103.02,
+          "end": 104.6
+        }
+      ],
+      "start": 100.06,
+      "end": 104.6,
+      "confidence": 1.0,
+      "time": 100.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Por el mundo al vagar, solitario, sin hogar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Por",
+          "start": 106.5,
+          "end": 107.66
+        },
+        {
+          "word": "el",
+          "start": 107.66,
+          "end": 107.96
+        },
+        {
+          "word": "mundo",
+          "start": 107.96,
+          "end": 108.54
+        },
+        {
+          "word": "al",
+          "start": 108.54,
+          "end": 109.0
+        },
+        {
+          "word": "vagar,",
+          "start": 109.0,
+          "end": 109.78
+        },
+        {
+          "word": "solitario",
+          "start": 110.18,
+          "end": 111.04
+        },
+        {
+          "word": "sin",
+          "start": 111.04,
+          "end": 111.56
+        },
+        {
+          "word": "hogar,",
+          "start": 111.56,
+          "end": 112.36
+        }
+      ],
+      "start": 106.5,
+      "end": 112.84,
+      "confidence": 1.0,
+      "time": 106.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "ignoraba el amor de Jesús.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ignoraba",
+          "start": 112.84,
+          "end": 113.82
+        },
+        {
+          "word": "el",
+          "start": 113.82,
+          "end": 114.24
+        },
+        {
+          "word": "amor",
+          "start": 114.24,
+          "end": 115.08
+        },
+        {
+          "word": "de",
+          "start": 115.08,
+          "end": 115.58
+        },
+        {
+          "word": "Jesús.",
+          "start": 115.58,
+          "end": 117.08
+        }
+      ],
+      "start": 112.84,
+      "end": 117.08,
+      "confidence": 1.0,
+      "time": 112.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Mas las lágrimas de ayer han pasado, y hoy placer",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Mas",
+          "start": 117.8,
+          "end": 118.04
+        },
+        {
+          "word": "las",
+          "start": 118.04,
+          "end": 118.32
+        },
+        {
+          "word": "lágrimas",
+          "start": 118.32,
+          "end": 119.28
+        },
+        {
+          "word": "de",
+          "start": 119.28,
+          "end": 119.54
+        },
+        {
+          "word": "ayer",
+          "start": 119.54,
+          "end": 119.98
+        },
+        {
+          "word": "han",
+          "start": 119.98,
+          "end": 120.64
+        },
+        {
+          "word": "pasado",
+          "start": 120.64,
+          "end": 121.34
+        },
+        {
+          "word": "y",
+          "start": 121.34,
+          "end": 121.6
+        },
+        {
+          "word": "hoy",
+          "start": 121.6,
+          "end": 121.88
+        },
+        {
+          "word": "placer",
+          "start": 121.88,
+          "end": 123.92
+        }
+      ],
+      "start": 117.8,
+      "end": 123.92,
+      "confidence": 1.0,
+      "time": 117.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "ya comienzo a tener en Jesús.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ya",
+          "start": 123.92,
+          "end": 124.5
+        },
+        {
+          "word": "comienzo",
+          "start": 124.5,
+          "end": 125.5
+        },
+        {
+          "word": "a",
+          "start": 125.5,
+          "end": 125.9
+        },
+        {
+          "word": "tener",
+          "start": 125.9,
+          "end": 126.6
+        },
+        {
+          "word": "en",
+          "start": 126.6,
+          "end": 127.12
+        },
+        {
+          "word": "Jesús.",
+          "start": 127.12,
+          "end": 128.84
+        }
+      ],
+      "start": 123.92,
+      "end": 128.84,
+      "confidence": 1.0,
+      "time": 123.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Mi Jesús! ¡Mi Jesús!",
+      "words": [
+        {
+          "word": "¡Mi",
+          "start": 128.84,
+          "end": 129.72
+        },
+        {
+          "word": "Jesús!",
+          "start": 129.72,
+          "end": 130.58
+        },
+        {
+          "word": "¡Mi",
+          "start": 131.92,
+          "end": 132.28
+        },
+        {
+          "word": "Jesús!",
+          "start": 132.28,
+          "end": 134.0
+        }
+      ],
+      "start": 128.84,
+      "end": 134.96,
+      "confidence": 1.0,
+      "time": 128.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Cuán precioso es el nombre de Jesús!",
+      "words": [
+        {
+          "word": "precioso",
+          "start": 134.96,
+          "end": 135.94
+        },
+        {
+          "word": "es",
+          "start": 135.94,
+          "end": 136.38
+        },
+        {
+          "word": "el",
+          "start": 136.38,
+          "end": 136.56
+        },
+        {
+          "word": "nombre",
+          "start": 136.56,
+          "end": 137.06
+        },
+        {
+          "word": "de",
+          "start": 137.06,
+          "end": 137.58
+        },
+        {
+          "word": "Jesús!",
+          "start": 137.58,
+          "end": 139.3
+        }
+      ],
+      "start": 134.96,
+      "end": 139.3,
+      "confidence": 0.857,
+      "time": 134.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Con su sangre me limpió,",
+      "words": [
+        {
+          "word": "Con",
+          "start": 139.68,
+          "end": 140.22
+        },
+        {
+          "word": "Su",
+          "start": 140.22,
+          "end": 140.42
+        },
+        {
+          "word": "sangre",
+          "start": 140.42,
+          "end": 140.98
+        },
+        {
+          "word": "me",
+          "start": 140.98,
+          "end": 141.56
+        },
+        {
+          "word": "limpió,",
+          "start": 141.56,
+          "end": 142.28
+        }
+      ],
+      "start": 139.68,
+      "end": 142.42,
+      "confidence": 1.0,
+      "time": 139.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "de su gozo me llenó,",
+      "words": [
+        {
+          "word": "de",
+          "start": 142.42,
+          "end": 142.8
+        },
+        {
+          "word": "Su",
+          "start": 142.8,
+          "end": 143.1
+        },
+        {
+          "word": "gozo",
+          "start": 143.1,
+          "end": 143.62
+        },
+        {
+          "word": "me",
+          "start": 143.62,
+          "end": 144.18
+        },
+        {
+          "word": "llenó,",
+          "start": 144.18,
+          "end": 146.64
+        }
+      ],
+      "start": 142.42,
+      "end": 147.2,
+      "confidence": 1.0,
+      "time": 142.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "de su vida me dotó, mi Jesús.",
+      "words": [
+        {
+          "word": "de",
+          "start": 147.2,
+          "end": 147.44
+        },
+        {
+          "word": "Su",
+          "start": 147.44,
+          "end": 147.66
+        },
+        {
+          "word": "vida",
+          "start": 147.66,
+          "end": 148.16
+        },
+        {
+          "word": "me",
+          "start": 148.16,
+          "end": 148.72
+        },
+        {
+          "word": "dotó",
+          "start": 148.72,
+          "end": 149.6
+        },
+        {
+          "word": "mi",
+          "start": 149.6,
+          "end": 149.96
+        },
+        {
+          "word": "Jesús.",
+          "start": 149.96,
+          "end": 152.88
+        }
+      ],
+      "start": 147.2,
+      "end": 152.88,
+      "confidence": 1.0,
+      "time": 147.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "De lo falso a la verdad, de lo impuro a santidad,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "De",
+          "start": 152.88,
+          "end": 154.5
+        },
+        {
+          "word": "lo",
+          "start": 154.5,
+          "end": 154.84
+        },
+        {
+          "word": "falso",
+          "start": 154.84,
+          "end": 155.32
+        },
+        {
+          "word": "a",
+          "start": 155.32,
+          "end": 155.66
+        },
+        {
+          "word": "la",
+          "start": 155.66,
+          "end": 155.9
+        },
+        {
+          "word": "verdad,",
+          "start": 155.9,
+          "end": 156.64
+        },
+        {
+          "word": "de",
+          "start": 156.94,
+          "end": 157.08
+        },
+        {
+          "word": "lo",
+          "start": 157.08,
+          "end": 157.3
+        },
+        {
+          "word": "impuro",
+          "start": 157.3,
+          "end": 157.84
+        },
+        {
+          "word": "a",
+          "start": 157.84,
+          "end": 158.12
+        },
+        {
+          "word": "santidad",
+          "start": 158.12,
+          "end": 159.02
+        }
+      ],
+      "start": 152.88,
+      "end": 159.02,
+      "confidence": 1.0,
+      "time": 152.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "ya me trajo la bondad de Jesús.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Ya",
+          "start": 159.02,
+          "end": 159.7
+        },
+        {
+          "word": "me",
+          "start": 159.7,
+          "end": 160.06
+        },
+        {
+          "word": "trajo",
+          "start": 160.06,
+          "end": 160.6
+        },
+        {
+          "word": "la",
+          "start": 160.6,
+          "end": 161.12
+        },
+        {
+          "word": "bondad",
+          "start": 161.12,
+          "end": 162.08
+        },
+        {
+          "word": "de",
+          "start": 162.08,
+          "end": 162.46
+        },
+        {
+          "word": "Jesús",
+          "start": 162.46,
+          "end": 164.18
+        }
+      ],
+      "start": 159.02,
+      "end": 164.18,
+      "confidence": 1.0,
+      "time": 159.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Y hecho fuerte en la virtud de su perennal salud,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Y",
+          "start": 164.18,
+          "end": 164.9
+        },
+        {
+          "word": "fuerte",
+          "start": 165.26,
+          "end": 165.72
+        },
+        {
+          "word": "en",
+          "start": 165.72,
+          "end": 166.14
+        },
+        {
+          "word": "la",
+          "start": 166.14,
+          "end": 166.34
+        },
+        {
+          "word": "virtud",
+          "start": 166.34,
+          "end": 167.14
+        },
+        {
+          "word": "de",
+          "start": 167.14,
+          "end": 167.62
+        },
+        {
+          "word": "su",
+          "start": 167.62,
+          "end": 168.02
+        },
+        {
+          "word": "perenal",
+          "start": 168.02,
+          "end": 168.92
+        },
+        {
+          "word": "salud",
+          "start": 168.92,
+          "end": 170.56
+        }
+      ],
+      "start": 164.18,
+      "end": 171.46,
+      "confidence": 0.896,
+      "time": 164.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "himnos doy de gratitud a Jesús.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "nos",
+          "start": 171.46,
+          "end": 171.8
+        },
+        {
+          "word": "doy",
+          "start": 171.8,
+          "end": 172.22
+        },
+        {
+          "word": "de",
+          "start": 172.22,
+          "end": 172.52
+        },
+        {
+          "word": "gratitud",
+          "start": 172.52,
+          "end": 173.84
+        },
+        {
+          "word": "a",
+          "start": 173.84,
+          "end": 174.16
+        },
+        {
+          "word": "Jesús!",
+          "start": 176.7,
+          "end": 177.56
+        }
+      ],
+      "start": 171.46,
+      "end": 177.62,
+      "confidence": 0.967,
+      "time": 171.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Mi Jesús! ¡Mi Jesús!",
+      "words": [
+        {
+          "word": "¡Mi",
+          "start": 177.62,
+          "end": 177.88
+        },
+        {
+          "word": "Jesús!",
+          "start": 177.88,
+          "end": 178.7
+        },
+        {
+          "word": "¡Mi",
+          "start": 178.78,
+          "end": 179.22
+        },
+        {
+          "word": "Jesús!",
+          "start": 179.22,
+          "end": 181.36
+        }
+      ],
+      "start": 177.62,
+      "end": 181.36,
+      "confidence": 1.0,
+      "time": 177.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Cuán precioso es el nombre de Jesús!",
+      "words": [
+        {
+          "word": "¡Cuán",
+          "start": 181.42,
+          "end": 181.98
+        },
+        {
+          "word": "precioso",
+          "start": 181.98,
+          "end": 182.8
+        },
+        {
+          "word": "es",
+          "start": 182.8,
+          "end": 183.3
+        },
+        {
+          "word": "el",
+          "start": 183.3,
+          "end": 183.5
+        },
+        {
+          "word": "nombre",
+          "start": 183.5,
+          "end": 184.02
+        },
+        {
+          "word": "de",
+          "start": 184.02,
+          "end": 184.66
+        },
+        {
+          "word": "Jesús!",
+          "start": 184.66,
+          "end": 186.28
+        }
+      ],
+      "start": 181.42,
+      "end": 186.28,
+      "confidence": 1.0,
+      "time": 181.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Con su sangre me limpió,",
+      "words": [
+        {
+          "word": "¡Con",
+          "start": 186.72,
+          "end": 187.16
+        },
+        {
+          "word": "su",
+          "start": 187.16,
+          "end": 187.42
+        },
+        {
+          "word": "sangre",
+          "start": 187.42,
+          "end": 187.92
+        },
+        {
+          "word": "me",
+          "start": 187.92,
+          "end": 188.54
+        },
+        {
+          "word": "limpió,",
+          "start": 188.54,
+          "end": 189.2
+        }
+      ],
+      "start": 186.72,
+      "end": 189.36,
+      "confidence": 1.0,
+      "time": 186.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "de su gozo me llenó,",
+      "words": [
+        {
+          "word": "de",
+          "start": 189.36,
+          "end": 189.78
+        },
+        {
+          "word": "su",
+          "start": 189.78,
+          "end": 190.08
+        },
+        {
+          "word": "gozo",
+          "start": 190.08,
+          "end": 190.58
+        },
+        {
+          "word": "me",
+          "start": 190.58,
+          "end": 191.14
+        },
+        {
+          "word": "llenó!",
+          "start": 191.14,
+          "end": 193.9
+        }
+      ],
+      "start": 189.36,
+      "end": 193.9,
+      "confidence": 1.0,
+      "time": 189.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "de su vida me dotó, mi Jesús.",
+      "words": [
+        {
+          "word": "¡De",
+          "start": 194.5,
+          "end": 194.94
+        },
+        {
+          "word": "su",
+          "start": 194.94,
+          "end": 195.28
+        },
+        {
+          "word": "vida",
+          "start": 195.28,
+          "end": 195.8
+        },
+        {
+          "word": "me",
+          "start": 195.8,
+          "end": 196.38
+        },
+        {
+          "word": "notó",
+          "start": 196.38,
+          "end": 197.28
+        },
+        {
+          "word": "mi",
+          "start": 197.28,
+          "end": 197.7
+        },
+        {
+          "word": "Jesús!",
+          "start": 197.7,
+          "end": 198.7
+        }
+      ],
+      "start": 194.5,
+      "end": 198.7,
+      "confidence": 0.979,
+      "time": 194.5
+    }
+  ]
+}

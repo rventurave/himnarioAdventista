@@ -1,0 +1,529 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.933,
+  "language": "es",
+  "model": "medium",
+  "hymn": 94,
+  "source": "094 - Sangro mi soberano Dios.mp3",
+  "duration": 99.32,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Sangró mi soberano Dios,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Sangro",
+          "start": 18.56,
+          "end": 19.96
+        },
+        {
+          "word": "mi",
+          "start": 19.96,
+          "end": 20.3
+        },
+        {
+          "word": "soberano",
+          "start": 20.3,
+          "end": 22.4
+        },
+        {
+          "word": "Dios,",
+          "start": 22.4,
+          "end": 23.14
+        }
+      ],
+      "start": 18.56,
+      "end": 23.82,
+      "confidence": 1.0,
+      "time": 18.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "murió mi Salvador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "murió",
+          "start": 23.82,
+          "end": 25.2
+        },
+        {
+          "word": "mi",
+          "start": 25.2,
+          "end": 25.6
+        },
+        {
+          "word": "Salvador",
+          "start": 25.6,
+          "end": 27.04
+        }
+      ],
+      "start": 23.82,
+      "end": 27.04,
+      "confidence": 1.0,
+      "time": 23.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Su vida quiso entregar",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Su",
+          "start": 27.04,
+          "end": 28.7
+        },
+        {
+          "word": "vida",
+          "start": 28.7,
+          "end": 29.4
+        },
+        {
+          "word": "quiso",
+          "start": 29.4,
+          "end": 30.9
+        },
+        {
+          "word": "entregar,",
+          "start": 30.9,
+          "end": 32.36
+        }
+      ],
+      "start": 27.04,
+      "end": 33.18,
+      "confidence": 1.0,
+      "time": 27.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por mí, tan pecador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "por",
+          "start": 33.18,
+          "end": 33.44
+        },
+        {
+          "word": "mi",
+          "start": 33.44,
+          "end": 34.46
+        },
+        {
+          "word": "tan",
+          "start": 34.46,
+          "end": 34.8
+        },
+        {
+          "word": "pecado.",
+          "start": 34.8,
+          "end": 36.94
+        }
+      ],
+      "start": 33.18,
+      "end": 36.94,
+      "confidence": 0.985,
+      "time": 33.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Y yo, contrito, al ver su cruz,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Y",
+          "start": 37.98,
+          "end": 38.28
+        },
+        {
+          "word": "yo",
+          "start": 38.28,
+          "end": 38.68
+        },
+        {
+          "word": "con",
+          "start": 38.68,
+          "end": 39.4
+        },
+        {
+          "word": "su",
+          "start": 41.0,
+          "end": 41.48
+        },
+        {
+          "word": "cruz,",
+          "start": 41.48,
+          "end": 42.14
+        }
+      ],
+      "start": 37.98,
+      "end": 42.88,
+      "confidence": 0.706,
+      "time": 37.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "el rostro encubriré;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 42.88,
+          "end": 43.18
+        },
+        {
+          "word": "rostro",
+          "start": 43.18,
+          "end": 44.4
+        },
+        {
+          "word": "encubriré.",
+          "start": 44.4,
+          "end": 46.04
+        }
+      ],
+      "start": 42.88,
+      "end": 46.04,
+      "confidence": 1.0,
+      "time": 42.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "con lágrimas de gratitud",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Con",
+          "start": 47.04,
+          "end": 47.66
+        },
+        {
+          "word": "la",
+          "start": 47.66,
+          "end": 48.02
+        },
+        {
+          "word": "de",
+          "start": 49.44,
+          "end": 49.88
+        },
+        {
+          "word": "gratitud,",
+          "start": 49.88,
+          "end": 51.16
+        }
+      ],
+      "start": 47.04,
+      "end": 52.2,
+      "confidence": 0.985,
+      "time": 47.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "mi alma inundaré.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mi",
+          "start": 52.2,
+          "end": 52.46
+        },
+        {
+          "word": "alma",
+          "start": 52.46,
+          "end": 53.58
+        },
+        {
+          "word": "inundaré.",
+          "start": 53.58,
+          "end": 55.28
+        }
+      ],
+      "start": 52.2,
+      "end": 55.28,
+      "confidence": 1.0,
+      "time": 52.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mas no con llanto pagaré",
+      "verse": 3,
+      "words": [
+        {
+          "word": "No",
+          "start": 55.28,
+          "end": 57.06
+        },
+        {
+          "word": "con",
+          "start": 58.18,
+          "end": 58.44
+        },
+        {
+          "word": "llanto,",
+          "start": 58.44,
+          "end": 59.5
+        },
+        {
+          "word": "apagaré",
+          "start": 59.5,
+          "end": 60.88
+        }
+      ],
+      "start": 55.28,
+      "end": 60.88,
+      "confidence": 0.791,
+      "time": 55.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la deuda de su amor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 60.88,
+          "end": 62.12
+        },
+        {
+          "word": "deuda",
+          "start": 62.12,
+          "end": 63.4
+        },
+        {
+          "word": "de",
+          "start": 63.4,
+          "end": 63.76
+        },
+        {
+          "word": "su",
+          "start": 63.76,
+          "end": 64.14
+        },
+        {
+          "word": "amor.",
+          "start": 64.14,
+          "end": 65.42
+        }
+      ],
+      "start": 60.88,
+      "end": 65.42,
+      "confidence": 1.0,
+      "time": 60.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mi ser entero yo te doy,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Mis",
+          "start": 66.02,
+          "end": 66.86
+        },
+        {
+          "word": "ser",
+          "start": 66.86,
+          "end": 67.34
+        },
+        {
+          "word": "enteros",
+          "start": 67.34,
+          "end": 68.86
+        },
+        {
+          "word": "te",
+          "start": 69.4,
+          "end": 69.78
+        },
+        {
+          "word": "doy,",
+          "start": 69.78,
+          "end": 70.32
+        }
+      ],
+      "start": 66.02,
+      "end": 70.48,
+      "confidence": 0.803,
+      "time": 66.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡no puedo más, Señor!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "no",
+          "start": 70.48,
+          "end": 71.44
+        },
+        {
+          "word": "puedo",
+          "start": 71.44,
+          "end": 72.62
+        },
+        {
+          "word": "más",
+          "start": 72.62,
+          "end": 73.34
+        },
+        {
+          "word": "tener.",
+          "start": 73.34,
+          "end": 74.16
+        }
+      ],
+      "start": 70.48,
+      "end": 74.16,
+      "confidence": 0.94,
+      "time": 70.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "¡Oh, Salvador, ayúdame;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 74.16,
+          "end": 76.3
+        },
+        {
+          "word": "Salvador,",
+          "start": 76.44,
+          "end": 77.28
+        },
+        {
+          "word": "ayúdame",
+          "start": 78.54,
+          "end": 79.8
+        }
+      ],
+      "start": 74.16,
+      "end": 79.8,
+      "confidence": 1.0,
+      "time": 74.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "que sea fiel a ti;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "que",
+          "start": 79.8,
+          "end": 80.8
+        },
+        {
+          "word": "sea",
+          "start": 80.8,
+          "end": 82.24
+        },
+        {
+          "word": "fiel",
+          "start": 82.24,
+          "end": 82.82
+        },
+        {
+          "word": "a",
+          "start": 82.82,
+          "end": 83.36
+        },
+        {
+          "word": "ti,",
+          "start": 83.36,
+          "end": 84.4
+        }
+      ],
+      "start": 79.8,
+      "end": 84.9,
+      "confidence": 1.0,
+      "time": 79.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "y cuando en gloria reines tú,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 84.9,
+          "end": 85.46
+        },
+        {
+          "word": "cuando",
+          "start": 85.46,
+          "end": 86.1
+        },
+        {
+          "word": "en",
+          "start": 86.1,
+          "end": 86.46
+        },
+        {
+          "word": "gloria",
+          "start": 86.46,
+          "end": 87.78
+        },
+        {
+          "word": "reines",
+          "start": 87.78,
+          "end": 88.7
+        },
+        {
+          "word": "tú,",
+          "start": 88.7,
+          "end": 89.28
+        }
+      ],
+      "start": 84.9,
+      "end": 90.12,
+      "confidence": 1.0,
+      "time": 84.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "acuérdate de mí!",
+      "verse": 4,
+      "words": [
+        {
+          "word": "acuérdate",
+          "start": 90.12,
+          "end": 92.16
+        },
+        {
+          "word": "de",
+          "start": 92.16,
+          "end": 92.84
+        },
+        {
+          "word": "mí.",
+          "start": 92.84,
+          "end": 94.76
+        }
+      ],
+      "start": 90.12,
+      "end": 94.76,
+      "confidence": 1.0,
+      "time": 90.12
+    }
+  ]
+}

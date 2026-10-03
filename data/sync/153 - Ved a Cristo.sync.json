@@ -1,0 +1,890 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.868,
+  "language": "es",
+  "model": "medium",
+  "hymn": 153,
+  "source": "153 - Ved a Cristo.mp3",
+  "duration": 178.76,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ved a Cristo, Rey de gloria;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 16.98,
+          "end": 18.06
+        },
+        {
+          "word": "Rey",
+          "start": 18.94,
+          "end": 19.34
+        },
+        {
+          "word": "de",
+          "start": 19.34,
+          "end": 19.94
+        },
+        {
+          "word": "gloria,",
+          "start": 19.94,
+          "end": 20.68
+        }
+      ],
+      "start": 16.98,
+      "end": 21.46,
+      "confidence": 0.667,
+      "time": 16.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "es del mundo el vencedor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 21.46,
+          "end": 21.96
+        },
+        {
+          "word": "del",
+          "start": 21.96,
+          "end": 22.24
+        },
+        {
+          "word": "mundo",
+          "start": 22.24,
+          "end": 22.62
+        },
+        {
+          "word": "el",
+          "start": 22.62,
+          "end": 22.94
+        },
+        {
+          "word": "vencedor.",
+          "start": 22.94,
+          "end": 25.36
+        }
+      ],
+      "start": 21.46,
+      "end": 25.36,
+      "confidence": 1.0,
+      "time": 21.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "De la guerra vuelve invicto;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "De",
+          "start": 25.36,
+          "end": 26.72
+        },
+        {
+          "word": "la",
+          "start": 26.72,
+          "end": 27.24
+        },
+        {
+          "word": "guerra",
+          "start": 27.24,
+          "end": 28.08
+        },
+        {
+          "word": "vuelve",
+          "start": 28.08,
+          "end": 29.38
+        },
+        {
+          "word": "invicto,",
+          "start": 29.38,
+          "end": 30.62
+        }
+      ],
+      "start": 25.36,
+      "end": 31.32,
+      "confidence": 1.0,
+      "time": 25.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "todos démosle loor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "todos",
+          "start": 31.32,
+          "end": 31.84
+        },
+        {
+          "word": "demos",
+          "start": 31.84,
+          "end": 32.48
+        }
+      ],
+      "start": 31.32,
+      "end": 35.24,
+      "confidence": 0.647,
+      "time": 31.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Coronadle, santos todos!",
+      "words": [
+        {
+          "word": "Coronadle,",
+          "start": 36.66,
+          "end": 38.06
+        },
+        {
+          "word": "santos",
+          "start": 38.1,
+          "end": 39.28
+        },
+        {
+          "word": "todos,",
+          "start": 39.28,
+          "end": 40.16
+        }
+      ],
+      "start": 36.66,
+      "end": 41.4,
+      "confidence": 1.0,
+      "time": 36.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Coronadle Rey de reyes!",
+      "words": [
+        {
+          "word": "coronadle,",
+          "start": 41.4,
+          "end": 42.34
+        },
+        {
+          "word": "rey",
+          "start": 42.42,
+          "end": 42.6
+        },
+        {
+          "word": "de",
+          "start": 42.6,
+          "end": 43.58
+        },
+        {
+          "word": "reyes.",
+          "start": 43.58,
+          "end": 45.12
+        }
+      ],
+      "start": 41.4,
+      "end": 45.12,
+      "confidence": 1.0,
+      "time": 41.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Coronadle, santos todos!",
+      "words": [
+        {
+          "word": "Coronados,",
+          "start": 45.12,
+          "end": 47.7
+        },
+        {
+          "word": "santos",
+          "start": 47.74,
+          "end": 49.04
+        },
+        {
+          "word": "todos,",
+          "start": 49.04,
+          "end": 50.0
+        }
+      ],
+      "start": 45.12,
+      "end": 51.2,
+      "confidence": 0.956,
+      "time": 45.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Coronad al Salvador!",
+      "words": [
+        {
+          "word": "coronados,",
+          "start": 51.2,
+          "end": 52.1
+        },
+        {
+          "word": "salvados.",
+          "start": 52.38,
+          "end": 55.02
+        }
+      ],
+      "start": 51.2,
+      "end": 55.02,
+      "confidence": 0.622,
+      "time": 51.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Exaltadlo, exaltadlo!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Exaltado,",
+          "start": 57.6,
+          "end": 59.0
+        },
+        {
+          "word": "exaltado,",
+          "start": 59.0,
+          "end": 60.4
+        }
+      ],
+      "start": 57.6,
+      "end": 61.1,
+      "confidence": 0.965,
+      "time": 57.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Ricos triunfos da Jesús.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ricos",
+          "start": 61.1,
+          "end": 61.76
+        },
+        {
+          "word": "triunfos",
+          "start": 61.76,
+          "end": 62.38
+        },
+        {
+          "word": "Jesús,",
+          "start": 62.82,
+          "end": 64.9
+        }
+      ],
+      "start": 61.1,
+      "end": 64.9,
+      "confidence": 0.75,
+      "time": 61.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Entronadle en los cielos,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "dentro",
+          "start": 66.28,
+          "end": 66.66
+        },
+        {
+          "word": "los",
+          "start": 68.8,
+          "end": 69.3
+        },
+        {
+          "word": "cielos,",
+          "start": 69.3,
+          "end": 70.18
+        }
+      ],
+      "start": 66.28,
+      "end": 71.06,
+      "confidence": 0.694,
+      "time": 66.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en la refulgente luz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 71.06,
+          "end": 71.24
+        },
+        {
+          "word": "la",
+          "start": 71.24,
+          "end": 71.7
+        },
+        {
+          "word": "luz.",
+          "start": 72.94,
+          "end": 74.12
+        }
+      ],
+      "start": 71.06,
+      "end": 74.12,
+      "confidence": 0.75,
+      "time": 71.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Coronadle, santos todos!",
+      "words": [
+        {
+          "word": "Coronadle,",
+          "start": 76.3,
+          "end": 77.7
+        },
+        {
+          "word": "santos",
+          "start": 77.7,
+          "end": 78.94
+        },
+        {
+          "word": "todos,",
+          "start": 78.94,
+          "end": 79.84
+        }
+      ],
+      "start": 76.3,
+      "end": 80.64,
+      "confidence": 1.0,
+      "time": 76.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Coronadle Rey de reyes!",
+      "words": [
+        {
+          "word": "coronadle,",
+          "start": 80.64,
+          "end": 81.96
+        },
+        {
+          "word": "rey",
+          "start": 81.96,
+          "end": 82.42
+        },
+        {
+          "word": "de",
+          "start": 82.42,
+          "end": 83.12
+        },
+        {
+          "word": "reyes,",
+          "start": 83.12,
+          "end": 84.84
+        }
+      ],
+      "start": 80.64,
+      "end": 85.56,
+      "confidence": 1.0,
+      "time": 80.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Coronadle, santos todos!",
+      "words": [
+        {
+          "word": "coronadle,",
+          "start": 85.56,
+          "end": 87.48
+        },
+        {
+          "word": "santos",
+          "start": 88.18,
+          "end": 88.64
+        },
+        {
+          "word": "todos,",
+          "start": 88.64,
+          "end": 89.56
+        }
+      ],
+      "start": 85.56,
+      "end": 90.72,
+      "confidence": 1.0,
+      "time": 85.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Coronad al Salvador!",
+      "words": [
+        {
+          "word": "coronad",
+          "start": 90.72,
+          "end": 91.48
+        },
+        {
+          "word": "al",
+          "start": 91.48,
+          "end": 91.74
+        },
+        {
+          "word": "Salvador.",
+          "start": 91.74,
+          "end": 92.96
+        }
+      ],
+      "start": 90.72,
+      "end": 92.96,
+      "confidence": 1.0,
+      "time": 90.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Si los malos se burlaron",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Si",
+          "start": 94.62,
+          "end": 96.02
+        },
+        {
+          "word": "los",
+          "start": 96.02,
+          "end": 96.92
+        },
+        {
+          "word": "malos",
+          "start": 96.92,
+          "end": 97.72
+        },
+        {
+          "word": "se",
+          "start": 97.72,
+          "end": 98.7
+        },
+        {
+          "word": "burlaron",
+          "start": 98.7,
+          "end": 100.22
+        }
+      ],
+      "start": 94.62,
+      "end": 100.22,
+      "confidence": 1.0,
+      "time": 94.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "coronando al Salvador,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "coronando",
+          "start": 100.22,
+          "end": 101.88
+        },
+        {
+          "word": "al",
+          "start": 101.88,
+          "end": 102.1
+        },
+        {
+          "word": "Salvador,",
+          "start": 102.1,
+          "end": 104.48
+        }
+      ],
+      "start": 100.22,
+      "end": 105.5,
+      "confidence": 1.0,
+      "time": 100.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "hoy los ángeles y santos",
+      "verse": 3,
+      "words": [
+        {
+          "word": "hoy",
+          "start": 105.5,
+          "end": 106.0
+        },
+        {
+          "word": "los",
+          "start": 106.0,
+          "end": 106.6
+        },
+        {
+          "word": "ángeles",
+          "start": 106.6,
+          "end": 108.04
+        },
+        {
+          "word": "y",
+          "start": 108.04,
+          "end": 108.82
+        },
+        {
+          "word": "santos",
+          "start": 108.82,
+          "end": 109.88
+        }
+      ],
+      "start": 105.5,
+      "end": 109.88,
+      "confidence": 1.0,
+      "time": 105.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "lo proclaman su Señor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "lo",
+          "start": 109.88,
+          "end": 111.0
+        },
+        {
+          "word": "proclaman",
+          "start": 111.0,
+          "end": 111.74
+        },
+        {
+          "word": "su",
+          "start": 111.74,
+          "end": 112.26
+        },
+        {
+          "word": "Señor.",
+          "start": 112.26,
+          "end": 114.32
+        }
+      ],
+      "start": 109.88,
+      "end": 114.32,
+      "confidence": 1.0,
+      "time": 109.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Coronadle, santos todos!",
+      "words": [
+        {
+          "word": "Corona",
+          "start": 114.32,
+          "end": 116.42
+        },
+        {
+          "word": "santos",
+          "start": 117.34,
+          "end": 119.02
+        },
+        {
+          "word": "todos,",
+          "start": 119.02,
+          "end": 119.5
+        }
+      ],
+      "start": 114.32,
+      "end": 120.3,
+      "confidence": 0.98,
+      "time": 114.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Coronadle Rey de reyes!",
+      "words": [
+        {
+          "word": "Corona",
+          "start": 120.3,
+          "end": 121.22
+        },
+        {
+          "word": "rey",
+          "start": 121.72,
+          "end": 122.08
+        },
+        {
+          "word": "de",
+          "start": 122.08,
+          "end": 122.8
+        },
+        {
+          "word": "reyes,",
+          "start": 122.8,
+          "end": 124.5
+        }
+      ],
+      "start": 120.3,
+      "end": 124.5,
+      "confidence": 0.985,
+      "time": 120.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Coronadle, santos todos!",
+      "words": [
+        {
+          "word": "Corona",
+          "start": 125.5,
+          "end": 126.24
+        },
+        {
+          "word": "santos",
+          "start": 127.14,
+          "end": 128.28
+        },
+        {
+          "word": "todos,",
+          "start": 128.28,
+          "end": 129.18
+        }
+      ],
+      "start": 125.5,
+      "end": 130.46,
+      "confidence": 0.98,
+      "time": 125.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Coronad al Salvador!",
+      "words": [
+        {
+          "word": "Corona",
+          "start": 130.46,
+          "end": 130.96
+        },
+        {
+          "word": "Salvador.",
+          "start": 131.38,
+          "end": 132.82
+        }
+      ],
+      "start": 130.46,
+      "end": 132.82,
+      "confidence": 0.647,
+      "time": 130.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Escuchad las alabanzas",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Escuchar",
+          "start": 135.38,
+          "end": 136.78
+        },
+        {
+          "word": "las",
+          "start": 136.78,
+          "end": 137.94
+        },
+        {
+          "word": "alabanzas,",
+          "start": 137.94,
+          "end": 139.82
+        }
+      ],
+      "start": 135.38,
+      "end": 140.92,
+      "confidence": 0.975,
+      "time": 135.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "que se elevan hacia él.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "que",
+          "start": 140.92,
+          "end": 141.06
+        },
+        {
+          "word": "él.",
+          "start": 142.72,
+          "end": 144.54
+        }
+      ],
+      "start": 140.92,
+      "end": 144.54,
+      "confidence": 0.4,
+      "time": 140.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Victorioso reina Cristo:",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Vitorioso",
+          "start": 145.52,
+          "end": 146.92
+        },
+        {
+          "word": "reina",
+          "start": 146.92,
+          "end": 148.26
+        },
+        {
+          "word": "Cristo,",
+          "start": 148.68,
+          "end": 149.4
+        }
+      ],
+      "start": 145.52,
+      "end": 150.48,
+      "confidence": 0.989,
+      "time": 145.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "adorad a Emanuel.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "adorada",
+          "start": 150.48,
+          "end": 151.4
+        },
+        {
+          "word": "Manuel.",
+          "start": 151.92,
+          "end": 153.86
+        }
+      ],
+      "start": 150.48,
+      "end": 153.86,
+      "confidence": 0.631,
+      "time": 150.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Coronadle, santos todos!",
+      "words": [
+        {
+          "word": "Coronadme,",
+          "start": 155.58,
+          "end": 156.98
+        },
+        {
+          "word": "santos",
+          "start": 156.98,
+          "end": 158.34
+        },
+        {
+          "word": "todos,",
+          "start": 158.34,
+          "end": 159.14
+        }
+      ],
+      "start": 155.58,
+      "end": 160.3,
+      "confidence": 0.978,
+      "time": 155.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Coronadle Rey de reyes!",
+      "words": [
+        {
+          "word": "coronadme,",
+          "start": 160.3,
+          "end": 161.34
+        },
+        {
+          "word": "rey",
+          "start": 161.36,
+          "end": 161.7
+        },
+        {
+          "word": "de",
+          "start": 161.7,
+          "end": 162.34
+        },
+        {
+          "word": "reyes,",
+          "start": 162.34,
+          "end": 164.18
+        }
+      ],
+      "start": 160.3,
+      "end": 165.22,
+      "confidence": 0.983,
+      "time": 160.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Coronadle, santos todos!",
+      "words": [
+        {
+          "word": "coronadme,",
+          "start": 165.22,
+          "end": 166.6
+        },
+        {
+          "word": "santos",
+          "start": 166.6,
+          "end": 168.28
+        },
+        {
+          "word": "todos,",
+          "start": 168.28,
+          "end": 168.88
+        }
+      ],
+      "start": 165.22,
+      "end": 170.16,
+      "confidence": 0.978,
+      "time": 165.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Coronad al Salvador!",
+      "words": [
+        {
+          "word": "coronadme",
+          "start": 170.16,
+          "end": 171.9
+        }
+      ],
+      "start": 170.16,
+      "end": 173.32,
+      "confidence": 0.313,
+      "time": 170.16
+    }
+  ]
+}

@@ -1,0 +1,714 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.768,
+  "language": "es",
+  "model": "medium",
+  "hymn": 67,
+  "source": "067 - Senor, yo te conozco.mp3",
+  "duration": 172.46,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Señor, yo te conozco! La noche azul, serena,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Este",
+          "start": 0.0,
+          "end": 1.56
+        },
+        {
+          "word": "la",
+          "start": 3.1,
+          "end": 3.18
+        }
+      ],
+      "start": 0.0,
+      "end": 3.18,
+      "confidence": 0.225,
+      "time": 0.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "me dice desde lejos: \"Tu Dios se esconde allí\".",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 3.18,
+          "end": 3.18
+        },
+        {
+          "word": "de",
+          "start": 3.18,
+          "end": 3.18
+        },
+        {
+          "word": "los",
+          "start": 3.18,
+          "end": 3.18
+        },
+        {
+          "word": "días.",
+          "start": 29.98,
+          "end": 29.98
+        }
+      ],
+      "start": 3.18,
+      "end": 29.98,
+      "confidence": 0.382,
+      "time": 3.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Pero la noche oscura, la de nublados llena,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 30.0,
+          "end": 30.96
+        },
+        {
+          "word": "la",
+          "start": 30.96,
+          "end": 31.82
+        },
+        {
+          "word": "noche",
+          "start": 31.82,
+          "end": 32.42
+        },
+        {
+          "word": "oscura,",
+          "start": 32.42,
+          "end": 34.4
+        },
+        {
+          "word": "la",
+          "start": 34.9,
+          "end": 35.4
+        },
+        {
+          "word": "de",
+          "start": 35.4,
+          "end": 36.04
+        },
+        {
+          "word": "llena,",
+          "start": 37.82,
+          "end": 39.26
+        }
+      ],
+      "start": 30.0,
+      "end": 39.26,
+      "confidence": 0.845,
+      "time": 30.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "me dice más pujante: \"Tu Dios se acerca a ti\".",
+      "verse": 1,
+      "words": [
+        {
+          "word": "espugante",
+          "start": 41.6,
+          "end": 43.94
+        },
+        {
+          "word": "tu",
+          "start": 43.94,
+          "end": 44.8
+        },
+        {
+          "word": "Dios",
+          "start": 44.8,
+          "end": 45.56
+        },
+        {
+          "word": "acerca",
+          "start": 46.16,
+          "end": 47.06
+        }
+      ],
+      "start": 41.6,
+      "end": 48.96,
+      "confidence": 0.385,
+      "time": 41.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Te acercas, sí; conozco las orlas de tu manto",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Te",
+          "start": 50.22,
+          "end": 50.48
+        },
+        {
+          "word": "acerca",
+          "start": 50.48,
+          "end": 51.46
+        },
+        {
+          "word": "así",
+          "start": 51.46,
+          "end": 52.4
+        },
+        {
+          "word": "con",
+          "start": 52.4,
+          "end": 53.44
+        },
+        {
+          "word": "las",
+          "start": 54.72,
+          "end": 55.62
+        },
+        {
+          "word": "olas",
+          "start": 55.62,
+          "end": 56.72
+        },
+        {
+          "word": "de",
+          "start": 56.72,
+          "end": 57.32
+        },
+        {
+          "word": "tu",
+          "start": 57.32,
+          "end": 58.08
+        },
+        {
+          "word": "manto,",
+          "start": 58.08,
+          "end": 59.22
+        }
+      ],
+      "start": 50.22,
+      "end": 59.22,
+      "confidence": 0.966,
+      "time": 50.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "en esa ardiente nube con que ceñido estás;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "es",
+          "start": 60.42,
+          "end": 61.1
+        },
+        {
+          "word": "ardiente",
+          "start": 61.1,
+          "end": 62.5
+        },
+        {
+          "word": "nube,",
+          "start": 62.5,
+          "end": 64.3
+        },
+        {
+          "word": "que",
+          "start": 65.12,
+          "end": 65.64
+        },
+        {
+          "word": "seguido",
+          "start": 65.64,
+          "end": 67.26
+        },
+        {
+          "word": "estás.",
+          "start": 67.26,
+          "end": 68.84
+        }
+      ],
+      "start": 60.42,
+      "end": 68.84,
+      "confidence": 0.714,
+      "time": 60.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "el resplandor conozco de tu semblante santo",
+      "verse": 2,
+      "words": [
+        {
+          "word": "El",
+          "start": 69.38,
+          "end": 70.28
+        },
+        {
+          "word": "resplandor",
+          "start": 70.28,
+          "end": 71.62
+        },
+        {
+          "word": "bonoso",
+          "start": 71.62,
+          "end": 73.7
+        },
+        {
+          "word": "de",
+          "start": 73.7,
+          "end": 74.66
+        },
+        {
+          "word": "tu",
+          "start": 74.66,
+          "end": 75.18
+        },
+        {
+          "word": "seplante",
+          "start": 75.18,
+          "end": 76.84
+        },
+        {
+          "word": "santo",
+          "start": 76.84,
+          "end": 78.58
+        }
+      ],
+      "start": 69.38,
+      "end": 78.58,
+      "confidence": 0.952,
+      "time": 69.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "cuando al cruzar el éter, relampagueando vas.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 78.58,
+          "end": 79.42
+        },
+        {
+          "word": "al",
+          "start": 79.42,
+          "end": 79.9
+        },
+        {
+          "word": "cruzar",
+          "start": 79.9,
+          "end": 81.26
+        },
+        {
+          "word": "el",
+          "start": 81.26,
+          "end": 82.24
+        },
+        {
+          "word": "éter",
+          "start": 82.24,
+          "end": 83.32
+        },
+        {
+          "word": "relambareando",
+          "start": 85.86,
+          "end": 87.26
+        },
+        {
+          "word": "más.",
+          "start": 87.26,
+          "end": 88.66
+        }
+      ],
+      "start": 78.58,
+      "end": 88.66,
+      "confidence": 0.956,
+      "time": 78.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Conozco de tus pasos las invisibles huellas",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Conozco",
+          "start": 89.58,
+          "end": 90.98
+        },
+        {
+          "word": "de",
+          "start": 90.98,
+          "end": 91.68
+        },
+        {
+          "word": "tus",
+          "start": 91.68,
+          "end": 92.2
+        },
+        {
+          "word": "pasos",
+          "start": 92.2,
+          "end": 93.84
+        },
+        {
+          "word": "las",
+          "start": 93.84,
+          "end": 94.96
+        },
+        {
+          "word": "sueñas",
+          "start": 96.58,
+          "end": 98.66
+        }
+      ],
+      "start": 89.58,
+      "end": 98.66,
+      "confidence": 0.824,
+      "time": 89.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "del repentino trueno en el crujiente son;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "del",
+          "start": 98.66,
+          "end": 99.42
+        },
+        {
+          "word": "repentino",
+          "start": 99.42,
+          "end": 101.66
+        },
+        {
+          "word": "freno",
+          "start": 101.66,
+          "end": 103.46
+        },
+        {
+          "word": "en",
+          "start": 103.46,
+          "end": 104.56
+        },
+        {
+          "word": "el",
+          "start": 104.56,
+          "end": 104.9
+        },
+        {
+          "word": "rugiente",
+          "start": 104.9,
+          "end": 106.42
+        },
+        {
+          "word": "sol.",
+          "start": 106.42,
+          "end": 107.9
+        }
+      ],
+      "start": 98.66,
+      "end": 107.9,
+      "confidence": 0.933,
+      "time": 98.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "las chispas de tu carro conozco en las centellas,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Las",
+          "start": 108.16,
+          "end": 108.96
+        },
+        {
+          "word": "chispas",
+          "start": 108.96,
+          "end": 110.2
+        },
+        {
+          "word": "de",
+          "start": 110.2,
+          "end": 110.76
+        },
+        {
+          "word": "tu",
+          "start": 110.76,
+          "end": 111.44
+        },
+        {
+          "word": "carro",
+          "start": 111.44,
+          "end": 112.78
+        },
+        {
+          "word": "Conozco",
+          "start": 112.78,
+          "end": 114.58
+        },
+        {
+          "word": "en",
+          "start": 114.58,
+          "end": 114.96
+        },
+        {
+          "word": "las",
+          "start": 114.96,
+          "end": 115.68
+        },
+        {
+          "word": "centenas,",
+          "start": 115.68,
+          "end": 117.62
+        }
+      ],
+      "start": 108.16,
+      "end": 117.62,
+      "confidence": 0.988,
+      "time": 108.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu aliento en el rugido del rápido aquilón.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "valiento",
+          "start": 117.98,
+          "end": 119.38
+        },
+        {
+          "word": "en",
+          "start": 119.38,
+          "end": 120.06
+        },
+        {
+          "word": "el",
+          "start": 120.06,
+          "end": 120.56
+        },
+        {
+          "word": "rugido",
+          "start": 120.56,
+          "end": 122.58
+        },
+        {
+          "word": "del",
+          "start": 122.58,
+          "end": 123.3
+        },
+        {
+          "word": "arquilón.",
+          "start": 124.88,
+          "end": 127.54
+        }
+      ],
+      "start": 117.98,
+      "end": 127.54,
+      "confidence": 0.74,
+      "time": 117.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "¡Señor!, yo te conozco; mi corazón te adora;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Señor",
+          "start": 128.36,
+          "end": 128.94
+        },
+        {
+          "word": "yo",
+          "start": 128.94,
+          "end": 129.88
+        },
+        {
+          "word": "te",
+          "start": 129.88,
+          "end": 130.92
+        },
+        {
+          "word": "conozco,",
+          "start": 130.92,
+          "end": 132.92
+        },
+        {
+          "word": "mi",
+          "start": 133.66,
+          "end": 133.92
+        },
+        {
+          "word": "corazón",
+          "start": 133.92,
+          "end": 135.34
+        },
+        {
+          "word": "te",
+          "start": 135.34,
+          "end": 136.22
+        },
+        {
+          "word": "adora,",
+          "start": 136.22,
+          "end": 137.6
+        }
+      ],
+      "start": 128.36,
+      "end": 137.6,
+      "confidence": 1.0,
+      "time": 128.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "mi espíritu de hinojos ante tus pies está;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "mi",
+          "start": 137.6,
+          "end": 138.42
+        },
+        {
+          "word": "espíritu",
+          "start": 138.42,
+          "end": 140.42
+        },
+        {
+          "word": "de",
+          "start": 140.42,
+          "end": 140.98
+        },
+        {
+          "word": "ante",
+          "start": 142.66,
+          "end": 143.94
+        },
+        {
+          "word": "tus",
+          "start": 143.94,
+          "end": 144.68
+        },
+        {
+          "word": "pies",
+          "start": 144.68,
+          "end": 145.48
+        },
+        {
+          "word": "está.",
+          "start": 145.48,
+          "end": 147.26
+        }
+      ],
+      "start": 137.6,
+      "end": 147.26,
+      "confidence": 0.875,
+      "time": 137.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "pero mi lengua calla, porque mi mente ignora",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Pero",
+          "start": 147.66,
+          "end": 148.9
+        },
+        {
+          "word": "mi",
+          "start": 148.9,
+          "end": 149.76
+        },
+        {
+          "word": "lengua",
+          "start": 149.76,
+          "end": 150.68
+        },
+        {
+          "word": "valga",
+          "start": 150.68,
+          "end": 152.42
+        },
+        {
+          "word": "porque",
+          "start": 152.42,
+          "end": 153.58
+        },
+        {
+          "word": "mi",
+          "start": 153.58,
+          "end": 154.42
+        },
+        {
+          "word": "mente",
+          "start": 154.42,
+          "end": 155.46
+        },
+        {
+          "word": "ignora",
+          "start": 155.46,
+          "end": 157.32
+        }
+      ],
+      "start": 147.66,
+      "end": 157.32,
+      "confidence": 0.97,
+      "time": 147.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "los cánticos que llegan al grande Jehová.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Los",
+          "start": 157.32,
+          "end": 158.14
+        },
+        {
+          "word": "antiguos",
+          "start": 158.14,
+          "end": 160.24
+        },
+        {
+          "word": "llegan",
+          "start": 160.66,
+          "end": 162.48
+        },
+        {
+          "word": "al",
+          "start": 162.48,
+          "end": 163.2
+        },
+        {
+          "word": "Grande",
+          "start": 163.2,
+          "end": 164.3
+        }
+      ],
+      "start": 157.32,
+      "end": 167.9,
+      "confidence": 0.693,
+      "time": 157.32
+    }
+  ]
+}

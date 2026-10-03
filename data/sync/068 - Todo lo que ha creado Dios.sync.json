@@ -1,0 +1,665 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.692,
+  "language": "es",
+  "model": "medium",
+  "hymn": 68,
+  "source": "068 - Todo lo que ha creado Dios.mp3",
+  "duration": 201.72,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Todo lo que ha creado Dios",
+      "verse": 1,
+      "start": 0.0,
+      "end": 29.98,
+      "confidence": 0.0,
+      "time": 0.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "alce su voz para cantar: Aleluya, aleluya.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Alcés",
+          "start": 29.98,
+          "end": 32.6
+        },
+        {
+          "word": "su",
+          "start": 32.6,
+          "end": 32.88
+        },
+        {
+          "word": "voz",
+          "start": 32.88,
+          "end": 33.12
+        },
+        {
+          "word": "para",
+          "start": 33.12,
+          "end": 33.74
+        },
+        {
+          "word": "cantar",
+          "start": 33.74,
+          "end": 35.7
+        },
+        {
+          "word": "Aleluya,",
+          "start": 35.7,
+          "end": 37.8
+        },
+        {
+          "word": "aleluya",
+          "start": 38.02,
+          "end": 40.28
+        }
+      ],
+      "start": 29.98,
+      "end": 40.28,
+      "confidence": 0.991,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Dorado y brillante sol,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Glorado",
+          "start": 40.28,
+          "end": 41.96
+        },
+        {
+          "word": "y",
+          "start": 41.96,
+          "end": 42.54
+        },
+        {
+          "word": "brillante",
+          "start": 42.54,
+          "end": 43.6
+        },
+        {
+          "word": "son",
+          "start": 43.6,
+          "end": 44.94
+        }
+      ],
+      "start": 40.28,
+      "end": 44.94,
+      "confidence": 0.915,
+      "time": 40.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y luna de plateada luz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Iluna",
+          "start": 44.94,
+          "end": 46.82
+        },
+        {
+          "word": "de",
+          "start": 46.82,
+          "end": 47.32
+        },
+        {
+          "word": "plagiada",
+          "start": 47.32,
+          "end": 48.36
+        },
+        {
+          "word": "luz",
+          "start": 48.36,
+          "end": 49.06
+        }
+      ],
+      "start": 44.94,
+      "end": 49.06,
+      "confidence": 0.757,
+      "time": 44.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Alabadle, alabadle;",
+      "words": [
+        {
+          "word": "A",
+          "start": 49.64,
+          "end": 50.56
+        },
+        {
+          "word": "a",
+          "start": 52.3,
+          "end": 52.92
+        }
+      ],
+      "start": 49.64,
+      "end": 57.78,
+      "confidence": 0.94,
+      "time": 49.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "aleluya, aleluya, aleluya.",
+      "words": [
+        {
+          "word": "aleluya",
+          "start": 57.78,
+          "end": 58.98
+        },
+        {
+          "word": "Aleluya,",
+          "start": 58.98,
+          "end": 59.7
+        },
+        {
+          "word": "aleluya",
+          "start": 59.7,
+          "end": 65.66
+        }
+      ],
+      "start": 57.78,
+      "end": 65.66,
+      "confidence": 1.0,
+      "time": 57.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Ligera brisa o vendaval,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "brisa",
+          "start": 67.66,
+          "end": 68.2
+        }
+      ],
+      "start": 67.66,
+      "end": 69.98,
+      "confidence": 0.25,
+      "time": 67.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "nube que cruza el cielo azul:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Nube",
+          "start": 70.66,
+          "end": 71.88
+        },
+        {
+          "word": "que",
+          "start": 71.88,
+          "end": 72.36
+        },
+        {
+          "word": "cruza",
+          "start": 72.36,
+          "end": 72.94
+        },
+        {
+          "word": "el",
+          "start": 72.94,
+          "end": 73.4
+        },
+        {
+          "word": "cielo",
+          "start": 73.4,
+          "end": 73.72
+        },
+        {
+          "word": "azul",
+          "start": 73.72,
+          "end": 75.22
+        }
+      ],
+      "start": 70.66,
+      "end": 75.22,
+      "confidence": 1.0,
+      "time": 70.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Alabadle, aleluya.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "aleluya",
+          "start": 78.24,
+          "end": 80.44
+        }
+      ],
+      "start": 78.24,
+      "end": 80.44,
+      "confidence": 0.5,
+      "time": 78.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Rosado y bello amanecer,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cruzado",
+          "start": 80.44,
+          "end": 82.08
+        },
+        {
+          "word": "y",
+          "start": 82.08,
+          "end": 82.48
+        },
+        {
+          "word": "amanecer",
+          "start": 82.9,
+          "end": 85.18
+        }
+      ],
+      "start": 80.44,
+      "end": 85.18,
+      "confidence": 0.692,
+      "time": 80.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tranquilo y calmo anochecer.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "como",
+          "start": 87.02,
+          "end": 87.76
+        }
+      ],
+      "start": 87.02,
+      "end": 90.14,
+      "confidence": 0.2,
+      "time": 87.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Alabadle, alabadle;",
+      "words": [
+        {
+          "word": "al",
+          "start": 90.14,
+          "end": 90.92
+        },
+        {
+          "word": "al",
+          "start": 92.72,
+          "end": 93.62
+        }
+      ],
+      "start": 90.14,
+      "end": 95.42,
+      "confidence": 0.94,
+      "time": 90.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "aleluya, aleluya, aleluya.",
+      "words": [
+        {
+          "word": "Aleluya,",
+          "start": 96.1,
+          "end": 97.5
+        },
+        {
+          "word": "aleluya,",
+          "start": 98.14,
+          "end": 100.2
+        },
+        {
+          "word": "aleluya.",
+          "start": 100.78,
+          "end": 106.08
+        }
+      ],
+      "start": 96.1,
+      "end": 106.08,
+      "confidence": 1.0,
+      "time": 96.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Rugiente y tempestuoso mar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Rugiente",
+          "start": 106.08,
+          "end": 108.44
+        },
+        {
+          "word": "y",
+          "start": 108.44,
+          "end": 108.84
+        },
+        {
+          "word": "tempestuoso",
+          "start": 108.84,
+          "end": 110.42
+        },
+        {
+          "word": "mar,",
+          "start": 110.42,
+          "end": 111.8
+        }
+      ],
+      "start": 106.08,
+      "end": 114.22,
+      "confidence": 1.0,
+      "time": 106.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "arroyo alegre al correr: Alabadle, aleluya.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "leal",
+          "start": 114.22,
+          "end": 114.78
+        },
+        {
+          "word": "correr,",
+          "start": 114.78,
+          "end": 116.14
+        },
+        {
+          "word": "al",
+          "start": 117.02,
+          "end": 117.34
+        },
+        {
+          "word": "aleluya,",
+          "start": 119.22,
+          "end": 121.02
+        }
+      ],
+      "start": 114.22,
+      "end": 121.02,
+      "confidence": 0.623,
+      "time": 114.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Oh, fuego ardiente, abrazador,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "oh",
+          "start": 121.88,
+          "end": 122.34
+        },
+        {
+          "word": "fuego",
+          "start": 122.34,
+          "end": 122.9
+        },
+        {
+          "word": "ardiente,",
+          "start": 122.9,
+          "end": 123.72
+        },
+        {
+          "word": "abrazador,",
+          "start": 123.78,
+          "end": 125.88
+        }
+      ],
+      "start": 121.88,
+      "end": 126.62,
+      "confidence": 1.0,
+      "time": 121.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "que da calor a nuestro hogar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 126.62,
+          "end": 127.1
+        },
+        {
+          "word": "calora",
+          "start": 127.56,
+          "end": 128.6
+        },
+        {
+          "word": "rogar,",
+          "start": 129.26,
+          "end": 130.58
+        }
+      ],
+      "start": 126.62,
+      "end": 130.58,
+      "confidence": 0.47,
+      "time": 126.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Alabadle, alabadle;",
+      "words": [
+        {
+          "word": "Alabalme,",
+          "start": 133.3,
+          "end": 134.7
+        },
+        {
+          "word": "alabalme,",
+          "start": 134.7,
+          "end": 136.1
+        }
+      ],
+      "start": 133.3,
+      "end": 136.58,
+      "confidence": 0.925,
+      "time": 133.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "aleluya, aleluya, aleluya.",
+      "words": [
+        {
+          "word": "Aleluya,",
+          "start": 136.58,
+          "end": 138.38
+        },
+        {
+          "word": "Aleluya,",
+          "start": 138.7,
+          "end": 141.36
+        },
+        {
+          "word": "Aleluya.",
+          "start": 141.4,
+          "end": 147.18
+        }
+      ],
+      "start": 136.58,
+      "end": 147.18,
+      "confidence": 1.0,
+      "time": 136.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Todas las cosas, adorad",
+      "verse": 4,
+      "words": [
+        {
+          "word": "las",
+          "start": 148.44,
+          "end": 148.82
+        },
+        {
+          "word": "adoran,",
+          "start": 150.48,
+          "end": 152.34
+        }
+      ],
+      "start": 148.44,
+      "end": 154.38,
+      "confidence": 0.475,
+      "time": 148.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "con humildad al Creador, alabadle, aleluya.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "al",
+          "start": 154.38,
+          "end": 154.78
+        },
+        {
+          "word": "creador.",
+          "start": 154.78,
+          "end": 156.7
+        },
+        {
+          "word": "alejumbia,",
+          "start": 159.88,
+          "end": 161.96
+        }
+      ],
+      "start": 154.38,
+      "end": 163.4,
+      "confidence": 0.463,
+      "time": 154.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Todo lo que ha creado Dios",
+      "verse": 4,
+      "words": [
+        {
+          "word": "lo",
+          "start": 163.4,
+          "end": 163.98
+        },
+        {
+          "word": "que",
+          "start": 163.98,
+          "end": 164.32
+        },
+        {
+          "word": "ha",
+          "start": 164.32,
+          "end": 164.64
+        },
+        {
+          "word": "creado",
+          "start": 164.64,
+          "end": 165.58
+        },
+        {
+          "word": "Dios,",
+          "start": 165.58,
+          "end": 166.84
+        }
+      ],
+      "start": 163.4,
+      "end": 166.84,
+      "confidence": 0.833,
+      "time": 163.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "alabe al soberano Rey.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Alau,",
+          "start": 168.1,
+          "end": 168.66
+        },
+        {
+          "word": "soberano",
+          "start": 169.02,
+          "end": 170.4
+        },
+        {
+          "word": "rey,",
+          "start": 170.4,
+          "end": 172.04
+        }
+      ],
+      "start": 168.1,
+      "end": 177.08,
+      "confidence": 0.7,
+      "time": 168.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Alabadle, alabadle;",
+      "start": 177.08,
+      "end": 177.28,
+      "confidence": 0.0,
+      "time": 177.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "aleluya, aleluya, aleluya.",
+      "words": [
+        {
+          "word": "Aleluya!",
+          "start": 177.08,
+          "end": 179.58
+        },
+        {
+          "word": "Aleluya!",
+          "start": 180.8,
+          "end": 182.2
+        },
+        {
+          "word": "Aleluya!",
+          "start": 185.66,
+          "end": 187.06
+        }
+      ],
+      "start": 177.28,
+      "end": 187.06,
+      "confidence": 1.0,
+      "time": 177.28
+    }
+  ]
+}

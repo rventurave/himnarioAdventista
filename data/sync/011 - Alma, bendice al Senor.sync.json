@@ -1,0 +1,516 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.817,
+  "language": "es",
+  "model": "medium",
+  "hymn": 11,
+  "source": "011 - Alma, bendice al Senor.mp3",
+  "duration": 139.08,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Alma, bendice al Señor, Rey potente de gloria;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Alba,",
+          "start": 17.02,
+          "end": 18.42
+        },
+        {
+          "word": "bendicia",
+          "start": 19.02,
+          "end": 20.0
+        },
+        {
+          "word": "al",
+          "start": 20.0,
+          "end": 20.66
+        },
+        {
+          "word": "Señor,",
+          "start": 20.66,
+          "end": 21.36
+        },
+        {
+          "word": "potente",
+          "start": 22.22,
+          "end": 23.58
+        },
+        {
+          "word": "de",
+          "start": 23.58,
+          "end": 24.42
+        },
+        {
+          "word": "gloria",
+          "start": 24.42,
+          "end": 27.22
+        }
+      ],
+      "start": 17.02,
+      "end": 27.22,
+      "confidence": 0.841,
+      "time": 17.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de sus mercedes esté viva en ti la memoria.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sus",
+          "start": 28.46,
+          "end": 29.1
+        },
+        {
+          "word": "Mercedes",
+          "start": 29.1,
+          "end": 30.78
+        },
+        {
+          "word": "esté",
+          "start": 30.78,
+          "end": 32.02
+        },
+        {
+          "word": "viva",
+          "start": 32.02,
+          "end": 33.1
+        },
+        {
+          "word": "en",
+          "start": 33.1,
+          "end": 33.66
+        },
+        {
+          "word": "mila",
+          "start": 33.66,
+          "end": 34.98
+        },
+        {
+          "word": "memoria.",
+          "start": 34.98,
+          "end": 38.12
+        }
+      ],
+      "start": 28.46,
+      "end": 38.12,
+      "confidence": 0.756,
+      "time": 28.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh, despertad! y con salterio entonad",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¡Oh",
+          "start": 38.28,
+          "end": 39.46
+        },
+        {
+          "word": "despertar",
+          "start": 39.46,
+          "end": 41.98
+        },
+        {
+          "word": "y",
+          "start": 41.98,
+          "end": 43.02
+        },
+        {
+          "word": "con",
+          "start": 43.02,
+          "end": 43.56
+        },
+        {
+          "word": "santerio",
+          "start": 43.56,
+          "end": 45.2
+        }
+      ],
+      "start": 38.28,
+      "end": 47.66,
+      "confidence": 0.81,
+      "time": 38.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "himnos de honor y victoria.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "dinos",
+          "start": 48.16,
+          "end": 49.1
+        },
+        {
+          "word": "de",
+          "start": 49.1,
+          "end": 49.58
+        },
+        {
+          "word": "honor",
+          "start": 49.58,
+          "end": 50.34
+        },
+        {
+          "word": "y",
+          "start": 50.34,
+          "end": 51.16
+        },
+        {
+          "word": "victoria!",
+          "start": 51.16,
+          "end": 54.1
+        }
+      ],
+      "start": 48.16,
+      "end": 54.1,
+      "confidence": 0.967,
+      "time": 48.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Alma, bendice al Señor que a los cielos gobierna,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Palma,",
+          "start": 54.1,
+          "end": 56.7
+        },
+        {
+          "word": "bendice",
+          "start": 56.72,
+          "end": 58.22
+        },
+        {
+          "word": "al",
+          "start": 58.22,
+          "end": 58.76
+        },
+        {
+          "word": "Señor",
+          "start": 58.76,
+          "end": 59.54
+        },
+        {
+          "word": "que",
+          "start": 59.54,
+          "end": 60.04
+        },
+        {
+          "word": "a",
+          "start": 60.04,
+          "end": 60.54
+        },
+        {
+          "word": "los",
+          "start": 60.54,
+          "end": 61.02
+        },
+        {
+          "word": "tiempos",
+          "start": 61.02,
+          "end": 62.06
+        },
+        {
+          "word": "gobierna,",
+          "start": 62.06,
+          "end": 65.1
+        }
+      ],
+      "start": 54.1,
+      "end": 65.1,
+      "confidence": 0.967,
+      "time": 54.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y te conduce paciente con mano paterna;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 66.48,
+          "end": 66.96
+        },
+        {
+          "word": "te",
+          "start": 66.96,
+          "end": 67.78
+        },
+        {
+          "word": "conduce",
+          "start": 67.78,
+          "end": 69.32
+        },
+        {
+          "word": "paciente",
+          "start": 69.32,
+          "end": 70.92
+        },
+        {
+          "word": "con",
+          "start": 70.92,
+          "end": 71.82
+        },
+        {
+          "word": "mano",
+          "start": 71.82,
+          "end": 72.8
+        },
+        {
+          "word": "patera.",
+          "start": 72.8,
+          "end": 76.02
+        }
+      ],
+      "start": 66.48,
+      "end": 76.02,
+      "confidence": 0.993,
+      "time": 66.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "te perdonó, de todo mal te libró,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Te",
+          "start": 76.02,
+          "end": 77.6
+        },
+        {
+          "word": "perdonó",
+          "start": 77.6,
+          "end": 80.5
+        },
+        {
+          "word": "de",
+          "start": 80.5,
+          "end": 81.5
+        },
+        {
+          "word": "todo",
+          "start": 81.5,
+          "end": 82.36
+        },
+        {
+          "word": "mal,",
+          "start": 82.36,
+          "end": 83.16
+        },
+        {
+          "word": "te",
+          "start": 83.16,
+          "end": 83.92
+        },
+        {
+          "word": "libró,",
+          "start": 83.92,
+          "end": 86.02
+        }
+      ],
+      "start": 76.02,
+      "end": 87.0,
+      "confidence": 1.0,
+      "time": 76.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "porque su gracia es eterna.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 87.0,
+          "end": 87.48
+        },
+        {
+          "word": "es",
+          "start": 89.1,
+          "end": 89.56
+        },
+        {
+          "word": "eterna.",
+          "start": 89.56,
+          "end": 92.18
+        }
+      ],
+      "start": 87.0,
+      "end": 92.18,
+      "confidence": 0.56,
+      "time": 87.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Alma, bendice al Señor, de tu vida es la fuente",
+      "verse": 3,
+      "words": [
+        {
+          "word": "bendicia,",
+          "start": 95.3,
+          "end": 96.78
+        },
+        {
+          "word": "Señor,",
+          "start": 96.94,
+          "end": 98.02
+        },
+        {
+          "word": "de",
+          "start": 98.62,
+          "end": 98.76
+        },
+        {
+          "word": "tu",
+          "start": 98.76,
+          "end": 99.44
+        },
+        {
+          "word": "vida",
+          "start": 99.44,
+          "end": 100.18
+        },
+        {
+          "word": "es",
+          "start": 100.18,
+          "end": 100.66
+        },
+        {
+          "word": "la",
+          "start": 100.66,
+          "end": 101.28
+        },
+        {
+          "word": "fuente",
+          "start": 101.28,
+          "end": 104.1
+        }
+      ],
+      "start": 95.3,
+      "end": 104.1,
+      "confidence": 0.788,
+      "time": 95.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que te creó, y en salud te sostiene clemente;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Que",
+          "start": 104.1,
+          "end": 105.26
+        },
+        {
+          "word": "te",
+          "start": 105.26,
+          "end": 106.14
+        },
+        {
+          "word": "creó",
+          "start": 106.14,
+          "end": 107.38
+        },
+        {
+          "word": "y",
+          "start": 107.38,
+          "end": 107.64
+        },
+        {
+          "word": "en",
+          "start": 107.64,
+          "end": 107.98
+        },
+        {
+          "word": "salud",
+          "start": 107.98,
+          "end": 108.88
+        },
+        {
+          "word": "te",
+          "start": 108.88,
+          "end": 109.48
+        },
+        {
+          "word": "clemente",
+          "start": 111.34,
+          "end": 114.88
+        }
+      ],
+      "start": 104.1,
+      "end": 114.88,
+      "confidence": 0.889,
+      "time": 104.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu defensor en todo trance y dolor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 114.88,
+          "end": 116.34
+        },
+        {
+          "word": "defensa",
+          "start": 116.34,
+          "end": 118.88
+        },
+        {
+          "word": "en",
+          "start": 118.88,
+          "end": 119.92
+        },
+        {
+          "word": "todo",
+          "start": 119.92,
+          "end": 120.74
+        },
+        {
+          "word": "dolará",
+          "start": 122.4,
+          "end": 125.04
+        }
+      ],
+      "start": 114.88,
+      "end": 125.04,
+      "confidence": 0.674,
+      "time": 114.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "su diestra es omnipotente.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "su",
+          "start": 125.04,
+          "end": 125.44
+        }
+      ],
+      "start": 125.04,
+      "end": 131.58,
+      "confidence": 0.25,
+      "time": 125.04
+    }
+  ]
+}

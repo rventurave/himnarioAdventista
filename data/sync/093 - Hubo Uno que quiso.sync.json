@@ -1,0 +1,1179 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.951,
+  "language": "es",
+  "model": "medium",
+  "hymn": 93,
+  "source": "093 - Hubo Uno que quiso.mp3",
+  "duration": 160.03,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hubo Uno que quiso por mí padecer",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hubo",
+          "start": 12.26,
+          "end": 13.66
+        },
+        {
+          "word": "uno",
+          "start": 13.66,
+          "end": 14.52
+        },
+        {
+          "word": "que",
+          "start": 14.52,
+          "end": 14.92
+        },
+        {
+          "word": "quiso",
+          "start": 14.92,
+          "end": 16.02
+        },
+        {
+          "word": "por",
+          "start": 16.02,
+          "end": 16.42
+        },
+        {
+          "word": "mí",
+          "start": 16.42,
+          "end": 17.04
+        },
+        {
+          "word": "padecer",
+          "start": 17.04,
+          "end": 18.38
+        }
+      ],
+      "start": 12.26,
+      "end": 18.38,
+      "confidence": 1.0,
+      "time": 12.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y morir, por mi alma salvar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 18.38,
+          "end": 19.02
+        },
+        {
+          "word": "morir",
+          "start": 19.02,
+          "end": 20.06
+        },
+        {
+          "word": "por",
+          "start": 20.06,
+          "end": 20.58
+        },
+        {
+          "word": "mi",
+          "start": 20.58,
+          "end": 21.26
+        },
+        {
+          "word": "alma",
+          "start": 21.26,
+          "end": 21.92
+        },
+        {
+          "word": "salvar",
+          "start": 21.92,
+          "end": 23.92
+        }
+      ],
+      "start": 18.38,
+      "end": 23.92,
+      "confidence": 1.0,
+      "time": 18.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "el camino tan cruento a la cruz recorrer,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "El",
+          "start": 23.92,
+          "end": 24.86
+        },
+        {
+          "word": "camino",
+          "start": 24.86,
+          "end": 26.18
+        },
+        {
+          "word": "tan",
+          "start": 26.18,
+          "end": 26.78
+        },
+        {
+          "word": "cruento",
+          "start": 26.78,
+          "end": 27.62
+        },
+        {
+          "word": "a",
+          "start": 27.62,
+          "end": 28.02
+        },
+        {
+          "word": "la",
+          "start": 28.02,
+          "end": 28.36
+        },
+        {
+          "word": "cruz",
+          "start": 28.36,
+          "end": 29.18
+        },
+        {
+          "word": "recorrer",
+          "start": 29.18,
+          "end": 30.14
+        }
+      ],
+      "start": 23.92,
+      "end": 30.14,
+      "confidence": 1.0,
+      "time": 23.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "para así mis pecados lavar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Para",
+          "start": 30.14,
+          "end": 31.0
+        },
+        {
+          "word": "así",
+          "start": 31.0,
+          "end": 31.66
+        },
+        {
+          "word": "mis",
+          "start": 31.66,
+          "end": 32.12
+        },
+        {
+          "word": "pecados",
+          "start": 32.12,
+          "end": 33.48
+        },
+        {
+          "word": "ladar",
+          "start": 33.48,
+          "end": 35.46
+        }
+      ],
+      "start": 30.14,
+      "end": 35.46,
+      "confidence": 0.976,
+      "time": 30.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡En la cruz, en la cruz",
+      "words": [
+        {
+          "word": "En",
+          "start": 35.46,
+          "end": 36.32
+        },
+        {
+          "word": "la",
+          "start": 36.32,
+          "end": 36.8
+        },
+        {
+          "word": "cruz,",
+          "start": 36.8,
+          "end": 37.6
+        },
+        {
+          "word": "en",
+          "start": 37.6,
+          "end": 37.94
+        },
+        {
+          "word": "la",
+          "start": 37.94,
+          "end": 38.36
+        },
+        {
+          "word": "cruz",
+          "start": 38.36,
+          "end": 38.98
+        }
+      ],
+      "start": 35.46,
+      "end": 38.98,
+      "confidence": 1.0,
+      "time": 35.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "mis pecados clavó!",
+      "words": [
+        {
+          "word": "mis",
+          "start": 38.98,
+          "end": 39.44
+        },
+        {
+          "word": "pecados",
+          "start": 39.44,
+          "end": 40.86
+        },
+        {
+          "word": "cagó",
+          "start": 40.86,
+          "end": 41.78
+        }
+      ],
+      "start": 38.98,
+      "end": 41.78,
+      "confidence": 0.933,
+      "time": 38.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Cuánto quiso por mí padecer!",
+      "words": [
+        {
+          "word": "Cuanto",
+          "start": 41.78,
+          "end": 42.48
+        },
+        {
+          "word": "quiso",
+          "start": 42.48,
+          "end": 43.66
+        },
+        {
+          "word": "por",
+          "start": 43.66,
+          "end": 44.14
+        },
+        {
+          "word": "mí",
+          "start": 44.14,
+          "end": 44.74
+        },
+        {
+          "word": "padecer",
+          "start": 44.74,
+          "end": 47.36
+        }
+      ],
+      "start": 41.78,
+      "end": 47.36,
+      "confidence": 1.0,
+      "time": 41.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Con angustia a la cruz",
+      "words": [
+        {
+          "word": "Con",
+          "start": 47.36,
+          "end": 48.14
+        },
+        {
+          "word": "angustia",
+          "start": 48.14,
+          "end": 49.64
+        },
+        {
+          "word": "la",
+          "start": 49.64,
+          "end": 50.06
+        },
+        {
+          "word": "cruz",
+          "start": 50.06,
+          "end": 50.72
+        }
+      ],
+      "start": 47.36,
+      "end": 50.72,
+      "confidence": 0.8,
+      "time": 47.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "fue el benigno Jesús,",
+      "words": [
+        {
+          "word": "fue",
+          "start": 50.72,
+          "end": 51.12
+        },
+        {
+          "word": "el",
+          "start": 51.12,
+          "end": 51.36
+        },
+        {
+          "word": "benigno",
+          "start": 51.36,
+          "end": 52.58
+        },
+        {
+          "word": "Jesús",
+          "start": 52.58,
+          "end": 53.18
+        }
+      ],
+      "start": 50.72,
+      "end": 53.18,
+      "confidence": 1.0,
+      "time": 50.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y en su cuerpo mis culpas llevó.",
+      "words": [
+        {
+          "word": "Y",
+          "start": 53.18,
+          "end": 53.76
+        },
+        {
+          "word": "en",
+          "start": 53.76,
+          "end": 54.0
+        },
+        {
+          "word": "su",
+          "start": 54.0,
+          "end": 54.28
+        },
+        {
+          "word": "cuerpo",
+          "start": 54.28,
+          "end": 55.42
+        },
+        {
+          "word": "mis",
+          "start": 55.42,
+          "end": 55.84
+        },
+        {
+          "word": "culpas",
+          "start": 55.84,
+          "end": 56.9
+        },
+        {
+          "word": "llegó",
+          "start": 56.9,
+          "end": 59.0
+        }
+      ],
+      "start": 53.18,
+      "end": 59.0,
+      "confidence": 0.983,
+      "time": 53.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "El es todo ternura y amor para mí,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Él",
+          "start": 59.0,
+          "end": 60.66
+        },
+        {
+          "word": "es",
+          "start": 60.66,
+          "end": 61.2
+        },
+        {
+          "word": "todo,",
+          "start": 61.2,
+          "end": 61.82
+        },
+        {
+          "word": "ternura",
+          "start": 61.94,
+          "end": 63.08
+        },
+        {
+          "word": "y",
+          "start": 63.08,
+          "end": 63.58
+        },
+        {
+          "word": "amor",
+          "start": 63.58,
+          "end": 64.24
+        },
+        {
+          "word": "para",
+          "start": 64.24,
+          "end": 64.96
+        },
+        {
+          "word": "mí",
+          "start": 64.96,
+          "end": 65.58
+        }
+      ],
+      "start": 59.0,
+      "end": 65.58,
+      "confidence": 1.0,
+      "time": 59.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mi alma impura su sangre lavó;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 65.58,
+          "end": 66.0
+        },
+        {
+          "word": "alma",
+          "start": 66.0,
+          "end": 66.4
+        },
+        {
+          "word": "impura",
+          "start": 66.4,
+          "end": 67.62
+        },
+        {
+          "word": "su",
+          "start": 67.62,
+          "end": 67.98
+        },
+        {
+          "word": "sangre",
+          "start": 67.98,
+          "end": 69.0
+        },
+        {
+          "word": "lavó",
+          "start": 69.0,
+          "end": 71.12
+        }
+      ],
+      "start": 65.58,
+      "end": 71.12,
+      "confidence": 1.0,
+      "time": 65.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ya no hay condenación, libre soy, yo lo sé;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Ya",
+          "start": 71.12,
+          "end": 72.06
+        },
+        {
+          "word": "no",
+          "start": 72.06,
+          "end": 72.3
+        },
+        {
+          "word": "hay",
+          "start": 72.3,
+          "end": 73.08
+        },
+        {
+          "word": "condenación,",
+          "start": 73.08,
+          "end": 74.78
+        },
+        {
+          "word": "libre",
+          "start": 75.14,
+          "end": 75.5
+        },
+        {
+          "word": "soy,",
+          "start": 75.5,
+          "end": 76.14
+        },
+        {
+          "word": "yo",
+          "start": 76.38,
+          "end": 76.7
+        },
+        {
+          "word": "lo",
+          "start": 76.7,
+          "end": 77.08
+        },
+        {
+          "word": "sé",
+          "start": 77.08,
+          "end": 77.46
+        }
+      ],
+      "start": 71.12,
+      "end": 77.46,
+      "confidence": 1.0,
+      "time": 71.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mi pecado en la cruz él clavó.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 77.46,
+          "end": 78.14
+        },
+        {
+          "word": "pecado",
+          "start": 78.14,
+          "end": 79.26
+        },
+        {
+          "word": "en",
+          "start": 79.26,
+          "end": 79.64
+        },
+        {
+          "word": "la",
+          "start": 79.64,
+          "end": 80.08
+        },
+        {
+          "word": "cruz",
+          "start": 80.08,
+          "end": 80.76
+        },
+        {
+          "word": "el",
+          "start": 80.76,
+          "end": 81.24
+        },
+        {
+          "word": "clavó",
+          "start": 81.24,
+          "end": 83.0
+        }
+      ],
+      "start": 77.46,
+      "end": 83.0,
+      "confidence": 1.0,
+      "time": 77.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡En la cruz, en la cruz",
+      "words": [
+        {
+          "word": "En",
+          "start": 83.0,
+          "end": 84.0
+        },
+        {
+          "word": "la",
+          "start": 84.0,
+          "end": 84.42
+        },
+        {
+          "word": "cruz,",
+          "start": 84.42,
+          "end": 85.26
+        },
+        {
+          "word": "en",
+          "start": 85.26,
+          "end": 85.6
+        },
+        {
+          "word": "la",
+          "start": 85.6,
+          "end": 86.0
+        },
+        {
+          "word": "cruz",
+          "start": 86.0,
+          "end": 86.66
+        }
+      ],
+      "start": 83.0,
+      "end": 86.66,
+      "confidence": 1.0,
+      "time": 83.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "mis pecados clavó!",
+      "words": [
+        {
+          "word": "mis",
+          "start": 86.66,
+          "end": 87.14
+        },
+        {
+          "word": "pecados",
+          "start": 87.14,
+          "end": 88.44
+        },
+        {
+          "word": "clavó",
+          "start": 88.44,
+          "end": 89.46
+        }
+      ],
+      "start": 86.66,
+      "end": 89.46,
+      "confidence": 1.0,
+      "time": 86.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Cuánto quiso por mí padecer!",
+      "words": [
+        {
+          "word": "Cuanto",
+          "start": 89.46,
+          "end": 90.12
+        },
+        {
+          "word": "quiso",
+          "start": 90.12,
+          "end": 91.32
+        },
+        {
+          "word": "por",
+          "start": 91.32,
+          "end": 91.78
+        },
+        {
+          "word": "mí",
+          "start": 91.78,
+          "end": 92.38
+        },
+        {
+          "word": "padecer",
+          "start": 92.38,
+          "end": 94.98
+        }
+      ],
+      "start": 89.46,
+      "end": 94.98,
+      "confidence": 1.0,
+      "time": 89.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Con angustia a la cruz",
+      "words": [
+        {
+          "word": "Con",
+          "start": 94.98,
+          "end": 95.74
+        },
+        {
+          "word": "angustia",
+          "start": 95.74,
+          "end": 97.28
+        },
+        {
+          "word": "la",
+          "start": 97.28,
+          "end": 97.72
+        },
+        {
+          "word": "cruz",
+          "start": 97.72,
+          "end": 98.36
+        }
+      ],
+      "start": 94.98,
+      "end": 100.2,
+      "confidence": 0.8,
+      "time": 94.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "fue el benigno Jesús,",
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 100.2,
+          "end": 100.94
+        }
+      ],
+      "start": 100.2,
+      "end": 100.94,
+      "confidence": 0.25,
+      "time": 100.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y en su cuerpo mis culpas llevó.",
+      "words": [
+        {
+          "word": "y",
+          "start": 100.94,
+          "end": 101.56
+        },
+        {
+          "word": "en",
+          "start": 101.56,
+          "end": 101.84
+        },
+        {
+          "word": "su",
+          "start": 101.84,
+          "end": 102.1
+        },
+        {
+          "word": "cuerpo",
+          "start": 102.1,
+          "end": 103.14
+        },
+        {
+          "word": "mis",
+          "start": 103.14,
+          "end": 103.64
+        },
+        {
+          "word": "culpas",
+          "start": 103.64,
+          "end": 104.64
+        },
+        {
+          "word": "llevó.",
+          "start": 104.64,
+          "end": 106.88
+        }
+      ],
+      "start": 100.94,
+      "end": 106.88,
+      "confidence": 1.0,
+      "time": 100.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Me atendré al Maestro, jamás dejaré",
+      "verse": 3,
+      "words": [
+        {
+          "word": "atendré",
+          "start": 107.76,
+          "end": 108.8
+        },
+        {
+          "word": "al",
+          "start": 108.8,
+          "end": 109.18
+        },
+        {
+          "word": "Maestro,",
+          "start": 109.18,
+          "end": 110.52
+        },
+        {
+          "word": "jamás",
+          "start": 110.56,
+          "end": 111.64
+        },
+        {
+          "word": "dejaré",
+          "start": 111.64,
+          "end": 113.12
+        }
+      ],
+      "start": 107.76,
+      "end": 113.12,
+      "confidence": 0.833,
+      "time": 107.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "el sendero que él mismo trazó,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 113.12,
+          "end": 113.56
+        },
+        {
+          "word": "sendero",
+          "start": 113.56,
+          "end": 115.04
+        },
+        {
+          "word": "que",
+          "start": 115.04,
+          "end": 115.34
+        },
+        {
+          "word": "él",
+          "start": 115.34,
+          "end": 115.62
+        },
+        {
+          "word": "mismo",
+          "start": 115.62,
+          "end": 116.5
+        },
+        {
+          "word": "trazó.",
+          "start": 116.5,
+          "end": 118.48
+        }
+      ],
+      "start": 113.12,
+      "end": 118.48,
+      "confidence": 1.0,
+      "time": 113.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y mis labios y mi alma alzarán su canción,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 118.7,
+          "end": 119.22
+        },
+        {
+          "word": "mis",
+          "start": 119.22,
+          "end": 119.62
+        },
+        {
+          "word": "labios",
+          "start": 119.62,
+          "end": 120.72
+        },
+        {
+          "word": "y",
+          "start": 120.72,
+          "end": 121.14
+        },
+        {
+          "word": "mi",
+          "start": 121.14,
+          "end": 121.56
+        },
+        {
+          "word": "alma",
+          "start": 121.56,
+          "end": 122.02
+        },
+        {
+          "word": "alzarán",
+          "start": 122.02,
+          "end": 123.32
+        },
+        {
+          "word": "su",
+          "start": 123.32,
+          "end": 123.78
+        },
+        {
+          "word": "canción,",
+          "start": 123.78,
+          "end": 124.3
+        }
+      ],
+      "start": 118.7,
+      "end": 124.3,
+      "confidence": 1.0,
+      "time": 118.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pues él todas mis culpas quitó.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 124.3,
+          "end": 125.34
+        },
+        {
+          "word": "todas",
+          "start": 125.78,
+          "end": 126.72
+        },
+        {
+          "word": "mis",
+          "start": 126.72,
+          "end": 127.26
+        },
+        {
+          "word": "culpas",
+          "start": 127.26,
+          "end": 128.22
+        },
+        {
+          "word": "quitó.",
+          "start": 128.22,
+          "end": 130.16
+        }
+      ],
+      "start": 124.3,
+      "end": 130.16,
+      "confidence": 0.833,
+      "time": 124.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡En la cruz, en la cruz",
+      "words": [
+        {
+          "word": "En",
+          "start": 130.84,
+          "end": 131.28
+        },
+        {
+          "word": "la",
+          "start": 131.28,
+          "end": 131.64
+        },
+        {
+          "word": "cruz,",
+          "start": 131.64,
+          "end": 132.36
+        },
+        {
+          "word": "en",
+          "start": 132.36,
+          "end": 132.74
+        },
+        {
+          "word": "la",
+          "start": 132.74,
+          "end": 133.16
+        },
+        {
+          "word": "cruz",
+          "start": 133.16,
+          "end": 133.78
+        }
+      ],
+      "start": 130.84,
+      "end": 133.78,
+      "confidence": 1.0,
+      "time": 130.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "mis pecados clavó!",
+      "words": [
+        {
+          "word": "mis",
+          "start": 133.78,
+          "end": 134.22
+        },
+        {
+          "word": "pecados",
+          "start": 134.22,
+          "end": 135.64
+        },
+        {
+          "word": "cavó",
+          "start": 135.64,
+          "end": 136.62
+        }
+      ],
+      "start": 133.78,
+      "end": 136.62,
+      "confidence": 0.978,
+      "time": 133.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Cuánto quiso por mí padecer!",
+      "words": [
+        {
+          "word": "cuanto",
+          "start": 136.62,
+          "end": 137.3
+        },
+        {
+          "word": "quiso",
+          "start": 137.3,
+          "end": 138.46
+        },
+        {
+          "word": "por",
+          "start": 138.46,
+          "end": 138.94
+        },
+        {
+          "word": "mí",
+          "start": 138.94,
+          "end": 139.54
+        },
+        {
+          "word": "padecer.",
+          "start": 139.54,
+          "end": 141.94
+        }
+      ],
+      "start": 136.62,
+      "end": 141.94,
+      "confidence": 1.0,
+      "time": 136.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Con angustia a la cruz",
+      "words": [
+        {
+          "word": "Con",
+          "start": 142.8,
+          "end": 143.06
+        },
+        {
+          "word": "angustia",
+          "start": 143.06,
+          "end": 144.42
+        },
+        {
+          "word": "la",
+          "start": 144.42,
+          "end": 144.82
+        },
+        {
+          "word": "cruz",
+          "start": 144.82,
+          "end": 145.58
+        }
+      ],
+      "start": 142.8,
+      "end": 145.58,
+      "confidence": 0.8,
+      "time": 142.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "fue el benigno Jesús,",
+      "words": [
+        {
+          "word": "fue",
+          "start": 145.58,
+          "end": 145.96
+        },
+        {
+          "word": "el",
+          "start": 145.96,
+          "end": 146.3
+        },
+        {
+          "word": "benigno",
+          "start": 146.3,
+          "end": 147.58
+        },
+        {
+          "word": "Jesús",
+          "start": 147.58,
+          "end": 148.2
+        }
+      ],
+      "start": 145.58,
+      "end": 148.2,
+      "confidence": 1.0,
+      "time": 145.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y en su cuerpo mis culpas llevó.",
+      "words": [
+        {
+          "word": "y",
+          "start": 148.2,
+          "end": 148.86
+        },
+        {
+          "word": "en",
+          "start": 148.86,
+          "end": 149.08
+        },
+        {
+          "word": "su",
+          "start": 149.08,
+          "end": 149.32
+        },
+        {
+          "word": "cuerpo",
+          "start": 149.32,
+          "end": 150.56
+        },
+        {
+          "word": "mis",
+          "start": 150.56,
+          "end": 151.1
+        },
+        {
+          "word": "culpas",
+          "start": 151.1,
+          "end": 152.38
+        },
+        {
+          "word": "llevó.",
+          "start": 152.38,
+          "end": 156.4
+        }
+      ],
+      "start": 148.2,
+      "end": 156.4,
+      "confidence": 1.0,
+      "time": 148.2
+    }
+  ]
+}

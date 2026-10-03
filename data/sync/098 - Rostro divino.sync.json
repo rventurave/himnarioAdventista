@@ -1,0 +1,609 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.986,
+  "language": "es",
+  "model": "medium",
+  "hymn": 98,
+  "source": "098 - Rostro divino.mp3",
+  "duration": 134.16,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Rostro divino, ensangrentado;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Rostro",
+          "start": 8.66,
+          "end": 10.06
+        },
+        {
+          "word": "divino",
+          "start": 10.06,
+          "end": 11.46
+        },
+        {
+          "word": "ensangrentado,",
+          "start": 11.46,
+          "end": 15.06
+        }
+      ],
+      "start": 8.66,
+      "end": 15.12,
+      "confidence": 1.0,
+      "time": 8.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cuerpo llagado por nuestro bien,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cuerpo",
+          "start": 15.12,
+          "end": 16.78
+        },
+        {
+          "word": "llagado",
+          "start": 16.78,
+          "end": 18.76
+        },
+        {
+          "word": "por",
+          "start": 18.76,
+          "end": 19.82
+        },
+        {
+          "word": "nuestro",
+          "start": 19.82,
+          "end": 20.74
+        },
+        {
+          "word": "bien.",
+          "start": 20.74,
+          "end": 22.26
+        }
+      ],
+      "start": 15.12,
+      "end": 22.26,
+      "confidence": 1.0,
+      "time": 15.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "calma, benigno, justos enojos,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Calma",
+          "start": 22.26,
+          "end": 23.96
+        },
+        {
+          "word": "benigno,",
+          "start": 23.96,
+          "end": 26.34
+        },
+        {
+          "word": "justos",
+          "start": 26.74,
+          "end": 27.94
+        },
+        {
+          "word": "en",
+          "start": 27.94,
+          "end": 28.46
+        }
+      ],
+      "start": 22.26,
+      "end": 30.22,
+      "confidence": 0.985,
+      "time": 22.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "lloren los ojos que así te ven.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "lloren",
+          "start": 30.22,
+          "end": 31.24
+        },
+        {
+          "word": "los",
+          "start": 31.24,
+          "end": 32.2
+        },
+        {
+          "word": "ojos",
+          "start": 32.2,
+          "end": 33.42
+        },
+        {
+          "word": "que",
+          "start": 33.42,
+          "end": 34.24
+        },
+        {
+          "word": "así",
+          "start": 34.24,
+          "end": 35.24
+        },
+        {
+          "word": "te",
+          "start": 35.24,
+          "end": 35.9
+        },
+        {
+          "word": "ven.",
+          "start": 35.9,
+          "end": 37.42
+        }
+      ],
+      "start": 30.22,
+      "end": 37.42,
+      "confidence": 1.0,
+      "time": 30.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Manos preciosas, tan laceradas,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Manos",
+          "start": 39.56,
+          "end": 40.96
+        },
+        {
+          "word": "preciosas,",
+          "start": 40.96,
+          "end": 42.36
+        },
+        {
+          "word": "tan",
+          "start": 43.18,
+          "end": 43.46
+        },
+        {
+          "word": "laceradas,",
+          "start": 43.46,
+          "end": 46.0
+        }
+      ],
+      "start": 39.56,
+      "end": 46.92,
+      "confidence": 1.0,
+      "time": 39.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "por mí clavadas en una cruz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "por",
+          "start": 46.92,
+          "end": 47.12
+        },
+        {
+          "word": "mí",
+          "start": 47.12,
+          "end": 47.72
+        },
+        {
+          "word": "clavadas",
+          "start": 47.72,
+          "end": 49.6
+        },
+        {
+          "word": "en",
+          "start": 49.6,
+          "end": 50.98
+        },
+        {
+          "word": "una",
+          "start": 50.98,
+          "end": 51.68
+        },
+        {
+          "word": "cruz.",
+          "start": 51.68,
+          "end": 53.34
+        }
+      ],
+      "start": 46.92,
+      "end": 53.34,
+      "confidence": 1.0,
+      "time": 46.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "En este valle sean mi guía,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 53.34,
+          "end": 54.4
+        },
+        {
+          "word": "este",
+          "start": 54.4,
+          "end": 55.42
+        },
+        {
+          "word": "valle",
+          "start": 55.42,
+          "end": 56.94
+        },
+        {
+          "word": "sean",
+          "start": 56.94,
+          "end": 58.52
+        },
+        {
+          "word": "mi",
+          "start": 58.52,
+          "end": 59.18
+        },
+        {
+          "word": "guía,",
+          "start": 59.18,
+          "end": 60.66
+        }
+      ],
+      "start": 53.34,
+      "end": 61.18,
+      "confidence": 1.0,
+      "time": 53.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "mi alegría, fiel norte y luz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mi",
+          "start": 61.18,
+          "end": 61.98
+        },
+        {
+          "word": "alegría,",
+          "start": 61.98,
+          "end": 64.44
+        },
+        {
+          "word": "fiel",
+          "start": 64.84,
+          "end": 65.56
+        },
+        {
+          "word": "norte",
+          "start": 65.56,
+          "end": 66.32
+        },
+        {
+          "word": "y",
+          "start": 66.32,
+          "end": 66.78
+        },
+        {
+          "word": "luz.",
+          "start": 66.78,
+          "end": 68.34
+        }
+      ],
+      "start": 61.18,
+      "end": 68.34,
+      "confidence": 1.0,
+      "time": 61.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Tus pies heridos, Cristo paciente,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tus",
+          "start": 69.74,
+          "end": 70.54
+        },
+        {
+          "word": "pies",
+          "start": 70.54,
+          "end": 71.32
+        },
+        {
+          "word": "heridos,",
+          "start": 71.32,
+          "end": 73.16
+        },
+        {
+          "word": "Cristo",
+          "start": 73.42,
+          "end": 74.7
+        },
+        {
+          "word": "paciente,",
+          "start": 74.7,
+          "end": 76.66
+        }
+      ],
+      "start": 69.74,
+      "end": 76.66,
+      "confidence": 1.0,
+      "time": 69.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "yo indiferente los taladré.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 76.66,
+          "end": 77.76
+        },
+        {
+          "word": "indiferente,",
+          "start": 77.76,
+          "end": 80.48
+        },
+        {
+          "word": "los",
+          "start": 81.1,
+          "end": 81.84
+        },
+        {
+          "word": "taladré",
+          "start": 81.84,
+          "end": 84.02
+        }
+      ],
+      "start": 76.66,
+      "end": 84.02,
+      "confidence": 1.0,
+      "time": 76.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mas penitente, hoy que te adoro,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Más",
+          "start": 84.02,
+          "end": 85.4
+        },
+        {
+          "word": "penitente",
+          "start": 85.4,
+          "end": 87.86
+        },
+        {
+          "word": "hoy",
+          "start": 87.86,
+          "end": 88.94
+        },
+        {
+          "word": "que",
+          "start": 88.94,
+          "end": 89.42
+        },
+        {
+          "word": "te",
+          "start": 89.42,
+          "end": 90.0
+        },
+        {
+          "word": "adoro",
+          "start": 90.0,
+          "end": 91.54
+        }
+      ],
+      "start": 84.02,
+      "end": 91.54,
+      "confidence": 1.0,
+      "time": 84.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu gracia imploro: Señor, pequé.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 91.54,
+          "end": 92.64
+        },
+        {
+          "word": "gracia",
+          "start": 92.64,
+          "end": 93.52
+        },
+        {
+          "word": "imploro,",
+          "start": 93.52,
+          "end": 95.34
+        },
+        {
+          "word": "Señor",
+          "start": 96.36,
+          "end": 97.1
+        },
+        {
+          "word": "Pequén",
+          "start": 97.1,
+          "end": 99.96
+        }
+      ],
+      "start": 91.54,
+      "end": 99.96,
+      "confidence": 0.988,
+      "time": 91.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Crucificado en un madero,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Crucificado",
+          "start": 102.4,
+          "end": 103.8
+        },
+        {
+          "word": "en",
+          "start": 103.8,
+          "end": 105.14
+        },
+        {
+          "word": "un",
+          "start": 105.14,
+          "end": 105.7
+        },
+        {
+          "word": "madero,",
+          "start": 105.7,
+          "end": 107.6
+        }
+      ],
+      "start": 102.4,
+      "end": 108.2,
+      "confidence": 1.0,
+      "time": 102.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "manso Cordero, mueres por mí.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "manso",
+          "start": 108.2,
+          "end": 109.36
+        },
+        {
+          "word": "cordero,",
+          "start": 109.36,
+          "end": 111.22
+        },
+        {
+          "word": "mueres",
+          "start": 111.66,
+          "end": 112.76
+        },
+        {
+          "word": "por",
+          "start": 112.76,
+          "end": 113.38
+        },
+        {
+          "word": "mí,",
+          "start": 113.38,
+          "end": 114.86
+        }
+      ],
+      "start": 108.2,
+      "end": 114.86,
+      "confidence": 1.0,
+      "time": 108.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Por eso el alma triste y llorosa",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Por",
+          "start": 114.86,
+          "end": 116.16
+        },
+        {
+          "word": "eso",
+          "start": 116.16,
+          "end": 116.66
+        },
+        {
+          "word": "el",
+          "start": 116.66,
+          "end": 117.46
+        },
+        {
+          "word": "alma",
+          "start": 117.46,
+          "end": 118.56
+        },
+        {
+          "word": "triste",
+          "start": 118.56,
+          "end": 119.94
+        },
+        {
+          "word": "y",
+          "start": 119.94,
+          "end": 120.62
+        },
+        {
+          "word": "llorosa,",
+          "start": 120.62,
+          "end": 122.3
+        }
+      ],
+      "start": 114.86,
+      "end": 123.1,
+      "confidence": 1.0,
+      "time": 114.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "suspira ansiosa, Señor, por ti.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "suspiranciosa,",
+          "start": 123.1,
+          "end": 125.94
+        },
+        {
+          "word": "Señor,",
+          "start": 126.58,
+          "end": 127.9
+        },
+        {
+          "word": "por",
+          "start": 128.24,
+          "end": 128.5
+        },
+        {
+          "word": "Ti.",
+          "start": 128.5,
+          "end": 129.88
+        }
+      ],
+      "start": 123.1,
+      "end": 129.88,
+      "confidence": 0.788,
+      "time": 123.1
+    }
+  ]
+}

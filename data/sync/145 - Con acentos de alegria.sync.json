@@ -1,0 +1,962 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.79,
+  "language": "es",
+  "model": "medium",
+  "hymn": 145,
+  "source": "145 - Con acentos de alegria.mp3",
+  "duration": 191.61,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Con acentos de alegría hoy loamos al Señor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Santos",
+          "start": 2.82,
+          "end": 2.82
+        },
+        {
+          "word": "de",
+          "start": 2.82,
+          "end": 2.82
+        },
+        {
+          "word": "los",
+          "start": 2.82,
+          "end": 2.82
+        }
+      ],
+      "start": 2.82,
+      "end": 29.98,
+      "confidence": 0.333,
+      "time": 2.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que en este grato día nos constriñe con su amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "días.",
+          "start": 29.98,
+          "end": 29.98
+        }
+      ],
+      "start": 29.98,
+      "end": 30.18,
+      "confidence": 0.094,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Adoremos al que quiso congregarnos otra vez",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Adoremos",
+          "start": 31.38,
+          "end": 32.74
+        },
+        {
+          "word": "al",
+          "start": 32.74,
+          "end": 33.28
+        },
+        {
+          "word": "que",
+          "start": 33.28,
+          "end": 33.72
+        },
+        {
+          "word": "quiso",
+          "start": 33.72,
+          "end": 35.28
+        },
+        {
+          "word": "conregarnos",
+          "start": 35.28,
+          "end": 37.26
+        },
+        {
+          "word": "otra",
+          "start": 37.26,
+          "end": 38.58
+        },
+        {
+          "word": "vez,",
+          "start": 38.58,
+          "end": 39.98
+        }
+      ],
+      "start": 31.38,
+      "end": 40.6,
+      "confidence": 0.996,
+      "time": 31.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "como miembros de su iglesia,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "como",
+          "start": 40.6,
+          "end": 40.84
+        },
+        {
+          "word": "miembros",
+          "start": 40.84,
+          "end": 42.02
+        },
+        {
+          "word": "de",
+          "start": 42.02,
+          "end": 42.66
+        },
+        {
+          "word": "su",
+          "start": 42.66,
+          "end": 43.06
+        },
+        {
+          "word": "iglesia,",
+          "start": 43.06,
+          "end": 44.66
+        }
+      ],
+      "start": 40.6,
+      "end": 45.2,
+      "confidence": 1.0,
+      "time": 40.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "todos de una misma fe.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "todos",
+          "start": 45.2,
+          "end": 45.42
+        },
+        {
+          "word": "de",
+          "start": 45.42,
+          "end": 46.04
+        },
+        {
+          "word": "una",
+          "start": 46.04,
+          "end": 46.76
+        },
+        {
+          "word": "misma",
+          "start": 46.76,
+          "end": 47.62
+        },
+        {
+          "word": "fe.",
+          "start": 47.62,
+          "end": 49.2
+        }
+      ],
+      "start": 45.2,
+      "end": 49.2,
+      "confidence": 1.0,
+      "time": 45.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Con fervor, con fervor,",
+      "words": [
+        {
+          "word": "con",
+          "start": 50.8,
+          "end": 51.06
+        },
+        {
+          "word": "fervor,",
+          "start": 51.06,
+          "end": 51.94
+        },
+        {
+          "word": "con",
+          "start": 51.94,
+          "end": 52.32
+        },
+        {
+          "word": "fervor",
+          "start": 52.32,
+          "end": 54.28
+        }
+      ],
+      "start": 50.8,
+      "end": 54.28,
+      "confidence": 1.0,
+      "time": 50.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "a nuestro Rey cantemos,",
+      "words": [
+        {
+          "word": "al",
+          "start": 54.28,
+          "end": 55.02
+        },
+        {
+          "word": "cantemos,",
+          "start": 56.7,
+          "end": 58.92
+        }
+      ],
+      "start": 54.28,
+      "end": 59.2,
+      "confidence": 0.45,
+      "time": 54.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y su amor, y su amor,",
+      "words": [
+        {
+          "word": "y",
+          "start": 59.2,
+          "end": 59.44
+        },
+        {
+          "word": "su",
+          "start": 59.44,
+          "end": 59.62
+        },
+        {
+          "word": "amor,",
+          "start": 59.62,
+          "end": 61.36
+        },
+        {
+          "word": "y",
+          "start": 61.36,
+          "end": 61.72
+        },
+        {
+          "word": "su",
+          "start": 61.72,
+          "end": 61.98
+        },
+        {
+          "word": "amor",
+          "start": 61.98,
+          "end": 63.44
+        }
+      ],
+      "start": 59.2,
+      "end": 63.44,
+      "confidence": 1.0,
+      "time": 59.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "nos guarde en santa unión.",
+      "words": [
+        {
+          "word": "nos",
+          "start": 63.44,
+          "end": 64.48
+        },
+        {
+          "word": "guarda",
+          "start": 64.48,
+          "end": 65.6
+        },
+        {
+          "word": "en",
+          "start": 65.6,
+          "end": 66.12
+        },
+        {
+          "word": "Santa",
+          "start": 66.12,
+          "end": 66.62
+        },
+        {
+          "word": "Unión.",
+          "start": 66.62,
+          "end": 70.3
+        }
+      ],
+      "start": 63.44,
+      "end": 70.3,
+      "confidence": 0.98,
+      "time": 63.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Gloria a nuestro Rey amante que nos da su santa paz,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Gloria",
+          "start": 70.3,
+          "end": 71.46
+        },
+        {
+          "word": "a",
+          "start": 71.46,
+          "end": 71.88
+        },
+        {
+          "word": "nuestro",
+          "start": 71.88,
+          "end": 72.48
+        },
+        {
+          "word": "rey",
+          "start": 72.48,
+          "end": 73.2
+        },
+        {
+          "word": "amarte,",
+          "start": 73.88,
+          "end": 75.2
+        },
+        {
+          "word": "que",
+          "start": 75.74,
+          "end": 75.88
+        },
+        {
+          "word": "nos",
+          "start": 75.88,
+          "end": 76.3
+        },
+        {
+          "word": "da",
+          "start": 76.3,
+          "end": 76.6
+        },
+        {
+          "word": "su",
+          "start": 76.6,
+          "end": 77.16
+        },
+        {
+          "word": "santa",
+          "start": 77.16,
+          "end": 78.44
+        },
+        {
+          "word": "paz,",
+          "start": 78.44,
+          "end": 79.82
+        }
+      ],
+      "start": 70.3,
+      "end": 79.82,
+      "confidence": 0.991,
+      "time": 70.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que en su gracia desbordante,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 80.36,
+          "end": 80.48
+        },
+        {
+          "word": "en",
+          "start": 80.48,
+          "end": 80.66
+        },
+        {
+          "word": "su",
+          "start": 80.66,
+          "end": 80.86
+        },
+        {
+          "word": "gracia",
+          "start": 80.86,
+          "end": 82.0
+        },
+        {
+          "word": "desbordarte",
+          "start": 82.0,
+          "end": 84.62
+        }
+      ],
+      "start": 80.36,
+      "end": 84.62,
+      "confidence": 0.989,
+      "time": 80.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "para todos da solaz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "para",
+          "start": 84.62,
+          "end": 85.5
+        },
+        {
+          "word": "todas",
+          "start": 85.5,
+          "end": 86.78
+        },
+        {
+          "word": "solas.",
+          "start": 87.42,
+          "end": 89.46
+        }
+      ],
+      "start": 84.62,
+      "end": 89.46,
+      "confidence": 0.69,
+      "time": 84.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Levantemos nuestras voces y digamos con fervor:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Levantemos",
+          "start": 89.96,
+          "end": 91.36
+        },
+        {
+          "word": "nuestras",
+          "start": 91.36,
+          "end": 92.54
+        },
+        {
+          "word": "voces",
+          "start": 92.54,
+          "end": 94.14
+        },
+        {
+          "word": "y",
+          "start": 94.14,
+          "end": 94.8
+        },
+        {
+          "word": "ligamos",
+          "start": 94.8,
+          "end": 96.08
+        },
+        {
+          "word": "con",
+          "start": 96.08,
+          "end": 96.84
+        },
+        {
+          "word": "fervor,",
+          "start": 96.84,
+          "end": 98.76
+        }
+      ],
+      "start": 89.96,
+      "end": 98.76,
+      "confidence": 0.988,
+      "time": 89.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Gloria al Hijo bondadoso! ¡Gloria a nuestro Redentor!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "gloria",
+          "start": 98.76,
+          "end": 99.66
+        },
+        {
+          "word": "al",
+          "start": 99.66,
+          "end": 100.18
+        },
+        {
+          "word": "Hijo",
+          "start": 100.18,
+          "end": 100.72
+        },
+        {
+          "word": "abondado",
+          "start": 100.72,
+          "end": 102.5
+        },
+        {
+          "word": "gloria",
+          "start": 103.96,
+          "end": 104.28
+        },
+        {
+          "word": "al",
+          "start": 104.28,
+          "end": 104.46
+        },
+        {
+          "word": "Nuestro",
+          "start": 104.46,
+          "end": 105.98
+        },
+        {
+          "word": "Redentor.",
+          "start": 105.98,
+          "end": 108.18
+        }
+      ],
+      "start": 98.76,
+      "end": 108.18,
+      "confidence": 0.962,
+      "time": 98.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Con fervor, con fervor,",
+      "words": [
+        {
+          "word": "con",
+          "start": 109.62,
+          "end": 110.22
+        },
+        {
+          "word": "fervor,",
+          "start": 110.22,
+          "end": 110.82
+        },
+        {
+          "word": "con",
+          "start": 110.86,
+          "end": 111.26
+        },
+        {
+          "word": "fervor",
+          "start": 111.26,
+          "end": 113.04
+        }
+      ],
+      "start": 109.62,
+      "end": 113.04,
+      "confidence": 1.0,
+      "time": 109.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "a nuestro Rey cantemos,",
+      "words": [
+        {
+          "word": "al",
+          "start": 113.04,
+          "end": 113.92
+        },
+        {
+          "word": "Nuestro",
+          "start": 113.92,
+          "end": 115.08
+        },
+        {
+          "word": "Rey",
+          "start": 115.08,
+          "end": 115.52
+        },
+        {
+          "word": "cantemos",
+          "start": 115.52,
+          "end": 117.62
+        }
+      ],
+      "start": 113.04,
+      "end": 117.62,
+      "confidence": 0.95,
+      "time": 113.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y su amor, y su amor,",
+      "words": [
+        {
+          "word": "y",
+          "start": 120.08,
+          "end": 120.56
+        },
+        {
+          "word": "su",
+          "start": 120.56,
+          "end": 120.82
+        },
+        {
+          "word": "amor,",
+          "start": 120.82,
+          "end": 121.32
+        },
+        {
+          "word": "y",
+          "start": 121.32,
+          "end": 121.52
+        },
+        {
+          "word": "su",
+          "start": 121.52,
+          "end": 121.8
+        },
+        {
+          "word": "amor",
+          "start": 121.8,
+          "end": 122.36
+        }
+      ],
+      "start": 120.08,
+      "end": 122.36,
+      "confidence": 1.0,
+      "time": 120.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "nos guarde en santa unión.",
+      "words": [
+        {
+          "word": "nos",
+          "start": 122.36,
+          "end": 123.12
+        },
+        {
+          "word": "guarde",
+          "start": 123.12,
+          "end": 124.38
+        },
+        {
+          "word": "Santa",
+          "start": 124.38,
+          "end": 125.3
+        },
+        {
+          "word": "Unión.",
+          "start": 125.3,
+          "end": 127.32
+        }
+      ],
+      "start": 122.36,
+      "end": 127.32,
+      "confidence": 0.8,
+      "time": 122.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Oh, Señor!, hoy te adoramos con fervor y gratitud,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "adoramos,",
+          "start": 132.1,
+          "end": 134.14
+        },
+        {
+          "word": "con",
+          "start": 134.44,
+          "end": 134.8
+        },
+        {
+          "word": "perfor",
+          "start": 134.8,
+          "end": 135.62
+        },
+        {
+          "word": "y",
+          "start": 135.62,
+          "end": 136.16
+        },
+        {
+          "word": "gratitud!",
+          "start": 136.16,
+          "end": 138.46
+        }
+      ],
+      "start": 132.1,
+      "end": 138.46,
+      "confidence": 0.533,
+      "time": 132.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y anhelosos te pedimos que nos brindes tu salud.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Ya",
+          "start": 139.12,
+          "end": 139.38
+        },
+        {
+          "word": "defendimos,",
+          "start": 141.12,
+          "end": 143.48
+        },
+        {
+          "word": "que",
+          "start": 144.0,
+          "end": 144.14
+        },
+        {
+          "word": "nos",
+          "start": 144.14,
+          "end": 144.62
+        },
+        {
+          "word": "Salud.",
+          "start": 146.04,
+          "end": 148.2
+        }
+      ],
+      "start": 139.12,
+      "end": 148.2,
+      "confidence": 0.514,
+      "time": 139.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Que unidos como hermanos te adoremos sin cesar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Reunidos",
+          "start": 148.2,
+          "end": 150.08
+        },
+        {
+          "word": "como",
+          "start": 150.08,
+          "end": 150.86
+        },
+        {
+          "word": "hermanos,",
+          "start": 150.86,
+          "end": 152.92
+        },
+        {
+          "word": "te",
+          "start": 153.28,
+          "end": 153.72
+        },
+        {
+          "word": "haremos",
+          "start": 153.72,
+          "end": 154.84
+        },
+        {
+          "word": "sin",
+          "start": 154.84,
+          "end": 155.7
+        },
+        {
+          "word": "cesar.",
+          "start": 155.7,
+          "end": 157.64
+        }
+      ],
+      "start": 148.2,
+      "end": 157.64,
+      "confidence": 0.849,
+      "time": 148.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y en tu gracia bienhechora procuremos siempre estar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 158.12,
+          "end": 158.22
+        },
+        {
+          "word": "en",
+          "start": 158.22,
+          "end": 158.34
+        },
+        {
+          "word": "tu",
+          "start": 158.34,
+          "end": 158.6
+        },
+        {
+          "word": "gracia",
+          "start": 158.6,
+          "end": 159.76
+        },
+        {
+          "word": "bien",
+          "start": 159.76,
+          "end": 160.72
+        },
+        {
+          "word": "proponemos",
+          "start": 162.76,
+          "end": 164.2
+        },
+        {
+          "word": "siempre",
+          "start": 164.2,
+          "end": 165.42
+        },
+        {
+          "word": "estar.",
+          "start": 165.42,
+          "end": 166.8
+        }
+      ],
+      "start": 158.12,
+      "end": 166.8,
+      "confidence": 0.97,
+      "time": 158.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Con fervor, con fervor,",
+      "words": [
+        {
+          "word": "con",
+          "start": 168.44,
+          "end": 168.78
+        },
+        {
+          "word": "con",
+          "start": 169.68,
+          "end": 169.96
+        }
+      ],
+      "start": 168.44,
+      "end": 171.82,
+      "confidence": 0.5,
+      "time": 168.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "a nuestro Rey cantemos,",
+      "words": [
+        {
+          "word": "¡A",
+          "start": 171.82,
+          "end": 172.82
+        },
+        {
+          "word": "nuestro",
+          "start": 172.82,
+          "end": 173.82
+        },
+        {
+          "word": "rey",
+          "start": 173.82,
+          "end": 174.88
+        },
+        {
+          "word": "cantemos!",
+          "start": 174.88,
+          "end": 176.66
+        }
+      ],
+      "start": 171.82,
+      "end": 176.66,
+      "confidence": 1.0,
+      "time": 171.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y su amor, y su amor,",
+      "words": [
+        {
+          "word": "y",
+          "start": 179.36,
+          "end": 179.54
+        },
+        {
+          "word": "su",
+          "start": 179.54,
+          "end": 181.06
+        },
+        {
+          "word": "amor,",
+          "start": 181.06,
+          "end": 181.3
+        },
+        {
+          "word": "y",
+          "start": 181.68,
+          "end": 181.96
+        },
+        {
+          "word": "su",
+          "start": 181.96,
+          "end": 181.96
+        },
+        {
+          "word": "amor!",
+          "start": 181.96,
+          "end": 181.96
+        }
+      ],
+      "start": 179.36,
+      "end": 181.96,
+      "confidence": 1.0,
+      "time": 179.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "nos guarde en santa unión.",
+      "words": [
+        {
+          "word": "¡Nos",
+          "start": 181.96,
+          "end": 182.34
+        },
+        {
+          "word": "sancta",
+          "start": 183.3,
+          "end": 184.74
+        },
+        {
+          "word": "unión!",
+          "start": 184.74,
+          "end": 186.26
+        }
+      ],
+      "start": 181.96,
+      "end": 186.26,
+      "confidence": 0.589,
+      "time": 181.96
+    }
+  ]
+}

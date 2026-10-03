@@ -1,0 +1,860 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.947,
+  "language": "es",
+  "model": "medium",
+  "hymn": 99,
+  "source": "099 - Jamas podra alguien separarnos.mp3",
+  "duration": 187.01,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jamás podrá alguien separarnos",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jamás",
+          "start": 16.44,
+          "end": 17.84
+        },
+        {
+          "word": "podrá",
+          "start": 17.84,
+          "end": 18.64
+        },
+        {
+          "word": "alguien",
+          "start": 18.64,
+          "end": 19.16
+        },
+        {
+          "word": "separarnos",
+          "start": 19.16,
+          "end": 22.36
+        }
+      ],
+      "start": 16.44,
+      "end": 22.36,
+      "confidence": 1.0,
+      "time": 16.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de Cristo nuestro Redentor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 22.36,
+          "end": 23.28
+        },
+        {
+          "word": "Cristo",
+          "start": 23.28,
+          "end": 24.82
+        },
+        {
+          "word": "nuestro",
+          "start": 24.82,
+          "end": 25.72
+        },
+        {
+          "word": "Redentor",
+          "start": 25.72,
+          "end": 28.72
+        }
+      ],
+      "start": 22.36,
+      "end": 28.72,
+      "confidence": 1.0,
+      "time": 22.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ni cosa alguna arrebatarnos",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ni",
+          "start": 28.72,
+          "end": 29.84
+        },
+        {
+          "word": "cosa",
+          "start": 29.84,
+          "end": 31.34
+        },
+        {
+          "word": "alguna",
+          "start": 31.34,
+          "end": 32.24
+        },
+        {
+          "word": "arrebatarnos",
+          "start": 32.24,
+          "end": 34.98
+        }
+      ],
+      "start": 28.72,
+      "end": 34.98,
+      "confidence": 1.0,
+      "time": 28.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "el gozo de su tierno amor:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 34.98,
+          "end": 35.6
+        },
+        {
+          "word": "gozo",
+          "start": 35.6,
+          "end": 36.24
+        },
+        {
+          "word": "de",
+          "start": 36.24,
+          "end": 37.46
+        },
+        {
+          "word": "su",
+          "start": 37.46,
+          "end": 37.86
+        },
+        {
+          "word": "tierno",
+          "start": 37.86,
+          "end": 39.42
+        },
+        {
+          "word": "amor",
+          "start": 39.42,
+          "end": 41.26
+        }
+      ],
+      "start": 34.98,
+      "end": 41.26,
+      "confidence": 1.0,
+      "time": 34.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ni luchas, pruebas o dolores,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ni",
+          "start": 41.26,
+          "end": 42.8
+        },
+        {
+          "word": "luchas,",
+          "start": 42.8,
+          "end": 44.58
+        },
+        {
+          "word": "pruebas",
+          "start": 44.7,
+          "end": 45.34
+        },
+        {
+          "word": "o",
+          "start": 45.34,
+          "end": 45.82
+        },
+        {
+          "word": "dolores",
+          "start": 45.82,
+          "end": 48.06
+        }
+      ],
+      "start": 41.26,
+      "end": 48.06,
+      "confidence": 1.0,
+      "time": 41.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ni amenazas o aflicción;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ni",
+          "start": 48.06,
+          "end": 49.28
+        },
+        {
+          "word": "amenazas",
+          "start": 49.28,
+          "end": 51.42
+        },
+        {
+          "word": "o",
+          "start": 51.42,
+          "end": 51.78
+        },
+        {
+          "word": "aflicción",
+          "start": 51.78,
+          "end": 54.02
+        }
+      ],
+      "start": 48.06,
+      "end": 54.02,
+      "confidence": 1.0,
+      "time": 48.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ni aun este mundo y sus honores,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ni",
+          "start": 54.02,
+          "end": 55.06
+        },
+        {
+          "word": "aún",
+          "start": 55.06,
+          "end": 55.96
+        },
+        {
+          "word": "este",
+          "start": 55.96,
+          "end": 56.96
+        },
+        {
+          "word": "mundo",
+          "start": 56.96,
+          "end": 57.56
+        },
+        {
+          "word": "y",
+          "start": 57.56,
+          "end": 58.02
+        },
+        {
+          "word": "sus",
+          "start": 58.02,
+          "end": 58.56
+        },
+        {
+          "word": "honores",
+          "start": 58.56,
+          "end": 60.44
+        }
+      ],
+      "start": 54.02,
+      "end": 62.02,
+      "confidence": 1.0,
+      "time": 54.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "su pompa, gloria y tentación.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "gloria",
+          "start": 62.02,
+          "end": 63.22
+        },
+        {
+          "word": "y",
+          "start": 63.22,
+          "end": 63.74
+        },
+        {
+          "word": "tentación.",
+          "start": 63.74,
+          "end": 66.64
+        }
+      ],
+      "start": 62.02,
+      "end": 66.64,
+      "confidence": 0.6,
+      "time": 62.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Con furia loca lo azotaron,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Con",
+          "start": 67.5,
+          "end": 68.5
+        },
+        {
+          "word": "furia",
+          "start": 68.5,
+          "end": 70.02
+        },
+        {
+          "word": "loca",
+          "start": 70.02,
+          "end": 70.64
+        },
+        {
+          "word": "lo",
+          "start": 70.64,
+          "end": 71.28
+        },
+        {
+          "word": "azotaron",
+          "start": 71.28,
+          "end": 73.42
+        }
+      ],
+      "start": 67.5,
+      "end": 73.42,
+      "confidence": 1.0,
+      "time": 67.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y así humillaron al Señor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 73.42,
+          "end": 74.42
+        },
+        {
+          "word": "así",
+          "start": 74.42,
+          "end": 75.14
+        },
+        {
+          "word": "humillaron",
+          "start": 75.14,
+          "end": 76.86
+        },
+        {
+          "word": "al",
+          "start": 76.86,
+          "end": 77.34
+        },
+        {
+          "word": "Señor,",
+          "start": 77.34,
+          "end": 79.18
+        }
+      ],
+      "start": 73.42,
+      "end": 79.18,
+      "confidence": 1.0,
+      "time": 73.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y sin piedad atravesaron",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 79.18,
+          "end": 80.5
+        },
+        {
+          "word": "sin",
+          "start": 80.5,
+          "end": 81.5
+        },
+        {
+          "word": "piedad",
+          "start": 81.5,
+          "end": 82.58
+        },
+        {
+          "word": "atravesarlo",
+          "start": 82.58,
+          "end": 85.18
+        }
+      ],
+      "start": 79.18,
+      "end": 85.18,
+      "confidence": 0.986,
+      "time": 79.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "las manos de mi Salvador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "las",
+          "start": 85.18,
+          "end": 85.76
+        },
+        {
+          "word": "manos",
+          "start": 85.76,
+          "end": 86.38
+        },
+        {
+          "word": "de",
+          "start": 86.38,
+          "end": 87.46
+        },
+        {
+          "word": "mi",
+          "start": 87.46,
+          "end": 87.9
+        },
+        {
+          "word": "Salvador.",
+          "start": 87.9,
+          "end": 90.5
+        }
+      ],
+      "start": 85.18,
+      "end": 90.5,
+      "confidence": 1.0,
+      "time": 85.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "A esos pies que lo llevaron",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 92.2,
+          "end": 92.96
+        },
+        {
+          "word": "esos",
+          "start": 92.96,
+          "end": 93.9
+        },
+        {
+          "word": "pies",
+          "start": 93.9,
+          "end": 94.48
+        },
+        {
+          "word": "que",
+          "start": 94.48,
+          "end": 94.78
+        },
+        {
+          "word": "lo",
+          "start": 94.78,
+          "end": 95.14
+        },
+        {
+          "word": "llevaron",
+          "start": 95.14,
+          "end": 97.54
+        }
+      ],
+      "start": 92.2,
+      "end": 97.54,
+      "confidence": 1.0,
+      "time": 92.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "a dar salud y a bendecir,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 97.54,
+          "end": 98.58
+        },
+        {
+          "word": "dar",
+          "start": 98.58,
+          "end": 99.64
+        },
+        {
+          "word": "salud",
+          "start": 99.64,
+          "end": 100.38
+        },
+        {
+          "word": "y",
+          "start": 100.38,
+          "end": 100.76
+        },
+        {
+          "word": "a",
+          "start": 100.76,
+          "end": 100.98
+        },
+        {
+          "word": "bendecir",
+          "start": 100.98,
+          "end": 103.18
+        }
+      ],
+      "start": 97.54,
+      "end": 103.18,
+      "confidence": 1.0,
+      "time": 97.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "horribles clavos traspasaron,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Horribles",
+          "start": 104.72,
+          "end": 106.12
+        },
+        {
+          "word": "clavos",
+          "start": 106.12,
+          "end": 106.92
+        },
+        {
+          "word": "traspasaron",
+          "start": 106.92,
+          "end": 109.24
+        }
+      ],
+      "start": 104.72,
+      "end": 109.24,
+      "confidence": 1.0,
+      "time": 104.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "la suerte humana al compartir.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 109.24,
+          "end": 110.04
+        },
+        {
+          "word": "suerte",
+          "start": 110.04,
+          "end": 110.62
+        },
+        {
+          "word": "humana",
+          "start": 110.62,
+          "end": 112.34
+        },
+        {
+          "word": "al",
+          "start": 112.34,
+          "end": 112.8
+        },
+        {
+          "word": "compartir",
+          "start": 112.8,
+          "end": 114.96
+        }
+      ],
+      "start": 109.24,
+      "end": 114.96,
+      "confidence": 1.0,
+      "time": 109.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Qué horror que por mi vil pecado",
+      "verse": 3,
+      "words": [
+        {
+          "word": "¡Qué",
+          "start": 116.18,
+          "end": 116.94
+        },
+        {
+          "word": "horror",
+          "start": 116.94,
+          "end": 118.34
+        },
+        {
+          "word": "que",
+          "start": 118.34,
+          "end": 118.8
+        },
+        {
+          "word": "por",
+          "start": 118.8,
+          "end": 119.32
+        },
+        {
+          "word": "mi",
+          "start": 119.32,
+          "end": 119.64
+        },
+        {
+          "word": "vil",
+          "start": 119.64,
+          "end": 120.12
+        },
+        {
+          "word": "pecado",
+          "start": 120.12,
+          "end": 122.28
+        }
+      ],
+      "start": 116.18,
+      "end": 123.98,
+      "confidence": 1.0,
+      "time": 116.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "el Salvador así sufrió,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Salvador",
+          "start": 123.98,
+          "end": 125.18
+        },
+        {
+          "word": "así",
+          "start": 125.18,
+          "end": 125.96
+        },
+        {
+          "word": "sufrió!",
+          "start": 125.96,
+          "end": 127.82
+        }
+      ],
+      "start": 123.98,
+      "end": 127.82,
+      "confidence": 0.75,
+      "time": 123.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que por mis culpas fue azotado",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 127.82,
+          "end": 129.08
+        },
+        {
+          "word": "por",
+          "start": 129.08,
+          "end": 130.24
+        },
+        {
+          "word": "mis",
+          "start": 130.24,
+          "end": 130.72
+        },
+        {
+          "word": "culpas",
+          "start": 130.72,
+          "end": 131.3
+        }
+      ],
+      "start": 127.82,
+      "end": 133.56,
+      "confidence": 0.667,
+      "time": 127.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y burlas crueles recibió.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 133.56,
+          "end": 134.26
+        },
+        {
+          "word": "las",
+          "start": 134.52,
+          "end": 135.52
+        },
+        {
+          "word": "recibió.",
+          "start": 136.28,
+          "end": 139.74
+        }
+      ],
+      "start": 133.56,
+      "end": 139.74,
+      "confidence": 0.7,
+      "time": 133.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Ingratos hemos de alejarnos",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Ingratos",
+          "start": 141.14,
+          "end": 142.54
+        },
+        {
+          "word": "hemos",
+          "start": 142.54,
+          "end": 143.14
+        },
+        {
+          "word": "de",
+          "start": 143.14,
+          "end": 143.56
+        },
+        {
+          "word": "alejarnos",
+          "start": 143.56,
+          "end": 145.86
+        }
+      ],
+      "start": 141.14,
+      "end": 145.86,
+      "confidence": 1.0,
+      "time": 141.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de Aquel que tanto nos amó,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 145.86,
+          "end": 146.8
+        },
+        {
+          "word": "aquel",
+          "start": 146.8,
+          "end": 148.0
+        },
+        {
+          "word": "que",
+          "start": 148.0,
+          "end": 148.32
+        },
+        {
+          "word": "tanto",
+          "start": 148.32,
+          "end": 148.84
+        },
+        {
+          "word": "nos",
+          "start": 148.84,
+          "end": 149.76
+        },
+        {
+          "word": "amó",
+          "start": 149.76,
+          "end": 151.4
+        }
+      ],
+      "start": 145.86,
+      "end": 151.4,
+      "confidence": 1.0,
+      "time": 145.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y con anhelo de salvarnos",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 151.4,
+          "end": 152.9
+        },
+        {
+          "word": "con",
+          "start": 152.9,
+          "end": 154.14
+        },
+        {
+          "word": "anhelo",
+          "start": 154.14,
+          "end": 155.06
+        },
+        {
+          "word": "de",
+          "start": 155.06,
+          "end": 155.78
+        },
+        {
+          "word": "salvarnos",
+          "start": 155.78,
+          "end": 157.6
+        }
+      ],
+      "start": 151.4,
+      "end": 157.6,
+      "confidence": 1.0,
+      "time": 151.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "su propia vida entregó?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "su",
+          "start": 157.6,
+          "end": 158.28
+        },
+        {
+          "word": "propia",
+          "start": 158.28,
+          "end": 158.88
+        },
+        {
+          "word": "vida",
+          "start": 158.88,
+          "end": 160.62
+        },
+        {
+          "word": "entregó.",
+          "start": 160.62,
+          "end": 164.14
+        }
+      ],
+      "start": 157.6,
+      "end": 164.14,
+      "confidence": 1.0,
+      "time": 157.6
+    }
+  ]
+}

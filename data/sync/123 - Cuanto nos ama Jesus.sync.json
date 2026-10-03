@@ -1,0 +1,407 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.922,
+  "language": "es",
+  "model": "medium",
+  "hymn": 123,
+  "source": "123 - Cuanto nos ama Jesus.mp3",
+  "duration": 104.12,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Cuánto Jesús te ama a ti!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Panto",
+          "start": 16.86,
+          "end": 18.26
+        },
+        {
+          "word": "Jesús",
+          "start": 18.26,
+          "end": 19.66
+        },
+        {
+          "word": "te",
+          "start": 19.66,
+          "end": 20.54
+        },
+        {
+          "word": "amatí",
+          "start": 20.54,
+          "end": 24.8
+        }
+      ],
+      "start": 16.86,
+      "end": 24.8,
+      "confidence": 0.629,
+      "time": 16.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Cuánto me ama él a mí!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¡Cuanto",
+          "start": 24.8,
+          "end": 26.56
+        },
+        {
+          "word": "me",
+          "start": 26.56,
+          "end": 27.78
+        },
+        {
+          "word": "ama",
+          "start": 27.78,
+          "end": 28.5
+        },
+        {
+          "word": "la",
+          "start": 28.84,
+          "end": 29.8
+        }
+      ],
+      "start": 24.8,
+      "end": 32.92,
+      "confidence": 0.633,
+      "time": 24.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Su vida dio, no podía dar más.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Su",
+          "start": 33.64,
+          "end": 34.56
+        },
+        {
+          "word": "vida,",
+          "start": 34.56,
+          "end": 35.7
+        },
+        {
+          "word": "Dios,",
+          "start": 35.7,
+          "end": 37.0
+        },
+        {
+          "word": "no",
+          "start": 37.02,
+          "end": 37.6
+        },
+        {
+          "word": "podía",
+          "start": 37.6,
+          "end": 38.8
+        },
+        {
+          "word": "dar",
+          "start": 38.8,
+          "end": 39.94
+        },
+        {
+          "word": "más.",
+          "start": 39.94,
+          "end": 41.58
+        }
+      ],
+      "start": 33.64,
+      "end": 41.58,
+      "confidence": 0.991,
+      "time": 33.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh, cuánto te ama! ¡Oh, cuánto me ama!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¡Oh!",
+          "start": 41.92,
+          "end": 42.8
+        },
+        {
+          "word": "¡Cuanto",
+          "start": 42.86,
+          "end": 44.06
+        },
+        {
+          "word": "te",
+          "start": 44.06,
+          "end": 44.8
+        },
+        {
+          "word": "ama!",
+          "start": 44.8,
+          "end": 45.78
+        },
+        {
+          "word": "¡Oh!",
+          "start": 46.5,
+          "end": 46.92
+        },
+        {
+          "word": "¡Cuanto",
+          "start": 47.26,
+          "end": 48.14
+        },
+        {
+          "word": "me",
+          "start": 48.14,
+          "end": 48.78
+        },
+        {
+          "word": "ama!",
+          "start": 48.78,
+          "end": 49.94
+        }
+      ],
+      "start": 41.92,
+      "end": 49.94,
+      "confidence": 1.0,
+      "time": 41.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Cuánto nos ama Jesús!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¡Cuanto",
+          "start": 49.94,
+          "end": 51.82
+        },
+        {
+          "word": "nos",
+          "start": 51.82,
+          "end": 52.9
+        },
+        {
+          "word": "ama",
+          "start": 52.9,
+          "end": 53.8
+        },
+        {
+          "word": "Jesús!",
+          "start": 53.8,
+          "end": 56.16
+        }
+      ],
+      "start": 49.94,
+      "end": 56.16,
+      "confidence": 1.0,
+      "time": 49.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "En el Calvario murió,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 58.94,
+          "end": 59.76
+        },
+        {
+          "word": "el",
+          "start": 59.76,
+          "end": 60.5
+        },
+        {
+          "word": "Talvario",
+          "start": 60.5,
+          "end": 62.16
+        },
+        {
+          "word": "murió,",
+          "start": 62.16,
+          "end": 66.74
+        }
+      ],
+      "start": 58.94,
+      "end": 66.74,
+      "confidence": 0.981,
+      "time": 58.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "su sangre allí derramó,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Su",
+          "start": 67.3,
+          "end": 67.84
+        },
+        {
+          "word": "sangre",
+          "start": 67.84,
+          "end": 68.86
+        },
+        {
+          "word": "a",
+          "start": 68.86,
+          "end": 69.6
+        },
+        {
+          "word": "derramó.",
+          "start": 70.24,
+          "end": 75.16
+        }
+      ],
+      "start": 67.3,
+      "end": 75.16,
+      "confidence": 0.985,
+      "time": 67.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "el buen Jesús, nos compró en la cruz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "El",
+          "start": 75.16,
+          "end": 76.3
+        },
+        {
+          "word": "buen",
+          "start": 76.3,
+          "end": 76.88
+        },
+        {
+          "word": "Jesús",
+          "start": 76.88,
+          "end": 78.92
+        },
+        {
+          "word": "nos",
+          "start": 78.92,
+          "end": 79.56
+        },
+        {
+          "word": "compró",
+          "start": 79.56,
+          "end": 80.64
+        },
+        {
+          "word": "en",
+          "start": 80.64,
+          "end": 81.44
+        },
+        {
+          "word": "la",
+          "start": 81.44,
+          "end": 82.0
+        },
+        {
+          "word": "cruz.",
+          "start": 82.0,
+          "end": 83.76
+        }
+      ],
+      "start": 75.16,
+      "end": 83.76,
+      "confidence": 1.0,
+      "time": 75.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Oh, cuánto te ama! ¡Oh, cuánto me ama!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 84.4,
+          "end": 84.64
+        },
+        {
+          "word": "cuanto",
+          "start": 85.24,
+          "end": 85.58
+        },
+        {
+          "word": "te",
+          "start": 85.58,
+          "end": 86.64
+        },
+        {
+          "word": "ama,",
+          "start": 86.64,
+          "end": 87.58
+        },
+        {
+          "word": "oh,",
+          "start": 88.44,
+          "end": 88.74
+        },
+        {
+          "word": "cuanto",
+          "start": 89.38,
+          "end": 89.94
+        },
+        {
+          "word": "me",
+          "start": 89.94,
+          "end": 90.78
+        },
+        {
+          "word": "ama,",
+          "start": 90.78,
+          "end": 91.82
+        }
+      ],
+      "start": 84.4,
+      "end": 91.82,
+      "confidence": 1.0,
+      "time": 84.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Cuánto nos ama Jesús!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cuanto",
+          "start": 92.62,
+          "end": 93.44
+        },
+        {
+          "word": "nos",
+          "start": 93.44,
+          "end": 94.92
+        },
+        {
+          "word": "ama",
+          "start": 94.92,
+          "end": 95.72
+        },
+        {
+          "word": "Jesús.",
+          "start": 95.72,
+          "end": 97.86
+        }
+      ],
+      "start": 92.62,
+      "end": 97.86,
+      "confidence": 1.0,
+      "time": 92.62
+    }
+  ]
+}

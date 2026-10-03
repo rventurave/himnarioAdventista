@@ -1,0 +1,142 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.544,
+  "language": "es",
+  "model": "medium",
+  "hymn": 36,
+  "source": "036 - Oh, Dios, que oyes cada oracion.mp3",
+  "duration": 74.27,
+  "needsReview": true,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh, Dios, que oyes cada oración,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 1.9,
+          "end": 3.84
+        },
+        {
+          "word": "canal",
+          "start": 6.84,
+          "end": 6.94
+        }
+      ],
+      "start": 1.9,
+      "end": 29.98,
+      "confidence": 0.267,
+      "time": 1.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "escucha nuestra humilde petición!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Escucha",
+          "start": 30.0,
+          "end": 31.54
+        },
+        {
+          "word": "nuestra",
+          "start": 31.54,
+          "end": 33.94
+        },
+        {
+          "word": "humilde",
+          "start": 33.94,
+          "end": 35.72
+        },
+        {
+          "word": "petición.",
+          "start": 35.72,
+          "end": 39.82
+        }
+      ],
+      "start": 30.0,
+      "end": 39.82,
+      "confidence": 1.0,
+      "time": 30.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tú, que eres vida, gozo y solaz;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 40.16,
+          "end": 41.56
+        },
+        {
+          "word": "que",
+          "start": 41.56,
+          "end": 42.2
+        },
+        {
+          "word": "eres",
+          "start": 42.2,
+          "end": 42.88
+        },
+        {
+          "word": "vida,",
+          "start": 42.88,
+          "end": 45.32
+        }
+      ],
+      "start": 40.16,
+      "end": 50.64,
+      "confidence": 0.571,
+      "time": 40.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "danos tu gracia y tu dulce paz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tu",
+          "start": 55.92,
+          "end": 56.66
+        },
+        {
+          "word": "y",
+          "start": 58.26,
+          "end": 59.56
+        },
+        {
+          "word": "paz.",
+          "start": 59.88,
+          "end": 62.36
+        }
+      ],
+      "start": 55.92,
+      "end": 69.84,
+      "confidence": 0.429,
+      "time": 55.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Amén.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Amén.",
+          "start": 69.84,
+          "end": 71.24
+        }
+      ],
+      "start": 69.84,
+      "end": 71.24,
+      "confidence": 1.0,
+      "time": 69.84
+    }
+  ]
+}

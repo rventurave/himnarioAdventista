@@ -1,0 +1,899 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.812,
+  "language": "es",
+  "model": "medium",
+  "hymn": 169,
+  "source": "169 - Cuando suene la trompeta.mp3",
+  "duration": 182.05,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cuando suene la trompeta en el día del Señor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 31.16,
+          "end": 32.24
+        },
+        {
+          "word": "suene",
+          "start": 32.24,
+          "end": 32.98
+        },
+        {
+          "word": "la",
+          "start": 32.98,
+          "end": 33.44
+        },
+        {
+          "word": "trompeta",
+          "start": 33.44,
+          "end": 34.54
+        },
+        {
+          "word": "en",
+          "start": 34.54,
+          "end": 34.9
+        },
+        {
+          "word": "el",
+          "start": 34.9,
+          "end": 35.24
+        },
+        {
+          "word": "día",
+          "start": 35.24,
+          "end": 35.64
+        },
+        {
+          "word": "del",
+          "start": 35.64,
+          "end": 36.18
+        },
+        {
+          "word": "Señor,",
+          "start": 36.18,
+          "end": 36.8
+        }
+      ],
+      "start": 31.16,
+      "end": 37.18,
+      "confidence": 1.0,
+      "time": 31.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "su esplendor y eterna claridad veré;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "su",
+          "start": 37.18,
+          "end": 37.38
+        },
+        {
+          "word": "esplendor",
+          "start": 37.38,
+          "end": 38.18
+        },
+        {
+          "word": "y",
+          "start": 38.18,
+          "end": 38.5
+        },
+        {
+          "word": "eterna",
+          "start": 38.5,
+          "end": 39.04
+        },
+        {
+          "word": "claridad",
+          "start": 39.04,
+          "end": 40.16
+        },
+        {
+          "word": "veré.",
+          "start": 40.16,
+          "end": 42.04
+        }
+      ],
+      "start": 37.18,
+      "end": 42.04,
+      "confidence": 1.0,
+      "time": 37.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cuando lleguen los salvados ante el magno Redentor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 42.34,
+          "end": 43.0
+        },
+        {
+          "word": "lleguen",
+          "start": 43.0,
+          "end": 43.74
+        },
+        {
+          "word": "los",
+          "start": 43.74,
+          "end": 44.2
+        },
+        {
+          "word": "salvados",
+          "start": 44.2,
+          "end": 45.16
+        },
+        {
+          "word": "ante",
+          "start": 45.16,
+          "end": 45.58
+        },
+        {
+          "word": "el",
+          "start": 45.58,
+          "end": 45.94
+        },
+        {
+          "word": "reventón,",
+          "start": 46.36,
+          "end": 47.52
+        }
+      ],
+      "start": 42.34,
+      "end": 48.08,
+      "confidence": 0.856,
+      "time": 42.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y se pase lista, yo responderé.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 48.08,
+          "end": 48.18
+        },
+        {
+          "word": "se",
+          "start": 48.18,
+          "end": 48.48
+        },
+        {
+          "word": "pase",
+          "start": 48.48,
+          "end": 49.0
+        },
+        {
+          "word": "lista",
+          "start": 49.0,
+          "end": 49.56
+        },
+        {
+          "word": "yo",
+          "start": 49.56,
+          "end": 50.12
+        },
+        {
+          "word": "responderé.",
+          "start": 50.12,
+          "end": 52.48
+        }
+      ],
+      "start": 48.08,
+      "end": 52.48,
+      "confidence": 1.0,
+      "time": 48.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cuando allá se pase lista,",
+      "words": [
+        {
+          "word": "cuando",
+          "start": 58.56,
+          "end": 58.8
+        },
+        {
+          "word": "allá",
+          "start": 58.8,
+          "end": 60.72
+        },
+        {
+          "word": "se",
+          "start": 60.72,
+          "end": 61.0
+        },
+        {
+          "word": "pase",
+          "start": 61.0,
+          "end": 61.6
+        },
+        {
+          "word": "vista,",
+          "start": 61.6,
+          "end": 63.3
+        }
+      ],
+      "start": 58.56,
+      "end": 63.82,
+      "confidence": 0.976,
+      "time": 58.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "cuando allá se pase lista,",
+      "words": [
+        {
+          "word": "cuando",
+          "start": 63.82,
+          "end": 64.36
+        },
+        {
+          "word": "allá",
+          "start": 64.36,
+          "end": 66.04
+        },
+        {
+          "word": "se",
+          "start": 66.04,
+          "end": 66.44
+        },
+        {
+          "word": "pase",
+          "start": 66.44,
+          "end": 67.02
+        },
+        {
+          "word": "vista,",
+          "start": 67.02,
+          "end": 69.02
+        }
+      ],
+      "start": 63.82,
+      "end": 69.74,
+      "confidence": 0.976,
+      "time": 63.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "cuando allá se pase lista",
+      "words": [
+        {
+          "word": "cuando",
+          "start": 69.74,
+          "end": 69.74
+        },
+        {
+          "word": "allá",
+          "start": 69.74,
+          "end": 69.74
+        },
+        {
+          "word": "se",
+          "start": 69.74,
+          "end": 69.74
+        },
+        {
+          "word": "pase",
+          "start": 69.74,
+          "end": 69.74
+        },
+        {
+          "word": "vista,",
+          "start": 69.74,
+          "end": 69.74
+        }
+      ],
+      "start": 69.74,
+      "end": 70.68,
+      "confidence": 0.976,
+      "time": 69.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y mi nombre llamen, yo responderé.",
+      "words": [
+        {
+          "word": "y",
+          "start": 70.68,
+          "end": 70.7
+        },
+        {
+          "word": "mi",
+          "start": 70.7,
+          "end": 71.06
+        },
+        {
+          "word": "nombre",
+          "start": 71.06,
+          "end": 71.6
+        },
+        {
+          "word": "llame",
+          "start": 71.6,
+          "end": 72.28
+        },
+        {
+          "word": "yo",
+          "start": 72.46,
+          "end": 72.96
+        },
+        {
+          "word": "responderé.",
+          "start": 72.96,
+          "end": 75.96
+        }
+      ],
+      "start": 70.68,
+      "end": 75.96,
+      "confidence": 0.99,
+      "time": 70.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Resucitarán gloriosos los que duermen en Jesús,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Resucitarán",
+          "start": 79.3,
+          "end": 80.32
+        },
+        {
+          "word": "gloriosos",
+          "start": 80.32,
+          "end": 81.32
+        },
+        {
+          "word": "los",
+          "start": 81.32,
+          "end": 81.68
+        },
+        {
+          "word": "que",
+          "start": 81.68,
+          "end": 81.96
+        },
+        {
+          "word": "duermen",
+          "start": 81.96,
+          "end": 82.74
+        },
+        {
+          "word": "en",
+          "start": 82.74,
+          "end": 83.1
+        },
+        {
+          "word": "Jesús,",
+          "start": 83.1,
+          "end": 83.74
+        }
+      ],
+      "start": 79.3,
+      "end": 84.36,
+      "confidence": 1.0,
+      "time": 79.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "las delicias celestiales a gozar;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "las",
+          "start": 84.36,
+          "end": 84.62
+        },
+        {
+          "word": "delicias",
+          "start": 84.62,
+          "end": 85.62
+        },
+        {
+          "word": "celestiales",
+          "start": 85.62,
+          "end": 87.0
+        },
+        {
+          "word": "a",
+          "start": 87.0,
+          "end": 87.26
+        },
+        {
+          "word": "gozar,",
+          "start": 87.26,
+          "end": 89.06
+        }
+      ],
+      "start": 84.36,
+      "end": 89.52,
+      "confidence": 1.0,
+      "time": 84.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y triunfantes entrarán en las mansiones de la luz;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 89.52,
+          "end": 90.0
+        },
+        {
+          "word": "triunfantes",
+          "start": 90.0,
+          "end": 91.0
+        },
+        {
+          "word": "entrarán",
+          "start": 91.0,
+          "end": 92.12
+        },
+        {
+          "word": "en",
+          "start": 92.12,
+          "end": 92.44
+        },
+        {
+          "word": "las",
+          "start": 92.44,
+          "end": 92.78
+        },
+        {
+          "word": "mansiones",
+          "start": 92.78,
+          "end": 93.68
+        },
+        {
+          "word": "de",
+          "start": 93.68,
+          "end": 94.18
+        },
+        {
+          "word": "la",
+          "start": 94.18,
+          "end": 94.42
+        },
+        {
+          "word": "luz,",
+          "start": 94.42,
+          "end": 94.76
+        }
+      ],
+      "start": 89.52,
+      "end": 95.08,
+      "confidence": 1.0,
+      "time": 89.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "para mí también habrá un dulce hogar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "para",
+          "start": 95.08,
+          "end": 95.7
+        },
+        {
+          "word": "mí",
+          "start": 95.7,
+          "end": 96.16
+        },
+        {
+          "word": "también",
+          "start": 96.16,
+          "end": 96.94
+        },
+        {
+          "word": "habrá",
+          "start": 96.94,
+          "end": 97.66
+        },
+        {
+          "word": "un",
+          "start": 97.66,
+          "end": 97.94
+        },
+        {
+          "word": "dulce",
+          "start": 97.94,
+          "end": 98.46
+        },
+        {
+          "word": "hogar.",
+          "start": 98.46,
+          "end": 100.34
+        }
+      ],
+      "start": 95.08,
+      "end": 100.34,
+      "confidence": 1.0,
+      "time": 95.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cuando allá se pase lista,",
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 100.34,
+          "end": 101.2
+        },
+        {
+          "word": "allá",
+          "start": 101.2,
+          "end": 102.98
+        },
+        {
+          "word": "se",
+          "start": 102.98,
+          "end": 103.34
+        },
+        {
+          "word": "pase,",
+          "start": 103.34,
+          "end": 103.96
+        }
+      ],
+      "start": 100.34,
+      "end": 106.02,
+      "confidence": 0.8,
+      "time": 100.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "cuando allá se pase lista,",
+      "start": 106.02,
+      "end": 110.1,
+      "confidence": 0.0,
+      "time": 106.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "cuando allá se pase lista",
+      "start": 110.1,
+      "end": 114.18,
+      "confidence": 0.0,
+      "time": 110.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y mi nombre llamen, yo responderé.",
+      "words": [
+        {
+          "word": "Y",
+          "start": 118.26,
+          "end": 118.92
+        },
+        {
+          "word": "mi",
+          "start": 118.92,
+          "end": 119.3
+        },
+        {
+          "word": "nombre",
+          "start": 119.3,
+          "end": 119.78
+        },
+        {
+          "word": "respondere.",
+          "start": 120.98,
+          "end": 123.02
+        }
+      ],
+      "start": 114.18,
+      "end": 118.26,
+      "confidence": 0.667,
+      "time": 114.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Trabajemos, pues, por Cristo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Trabajemos",
+          "start": 132.16,
+          "end": 133.28
+        },
+        {
+          "word": "pues",
+          "start": 133.28,
+          "end": 133.66
+        },
+        {
+          "word": "por",
+          "start": 133.66,
+          "end": 133.94
+        },
+        {
+          "word": "Cristo",
+          "start": 133.94,
+          "end": 134.46
+        }
+      ],
+      "start": 132.16,
+      "end": 134.46,
+      "confidence": 1.0,
+      "time": 132.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pregonando su amor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "aprendonando",
+          "start": 134.46,
+          "end": 135.86
+        },
+        {
+          "word": "su",
+          "start": 135.86,
+          "end": 136.42
+        },
+        {
+          "word": "amor",
+          "start": 136.42,
+          "end": 137.18
+        }
+      ],
+      "start": 134.46,
+      "end": 137.18,
+      "confidence": 0.964,
+      "time": 134.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "mientras dure nuestra vida terrenal;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mientras",
+          "start": 137.18,
+          "end": 137.9
+        },
+        {
+          "word": "dure",
+          "start": 137.9,
+          "end": 138.52
+        },
+        {
+          "word": "nuestra",
+          "start": 138.52,
+          "end": 139.16
+        },
+        {
+          "word": "vida",
+          "start": 139.16,
+          "end": 139.84
+        },
+        {
+          "word": "terrenal.",
+          "start": 139.84,
+          "end": 142.04
+        }
+      ],
+      "start": 137.18,
+      "end": 142.04,
+      "confidence": 1.0,
+      "time": 137.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y al fin de la jornada, con los santos del Señor",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 142.88,
+          "end": 143.14
+        },
+        {
+          "word": "al",
+          "start": 143.14,
+          "end": 143.34
+        },
+        {
+          "word": "fin",
+          "start": 143.34,
+          "end": 143.66
+        },
+        {
+          "word": "de",
+          "start": 143.66,
+          "end": 144.1
+        },
+        {
+          "word": "la",
+          "start": 144.1,
+          "end": 144.46
+        },
+        {
+          "word": "jornada",
+          "start": 144.46,
+          "end": 145.18
+        },
+        {
+          "word": "con",
+          "start": 145.18,
+          "end": 145.72
+        },
+        {
+          "word": "los",
+          "start": 145.72,
+          "end": 146.1
+        },
+        {
+          "word": "santos",
+          "start": 146.1,
+          "end": 146.54
+        },
+        {
+          "word": "del",
+          "start": 146.54,
+          "end": 147.02
+        },
+        {
+          "word": "Señor",
+          "start": 147.02,
+          "end": 147.84
+        }
+      ],
+      "start": 142.88,
+      "end": 147.84,
+      "confidence": 1.0,
+      "time": 142.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "entraremos en la patria celestial.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "entraremos",
+          "start": 147.84,
+          "end": 149.24
+        },
+        {
+          "word": "en",
+          "start": 149.24,
+          "end": 149.8
+        },
+        {
+          "word": "la",
+          "start": 149.8,
+          "end": 150.2
+        },
+        {
+          "word": "patria",
+          "start": 150.2,
+          "end": 150.64
+        },
+        {
+          "word": "celestial.",
+          "start": 150.64,
+          "end": 152.82
+        }
+      ],
+      "start": 147.84,
+      "end": 152.82,
+      "confidence": 1.0,
+      "time": 147.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cuando allá se pase lista,",
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 152.82,
+          "end": 154.02
+        }
+      ],
+      "start": 152.82,
+      "end": 169.82,
+      "confidence": 0.2,
+      "time": 152.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "cuando allá se pase lista,",
+      "start": 169.82,
+      "end": 170.02,
+      "confidence": 0.0,
+      "time": 169.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "cuando allá se pase lista",
+      "words": [
+        {
+          "word": "se",
+          "start": 155.64,
+          "end": 155.98
+        },
+        {
+          "word": "pase,",
+          "start": 155.98,
+          "end": 156.6
+        }
+      ],
+      "start": 170.02,
+      "end": 170.22,
+      "confidence": 0.4,
+      "time": 170.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y mi nombre llamen, yo responderé.",
+      "words": [
+        {
+          "word": "yo",
+          "start": 157.04,
+          "end": 157.14
+        },
+        {
+          "word": "Mi",
+          "start": 170.4,
+          "end": 171.12
+        },
+        {
+          "word": "nombre",
+          "start": 171.12,
+          "end": 171.88
+        },
+        {
+          "word": "yo",
+          "start": 172.74,
+          "end": 173.3
+        },
+        {
+          "word": "responderé.",
+          "start": 173.3,
+          "end": 175.48
+        }
+      ],
+      "start": 170.22,
+      "end": 175.48,
+      "confidence": 0.8,
+      "time": 170.22
+    }
+  ]
+}

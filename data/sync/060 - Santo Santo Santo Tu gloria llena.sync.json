@@ -1,0 +1,669 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.78,
+  "language": "es",
+  "model": "medium",
+  "hymn": 60,
+  "source": "060 - Santo Santo Santo Tu gloria llena.mp3",
+  "duration": 201.51,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Te bendecimos, te adoramos,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Te",
+          "start": 54.46,
+          "end": 55.88
+        },
+        {
+          "word": "bendecimos,",
+          "start": 55.88,
+          "end": 57.9
+        },
+        {
+          "word": "te",
+          "start": 58.42,
+          "end": 59.24
+        },
+        {
+          "word": "acudamos,",
+          "start": 59.24,
+          "end": 60.4
+        }
+      ],
+      "start": 54.46,
+      "end": 61.28,
+      "confidence": 0.963,
+      "time": 54.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "glorificamos tu nombre, oh Dios.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "glorificamos",
+          "start": 61.28,
+          "end": 63.32
+        },
+        {
+          "word": "nombre",
+          "start": 64.16,
+          "end": 64.66
+        },
+        {
+          "word": "Dios,",
+          "start": 64.84,
+          "end": 65.8
+        }
+      ],
+      "start": 61.28,
+      "end": 65.8,
+      "confidence": 0.6,
+      "time": 61.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh, Rey del cielo, oye clemente",
+      "verse": 1,
+      "words": [
+        {
+          "word": "oh",
+          "start": 66.4,
+          "end": 66.92
+        },
+        {
+          "word": "Rey",
+          "start": 66.92,
+          "end": 67.2
+        },
+        {
+          "word": "del",
+          "start": 67.2,
+          "end": 67.56
+        },
+        {
+          "word": "cielo,",
+          "start": 67.56,
+          "end": 68.66
+        },
+        {
+          "word": "seclemente,",
+          "start": 69.68,
+          "end": 71.1
+        }
+      ],
+      "start": 66.4,
+      "end": 71.6,
+      "confidence": 0.822,
+      "time": 66.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nuestra ferviente y humilde voz!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "nuestra",
+          "start": 71.6,
+          "end": 72.52
+        },
+        {
+          "word": "ferviente",
+          "start": 72.52,
+          "end": 74.1
+        },
+        {
+          "word": "y",
+          "start": 74.1,
+          "end": 74.94
+        },
+        {
+          "word": "humilde",
+          "start": 74.94,
+          "end": 75.72
+        },
+        {
+          "word": "voz.",
+          "start": 75.72,
+          "end": 78.14
+        }
+      ],
+      "start": 71.6,
+      "end": 78.14,
+      "confidence": 1.0,
+      "time": 71.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Santo! ¡Santo! ¡Santo!",
+      "words": [
+        {
+          "word": "Santo,",
+          "start": 78.14,
+          "end": 80.74
+        },
+        {
+          "word": "Santo,",
+          "start": 82.08,
+          "end": 84.8
+        },
+        {
+          "word": "Santo",
+          "start": 85.48,
+          "end": 91.0
+        }
+      ],
+      "start": 78.14,
+      "end": 91.0,
+      "confidence": 1.0,
+      "time": 78.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Tu gloria llena cielo y tierra.",
+      "words": [
+        {
+          "word": "Tu",
+          "start": 91.0,
+          "end": 92.94
+        },
+        {
+          "word": "gloria",
+          "start": 92.94,
+          "end": 94.3
+        },
+        {
+          "word": "Cielo",
+          "start": 98.56,
+          "end": 99.96
+        },
+        {
+          "word": "y",
+          "start": 99.96,
+          "end": 100.04
+        },
+        {
+          "word": "tierra",
+          "start": 100.04,
+          "end": 102.64
+        }
+      ],
+      "start": 91.0,
+      "end": 102.64,
+      "confidence": 0.833,
+      "time": 91.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Hosanna, hosanna, gloria a Dios!",
+      "words": [
+        {
+          "word": "Osana,",
+          "start": 105.9,
+          "end": 107.3
+        },
+        {
+          "word": "Osana,",
+          "start": 107.3,
+          "end": 108.7
+        },
+        {
+          "word": "gloria",
+          "start": 109.4,
+          "end": 111.06
+        },
+        {
+          "word": "a",
+          "start": 111.06,
+          "end": 111.9
+        },
+        {
+          "word": "Dios.",
+          "start": 111.9,
+          "end": 114.5
+        }
+      ],
+      "start": 105.9,
+      "end": 114.5,
+      "confidence": 0.96,
+      "time": 105.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Perdona al hombre la falta impía;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Perdone",
+          "start": 115.16,
+          "end": 116.42
+        },
+        {
+          "word": "al",
+          "start": 116.42,
+          "end": 116.86
+        },
+        {
+          "word": "hombre",
+          "start": 116.86,
+          "end": 117.74
+        },
+        {
+          "word": "la",
+          "start": 117.74,
+          "end": 118.66
+        }
+      ],
+      "start": 115.16,
+      "end": 120.7,
+      "confidence": 0.652,
+      "time": 115.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mira a tu Hijo, mi Redentor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mira",
+          "start": 120.7,
+          "end": 121.52
+        },
+        {
+          "word": "a",
+          "start": 121.52,
+          "end": 121.86
+        },
+        {
+          "word": "tu",
+          "start": 121.86,
+          "end": 122.2
+        },
+        {
+          "word": "hijo",
+          "start": 122.2,
+          "end": 123.2
+        },
+        {
+          "word": "mi",
+          "start": 123.2,
+          "end": 124.04
+        },
+        {
+          "word": "Redentor,",
+          "start": 124.04,
+          "end": 125.86
+        }
+      ],
+      "start": 120.7,
+      "end": 125.86,
+      "confidence": 1.0,
+      "time": 120.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Ferviente entonces el alma mía",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Teniente",
+          "start": 125.86,
+          "end": 127.36
+        },
+        {
+          "word": "entonces",
+          "start": 127.36,
+          "end": 128.74
+        },
+        {
+          "word": "el",
+          "start": 128.74,
+          "end": 129.74
+        },
+        {
+          "word": "alma",
+          "start": 129.74,
+          "end": 130.24
+        },
+        {
+          "word": "mía,",
+          "start": 130.24,
+          "end": 131.3
+        }
+      ],
+      "start": 125.86,
+      "end": 131.54,
+      "confidence": 0.965,
+      "time": 125.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pueda alabarte con todo amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pueda",
+          "start": 131.54,
+          "end": 132.68
+        },
+        {
+          "word": "amarte",
+          "start": 132.68,
+          "end": 134.14
+        },
+        {
+          "word": "con",
+          "start": 134.14,
+          "end": 135.24
+        },
+        {
+          "word": "todo",
+          "start": 135.24,
+          "end": 135.72
+        },
+        {
+          "word": "amor.",
+          "start": 135.72,
+          "end": 138.44
+        }
+      ],
+      "start": 131.54,
+      "end": 138.44,
+      "confidence": 0.966,
+      "time": 131.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Santo! ¡Santo! ¡Santo!",
+      "words": [
+        {
+          "word": "Santo,",
+          "start": 139.24,
+          "end": 140.64
+        },
+        {
+          "word": "santo,",
+          "start": 142.04,
+          "end": 144.92
+        },
+        {
+          "word": "santo,",
+          "start": 145.64,
+          "end": 150.9
+        }
+      ],
+      "start": 139.24,
+      "end": 150.9,
+      "confidence": 1.0,
+      "time": 139.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Tu gloria llena cielo y tierra.",
+      "words": [
+        {
+          "word": "Tu",
+          "start": 150.9,
+          "end": 152.7
+        },
+        {
+          "word": "gloria",
+          "start": 152.7,
+          "end": 154.28
+        },
+        {
+          "word": "llena,",
+          "start": 154.28,
+          "end": 157.06
+        },
+        {
+          "word": "cielo",
+          "start": 157.14,
+          "end": 159.02
+        },
+        {
+          "word": "y",
+          "start": 159.02,
+          "end": 160.28
+        },
+        {
+          "word": "tierra,",
+          "start": 160.28,
+          "end": 162.62
+        }
+      ],
+      "start": 150.9,
+      "end": 162.62,
+      "confidence": 1.0,
+      "time": 150.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Hosanna, hosanna, gloria a Dios!",
+      "words": [
+        {
+          "word": "Osana,",
+          "start": 165.8,
+          "end": 167.2
+        },
+        {
+          "word": "Osana,",
+          "start": 167.2,
+          "end": 168.6
+        },
+        {
+          "word": "gloria",
+          "start": 169.38,
+          "end": 171.16
+        },
+        {
+          "word": "a",
+          "start": 171.16,
+          "end": 171.96
+        },
+        {
+          "word": "Dios.",
+          "start": 171.96,
+          "end": 174.44
+        }
+      ],
+      "start": 165.8,
+      "end": 174.44,
+      "confidence": 0.96,
+      "time": 165.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Dignos seamos de bendecirte,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Digo,",
+          "start": 174.44,
+          "end": 176.26
+        },
+        {
+          "word": "seamos",
+          "start": 176.54,
+          "end": 177.8
+        },
+        {
+          "word": "de",
+          "start": 177.8,
+          "end": 178.66
+        },
+        {
+          "word": "bendecirte,",
+          "start": 178.66,
+          "end": 180.52
+        }
+      ],
+      "start": 174.44,
+      "end": 180.52,
+      "confidence": 0.97,
+      "time": 174.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "limpias las almas de todo mal.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "limpias",
+          "start": 180.86,
+          "end": 181.66
+        },
+        {
+          "word": "las",
+          "start": 181.66,
+          "end": 182.38
+        },
+        {
+          "word": "almas",
+          "start": 182.38,
+          "end": 183.22
+        },
+        {
+          "word": "de",
+          "start": 183.22,
+          "end": 184.1
+        },
+        {
+          "word": "todo",
+          "start": 184.1,
+          "end": 184.68
+        },
+        {
+          "word": "mal.",
+          "start": 184.68,
+          "end": 185.76
+        }
+      ],
+      "start": 180.86,
+      "end": 185.76,
+      "confidence": 1.0,
+      "time": 180.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cielos y tierra cantan tu nombre,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cielos",
+          "start": 186.14,
+          "end": 187.28
+        },
+        {
+          "word": "y",
+          "start": 187.28,
+          "end": 187.52
+        },
+        {
+          "word": "tierra",
+          "start": 187.52,
+          "end": 188.44
+        },
+        {
+          "word": "canta",
+          "start": 188.44,
+          "end": 189.7
+        },
+        {
+          "word": "tu",
+          "start": 189.7,
+          "end": 190.16
+        },
+        {
+          "word": "nombre,",
+          "start": 190.16,
+          "end": 191.18
+        }
+      ],
+      "start": 186.14,
+      "end": 191.18,
+      "confidence": 0.99,
+      "time": 186.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡oh Dios, oh Padre, Rey celestial!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "odioso",
+          "start": 192.08,
+          "end": 192.88
+        },
+        {
+          "word": "Padre,",
+          "start": 192.88,
+          "end": 194.54
+        },
+        {
+          "word": "Rey",
+          "start": 194.68,
+          "end": 195.26
+        },
+        {
+          "word": "celestial.",
+          "start": 195.26,
+          "end": 196.68
+        }
+      ],
+      "start": 192.08,
+      "end": 196.68,
+      "confidence": 0.647,
+      "time": 192.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Santo! ¡Santo! ¡Santo!",
+      "start": 196.68,
+      "end": 201.51,
+      "confidence": 0.0,
+      "time": 196.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Tu gloria llena cielo y tierra.",
+      "start": 201.51,
+      "end": 201.51,
+      "confidence": 0.0,
+      "time": 201.51
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Hosanna, hosanna, gloria a Dios!",
+      "start": 201.51,
+      "end": 201.51,
+      "confidence": 0.0,
+      "time": 201.51
+    }
+  ]
+}

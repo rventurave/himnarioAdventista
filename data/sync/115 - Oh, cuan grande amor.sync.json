@@ -1,0 +1,317 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.974,
+  "language": "es",
+  "model": "medium",
+  "hymn": 115,
+  "source": "115 - Oh, cuan grande amor.mp3",
+  "duration": 57.57,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh, cuán grande amor!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 9.1,
+          "end": 10.5
+        },
+        {
+          "word": "cuán",
+          "start": 11.22,
+          "end": 11.54
+        },
+        {
+          "word": "grande",
+          "start": 11.54,
+          "end": 12.12
+        },
+        {
+          "word": "amor,",
+          "start": 12.12,
+          "end": 14.58
+        }
+      ],
+      "start": 9.1,
+      "end": 15.16,
+      "confidence": 1.0,
+      "time": 9.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh, cuán grande amor!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "oh,",
+          "start": 15.16,
+          "end": 16.3
+        },
+        {
+          "word": "cuán",
+          "start": 16.3,
+          "end": 16.98
+        },
+        {
+          "word": "grande",
+          "start": 16.98,
+          "end": 17.58
+        },
+        {
+          "word": "amor,",
+          "start": 17.58,
+          "end": 19.64
+        }
+      ],
+      "start": 15.16,
+      "end": 20.0,
+      "confidence": 1.0,
+      "time": 15.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh, qué maravilla!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "oh,",
+          "start": 20.0,
+          "end": 20.58
+        },
+        {
+          "word": "qué",
+          "start": 20.58,
+          "end": 21.28
+        },
+        {
+          "word": "maravilla",
+          "start": 21.28,
+          "end": 22.8
+        }
+      ],
+      "start": 20.0,
+      "end": 22.8,
+      "confidence": 1.0,
+      "time": 20.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Es mío, Señor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 22.8,
+          "end": 23.54
+        },
+        {
+          "word": "mío",
+          "start": 23.54,
+          "end": 24.28
+        },
+        {
+          "word": "Señor,",
+          "start": 24.28,
+          "end": 25.86
+        }
+      ],
+      "start": 22.8,
+      "end": 25.86,
+      "confidence": 1.0,
+      "time": 22.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡qué maravilla de amor!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¡Qué",
+          "start": 25.86,
+          "end": 26.84
+        },
+        {
+          "word": "maravilla",
+          "start": 26.84,
+          "end": 28.38
+        },
+        {
+          "word": "de",
+          "start": 28.38,
+          "end": 29.08
+        },
+        {
+          "word": "amor!",
+          "start": 29.08,
+          "end": 30.8
+        }
+      ],
+      "start": 25.86,
+      "end": 30.8,
+      "confidence": 1.0,
+      "time": 25.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Oh, cuán grande amor!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 31.98,
+          "end": 33.24
+        },
+        {
+          "word": "¡cuán",
+          "start": 33.48,
+          "end": 33.86
+        },
+        {
+          "word": "grande",
+          "start": 33.86,
+          "end": 34.38
+        },
+        {
+          "word": "amor!",
+          "start": 34.38,
+          "end": 36.7
+        }
+      ],
+      "start": 31.98,
+      "end": 36.7,
+      "confidence": 1.0,
+      "time": 31.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Tan grande es, Señor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tan",
+          "start": 37.36,
+          "end": 38.6
+        },
+        {
+          "word": "grande",
+          "start": 38.6,
+          "end": 39.46
+        },
+        {
+          "word": "Señor",
+          "start": 39.92,
+          "end": 41.78
+        }
+      ],
+      "start": 37.36,
+      "end": 41.78,
+      "confidence": 0.75,
+      "time": 37.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "que a mi alma cautiva",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 41.78,
+          "end": 42.5
+        },
+        {
+          "word": "a",
+          "start": 42.5,
+          "end": 42.84
+        },
+        {
+          "word": "mi",
+          "start": 42.84,
+          "end": 43.0
+        },
+        {
+          "word": "alma",
+          "start": 43.0,
+          "end": 43.62
+        },
+        {
+          "word": "cautiva",
+          "start": 43.62,
+          "end": 44.92
+        }
+      ],
+      "start": 41.78,
+      "end": 44.92,
+      "confidence": 1.0,
+      "time": 41.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "para el Salvador!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "para",
+          "start": 44.92,
+          "end": 45.78
+        },
+        {
+          "word": "el",
+          "start": 45.78,
+          "end": 46.18
+        },
+        {
+          "word": "salvador",
+          "start": 46.18,
+          "end": 48.06
+        }
+      ],
+      "start": 44.92,
+      "end": 48.06,
+      "confidence": 1.0,
+      "time": 44.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Qué maravilla de amor!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¡Qué",
+          "start": 48.06,
+          "end": 49.26
+        },
+        {
+          "word": "maravilla",
+          "start": 49.26,
+          "end": 51.1
+        },
+        {
+          "word": "de",
+          "start": 51.1,
+          "end": 51.86
+        },
+        {
+          "word": "amor!",
+          "start": 51.86,
+          "end": 53.52
+        }
+      ],
+      "start": 48.06,
+      "end": 53.52,
+      "confidence": 1.0,
+      "time": 48.06
+    }
+  ]
+}

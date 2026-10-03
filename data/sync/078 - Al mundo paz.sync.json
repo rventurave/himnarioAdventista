@@ -1,0 +1,528 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.675,
+  "language": "es",
+  "model": "medium",
+  "hymn": 78,
+  "source": "078 - Al mundo paz.mp3",
+  "duration": 99.47,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Al mundo paz, nació Jesús,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Al",
+          "start": 11.74,
+          "end": 13.14
+        },
+        {
+          "word": "mundo",
+          "start": 13.14,
+          "end": 13.8
+        },
+        {
+          "word": "nació",
+          "start": 14.82,
+          "end": 15.68
+        },
+        {
+          "word": "Jesús,",
+          "start": 15.68,
+          "end": 17.2
+        }
+      ],
+      "start": 11.74,
+      "end": 17.5,
+      "confidence": 0.8,
+      "time": 11.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nació ya nuestro Rey!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "nació",
+          "start": 17.5,
+          "end": 18.76
+        },
+        {
+          "word": "ya",
+          "start": 18.76,
+          "end": 19.24
+        },
+        {
+          "word": "nuestro",
+          "start": 19.24,
+          "end": 20.38
+        },
+        {
+          "word": "rey.",
+          "start": 20.38,
+          "end": 22.56
+        }
+      ],
+      "start": 17.5,
+      "end": 22.56,
+      "confidence": 1.0,
+      "time": 17.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "El corazón ya tiene luz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "El",
+          "start": 22.56,
+          "end": 23.08
+        },
+        {
+          "word": "corazón",
+          "start": 23.08,
+          "end": 25.38
+        },
+        {
+          "word": "ya",
+          "start": 25.38,
+          "end": 25.88
+        },
+        {
+          "word": "tiene",
+          "start": 25.88,
+          "end": 26.94
+        },
+        {
+          "word": "luz",
+          "start": 26.94,
+          "end": 28.2
+        }
+      ],
+      "start": 22.56,
+      "end": 28.2,
+      "confidence": 1.0,
+      "time": 22.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y paz su santa grey,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Y",
+          "start": 28.2,
+          "end": 28.62
+        },
+        {
+          "word": "santerén,",
+          "start": 29.28,
+          "end": 30.74
+        }
+      ],
+      "start": 28.2,
+      "end": 30.84,
+      "confidence": 0.354,
+      "time": 28.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y paz su santa grey,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 30.84,
+          "end": 31.26
+        },
+        {
+          "word": "santerén",
+          "start": 31.92,
+          "end": 33.36
+        }
+      ],
+      "start": 30.84,
+      "end": 33.36,
+      "confidence": 0.354,
+      "time": 30.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y paz, y paz, su santa grey.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Y",
+          "start": 33.36,
+          "end": 34.04
+        },
+        {
+          "word": "y",
+          "start": 35.12,
+          "end": 35.58
+        },
+        {
+          "word": "santerén",
+          "start": 36.76,
+          "end": 40.22
+        }
+      ],
+      "start": 33.36,
+      "end": 40.22,
+      "confidence": 0.396,
+      "time": 33.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Al mundo paz; el Salvador,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Al",
+          "start": 40.22,
+          "end": 41.3
+        },
+        {
+          "word": "mundo",
+          "start": 41.3,
+          "end": 41.8
+        },
+        {
+          "word": "el",
+          "start": 42.9,
+          "end": 43.3
+        },
+        {
+          "word": "salvador",
+          "start": 43.3,
+          "end": 45.3
+        }
+      ],
+      "start": 40.22,
+      "end": 45.3,
+      "confidence": 0.8,
+      "time": 40.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "supremo reinará!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "rinarón",
+          "start": 47.16,
+          "end": 50.32
+        }
+      ],
+      "start": 47.16,
+      "end": 50.32,
+      "confidence": 0.414,
+      "time": 47.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Ya es feliz el pecador:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Ya",
+          "start": 50.32,
+          "end": 51.28
+        },
+        {
+          "word": "es",
+          "start": 51.28,
+          "end": 52.18
+        },
+        {
+          "word": "feliz",
+          "start": 52.18,
+          "end": 53.48
+        },
+        {
+          "word": "el",
+          "start": 53.48,
+          "end": 54.06
+        },
+        {
+          "word": "pecado,",
+          "start": 54.06,
+          "end": 55.98
+        }
+      ],
+      "start": 50.32,
+      "end": 56.42,
+      "confidence": 0.988,
+      "time": 50.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Jesús perdón le da,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 56.42,
+          "end": 56.78
+        },
+        {
+          "word": "perdónle",
+          "start": 56.78,
+          "end": 57.94
+        },
+        {
+          "word": "da,",
+          "start": 57.94,
+          "end": 58.5
+        }
+      ],
+      "start": 56.42,
+      "end": 58.94,
+      "confidence": 0.735,
+      "time": 56.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Jesús perdón le da,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 58.94,
+          "end": 59.42
+        },
+        {
+          "word": "perdónle",
+          "start": 59.42,
+          "end": 60.64
+        },
+        {
+          "word": "da,",
+          "start": 60.64,
+          "end": 61.26
+        }
+      ],
+      "start": 58.94,
+      "end": 61.74,
+      "confidence": 0.735,
+      "time": 58.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Jesús, Jesús perdón le da.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 61.74,
+          "end": 62.38
+        },
+        {
+          "word": "Jesús",
+          "start": 63.0,
+          "end": 64.1
+        },
+        {
+          "word": "perdónle",
+          "start": 64.1,
+          "end": 65.94
+        },
+        {
+          "word": "da.",
+          "start": 65.94,
+          "end": 67.02
+        }
+      ],
+      "start": 61.74,
+      "end": 67.02,
+      "confidence": 0.788,
+      "time": 61.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Al mundo él gobernará",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Al",
+          "start": 67.02,
+          "end": 69.28
+        },
+        {
+          "word": "mundo",
+          "start": 69.28,
+          "end": 69.88
+        },
+        {
+          "word": "él",
+          "start": 69.88,
+          "end": 71.0
+        },
+        {
+          "word": "moderará,",
+          "start": 71.0,
+          "end": 73.24
+        }
+      ],
+      "start": 67.02,
+      "end": 73.74,
+      "confidence": 0.956,
+      "time": 67.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con gracia y con poder;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 73.74,
+          "end": 74.1
+        },
+        {
+          "word": "gracia",
+          "start": 74.1,
+          "end": 75.1
+        },
+        {
+          "word": "y",
+          "start": 75.1,
+          "end": 75.8
+        },
+        {
+          "word": "con",
+          "start": 75.8,
+          "end": 76.3
+        },
+        {
+          "word": "poder,",
+          "start": 76.3,
+          "end": 77.8
+        }
+      ],
+      "start": 73.74,
+      "end": 78.9,
+      "confidence": 1.0,
+      "time": 73.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y a toda nación demostrará",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 78.9,
+          "end": 79.12
+        },
+        {
+          "word": "a",
+          "start": 79.12,
+          "end": 79.68
+        },
+        {
+          "word": "toda",
+          "start": 79.68,
+          "end": 80.1
+        },
+        {
+          "word": "nación",
+          "start": 80.1,
+          "end": 81.44
+        },
+        {
+          "word": "demostrará.",
+          "start": 81.44,
+          "end": 83.02
+        }
+      ],
+      "start": 78.9,
+      "end": 83.02,
+      "confidence": 1.0,
+      "time": 78.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "su amor y su poder,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "su",
+          "start": 85.14,
+          "end": 86.8
+        },
+        {
+          "word": "poder,",
+          "start": 86.8,
+          "end": 86.94
+        }
+      ],
+      "start": 85.14,
+      "end": 87.7,
+      "confidence": 0.4,
+      "time": 85.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "su amor y su poder,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "su",
+          "start": 87.7,
+          "end": 88.12
+        },
+        {
+          "word": "poder,",
+          "start": 88.12,
+          "end": 88.8
+        }
+      ],
+      "start": 87.7,
+      "end": 91.22,
+      "confidence": 0.4,
+      "time": 87.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "su amor, su amor y su poder.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "su",
+          "start": 91.22,
+          "end": 93.12
+        },
+        {
+          "word": "poder.",
+          "start": 93.12,
+          "end": 94.48
+        }
+      ],
+      "start": 91.22,
+      "end": 94.48,
+      "confidence": 0.286,
+      "time": 91.22
+    }
+  ]
+}

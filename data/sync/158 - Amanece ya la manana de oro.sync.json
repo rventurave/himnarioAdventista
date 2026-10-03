@@ -1,0 +1,1065 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.95,
+  "language": "es",
+  "model": "medium",
+  "hymn": 158,
+  "source": "158 - Amanece ya la manana de oro.mp3",
+  "duration": 191.4,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Amanece ya la mañana de oro,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Amarece",
+          "start": 12.24,
+          "end": 13.6
+        },
+        {
+          "word": "ya",
+          "start": 13.6,
+          "end": 14.28
+        },
+        {
+          "word": "la",
+          "start": 14.28,
+          "end": 14.72
+        },
+        {
+          "word": "mañana",
+          "start": 14.72,
+          "end": 15.92
+        },
+        {
+          "word": "de",
+          "start": 15.92,
+          "end": 16.68
+        },
+        {
+          "word": "oro,",
+          "start": 16.68,
+          "end": 17.34
+        }
+      ],
+      "start": 12.24,
+      "end": 17.9,
+      "confidence": 0.986,
+      "time": 12.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pronto el Rey vendrá;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "pronto",
+          "start": 17.9,
+          "end": 18.4
+        },
+        {
+          "word": "el",
+          "start": 18.4,
+          "end": 19.08
+        },
+        {
+          "word": "Rey",
+          "start": 19.08,
+          "end": 19.52
+        },
+        {
+          "word": "vendrá,",
+          "start": 19.52,
+          "end": 21.74
+        }
+      ],
+      "start": 17.9,
+      "end": 21.74,
+      "confidence": 1.0,
+      "time": 17.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y su pueblo a la mansión del cielo",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 21.74,
+          "end": 22.42
+        },
+        {
+          "word": "su",
+          "start": 22.42,
+          "end": 22.9
+        },
+        {
+          "word": "cuebla,",
+          "start": 22.9,
+          "end": 24.04
+        },
+        {
+          "word": "la",
+          "start": 24.8,
+          "end": 25.0
+        },
+        {
+          "word": "mansión",
+          "start": 25.0,
+          "end": 26.14
+        },
+        {
+          "word": "del",
+          "start": 26.14,
+          "end": 26.84
+        },
+        {
+          "word": "cielo,",
+          "start": 26.84,
+          "end": 27.84
+        }
+      ],
+      "start": 21.74,
+      "end": 28.18,
+      "confidence": 0.85,
+      "time": 21.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo llevará.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 28.18,
+          "end": 29.34
+        },
+        {
+          "word": "llevará.",
+          "start": 29.34,
+          "end": 32.26
+        }
+      ],
+      "start": 28.18,
+      "end": 32.26,
+      "confidence": 1.0,
+      "time": 28.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Amanece ya la mañana de oro",
+      "words": [
+        {
+          "word": "Amanece",
+          "start": 33.3,
+          "end": 34.7
+        },
+        {
+          "word": "ya",
+          "start": 34.7,
+          "end": 35.4
+        },
+        {
+          "word": "la",
+          "start": 35.4,
+          "end": 35.84
+        },
+        {
+          "word": "mañana",
+          "start": 35.84,
+          "end": 36.96
+        },
+        {
+          "word": "de",
+          "start": 36.96,
+          "end": 37.98
+        },
+        {
+          "word": "oro,",
+          "start": 37.98,
+          "end": 38.52
+        }
+      ],
+      "start": 33.3,
+      "end": 39.04,
+      "confidence": 1.0,
+      "time": 33.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "tras la noche terrenal,",
+      "words": [
+        {
+          "word": "tras",
+          "start": 39.04,
+          "end": 39.4
+        },
+        {
+          "word": "la",
+          "start": 39.4,
+          "end": 40.22
+        },
+        {
+          "word": "noche",
+          "start": 40.22,
+          "end": 41.22
+        },
+        {
+          "word": "terrenal.",
+          "start": 41.22,
+          "end": 43.96
+        }
+      ],
+      "start": 39.04,
+      "end": 43.96,
+      "confidence": 1.0,
+      "time": 39.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "cuando surgirá del sepulcro abierto",
+      "words": [
+        {
+          "word": "cuando",
+          "start": 43.96,
+          "end": 45.14
+        },
+        {
+          "word": "surgirá",
+          "start": 45.14,
+          "end": 47.34
+        },
+        {
+          "word": "el",
+          "start": 47.34,
+          "end": 47.62
+        },
+        {
+          "word": "sepulto",
+          "start": 47.62,
+          "end": 49.38
+        },
+        {
+          "word": "abierto,",
+          "start": 49.38,
+          "end": 50.32
+        }
+      ],
+      "start": 43.96,
+      "end": 50.5,
+      "confidence": 0.952,
+      "time": 43.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "vida inmortal.",
+      "words": [
+        {
+          "word": "vida",
+          "start": 50.5,
+          "end": 51.9
+        },
+        {
+          "word": "inmortal.",
+          "start": 51.9,
+          "end": 55.08
+        }
+      ],
+      "start": 50.5,
+      "end": 55.08,
+      "confidence": 1.0,
+      "time": 50.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En aquel gran día los separados",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 57.46,
+          "end": 57.8
+        },
+        {
+          "word": "gran",
+          "start": 57.8,
+          "end": 58.08
+        },
+        {
+          "word": "día",
+          "start": 58.08,
+          "end": 59.0
+        },
+        {
+          "word": "los",
+          "start": 59.0,
+          "end": 59.48
+        },
+        {
+          "word": "separados",
+          "start": 59.48,
+          "end": 61.84
+        }
+      ],
+      "start": 57.46,
+      "end": 61.84,
+      "confidence": 0.833,
+      "time": 57.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "se encontrarán,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "se",
+          "start": 61.84,
+          "end": 63.36
+        },
+        {
+          "word": "encontrarán,",
+          "start": 63.36,
+          "end": 66.3
+        }
+      ],
+      "start": 61.84,
+      "end": 66.3,
+      "confidence": 1.0,
+      "time": 61.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y las lágrimas de los afligidos",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 66.3,
+          "end": 66.94
+        },
+        {
+          "word": "las",
+          "start": 66.94,
+          "end": 67.36
+        },
+        {
+          "word": "lágrimas",
+          "start": 67.36,
+          "end": 69.26
+        },
+        {
+          "word": "de",
+          "start": 69.26,
+          "end": 69.7
+        },
+        {
+          "word": "los",
+          "start": 69.7,
+          "end": 70.56
+        },
+        {
+          "word": "aflítidos",
+          "start": 70.56,
+          "end": 72.46
+        }
+      ],
+      "start": 66.3,
+      "end": 72.46,
+      "confidence": 0.989,
+      "time": 66.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "se enjugarán.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "se",
+          "start": 72.46,
+          "end": 73.88
+        },
+        {
+          "word": "encularán.",
+          "start": 73.88,
+          "end": 77.04
+        }
+      ],
+      "start": 72.46,
+      "end": 77.04,
+      "confidence": 0.933,
+      "time": 72.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Amanece ya la mañana de oro",
+      "words": [
+        {
+          "word": "Amarecía",
+          "start": 78.12,
+          "end": 79.52
+        },
+        {
+          "word": "la",
+          "start": 79.52,
+          "end": 80.24
+        },
+        {
+          "word": "mañana",
+          "start": 80.24,
+          "end": 81.48
+        },
+        {
+          "word": "de",
+          "start": 81.48,
+          "end": 82.48
+        },
+        {
+          "word": "oro,",
+          "start": 82.48,
+          "end": 82.96
+        }
+      ],
+      "start": 78.12,
+      "end": 83.54,
+      "confidence": 0.8,
+      "time": 78.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "tras la noche terrenal,",
+      "words": [
+        {
+          "word": "tras",
+          "start": 83.54,
+          "end": 83.92
+        },
+        {
+          "word": "la",
+          "start": 83.92,
+          "end": 84.74
+        },
+        {
+          "word": "noche",
+          "start": 84.74,
+          "end": 85.7
+        },
+        {
+          "word": "terrenal,",
+          "start": 85.7,
+          "end": 88.5
+        }
+      ],
+      "start": 83.54,
+      "end": 88.5,
+      "confidence": 1.0,
+      "time": 83.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "cuando surgirá del sepulcro abierto",
+      "words": [
+        {
+          "word": "cuando",
+          "start": 88.5,
+          "end": 89.64
+        },
+        {
+          "word": "surgirá",
+          "start": 89.64,
+          "end": 91.78
+        },
+        {
+          "word": "del",
+          "start": 91.78,
+          "end": 92.14
+        },
+        {
+          "word": "sepulto",
+          "start": 92.14,
+          "end": 93.7
+        },
+        {
+          "word": "aliento,",
+          "start": 93.7,
+          "end": 94.88
+        }
+      ],
+      "start": 88.5,
+      "end": 95.06,
+      "confidence": 0.942,
+      "time": 88.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "vida inmortal.",
+      "words": [
+        {
+          "word": "vida",
+          "start": 95.06,
+          "end": 96.42
+        }
+      ],
+      "start": 95.06,
+      "end": 99.5,
+      "confidence": 0.5,
+      "time": 95.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Con sus ángeles de esplendente aspecto",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Con",
+          "start": 100.58,
+          "end": 101.02
+        },
+        {
+          "word": "sus",
+          "start": 101.02,
+          "end": 101.42
+        },
+        {
+          "word": "ángeles",
+          "start": 101.42,
+          "end": 103.22
+        },
+        {
+          "word": "de",
+          "start": 103.22,
+          "end": 103.62
+        },
+        {
+          "word": "esplendente",
+          "start": 103.62,
+          "end": 104.8
+        },
+        {
+          "word": "aspecto,",
+          "start": 104.8,
+          "end": 106.46
+        }
+      ],
+      "start": 100.58,
+      "end": 106.9,
+      "confidence": 1.0,
+      "time": 100.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cristo, el Juez, vendrá,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 106.9,
+          "end": 107.44
+        },
+        {
+          "word": "el",
+          "start": 107.44,
+          "end": 107.92
+        },
+        {
+          "word": "juez",
+          "start": 107.92,
+          "end": 108.52
+        },
+        {
+          "word": "vendrá",
+          "start": 108.52,
+          "end": 110.78
+        }
+      ],
+      "start": 106.9,
+      "end": 110.78,
+      "confidence": 1.0,
+      "time": 106.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "a llevar su iglesia a donde en gloria",
+      "verse": 3,
+      "words": [
+        {
+          "word": "A",
+          "start": 110.78,
+          "end": 111.48
+        },
+        {
+          "word": "llevar",
+          "start": 111.48,
+          "end": 112.38
+        },
+        {
+          "word": "su",
+          "start": 112.38,
+          "end": 113.14
+        },
+        {
+          "word": "iglesia",
+          "start": 113.14,
+          "end": 114.42
+        },
+        {
+          "word": "a",
+          "start": 114.42,
+          "end": 114.48
+        },
+        {
+          "word": "donde",
+          "start": 114.48,
+          "end": 115.38
+        },
+        {
+          "word": "en",
+          "start": 115.38,
+          "end": 115.98
+        },
+        {
+          "word": "gloria",
+          "start": 115.98,
+          "end": 116.78
+        }
+      ],
+      "start": 110.78,
+      "end": 116.78,
+      "confidence": 1.0,
+      "time": 110.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "siempre morará.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "siempre",
+          "start": 116.78,
+          "end": 118.32
+        },
+        {
+          "word": "morará.",
+          "start": 118.32,
+          "end": 121.16
+        }
+      ],
+      "start": 116.78,
+      "end": 121.16,
+      "confidence": 1.0,
+      "time": 116.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Amanece ya la mañana de oro",
+      "words": [
+        {
+          "word": "mañise",
+          "start": 122.12,
+          "end": 123.6
+        },
+        {
+          "word": "ya",
+          "start": 123.6,
+          "end": 124.32
+        },
+        {
+          "word": "la",
+          "start": 124.32,
+          "end": 125.04
+        },
+        {
+          "word": "mañana",
+          "start": 125.04,
+          "end": 125.82
+        },
+        {
+          "word": "adoro,",
+          "start": 125.82,
+          "end": 127.42
+        }
+      ],
+      "start": 122.12,
+      "end": 128.0,
+      "confidence": 0.77,
+      "time": 122.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "tras la noche terrenal,",
+      "words": [
+        {
+          "word": "tras",
+          "start": 128.0,
+          "end": 128.3
+        },
+        {
+          "word": "la",
+          "start": 128.3,
+          "end": 129.12
+        },
+        {
+          "word": "noche",
+          "start": 129.12,
+          "end": 130.1
+        },
+        {
+          "word": "te",
+          "start": 130.1,
+          "end": 131.04
+        }
+      ],
+      "start": 128.0,
+      "end": 132.98,
+      "confidence": 0.985,
+      "time": 128.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "cuando surgirá del sepulcro abierto",
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 132.98,
+          "end": 134.08
+        },
+        {
+          "word": "surgirá",
+          "start": 134.08,
+          "end": 136.32
+        },
+        {
+          "word": "el",
+          "start": 136.32,
+          "end": 136.56
+        },
+        {
+          "word": "sepulto",
+          "start": 136.56,
+          "end": 138.22
+        },
+        {
+          "word": "abierto,",
+          "start": 138.22,
+          "end": 139.28
+        }
+      ],
+      "start": 132.98,
+      "end": 139.68,
+      "confidence": 0.952,
+      "time": 132.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "vida inmortal.",
+      "words": [
+        {
+          "word": "vida",
+          "start": 139.68,
+          "end": 140.9
+        },
+        {
+          "word": "inmortal.",
+          "start": 140.9,
+          "end": 143.96
+        }
+      ],
+      "start": 139.68,
+      "end": 143.96,
+      "confidence": 1.0,
+      "time": 139.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Cuando llegue a todos el evangelio",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 145.04,
+          "end": 145.68
+        },
+        {
+          "word": "llegue",
+          "start": 145.68,
+          "end": 146.98
+        },
+        {
+          "word": "a",
+          "start": 146.98,
+          "end": 147.34
+        },
+        {
+          "word": "todos",
+          "start": 147.34,
+          "end": 148.08
+        },
+        {
+          "word": "el",
+          "start": 148.08,
+          "end": 149.06
+        },
+        {
+          "word": "Evangelio,",
+          "start": 149.06,
+          "end": 151.04
+        }
+      ],
+      "start": 145.04,
+      "end": 151.8,
+      "confidence": 1.0,
+      "time": 145.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "anunciando el fin,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "anunciando",
+          "start": 151.8,
+          "end": 153.34
+        },
+        {
+          "word": "el",
+          "start": 153.34,
+          "end": 153.92
+        },
+        {
+          "word": "fin,",
+          "start": 153.92,
+          "end": 155.28
+        }
+      ],
+      "start": 151.8,
+      "end": 155.28,
+      "confidence": 1.0,
+      "time": 151.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "cesará el tardar del Esposo entonces,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Cesará",
+          "start": 155.28,
+          "end": 156.98
+        },
+        {
+          "word": "el",
+          "start": 156.98,
+          "end": 157.26
+        },
+        {
+          "word": "tardar",
+          "start": 157.26,
+          "end": 158.4
+        },
+        {
+          "word": "del",
+          "start": 158.4,
+          "end": 158.9
+        },
+        {
+          "word": "esposo,",
+          "start": 158.9,
+          "end": 159.98
+        },
+        {
+          "word": "entonces",
+          "start": 159.98,
+          "end": 161.32
+        }
+      ],
+      "start": 155.28,
+      "end": 161.32,
+      "confidence": 1.0,
+      "time": 155.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "sonará el clarín.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "sonará",
+          "start": 161.32,
+          "end": 163.3
+        },
+        {
+          "word": "el",
+          "start": 163.3,
+          "end": 163.82
+        },
+        {
+          "word": "clarín.",
+          "start": 163.82,
+          "end": 166.02
+        }
+      ],
+      "start": 161.32,
+      "end": 166.02,
+      "confidence": 1.0,
+      "time": 161.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Amanece ya la mañana de oro",
+      "words": [
+        {
+          "word": "Amanece",
+          "start": 166.8,
+          "end": 168.2
+        },
+        {
+          "word": "ya",
+          "start": 168.2,
+          "end": 168.94
+        },
+        {
+          "word": "la",
+          "start": 168.94,
+          "end": 169.46
+        },
+        {
+          "word": "mañana",
+          "start": 169.46,
+          "end": 170.54
+        },
+        {
+          "word": "de",
+          "start": 170.54,
+          "end": 171.26
+        },
+        {
+          "word": "oro,",
+          "start": 171.26,
+          "end": 171.92
+        }
+      ],
+      "start": 166.8,
+      "end": 172.44,
+      "confidence": 1.0,
+      "time": 166.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "tras la noche terrenal,",
+      "words": [
+        {
+          "word": "tras",
+          "start": 172.44,
+          "end": 172.96
+        },
+        {
+          "word": "la",
+          "start": 172.96,
+          "end": 173.7
+        },
+        {
+          "word": "noche",
+          "start": 173.7,
+          "end": 174.72
+        },
+        {
+          "word": "terrenal.",
+          "start": 174.72,
+          "end": 177.42
+        }
+      ],
+      "start": 172.44,
+      "end": 177.42,
+      "confidence": 1.0,
+      "time": 172.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "cuando surgirá del sepulcro abierto",
+      "words": [
+        {
+          "word": "¡Cuando",
+          "start": 177.42,
+          "end": 178.72
+        },
+        {
+          "word": "surgirá",
+          "start": 178.72,
+          "end": 180.84
+        },
+        {
+          "word": "del",
+          "start": 180.84,
+          "end": 181.14
+        },
+        {
+          "word": "sepulto",
+          "start": 181.14,
+          "end": 182.84
+        },
+        {
+          "word": "abierto!",
+          "start": 182.84,
+          "end": 183.82
+        }
+      ],
+      "start": 177.42,
+      "end": 184.02,
+      "confidence": 0.976,
+      "time": 177.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "vida inmortal.",
+      "words": [
+        {
+          "word": "¡Viva",
+          "start": 184.02,
+          "end": 185.42
+        },
+        {
+          "word": "inmortal!",
+          "start": 186.02,
+          "end": 187.74
+        }
+      ],
+      "start": 184.02,
+      "end": 187.74,
+      "confidence": 0.925,
+      "time": 184.02
+    }
+  ]
+}

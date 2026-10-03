@@ -1,0 +1,827 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.992,
+  "language": "es",
+  "model": "medium",
+  "hymn": 58,
+  "source": "058 - Grande es el amor divino.mp3",
+  "duration": 158.41,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Grande es el amor divino,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Grande",
+          "start": 9.16,
+          "end": 10.56
+        },
+        {
+          "word": "es",
+          "start": 10.56,
+          "end": 11.96
+        },
+        {
+          "word": "el",
+          "start": 11.96,
+          "end": 12.5
+        },
+        {
+          "word": "amor",
+          "start": 12.5,
+          "end": 13.52
+        },
+        {
+          "word": "indivino,",
+          "start": 13.52,
+          "end": 15.22
+        }
+      ],
+      "start": 9.16,
+      "end": 15.5,
+      "confidence": 0.983,
+      "time": 9.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "es más amplio que el mar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 15.5,
+          "end": 16.46
+        },
+        {
+          "word": "más",
+          "start": 16.46,
+          "end": 17.1
+        },
+        {
+          "word": "amplio",
+          "start": 17.1,
+          "end": 18.16
+        },
+        {
+          "word": "que",
+          "start": 18.16,
+          "end": 19.04
+        },
+        {
+          "word": "el",
+          "start": 19.04,
+          "end": 19.86
+        },
+        {
+          "word": "mar.",
+          "start": 19.86,
+          "end": 20.56
+        }
+      ],
+      "start": 15.5,
+      "end": 20.56,
+      "confidence": 1.0,
+      "time": 15.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Qué bondad en su justicia!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¡Qué",
+          "start": 20.56,
+          "end": 21.98
+        },
+        {
+          "word": "bondad",
+          "start": 21.98,
+          "end": 23.16
+        },
+        {
+          "word": "en",
+          "start": 23.16,
+          "end": 23.7
+        },
+        {
+          "word": "su",
+          "start": 23.7,
+          "end": 24.84
+        },
+        {
+          "word": "justicia",
+          "start": 24.84,
+          "end": 26.32
+        }
+      ],
+      "start": 20.56,
+      "end": 26.32,
+      "confidence": 1.0,
+      "time": 20.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Vino el mundo a libertar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "vio",
+          "start": 26.32,
+          "end": 27.8
+        },
+        {
+          "word": "el",
+          "start": 27.8,
+          "end": 28.38
+        },
+        {
+          "word": "mundo",
+          "start": 28.38,
+          "end": 29.08
+        },
+        {
+          "word": "a",
+          "start": 29.08,
+          "end": 29.8
+        },
+        {
+          "word": "libertar!",
+          "start": 29.8,
+          "end": 32.02
+        }
+      ],
+      "start": 26.32,
+      "end": 32.02,
+      "confidence": 0.983,
+      "time": 26.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Él nos llama con amor;",
+      "words": [
+        {
+          "word": "¡Él",
+          "start": 32.4,
+          "end": 33.5
+        },
+        {
+          "word": "nos",
+          "start": 33.5,
+          "end": 33.72
+        },
+        {
+          "word": "llamó",
+          "start": 33.72,
+          "end": 35.02
+        },
+        {
+          "word": "con",
+          "start": 35.02,
+          "end": 36.1
+        },
+        {
+          "word": "amor!",
+          "start": 36.1,
+          "end": 37.46
+        }
+      ],
+      "start": 32.4,
+      "end": 38.04,
+      "confidence": 0.976,
+      "time": 32.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡oh, sigamos al Señor!",
+      "words": [
+        {
+          "word": "¡Oh,",
+          "start": 38.04,
+          "end": 38.86
+        },
+        {
+          "word": "sigamos",
+          "start": 39.14,
+          "end": 40.84
+        },
+        {
+          "word": "al",
+          "start": 40.84,
+          "end": 42.16
+        },
+        {
+          "word": "Señor!",
+          "start": 42.16,
+          "end": 43.7
+        }
+      ],
+      "start": 38.04,
+      "end": 43.7,
+      "confidence": 1.0,
+      "time": 38.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En la sangre del Maestro",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 45.4,
+          "end": 46.8
+        },
+        {
+          "word": "la",
+          "start": 46.8,
+          "end": 47.28
+        },
+        {
+          "word": "sangre",
+          "start": 47.28,
+          "end": 48.44
+        },
+        {
+          "word": "del",
+          "start": 48.44,
+          "end": 49.58
+        },
+        {
+          "word": "Maestro",
+          "start": 49.58,
+          "end": 51.2
+        }
+      ],
+      "start": 45.4,
+      "end": 51.2,
+      "confidence": 1.0,
+      "time": 45.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hay poder de salvación,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "hay",
+          "start": 51.2,
+          "end": 52.44
+        },
+        {
+          "word": "poder",
+          "start": 52.44,
+          "end": 53.44
+        },
+        {
+          "word": "de",
+          "start": 53.44,
+          "end": 54.44
+        },
+        {
+          "word": "salvación,",
+          "start": 54.44,
+          "end": 56.8
+        }
+      ],
+      "start": 51.2,
+      "end": 56.8,
+      "confidence": 1.0,
+      "time": 51.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "sanidad hay para el alma,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Sanidad",
+          "start": 58.08,
+          "end": 58.94
+        },
+        {
+          "word": "hay",
+          "start": 58.94,
+          "end": 59.78
+        },
+        {
+          "word": "para",
+          "start": 59.78,
+          "end": 60.96
+        },
+        {
+          "word": "el",
+          "start": 60.96,
+          "end": 61.42
+        },
+        {
+          "word": "alma,",
+          "start": 61.42,
+          "end": 62.2
+        }
+      ],
+      "start": 58.08,
+      "end": 62.96,
+      "confidence": 1.0,
+      "time": 58.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y del mal hay protección.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 62.96,
+          "end": 63.64
+        },
+        {
+          "word": "del",
+          "start": 63.64,
+          "end": 64.14
+        },
+        {
+          "word": "mal",
+          "start": 64.14,
+          "end": 64.84
+        },
+        {
+          "word": "hay",
+          "start": 64.84,
+          "end": 65.52
+        },
+        {
+          "word": "protección.",
+          "start": 65.52,
+          "end": 67.3
+        }
+      ],
+      "start": 62.96,
+      "end": 67.3,
+      "confidence": 1.0,
+      "time": 62.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Él nos llama con amor;",
+      "words": [
+        {
+          "word": "Él",
+          "start": 67.3,
+          "end": 69.1
+        },
+        {
+          "word": "nos",
+          "start": 69.1,
+          "end": 69.64
+        },
+        {
+          "word": "llamó",
+          "start": 69.64,
+          "end": 70.96
+        },
+        {
+          "word": "con",
+          "start": 70.96,
+          "end": 72.04
+        },
+        {
+          "word": "amor,",
+          "start": 72.04,
+          "end": 73.46
+        }
+      ],
+      "start": 67.3,
+      "end": 73.88,
+      "confidence": 0.976,
+      "time": 67.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡oh, sigamos al Señor!",
+      "words": [
+        {
+          "word": "¡Oh,",
+          "start": 73.88,
+          "end": 74.76
+        },
+        {
+          "word": "sigamos",
+          "start": 75.16,
+          "end": 76.74
+        },
+        {
+          "word": "al",
+          "start": 76.74,
+          "end": 78.22
+        },
+        {
+          "word": "Señor!",
+          "start": 78.22,
+          "end": 79.82
+        }
+      ],
+      "start": 73.88,
+      "end": 79.82,
+      "confidence": 1.0,
+      "time": 73.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Mas, oh cuánto limitamos",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Mas",
+          "start": 81.94,
+          "end": 83.34
+        },
+        {
+          "word": "o",
+          "start": 83.34,
+          "end": 83.86
+        },
+        {
+          "word": "cuanto",
+          "start": 83.86,
+          "end": 84.8
+        },
+        {
+          "word": "limitamos",
+          "start": 84.8,
+          "end": 87.44
+        }
+      ],
+      "start": 81.94,
+      "end": 87.44,
+      "confidence": 0.95,
+      "time": 81.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "por la débil comprensión",
+      "verse": 3,
+      "words": [
+        {
+          "word": "por",
+          "start": 87.44,
+          "end": 88.8
+        },
+        {
+          "word": "la",
+          "start": 88.8,
+          "end": 89.18
+        },
+        {
+          "word": "débil",
+          "start": 89.18,
+          "end": 90.48
+        },
+        {
+          "word": "comprensión",
+          "start": 90.48,
+          "end": 92.3
+        }
+      ],
+      "start": 87.44,
+      "end": 92.3,
+      "confidence": 1.0,
+      "time": 87.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "su poder, su magna gracia,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Su",
+          "start": 92.3,
+          "end": 94.3
+        },
+        {
+          "word": "poder,",
+          "start": 94.3,
+          "end": 95.24
+        },
+        {
+          "word": "su",
+          "start": 95.48,
+          "end": 96.2
+        },
+        {
+          "word": "magna",
+          "start": 96.2,
+          "end": 97.54
+        },
+        {
+          "word": "gracia,",
+          "start": 97.54,
+          "end": 98.8
+        }
+      ],
+      "start": 92.3,
+      "end": 99.64,
+      "confidence": 1.0,
+      "time": 92.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "despreciando su gran don.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "despreciando",
+          "start": 99.64,
+          "end": 101.62
+        },
+        {
+          "word": "su",
+          "start": 101.62,
+          "end": 102.38
+        },
+        {
+          "word": "gran",
+          "start": 102.38,
+          "end": 103.28
+        },
+        {
+          "word": "don.",
+          "start": 103.28,
+          "end": 103.98
+        }
+      ],
+      "start": 99.64,
+      "end": 103.98,
+      "confidence": 1.0,
+      "time": 99.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Él nos llama con amor;",
+      "words": [
+        {
+          "word": "Él",
+          "start": 105.04,
+          "end": 105.6
+        },
+        {
+          "word": "nos",
+          "start": 105.6,
+          "end": 106.06
+        },
+        {
+          "word": "llamó",
+          "start": 106.06,
+          "end": 107.4
+        },
+        {
+          "word": "con",
+          "start": 107.4,
+          "end": 108.4
+        },
+        {
+          "word": "amor,",
+          "start": 108.4,
+          "end": 109.78
+        }
+      ],
+      "start": 105.04,
+      "end": 110.24,
+      "confidence": 0.976,
+      "time": 105.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡oh, sigamos al Señor!",
+      "words": [
+        {
+          "word": "¡Oh,",
+          "start": 110.24,
+          "end": 111.14
+        },
+        {
+          "word": "sigamos",
+          "start": 111.44,
+          "end": 112.64
+        },
+        {
+          "word": "al",
+          "start": 112.64,
+          "end": 114.42
+        },
+        {
+          "word": "Señor!",
+          "start": 114.42,
+          "end": 116.28
+        }
+      ],
+      "start": 110.24,
+      "end": 116.28,
+      "confidence": 1.0,
+      "time": 110.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Respondamos prestamente",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Respondamos",
+          "start": 120.76,
+          "end": 122.16
+        },
+        {
+          "word": "prestamente",
+          "start": 122.16,
+          "end": 123.56
+        }
+      ],
+      "start": 120.76,
+      "end": 123.56,
+      "confidence": 1.0,
+      "time": 120.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "al llamado de Jesús;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "al",
+          "start": 123.56,
+          "end": 125.0
+        },
+        {
+          "word": "llamado",
+          "start": 125.0,
+          "end": 126.32
+        },
+        {
+          "word": "de",
+          "start": 126.32,
+          "end": 127.62
+        },
+        {
+          "word": "Jesús",
+          "start": 127.62,
+          "end": 129.26
+        }
+      ],
+      "start": 123.56,
+      "end": 129.26,
+      "confidence": 1.0,
+      "time": 123.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "redimionos ampliamente",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Redimiónos",
+          "start": 129.26,
+          "end": 132.64
+        },
+        {
+          "word": "ampliamente",
+          "start": 132.64,
+          "end": 134.78
+        }
+      ],
+      "start": 129.26,
+      "end": 134.78,
+      "confidence": 1.0,
+      "time": 129.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "por su muerte en la cruz.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "por",
+          "start": 134.78,
+          "end": 136.2
+        },
+        {
+          "word": "Su",
+          "start": 136.2,
+          "end": 136.6
+        },
+        {
+          "word": "muerte",
+          "start": 136.6,
+          "end": 137.84
+        },
+        {
+          "word": "en",
+          "start": 137.84,
+          "end": 138.76
+        },
+        {
+          "word": "la",
+          "start": 138.76,
+          "end": 139.6
+        },
+        {
+          "word": "cruz",
+          "start": 139.6,
+          "end": 140.66
+        }
+      ],
+      "start": 134.78,
+      "end": 140.66,
+      "confidence": 1.0,
+      "time": 134.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Él nos llama con amor;",
+      "words": [
+        {
+          "word": "Él",
+          "start": 140.66,
+          "end": 142.02
+        },
+        {
+          "word": "nos",
+          "start": 142.02,
+          "end": 142.4
+        },
+        {
+          "word": "llamó",
+          "start": 142.4,
+          "end": 143.64
+        },
+        {
+          "word": "con",
+          "start": 143.64,
+          "end": 144.76
+        },
+        {
+          "word": "amor,",
+          "start": 144.76,
+          "end": 146.22
+        }
+      ],
+      "start": 140.66,
+      "end": 146.22,
+      "confidence": 0.976,
+      "time": 140.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡oh, sigamos al Señor!",
+      "words": [
+        {
+          "word": "¡Oh,",
+          "start": 146.22,
+          "end": 147.58
+        },
+        {
+          "word": "sigamos",
+          "start": 147.92,
+          "end": 149.54
+        },
+        {
+          "word": "al",
+          "start": 149.54,
+          "end": 150.64
+        },
+        {
+          "word": "Señor!",
+          "start": 150.64,
+          "end": 152.26
+        }
+      ],
+      "start": 146.22,
+      "end": 152.26,
+      "confidence": 1.0,
+      "time": 146.22
+    }
+  ]
+}

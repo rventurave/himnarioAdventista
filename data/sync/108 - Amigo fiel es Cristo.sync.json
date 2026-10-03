@@ -1,0 +1,849 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.975,
+  "language": "es",
+  "model": "medium",
+  "hymn": 108,
+  "source": "108 - Amigo fiel es Cristo.mp3",
+  "duration": 174.89,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Amigo fiel es Cristo, alivio él me da;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Amigo",
+          "start": 20.26,
+          "end": 21.66
+        },
+        {
+          "word": "fiel",
+          "start": 21.66,
+          "end": 22.46
+        },
+        {
+          "word": "es",
+          "start": 22.46,
+          "end": 22.92
+        },
+        {
+          "word": "Cristo,",
+          "start": 22.92,
+          "end": 24.28
+        },
+        {
+          "word": "alivio",
+          "start": 25.22,
+          "end": 26.42
+        },
+        {
+          "word": "Él",
+          "start": 26.42,
+          "end": 27.02
+        },
+        {
+          "word": "me",
+          "start": 27.02,
+          "end": 27.62
+        },
+        {
+          "word": "da",
+          "start": 27.62,
+          "end": 28.84
+        }
+      ],
+      "start": 20.26,
+      "end": 28.84,
+      "confidence": 1.0,
+      "time": 20.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "me ama con un tierno amor que siempre durará.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Me",
+          "start": 28.84,
+          "end": 29.78
+        },
+        {
+          "word": "ama",
+          "start": 29.78,
+          "end": 30.88
+        },
+        {
+          "word": "con",
+          "start": 30.88,
+          "end": 31.8
+        },
+        {
+          "word": "un",
+          "start": 31.8,
+          "end": 32.22
+        },
+        {
+          "word": "tierno",
+          "start": 32.22,
+          "end": 33.1
+        },
+        {
+          "word": "amor",
+          "start": 33.1,
+          "end": 33.68
+        },
+        {
+          "word": "que",
+          "start": 33.68,
+          "end": 34.48
+        },
+        {
+          "word": "siempre",
+          "start": 34.48,
+          "end": 35.6
+        },
+        {
+          "word": "durará",
+          "start": 35.6,
+          "end": 38.14
+        }
+      ],
+      "start": 28.84,
+      "end": 38.14,
+      "confidence": 1.0,
+      "time": 28.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Sin él vivir no puedo ya; cercano siempre está.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Sin",
+          "start": 38.14,
+          "end": 39.2
+        },
+        {
+          "word": "el",
+          "start": 39.2,
+          "end": 39.86
+        },
+        {
+          "word": "vivir",
+          "start": 39.86,
+          "end": 40.76
+        },
+        {
+          "word": "no",
+          "start": 40.76,
+          "end": 41.4
+        },
+        {
+          "word": "puedo",
+          "start": 41.4,
+          "end": 42.44
+        },
+        {
+          "word": "ya,",
+          "start": 42.44,
+          "end": 43.16
+        },
+        {
+          "word": "cerca",
+          "start": 43.5,
+          "end": 44.28
+        },
+        {
+          "word": "siempre",
+          "start": 44.92,
+          "end": 46.14
+        },
+        {
+          "word": "está",
+          "start": 46.14,
+          "end": 47.52
+        }
+      ],
+      "start": 38.14,
+      "end": 47.52,
+      "confidence": 0.993,
+      "time": 38.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Así moramos juntos Jesús y yo.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Así",
+          "start": 47.52,
+          "end": 48.98
+        },
+        {
+          "word": "moramos",
+          "start": 48.98,
+          "end": 50.66
+        },
+        {
+          "word": "juntos,",
+          "start": 50.66,
+          "end": 52.18
+        },
+        {
+          "word": "Jesús",
+          "start": 53.0,
+          "end": 54.22
+        },
+        {
+          "word": "y",
+          "start": 54.22,
+          "end": 55.56
+        },
+        {
+          "word": "yo",
+          "start": 55.56,
+          "end": 57.04
+        }
+      ],
+      "start": 47.52,
+      "end": 57.04,
+      "confidence": 1.0,
+      "time": 47.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Mis faltas no ignora. Mis males puede ver.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Mis",
+          "start": 57.04,
+          "end": 58.6
+        },
+        {
+          "word": "faltas",
+          "start": 58.6,
+          "end": 59.78
+        },
+        {
+          "word": "no",
+          "start": 59.78,
+          "end": 60.6
+        },
+        {
+          "word": "ignora,",
+          "start": 60.6,
+          "end": 62.32
+        },
+        {
+          "word": "mis",
+          "start": 62.68,
+          "end": 63.4
+        },
+        {
+          "word": "males",
+          "start": 63.4,
+          "end": 64.24
+        },
+        {
+          "word": "puede",
+          "start": 64.24,
+          "end": 65.52
+        },
+        {
+          "word": "ver",
+          "start": 65.52,
+          "end": 67.18
+        }
+      ],
+      "start": 57.04,
+      "end": 67.18,
+      "confidence": 1.0,
+      "time": 57.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Anhela que me apoye en él: me puede sostener.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Anela",
+          "start": 67.18,
+          "end": 68.78
+        },
+        {
+          "word": "que",
+          "start": 68.78,
+          "end": 69.6
+        },
+        {
+          "word": "me",
+          "start": 69.6,
+          "end": 70.26
+        },
+        {
+          "word": "apoye,",
+          "start": 70.26,
+          "end": 71.34
+        },
+        {
+          "word": "me",
+          "start": 71.78,
+          "end": 72.32
+        },
+        {
+          "word": "puede",
+          "start": 72.32,
+          "end": 73.62
+        },
+        {
+          "word": "sostener",
+          "start": 73.62,
+          "end": 76.26
+        }
+      ],
+      "start": 67.18,
+      "end": 76.26,
+      "confidence": 0.772,
+      "time": 67.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "El guía mi alma a la luz, me indica mi deber.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "El",
+          "start": 76.26,
+          "end": 77.28
+        },
+        {
+          "word": "guía",
+          "start": 77.28,
+          "end": 78.26
+        },
+        {
+          "word": "mi",
+          "start": 78.26,
+          "end": 78.62
+        },
+        {
+          "word": "alma",
+          "start": 78.62,
+          "end": 79.46
+        },
+        {
+          "word": "a",
+          "start": 79.46,
+          "end": 80.52
+        },
+        {
+          "word": "la",
+          "start": 80.52,
+          "end": 80.74
+        },
+        {
+          "word": "luz,",
+          "start": 80.74,
+          "end": 81.02
+        },
+        {
+          "word": "me",
+          "start": 81.44,
+          "end": 81.82
+        },
+        {
+          "word": "indica",
+          "start": 81.82,
+          "end": 82.98
+        },
+        {
+          "word": "mi",
+          "start": 82.98,
+          "end": 83.62
+        },
+        {
+          "word": "deber",
+          "start": 83.62,
+          "end": 85.38
+        }
+      ],
+      "start": 76.26,
+      "end": 85.38,
+      "confidence": 1.0,
+      "time": 76.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Así andamos juntos Jesús y yo.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Así",
+          "start": 85.38,
+          "end": 87.0
+        },
+        {
+          "word": "andamos",
+          "start": 87.0,
+          "end": 88.78
+        },
+        {
+          "word": "juntos,",
+          "start": 88.78,
+          "end": 90.22
+        },
+        {
+          "word": "Jesús",
+          "start": 90.88,
+          "end": 92.14
+        },
+        {
+          "word": "y",
+          "start": 92.14,
+          "end": 93.5
+        },
+        {
+          "word": "yo.",
+          "start": 93.5,
+          "end": 94.86
+        }
+      ],
+      "start": 85.38,
+      "end": 94.86,
+      "confidence": 1.0,
+      "time": 85.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Confíole mis penas, le digo mi gozar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Confío",
+          "start": 96.44,
+          "end": 97.8
+        },
+        {
+          "word": "mis",
+          "start": 98.38,
+          "end": 99.0
+        },
+        {
+          "word": "penas,",
+          "start": 99.0,
+          "end": 100.6
+        },
+        {
+          "word": "le",
+          "start": 100.74,
+          "end": 101.36
+        },
+        {
+          "word": "digo",
+          "start": 101.36,
+          "end": 102.16
+        },
+        {
+          "word": "mi",
+          "start": 102.16,
+          "end": 103.18
+        },
+        {
+          "word": "gozar.",
+          "start": 103.18,
+          "end": 104.38
+        }
+      ],
+      "start": 96.44,
+      "end": 104.38,
+      "confidence": 0.991,
+      "time": 96.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Con él no siento ya temor, y alegre puedo andar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Con",
+          "start": 105.4,
+          "end": 106.1
+        },
+        {
+          "word": "él",
+          "start": 106.1,
+          "end": 106.56
+        },
+        {
+          "word": "no",
+          "start": 106.56,
+          "end": 107.2
+        },
+        {
+          "word": "siento",
+          "start": 107.2,
+          "end": 107.96
+        },
+        {
+          "word": "ya",
+          "start": 107.96,
+          "end": 108.84
+        },
+        {
+          "word": "temor",
+          "start": 108.84,
+          "end": 109.84
+        },
+        {
+          "word": "y",
+          "start": 109.84,
+          "end": 110.56
+        },
+        {
+          "word": "alegre",
+          "start": 110.56,
+          "end": 111.74
+        },
+        {
+          "word": "puedo",
+          "start": 111.74,
+          "end": 112.74
+        },
+        {
+          "word": "andar.",
+          "start": 112.74,
+          "end": 114.16
+        }
+      ],
+      "start": 105.4,
+      "end": 114.16,
+      "confidence": 1.0,
+      "time": 105.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Me dice lo que debo hacer, me impulsa a progresar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Me",
+          "start": 114.16,
+          "end": 115.24
+        },
+        {
+          "word": "dice",
+          "start": 115.24,
+          "end": 116.1
+        },
+        {
+          "word": "lo",
+          "start": 116.1,
+          "end": 116.96
+        },
+        {
+          "word": "que",
+          "start": 116.96,
+          "end": 117.54
+        },
+        {
+          "word": "debo",
+          "start": 117.54,
+          "end": 118.64
+        },
+        {
+          "word": "hacer,",
+          "start": 118.64,
+          "end": 119.12
+        },
+        {
+          "word": "me",
+          "start": 119.56,
+          "end": 119.9
+        },
+        {
+          "word": "impulsa",
+          "start": 119.9,
+          "end": 121.04
+        },
+        {
+          "word": "a",
+          "start": 121.04,
+          "end": 121.62
+        },
+        {
+          "word": "progresar",
+          "start": 121.62,
+          "end": 123.72
+        }
+      ],
+      "start": 114.16,
+      "end": 123.72,
+      "confidence": 1.0,
+      "time": 114.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Así hablamos juntos Jesús y yo.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Así",
+          "start": 123.72,
+          "end": 125.24
+        },
+        {
+          "word": "hablamos",
+          "start": 125.24,
+          "end": 126.82
+        },
+        {
+          "word": "juntos,",
+          "start": 126.82,
+          "end": 128.3
+        },
+        {
+          "word": "Jesús",
+          "start": 129.24,
+          "end": 129.8
+        },
+        {
+          "word": "y",
+          "start": 129.8,
+          "end": 131.56
+        },
+        {
+          "word": "yo",
+          "start": 131.56,
+          "end": 133.24
+        }
+      ],
+      "start": 123.72,
+      "end": 133.24,
+      "confidence": 1.0,
+      "time": 123.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Él sabe cuánto anhelo salvar a un pecador;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Él",
+          "start": 133.76,
+          "end": 134.76
+        },
+        {
+          "word": "sabe",
+          "start": 134.76,
+          "end": 135.82
+        },
+        {
+          "word": "cuanto",
+          "start": 135.82,
+          "end": 136.6
+        },
+        {
+          "word": "anhelo",
+          "start": 136.6,
+          "end": 138.48
+        },
+        {
+          "word": "salvar",
+          "start": 138.48,
+          "end": 139.9
+        },
+        {
+          "word": "a",
+          "start": 139.9,
+          "end": 140.34
+        },
+        {
+          "word": "un",
+          "start": 140.34,
+          "end": 140.92
+        },
+        {
+          "word": "pecador",
+          "start": 140.92,
+          "end": 143.02
+        }
+      ],
+      "start": 133.76,
+      "end": 143.02,
+      "confidence": 1.0,
+      "time": 133.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "me ruega ir a pregonar cuán grande es su amor,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Me",
+          "start": 143.02,
+          "end": 144.02
+        },
+        {
+          "word": "ruego",
+          "start": 144.02,
+          "end": 145.16
+        },
+        {
+          "word": "ir",
+          "start": 145.16,
+          "end": 145.88
+        },
+        {
+          "word": "a",
+          "start": 145.88,
+          "end": 146.82
+        },
+        {
+          "word": "pregonar",
+          "start": 146.82,
+          "end": 148.02
+        },
+        {
+          "word": "Cuán",
+          "start": 148.02,
+          "end": 148.82
+        },
+        {
+          "word": "grande",
+          "start": 148.82,
+          "end": 149.98
+        },
+        {
+          "word": "su",
+          "start": 149.98,
+          "end": 150.86
+        },
+        {
+          "word": "amor",
+          "start": 150.86,
+          "end": 152.26
+        }
+      ],
+      "start": 143.02,
+      "end": 152.26,
+      "confidence": 0.888,
+      "time": 143.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "que anuncie eterna redención con fe y con fervor.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Que",
+          "start": 152.26,
+          "end": 153.26
+        },
+        {
+          "word": "anuncie",
+          "start": 153.26,
+          "end": 154.32
+        },
+        {
+          "word": "eterna",
+          "start": 154.32,
+          "end": 155.58
+        },
+        {
+          "word": "redención",
+          "start": 155.58,
+          "end": 157.2
+        },
+        {
+          "word": "Con",
+          "start": 157.2,
+          "end": 157.98
+        },
+        {
+          "word": "fe",
+          "start": 157.98,
+          "end": 158.5
+        },
+        {
+          "word": "y",
+          "start": 158.5,
+          "end": 159.28
+        },
+        {
+          "word": "con",
+          "start": 159.28,
+          "end": 159.86
+        },
+        {
+          "word": "fervor",
+          "start": 159.86,
+          "end": 161.78
+        }
+      ],
+      "start": 152.26,
+      "end": 161.78,
+      "confidence": 1.0,
+      "time": 152.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Así obramos juntos Jesús y yo.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Así",
+          "start": 161.78,
+          "end": 163.18
+        },
+        {
+          "word": "obramos",
+          "start": 163.18,
+          "end": 164.64
+        },
+        {
+          "word": "juntos",
+          "start": 164.64,
+          "end": 166.42
+        },
+        {
+          "word": "Jesús",
+          "start": 166.42,
+          "end": 167.96
+        },
+        {
+          "word": "y",
+          "start": 167.96,
+          "end": 169.84
+        },
+        {
+          "word": "yo",
+          "start": 169.84,
+          "end": 170.72
+        }
+      ],
+      "start": 161.78,
+      "end": 170.72,
+      "confidence": 1.0,
+      "time": 161.78
+    }
+  ]
+}

@@ -1,0 +1,839 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.785,
+  "language": "es",
+  "model": "medium",
+  "hymn": 111,
+  "source": "111 - Como Jesus no hay otro amigo.mp3",
+  "duration": 172.93,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Como Jesús no hay otro amigo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesucristo",
+          "start": 5.82,
+          "end": 5.82
+        }
+      ],
+      "start": 5.82,
+      "end": 29.98,
+      "confidence": 0.133,
+      "time": 5.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ni uno hay, ni uno hay;",
+      "verse": 1,
+      "start": 29.98,
+      "end": 33.31,
+      "confidence": 0.0,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que lleve nuestro dolor consigo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 36.64,
+          "end": 38.04
+        },
+        {
+          "word": "lleve",
+          "start": 38.04,
+          "end": 39.1
+        },
+        {
+          "word": "nuestro",
+          "start": 39.1,
+          "end": 40.06
+        },
+        {
+          "word": "dolor",
+          "start": 40.06,
+          "end": 41.14
+        },
+        {
+          "word": "consigo.",
+          "start": 41.14,
+          "end": 43.02
+        }
+      ],
+      "start": 33.31,
+      "end": 36.64,
+      "confidence": 1.0,
+      "time": 33.31
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ni uno hay, ni uno hay.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ni",
+          "start": 43.58,
+          "end": 43.58
+        },
+        {
+          "word": "uno",
+          "start": 43.58,
+          "end": 44.88
+        },
+        {
+          "word": "hay,",
+          "start": 44.88,
+          "end": 45.78
+        },
+        {
+          "word": "ni",
+          "start": 46.12,
+          "end": 46.46
+        },
+        {
+          "word": "uno",
+          "start": 46.46,
+          "end": 47.56
+        },
+        {
+          "word": "hay,",
+          "start": 47.56,
+          "end": 48.68
+        }
+      ],
+      "start": 43.58,
+      "end": 48.68,
+      "confidence": 1.0,
+      "time": 43.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Nuestras luchas conoce todas;",
+      "words": [
+        {
+          "word": "nuestras",
+          "start": 48.96,
+          "end": 50.2
+        },
+        {
+          "word": "luchas",
+          "start": 50.2,
+          "end": 51.48
+        },
+        {
+          "word": "conoce",
+          "start": 51.48,
+          "end": 53.1
+        },
+        {
+          "word": "todas,",
+          "start": 53.1,
+          "end": 54.22
+        }
+      ],
+      "start": 48.96,
+      "end": 54.22,
+      "confidence": 1.0,
+      "time": 48.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "nos guiará hasta el mismo fin.",
+      "words": [
+        {
+          "word": "nos",
+          "start": 55.04,
+          "end": 55.3
+        },
+        {
+          "word": "guiará",
+          "start": 55.3,
+          "end": 56.88
+        },
+        {
+          "word": "hasta",
+          "start": 56.88,
+          "end": 57.22
+        },
+        {
+          "word": "el",
+          "start": 57.22,
+          "end": 57.48
+        },
+        {
+          "word": "mismo",
+          "start": 57.48,
+          "end": 58.54
+        },
+        {
+          "word": "fin.",
+          "start": 58.54,
+          "end": 59.54
+        }
+      ],
+      "start": 55.04,
+      "end": 59.54,
+      "confidence": 1.0,
+      "time": 55.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Como Jesús no hay otro amigo;",
+      "words": [
+        {
+          "word": "Como",
+          "start": 59.54,
+          "end": 61.0
+        },
+        {
+          "word": "Jesús",
+          "start": 61.0,
+          "end": 62.04
+        },
+        {
+          "word": "no",
+          "start": 62.04,
+          "end": 62.68
+        },
+        {
+          "word": "hay",
+          "start": 62.68,
+          "end": 63.44
+        },
+        {
+          "word": "otro",
+          "start": 63.44,
+          "end": 63.94
+        },
+        {
+          "word": "amigo,",
+          "start": 63.94,
+          "end": 65.28
+        }
+      ],
+      "start": 59.54,
+      "end": 66.4,
+      "confidence": 1.0,
+      "time": 59.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "ni uno hay, ni uno hay.",
+      "words": [
+        {
+          "word": "no",
+          "start": 66.4,
+          "end": 67.38
+        },
+        {
+          "word": "hay,",
+          "start": 67.38,
+          "end": 68.02
+        },
+        {
+          "word": "no",
+          "start": 69.16,
+          "end": 70.18
+        },
+        {
+          "word": "hay.",
+          "start": 70.18,
+          "end": 71.6
+        }
+      ],
+      "start": 66.4,
+      "end": 71.6,
+      "confidence": 0.627,
+      "time": 66.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "No hay amigo tan noble y digno,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "No",
+          "start": 72.4,
+          "end": 72.96
+        },
+        {
+          "word": "hay",
+          "start": 72.96,
+          "end": 73.3
+        },
+        {
+          "word": "amigo",
+          "start": 73.3,
+          "end": 74.4
+        },
+        {
+          "word": "tan",
+          "start": 74.4,
+          "end": 74.92
+        },
+        {
+          "word": "noble",
+          "start": 74.92,
+          "end": 75.9
+        },
+        {
+          "word": "y",
+          "start": 75.9,
+          "end": 76.66
+        },
+        {
+          "word": "digno,",
+          "start": 76.66,
+          "end": 77.62
+        }
+      ],
+      "start": 72.4,
+      "end": 78.42,
+      "confidence": 1.0,
+      "time": 72.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ni uno hay, ni uno hay;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "no",
+          "start": 78.42,
+          "end": 79.26
+        },
+        {
+          "word": "hay,",
+          "start": 79.26,
+          "end": 80.24
+        },
+        {
+          "word": "no",
+          "start": 81.14,
+          "end": 81.96
+        },
+        {
+          "word": "hay.",
+          "start": 81.96,
+          "end": 82.98
+        }
+      ],
+      "start": 78.42,
+      "end": 82.98,
+      "confidence": 0.627,
+      "time": 78.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que es a la vez justo y benigno,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 82.98,
+          "end": 83.84
+        },
+        {
+          "word": "es",
+          "start": 83.84,
+          "end": 84.22
+        },
+        {
+          "word": "a",
+          "start": 84.22,
+          "end": 84.52
+        },
+        {
+          "word": "la",
+          "start": 84.52,
+          "end": 84.82
+        },
+        {
+          "word": "vez",
+          "start": 84.82,
+          "end": 85.32
+        },
+        {
+          "word": "justo",
+          "start": 85.32,
+          "end": 85.9
+        },
+        {
+          "word": "y",
+          "start": 85.9,
+          "end": 86.86
+        },
+        {
+          "word": "benigno.",
+          "start": 86.86,
+          "end": 88.8
+        }
+      ],
+      "start": 82.98,
+      "end": 88.8,
+      "confidence": 1.0,
+      "time": 82.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ni uno hay, ni uno hay.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Yuno",
+          "start": 89.02,
+          "end": 90.4
+        },
+        {
+          "word": "hay,",
+          "start": 90.4,
+          "end": 91.38
+        },
+        {
+          "word": "yuno",
+          "start": 91.52,
+          "end": 92.88
+        },
+        {
+          "word": "hay,",
+          "start": 92.88,
+          "end": 94.2
+        }
+      ],
+      "start": 89.02,
+      "end": 94.2,
+      "confidence": 0.638,
+      "time": 89.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Nuestras luchas conoce todas;",
+      "words": [
+        {
+          "word": "nuestras",
+          "start": 94.5,
+          "end": 95.72
+        },
+        {
+          "word": "luchas",
+          "start": 95.72,
+          "end": 96.98
+        },
+        {
+          "word": "conoce",
+          "start": 96.98,
+          "end": 98.62
+        },
+        {
+          "word": "todas,",
+          "start": 98.62,
+          "end": 99.74
+        }
+      ],
+      "start": 94.5,
+      "end": 99.74,
+      "confidence": 1.0,
+      "time": 94.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "nos guiará hasta el mismo fin.",
+      "words": [
+        {
+          "word": "los",
+          "start": 100.38,
+          "end": 100.76
+        },
+        {
+          "word": "hasta",
+          "start": 102.52,
+          "end": 102.9
+        },
+        {
+          "word": "el",
+          "start": 102.9,
+          "end": 103.1
+        },
+        {
+          "word": "mismo",
+          "start": 103.1,
+          "end": 104.04
+        },
+        {
+          "word": "fin.",
+          "start": 104.04,
+          "end": 105.14
+        }
+      ],
+      "start": 100.38,
+      "end": 105.14,
+      "confidence": 0.8,
+      "time": 100.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Como Jesús no hay otro amigo;",
+      "words": [
+        {
+          "word": "Como",
+          "start": 105.48,
+          "end": 106.6
+        },
+        {
+          "word": "Jesús",
+          "start": 106.6,
+          "end": 107.54
+        },
+        {
+          "word": "otro",
+          "start": 108.5,
+          "end": 109.4
+        },
+        {
+          "word": "amigo,",
+          "start": 109.4,
+          "end": 110.64
+        }
+      ],
+      "start": 105.48,
+      "end": 110.64,
+      "confidence": 0.667,
+      "time": 105.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "ni uno hay, ni uno hay.",
+      "words": [
+        {
+          "word": "Niú",
+          "start": 110.64,
+          "end": 112.12
+        },
+        {
+          "word": "no",
+          "start": 112.12,
+          "end": 113.18
+        },
+        {
+          "word": "hay,",
+          "start": 113.18,
+          "end": 113.62
+        },
+        {
+          "word": "niú",
+          "start": 113.82,
+          "end": 114.94
+        },
+        {
+          "word": "no",
+          "start": 114.94,
+          "end": 115.5
+        },
+        {
+          "word": "hay.",
+          "start": 115.5,
+          "end": 117.64
+        }
+      ],
+      "start": 110.64,
+      "end": 117.64,
+      "confidence": 0.92,
+      "time": 110.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¿Hay santo que haya desamparado?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Hay",
+          "start": 117.86,
+          "end": 118.5
+        },
+        {
+          "word": "santo",
+          "start": 118.5,
+          "end": 119.12
+        },
+        {
+          "word": "que",
+          "start": 119.12,
+          "end": 119.64
+        },
+        {
+          "word": "haya",
+          "start": 119.64,
+          "end": 120.18
+        },
+        {
+          "word": "desamparado,",
+          "start": 120.18,
+          "end": 122.92
+        }
+      ],
+      "start": 117.86,
+      "end": 122.92,
+      "confidence": 1.0,
+      "time": 117.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Ni uno hay, ni uno hay.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Niú",
+          "start": 123.38,
+          "end": 124.58
+        },
+        {
+          "word": "no",
+          "start": 124.58,
+          "end": 125.3
+        },
+        {
+          "word": "hay,",
+          "start": 125.3,
+          "end": 125.86
+        },
+        {
+          "word": "niú",
+          "start": 126.08,
+          "end": 127.1
+        },
+        {
+          "word": "no",
+          "start": 127.1,
+          "end": 127.84
+        },
+        {
+          "word": "hay.",
+          "start": 127.84,
+          "end": 128.7
+        }
+      ],
+      "start": 123.38,
+      "end": 128.7,
+      "confidence": 0.92,
+      "time": 123.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¿O pecador que haya rechazado?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "O",
+          "start": 129.16,
+          "end": 129.66
+        },
+        {
+          "word": "pecador",
+          "start": 129.66,
+          "end": 130.94
+        },
+        {
+          "word": "que",
+          "start": 130.94,
+          "end": 131.34
+        },
+        {
+          "word": "haya",
+          "start": 131.34,
+          "end": 131.8
+        },
+        {
+          "word": "rechazado,",
+          "start": 131.8,
+          "end": 133.98
+        }
+      ],
+      "start": 129.16,
+      "end": 133.98,
+      "confidence": 1.0,
+      "time": 129.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Ni uno hay, ni uno hay.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Niú",
+          "start": 134.56,
+          "end": 135.54
+        },
+        {
+          "word": "no",
+          "start": 135.54,
+          "end": 136.2
+        },
+        {
+          "word": "hay,",
+          "start": 136.2,
+          "end": 137.04
+        },
+        {
+          "word": "niú",
+          "start": 137.28,
+          "end": 138.38
+        },
+        {
+          "word": "no",
+          "start": 138.38,
+          "end": 139.28
+        },
+        {
+          "word": "hay.",
+          "start": 139.28,
+          "end": 139.78
+        }
+      ],
+      "start": 134.56,
+      "end": 139.78,
+      "confidence": 0.92,
+      "time": 134.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Nuestras luchas conoce todas;",
+      "words": [
+        {
+          "word": "Nuestras",
+          "start": 139.78,
+          "end": 141.56
+        },
+        {
+          "word": "luchas",
+          "start": 141.56,
+          "end": 142.68
+        },
+        {
+          "word": "conoce",
+          "start": 142.68,
+          "end": 144.28
+        },
+        {
+          "word": "todas,",
+          "start": 144.28,
+          "end": 145.44
+        }
+      ],
+      "start": 139.78,
+      "end": 146.02,
+      "confidence": 1.0,
+      "time": 139.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "nos guiará hasta el mismo fin.",
+      "words": [
+        {
+          "word": "los",
+          "start": 146.02,
+          "end": 146.48
+        },
+        {
+          "word": "hasta",
+          "start": 148.08,
+          "end": 148.42
+        },
+        {
+          "word": "el",
+          "start": 148.42,
+          "end": 148.74
+        },
+        {
+          "word": "mismo",
+          "start": 148.74,
+          "end": 149.82
+        },
+        {
+          "word": "fin.",
+          "start": 149.82,
+          "end": 151.22
+        }
+      ],
+      "start": 146.02,
+      "end": 151.22,
+      "confidence": 0.8,
+      "time": 146.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Como Jesús no hay otro amigo;",
+      "words": [
+        {
+          "word": "Como",
+          "start": 151.58,
+          "end": 152.36
+        },
+        {
+          "word": "Jesús,",
+          "start": 152.36,
+          "end": 153.34
+        },
+        {
+          "word": "no",
+          "start": 153.8,
+          "end": 154.16
+        },
+        {
+          "word": "hay",
+          "start": 154.16,
+          "end": 154.74
+        },
+        {
+          "word": "otro",
+          "start": 154.74,
+          "end": 155.28
+        },
+        {
+          "word": "amigo,",
+          "start": 155.28,
+          "end": 156.62
+        }
+      ],
+      "start": 151.58,
+      "end": 164.24,
+      "confidence": 1.0,
+      "time": 151.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "ni uno hay, ni uno hay.",
+      "start": 164.24,
+      "end": 172.93,
+      "confidence": 0.0,
+      "time": 164.24
+    }
+  ]
+}

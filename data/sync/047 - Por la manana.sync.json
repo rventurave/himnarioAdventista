@@ -1,0 +1,549 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.929,
+  "language": "es",
+  "model": "medium",
+  "hymn": 47,
+  "source": "047 - Por la manana.mp3",
+  "duration": 107.6,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Por la mañana, ¡oh Señor!,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Por",
+          "start": 10.82,
+          "end": 12.22
+        },
+        {
+          "word": "la",
+          "start": 12.22,
+          "end": 13.38
+        },
+        {
+          "word": "mañana,",
+          "start": 13.38,
+          "end": 14.98
+        },
+        {
+          "word": "oh",
+          "start": 15.82,
+          "end": 16.12
+        },
+        {
+          "word": "Señor,",
+          "start": 16.12,
+          "end": 17.38
+        }
+      ],
+      "start": 10.82,
+      "end": 17.98,
+      "confidence": 1.0,
+      "time": 10.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "elevo a ti mi voz;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "elevo",
+          "start": 17.98,
+          "end": 19.22
+        },
+        {
+          "word": "a",
+          "start": 19.22,
+          "end": 19.68
+        },
+        {
+          "word": "ti",
+          "start": 19.68,
+          "end": 20.36
+        },
+        {
+          "word": "mi",
+          "start": 20.36,
+          "end": 21.02
+        },
+        {
+          "word": "voz,",
+          "start": 21.02,
+          "end": 22.96
+        }
+      ],
+      "start": 17.98,
+      "end": 23.36,
+      "confidence": 1.0,
+      "time": 17.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a tu buen nombre doy loor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 23.36,
+          "end": 24.0
+        },
+        {
+          "word": "hombre",
+          "start": 25.76,
+          "end": 26.52
+        },
+        {
+          "word": "doy",
+          "start": 26.52,
+          "end": 27.96
+        },
+        {
+          "word": "lor,",
+          "start": 27.96,
+          "end": 28.62
+        }
+      ],
+      "start": 23.36,
+      "end": 28.62,
+      "confidence": 0.636,
+      "time": 23.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con gratitud, mi Dios.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "con",
+          "start": 28.62,
+          "end": 29.4
+        },
+        {
+          "word": "gratitud",
+          "start": 29.4,
+          "end": 31.88
+        },
+        {
+          "word": "mi",
+          "start": 31.88,
+          "end": 32.32
+        },
+        {
+          "word": "Dios.",
+          "start": 32.32,
+          "end": 34.02
+        }
+      ],
+      "start": 28.62,
+      "end": 34.02,
+      "confidence": 1.0,
+      "time": 28.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "El sol brillante ya salió,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "El",
+          "start": 34.82,
+          "end": 35.16
+        },
+        {
+          "word": "sol",
+          "start": 35.16,
+          "end": 36.28
+        },
+        {
+          "word": "brillante",
+          "start": 36.28,
+          "end": 38.08
+        },
+        {
+          "word": "ya",
+          "start": 38.08,
+          "end": 39.16
+        },
+        {
+          "word": "salió",
+          "start": 39.16,
+          "end": 40.5
+        }
+      ],
+      "start": 34.82,
+      "end": 40.5,
+      "confidence": 1.0,
+      "time": 34.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "camino en su luz;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "camino",
+          "start": 40.5,
+          "end": 42.3
+        },
+        {
+          "word": "en",
+          "start": 42.3,
+          "end": 43.56
+        },
+        {
+          "word": "su",
+          "start": 43.56,
+          "end": 44.04
+        },
+        {
+          "word": "luz",
+          "start": 44.04,
+          "end": 45.98
+        }
+      ],
+      "start": 40.5,
+      "end": 45.98,
+      "confidence": 1.0,
+      "time": 40.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "del Salvador es símbolo,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "del",
+          "start": 45.98,
+          "end": 46.7
+        },
+        {
+          "word": "Salvador",
+          "start": 46.7,
+          "end": 48.58
+        },
+        {
+          "word": "es",
+          "start": 48.58,
+          "end": 50.04
+        },
+        {
+          "word": "símbolo",
+          "start": 50.04,
+          "end": 51.92
+        }
+      ],
+      "start": 45.98,
+      "end": 51.92,
+      "confidence": 1.0,
+      "time": 45.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "del magno Rey, Jesús.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "del",
+          "start": 51.92,
+          "end": 52.44
+        },
+        {
+          "word": "Magno",
+          "start": 52.44,
+          "end": 53.86
+        },
+        {
+          "word": "Rey",
+          "start": 53.86,
+          "end": 54.78
+        },
+        {
+          "word": "Jesús.",
+          "start": 54.78,
+          "end": 56.58
+        }
+      ],
+      "start": 51.92,
+      "end": 56.58,
+      "confidence": 1.0,
+      "time": 51.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Los cielos cuentan al que cree",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Los",
+          "start": 56.58,
+          "end": 58.16
+        },
+        {
+          "word": "cielos",
+          "start": 58.16,
+          "end": 59.62
+        },
+        {
+          "word": "cuentan",
+          "start": 59.62,
+          "end": 61.58
+        },
+        {
+          "word": "al",
+          "start": 61.58,
+          "end": 62.08
+        },
+        {
+          "word": "que",
+          "start": 62.08,
+          "end": 62.68
+        },
+        {
+          "word": "cree",
+          "start": 62.68,
+          "end": 63.34
+        }
+      ],
+      "start": 56.58,
+      "end": 63.34,
+      "confidence": 1.0,
+      "time": 56.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la gloria del Señor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 63.34,
+          "end": 63.94
+        },
+        {
+          "word": "gloria",
+          "start": 63.94,
+          "end": 65.28
+        },
+        {
+          "word": "del",
+          "start": 65.28,
+          "end": 66.28
+        },
+        {
+          "word": "Señor,",
+          "start": 66.28,
+          "end": 68.8
+        }
+      ],
+      "start": 63.34,
+      "end": 68.8,
+      "confidence": 1.0,
+      "time": 63.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la llama avivan de la fe",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 69.44,
+          "end": 69.82
+        },
+        {
+          "word": "llama",
+          "start": 69.82,
+          "end": 70.98
+        },
+        {
+          "word": "de",
+          "start": 72.44,
+          "end": 73.52
+        },
+        {
+          "word": "la",
+          "start": 73.52,
+          "end": 74.08
+        },
+        {
+          "word": "fe",
+          "start": 74.08,
+          "end": 74.6
+        }
+      ],
+      "start": 69.44,
+      "end": 74.6,
+      "confidence": 0.833,
+      "time": 69.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y alientan el amor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 74.6,
+          "end": 75.2
+        },
+        {
+          "word": "alientan",
+          "start": 75.2,
+          "end": 77.04
+        },
+        {
+          "word": "el",
+          "start": 77.04,
+          "end": 78.04
+        },
+        {
+          "word": "amor.",
+          "start": 78.04,
+          "end": 79.58
+        }
+      ],
+      "start": 74.6,
+      "end": 79.58,
+      "confidence": 1.0,
+      "time": 74.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "En la mañana eterna, pues,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "En",
+          "start": 79.58,
+          "end": 81.28
+        },
+        {
+          "word": "la",
+          "start": 81.28,
+          "end": 82.34
+        },
+        {
+          "word": "mañana",
+          "start": 82.34,
+          "end": 83.76
+        },
+        {
+          "word": "eterna",
+          "start": 83.76,
+          "end": 85.32
+        },
+        {
+          "word": "pues,",
+          "start": 85.32,
+          "end": 86.36
+        }
+      ],
+      "start": 79.58,
+      "end": 86.94,
+      "confidence": 1.0,
+      "time": 79.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "contigo cuando esté,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "contigo",
+          "start": 86.94,
+          "end": 88.32
+        },
+        {
+          "word": "cuando",
+          "start": 88.32,
+          "end": 89.44
+        },
+        {
+          "word": "esté",
+          "start": 89.44,
+          "end": 91.84
+        }
+      ],
+      "start": 86.94,
+      "end": 91.84,
+      "confidence": 1.0,
+      "time": 86.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "yo del Cordero y de Moisés",
+      "verse": 4,
+      "words": [
+        {
+          "word": "de",
+          "start": 94.08,
+          "end": 94.98
+        },
+        {
+          "word": "y",
+          "start": 95.3,
+          "end": 95.48
+        },
+        {
+          "word": "de",
+          "start": 95.48,
+          "end": 96.52
+        },
+        {
+          "word": "Moisés,",
+          "start": 96.52,
+          "end": 97.72
+        }
+      ],
+      "start": 94.08,
+      "end": 98.28,
+      "confidence": 0.657,
+      "time": 94.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "el himno entonaré.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "el",
+          "start": 98.28,
+          "end": 98.62
+        },
+        {
+          "word": "himno",
+          "start": 98.62,
+          "end": 99.76
+        },
+        {
+          "word": "entonaré",
+          "start": 99.76,
+          "end": 102.58
+        }
+      ],
+      "start": 98.28,
+      "end": 102.58,
+      "confidence": 1.0,
+      "time": 98.28
+    }
+  ]
+}

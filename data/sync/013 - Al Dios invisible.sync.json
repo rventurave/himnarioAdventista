@@ -1,0 +1,589 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.781,
+  "language": "es",
+  "model": "medium",
+  "hymn": 13,
+  "source": "013 - Al Dios invisible.mp3",
+  "duration": 138.97,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Al Dios invisible, al Rey inmortal,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Al",
+          "start": 13.44,
+          "end": 14.84
+        },
+        {
+          "word": "dios",
+          "start": 14.84,
+          "end": 15.72
+        },
+        {
+          "word": "invisible,",
+          "start": 15.72,
+          "end": 17.44
+        },
+        {
+          "word": "al",
+          "start": 18.16,
+          "end": 18.44
+        },
+        {
+          "word": "rey",
+          "start": 18.44,
+          "end": 19.28
+        },
+        {
+          "word": "inmortal,",
+          "start": 19.28,
+          "end": 20.68
+        }
+      ],
+      "start": 13.44,
+      "end": 21.7,
+      "confidence": 1.0,
+      "time": 13.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que habita en la altura y en la santidad;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "habita",
+          "start": 21.7,
+          "end": 22.6
+        },
+        {
+          "word": "en",
+          "start": 22.6,
+          "end": 23.1
+        },
+        {
+          "word": "la",
+          "start": 23.1,
+          "end": 23.36
+        },
+        {
+          "word": "altura",
+          "start": 23.36,
+          "end": 24.12
+        },
+        {
+          "word": "y",
+          "start": 24.12,
+          "end": 24.84
+        },
+        {
+          "word": "en",
+          "start": 24.84,
+          "end": 25.34
+        },
+        {
+          "word": "la",
+          "start": 25.34,
+          "end": 25.76
+        },
+        {
+          "word": "santidad.",
+          "start": 25.76,
+          "end": 27.52
+        }
+      ],
+      "start": 21.7,
+      "end": 27.52,
+      "confidence": 0.889,
+      "time": 21.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Anciano de días, Señor sin igual,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "del",
+          "start": 29.5,
+          "end": 30.3
+        },
+        {
+          "word": "día,",
+          "start": 30.3,
+          "end": 31.16
+        },
+        {
+          "word": "señores",
+          "start": 31.64,
+          "end": 32.64
+        }
+      ],
+      "start": 29.5,
+      "end": 34.16,
+      "confidence": 0.46,
+      "time": 29.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "rendimos honores con sinceridad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "rendimos",
+          "start": 34.68,
+          "end": 36.32
+        },
+        {
+          "word": "honores",
+          "start": 36.32,
+          "end": 37.92
+        },
+        {
+          "word": "con",
+          "start": 37.92,
+          "end": 38.52
+        },
+        {
+          "word": "sinceridad.",
+          "start": 38.52,
+          "end": 41.5
+        }
+      ],
+      "start": 34.68,
+      "end": 41.5,
+      "confidence": 1.0,
+      "time": 34.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Sin prisa, ni pausa, constante y leal,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Sin",
+          "start": 42.24,
+          "end": 42.82
+        },
+        {
+          "word": "prisa",
+          "start": 42.82,
+          "end": 43.84
+        },
+        {
+          "word": "ni",
+          "start": 43.84,
+          "end": 44.48
+        },
+        {
+          "word": "pausa,",
+          "start": 44.48,
+          "end": 45.56
+        },
+        {
+          "word": "constate",
+          "start": 45.6,
+          "end": 47.26
+        },
+        {
+          "word": "leal,",
+          "start": 47.26,
+          "end": 48.78
+        }
+      ],
+      "start": 42.24,
+      "end": 48.78,
+      "confidence": 0.852,
+      "time": 42.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "gobiernas el mundo con solicitud;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "gobiernas",
+          "start": 49.28,
+          "end": 50.72
+        },
+        {
+          "word": "el",
+          "start": 50.72,
+          "end": 51.28
+        },
+        {
+          "word": "mundo",
+          "start": 51.28,
+          "end": 52.08
+        },
+        {
+          "word": "con",
+          "start": 52.08,
+          "end": 52.74
+        },
+        {
+          "word": "solicitud.",
+          "start": 52.74,
+          "end": 55.36
+        }
+      ],
+      "start": 49.28,
+      "end": 55.36,
+      "confidence": 1.0,
+      "time": 49.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "tú muestras a todos justicia imparcial;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 55.36,
+          "end": 56.1
+        },
+        {
+          "word": "puestras",
+          "start": 56.1,
+          "end": 57.36
+        },
+        {
+          "word": "a",
+          "start": 57.36,
+          "end": 57.94
+        },
+        {
+          "word": "todos",
+          "start": 57.94,
+          "end": 58.82
+        },
+        {
+          "word": "justicia",
+          "start": 58.82,
+          "end": 60.28
+        },
+        {
+          "word": "parcial,",
+          "start": 60.68,
+          "end": 62.12
+        }
+      ],
+      "start": 55.36,
+      "end": 62.12,
+      "confidence": 0.975,
+      "time": 55.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "abundas en gracia, amor y virtud.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "abundance",
+          "start": 62.86,
+          "end": 64.3
+        },
+        {
+          "word": "gracia,",
+          "start": 64.68,
+          "end": 65.64
+        },
+        {
+          "word": "amor",
+          "start": 66.06,
+          "end": 66.78
+        },
+        {
+          "word": "y",
+          "start": 66.78,
+          "end": 67.42
+        },
+        {
+          "word": "virtud.",
+          "start": 67.42,
+          "end": 69.72
+        }
+      ],
+      "start": 62.86,
+      "end": 69.72,
+      "confidence": 0.808,
+      "time": 62.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "De cada ser vivo tú eres autor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ser",
+          "start": 71.86,
+          "end": 72.5
+        },
+        {
+          "word": "vivo,",
+          "start": 72.5,
+          "end": 73.16
+        },
+        {
+          "word": "tú",
+          "start": 73.28,
+          "end": 73.92
+        },
+        {
+          "word": "eres",
+          "start": 73.92,
+          "end": 75.16
+        },
+        {
+          "word": "autor,",
+          "start": 75.16,
+          "end": 76.28
+        }
+      ],
+      "start": 71.86,
+      "end": 76.28,
+      "confidence": 0.714,
+      "time": 71.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "sustentas la vida de todo mortal.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "sustentas",
+          "start": 77.1,
+          "end": 78.42
+        },
+        {
+          "word": "la",
+          "start": 78.42,
+          "end": 79.06
+        },
+        {
+          "word": "vida",
+          "start": 79.06,
+          "end": 79.88
+        },
+        {
+          "word": "de",
+          "start": 79.88,
+          "end": 80.68
+        },
+        {
+          "word": "todo",
+          "start": 80.68,
+          "end": 81.58
+        },
+        {
+          "word": "mortal.",
+          "start": 81.58,
+          "end": 82.82
+        }
+      ],
+      "start": 77.1,
+      "end": 82.82,
+      "confidence": 1.0,
+      "time": 77.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Nosotros morimos, cual por al calor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Nosotros",
+          "start": 82.82,
+          "end": 85.12
+        },
+        {
+          "word": "morimos",
+          "start": 85.12,
+          "end": 86.66
+        },
+        {
+          "word": "cual",
+          "start": 86.66,
+          "end": 87.18
+        },
+        {
+          "word": "cañón,",
+          "start": 88.64,
+          "end": 89.96
+        }
+      ],
+      "start": 82.82,
+      "end": 90.12,
+      "confidence": 0.627,
+      "time": 82.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mas tú permaneces por siempre inmortal.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mas",
+          "start": 90.12,
+          "end": 90.78
+        },
+        {
+          "word": "tu",
+          "start": 90.78,
+          "end": 91.52
+        },
+        {
+          "word": "permaneces",
+          "start": 91.52,
+          "end": 93.46
+        },
+        {
+          "word": "por",
+          "start": 93.46,
+          "end": 94.18
+        },
+        {
+          "word": "siempre",
+          "start": 94.18,
+          "end": 95.16
+        }
+      ],
+      "start": 90.12,
+      "end": 96.82,
+      "confidence": 0.833,
+      "time": 90.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Señor, te rodea infinito fulgor;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Señor",
+          "start": 98.44,
+          "end": 99.06
+        },
+        {
+          "word": "finito",
+          "start": 101.64,
+          "end": 102.8
+        }
+      ],
+      "start": 98.44,
+      "end": 105.08,
+      "confidence": 0.383,
+      "time": 98.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "los ángeles cubren su rostro ante ti.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "los",
+          "start": 105.08,
+          "end": 105.62
+        },
+        {
+          "word": "ángeles",
+          "start": 105.62,
+          "end": 106.92
+        },
+        {
+          "word": "su",
+          "start": 108.02,
+          "end": 108.64
+        },
+        {
+          "word": "rostro",
+          "start": 108.64,
+          "end": 109.76
+        },
+        {
+          "word": "ante",
+          "start": 109.76,
+          "end": 110.46
+        },
+        {
+          "word": "ti,",
+          "start": 110.46,
+          "end": 111.12
+        }
+      ],
+      "start": 105.08,
+      "end": 111.12,
+      "confidence": 0.857,
+      "time": 105.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Nosotros con gran reverencia y fervor,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Nos",
+          "start": 111.12,
+          "end": 112.34
+        },
+        {
+          "word": "eternidad,",
+          "start": 116.68,
+          "end": 118.28
+        },
+        {
+          "word": "y",
+          "start": 118.9,
+          "end": 119.12
+        }
+      ],
+      "start": 111.12,
+      "end": 119.12,
+      "confidence": 0.453,
+      "time": 111.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "te damos sincera alabanza aquí.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "damos",
+          "start": 119.12,
+          "end": 120.12
+        },
+        {
+          "word": "sincera",
+          "start": 120.12,
+          "end": 121.8
+        },
+        {
+          "word": "a",
+          "start": 123.36,
+          "end": 124.78
+        }
+      ],
+      "start": 119.12,
+      "end": 125.66,
+      "confidence": 0.588,
+      "time": 119.12
+    }
+  ]
+}

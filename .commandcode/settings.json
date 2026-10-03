@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Shell(node range-server.mjs)",
+      "Shell(curl -s -D - -o /dev/null -H Range: bytes=100-200 http://localhost:8124/data/audios/cantadas/001%20-%20Cantad%20alegres%20al%20Senor.mp3)",
+      "Shell(sed:*)",
+      "Shell(node e2e3.mjs 2 >& 1)"
+    ],
+    "deny": [],
+    "defaultMode": "default"
+  }
+}

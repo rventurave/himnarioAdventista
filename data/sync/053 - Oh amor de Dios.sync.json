@@ -1,0 +1,1107 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.971,
+  "language": "es",
+  "model": "medium",
+  "hymn": 53,
+  "source": "053 - Oh amor de Dios.mp3",
+  "duration": 212.92,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh amor de Dios!, tu inmensidad,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Amor",
+          "start": 26.12,
+          "end": 27.38
+        },
+        {
+          "word": "de",
+          "start": 27.38,
+          "end": 27.64
+        },
+        {
+          "word": "Dios,",
+          "start": 27.64,
+          "end": 28.66
+        },
+        {
+          "word": "tu",
+          "start": 28.72,
+          "end": 29.04
+        },
+        {
+          "word": "inmensidad,",
+          "start": 29.04,
+          "end": 29.98
+        }
+      ],
+      "start": 26.12,
+      "end": 29.98,
+      "confidence": 0.833,
+      "time": 26.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "el hombre no podrá contar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "El",
+          "start": 29.98,
+          "end": 31.6
+        },
+        {
+          "word": "hombre",
+          "start": 31.6,
+          "end": 32.46
+        },
+        {
+          "word": "no",
+          "start": 32.46,
+          "end": 33.72
+        },
+        {
+          "word": "podrá",
+          "start": 33.72,
+          "end": 34.72
+        },
+        {
+          "word": "contar",
+          "start": 34.72,
+          "end": 35.98
+        }
+      ],
+      "start": 29.98,
+      "end": 35.98,
+      "confidence": 1.0,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ni comprender la gran verdad:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ni",
+          "start": 35.98,
+          "end": 36.98
+        },
+        {
+          "word": "comprender",
+          "start": 36.98,
+          "end": 38.68
+        },
+        {
+          "word": "la",
+          "start": 38.68,
+          "end": 39.18
+        },
+        {
+          "word": "gran",
+          "start": 39.18,
+          "end": 39.74
+        },
+        {
+          "word": "verdad",
+          "start": 39.74,
+          "end": 41.04
+        }
+      ],
+      "start": 35.98,
+      "end": 41.04,
+      "confidence": 1.0,
+      "time": 35.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que Dios al hombre pudo amar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 41.04,
+          "end": 41.68
+        },
+        {
+          "word": "Dios",
+          "start": 41.68,
+          "end": 42.34
+        },
+        {
+          "word": "al",
+          "start": 42.34,
+          "end": 42.94
+        },
+        {
+          "word": "hombre",
+          "start": 42.94,
+          "end": 44.0
+        },
+        {
+          "word": "pudo",
+          "start": 44.0,
+          "end": 44.92
+        },
+        {
+          "word": "amar.",
+          "start": 44.92,
+          "end": 45.62
+        }
+      ],
+      "start": 41.04,
+      "end": 45.62,
+      "confidence": 1.0,
+      "time": 41.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cuando el pecar entró al hogar de Adán y Eva en Edén,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 45.92,
+          "end": 46.88
+        },
+        {
+          "word": "el",
+          "start": 46.88,
+          "end": 47.42
+        },
+        {
+          "word": "pecar",
+          "start": 47.42,
+          "end": 48.78
+        },
+        {
+          "word": "entró",
+          "start": 48.78,
+          "end": 49.6
+        },
+        {
+          "word": "al",
+          "start": 49.6,
+          "end": 49.86
+        },
+        {
+          "word": "hogar",
+          "start": 49.86,
+          "end": 51.34
+        },
+        {
+          "word": "de",
+          "start": 51.34,
+          "end": 51.66
+        },
+        {
+          "word": "Adán",
+          "start": 51.66,
+          "end": 52.42
+        },
+        {
+          "word": "y",
+          "start": 52.42,
+          "end": 53.18
+        },
+        {
+          "word": "Eva",
+          "start": 53.18,
+          "end": 53.92
+        },
+        {
+          "word": "en",
+          "start": 53.92,
+          "end": 54.54
+        },
+        {
+          "word": "Edén",
+          "start": 54.54,
+          "end": 55.24
+        }
+      ],
+      "start": 45.92,
+      "end": 55.24,
+      "confidence": 1.0,
+      "time": 45.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Dios los sacó, mas prometió un Salvador también.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 55.24,
+          "end": 56.58
+        },
+        {
+          "word": "lo",
+          "start": 56.58,
+          "end": 57.34
+        },
+        {
+          "word": "sacó,",
+          "start": 57.34,
+          "end": 58.62
+        },
+        {
+          "word": "más",
+          "start": 58.92,
+          "end": 59.32
+        },
+        {
+          "word": "prometió,",
+          "start": 59.32,
+          "end": 61.14
+        },
+        {
+          "word": "un",
+          "start": 61.4,
+          "end": 61.62
+        },
+        {
+          "word": "Salvador",
+          "start": 61.62,
+          "end": 63.5
+        },
+        {
+          "word": "también.",
+          "start": 63.5,
+          "end": 65.24
+        }
+      ],
+      "start": 55.24,
+      "end": 65.24,
+      "confidence": 0.993,
+      "time": 55.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh amor de Dios!, brotando estás,",
+      "words": [
+        {
+          "word": "amor",
+          "start": 66.46,
+          "end": 67.22
+        },
+        {
+          "word": "de",
+          "start": 67.22,
+          "end": 67.56
+        },
+        {
+          "word": "Dios",
+          "start": 67.56,
+          "end": 68.7
+        },
+        {
+          "word": "brotando",
+          "start": 68.7,
+          "end": 69.92
+        },
+        {
+          "word": "estás,",
+          "start": 69.92,
+          "end": 71.26
+        }
+      ],
+      "start": 66.46,
+      "end": 71.72,
+      "confidence": 0.833,
+      "time": 66.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "inmensurable, eternal,",
+      "words": [
+        {
+          "word": "inmensurable,",
+          "start": 71.72,
+          "end": 73.6
+        },
+        {
+          "word": "eternal.",
+          "start": 74.18,
+          "end": 75.24
+        }
+      ],
+      "start": 71.72,
+      "end": 75.24,
+      "confidence": 1.0,
+      "time": 71.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "por las edades durarás",
+      "words": [
+        {
+          "word": "Por",
+          "start": 75.24,
+          "end": 76.66
+        },
+        {
+          "word": "las",
+          "start": 76.66,
+          "end": 77.4
+        },
+        {
+          "word": "edades",
+          "start": 77.4,
+          "end": 79.08
+        },
+        {
+          "word": "durarás",
+          "start": 79.08,
+          "end": 81.42
+        }
+      ],
+      "start": 75.24,
+      "end": 81.42,
+      "confidence": 1.0,
+      "time": 75.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "inagotable raudal.",
+      "words": [
+        {
+          "word": "inagodable",
+          "start": 81.42,
+          "end": 84.18
+        },
+        {
+          "word": "raudal.",
+          "start": 84.18,
+          "end": 85.24
+        }
+      ],
+      "start": 81.42,
+      "end": 85.24,
+      "confidence": 0.97,
+      "time": 81.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si fuera tinta todo el mar, y todo el cielo un gran papel,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 86.3,
+          "end": 86.96
+        },
+        {
+          "word": "fuera",
+          "start": 86.96,
+          "end": 87.84
+        },
+        {
+          "word": "tinta",
+          "start": 87.84,
+          "end": 89.48
+        },
+        {
+          "word": "todo",
+          "start": 89.48,
+          "end": 90.24
+        },
+        {
+          "word": "el",
+          "start": 90.24,
+          "end": 90.52
+        },
+        {
+          "word": "mar",
+          "start": 90.52,
+          "end": 91.56
+        },
+        {
+          "word": "y",
+          "start": 91.56,
+          "end": 92.32
+        },
+        {
+          "word": "todo",
+          "start": 92.32,
+          "end": 92.7
+        },
+        {
+          "word": "el",
+          "start": 92.7,
+          "end": 93.06
+        },
+        {
+          "word": "cielo",
+          "start": 93.06,
+          "end": 94.12
+        },
+        {
+          "word": "un",
+          "start": 94.12,
+          "end": 94.68
+        },
+        {
+          "word": "gran",
+          "start": 94.68,
+          "end": 95.1
+        },
+        {
+          "word": "papel,",
+          "start": 95.1,
+          "end": 95.8
+        }
+      ],
+      "start": 86.3,
+      "end": 95.8,
+      "confidence": 1.0,
+      "time": 86.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y todo hombre un escritor, y cada hoja un pincel,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Y",
+          "start": 95.8,
+          "end": 97.1
+        },
+        {
+          "word": "todo",
+          "start": 97.1,
+          "end": 97.96
+        },
+        {
+          "word": "hombre",
+          "start": 97.96,
+          "end": 99.26
+        },
+        {
+          "word": "un",
+          "start": 99.26,
+          "end": 99.86
+        },
+        {
+          "word": "escritor",
+          "start": 99.86,
+          "end": 101.48
+        },
+        {
+          "word": "Y",
+          "start": 101.48,
+          "end": 101.98
+        },
+        {
+          "word": "cada",
+          "start": 101.98,
+          "end": 102.9
+        },
+        {
+          "word": "hoja",
+          "start": 102.9,
+          "end": 104.48
+        },
+        {
+          "word": "un",
+          "start": 104.48,
+          "end": 105.08
+        },
+        {
+          "word": "pincel",
+          "start": 105.08,
+          "end": 105.8
+        }
+      ],
+      "start": 95.8,
+      "end": 105.8,
+      "confidence": 1.0,
+      "time": 95.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "para expresar su gran amor, no bastarían jamás.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Para",
+          "start": 106.46,
+          "end": 107.32
+        },
+        {
+          "word": "expresar",
+          "start": 107.32,
+          "end": 109.06
+        },
+        {
+          "word": "su",
+          "start": 109.06,
+          "end": 109.5
+        },
+        {
+          "word": "gran",
+          "start": 109.5,
+          "end": 110.12
+        },
+        {
+          "word": "amor",
+          "start": 110.12,
+          "end": 111.46
+        },
+        {
+          "word": "No",
+          "start": 111.46,
+          "end": 112.04
+        },
+        {
+          "word": "bastarían",
+          "start": 112.04,
+          "end": 114.46
+        },
+        {
+          "word": "jamás",
+          "start": 114.46,
+          "end": 116.3
+        }
+      ],
+      "start": 106.46,
+      "end": 116.3,
+      "confidence": 1.0,
+      "time": 106.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Él me salvó, y me lavó y me da el cielo además.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Él",
+          "start": 116.3,
+          "end": 116.96
+        },
+        {
+          "word": "me",
+          "start": 116.96,
+          "end": 117.68
+        },
+        {
+          "word": "salvó,",
+          "start": 117.68,
+          "end": 119.08
+        },
+        {
+          "word": "y",
+          "start": 119.38,
+          "end": 119.62
+        },
+        {
+          "word": "me",
+          "start": 119.62,
+          "end": 120.14
+        },
+        {
+          "word": "labó,",
+          "start": 120.14,
+          "end": 121.5
+        },
+        {
+          "word": "y",
+          "start": 121.72,
+          "end": 122.1
+        },
+        {
+          "word": "me",
+          "start": 122.1,
+          "end": 122.54
+        },
+        {
+          "word": "da",
+          "start": 122.54,
+          "end": 122.68
+        },
+        {
+          "word": "el",
+          "start": 122.68,
+          "end": 123.02
+        },
+        {
+          "word": "Cielo",
+          "start": 123.02,
+          "end": 124.42
+        },
+        {
+          "word": "además.",
+          "start": 124.42,
+          "end": 126.16
+        }
+      ],
+      "start": 116.3,
+      "end": 126.16,
+      "confidence": 0.987,
+      "time": 116.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh amor de Dios!, brotando estás,",
+      "words": [
+        {
+          "word": "amor",
+          "start": 126.86,
+          "end": 127.62
+        },
+        {
+          "word": "de",
+          "start": 127.62,
+          "end": 127.96
+        },
+        {
+          "word": "Dios",
+          "start": 127.96,
+          "end": 129.08
+        },
+        {
+          "word": "brotando",
+          "start": 129.08,
+          "end": 130.28
+        },
+        {
+          "word": "estás,",
+          "start": 130.28,
+          "end": 131.64
+        }
+      ],
+      "start": 126.86,
+      "end": 132.12,
+      "confidence": 0.833,
+      "time": 126.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "inmensurable, eternal,",
+      "words": [
+        {
+          "word": "inmensurable,",
+          "start": 132.12,
+          "end": 133.92
+        },
+        {
+          "word": "eternal.",
+          "start": 134.56,
+          "end": 136.38
+        }
+      ],
+      "start": 132.12,
+      "end": 136.38,
+      "confidence": 1.0,
+      "time": 132.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "por las edades durarás",
+      "words": [
+        {
+          "word": "Por",
+          "start": 136.38,
+          "end": 137.16
+        },
+        {
+          "word": "las",
+          "start": 137.16,
+          "end": 137.84
+        },
+        {
+          "word": "edades",
+          "start": 137.84,
+          "end": 139.52
+        },
+        {
+          "word": "durarás",
+          "start": 139.52,
+          "end": 141.84
+        }
+      ],
+      "start": 136.38,
+      "end": 141.84,
+      "confidence": 1.0,
+      "time": 136.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "inagotable raudal.",
+      "words": [
+        {
+          "word": "inagotable",
+          "start": 141.84,
+          "end": 144.5
+        },
+        {
+          "word": "raudar.",
+          "start": 144.5,
+          "end": 146.54
+        }
+      ],
+      "start": 141.84,
+      "end": 146.54,
+      "confidence": 0.95,
+      "time": 141.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Yo sé que el mundo pasará, con cada trama y plan carnal,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 147.02,
+          "end": 147.52
+        },
+        {
+          "word": "sé",
+          "start": 147.52,
+          "end": 148.08
+        },
+        {
+          "word": "que",
+          "start": 148.08,
+          "end": 148.36
+        },
+        {
+          "word": "el",
+          "start": 148.36,
+          "end": 148.76
+        },
+        {
+          "word": "mundo",
+          "start": 148.76,
+          "end": 150.02
+        },
+        {
+          "word": "pasará",
+          "start": 150.02,
+          "end": 152.0
+        },
+        {
+          "word": "con",
+          "start": 152.0,
+          "end": 152.6
+        },
+        {
+          "word": "cada",
+          "start": 152.6,
+          "end": 153.46
+        },
+        {
+          "word": "trama",
+          "start": 153.46,
+          "end": 154.72
+        },
+        {
+          "word": "y",
+          "start": 154.72,
+          "end": 155.06
+        },
+        {
+          "word": "plan",
+          "start": 155.06,
+          "end": 155.6
+        },
+        {
+          "word": "carnal",
+          "start": 155.6,
+          "end": 156.78
+        }
+      ],
+      "start": 147.02,
+      "end": 156.78,
+      "confidence": 1.0,
+      "time": 147.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y todo reino caerá, con cada trono mundanal.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 156.78,
+          "end": 157.62
+        },
+        {
+          "word": "todo",
+          "start": 157.62,
+          "end": 158.44
+        },
+        {
+          "word": "reino",
+          "start": 158.44,
+          "end": 159.96
+        },
+        {
+          "word": "caerá",
+          "start": 159.96,
+          "end": 162.08
+        },
+        {
+          "word": "con",
+          "start": 162.08,
+          "end": 162.56
+        },
+        {
+          "word": "cada",
+          "start": 162.56,
+          "end": 163.44
+        },
+        {
+          "word": "trono",
+          "start": 163.44,
+          "end": 165.04
+        },
+        {
+          "word": "mundial",
+          "start": 165.04,
+          "end": 166.32
+        }
+      ],
+      "start": 156.78,
+      "end": 166.32,
+      "confidence": 0.985,
+      "time": 156.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Pero el amor del Redentor por siempre durará;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Pero",
+          "start": 166.86,
+          "end": 167.74
+        },
+        {
+          "word": "el",
+          "start": 167.74,
+          "end": 168.4
+        },
+        {
+          "word": "amor",
+          "start": 168.4,
+          "end": 169.58
+        },
+        {
+          "word": "del",
+          "start": 169.58,
+          "end": 170.18
+        },
+        {
+          "word": "Redentor",
+          "start": 170.18,
+          "end": 172.12
+        },
+        {
+          "word": "por",
+          "start": 172.12,
+          "end": 172.68
+        },
+        {
+          "word": "siempre",
+          "start": 172.68,
+          "end": 173.42
+        },
+        {
+          "word": "durará",
+          "start": 173.42,
+          "end": 176.74
+        }
+      ],
+      "start": 166.86,
+      "end": 176.74,
+      "confidence": 1.0,
+      "time": 166.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "la gran canción de salvación su pueblo entonará.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "La",
+          "start": 176.74,
+          "end": 177.56
+        },
+        {
+          "word": "gran",
+          "start": 177.56,
+          "end": 178.14
+        },
+        {
+          "word": "canción",
+          "start": 178.14,
+          "end": 179.52
+        },
+        {
+          "word": "de",
+          "start": 179.52,
+          "end": 180.2
+        },
+        {
+          "word": "salvación",
+          "start": 180.2,
+          "end": 182.14
+        },
+        {
+          "word": "su",
+          "start": 182.14,
+          "end": 182.58
+        },
+        {
+          "word": "pueblo",
+          "start": 182.58,
+          "end": 183.46
+        },
+        {
+          "word": "entonará.",
+          "start": 183.46,
+          "end": 186.82
+        }
+      ],
+      "start": 176.74,
+      "end": 186.82,
+      "confidence": 1.0,
+      "time": 176.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh amor de Dios!, brotando estás,",
+      "words": [
+        {
+          "word": "Amor",
+          "start": 187.3,
+          "end": 188.28
+        },
+        {
+          "word": "de",
+          "start": 188.28,
+          "end": 188.58
+        },
+        {
+          "word": "Dios,",
+          "start": 188.58,
+          "end": 189.7
+        },
+        {
+          "word": "brotando",
+          "start": 189.76,
+          "end": 190.9
+        },
+        {
+          "word": "estás,",
+          "start": 190.9,
+          "end": 192.14
+        }
+      ],
+      "start": 187.3,
+      "end": 192.66,
+      "confidence": 0.833,
+      "time": 187.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "inmensurable, eternal,",
+      "words": [
+        {
+          "word": "inmensurable,",
+          "start": 192.66,
+          "end": 194.7
+        },
+        {
+          "word": "eterna.",
+          "start": 195.2,
+          "end": 196.34
+        }
+      ],
+      "start": 192.66,
+      "end": 196.34,
+      "confidence": 0.97,
+      "time": 192.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "por las edades durarás",
+      "words": [
+        {
+          "word": "Por",
+          "start": 196.34,
+          "end": 197.78
+        },
+        {
+          "word": "las",
+          "start": 197.78,
+          "end": 198.44
+        },
+        {
+          "word": "edades",
+          "start": 198.44,
+          "end": 200.12
+        },
+        {
+          "word": "durarás,",
+          "start": 200.12,
+          "end": 202.5
+        }
+      ],
+      "start": 196.34,
+      "end": 202.98,
+      "confidence": 1.0,
+      "time": 196.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "inagotable raudal.",
+      "words": [
+        {
+          "word": "inagotable",
+          "start": 202.98,
+          "end": 205.4
+        },
+        {
+          "word": "raúl.",
+          "start": 205.4,
+          "end": 207.36
+        }
+      ],
+      "start": 202.98,
+      "end": 207.36,
+      "confidence": 0.94,
+      "time": 202.98
+    }
+  ]
+}

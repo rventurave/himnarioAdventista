@@ -1,0 +1,896 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.772,
+  "language": "es",
+  "model": "medium",
+  "hymn": 172,
+  "source": "172 - Promesa dulce.mp3",
+  "duration": 195.34,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Promesa dulce: \"Yo vendré,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Promesa",
+          "start": 21.82,
+          "end": 23.22
+        },
+        {
+          "word": "dulce",
+          "start": 23.22,
+          "end": 24.48
+        },
+        {
+          "word": "yo",
+          "start": 24.48,
+          "end": 25.2
+        },
+        {
+          "word": "prendré",
+          "start": 25.2,
+          "end": 26.2
+        }
+      ],
+      "start": 21.82,
+      "end": 26.2,
+      "confidence": 0.965,
+      "time": 21.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y a los que sufren salvaré\".",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 26.9,
+          "end": 27.44
+        },
+        {
+          "word": "los",
+          "start": 27.44,
+          "end": 27.88
+        },
+        {
+          "word": "su",
+          "start": 28.3,
+          "end": 28.78
+        },
+        {
+          "word": "salvaré",
+          "start": 29.32,
+          "end": 31.22
+        }
+      ],
+      "start": 26.9,
+      "end": 31.22,
+      "confidence": 0.657,
+      "time": 26.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Responde mi alma: \"Presto ven;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Responde",
+          "start": 31.22,
+          "end": 32.9
+        },
+        {
+          "word": "mi",
+          "start": 32.9,
+          "end": 33.32
+        },
+        {
+          "word": "alma,",
+          "start": 33.32,
+          "end": 34.18
+        },
+        {
+          "word": "prescobré",
+          "start": 34.52,
+          "end": 37.2
+        }
+      ],
+      "start": 31.22,
+      "end": 37.2,
+      "confidence": 0.76,
+      "time": 31.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ansioso esperaré\".",
+      "verse": 1,
+      "words": [
+        {
+          "word": "A",
+          "start": 37.2,
+          "end": 38.08
+        },
+        {
+          "word": "esperaré",
+          "start": 39.24,
+          "end": 42.1
+        }
+      ],
+      "start": 37.2,
+      "end": 42.1,
+      "confidence": 0.97,
+      "time": 37.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Ven, Señor, mi Redentor!",
+      "start": 42.1,
+      "end": 42.3,
+      "confidence": 0.0,
+      "time": 42.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Ven, Señor, mi Redentor!",
+      "words": [
+        {
+          "word": "Ven,",
+          "start": 42.1,
+          "end": 42.96
+        },
+        {
+          "word": "Señor,",
+          "start": 43.04,
+          "end": 44.64
+        },
+        {
+          "word": "mi",
+          "start": 44.84,
+          "end": 44.98
+        },
+        {
+          "word": "Redentor",
+          "start": 44.98,
+          "end": 51.98
+        }
+      ],
+      "start": 42.3,
+      "end": 42.5,
+      "confidence": 1.0,
+      "time": 42.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Responde mi alma: \"¡Presto ven,",
+      "words": [
+        {
+          "word": "Responde",
+          "start": 51.98,
+          "end": 54.04
+        },
+        {
+          "word": "mi",
+          "start": 54.04,
+          "end": 54.46
+        },
+        {
+          "word": "alma,",
+          "start": 54.46,
+          "end": 55.22
+        },
+        {
+          "word": "presto",
+          "start": 55.5,
+          "end": 57.34
+        },
+        {
+          "word": "ver,",
+          "start": 57.34,
+          "end": 58.16
+        }
+      ],
+      "start": 51.98,
+      "end": 58.86,
+      "confidence": 0.96,
+      "time": 51.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Señor, mi Redentor!\"",
+      "words": [
+        {
+          "word": "Señor",
+          "start": 58.86,
+          "end": 60.14
+        },
+        {
+          "word": "mi",
+          "start": 60.14,
+          "end": 60.9
+        },
+        {
+          "word": "Redentor.",
+          "start": 60.9,
+          "end": 63.36
+        }
+      ],
+      "start": 58.86,
+      "end": 63.36,
+      "confidence": 1.0,
+      "time": 58.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Los santos vuelven a vivir,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Los",
+          "start": 63.68,
+          "end": 64.38
+        },
+        {
+          "word": "santos",
+          "start": 64.38,
+          "end": 65.56
+        },
+        {
+          "word": "vuelven",
+          "start": 65.56,
+          "end": 66.92
+        },
+        {
+          "word": "a",
+          "start": 66.92,
+          "end": 67.56
+        },
+        {
+          "word": "vivir,",
+          "start": 67.56,
+          "end": 68.26
+        }
+      ],
+      "start": 63.68,
+      "end": 69.02,
+      "confidence": 1.0,
+      "time": 63.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al cielo todos subirán;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 69.02,
+          "end": 69.34
+        },
+        {
+          "word": "cielo",
+          "start": 69.34,
+          "end": 70.26
+        },
+        {
+          "word": "todos",
+          "start": 70.26,
+          "end": 71.54
+        },
+        {
+          "word": "subirán,",
+          "start": 71.54,
+          "end": 73.22
+        }
+      ],
+      "start": 69.02,
+      "end": 73.22,
+      "confidence": 1.0,
+      "time": 69.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y en tierra atado años mil",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 73.22,
+          "end": 73.96
+        },
+        {
+          "word": "entierro",
+          "start": 73.96,
+          "end": 75.22
+        },
+        {
+          "word": "atado",
+          "start": 75.22,
+          "end": 76.52
+        },
+        {
+          "word": "a",
+          "start": 76.52,
+          "end": 77.2
+        },
+        {
+          "word": "mío,",
+          "start": 77.82,
+          "end": 79.52
+        }
+      ],
+      "start": 73.22,
+      "end": 79.52,
+      "confidence": 0.761,
+      "time": 73.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ha de quedar Satán.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 80.06,
+          "end": 80.7
+        },
+        {
+          "word": "que",
+          "start": 81.34,
+          "end": 81.68
+        }
+      ],
+      "start": 80.06,
+      "end": 84.32,
+      "confidence": 0.435,
+      "time": 80.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Ven, Señor, mi Redentor!",
+      "words": [
+        {
+          "word": "Ven,",
+          "start": 84.76,
+          "end": 85.14
+        },
+        {
+          "word": "Señor,",
+          "start": 85.52,
+          "end": 86.72
+        },
+        {
+          "word": "mi",
+          "start": 87.06,
+          "end": 87.14
+        },
+        {
+          "word": "Redentor,",
+          "start": 87.14,
+          "end": 89.38
+        }
+      ],
+      "start": 84.76,
+      "end": 89.38,
+      "confidence": 1.0,
+      "time": 84.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Ven, Señor, mi Redentor!",
+      "words": [
+        {
+          "word": "ven,",
+          "start": 89.74,
+          "end": 90.0
+        },
+        {
+          "word": "Señor,",
+          "start": 90.0,
+          "end": 91.66
+        },
+        {
+          "word": "mi",
+          "start": 91.9,
+          "end": 92.0
+        },
+        {
+          "word": "Redentor,",
+          "start": 92.0,
+          "end": 94.4
+        }
+      ],
+      "start": 89.74,
+      "end": 94.4,
+      "confidence": 1.0,
+      "time": 89.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Responde mi alma: \"¡Presto ven,",
+      "words": [
+        {
+          "word": "mi",
+          "start": 96.36,
+          "end": 96.74
+        },
+        {
+          "word": "alma",
+          "start": 96.74,
+          "end": 97.52
+        },
+        {
+          "word": "puesto",
+          "start": 97.52,
+          "end": 98.56
+        }
+      ],
+      "start": 96.36,
+      "end": 100.2,
+      "confidence": 0.58,
+      "time": 96.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Señor, mi Redentor!\"",
+      "words": [
+        {
+          "word": "Señor",
+          "start": 100.2,
+          "end": 102.28
+        },
+        {
+          "word": "mi",
+          "start": 102.28,
+          "end": 103.3
+        },
+        {
+          "word": "Redentor,",
+          "start": 103.3,
+          "end": 105.62
+        }
+      ],
+      "start": 100.2,
+      "end": 105.62,
+      "confidence": 1.0,
+      "time": 100.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Desciende entonces la ciudad,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Descende",
+          "start": 106.18,
+          "end": 107.52
+        },
+        {
+          "word": "entonces",
+          "start": 107.52,
+          "end": 108.8
+        },
+        {
+          "word": "la",
+          "start": 108.8,
+          "end": 109.44
+        },
+        {
+          "word": "ciudad,",
+          "start": 109.44,
+          "end": 110.42
+        }
+      ],
+      "start": 106.18,
+      "end": 110.42,
+      "confidence": 0.991,
+      "time": 106.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "los malos levantados son",
+      "verse": 3,
+      "words": [
+        {
+          "word": "los",
+          "start": 110.88,
+          "end": 111.52
+        },
+        {
+          "word": "valios",
+          "start": 111.52,
+          "end": 112.58
+        },
+        {
+          "word": "levantados",
+          "start": 112.58,
+          "end": 114.9
+        },
+        {
+          "word": "son",
+          "start": 114.9,
+          "end": 115.54
+        }
+      ],
+      "start": 110.88,
+      "end": 115.54,
+      "confidence": 0.959,
+      "time": 110.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "a oír el fallo de su Juez:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "al",
+          "start": 115.54,
+          "end": 116.18
+        },
+        {
+          "word": "de",
+          "start": 118.48,
+          "end": 119.36
+        },
+        {
+          "word": "su",
+          "start": 119.36,
+          "end": 120.2
+        },
+        {
+          "word": "juez.",
+          "start": 120.2,
+          "end": 122.02
+        }
+      ],
+      "start": 115.54,
+      "end": 122.02,
+      "confidence": 0.543,
+      "time": 115.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "\"Eterna perdición\".",
+      "verse": 3,
+      "words": [
+        {
+          "word": "bendición",
+          "start": 123.72,
+          "end": 126.66
+        }
+      ],
+      "start": 123.72,
+      "end": 127.32,
+      "confidence": 0.433,
+      "time": 123.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Ven, Señor, mi Redentor!",
+      "words": [
+        {
+          "word": "Señor",
+          "start": 127.32,
+          "end": 129.04
+        },
+        {
+          "word": "mi",
+          "start": 129.04,
+          "end": 129.42
+        },
+        {
+          "word": "Redentor.",
+          "start": 129.42,
+          "end": 131.64
+        }
+      ],
+      "start": 127.32,
+      "end": 131.64,
+      "confidence": 0.75,
+      "time": 127.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Ven, Señor, mi Redentor!",
+      "words": [
+        {
+          "word": "Señor",
+          "start": 132.16,
+          "end": 133.86
+        },
+        {
+          "word": "mi",
+          "start": 133.86,
+          "end": 134.22
+        },
+        {
+          "word": "Redentor,",
+          "start": 134.22,
+          "end": 136.64
+        }
+      ],
+      "start": 132.16,
+      "end": 136.64,
+      "confidence": 0.75,
+      "time": 132.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Responde mi alma: \"¡Presto ven,",
+      "words": [
+        {
+          "word": "responde",
+          "start": 137.02,
+          "end": 138.48
+        },
+        {
+          "word": "mi",
+          "start": 138.48,
+          "end": 138.82
+        },
+        {
+          "word": "alma,",
+          "start": 138.82,
+          "end": 139.66
+        },
+        {
+          "word": "presto",
+          "start": 139.94,
+          "end": 141.18
+        },
+        {
+          "word": "ver.",
+          "start": 141.18,
+          "end": 142.46
+        }
+      ],
+      "start": 137.02,
+      "end": 142.46,
+      "confidence": 0.96,
+      "time": 137.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Señor, mi Redentor!\"",
+      "words": [
+        {
+          "word": "Señor",
+          "start": 143.16,
+          "end": 144.56
+        },
+        {
+          "word": "mi",
+          "start": 144.56,
+          "end": 145.14
+        },
+        {
+          "word": "Redentor,",
+          "start": 145.14,
+          "end": 147.92
+        }
+      ],
+      "start": 143.16,
+      "end": 147.92,
+      "confidence": 1.0,
+      "time": 143.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "El nuevo Edén florecerá",
+      "verse": 4,
+      "words": [
+        {
+          "word": "devuelvo",
+          "start": 148.74,
+          "end": 149.84
+        },
+        {
+          "word": "enflorescerá,",
+          "start": 150.34,
+          "end": 152.9
+        }
+      ],
+      "start": 148.74,
+      "end": 152.9,
+      "confidence": 0.421,
+      "time": 148.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "en hermosura celestial;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "celestial,",
+          "start": 155.88,
+          "end": 157.56
+        }
+      ],
+      "start": 155.88,
+      "end": 157.56,
+      "confidence": 0.333,
+      "time": 155.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "jamás la muerte turbará",
+      "verse": 4,
+      "words": [
+        {
+          "word": "jamás",
+          "start": 158.16,
+          "end": 159.38
+        },
+        {
+          "word": "la",
+          "start": 159.38,
+          "end": 159.66
+        },
+        {
+          "word": "muerte",
+          "start": 159.66,
+          "end": 160.66
+        },
+        {
+          "word": "tu",
+          "start": 160.66,
+          "end": 161.48
+        }
+      ],
+      "start": 158.16,
+      "end": 163.44,
+      "confidence": 0.985,
+      "time": 158.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "la playa inmortal.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "la",
+          "start": 164.3,
+          "end": 164.96
+        },
+        {
+          "word": "plaza",
+          "start": 164.96,
+          "end": 166.16
+        },
+        {
+          "word": "inmortal.",
+          "start": 166.16,
+          "end": 168.62
+        }
+      ],
+      "start": 164.3,
+      "end": 168.62,
+      "confidence": 0.96,
+      "time": 164.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Ven, Señor, mi Redentor!",
+      "start": 168.62,
+      "end": 168.82,
+      "confidence": 0.0,
+      "time": 168.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Ven, Señor, mi Redentor!",
+      "words": [
+        {
+          "word": "Ven,",
+          "start": 168.62,
+          "end": 169.52
+        },
+        {
+          "word": "Señor,",
+          "start": 171.02,
+          "end": 171.2
+        },
+        {
+          "word": "mi",
+          "start": 171.42,
+          "end": 171.62
+        },
+        {
+          "word": "Redentor.",
+          "start": 171.62,
+          "end": 178.42
+        }
+      ],
+      "start": 168.82,
+      "end": 169.02,
+      "confidence": 1.0,
+      "time": 168.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Responde mi alma: \"¡Presto ven,",
+      "words": [
+        {
+          "word": "Responde",
+          "start": 179.18,
+          "end": 180.58
+        },
+        {
+          "word": "mi",
+          "start": 180.58,
+          "end": 180.94
+        },
+        {
+          "word": "alma,",
+          "start": 180.94,
+          "end": 181.82
+        },
+        {
+          "word": "prescobreo,",
+          "start": 182.12,
+          "end": 184.62
+        }
+      ],
+      "start": 179.18,
+      "end": 184.62,
+      "confidence": 0.755,
+      "time": 179.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Señor, mi Redentor!\"",
+      "words": [
+        {
+          "word": "Señor,",
+          "start": 185.92,
+          "end": 186.78
+        },
+        {
+          "word": "mi",
+          "start": 187.02,
+          "end": 187.76
+        },
+        {
+          "word": "Redentor.",
+          "start": 187.76,
+          "end": 191.44
+        }
+      ],
+      "start": 185.92,
+      "end": 191.44,
+      "confidence": 1.0,
+      "time": 185.92
+    }
+  ]
+}

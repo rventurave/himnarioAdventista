@@ -1,0 +1,907 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.969,
+  "language": "es",
+  "model": "medium",
+  "hymn": 104,
+  "source": "104 - La tumba le encerro.mp3",
+  "duration": 166.3,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "La tumba le encerró. ¡Cristo bendito!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "La",
+          "start": 16.5,
+          "end": 17.9
+        },
+        {
+          "word": "tumba",
+          "start": 17.9,
+          "end": 19.3
+        },
+        {
+          "word": "le",
+          "start": 19.3,
+          "end": 19.82
+        },
+        {
+          "word": "encerró,",
+          "start": 19.82,
+          "end": 21.54
+        },
+        {
+          "word": "Cristo",
+          "start": 21.68,
+          "end": 23.22
+        },
+        {
+          "word": "bendito,",
+          "start": 23.22,
+          "end": 25.84
+        }
+      ],
+      "start": 16.5,
+      "end": 25.84,
+      "confidence": 1.0,
+      "time": 16.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "El alba allí esperó Cristo el Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "El",
+          "start": 25.84,
+          "end": 27.58
+        },
+        {
+          "word": "alba",
+          "start": 27.58,
+          "end": 28.6
+        },
+        {
+          "word": "esperó,",
+          "start": 29.22,
+          "end": 30.74
+        },
+        {
+          "word": "Cristo",
+          "start": 30.86,
+          "end": 32.2
+        },
+        {
+          "word": "el",
+          "start": 32.2,
+          "end": 32.8
+        },
+        {
+          "word": "Señor.",
+          "start": 32.8,
+          "end": 34.96
+        }
+      ],
+      "start": 25.84,
+      "end": 34.96,
+      "confidence": 0.857,
+      "time": 25.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cristo la tumba venció;",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 35.92,
+          "end": 36.4
+        },
+        {
+          "word": "tumba",
+          "start": 36.64,
+          "end": 37.72
+        },
+        {
+          "word": "venció,",
+          "start": 37.72,
+          "end": 39.34
+        }
+      ],
+      "start": 35.92,
+      "end": 39.9,
+      "confidence": 0.75,
+      "time": 35.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y con gran poder resucitó;",
+      "words": [
+        {
+          "word": "y",
+          "start": 39.9,
+          "end": 40.0
+        },
+        {
+          "word": "con",
+          "start": 40.0,
+          "end": 40.3
+        },
+        {
+          "word": "gran",
+          "start": 40.3,
+          "end": 40.78
+        },
+        {
+          "word": "poder",
+          "start": 40.78,
+          "end": 41.68
+        },
+        {
+          "word": "resucitó,",
+          "start": 41.68,
+          "end": 44.0
+        }
+      ],
+      "start": 39.9,
+      "end": 44.0,
+      "confidence": 1.0,
+      "time": 39.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "ha vencido a la muerte y el dolor;",
+      "words": [
+        {
+          "word": "ha",
+          "start": 44.56,
+          "end": 44.74
+        },
+        {
+          "word": "vencido",
+          "start": 44.74,
+          "end": 45.94
+        },
+        {
+          "word": "a",
+          "start": 45.94,
+          "end": 46.52
+        },
+        {
+          "word": "la",
+          "start": 46.52,
+          "end": 46.78
+        },
+        {
+          "word": "muerte",
+          "start": 46.78,
+          "end": 47.14
+        },
+        {
+          "word": "y",
+          "start": 47.14,
+          "end": 47.68
+        },
+        {
+          "word": "el",
+          "start": 47.68,
+          "end": 48.0
+        },
+        {
+          "word": "dolor,",
+          "start": 48.0,
+          "end": 48.68
+        }
+      ],
+      "start": 44.56,
+      "end": 49.3,
+      "confidence": 1.0,
+      "time": 44.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "vive para siempre nuestro Salvador.",
+      "words": [
+        {
+          "word": "vive",
+          "start": 49.3,
+          "end": 49.48
+        },
+        {
+          "word": "para",
+          "start": 49.48,
+          "end": 50.5
+        },
+        {
+          "word": "siempre",
+          "start": 50.5,
+          "end": 51.24
+        },
+        {
+          "word": "nuestro",
+          "start": 51.24,
+          "end": 51.84
+        },
+        {
+          "word": "salvador.",
+          "start": 51.84,
+          "end": 53.42
+        }
+      ],
+      "start": 49.3,
+      "end": 53.42,
+      "confidence": 1.0,
+      "time": 49.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Gloria a Dios! ¡Gloria a Dios!",
+      "words": [
+        {
+          "word": "Gloria",
+          "start": 53.42,
+          "end": 54.2
+        },
+        {
+          "word": "a",
+          "start": 54.2,
+          "end": 54.72
+        },
+        {
+          "word": "Dios,",
+          "start": 54.72,
+          "end": 55.88
+        },
+        {
+          "word": "gloria",
+          "start": 55.96,
+          "end": 56.52
+        },
+        {
+          "word": "a",
+          "start": 56.52,
+          "end": 56.66
+        },
+        {
+          "word": "Dios,",
+          "start": 56.66,
+          "end": 57.92
+        }
+      ],
+      "start": 53.42,
+      "end": 58.36,
+      "confidence": 1.0,
+      "time": 53.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "El Señor resucitó.",
+      "words": [
+        {
+          "word": "el",
+          "start": 58.36,
+          "end": 58.56
+        },
+        {
+          "word": "Señor",
+          "start": 58.56,
+          "end": 59.36
+        },
+        {
+          "word": "resucitó.",
+          "start": 59.36,
+          "end": 63.6
+        }
+      ],
+      "start": 58.36,
+      "end": 63.6,
+      "confidence": 1.0,
+      "time": 58.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "De guardas escapó. ¡Cristo bendito!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "De",
+          "start": 66.12,
+          "end": 67.3
+        },
+        {
+          "word": "guardas",
+          "start": 67.3,
+          "end": 68.86
+        },
+        {
+          "word": "es",
+          "start": 68.86,
+          "end": 69.14
+        },
+        {
+          "word": "Cristo",
+          "start": 71.26,
+          "end": 72.26
+        },
+        {
+          "word": "bendito,",
+          "start": 72.26,
+          "end": 74.98
+        }
+      ],
+      "start": 66.12,
+      "end": 74.98,
+      "confidence": 0.988,
+      "time": 66.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "El sello destruyó Cristo el Señor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "El",
+          "start": 74.98,
+          "end": 76.58
+        },
+        {
+          "word": "sello",
+          "start": 76.58,
+          "end": 77.78
+        },
+        {
+          "word": "destruyó",
+          "start": 77.78,
+          "end": 79.96
+        },
+        {
+          "word": "Cristo",
+          "start": 79.96,
+          "end": 81.34
+        },
+        {
+          "word": "el",
+          "start": 81.34,
+          "end": 81.92
+        },
+        {
+          "word": "Señor.",
+          "start": 81.92,
+          "end": 84.22
+        }
+      ],
+      "start": 74.98,
+      "end": 84.22,
+      "confidence": 1.0,
+      "time": 74.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cristo la tumba venció;",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 85.14,
+          "end": 85.42
+        },
+        {
+          "word": "la",
+          "start": 85.74,
+          "end": 86.06
+        },
+        {
+          "word": "tumba",
+          "start": 86.06,
+          "end": 86.8
+        },
+        {
+          "word": "venció,",
+          "start": 86.8,
+          "end": 88.52
+        }
+      ],
+      "start": 85.14,
+      "end": 89.06,
+      "confidence": 1.0,
+      "time": 85.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y con gran poder resucitó;",
+      "words": [
+        {
+          "word": "y",
+          "start": 89.06,
+          "end": 89.06
+        },
+        {
+          "word": "con",
+          "start": 89.06,
+          "end": 89.38
+        },
+        {
+          "word": "gran",
+          "start": 89.38,
+          "end": 89.92
+        },
+        {
+          "word": "poder",
+          "start": 89.92,
+          "end": 90.76
+        },
+        {
+          "word": "resucitó,",
+          "start": 90.76,
+          "end": 93.16
+        }
+      ],
+      "start": 89.06,
+      "end": 93.16,
+      "confidence": 1.0,
+      "time": 89.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "ha vencido a la muerte y el dolor;",
+      "words": [
+        {
+          "word": "ha",
+          "start": 93.52,
+          "end": 93.9
+        },
+        {
+          "word": "vencido",
+          "start": 93.9,
+          "end": 95.06
+        },
+        {
+          "word": "a",
+          "start": 95.06,
+          "end": 95.62
+        },
+        {
+          "word": "la",
+          "start": 95.62,
+          "end": 95.86
+        },
+        {
+          "word": "muerte",
+          "start": 95.86,
+          "end": 96.26
+        },
+        {
+          "word": "y",
+          "start": 96.26,
+          "end": 96.8
+        },
+        {
+          "word": "el",
+          "start": 96.8,
+          "end": 97.16
+        },
+        {
+          "word": "dolor,",
+          "start": 97.16,
+          "end": 97.78
+        }
+      ],
+      "start": 93.52,
+      "end": 98.44,
+      "confidence": 1.0,
+      "time": 93.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "vive para siempre nuestro Salvador.",
+      "words": [
+        {
+          "word": "vive",
+          "start": 98.44,
+          "end": 98.58
+        },
+        {
+          "word": "para",
+          "start": 98.58,
+          "end": 99.6
+        },
+        {
+          "word": "siempre",
+          "start": 99.6,
+          "end": 100.3
+        },
+        {
+          "word": "nuestro",
+          "start": 100.3,
+          "end": 100.94
+        },
+        {
+          "word": "Salvador.",
+          "start": 100.94,
+          "end": 102.44
+        }
+      ],
+      "start": 98.44,
+      "end": 102.44,
+      "confidence": 1.0,
+      "time": 98.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Gloria a Dios! ¡Gloria a Dios!",
+      "words": [
+        {
+          "word": "a",
+          "start": 103.28,
+          "end": 104.34
+        },
+        {
+          "word": "Dios,",
+          "start": 104.34,
+          "end": 104.84
+        },
+        {
+          "word": "a",
+          "start": 105.48,
+          "end": 105.78
+        },
+        {
+          "word": "Dios,",
+          "start": 105.78,
+          "end": 107.24
+        }
+      ],
+      "start": 103.28,
+      "end": 107.66,
+      "confidence": 0.667,
+      "time": 103.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "El Señor resucitó.",
+      "words": [
+        {
+          "word": "el",
+          "start": 107.66,
+          "end": 107.66
+        },
+        {
+          "word": "Señor",
+          "start": 107.66,
+          "end": 108.58
+        },
+        {
+          "word": "resucitó.",
+          "start": 108.58,
+          "end": 112.9
+        }
+      ],
+      "start": 107.66,
+      "end": 112.9,
+      "confidence": 1.0,
+      "time": 107.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "La muerte dominó. ¡Cristo bendito!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "La",
+          "start": 114.98,
+          "end": 116.38
+        },
+        {
+          "word": "muerte",
+          "start": 116.38,
+          "end": 117.42
+        },
+        {
+          "word": "dominó,",
+          "start": 117.42,
+          "end": 119.68
+        },
+        {
+          "word": "Cristo",
+          "start": 119.98,
+          "end": 121.42
+        },
+        {
+          "word": "bendito,",
+          "start": 121.42,
+          "end": 124.1
+        }
+      ],
+      "start": 114.98,
+      "end": 124.1,
+      "confidence": 1.0,
+      "time": 114.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y su poder venció Cristo el Señor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 124.1,
+          "end": 125.62
+        },
+        {
+          "word": "su",
+          "start": 125.62,
+          "end": 126.26
+        },
+        {
+          "word": "poder",
+          "start": 126.26,
+          "end": 127.36
+        },
+        {
+          "word": "venció,",
+          "start": 127.36,
+          "end": 128.94
+        },
+        {
+          "word": "Cristo",
+          "start": 129.94,
+          "end": 130.44
+        },
+        {
+          "word": "el",
+          "start": 130.44,
+          "end": 131.06
+        },
+        {
+          "word": "Señor.",
+          "start": 131.06,
+          "end": 133.26
+        }
+      ],
+      "start": 124.1,
+      "end": 133.26,
+      "confidence": 1.0,
+      "time": 124.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cristo la tumba venció;",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 134.14,
+          "end": 134.52
+        },
+        {
+          "word": "la",
+          "start": 134.78,
+          "end": 135.04
+        },
+        {
+          "word": "tumba",
+          "start": 135.04,
+          "end": 135.94
+        },
+        {
+          "word": "venció,",
+          "start": 135.94,
+          "end": 137.58
+        }
+      ],
+      "start": 134.14,
+      "end": 138.06,
+      "confidence": 1.0,
+      "time": 134.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y con gran poder resucitó;",
+      "words": [
+        {
+          "word": "y",
+          "start": 138.06,
+          "end": 138.2
+        },
+        {
+          "word": "con",
+          "start": 138.2,
+          "end": 138.52
+        },
+        {
+          "word": "gran",
+          "start": 138.52,
+          "end": 139.12
+        },
+        {
+          "word": "poder",
+          "start": 139.12,
+          "end": 139.86
+        },
+        {
+          "word": "resucitó,",
+          "start": 139.86,
+          "end": 142.14
+        }
+      ],
+      "start": 138.06,
+      "end": 142.14,
+      "confidence": 1.0,
+      "time": 138.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "ha vencido a la muerte y el dolor;",
+      "words": [
+        {
+          "word": "ha",
+          "start": 142.56,
+          "end": 142.92
+        },
+        {
+          "word": "vencido",
+          "start": 142.92,
+          "end": 144.12
+        },
+        {
+          "word": "a",
+          "start": 144.12,
+          "end": 144.7
+        },
+        {
+          "word": "la",
+          "start": 144.7,
+          "end": 144.92
+        },
+        {
+          "word": "muerte",
+          "start": 144.92,
+          "end": 145.28
+        },
+        {
+          "word": "y",
+          "start": 145.28,
+          "end": 145.84
+        },
+        {
+          "word": "el",
+          "start": 145.84,
+          "end": 146.16
+        },
+        {
+          "word": "dolor,",
+          "start": 146.16,
+          "end": 146.84
+        }
+      ],
+      "start": 142.56,
+      "end": 147.5,
+      "confidence": 1.0,
+      "time": 142.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "vive para siempre nuestro Salvador.",
+      "words": [
+        {
+          "word": "vive",
+          "start": 147.5,
+          "end": 147.68
+        },
+        {
+          "word": "para",
+          "start": 147.68,
+          "end": 148.64
+        },
+        {
+          "word": "siempre",
+          "start": 148.64,
+          "end": 149.44
+        },
+        {
+          "word": "nuestro",
+          "start": 149.44,
+          "end": 150.04
+        },
+        {
+          "word": "salvador.",
+          "start": 150.04,
+          "end": 151.68
+        }
+      ],
+      "start": 147.5,
+      "end": 151.68,
+      "confidence": 1.0,
+      "time": 147.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Gloria a Dios! ¡Gloria a Dios!",
+      "words": [
+        {
+          "word": "Gloria",
+          "start": 151.68,
+          "end": 152.48
+        },
+        {
+          "word": "a",
+          "start": 152.48,
+          "end": 152.98
+        },
+        {
+          "word": "Dios,",
+          "start": 152.98,
+          "end": 154.14
+        },
+        {
+          "word": "gloria",
+          "start": 154.3,
+          "end": 154.84
+        },
+        {
+          "word": "a",
+          "start": 154.84,
+          "end": 156.0
+        },
+        {
+          "word": "Dios,",
+          "start": 156.0,
+          "end": 156.56
+        }
+      ],
+      "start": 151.68,
+      "end": 157.18,
+      "confidence": 1.0,
+      "time": 151.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "El Señor resucitó.",
+      "words": [
+        {
+          "word": "el",
+          "start": 157.18,
+          "end": 157.18
+        },
+        {
+          "word": "Señor",
+          "start": 157.18,
+          "end": 158.1
+        },
+        {
+          "word": "resucitó.",
+          "start": 158.1,
+          "end": 162.88
+        }
+      ],
+      "start": 157.18,
+      "end": 162.88,
+      "confidence": 1.0,
+      "time": 157.18
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.983,
+  "language": "es",
+  "model": "medium",
+  "hymn": 85,
+  "source": "085 - Alla en el pesebre.mp3",
+  "duration": 120.61,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Allá en el pesebre, sin cuna especial,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Allá",
+          "start": 10.54,
+          "end": 11.94
+        },
+        {
+          "word": "en",
+          "start": 11.94,
+          "end": 12.36
+        },
+        {
+          "word": "el",
+          "start": 12.36,
+          "end": 13.16
+        },
+        {
+          "word": "pesebre,",
+          "start": 13.16,
+          "end": 14.78
+        },
+        {
+          "word": "sin",
+          "start": 15.6,
+          "end": 15.66
+        },
+        {
+          "word": "cuna",
+          "start": 15.66,
+          "end": 16.72
+        },
+        {
+          "word": "especial,",
+          "start": 16.72,
+          "end": 18.82
+        }
+      ],
+      "start": 10.54,
+      "end": 19.78,
+      "confidence": 1.0,
+      "time": 10.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús tiernamente reposa en paz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 19.78,
+          "end": 20.44
+        },
+        {
+          "word": "tiernamente",
+          "start": 20.44,
+          "end": 23.18
+        },
+        {
+          "word": "reposa",
+          "start": 23.18,
+          "end": 25.4
+        },
+        {
+          "word": "en",
+          "start": 25.4,
+          "end": 26.38
+        },
+        {
+          "word": "paz.",
+          "start": 26.38,
+          "end": 27.32
+        }
+      ],
+      "start": 19.78,
+      "end": 27.32,
+      "confidence": 1.0,
+      "time": 19.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Los astros nocturnos derraman su luz",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Los",
+          "start": 27.32,
+          "end": 28.34
+        },
+        {
+          "word": "astros",
+          "start": 28.34,
+          "end": 29.8
+        },
+        {
+          "word": "nocturnos",
+          "start": 29.8,
+          "end": 31.9
+        },
+        {
+          "word": "derroman",
+          "start": 31.9,
+          "end": 33.9
+        },
+        {
+          "word": "su",
+          "start": 33.9,
+          "end": 34.76
+        },
+        {
+          "word": "luz",
+          "start": 34.76,
+          "end": 35.86
+        }
+      ],
+      "start": 27.32,
+      "end": 35.86,
+      "confidence": 0.987,
+      "time": 27.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al rostro divino del niño Jesús.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Al",
+          "start": 35.86,
+          "end": 36.9
+        },
+        {
+          "word": "rostro",
+          "start": 36.9,
+          "end": 38.32
+        },
+        {
+          "word": "divino",
+          "start": 38.32,
+          "end": 40.14
+        },
+        {
+          "word": "del",
+          "start": 40.14,
+          "end": 41.06
+        },
+        {
+          "word": "niño",
+          "start": 41.06,
+          "end": 42.28
+        },
+        {
+          "word": "Jesús.",
+          "start": 42.28,
+          "end": 44.84
+        }
+      ],
+      "start": 35.86,
+      "end": 44.84,
+      "confidence": 1.0,
+      "time": 35.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "La vaca mugiendo despierta al bebé,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "La",
+          "start": 46.98,
+          "end": 47.44
+        },
+        {
+          "word": "vaca",
+          "start": 47.44,
+          "end": 48.82
+        },
+        {
+          "word": "mugiendo",
+          "start": 48.82,
+          "end": 50.68
+        },
+        {
+          "word": "despierta",
+          "start": 50.68,
+          "end": 52.74
+        },
+        {
+          "word": "al",
+          "start": 52.74,
+          "end": 53.18
+        },
+        {
+          "word": "bebé",
+          "start": 53.18,
+          "end": 54.74
+        }
+      ],
+      "start": 46.98,
+      "end": 54.74,
+      "confidence": 1.0,
+      "time": 46.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "mas este, tranquilo, sonríe en solaz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "más",
+          "start": 54.74,
+          "end": 55.86
+        },
+        {
+          "word": "este",
+          "start": 55.86,
+          "end": 57.24
+        },
+        {
+          "word": "tranquilo",
+          "start": 57.24,
+          "end": 59.36
+        },
+        {
+          "word": "sonríen",
+          "start": 59.36,
+          "end": 61.6
+        },
+        {
+          "word": "solas.",
+          "start": 61.6,
+          "end": 63.7
+        }
+      ],
+      "start": 54.74,
+      "end": 63.7,
+      "confidence": 0.803,
+      "time": 54.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Humildes pastores con gran emoción",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Humildes",
+          "start": 64.46,
+          "end": 65.86
+        },
+        {
+          "word": "pastores",
+          "start": 65.86,
+          "end": 67.68
+        },
+        {
+          "word": "con",
+          "start": 67.68,
+          "end": 68.64
+        },
+        {
+          "word": "gran",
+          "start": 68.64,
+          "end": 69.7
+        },
+        {
+          "word": "emoción",
+          "start": 69.7,
+          "end": 72.04
+        }
+      ],
+      "start": 64.46,
+      "end": 72.04,
+      "confidence": 1.0,
+      "time": 64.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "adoran al Niño que trae salvación.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "adoran",
+          "start": 72.04,
+          "end": 74.38
+        },
+        {
+          "word": "al",
+          "start": 74.38,
+          "end": 75.0
+        },
+        {
+          "word": "Niño",
+          "start": 75.0,
+          "end": 76.14
+        },
+        {
+          "word": "que",
+          "start": 76.14,
+          "end": 77.12
+        },
+        {
+          "word": "trae",
+          "start": 77.12,
+          "end": 78.16
+        },
+        {
+          "word": "salvación.",
+          "start": 78.16,
+          "end": 80.86
+        }
+      ],
+      "start": 72.04,
+      "end": 80.86,
+      "confidence": 1.0,
+      "time": 72.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesús, yo te amo; anhelo, Señor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 82.4,
+          "end": 83.8
+        },
+        {
+          "word": "yo",
+          "start": 84.7,
+          "end": 84.82
+        },
+        {
+          "word": "te",
+          "start": 84.82,
+          "end": 85.8
+        },
+        {
+          "word": "amo,",
+          "start": 85.8,
+          "end": 87.04
+        },
+        {
+          "word": "anhelo,",
+          "start": 87.84,
+          "end": 88.88
+        },
+        {
+          "word": "Señor,",
+          "start": 88.88,
+          "end": 90.88
+        }
+      ],
+      "start": 82.4,
+      "end": 90.88,
+      "confidence": 1.0,
+      "time": 82.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "andar en tus sendas, brindarte mi amor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "andar",
+          "start": 91.52,
+          "end": 92.64
+        },
+        {
+          "word": "en",
+          "start": 92.64,
+          "end": 93.46
+        },
+        {
+          "word": "tus",
+          "start": 93.46,
+          "end": 94.16
+        },
+        {
+          "word": "sendas,",
+          "start": 94.16,
+          "end": 95.26
+        },
+        {
+          "word": "brindarte",
+          "start": 95.76,
+          "end": 97.26
+        },
+        {
+          "word": "mi",
+          "start": 97.26,
+          "end": 97.9
+        },
+        {
+          "word": "amor.",
+          "start": 97.9,
+          "end": 99.28
+        }
+      ],
+      "start": 91.52,
+      "end": 99.28,
+      "confidence": 1.0,
+      "time": 91.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "El día se acerca en que te veré,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "El",
+          "start": 99.28,
+          "end": 100.4
+        },
+        {
+          "word": "día",
+          "start": 100.4,
+          "end": 101.66
+        },
+        {
+          "word": "se",
+          "start": 101.66,
+          "end": 102.48
+        },
+        {
+          "word": "acerca",
+          "start": 102.48,
+          "end": 103.62
+        },
+        {
+          "word": "en",
+          "start": 103.62,
+          "end": 104.68
+        },
+        {
+          "word": "que",
+          "start": 104.68,
+          "end": 105.42
+        },
+        {
+          "word": "te",
+          "start": 105.42,
+          "end": 106.24
+        },
+        {
+          "word": "veré",
+          "start": 106.24,
+          "end": 107.96
+        }
+      ],
+      "start": 99.28,
+      "end": 107.96,
+      "confidence": 1.0,
+      "time": 99.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y en tus mansiones feliz viviré.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 107.96,
+          "end": 109.02
+        },
+        {
+          "word": "en",
+          "start": 109.02,
+          "end": 109.62
+        },
+        {
+          "word": "tus",
+          "start": 109.62,
+          "end": 110.28
+        },
+        {
+          "word": "mansiones",
+          "start": 110.28,
+          "end": 112.18
+        },
+        {
+          "word": "feliz",
+          "start": 112.18,
+          "end": 113.84
+        },
+        {
+          "word": "viviré.",
+          "start": 113.84,
+          "end": 118.54
+        }
+      ],
+      "start": 107.96,
+      "end": 118.54,
+      "confidence": 1.0,
+      "time": 107.96
+    }
+  ]
+}

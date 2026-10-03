@@ -1,0 +1,824 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.951,
+  "language": "es",
+  "model": "medium",
+  "hymn": 57,
+  "source": "057 - Mi Dios me ama.mp3",
+  "duration": 106.81,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mi Dios me ama, él me ha salvado;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 10.96,
+          "end": 11.86
+        },
+        {
+          "word": "Dios",
+          "start": 11.86,
+          "end": 12.44
+        },
+        {
+          "word": "me",
+          "start": 12.44,
+          "end": 13.42
+        },
+        {
+          "word": "ama,",
+          "start": 13.42,
+          "end": 14.2
+        },
+        {
+          "word": "Él",
+          "start": 14.36,
+          "end": 14.8
+        },
+        {
+          "word": "me",
+          "start": 14.8,
+          "end": 15.02
+        },
+        {
+          "word": "ha",
+          "start": 15.02,
+          "end": 15.48
+        },
+        {
+          "word": "salvado,",
+          "start": 15.48,
+          "end": 17.1
+        }
+      ],
+      "start": 10.96,
+      "end": 17.16,
+      "confidence": 1.0,
+      "time": 10.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mi Dios me ama, él me ama a mí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "mi",
+          "start": 17.16,
+          "end": 17.6
+        },
+        {
+          "word": "Dios",
+          "start": 17.6,
+          "end": 18.06
+        },
+        {
+          "word": "me",
+          "start": 18.06,
+          "end": 19.02
+        },
+        {
+          "word": "ama,",
+          "start": 19.02,
+          "end": 19.8
+        },
+        {
+          "word": "Él",
+          "start": 20.24,
+          "end": 20.4
+        },
+        {
+          "word": "me",
+          "start": 20.4,
+          "end": 20.76
+        },
+        {
+          "word": "ama",
+          "start": 20.76,
+          "end": 21.18
+        },
+        {
+          "word": "a",
+          "start": 21.18,
+          "end": 21.5
+        },
+        {
+          "word": "mí,",
+          "start": 21.5,
+          "end": 22.2
+        }
+      ],
+      "start": 17.16,
+      "end": 22.6,
+      "confidence": 1.0,
+      "time": 17.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Y lo repito:",
+      "words": [
+        {
+          "word": "y",
+          "start": 22.6,
+          "end": 23.14
+        },
+        {
+          "word": "lo",
+          "start": 23.14,
+          "end": 23.74
+        },
+        {
+          "word": "repito,",
+          "start": 23.74,
+          "end": 25.26
+        }
+      ],
+      "start": 22.6,
+      "end": 25.4,
+      "confidence": 1.0,
+      "time": 22.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Mi Dios me ama,",
+      "words": [
+        {
+          "word": "mi",
+          "start": 25.4,
+          "end": 25.84
+        },
+        {
+          "word": "Dios",
+          "start": 25.84,
+          "end": 26.28
+        },
+        {
+          "word": "me",
+          "start": 26.28,
+          "end": 27.42
+        },
+        {
+          "word": "ama,",
+          "start": 27.42,
+          "end": 28.04
+        }
+      ],
+      "start": 25.4,
+      "end": 28.04,
+      "confidence": 1.0,
+      "time": 25.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "mi Dios me ama,",
+      "words": [
+        {
+          "word": "Mi",
+          "start": 28.04,
+          "end": 28.66
+        },
+        {
+          "word": "Dios",
+          "start": 28.66,
+          "end": 29.1
+        },
+        {
+          "word": "me",
+          "start": 29.1,
+          "end": 30.06
+        },
+        {
+          "word": "ama,",
+          "start": 30.06,
+          "end": 30.82
+        }
+      ],
+      "start": 28.04,
+      "end": 31.2,
+      "confidence": 1.0,
+      "time": 28.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "él me ama a mí.",
+      "words": [
+        {
+          "word": "Él",
+          "start": 31.2,
+          "end": 31.46
+        },
+        {
+          "word": "me",
+          "start": 31.46,
+          "end": 31.82
+        },
+        {
+          "word": "ama",
+          "start": 31.82,
+          "end": 32.34
+        },
+        {
+          "word": "a",
+          "start": 32.34,
+          "end": 32.66
+        },
+        {
+          "word": "mí.",
+          "start": 32.66,
+          "end": 33.56
+        }
+      ],
+      "start": 31.2,
+      "end": 33.56,
+      "confidence": 1.0,
+      "time": 31.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cautivo estuve en el pecado;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cautivo",
+          "start": 34.58,
+          "end": 35.64
+        },
+        {
+          "word": "en",
+          "start": 37.38,
+          "end": 37.94
+        },
+        {
+          "word": "el",
+          "start": 37.94,
+          "end": 38.4
+        }
+      ],
+      "start": 34.58,
+      "end": 39.88,
+      "confidence": 0.6,
+      "time": 34.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "cautivo estuve, sin Salvador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cautivo",
+          "start": 40.08,
+          "end": 41.16
+        },
+        {
+          "word": "sin",
+          "start": 42.7,
+          "end": 43.26
+        },
+        {
+          "word": "salvador.",
+          "start": 43.26,
+          "end": 45.08
+        }
+      ],
+      "start": 40.08,
+      "end": 45.08,
+      "confidence": 0.75,
+      "time": 40.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Y lo repito:",
+      "words": [
+        {
+          "word": "Y",
+          "start": 45.58,
+          "end": 45.98
+        },
+        {
+          "word": "lo",
+          "start": 45.98,
+          "end": 46.58
+        },
+        {
+          "word": "repito,",
+          "start": 46.58,
+          "end": 48.14
+        }
+      ],
+      "start": 45.58,
+      "end": 48.28,
+      "confidence": 1.0,
+      "time": 45.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Mi Dios me ama,",
+      "words": [
+        {
+          "word": "mi",
+          "start": 48.28,
+          "end": 48.7
+        },
+        {
+          "word": "Dios",
+          "start": 48.7,
+          "end": 49.18
+        },
+        {
+          "word": "me",
+          "start": 49.18,
+          "end": 50.34
+        },
+        {
+          "word": "ama,",
+          "start": 50.34,
+          "end": 50.9
+        }
+      ],
+      "start": 48.28,
+      "end": 50.9,
+      "confidence": 1.0,
+      "time": 48.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "mi Dios me ama,",
+      "words": [
+        {
+          "word": "Mi",
+          "start": 51.24,
+          "end": 51.56
+        },
+        {
+          "word": "Dios",
+          "start": 51.56,
+          "end": 52.0
+        },
+        {
+          "word": "me",
+          "start": 52.0,
+          "end": 53.1
+        },
+        {
+          "word": "ama,",
+          "start": 53.1,
+          "end": 53.7
+        }
+      ],
+      "start": 51.24,
+      "end": 54.18,
+      "confidence": 1.0,
+      "time": 51.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "él me ama a mí.",
+      "words": [
+        {
+          "word": "Él",
+          "start": 54.18,
+          "end": 54.36
+        },
+        {
+          "word": "me",
+          "start": 54.36,
+          "end": 54.76
+        },
+        {
+          "word": "ama",
+          "start": 54.76,
+          "end": 55.14
+        },
+        {
+          "word": "a",
+          "start": 55.14,
+          "end": 55.52
+        },
+        {
+          "word": "mí.",
+          "start": 55.52,
+          "end": 56.36
+        }
+      ],
+      "start": 54.18,
+      "end": 56.36,
+      "confidence": 1.0,
+      "time": 54.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Envió a Cristo para librarme;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tendió",
+          "start": 56.36,
+          "end": 58.26
+        },
+        {
+          "word": "a",
+          "start": 58.26,
+          "end": 58.8
+        },
+        {
+          "word": "Cristo",
+          "start": 58.8,
+          "end": 59.76
+        },
+        {
+          "word": "para",
+          "start": 59.76,
+          "end": 60.98
+        },
+        {
+          "word": "librarme,",
+          "start": 60.98,
+          "end": 62.72
+        }
+      ],
+      "start": 56.36,
+      "end": 63.1,
+      "confidence": 0.967,
+      "time": 56.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "envió a Cristo y me libró.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tendió",
+          "start": 63.1,
+          "end": 63.92
+        },
+        {
+          "word": "a",
+          "start": 63.92,
+          "end": 64.32
+        },
+        {
+          "word": "Cristo",
+          "start": 64.32,
+          "end": 65.44
+        },
+        {
+          "word": "y",
+          "start": 65.44,
+          "end": 66.06
+        },
+        {
+          "word": "me",
+          "start": 66.06,
+          "end": 66.62
+        },
+        {
+          "word": "libró.",
+          "start": 66.62,
+          "end": 68.12
+        }
+      ],
+      "start": 63.1,
+      "end": 68.12,
+      "confidence": 0.973,
+      "time": 63.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Y lo repito:",
+      "words": [
+        {
+          "word": "Y",
+          "start": 68.34,
+          "end": 68.8
+        },
+        {
+          "word": "lo",
+          "start": 68.8,
+          "end": 69.4
+        },
+        {
+          "word": "repito,",
+          "start": 69.4,
+          "end": 70.98
+        }
+      ],
+      "start": 68.34,
+      "end": 71.12,
+      "confidence": 1.0,
+      "time": 68.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Mi Dios me ama,",
+      "words": [
+        {
+          "word": "mi",
+          "start": 71.12,
+          "end": 71.52
+        },
+        {
+          "word": "Dios",
+          "start": 71.52,
+          "end": 71.94
+        },
+        {
+          "word": "me",
+          "start": 71.94,
+          "end": 73.08
+        },
+        {
+          "word": "ama,",
+          "start": 73.08,
+          "end": 73.64
+        }
+      ],
+      "start": 71.12,
+      "end": 73.9,
+      "confidence": 1.0,
+      "time": 71.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "mi Dios me ama,",
+      "words": [
+        {
+          "word": "mi",
+          "start": 73.9,
+          "end": 74.34
+        },
+        {
+          "word": "Dios",
+          "start": 74.34,
+          "end": 74.78
+        },
+        {
+          "word": "me",
+          "start": 74.78,
+          "end": 75.88
+        },
+        {
+          "word": "ama,",
+          "start": 75.88,
+          "end": 76.46
+        }
+      ],
+      "start": 73.9,
+      "end": 76.76,
+      "confidence": 1.0,
+      "time": 73.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "él me ama a mí.",
+      "words": [
+        {
+          "word": "Él",
+          "start": 76.76,
+          "end": 77.1
+        },
+        {
+          "word": "me",
+          "start": 77.1,
+          "end": 77.48
+        },
+        {
+          "word": "ama",
+          "start": 77.48,
+          "end": 77.92
+        },
+        {
+          "word": "a",
+          "start": 77.92,
+          "end": 78.24
+        },
+        {
+          "word": "mí.",
+          "start": 78.24,
+          "end": 79.24
+        }
+      ],
+      "start": 76.76,
+      "end": 79.24,
+      "confidence": 1.0,
+      "time": 76.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Me ha invitado por su Palabra;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Me",
+          "start": 79.24,
+          "end": 80.6
+        },
+        {
+          "word": "ha",
+          "start": 80.6,
+          "end": 81.12
+        },
+        {
+          "word": "invitado",
+          "start": 81.12,
+          "end": 82.96
+        },
+        {
+          "word": "por",
+          "start": 82.96,
+          "end": 83.44
+        },
+        {
+          "word": "su",
+          "start": 83.44,
+          "end": 83.96
+        },
+        {
+          "word": "palabra,",
+          "start": 83.96,
+          "end": 85.6
+        }
+      ],
+      "start": 79.24,
+      "end": 85.8,
+      "confidence": 1.0,
+      "time": 79.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "me ha invitado con tierno amor.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "me",
+          "start": 85.8,
+          "end": 86.16
+        },
+        {
+          "word": "ha",
+          "start": 86.16,
+          "end": 86.72
+        },
+        {
+          "word": "invitado",
+          "start": 86.72,
+          "end": 88.52
+        },
+        {
+          "word": "con",
+          "start": 88.52,
+          "end": 89.14
+        },
+        {
+          "word": "cierto",
+          "start": 89.14,
+          "end": 89.7
+        },
+        {
+          "word": "amor,",
+          "start": 89.7,
+          "end": 90.98
+        }
+      ],
+      "start": 85.8,
+      "end": 91.62,
+      "confidence": 0.967,
+      "time": 85.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Y lo repito:",
+      "words": [
+        {
+          "word": "y",
+          "start": 91.62,
+          "end": 91.84
+        },
+        {
+          "word": "lo",
+          "start": 91.84,
+          "end": 92.44
+        },
+        {
+          "word": "repito,",
+          "start": 92.44,
+          "end": 93.98
+        }
+      ],
+      "start": 91.62,
+      "end": 94.1,
+      "confidence": 1.0,
+      "time": 91.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Mi Dios me ama,",
+      "words": [
+        {
+          "word": "mi",
+          "start": 94.1,
+          "end": 94.52
+        },
+        {
+          "word": "Dios",
+          "start": 94.52,
+          "end": 95.0
+        },
+        {
+          "word": "ama,",
+          "start": 95.94,
+          "end": 96.56
+        }
+      ],
+      "start": 94.1,
+      "end": 96.86,
+      "confidence": 0.75,
+      "time": 94.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "mi Dios me ama,",
+      "words": [
+        {
+          "word": "mi",
+          "start": 96.86,
+          "end": 97.3
+        },
+        {
+          "word": "Dios",
+          "start": 97.3,
+          "end": 97.76
+        },
+        {
+          "word": "ama,",
+          "start": 98.68,
+          "end": 99.52
+        }
+      ],
+      "start": 96.86,
+      "end": 99.76,
+      "confidence": 0.75,
+      "time": 96.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "él me ama a mí.",
+      "words": [
+        {
+          "word": "Él",
+          "start": 99.76,
+          "end": 100.14
+        },
+        {
+          "word": "me",
+          "start": 100.14,
+          "end": 100.58
+        },
+        {
+          "word": "ama",
+          "start": 100.58,
+          "end": 101.1
+        },
+        {
+          "word": "a",
+          "start": 101.1,
+          "end": 101.48
+        },
+        {
+          "word": "mí.",
+          "start": 101.48,
+          "end": 103.1
+        }
+      ],
+      "start": 99.76,
+      "end": 103.1,
+      "confidence": 1.0,
+      "time": 99.76
+    }
+  ]
+}

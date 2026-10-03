@@ -1,0 +1,782 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.977,
+  "language": "es",
+  "model": "medium",
+  "hymn": 116,
+  "source": "116 - Cristo esta a mi lado.mp3",
+  "duration": 193.78,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Muchas veces me pregunto:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Muchas",
+          "start": 12.52,
+          "end": 13.92
+        },
+        {
+          "word": "veces",
+          "start": 13.92,
+          "end": 15.32
+        },
+        {
+          "word": "me",
+          "start": 15.32,
+          "end": 15.84
+        },
+        {
+          "word": "pregunto",
+          "start": 15.84,
+          "end": 18.7
+        }
+      ],
+      "start": 12.52,
+      "end": 18.7,
+      "confidence": 1.0,
+      "time": 12.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Por qué él me ama a mí?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¿por",
+          "start": 18.7,
+          "end": 19.54
+        },
+        {
+          "word": "qué",
+          "start": 19.54,
+          "end": 20.86
+        },
+        {
+          "word": "me",
+          "start": 20.86,
+          "end": 21.5
+        },
+        {
+          "word": "ama",
+          "start": 21.5,
+          "end": 22.42
+        },
+        {
+          "word": "a",
+          "start": 22.42,
+          "end": 23.08
+        },
+        {
+          "word": "mí?",
+          "start": 23.08,
+          "end": 25.1
+        }
+      ],
+      "start": 18.7,
+      "end": 25.1,
+      "confidence": 0.857,
+      "time": 18.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tantas veces yo fallé,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tantas",
+          "start": 25.1,
+          "end": 27.42
+        },
+        {
+          "word": "veces",
+          "start": 27.42,
+          "end": 28.86
+        },
+        {
+          "word": "yo",
+          "start": 28.86,
+          "end": 30.26
+        },
+        {
+          "word": "fallé,",
+          "start": 30.26,
+          "end": 32.02
+        }
+      ],
+      "start": 25.1,
+      "end": 32.5,
+      "confidence": 1.0,
+      "time": 25.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "sin embargo me ama.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sin",
+          "start": 32.5,
+          "end": 33.28
+        },
+        {
+          "word": "embargo",
+          "start": 33.28,
+          "end": 35.12
+        },
+        {
+          "word": "me",
+          "start": 35.12,
+          "end": 36.54
+        },
+        {
+          "word": "amas.",
+          "start": 36.54,
+          "end": 40.46
+        }
+      ],
+      "start": 32.5,
+      "end": 40.46,
+      "confidence": 0.985,
+      "time": 32.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cuando estoy desanimado",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 40.68,
+          "end": 41.54
+        },
+        {
+          "word": "estoy",
+          "start": 41.54,
+          "end": 43.76
+        },
+        {
+          "word": "desanimado",
+          "start": 43.76,
+          "end": 47.32
+        }
+      ],
+      "start": 40.68,
+      "end": 47.32,
+      "confidence": 1.0,
+      "time": 40.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y cuando todo va mal,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 47.32,
+          "end": 48.2
+        },
+        {
+          "word": "cuando",
+          "start": 48.2,
+          "end": 49.78
+        },
+        {
+          "word": "todo",
+          "start": 49.78,
+          "end": 50.72
+        },
+        {
+          "word": "va",
+          "start": 50.72,
+          "end": 51.52
+        },
+        {
+          "word": "mal,",
+          "start": 51.52,
+          "end": 53.94
+        }
+      ],
+      "start": 47.32,
+      "end": 53.94,
+      "confidence": 1.0,
+      "time": 47.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo viene a mi lado",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 53.94,
+          "end": 56.0
+        },
+        {
+          "word": "viene",
+          "start": 56.0,
+          "end": 56.88
+        },
+        {
+          "word": "a",
+          "start": 56.88,
+          "end": 57.54
+        },
+        {
+          "word": "mi",
+          "start": 57.54,
+          "end": 57.96
+        },
+        {
+          "word": "lado",
+          "start": 57.96,
+          "end": 59.98
+        }
+      ],
+      "start": 53.94,
+      "end": 59.98,
+      "confidence": 1.0,
+      "time": 53.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y me da su paz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 59.98,
+          "end": 61.76
+        },
+        {
+          "word": "me",
+          "start": 61.76,
+          "end": 62.66
+        },
+        {
+          "word": "da",
+          "start": 62.66,
+          "end": 63.7
+        },
+        {
+          "word": "su",
+          "start": 63.7,
+          "end": 64.36
+        },
+        {
+          "word": "paz.",
+          "start": 64.36,
+          "end": 69.8
+        }
+      ],
+      "start": 59.98,
+      "end": 69.8,
+      "confidence": 1.0,
+      "time": 59.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cristo está a mi lado;",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 69.8,
+          "end": 71.82
+        },
+        {
+          "word": "está",
+          "start": 71.82,
+          "end": 72.92
+        },
+        {
+          "word": "a",
+          "start": 72.92,
+          "end": 72.94
+        },
+        {
+          "word": "mi",
+          "start": 72.94,
+          "end": 73.88
+        },
+        {
+          "word": "lado,",
+          "start": 73.88,
+          "end": 76.46
+        }
+      ],
+      "start": 69.8,
+      "end": 77.36,
+      "confidence": 1.0,
+      "time": 69.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "nunca me dejará.",
+      "words": [
+        {
+          "word": "nunca",
+          "start": 77.36,
+          "end": 78.04
+        },
+        {
+          "word": "me",
+          "start": 78.04,
+          "end": 79.12
+        },
+        {
+          "word": "dejará.",
+          "start": 79.12,
+          "end": 82.52
+        }
+      ],
+      "start": 77.36,
+      "end": 82.52,
+      "confidence": 1.0,
+      "time": 77.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Nadie puede amarme",
+      "words": [
+        {
+          "word": "Nadie",
+          "start": 83.56,
+          "end": 84.96
+        },
+        {
+          "word": "puede",
+          "start": 84.96,
+          "end": 86.02
+        },
+        {
+          "word": "amarme",
+          "start": 86.02,
+          "end": 89.46
+        }
+      ],
+      "start": 83.56,
+      "end": 89.46,
+      "confidence": 1.0,
+      "time": 83.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "como mi Jesús.",
+      "words": [
+        {
+          "word": "como",
+          "start": 89.46,
+          "end": 91.14
+        },
+        {
+          "word": "mi",
+          "start": 91.14,
+          "end": 92.66
+        },
+        {
+          "word": "Jesús.",
+          "start": 92.66,
+          "end": 95.18
+        }
+      ],
+      "start": 89.46,
+      "end": 95.18,
+      "confidence": 1.0,
+      "time": 89.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cada día miro alrededor",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cada",
+          "start": 98.84,
+          "end": 100.24
+        },
+        {
+          "word": "día",
+          "start": 100.24,
+          "end": 101.64
+        },
+        {
+          "word": "miro",
+          "start": 101.64,
+          "end": 102.3
+        },
+        {
+          "word": "alrededor",
+          "start": 102.3,
+          "end": 104.14
+        }
+      ],
+      "start": 98.84,
+      "end": 104.14,
+      "confidence": 1.0,
+      "time": 98.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y puedo contemplar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 104.14,
+          "end": 105.82
+        },
+        {
+          "word": "puedo",
+          "start": 105.82,
+          "end": 107.3
+        },
+        {
+          "word": "contemplar",
+          "start": 107.3,
+          "end": 112.16
+        }
+      ],
+      "start": 104.14,
+      "end": 112.16,
+      "confidence": 1.0,
+      "time": 104.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pruebas de un amor sin par",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pruebas",
+          "start": 112.16,
+          "end": 113.76
+        },
+        {
+          "word": "de",
+          "start": 113.76,
+          "end": 114.5
+        },
+        {
+          "word": "un",
+          "start": 114.5,
+          "end": 115.24
+        },
+        {
+          "word": "amor",
+          "start": 115.24,
+          "end": 116.48
+        },
+        {
+          "word": "sin",
+          "start": 116.48,
+          "end": 117.12
+        },
+        {
+          "word": "bar",
+          "start": 117.12,
+          "end": 118.12
+        }
+      ],
+      "start": 112.16,
+      "end": 118.12,
+      "confidence": 0.967,
+      "time": 112.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que nunca fallará.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 118.12,
+          "end": 119.3
+        },
+        {
+          "word": "nunca",
+          "start": 119.3,
+          "end": 120.16
+        },
+        {
+          "word": "fallará.",
+          "start": 120.16,
+          "end": 123.6
+        }
+      ],
+      "start": 118.12,
+      "end": 123.6,
+      "confidence": 1.0,
+      "time": 118.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Su palabra me revela",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Su",
+          "start": 127.68,
+          "end": 129.08
+        },
+        {
+          "word": "Palabra",
+          "start": 129.08,
+          "end": 130.48
+        },
+        {
+          "word": "revela",
+          "start": 131.14,
+          "end": 134.16
+        }
+      ],
+      "start": 127.68,
+      "end": 134.16,
+      "confidence": 0.75,
+      "time": 127.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "milagros de gran poder;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "milagros",
+          "start": 134.16,
+          "end": 136.2
+        },
+        {
+          "word": "de",
+          "start": 136.2,
+          "end": 136.88
+        },
+        {
+          "word": "gran",
+          "start": 136.88,
+          "end": 137.38
+        },
+        {
+          "word": "poder",
+          "start": 137.38,
+          "end": 140.22
+        }
+      ],
+      "start": 134.16,
+      "end": 140.22,
+      "confidence": 1.0,
+      "time": 134.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y de todos el más grande",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 140.22,
+          "end": 142.16
+        },
+        {
+          "word": "de",
+          "start": 142.16,
+          "end": 142.74
+        },
+        {
+          "word": "todos",
+          "start": 142.74,
+          "end": 143.34
+        },
+        {
+          "word": "el",
+          "start": 143.34,
+          "end": 143.78
+        },
+        {
+          "word": "más",
+          "start": 143.78,
+          "end": 144.42
+        },
+        {
+          "word": "grande",
+          "start": 144.42,
+          "end": 146.76
+        }
+      ],
+      "start": 140.22,
+      "end": 146.76,
+      "confidence": 1.0,
+      "time": 140.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "es su amor por mí.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "es",
+          "start": 146.76,
+          "end": 148.22
+        },
+        {
+          "word": "su",
+          "start": 148.22,
+          "end": 148.7
+        },
+        {
+          "word": "amor",
+          "start": 148.7,
+          "end": 150.08
+        },
+        {
+          "word": "por",
+          "start": 150.08,
+          "end": 150.7
+        },
+        {
+          "word": "mí.",
+          "start": 150.7,
+          "end": 156.32
+        }
+      ],
+      "start": 146.76,
+      "end": 156.32,
+      "confidence": 1.0,
+      "time": 146.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cristo está a mi lado;",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 156.32,
+          "end": 158.28
+        },
+        {
+          "word": "está",
+          "start": 158.28,
+          "end": 159.34
+        },
+        {
+          "word": "a",
+          "start": 159.34,
+          "end": 160.34
+        },
+        {
+          "word": "mi",
+          "start": 160.34,
+          "end": 160.34
+        },
+        {
+          "word": "lado,",
+          "start": 160.34,
+          "end": 162.78
+        }
+      ],
+      "start": 156.32,
+      "end": 163.74,
+      "confidence": 1.0,
+      "time": 156.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "nunca me dejará.",
+      "words": [
+        {
+          "word": "nunca",
+          "start": 163.74,
+          "end": 164.4
+        },
+        {
+          "word": "me",
+          "start": 164.4,
+          "end": 165.5
+        },
+        {
+          "word": "dejará.",
+          "start": 165.5,
+          "end": 169.6
+        }
+      ],
+      "start": 163.74,
+      "end": 169.6,
+      "confidence": 1.0,
+      "time": 163.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Nadie puede amarme",
+      "words": [
+        {
+          "word": "Nadie",
+          "start": 169.6,
+          "end": 171.4
+        },
+        {
+          "word": "puede",
+          "start": 171.4,
+          "end": 172.58
+        },
+        {
+          "word": "amarme",
+          "start": 172.58,
+          "end": 176.0
+        }
+      ],
+      "start": 169.6,
+      "end": 176.0,
+      "confidence": 1.0,
+      "time": 169.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "como mi Jesús.",
+      "words": [
+        {
+          "word": "como",
+          "start": 176.0,
+          "end": 177.72
+        },
+        {
+          "word": "mi",
+          "start": 177.72,
+          "end": 179.46
+        },
+        {
+          "word": "Jesús.",
+          "start": 179.46,
+          "end": 183.26
+        }
+      ],
+      "start": 176.0,
+      "end": 183.26,
+      "confidence": 1.0,
+      "time": 176.0
+    }
+  ]
+}

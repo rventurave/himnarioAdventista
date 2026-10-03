@@ -1,0 +1,103 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.767,
+  "language": "es",
+  "model": "medium",
+  "hymn": 35,
+  "source": "035 - Oye, oh Senor.mp3",
+  "duration": 57.63,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Oye, oh Señor, nuestra oración;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Nuestra",
+          "start": 30.0,
+          "end": 31.66
+        },
+        {
+          "word": "oración,",
+          "start": 31.66,
+          "end": 34.72
+        }
+      ],
+      "start": 30.0,
+      "end": 34.84,
+      "confidence": 0.4,
+      "time": 30.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tu faz inclina hoy, y danos tu paz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tu",
+          "start": 34.84,
+          "end": 35.6
+        },
+        {
+          "word": "paz",
+          "start": 35.6,
+          "end": 36.64
+        },
+        {
+          "word": "inclina",
+          "start": 36.64,
+          "end": 38.38
+        },
+        {
+          "word": "hoy,",
+          "start": 38.38,
+          "end": 39.94
+        },
+        {
+          "word": "y",
+          "start": 40.78,
+          "end": 41.18
+        },
+        {
+          "word": "da'",
+          "start": 41.18,
+          "end": 42.38
+        },
+        {
+          "word": "tu",
+          "start": 43.08,
+          "end": 43.94
+        },
+        {
+          "word": "paz,",
+          "start": 43.94,
+          "end": 46.46
+        }
+      ],
+      "start": 34.84,
+      "end": 48.48,
+      "confidence": 0.968,
+      "time": 34.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Amén.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Amén.",
+          "start": 48.48,
+          "end": 54.74
+        }
+      ],
+      "start": 48.48,
+      "end": 54.74,
+      "confidence": 1.0,
+      "time": 48.48
+    }
+  ]
+}

@@ -1,0 +1,762 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.987,
+  "language": "es",
+  "model": "medium",
+  "hymn": 113,
+  "source": "113 - Amor que no me dejaras.mp3",
+  "duration": 145.58,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Amor que no me dejarás,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Amor",
+          "start": 13.4,
+          "end": 14.76
+        },
+        {
+          "word": "que",
+          "start": 14.76,
+          "end": 15.16
+        },
+        {
+          "word": "no",
+          "start": 15.16,
+          "end": 15.58
+        },
+        {
+          "word": "me",
+          "start": 15.58,
+          "end": 16.14
+        },
+        {
+          "word": "dejarás,",
+          "start": 16.14,
+          "end": 19.14
+        }
+      ],
+      "start": 13.4,
+      "end": 20.0,
+      "confidence": 1.0,
+      "time": 13.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "descansa mi alma siempre en ti;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "descansa",
+          "start": 20.0,
+          "end": 21.32
+        },
+        {
+          "word": "mi",
+          "start": 21.32,
+          "end": 21.72
+        },
+        {
+          "word": "alma",
+          "start": 21.72,
+          "end": 22.18
+        },
+        {
+          "word": "siempre",
+          "start": 22.18,
+          "end": 22.86
+        },
+        {
+          "word": "en",
+          "start": 22.86,
+          "end": 23.36
+        },
+        {
+          "word": "ti,",
+          "start": 23.36,
+          "end": 25.16
+        }
+      ],
+      "start": 20.0,
+      "end": 25.16,
+      "confidence": 1.0,
+      "time": 20.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "es tuya y tú la guardarás,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Es",
+          "start": 25.16,
+          "end": 26.4
+        },
+        {
+          "word": "tuya",
+          "start": 26.4,
+          "end": 27.68
+        },
+        {
+          "word": "y",
+          "start": 27.68,
+          "end": 27.84
+        },
+        {
+          "word": "tú",
+          "start": 27.84,
+          "end": 28.3
+        },
+        {
+          "word": "la",
+          "start": 28.3,
+          "end": 28.64
+        },
+        {
+          "word": "guardarás",
+          "start": 28.64,
+          "end": 31.56
+        }
+      ],
+      "start": 25.16,
+      "end": 31.56,
+      "confidence": 1.0,
+      "time": 25.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y en tu regazo acogedor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 31.56,
+          "end": 32.24
+        },
+        {
+          "word": "en",
+          "start": 32.24,
+          "end": 32.66
+        },
+        {
+          "word": "tu",
+          "start": 32.66,
+          "end": 33.66
+        },
+        {
+          "word": "regazo",
+          "start": 33.66,
+          "end": 34.7
+        },
+        {
+          "word": "acogedor",
+          "start": 34.7,
+          "end": 36.68
+        }
+      ],
+      "start": 31.56,
+      "end": 36.68,
+      "confidence": 1.0,
+      "time": 31.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "la paz encontrará.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 36.68,
+          "end": 37.38
+        },
+        {
+          "word": "paz",
+          "start": 37.38,
+          "end": 38.42
+        },
+        {
+          "word": "encontrará.",
+          "start": 38.42,
+          "end": 43.82
+        }
+      ],
+      "start": 36.68,
+      "end": 43.82,
+      "confidence": 1.0,
+      "time": 36.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Oh Luz que en mi sendero vas!,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 43.82,
+          "end": 45.6
+        },
+        {
+          "word": "luz",
+          "start": 46.62,
+          "end": 46.72
+        },
+        {
+          "word": "que",
+          "start": 46.72,
+          "end": 47.06
+        },
+        {
+          "word": "en",
+          "start": 47.06,
+          "end": 47.32
+        },
+        {
+          "word": "mi",
+          "start": 47.32,
+          "end": 47.6
+        },
+        {
+          "word": "sendero",
+          "start": 47.6,
+          "end": 48.7
+        },
+        {
+          "word": "vas,",
+          "start": 48.7,
+          "end": 50.78
+        }
+      ],
+      "start": 43.82,
+      "end": 51.3,
+      "confidence": 1.0,
+      "time": 43.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "mi antorcha débil rindo a ti;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mi",
+          "start": 51.3,
+          "end": 51.6
+        },
+        {
+          "word": "antorcha",
+          "start": 51.6,
+          "end": 53.48
+        },
+        {
+          "word": "débil",
+          "start": 53.48,
+          "end": 54.28
+        },
+        {
+          "word": "rindo",
+          "start": 54.28,
+          "end": 54.8
+        },
+        {
+          "word": "a",
+          "start": 54.8,
+          "end": 55.34
+        },
+        {
+          "word": "ti,",
+          "start": 55.34,
+          "end": 57.06
+        }
+      ],
+      "start": 51.3,
+      "end": 57.76,
+      "confidence": 1.0,
+      "time": 51.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "su luz apaga el corazón,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "su",
+          "start": 57.76,
+          "end": 58.22
+        },
+        {
+          "word": "luz",
+          "start": 58.22,
+          "end": 59.46
+        },
+        {
+          "word": "apaga",
+          "start": 59.46,
+          "end": 60.44
+        },
+        {
+          "word": "el",
+          "start": 60.44,
+          "end": 60.8
+        },
+        {
+          "word": "corazón.",
+          "start": 60.8,
+          "end": 63.34
+        }
+      ],
+      "start": 57.76,
+      "end": 63.34,
+      "confidence": 1.0,
+      "time": 57.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "seguro de encontrar en ti",
+      "verse": 2,
+      "words": [
+        {
+          "word": "seguro",
+          "start": 63.34,
+          "end": 65.86
+        },
+        {
+          "word": "de",
+          "start": 65.86,
+          "end": 66.52
+        },
+        {
+          "word": "encontrar",
+          "start": 66.52,
+          "end": 67.32
+        },
+        {
+          "word": "en",
+          "start": 67.32,
+          "end": 67.86
+        },
+        {
+          "word": "ti",
+          "start": 67.86,
+          "end": 68.54
+        }
+      ],
+      "start": 63.34,
+      "end": 68.54,
+      "confidence": 1.0,
+      "time": 63.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "más bello resplandor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "más",
+          "start": 68.88,
+          "end": 69.5
+        },
+        {
+          "word": "velio",
+          "start": 69.5,
+          "end": 72.92
+        },
+        {
+          "word": "resplandor.",
+          "start": 72.92,
+          "end": 76.28
+        }
+      ],
+      "start": 68.88,
+      "end": 76.28,
+      "confidence": 0.92,
+      "time": 68.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Oh tú el Gozo!, que por mí",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Oh",
+          "start": 76.58,
+          "end": 77.6
+        },
+        {
+          "word": "tú,",
+          "start": 77.6,
+          "end": 78.84
+        },
+        {
+          "word": "el",
+          "start": 79.1,
+          "end": 79.3
+        },
+        {
+          "word": "gozo",
+          "start": 79.3,
+          "end": 79.86
+        },
+        {
+          "word": "que",
+          "start": 79.86,
+          "end": 80.28
+        },
+        {
+          "word": "por",
+          "start": 80.28,
+          "end": 80.8
+        },
+        {
+          "word": "mí",
+          "start": 80.8,
+          "end": 82.34
+        }
+      ],
+      "start": 76.58,
+      "end": 82.34,
+      "confidence": 1.0,
+      "time": 76.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "sufriste aquí mortal dolor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "sufriste",
+          "start": 83.86,
+          "end": 85.22
+        },
+        {
+          "word": "aquí",
+          "start": 85.22,
+          "end": 85.86
+        },
+        {
+          "word": "mortal",
+          "start": 85.86,
+          "end": 86.56
+        },
+        {
+          "word": "dolor,",
+          "start": 86.56,
+          "end": 89.06
+        }
+      ],
+      "start": 83.86,
+      "end": 89.06,
+      "confidence": 1.0,
+      "time": 83.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tras la tormenta el arco vi,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tras",
+          "start": 89.06,
+          "end": 90.4
+        },
+        {
+          "word": "la",
+          "start": 90.4,
+          "end": 91.4
+        },
+        {
+          "word": "tormenta",
+          "start": 91.4,
+          "end": 92.5
+        },
+        {
+          "word": "el",
+          "start": 92.5,
+          "end": 92.78
+        },
+        {
+          "word": "arco",
+          "start": 92.78,
+          "end": 93.52
+        },
+        {
+          "word": "vi",
+          "start": 93.52,
+          "end": 95.02
+        }
+      ],
+      "start": 89.06,
+      "end": 95.02,
+      "confidence": 1.0,
+      "time": 89.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y la mañana, yo lo sé,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 95.02,
+          "end": 96.46
+        },
+        {
+          "word": "la",
+          "start": 96.46,
+          "end": 97.7
+        },
+        {
+          "word": "mañana",
+          "start": 97.7,
+          "end": 98.72
+        },
+        {
+          "word": "yo",
+          "start": 98.72,
+          "end": 99.3
+        },
+        {
+          "word": "lo",
+          "start": 99.3,
+          "end": 99.86
+        },
+        {
+          "word": "sé",
+          "start": 99.86,
+          "end": 100.62
+        }
+      ],
+      "start": 95.02,
+      "end": 100.62,
+      "confidence": 1.0,
+      "time": 95.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "sin lágrimas será.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Sin",
+          "start": 100.62,
+          "end": 101.24
+        },
+        {
+          "word": "lágrimas",
+          "start": 101.24,
+          "end": 105.58
+        },
+        {
+          "word": "será",
+          "start": 105.58,
+          "end": 107.68
+        }
+      ],
+      "start": 100.62,
+      "end": 107.68,
+      "confidence": 1.0,
+      "time": 100.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "¡Oh Cruz que miro sin cesar!,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Oh",
+          "start": 107.68,
+          "end": 109.5
+        },
+        {
+          "word": "cruz",
+          "start": 109.5,
+          "end": 110.72
+        },
+        {
+          "word": "que",
+          "start": 110.72,
+          "end": 111.18
+        },
+        {
+          "word": "miro",
+          "start": 111.18,
+          "end": 111.84
+        },
+        {
+          "word": "sin",
+          "start": 111.84,
+          "end": 112.32
+        },
+        {
+          "word": "cesar",
+          "start": 112.32,
+          "end": 114.8
+        }
+      ],
+      "start": 107.68,
+      "end": 114.8,
+      "confidence": 1.0,
+      "time": 107.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "mi orgullo, gloria y vanidad,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "mi",
+          "start": 114.8,
+          "end": 115.56
+        },
+        {
+          "word": "orgullo,",
+          "start": 115.56,
+          "end": 117.44
+        },
+        {
+          "word": "gloria",
+          "start": 117.44,
+          "end": 118.04
+        },
+        {
+          "word": "y",
+          "start": 118.04,
+          "end": 118.32
+        },
+        {
+          "word": "vanidad",
+          "start": 118.32,
+          "end": 121.06
+        }
+      ],
+      "start": 114.8,
+      "end": 121.06,
+      "confidence": 1.0,
+      "time": 114.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "al polvo dejo por hallar",
+      "verse": 4,
+      "words": [
+        {
+          "word": "al",
+          "start": 121.06,
+          "end": 122.32
+        },
+        {
+          "word": "dejo",
+          "start": 123.74,
+          "end": 124.52
+        },
+        {
+          "word": "por",
+          "start": 124.52,
+          "end": 125.1
+        },
+        {
+          "word": "allá",
+          "start": 125.1,
+          "end": 126.56
+        }
+      ],
+      "start": 121.06,
+      "end": 126.56,
+      "confidence": 0.776,
+      "time": 121.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "la vida que en su sangre dio",
+      "verse": 4,
+      "words": [
+        {
+          "word": "la",
+          "start": 127.4,
+          "end": 128.44
+        },
+        {
+          "word": "vida",
+          "start": 128.44,
+          "end": 129.86
+        },
+        {
+          "word": "que",
+          "start": 129.86,
+          "end": 130.3
+        },
+        {
+          "word": "en",
+          "start": 130.3,
+          "end": 130.64
+        },
+        {
+          "word": "su",
+          "start": 130.64,
+          "end": 130.94
+        },
+        {
+          "word": "sangre",
+          "start": 130.94,
+          "end": 131.5
+        },
+        {
+          "word": "dio",
+          "start": 131.5,
+          "end": 132.66
+        }
+      ],
+      "start": 127.4,
+      "end": 132.66,
+      "confidence": 1.0,
+      "time": 127.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Jesús, mi Salvador.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 132.66,
+          "end": 133.98
+        },
+        {
+          "word": "mi",
+          "start": 133.98,
+          "end": 134.9
+        },
+        {
+          "word": "Salvador.",
+          "start": 134.9,
+          "end": 138.74
+        }
+      ],
+      "start": 132.66,
+      "end": 138.74,
+      "confidence": 1.0,
+      "time": 132.66
+    }
+  ]
+}

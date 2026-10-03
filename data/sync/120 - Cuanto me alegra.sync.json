@@ -1,0 +1,1003 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.991,
+  "language": "es",
+  "model": "medium",
+  "hymn": 120,
+  "source": "120 - Cuanto me alegra.mp3",
+  "duration": 141.4,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Cuánto me alegra que nuestro Señor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Canto",
+          "start": 19.76,
+          "end": 21.16
+        },
+        {
+          "word": "me",
+          "start": 21.16,
+          "end": 21.84
+        },
+        {
+          "word": "alegra",
+          "start": 21.84,
+          "end": 22.64
+        },
+        {
+          "word": "que",
+          "start": 22.64,
+          "end": 23.04
+        },
+        {
+          "word": "nuestro",
+          "start": 23.04,
+          "end": 23.9
+        },
+        {
+          "word": "Señor",
+          "start": 23.9,
+          "end": 25.22
+        }
+      ],
+      "start": 19.76,
+      "end": 25.22,
+      "confidence": 0.991,
+      "time": 19.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "diera su vida por el pecador!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Diera",
+          "start": 25.22,
+          "end": 26.26
+        },
+        {
+          "word": "su",
+          "start": 26.26,
+          "end": 26.74
+        },
+        {
+          "word": "vida",
+          "start": 26.74,
+          "end": 27.4
+        },
+        {
+          "word": "por",
+          "start": 27.4,
+          "end": 28.02
+        },
+        {
+          "word": "el",
+          "start": 28.02,
+          "end": 28.48
+        },
+        {
+          "word": "pecador",
+          "start": 28.48,
+          "end": 30.02
+        }
+      ],
+      "start": 25.22,
+      "end": 30.02,
+      "confidence": 1.0,
+      "time": 25.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hizo sin par maravillas aquí,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hizo",
+          "start": 30.02,
+          "end": 31.12
+        },
+        {
+          "word": "sin",
+          "start": 31.12,
+          "end": 31.6
+        },
+        {
+          "word": "par",
+          "start": 31.6,
+          "end": 32.02
+        },
+        {
+          "word": "maravillas",
+          "start": 32.02,
+          "end": 33.6
+        },
+        {
+          "word": "aquí",
+          "start": 33.6,
+          "end": 34.72
+        }
+      ],
+      "start": 30.02,
+      "end": 34.72,
+      "confidence": 1.0,
+      "time": 30.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y la más grande es que me ama a mí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Y",
+          "start": 34.72,
+          "end": 35.52
+        },
+        {
+          "word": "la",
+          "start": 35.52,
+          "end": 35.96
+        },
+        {
+          "word": "más",
+          "start": 35.96,
+          "end": 36.38
+        },
+        {
+          "word": "grande",
+          "start": 36.38,
+          "end": 36.9
+        },
+        {
+          "word": "es",
+          "start": 36.9,
+          "end": 37.26
+        },
+        {
+          "word": "que",
+          "start": 37.26,
+          "end": 37.58
+        },
+        {
+          "word": "me",
+          "start": 37.58,
+          "end": 37.96
+        },
+        {
+          "word": "ama",
+          "start": 37.96,
+          "end": 38.4
+        },
+        {
+          "word": "a",
+          "start": 38.4,
+          "end": 38.96
+        },
+        {
+          "word": "mí",
+          "start": 38.96,
+          "end": 39.64
+        }
+      ],
+      "start": 34.72,
+      "end": 39.64,
+      "confidence": 1.0,
+      "time": 34.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Qué maravilla! Me ama Jesús,",
+      "words": [
+        {
+          "word": "¡Qué",
+          "start": 39.64,
+          "end": 40.56
+        },
+        {
+          "word": "maravilla",
+          "start": 40.56,
+          "end": 42.26
+        },
+        {
+          "word": "me",
+          "start": 42.26,
+          "end": 42.62
+        },
+        {
+          "word": "ama",
+          "start": 42.62,
+          "end": 43.04
+        },
+        {
+          "word": "Jesús!",
+          "start": 43.04,
+          "end": 44.32
+        }
+      ],
+      "start": 39.64,
+      "end": 44.32,
+      "confidence": 1.0,
+      "time": 39.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "me ama Jesús, me ama Jesús.",
+      "words": [
+        {
+          "word": "Me",
+          "start": 44.76,
+          "end": 44.98
+        },
+        {
+          "word": "ama",
+          "start": 44.98,
+          "end": 45.42
+        },
+        {
+          "word": "Jesús,",
+          "start": 45.42,
+          "end": 46.84
+        },
+        {
+          "word": "me",
+          "start": 47.06,
+          "end": 47.5
+        },
+        {
+          "word": "ama",
+          "start": 47.5,
+          "end": 47.84
+        },
+        {
+          "word": "Jesús",
+          "start": 47.84,
+          "end": 49.3
+        }
+      ],
+      "start": 44.76,
+      "end": 49.3,
+      "confidence": 1.0,
+      "time": 44.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Qué maravilla! Me ama Jesús;",
+      "words": [
+        {
+          "word": "¡Qué",
+          "start": 49.3,
+          "end": 50.1
+        },
+        {
+          "word": "maravilla",
+          "start": 50.1,
+          "end": 51.84
+        },
+        {
+          "word": "me",
+          "start": 51.84,
+          "end": 52.24
+        },
+        {
+          "word": "ama",
+          "start": 52.24,
+          "end": 52.62
+        },
+        {
+          "word": "Jesús!",
+          "start": 52.62,
+          "end": 53.92
+        }
+      ],
+      "start": 49.3,
+      "end": 53.92,
+      "confidence": 1.0,
+      "time": 49.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "sí, me ama aún a mí.",
+      "words": [
+        {
+          "word": "si",
+          "start": 53.92,
+          "end": 54.68
+        },
+        {
+          "word": "me",
+          "start": 54.68,
+          "end": 55.12
+        },
+        {
+          "word": "ama",
+          "start": 55.12,
+          "end": 55.54
+        },
+        {
+          "word": "aún",
+          "start": 55.54,
+          "end": 56.52
+        },
+        {
+          "word": "a",
+          "start": 56.52,
+          "end": 56.96
+        },
+        {
+          "word": "mí.",
+          "start": 56.96,
+          "end": 59.02
+        }
+      ],
+      "start": 53.92,
+      "end": 59.02,
+      "confidence": 1.0,
+      "time": 53.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Aunque vagaba olvidándome de él,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Aunque",
+          "start": 59.42,
+          "end": 60.12
+        },
+        {
+          "word": "vagaba",
+          "start": 60.12,
+          "end": 61.32
+        },
+        {
+          "word": "olvidándome",
+          "start": 61.32,
+          "end": 63.18
+        },
+        {
+          "word": "de",
+          "start": 63.18,
+          "end": 63.46
+        },
+        {
+          "word": "él,",
+          "start": 63.46,
+          "end": 64.18
+        }
+      ],
+      "start": 59.42,
+      "end": 64.18,
+      "confidence": 1.0,
+      "time": 59.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "él me siguió porque siempre es fiel;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "él",
+          "start": 64.5,
+          "end": 64.84
+        },
+        {
+          "word": "me",
+          "start": 64.84,
+          "end": 65.32
+        },
+        {
+          "word": "siguió",
+          "start": 65.32,
+          "end": 65.96
+        },
+        {
+          "word": "porque",
+          "start": 65.96,
+          "end": 66.66
+        },
+        {
+          "word": "siempre",
+          "start": 66.66,
+          "end": 67.46
+        },
+        {
+          "word": "es",
+          "start": 67.46,
+          "end": 68.1
+        },
+        {
+          "word": "fiel.",
+          "start": 68.1,
+          "end": 68.98
+        }
+      ],
+      "start": 64.5,
+      "end": 68.98,
+      "confidence": 1.0,
+      "time": 64.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "presto a sus brazos amantes volví",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Presto",
+          "start": 69.4,
+          "end": 69.8
+        },
+        {
+          "word": "a",
+          "start": 69.8,
+          "end": 70.06
+        },
+        {
+          "word": "sus",
+          "start": 70.06,
+          "end": 70.34
+        },
+        {
+          "word": "brazos",
+          "start": 70.34,
+          "end": 71.28
+        },
+        {
+          "word": "amantes",
+          "start": 71.28,
+          "end": 72.28
+        },
+        {
+          "word": "volví",
+          "start": 72.28,
+          "end": 74.02
+        }
+      ],
+      "start": 69.4,
+      "end": 74.02,
+      "confidence": 1.0,
+      "time": 69.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al recordar que Jesús me ama a mí.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 74.02,
+          "end": 74.38
+        },
+        {
+          "word": "recordar",
+          "start": 74.38,
+          "end": 75.62
+        },
+        {
+          "word": "que",
+          "start": 75.62,
+          "end": 76.02
+        },
+        {
+          "word": "Jesús",
+          "start": 76.02,
+          "end": 76.74
+        },
+        {
+          "word": "me",
+          "start": 76.74,
+          "end": 77.16
+        },
+        {
+          "word": "ama",
+          "start": 77.16,
+          "end": 77.48
+        },
+        {
+          "word": "a",
+          "start": 77.48,
+          "end": 77.78
+        },
+        {
+          "word": "mí.",
+          "start": 77.78,
+          "end": 78.4
+        }
+      ],
+      "start": 74.02,
+      "end": 78.4,
+      "confidence": 1.0,
+      "time": 74.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Qué maravilla! Me ama Jesús,",
+      "words": [
+        {
+          "word": "¡Qué",
+          "start": 78.72,
+          "end": 79.36
+        },
+        {
+          "word": "maravilla",
+          "start": 79.36,
+          "end": 81.04
+        },
+        {
+          "word": "me",
+          "start": 81.04,
+          "end": 81.42
+        },
+        {
+          "word": "ama",
+          "start": 81.42,
+          "end": 81.86
+        },
+        {
+          "word": "Jesús!",
+          "start": 81.86,
+          "end": 83.14
+        }
+      ],
+      "start": 78.72,
+      "end": 83.14,
+      "confidence": 1.0,
+      "time": 78.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "me ama Jesús, me ama Jesús.",
+      "words": [
+        {
+          "word": "Me",
+          "start": 83.14,
+          "end": 83.86
+        },
+        {
+          "word": "ama",
+          "start": 83.86,
+          "end": 84.22
+        },
+        {
+          "word": "Jesús,",
+          "start": 84.22,
+          "end": 85.64
+        },
+        {
+          "word": "me",
+          "start": 86.04,
+          "end": 86.36
+        },
+        {
+          "word": "ama",
+          "start": 86.36,
+          "end": 86.7
+        },
+        {
+          "word": "Jesús,",
+          "start": 86.7,
+          "end": 88.04
+        }
+      ],
+      "start": 83.14,
+      "end": 88.42,
+      "confidence": 1.0,
+      "time": 83.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Qué maravilla! Me ama Jesús;",
+      "words": [
+        {
+          "word": "que",
+          "start": 88.42,
+          "end": 88.8
+        },
+        {
+          "word": "maravilla",
+          "start": 88.8,
+          "end": 90.62
+        },
+        {
+          "word": "me",
+          "start": 90.62,
+          "end": 90.98
+        },
+        {
+          "word": "ama",
+          "start": 90.98,
+          "end": 91.42
+        },
+        {
+          "word": "Jesús,",
+          "start": 91.42,
+          "end": 92.84
+        }
+      ],
+      "start": 88.42,
+      "end": 93.2,
+      "confidence": 1.0,
+      "time": 88.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "sí, me ama aún a mí.",
+      "words": [
+        {
+          "word": "si",
+          "start": 93.2,
+          "end": 93.58
+        },
+        {
+          "word": "me",
+          "start": 93.58,
+          "end": 93.98
+        },
+        {
+          "word": "ama",
+          "start": 93.98,
+          "end": 94.36
+        },
+        {
+          "word": "aún",
+          "start": 94.36,
+          "end": 95.3
+        },
+        {
+          "word": "a",
+          "start": 95.3,
+          "end": 95.84
+        },
+        {
+          "word": "mí.",
+          "start": 95.84,
+          "end": 97.82
+        }
+      ],
+      "start": 93.2,
+      "end": 97.82,
+      "confidence": 1.0,
+      "time": 93.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cuando en el cielo ver pueda a Jesús,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 98.44,
+          "end": 99.1
+        },
+        {
+          "word": "en",
+          "start": 99.1,
+          "end": 99.6
+        },
+        {
+          "word": "el",
+          "start": 99.6,
+          "end": 99.92
+        },
+        {
+          "word": "cielo",
+          "start": 99.92,
+          "end": 100.48
+        },
+        {
+          "word": "ver",
+          "start": 100.48,
+          "end": 100.88
+        },
+        {
+          "word": "pueda",
+          "start": 100.88,
+          "end": 101.56
+        },
+        {
+          "word": "Jesús,",
+          "start": 101.56,
+          "end": 103.08
+        }
+      ],
+      "start": 98.44,
+      "end": 103.54,
+      "confidence": 0.875,
+      "time": 98.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "ya revestido de gloriosa luz,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ya",
+          "start": 103.54,
+          "end": 103.76
+        },
+        {
+          "word": "revestido",
+          "start": 103.76,
+          "end": 105.24
+        },
+        {
+          "word": "de",
+          "start": 105.24,
+          "end": 105.84
+        },
+        {
+          "word": "gloriosa",
+          "start": 105.84,
+          "end": 106.8
+        },
+        {
+          "word": "luz,",
+          "start": 106.8,
+          "end": 107.84
+        }
+      ],
+      "start": 103.54,
+      "end": 107.84,
+      "confidence": 1.0,
+      "time": 103.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "entonaré mi himno eterno allí:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Entonare",
+          "start": 108.78,
+          "end": 109.7
+        },
+        {
+          "word": "mi",
+          "start": 109.7,
+          "end": 109.94
+        },
+        {
+          "word": "himno",
+          "start": 109.94,
+          "end": 110.36
+        },
+        {
+          "word": "eterno",
+          "start": 110.36,
+          "end": 111.62
+        },
+        {
+          "word": "allí,",
+          "start": 111.62,
+          "end": 112.56
+        }
+      ],
+      "start": 108.78,
+      "end": 112.98,
+      "confidence": 1.0,
+      "time": 108.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "\"¡Qué maravilla! ¡Jesús me ama a mí!\"",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 112.98,
+          "end": 113.48
+        },
+        {
+          "word": "maravilla",
+          "start": 113.48,
+          "end": 114.76
+        },
+        {
+          "word": "Jesús",
+          "start": 114.76,
+          "end": 115.66
+        },
+        {
+          "word": "me",
+          "start": 115.66,
+          "end": 116.08
+        },
+        {
+          "word": "ama",
+          "start": 116.08,
+          "end": 116.5
+        },
+        {
+          "word": "a",
+          "start": 116.5,
+          "end": 116.82
+        },
+        {
+          "word": "mí,",
+          "start": 116.82,
+          "end": 117.46
+        }
+      ],
+      "start": 112.98,
+      "end": 117.46,
+      "confidence": 1.0,
+      "time": 112.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Qué maravilla! Me ama Jesús,",
+      "words": [
+        {
+          "word": "que",
+          "start": 117.82,
+          "end": 118.2
+        },
+        {
+          "word": "maravilla",
+          "start": 118.2,
+          "end": 120.08
+        },
+        {
+          "word": "me",
+          "start": 120.08,
+          "end": 120.38
+        },
+        {
+          "word": "ama",
+          "start": 120.38,
+          "end": 120.84
+        },
+        {
+          "word": "Jesús,",
+          "start": 121.34,
+          "end": 122.22
+        }
+      ],
+      "start": 117.82,
+      "end": 122.58,
+      "confidence": 1.0,
+      "time": 117.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "me ama Jesús, me ama Jesús.",
+      "words": [
+        {
+          "word": "me",
+          "start": 122.58,
+          "end": 122.96
+        },
+        {
+          "word": "ama",
+          "start": 122.96,
+          "end": 123.24
+        },
+        {
+          "word": "Jesús,",
+          "start": 123.78,
+          "end": 124.7
+        },
+        {
+          "word": "me",
+          "start": 124.92,
+          "end": 125.22
+        },
+        {
+          "word": "ama",
+          "start": 125.22,
+          "end": 125.68
+        },
+        {
+          "word": "Jesús,",
+          "start": 126.14,
+          "end": 127.08
+        }
+      ],
+      "start": 122.58,
+      "end": 127.08,
+      "confidence": 1.0,
+      "time": 122.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Qué maravilla! Me ama Jesús;",
+      "words": [
+        {
+          "word": "¡Qué",
+          "start": 127.08,
+          "end": 127.94
+        },
+        {
+          "word": "maravilla",
+          "start": 127.94,
+          "end": 129.66
+        },
+        {
+          "word": "me",
+          "start": 129.66,
+          "end": 130.06
+        },
+        {
+          "word": "ama",
+          "start": 130.06,
+          "end": 130.42
+        },
+        {
+          "word": "Jesús,",
+          "start": 130.42,
+          "end": 131.66
+        }
+      ],
+      "start": 127.08,
+      "end": 132.18,
+      "confidence": 1.0,
+      "time": 127.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "sí, me ama aún a mí.",
+      "words": [
+        {
+          "word": "si",
+          "start": 132.18,
+          "end": 132.56
+        },
+        {
+          "word": "me",
+          "start": 132.56,
+          "end": 132.98
+        },
+        {
+          "word": "ama",
+          "start": 132.98,
+          "end": 133.44
+        },
+        {
+          "word": "una",
+          "start": 133.44,
+          "end": 134.78
+        },
+        {
+          "word": "a",
+          "start": 134.78,
+          "end": 135.06
+        },
+        {
+          "word": "mí!",
+          "start": 135.06,
+          "end": 135.62
+        }
+      ],
+      "start": 132.18,
+      "end": 135.62,
+      "confidence": 0.967,
+      "time": 132.18
+    }
+  ]
+}

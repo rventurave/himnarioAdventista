@@ -1,0 +1,618 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.776,
+  "language": "es",
+  "model": "medium",
+  "hymn": 15,
+  "source": "015 - Loamoste, oh Dios.mp3",
+  "duration": 109.01,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Loámoste, ¡Oh Dios!,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "vamos",
+          "start": 11.0,
+          "end": 12.2
+        },
+        {
+          "word": "odios",
+          "start": 12.62,
+          "end": 13.82
+        }
+      ],
+      "start": 11.0,
+      "end": 13.82,
+      "confidence": 0.568,
+      "time": 11.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con alegre canción,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "con",
+          "start": 13.82,
+          "end": 14.54
+        },
+        {
+          "word": "alegre",
+          "start": 14.54,
+          "end": 15.76
+        },
+        {
+          "word": "canción,",
+          "start": 15.76,
+          "end": 17.24
+        }
+      ],
+      "start": 13.82,
+      "end": 17.72,
+      "confidence": 1.0,
+      "time": 13.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "porque en Cristo tu Hijo",
+      "verse": 1,
+      "words": [
+        {
+          "word": "porque",
+          "start": 17.72,
+          "end": 18.1
+        },
+        {
+          "word": "en",
+          "start": 18.1,
+          "end": 18.38
+        },
+        {
+          "word": "Cristo",
+          "start": 18.38,
+          "end": 19.26
+        },
+        {
+          "word": "tu",
+          "start": 19.26,
+          "end": 20.04
+        },
+        {
+          "word": "Hijo",
+          "start": 20.04,
+          "end": 21.16
+        }
+      ],
+      "start": 17.72,
+      "end": 21.16,
+      "confidence": 1.0,
+      "time": 17.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nos diste perdón.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "nos",
+          "start": 21.16,
+          "end": 21.98
+        },
+        {
+          "word": "dice",
+          "start": 21.98,
+          "end": 22.96
+        },
+        {
+          "word": "perdón.",
+          "start": 22.96,
+          "end": 24.56
+        }
+      ],
+      "start": 21.16,
+      "end": 24.56,
+      "confidence": 0.933,
+      "time": 21.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Aleluya! Te alabamos.",
+      "words": [
+        {
+          "word": "Aleluya",
+          "start": 24.56,
+          "end": 26.62
+        },
+        {
+          "word": "te",
+          "start": 26.62,
+          "end": 27.06
+        },
+        {
+          "word": "alabamos,",
+          "start": 27.06,
+          "end": 28.4
+        }
+      ],
+      "start": 24.56,
+      "end": 28.7,
+      "confidence": 1.0,
+      "time": 24.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Cuán grande es tu amor!",
+      "words": [
+        {
+          "word": "cuán",
+          "start": 28.7,
+          "end": 29.34
+        },
+        {
+          "word": "tu",
+          "start": 30.18,
+          "end": 30.84
+        },
+        {
+          "word": "amor,",
+          "start": 30.84,
+          "end": 31.74
+        }
+      ],
+      "start": 28.7,
+      "end": 32.38,
+      "confidence": 0.6,
+      "time": 28.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Aleluya! Te adoramos,",
+      "words": [
+        {
+          "word": "aleluya",
+          "start": 32.38,
+          "end": 33.82
+        },
+        {
+          "word": "te",
+          "start": 33.82,
+          "end": 34.3
+        },
+        {
+          "word": "adoramos,",
+          "start": 34.3,
+          "end": 35.6
+        }
+      ],
+      "start": 32.38,
+      "end": 36.16,
+      "confidence": 1.0,
+      "time": 32.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "bendito Señor.",
+      "words": [
+        {
+          "word": "bendito",
+          "start": 36.16,
+          "end": 37.44
+        },
+        {
+          "word": "Señor.",
+          "start": 37.44,
+          "end": 40.02
+        }
+      ],
+      "start": 36.16,
+      "end": 40.02,
+      "confidence": 1.0,
+      "time": 36.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "A ti, oh Señor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 40.02,
+          "end": 41.84
+        },
+        {
+          "word": "ti,",
+          "start": 41.84,
+          "end": 42.36
+        },
+        {
+          "word": "oh",
+          "start": 42.62,
+          "end": 43.06
+        },
+        {
+          "word": "Señor,",
+          "start": 43.06,
+          "end": 44.24
+        }
+      ],
+      "start": 40.02,
+      "end": 44.68,
+      "confidence": 1.0,
+      "time": 40.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que tu trono de luz",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 44.68,
+          "end": 44.94
+        },
+        {
+          "word": "tu",
+          "start": 44.94,
+          "end": 45.26
+        },
+        {
+          "word": "trono",
+          "start": 45.26,
+          "end": 46.38
+        },
+        {
+          "word": "de",
+          "start": 46.38,
+          "end": 47.18
+        },
+        {
+          "word": "luz",
+          "start": 47.18,
+          "end": 47.84
+        }
+      ],
+      "start": 44.68,
+      "end": 47.84,
+      "confidence": 1.0,
+      "time": 44.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "has dejado por darnos",
+      "verse": 2,
+      "words": [
+        {
+          "word": "has",
+          "start": 47.84,
+          "end": 48.56
+        },
+        {
+          "word": "dejado",
+          "start": 48.56,
+          "end": 50.02
+        },
+        {
+          "word": "mordernos,",
+          "start": 50.02,
+          "end": 51.96
+        }
+      ],
+      "start": 47.84,
+      "end": 52.16,
+      "confidence": 0.7,
+      "time": 47.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "perdón en la cruz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "perdonenlo",
+          "start": 52.16,
+          "end": 54.48
+        },
+        {
+          "word": "a",
+          "start": 54.48,
+          "end": 55.1
+        }
+      ],
+      "start": 52.16,
+      "end": 55.22,
+      "confidence": 0.435,
+      "time": 52.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Aleluya! Te alabamos.",
+      "words": [
+        {
+          "word": "Aleluya,",
+          "start": 55.22,
+          "end": 57.24
+        },
+        {
+          "word": "te",
+          "start": 57.36,
+          "end": 57.66
+        },
+        {
+          "word": "alabamos,",
+          "start": 57.66,
+          "end": 59.0
+        }
+      ],
+      "start": 55.22,
+      "end": 59.34,
+      "confidence": 1.0,
+      "time": 55.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Cuán grande es tu amor!",
+      "words": [
+        {
+          "word": "Juan",
+          "start": 59.34,
+          "end": 59.8
+        },
+        {
+          "word": "Grande,",
+          "start": 59.8,
+          "end": 60.76
+        },
+        {
+          "word": "amor.",
+          "start": 61.34,
+          "end": 62.3
+        }
+      ],
+      "start": 59.34,
+      "end": 62.3,
+      "confidence": 0.57,
+      "time": 59.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Aleluya! Te adoramos,",
+      "words": [
+        {
+          "word": "Aleluya,",
+          "start": 63.02,
+          "end": 64.42
+        },
+        {
+          "word": "te",
+          "start": 64.48,
+          "end": 64.86
+        },
+        {
+          "word": "adoramos,",
+          "start": 64.86,
+          "end": 66.12
+        }
+      ],
+      "start": 63.02,
+      "end": 66.84,
+      "confidence": 1.0,
+      "time": 63.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "bendito Señor.",
+      "words": [
+        {
+          "word": "bendito",
+          "start": 66.84,
+          "end": 68.02
+        },
+        {
+          "word": "Señor.",
+          "start": 68.02,
+          "end": 70.38
+        }
+      ],
+      "start": 66.84,
+      "end": 70.38,
+      "confidence": 1.0,
+      "time": 66.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Te damos loor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "damos",
+          "start": 74.02,
+          "end": 75.34
+        }
+      ],
+      "start": 74.02,
+      "end": 77.28,
+      "confidence": 0.333,
+      "time": 74.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "santo Consolador,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "santo",
+          "start": 77.28,
+          "end": 77.94
+        },
+        {
+          "word": "consolador,",
+          "start": 77.94,
+          "end": 80.22
+        }
+      ],
+      "start": 77.28,
+      "end": 80.78,
+      "confidence": 1.0,
+      "time": 77.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "que nos llenas de gozo",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 80.78,
+          "end": 81.02
+        },
+        {
+          "word": "nos",
+          "start": 81.02,
+          "end": 81.62
+        },
+        {
+          "word": "vengas",
+          "start": 81.62,
+          "end": 82.58
+        }
+      ],
+      "start": 80.78,
+      "end": 84.6,
+      "confidence": 0.56,
+      "time": 80.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y santo valor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "santo",
+          "start": 84.6,
+          "end": 86.06
+        },
+        {
+          "word": "malar.",
+          "start": 86.06,
+          "end": 87.64
+        }
+      ],
+      "start": 84.6,
+      "end": 87.64,
+      "confidence": 0.587,
+      "time": 84.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Aleluya! Te alabamos.",
+      "words": [
+        {
+          "word": "Aleluya",
+          "start": 87.64,
+          "end": 89.64
+        },
+        {
+          "word": "te",
+          "start": 89.64,
+          "end": 90.08
+        },
+        {
+          "word": "alabamos",
+          "start": 90.08,
+          "end": 91.32
+        }
+      ],
+      "start": 87.64,
+      "end": 92.08,
+      "confidence": 1.0,
+      "time": 87.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Cuán grande es tu amor!",
+      "words": [
+        {
+          "word": "gran",
+          "start": 92.08,
+          "end": 92.88
+        }
+      ],
+      "start": 92.08,
+      "end": 94.7,
+      "confidence": 0.188,
+      "time": 92.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Aleluya! Te adoramos,",
+      "words": [
+        {
+          "word": "Aleluya",
+          "start": 95.54,
+          "end": 97.04
+        },
+        {
+          "word": "te",
+          "start": 97.04,
+          "end": 97.52
+        },
+        {
+          "word": "adoramos,",
+          "start": 97.52,
+          "end": 99.04
+        }
+      ],
+      "start": 95.54,
+      "end": 99.94,
+      "confidence": 1.0,
+      "time": 95.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "bendito Señor.",
+      "words": [
+        {
+          "word": "bendito",
+          "start": 99.94,
+          "end": 101.04
+        },
+        {
+          "word": "Señor.",
+          "start": 101.04,
+          "end": 102.62
+        }
+      ],
+      "start": 99.94,
+      "end": 102.62,
+      "confidence": 1.0,
+      "time": 99.94
+    }
+  ]
+}

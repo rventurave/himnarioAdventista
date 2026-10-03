@@ -1,0 +1,601 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.806,
+  "language": "es",
+  "model": "medium",
+  "hymn": 81,
+  "source": "081 - Noche de paz.mp3",
+  "duration": 131.5,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Noche de paz, noche de amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Noche",
+          "start": 12.74,
+          "end": 14.14
+        },
+        {
+          "word": "de",
+          "start": 14.14,
+          "end": 14.66
+        },
+        {
+          "word": "paz,",
+          "start": 14.66,
+          "end": 15.88
+        },
+        {
+          "word": "noche",
+          "start": 16.3,
+          "end": 17.24
+        },
+        {
+          "word": "de",
+          "start": 17.24,
+          "end": 17.9
+        },
+        {
+          "word": "amor,",
+          "start": 17.9,
+          "end": 19.02
+        }
+      ],
+      "start": 12.74,
+      "end": 19.78,
+      "confidence": 1.0,
+      "time": 12.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Todo duerme en derredor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "todo",
+          "start": 19.78,
+          "end": 21.0
+        },
+        {
+          "word": "duerme",
+          "start": 21.0,
+          "end": 22.56
+        },
+        {
+          "word": "en",
+          "start": 22.56,
+          "end": 22.8
+        },
+        {
+          "word": "redor.",
+          "start": 23.72,
+          "end": 25.62
+        }
+      ],
+      "start": 19.78,
+      "end": 25.62,
+      "confidence": 0.965,
+      "time": 19.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Entre los astros que esparcen su luz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "entre",
+          "start": 25.62,
+          "end": 26.86
+        },
+        {
+          "word": "los",
+          "start": 26.86,
+          "end": 27.88
+        },
+        {
+          "word": "astros",
+          "start": 27.88,
+          "end": 28.58
+        },
+        {
+          "word": "que",
+          "start": 28.58,
+          "end": 29.32
+        },
+        {
+          "word": "esparcen",
+          "start": 29.32,
+          "end": 30.12
+        },
+        {
+          "word": "su",
+          "start": 30.12,
+          "end": 30.74
+        },
+        {
+          "word": "luz,",
+          "start": 30.74,
+          "end": 32.0
+        }
+      ],
+      "start": 25.62,
+      "end": 32.0,
+      "confidence": 1.0,
+      "time": 25.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "bella anunciando al niñito Jesús,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "vella",
+          "start": 33.02,
+          "end": 33.36
+        },
+        {
+          "word": "al",
+          "start": 34.88,
+          "end": 35.44
+        },
+        {
+          "word": "Niñito",
+          "start": 35.44,
+          "end": 36.54
+        },
+        {
+          "word": "Jesús,",
+          "start": 36.54,
+          "end": 38.26
+        }
+      ],
+      "start": 33.02,
+      "end": 38.26,
+      "confidence": 0.776,
+      "time": 33.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "brilla la estrella de paz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "brille",
+          "start": 39.44,
+          "end": 39.68
+        },
+        {
+          "word": "la",
+          "start": 40.04,
+          "end": 40.38
+        },
+        {
+          "word": "estrella",
+          "start": 40.38,
+          "end": 41.4
+        },
+        {
+          "word": "de",
+          "start": 41.4,
+          "end": 42.22
+        },
+        {
+          "word": "paz,",
+          "start": 42.22,
+          "end": 44.64
+        }
+      ],
+      "start": 39.44,
+      "end": 44.64,
+      "confidence": 0.98,
+      "time": 39.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "brilla la estrella de paz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "brille",
+          "start": 45.32,
+          "end": 46.14
+        },
+        {
+          "word": "la",
+          "start": 46.42,
+          "end": 46.78
+        },
+        {
+          "word": "estrella",
+          "start": 46.78,
+          "end": 47.84
+        },
+        {
+          "word": "de",
+          "start": 47.84,
+          "end": 48.56
+        },
+        {
+          "word": "paz.",
+          "start": 48.56,
+          "end": 50.54
+        }
+      ],
+      "start": 45.32,
+      "end": 50.54,
+      "confidence": 0.98,
+      "time": 45.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Noche de paz, noche de amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Noche",
+          "start": 51.78,
+          "end": 52.82
+        },
+        {
+          "word": "de",
+          "start": 52.82,
+          "end": 53.42
+        },
+        {
+          "word": "paz,",
+          "start": 53.42,
+          "end": 54.36
+        },
+        {
+          "word": "noche",
+          "start": 54.36,
+          "end": 55.8
+        },
+        {
+          "word": "de",
+          "start": 55.8,
+          "end": 56.42
+        },
+        {
+          "word": "amor,",
+          "start": 56.42,
+          "end": 57.88
+        }
+      ],
+      "start": 51.78,
+      "end": 59.1,
+      "confidence": 1.0,
+      "time": 51.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Oye humilde, fiel pastor:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "humildes",
+          "start": 59.1,
+          "end": 61.26
+        }
+      ],
+      "start": 59.1,
+      "end": 64.2,
+      "confidence": 0.235,
+      "time": 59.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "coros celestes proclaman salud,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "celes",
+          "start": 65.74,
+          "end": 66.88
+        },
+        {
+          "word": "salud,",
+          "start": 68.6,
+          "end": 70.14
+        }
+      ],
+      "start": 65.74,
+      "end": 71.56,
+      "confidence": 0.485,
+      "time": 65.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "gracias y glorias en gran plenitud,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "gracias",
+          "start": 71.56,
+          "end": 71.8
+        },
+        {
+          "word": "y",
+          "start": 71.8,
+          "end": 72.48
+        },
+        {
+          "word": "glorias",
+          "start": 72.48,
+          "end": 73.74
+        },
+        {
+          "word": "en",
+          "start": 73.74,
+          "end": 74.42
+        },
+        {
+          "word": "gran",
+          "start": 74.42,
+          "end": 74.88
+        },
+        {
+          "word": "plenitud",
+          "start": 74.88,
+          "end": 76.66
+        }
+      ],
+      "start": 71.56,
+      "end": 76.66,
+      "confidence": 1.0,
+      "time": 71.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "por nuestro buen Redentor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "nuestro",
+          "start": 78.06,
+          "end": 78.92
+        },
+        {
+          "word": "buen",
+          "start": 78.92,
+          "end": 79.74
+        },
+        {
+          "word": "predentor,",
+          "start": 79.74,
+          "end": 83.54
+        }
+      ],
+      "start": 78.06,
+      "end": 84.46,
+      "confidence": 0.741,
+      "time": 78.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "por nuestro buen Redentor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "nuestro",
+          "start": 84.46,
+          "end": 85.24
+        },
+        {
+          "word": "buen",
+          "start": 85.24,
+          "end": 86.16
+        },
+        {
+          "word": "predentor.",
+          "start": 86.16,
+          "end": 89.88
+        }
+      ],
+      "start": 84.46,
+      "end": 89.88,
+      "confidence": 0.741,
+      "time": 84.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Noche de paz, noche de amor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Noche",
+          "start": 90.4,
+          "end": 91.24
+        },
+        {
+          "word": "de",
+          "start": 91.24,
+          "end": 91.76
+        },
+        {
+          "word": "paz,",
+          "start": 91.76,
+          "end": 92.88
+        },
+        {
+          "word": "noche",
+          "start": 93.74,
+          "end": 94.28
+        },
+        {
+          "word": "de",
+          "start": 94.28,
+          "end": 94.94
+        },
+        {
+          "word": "amor,",
+          "start": 94.94,
+          "end": 96.18
+        }
+      ],
+      "start": 90.4,
+      "end": 96.18,
+      "confidence": 1.0,
+      "time": 90.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Ved qué bello resplandor",
+      "verse": 3,
+      "words": [
+        {
+          "word": "resplandor",
+          "start": 100.2,
+          "end": 102.76
+        }
+      ],
+      "start": 100.2,
+      "end": 102.76,
+      "confidence": 0.25,
+      "time": 100.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "luce en el rostro del niño Jesús,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "luce",
+          "start": 102.76,
+          "end": 103.96
+        },
+        {
+          "word": "en",
+          "start": 103.96,
+          "end": 104.38
+        },
+        {
+          "word": "el",
+          "start": 104.38,
+          "end": 104.98
+        },
+        {
+          "word": "del",
+          "start": 105.66,
+          "end": 106.2
+        },
+        {
+          "word": "Niño",
+          "start": 106.2,
+          "end": 107.22
+        },
+        {
+          "word": "Jesús",
+          "start": 107.22,
+          "end": 108.96
+        }
+      ],
+      "start": 102.76,
+      "end": 108.96,
+      "confidence": 0.857,
+      "time": 102.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en el pesebre, del mundo la Luz;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ven",
+          "start": 108.96,
+          "end": 110.18
+        },
+        {
+          "word": "el",
+          "start": 110.18,
+          "end": 110.64
+        },
+        {
+          "word": "pesebre",
+          "start": 110.64,
+          "end": 111.92
+        },
+        {
+          "word": "del",
+          "start": 111.92,
+          "end": 112.56
+        },
+        {
+          "word": "mundo",
+          "start": 112.56,
+          "end": 113.48
+        },
+        {
+          "word": "la",
+          "start": 113.48,
+          "end": 114.3
+        },
+        {
+          "word": "luz",
+          "start": 114.3,
+          "end": 115.62
+        }
+      ],
+      "start": 108.96,
+      "end": 115.62,
+      "confidence": 0.983,
+      "time": 108.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "astro de eterno fulgor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pastros",
+          "start": 115.62,
+          "end": 116.98
+        },
+        {
+          "word": "de",
+          "start": 116.98,
+          "end": 117.82
+        },
+        {
+          "word": "eterno",
+          "start": 123.62,
+          "end": 125.32
+        }
+      ],
+      "start": 115.62,
+      "end": 127.3,
+      "confidence": 0.725,
+      "time": 115.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "astro de eterno fulgor.",
+      "verse": 3,
+      "start": 127.3,
+      "end": 131.5,
+      "confidence": 0.0,
+      "time": 127.3
+    }
+  ]
+}

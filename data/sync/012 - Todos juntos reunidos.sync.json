@@ -1,0 +1,519 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.997,
+  "language": "es",
+  "model": "medium",
+  "hymn": 12,
+  "source": "012 - Todos juntos reunidos.mp3",
+  "duration": 81.68,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Todos juntos reunidos",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Todos",
+          "start": 9.54,
+          "end": 10.9
+        },
+        {
+          "word": "juntos,",
+          "start": 10.9,
+          "end": 12.24
+        },
+        {
+          "word": "reunidos,",
+          "start": 12.26,
+          "end": 14.16
+        }
+      ],
+      "start": 9.54,
+      "end": 14.34,
+      "confidence": 1.0,
+      "time": 9.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "te alabamos, oh Señor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "te",
+          "start": 14.34,
+          "end": 14.76
+        },
+        {
+          "word": "alabamos,",
+          "start": 14.76,
+          "end": 16.2
+        },
+        {
+          "word": "oh",
+          "start": 16.66,
+          "end": 17.0
+        },
+        {
+          "word": "Señor,",
+          "start": 17.0,
+          "end": 17.88
+        }
+      ],
+      "start": 14.34,
+      "end": 18.56,
+      "confidence": 1.0,
+      "time": 14.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a tus hijos muy queridos",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 18.56,
+          "end": 18.76
+        },
+        {
+          "word": "tus",
+          "start": 18.76,
+          "end": 19.26
+        },
+        {
+          "word": "hijos",
+          "start": 19.26,
+          "end": 20.02
+        },
+        {
+          "word": "muy",
+          "start": 20.02,
+          "end": 20.66
+        },
+        {
+          "word": "queridos",
+          "start": 20.66,
+          "end": 22.16
+        }
+      ],
+      "start": 18.56,
+      "end": 22.16,
+      "confidence": 1.0,
+      "time": 18.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "les concedes este honor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "les",
+          "start": 22.16,
+          "end": 22.82
+        },
+        {
+          "word": "concedes",
+          "start": 22.82,
+          "end": 24.38
+        },
+        {
+          "word": "este",
+          "start": 24.38,
+          "end": 25.1
+        },
+        {
+          "word": "honor.",
+          "start": 25.1,
+          "end": 26.02
+        }
+      ],
+      "start": 22.16,
+      "end": 26.02,
+      "confidence": 1.0,
+      "time": 22.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Adorarte y alabarte",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Adorarte",
+          "start": 26.02,
+          "end": 28.06
+        },
+        {
+          "word": "y",
+          "start": 28.06,
+          "end": 28.6
+        },
+        {
+          "word": "alabarte",
+          "start": 28.6,
+          "end": 30.04
+        }
+      ],
+      "start": 26.02,
+      "end": 30.04,
+      "confidence": 1.0,
+      "time": 26.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "sea nuestra ocupación;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sea",
+          "start": 30.04,
+          "end": 31.12
+        },
+        {
+          "word": "nuestra",
+          "start": 31.12,
+          "end": 32.0
+        },
+        {
+          "word": "ocupación,",
+          "start": 32.0,
+          "end": 33.94
+        }
+      ],
+      "start": 30.04,
+      "end": 33.94,
+      "confidence": 1.0,
+      "time": 30.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que podamos proclamarte",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 34.4,
+          "end": 34.68
+        },
+        {
+          "word": "podamos",
+          "start": 34.68,
+          "end": 36.18
+        },
+        {
+          "word": "proclamarte",
+          "start": 36.18,
+          "end": 38.1
+        }
+      ],
+      "start": 34.4,
+      "end": 38.1,
+      "confidence": 1.0,
+      "time": 34.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Dios de nuestra salvación.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 38.1,
+          "end": 38.62
+        },
+        {
+          "word": "de",
+          "start": 38.62,
+          "end": 39.22
+        },
+        {
+          "word": "nuestra",
+          "start": 39.22,
+          "end": 40.18
+        },
+        {
+          "word": "salvación.",
+          "start": 40.18,
+          "end": 43.5
+        }
+      ],
+      "start": 38.1,
+      "end": 43.5,
+      "confidence": 1.0,
+      "time": 38.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Siempre seas alabado",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Siempre",
+          "start": 44.32,
+          "end": 45.18
+        },
+        {
+          "word": "seas",
+          "start": 45.18,
+          "end": 46.4
+        },
+        {
+          "word": "alabado",
+          "start": 46.4,
+          "end": 48.14
+        }
+      ],
+      "start": 44.32,
+      "end": 48.14,
+      "confidence": 1.0,
+      "time": 44.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "por tu inmensa caridad,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "por",
+          "start": 48.14,
+          "end": 48.74
+        },
+        {
+          "word": "tu",
+          "start": 48.74,
+          "end": 49.08
+        },
+        {
+          "word": "inmensa",
+          "start": 49.08,
+          "end": 50.18
+        },
+        {
+          "word": "caridad",
+          "start": 50.18,
+          "end": 51.9
+        }
+      ],
+      "start": 48.14,
+      "end": 51.9,
+      "confidence": 1.0,
+      "time": 48.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "oh gran Dios, y celebrado",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 51.9,
+          "end": 52.86
+        },
+        {
+          "word": "gran",
+          "start": 53.12,
+          "end": 53.3
+        },
+        {
+          "word": "Dios",
+          "start": 53.3,
+          "end": 53.9
+        },
+        {
+          "word": "y",
+          "start": 53.9,
+          "end": 54.52
+        },
+        {
+          "word": "celebrado",
+          "start": 54.52,
+          "end": 56.16
+        }
+      ],
+      "start": 51.9,
+      "end": 56.16,
+      "confidence": 1.0,
+      "time": 51.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "seas en la eternidad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "seas",
+          "start": 56.16,
+          "end": 57.2
+        },
+        {
+          "word": "en",
+          "start": 57.2,
+          "end": 57.88
+        },
+        {
+          "word": "la",
+          "start": 57.88,
+          "end": 58.4
+        },
+        {
+          "word": "eternidad",
+          "start": 58.4,
+          "end": 60.06
+        }
+      ],
+      "start": 56.16,
+      "end": 60.06,
+      "confidence": 1.0,
+      "time": 56.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Eres el Señor benigno",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Eres",
+          "start": 60.06,
+          "end": 61.34
+        },
+        {
+          "word": "el",
+          "start": 61.34,
+          "end": 61.9
+        },
+        {
+          "word": "Señor",
+          "start": 61.9,
+          "end": 62.7
+        },
+        {
+          "word": "benigno",
+          "start": 62.7,
+          "end": 64.16
+        }
+      ],
+      "start": 60.06,
+      "end": 64.16,
+      "confidence": 1.0,
+      "time": 60.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "que perdona con amor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 64.16,
+          "end": 64.68
+        },
+        {
+          "word": "perdona",
+          "start": 64.68,
+          "end": 66.06
+        },
+        {
+          "word": "con",
+          "start": 66.06,
+          "end": 66.82
+        },
+        {
+          "word": "amor",
+          "start": 66.82,
+          "end": 67.98
+        }
+      ],
+      "start": 64.16,
+      "end": 67.98,
+      "confidence": 1.0,
+      "time": 64.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "de tus hijos eres digno",
+      "verse": 2,
+      "words": [
+        {
+          "word": "De",
+          "start": 67.98,
+          "end": 68.72
+        },
+        {
+          "word": "tus",
+          "start": 68.72,
+          "end": 69.38
+        },
+        {
+          "word": "hijos",
+          "start": 69.38,
+          "end": 70.1
+        },
+        {
+          "word": "eres",
+          "start": 70.1,
+          "end": 71.12
+        },
+        {
+          "word": "digno",
+          "start": 71.12,
+          "end": 72.16
+        }
+      ],
+      "start": 67.98,
+      "end": 72.16,
+      "confidence": 1.0,
+      "time": 67.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "que te ofrezcan el loor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 72.16,
+          "end": 72.56
+        },
+        {
+          "word": "te",
+          "start": 72.56,
+          "end": 73.12
+        },
+        {
+          "word": "ofrezcan",
+          "start": 73.12,
+          "end": 74.24
+        },
+        {
+          "word": "el",
+          "start": 74.24,
+          "end": 75.38
+        },
+        {
+          "word": "honor",
+          "start": 75.38,
+          "end": 77.46
+        }
+      ],
+      "start": 72.16,
+      "end": 77.46,
+      "confidence": 0.96,
+      "time": 72.16
+    }
+  ]
+}

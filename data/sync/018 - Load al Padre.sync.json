@@ -1,0 +1,371 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.721,
+  "language": "es",
+  "model": "medium",
+  "hymn": 18,
+  "source": "018 - Load al Padre.mp3",
+  "duration": 91.48,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Load al Padre por su gracia eterna;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Padre",
+          "start": 9.22,
+          "end": 10.54
+        },
+        {
+          "word": "por",
+          "start": 10.54,
+          "end": 11.12
+        },
+        {
+          "word": "su",
+          "start": 11.12,
+          "end": 11.52
+        },
+        {
+          "word": "gracia",
+          "start": 11.52,
+          "end": 12.28
+        },
+        {
+          "word": "eterna,",
+          "start": 12.28,
+          "end": 13.78
+        }
+      ],
+      "start": 9.22,
+      "end": 13.78,
+      "confidence": 0.714,
+      "time": 9.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "quien tiernamente cuida de sus hijos.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "quien",
+          "start": 14.5,
+          "end": 14.88
+        },
+        {
+          "word": "tiernamente",
+          "start": 14.88,
+          "end": 16.96
+        },
+        {
+          "word": "cuida",
+          "start": 16.96,
+          "end": 18.1
+        },
+        {
+          "word": "de",
+          "start": 18.1,
+          "end": 18.48
+        },
+        {
+          "word": "sus",
+          "start": 18.48,
+          "end": 18.96
+        },
+        {
+          "word": "hijos,",
+          "start": 18.96,
+          "end": 20.2
+        }
+      ],
+      "start": 14.5,
+      "end": 20.2,
+      "confidence": 1.0,
+      "time": 14.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ángeles, alabad. Alabadle, cielos.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Párteles",
+          "start": 20.2,
+          "end": 22.18
+        },
+        {
+          "word": "al",
+          "start": 22.18,
+          "end": 22.98
+        }
+      ],
+      "start": 20.2,
+      "end": 24.04,
+      "confidence": 0.435,
+      "time": 20.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Load a Jehová.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 24.04,
+          "end": 24.72
+        }
+      ],
+      "start": 24.04,
+      "end": 25.52,
+      "confidence": 0.333,
+      "time": 24.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Load al Hijo, Salvador amante,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "viejos,",
+          "start": 25.52,
+          "end": 27.1
+        },
+        {
+          "word": "mártel,",
+          "start": 38.64,
+          "end": 40.32
+        }
+      ],
+      "start": 25.52,
+      "end": 43.48,
+      "confidence": 0.312,
+      "time": 25.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "que compasivo vela por sus hijos.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 43.48,
+          "end": 44.08
+        },
+        {
+          "word": "la",
+          "start": 44.08,
+          "end": 44.5
+        },
+        {
+          "word": "por",
+          "start": 44.5,
+          "end": 44.78
+        },
+        {
+          "word": "sus",
+          "start": 44.78,
+          "end": 45.44
+        },
+        {
+          "word": "hijos.",
+          "start": 45.44,
+          "end": 46.52
+        }
+      ],
+      "start": 43.48,
+      "end": 46.52,
+      "confidence": 0.8,
+      "time": 43.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Ancianos, jóvenes, padres, niños alabad",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 48.2,
+          "end": 48.36
+        },
+        {
+          "word": "jóvenes,",
+          "start": 48.78,
+          "end": 49.96
+        },
+        {
+          "word": "podés",
+          "start": 50.28,
+          "end": 51.1
+        },
+        {
+          "word": "niños",
+          "start": 51.1,
+          "end": 51.8
+        },
+        {
+          "word": "al",
+          "start": 51.8,
+          "end": 52.64
+        }
+      ],
+      "start": 48.2,
+      "end": 54.16,
+      "confidence": 0.943,
+      "time": 48.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "a Cristo el Redentor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 54.16,
+          "end": 54.48
+        },
+        {
+          "word": "Cristo",
+          "start": 54.48,
+          "end": 55.0
+        },
+        {
+          "word": "el",
+          "start": 55.0,
+          "end": 55.8
+        },
+        {
+          "word": "Redentor.",
+          "start": 55.8,
+          "end": 59.58
+        }
+      ],
+      "start": 54.16,
+      "end": 59.58,
+      "confidence": 1.0,
+      "time": 54.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Load al Santo Espíritu divino,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Santo",
+          "start": 62.22,
+          "end": 63.04
+        },
+        {
+          "word": "Espíritu",
+          "start": 63.04,
+          "end": 64.92
+        },
+        {
+          "word": "Divino,",
+          "start": 64.92,
+          "end": 66.48
+        }
+      ],
+      "start": 62.22,
+      "end": 66.48,
+      "confidence": 0.6,
+      "time": 62.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que fue enviado para bendecirnos.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 67.58,
+          "end": 67.7
+        },
+        {
+          "word": "fue",
+          "start": 67.7,
+          "end": 68.28
+        },
+        {
+          "word": "enviado",
+          "start": 68.28,
+          "end": 70.04
+        },
+        {
+          "word": "para",
+          "start": 70.04,
+          "end": 70.8
+        }
+      ],
+      "start": 67.58,
+      "end": 73.1,
+      "confidence": 0.8,
+      "time": 67.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Que tu presencia llene nuestras vidas,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 74.24,
+          "end": 74.5
+        },
+        {
+          "word": "presencia",
+          "start": 74.5,
+          "end": 76.58
+        },
+        {
+          "word": "nuestras",
+          "start": 78.0,
+          "end": 78.52
+        },
+        {
+          "word": "vidas,",
+          "start": 78.52,
+          "end": 79.74
+        }
+      ],
+      "start": 74.24,
+      "end": 79.74,
+      "confidence": 0.667,
+      "time": 74.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Santo Consolador.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Santo",
+          "start": 79.96,
+          "end": 81.06
+        },
+        {
+          "word": "Consolador.",
+          "start": 81.06,
+          "end": 84.38
+        }
+      ],
+      "start": 79.96,
+      "end": 84.38,
+      "confidence": 1.0,
+      "time": 79.96
+    }
+  ]
+}

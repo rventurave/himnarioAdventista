@@ -1,0 +1,218 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.939,
+  "language": "es",
+  "model": "medium",
+  "hymn": 30,
+  "source": "030 - Abre mis ojos.mp3",
+  "duration": 85.03,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Abre mis ojos,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Pobre",
+          "start": 14.86,
+          "end": 16.26
+        },
+        {
+          "word": "mis",
+          "start": 16.26,
+          "end": 17.22
+        },
+        {
+          "word": "ojos,",
+          "start": 17.22,
+          "end": 21.88
+        }
+      ],
+      "start": 14.86,
+      "end": 22.68,
+      "confidence": 0.933,
+      "time": 14.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús, quiero verte,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 22.68,
+          "end": 23.58
+        },
+        {
+          "word": "quiero",
+          "start": 23.58,
+          "end": 25.14
+        },
+        {
+          "word": "verte",
+          "start": 25.14,
+          "end": 27.32
+        }
+      ],
+      "start": 22.68,
+      "end": 27.32,
+      "confidence": 1.0,
+      "time": 22.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "conmigo tenerte,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Conmigo",
+          "start": 35.18,
+          "end": 36.58
+        }
+      ],
+      "start": 35.18,
+      "end": 38.66,
+      "confidence": 0.5,
+      "time": 35.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "decir que te amo.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "decir",
+          "start": 38.66,
+          "end": 39.94
+        },
+        {
+          "word": "que",
+          "start": 39.94,
+          "end": 40.66
+        },
+        {
+          "word": "te",
+          "start": 40.66,
+          "end": 42.18
+        },
+        {
+          "word": "amo.",
+          "start": 42.18,
+          "end": 46.08
+        }
+      ],
+      "start": 38.66,
+      "end": 46.08,
+      "confidence": 1.0,
+      "time": 38.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Abre mi oído,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Padre",
+          "start": 47.62,
+          "end": 49.02
+        },
+        {
+          "word": "mi",
+          "start": 49.32,
+          "end": 49.74
+        },
+        {
+          "word": "oído,",
+          "start": 49.74,
+          "end": 54.82
+        }
+      ],
+      "start": 47.62,
+      "end": 55.36,
+      "confidence": 0.933,
+      "time": 47.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "hoy quiero escucharte.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "hoy",
+          "start": 55.36,
+          "end": 55.8
+        },
+        {
+          "word": "quiero",
+          "start": 55.8,
+          "end": 56.98
+        },
+        {
+          "word": "escucharte.",
+          "start": 56.98,
+          "end": 62.42
+        }
+      ],
+      "start": 55.36,
+      "end": 62.42,
+      "confidence": 1.0,
+      "time": 55.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Abre mis ojos",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Abre",
+          "start": 64.06,
+          "end": 65.46
+        },
+        {
+          "word": "mis",
+          "start": 65.46,
+          "end": 66.28
+        },
+        {
+          "word": "ojos",
+          "start": 66.28,
+          "end": 70.94
+        }
+      ],
+      "start": 64.06,
+      "end": 70.94,
+      "confidence": 1.0,
+      "time": 64.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "para contemplarte!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "para",
+          "start": 70.94,
+          "end": 73.0
+        },
+        {
+          "word": "contemplarte.",
+          "start": 73.0,
+          "end": 78.1
+        }
+      ],
+      "start": 70.94,
+      "end": 78.1,
+      "confidence": 1.0,
+      "time": 70.94
+    }
+  ]
+}

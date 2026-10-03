@@ -1,0 +1,853 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.926,
+  "language": "es",
+  "model": "medium",
+  "hymn": 136,
+  "source": "136 - Oh, cuanto amo a Cristo.mp3",
+  "duration": 115.02,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Su nombre hermoso yo anhelo oír",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Su",
+          "start": 7.88,
+          "end": 9.28
+        },
+        {
+          "word": "nombre",
+          "start": 9.28,
+          "end": 10.3
+        },
+        {
+          "word": "hermoso",
+          "start": 10.3,
+          "end": 11.12
+        },
+        {
+          "word": "yo",
+          "start": 11.12,
+          "end": 11.46
+        },
+        {
+          "word": "anhelo",
+          "start": 11.46,
+          "end": 12.34
+        },
+        {
+          "word": "oír,",
+          "start": 12.34,
+          "end": 13.06
+        }
+      ],
+      "start": 7.88,
+      "end": 13.58,
+      "confidence": 1.0,
+      "time": 7.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y siempre quiero alabar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 13.58,
+          "end": 13.6
+        },
+        {
+          "word": "siempre",
+          "start": 13.6,
+          "end": 14.5
+        },
+        {
+          "word": "quiero",
+          "start": 14.5,
+          "end": 15.18
+        },
+        {
+          "word": "alabar,",
+          "start": 15.18,
+          "end": 17.58
+        }
+      ],
+      "start": 13.58,
+      "end": 17.58,
+      "confidence": 1.0,
+      "time": 13.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Es dulce son en mi corazón,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Es",
+          "start": 17.58,
+          "end": 17.58
+        },
+        {
+          "word": "sesón",
+          "start": 18.52,
+          "end": 19.3
+        },
+        {
+          "word": "en",
+          "start": 19.3,
+          "end": 19.66
+        },
+        {
+          "word": "mi",
+          "start": 19.66,
+          "end": 20.46
+        },
+        {
+          "word": "corazón,",
+          "start": 20.46,
+          "end": 21.5
+        }
+      ],
+      "start": 17.58,
+      "end": 21.72,
+      "confidence": 0.808,
+      "time": 17.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "me llena de gozo y paz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "me",
+          "start": 21.72,
+          "end": 22.2
+        },
+        {
+          "word": "llena",
+          "start": 22.2,
+          "end": 22.76
+        },
+        {
+          "word": "de",
+          "start": 22.76,
+          "end": 23.44
+        },
+        {
+          "word": "y",
+          "start": 23.92,
+          "end": 25.06
+        },
+        {
+          "word": "paz.",
+          "start": 25.06,
+          "end": 25.98
+        }
+      ],
+      "start": 21.72,
+      "end": 25.98,
+      "confidence": 0.833,
+      "time": 21.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, cuánto amo a Cristo!",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 26.8,
+          "end": 27.5
+        },
+        {
+          "word": "cuánto",
+          "start": 27.64,
+          "end": 28.0
+        },
+        {
+          "word": "amo",
+          "start": 28.0,
+          "end": 28.28
+        },
+        {
+          "word": "a",
+          "start": 28.28,
+          "end": 28.68
+        },
+        {
+          "word": "Cristo,",
+          "start": 28.68,
+          "end": 30.12
+        }
+      ],
+      "start": 26.8,
+      "end": 30.46,
+      "confidence": 1.0,
+      "time": 26.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, cuánto amo a Cristo!",
+      "words": [
+        {
+          "word": "oh,",
+          "start": 30.46,
+          "end": 31.5
+        },
+        {
+          "word": "cuánto",
+          "start": 31.52,
+          "end": 32.12
+        },
+        {
+          "word": "amo",
+          "start": 32.12,
+          "end": 32.42
+        },
+        {
+          "word": "a",
+          "start": 32.42,
+          "end": 32.78
+        },
+        {
+          "word": "Cristo,",
+          "start": 32.78,
+          "end": 35.34
+        }
+      ],
+      "start": 30.46,
+      "end": 35.78,
+      "confidence": 1.0,
+      "time": 30.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, cuánto amo a Cristo!",
+      "words": [
+        {
+          "word": "cuánto",
+          "start": 35.78,
+          "end": 36.28
+        },
+        {
+          "word": "amo",
+          "start": 36.28,
+          "end": 36.72
+        },
+        {
+          "word": "a",
+          "start": 36.72,
+          "end": 37.4
+        },
+        {
+          "word": "Cristo,",
+          "start": 37.4,
+          "end": 38.4
+        }
+      ],
+      "start": 35.78,
+      "end": 38.4,
+      "confidence": 0.8,
+      "time": 35.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Primero Jesús me amó!",
+      "words": [
+        {
+          "word": "Primero",
+          "start": 38.4,
+          "end": 39.7
+        },
+        {
+          "word": "Jesús",
+          "start": 39.7,
+          "end": 40.8
+        },
+        {
+          "word": "me",
+          "start": 40.8,
+          "end": 41.42
+        },
+        {
+          "word": "amó,",
+          "start": 41.42,
+          "end": 43.26
+        }
+      ],
+      "start": 38.4,
+      "end": 43.28,
+      "confidence": 1.0,
+      "time": 38.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Me habla de su inmenso amor",
+      "verse": 2,
+      "words": [
+        {
+          "word": "me",
+          "start": 43.28,
+          "end": 44.06
+        },
+        {
+          "word": "habla",
+          "start": 44.06,
+          "end": 44.84
+        },
+        {
+          "word": "de",
+          "start": 44.84,
+          "end": 45.3
+        },
+        {
+          "word": "su",
+          "start": 45.3,
+          "end": 45.72
+        },
+        {
+          "word": "inmenso",
+          "start": 45.72,
+          "end": 46.88
+        },
+        {
+          "word": "amor,",
+          "start": 46.88,
+          "end": 47.48
+        }
+      ],
+      "start": 43.28,
+      "end": 48.02,
+      "confidence": 1.0,
+      "time": 43.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y de su muerte en la cruz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 48.02,
+          "end": 48.16
+        },
+        {
+          "word": "de",
+          "start": 48.16,
+          "end": 48.84
+        },
+        {
+          "word": "su",
+          "start": 48.84,
+          "end": 49.14
+        },
+        {
+          "word": "muerte",
+          "start": 49.14,
+          "end": 49.64
+        },
+        {
+          "word": "en",
+          "start": 49.64,
+          "end": 50.02
+        },
+        {
+          "word": "la",
+          "start": 50.02,
+          "end": 50.36
+        },
+        {
+          "word": "cruz.",
+          "start": 50.36,
+          "end": 51.9
+        }
+      ],
+      "start": 48.02,
+      "end": 51.9,
+      "confidence": 1.0,
+      "time": 48.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Su sangre Cristo vertió por mí,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Su",
+          "start": 51.96,
+          "end": 52.28
+        },
+        {
+          "word": "sangre,",
+          "start": 52.28,
+          "end": 53.32
+        },
+        {
+          "word": "Cristo,",
+          "start": 53.32,
+          "end": 53.9
+        },
+        {
+          "word": "vertió",
+          "start": 54.24,
+          "end": 55.02
+        },
+        {
+          "word": "por",
+          "start": 55.02,
+          "end": 55.54
+        },
+        {
+          "word": "mí,",
+          "start": 55.54,
+          "end": 56.0
+        }
+      ],
+      "start": 51.96,
+      "end": 56.34,
+      "confidence": 1.0,
+      "time": 51.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "por darme la salvación.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "por",
+          "start": 56.34,
+          "end": 56.64
+        },
+        {
+          "word": "darme",
+          "start": 56.64,
+          "end": 57.36
+        },
+        {
+          "word": "la",
+          "start": 57.36,
+          "end": 57.9
+        },
+        {
+          "word": "salvación.",
+          "start": 57.9,
+          "end": 60.38
+        }
+      ],
+      "start": 56.34,
+      "end": 60.38,
+      "confidence": 1.0,
+      "time": 56.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, cuánto amo a Cristo!",
+      "words": [
+        {
+          "word": "¡Oh!",
+          "start": 60.38,
+          "end": 61.88
+        },
+        {
+          "word": "¡Cuánto",
+          "start": 61.88,
+          "end": 62.82
+        },
+        {
+          "word": "amo",
+          "start": 62.82,
+          "end": 62.82
+        },
+        {
+          "word": "a",
+          "start": 62.82,
+          "end": 63.14
+        },
+        {
+          "word": "Cristo!",
+          "start": 63.14,
+          "end": 64.48
+        }
+      ],
+      "start": 60.38,
+      "end": 65.36,
+      "confidence": 1.0,
+      "time": 60.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, cuánto amo a Cristo!",
+      "words": [
+        {
+          "word": "¡Oh!",
+          "start": 65.36,
+          "end": 66.0
+        },
+        {
+          "word": "¡Cuánto",
+          "start": 66.0,
+          "end": 66.68
+        },
+        {
+          "word": "amo",
+          "start": 66.68,
+          "end": 66.94
+        },
+        {
+          "word": "a",
+          "start": 66.94,
+          "end": 67.28
+        },
+        {
+          "word": "Cristo!",
+          "start": 67.28,
+          "end": 68.8
+        }
+      ],
+      "start": 65.36,
+      "end": 70.14,
+      "confidence": 1.0,
+      "time": 65.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, cuánto amo a Cristo!",
+      "words": [
+        {
+          "word": "¡Oh!",
+          "start": 70.14,
+          "end": 70.6
+        },
+        {
+          "word": "¡Cuánto",
+          "start": 70.6,
+          "end": 70.78
+        },
+        {
+          "word": "amo",
+          "start": 70.78,
+          "end": 71.12
+        },
+        {
+          "word": "a",
+          "start": 71.12,
+          "end": 71.5
+        },
+        {
+          "word": "Cristo!",
+          "start": 71.5,
+          "end": 72.84
+        }
+      ],
+      "start": 70.14,
+      "end": 72.96,
+      "confidence": 1.0,
+      "time": 70.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Primero Jesús me amó!",
+      "words": [
+        {
+          "word": "¡Primero",
+          "start": 72.96,
+          "end": 74.2
+        },
+        {
+          "word": "Jesucristo",
+          "start": 74.2,
+          "end": 75.76
+        },
+        {
+          "word": "amor!",
+          "start": 75.76,
+          "end": 77.06
+        }
+      ],
+      "start": 72.96,
+      "end": 77.06,
+      "confidence": 0.685,
+      "time": 72.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Su nombre me habla de gran bondad.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Su",
+          "start": 77.06,
+          "end": 78.32
+        },
+        {
+          "word": "nombre",
+          "start": 78.32,
+          "end": 79.3
+        },
+        {
+          "word": "me",
+          "start": 79.3,
+          "end": 79.74
+        },
+        {
+          "word": "habla",
+          "start": 79.74,
+          "end": 80.06
+        },
+        {
+          "word": "de",
+          "start": 80.06,
+          "end": 80.58
+        },
+        {
+          "word": "gran",
+          "start": 80.58,
+          "end": 81.22
+        },
+        {
+          "word": "bondad,",
+          "start": 81.22,
+          "end": 82.18
+        }
+      ],
+      "start": 77.06,
+      "end": 83.58,
+      "confidence": 1.0,
+      "time": 77.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Él siente mi aflicción.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mi",
+          "start": 83.58,
+          "end": 84.16
+        },
+        {
+          "word": "aflicción,",
+          "start": 84.16,
+          "end": 86.38
+        }
+      ],
+      "start": 83.58,
+      "end": 86.82,
+      "confidence": 0.5,
+      "time": 83.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Comprende penas, dolor, temor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "comprende",
+          "start": 86.82,
+          "end": 87.86
+        },
+        {
+          "word": "pena,",
+          "start": 87.86,
+          "end": 88.44
+        },
+        {
+          "word": "solo",
+          "start": 89.46,
+          "end": 89.46
+        },
+        {
+          "word": "temor,",
+          "start": 89.46,
+          "end": 90.6
+        }
+      ],
+      "start": 86.82,
+      "end": 90.94,
+      "confidence": 0.935,
+      "time": 86.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "cual nadie jamás podrá.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "cual",
+          "start": 90.94,
+          "end": 91.18
+        },
+        {
+          "word": "nadie",
+          "start": 91.18,
+          "end": 91.76
+        },
+        {
+          "word": "jamás",
+          "start": 91.76,
+          "end": 92.86
+        },
+        {
+          "word": "podrá.",
+          "start": 92.86,
+          "end": 94.78
+        }
+      ],
+      "start": 90.94,
+      "end": 94.78,
+      "confidence": 1.0,
+      "time": 90.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, cuánto amo a Cristo!",
+      "words": [
+        {
+          "word": "¡Oh!",
+          "start": 94.78,
+          "end": 96.42
+        },
+        {
+          "word": "¡Cuánto",
+          "start": 96.52,
+          "end": 97.34
+        },
+        {
+          "word": "amo",
+          "start": 97.34,
+          "end": 97.34
+        },
+        {
+          "word": "a",
+          "start": 97.34,
+          "end": 97.76
+        },
+        {
+          "word": "Cristo!",
+          "start": 97.76,
+          "end": 99.2
+        }
+      ],
+      "start": 94.78,
+      "end": 100.06,
+      "confidence": 1.0,
+      "time": 94.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, cuánto amo a Cristo!",
+      "words": [
+        {
+          "word": "¡Oh!",
+          "start": 100.06,
+          "end": 100.56
+        },
+        {
+          "word": "¡Cuánto",
+          "start": 100.7,
+          "end": 101.52
+        },
+        {
+          "word": "amo",
+          "start": 101.52,
+          "end": 101.54
+        },
+        {
+          "word": "a",
+          "start": 101.54,
+          "end": 101.9
+        },
+        {
+          "word": "Cristo!",
+          "start": 101.9,
+          "end": 103.34
+        }
+      ],
+      "start": 100.06,
+      "end": 104.74,
+      "confidence": 1.0,
+      "time": 100.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, cuánto amo a Cristo!",
+      "words": [
+        {
+          "word": "¡Cuánto",
+          "start": 104.74,
+          "end": 105.74
+        },
+        {
+          "word": "amo",
+          "start": 105.74,
+          "end": 105.74
+        },
+        {
+          "word": "a",
+          "start": 105.74,
+          "end": 106.04
+        },
+        {
+          "word": "Cristo!",
+          "start": 106.04,
+          "end": 107.5
+        }
+      ],
+      "start": 104.74,
+      "end": 107.74,
+      "confidence": 0.8,
+      "time": 104.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Primero Jesús me amó!",
+      "words": [
+        {
+          "word": "¡Primero",
+          "start": 107.74,
+          "end": 108.84
+        },
+        {
+          "word": "Jesucristo",
+          "start": 108.84,
+          "end": 110.56
+        },
+        {
+          "word": "amor!",
+          "start": 110.64,
+          "end": 111.82
+        }
+      ],
+      "start": 107.74,
+      "end": 111.82,
+      "confidence": 0.685,
+      "time": 107.74
+    }
+  ]
+}

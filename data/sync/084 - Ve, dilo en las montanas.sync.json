@@ -1,0 +1,698 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.804,
+  "language": "es",
+  "model": "medium",
+  "hymn": 84,
+  "source": "084 - Ve, dilo en las montanas.mp3",
+  "duration": 138.45,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Pastores muy piadosos,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "postures",
+          "start": 26.22,
+          "end": 28.6
+        },
+        {
+          "word": "muy",
+          "start": 28.6,
+          "end": 29.4
+        },
+        {
+          "word": "violosos,",
+          "start": 29.4,
+          "end": 31.08
+        }
+      ],
+      "start": 26.22,
+      "end": 31.82,
+      "confidence": 0.875,
+      "time": 26.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con gran admiración,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "con",
+          "start": 31.82,
+          "end": 31.96
+        },
+        {
+          "word": "gran",
+          "start": 31.96,
+          "end": 32.76
+        },
+        {
+          "word": "amilación,",
+          "start": 32.76,
+          "end": 35.4
+        }
+      ],
+      "start": 31.82,
+      "end": 35.4,
+      "confidence": 0.968,
+      "time": 31.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "oyeron, jubilosos,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "jubiloso",
+          "start": 37.34,
+          "end": 40.1
+        }
+      ],
+      "start": 37.34,
+      "end": 40.1,
+      "confidence": 0.47,
+      "time": 37.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "del don de Salvación.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "del",
+          "start": 40.1,
+          "end": 40.96
+        },
+        {
+          "word": "don",
+          "start": 40.96,
+          "end": 41.36
+        },
+        {
+          "word": "de",
+          "start": 41.36,
+          "end": 42.2
+        },
+        {
+          "word": "salvación.",
+          "start": 42.2,
+          "end": 44.62
+        }
+      ],
+      "start": 40.1,
+      "end": 44.62,
+      "confidence": 1.0,
+      "time": 40.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Ve, dilo en las montañas,",
+      "words": [
+        {
+          "word": "Pedido",
+          "start": 45.8,
+          "end": 47.2
+        },
+        {
+          "word": "en",
+          "start": 47.2,
+          "end": 47.48
+        },
+        {
+          "word": "las",
+          "start": 47.48,
+          "end": 47.74
+        },
+        {
+          "word": "montañas,",
+          "start": 47.74,
+          "end": 49.9
+        }
+      ],
+      "start": 45.8,
+      "end": 50.4,
+      "confidence": 0.752,
+      "time": 45.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en todas partes, por doquier.",
+      "words": [
+        {
+          "word": "en",
+          "start": 50.4,
+          "end": 50.84
+        },
+        {
+          "word": "todas",
+          "start": 50.84,
+          "end": 51.32
+        },
+        {
+          "word": "partes",
+          "start": 51.32,
+          "end": 52.28
+        },
+        {
+          "word": "por",
+          "start": 52.28,
+          "end": 53.04
+        },
+        {
+          "word": "doquier,",
+          "start": 53.04,
+          "end": 54.16
+        }
+      ],
+      "start": 50.4,
+      "end": 54.16,
+      "confidence": 1.0,
+      "time": 50.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Ve, dilo en las montañas:",
+      "words": [
+        {
+          "word": "en",
+          "start": 56.1,
+          "end": 56.44
+        },
+        {
+          "word": "las",
+          "start": 56.44,
+          "end": 56.56
+        },
+        {
+          "word": "montañas",
+          "start": 56.56,
+          "end": 58.46
+        }
+      ],
+      "start": 56.1,
+      "end": 58.46,
+      "confidence": 0.6,
+      "time": 56.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "que Cristo, el Rey, nació.",
+      "words": [
+        {
+          "word": "que",
+          "start": 58.46,
+          "end": 59.0
+        },
+        {
+          "word": "Cristo",
+          "start": 59.0,
+          "end": 59.78
+        },
+        {
+          "word": "nació.",
+          "start": 60.8,
+          "end": 62.26
+        }
+      ],
+      "start": 58.46,
+      "end": 62.26,
+      "confidence": 0.6,
+      "time": 58.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En esa noche oscura",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 63.12,
+          "end": 63.7
+        },
+        {
+          "word": "esa",
+          "start": 63.7,
+          "end": 64.56
+        },
+        {
+          "word": "noche",
+          "start": 64.56,
+          "end": 65.4
+        },
+        {
+          "word": "oscura",
+          "start": 65.4,
+          "end": 67.14
+        }
+      ],
+      "start": 63.12,
+      "end": 67.14,
+      "confidence": 1.0,
+      "time": 63.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "los alumbró gran luz;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "los",
+          "start": 67.14,
+          "end": 68.14
+        },
+        {
+          "word": "alumbró",
+          "start": 68.14,
+          "end": 69.6
+        },
+        {
+          "word": "gran",
+          "start": 69.6,
+          "end": 70.36
+        },
+        {
+          "word": "luz,",
+          "start": 70.36,
+          "end": 71.46
+        }
+      ],
+      "start": 67.14,
+      "end": 71.46,
+      "confidence": 1.0,
+      "time": 67.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y luego, con premura,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 71.82,
+          "end": 72.4
+        },
+        {
+          "word": "luego",
+          "start": 72.4,
+          "end": 73.42
+        },
+        {
+          "word": "con",
+          "start": 73.42,
+          "end": 74.26
+        },
+        {
+          "word": "temura",
+          "start": 74.26,
+          "end": 76.0
+        }
+      ],
+      "start": 71.82,
+      "end": 76.0,
+      "confidence": 0.965,
+      "time": 71.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "buscaron a Jesús.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "buscaron",
+          "start": 76.0,
+          "end": 78.02
+        },
+        {
+          "word": "a",
+          "start": 78.02,
+          "end": 78.6
+        },
+        {
+          "word": "Jesús.",
+          "start": 78.6,
+          "end": 79.88
+        }
+      ],
+      "start": 76.0,
+      "end": 79.88,
+      "confidence": 1.0,
+      "time": 76.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Ve, dilo en las montañas,",
+      "words": [
+        {
+          "word": "Pedirlo",
+          "start": 82.4,
+          "end": 83.48
+        },
+        {
+          "word": "en",
+          "start": 83.48,
+          "end": 83.52
+        },
+        {
+          "word": "las",
+          "start": 83.52,
+          "end": 83.82
+        },
+        {
+          "word": "montañas,",
+          "start": 83.82,
+          "end": 86.06
+        }
+      ],
+      "start": 82.4,
+      "end": 86.58,
+      "confidence": 0.767,
+      "time": 82.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en todas partes, por doquier.",
+      "words": [
+        {
+          "word": "en",
+          "start": 86.58,
+          "end": 86.92
+        },
+        {
+          "word": "todas",
+          "start": 86.92,
+          "end": 87.44
+        },
+        {
+          "word": "partes,",
+          "start": 87.44,
+          "end": 88.42
+        },
+        {
+          "word": "por",
+          "start": 88.64,
+          "end": 89.22
+        },
+        {
+          "word": "doquier,",
+          "start": 89.22,
+          "end": 90.48
+        }
+      ],
+      "start": 86.58,
+      "end": 90.74,
+      "confidence": 1.0,
+      "time": 86.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Ve, dilo en las montañas:",
+      "words": [
+        {
+          "word": "pedirlo",
+          "start": 90.74,
+          "end": 92.4
+        },
+        {
+          "word": "en",
+          "start": 92.4,
+          "end": 92.4
+        },
+        {
+          "word": "las",
+          "start": 92.4,
+          "end": 92.74
+        },
+        {
+          "word": "montañas",
+          "start": 92.74,
+          "end": 94.64
+        }
+      ],
+      "start": 90.74,
+      "end": 94.64,
+      "confidence": 0.767,
+      "time": 90.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "que Cristo, el Rey, nació.",
+      "words": [
+        {
+          "word": "que",
+          "start": 94.64,
+          "end": 95.18
+        },
+        {
+          "word": "Cristo",
+          "start": 95.18,
+          "end": 96.0
+        },
+        {
+          "word": "enrenació.",
+          "start": 96.0,
+          "end": 98.64
+        }
+      ],
+      "start": 94.64,
+      "end": 98.64,
+      "confidence": 0.566,
+      "time": 94.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Doquiera que estemos",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Doquiera",
+          "start": 98.64,
+          "end": 100.58
+        },
+        {
+          "word": "que",
+          "start": 100.58,
+          "end": 101.8
+        },
+        {
+          "word": "estemos",
+          "start": 101.8,
+          "end": 103.42
+        }
+      ],
+      "start": 98.64,
+      "end": 103.42,
+      "confidence": 1.0,
+      "time": 98.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "debemos proclamar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "debemos",
+          "start": 103.42,
+          "end": 105.24
+        },
+        {
+          "word": "proclamar,",
+          "start": 105.24,
+          "end": 107.56
+        }
+      ],
+      "start": 103.42,
+      "end": 108.28,
+      "confidence": 1.0,
+      "time": 103.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "que, en Cristo, hoy podemos",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 108.28,
+          "end": 108.52
+        },
+        {
+          "word": "en",
+          "start": 108.52,
+          "end": 108.8
+        },
+        {
+          "word": "Cristo",
+          "start": 108.8,
+          "end": 109.66
+        },
+        {
+          "word": "hoy",
+          "start": 109.66,
+          "end": 110.5
+        },
+        {
+          "word": "podemos",
+          "start": 110.5,
+          "end": 112.1
+        }
+      ],
+      "start": 108.28,
+      "end": 112.1,
+      "confidence": 1.0,
+      "time": 108.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "la redención gozar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 112.1,
+          "end": 113.28
+        },
+        {
+          "word": "redención",
+          "start": 113.28,
+          "end": 114.92
+        }
+      ],
+      "start": 112.1,
+      "end": 117.7,
+      "confidence": 0.667,
+      "time": 112.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Ve, dilo en las montañas,",
+      "words": [
+        {
+          "word": "en",
+          "start": 119.7,
+          "end": 119.94
+        },
+        {
+          "word": "las",
+          "start": 119.94,
+          "end": 120.14
+        },
+        {
+          "word": "montañas,",
+          "start": 120.14,
+          "end": 122.36
+        }
+      ],
+      "start": 119.7,
+      "end": 122.88,
+      "confidence": 0.6,
+      "time": 119.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en todas partes, por doquier.",
+      "words": [
+        {
+          "word": "en",
+          "start": 122.88,
+          "end": 123.32
+        },
+        {
+          "word": "todas",
+          "start": 123.32,
+          "end": 123.68
+        },
+        {
+          "word": "partes,",
+          "start": 123.68,
+          "end": 124.76
+        },
+        {
+          "word": "por",
+          "start": 124.8,
+          "end": 125.5
+        },
+        {
+          "word": "doquier.",
+          "start": 125.5,
+          "end": 126.64
+        }
+      ],
+      "start": 122.88,
+      "end": 126.64,
+      "confidence": 1.0,
+      "time": 122.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Ve, dilo en las montañas:",
+      "words": [
+        {
+          "word": "en",
+          "start": 128.58,
+          "end": 128.8
+        },
+        {
+          "word": "las",
+          "start": 128.8,
+          "end": 129.02
+        },
+        {
+          "word": "montañas,",
+          "start": 129.02,
+          "end": 130.94
+        }
+      ],
+      "start": 128.58,
+      "end": 131.66,
+      "confidence": 0.6,
+      "time": 128.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "que Cristo, el Rey, nació.",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 131.66,
+          "end": 132.32
+        },
+        {
+          "word": "relación.",
+          "start": 133.24,
+          "end": 134.04
+        }
+      ],
+      "start": 131.66,
+      "end": 134.04,
+      "confidence": 0.354,
+      "time": 131.66
+    }
+  ]
+}

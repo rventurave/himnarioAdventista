@@ -1,0 +1,536 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.858,
+  "language": "es",
+  "model": "medium",
+  "hymn": 156,
+  "source": "156 - A Cristo coronad.mp3",
+  "duration": 126.64,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "A Cristo coronad divino Salvador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "corona,",
+          "start": 11.28,
+          "end": 13.22
+        },
+        {
+          "word": "divino",
+          "start": 14.72,
+          "end": 15.9
+        },
+        {
+          "word": "salvador,",
+          "start": 15.9,
+          "end": 18.44
+        }
+      ],
+      "start": 11.28,
+      "end": 18.9,
+      "confidence": 0.588,
+      "time": 11.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Sentado en alta majestad es digno de loor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sentado",
+          "start": 18.9,
+          "end": 20.3
+        },
+        {
+          "word": "en",
+          "start": 20.3,
+          "end": 21.14
+        },
+        {
+          "word": "alta",
+          "start": 21.14,
+          "end": 21.86
+        },
+        {
+          "word": "majestad,",
+          "start": 21.86,
+          "end": 23.58
+        },
+        {
+          "word": "destino",
+          "start": 24.0,
+          "end": 25.3
+        },
+        {
+          "word": "telor!",
+          "start": 25.3,
+          "end": 27.76
+        }
+      ],
+      "start": 18.9,
+      "end": 27.76,
+      "confidence": 0.7,
+      "time": 18.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Al Rey de gloria y paz loores tributad,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 27.76,
+          "end": 28.82
+        },
+        {
+          "word": "Rey",
+          "start": 28.82,
+          "end": 29.38
+        },
+        {
+          "word": "de",
+          "start": 29.38,
+          "end": 30.08
+        },
+        {
+          "word": "gloria",
+          "start": 30.08,
+          "end": 30.9
+        },
+        {
+          "word": "y",
+          "start": 30.9,
+          "end": 31.14
+        },
+        {
+          "word": "paz,",
+          "start": 31.14,
+          "end": 32.74
+        },
+        {
+          "word": "flores",
+          "start": 32.98,
+          "end": 34.68
+        },
+        {
+          "word": "tributar,",
+          "start": 34.68,
+          "end": 37.24
+        }
+      ],
+      "start": 27.76,
+      "end": 38.06,
+      "confidence": 0.978,
+      "time": 27.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y bendecid al Inmortal por toda eternidad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 38.06,
+          "end": 38.56
+        },
+        {
+          "word": "inmortal",
+          "start": 40.72,
+          "end": 42.12
+        },
+        {
+          "word": "por",
+          "start": 42.12,
+          "end": 43.0
+        },
+        {
+          "word": "toda",
+          "start": 43.0,
+          "end": 43.84
+        },
+        {
+          "word": "eternidad.",
+          "start": 43.84,
+          "end": 47.14
+        }
+      ],
+      "start": 38.06,
+      "end": 47.14,
+      "confidence": 0.714,
+      "time": 38.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "A Cristo coronad Señor de nuestro amor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 47.14,
+          "end": 48.2
+        },
+        {
+          "word": "Cristo",
+          "start": 48.2,
+          "end": 48.7
+        },
+        {
+          "word": "coronar,",
+          "start": 48.7,
+          "end": 51.4
+        },
+        {
+          "word": "Señor",
+          "start": 52.12,
+          "end": 52.72
+        },
+        {
+          "word": "de",
+          "start": 52.72,
+          "end": 53.36
+        },
+        {
+          "word": "nuestro",
+          "start": 53.36,
+          "end": 54.28
+        },
+        {
+          "word": "amor,",
+          "start": 54.28,
+          "end": 55.88
+        }
+      ],
+      "start": 47.14,
+      "end": 56.78,
+      "confidence": 0.988,
+      "time": 47.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "al Triunfante celebrad, glorioso Vencedor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 56.78,
+          "end": 56.96
+        },
+        {
+          "word": "triunfante",
+          "start": 56.96,
+          "end": 59.14
+        },
+        {
+          "word": "celebrar,",
+          "start": 59.14,
+          "end": 61.0
+        },
+        {
+          "word": "glorioso",
+          "start": 61.32,
+          "end": 62.7
+        },
+        {
+          "word": "vencedor.",
+          "start": 62.7,
+          "end": 65.48
+        }
+      ],
+      "start": 56.78,
+      "end": 65.48,
+      "confidence": 0.985,
+      "time": 56.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Potente Rey de paz el triunfo consumó,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Potente",
+          "start": 65.48,
+          "end": 67.44
+        },
+        {
+          "word": "rey",
+          "start": 67.44,
+          "end": 68.16
+        },
+        {
+          "word": "de",
+          "start": 68.16,
+          "end": 68.64
+        },
+        {
+          "word": "paz,",
+          "start": 68.64,
+          "end": 70.12
+        },
+        {
+          "word": "el",
+          "start": 70.88,
+          "end": 70.94
+        },
+        {
+          "word": "triunfo",
+          "start": 70.94,
+          "end": 72.16
+        },
+        {
+          "word": "consumó,",
+          "start": 72.16,
+          "end": 74.7
+        }
+      ],
+      "start": 65.48,
+      "end": 74.7,
+      "confidence": 1.0,
+      "time": 65.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y por su muerte en la cruz su grande amor mostró.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 75.36,
+          "end": 75.72
+        },
+        {
+          "word": "por",
+          "start": 75.72,
+          "end": 76.5
+        },
+        {
+          "word": "su",
+          "start": 76.5,
+          "end": 76.82
+        },
+        {
+          "word": "muerte",
+          "start": 76.82,
+          "end": 77.94
+        },
+        {
+          "word": "en",
+          "start": 77.94,
+          "end": 78.76
+        },
+        {
+          "word": "la",
+          "start": 78.76,
+          "end": 79.22
+        },
+        {
+          "word": "cruz,",
+          "start": 79.22,
+          "end": 79.7
+        },
+        {
+          "word": "su",
+          "start": 80.24,
+          "end": 80.38
+        },
+        {
+          "word": "gran",
+          "start": 81.08,
+          "end": 81.64
+        },
+        {
+          "word": "amor",
+          "start": 81.64,
+          "end": 82.34
+        },
+        {
+          "word": "mostró.",
+          "start": 82.34,
+          "end": 84.36
+        }
+      ],
+      "start": 75.36,
+      "end": 84.36,
+      "confidence": 0.995,
+      "time": 75.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "A Cristo coronad Señor de vida y luz;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Ya",
+          "start": 85.06,
+          "end": 85.58
+        },
+        {
+          "word": "Cristo",
+          "start": 85.58,
+          "end": 86.06
+        },
+        {
+          "word": "coronal,",
+          "start": 86.06,
+          "end": 88.8
+        },
+        {
+          "word": "Señor",
+          "start": 89.48,
+          "end": 90.16
+        },
+        {
+          "word": "de",
+          "start": 90.16,
+          "end": 90.84
+        },
+        {
+          "word": "vida",
+          "start": 90.84,
+          "end": 91.86
+        },
+        {
+          "word": "y",
+          "start": 91.86,
+          "end": 92.24
+        },
+        {
+          "word": "luz,",
+          "start": 92.24,
+          "end": 93.3
+        }
+      ],
+      "start": 85.06,
+      "end": 93.3,
+      "confidence": 0.964,
+      "time": 85.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con alabanzas proclamad los triunfos de la cruz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Con",
+          "start": 93.3,
+          "end": 94.64
+        },
+        {
+          "word": "arrabalzas",
+          "start": 94.64,
+          "end": 96.72
+        },
+        {
+          "word": "proclaman",
+          "start": 96.72,
+          "end": 98.36
+        },
+        {
+          "word": "los",
+          "start": 98.36,
+          "end": 99.18
+        },
+        {
+          "word": "triunfos",
+          "start": 99.18,
+          "end": 100.42
+        },
+        {
+          "word": "de",
+          "start": 100.42,
+          "end": 101.0
+        },
+        {
+          "word": "la",
+          "start": 101.0,
+          "end": 101.6
+        },
+        {
+          "word": "cruz,",
+          "start": 101.6,
+          "end": 102.9
+        }
+      ],
+      "start": 93.3,
+      "end": 102.9,
+      "confidence": 0.972,
+      "time": 93.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "A él, pues, adorad, Señor de salvación;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 102.9,
+          "end": 103.92
+        },
+        {
+          "word": "Él",
+          "start": 103.92,
+          "end": 104.32
+        },
+        {
+          "word": "Señor",
+          "start": 108.3,
+          "end": 108.86
+        },
+        {
+          "word": "de",
+          "start": 108.86,
+          "end": 109.54
+        },
+        {
+          "word": "salvación,",
+          "start": 109.54,
+          "end": 112.14
+        }
+      ],
+      "start": 102.9,
+      "end": 112.14,
+      "confidence": 0.714,
+      "time": 102.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "loor eterno tributad de todo corazón.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 116.92,
+          "end": 117.94
+        },
+        {
+          "word": "todo",
+          "start": 117.94,
+          "end": 119.04
+        },
+        {
+          "word": "corazón.",
+          "start": 119.04,
+          "end": 121.02
+        }
+      ],
+      "start": 116.92,
+      "end": 121.02,
+      "confidence": 0.5,
+      "time": 116.92
+    }
+  ]
+}

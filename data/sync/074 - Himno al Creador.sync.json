@@ -1,0 +1,674 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.81,
+  "language": "es",
+  "model": "medium",
+  "hymn": 74,
+  "source": "074 - Himno al Creador.mp3",
+  "duration": 129.62,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Que cada ser vivo, cual rico presente,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Que",
+          "start": 14.0,
+          "end": 14.7
+        },
+        {
+          "word": "servido,",
+          "start": 16.64,
+          "end": 17.86
+        },
+        {
+          "word": "al",
+          "start": 18.44,
+          "end": 18.92
+        },
+        {
+          "word": "rico",
+          "start": 18.92,
+          "end": 19.6
+        },
+        {
+          "word": "presente,",
+          "start": 19.6,
+          "end": 20.96
+        }
+      ],
+      "start": 14.0,
+      "end": 20.96,
+      "confidence": 0.677,
+      "time": 14.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "entone su canto al gran Creador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 21.7,
+          "end": 22.1
+        },
+        {
+          "word": "su",
+          "start": 22.92,
+          "end": 23.68
+        },
+        {
+          "word": "canto",
+          "start": 23.68,
+          "end": 24.78
+        }
+      ],
+      "start": 21.7,
+      "end": 28.1,
+      "confidence": 0.49,
+      "time": 21.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Él hizo el universo, es Dios omnipotente,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 30.08,
+          "end": 30.42
+        },
+        {
+          "word": "universo,",
+          "start": 30.42,
+          "end": 31.66
+        },
+        {
+          "word": "es",
+          "start": 31.9,
+          "end": 32.68
+        },
+        {
+          "word": "Dios",
+          "start": 32.68,
+          "end": 33.24
+        },
+        {
+          "word": "potente,",
+          "start": 33.8,
+          "end": 35.18
+        }
+      ],
+      "start": 30.08,
+      "end": 35.68,
+      "confidence": 0.695,
+      "time": 30.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que a todos sustenta con gracia y amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 35.68,
+          "end": 36.06
+        },
+        {
+          "word": "todo",
+          "start": 36.06,
+          "end": 37.0
+        },
+        {
+          "word": "sustenta",
+          "start": 37.0,
+          "end": 38.68
+        },
+        {
+          "word": "con",
+          "start": 38.68,
+          "end": 39.5
+        },
+        {
+          "word": "gracia",
+          "start": 39.5,
+          "end": 40.66
+        },
+        {
+          "word": "y",
+          "start": 40.66,
+          "end": 40.9
+        },
+        {
+          "word": "amor.",
+          "start": 40.9,
+          "end": 42.0
+        }
+      ],
+      "start": 35.68,
+      "end": 42.0,
+      "confidence": 0.868,
+      "time": 35.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Su nube protege del sol del desierto,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Su",
+          "start": 42.38,
+          "end": 43.02
+        },
+        {
+          "word": "nombre",
+          "start": 43.02,
+          "end": 44.1
+        },
+        {
+          "word": "protege",
+          "start": 44.1,
+          "end": 45.78
+        },
+        {
+          "word": "del",
+          "start": 45.78,
+          "end": 46.4
+        },
+        {
+          "word": "sol",
+          "start": 46.4,
+          "end": 47.06
+        },
+        {
+          "word": "del",
+          "start": 47.06,
+          "end": 47.84
+        },
+        {
+          "word": "desierto,",
+          "start": 47.84,
+          "end": 49.08
+        }
+      ],
+      "start": 42.38,
+      "end": 49.74,
+      "confidence": 0.966,
+      "time": 42.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "columna es de fuego que imparte gran luz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "columnas",
+          "start": 49.74,
+          "end": 51.04
+        },
+        {
+          "word": "de",
+          "start": 51.04,
+          "end": 51.64
+        },
+        {
+          "word": "fuego",
+          "start": 51.64,
+          "end": 52.58
+        },
+        {
+          "word": "que",
+          "start": 52.58,
+          "end": 53.24
+        },
+        {
+          "word": "imparten",
+          "start": 53.24,
+          "end": 54.44
+        },
+        {
+          "word": "luz.",
+          "start": 55.22,
+          "end": 55.92
+        }
+      ],
+      "start": 49.74,
+      "end": 55.92,
+      "confidence": 0.735,
+      "time": 49.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Y para el peregrino el fin es ya cierto:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Y",
+          "start": 55.92,
+          "end": 56.8
+        },
+        {
+          "word": "para",
+          "start": 56.8,
+          "end": 57.8
+        },
+        {
+          "word": "el",
+          "start": 57.8,
+          "end": 58.24
+        },
+        {
+          "word": "Perino",
+          "start": 58.24,
+          "end": 59.56
+        },
+        {
+          "word": "el",
+          "start": 59.56,
+          "end": 60.38
+        },
+        {
+          "word": "fin",
+          "start": 60.38,
+          "end": 61.06
+        },
+        {
+          "word": "es",
+          "start": 61.06,
+          "end": 61.72
+        },
+        {
+          "word": "acepto,",
+          "start": 61.72,
+          "end": 63.02
+        }
+      ],
+      "start": 55.92,
+      "end": 63.02,
+      "confidence": 0.853,
+      "time": 55.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "quien guía a su pueblo es Cristo Jesús.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "quien",
+          "start": 63.44,
+          "end": 63.84
+        },
+        {
+          "word": "guía",
+          "start": 63.84,
+          "end": 64.76
+        },
+        {
+          "word": "su",
+          "start": 64.76,
+          "end": 65.36
+        },
+        {
+          "word": "pueblo",
+          "start": 65.36,
+          "end": 66.38
+        },
+        {
+          "word": "es",
+          "start": 66.38,
+          "end": 67.22
+        },
+        {
+          "word": "Cristo",
+          "start": 67.22,
+          "end": 68.22
+        },
+        {
+          "word": "Jesús.",
+          "start": 68.22,
+          "end": 70.08
+        }
+      ],
+      "start": 63.44,
+      "end": 70.08,
+      "confidence": 0.875,
+      "time": 63.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Sus leyes gobiernan planetas y estrellas",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Sus",
+          "start": 70.44,
+          "end": 71.22
+        },
+        {
+          "word": "leyes",
+          "start": 71.22,
+          "end": 72.4
+        },
+        {
+          "word": "gobiernan",
+          "start": 72.4,
+          "end": 74.08
+        },
+        {
+          "word": "planetas",
+          "start": 74.08,
+          "end": 76.14
+        },
+        {
+          "word": "estrellas,",
+          "start": 76.14,
+          "end": 76.92
+        }
+      ],
+      "start": 70.44,
+      "end": 76.92,
+      "confidence": 0.833,
+      "time": 70.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "a los que en el espacio su rumbo marcó.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 77.6,
+          "end": 78.3
+        },
+        {
+          "word": "los",
+          "start": 78.3,
+          "end": 78.8
+        },
+        {
+          "word": "que",
+          "start": 78.8,
+          "end": 79.48
+        },
+        {
+          "word": "desbarció",
+          "start": 79.48,
+          "end": 80.8
+        },
+        {
+          "word": "su",
+          "start": 80.8,
+          "end": 81.92
+        },
+        {
+          "word": "rumbo",
+          "start": 81.92,
+          "end": 82.9
+        },
+        {
+          "word": "marco.",
+          "start": 82.9,
+          "end": 84.28
+        }
+      ],
+      "start": 77.6,
+      "end": 84.28,
+      "confidence": 0.761,
+      "time": 77.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Colinas y montes, arroyos y ríos,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Olivas",
+          "start": 84.28,
+          "end": 86.38
+        },
+        {
+          "word": "y",
+          "start": 86.38,
+          "end": 87.08
+        },
+        {
+          "word": "montes,",
+          "start": 87.08,
+          "end": 87.96
+        },
+        {
+          "word": "arroyos",
+          "start": 88.54,
+          "end": 89.78
+        },
+        {
+          "word": "y",
+          "start": 89.78,
+          "end": 90.56
+        },
+        {
+          "word": "ríos,",
+          "start": 90.56,
+          "end": 91.3
+        }
+      ],
+      "start": 84.28,
+      "end": 91.3,
+      "confidence": 0.977,
+      "time": 84.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "los mares y lagos proclaman a Dios.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "los",
+          "start": 91.8,
+          "end": 92.06
+        },
+        {
+          "word": "mares",
+          "start": 92.06,
+          "end": 93.28
+        },
+        {
+          "word": "y",
+          "start": 93.28,
+          "end": 94.04
+        },
+        {
+          "word": "ladros",
+          "start": 94.04,
+          "end": 94.86
+        },
+        {
+          "word": "proclaman",
+          "start": 94.86,
+          "end": 96.74
+        },
+        {
+          "word": "a",
+          "start": 96.74,
+          "end": 97.4
+        },
+        {
+          "word": "Dios.",
+          "start": 97.4,
+          "end": 98.3
+        }
+      ],
+      "start": 91.8,
+      "end": 98.3,
+      "confidence": 0.977,
+      "time": 91.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Alcemos las voces con gran regocijo,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Hacemos",
+          "start": 98.86,
+          "end": 100.26
+        },
+        {
+          "word": "las",
+          "start": 100.26,
+          "end": 101.06
+        },
+        {
+          "word": "voces",
+          "start": 101.06,
+          "end": 101.9
+        },
+        {
+          "word": "con",
+          "start": 101.9,
+          "end": 102.66
+        },
+        {
+          "word": "gran",
+          "start": 102.66,
+          "end": 103.44
+        },
+        {
+          "word": "regoción,",
+          "start": 103.44,
+          "end": 105.24
+        }
+      ],
+      "start": 98.86,
+      "end": 105.24,
+      "confidence": 0.973,
+      "time": 98.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "cantemos un himno a nuestro Hacedor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mantemos",
+          "start": 105.88,
+          "end": 107.14
+        },
+        {
+          "word": "un",
+          "start": 107.14,
+          "end": 107.88
+        },
+        {
+          "word": "himno",
+          "start": 107.88,
+          "end": 108.94
+        },
+        {
+          "word": "al",
+          "start": 108.94,
+          "end": 109.74
+        },
+        {
+          "word": "nuestro",
+          "start": 109.74,
+          "end": 110.48
+        },
+        {
+          "word": "sedor.",
+          "start": 110.48,
+          "end": 112.04
+        }
+      ],
+      "start": 105.88,
+      "end": 112.04,
+      "confidence": 0.921,
+      "time": 105.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Se acerca aquel día feliz en que todos",
+      "verse": 2,
+      "words": [
+        {
+          "word": "se",
+          "start": 113.16,
+          "end": 113.52
+        },
+        {
+          "word": "aquel",
+          "start": 114.1,
+          "end": 115.06
+        },
+        {
+          "word": "día",
+          "start": 115.06,
+          "end": 115.52
+        },
+        {
+          "word": "que",
+          "start": 117.34,
+          "end": 118.16
+        },
+        {
+          "word": "todos",
+          "start": 119.0,
+          "end": 120.34
+        }
+      ],
+      "start": 113.16,
+      "end": 120.34,
+      "confidence": 0.625,
+      "time": 113.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "loores daremos al gran Creador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "estaremos",
+          "start": 120.34,
+          "end": 122.52
+        },
+        {
+          "word": "al",
+          "start": 122.52,
+          "end": 123.28
+        },
+        {
+          "word": "gran",
+          "start": 123.28,
+          "end": 124.18
+        },
+        {
+          "word": "creador.",
+          "start": 124.18,
+          "end": 127.26
+        }
+      ],
+      "start": 120.34,
+      "end": 127.26,
+      "confidence": 0.77,
+      "time": 120.34
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.779,
+  "language": "es",
+  "model": "medium",
+  "hymn": 6,
+  "source": "006 - Hosanna.mp3",
+  "duration": 73.85,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Hosanna! ¡Hosanna! ¡Hosanna!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¡Osana!",
+          "start": 9.86,
+          "end": 11.26
+        },
+        {
+          "word": "¡Osana!",
+          "start": 11.26,
+          "end": 12.66
+        },
+        {
+          "word": "¡Osana!",
+          "start": 14.92,
+          "end": 16.32
+        }
+      ],
+      "start": 9.86,
+      "end": 16.32,
+      "confidence": 0.9,
+      "time": 9.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "En cielo y tierra, es del Señor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 16.32,
+          "end": 17.72
+        },
+        {
+          "word": "cielo",
+          "start": 17.72,
+          "end": 18.62
+        },
+        {
+          "word": "y",
+          "start": 18.62,
+          "end": 19.08
+        },
+        {
+          "word": "tierra",
+          "start": 19.48,
+          "end": 19.66
+        },
+        {
+          "word": "es",
+          "start": 19.66,
+          "end": 19.96
+        },
+        {
+          "word": "del",
+          "start": 19.96,
+          "end": 20.54
+        },
+        {
+          "word": "Señor,",
+          "start": 20.54,
+          "end": 21.36
+        }
+      ],
+      "start": 16.32,
+      "end": 21.8,
+      "confidence": 1.0,
+      "time": 16.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "la gloria y potestad,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 21.8,
+          "end": 22.06
+        },
+        {
+          "word": "gloria",
+          "start": 22.06,
+          "end": 22.96
+        },
+        {
+          "word": "y",
+          "start": 22.96,
+          "end": 23.32
+        },
+        {
+          "word": "está,",
+          "start": 24.0,
+          "end": 25.48
+        }
+      ],
+      "start": 21.8,
+      "end": 25.48,
+      "confidence": 0.95,
+      "time": 21.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y nos circunda con su amor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 26.04,
+          "end": 26.44
+        },
+        {
+          "word": "nos",
+          "start": 26.44,
+          "end": 27.2
+        },
+        {
+          "word": "circunda",
+          "start": 27.2,
+          "end": 28.24
+        },
+        {
+          "word": "con",
+          "start": 28.24,
+          "end": 29.1
+        },
+        {
+          "word": "su",
+          "start": 29.1,
+          "end": 29.4
+        },
+        {
+          "word": "amor",
+          "start": 29.4,
+          "end": 29.96
+        }
+      ],
+      "start": 26.04,
+      "end": 29.96,
+      "confidence": 1.0,
+      "time": 26.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por la eternidad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "por",
+          "start": 29.96,
+          "end": 30.74
+        },
+        {
+          "word": "la",
+          "start": 30.74,
+          "end": 31.48
+        },
+        {
+          "word": "eternidad.",
+          "start": 31.48,
+          "end": 33.32
+        }
+      ],
+      "start": 29.96,
+      "end": 33.32,
+      "confidence": 1.0,
+      "time": 29.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Alzad, pues, himnos de loor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "del",
+          "start": 36.96,
+          "end": 37.96
+        },
+        {
+          "word": "Or,",
+          "start": 37.96,
+          "end": 38.62
+        }
+      ],
+      "start": 36.96,
+      "end": 39.0,
+      "confidence": 0.336,
+      "time": 36.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que es grato a nuestro Dios;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "destrato",
+          "start": 39.0,
+          "end": 40.12
+        },
+        {
+          "word": "nuestro",
+          "start": 40.12,
+          "end": 41.16
+        },
+        {
+          "word": "Dios,",
+          "start": 41.16,
+          "end": 42.8
+        }
+      ],
+      "start": 39.0,
+      "end": 43.48,
+      "confidence": 0.462,
+      "time": 39.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a él rindamos todo honor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 43.48,
+          "end": 43.82
+        },
+        {
+          "word": "Él",
+          "start": 43.82,
+          "end": 44.16
+        },
+        {
+          "word": "brindamos",
+          "start": 44.16,
+          "end": 45.62
+        },
+        {
+          "word": "todo",
+          "start": 45.62,
+          "end": 46.42
+        },
+        {
+          "word": "honor,",
+          "start": 46.42,
+          "end": 47.14
+        }
+      ],
+      "start": 43.48,
+      "end": 47.88,
+      "confidence": 0.993,
+      "time": 43.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ahora y siempre, amén.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ahora",
+          "start": 47.88,
+          "end": 48.62
+        },
+        {
+          "word": "y",
+          "start": 48.62,
+          "end": 49.08
+        },
+        {
+          "word": "siempre",
+          "start": 49.08,
+          "end": 49.72
+        }
+      ],
+      "start": 47.88,
+      "end": 49.72,
+      "confidence": 0.75,
+      "time": 47.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡A Dios rindamos todo honor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 49.72,
+          "end": 50.18
+        },
+        {
+          "word": "¡Adiós",
+          "start": 50.88,
+          "end": 52.82
+        },
+        {
+          "word": "rindamos",
+          "start": 52.82,
+          "end": 54.18
+        },
+        {
+          "word": "dolor,",
+          "start": 54.92,
+          "end": 55.94
+        }
+      ],
+      "start": 49.72,
+      "end": 57.04,
+      "confidence": 0.739,
+      "time": 49.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "todo honor, todo honor!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "honor,",
+          "start": 57.04,
+          "end": 58.1
+        },
+        {
+          "word": "honor!",
+          "start": 59.16,
+          "end": 59.94
+        }
+      ],
+      "start": 57.04,
+      "end": 59.94,
+      "confidence": 0.5,
+      "time": 57.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡A Dios rindamos todo honor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¡Adiós",
+          "start": 60.52,
+          "end": 61.26
+        },
+        {
+          "word": "rindamos",
+          "start": 61.26,
+          "end": 62.62
+        },
+        {
+          "word": "honor",
+          "start": 63.4,
+          "end": 64.22
+        }
+      ],
+      "start": 60.52,
+      "end": 64.22,
+      "confidence": 0.587,
+      "time": 60.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ahora y siempre! Amén.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ahora",
+          "start": 64.22,
+          "end": 65.74
+        },
+        {
+          "word": "y",
+          "start": 65.74,
+          "end": 66.44
+        },
+        {
+          "word": "siempre",
+          "start": 66.44,
+          "end": 67.0
+        },
+        {
+          "word": "amén!",
+          "start": 67.0,
+          "end": 69.94
+        }
+      ],
+      "start": 64.22,
+      "end": 69.94,
+      "confidence": 1.0,
+      "time": 64.22
+    }
+  ]
+}

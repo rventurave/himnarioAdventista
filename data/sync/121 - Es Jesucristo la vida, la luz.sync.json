@@ -1,0 +1,853 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.962,
+  "language": "es",
+  "model": "medium",
+  "hymn": 121,
+  "source": "121 - Es Jesucristo la vida, la luz.mp3",
+  "duration": 188.16,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Es Jesucristo la vida, la luz;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Es",
+          "start": 19.26,
+          "end": 20.66
+        },
+        {
+          "word": "Jesucristo",
+          "start": 20.66,
+          "end": 22.06
+        },
+        {
+          "word": "la",
+          "start": 22.06,
+          "end": 22.84
+        },
+        {
+          "word": "vida,",
+          "start": 22.84,
+          "end": 23.72
+        },
+        {
+          "word": "la",
+          "start": 24.32,
+          "end": 24.32
+        },
+        {
+          "word": "luz",
+          "start": 24.32,
+          "end": 25.52
+        }
+      ],
+      "start": 19.26,
+      "end": 25.52,
+      "confidence": 1.0,
+      "time": 19.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "trae del cielo la eterna verdad;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "trae",
+          "start": 25.52,
+          "end": 26.86
+        },
+        {
+          "word": "del",
+          "start": 26.86,
+          "end": 27.4
+        },
+        {
+          "word": "cielo",
+          "start": 27.4,
+          "end": 28.24
+        },
+        {
+          "word": "la",
+          "start": 28.24,
+          "end": 29.02
+        },
+        {
+          "word": "eterna",
+          "start": 29.02,
+          "end": 30.14
+        },
+        {
+          "word": "verdad,",
+          "start": 30.14,
+          "end": 31.96
+        }
+      ],
+      "start": 25.52,
+      "end": 31.96,
+      "confidence": 1.0,
+      "time": 25.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mártir divino que muere en la cruz",
+      "verse": 1,
+      "words": [
+        {
+          "word": "mártir",
+          "start": 32.88,
+          "end": 33.58
+        },
+        {
+          "word": "divino",
+          "start": 33.58,
+          "end": 34.8
+        },
+        {
+          "word": "que",
+          "start": 34.8,
+          "end": 35.4
+        },
+        {
+          "word": "muere",
+          "start": 35.4,
+          "end": 36.3
+        },
+        {
+          "word": "en",
+          "start": 36.3,
+          "end": 36.76
+        },
+        {
+          "word": "la",
+          "start": 36.76,
+          "end": 37.22
+        },
+        {
+          "word": "cruz",
+          "start": 37.22,
+          "end": 38.52
+        }
+      ],
+      "start": 32.88,
+      "end": 38.52,
+      "confidence": 1.0,
+      "time": 32.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por darnos libertad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "por",
+          "start": 38.52,
+          "end": 39.18
+        },
+        {
+          "word": "darnos",
+          "start": 39.18,
+          "end": 40.28
+        },
+        {
+          "word": "libertad.",
+          "start": 40.28,
+          "end": 44.44
+        }
+      ],
+      "start": 38.52,
+      "end": 44.44,
+      "confidence": 1.0,
+      "time": 38.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cristo es Pastor, Enviado,",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 44.96,
+          "end": 45.64
+        },
+        {
+          "word": "es",
+          "start": 45.64,
+          "end": 46.1
+        },
+        {
+          "word": "pastor",
+          "start": 46.1,
+          "end": 47.78
+        },
+        {
+          "word": "enviado,",
+          "start": 47.78,
+          "end": 51.2
+        }
+      ],
+      "start": 44.96,
+      "end": 51.2,
+      "confidence": 1.0,
+      "time": 44.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "divino Emanuel.",
+      "words": [
+        {
+          "word": "Divino",
+          "start": 51.2,
+          "end": 53.3
+        },
+        {
+          "word": "Emanuel,",
+          "start": 53.3,
+          "end": 57.3
+        }
+      ],
+      "start": 51.2,
+      "end": 57.4,
+      "confidence": 1.0,
+      "time": 51.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Él me conduce por sendas de paz",
+      "words": [
+        {
+          "word": "Él",
+          "start": 57.4,
+          "end": 58.62
+        },
+        {
+          "word": "me",
+          "start": 58.62,
+          "end": 59.38
+        },
+        {
+          "word": "conduce",
+          "start": 59.38,
+          "end": 60.52
+        },
+        {
+          "word": "por",
+          "start": 60.52,
+          "end": 61.14
+        },
+        {
+          "word": "sendas",
+          "start": 61.14,
+          "end": 62.16
+        },
+        {
+          "word": "de",
+          "start": 62.16,
+          "end": 62.82
+        },
+        {
+          "word": "paz,",
+          "start": 62.82,
+          "end": 64.06
+        }
+      ],
+      "start": 57.4,
+      "end": 64.46,
+      "confidence": 1.0,
+      "time": 57.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "como a su oveja fiel.",
+      "words": [
+        {
+          "word": "como",
+          "start": 64.46,
+          "end": 64.94
+        },
+        {
+          "word": "a",
+          "start": 64.94,
+          "end": 65.4
+        },
+        {
+          "word": "su",
+          "start": 65.4,
+          "end": 65.78
+        },
+        {
+          "word": "oveja",
+          "start": 65.78,
+          "end": 67.56
+        },
+        {
+          "word": "fiel.",
+          "start": 67.56,
+          "end": 70.26
+        }
+      ],
+      "start": 64.46,
+      "end": 70.26,
+      "confidence": 1.0,
+      "time": 64.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Quita del alma la negra maldad,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Quita",
+          "start": 70.26,
+          "end": 71.88
+        },
+        {
+          "word": "del",
+          "start": 71.88,
+          "end": 72.4
+        },
+        {
+          "word": "alma",
+          "start": 72.4,
+          "end": 73.22
+        },
+        {
+          "word": "la",
+          "start": 73.22,
+          "end": 73.9
+        },
+        {
+          "word": "negua",
+          "start": 73.9,
+          "end": 74.96
+        },
+        {
+          "word": "maldad,",
+          "start": 74.96,
+          "end": 76.84
+        }
+      ],
+      "start": 70.26,
+      "end": 76.84,
+      "confidence": 0.98,
+      "time": 70.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "limpia benigno el infiel corazón;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "limpia",
+          "start": 77.56,
+          "end": 78.18
+        },
+        {
+          "word": "enigma",
+          "start": 78.76,
+          "end": 79.4
+        },
+        {
+          "word": "el",
+          "start": 79.4,
+          "end": 79.96
+        },
+        {
+          "word": "infiel",
+          "start": 79.96,
+          "end": 81.06
+        },
+        {
+          "word": "corazón,",
+          "start": 81.06,
+          "end": 82.86
+        }
+      ],
+      "start": 77.56,
+      "end": 82.86,
+      "confidence": 0.954,
+      "time": 77.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "es su carácter de suma bondad,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "es",
+          "start": 83.94,
+          "end": 84.22
+        },
+        {
+          "word": "su",
+          "start": 84.22,
+          "end": 84.58
+        },
+        {
+          "word": "carácter",
+          "start": 84.58,
+          "end": 86.22
+        },
+        {
+          "word": "de",
+          "start": 86.22,
+          "end": 86.84
+        },
+        {
+          "word": "suma",
+          "start": 86.84,
+          "end": 87.96
+        },
+        {
+          "word": "bondad,",
+          "start": 87.96,
+          "end": 89.66
+        }
+      ],
+      "start": 83.94,
+      "end": 89.66,
+      "confidence": 1.0,
+      "time": 83.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la misma compasión.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 90.14,
+          "end": 90.5
+        },
+        {
+          "word": "misma",
+          "start": 90.5,
+          "end": 91.42
+        },
+        {
+          "word": "compasión.",
+          "start": 91.42,
+          "end": 95.7
+        }
+      ],
+      "start": 90.14,
+      "end": 95.7,
+      "confidence": 1.0,
+      "time": 90.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cristo es Pastor, Enviado,",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 95.7,
+          "end": 96.82
+        },
+        {
+          "word": "es",
+          "start": 96.82,
+          "end": 97.3
+        },
+        {
+          "word": "pastor",
+          "start": 97.3,
+          "end": 98.94
+        },
+        {
+          "word": "enviado,",
+          "start": 99.46,
+          "end": 102.5
+        }
+      ],
+      "start": 95.7,
+      "end": 103.26,
+      "confidence": 1.0,
+      "time": 95.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "divino Emanuel.",
+      "words": [
+        {
+          "word": "divino",
+          "start": 103.26,
+          "end": 104.36
+        },
+        {
+          "word": "Emmanuel.",
+          "start": 104.36,
+          "end": 107.02
+        }
+      ],
+      "start": 103.26,
+      "end": 107.02,
+      "confidence": 0.98,
+      "time": 103.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Él me conduce por sendas de paz",
+      "words": [
+        {
+          "word": "Él",
+          "start": 109.06,
+          "end": 109.9
+        },
+        {
+          "word": "me",
+          "start": 109.9,
+          "end": 110.64
+        },
+        {
+          "word": "conduce",
+          "start": 110.64,
+          "end": 111.76
+        },
+        {
+          "word": "por",
+          "start": 111.76,
+          "end": 112.44
+        },
+        {
+          "word": "sendas",
+          "start": 112.44,
+          "end": 113.4
+        },
+        {
+          "word": "de",
+          "start": 113.4,
+          "end": 114.08
+        },
+        {
+          "word": "paz,",
+          "start": 114.08,
+          "end": 115.26
+        }
+      ],
+      "start": 109.06,
+      "end": 115.94,
+      "confidence": 1.0,
+      "time": 109.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "como a su oveja fiel.",
+      "words": [
+        {
+          "word": "como",
+          "start": 115.94,
+          "end": 116.22
+        },
+        {
+          "word": "a",
+          "start": 116.22,
+          "end": 116.58
+        },
+        {
+          "word": "su",
+          "start": 116.58,
+          "end": 116.92
+        },
+        {
+          "word": "oveja",
+          "start": 116.92,
+          "end": 118.8
+        },
+        {
+          "word": "fiel.",
+          "start": 118.8,
+          "end": 120.8
+        }
+      ],
+      "start": 115.94,
+      "end": 120.8,
+      "confidence": 1.0,
+      "time": 115.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Fuente preciosa de gracia y salud,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Fuente",
+          "start": 131.32,
+          "end": 132.72
+        },
+        {
+          "word": "preciosa",
+          "start": 132.72,
+          "end": 134.12
+        },
+        {
+          "word": "de",
+          "start": 134.12,
+          "end": 134.8
+        },
+        {
+          "word": "gracia",
+          "start": 134.8,
+          "end": 135.66
+        },
+        {
+          "word": "y",
+          "start": 135.66,
+          "end": 135.78
+        },
+        {
+          "word": "salud,",
+          "start": 135.78,
+          "end": 137.46
+        }
+      ],
+      "start": 131.32,
+      "end": 137.46,
+      "confidence": 1.0,
+      "time": 131.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "agua que limpia de toda maldad.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Agua",
+          "start": 138.66,
+          "end": 138.98
+        },
+        {
+          "word": "que",
+          "start": 138.98,
+          "end": 139.62
+        },
+        {
+          "word": "limpia",
+          "start": 139.62,
+          "end": 140.5
+        },
+        {
+          "word": "de",
+          "start": 140.5,
+          "end": 141.18
+        },
+        {
+          "word": "toda",
+          "start": 141.18,
+          "end": 142.14
+        },
+        {
+          "word": "maldad,",
+          "start": 142.14,
+          "end": 143.98
+        }
+      ],
+      "start": 138.66,
+      "end": 143.98,
+      "confidence": 1.0,
+      "time": 138.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Quiere llenarnos de su plenitud",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Quiere",
+          "start": 144.64,
+          "end": 145.42
+        },
+        {
+          "word": "llenarnos",
+          "start": 145.42,
+          "end": 146.88
+        },
+        {
+          "word": "de",
+          "start": 146.88,
+          "end": 147.48
+        },
+        {
+          "word": "su",
+          "start": 147.48,
+          "end": 148.06
+        },
+        {
+          "word": "plenitud,",
+          "start": 148.06,
+          "end": 150.18
+        }
+      ],
+      "start": 144.64,
+      "end": 150.18,
+      "confidence": 1.0,
+      "time": 144.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y de su santidad.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "su",
+          "start": 151.56,
+          "end": 152.3
+        },
+        {
+          "word": "santidad.",
+          "start": 152.3,
+          "end": 156.54
+        }
+      ],
+      "start": 151.56,
+      "end": 156.54,
+      "confidence": 0.5,
+      "time": 151.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cristo es Pastor, Enviado,",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 157.48,
+          "end": 157.64
+        },
+        {
+          "word": "es",
+          "start": 157.64,
+          "end": 158.14
+        },
+        {
+          "word": "pastor",
+          "start": 158.14,
+          "end": 159.7
+        },
+        {
+          "word": "enviado,",
+          "start": 159.7,
+          "end": 163.24
+        }
+      ],
+      "start": 157.48,
+      "end": 163.24,
+      "confidence": 1.0,
+      "time": 157.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "divino Emanuel.",
+      "words": [
+        {
+          "word": "divino",
+          "start": 163.98,
+          "end": 165.66
+        },
+        {
+          "word": "Emmanuel.",
+          "start": 165.66,
+          "end": 168.46
+        }
+      ],
+      "start": 163.98,
+      "end": 168.46,
+      "confidence": 0.98,
+      "time": 163.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Él me conduce por sendas de paz",
+      "words": [
+        {
+          "word": "Él",
+          "start": 169.82,
+          "end": 170.62
+        },
+        {
+          "word": "me",
+          "start": 170.62,
+          "end": 171.42
+        },
+        {
+          "word": "conduce",
+          "start": 171.42,
+          "end": 172.5
+        },
+        {
+          "word": "por",
+          "start": 172.5,
+          "end": 173.2
+        },
+        {
+          "word": "sendas",
+          "start": 173.2,
+          "end": 174.12
+        },
+        {
+          "word": "de",
+          "start": 174.12,
+          "end": 174.76
+        },
+        {
+          "word": "paz,",
+          "start": 174.76,
+          "end": 175.94
+        }
+      ],
+      "start": 169.82,
+      "end": 175.94,
+      "confidence": 1.0,
+      "time": 169.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "como a su oveja fiel.",
+      "words": [
+        {
+          "word": "Como",
+          "start": 175.94,
+          "end": 177.08
+        },
+        {
+          "word": "a",
+          "start": 177.08,
+          "end": 177.64
+        },
+        {
+          "word": "su",
+          "start": 177.64,
+          "end": 177.96
+        }
+      ],
+      "start": 175.94,
+      "end": 180.46,
+      "confidence": 0.6,
+      "time": 175.94
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.706,
+  "language": "es",
+  "model": "medium",
+  "hymn": 75,
+  "source": "075 - Grande es Jehova.mp3",
+  "duration": 118.47,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Grande es Jehová, poderoso Señor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Este",
+          "start": 7.76,
+          "end": 8.18
+        }
+      ],
+      "start": 7.76,
+      "end": 37.74,
+      "confidence": 0.16,
+      "time": 7.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a su nombre rendimos honor.",
+      "verse": 1,
+      "start": 37.74,
+      "end": 37.94,
+      "confidence": 0.0,
+      "time": 37.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Grande es Jehová, el supremo Hacedor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 8.18,
+          "end": 13.12
+        },
+        {
+          "word": "el",
+          "start": 13.12,
+          "end": 13.2
+        }
+      ],
+      "start": 37.94,
+      "end": 38.14,
+      "confidence": 0.333,
+      "time": 37.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "bondadoso nos da su amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "los",
+          "start": 13.26,
+          "end": 13.26
+        },
+        {
+          "word": "días.",
+          "start": 37.74,
+          "end": 37.74
+        }
+      ],
+      "start": 38.14,
+      "end": 38.34,
+      "confidence": 0.32,
+      "time": 38.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Grande es Jehová, y digno de gloria;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Gran",
+          "start": 39.26,
+          "end": 40.48
+        },
+        {
+          "word": "y",
+          "start": 41.7,
+          "end": 42.0
+        },
+        {
+          "word": "digno",
+          "start": 42.0,
+          "end": 42.58
+        },
+        {
+          "word": "de",
+          "start": 42.58,
+          "end": 42.98
+        },
+        {
+          "word": "gloria,",
+          "start": 42.98,
+          "end": 43.72
+        }
+      ],
+      "start": 39.26,
+      "end": 43.92,
+      "confidence": 0.706,
+      "time": 39.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Dios sin igual, bendito Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 43.92,
+          "end": 44.18
+        },
+        {
+          "word": "sin",
+          "start": 44.18,
+          "end": 44.78
+        },
+        {
+          "word": "igual,",
+          "start": 44.78,
+          "end": 45.48
+        },
+        {
+          "word": "bendito",
+          "start": 45.8,
+          "end": 46.44
+        },
+        {
+          "word": "Señor,",
+          "start": 46.44,
+          "end": 47.05
+        }
+      ],
+      "start": 43.92,
+      "end": 47.05,
+      "confidence": 1.0,
+      "time": 43.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Grande es Jehová, alcemos la voz",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Gran",
+          "start": 47.84,
+          "end": 48.24
+        },
+        {
+          "word": "alcemos",
+          "start": 49.66,
+          "end": 50.28
+        },
+        {
+          "word": "la",
+          "start": 50.28,
+          "end": 50.82
+        },
+        {
+          "word": "voz",
+          "start": 50.82,
+          "end": 51.24
+        }
+      ],
+      "start": 47.84,
+      "end": 51.24,
+      "confidence": 0.657,
+      "time": 47.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con santa unción;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "con",
+          "start": 51.24,
+          "end": 51.74
+        },
+        {
+          "word": "santa",
+          "start": 51.74,
+          "end": 52.32
+        },
+        {
+          "word": "unción,",
+          "start": 52.32,
+          "end": 53.24
+        }
+      ],
+      "start": 51.24,
+      "end": 53.24,
+      "confidence": 1.0,
+      "time": 51.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "grande es Jehová, grande es Jehová.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Gran",
+          "start": 58.32,
+          "end": 59.54
+        },
+        {
+          "word": "Gran",
+          "start": 61.64,
+          "end": 64.46
+        }
+      ],
+      "start": 58.32,
+      "end": 66.76,
+      "confidence": 0.313,
+      "time": 58.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Grande es Jehová, poderoso Señor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Grande",
+          "start": 68.9,
+          "end": 69.94
+        },
+        {
+          "word": "poderoso",
+          "start": 71.22,
+          "end": 71.9
+        },
+        {
+          "word": "Señor,",
+          "start": 71.9,
+          "end": 72.76
+        }
+      ],
+      "start": 68.9,
+      "end": 73.14,
+      "confidence": 0.6,
+      "time": 68.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "a su nombre rendimos honor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 73.14,
+          "end": 73.22
+        },
+        {
+          "word": "su",
+          "start": 73.22,
+          "end": 73.34
+        },
+        {
+          "word": "nombre",
+          "start": 73.34,
+          "end": 73.82
+        },
+        {
+          "word": "rendimos",
+          "start": 73.82,
+          "end": 75.02
+        },
+        {
+          "word": "honor.",
+          "start": 75.02,
+          "end": 76.68
+        }
+      ],
+      "start": 73.14,
+      "end": 76.68,
+      "confidence": 1.0,
+      "time": 73.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Grande es Jehová, el supremo Hacedor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Grande",
+          "start": 77.28,
+          "end": 77.72
+        },
+        {
+          "word": "el",
+          "start": 79.0,
+          "end": 79.06
+        },
+        {
+          "word": "supremo",
+          "start": 79.06,
+          "end": 79.72
+        },
+        {
+          "word": "hacedor,",
+          "start": 79.72,
+          "end": 80.58
+        }
+      ],
+      "start": 77.28,
+      "end": 80.9,
+      "confidence": 0.667,
+      "time": 77.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "bondadoso nos da su amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "bondadoso",
+          "start": 80.9,
+          "end": 81.8
+        },
+        {
+          "word": "nos",
+          "start": 81.8,
+          "end": 82.06
+        },
+        {
+          "word": "da",
+          "start": 82.06,
+          "end": 82.6
+        },
+        {
+          "word": "su",
+          "start": 82.6,
+          "end": 82.88
+        },
+        {
+          "word": "amor.",
+          "start": 82.88,
+          "end": 84.48
+        }
+      ],
+      "start": 80.9,
+      "end": 84.48,
+      "confidence": 1.0,
+      "time": 80.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Grande eres tú, y digno de gloria;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Grande",
+          "start": 85.12,
+          "end": 85.56
+        },
+        {
+          "word": "eres",
+          "start": 85.56,
+          "end": 86.08
+        },
+        {
+          "word": "tú",
+          "start": 86.08,
+          "end": 86.72
+        },
+        {
+          "word": "y",
+          "start": 86.72,
+          "end": 87.06
+        },
+        {
+          "word": "digno",
+          "start": 87.06,
+          "end": 87.64
+        },
+        {
+          "word": "de",
+          "start": 87.64,
+          "end": 88.0
+        },
+        {
+          "word": "gloria,",
+          "start": 88.0,
+          "end": 88.54
+        }
+      ],
+      "start": 85.12,
+      "end": 89.06,
+      "confidence": 1.0,
+      "time": 85.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "te exaltaré, mi Dios y mi Rey.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "te",
+          "start": 89.06,
+          "end": 89.28
+        },
+        {
+          "word": "exaltaré",
+          "start": 89.28,
+          "end": 90.48
+        },
+        {
+          "word": "mi",
+          "start": 90.48,
+          "end": 90.86
+        },
+        {
+          "word": "Dios",
+          "start": 90.86,
+          "end": 91.18
+        },
+        {
+          "word": "y",
+          "start": 91.18,
+          "end": 91.54
+        },
+        {
+          "word": "mi",
+          "start": 91.54,
+          "end": 91.84
+        },
+        {
+          "word": "Rey.",
+          "start": 91.84,
+          "end": 92.4
+        }
+      ],
+      "start": 89.06,
+      "end": 92.4,
+      "confidence": 1.0,
+      "time": 89.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Grande eres tú, te alabaré con todo mi ser;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Grande",
+          "start": 92.4,
+          "end": 93.36
+        },
+        {
+          "word": "eres",
+          "start": 93.36,
+          "end": 93.86
+        },
+        {
+          "word": "tú,",
+          "start": 93.86,
+          "end": 94.32
+        },
+        {
+          "word": "te",
+          "start": 94.62,
+          "end": 94.94
+        },
+        {
+          "word": "alabaré",
+          "start": 94.94,
+          "end": 96.04
+        },
+        {
+          "word": "con",
+          "start": 96.04,
+          "end": 96.72
+        },
+        {
+          "word": "todo",
+          "start": 96.72,
+          "end": 97.18
+        },
+        {
+          "word": "mi",
+          "start": 97.18,
+          "end": 97.64
+        },
+        {
+          "word": "ser.",
+          "start": 97.64,
+          "end": 98.3
+        }
+      ],
+      "start": 92.4,
+      "end": 98.3,
+      "confidence": 1.0,
+      "time": 92.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "grande eres tú, grande eres tú.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Grande",
+          "start": 100.54,
+          "end": 101.9
+        },
+        {
+          "word": "eres",
+          "start": 101.9,
+          "end": 102.52
+        },
+        {
+          "word": "tú.",
+          "start": 102.52,
+          "end": 105.5
+        },
+        {
+          "word": "Grande",
+          "start": 108.12,
+          "end": 109.48
+        },
+        {
+          "word": "eres",
+          "start": 109.48,
+          "end": 110.1
+        },
+        {
+          "word": "tú.",
+          "start": 110.1,
+          "end": 112.0
+        }
+      ],
+      "start": 100.54,
+      "end": 112.0,
+      "confidence": 1.0,
+      "time": 100.54
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.705,
+  "language": "es",
+  "model": "medium",
+  "hymn": 42,
+  "source": "042 - Queda, Senor.mp3",
+  "duration": 65.38,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Queda, Señor, en este corazón;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 4.82,
+          "end": 4.82
+        }
+      ],
+      "start": 4.82,
+      "end": 29.98,
+      "confidence": 0.2,
+      "time": 4.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "dame tu paz y lléname de amor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 30.0,
+          "end": 30.52
+        },
+        {
+          "word": "tu",
+          "start": 30.52,
+          "end": 31.08
+        },
+        {
+          "word": "paz",
+          "start": 31.08,
+          "end": 32.24
+        },
+        {
+          "word": "y",
+          "start": 32.24,
+          "end": 33.34
+        },
+        {
+          "word": "de",
+          "start": 34.58,
+          "end": 35.14
+        },
+        {
+          "word": "amor,",
+          "start": 35.14,
+          "end": 36.98
+        }
+      ],
+      "start": 30.0,
+      "end": 36.98,
+      "confidence": 0.829,
+      "time": 30.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que tu influencia permanezca en mí;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tu",
+          "start": 38.54,
+          "end": 39.0
+        },
+        {
+          "word": "influencia,",
+          "start": 39.0,
+          "end": 41.54
+        },
+        {
+          "word": "hermana,",
+          "start": 41.56,
+          "end": 42.94
+        },
+        {
+          "word": "en",
+          "start": 43.58,
+          "end": 44.2
+        }
+      ],
+      "start": 38.54,
+      "end": 45.78,
+      "confidence": 0.637,
+      "time": 38.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "viva por siempre con tu bendición.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "viva",
+          "start": 46.36,
+          "end": 47.4
+        },
+        {
+          "word": "por",
+          "start": 47.4,
+          "end": 48.14
+        },
+        {
+          "word": "siempre",
+          "start": 48.14,
+          "end": 48.94
+        },
+        {
+          "word": "con",
+          "start": 48.94,
+          "end": 49.82
+        },
+        {
+          "word": "tu",
+          "start": 49.82,
+          "end": 50.48
+        },
+        {
+          "word": "bendición.",
+          "start": 50.48,
+          "end": 54.48
+        }
+      ],
+      "start": 46.36,
+      "end": 54.48,
+      "confidence": 1.0,
+      "time": 46.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Amén.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Amén",
+          "start": 61.32,
+          "end": 62.72
+        }
+      ],
+      "start": 61.32,
+      "end": 62.72,
+      "confidence": 1.0,
+      "time": 61.32
+    }
+  ]
+}

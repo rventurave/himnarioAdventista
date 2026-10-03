@@ -1,0 +1,824 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.858,
+  "language": "es",
+  "model": "medium",
+  "hymn": 51,
+  "source": "051 - Nuestro sol se pone ya.mp3",
+  "duration": 189.83,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Nuestro sol se pone ya,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Nuestro",
+          "start": 18.28,
+          "end": 19.68
+        },
+        {
+          "word": "sol",
+          "start": 19.68,
+          "end": 20.52
+        },
+        {
+          "word": "se",
+          "start": 20.52,
+          "end": 21.08
+        },
+        {
+          "word": "pone",
+          "start": 21.08,
+          "end": 22.34
+        },
+        {
+          "word": "ya,",
+          "start": 22.34,
+          "end": 23.52
+        }
+      ],
+      "start": 18.28,
+      "end": 24.38,
+      "confidence": 1.0,
+      "time": 18.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "todo en calma quedará;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "todo",
+          "start": 24.38,
+          "end": 24.88
+        },
+        {
+          "word": "en",
+          "start": 24.88,
+          "end": 25.64
+        },
+        {
+          "word": "calma",
+          "start": 25.64,
+          "end": 26.62
+        },
+        {
+          "word": "quedará",
+          "start": 26.62,
+          "end": 28.78
+        }
+      ],
+      "start": 24.38,
+      "end": 28.78,
+      "confidence": 1.0,
+      "time": 24.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "la plegaria levantad",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 28.78,
+          "end": 30.24
+        },
+        {
+          "word": "levantar,",
+          "start": 32.98,
+          "end": 34.92
+        }
+      ],
+      "start": 28.78,
+      "end": 35.82,
+      "confidence": 0.642,
+      "time": 28.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que bendiga la bondad",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 35.82,
+          "end": 36.0
+        },
+        {
+          "word": "bendiga",
+          "start": 36.0,
+          "end": 37.68
+        },
+        {
+          "word": "la",
+          "start": 37.68,
+          "end": 38.74
+        },
+        {
+          "word": "bondad",
+          "start": 38.74,
+          "end": 40.04
+        }
+      ],
+      "start": 35.82,
+      "end": 40.04,
+      "confidence": 1.0,
+      "time": 35.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de nuestro Dios.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 40.04,
+          "end": 40.68
+        },
+        {
+          "word": "nuestro",
+          "start": 40.68,
+          "end": 42.52
+        },
+        {
+          "word": "Dios.",
+          "start": 42.52,
+          "end": 45.58
+        }
+      ],
+      "start": 40.04,
+      "end": 45.58,
+      "confidence": 1.0,
+      "time": 40.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Santo, santo, santo, Señor Jehová!",
+      "words": [
+        {
+          "word": "¡Santo,",
+          "start": 45.58,
+          "end": 47.34
+        },
+        {
+          "word": "santo,",
+          "start": 47.62,
+          "end": 48.74
+        },
+        {
+          "word": "santo!",
+          "start": 49.04,
+          "end": 51.38
+        },
+        {
+          "word": "¡Señor",
+          "start": 52.68,
+          "end": 54.08
+        }
+      ],
+      "start": 45.58,
+      "end": 56.98,
+      "confidence": 0.8,
+      "time": 45.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cielo y tierra de tu amor",
+      "words": [
+        {
+          "word": "¡Sielo",
+          "start": 57.18,
+          "end": 58.58
+        },
+        {
+          "word": "y",
+          "start": 58.58,
+          "end": 58.8
+        },
+        {
+          "word": "piedra",
+          "start": 58.8,
+          "end": 60.02
+        },
+        {
+          "word": "de",
+          "start": 60.02,
+          "end": 60.92
+        },
+        {
+          "word": "tu",
+          "start": 60.92,
+          "end": 61.36
+        },
+        {
+          "word": "amor,",
+          "start": 61.36,
+          "end": 62.56
+        }
+      ],
+      "start": 57.18,
+      "end": 63.82,
+      "confidence": 0.947,
+      "time": 57.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "llenos hoy están, Señor,",
+      "words": [
+        {
+          "word": "nos",
+          "start": 63.82,
+          "end": 64.56
+        },
+        {
+          "word": "hoy",
+          "start": 64.56,
+          "end": 65.44
+        },
+        {
+          "word": "están,",
+          "start": 65.44,
+          "end": 66.46
+        },
+        {
+          "word": "señor,",
+          "start": 66.46,
+          "end": 67.94
+        }
+      ],
+      "start": 63.82,
+      "end": 70.1,
+      "confidence": 0.95,
+      "time": 63.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡loor a ti!",
+      "words": [
+        {
+          "word": "a",
+          "start": 70.1,
+          "end": 71.58
+        },
+        {
+          "word": "ti!",
+          "start": 71.58,
+          "end": 73.12
+        }
+      ],
+      "start": 70.1,
+      "end": 73.12,
+      "confidence": 0.667,
+      "time": 70.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Oh Señor!, tu protección",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¡Oh",
+          "start": 73.12,
+          "end": 74.7
+        },
+        {
+          "word": "Señor,",
+          "start": 74.7,
+          "end": 76.06
+        },
+        {
+          "word": "tu",
+          "start": 76.54,
+          "end": 76.68
+        },
+        {
+          "word": "protección,",
+          "start": 76.68,
+          "end": 79.2
+        }
+      ],
+      "start": 73.12,
+      "end": 80.14,
+      "confidence": 1.0,
+      "time": 73.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "dale ahora al corazón;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "dale",
+          "start": 80.14,
+          "end": 80.7
+        },
+        {
+          "word": "ahora",
+          "start": 80.7,
+          "end": 81.92
+        },
+        {
+          "word": "al",
+          "start": 81.92,
+          "end": 82.94
+        },
+        {
+          "word": "corazón,",
+          "start": 82.94,
+          "end": 84.42
+        }
+      ],
+      "start": 80.14,
+      "end": 85.52,
+      "confidence": 1.0,
+      "time": 80.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "dale aquella dulce paz",
+      "verse": 2,
+      "words": [
+        {
+          "word": "dale",
+          "start": 85.52,
+          "end": 86.22
+        },
+        {
+          "word": "a",
+          "start": 86.22,
+          "end": 86.92
+        },
+        {
+          "word": "dulce",
+          "start": 87.76,
+          "end": 89.26
+        },
+        {
+          "word": "paz,",
+          "start": 89.26,
+          "end": 90.18
+        }
+      ],
+      "start": 85.52,
+      "end": 91.02,
+      "confidence": 0.985,
+      "time": 85.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que a los tuyos siempre das",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 91.02,
+          "end": 91.54
+        },
+        {
+          "word": "a",
+          "start": 91.54,
+          "end": 91.76
+        },
+        {
+          "word": "los",
+          "start": 91.76,
+          "end": 92.24
+        },
+        {
+          "word": "tuyos",
+          "start": 92.24,
+          "end": 93.44
+        },
+        {
+          "word": "siempre",
+          "start": 93.44,
+          "end": 95.0
+        },
+        {
+          "word": "das",
+          "start": 95.0,
+          "end": 95.7
+        }
+      ],
+      "start": 91.02,
+      "end": 95.7,
+      "confidence": 1.0,
+      "time": 91.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con plenitud.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "con",
+          "start": 95.7,
+          "end": 96.42
+        },
+        {
+          "word": "plenitud!",
+          "start": 96.42,
+          "end": 99.62
+        }
+      ],
+      "start": 95.7,
+      "end": 99.62,
+      "confidence": 1.0,
+      "time": 95.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Santo, santo, santo, Señor Jehová!",
+      "words": [
+        {
+          "word": "Santo,",
+          "start": 101.48,
+          "end": 102.88
+        },
+        {
+          "word": "santo,",
+          "start": 103.22,
+          "end": 104.48
+        },
+        {
+          "word": "santo,",
+          "start": 104.48,
+          "end": 107.02
+        },
+        {
+          "word": "Señor",
+          "start": 107.46,
+          "end": 109.52
+        }
+      ],
+      "start": 101.48,
+      "end": 113.38,
+      "confidence": 0.8,
+      "time": 101.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cielo y tierra de tu amor",
+      "words": [
+        {
+          "word": "cielo",
+          "start": 113.38,
+          "end": 114.04
+        },
+        {
+          "word": "y",
+          "start": 114.04,
+          "end": 114.84
+        },
+        {
+          "word": "tierra",
+          "start": 114.84,
+          "end": 115.6
+        },
+        {
+          "word": "de",
+          "start": 115.6,
+          "end": 116.6
+        },
+        {
+          "word": "tu",
+          "start": 116.6,
+          "end": 117.06
+        },
+        {
+          "word": "amor,",
+          "start": 117.06,
+          "end": 118.22
+        }
+      ],
+      "start": 113.38,
+      "end": 121.24,
+      "confidence": 1.0,
+      "time": 113.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "llenos hoy están, Señor,",
+      "words": [
+        {
+          "word": "están,",
+          "start": 121.24,
+          "end": 122.1
+        }
+      ],
+      "start": 121.24,
+      "end": 122.1,
+      "confidence": 0.25,
+      "time": 121.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡loor a ti!",
+      "words": [
+        {
+          "word": "a",
+          "start": 125.24,
+          "end": 127.0
+        },
+        {
+          "word": "ti.",
+          "start": 127.0,
+          "end": 129.16
+        }
+      ],
+      "start": 125.24,
+      "end": 129.16,
+      "confidence": 0.667,
+      "time": 125.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Oh Señor!, que al descansar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Oh",
+          "start": 129.74,
+          "end": 130.58
+        },
+        {
+          "word": "Señor,",
+          "start": 130.58,
+          "end": 131.86
+        },
+        {
+          "word": "al",
+          "start": 132.4,
+          "end": 133.18
+        },
+        {
+          "word": "descansar",
+          "start": 133.18,
+          "end": 135.16
+        }
+      ],
+      "start": 129.74,
+      "end": 135.16,
+      "confidence": 0.8,
+      "time": 129.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pueda en ti seguro estar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pueda",
+          "start": 135.16,
+          "end": 136.4
+        },
+        {
+          "word": "en",
+          "start": 136.4,
+          "end": 137.04
+        },
+        {
+          "word": "ti",
+          "start": 137.04,
+          "end": 137.92
+        },
+        {
+          "word": "seguro",
+          "start": 137.92,
+          "end": 139.14
+        },
+        {
+          "word": "estar",
+          "start": 139.14,
+          "end": 140.3
+        }
+      ],
+      "start": 135.16,
+      "end": 140.3,
+      "confidence": 1.0,
+      "time": 135.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y mañana, mi deber",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 140.3,
+          "end": 141.82
+        },
+        {
+          "word": "mañana",
+          "start": 141.82,
+          "end": 143.38
+        },
+        {
+          "word": "mi",
+          "start": 143.38,
+          "end": 144.5
+        },
+        {
+          "word": "deber",
+          "start": 144.5,
+          "end": 146.04
+        }
+      ],
+      "start": 140.3,
+      "end": 146.04,
+      "confidence": 1.0,
+      "time": 140.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pueda alegre y fiel hacer",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pueda",
+          "start": 146.04,
+          "end": 147.72
+        },
+        {
+          "word": "el",
+          "start": 147.72,
+          "end": 148.72
+        },
+        {
+          "word": "hacer",
+          "start": 150.22,
+          "end": 151.36
+        }
+      ],
+      "start": 146.04,
+      "end": 151.36,
+      "confidence": 0.56,
+      "time": 146.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en tu loor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 151.36,
+          "end": 152.02
+        },
+        {
+          "word": "tu",
+          "start": 152.02,
+          "end": 153.42
+        }
+      ],
+      "start": 151.36,
+      "end": 157.32,
+      "confidence": 0.667,
+      "time": 151.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Santo, santo, santo, Señor Jehová!",
+      "words": [
+        {
+          "word": "Santo,",
+          "start": 157.54,
+          "end": 158.68
+        },
+        {
+          "word": "santo,",
+          "start": 159.0,
+          "end": 160.22
+        },
+        {
+          "word": "santo,",
+          "start": 160.22,
+          "end": 162.82
+        },
+        {
+          "word": "se",
+          "start": 163.32,
+          "end": 164.5
+        }
+      ],
+      "start": 157.54,
+      "end": 168.26,
+      "confidence": 0.788,
+      "time": 157.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cielo y tierra de tu amor",
+      "words": [
+        {
+          "word": "cielo",
+          "start": 168.26,
+          "end": 169.7
+        },
+        {
+          "word": "y",
+          "start": 169.7,
+          "end": 170.5
+        },
+        {
+          "word": "tierra",
+          "start": 170.5,
+          "end": 171.26
+        },
+        {
+          "word": "de",
+          "start": 171.26,
+          "end": 172.4
+        },
+        {
+          "word": "tu",
+          "start": 172.4,
+          "end": 172.86
+        },
+        {
+          "word": "amor,",
+          "start": 172.86,
+          "end": 173.98
+        }
+      ],
+      "start": 168.26,
+      "end": 173.98,
+      "confidence": 1.0,
+      "time": 168.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "llenos hoy están, Señor,",
+      "words": [
+        {
+          "word": "los",
+          "start": 175.24,
+          "end": 175.72
+        },
+        {
+          "word": "hoyes",
+          "start": 175.72,
+          "end": 177.42
+        },
+        {
+          "word": "tan",
+          "start": 177.42,
+          "end": 177.92
+        }
+      ],
+      "start": 175.24,
+      "end": 181.22,
+      "confidence": 0.647,
+      "time": 175.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡loor a ti!",
+      "words": [
+        {
+          "word": "a",
+          "start": 181.22,
+          "end": 182.82
+        },
+        {
+          "word": "ti.",
+          "start": 182.82,
+          "end": 184.42
+        }
+      ],
+      "start": 181.22,
+      "end": 184.42,
+      "confidence": 0.667,
+      "time": 181.22
+    }
+  ]
+}

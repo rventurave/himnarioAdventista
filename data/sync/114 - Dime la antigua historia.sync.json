@@ -1,0 +1,968 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.885,
+  "language": "es",
+  "model": "medium",
+  "hymn": 114,
+  "source": "114 - Dime la antigua historia.mp3",
+  "duration": 217.21,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Dime la antigua historia del celestial favor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Dime",
+          "start": 12.02,
+          "end": 13.42
+        },
+        {
+          "word": "la",
+          "start": 13.42,
+          "end": 13.82
+        },
+        {
+          "word": "antigua",
+          "start": 13.82,
+          "end": 15.1
+        },
+        {
+          "word": "historia",
+          "start": 15.1,
+          "end": 16.86
+        },
+        {
+          "word": "del",
+          "start": 16.86,
+          "end": 18.0
+        },
+        {
+          "word": "celestial",
+          "start": 18.0,
+          "end": 19.98
+        },
+        {
+          "word": "favor,",
+          "start": 19.98,
+          "end": 22.36
+        }
+      ],
+      "start": 12.02,
+      "end": 22.9,
+      "confidence": 1.0,
+      "time": 12.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de Cristo y de su gloria, de Cristo y de su amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 22.9,
+          "end": 23.58
+        },
+        {
+          "word": "Cristo",
+          "start": 23.58,
+          "end": 24.7
+        },
+        {
+          "word": "y",
+          "start": 24.7,
+          "end": 25.3
+        },
+        {
+          "word": "de",
+          "start": 25.3,
+          "end": 25.7
+        },
+        {
+          "word": "su",
+          "start": 25.7,
+          "end": 26.38
+        },
+        {
+          "word": "gloria,",
+          "start": 26.38,
+          "end": 28.14
+        },
+        {
+          "word": "de",
+          "start": 28.14,
+          "end": 28.98
+        },
+        {
+          "word": "Cristo",
+          "start": 28.98,
+          "end": 30.08
+        },
+        {
+          "word": "y",
+          "start": 30.08,
+          "end": 30.78
+        },
+        {
+          "word": "de",
+          "start": 30.78,
+          "end": 31.3
+        },
+        {
+          "word": "su",
+          "start": 31.3,
+          "end": 31.7
+        },
+        {
+          "word": "amor.",
+          "start": 31.7,
+          "end": 34.24
+        }
+      ],
+      "start": 22.9,
+      "end": 34.24,
+      "confidence": 1.0,
+      "time": 22.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Dímela con llaneza, con toda candidez,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Límela",
+          "start": 35.18,
+          "end": 36.12
+        },
+        {
+          "word": "con",
+          "start": 36.12,
+          "end": 37.06
+        },
+        {
+          "word": "llaneza,",
+          "start": 37.06,
+          "end": 39.18
+        },
+        {
+          "word": "con",
+          "start": 39.62,
+          "end": 40.38
+        },
+        {
+          "word": "toda",
+          "start": 40.38,
+          "end": 41.56
+        },
+        {
+          "word": "grandidez,",
+          "start": 41.56,
+          "end": 44.72
+        }
+      ],
+      "start": 35.18,
+      "end": 44.72,
+      "confidence": 0.966,
+      "time": 35.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "porque es mi mente flaca y anhela sencillez.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "porque",
+          "start": 45.7,
+          "end": 46.3
+        },
+        {
+          "word": "mente",
+          "start": 47.24,
+          "end": 48.36
+        },
+        {
+          "word": "flaga,",
+          "start": 48.36,
+          "end": 50.54
+        },
+        {
+          "word": "sencillez.",
+          "start": 52.82,
+          "end": 56.42
+        }
+      ],
+      "start": 45.7,
+      "end": 56.42,
+      "confidence": 0.485,
+      "time": 45.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Dime la antigua historia,",
+      "words": [
+        {
+          "word": "Dime",
+          "start": 56.42,
+          "end": 58.04
+        },
+        {
+          "word": "la",
+          "start": 58.04,
+          "end": 58.44
+        },
+        {
+          "word": "antigua",
+          "start": 58.44,
+          "end": 59.6
+        },
+        {
+          "word": "historia,",
+          "start": 59.6,
+          "end": 61.88
+        }
+      ],
+      "start": 56.42,
+      "end": 63.18,
+      "confidence": 1.0,
+      "time": 56.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "cántame la victoria,",
+      "words": [
+        {
+          "word": "cántame",
+          "start": 63.18,
+          "end": 63.8
+        },
+        {
+          "word": "la",
+          "start": 63.8,
+          "end": 64.62
+        },
+        {
+          "word": "victoria,",
+          "start": 64.62,
+          "end": 67.66
+        }
+      ],
+      "start": 63.18,
+      "end": 68.84,
+      "confidence": 1.0,
+      "time": 63.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "háblame de la gloria",
+      "words": [
+        {
+          "word": "ámbame",
+          "start": 68.84,
+          "end": 69.5
+        },
+        {
+          "word": "de",
+          "start": 69.5,
+          "end": 70.3
+        },
+        {
+          "word": "la",
+          "start": 70.3,
+          "end": 71.46
+        },
+        {
+          "word": "gloria",
+          "start": 71.46,
+          "end": 72.72
+        }
+      ],
+      "start": 68.84,
+      "end": 72.72,
+      "confidence": 0.965,
+      "time": 68.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "de Cristo y de su amor.",
+      "words": [
+        {
+          "word": "de",
+          "start": 72.72,
+          "end": 73.72
+        },
+        {
+          "word": "Cristo",
+          "start": 73.72,
+          "end": 74.9
+        },
+        {
+          "word": "y",
+          "start": 74.9,
+          "end": 75.52
+        },
+        {
+          "word": "de",
+          "start": 75.52,
+          "end": 75.86
+        },
+        {
+          "word": "su",
+          "start": 75.86,
+          "end": 76.46
+        },
+        {
+          "word": "amor.",
+          "start": 76.46,
+          "end": 78.68
+        }
+      ],
+      "start": 72.72,
+      "end": 78.68,
+      "confidence": 1.0,
+      "time": 72.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Dime tan dulce historia con tono claro y fiel:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Dime",
+          "start": 78.68,
+          "end": 80.4
+        },
+        {
+          "word": "dulce",
+          "start": 80.78,
+          "end": 81.94
+        },
+        {
+          "word": "historia,",
+          "start": 81.94,
+          "end": 83.66
+        },
+        {
+          "word": "con",
+          "start": 84.62,
+          "end": 84.88
+        },
+        {
+          "word": "claro",
+          "start": 87.24,
+          "end": 87.24
+        },
+        {
+          "word": "y",
+          "start": 87.24,
+          "end": 87.78
+        },
+        {
+          "word": "fiel.",
+          "start": 87.78,
+          "end": 89.38
+        }
+      ],
+      "start": 78.68,
+      "end": 89.38,
+      "confidence": 0.778,
+      "time": 78.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "\"Murió Jesús, y salvo tú puedes ser por él\".",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 91.04,
+          "end": 92.28
+        },
+        {
+          "word": "y",
+          "start": 92.28,
+          "end": 93.12
+        },
+        {
+          "word": "salvo,",
+          "start": 93.12,
+          "end": 94.96
+        },
+        {
+          "word": "tú",
+          "start": 95.22,
+          "end": 95.86
+        },
+        {
+          "word": "puedes",
+          "start": 95.86,
+          "end": 97.28
+        },
+        {
+          "word": "ser",
+          "start": 97.28,
+          "end": 98.1
+        },
+        {
+          "word": "por",
+          "start": 98.1,
+          "end": 98.96
+        },
+        {
+          "word": "él.",
+          "start": 98.96,
+          "end": 100.96
+        }
+      ],
+      "start": 91.04,
+      "end": 100.96,
+      "confidence": 0.889,
+      "time": 91.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Dime la historia cuando me oprima la aflicción",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Dime",
+          "start": 100.96,
+          "end": 102.42
+        },
+        {
+          "word": "la",
+          "start": 102.42,
+          "end": 102.86
+        },
+        {
+          "word": "historia",
+          "start": 102.86,
+          "end": 104.0
+        },
+        {
+          "word": "cuando",
+          "start": 104.0,
+          "end": 105.98
+        },
+        {
+          "word": "me",
+          "start": 105.98,
+          "end": 106.74
+        },
+        {
+          "word": "opina",
+          "start": 106.74,
+          "end": 108.14
+        },
+        {
+          "word": "la",
+          "start": 108.14,
+          "end": 109.08
+        },
+        {
+          "word": "fricción,",
+          "start": 109.08,
+          "end": 111.64
+        }
+      ],
+      "start": 100.96,
+      "end": 111.82,
+      "confidence": 0.966,
+      "time": 100.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y quieras tú a mi alma brindar consolación.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 111.82,
+          "end": 112.72
+        },
+        {
+          "word": "quieras",
+          "start": 112.72,
+          "end": 114.2
+        },
+        {
+          "word": "tú",
+          "start": 114.2,
+          "end": 114.84
+        },
+        {
+          "word": "a",
+          "start": 114.84,
+          "end": 115.2
+        },
+        {
+          "word": "mi",
+          "start": 115.2,
+          "end": 115.88
+        },
+        {
+          "word": "alma",
+          "start": 115.88,
+          "end": 117.22
+        },
+        {
+          "word": "brindarte",
+          "start": 117.22,
+          "end": 119.14
+        }
+      ],
+      "start": 111.82,
+      "end": 121.4,
+      "confidence": 0.868,
+      "time": 111.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Dime la antigua historia,",
+      "words": [
+        {
+          "word": "Dime",
+          "start": 123.34,
+          "end": 124.74
+        },
+        {
+          "word": "la",
+          "start": 124.74,
+          "end": 125.36
+        },
+        {
+          "word": "antigua",
+          "start": 125.36,
+          "end": 126.38
+        },
+        {
+          "word": "historia,",
+          "start": 126.38,
+          "end": 128.68
+        }
+      ],
+      "start": 123.34,
+      "end": 129.96,
+      "confidence": 1.0,
+      "time": 123.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "cántame la victoria,",
+      "words": [
+        {
+          "word": "contame",
+          "start": 129.96,
+          "end": 130.58
+        },
+        {
+          "word": "la",
+          "start": 130.58,
+          "end": 131.46
+        },
+        {
+          "word": "victoria,",
+          "start": 131.46,
+          "end": 134.74
+        }
+      ],
+      "start": 129.96,
+      "end": 134.74,
+      "confidence": 0.971,
+      "time": 129.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "háblame de la gloria",
+      "words": [
+        {
+          "word": "háblame",
+          "start": 135.62,
+          "end": 136.28
+        },
+        {
+          "word": "de",
+          "start": 136.28,
+          "end": 137.04
+        },
+        {
+          "word": "la",
+          "start": 137.04,
+          "end": 137.86
+        },
+        {
+          "word": "gloria",
+          "start": 137.86,
+          "end": 139.36
+        }
+      ],
+      "start": 135.62,
+      "end": 139.36,
+      "confidence": 1.0,
+      "time": 135.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "de Cristo y de su amor.",
+      "words": [
+        {
+          "word": "de",
+          "start": 139.36,
+          "end": 140.42
+        },
+        {
+          "word": "Cristo",
+          "start": 140.42,
+          "end": 141.46
+        },
+        {
+          "word": "y",
+          "start": 141.46,
+          "end": 142.14
+        },
+        {
+          "word": "de",
+          "start": 142.14,
+          "end": 142.54
+        },
+        {
+          "word": "su",
+          "start": 142.54,
+          "end": 143.22
+        },
+        {
+          "word": "amor.",
+          "start": 143.22,
+          "end": 145.46
+        }
+      ],
+      "start": 139.36,
+      "end": 145.46,
+      "confidence": 1.0,
+      "time": 139.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Dime la misma historia cuando a tu parecer",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Dime",
+          "start": 145.46,
+          "end": 146.98
+        },
+        {
+          "word": "la",
+          "start": 146.98,
+          "end": 147.44
+        },
+        {
+          "word": "misma",
+          "start": 147.44,
+          "end": 148.42
+        },
+        {
+          "word": "historia",
+          "start": 148.42,
+          "end": 150.6
+        },
+        {
+          "word": "cuando",
+          "start": 150.6,
+          "end": 151.92
+        },
+        {
+          "word": "tu",
+          "start": 151.92,
+          "end": 152.96
+        },
+        {
+          "word": "padre",
+          "start": 152.96,
+          "end": 154.0
+        }
+      ],
+      "start": 145.46,
+      "end": 155.84,
+      "confidence": 0.85,
+      "time": 145.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "me cieguen de este mundo el brillo y el placer.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "siguen",
+          "start": 157.3,
+          "end": 158.5
+        },
+        {
+          "word": "desde",
+          "start": 158.5,
+          "end": 159.48
+        },
+        {
+          "word": "mundo",
+          "start": 160.48,
+          "end": 161.76
+        },
+        {
+          "word": "el",
+          "start": 161.76,
+          "end": 162.8
+        },
+        {
+          "word": "y",
+          "start": 163.66,
+          "end": 164.62
+        },
+        {
+          "word": "el",
+          "start": 164.62,
+          "end": 165.22
+        }
+      ],
+      "start": 157.3,
+      "end": 167.72,
+      "confidence": 0.566,
+      "time": 157.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Y cuando ya vislumbre del día final la luz",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 167.72,
+          "end": 168.8
+        },
+        {
+          "word": "cuando",
+          "start": 168.8,
+          "end": 169.54
+        },
+        {
+          "word": "ya",
+          "start": 169.54,
+          "end": 170.54
+        },
+        {
+          "word": "vislumbre",
+          "start": 170.54,
+          "end": 172.72
+        },
+        {
+          "word": "del",
+          "start": 172.72,
+          "end": 173.72
+        },
+        {
+          "word": "día",
+          "start": 173.72,
+          "end": 174.76
+        },
+        {
+          "word": "final",
+          "start": 174.76,
+          "end": 175.74
+        },
+        {
+          "word": "la",
+          "start": 175.74,
+          "end": 176.66
+        },
+        {
+          "word": "luz,",
+          "start": 176.66,
+          "end": 178.22
+        }
+      ],
+      "start": 167.72,
+      "end": 179.34,
+      "confidence": 1.0,
+      "time": 167.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "repíteme la historia: \"Tu Salvador es Jesús\".",
+      "verse": 3,
+      "words": [
+        {
+          "word": "repíteme",
+          "start": 179.34,
+          "end": 181.38
+        },
+        {
+          "word": "la",
+          "start": 181.38,
+          "end": 181.92
+        },
+        {
+          "word": "historia,",
+          "start": 181.92,
+          "end": 183.92
+        },
+        {
+          "word": "tu",
+          "start": 184.52,
+          "end": 184.92
+        },
+        {
+          "word": "salvador",
+          "start": 184.92,
+          "end": 187.18
+        },
+        {
+          "word": "es",
+          "start": 187.18,
+          "end": 187.5
+        },
+        {
+          "word": "Jesús.",
+          "start": 187.5,
+          "end": 189.82
+        }
+      ],
+      "start": 179.34,
+      "end": 189.82,
+      "confidence": 1.0,
+      "time": 179.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Dime la antigua historia,",
+      "words": [
+        {
+          "word": "historia,",
+          "start": 194.16,
+          "end": 195.56
+        }
+      ],
+      "start": 194.16,
+      "end": 196.34,
+      "confidence": 0.25,
+      "time": 194.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "cántame la victoria,",
+      "words": [
+        {
+          "word": "cántame",
+          "start": 196.34,
+          "end": 197.34
+        },
+        {
+          "word": "la",
+          "start": 197.34,
+          "end": 198.16
+        },
+        {
+          "word": "victoria,",
+          "start": 198.16,
+          "end": 201.2
+        }
+      ],
+      "start": 196.34,
+      "end": 202.22,
+      "confidence": 1.0,
+      "time": 196.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "háblame de la gloria",
+      "words": [
+        {
+          "word": "háblame",
+          "start": 202.22,
+          "end": 203.0
+        },
+        {
+          "word": "de",
+          "start": 203.0,
+          "end": 203.84
+        },
+        {
+          "word": "la",
+          "start": 203.84,
+          "end": 204.84
+        },
+        {
+          "word": "gloria",
+          "start": 204.84,
+          "end": 206.26
+        }
+      ],
+      "start": 202.22,
+      "end": 206.26,
+      "confidence": 1.0,
+      "time": 202.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "de Cristo y de su amor.",
+      "words": [
+        {
+          "word": "de",
+          "start": 206.26,
+          "end": 207.3
+        },
+        {
+          "word": "Cristo",
+          "start": 207.3,
+          "end": 208.56
+        },
+        {
+          "word": "y",
+          "start": 208.56,
+          "end": 209.2
+        },
+        {
+          "word": "de",
+          "start": 209.2,
+          "end": 209.86
+        },
+        {
+          "word": "su",
+          "start": 209.86,
+          "end": 210.72
+        },
+        {
+          "word": "amor.",
+          "start": 210.72,
+          "end": 212.56
+        }
+      ],
+      "start": 206.26,
+      "end": 212.56,
+      "confidence": 1.0,
+      "time": 206.26
+    }
+  ]
+}

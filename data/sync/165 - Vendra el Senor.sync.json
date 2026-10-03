@@ -1,0 +1,1105 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.842,
+  "language": "es",
+  "model": "medium",
+  "hymn": 165,
+  "source": "165 - Vendra el Senor.mp3",
+  "duration": 217.05,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Vendrá el Señor!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Vendrá",
+          "start": 25.18,
+          "end": 26.58
+        },
+        {
+          "word": "el",
+          "start": 26.58,
+          "end": 26.98
+        },
+        {
+          "word": "Señor",
+          "start": 26.98,
+          "end": 28.56
+        }
+      ],
+      "start": 25.18,
+      "end": 28.56,
+      "confidence": 1.0,
+      "time": 25.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Nadie sabe la hora;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "nadie",
+          "start": 28.56,
+          "end": 29.56
+        },
+        {
+          "word": "sabe",
+          "start": 29.56,
+          "end": 30.54
+        },
+        {
+          "word": "la",
+          "start": 30.54,
+          "end": 31.86
+        },
+        {
+          "word": "hora",
+          "start": 31.86,
+          "end": 33.18
+        }
+      ],
+      "start": 28.56,
+      "end": 33.18,
+      "confidence": 1.0,
+      "time": 28.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "del día anhelado",
+      "verse": 1,
+      "words": [
+        {
+          "word": "del",
+          "start": 33.18,
+          "end": 34.04
+        },
+        {
+          "word": "día",
+          "start": 34.04,
+          "end": 35.3
+        },
+        {
+          "word": "anhelado",
+          "start": 35.3,
+          "end": 37.58
+        }
+      ],
+      "start": 33.18,
+      "end": 37.58,
+      "confidence": 1.0,
+      "time": 33.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "se ve la aurora.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "se",
+          "start": 37.58,
+          "end": 37.92
+        },
+        {
+          "word": "ve",
+          "start": 37.92,
+          "end": 38.54
+        },
+        {
+          "word": "la",
+          "start": 38.54,
+          "end": 39.74
+        },
+        {
+          "word": "aurora",
+          "start": 39.74,
+          "end": 41.42
+        }
+      ],
+      "start": 37.58,
+      "end": 41.42,
+      "confidence": 1.0,
+      "time": 37.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh, siervos de Dios!,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "O",
+          "start": 41.42,
+          "end": 42.36
+        },
+        {
+          "word": "siervos",
+          "start": 42.36,
+          "end": 43.58
+        },
+        {
+          "word": "de",
+          "start": 43.58,
+          "end": 44.36
+        },
+        {
+          "word": "Dios,",
+          "start": 44.36,
+          "end": 45.36
+        }
+      ],
+      "start": 41.42,
+      "end": 45.9,
+      "confidence": 0.95,
+      "time": 41.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "anunciad sin demora",
+      "verse": 1,
+      "words": [
+        {
+          "word": "anuncia",
+          "start": 45.9,
+          "end": 46.8
+        },
+        {
+          "word": "sin",
+          "start": 46.8,
+          "end": 47.64
+        },
+        {
+          "word": "deboda",
+          "start": 47.64,
+          "end": 49.22
+        }
+      ],
+      "start": 45.9,
+      "end": 49.22,
+      "confidence": 0.913,
+      "time": 45.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que muy pronto vendrá.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 49.22,
+          "end": 49.88
+        },
+        {
+          "word": "vendrá.",
+          "start": 53.26,
+          "end": 56.52
+        }
+      ],
+      "start": 49.22,
+      "end": 56.52,
+      "confidence": 0.5,
+      "time": 49.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Él vendrá!",
+      "words": [
+        {
+          "word": "Él",
+          "start": 56.9,
+          "end": 57.38
+        },
+        {
+          "word": "vendrá,",
+          "start": 57.38,
+          "end": 60.36
+        }
+      ],
+      "start": 56.9,
+      "end": 61.26,
+      "confidence": 1.0,
+      "time": 56.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Esperad y velad,",
+      "words": [
+        {
+          "word": "esperá,",
+          "start": 61.26,
+          "end": 62.42
+        }
+      ],
+      "start": 61.26,
+      "end": 63.9,
+      "confidence": 0.313,
+      "time": 61.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "pues él vendrá!",
+      "words": [
+        {
+          "word": "pues",
+          "start": 63.9,
+          "end": 64.58
+        },
+        {
+          "word": "Él",
+          "start": 64.58,
+          "end": 65.08
+        },
+        {
+          "word": "vendrá.",
+          "start": 65.08,
+          "end": 67.96
+        }
+      ],
+      "start": 63.9,
+      "end": 67.96,
+      "confidence": 1.0,
+      "time": 63.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Aleluya! ¡Aleluya!;",
+      "words": [
+        {
+          "word": "Aleluya,",
+          "start": 67.96,
+          "end": 70.12
+        },
+        {
+          "word": "aleluya,",
+          "start": 70.66,
+          "end": 72.0
+        }
+      ],
+      "start": 67.96,
+      "end": 72.46,
+      "confidence": 1.0,
+      "time": 67.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "En las nubes vendrá",
+      "words": [
+        {
+          "word": "en",
+          "start": 72.46,
+          "end": 72.64
+        },
+        {
+          "word": "las",
+          "start": 72.64,
+          "end": 73.3
+        },
+        {
+          "word": "nubes",
+          "start": 73.3,
+          "end": 74.2
+        },
+        {
+          "word": "vendrá,",
+          "start": 74.2,
+          "end": 75.76
+        }
+      ],
+      "start": 72.46,
+      "end": 76.1,
+      "confidence": 1.0,
+      "time": 72.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "con sus huestes gloriosas;",
+      "words": [
+        {
+          "word": "con",
+          "start": 76.1,
+          "end": 76.5
+        },
+        {
+          "word": "sus",
+          "start": 76.5,
+          "end": 76.82
+        },
+        {
+          "word": "huestes",
+          "start": 76.82,
+          "end": 78.2
+        },
+        {
+          "word": "gloriosas,",
+          "start": 78.2,
+          "end": 79.94
+        }
+      ],
+      "start": 76.1,
+      "end": 80.26,
+      "confidence": 1.0,
+      "time": 76.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "sí, muy pronto vendrá.",
+      "words": [
+        {
+          "word": "sí",
+          "start": 80.26,
+          "end": 80.46
+        },
+        {
+          "word": "muy",
+          "start": 80.46,
+          "end": 80.76
+        },
+        {
+          "word": "pronto",
+          "start": 80.76,
+          "end": 83.08
+        },
+        {
+          "word": "vendrá.",
+          "start": 83.08,
+          "end": 86.9
+        }
+      ],
+      "start": 80.26,
+      "end": 86.9,
+      "confidence": 1.0,
+      "time": 80.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En cielo y tierra",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 86.9,
+          "end": 88.26
+        },
+        {
+          "word": "cielo",
+          "start": 88.26,
+          "end": 89.38
+        },
+        {
+          "word": "y",
+          "start": 89.38,
+          "end": 90.38
+        },
+        {
+          "word": "tierra",
+          "start": 90.38,
+          "end": 91.76
+        }
+      ],
+      "start": 86.9,
+      "end": 91.76,
+      "confidence": 1.0,
+      "time": 86.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "se anuncia el portento",
+      "verse": 2,
+      "words": [
+        {
+          "word": "se",
+          "start": 91.76,
+          "end": 92.24
+        },
+        {
+          "word": "anuncia",
+          "start": 92.24,
+          "end": 93.32
+        },
+        {
+          "word": "el",
+          "start": 93.32,
+          "end": 93.84
+        },
+        {
+          "word": "contento",
+          "start": 93.84,
+          "end": 95.74
+        }
+      ],
+      "start": 91.76,
+      "end": 95.74,
+      "confidence": 0.963,
+      "time": 91.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de Cristo en su",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 95.74,
+          "end": 96.48
+        },
+        {
+          "word": "Cristo",
+          "start": 96.48,
+          "end": 97.4
+        },
+        {
+          "word": "en",
+          "start": 97.4,
+          "end": 98.06
+        },
+        {
+          "word": "su",
+          "start": 98.06,
+          "end": 98.44
+        }
+      ],
+      "start": 95.74,
+      "end": 98.44,
+      "confidence": 1.0,
+      "time": 95.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "glorioso advenimiento.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "gloria,",
+          "start": 98.44,
+          "end": 99.92
+        },
+        {
+          "word": "advenimiento.",
+          "start": 100.98,
+          "end": 103.64
+        }
+      ],
+      "start": 98.44,
+      "end": 103.64,
+      "confidence": 0.914,
+      "time": 98.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Oh, pueblo de Dios!,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 103.64,
+          "end": 104.94
+        },
+        {
+          "word": "pueblo",
+          "start": 105.5,
+          "end": 106.2
+        },
+        {
+          "word": "de",
+          "start": 106.2,
+          "end": 107.04
+        },
+        {
+          "word": "Dios,",
+          "start": 107.04,
+          "end": 107.82
+        }
+      ],
+      "start": 103.64,
+      "end": 109.88,
+      "confidence": 1.0,
+      "time": 103.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "es solemne el momento,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 109.88,
+          "end": 110.46
+        },
+        {
+          "word": "momento,",
+          "start": 110.46,
+          "end": 111.28
+        }
+      ],
+      "start": 109.88,
+      "end": 112.06,
+      "confidence": 0.5,
+      "time": 109.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pues muy pronto vendrá.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pues",
+          "start": 112.06,
+          "end": 112.4
+        },
+        {
+          "word": "vendrá.",
+          "start": 115.94,
+          "end": 119.22
+        }
+      ],
+      "start": 112.06,
+      "end": 119.22,
+      "confidence": 0.5,
+      "time": 112.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Él vendrá!",
+      "words": [
+        {
+          "word": "Él",
+          "start": 119.56,
+          "end": 119.94
+        },
+        {
+          "word": "vendrá,",
+          "start": 119.94,
+          "end": 122.9
+        }
+      ],
+      "start": 119.56,
+      "end": 123.76,
+      "confidence": 1.0,
+      "time": 119.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Esperad y velad,",
+      "words": [
+        {
+          "word": "espera",
+          "start": 123.76,
+          "end": 124.58
+        },
+        {
+          "word": "y",
+          "start": 124.58,
+          "end": 125.36
+        },
+        {
+          "word": "bella",
+          "start": 125.36,
+          "end": 126.46
+        }
+      ],
+      "start": 123.76,
+      "end": 126.46,
+      "confidence": 0.9,
+      "time": 123.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "pues él vendrá!",
+      "words": [
+        {
+          "word": "pues",
+          "start": 126.46,
+          "end": 127.18
+        },
+        {
+          "word": "Él",
+          "start": 127.18,
+          "end": 127.64
+        },
+        {
+          "word": "vendrá.",
+          "start": 127.64,
+          "end": 130.48
+        }
+      ],
+      "start": 126.46,
+      "end": 130.48,
+      "confidence": 1.0,
+      "time": 126.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Aleluya! ¡Aleluya!;",
+      "words": [
+        {
+          "word": "Aleluya,",
+          "start": 130.48,
+          "end": 132.68
+        },
+        {
+          "word": "aleluya,",
+          "start": 133.16,
+          "end": 134.58
+        }
+      ],
+      "start": 130.48,
+      "end": 135.06,
+      "confidence": 1.0,
+      "time": 130.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "En las nubes vendrá",
+      "words": [
+        {
+          "word": "en",
+          "start": 135.06,
+          "end": 135.24
+        },
+        {
+          "word": "las",
+          "start": 135.24,
+          "end": 135.96
+        },
+        {
+          "word": "vendrá,",
+          "start": 136.66,
+          "end": 138.36
+        }
+      ],
+      "start": 135.06,
+      "end": 138.76,
+      "confidence": 0.75,
+      "time": 135.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "con sus huestes gloriosas;",
+      "words": [
+        {
+          "word": "con",
+          "start": 138.76,
+          "end": 139.08
+        },
+        {
+          "word": "sus",
+          "start": 139.08,
+          "end": 139.42
+        },
+        {
+          "word": "vestes",
+          "start": 139.42,
+          "end": 140.68
+        },
+        {
+          "word": "gloriosas,",
+          "start": 140.68,
+          "end": 142.54
+        }
+      ],
+      "start": 138.76,
+      "end": 146.22,
+      "confidence": 0.965,
+      "time": 138.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "sí, muy pronto vendrá.",
+      "words": [
+        {
+          "word": "vendrá.",
+          "start": 146.22,
+          "end": 149.44
+        }
+      ],
+      "start": 146.22,
+      "end": 149.44,
+      "confidence": 0.25,
+      "time": 146.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Velad y orad",
+      "verse": 3,
+      "words": [
+        {
+          "word": "viola,",
+          "start": 151.5,
+          "end": 153.88
+        }
+      ],
+      "start": 151.5,
+      "end": 154.36,
+      "confidence": 0.253,
+      "time": 151.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "con la vista alzada;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 154.36,
+          "end": 154.48
+        },
+        {
+          "word": "la",
+          "start": 154.48,
+          "end": 154.9
+        },
+        {
+          "word": "vista",
+          "start": 154.9,
+          "end": 155.78
+        },
+        {
+          "word": "alzada,",
+          "start": 155.78,
+          "end": 158.14
+        }
+      ],
+      "start": 154.36,
+      "end": 159.14,
+      "confidence": 1.0,
+      "time": 154.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "salid y luchad",
+      "verse": 3,
+      "words": [
+        {
+          "word": "salí",
+          "start": 159.14,
+          "end": 160.16
+        },
+        {
+          "word": "lucha",
+          "start": 160.62,
+          "end": 161.94
+        }
+      ],
+      "start": 159.14,
+      "end": 161.94,
+      "confidence": 0.627,
+      "time": 159.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "con la santa espada;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 161.94,
+          "end": 162.76
+        },
+        {
+          "word": "la",
+          "start": 162.76,
+          "end": 163.14
+        },
+        {
+          "word": "santa",
+          "start": 163.14,
+          "end": 164.3
+        },
+        {
+          "word": "espada",
+          "start": 164.3,
+          "end": 166.32
+        }
+      ],
+      "start": 161.94,
+      "end": 166.32,
+      "confidence": 1.0,
+      "time": 161.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "id a trabajar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 168.16,
+          "end": 168.46
+        },
+        {
+          "word": "trabajar",
+          "start": 168.46,
+          "end": 170.26
+        }
+      ],
+      "start": 168.16,
+      "end": 170.26,
+      "confidence": 0.667,
+      "time": 168.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "con la fe reanimada,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 170.26,
+          "end": 171.1
+        },
+        {
+          "word": "la",
+          "start": 171.1,
+          "end": 171.52
+        },
+        {
+          "word": "fe",
+          "start": 171.52,
+          "end": 172.08
+        },
+        {
+          "word": "animada,",
+          "start": 172.66,
+          "end": 174.36
+        }
+      ],
+      "start": 170.26,
+      "end": 174.74,
+      "confidence": 0.981,
+      "time": 170.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pues muy pronto vendrá.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 174.74,
+          "end": 175.08
+        },
+        {
+          "word": "muy",
+          "start": 175.08,
+          "end": 175.46
+        },
+        {
+          "word": "pronto",
+          "start": 175.46,
+          "end": 178.3
+        },
+        {
+          "word": "vendrá.",
+          "start": 178.3,
+          "end": 181.78
+        }
+      ],
+      "start": 174.74,
+      "end": 181.78,
+      "confidence": 1.0,
+      "time": 174.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Él vendrá!",
+      "words": [
+        {
+          "word": "Él",
+          "start": 182.04,
+          "end": 182.5
+        },
+        {
+          "word": "vendrá,",
+          "start": 182.5,
+          "end": 185.46
+        }
+      ],
+      "start": 182.04,
+      "end": 186.36,
+      "confidence": 1.0,
+      "time": 182.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Esperad y velad,",
+      "words": [
+        {
+          "word": "esperá",
+          "start": 186.36,
+          "end": 187.52
+        },
+        {
+          "word": "vela,",
+          "start": 187.92,
+          "end": 189.3
+        }
+      ],
+      "start": 186.36,
+      "end": 189.62,
+      "confidence": 0.627,
+      "time": 186.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "pues él vendrá!",
+      "words": [
+        {
+          "word": "pues",
+          "start": 189.62,
+          "end": 189.86
+        },
+        {
+          "word": "Él",
+          "start": 189.86,
+          "end": 190.18
+        },
+        {
+          "word": "vendrá.",
+          "start": 190.18,
+          "end": 193.1
+        }
+      ],
+      "start": 189.62,
+      "end": 193.1,
+      "confidence": 1.0,
+      "time": 189.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Aleluya! ¡Aleluya!;",
+      "words": [
+        {
+          "word": "Aleluya,",
+          "start": 195.34,
+          "end": 196.34
+        },
+        {
+          "word": "aleluya,",
+          "start": 196.34,
+          "end": 197.34
+        }
+      ],
+      "start": 195.34,
+      "end": 197.58,
+      "confidence": 1.0,
+      "time": 195.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "En las nubes vendrá",
+      "words": [
+        {
+          "word": "en",
+          "start": 197.58,
+          "end": 197.76
+        },
+        {
+          "word": "las",
+          "start": 197.76,
+          "end": 198.22
+        },
+        {
+          "word": "noves",
+          "start": 198.22,
+          "end": 199.32
+        },
+        {
+          "word": "vendrá,",
+          "start": 199.32,
+          "end": 200.92
+        }
+      ],
+      "start": 197.58,
+      "end": 201.38,
+      "confidence": 0.94,
+      "time": 197.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "con sus huestes gloriosas;",
+      "words": [
+        {
+          "word": "con",
+          "start": 201.38,
+          "end": 201.74
+        },
+        {
+          "word": "sus",
+          "start": 201.74,
+          "end": 201.98
+        },
+        {
+          "word": "huéspedes",
+          "start": 201.98,
+          "end": 203.72
+        },
+        {
+          "word": "golosas,",
+          "start": 203.72,
+          "end": 205.06
+        }
+      ],
+      "start": 201.38,
+      "end": 208.92,
+      "confidence": 0.925,
+      "time": 201.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "sí, muy pronto vendrá.",
+      "words": [
+        {
+          "word": "vendrá.",
+          "start": 208.92,
+          "end": 211.88
+        }
+      ],
+      "start": 208.92,
+      "end": 211.88,
+      "confidence": 0.25,
+      "time": 208.92
+    }
+  ]
+}

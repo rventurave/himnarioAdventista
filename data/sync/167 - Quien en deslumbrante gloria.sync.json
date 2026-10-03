@@ -1,0 +1,824 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.79,
+  "language": "es",
+  "model": "medium",
+  "hymn": 167,
+  "source": "167 - Quien en deslumbrante gloria.mp3",
+  "duration": 202.61,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Quién en deslumbrante gloria",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 5.38,
+          "end": 5.38
+        },
+        {
+          "word": "de",
+          "start": 5.38,
+          "end": 5.38
+        },
+        {
+          "word": "Iglesia",
+          "start": 5.48,
+          "end": 5.48
+        }
+      ],
+      "start": 5.38,
+      "end": 32.3,
+      "confidence": 0.677,
+      "time": 5.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con sus huestes está?",
+      "verse": 1,
+      "start": 32.3,
+      "end": 32.5,
+      "confidence": 0.0,
+      "time": 32.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Quién con célica armadura",
+      "verse": 1,
+      "words": [
+        {
+          "word": "armadura",
+          "start": 32.32,
+          "end": 34.56
+        }
+      ],
+      "start": 32.5,
+      "end": 32.7,
+      "confidence": 0.25,
+      "time": 32.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "delante de ellos va?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "delante",
+          "start": 34.56,
+          "end": 36.26
+        },
+        {
+          "word": "de",
+          "start": 36.26,
+          "end": 37.58
+        },
+        {
+          "word": "va.",
+          "start": 38.26,
+          "end": 39.7
+        }
+      ],
+      "start": 34.56,
+      "end": 39.7,
+      "confidence": 0.75,
+      "time": 34.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Ve adelante, Señor, supremo Rey!",
+      "words": [
+        {
+          "word": "adelante,",
+          "start": 41.96,
+          "end": 44.34
+        },
+        {
+          "word": "Señor",
+          "start": 44.8,
+          "end": 45.7
+        },
+        {
+          "word": "Supremo",
+          "start": 45.7,
+          "end": 47.9
+        }
+      ],
+      "start": 41.96,
+      "end": 49.48,
+      "confidence": 0.6,
+      "time": 41.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "En gloria sublime y santa majestad.",
+      "words": [
+        {
+          "word": "en",
+          "start": 49.82,
+          "end": 50.48
+        },
+        {
+          "word": "gloria",
+          "start": 50.48,
+          "end": 51.92
+        },
+        {
+          "word": "súplime",
+          "start": 51.92,
+          "end": 54.2
+        },
+        {
+          "word": "Santa",
+          "start": 55.24,
+          "end": 56.56
+        },
+        {
+          "word": "Majestad.",
+          "start": 56.56,
+          "end": 59.22
+        }
+      ],
+      "start": 49.82,
+      "end": 59.22,
+      "confidence": 0.819,
+      "time": 49.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Ve adelante, a la victoria, ve!,",
+      "words": [
+        {
+          "word": "adelante",
+          "start": 61.42,
+          "end": 64.0
+        },
+        {
+          "word": "a",
+          "start": 64.0,
+          "end": 65.14
+        },
+        {
+          "word": "la",
+          "start": 65.14,
+          "end": 65.46
+        },
+        {
+          "word": "victoria",
+          "start": 65.46,
+          "end": 67.4
+        }
+      ],
+      "start": 61.42,
+      "end": 69.64,
+      "confidence": 0.667,
+      "time": 61.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "que cielo y tierra tuyos son,",
+      "words": [
+        {
+          "word": "que",
+          "start": 69.64,
+          "end": 70.02
+        },
+        {
+          "word": "cielo",
+          "start": 70.34,
+          "end": 70.86
+        },
+        {
+          "word": "y",
+          "start": 70.86,
+          "end": 71.52
+        },
+        {
+          "word": "tuya",
+          "start": 72.58,
+          "end": 73.6
+        },
+        {
+          "word": "son,",
+          "start": 73.6,
+          "end": 74.14
+        }
+      ],
+      "start": 69.64,
+      "end": 74.26,
+      "confidence": 0.8,
+      "time": 69.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Señor, supremo Rey.",
+      "words": [
+        {
+          "word": "Señor",
+          "start": 74.26,
+          "end": 75.44
+        },
+        {
+          "word": "Supremo",
+          "start": 75.44,
+          "end": 77.4
+        }
+      ],
+      "start": 74.26,
+      "end": 79.32,
+      "confidence": 0.667,
+      "time": 74.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Canta, pueblo remanente,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Canta,",
+          "start": 79.32,
+          "end": 80.1
+        },
+        {
+          "word": "pueblo",
+          "start": 80.12,
+          "end": 81.3
+        },
+        {
+          "word": "remanente,",
+          "start": 81.3,
+          "end": 84.14
+        }
+      ],
+      "start": 79.32,
+      "end": 84.74,
+      "confidence": 1.0,
+      "time": 79.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "presto salvo serás;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "presto",
+          "start": 84.74,
+          "end": 85.14
+        },
+        {
+          "word": "salvo",
+          "start": 85.14,
+          "end": 86.96
+        },
+        {
+          "word": "serás,",
+          "start": 86.96,
+          "end": 89.1
+        }
+      ],
+      "start": 84.74,
+      "end": 89.3,
+      "confidence": 1.0,
+      "time": 84.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pronto fin tendrán tus pruebas",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pronto",
+          "start": 89.3,
+          "end": 89.74
+        },
+        {
+          "word": "fin",
+          "start": 89.74,
+          "end": 90.4
+        },
+        {
+          "word": "tendrán",
+          "start": 90.4,
+          "end": 91.56
+        },
+        {
+          "word": "tus",
+          "start": 91.56,
+          "end": 92.22
+        },
+        {
+          "word": "pruebas,",
+          "start": 92.22,
+          "end": 93.82
+        }
+      ],
+      "start": 89.3,
+      "end": 94.14,
+      "confidence": 1.0,
+      "time": 89.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "si con el Rey estás.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "si",
+          "start": 94.14,
+          "end": 94.7
+        },
+        {
+          "word": "con",
+          "start": 94.7,
+          "end": 95.22
+        },
+        {
+          "word": "el",
+          "start": 95.22,
+          "end": 95.94
+        },
+        {
+          "word": "Rey",
+          "start": 95.94,
+          "end": 96.62
+        },
+        {
+          "word": "estás.",
+          "start": 96.62,
+          "end": 98.76
+        }
+      ],
+      "start": 94.14,
+      "end": 98.76,
+      "confidence": 1.0,
+      "time": 94.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Ve adelante, Señor, supremo Rey!",
+      "words": [
+        {
+          "word": "¡Ve",
+          "start": 98.76,
+          "end": 100.26
+        },
+        {
+          "word": "adelante,",
+          "start": 100.26,
+          "end": 103.46
+        },
+        {
+          "word": "Señor",
+          "start": 103.8,
+          "end": 104.82
+        },
+        {
+          "word": "Supremo",
+          "start": 104.82,
+          "end": 107.02
+        }
+      ],
+      "start": 98.76,
+      "end": 108.9,
+      "confidence": 0.8,
+      "time": 98.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "En gloria sublime y santa majestad.",
+      "words": [
+        {
+          "word": "en",
+          "start": 108.9,
+          "end": 109.64
+        },
+        {
+          "word": "gloria,",
+          "start": 109.64,
+          "end": 111.1
+        },
+        {
+          "word": "súblime,",
+          "start": 111.52,
+          "end": 113.2
+        },
+        {
+          "word": "y",
+          "start": 114.1,
+          "end": 114.56
+        },
+        {
+          "word": "Santa",
+          "start": 114.56,
+          "end": 115.66
+        }
+      ],
+      "start": 108.9,
+      "end": 118.38,
+      "confidence": 0.833,
+      "time": 108.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Ve adelante, a la victoria, ve!,",
+      "words": [
+        {
+          "word": "adelante",
+          "start": 120.3,
+          "end": 123.1
+        },
+        {
+          "word": "a",
+          "start": 123.1,
+          "end": 124.34
+        },
+        {
+          "word": "la",
+          "start": 124.34,
+          "end": 124.62
+        },
+        {
+          "word": "victoria",
+          "start": 124.62,
+          "end": 126.54
+        },
+        {
+          "word": "veré",
+          "start": 126.54,
+          "end": 128.44
+        }
+      ],
+      "start": 120.3,
+      "end": 128.44,
+      "confidence": 0.8,
+      "time": 120.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "que cielo y tierra tuyos son,",
+      "words": [
+        {
+          "word": "que",
+          "start": 128.44,
+          "end": 129.1
+        },
+        {
+          "word": "cielo",
+          "start": 129.48,
+          "end": 129.96
+        },
+        {
+          "word": "y",
+          "start": 129.96,
+          "end": 130.38
+        },
+        {
+          "word": "tierra",
+          "start": 130.38,
+          "end": 131.54
+        },
+        {
+          "word": "tuyo",
+          "start": 131.54,
+          "end": 132.8
+        },
+        {
+          "word": "son,",
+          "start": 132.8,
+          "end": 133.36
+        }
+      ],
+      "start": 128.44,
+      "end": 133.92,
+      "confidence": 0.99,
+      "time": 128.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Señor, supremo Rey.",
+      "words": [
+        {
+          "word": "Señor",
+          "start": 133.92,
+          "end": 134.6
+        },
+        {
+          "word": "Supepone.",
+          "start": 134.6,
+          "end": 137.56
+        }
+      ],
+      "start": 133.92,
+      "end": 137.56,
+      "confidence": 0.6,
+      "time": 133.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Oh, ven pronto, santo día",
+      "verse": 3,
+      "words": [
+        {
+          "word": "O",
+          "start": 137.56,
+          "end": 139.18
+        },
+        {
+          "word": "ven",
+          "start": 139.18,
+          "end": 139.44
+        },
+        {
+          "word": "pronto,",
+          "start": 139.44,
+          "end": 140.5
+        },
+        {
+          "word": "santo",
+          "start": 140.58,
+          "end": 141.74
+        },
+        {
+          "word": "día,",
+          "start": 141.74,
+          "end": 143.14
+        }
+      ],
+      "start": 137.56,
+      "end": 143.82,
+      "confidence": 0.96,
+      "time": 137.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "de esplendor sin igual,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "desplendor",
+          "start": 143.82,
+          "end": 144.66
+        },
+        {
+          "word": "sin",
+          "start": 144.66,
+          "end": 145.94
+        },
+        {
+          "word": "igual,",
+          "start": 145.94,
+          "end": 147.82
+        }
+      ],
+      "start": 143.82,
+      "end": 148.54,
+      "confidence": 0.742,
+      "time": 143.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "cuando en hermosura vuelva",
+      "verse": 3,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 148.54,
+          "end": 148.88
+        },
+        {
+          "word": "en",
+          "start": 148.88,
+          "end": 149.52
+        },
+        {
+          "word": "hermosura",
+          "start": 149.52,
+          "end": 151.36
+        },
+        {
+          "word": "vuelva,",
+          "start": 151.36,
+          "end": 153.16
+        }
+      ],
+      "start": 148.54,
+      "end": 153.64,
+      "confidence": 1.0,
+      "time": 148.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Jesús, Rey eternal.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 153.64,
+          "end": 154.28
+        },
+        {
+          "word": "rey",
+          "start": 154.28,
+          "end": 155.76
+        },
+        {
+          "word": "eternal.",
+          "start": 155.76,
+          "end": 157.56
+        }
+      ],
+      "start": 153.64,
+      "end": 157.56,
+      "confidence": 1.0,
+      "time": 153.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Ve adelante, Señor, supremo Rey!",
+      "words": [
+        {
+          "word": "adelante,",
+          "start": 160.58,
+          "end": 162.72
+        },
+        {
+          "word": "Señor",
+          "start": 163.68,
+          "end": 164.02
+        },
+        {
+          "word": "supremo",
+          "start": 164.02,
+          "end": 166.32
+        },
+        {
+          "word": "rey,",
+          "start": 166.32,
+          "end": 167.88
+        }
+      ],
+      "start": 160.58,
+      "end": 168.4,
+      "confidence": 0.8,
+      "time": 160.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "En gloria sublime y santa majestad.",
+      "words": [
+        {
+          "word": "en",
+          "start": 168.4,
+          "end": 168.76
+        },
+        {
+          "word": "gloria",
+          "start": 168.76,
+          "end": 170.22
+        },
+        {
+          "word": "súblime,",
+          "start": 170.22,
+          "end": 172.36
+        },
+        {
+          "word": "santa",
+          "start": 173.56,
+          "end": 174.78
+        },
+        {
+          "word": "majestad.",
+          "start": 174.78,
+          "end": 177.58
+        }
+      ],
+      "start": 168.4,
+      "end": 177.58,
+      "confidence": 0.833,
+      "time": 168.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Ve adelante, a la victoria, ve!,",
+      "words": [
+        {
+          "word": "delante",
+          "start": 179.88,
+          "end": 182.42
+        },
+        {
+          "word": "a",
+          "start": 182.42,
+          "end": 183.44
+        },
+        {
+          "word": "la",
+          "start": 183.44,
+          "end": 183.84
+        },
+        {
+          "word": "victoria",
+          "start": 183.84,
+          "end": 185.76
+        },
+        {
+          "word": "ven,",
+          "start": 185.76,
+          "end": 187.28
+        }
+      ],
+      "start": 179.88,
+      "end": 187.28,
+      "confidence": 0.807,
+      "time": 179.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "que cielo y tierra tuyos son,",
+      "words": [
+        {
+          "word": "Que",
+          "start": 187.74,
+          "end": 188.36
+        },
+        {
+          "word": "cielo",
+          "start": 188.72,
+          "end": 189.24
+        },
+        {
+          "word": "y",
+          "start": 189.24,
+          "end": 189.84
+        },
+        {
+          "word": "tierra",
+          "start": 189.84,
+          "end": 190.74
+        },
+        {
+          "word": "tuyo",
+          "start": 190.74,
+          "end": 192.06
+        },
+        {
+          "word": "son,",
+          "start": 192.06,
+          "end": 192.64
+        }
+      ],
+      "start": 187.74,
+      "end": 193.68,
+      "confidence": 0.99,
+      "time": 187.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Señor, supremo Rey.",
+      "words": [
+        {
+          "word": "Señor",
+          "start": 193.68,
+          "end": 193.94
+        },
+        {
+          "word": "Supremo",
+          "start": 193.94,
+          "end": 196.46
+        }
+      ],
+      "start": 193.68,
+      "end": 198.08,
+      "confidence": 0.667,
+      "time": 193.68
+    }
+  ]
+}

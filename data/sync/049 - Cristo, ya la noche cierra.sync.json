@@ -1,0 +1,564 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.994,
+  "language": "es",
+  "model": "medium",
+  "hymn": 49,
+  "source": "049 - Cristo, ya la noche cierra.mp3",
+  "duration": 124.04,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo, ya la noche cierra;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 13.2,
+          "end": 14.6
+        },
+        {
+          "word": "ya",
+          "start": 14.6,
+          "end": 16.0
+        },
+        {
+          "word": "la",
+          "start": 16.0,
+          "end": 16.66
+        },
+        {
+          "word": "noche",
+          "start": 16.66,
+          "end": 18.02
+        },
+        {
+          "word": "cierra,",
+          "start": 18.02,
+          "end": 19.6
+        }
+      ],
+      "start": 13.2,
+      "end": 20.54,
+      "confidence": 1.0,
+      "time": 13.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al turbado da solaz;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 20.54,
+          "end": 20.8
+        },
+        {
+          "word": "turbado",
+          "start": 20.8,
+          "end": 22.88
+        },
+        {
+          "word": "da",
+          "start": 22.88,
+          "end": 23.82
+        },
+        {
+          "word": "solas,",
+          "start": 23.82,
+          "end": 26.08
+        }
+      ],
+      "start": 20.54,
+      "end": 26.08,
+      "confidence": 0.97,
+      "time": 20.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nuestro error te confesamos;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Nuestro",
+          "start": 26.08,
+          "end": 27.66
+        },
+        {
+          "word": "error",
+          "start": 27.66,
+          "end": 28.92
+        },
+        {
+          "word": "te",
+          "start": 28.92,
+          "end": 29.98
+        },
+        {
+          "word": "confesamos,",
+          "start": 29.98,
+          "end": 32.54
+        }
+      ],
+      "start": 26.08,
+      "end": 33.12,
+      "confidence": 1.0,
+      "time": 26.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "da reposo, calma y paz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "da",
+          "start": 33.12,
+          "end": 33.54
+        },
+        {
+          "word": "reposo,",
+          "start": 33.54,
+          "end": 35.78
+        },
+        {
+          "word": "calma",
+          "start": 36.62,
+          "end": 37.36
+        },
+        {
+          "word": "y",
+          "start": 37.36,
+          "end": 37.58
+        },
+        {
+          "word": "paz.",
+          "start": 37.58,
+          "end": 39.22
+        }
+      ],
+      "start": 33.12,
+      "end": 39.22,
+      "confidence": 1.0,
+      "time": 33.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Cuando el enemigo asalte",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 40.06,
+          "end": 41.02
+        },
+        {
+          "word": "el",
+          "start": 41.02,
+          "end": 42.96
+        },
+        {
+          "word": "enemigo",
+          "start": 42.96,
+          "end": 44.6
+        },
+        {
+          "word": "asalte",
+          "start": 44.6,
+          "end": 46.36
+        }
+      ],
+      "start": 40.06,
+      "end": 46.36,
+      "confidence": 1.0,
+      "time": 40.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y ande en torno destrucción,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 46.36,
+          "end": 47.22
+        },
+        {
+          "word": "anda",
+          "start": 47.22,
+          "end": 47.78
+        },
+        {
+          "word": "en",
+          "start": 47.78,
+          "end": 48.34
+        },
+        {
+          "word": "torno",
+          "start": 48.34,
+          "end": 49.82
+        },
+        {
+          "word": "destrucción,",
+          "start": 49.82,
+          "end": 52.08
+        }
+      ],
+      "start": 46.36,
+      "end": 52.08,
+      "confidence": 0.97,
+      "time": 46.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "que tus ángeles, oh Padre,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 52.08,
+          "end": 53.74
+        },
+        {
+          "word": "tus",
+          "start": 53.74,
+          "end": 54.58
+        },
+        {
+          "word": "ángeles,",
+          "start": 54.58,
+          "end": 56.94
+        },
+        {
+          "word": "oh",
+          "start": 57.14,
+          "end": 57.9
+        },
+        {
+          "word": "Padre,",
+          "start": 57.9,
+          "end": 59.46
+        }
+      ],
+      "start": 52.08,
+      "end": 59.84,
+      "confidence": 1.0,
+      "time": 52.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "den amparo y protección.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "den",
+          "start": 59.84,
+          "end": 60.48
+        },
+        {
+          "word": "amparo",
+          "start": 60.48,
+          "end": 62.54
+        },
+        {
+          "word": "y",
+          "start": 62.54,
+          "end": 63.44
+        },
+        {
+          "word": "protección.",
+          "start": 63.44,
+          "end": 65.8
+        }
+      ],
+      "start": 59.84,
+      "end": 65.8,
+      "confidence": 1.0,
+      "time": 59.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Aunque lóbrega la noche,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Aunque",
+          "start": 65.8,
+          "end": 67.98
+        },
+        {
+          "word": "lo",
+          "start": 67.98,
+          "end": 69.74
+        },
+        {
+          "word": "la",
+          "start": 70.88,
+          "end": 71.92
+        },
+        {
+          "word": "noche,",
+          "start": 71.92,
+          "end": 72.94
+        }
+      ],
+      "start": 65.8,
+      "end": 73.96,
+      "confidence": 0.985,
+      "time": 65.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "siempre vernos tú podrás;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "siempre",
+          "start": 73.96,
+          "end": 74.62
+        },
+        {
+          "word": "vernos",
+          "start": 74.62,
+          "end": 76.52
+        },
+        {
+          "word": "tú",
+          "start": 76.52,
+          "end": 77.38
+        },
+        {
+          "word": "podrás,",
+          "start": 77.38,
+          "end": 79.7
+        }
+      ],
+      "start": 73.96,
+      "end": 79.7,
+      "confidence": 1.0,
+      "time": 73.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "vigilante, sin cansarte,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "vigilante",
+          "start": 81.42,
+          "end": 82.82
+        },
+        {
+          "word": "sin",
+          "start": 82.82,
+          "end": 83.76
+        },
+        {
+          "word": "cansarte,",
+          "start": 83.76,
+          "end": 85.76
+        }
+      ],
+      "start": 81.42,
+      "end": 86.32,
+      "confidence": 1.0,
+      "time": 81.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a tu pueblo guardarás.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 86.32,
+          "end": 87.1
+        },
+        {
+          "word": "tu",
+          "start": 87.1,
+          "end": 87.76
+        },
+        {
+          "word": "pueblo",
+          "start": 87.76,
+          "end": 89.3
+        },
+        {
+          "word": "guardarás.",
+          "start": 89.3,
+          "end": 92.58
+        }
+      ],
+      "start": 86.32,
+      "end": 92.58,
+      "confidence": 1.0,
+      "time": 86.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Si la muerte nos alcanza",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Si",
+          "start": 92.58,
+          "end": 94.38
+        },
+        {
+          "word": "la",
+          "start": 94.38,
+          "end": 95.16
+        },
+        {
+          "word": "muerte",
+          "start": 95.16,
+          "end": 96.6
+        },
+        {
+          "word": "nos",
+          "start": 96.6,
+          "end": 97.92
+        },
+        {
+          "word": "alcanza",
+          "start": 97.92,
+          "end": 99.78
+        }
+      ],
+      "start": 92.58,
+      "end": 99.78,
+      "confidence": 1.0,
+      "time": 92.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "en el lecho nuestro aquí,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 99.78,
+          "end": 101.4
+        },
+        {
+          "word": "el",
+          "start": 101.4,
+          "end": 102.06
+        },
+        {
+          "word": "hecho",
+          "start": 102.06,
+          "end": 103.14
+        },
+        {
+          "word": "nuestro",
+          "start": 103.14,
+          "end": 104.36
+        },
+        {
+          "word": "aquí,",
+          "start": 104.36,
+          "end": 105.58
+        }
+      ],
+      "start": 99.78,
+      "end": 105.58,
+      "confidence": 0.976,
+      "time": 99.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "que Jesús en su gran día",
+      "verse": 4,
+      "words": [
+        {
+          "word": "que",
+          "start": 106.72,
+          "end": 107.18
+        },
+        {
+          "word": "Jesús",
+          "start": 107.18,
+          "end": 109.1
+        },
+        {
+          "word": "en",
+          "start": 109.1,
+          "end": 109.64
+        },
+        {
+          "word": "su",
+          "start": 109.64,
+          "end": 110.48
+        },
+        {
+          "word": "gran",
+          "start": 110.48,
+          "end": 111.38
+        },
+        {
+          "word": "día",
+          "start": 111.38,
+          "end": 112.52
+        }
+      ],
+      "start": 106.72,
+      "end": 112.52,
+      "confidence": 1.0,
+      "time": 106.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "nos despierte en gloria allí.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "nos",
+          "start": 112.52,
+          "end": 113.76
+        },
+        {
+          "word": "despierte",
+          "start": 113.76,
+          "end": 116.02
+        },
+        {
+          "word": "en",
+          "start": 116.02,
+          "end": 116.44
+        },
+        {
+          "word": "gloria",
+          "start": 116.44,
+          "end": 117.84
+        },
+        {
+          "word": "allí.",
+          "start": 117.84,
+          "end": 118.88
+        }
+      ],
+      "start": 112.52,
+      "end": 118.88,
+      "confidence": 1.0,
+      "time": 112.52
+    }
+  ]
+}

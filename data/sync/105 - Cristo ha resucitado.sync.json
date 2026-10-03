@@ -1,0 +1,544 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.842,
+  "language": "es",
+  "model": "medium",
+  "hymn": 105,
+  "source": "105 - Cristo ha resucitado.mp3",
+  "duration": 164.31,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo ha resucitado, ¡aleluya!,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ha",
+          "start": 8.82,
+          "end": 9.86
+        },
+        {
+          "word": "resucitado,",
+          "start": 9.86,
+          "end": 12.24
+        },
+        {
+          "word": "Aleluya.",
+          "start": 12.78,
+          "end": 16.32
+        }
+      ],
+      "start": 8.82,
+      "end": 16.32,
+      "confidence": 0.75,
+      "time": 8.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ya la muerte ha vencido, ¡aleluya!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 17.46,
+          "end": 17.94
+        },
+        {
+          "word": "muerte",
+          "start": 17.94,
+          "end": 18.82
+        },
+        {
+          "word": "ha",
+          "start": 18.82,
+          "end": 19.72
+        },
+        {
+          "word": "vencido,",
+          "start": 19.72,
+          "end": 20.94
+        },
+        {
+          "word": "Aleluya.",
+          "start": 21.94,
+          "end": 25.32
+        }
+      ],
+      "start": 17.46,
+      "end": 25.32,
+      "confidence": 0.833,
+      "time": 17.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Con poder y con virtud, ¡aleluya!,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "poder",
+          "start": 26.22,
+          "end": 27.36
+        },
+        {
+          "word": "y",
+          "start": 27.36,
+          "end": 28.24
+        },
+        {
+          "word": "conmigo.",
+          "start": 28.24,
+          "end": 29.7
+        },
+        {
+          "word": "Aleluya,",
+          "start": 33.06,
+          "end": 34.46
+        }
+      ],
+      "start": 26.22,
+      "end": 34.46,
+      "confidence": 0.657,
+      "time": 26.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cautivó la esclavitud. ¡Aleluya!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cántico",
+          "start": 35.2,
+          "end": 36.58
+        },
+        {
+          "word": "la",
+          "start": 36.58,
+          "end": 37.12
+        },
+        {
+          "word": "esclavitud.",
+          "start": 37.12,
+          "end": 39.24
+        },
+        {
+          "word": "Aleluya,",
+          "start": 43.88,
+          "end": 45.28
+        }
+      ],
+      "start": 35.2,
+      "end": 45.28,
+      "confidence": 0.957,
+      "time": 35.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Hasta el polvo se humilló, ¡aleluya!,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "polvo",
+          "start": 46.62,
+          "end": 47.72
+        },
+        {
+          "word": "Aleluya,",
+          "start": 52.9,
+          "end": 54.3
+        }
+      ],
+      "start": 46.62,
+      "end": 54.3,
+      "confidence": 0.333,
+      "time": 46.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "vencedor se levantó, ¡aleluya!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "se",
+          "start": 56.34,
+          "end": 57.12
+        },
+        {
+          "word": "levantó,",
+          "start": 57.12,
+          "end": 59.44
+        },
+        {
+          "word": "¡Aleluya!",
+          "start": 59.5,
+          "end": 63.44
+        }
+      ],
+      "start": 56.34,
+      "end": 63.44,
+      "confidence": 0.75,
+      "time": 56.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Hoy cantamos en verdad, ¡aleluya!,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 63.92,
+          "end": 64.54
+        },
+        {
+          "word": "cantamos",
+          "start": 64.54,
+          "end": 66.42
+        },
+        {
+          "word": "en",
+          "start": 66.42,
+          "end": 67.06
+        },
+        {
+          "word": "verdad,",
+          "start": 67.06,
+          "end": 68.08
+        },
+        {
+          "word": "¡Aleluya!",
+          "start": 68.9,
+          "end": 72.72
+        }
+      ],
+      "start": 63.92,
+      "end": 72.72,
+      "confidence": 1.0,
+      "time": 63.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "su gloriosa majestad. ¡Aleluya!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Su",
+          "start": 73.16,
+          "end": 73.8
+        },
+        {
+          "word": "gloriosa",
+          "start": 73.8,
+          "end": 75.48
+        },
+        {
+          "word": "majestad,",
+          "start": 75.48,
+          "end": 77.64
+        },
+        {
+          "word": "¡Aleluya!",
+          "start": 78.02,
+          "end": 82.86
+        }
+      ],
+      "start": 73.16,
+      "end": 82.86,
+      "confidence": 1.0,
+      "time": 73.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "A la muerte se entregó, ¡aleluya!,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "A",
+          "start": 82.86,
+          "end": 84.28
+        },
+        {
+          "word": "la",
+          "start": 84.28,
+          "end": 85.04
+        },
+        {
+          "word": "muerte",
+          "start": 85.04,
+          "end": 85.78
+        },
+        {
+          "word": "se",
+          "start": 85.78,
+          "end": 86.66
+        },
+        {
+          "word": "entregó,",
+          "start": 86.66,
+          "end": 88.48
+        },
+        {
+          "word": "Aleluya,",
+          "start": 88.84,
+          "end": 92.56
+        }
+      ],
+      "start": 82.86,
+      "end": 93.34,
+      "confidence": 1.0,
+      "time": 82.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "el que así nos redimió, ¡aleluya!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 93.34,
+          "end": 93.56
+        },
+        {
+          "word": "que",
+          "start": 93.56,
+          "end": 94.1
+        },
+        {
+          "word": "así",
+          "start": 94.1,
+          "end": 94.66
+        },
+        {
+          "word": "nos",
+          "start": 94.66,
+          "end": 95.42
+        },
+        {
+          "word": "redimió,",
+          "start": 95.42,
+          "end": 97.34
+        },
+        {
+          "word": "Aleluya.",
+          "start": 98.66,
+          "end": 102.04
+        }
+      ],
+      "start": 93.34,
+      "end": 102.04,
+      "confidence": 1.0,
+      "time": 93.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Hoy en gloria celestial, ¡aleluya!,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 102.04,
+          "end": 103.1
+        },
+        {
+          "word": "en",
+          "start": 103.1,
+          "end": 103.52
+        },
+        {
+          "word": "gloria",
+          "start": 103.52,
+          "end": 104.44
+        },
+        {
+          "word": "Aleluya,",
+          "start": 107.84,
+          "end": 111.24
+        }
+      ],
+      "start": 102.04,
+      "end": 111.88,
+      "confidence": 0.8,
+      "time": 102.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "reina en vida triunfal. ¡Aleluya!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "rena",
+          "start": 111.88,
+          "end": 112.48
+        },
+        {
+          "word": "en",
+          "start": 112.48,
+          "end": 113.02
+        },
+        {
+          "word": "triunfal,",
+          "start": 113.82,
+          "end": 115.92
+        },
+        {
+          "word": "Aleluya.",
+          "start": 116.68,
+          "end": 121.46
+        }
+      ],
+      "start": 111.88,
+      "end": 121.46,
+      "confidence": 0.787,
+      "time": 111.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Cristo, nuestro Salvador, ¡aleluya!,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 121.46,
+          "end": 123.14
+        },
+        {
+          "word": "nuestro",
+          "start": 123.14,
+          "end": 124.3
+        },
+        {
+          "word": "salvador,",
+          "start": 124.3,
+          "end": 126.54
+        },
+        {
+          "word": "Aleluya",
+          "start": 127.12,
+          "end": 130.92
+        }
+      ],
+      "start": 121.46,
+      "end": 130.92,
+      "confidence": 1.0,
+      "time": 121.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "de la muerte vencedor, ¡aleluya!,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "De",
+          "start": 130.92,
+          "end": 131.98
+        },
+        {
+          "word": "la",
+          "start": 131.98,
+          "end": 132.44
+        },
+        {
+          "word": "muerte",
+          "start": 132.44,
+          "end": 133.54
+        },
+        {
+          "word": "vencedor,",
+          "start": 133.54,
+          "end": 135.72
+        },
+        {
+          "word": "Aleluya",
+          "start": 136.48,
+          "end": 139.46
+        }
+      ],
+      "start": 130.92,
+      "end": 139.46,
+      "confidence": 1.0,
+      "time": 130.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "todos te hemos de cantar, ¡aleluya!,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Todos",
+          "start": 140.34,
+          "end": 141.64
+        },
+        {
+          "word": "debemos",
+          "start": 141.64,
+          "end": 142.8
+        },
+        {
+          "word": "de",
+          "start": 142.8,
+          "end": 143.62
+        },
+        {
+          "word": "cantar",
+          "start": 143.62,
+          "end": 145.04
+        },
+        {
+          "word": "Aleluya",
+          "start": 145.04,
+          "end": 149.32
+        }
+      ],
+      "start": 140.34,
+      "end": 149.32,
+      "confidence": 0.8,
+      "time": 140.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "alabanzas sin cesar. ¡Aleluya!",
+      "verse": 4,
+      "words": [
+        {
+          "word": "¡A",
+          "start": 149.32,
+          "end": 150.32
+        },
+        {
+          "word": "sin",
+          "start": 152.2,
+          "end": 152.78
+        },
+        {
+          "word": "cesar!",
+          "start": 152.78,
+          "end": 154.56
+        },
+        {
+          "word": "¡Aleluia!",
+          "start": 157.48,
+          "end": 158.88
+        }
+      ],
+      "start": 149.32,
+      "end": 158.88,
+      "confidence": 0.964,
+      "time": 149.32
+    }
+  ]
+}

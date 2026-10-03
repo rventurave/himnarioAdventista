@@ -1,0 +1,416 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.886,
+  "language": "es",
+  "model": "medium",
+  "hymn": 146,
+  "source": "146 - Ni en la tierra.mp3",
+  "duration": 92.79,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ni en la tierra ni en el cielo",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 10.4,
+          "end": 11.8
+        },
+        {
+          "word": "la",
+          "start": 11.8,
+          "end": 13.2
+        },
+        {
+          "word": "tierra",
+          "start": 13.2,
+          "end": 16.36
+        },
+        {
+          "word": "en",
+          "start": 17.06,
+          "end": 17.76
+        },
+        {
+          "word": "el",
+          "start": 17.76,
+          "end": 18.14
+        },
+        {
+          "word": "cielo",
+          "start": 18.14,
+          "end": 19.26
+        }
+      ],
+      "start": 10.4,
+      "end": 19.26,
+      "confidence": 0.75,
+      "time": 10.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nombre hay como el de Jesús;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "No",
+          "start": 19.26,
+          "end": 20.24
+        },
+        {
+          "word": "hay",
+          "start": 20.24,
+          "end": 20.9
+        },
+        {
+          "word": "como",
+          "start": 20.9,
+          "end": 22.08
+        },
+        {
+          "word": "el",
+          "start": 22.08,
+          "end": 22.94
+        },
+        {
+          "word": "de",
+          "start": 22.94,
+          "end": 23.36
+        },
+        {
+          "word": "Jesús",
+          "start": 23.36,
+          "end": 25.12
+        }
+      ],
+      "start": 19.26,
+      "end": 25.12,
+      "confidence": 0.99,
+      "time": 19.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "sobre todo siempre reina,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Sobre",
+          "start": 25.12,
+          "end": 27.18
+        },
+        {
+          "word": "todo,",
+          "start": 27.18,
+          "end": 28.44
+        },
+        {
+          "word": "siempre",
+          "start": 29.1,
+          "end": 30.1
+        }
+      ],
+      "start": 25.12,
+      "end": 32.08,
+      "confidence": 0.75,
+      "time": 25.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "él es solo eterna luz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 32.08,
+          "end": 32.6
+        },
+        {
+          "word": "solo",
+          "start": 33.38,
+          "end": 34.3
+        },
+        {
+          "word": "eterna",
+          "start": 34.3,
+          "end": 36.26
+        },
+        {
+          "word": "luz.",
+          "start": 36.26,
+          "end": 37.9
+        }
+      ],
+      "start": 32.08,
+      "end": 37.9,
+      "confidence": 0.8,
+      "time": 32.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Es Jesús mi gran sustento,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Es",
+          "start": 38.6,
+          "end": 39.54
+        },
+        {
+          "word": "Jesús",
+          "start": 39.54,
+          "end": 40.8
+        },
+        {
+          "word": "mi",
+          "start": 40.8,
+          "end": 41.62
+        },
+        {
+          "word": "gran",
+          "start": 41.62,
+          "end": 42.44
+        },
+        {
+          "word": "sustento,",
+          "start": 42.44,
+          "end": 44.42
+        }
+      ],
+      "start": 38.6,
+      "end": 45.06,
+      "confidence": 1.0,
+      "time": 38.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Pan divino y celestial;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Pan",
+          "start": 45.06,
+          "end": 45.82
+        },
+        {
+          "word": "divino",
+          "start": 45.82,
+          "end": 47.36
+        },
+        {
+          "word": "y",
+          "start": 47.36,
+          "end": 48.1
+        },
+        {
+          "word": "celestial,",
+          "start": 48.1,
+          "end": 50.18
+        }
+      ],
+      "start": 45.06,
+      "end": 50.18,
+      "confidence": 1.0,
+      "time": 45.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "de mis dichas y mi gozo,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 50.18,
+          "end": 51.46
+        },
+        {
+          "word": "mis",
+          "start": 51.46,
+          "end": 52.28
+        },
+        {
+          "word": "dichas",
+          "start": 52.28,
+          "end": 54.12
+        },
+        {
+          "word": "y",
+          "start": 54.12,
+          "end": 54.9
+        },
+        {
+          "word": "mi",
+          "start": 54.9,
+          "end": 55.66
+        },
+        {
+          "word": "gozo,",
+          "start": 55.66,
+          "end": 56.74
+        }
+      ],
+      "start": 50.18,
+      "end": 58.32,
+      "confidence": 1.0,
+      "time": 50.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "es el rico manantial.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "rico",
+          "start": 58.32,
+          "end": 59.7
+        },
+        {
+          "word": "tial.",
+          "start": 61.6,
+          "end": 63.68
+        }
+      ],
+      "start": 58.32,
+      "end": 63.68,
+      "confidence": 0.442,
+      "time": 58.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Infinita es su ternura.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Infinita",
+          "start": 65.06,
+          "end": 66.46
+        },
+        {
+          "word": "es",
+          "start": 66.46,
+          "end": 66.84
+        },
+        {
+          "word": "su",
+          "start": 66.84,
+          "end": 67.86
+        },
+        {
+          "word": "ternura,",
+          "start": 67.86,
+          "end": 69.52
+        }
+      ],
+      "start": 65.06,
+      "end": 70.1,
+      "confidence": 1.0,
+      "time": 65.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Quién la puede agotar?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "quien",
+          "start": 70.1,
+          "end": 70.56
+        },
+        {
+          "word": "la",
+          "start": 70.56,
+          "end": 71.36
+        },
+        {
+          "word": "puede",
+          "start": 71.36,
+          "end": 73.0
+        },
+        {
+          "word": "anotar,",
+          "start": 73.0,
+          "end": 75.58
+        }
+      ],
+      "start": 70.1,
+      "end": 75.58,
+      "confidence": 0.975,
+      "time": 70.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Con los ángeles, hoy quiero",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Con",
+          "start": 75.58,
+          "end": 76.84
+        },
+        {
+          "word": "los",
+          "start": 76.84,
+          "end": 77.92
+        },
+        {
+          "word": "ángeles",
+          "start": 77.92,
+          "end": 79.64
+        },
+        {
+          "word": "hoy",
+          "start": 79.64,
+          "end": 80.4
+        },
+        {
+          "word": "quiero",
+          "start": 80.4,
+          "end": 81.62
+        }
+      ],
+      "start": 75.58,
+      "end": 81.62,
+      "confidence": 1.0,
+      "time": 75.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "su grandeza pregonar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "su",
+          "start": 81.62,
+          "end": 82.82
+        },
+        {
+          "word": "grandeza",
+          "start": 82.82,
+          "end": 85.42
+        },
+        {
+          "word": "pregura.",
+          "start": 85.42,
+          "end": 87.68
+        }
+      ],
+      "start": 81.62,
+      "end": 87.68,
+      "confidence": 0.933,
+      "time": 81.62
+    }
+  ]
+}

@@ -1,0 +1,896 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.888,
+  "language": "es",
+  "model": "medium",
+  "hymn": 55,
+  "source": "055 - Grande, Senor, es tu misericordia.mp3",
+  "duration": 218.46,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Grande, Señor, es tu misericordia;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 2.14,
+          "end": 2.84
+        }
+      ],
+      "start": 2.14,
+      "end": 29.98,
+      "confidence": 0.2,
+      "time": 2.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nunca termina, ni cambia jamás.",
+      "verse": 1,
+      "start": 29.98,
+      "end": 30.18,
+      "confidence": 0.0,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tu compasión y bondad no se agotan;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 30.0,
+          "end": 31.84
+        },
+        {
+          "word": "compasión",
+          "start": 31.84,
+          "end": 34.28
+        },
+        {
+          "word": "y",
+          "start": 34.28,
+          "end": 34.7
+        },
+        {
+          "word": "bondad",
+          "start": 34.7,
+          "end": 35.72
+        },
+        {
+          "word": "no",
+          "start": 35.72,
+          "end": 36.32
+        },
+        {
+          "word": "se",
+          "start": 36.32,
+          "end": 36.86
+        },
+        {
+          "word": "agotan,",
+          "start": 36.86,
+          "end": 38.68
+        }
+      ],
+      "start": 30.18,
+      "end": 39.98,
+      "confidence": 1.0,
+      "time": 30.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tal como has sido, por siempre serás.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "como",
+          "start": 39.98,
+          "end": 40.38
+        },
+        {
+          "word": "ha",
+          "start": 40.38,
+          "end": 41.14
+        },
+        {
+          "word": "sido,",
+          "start": 41.14,
+          "end": 41.98
+        },
+        {
+          "word": "por",
+          "start": 42.66,
+          "end": 42.68
+        },
+        {
+          "word": "siempre",
+          "start": 42.68,
+          "end": 43.92
+        },
+        {
+          "word": "serás.",
+          "start": 43.92,
+          "end": 46.04
+        }
+      ],
+      "start": 39.98,
+      "end": 46.04,
+      "confidence": 0.849,
+      "time": 39.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Tú eres fiel, Señor, eternamente fiel;",
+      "words": [
+        {
+          "word": "Tú",
+          "start": 46.04,
+          "end": 47.18
+        },
+        {
+          "word": "eres",
+          "start": 47.18,
+          "end": 48.66
+        },
+        {
+          "word": "el",
+          "start": 48.66,
+          "end": 48.98
+        },
+        {
+          "word": "Señor,",
+          "start": 48.98,
+          "end": 50.26
+        },
+        {
+          "word": "eternamente",
+          "start": 51.04,
+          "end": 52.8
+        },
+        {
+          "word": "fiel,",
+          "start": 52.8,
+          "end": 54.08
+        }
+      ],
+      "start": 46.04,
+      "end": 54.86,
+      "confidence": 0.967,
+      "time": 46.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "cada mañana renuevas tu amor.",
+      "words": [
+        {
+          "word": "cada",
+          "start": 54.86,
+          "end": 55.36
+        },
+        {
+          "word": "mañana",
+          "start": 55.36,
+          "end": 57.02
+        },
+        {
+          "word": "renuevas",
+          "start": 57.02,
+          "end": 59.06
+        },
+        {
+          "word": "tu",
+          "start": 59.06,
+          "end": 59.54
+        },
+        {
+          "word": "amor.",
+          "start": 59.54,
+          "end": 61.08
+        }
+      ],
+      "start": 54.86,
+      "end": 61.08,
+      "confidence": 1.0,
+      "time": 54.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Nada me falta, pues todo provees,",
+      "words": [
+        {
+          "word": "Nada",
+          "start": 61.08,
+          "end": 62.86
+        },
+        {
+          "word": "me",
+          "start": 62.86,
+          "end": 63.6
+        },
+        {
+          "word": "falva,",
+          "start": 63.6,
+          "end": 64.76
+        },
+        {
+          "word": "pues",
+          "start": 64.76,
+          "end": 65.46
+        },
+        {
+          "word": "todo",
+          "start": 65.46,
+          "end": 66.6
+        },
+        {
+          "word": "progreso,",
+          "start": 66.6,
+          "end": 68.98
+        }
+      ],
+      "start": 61.08,
+      "end": 69.76,
+      "confidence": 0.947,
+      "time": 61.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡grande, Señor, es tu fidelidad!",
+      "words": [
+        {
+          "word": "grande",
+          "start": 69.76,
+          "end": 70.38
+        },
+        {
+          "word": "Señor",
+          "start": 70.38,
+          "end": 72.16
+        },
+        {
+          "word": "es",
+          "start": 72.16,
+          "end": 72.7
+        },
+        {
+          "word": "tu",
+          "start": 72.7,
+          "end": 73.16
+        },
+        {
+          "word": "fidelidad.",
+          "start": 73.16,
+          "end": 76.64
+        }
+      ],
+      "start": 69.76,
+      "end": 76.64,
+      "confidence": 1.0,
+      "time": 69.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "El firmamento, el sol y la luna,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "El",
+          "start": 76.64,
+          "end": 78.34
+        },
+        {
+          "word": "firmamento,",
+          "start": 78.34,
+          "end": 80.56
+        },
+        {
+          "word": "el",
+          "start": 81.04,
+          "end": 81.44
+        },
+        {
+          "word": "sol",
+          "start": 81.44,
+          "end": 82.04
+        },
+        {
+          "word": "y",
+          "start": 82.04,
+          "end": 82.82
+        },
+        {
+          "word": "la",
+          "start": 82.82,
+          "end": 83.28
+        },
+        {
+          "word": "luna,",
+          "start": 83.28,
+          "end": 84.7
+        }
+      ],
+      "start": 76.64,
+      "end": 85.36,
+      "confidence": 1.0,
+      "time": 76.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "las estaciones con su esplendor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "las",
+          "start": 85.36,
+          "end": 85.86
+        },
+        {
+          "word": "estaciones",
+          "start": 85.86,
+          "end": 87.82
+        },
+        {
+          "word": "con",
+          "start": 87.82,
+          "end": 88.56
+        },
+        {
+          "word": "su",
+          "start": 88.56,
+          "end": 89.46
+        },
+        {
+          "word": "esplendor,",
+          "start": 89.46,
+          "end": 92.14
+        }
+      ],
+      "start": 85.36,
+      "end": 92.14,
+      "confidence": 1.0,
+      "time": 85.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "todos demuestran tu misericordia,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Todos",
+          "start": 92.14,
+          "end": 93.54
+        },
+        {
+          "word": "demuestran",
+          "start": 93.54,
+          "end": 95.44
+        },
+        {
+          "word": "tu",
+          "start": 95.44,
+          "end": 96.14
+        },
+        {
+          "word": "misericordia,",
+          "start": 96.14,
+          "end": 99.44
+        }
+      ],
+      "start": 92.14,
+      "end": 100.04,
+      "confidence": 1.0,
+      "time": 92.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y testifican de tu gran amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 100.04,
+          "end": 100.5
+        },
+        {
+          "word": "testifican",
+          "start": 100.5,
+          "end": 102.98
+        },
+        {
+          "word": "de",
+          "start": 102.98,
+          "end": 103.7
+        },
+        {
+          "word": "tu",
+          "start": 103.7,
+          "end": 104.36
+        },
+        {
+          "word": "gran",
+          "start": 104.36,
+          "end": 105.24
+        },
+        {
+          "word": "amor.",
+          "start": 105.24,
+          "end": 107.0
+        }
+      ],
+      "start": 100.04,
+      "end": 107.0,
+      "confidence": 1.0,
+      "time": 100.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Tú eres fiel, Señor, eternamente fiel;",
+      "words": [
+        {
+          "word": "Tú",
+          "start": 107.0,
+          "end": 108.18
+        },
+        {
+          "word": "eres",
+          "start": 108.18,
+          "end": 109.58
+        },
+        {
+          "word": "fiel",
+          "start": 109.58,
+          "end": 109.86
+        },
+        {
+          "word": "Señor,",
+          "start": 109.86,
+          "end": 111.12
+        },
+        {
+          "word": "eternamente",
+          "start": 112.04,
+          "end": 113.8
+        },
+        {
+          "word": "fiel,",
+          "start": 113.8,
+          "end": 114.88
+        }
+      ],
+      "start": 107.0,
+      "end": 115.54,
+      "confidence": 1.0,
+      "time": 107.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "cada mañana renuevas tu amor.",
+      "words": [
+        {
+          "word": "cada",
+          "start": 115.54,
+          "end": 116.3
+        },
+        {
+          "word": "mañana",
+          "start": 116.3,
+          "end": 117.9
+        },
+        {
+          "word": "renuevas",
+          "start": 117.9,
+          "end": 120.06
+        },
+        {
+          "word": "tu",
+          "start": 120.06,
+          "end": 120.54
+        },
+        {
+          "word": "amor.",
+          "start": 120.54,
+          "end": 122.16
+        }
+      ],
+      "start": 115.54,
+      "end": 122.16,
+      "confidence": 1.0,
+      "time": 115.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Nada me falta, pues todo provees,",
+      "words": [
+        {
+          "word": "Nada",
+          "start": 122.16,
+          "end": 123.52
+        },
+        {
+          "word": "me",
+          "start": 123.52,
+          "end": 124.54
+        },
+        {
+          "word": "falta,",
+          "start": 124.54,
+          "end": 125.64
+        },
+        {
+          "word": "pues",
+          "start": 125.64,
+          "end": 126.46
+        },
+        {
+          "word": "todo",
+          "start": 126.46,
+          "end": 127.6
+        },
+        {
+          "word": "progreso,",
+          "start": 127.6,
+          "end": 129.94
+        }
+      ],
+      "start": 122.16,
+      "end": 130.84,
+      "confidence": 0.967,
+      "time": 122.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡grande, Señor, es tu fidelidad!",
+      "words": [
+        {
+          "word": "Grande",
+          "start": 130.84,
+          "end": 131.46
+        },
+        {
+          "word": "Señor,",
+          "start": 131.46,
+          "end": 133.24
+        }
+      ],
+      "start": 130.84,
+      "end": 137.68,
+      "confidence": 0.4,
+      "time": 130.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Tú me perdonas, me das paz y gozo;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 137.68,
+          "end": 139.28
+        },
+        {
+          "word": "me",
+          "start": 139.28,
+          "end": 140.06
+        },
+        {
+          "word": "perdonas,",
+          "start": 140.06,
+          "end": 141.76
+        },
+        {
+          "word": "me",
+          "start": 142.22,
+          "end": 142.56
+        },
+        {
+          "word": "das",
+          "start": 142.56,
+          "end": 143.14
+        },
+        {
+          "word": "paz",
+          "start": 143.14,
+          "end": 143.94
+        },
+        {
+          "word": "y",
+          "start": 143.94,
+          "end": 144.44
+        },
+        {
+          "word": "gozo,",
+          "start": 144.44,
+          "end": 145.98
+        }
+      ],
+      "start": 137.68,
+      "end": 146.32,
+      "confidence": 1.0,
+      "time": 137.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "con tu presencia me guías aquí.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 146.32,
+          "end": 146.84
+        },
+        {
+          "word": "tu",
+          "start": 146.84,
+          "end": 147.42
+        },
+        {
+          "word": "presencia",
+          "start": 147.42,
+          "end": 149.16
+        },
+        {
+          "word": "me",
+          "start": 149.16,
+          "end": 149.9
+        },
+        {
+          "word": "guías",
+          "start": 149.9,
+          "end": 151.22
+        },
+        {
+          "word": "aquí.",
+          "start": 151.22,
+          "end": 152.92
+        }
+      ],
+      "start": 146.32,
+      "end": 152.92,
+      "confidence": 1.0,
+      "time": 146.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Fuerza, esperanza y más bendiciones",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Fuerza,",
+          "start": 152.92,
+          "end": 154.56
+        },
+        {
+          "word": "esperanza",
+          "start": 154.7,
+          "end": 156.5
+        },
+        {
+          "word": "y",
+          "start": 156.5,
+          "end": 157.16
+        },
+        {
+          "word": "más",
+          "start": 157.16,
+          "end": 157.88
+        },
+        {
+          "word": "bendiciones,",
+          "start": 157.88,
+          "end": 160.64
+        }
+      ],
+      "start": 152.92,
+      "end": 160.64,
+      "confidence": 1.0,
+      "time": 152.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "siempre derramas, Señor, sobre mí.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "siempre",
+          "start": 161.28,
+          "end": 162.32
+        },
+        {
+          "word": "derrama",
+          "start": 162.32,
+          "end": 164.12
+        },
+        {
+          "word": "Señor",
+          "start": 164.12,
+          "end": 165.36
+        },
+        {
+          "word": "sobre",
+          "start": 165.36,
+          "end": 166.58
+        },
+        {
+          "word": "mí.",
+          "start": 166.58,
+          "end": 168.22
+        }
+      ],
+      "start": 161.28,
+      "end": 168.22,
+      "confidence": 0.988,
+      "time": 161.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Tú eres fiel, Señor, eternamente fiel;",
+      "words": [
+        {
+          "word": "Tú",
+          "start": 168.82,
+          "end": 169.54
+        },
+        {
+          "word": "eres",
+          "start": 169.54,
+          "end": 170.94
+        },
+        {
+          "word": "el",
+          "start": 170.94,
+          "end": 171.46
+        },
+        {
+          "word": "Señor",
+          "start": 171.46,
+          "end": 172.46
+        },
+        {
+          "word": "eternamente",
+          "start": 172.46,
+          "end": 175.36
+        }
+      ],
+      "start": 168.82,
+      "end": 176.22,
+      "confidence": 0.8,
+      "time": 168.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "cada mañana renuevas tu amor.",
+      "words": [
+        {
+          "word": "Cada",
+          "start": 176.22,
+          "end": 177.7
+        },
+        {
+          "word": "mañana",
+          "start": 177.7,
+          "end": 179.3
+        },
+        {
+          "word": "renuevas",
+          "start": 179.3,
+          "end": 181.54
+        },
+        {
+          "word": "tu",
+          "start": 181.54,
+          "end": 182.0
+        },
+        {
+          "word": "amor,",
+          "start": 182.0,
+          "end": 183.98
+        }
+      ],
+      "start": 176.22,
+      "end": 183.98,
+      "confidence": 1.0,
+      "time": 176.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Nada me falta, pues todo provees,",
+      "words": [
+        {
+          "word": "Nada",
+          "start": 184.92,
+          "end": 185.28
+        },
+        {
+          "word": "me",
+          "start": 185.28,
+          "end": 186.4
+        },
+        {
+          "word": "falta",
+          "start": 186.4,
+          "end": 187.46
+        },
+        {
+          "word": "pues",
+          "start": 187.46,
+          "end": 188.28
+        },
+        {
+          "word": "todo",
+          "start": 188.28,
+          "end": 189.5
+        },
+        {
+          "word": "prometes,",
+          "start": 189.5,
+          "end": 191.96
+        }
+      ],
+      "start": 184.92,
+      "end": 191.96,
+      "confidence": 0.98,
+      "time": 184.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡grande, Señor, es tu fidelidad!",
+      "words": [
+        {
+          "word": "Grande",
+          "start": 192.7,
+          "end": 193.28
+        },
+        {
+          "word": "Señor",
+          "start": 193.28,
+          "end": 195.14
+        },
+        {
+          "word": "es",
+          "start": 195.14,
+          "end": 195.56
+        },
+        {
+          "word": "tu",
+          "start": 195.56,
+          "end": 196.18
+        },
+        {
+          "word": "fideidad.",
+          "start": 196.18,
+          "end": 199.0
+        }
+      ],
+      "start": 192.7,
+      "end": 199.0,
+      "confidence": 0.993,
+      "time": 192.7
+    }
+  ]
+}

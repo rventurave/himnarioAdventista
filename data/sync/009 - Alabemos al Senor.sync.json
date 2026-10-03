@@ -1,0 +1,191 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.848,
+  "language": "es",
+  "model": "medium",
+  "hymn": 9,
+  "source": "009 - Alabemos al Senor.mp3",
+  "duration": 58.3,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Alabemos al Señor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "vemos",
+          "start": 12.9,
+          "end": 14.06
+        },
+        {
+          "word": "al",
+          "start": 14.06,
+          "end": 14.82
+        },
+        {
+          "word": "Señor,",
+          "start": 14.82,
+          "end": 16.42
+        }
+      ],
+      "start": 12.9,
+      "end": 17.48,
+      "confidence": 0.923,
+      "time": 12.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "demos gloria al Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "demos",
+          "start": 17.48,
+          "end": 18.18
+        },
+        {
+          "word": "gloria",
+          "start": 18.18,
+          "end": 19.5
+        },
+        {
+          "word": "al",
+          "start": 19.5,
+          "end": 20.28
+        },
+        {
+          "word": "Señor.",
+          "start": 20.28,
+          "end": 21.88
+        }
+      ],
+      "start": 17.48,
+      "end": 21.88,
+      "confidence": 1.0,
+      "time": 17.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Aleluya, amén, aleluya, amén.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Aleluya,",
+          "start": 24.78,
+          "end": 26.18
+        },
+        {
+          "word": "amén,",
+          "start": 26.18,
+          "end": 27.58
+        },
+        {
+          "word": "aleluya,",
+          "start": 27.58,
+          "end": 31.18
+        },
+        {
+          "word": "amén.",
+          "start": 31.18,
+          "end": 33.22
+        }
+      ],
+      "start": 24.78,
+      "end": 33.22,
+      "confidence": 1.0,
+      "time": 24.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Prediquemos de su amor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Dediquemos",
+          "start": 34.66,
+          "end": 36.06
+        },
+        {
+          "word": "de",
+          "start": 36.06,
+          "end": 36.7
+        },
+        {
+          "word": "su",
+          "start": 36.7,
+          "end": 37.12
+        },
+        {
+          "word": "amor,",
+          "start": 37.12,
+          "end": 38.28
+        }
+      ],
+      "start": 34.66,
+      "end": 39.64,
+      "confidence": 0.979,
+      "time": 34.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "anunciemos su perdón.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "anuncemos",
+          "start": 39.64,
+          "end": 41.28
+        },
+        {
+          "word": "su",
+          "start": 41.28,
+          "end": 42.1
+        }
+      ],
+      "start": 39.64,
+      "end": 43.74,
+      "confidence": 0.656,
+      "time": 39.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Aleluya, amén,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "amén!",
+          "start": 47.0,
+          "end": 49.06
+        }
+      ],
+      "start": 47.0,
+      "end": 49.06,
+      "confidence": 0.5,
+      "time": 47.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "aleluya, amén.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "amén!",
+          "start": 52.8,
+          "end": 55.46
+        }
+      ],
+      "start": 52.8,
+      "end": 55.46,
+      "confidence": 0.5,
+      "time": 52.8
+    }
+  ]
+}

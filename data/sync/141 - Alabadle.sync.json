@@ -1,0 +1,894 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.826,
+  "language": "es",
+  "model": "medium",
+  "hymn": 141,
+  "source": "141 - Alabadle.mp3",
+  "duration": 209.63,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Alabadle, fiel salvador compasivo!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¡A",
+          "start": 17.98,
+          "end": 19.38
+        },
+        {
+          "word": "el",
+          "start": 22.94,
+          "end": 23.2
+        },
+        {
+          "word": "salvador",
+          "start": 23.2,
+          "end": 23.98
+        },
+        {
+          "word": "compasivo!",
+          "start": 23.98,
+          "end": 26.32
+        }
+      ],
+      "start": 17.98,
+      "end": 26.32,
+      "confidence": 0.935,
+      "time": 17.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Canta, oh tierra, canta su magno amor!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Canta",
+          "start": 26.32,
+          "end": 27.84
+        },
+        {
+          "word": "o",
+          "start": 27.84,
+          "end": 28.4
+        },
+        {
+          "word": "quiera,",
+          "start": 28.4,
+          "end": 30.12
+        },
+        {
+          "word": "canta",
+          "start": 30.24,
+          "end": 30.78
+        },
+        {
+          "word": "su",
+          "start": 30.78,
+          "end": 31.22
+        },
+        {
+          "word": "magro",
+          "start": 31.22,
+          "end": 32.08
+        },
+        {
+          "word": "amor,",
+          "start": 32.08,
+          "end": 33.5
+        }
+      ],
+      "start": 26.32,
+      "end": 33.5,
+      "confidence": 0.926,
+      "time": 26.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Saludadle, ángeles santos en gloria,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ángeles",
+          "start": 37.88,
+          "end": 38.62
+        },
+        {
+          "word": "santos",
+          "start": 38.62,
+          "end": 39.4
+        },
+        {
+          "word": "en",
+          "start": 39.4,
+          "end": 39.9
+        },
+        {
+          "word": "gloria,",
+          "start": 39.9,
+          "end": 41.32
+        }
+      ],
+      "start": 37.88,
+      "end": 41.32,
+      "confidence": 0.8,
+      "time": 37.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tributad al nombre de Cristo honor!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tributado",
+          "start": 43.56,
+          "end": 44.96
+        },
+        {
+          "word": "al",
+          "start": 44.96,
+          "end": 45.2
+        },
+        {
+          "word": "nombre",
+          "start": 45.2,
+          "end": 45.7
+        },
+        {
+          "word": "de",
+          "start": 45.7,
+          "end": 46.24
+        },
+        {
+          "word": "Cristo",
+          "start": 46.24,
+          "end": 47.06
+        }
+      ],
+      "start": 43.56,
+      "end": 48.66,
+      "confidence": 0.823,
+      "time": 43.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "En sus brazos él llevará a sus hijos;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 48.66,
+          "end": 50.1
+        },
+        {
+          "word": "sus",
+          "start": 50.1,
+          "end": 51.04
+        },
+        {
+          "word": "brazos",
+          "start": 51.04,
+          "end": 52.66
+        },
+        {
+          "word": "él",
+          "start": 52.66,
+          "end": 53.3
+        },
+        {
+          "word": "llevará",
+          "start": 53.3,
+          "end": 54.46
+        },
+        {
+          "word": "a",
+          "start": 54.46,
+          "end": 54.96
+        },
+        {
+          "word": "sus",
+          "start": 54.96,
+          "end": 55.06
+        },
+        {
+          "word": "hijos,",
+          "start": 55.06,
+          "end": 56.46
+        }
+      ],
+      "start": 48.66,
+      "end": 60.58,
+      "confidence": 1.0,
+      "time": 48.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "guardarálos siempre cual fiel pastor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "siempre",
+          "start": 60.58,
+          "end": 61.22
+        },
+        {
+          "word": "cualquier",
+          "start": 61.22,
+          "end": 62.02
+        },
+        {
+          "word": "pastor.",
+          "start": 62.02,
+          "end": 64.14
+        }
+      ],
+      "start": 60.58,
+      "end": 64.14,
+      "confidence": 0.588,
+      "time": 60.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Entonad canción a su excelsa grandeza;",
+      "words": [
+        {
+          "word": "Tento",
+          "start": 64.14,
+          "end": 66.52
+        },
+        {
+          "word": "cancion",
+          "start": 67.58,
+          "end": 68.78
+        },
+        {
+          "word": "a",
+          "start": 68.78,
+          "end": 68.98
+        },
+        {
+          "word": "su",
+          "start": 68.98,
+          "end": 69.22
+        },
+        {
+          "word": "excelsa",
+          "start": 69.22,
+          "end": 69.9
+        },
+        {
+          "word": "grandeza,",
+          "start": 69.9,
+          "end": 71.88
+        }
+      ],
+      "start": 64.14,
+      "end": 72.62,
+      "confidence": 0.967,
+      "time": 64.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "ensalzadle en himnos de santo amor!",
+      "words": [
+        {
+          "word": "en",
+          "start": 72.62,
+          "end": 72.88
+        },
+        {
+          "word": "en",
+          "start": 75.48,
+          "end": 75.6
+        },
+        {
+          "word": "himnos",
+          "start": 75.6,
+          "end": 76.24
+        },
+        {
+          "word": "de",
+          "start": 76.24,
+          "end": 77.0
+        },
+        {
+          "word": "santo",
+          "start": 77.0,
+          "end": 77.68
+        },
+        {
+          "word": "amor.",
+          "start": 77.68,
+          "end": 79.74
+        }
+      ],
+      "start": 72.62,
+      "end": 79.74,
+      "confidence": 0.99,
+      "time": 72.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Alabadle, fiel Salvador compasivo!,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 79.74,
+          "end": 81.54
+        },
+        {
+          "word": "fiel",
+          "start": 84.48,
+          "end": 84.68
+        },
+        {
+          "word": "salvador",
+          "start": 84.68,
+          "end": 85.6
+        },
+        {
+          "word": "compasivo,",
+          "start": 85.6,
+          "end": 88.0
+        }
+      ],
+      "start": 79.74,
+      "end": 88.0,
+      "confidence": 0.985,
+      "time": 79.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "quien por nuestras faltas su vida dio.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "vuestra,",
+          "start": 89.88,
+          "end": 91.78
+        },
+        {
+          "word": "asfalta",
+          "start": 91.78,
+          "end": 92.48
+        },
+        {
+          "word": "su",
+          "start": 92.48,
+          "end": 92.84
+        },
+        {
+          "word": "vida",
+          "start": 92.84,
+          "end": 93.62
+        },
+        {
+          "word": "dio,",
+          "start": 93.62,
+          "end": 95.1
+        }
+      ],
+      "start": 89.88,
+      "end": 95.1,
+      "confidence": 0.677,
+      "time": 89.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Roca eterna, nuestra inmortal Esperanza,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "roca",
+          "start": 96.34,
+          "end": 97.4
+        },
+        {
+          "word": "eterna,",
+          "start": 97.4,
+          "end": 99.24
+        },
+        {
+          "word": "nuestra",
+          "start": 99.66,
+          "end": 99.9
+        },
+        {
+          "word": "inmortal",
+          "start": 99.9,
+          "end": 100.76
+        },
+        {
+          "word": "esperanza,",
+          "start": 100.76,
+          "end": 102.72
+        }
+      ],
+      "start": 96.34,
+      "end": 102.72,
+      "confidence": 1.0,
+      "time": 96.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Rey del cielo que en la cruz murió!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Rey",
+          "start": 102.72,
+          "end": 104.02
+        },
+        {
+          "word": "del",
+          "start": 104.02,
+          "end": 105.04
+        },
+        {
+          "word": "cielo,",
+          "start": 105.04,
+          "end": 106.5
+        },
+        {
+          "word": "que",
+          "start": 107.08,
+          "end": 107.34
+        },
+        {
+          "word": "en",
+          "start": 107.34,
+          "end": 107.56
+        },
+        {
+          "word": "la",
+          "start": 107.56,
+          "end": 107.9
+        },
+        {
+          "word": "cruz",
+          "start": 107.9,
+          "end": 108.5
+        },
+        {
+          "word": "murió.",
+          "start": 108.5,
+          "end": 110.52
+        }
+      ],
+      "start": 102.72,
+      "end": 110.52,
+      "confidence": 1.0,
+      "time": 102.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Dadle gloria; nuestros pesares lleva!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¡Dale",
+          "start": 111.3,
+          "end": 112.34
+        },
+        {
+          "word": "gloria,",
+          "start": 112.34,
+          "end": 114.16
+        },
+        {
+          "word": "nuestros",
+          "start": 114.64,
+          "end": 115.02
+        },
+        {
+          "word": "pesares,",
+          "start": 115.02,
+          "end": 116.32
+        },
+        {
+          "word": "lleva",
+          "start": 116.48,
+          "end": 117.92
+        }
+      ],
+      "start": 111.3,
+      "end": 117.92,
+      "confidence": 0.987,
+      "time": 111.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Alabad tan ancho y profundo amor!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 117.92,
+          "end": 119.72
+        },
+        {
+          "word": "ancho",
+          "start": 122.58,
+          "end": 122.9
+        },
+        {
+          "word": "y",
+          "start": 122.9,
+          "end": 122.96
+        },
+        {
+          "word": "profundo",
+          "start": 122.96,
+          "end": 124.02
+        },
+        {
+          "word": "amor!",
+          "start": 124.02,
+          "end": 125.78
+        }
+      ],
+      "start": 117.92,
+      "end": 125.78,
+      "confidence": 0.823,
+      "time": 117.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Entonad canción a su excelsa grandeza;",
+      "words": [
+        {
+          "word": "en",
+          "start": 125.78,
+          "end": 127.46
+        },
+        {
+          "word": "canciones",
+          "start": 129.24,
+          "end": 130.62
+        },
+        {
+          "word": "exelso",
+          "start": 131.02,
+          "end": 131.56
+        },
+        {
+          "word": "grandeza,",
+          "start": 131.56,
+          "end": 133.56
+        }
+      ],
+      "start": 125.78,
+      "end": 133.56,
+      "confidence": 0.624,
+      "time": 125.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "ensalzadle en himnos de santo amor!",
+      "words": [
+        {
+          "word": "insalzarte",
+          "start": 134.26,
+          "end": 136.94
+        },
+        {
+          "word": "en",
+          "start": 136.94,
+          "end": 137.52
+        },
+        {
+          "word": "dignos",
+          "start": 137.52,
+          "end": 138.06
+        },
+        {
+          "word": "de",
+          "start": 138.06,
+          "end": 138.34
+        },
+        {
+          "word": "santo",
+          "start": 138.34,
+          "end": 139.26
+        },
+        {
+          "word": "amor.",
+          "start": 139.26,
+          "end": 141.34
+        }
+      ],
+      "start": 134.26,
+      "end": 141.34,
+      "confidence": 0.937,
+      "time": 134.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Alabadle, fiel Salvador compasivo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "¡A",
+          "start": 142.94,
+          "end": 144.1
+        },
+        {
+          "word": "salvador",
+          "start": 147.1,
+          "end": 148.1
+        },
+        {
+          "word": "compasivo!",
+          "start": 148.1,
+          "end": 150.3
+        }
+      ],
+      "start": 142.94,
+      "end": 150.3,
+      "confidence": 0.735,
+      "time": 142.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "querubines que obedecéis su Ley!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Que",
+          "start": 150.3,
+          "end": 151.7
+        },
+        {
+          "word": "que",
+          "start": 154.48,
+          "end": 154.7
+        },
+        {
+          "word": "obedeces",
+          "start": 154.7,
+          "end": 155.84
+        },
+        {
+          "word": "su",
+          "start": 155.84,
+          "end": 156.38
+        },
+        {
+          "word": "ley,",
+          "start": 156.38,
+          "end": 157.76
+        }
+      ],
+      "start": 150.3,
+      "end": 158.72,
+      "confidence": 0.981,
+      "time": 150.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cristo en gloria reina por siglos de siglos;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 158.72,
+          "end": 159.32
+        },
+        {
+          "word": "en",
+          "start": 159.32,
+          "end": 160.18
+        },
+        {
+          "word": "gloria,",
+          "start": 160.18,
+          "end": 161.86
+        },
+        {
+          "word": "reina",
+          "start": 162.12,
+          "end": 162.5
+        },
+        {
+          "word": "por",
+          "start": 162.5,
+          "end": 162.92
+        },
+        {
+          "word": "siglos",
+          "start": 162.92,
+          "end": 163.56
+        },
+        {
+          "word": "siglos,",
+          "start": 163.98,
+          "end": 165.62
+        }
+      ],
+      "start": 158.72,
+      "end": 165.62,
+      "confidence": 0.875,
+      "time": 158.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "nuestro Abogado, Profeta y Rey.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Nuestro",
+          "start": 165.62,
+          "end": 167.4
+        },
+        {
+          "word": "abogado,",
+          "start": 167.4,
+          "end": 169.92
+        },
+        {
+          "word": "profeta",
+          "start": 170.02,
+          "end": 171.1
+        },
+        {
+          "word": "y",
+          "start": 171.1,
+          "end": 171.56
+        },
+        {
+          "word": "rey,",
+          "start": 171.56,
+          "end": 173.34
+        }
+      ],
+      "start": 165.62,
+      "end": 173.44,
+      "confidence": 1.0,
+      "time": 165.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cristo viene, grande en poder y gloria.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 173.44,
+          "end": 175.14
+        },
+        {
+          "word": "nene,",
+          "start": 175.14,
+          "end": 176.84
+        },
+        {
+          "word": "gran",
+          "start": 177.18,
+          "end": 177.42
+        },
+        {
+          "word": "Y",
+          "start": 180.7,
+          "end": 182.04
+        }
+      ],
+      "start": 173.44,
+      "end": 183.0,
+      "confidence": 0.534,
+      "time": 173.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Viene, sí, del mundo ya vencedor!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "sí,",
+          "start": 183.0,
+          "end": 183.94
+        },
+        {
+          "word": "el",
+          "start": 184.62,
+          "end": 184.84
+        },
+        {
+          "word": "mundo",
+          "start": 184.84,
+          "end": 185.32
+        },
+        {
+          "word": "vencedor,",
+          "start": 185.96,
+          "end": 188.52
+        }
+      ],
+      "start": 183.0,
+      "end": 188.52,
+      "confidence": 0.647,
+      "time": 183.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Entonad canción a su excelsa grandeza;",
+      "words": [
+        {
+          "word": "en",
+          "start": 189.4,
+          "end": 190.0
+        },
+        {
+          "word": "nación",
+          "start": 192.46,
+          "end": 192.9
+        },
+        {
+          "word": "alendezcan,",
+          "start": 193.72,
+          "end": 195.98
+        }
+      ],
+      "start": 189.4,
+      "end": 195.98,
+      "confidence": 0.434,
+      "time": 189.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "ensalzadle en himnos de santo amor!",
+      "words": [
+        {
+          "word": "en",
+          "start": 196.98,
+          "end": 197.3
+        },
+        {
+          "word": "nos",
+          "start": 200.26,
+          "end": 200.66
+        },
+        {
+          "word": "espanta",
+          "start": 200.66,
+          "end": 202.28
+        },
+        {
+          "word": "amor.",
+          "start": 202.28,
+          "end": 203.26
+        }
+      ],
+      "start": 196.98,
+      "end": 203.26,
+      "confidence": 0.6,
+      "time": 196.98
+    }
+  ]
+}

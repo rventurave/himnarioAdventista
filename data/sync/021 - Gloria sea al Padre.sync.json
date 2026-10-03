@@ -1,0 +1,216 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.887,
+  "language": "es",
+  "model": "medium",
+  "hymn": 21,
+  "source": "021 - Gloria sea al Padre.mp3",
+  "duration": 54.18,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Gloria sea al Padre",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Gloria",
+          "start": 11.18,
+          "end": 12.58
+        },
+        {
+          "word": "sea",
+          "start": 12.58,
+          "end": 13.6
+        },
+        {
+          "word": "al",
+          "start": 13.6,
+          "end": 14.1
+        },
+        {
+          "word": "Padre,",
+          "start": 14.1,
+          "end": 15.78
+        }
+      ],
+      "start": 11.18,
+      "end": 16.04,
+      "confidence": 1.0,
+      "time": 11.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y al Hijo Dios",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 16.04,
+          "end": 16.7
+        },
+        {
+          "word": "al",
+          "start": 16.7,
+          "end": 17.46
+        }
+      ],
+      "start": 16.04,
+      "end": 20.52,
+      "confidence": 0.5,
+      "time": 16.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y al Santo Espíritu.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 20.52,
+          "end": 20.82
+        },
+        {
+          "word": "Santo",
+          "start": 20.82,
+          "end": 21.8
+        },
+        {
+          "word": "Espíritu,",
+          "start": 21.8,
+          "end": 26.58
+        }
+      ],
+      "start": 20.52,
+      "end": 26.58,
+      "confidence": 0.75,
+      "time": 20.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Como eran al principio,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Como",
+          "start": 26.58,
+          "end": 27.82
+        },
+        {
+          "word": "eran",
+          "start": 27.82,
+          "end": 29.16
+        },
+        {
+          "word": "al",
+          "start": 29.16,
+          "end": 29.88
+        },
+        {
+          "word": "principio,",
+          "start": 29.88,
+          "end": 31.76
+        }
+      ],
+      "start": 26.58,
+      "end": 32.7,
+      "confidence": 1.0,
+      "time": 26.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "son hoy y serán por siempre.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "son",
+          "start": 32.7,
+          "end": 33.2
+        },
+        {
+          "word": "hoy",
+          "start": 33.2,
+          "end": 33.82
+        },
+        {
+          "word": "y",
+          "start": 33.82,
+          "end": 34.52
+        },
+        {
+          "word": "será",
+          "start": 34.52,
+          "end": 34.9
+        },
+        {
+          "word": "por",
+          "start": 34.9,
+          "end": 35.7
+        },
+        {
+          "word": "siempre,",
+          "start": 35.7,
+          "end": 37.86
+        }
+      ],
+      "start": 32.7,
+      "end": 39.32,
+      "confidence": 0.99,
+      "time": 32.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Gloria sin fin!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "gloria",
+          "start": 39.32,
+          "end": 40.42
+        },
+        {
+          "word": "sin",
+          "start": 40.42,
+          "end": 41.32
+        },
+        {
+          "word": "fin.",
+          "start": 41.32,
+          "end": 42.26
+        }
+      ],
+      "start": 39.32,
+      "end": 43.82,
+      "confidence": 1.0,
+      "time": 39.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Amén, amén.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Amén.",
+          "start": 43.82,
+          "end": 45.22
+        },
+        {
+          "word": "Amén.",
+          "start": 48.8,
+          "end": 50.2
+        }
+      ],
+      "start": 43.82,
+      "end": 50.2,
+      "confidence": 1.0,
+      "time": 43.82
+    }
+  ]
+}

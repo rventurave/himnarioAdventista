@@ -1,0 +1,152 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.964,
+  "language": "es",
+  "model": "medium",
+  "hymn": 20,
+  "source": "020 - A Dios, el Padre celestial.mp3",
+  "duration": 58.04,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "A Dios, el Padre celestial;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Al",
+          "start": 11.42,
+          "end": 12.82
+        },
+        {
+          "word": "dios",
+          "start": 12.82,
+          "end": 14.22
+        },
+        {
+          "word": "del",
+          "start": 14.22,
+          "end": 14.88
+        },
+        {
+          "word": "Padre",
+          "start": 14.88,
+          "end": 16.54
+        },
+        {
+          "word": "Celestial,",
+          "start": 16.54,
+          "end": 20.28
+        }
+      ],
+      "start": 11.42,
+      "end": 21.5,
+      "confidence": 0.936,
+      "time": 11.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al Hijo, nuestro Redentor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 21.5,
+          "end": 22.3
+        },
+        {
+          "word": "Hijo",
+          "start": 22.3,
+          "end": 23.46
+        },
+        {
+          "word": "Nuestro",
+          "start": 23.46,
+          "end": 25.2
+        },
+        {
+          "word": "Redentor,",
+          "start": 25.2,
+          "end": 28.8
+        }
+      ],
+      "start": 21.5,
+      "end": 28.8,
+      "confidence": 1.0,
+      "time": 21.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al eternal Consolador,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 28.8,
+          "end": 30.82
+        },
+        {
+          "word": "eterno",
+          "start": 30.82,
+          "end": 33.64
+        },
+        {
+          "word": "consolado,",
+          "start": 33.64,
+          "end": 37.8
+        }
+      ],
+      "start": 28.8,
+      "end": 37.8,
+      "confidence": 0.934,
+      "time": 28.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "unidos, todos alabad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "unidos",
+          "start": 39.58,
+          "end": 40.98
+        },
+        {
+          "word": "todos",
+          "start": 40.98,
+          "end": 42.38
+        },
+        {
+          "word": "al",
+          "start": 42.38,
+          "end": 43.9
+        }
+      ],
+      "start": 39.58,
+      "end": 46.78,
+      "confidence": 0.98,
+      "time": 39.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Amén.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Amén.",
+          "start": 53.58,
+          "end": 54.98
+        }
+      ],
+      "start": 53.58,
+      "end": 54.98,
+      "confidence": 1.0,
+      "time": 53.58
+    }
+  ]
+}

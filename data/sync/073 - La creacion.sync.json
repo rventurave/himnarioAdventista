@@ -1,0 +1,945 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.761,
+  "language": "es",
+  "model": "medium",
+  "hymn": 73,
+  "source": "073 - La creacion.mp3",
+  "duration": 220.34,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Cuán bella es, Señor, tu obra toda",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es,",
+          "start": 13.12,
+          "end": 14.76
+        },
+        {
+          "word": "Señor,",
+          "start": 14.76,
+          "end": 15.72
+        },
+        {
+          "word": "tu",
+          "start": 16.34,
+          "end": 16.74
+        },
+        {
+          "word": "obra",
+          "start": 16.74,
+          "end": 17.36
+        },
+        {
+          "word": "toda,",
+          "start": 17.36,
+          "end": 18.7
+        }
+      ],
+      "start": 13.12,
+      "end": 19.14,
+      "confidence": 0.714,
+      "time": 13.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y de cuánta majestad llenaste el universo!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 19.14,
+          "end": 19.38
+        },
+        {
+          "word": "de",
+          "start": 19.38,
+          "end": 19.7
+        },
+        {
+          "word": "cuanta",
+          "start": 19.7,
+          "end": 20.62
+        },
+        {
+          "word": "bajestad",
+          "start": 20.62,
+          "end": 23.2
+        },
+        {
+          "word": "Llenas",
+          "start": 23.2,
+          "end": 24.34
+        },
+        {
+          "word": "del",
+          "start": 24.34,
+          "end": 25.0
+        },
+        {
+          "word": "universo",
+          "start": 25.0,
+          "end": 27.08
+        }
+      ],
+      "start": 19.14,
+      "end": 28.04,
+      "confidence": 0.964,
+      "time": 19.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Estrellas mil, que el cielo azul tachonan,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "estrellas",
+          "start": 28.04,
+          "end": 30.18
+        },
+        {
+          "word": "mil,",
+          "start": 30.18,
+          "end": 31.4
+        },
+        {
+          "word": "El",
+          "start": 31.78,
+          "end": 32.04
+        },
+        {
+          "word": "cielo",
+          "start": 32.04,
+          "end": 32.8
+        },
+        {
+          "word": "azul",
+          "start": 32.8,
+          "end": 33.64
+        },
+        {
+          "word": "tachona,",
+          "start": 33.64,
+          "end": 35.38
+        }
+      ],
+      "start": 28.04,
+      "end": 35.38,
+      "confidence": 0.849,
+      "time": 28.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y el sol, al fulgurar, me cuentan tu bondad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Y",
+          "start": 35.92,
+          "end": 36.16
+        },
+        {
+          "word": "el",
+          "start": 36.16,
+          "end": 36.5
+        },
+        {
+          "word": "sol",
+          "start": 36.5,
+          "end": 37.04
+        },
+        {
+          "word": "al",
+          "start": 37.04,
+          "end": 37.56
+        },
+        {
+          "word": "formular",
+          "start": 37.56,
+          "end": 39.2
+        },
+        {
+          "word": "Me",
+          "start": 39.72,
+          "end": 40.64
+        },
+        {
+          "word": "cuenta",
+          "start": 40.64,
+          "end": 41.34
+        },
+        {
+          "word": "tu",
+          "start": 41.34,
+          "end": 42.08
+        },
+        {
+          "word": "bondad.",
+          "start": 42.08,
+          "end": 43.2
+        }
+      ],
+      "start": 35.92,
+      "end": 43.2,
+      "confidence": 0.968,
+      "time": 35.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "El vasto mar en su esplendor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "El",
+          "start": 44.42,
+          "end": 44.66
+        },
+        {
+          "word": "va",
+          "start": 47.0,
+          "end": 48.26
+        },
+        {
+          "word": "en",
+          "start": 48.26,
+          "end": 48.76
+        },
+        {
+          "word": "su",
+          "start": 48.76,
+          "end": 50.14
+        },
+        {
+          "word": "espector,",
+          "start": 50.14,
+          "end": 51.2
+        }
+      ],
+      "start": 44.42,
+      "end": 51.2,
+      "confidence": 0.794,
+      "time": 44.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "relata en cada ola tu grandeza sin igual,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 53.88,
+          "end": 54.26
+        },
+        {
+          "word": "cada",
+          "start": 54.26,
+          "end": 54.86
+        },
+        {
+          "word": "ola",
+          "start": 54.86,
+          "end": 56.0
+        },
+        {
+          "word": "tu",
+          "start": 56.0,
+          "end": 56.54
+        },
+        {
+          "word": "gran",
+          "start": 56.54,
+          "end": 57.04
+        },
+        {
+          "word": "sin",
+          "start": 58.28,
+          "end": 58.86
+        },
+        {
+          "word": "igual,",
+          "start": 58.86,
+          "end": 60.32
+        }
+      ],
+      "start": 53.88,
+      "end": 60.32,
+      "confidence": 0.868,
+      "time": 53.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y el tibio arroyo al susurrar",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 65.24,
+          "end": 65.78
+        },
+        {
+          "word": "susurro,",
+          "start": 65.78,
+          "end": 68.58
+        }
+      ],
+      "start": 65.24,
+      "end": 68.58,
+      "confidence": 0.313,
+      "time": 65.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en rápidas corrientes canta de tu amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 69.24,
+          "end": 69.66
+        },
+        {
+          "word": "rápidas",
+          "start": 69.66,
+          "end": 71.2
+        },
+        {
+          "word": "corrientes",
+          "start": 71.2,
+          "end": 72.74
+        },
+        {
+          "word": "cantan",
+          "start": 72.74,
+          "end": 73.92
+        },
+        {
+          "word": "de",
+          "start": 73.92,
+          "end": 74.9
+        },
+        {
+          "word": "tu",
+          "start": 74.9,
+          "end": 75.88
+        },
+        {
+          "word": "amor.",
+          "start": 75.88,
+          "end": 77.52
+        }
+      ],
+      "start": 69.24,
+      "end": 77.52,
+      "confidence": 0.991,
+      "time": 69.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Potente veo el rayo refulgente",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Potente",
+          "start": 80.9,
+          "end": 82.3
+        },
+        {
+          "word": "veo",
+          "start": 82.3,
+          "end": 83.7
+        },
+        {
+          "word": "el",
+          "start": 83.7,
+          "end": 84.42
+        },
+        {
+          "word": "rayo",
+          "start": 84.42,
+          "end": 85.24
+        },
+        {
+          "word": "refulgente,",
+          "start": 85.24,
+          "end": 87.58
+        }
+      ],
+      "start": 80.9,
+      "end": 87.96,
+      "confidence": 1.0,
+      "time": 80.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y la lluvia alrededor, que riega mansamente.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 87.96,
+          "end": 88.24
+        },
+        {
+          "word": "la",
+          "start": 88.24,
+          "end": 88.44
+        },
+        {
+          "word": "lluvia",
+          "start": 88.44,
+          "end": 89.4
+        },
+        {
+          "word": "alrededor",
+          "start": 89.4,
+          "end": 90.58
+        },
+        {
+          "word": "llega",
+          "start": 92.32,
+          "end": 93.56
+        },
+        {
+          "word": "mansamente,",
+          "start": 93.56,
+          "end": 95.9
+        }
+      ],
+      "start": 87.96,
+      "end": 95.9,
+      "confidence": 0.823,
+      "time": 87.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "La suave brisa que las ramas mece",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Las",
+          "start": 95.9,
+          "end": 96.96
+        },
+        {
+          "word": "grisa",
+          "start": 98.82,
+          "end": 100.64
+        },
+        {
+          "word": "que",
+          "start": 100.64,
+          "end": 101.42
+        },
+        {
+          "word": "las",
+          "start": 101.42,
+          "end": 102.14
+        },
+        {
+          "word": "ramas",
+          "start": 102.14,
+          "end": 103.08
+        },
+        {
+          "word": "vencen,",
+          "start": 103.08,
+          "end": 104.4
+        }
+      ],
+      "start": 95.9,
+      "end": 104.72,
+      "confidence": 0.789,
+      "time": 95.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y las aves al trinar regalan bello son.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 104.72,
+          "end": 105.02
+        },
+        {
+          "word": "las",
+          "start": 105.02,
+          "end": 105.48
+        },
+        {
+          "word": "aves",
+          "start": 105.48,
+          "end": 106.28
+        },
+        {
+          "word": "al",
+          "start": 106.28,
+          "end": 106.86
+        },
+        {
+          "word": "trimar,",
+          "start": 106.86,
+          "end": 108.78
+        },
+        {
+          "word": "regalarme",
+          "start": 109.38,
+          "end": 110.96
+        }
+      ],
+      "start": 104.72,
+      "end": 112.9,
+      "confidence": 0.719,
+      "time": 104.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Ya tu imagen, Padre y Dios,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 114.48,
+          "end": 115.26
+        },
+        {
+          "word": "Padre",
+          "start": 118.02,
+          "end": 119.82
+        },
+        {
+          "word": "Dios,",
+          "start": 119.82,
+          "end": 121.0
+        }
+      ],
+      "start": 114.48,
+      "end": 121.0,
+      "confidence": 0.467,
+      "time": 114.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "formaste tú mi cuerpo, y cada parte de mi ser.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tu",
+          "start": 122.9,
+          "end": 123.42
+        },
+        {
+          "word": "mi",
+          "start": 123.42,
+          "end": 123.84
+        },
+        {
+          "word": "cuerpo",
+          "start": 123.84,
+          "end": 124.52
+        },
+        {
+          "word": "y",
+          "start": 124.52,
+          "end": 125.24
+        },
+        {
+          "word": "cada",
+          "start": 125.24,
+          "end": 125.88
+        },
+        {
+          "word": "parte",
+          "start": 125.88,
+          "end": 126.82
+        },
+        {
+          "word": "de",
+          "start": 126.82,
+          "end": 127.56
+        },
+        {
+          "word": "mi",
+          "start": 127.56,
+          "end": 128.1
+        },
+        {
+          "word": "ser,",
+          "start": 128.1,
+          "end": 128.9
+        }
+      ],
+      "start": 122.9,
+      "end": 128.9,
+      "confidence": 0.9,
+      "time": 122.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Excelso don, tu hijo soy!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "don,",
+          "start": 132.4,
+          "end": 133.62
+        },
+        {
+          "word": "tu",
+          "start": 133.78,
+          "end": 134.68
+        },
+        {
+          "word": "sol.",
+          "start": 136.28,
+          "end": 137.56
+        }
+      ],
+      "start": 132.4,
+      "end": 137.56,
+      "confidence": 0.56,
+      "time": 132.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Permite que te adore hoy con devoción.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "permítete",
+          "start": 137.56,
+          "end": 139.98
+        },
+        {
+          "word": "que",
+          "start": 139.98,
+          "end": 139.98
+        },
+        {
+          "word": "te",
+          "start": 139.98,
+          "end": 140.7
+        },
+        {
+          "word": "adore",
+          "start": 140.7,
+          "end": 141.4
+        }
+      ],
+      "start": 137.56,
+      "end": 146.76,
+      "confidence": 0.563,
+      "time": 137.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Al contemplar, Señor, tus maravillas,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Al",
+          "start": 148.84,
+          "end": 149.2
+        },
+        {
+          "word": "Señor,",
+          "start": 152.52,
+          "end": 153.54
+        },
+        {
+          "word": "tus",
+          "start": 154.12,
+          "end": 154.22
+        },
+        {
+          "word": "maravillas,",
+          "start": 154.22,
+          "end": 156.62
+        }
+      ],
+      "start": 148.84,
+      "end": 156.62,
+      "confidence": 0.8,
+      "time": 148.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mi corazón te canta, lleno de alegría.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mi",
+          "start": 157.1,
+          "end": 157.32
+        },
+        {
+          "word": "corazón",
+          "start": 157.32,
+          "end": 158.7
+        },
+        {
+          "word": "te",
+          "start": 158.7,
+          "end": 159.48
+        },
+        {
+          "word": "canta",
+          "start": 159.48,
+          "end": 161.4
+        },
+        {
+          "word": "lleno",
+          "start": 161.4,
+          "end": 162.38
+        },
+        {
+          "word": "de",
+          "start": 162.38,
+          "end": 163.08
+        },
+        {
+          "word": "alegría,",
+          "start": 163.08,
+          "end": 164.9
+        }
+      ],
+      "start": 157.1,
+      "end": 164.9,
+      "confidence": 1.0,
+      "time": 157.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pues todo lo que veo testifica",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Pues",
+          "start": 164.9,
+          "end": 165.76
+        },
+        {
+          "word": "todo",
+          "start": 165.76,
+          "end": 167.24
+        },
+        {
+          "word": "olor",
+          "start": 167.48,
+          "end": 169.38
+        },
+        {
+          "word": "que",
+          "start": 169.38,
+          "end": 170.02
+        },
+        {
+          "word": "veo",
+          "start": 170.02,
+          "end": 170.8
+        },
+        {
+          "word": "testifica",
+          "start": 170.8,
+          "end": 173.3
+        }
+      ],
+      "start": 164.9,
+      "end": 173.3,
+      "confidence": 0.967,
+      "time": 164.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de tu magno Y gran poder, en muda adoración.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tu",
+          "start": 173.76,
+          "end": 174.1
+        },
+        {
+          "word": "magro",
+          "start": 174.1,
+          "end": 174.94
+        },
+        {
+          "word": "y",
+          "start": 174.94,
+          "end": 175.16
+        },
+        {
+          "word": "poder,",
+          "start": 175.72,
+          "end": 177.36
+        },
+        {
+          "word": "en",
+          "start": 177.84,
+          "end": 178.38
+        },
+        {
+          "word": "valoración",
+          "start": 179.0,
+          "end": 181.52
+        }
+      ],
+      "start": 173.76,
+      "end": 181.52,
+      "confidence": 0.643,
+      "time": 173.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Pues, ¿cómo yo podré callar?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Pues",
+          "start": 181.52,
+          "end": 182.62
+        },
+        {
+          "word": "callar",
+          "start": 188.12,
+          "end": 189.98
+        }
+      ],
+      "start": 181.52,
+      "end": 189.98,
+      "confidence": 0.4,
+      "time": 181.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Con cánticos te alabe, y para siempre dé loor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Contándonos",
+          "start": 189.98,
+          "end": 192.14
+        },
+        {
+          "word": "ala",
+          "start": 192.74,
+          "end": 193.38
+        },
+        {
+          "word": "siempre",
+          "start": 194.88,
+          "end": 195.82
+        },
+        {
+          "word": "de",
+          "start": 195.82,
+          "end": 196.64
+        },
+        {
+          "word": "lo",
+          "start": 198.9,
+          "end": 200.56
+        }
+      ],
+      "start": 189.98,
+      "end": 200.56,
+      "confidence": 0.536,
+      "time": 189.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "El orbe entero entonará:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "orme",
+          "start": 200.56,
+          "end": 201.12
+        },
+        {
+          "word": "entero",
+          "start": 201.12,
+          "end": 202.98
+        },
+        {
+          "word": "en",
+          "start": 202.98,
+          "end": 203.56
+        }
+      ],
+      "start": 200.56,
+      "end": 206.74,
+      "confidence": 0.698,
+      "time": 200.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "\"¡ Honor y gloria al Rey y eterno Creador!\"",
+      "verse": 3,
+      "words": [
+        {
+          "word": "honor",
+          "start": 207.34,
+          "end": 207.96
+        },
+        {
+          "word": "y",
+          "start": 207.96,
+          "end": 208.76
+        },
+        {
+          "word": "gloria,",
+          "start": 208.76,
+          "end": 209.44
+        },
+        {
+          "word": "rey",
+          "start": 209.94,
+          "end": 210.46
+        },
+        {
+          "word": "eterno",
+          "start": 210.46,
+          "end": 212.62
+        },
+        {
+          "word": "creado.",
+          "start": 212.62,
+          "end": 214.64
+        }
+      ],
+      "start": 207.34,
+      "end": 214.64,
+      "confidence": 0.742,
+      "time": 207.34
+    }
+  ]
+}

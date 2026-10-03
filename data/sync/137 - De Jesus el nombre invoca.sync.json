@@ -1,0 +1,683 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.795,
+  "language": "es",
+  "model": "medium",
+  "hymn": 137,
+  "source": "137 - De Jesus el nombre invoca.mp3",
+  "duration": 169.01,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "De Jesús el nombre invoca,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "De",
+          "start": 23.98,
+          "end": 25.38
+        },
+        {
+          "word": "Jesucristo",
+          "start": 25.38,
+          "end": 26.78
+        },
+        {
+          "word": "Boca",
+          "start": 27.22,
+          "end": 29.9
+        }
+      ],
+      "start": 23.98,
+      "end": 29.9,
+      "confidence": 0.512,
+      "time": 23.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "heredero del dolor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Heredero",
+          "start": 29.9,
+          "end": 32.48
+        },
+        {
+          "word": "del",
+          "start": 32.48,
+          "end": 32.94
+        },
+        {
+          "word": "dolor",
+          "start": 32.94,
+          "end": 35.58
+        }
+      ],
+      "start": 29.9,
+      "end": 35.58,
+      "confidence": 1.0,
+      "time": 29.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "dulce hará tu amarga copa",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Dulce",
+          "start": 35.58,
+          "end": 37.62
+        },
+        {
+          "word": "hará",
+          "start": 37.62,
+          "end": 38.24
+        },
+        {
+          "word": "copa",
+          "start": 39.4,
+          "end": 41.72
+        }
+      ],
+      "start": 35.58,
+      "end": 41.72,
+      "confidence": 0.6,
+      "time": 35.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con el néctar de su amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Con",
+          "start": 41.72,
+          "end": 42.92
+        },
+        {
+          "word": "el",
+          "start": 42.92,
+          "end": 43.44
+        },
+        {
+          "word": "nectar",
+          "start": 43.44,
+          "end": 43.88
+        },
+        {
+          "word": "de",
+          "start": 43.88,
+          "end": 44.44
+        },
+        {
+          "word": "su",
+          "start": 44.44,
+          "end": 44.7
+        },
+        {
+          "word": "amor",
+          "start": 44.7,
+          "end": 46.6
+        }
+      ],
+      "start": 41.72,
+      "end": 46.6,
+      "confidence": 1.0,
+      "time": 41.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Suave luz, manantial",
+      "words": [
+        {
+          "word": "Suave",
+          "start": 46.6,
+          "end": 47.74
+        },
+        {
+          "word": "luz,",
+          "start": 47.74,
+          "end": 49.82
+        },
+        {
+          "word": "valiantia",
+          "start": 50.28,
+          "end": 52.5
+        }
+      ],
+      "start": 46.6,
+      "end": 52.5,
+      "confidence": 0.933,
+      "time": 46.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "de esperanza, fe y amor;",
+      "words": [
+        {
+          "word": "Esperanza,",
+          "start": 52.5,
+          "end": 54.48
+        },
+        {
+          "word": "fe",
+          "start": 54.48,
+          "end": 55.34
+        },
+        {
+          "word": "y",
+          "start": 55.34,
+          "end": 55.92
+        },
+        {
+          "word": "amor",
+          "start": 55.92,
+          "end": 57.7
+        }
+      ],
+      "start": 52.5,
+      "end": 57.7,
+      "confidence": 0.8,
+      "time": 52.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "sumo bien celestial",
+      "words": [
+        {
+          "word": "Su",
+          "start": 57.7,
+          "end": 58.8
+        },
+        {
+          "word": "gobierno",
+          "start": 58.8,
+          "end": 60.84
+        }
+      ],
+      "start": 57.7,
+      "end": 64.78,
+      "confidence": 0.58,
+      "time": 57.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "es Jesús, el Salvador.",
+      "words": [
+        {
+          "word": "es",
+          "start": 65.36,
+          "end": 65.6
+        },
+        {
+          "word": "Jesús",
+          "start": 65.6,
+          "end": 66.52
+        },
+        {
+          "word": "el",
+          "start": 66.52,
+          "end": 67.46
+        },
+        {
+          "word": "Salvador.",
+          "start": 67.46,
+          "end": 69.4
+        }
+      ],
+      "start": 65.36,
+      "end": 69.4,
+      "confidence": 1.0,
+      "time": 65.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "De Jesús el nombre estima,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 72.22,
+          "end": 73.36
+        },
+        {
+          "word": "nombre",
+          "start": 73.66,
+          "end": 74.26
+        },
+        {
+          "word": "estima,",
+          "start": 74.26,
+          "end": 76.54
+        }
+      ],
+      "start": 72.22,
+      "end": 76.54,
+      "confidence": 0.6,
+      "time": 72.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que te sirva de broquel;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 77.4,
+          "end": 77.88
+        },
+        {
+          "word": "te",
+          "start": 77.88,
+          "end": 78.7
+        },
+        {
+          "word": "sirva",
+          "start": 78.7,
+          "end": 79.32
+        },
+        {
+          "word": "de",
+          "start": 79.32,
+          "end": 79.84
+        },
+        {
+          "word": "bloqueo,",
+          "start": 79.84,
+          "end": 82.9
+        }
+      ],
+      "start": 77.4,
+      "end": 82.9,
+      "confidence": 0.966,
+      "time": 77.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "alma débil, combatida,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Alma",
+          "start": 82.9,
+          "end": 84.34
+        },
+        {
+          "word": "débil",
+          "start": 84.34,
+          "end": 85.3
+        },
+        {
+          "word": "combatida,",
+          "start": 85.3,
+          "end": 88.42
+        }
+      ],
+      "start": 82.9,
+      "end": 88.42,
+      "confidence": 1.0,
+      "time": 82.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hallarás asilo en él.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Allá",
+          "start": 89.12,
+          "end": 90.2
+        }
+      ],
+      "start": 89.12,
+      "end": 93.24,
+      "confidence": 0.2,
+      "time": 89.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Suave luz, manantial",
+      "words": [
+        {
+          "word": "Suave",
+          "start": 93.76,
+          "end": 94.56
+        },
+        {
+          "word": "luz",
+          "start": 94.56,
+          "end": 96.64
+        }
+      ],
+      "start": 93.76,
+      "end": 99.3,
+      "confidence": 0.667,
+      "time": 93.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "de esperanza, fe y amor;",
+      "words": [
+        {
+          "word": "de",
+          "start": 99.3,
+          "end": 99.84
+        },
+        {
+          "word": "esperanza,",
+          "start": 99.84,
+          "end": 101.4
+        },
+        {
+          "word": "fe",
+          "start": 101.48,
+          "end": 102.2
+        },
+        {
+          "word": "y",
+          "start": 102.2,
+          "end": 102.74
+        },
+        {
+          "word": "amor.",
+          "start": 102.74,
+          "end": 104.68
+        }
+      ],
+      "start": 99.3,
+      "end": 104.68,
+      "confidence": 1.0,
+      "time": 99.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "sumo bien celestial",
+      "words": [
+        {
+          "word": "Su",
+          "start": 105.16,
+          "end": 105.7
+        },
+        {
+          "word": "celestial",
+          "start": 107.56,
+          "end": 111.2
+        }
+      ],
+      "start": 105.16,
+      "end": 111.2,
+      "confidence": 0.647,
+      "time": 105.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "es Jesús, el Salvador.",
+      "words": [
+        {
+          "word": "es",
+          "start": 111.2,
+          "end": 112.28
+        },
+        {
+          "word": "Jesús",
+          "start": 112.28,
+          "end": 113.32
+        },
+        {
+          "word": "el",
+          "start": 113.32,
+          "end": 114.3
+        },
+        {
+          "word": "Salvador.",
+          "start": 114.3,
+          "end": 116.22
+        }
+      ],
+      "start": 111.2,
+      "end": 116.22,
+      "confidence": 1.0,
+      "time": 111.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "De Jesús el nombre ensalza,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "De",
+          "start": 118.78,
+          "end": 119.4
+        },
+        {
+          "word": "Jesús",
+          "start": 119.4,
+          "end": 120.58
+        },
+        {
+          "word": "el",
+          "start": 120.58,
+          "end": 120.94
+        },
+        {
+          "word": "nombre",
+          "start": 120.94,
+          "end": 121.52
+        },
+        {
+          "word": "sanza,",
+          "start": 121.52,
+          "end": 124.18
+        }
+      ],
+      "start": 118.78,
+      "end": 124.18,
+      "confidence": 0.96,
+      "time": 118.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "cuyo sin igual poder",
+      "verse": 3,
+      "words": [
+        {
+          "word": "cuyo",
+          "start": 124.8,
+          "end": 125.62
+        },
+        {
+          "word": "sin",
+          "start": 125.62,
+          "end": 126.26
+        },
+        {
+          "word": "igual",
+          "start": 126.26,
+          "end": 126.92
+        },
+        {
+          "word": "poder",
+          "start": 126.92,
+          "end": 129.42
+        }
+      ],
+      "start": 124.8,
+      "end": 129.42,
+      "confidence": 1.0,
+      "time": 124.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "del sepulcro nos levanta,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "del",
+          "start": 129.42,
+          "end": 130.82
+        },
+        {
+          "word": "sepultro",
+          "start": 130.82,
+          "end": 132.38
+        },
+        {
+          "word": "nos",
+          "start": 132.38,
+          "end": 132.8
+        },
+        {
+          "word": "levanta",
+          "start": 132.8,
+          "end": 135.2
+        }
+      ],
+      "start": 129.42,
+      "end": 135.2,
+      "confidence": 0.981,
+      "time": 129.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "renovando nuestro ser.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "nuestro",
+          "start": 137.72,
+          "end": 138.46
+        },
+        {
+          "word": "ser",
+          "start": 138.46,
+          "end": 140.32
+        }
+      ],
+      "start": 137.72,
+      "end": 140.32,
+      "confidence": 0.667,
+      "time": 137.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Suave luz, manantial",
+      "words": [
+        {
+          "word": "Suave",
+          "start": 140.32,
+          "end": 141.7
+        },
+        {
+          "word": "luz,",
+          "start": 141.7,
+          "end": 143.7
+        }
+      ],
+      "start": 140.32,
+      "end": 146.9,
+      "confidence": 0.667,
+      "time": 140.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "de esperanza, fe y amor;",
+      "words": [
+        {
+          "word": "de",
+          "start": 146.9,
+          "end": 147.0
+        },
+        {
+          "word": "esperanza",
+          "start": 147.0,
+          "end": 148.56
+        },
+        {
+          "word": "fe",
+          "start": 148.56,
+          "end": 149.28
+        },
+        {
+          "word": "y",
+          "start": 149.28,
+          "end": 150.0
+        },
+        {
+          "word": "amor,",
+          "start": 150.0,
+          "end": 151.9
+        }
+      ],
+      "start": 146.9,
+      "end": 152.58,
+      "confidence": 1.0,
+      "time": 146.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "sumo bien celestial",
+      "words": [
+        {
+          "word": "su",
+          "start": 152.58,
+          "end": 152.9
+        },
+        {
+          "word": "incestia,",
+          "start": 154.98,
+          "end": 158.72
+        }
+      ],
+      "start": 152.58,
+      "end": 159.34,
+      "confidence": 0.588,
+      "time": 152.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "es Jesús, el Salvador.",
+      "words": [
+        {
+          "word": "es",
+          "start": 159.34,
+          "end": 159.68
+        },
+        {
+          "word": "salvador.",
+          "start": 161.44,
+          "end": 164.22
+        }
+      ],
+      "start": 159.34,
+      "end": 164.22,
+      "confidence": 0.5,
+      "time": 159.34
+    }
+  ]
+}

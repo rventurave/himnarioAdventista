@@ -1,0 +1,634 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.834,
+  "language": "es",
+  "model": "medium",
+  "hymn": 63,
+  "source": "063 - Al Rey adorad.mp3",
+  "duration": 133.38,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Al Rey adorad, grandioso Señor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "adorado,",
+          "start": 9.36,
+          "end": 11.08
+        },
+        {
+          "word": "gran",
+          "start": 11.4,
+          "end": 11.8
+        },
+        {
+          "word": "Señor,",
+          "start": 12.78,
+          "end": 14.3
+        }
+      ],
+      "start": 9.36,
+      "end": 14.84,
+      "confidence": 0.576,
+      "time": 9.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y con gratitud cantad de su amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 14.84,
+          "end": 15.26
+        },
+        {
+          "word": "con",
+          "start": 15.26,
+          "end": 15.98
+        },
+        {
+          "word": "gratitud",
+          "start": 15.98,
+          "end": 18.16
+        },
+        {
+          "word": "canta",
+          "start": 18.16,
+          "end": 19.46
+        },
+        {
+          "word": "de",
+          "start": 19.46,
+          "end": 20.02
+        },
+        {
+          "word": "su",
+          "start": 20.02,
+          "end": 20.46
+        },
+        {
+          "word": "amor,",
+          "start": 20.46,
+          "end": 21.7
+        }
+      ],
+      "start": 14.84,
+      "end": 21.7,
+      "confidence": 0.991,
+      "time": 14.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Anciano de días, y gran Defensor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Anciano",
+          "start": 21.7,
+          "end": 23.84
+        },
+        {
+          "word": "de",
+          "start": 23.84,
+          "end": 24.6
+        },
+        {
+          "word": "días",
+          "start": 24.6,
+          "end": 25.54
+        },
+        {
+          "word": "y",
+          "start": 25.54,
+          "end": 26.34
+        },
+        {
+          "word": "gran",
+          "start": 26.34,
+          "end": 27.06
+        },
+        {
+          "word": "defensor,",
+          "start": 27.06,
+          "end": 28.88
+        }
+      ],
+      "start": 21.7,
+      "end": 29.62,
+      "confidence": 1.0,
+      "time": 21.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de gloria vestido, te damos loor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 29.62,
+          "end": 29.88
+        },
+        {
+          "word": "gloria",
+          "start": 29.88,
+          "end": 30.92
+        },
+        {
+          "word": "vestido,",
+          "start": 30.92,
+          "end": 32.6
+        },
+        {
+          "word": "dejámoslo.",
+          "start": 33.2,
+          "end": 35.78
+        }
+      ],
+      "start": 29.62,
+      "end": 35.78,
+      "confidence": 0.638,
+      "time": 29.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Load su amor, su gracia cantad;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Proad",
+          "start": 35.78,
+          "end": 37.84
+        },
+        {
+          "word": "su",
+          "start": 37.84,
+          "end": 38.7
+        },
+        {
+          "word": "amor,",
+          "start": 38.7,
+          "end": 40.14
+        },
+        {
+          "word": "su",
+          "start": 40.54,
+          "end": 40.9
+        },
+        {
+          "word": "gracia",
+          "start": 40.9,
+          "end": 42.08
+        },
+        {
+          "word": "cantad,",
+          "start": 42.08,
+          "end": 43.88
+        }
+      ],
+      "start": 35.78,
+      "end": 44.56,
+      "confidence": 0.967,
+      "time": 35.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "vestido de luz y de majestad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "vestido",
+          "start": 44.56,
+          "end": 45.84
+        },
+        {
+          "word": "de",
+          "start": 45.84,
+          "end": 46.74
+        },
+        {
+          "word": "luz",
+          "start": 46.74,
+          "end": 47.76
+        },
+        {
+          "word": "y",
+          "start": 47.76,
+          "end": 48.32
+        },
+        {
+          "word": "de",
+          "start": 48.32,
+          "end": 49.14
+        },
+        {
+          "word": "majestad.",
+          "start": 49.14,
+          "end": 51.14
+        }
+      ],
+      "start": 44.56,
+      "end": 51.14,
+      "confidence": 1.0,
+      "time": 44.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Su carro de fuego en las nubes mirad,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Su",
+          "start": 51.14,
+          "end": 51.98
+        },
+        {
+          "word": "carro",
+          "start": 51.98,
+          "end": 53.18
+        },
+        {
+          "word": "del",
+          "start": 53.18,
+          "end": 53.88
+        },
+        {
+          "word": "fuego",
+          "start": 53.88,
+          "end": 54.66
+        },
+        {
+          "word": "en",
+          "start": 54.66,
+          "end": 55.22
+        },
+        {
+          "word": "las",
+          "start": 55.22,
+          "end": 55.96
+        },
+        {
+          "word": "nubes",
+          "start": 55.96,
+          "end": 56.98
+        },
+        {
+          "word": "mira,",
+          "start": 56.98,
+          "end": 58.38
+        }
+      ],
+      "start": 51.14,
+      "end": 59.16,
+      "confidence": 0.978,
+      "time": 51.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "refulgen sus huellas en la tempestad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "refugia",
+          "start": 59.16,
+          "end": 60.54
+        },
+        {
+          "word": "sus",
+          "start": 60.8,
+          "end": 61.34
+        },
+        {
+          "word": "huellas",
+          "start": 61.34,
+          "end": 62.44
+        },
+        {
+          "word": "en",
+          "start": 62.44,
+          "end": 63.16
+        },
+        {
+          "word": "la",
+          "start": 63.16,
+          "end": 63.76
+        },
+        {
+          "word": "tempestad.",
+          "start": 63.76,
+          "end": 66.48
+        }
+      ],
+      "start": 59.16,
+      "end": 66.48,
+      "confidence": 0.967,
+      "time": 59.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Tu inmensa bondad, ¿quién puede contar?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 66.48,
+          "end": 67.18
+        },
+        {
+          "word": "inmensa",
+          "start": 67.18,
+          "end": 68.48
+        },
+        {
+          "word": "que",
+          "start": 70.34,
+          "end": 70.9
+        },
+        {
+          "word": "puede",
+          "start": 70.9,
+          "end": 72.08
+        },
+        {
+          "word": "cortar,",
+          "start": 72.08,
+          "end": 73.86
+        }
+      ],
+      "start": 66.48,
+      "end": 74.54,
+      "confidence": 0.792,
+      "time": 66.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "El cielo azul la muestra sin par.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 74.54,
+          "end": 74.84
+        },
+        {
+          "word": "cielo",
+          "start": 74.84,
+          "end": 75.86
+        },
+        {
+          "word": "azul",
+          "start": 75.86,
+          "end": 77.68
+        },
+        {
+          "word": "la",
+          "start": 77.68,
+          "end": 78.52
+        },
+        {
+          "word": "muestra",
+          "start": 78.52,
+          "end": 79.48
+        },
+        {
+          "word": "sin",
+          "start": 79.48,
+          "end": 80.32
+        },
+        {
+          "word": "par.",
+          "start": 80.32,
+          "end": 81.16
+        }
+      ],
+      "start": 74.54,
+      "end": 81.16,
+      "confidence": 1.0,
+      "time": 74.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En valles y en montes alumbra tu luz,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 81.16,
+          "end": 82.16
+        },
+        {
+          "word": "y",
+          "start": 83.36,
+          "end": 83.82
+        },
+        {
+          "word": "en",
+          "start": 83.82,
+          "end": 84.26
+        },
+        {
+          "word": "montes",
+          "start": 84.26,
+          "end": 85.5
+        },
+        {
+          "word": "alumbra",
+          "start": 85.5,
+          "end": 86.94
+        },
+        {
+          "word": "tu",
+          "start": 86.94,
+          "end": 87.64
+        },
+        {
+          "word": "luz,",
+          "start": 87.64,
+          "end": 88.54
+        }
+      ],
+      "start": 81.16,
+      "end": 89.36,
+      "confidence": 0.875,
+      "time": 81.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y con gran dulzura me cuidas, Jesús.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 89.36,
+          "end": 89.74
+        },
+        {
+          "word": "con",
+          "start": 89.74,
+          "end": 90.3
+        },
+        {
+          "word": "me",
+          "start": 92.46,
+          "end": 93.2
+        },
+        {
+          "word": "cuidas,",
+          "start": 93.2,
+          "end": 94.28
+        },
+        {
+          "word": "Jesucristo.",
+          "start": 94.68,
+          "end": 97.54
+        }
+      ],
+      "start": 89.36,
+      "end": 97.54,
+      "confidence": 0.686,
+      "time": 89.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Muy frágiles son los hombres aquí,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "solos",
+          "start": 100.68,
+          "end": 102.68
+        },
+        {
+          "word": "hombres",
+          "start": 102.68,
+          "end": 103.72
+        },
+        {
+          "word": "a",
+          "start": 103.72,
+          "end": 104.84
+        }
+      ],
+      "start": 100.68,
+      "end": 105.44,
+      "confidence": 0.465,
+      "time": 100.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "mas por tu bondad confiamos en ti.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "más",
+          "start": 106.06,
+          "end": 106.38
+        },
+        {
+          "word": "por",
+          "start": 106.38,
+          "end": 107.0
+        },
+        {
+          "word": "tu",
+          "start": 107.0,
+          "end": 107.96
+        },
+        {
+          "word": "onda",
+          "start": 107.96,
+          "end": 109.16
+        },
+        {
+          "word": "confiamos",
+          "start": 109.16,
+          "end": 111.18
+        },
+        {
+          "word": "en",
+          "start": 111.18,
+          "end": 112.14
+        },
+        {
+          "word": "ti.",
+          "start": 112.14,
+          "end": 112.84
+        }
+      ],
+      "start": 106.06,
+      "end": 112.84,
+      "confidence": 0.983,
+      "time": 106.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Tu misericordia aceptamos, Señor,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 113.38,
+          "end": 113.74
+        },
+        {
+          "word": "misericordia",
+          "start": 113.74,
+          "end": 116.86
+        },
+        {
+          "word": "aceptamos,",
+          "start": 116.86,
+          "end": 118.68
+        },
+        {
+          "word": "Señor,",
+          "start": 119.62,
+          "end": 120.22
+        }
+      ],
+      "start": 113.38,
+      "end": 120.22,
+      "confidence": 1.0,
+      "time": 113.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Creador nuestro, Amigo fiel y Redentor.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "a",
+          "start": 121.34,
+          "end": 121.66
+        },
+        {
+          "word": "y",
+          "start": 126.52,
+          "end": 126.62
+        }
+      ],
+      "start": 121.34,
+      "end": 128.74,
+      "confidence": 0.323,
+      "time": 121.34
+    }
+  ]
+}

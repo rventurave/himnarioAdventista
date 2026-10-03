@@ -1,0 +1,960 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.826,
+  "language": "es",
+  "model": "medium",
+  "hymn": 107,
+  "source": "107 - Canto el gran amor.mp3",
+  "duration": 192.73,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Canto el gran amor de Aquel",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Canto",
+          "start": 12.84,
+          "end": 14.16
+        },
+        {
+          "word": "el",
+          "start": 14.16,
+          "end": 14.74
+        },
+        {
+          "word": "gran",
+          "start": 14.74,
+          "end": 16.18
+        },
+        {
+          "word": "Amor",
+          "start": 16.18,
+          "end": 17.56
+        },
+        {
+          "word": "de",
+          "start": 17.56,
+          "end": 18.08
+        },
+        {
+          "word": "aquel,",
+          "start": 18.08,
+          "end": 18.74
+        }
+      ],
+      "start": 12.84,
+      "end": 19.28,
+      "confidence": 1.0,
+      "time": 12.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que primero a mí me amó,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "primero",
+          "start": 19.28,
+          "end": 21.52
+        },
+        {
+          "word": "a",
+          "start": 21.52,
+          "end": 22.26
+        },
+        {
+          "word": "mí",
+          "start": 22.26,
+          "end": 22.86
+        },
+        {
+          "word": "me",
+          "start": 22.86,
+          "end": 23.38
+        },
+        {
+          "word": "amó,",
+          "start": 23.38,
+          "end": 23.98
+        }
+      ],
+      "start": 19.28,
+      "end": 23.98,
+      "confidence": 0.833,
+      "time": 19.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues dejó la gloria allá",
+      "verse": 1,
+      "words": [
+        {
+          "word": "pues",
+          "start": 23.98,
+          "end": 24.6
+        },
+        {
+          "word": "la",
+          "start": 27.4,
+          "end": 28.12
+        },
+        {
+          "word": "gloria",
+          "start": 28.12,
+          "end": 28.76
+        }
+      ],
+      "start": 23.98,
+      "end": 29.82,
+      "confidence": 0.6,
+      "time": 23.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y en el Gólgota murió.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 29.82,
+          "end": 30.2
+        },
+        {
+          "word": "el",
+          "start": 30.2,
+          "end": 30.92
+        },
+        {
+          "word": "murió.",
+          "start": 32.3,
+          "end": 34.6
+        }
+      ],
+      "start": 29.82,
+      "end": 34.6,
+      "confidence": 0.6,
+      "time": 29.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Tal amor ensalzaré,",
+      "words": [
+        {
+          "word": "amor",
+          "start": 35.46,
+          "end": 37.62
+        },
+        {
+          "word": "alzale,",
+          "start": 38.5,
+          "end": 39.8
+        }
+      ],
+      "start": 35.46,
+      "end": 40.3,
+      "confidence": 0.6,
+      "time": 35.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "alabando al que murió",
+      "words": [
+        {
+          "word": "a",
+          "start": 40.3,
+          "end": 40.7
+        },
+        {
+          "word": "al",
+          "start": 47.44,
+          "end": 47.44
+        }
+      ],
+      "start": 40.3,
+      "end": 47.44,
+      "confidence": 0.485,
+      "time": 40.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "inmolado para que",
+      "words": [
+        {
+          "word": "lado",
+          "start": 47.44,
+          "end": 48.74
+        },
+        {
+          "word": "para",
+          "start": 48.74,
+          "end": 50.12
+        },
+        {
+          "word": "que",
+          "start": 50.12,
+          "end": 50.78
+        }
+      ],
+      "start": 47.44,
+      "end": 50.78,
+      "confidence": 0.933,
+      "time": 47.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "vida eterna tenga yo.",
+      "words": [
+        {
+          "word": "vida",
+          "start": 50.78,
+          "end": 51.56
+        },
+        {
+          "word": "tenda,",
+          "start": 51.56,
+          "end": 52.86
+        },
+        {
+          "word": "tenda",
+          "start": 52.88,
+          "end": 54.34
+        },
+        {
+          "word": "yo.",
+          "start": 54.34,
+          "end": 56.54
+        }
+      ],
+      "start": 50.78,
+      "end": 56.54,
+      "confidence": 0.929,
+      "time": 50.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Antes que llorara yo,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Antes",
+          "start": 57.54,
+          "end": 58.24
+        },
+        {
+          "word": "que",
+          "start": 58.24,
+          "end": 60.12
+        },
+        {
+          "word": "llorara",
+          "start": 60.12,
+          "end": 62.02
+        },
+        {
+          "word": "yo,",
+          "start": 62.02,
+          "end": 62.58
+        }
+      ],
+      "start": 57.54,
+      "end": 63.12,
+      "confidence": 1.0,
+      "time": 57.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ya por mí lloraba él;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ya",
+          "start": 63.12,
+          "end": 63.22
+        },
+        {
+          "word": "por",
+          "start": 63.22,
+          "end": 63.66
+        },
+        {
+          "word": "mí",
+          "start": 63.66,
+          "end": 65.48
+        },
+        {
+          "word": "llorará",
+          "start": 65.48,
+          "end": 67.5
+        },
+        {
+          "word": "él,",
+          "start": 67.5,
+          "end": 67.82
+        }
+      ],
+      "start": 63.12,
+      "end": 67.82,
+      "confidence": 0.983,
+      "time": 63.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y antes que supiera orar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 67.82,
+          "end": 68.42
+        },
+        {
+          "word": "a",
+          "start": 68.42,
+          "end": 68.6
+        },
+        {
+          "word": "su",
+          "start": 70.72,
+          "end": 71.42
+        },
+        {
+          "word": "ahora",
+          "start": 72.88,
+          "end": 73.48
+        }
+      ],
+      "start": 67.82,
+      "end": 73.48,
+      "confidence": 0.736,
+      "time": 67.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "él por mí gustó la hiel.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 73.48,
+          "end": 73.98
+        },
+        {
+          "word": "la",
+          "start": 76.18,
+          "end": 77.04
+        }
+      ],
+      "start": 73.48,
+      "end": 78.58,
+      "confidence": 0.333,
+      "time": 73.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Tal amor ensalzaré,",
+      "words": [
+        {
+          "word": "'al",
+          "start": 79.2,
+          "end": 79.46
+        },
+        {
+          "word": "amor",
+          "start": 79.46,
+          "end": 81.66
+        },
+        {
+          "word": "ensalzade,",
+          "start": 81.66,
+          "end": 83.84
+        }
+      ],
+      "start": 79.2,
+      "end": 83.84,
+      "confidence": 0.938,
+      "time": 79.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "alabando al que murió",
+      "words": [
+        {
+          "word": "'al",
+          "start": 84.6,
+          "end": 84.86
+        },
+        {
+          "word": "a",
+          "start": 87.26,
+          "end": 87.7
+        },
+        {
+          "word": "muria,",
+          "start": 88.32,
+          "end": 89.3
+        }
+      ],
+      "start": 84.6,
+      "end": 89.3,
+      "confidence": 0.655,
+      "time": 84.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "inmolado para que",
+      "words": [
+        {
+          "word": "in",
+          "start": 89.72,
+          "end": 89.94
+        },
+        {
+          "word": "parate,",
+          "start": 93.02,
+          "end": 94.44
+        }
+      ],
+      "start": 89.72,
+      "end": 94.44,
+      "confidence": 0.627,
+      "time": 89.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "vida eterna tenga yo.",
+      "words": [
+        {
+          "word": "vida",
+          "start": 94.44,
+          "end": 95.44
+        },
+        {
+          "word": "eterna,",
+          "start": 95.44,
+          "end": 96.8
+        },
+        {
+          "word": "eterna",
+          "start": 96.8,
+          "end": 98.22
+        }
+      ],
+      "start": 94.44,
+      "end": 100.06,
+      "confidence": 0.709,
+      "time": 94.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Este mundo nunca vio",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Este",
+          "start": 101.28,
+          "end": 102.2
+        },
+        {
+          "word": "mundo",
+          "start": 102.2,
+          "end": 104.54
+        },
+        {
+          "word": "nunca",
+          "start": 104.54,
+          "end": 105.78
+        },
+        {
+          "word": "vio",
+          "start": 105.78,
+          "end": 106.58
+        }
+      ],
+      "start": 101.28,
+      "end": 106.58,
+      "confidence": 1.0,
+      "time": 101.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "tan profundo y santo amor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tan",
+          "start": 106.58,
+          "end": 107.16
+        },
+        {
+          "word": "profundo",
+          "start": 107.16,
+          "end": 109.72
+        },
+        {
+          "word": "y",
+          "start": 109.72,
+          "end": 110.3
+        },
+        {
+          "word": "santo",
+          "start": 110.3,
+          "end": 111.06
+        },
+        {
+          "word": "amor,",
+          "start": 111.06,
+          "end": 111.94
+        }
+      ],
+      "start": 106.58,
+      "end": 111.94,
+      "confidence": 1.0,
+      "time": 106.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "que del mal me rescató",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 112.18,
+          "end": 112.6
+        },
+        {
+          "word": "del",
+          "start": 112.6,
+          "end": 112.96
+        },
+        {
+          "word": "mar",
+          "start": 112.96,
+          "end": 114.62
+        },
+        {
+          "word": "me",
+          "start": 114.62,
+          "end": 115.58
+        },
+        {
+          "word": "rescató",
+          "start": 115.58,
+          "end": 117.58
+        }
+      ],
+      "start": 112.18,
+      "end": 117.58,
+      "confidence": 0.96,
+      "time": 112.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "aliviando mi dolor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "aliviando",
+          "start": 117.58,
+          "end": 119.44
+        },
+        {
+          "word": "mi",
+          "start": 119.44,
+          "end": 120.14
+        },
+        {
+          "word": "dolor.",
+          "start": 120.14,
+          "end": 121.82
+        }
+      ],
+      "start": 117.58,
+      "end": 121.82,
+      "confidence": 1.0,
+      "time": 117.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Tal amor ensalzaré,",
+      "words": [
+        {
+          "word": "Al",
+          "start": 121.82,
+          "end": 123.34
+        },
+        {
+          "word": "amor",
+          "start": 123.34,
+          "end": 125.62
+        },
+        {
+          "word": "ensalzarte,",
+          "start": 125.62,
+          "end": 128.04
+        }
+      ],
+      "start": 121.82,
+      "end": 130.12,
+      "confidence": 0.949,
+      "time": 121.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "alabando al que murió",
+      "words": [
+        {
+          "word": "al",
+          "start": 130.12,
+          "end": 130.12
+        },
+        {
+          "word": "al",
+          "start": 131.6,
+          "end": 131.9
+        },
+        {
+          "word": "que",
+          "start": 131.9,
+          "end": 132.4
+        },
+        {
+          "word": "murió,",
+          "start": 132.4,
+          "end": 133.1
+        }
+      ],
+      "start": 130.12,
+      "end": 133.1,
+      "confidence": 0.985,
+      "time": 130.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "inmolado para que",
+      "words": [
+        {
+          "word": "molado",
+          "start": 133.96,
+          "end": 136.58
+        },
+        {
+          "word": "para",
+          "start": 136.58,
+          "end": 137.68
+        },
+        {
+          "word": "que",
+          "start": 137.68,
+          "end": 138.8
+        }
+      ],
+      "start": 133.96,
+      "end": 138.8,
+      "confidence": 0.971,
+      "time": 133.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "vida eterna tenga yo.",
+      "words": [
+        {
+          "word": "vida",
+          "start": 138.8,
+          "end": 139.5
+        },
+        {
+          "word": "tenda,",
+          "start": 139.5,
+          "end": 140.96
+        },
+        {
+          "word": "tenda",
+          "start": 140.98,
+          "end": 142.46
+        }
+      ],
+      "start": 138.8,
+      "end": 142.98,
+      "confidence": 0.679,
+      "time": 138.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Nada bueno se halla en mí.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Nada",
+          "start": 146.12,
+          "end": 147.36
+        },
+        {
+          "word": "bueno",
+          "start": 147.36,
+          "end": 148.6
+        },
+        {
+          "word": "se",
+          "start": 148.6,
+          "end": 149.24
+        },
+        {
+          "word": "hará",
+          "start": 149.24,
+          "end": 149.96
+        },
+        {
+          "word": "en",
+          "start": 149.96,
+          "end": 150.28
+        }
+      ],
+      "start": 146.12,
+      "end": 150.92,
+      "confidence": 0.8,
+      "time": 146.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "¿Cómo puedes tanto amar?",
+      "verse": 4,
+      "words": [
+        {
+          "word": "como",
+          "start": 150.92,
+          "end": 151.38
+        },
+        {
+          "word": "puedes",
+          "start": 151.38,
+          "end": 154.12
+        },
+        {
+          "word": "tan",
+          "start": 154.12,
+          "end": 154.92
+        },
+        {
+          "word": "clamar.",
+          "start": 154.92,
+          "end": 156.06
+        }
+      ],
+      "start": 150.92,
+      "end": 156.06,
+      "confidence": 0.955,
+      "time": 150.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Yo, Señor, me rindo a ti;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 156.4,
+          "end": 156.64
+        },
+        {
+          "word": "Señor,",
+          "start": 156.64,
+          "end": 158.56
+        },
+        {
+          "word": "me",
+          "start": 158.76,
+          "end": 159.64
+        },
+        {
+          "word": "rindo",
+          "start": 159.64,
+          "end": 160.3
+        },
+        {
+          "word": "a",
+          "start": 160.3,
+          "end": 160.92
+        },
+        {
+          "word": "ti,",
+          "start": 160.92,
+          "end": 161.54
+        }
+      ],
+      "start": 156.4,
+      "end": 162.0,
+      "confidence": 1.0,
+      "time": 156.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "hazme, pues, mi amor mostrar.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "hazme",
+          "start": 162.0,
+          "end": 162.46
+        },
+        {
+          "word": "pues",
+          "start": 162.46,
+          "end": 163.2
+        },
+        {
+          "word": "mi",
+          "start": 163.2,
+          "end": 163.56
+        },
+        {
+          "word": "amor",
+          "start": 163.56,
+          "end": 164.16
+        },
+        {
+          "word": "mostrar.",
+          "start": 164.16,
+          "end": 166.48
+        }
+      ],
+      "start": 162.0,
+      "end": 166.48,
+      "confidence": 1.0,
+      "time": 162.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Tal amor ensalzaré,",
+      "words": [
+        {
+          "word": "al",
+          "start": 166.48,
+          "end": 167.36
+        },
+        {
+          "word": "amor",
+          "start": 167.36,
+          "end": 169.46
+        },
+        {
+          "word": "ensalzable,",
+          "start": 169.46,
+          "end": 171.94
+        }
+      ],
+      "start": 166.48,
+      "end": 171.94,
+      "confidence": 0.928,
+      "time": 166.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "alabando al que murió",
+      "words": [
+        {
+          "word": "al",
+          "start": 172.54,
+          "end": 172.92
+        },
+        {
+          "word": "al",
+          "start": 175.46,
+          "end": 175.82
+        },
+        {
+          "word": "murió,",
+          "start": 176.38,
+          "end": 177.38
+        }
+      ],
+      "start": 172.54,
+      "end": 177.38,
+      "confidence": 0.735,
+      "time": 172.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "inmolado para que",
+      "words": [
+        {
+          "word": "inmulado",
+          "start": 179.24,
+          "end": 180.64
+        },
+        {
+          "word": "para",
+          "start": 180.64,
+          "end": 181.78
+        },
+        {
+          "word": "que",
+          "start": 181.78,
+          "end": 182.8
+        }
+      ],
+      "start": 179.24,
+      "end": 182.8,
+      "confidence": 0.975,
+      "time": 179.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "vida eterna tenga yo.",
+      "words": [
+        {
+          "word": "vida",
+          "start": 182.8,
+          "end": 183.48
+        },
+        {
+          "word": "eterna",
+          "start": 183.48,
+          "end": 184.86
+        },
+        {
+          "word": "tendrá",
+          "start": 184.86,
+          "end": 186.3
+        }
+      ],
+      "start": 182.8,
+      "end": 187.72,
+      "confidence": 0.709,
+      "time": 182.8
+    }
+  ]
+}

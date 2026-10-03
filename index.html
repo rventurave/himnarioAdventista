@@ -2,17 +2,12 @@
 <html lang="es">
   <head>
     <meta charset="utf-8" />
-
     <title>HAdventista</title>
-
+    <link rel="icon" href="data:," />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
     <link rel="stylesheet" href="./src/css/index.css" />
-
     <link rel="preconnect" href="https://fonts.googleapis.com" />
-
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-
     <link
       href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap"
       rel="stylesheet"
@@ -20,26 +15,138 @@
   </head>
 
   <body>
-    <p>Himnario Adventista</p>
+    <main id="app">
+      <!-- ============================= -->
+      <!-- VISTA INICIO                  -->
+      <!-- ============================= -->
+      <section id="view-home" class="view">
+        <p class="app-title">Himnario Adventista</p>
 
-    <div class="search-container">
-      <form id="search-form">
-        <input
-          id="search-input"
-          type="search"
-          name="buscar"
-          placeholder="Número o título"
-          autocomplete="off"
-          required
-        />
+        <div class="search-container">
+          <form id="search-form">
+            <input
+              id="search-input"
+              type="search"
+              name="buscar"
+              placeholder="Número o título"
+              autocomplete="off"
+              required
+            />
 
-        <button type="submit" aria-label="Buscar">
-          <img src="./src/assets/icons/buscador.png" alt="Buscar" />
-        </button>
-      </form>
+            <div class="selector">
+              <button
+                class="selector-btn"
+                type="button"
+                aria-label="Modo de reproducción"
+              >
+                <img src="./src/assets/icons/musica.png" alt="Cantado" />
+              </button>
 
-      <div id="search-suggestions"></div>
-    </div>
+              <div class="opciones">
+                <div class="opcion" data-value="lyrics" title="Solo letra">
+                  <img src="./src/assets/icons/letra.png" alt="Solo letra" />
+                </div>
+
+                <div class="opcion" data-value="sung" title="Cantado">
+                  <img src="./src/assets/icons/musica.png" alt="Cantado" />
+                </div>
+
+                <div class="opcion" data-value="karaoke" title="Karaoke">
+                  <img
+                    src="./src/assets/icons/instrumental.png"
+                    alt="Karaoke"
+                  />
+                </div>
+              </div>
+            </div>
+
+            <button type="submit" aria-label="Buscar">
+              <img src="./src/assets/icons/buscador.png" alt="Buscar" />
+            </button>
+          </form>
+
+          <div id="search-suggestions"></div>
+        </div>
+      </section>
+
+      <!-- ============================= -->
+      <!-- VISTA HIMNO /X                -->
+      <!-- ============================= -->
+      <section id="view-hymn" class="view" hidden>
+        <header id="hymn-topbar" class="hymn-topbar" hidden>
+          <button id="hymn-back" class="hymn-icon-btn" type="button">←</button>
+
+          <div class="hymn-heading">
+            <span id="hymn-number" class="hymn-number"></span>
+            <h1 id="hymn-title" class="hymn-title"></h1>
+            <span id="hymn-reference" class="hymn-reference"></span>
+          </div>
+
+          <button id="hymn-fullscreen" class="hymn-icon-btn" type="button">
+            ⛶
+          </button>
+        </header>
+
+        <p id="hymn-notice" class="hymn-notice" hidden></p>
+
+        <div id="hymn-notfound" class="hymn-notfound" hidden>
+          <p class="hymn-notfound-title">Himno no encontrado</p>
+          <button id="hymn-home" class="hymn-home-btn" type="button">
+            Volver al inicio
+          </button>
+        </div>
+
+        <div id="hymn-content" class="hymn-content">
+          <!-- Presentación inicial: número + título -->
+          <div id="hymn-intro" class="hymn-intro" hidden>
+            <span id="intro-number" class="intro-number"></span>
+            <h1 id="intro-title" class="intro-title"></h1>
+          </div>
+
+          <span id="lyric-section" class="lyric-section" aria-live="polite" hidden></span>
+          <div id="lyrics-stage" class="lyrics-stage" hidden>
+            <p id="lyric-previous" class="lyric-previous" hidden></p>
+            <p id="lyric-current" class="lyric-current"></p>
+            <p id="lyric-next" class="lyric-next"></p>
+          </div>
+
+          <ul id="lyrics-list" class="lyrics-list" hidden></ul>
+
+          <nav id="hymn-nav" class="hymn-nav" hidden>
+            <button
+              id="hymn-prev"
+              class="hymn-arrow"
+              type="button"
+              aria-label="Anterior"
+            >
+              ←
+            </button>
+
+            <span id="hymn-counter" class="hymn-counter"></span>
+
+            <button
+              id="hymn-next"
+              class="hymn-arrow"
+              type="button"
+              aria-label="Siguiente"
+            >
+              →
+            </button>
+          </nav>
+
+          <!-- El audio se reproduce internamente, sin controles visibles -->
+          <div id="hymn-audio-wrap" class="hymn-audio-hidden" hidden>
+            <audio id="hymn-audio" preload="auto"></audio>
+          </div>
+
+          <button id="hymn-start" class="hymn-start" type="button" hidden>
+            ▶ Comenzar
+          </button>
+
+          <div id="hymn-state-icon" class="hymn-state-icon" hidden></div>
+        </div>
+      </section>
+    </main>
 
     <script type="module" src="./src/js/app.js"></script>
   </body>

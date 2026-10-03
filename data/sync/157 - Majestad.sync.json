@@ -1,0 +1,288 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.722,
+  "language": "es",
+  "model": "medium",
+  "hymn": 157,
+  "source": "157 - Majestad.mp3",
+  "duration": 95.45,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Majestad! ¡Gloria a su Majestad!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 3.7,
+          "end": 3.7
+        }
+      ],
+      "start": 3.7,
+      "end": 29.98,
+      "confidence": 0.16,
+      "time": 3.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Dad a Cristo gloria regia, honra y honor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesucristo",
+          "start": 3.7,
+          "end": 3.7
+        }
+      ],
+      "start": 29.98,
+      "end": 30.18,
+      "confidence": 0.106,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Majestad y autoridad real",
+      "verse": 1,
+      "words": [
+        {
+          "word": "autoridad",
+          "start": 30.0,
+          "end": 35.76
+        },
+        {
+          "word": "real,",
+          "start": 35.76,
+          "end": 38.18
+        }
+      ],
+      "start": 30.18,
+      "end": 38.82,
+      "confidence": 0.5,
+      "time": 30.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "son del Señor, nuestro gran Rey, Cristo Jesús.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "son",
+          "start": 38.82,
+          "end": 38.92
+        },
+        {
+          "word": "del",
+          "start": 38.92,
+          "end": 39.34
+        },
+        {
+          "word": "Señor,",
+          "start": 39.34,
+          "end": 40.62
+        },
+        {
+          "word": "nuestro",
+          "start": 40.8,
+          "end": 41.52
+        },
+        {
+          "word": "gran",
+          "start": 41.52,
+          "end": 42.28
+        },
+        {
+          "word": "Rey,",
+          "start": 42.28,
+          "end": 43.22
+        },
+        {
+          "word": "Cristo",
+          "start": 43.62,
+          "end": 44.18
+        },
+        {
+          "word": "Jesús,",
+          "start": 44.18,
+          "end": 47.98
+        }
+      ],
+      "start": 38.82,
+      "end": 48.98,
+      "confidence": 1.0,
+      "time": 38.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Exaltad, magnificad su santo nombre;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "exaltar,",
+          "start": 48.98,
+          "end": 50.88
+        },
+        {
+          "word": "magnificar",
+          "start": 51.34,
+          "end": 52.9
+        },
+        {
+          "word": "su",
+          "start": 52.9,
+          "end": 53.38
+        },
+        {
+          "word": "santo",
+          "start": 53.38,
+          "end": 54.58
+        },
+        {
+          "word": "nombre.",
+          "start": 54.58,
+          "end": 57.7
+        }
+      ],
+      "start": 48.98,
+      "end": 57.7,
+      "confidence": 0.971,
+      "time": 48.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "alabad, glorificad a Cristo el Rey.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Alaba",
+          "start": 60.08,
+          "end": 61.48
+        },
+        {
+          "word": "glorificar",
+          "start": 61.48,
+          "end": 62.88
+        },
+        {
+          "word": "a",
+          "start": 62.88,
+          "end": 63.48
+        },
+        {
+          "word": "Cristo",
+          "start": 63.48,
+          "end": 64.18
+        },
+        {
+          "word": "el",
+          "start": 64.18,
+          "end": 64.84
+        },
+        {
+          "word": "Rey.",
+          "start": 64.84,
+          "end": 69.18
+        }
+      ],
+      "start": 60.08,
+      "end": 69.18,
+      "confidence": 0.98,
+      "time": 60.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Majestad! ¡Gloria a su Majestad!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Majestad,",
+          "start": 71.86,
+          "end": 73.26
+        },
+        {
+          "word": "gloria",
+          "start": 73.54,
+          "end": 74.36
+        },
+        {
+          "word": "a",
+          "start": 74.36,
+          "end": 74.6
+        },
+        {
+          "word": "su",
+          "start": 74.6,
+          "end": 74.74
+        },
+        {
+          "word": "majestad,",
+          "start": 74.74,
+          "end": 78.24
+        }
+      ],
+      "start": 71.86,
+      "end": 78.24,
+      "confidence": 1.0,
+      "time": 71.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Pues él murió, resucitó y es el Rey.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "pues",
+          "start": 78.24,
+          "end": 79.18
+        },
+        {
+          "word": "el",
+          "start": 79.18,
+          "end": 79.6
+        },
+        {
+          "word": "murió,",
+          "start": 79.6,
+          "end": 80.8
+        },
+        {
+          "word": "resucitó,",
+          "start": 81.46,
+          "end": 83.54
+        },
+        {
+          "word": "y",
+          "start": 83.72,
+          "end": 84.3
+        },
+        {
+          "word": "es",
+          "start": 84.3,
+          "end": 84.74
+        },
+        {
+          "word": "el",
+          "start": 84.74,
+          "end": 85.14
+        },
+        {
+          "word": "Rey.",
+          "start": 85.14,
+          "end": 87.7
+        }
+      ],
+      "start": 78.24,
+      "end": 87.7,
+      "confidence": 1.0,
+      "time": 78.24
+    }
+  ]
+}

@@ -1,0 +1,1378 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.936,
+  "language": "es",
+  "model": "medium",
+  "hymn": 110,
+  "source": "110 - Cristo es el mejor amigo.mp3",
+  "duration": 210.83,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo es el mejor amigo",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 14.98,
+          "end": 16.38
+        },
+        {
+          "word": "es",
+          "start": 16.38,
+          "end": 17.32
+        },
+        {
+          "word": "el",
+          "start": 17.32,
+          "end": 17.58
+        },
+        {
+          "word": "mejor",
+          "start": 17.58,
+          "end": 18.58
+        },
+        {
+          "word": "amigo",
+          "start": 18.58,
+          "end": 20.66
+        }
+      ],
+      "start": 14.98,
+      "end": 20.66,
+      "confidence": 1.0,
+      "time": 14.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cuando triste o tentado estés;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 20.66,
+          "end": 21.68
+        },
+        {
+          "word": "triste",
+          "start": 21.68,
+          "end": 22.36
+        },
+        {
+          "word": "o",
+          "start": 22.36,
+          "end": 22.78
+        },
+        {
+          "word": "tentado",
+          "start": 22.78,
+          "end": 24.0
+        },
+        {
+          "word": "estés.",
+          "start": 24.0,
+          "end": 26.08
+        }
+      ],
+      "start": 20.66,
+      "end": 26.08,
+      "confidence": 1.0,
+      "time": 20.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "colmará de bendición",
+      "verse": 1,
+      "words": [
+        {
+          "word": "fulmará",
+          "start": 26.08,
+          "end": 27.28
+        },
+        {
+          "word": "de",
+          "start": 27.28,
+          "end": 27.72
+        },
+        {
+          "word": "bendición",
+          "start": 27.72,
+          "end": 28.78
+        }
+      ],
+      "start": 26.08,
+      "end": 28.78,
+      "confidence": 0.943,
+      "time": 26.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tu afligido corazón.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tu",
+          "start": 28.78,
+          "end": 29.18
+        },
+        {
+          "word": "afligido",
+          "start": 29.18,
+          "end": 30.18
+        },
+        {
+          "word": "corazón.",
+          "start": 30.18,
+          "end": 32.3
+        }
+      ],
+      "start": 28.78,
+      "end": 32.3,
+      "confidence": 1.0,
+      "time": 28.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cristo es el mejor amigo.",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 33.32,
+          "end": 33.42
+        },
+        {
+          "word": "es",
+          "start": 33.42,
+          "end": 34.32
+        },
+        {
+          "word": "el",
+          "start": 34.32,
+          "end": 34.62
+        },
+        {
+          "word": "mejor",
+          "start": 34.62,
+          "end": 35.52
+        },
+        {
+          "word": "amigo.",
+          "start": 35.52,
+          "end": 38.76
+        }
+      ],
+      "start": 33.32,
+      "end": 38.76,
+      "confidence": 1.0,
+      "time": 33.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cristo es el mejor amigo,",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 39.42,
+          "end": 39.98
+        },
+        {
+          "word": "es",
+          "start": 39.98,
+          "end": 40.72
+        },
+        {
+          "word": "el",
+          "start": 40.72,
+          "end": 41.14
+        },
+        {
+          "word": "mejor",
+          "start": 41.14,
+          "end": 42.22
+        },
+        {
+          "word": "amigo.",
+          "start": 42.22,
+          "end": 44.24
+        }
+      ],
+      "start": 39.42,
+      "end": 44.24,
+      "confidence": 1.0,
+      "time": 39.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cristo es el mejor amigo.",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 44.84,
+          "end": 45.16
+        },
+        {
+          "word": "es",
+          "start": 45.16,
+          "end": 45.94
+        },
+        {
+          "word": "el",
+          "start": 45.94,
+          "end": 46.4
+        },
+        {
+          "word": "mejor",
+          "start": 46.4,
+          "end": 47.44
+        },
+        {
+          "word": "amigo.",
+          "start": 47.44,
+          "end": 49.4
+        }
+      ],
+      "start": 44.84,
+      "end": 49.4,
+      "confidence": 1.0,
+      "time": 44.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Él tus súplicas oirá",
+      "words": [
+        {
+          "word": "Él",
+          "start": 49.4,
+          "end": 50.24
+        },
+        {
+          "word": "tu",
+          "start": 50.24,
+          "end": 50.5
+        },
+        {
+          "word": "suplica",
+          "start": 50.5,
+          "end": 51.34
+        },
+        {
+          "word": "soirá",
+          "start": 51.34,
+          "end": 52.36
+        }
+      ],
+      "start": 49.4,
+      "end": 52.36,
+      "confidence": 0.953,
+      "time": 49.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y tu carga llevará.",
+      "words": [
+        {
+          "word": "y",
+          "start": 52.36,
+          "end": 52.68
+        },
+        {
+          "word": "tu",
+          "start": 52.68,
+          "end": 53.02
+        },
+        {
+          "word": "carga",
+          "start": 53.02,
+          "end": 53.64
+        },
+        {
+          "word": "llevará,",
+          "start": 53.64,
+          "end": 56.08
+        }
+      ],
+      "start": 52.36,
+      "end": 56.08,
+      "confidence": 1.0,
+      "time": 52.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, es Cristo el mejor amigo!",
+      "words": [
+        {
+          "word": "es",
+          "start": 56.78,
+          "end": 57.12
+        },
+        {
+          "word": "Cristo",
+          "start": 57.12,
+          "end": 57.76
+        },
+        {
+          "word": "el",
+          "start": 57.76,
+          "end": 58.06
+        },
+        {
+          "word": "mejor",
+          "start": 58.06,
+          "end": 59.2
+        },
+        {
+          "word": "amigo.",
+          "start": 59.2,
+          "end": 61.74
+        }
+      ],
+      "start": 56.78,
+      "end": 61.74,
+      "confidence": 0.833,
+      "time": 56.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En Jesús fiel amigo encuentro;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 63.8,
+          "end": 64.32
+        },
+        {
+          "word": "Jesús",
+          "start": 64.32,
+          "end": 65.14
+        },
+        {
+          "word": "el",
+          "start": 65.14,
+          "end": 65.76
+        },
+        {
+          "word": "amigo",
+          "start": 65.76,
+          "end": 66.56
+        },
+        {
+          "word": "encuentro,",
+          "start": 66.56,
+          "end": 68.94
+        }
+      ],
+      "start": 63.8,
+      "end": 68.94,
+      "confidence": 0.96,
+      "time": 63.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "paz perfecta y plena a mi alma da.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "perfecta",
+          "start": 69.54,
+          "end": 70.32
+        },
+        {
+          "word": "y",
+          "start": 70.32,
+          "end": 70.52
+        },
+        {
+          "word": "plena",
+          "start": 70.52,
+          "end": 70.92
+        },
+        {
+          "word": "mi",
+          "start": 70.92,
+          "end": 71.46
+        },
+        {
+          "word": "almada,",
+          "start": 71.46,
+          "end": 73.8
+        }
+      ],
+      "start": 69.54,
+      "end": 73.8,
+      "confidence": 0.618,
+      "time": 69.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Apoyado en él estoy,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Apoyado",
+          "start": 73.8,
+          "end": 75.42
+        },
+        {
+          "word": "en",
+          "start": 75.42,
+          "end": 75.84
+        },
+        {
+          "word": "él",
+          "start": 75.84,
+          "end": 76.18
+        },
+        {
+          "word": "estoy,",
+          "start": 76.18,
+          "end": 76.64
+        }
+      ],
+      "start": 73.8,
+      "end": 76.8,
+      "confidence": 1.0,
+      "time": 73.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mi confianza a él le doy.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mi",
+          "start": 76.8,
+          "end": 77.28
+        },
+        {
+          "word": "confianza",
+          "start": 77.28,
+          "end": 78.24
+        },
+        {
+          "word": "él",
+          "start": 78.6,
+          "end": 78.9
+        },
+        {
+          "word": "le",
+          "start": 78.9,
+          "end": 79.44
+        },
+        {
+          "word": "doy,",
+          "start": 79.44,
+          "end": 80.7
+        }
+      ],
+      "start": 76.8,
+      "end": 81.26,
+      "confidence": 0.833,
+      "time": 76.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cristo es el mejor amigo.",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 81.26,
+          "end": 81.4
+        },
+        {
+          "word": "es",
+          "start": 81.4,
+          "end": 82.32
+        },
+        {
+          "word": "el",
+          "start": 82.32,
+          "end": 82.7
+        },
+        {
+          "word": "mejor",
+          "start": 82.7,
+          "end": 83.6
+        },
+        {
+          "word": "amigo,",
+          "start": 83.6,
+          "end": 85.8
+        }
+      ],
+      "start": 81.26,
+      "end": 87.26,
+      "confidence": 1.0,
+      "time": 81.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cristo es el mejor amigo,",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 87.26,
+          "end": 87.94
+        },
+        {
+          "word": "es",
+          "start": 87.94,
+          "end": 88.74
+        },
+        {
+          "word": "el",
+          "start": 88.74,
+          "end": 89.12
+        },
+        {
+          "word": "mejor",
+          "start": 89.12,
+          "end": 90.26
+        },
+        {
+          "word": "amigo,",
+          "start": 90.26,
+          "end": 92.18
+        }
+      ],
+      "start": 87.26,
+      "end": 92.5,
+      "confidence": 1.0,
+      "time": 87.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cristo es el mejor amigo.",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 92.5,
+          "end": 93.16
+        },
+        {
+          "word": "es",
+          "start": 93.16,
+          "end": 93.98
+        },
+        {
+          "word": "el",
+          "start": 93.98,
+          "end": 94.48
+        },
+        {
+          "word": "mejor",
+          "start": 94.48,
+          "end": 95.52
+        },
+        {
+          "word": "amigo,",
+          "start": 95.52,
+          "end": 97.32
+        }
+      ],
+      "start": 92.5,
+      "end": 97.32,
+      "confidence": 1.0,
+      "time": 92.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Él tus súplicas oirá",
+      "words": [
+        {
+          "word": "tu",
+          "start": 98.12,
+          "end": 98.42
+        },
+        {
+          "word": "suplica",
+          "start": 98.42,
+          "end": 99.34
+        },
+        {
+          "word": "soirán",
+          "start": 99.34,
+          "end": 100.4
+        }
+      ],
+      "start": 98.12,
+      "end": 100.4,
+      "confidence": 0.69,
+      "time": 98.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y tu carga llevará.",
+      "words": [
+        {
+          "word": "y",
+          "start": 100.4,
+          "end": 100.7
+        },
+        {
+          "word": "tu",
+          "start": 100.7,
+          "end": 100.98
+        },
+        {
+          "word": "carga",
+          "start": 100.98,
+          "end": 101.6
+        },
+        {
+          "word": "llevarán,",
+          "start": 101.6,
+          "end": 104.14
+        }
+      ],
+      "start": 100.4,
+      "end": 104.14,
+      "confidence": 0.985,
+      "time": 100.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, es Cristo el mejor amigo!",
+      "words": [
+        {
+          "word": "eres",
+          "start": 104.82,
+          "end": 105.2
+        },
+        {
+          "word": "Cristo",
+          "start": 105.2,
+          "end": 105.78
+        },
+        {
+          "word": "el",
+          "start": 105.78,
+          "end": 106.12
+        },
+        {
+          "word": "mejor",
+          "start": 106.12,
+          "end": 107.1
+        },
+        {
+          "word": "amigo.",
+          "start": 107.1,
+          "end": 109.84
+        }
+      ],
+      "start": 104.82,
+      "end": 109.84,
+      "confidence": 0.8,
+      "time": 104.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Aunque ande en algún peligro,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Aunque",
+          "start": 111.7,
+          "end": 112.5
+        },
+        {
+          "word": "anden",
+          "start": 112.5,
+          "end": 113.64
+        },
+        {
+          "word": "en",
+          "start": 113.64,
+          "end": 113.86
+        },
+        {
+          "word": "algún",
+          "start": 113.86,
+          "end": 114.42
+        },
+        {
+          "word": "peligro",
+          "start": 114.42,
+          "end": 116.84
+        }
+      ],
+      "start": 111.7,
+      "end": 116.84,
+      "confidence": 0.988,
+      "time": 111.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "o en el valle de la muerte esté,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "o",
+          "start": 116.84,
+          "end": 117.24
+        },
+        {
+          "word": "en",
+          "start": 117.24,
+          "end": 117.52
+        },
+        {
+          "word": "el",
+          "start": 117.52,
+          "end": 117.84
+        },
+        {
+          "word": "valle",
+          "start": 117.84,
+          "end": 118.24
+        },
+        {
+          "word": "de",
+          "start": 118.24,
+          "end": 118.76
+        },
+        {
+          "word": "la",
+          "start": 118.76,
+          "end": 119.06
+        },
+        {
+          "word": "muerte",
+          "start": 119.06,
+          "end": 120.14
+        },
+        {
+          "word": "esté,",
+          "start": 120.14,
+          "end": 121.72
+        }
+      ],
+      "start": 116.84,
+      "end": 121.72,
+      "confidence": 1.0,
+      "time": 116.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "ningún mal me alcanzará,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Ningún",
+          "start": 121.72,
+          "end": 122.94
+        },
+        {
+          "word": "mal",
+          "start": 122.94,
+          "end": 123.18
+        },
+        {
+          "word": "me",
+          "start": 123.18,
+          "end": 123.5
+        },
+        {
+          "word": "alcanzará,",
+          "start": 123.5,
+          "end": 124.72
+        }
+      ],
+      "start": 121.72,
+      "end": 125.06,
+      "confidence": 1.0,
+      "time": 121.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pues Jesús me amparará.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 125.06,
+          "end": 125.3
+        },
+        {
+          "word": "Jesús",
+          "start": 125.3,
+          "end": 125.82
+        },
+        {
+          "word": "me",
+          "start": 125.82,
+          "end": 126.2
+        },
+        {
+          "word": "amparará.",
+          "start": 126.2,
+          "end": 128.44
+        }
+      ],
+      "start": 125.06,
+      "end": 128.44,
+      "confidence": 1.0,
+      "time": 125.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cristo es el mejor amigo.",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 129.28,
+          "end": 129.38
+        },
+        {
+          "word": "es",
+          "start": 129.38,
+          "end": 130.3
+        },
+        {
+          "word": "el",
+          "start": 130.3,
+          "end": 130.6
+        },
+        {
+          "word": "mejor",
+          "start": 130.6,
+          "end": 131.52
+        },
+        {
+          "word": "amigo.",
+          "start": 131.52,
+          "end": 134.44
+        }
+      ],
+      "start": 129.28,
+      "end": 134.44,
+      "confidence": 1.0,
+      "time": 129.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cristo es el mejor amigo,",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 135.3,
+          "end": 136.0
+        },
+        {
+          "word": "es",
+          "start": 136.0,
+          "end": 136.76
+        },
+        {
+          "word": "el",
+          "start": 136.76,
+          "end": 137.12
+        },
+        {
+          "word": "mejor",
+          "start": 137.12,
+          "end": 138.22
+        },
+        {
+          "word": "amigo.",
+          "start": 138.22,
+          "end": 140.2
+        }
+      ],
+      "start": 135.3,
+      "end": 140.2,
+      "confidence": 1.0,
+      "time": 135.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cristo es el mejor amigo.",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 140.78,
+          "end": 141.14
+        },
+        {
+          "word": "es",
+          "start": 141.14,
+          "end": 141.96
+        },
+        {
+          "word": "el",
+          "start": 141.96,
+          "end": 142.36
+        },
+        {
+          "word": "mejor",
+          "start": 142.36,
+          "end": 143.42
+        },
+        {
+          "word": "amigo.",
+          "start": 143.42,
+          "end": 145.24
+        }
+      ],
+      "start": 140.78,
+      "end": 145.24,
+      "confidence": 1.0,
+      "time": 140.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Él tus súplicas oirá",
+      "words": [
+        {
+          "word": "tu",
+          "start": 146.04,
+          "end": 146.38
+        },
+        {
+          "word": "súplica",
+          "start": 146.38,
+          "end": 147.32
+        },
+        {
+          "word": "soirá,",
+          "start": 147.32,
+          "end": 148.24
+        }
+      ],
+      "start": 146.04,
+      "end": 148.56,
+      "confidence": 0.703,
+      "time": 146.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y tu carga llevará.",
+      "words": [
+        {
+          "word": "y",
+          "start": 148.56,
+          "end": 148.72
+        },
+        {
+          "word": "tu",
+          "start": 148.72,
+          "end": 149.02
+        },
+        {
+          "word": "carga",
+          "start": 149.02,
+          "end": 149.66
+        },
+        {
+          "word": "llevará,",
+          "start": 149.66,
+          "end": 152.06
+        }
+      ],
+      "start": 148.56,
+      "end": 152.06,
+      "confidence": 1.0,
+      "time": 148.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, es Cristo el mejor amigo!",
+      "words": [
+        {
+          "word": "es",
+          "start": 153.0,
+          "end": 153.26
+        },
+        {
+          "word": "Cristo",
+          "start": 153.26,
+          "end": 153.8
+        },
+        {
+          "word": "el",
+          "start": 153.8,
+          "end": 153.98
+        },
+        {
+          "word": "mejor",
+          "start": 153.98,
+          "end": 155.24
+        },
+        {
+          "word": "amigo!",
+          "start": 155.24,
+          "end": 157.22
+        }
+      ],
+      "start": 153.0,
+      "end": 157.22,
+      "confidence": 0.833,
+      "time": 153.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Cuando estemos al fin reunidos",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 159.76,
+          "end": 160.48
+        },
+        {
+          "word": "estemos",
+          "start": 160.48,
+          "end": 161.62
+        },
+        {
+          "word": "al",
+          "start": 161.62,
+          "end": 161.96
+        },
+        {
+          "word": "fin",
+          "start": 161.96,
+          "end": 162.38
+        },
+        {
+          "word": "reunidos,",
+          "start": 162.38,
+          "end": 164.86
+        }
+      ],
+      "start": 159.76,
+      "end": 165.0,
+      "confidence": 1.0,
+      "time": 159.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "con los redimidos más allá,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "con",
+          "start": 165.0,
+          "end": 165.48
+        },
+        {
+          "word": "los",
+          "start": 165.48,
+          "end": 166.02
+        },
+        {
+          "word": "redimidos",
+          "start": 166.02,
+          "end": 167.0
+        },
+        {
+          "word": "más",
+          "start": 167.0,
+          "end": 167.86
+        },
+        {
+          "word": "allá,",
+          "start": 167.86,
+          "end": 169.66
+        }
+      ],
+      "start": 165.0,
+      "end": 169.66,
+      "confidence": 1.0,
+      "time": 165.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "cantaremos con fervor",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Cantaremos",
+          "start": 169.66,
+          "end": 171.52
+        },
+        {
+          "word": "con",
+          "start": 171.52,
+          "end": 172.06
+        },
+        {
+          "word": "fervor",
+          "start": 172.06,
+          "end": 172.9
+        }
+      ],
+      "start": 169.66,
+      "end": 172.9,
+      "confidence": 1.0,
+      "time": 169.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "en presencia del Señor.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 172.9,
+          "end": 173.38
+        },
+        {
+          "word": "presencia",
+          "start": 173.38,
+          "end": 174.12
+        },
+        {
+          "word": "del",
+          "start": 174.12,
+          "end": 174.68
+        },
+        {
+          "word": "Señor.",
+          "start": 174.68,
+          "end": 176.5
+        }
+      ],
+      "start": 172.9,
+      "end": 176.5,
+      "confidence": 1.0,
+      "time": 172.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Cristo es el mejor amigo.",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 177.34,
+          "end": 177.44
+        },
+        {
+          "word": "es",
+          "start": 177.44,
+          "end": 178.32
+        },
+        {
+          "word": "el",
+          "start": 178.32,
+          "end": 178.62
+        },
+        {
+          "word": "mejor",
+          "start": 178.62,
+          "end": 179.54
+        },
+        {
+          "word": "amigo,",
+          "start": 179.54,
+          "end": 182.72
+        }
+      ],
+      "start": 177.34,
+      "end": 182.72,
+      "confidence": 1.0,
+      "time": 177.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Cristo es el mejor amigo,",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 183.32,
+          "end": 183.98
+        },
+        {
+          "word": "es",
+          "start": 183.98,
+          "end": 184.84
+        },
+        {
+          "word": "el",
+          "start": 184.84,
+          "end": 185.16
+        },
+        {
+          "word": "mejor",
+          "start": 185.16,
+          "end": 186.22
+        },
+        {
+          "word": "amigo,",
+          "start": 186.22,
+          "end": 187.66
+        }
+      ],
+      "start": 183.32,
+      "end": 187.66,
+      "confidence": 1.0,
+      "time": 183.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Cristo es el mejor amigo.",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 188.62,
+          "end": 189.2
+        },
+        {
+          "word": "es",
+          "start": 189.2,
+          "end": 190.0
+        },
+        {
+          "word": "el",
+          "start": 190.0,
+          "end": 190.38
+        },
+        {
+          "word": "mejor",
+          "start": 190.38,
+          "end": 191.44
+        },
+        {
+          "word": "amigo.",
+          "start": 191.44,
+          "end": 193.26
+        }
+      ],
+      "start": 188.62,
+      "end": 193.26,
+      "confidence": 1.0,
+      "time": 188.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Él tus súplicas oirá",
+      "words": [
+        {
+          "word": "tus",
+          "start": 194.14,
+          "end": 194.42
+        },
+        {
+          "word": "suplicas",
+          "start": 194.42,
+          "end": 195.5
+        },
+        {
+          "word": "oirá",
+          "start": 195.5,
+          "end": 196.38
+        }
+      ],
+      "start": 194.14,
+      "end": 196.38,
+      "confidence": 0.75,
+      "time": 194.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "y tu carga llevará.",
+      "words": [
+        {
+          "word": "y",
+          "start": 196.38,
+          "end": 196.72
+        },
+        {
+          "word": "tu",
+          "start": 196.72,
+          "end": 197.08
+        },
+        {
+          "word": "carga",
+          "start": 197.08,
+          "end": 197.66
+        },
+        {
+          "word": "llevará.",
+          "start": 197.66,
+          "end": 200.16
+        }
+      ],
+      "start": 196.38,
+      "end": 200.16,
+      "confidence": 1.0,
+      "time": 196.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Oh, es Cristo el mejor amigo!",
+      "words": [
+        {
+          "word": "es",
+          "start": 200.8,
+          "end": 201.04
+        },
+        {
+          "word": "Cristo",
+          "start": 201.04,
+          "end": 201.84
+        },
+        {
+          "word": "el",
+          "start": 201.84,
+          "end": 202.16
+        },
+        {
+          "word": "mejor",
+          "start": 202.16,
+          "end": 203.36
+        },
+        {
+          "word": "amigo.",
+          "start": 203.36,
+          "end": 205.5
+        }
+      ],
+      "start": 200.8,
+      "end": 205.5,
+      "confidence": 0.833,
+      "time": 200.8
+    }
+  ]
+}

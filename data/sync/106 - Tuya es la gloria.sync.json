@@ -1,0 +1,743 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.809,
+  "language": "es",
+  "model": "medium",
+  "hymn": 106,
+  "source": "106 - Tuya es la gloria.mp3",
+  "duration": 213.19,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tuya es la gloria, Cristo vencedor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 21.4,
+          "end": 22.26
+        },
+        {
+          "word": "la",
+          "start": 23.66,
+          "end": 24.06
+        },
+        {
+          "word": "gloria",
+          "start": 24.06,
+          "end": 26.06
+        },
+        {
+          "word": "Cristo",
+          "start": 26.06,
+          "end": 27.64
+        },
+        {
+          "word": "vencedor",
+          "start": 27.64,
+          "end": 31.66
+        }
+      ],
+      "start": 21.4,
+      "end": 31.66,
+      "confidence": 0.823,
+      "time": 21.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "De la muerte invicto eres, oh Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 31.66,
+          "end": 32.66
+        },
+        {
+          "word": "la",
+          "start": 32.66,
+          "end": 33.36
+        },
+        {
+          "word": "muerte",
+          "start": 33.36,
+          "end": 34.24
+        },
+        {
+          "word": "invicta,",
+          "start": 34.24,
+          "end": 37.0
+        },
+        {
+          "word": "Señor.",
+          "start": 39.3,
+          "end": 41.64
+        }
+      ],
+      "start": 31.66,
+      "end": 41.64,
+      "confidence": 0.702,
+      "time": 31.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ángeles brillantes vieron tu esplendor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ángeles",
+          "start": 41.64,
+          "end": 44.1
+        },
+        {
+          "word": "brillantes",
+          "start": 44.1,
+          "end": 46.92
+        },
+        {
+          "word": "vieron",
+          "start": 46.92,
+          "end": 48.44
+        },
+        {
+          "word": "tu",
+          "start": 48.44,
+          "end": 49.08
+        },
+        {
+          "word": "esplendor",
+          "start": 49.08,
+          "end": 52.12
+        }
+      ],
+      "start": 41.64,
+      "end": 52.12,
+      "confidence": 1.0,
+      "time": 41.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cuando derrotaste muerte y dolor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 52.12,
+          "end": 53.36
+        },
+        {
+          "word": "muerte",
+          "start": 57.56,
+          "end": 58.56
+        },
+        {
+          "word": "y",
+          "start": 58.56,
+          "end": 59.94
+        },
+        {
+          "word": "dolor.",
+          "start": 59.94,
+          "end": 62.4
+        }
+      ],
+      "start": 52.12,
+      "end": 62.4,
+      "confidence": 0.8,
+      "time": 52.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Tuya es la gloria,",
+      "words": [
+        {
+          "word": "Tuya",
+          "start": 62.4,
+          "end": 64.84
+        },
+        {
+          "word": "es",
+          "start": 64.84,
+          "end": 65.28
+        },
+        {
+          "word": "la",
+          "start": 65.28,
+          "end": 65.68
+        },
+        {
+          "word": "gloria,",
+          "start": 65.68,
+          "end": 67.78
+        }
+      ],
+      "start": 62.4,
+      "end": 68.46,
+      "confidence": 1.0,
+      "time": 62.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cristo vencedor.",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 68.46,
+          "end": 69.1
+        },
+        {
+          "word": "vencedor,",
+          "start": 69.1,
+          "end": 72.8
+        }
+      ],
+      "start": 68.46,
+      "end": 72.8,
+      "confidence": 1.0,
+      "time": 68.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "De la muerte invicto",
+      "words": [
+        {
+          "word": "de",
+          "start": 73.12,
+          "end": 73.98
+        },
+        {
+          "word": "la",
+          "start": 73.98,
+          "end": 74.52
+        },
+        {
+          "word": "muerte",
+          "start": 74.52,
+          "end": 75.48
+        },
+        {
+          "word": "inyecto",
+          "start": 75.48,
+          "end": 78.38
+        }
+      ],
+      "start": 73.12,
+      "end": 78.38,
+      "confidence": 0.957,
+      "time": 73.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "eres, oh Señor.",
+      "words": [
+        {
+          "word": "eres",
+          "start": 78.38,
+          "end": 79.82
+        },
+        {
+          "word": "Señor.",
+          "start": 80.48,
+          "end": 82.2
+        }
+      ],
+      "start": 78.38,
+      "end": 82.2,
+      "confidence": 0.667,
+      "time": 78.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Resucitado, Cristo el Salvador,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Resucitado,",
+          "start": 87.86,
+          "end": 89.26
+        },
+        {
+          "word": "Cristo",
+          "start": 89.64,
+          "end": 90.5
+        },
+        {
+          "word": "el",
+          "start": 90.5,
+          "end": 91.18
+        },
+        {
+          "word": "Salvador,",
+          "start": 91.18,
+          "end": 93.52
+        }
+      ],
+      "start": 87.86,
+      "end": 94.98,
+      "confidence": 1.0,
+      "time": 87.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con amor invita, quita el temor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "con",
+          "start": 94.98,
+          "end": 95.66
+        },
+        {
+          "word": "amor",
+          "start": 95.66,
+          "end": 96.98
+        },
+        {
+          "word": "invita,",
+          "start": 96.98,
+          "end": 99.66
+        },
+        {
+          "word": "quita",
+          "start": 100.2,
+          "end": 101.2
+        },
+        {
+          "word": "el",
+          "start": 101.2,
+          "end": 102.3
+        },
+        {
+          "word": "temor.",
+          "start": 102.3,
+          "end": 104.62
+        }
+      ],
+      "start": 94.98,
+      "end": 104.62,
+      "confidence": 1.0,
+      "time": 94.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cante hoy la iglesia cántico triunfal;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 107.14,
+          "end": 107.62
+        },
+        {
+          "word": "Iglesia,",
+          "start": 107.62,
+          "end": 109.74
+        },
+        {
+          "word": "triunfal!",
+          "start": 112.3,
+          "end": 114.92
+        }
+      ],
+      "start": 107.14,
+      "end": 114.92,
+      "confidence": 0.5,
+      "time": 107.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristo ha vencido al bastión mortal.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¡Cristo",
+          "start": 115.4,
+          "end": 116.56
+        },
+        {
+          "word": "ha",
+          "start": 116.56,
+          "end": 117.54
+        },
+        {
+          "word": "vencido,",
+          "start": 117.54,
+          "end": 119.94
+        },
+        {
+          "word": "mortal!",
+          "start": 122.78,
+          "end": 124.22
+        }
+      ],
+      "start": 115.4,
+      "end": 124.22,
+      "confidence": 0.667,
+      "time": 115.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Tuya es la gloria,",
+      "words": [
+        {
+          "word": "Tuya",
+          "start": 126.44,
+          "end": 127.78
+        },
+        {
+          "word": "es",
+          "start": 127.78,
+          "end": 128.12
+        },
+        {
+          "word": "la",
+          "start": 128.12,
+          "end": 128.52
+        },
+        {
+          "word": "gloria,",
+          "start": 128.52,
+          "end": 130.72
+        }
+      ],
+      "start": 126.44,
+      "end": 131.38,
+      "confidence": 1.0,
+      "time": 126.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cristo vencedor.",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 131.38,
+          "end": 131.92
+        },
+        {
+          "word": "vencedor,",
+          "start": 131.92,
+          "end": 135.72
+        }
+      ],
+      "start": 131.38,
+      "end": 136.42,
+      "confidence": 1.0,
+      "time": 131.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "De la muerte invicto",
+      "words": [
+        {
+          "word": "de",
+          "start": 136.42,
+          "end": 136.9
+        },
+        {
+          "word": "la",
+          "start": 136.9,
+          "end": 137.5
+        },
+        {
+          "word": "muerte",
+          "start": 137.5,
+          "end": 138.46
+        },
+        {
+          "word": "indicto,",
+          "start": 138.46,
+          "end": 141.24
+        }
+      ],
+      "start": 136.42,
+      "end": 143.2,
+      "confidence": 0.979,
+      "time": 136.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "eres, oh Señor.",
+      "words": [
+        {
+          "word": "Señor.",
+          "start": 143.2,
+          "end": 146.04
+        }
+      ],
+      "start": 143.2,
+      "end": 146.04,
+      "confidence": 0.333,
+      "time": 143.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Ya no dudamos, Príncipe inmortal:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Ya",
+          "start": 146.04,
+          "end": 148.72
+        },
+        {
+          "word": "no",
+          "start": 148.72,
+          "end": 149.94
+        },
+        {
+          "word": "duramos,",
+          "start": 149.94,
+          "end": 152.46
+        },
+        {
+          "word": "príncipe",
+          "start": 153.28,
+          "end": 154.4
+        },
+        {
+          "word": "inmortal,",
+          "start": 154.4,
+          "end": 157.52
+        }
+      ],
+      "start": 146.04,
+      "end": 157.52,
+      "confidence": 0.983,
+      "time": 146.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "solo tú das vida, líbranos del mal.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "solo",
+          "start": 158.3,
+          "end": 159.06
+        },
+        {
+          "word": "tu",
+          "start": 159.06,
+          "end": 159.94
+        },
+        {
+          "word": "más",
+          "start": 159.94,
+          "end": 160.9
+        },
+        {
+          "word": "linda,",
+          "start": 160.9,
+          "end": 162.78
+        },
+        {
+          "word": "libra",
+          "start": 163.16,
+          "end": 164.36
+        },
+        {
+          "word": "del",
+          "start": 165.02,
+          "end": 165.5
+        },
+        {
+          "word": "mal.",
+          "start": 165.5,
+          "end": 167.04
+        }
+      ],
+      "start": 158.3,
+      "end": 167.04,
+      "confidence": 0.934,
+      "time": 158.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Danos la victoria por tu amor sin par;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 169.36,
+          "end": 170.12
+        },
+        {
+          "word": "victoria,",
+          "start": 170.12,
+          "end": 173.0
+        },
+        {
+          "word": "'amor",
+          "start": 174.5,
+          "end": 175.2
+        },
+        {
+          "word": "sin",
+          "start": 175.2,
+          "end": 176.06
+        }
+      ],
+      "start": 169.36,
+      "end": 177.04,
+      "confidence": 0.5,
+      "time": 169.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "llévanos a salvo al eterno hogar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Lévalos",
+          "start": 179.38,
+          "end": 180.78
+        },
+        {
+          "word": "al",
+          "start": 180.78,
+          "end": 181.14
+        },
+        {
+          "word": "salvo,",
+          "start": 181.14,
+          "end": 183.54
+        },
+        {
+          "word": "a",
+          "start": 184.02,
+          "end": 184.6
+        }
+      ],
+      "start": 179.38,
+      "end": 188.22,
+      "confidence": 0.58,
+      "time": 179.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Tuya es la gloria,",
+      "words": [
+        {
+          "word": "Tusa",
+          "start": 188.22,
+          "end": 190.7
+        },
+        {
+          "word": "es",
+          "start": 190.7,
+          "end": 191.18
+        },
+        {
+          "word": "la",
+          "start": 191.18,
+          "end": 191.56
+        },
+        {
+          "word": "gloria,",
+          "start": 191.56,
+          "end": 193.72
+        }
+      ],
+      "start": 188.22,
+      "end": 194.24,
+      "confidence": 0.963,
+      "time": 188.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cristo vencedor.",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 194.24,
+          "end": 195.06
+        },
+        {
+          "word": "Vencedor,",
+          "start": 195.06,
+          "end": 198.78
+        }
+      ],
+      "start": 194.24,
+      "end": 199.5,
+      "confidence": 1.0,
+      "time": 194.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "De la muerte invicto",
+      "words": [
+        {
+          "word": "de",
+          "start": 199.5,
+          "end": 199.92
+        },
+        {
+          "word": "la",
+          "start": 199.92,
+          "end": 200.46
+        },
+        {
+          "word": "muerte",
+          "start": 200.46,
+          "end": 201.56
+        },
+        {
+          "word": "indicta,",
+          "start": 201.56,
+          "end": 204.18
+        }
+      ],
+      "start": 199.5,
+      "end": 205.0,
+      "confidence": 0.957,
+      "time": 199.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "eres, oh Señor.",
+      "words": [
+        {
+          "word": "Berezo",
+          "start": 205.0,
+          "end": 206.44
+        },
+        {
+          "word": "Señor.",
+          "start": 207.04,
+          "end": 208.22
+        }
+      ],
+      "start": 205.0,
+      "end": 208.22,
+      "confidence": 0.587,
+      "time": 205.0
+    }
+  ]
+}

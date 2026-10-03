@@ -1,0 +1,716 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.953,
+  "language": "es",
+  "model": "medium",
+  "hymn": 27,
+  "source": "027 - Oh Pastor divino, escucha.mp3",
+  "duration": 138.08,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh Pastor divino!, escucha",
+      "verse": 1,
+      "words": [
+        {
+          "word": "O",
+          "start": 10.12,
+          "end": 11.52
+        },
+        {
+          "word": "pastor",
+          "start": 11.52,
+          "end": 12.92
+        },
+        {
+          "word": "divino,",
+          "start": 12.92,
+          "end": 14.06
+        },
+        {
+          "word": "escucha",
+          "start": 14.18,
+          "end": 15.94
+        }
+      ],
+      "start": 10.12,
+      "end": 15.94,
+      "confidence": 0.95,
+      "time": 10.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a los que en este buen lugar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 15.94,
+          "end": 16.26
+        },
+        {
+          "word": "los",
+          "start": 16.26,
+          "end": 16.5
+        },
+        {
+          "word": "que",
+          "start": 16.5,
+          "end": 16.78
+        },
+        {
+          "word": "en",
+          "start": 16.78,
+          "end": 17.94
+        },
+        {
+          "word": "este",
+          "start": 17.94,
+          "end": 18.36
+        },
+        {
+          "word": "buen",
+          "start": 18.36,
+          "end": 18.8
+        },
+        {
+          "word": "lugar,",
+          "start": 18.8,
+          "end": 20.36
+        }
+      ],
+      "start": 15.94,
+      "end": 21.18,
+      "confidence": 1.0,
+      "time": 15.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "como ovejas, congregados te venimos a buscar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "como",
+          "start": 21.18,
+          "end": 21.6
+        },
+        {
+          "word": "abejas",
+          "start": 21.6,
+          "end": 23.2
+        },
+        {
+          "word": "congregados,",
+          "start": 23.2,
+          "end": 25.48
+        },
+        {
+          "word": "te",
+          "start": 26.1,
+          "end": 26.4
+        },
+        {
+          "word": "venimos",
+          "start": 26.4,
+          "end": 28.18
+        },
+        {
+          "word": "a",
+          "start": 28.18,
+          "end": 28.84
+        },
+        {
+          "word": "buscar.",
+          "start": 28.84,
+          "end": 29.98
+        }
+      ],
+      "start": 21.18,
+      "end": 29.98,
+      "confidence": 0.971,
+      "time": 21.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ven, oh Cristo; ven, oh Cristo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ven,",
+          "start": 29.98,
+          "end": 31.28
+        },
+        {
+          "word": "oh",
+          "start": 31.5,
+          "end": 31.52
+        },
+        {
+          "word": "Cristo,",
+          "start": 31.52,
+          "end": 32.82
+        },
+        {
+          "word": "ven,",
+          "start": 33.24,
+          "end": 33.82
+        },
+        {
+          "word": "oh",
+          "start": 33.82,
+          "end": 33.94
+        },
+        {
+          "word": "Cristo,",
+          "start": 33.94,
+          "end": 35.26
+        }
+      ],
+      "start": 29.98,
+      "end": 35.82,
+      "confidence": 1.0,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tu rebaño a apacentar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tu",
+          "start": 35.82,
+          "end": 36.1
+        },
+        {
+          "word": "refaño",
+          "start": 36.1,
+          "end": 37.88
+        },
+        {
+          "word": "apacentar.",
+          "start": 37.88,
+          "end": 40.74
+        }
+      ],
+      "start": 35.82,
+      "end": 40.74,
+      "confidence": 0.725,
+      "time": 35.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Al perdido en el pecado,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Al",
+          "start": 42.28,
+          "end": 42.62
+        },
+        {
+          "word": "perdido",
+          "start": 42.62,
+          "end": 44.42
+        },
+        {
+          "word": "en",
+          "start": 44.42,
+          "end": 45.12
+        },
+        {
+          "word": "el",
+          "start": 45.12,
+          "end": 45.32
+        },
+        {
+          "word": "pecado",
+          "start": 45.32,
+          "end": 46.64
+        }
+      ],
+      "start": 42.28,
+      "end": 46.64,
+      "confidence": 1.0,
+      "time": 42.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "su peligro harás sentir;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "su",
+          "start": 46.64,
+          "end": 47.64
+        },
+        {
+          "word": "peligro",
+          "start": 47.64,
+          "end": 49.4
+        },
+        {
+          "word": "hará",
+          "start": 49.4,
+          "end": 50.06
+        },
+        {
+          "word": "sentir.",
+          "start": 50.06,
+          "end": 50.98
+        }
+      ],
+      "start": 46.64,
+      "end": 50.98,
+      "confidence": 0.985,
+      "time": 46.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "llama al pobre seducido, déjale tu voz oír.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Llama",
+          "start": 50.98,
+          "end": 52.6
+        },
+        {
+          "word": "al",
+          "start": 52.6,
+          "end": 53.94
+        },
+        {
+          "word": "pobre",
+          "start": 53.94,
+          "end": 54.42
+        },
+        {
+          "word": "seducido,",
+          "start": 54.42,
+          "end": 56.76
+        },
+        {
+          "word": "déjale",
+          "start": 57.48,
+          "end": 59.04
+        },
+        {
+          "word": "tu",
+          "start": 59.04,
+          "end": 59.48
+        },
+        {
+          "word": "voz",
+          "start": 59.48,
+          "end": 60.08
+        },
+        {
+          "word": "oír,",
+          "start": 60.08,
+          "end": 61.66
+        }
+      ],
+      "start": 50.98,
+      "end": 62.18,
+      "confidence": 1.0,
+      "time": 50.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Al enfermo, al enfermo, pronto dígnate acudir.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 62.18,
+          "end": 62.5
+        },
+        {
+          "word": "enfermo,",
+          "start": 62.5,
+          "end": 64.32
+        },
+        {
+          "word": "al",
+          "start": 64.32,
+          "end": 64.98
+        },
+        {
+          "word": "enfermo,",
+          "start": 64.98,
+          "end": 66.76
+        },
+        {
+          "word": "pronto",
+          "start": 67.06,
+          "end": 67.62
+        },
+        {
+          "word": "digna",
+          "start": 67.62,
+          "end": 69.26
+        },
+        {
+          "word": "acudir.",
+          "start": 69.78,
+          "end": 72.3
+        }
+      ],
+      "start": 62.18,
+      "end": 72.3,
+      "confidence": 0.991,
+      "time": 62.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Guía al triste y fatigado",
+      "verse": 3,
+      "words": [
+        {
+          "word": "al",
+          "start": 73.94,
+          "end": 74.2
+        },
+        {
+          "word": "triste",
+          "start": 74.2,
+          "end": 75.62
+        },
+        {
+          "word": "y",
+          "start": 75.62,
+          "end": 76.02
+        },
+        {
+          "word": "fatigado,",
+          "start": 76.02,
+          "end": 78.18
+        }
+      ],
+      "start": 73.94,
+      "end": 78.52,
+      "confidence": 0.8,
+      "time": 73.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al aprisco del Señor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "al",
+          "start": 78.52,
+          "end": 79.06
+        },
+        {
+          "word": "aprisco",
+          "start": 79.06,
+          "end": 80.72
+        },
+        {
+          "word": "del",
+          "start": 80.72,
+          "end": 81.34
+        },
+        {
+          "word": "Señor,",
+          "start": 81.34,
+          "end": 82.92
+        }
+      ],
+      "start": 78.52,
+      "end": 83.74,
+      "confidence": 1.0,
+      "time": 78.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "cría al tierno corderito a tu lado, buen Pastor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "cría",
+          "start": 83.74,
+          "end": 83.88
+        },
+        {
+          "word": "tierno",
+          "start": 84.32,
+          "end": 85.74
+        },
+        {
+          "word": "porterito",
+          "start": 85.74,
+          "end": 87.84
+        },
+        {
+          "word": "a",
+          "start": 87.84,
+          "end": 88.82
+        },
+        {
+          "word": "tu",
+          "start": 88.82,
+          "end": 89.1
+        },
+        {
+          "word": "lado,",
+          "start": 89.1,
+          "end": 90.64
+        },
+        {
+          "word": "buen",
+          "start": 90.84,
+          "end": 91.14
+        },
+        {
+          "word": "pastor,",
+          "start": 91.14,
+          "end": 92.64
+        }
+      ],
+      "start": 83.74,
+      "end": 92.64,
+      "confidence": 0.874,
+      "time": 83.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con los pastos, con los pastos de celeste y dulce amor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 92.64,
+          "end": 93.62
+        },
+        {
+          "word": "los",
+          "start": 93.62,
+          "end": 94.36
+        },
+        {
+          "word": "pastos,",
+          "start": 94.36,
+          "end": 95.52
+        },
+        {
+          "word": "con",
+          "start": 95.58,
+          "end": 96.18
+        },
+        {
+          "word": "los",
+          "start": 96.18,
+          "end": 96.8
+        },
+        {
+          "word": "pastos",
+          "start": 96.8,
+          "end": 97.98
+        },
+        {
+          "word": "de",
+          "start": 97.98,
+          "end": 98.68
+        },
+        {
+          "word": "celeste",
+          "start": 98.68,
+          "end": 100.3
+        },
+        {
+          "word": "y",
+          "start": 100.3,
+          "end": 100.64
+        },
+        {
+          "word": "dulce",
+          "start": 100.64,
+          "end": 101.36
+        },
+        {
+          "word": "amor.",
+          "start": 101.36,
+          "end": 103.42
+        }
+      ],
+      "start": 92.64,
+      "end": 103.42,
+      "confidence": 1.0,
+      "time": 92.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "¡Oh Jesús!, escucha el ruego",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 104.64,
+          "end": 105.08
+        },
+        {
+          "word": "Jesús,",
+          "start": 105.08,
+          "end": 106.66
+        },
+        {
+          "word": "escucha",
+          "start": 106.82,
+          "end": 107.78
+        },
+        {
+          "word": "el",
+          "start": 107.78,
+          "end": 108.06
+        },
+        {
+          "word": "ruego",
+          "start": 108.06,
+          "end": 109.28
+        }
+      ],
+      "start": 104.64,
+      "end": 109.28,
+      "confidence": 1.0,
+      "time": 104.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "y esta humilde petición.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 109.28,
+          "end": 110.06
+        },
+        {
+          "word": "esta",
+          "start": 110.06,
+          "end": 110.28
+        },
+        {
+          "word": "humilde",
+          "start": 110.28,
+          "end": 111.96
+        },
+        {
+          "word": "petición",
+          "start": 111.96,
+          "end": 113.64
+        }
+      ],
+      "start": 109.28,
+      "end": 113.64,
+      "confidence": 1.0,
+      "time": 109.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Ven a henchir a tu rebaño de sincera devoción.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Ven",
+          "start": 113.64,
+          "end": 115.02
+        },
+        {
+          "word": "a",
+          "start": 115.02,
+          "end": 115.22
+        },
+        {
+          "word": "enchirar",
+          "start": 115.22,
+          "end": 116.98
+        },
+        {
+          "word": "tu",
+          "start": 116.98,
+          "end": 117.44
+        },
+        {
+          "word": "rebaño",
+          "start": 117.44,
+          "end": 119.26
+        },
+        {
+          "word": "de",
+          "start": 119.26,
+          "end": 120.06
+        },
+        {
+          "word": "sincera",
+          "start": 120.06,
+          "end": 121.94
+        },
+        {
+          "word": "devoción.",
+          "start": 121.94,
+          "end": 124.12
+        }
+      ],
+      "start": 113.64,
+      "end": 124.12,
+      "confidence": 0.876,
+      "time": 113.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Cantaremos, cantaremos tu benigna protección.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Cantaremos,",
+          "start": 125.16,
+          "end": 126.56
+        },
+        {
+          "word": "cantaremos",
+          "start": 126.86,
+          "end": 129.1
+        },
+        {
+          "word": "tu",
+          "start": 129.1,
+          "end": 129.86
+        },
+        {
+          "word": "benigna",
+          "start": 129.86,
+          "end": 131.9
+        },
+        {
+          "word": "protección.",
+          "start": 131.9,
+          "end": 134.02
+        }
+      ],
+      "start": 125.16,
+      "end": 134.02,
+      "confidence": 1.0,
+      "time": 125.16
+    }
+  ]
+}

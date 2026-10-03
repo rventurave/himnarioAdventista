@@ -1,0 +1,865 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.761,
+  "language": "es",
+  "model": "medium",
+  "hymn": 71,
+  "source": "071 - Cada cosa hermosa.mp3",
+  "duration": 208.87,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "A cada flor que se abre,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "A",
+          "start": 41.56,
+          "end": 41.56
+        },
+        {
+          "word": "cada",
+          "start": 41.56,
+          "end": 42.44
+        },
+        {
+          "word": "flor",
+          "start": 42.44,
+          "end": 43.12
+        },
+        {
+          "word": "que",
+          "start": 43.12,
+          "end": 44.0
+        },
+        {
+          "word": "a",
+          "start": 46.28,
+          "end": 46.54
+        }
+      ],
+      "start": 41.56,
+      "end": 47.06,
+      "confidence": 0.823,
+      "time": 41.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al ave musical.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "vez",
+          "start": 47.06,
+          "end": 47.66
+        },
+        {
+          "word": "musical,",
+          "start": 47.66,
+          "end": 50.42
+        }
+      ],
+      "start": 47.06,
+      "end": 50.42,
+      "confidence": 0.6,
+      "time": 47.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "vistió de tonos bellos,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "visión",
+          "start": 51.0,
+          "end": 52.32
+        },
+        {
+          "word": "todos",
+          "start": 53.14,
+          "end": 53.6
+        },
+        {
+          "word": "los",
+          "start": 53.6,
+          "end": 54.84
+        }
+      ],
+      "start": 51.0,
+      "end": 55.06,
+      "confidence": 0.645,
+      "time": 51.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "el Padre celestial.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "del",
+          "start": 56.12,
+          "end": 56.62
+        },
+        {
+          "word": "celestial.",
+          "start": 58.06,
+          "end": 59.2
+        }
+      ],
+      "start": 56.12,
+      "end": 59.2,
+      "confidence": 0.627,
+      "time": 56.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cada cosa hermosa aquí",
+      "words": [
+        {
+          "word": "aquí",
+          "start": 64.82,
+          "end": 65.94
+        }
+      ],
+      "start": 64.82,
+      "end": 67.98,
+      "confidence": 0.25,
+      "time": 64.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y todo su esplendor,",
+      "words": [
+        {
+          "word": "su",
+          "start": 67.98,
+          "end": 68.7
+        },
+        {
+          "word": "esplendor",
+          "start": 68.7,
+          "end": 71.64
+        }
+      ],
+      "start": 67.98,
+      "end": 74.16,
+      "confidence": 0.5,
+      "time": 67.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "es la obra sin igual",
+      "words": [
+        {
+          "word": "sin",
+          "start": 74.16,
+          "end": 75.22
+        },
+        {
+          "word": "igual",
+          "start": 75.22,
+          "end": 76.02
+        }
+      ],
+      "start": 74.16,
+      "end": 76.02,
+      "confidence": 0.4,
+      "time": 74.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "del grande Creador.",
+      "words": [
+        {
+          "word": "del",
+          "start": 76.02,
+          "end": 76.86
+        },
+        {
+          "word": "Grande",
+          "start": 76.86,
+          "end": 78.08
+        },
+        {
+          "word": "Creador.",
+          "start": 78.08,
+          "end": 81.06
+        }
+      ],
+      "start": 76.02,
+      "end": 81.06,
+      "confidence": 1.0,
+      "time": 76.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Montañas majestuosas,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "montañas",
+          "start": 81.06,
+          "end": 83.28
+        },
+        {
+          "word": "majestuosas",
+          "start": 83.28,
+          "end": 86.14
+        }
+      ],
+      "start": 81.06,
+      "end": 86.14,
+      "confidence": 1.0,
+      "time": 81.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "el río al correr,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "del",
+          "start": 86.14,
+          "end": 87.06
+        },
+        {
+          "word": "río",
+          "start": 87.06,
+          "end": 88.54
+        },
+        {
+          "word": "acorde,",
+          "start": 88.54,
+          "end": 90.76
+        }
+      ],
+      "start": 86.14,
+      "end": 90.76,
+      "confidence": 0.67,
+      "time": 86.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la paz del sol poniente,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 91.74,
+          "end": 92.1
+        },
+        {
+          "word": "paz",
+          "start": 92.1,
+          "end": 92.94
+        },
+        {
+          "word": "del",
+          "start": 92.94,
+          "end": 93.5
+        },
+        {
+          "word": "sol",
+          "start": 93.5,
+          "end": 93.92
+        }
+      ],
+      "start": 91.74,
+      "end": 96.46,
+      "confidence": 0.8,
+      "time": 91.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "el bello amanecer.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 96.46,
+          "end": 97.28
+        },
+        {
+          "word": "velo",
+          "start": 97.28,
+          "end": 98.24
+        },
+        {
+          "word": "amanece.",
+          "start": 98.24,
+          "end": 101.5
+        }
+      ],
+      "start": 96.46,
+      "end": 101.5,
+      "confidence": 0.913,
+      "time": 96.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cada cosa hermosa aquí",
+      "words": [
+        {
+          "word": "Cada",
+          "start": 101.5,
+          "end": 103.4
+        },
+        {
+          "word": "cosa",
+          "start": 103.4,
+          "end": 104.42
+        },
+        {
+          "word": "haymos",
+          "start": 104.42,
+          "end": 105.52
+        },
+        {
+          "word": "aquí",
+          "start": 105.52,
+          "end": 106.24
+        }
+      ],
+      "start": 101.5,
+      "end": 106.24,
+      "confidence": 0.942,
+      "time": 101.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y todo su esplendor,",
+      "words": [
+        {
+          "word": "y",
+          "start": 106.24,
+          "end": 107.28
+        },
+        {
+          "word": "todo",
+          "start": 107.28,
+          "end": 108.4
+        },
+        {
+          "word": "su",
+          "start": 108.4,
+          "end": 109.02
+        },
+        {
+          "word": "esplendor",
+          "start": 109.02,
+          "end": 111.98
+        }
+      ],
+      "start": 106.24,
+      "end": 111.98,
+      "confidence": 1.0,
+      "time": 106.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "es la obra sin igual",
+      "words": [
+        {
+          "word": "Es",
+          "start": 111.98,
+          "end": 113.1
+        },
+        {
+          "word": "la",
+          "start": 113.1,
+          "end": 113.92
+        },
+        {
+          "word": "obra",
+          "start": 113.92,
+          "end": 114.72
+        },
+        {
+          "word": "sin",
+          "start": 114.72,
+          "end": 115.66
+        },
+        {
+          "word": "igual",
+          "start": 115.66,
+          "end": 116.38
+        }
+      ],
+      "start": 111.98,
+      "end": 116.38,
+      "confidence": 1.0,
+      "time": 111.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "del grande Creador.",
+      "words": [
+        {
+          "word": "del",
+          "start": 116.38,
+          "end": 117.32
+        },
+        {
+          "word": "grande",
+          "start": 117.32,
+          "end": 118.5
+        },
+        {
+          "word": "creador",
+          "start": 118.5,
+          "end": 121.32
+        }
+      ],
+      "start": 116.38,
+      "end": 121.32,
+      "confidence": 1.0,
+      "time": 116.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "El viento del invierno,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "El",
+          "start": 121.32,
+          "end": 122.36
+        },
+        {
+          "word": "viento",
+          "start": 122.36,
+          "end": 123.7
+        },
+        {
+          "word": "del",
+          "start": 123.7,
+          "end": 124.64
+        },
+        {
+          "word": "invierno,",
+          "start": 124.64,
+          "end": 126.46
+        }
+      ],
+      "start": 121.32,
+      "end": 127.08,
+      "confidence": 1.0,
+      "time": 121.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "la brisa estival,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 127.08,
+          "end": 127.44
+        },
+        {
+          "word": "brisa",
+          "start": 127.44,
+          "end": 128.62
+        },
+        {
+          "word": "estima",
+          "start": 128.62,
+          "end": 130.58
+        }
+      ],
+      "start": 127.08,
+      "end": 130.58,
+      "confidence": 0.954,
+      "time": 127.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "los frutos en el huerto,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Los",
+          "start": 130.58,
+          "end": 132.4
+        },
+        {
+          "word": "juntos",
+          "start": 132.4,
+          "end": 133.64
+        },
+        {
+          "word": "en",
+          "start": 133.64,
+          "end": 134.56
+        },
+        {
+          "word": "el",
+          "start": 134.56,
+          "end": 135.26
+        }
+      ],
+      "start": 130.58,
+      "end": 137.5,
+      "confidence": 0.76,
+      "time": 130.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "el fresco manantial.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 137.5,
+          "end": 137.92
+        },
+        {
+          "word": "fresco",
+          "start": 137.92,
+          "end": 139.08
+        },
+        {
+          "word": "anantio.",
+          "start": 139.08,
+          "end": 141.58
+        }
+      ],
+      "start": 137.5,
+      "end": 141.58,
+      "confidence": 0.95,
+      "time": 137.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cada cosa hermosa aquí",
+      "words": [
+        {
+          "word": "aquí",
+          "start": 145.92,
+          "end": 146.92
+        }
+      ],
+      "start": 145.92,
+      "end": 146.92,
+      "confidence": 0.25,
+      "time": 145.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y todo su esplendor,",
+      "words": [
+        {
+          "word": "y",
+          "start": 146.92,
+          "end": 148.06
+        },
+        {
+          "word": "todos",
+          "start": 148.06,
+          "end": 149.24
+        },
+        {
+          "word": "respendón.",
+          "start": 149.24,
+          "end": 152.6
+        }
+      ],
+      "start": 146.92,
+      "end": 152.6,
+      "confidence": 0.702,
+      "time": 146.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "es la obra sin igual",
+      "words": [
+        {
+          "word": "Es",
+          "start": 152.6,
+          "end": 153.94
+        },
+        {
+          "word": "la",
+          "start": 153.94,
+          "end": 154.78
+        },
+        {
+          "word": "gloria",
+          "start": 154.78,
+          "end": 155.62
+        },
+        {
+          "word": "sin",
+          "start": 155.62,
+          "end": 156.56
+        },
+        {
+          "word": "igual",
+          "start": 156.56,
+          "end": 157.4
+        }
+      ],
+      "start": 152.6,
+      "end": 157.4,
+      "confidence": 0.952,
+      "time": 152.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "del grande Creador.",
+      "words": [
+        {
+          "word": "del",
+          "start": 157.4,
+          "end": 158.2
+        },
+        {
+          "word": "Grande",
+          "start": 158.2,
+          "end": 159.46
+        },
+        {
+          "word": "Creador",
+          "start": 159.46,
+          "end": 162.28
+        }
+      ],
+      "start": 157.4,
+      "end": 162.28,
+      "confidence": 1.0,
+      "time": 157.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Nos concedió la vista",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Nos",
+          "start": 162.28,
+          "end": 163.54
+        },
+        {
+          "word": "la",
+          "start": 165.36,
+          "end": 166.02
+        },
+        {
+          "word": "vista",
+          "start": 166.02,
+          "end": 167.48
+        }
+      ],
+      "start": 162.28,
+      "end": 167.48,
+      "confidence": 0.75,
+      "time": 162.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "y labios para hablar",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 167.48,
+          "end": 168.58
+        },
+        {
+          "word": "labios",
+          "start": 168.58,
+          "end": 169.88
+        },
+        {
+          "word": "para",
+          "start": 169.88,
+          "end": 171.2
+        }
+      ],
+      "start": 167.48,
+      "end": 172.64,
+      "confidence": 0.75,
+      "time": 167.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "del Creador eterno",
+      "verse": 4,
+      "words": [
+        {
+          "word": "del",
+          "start": 172.64,
+          "end": 173.68
+        },
+        {
+          "word": "creador",
+          "start": 173.68,
+          "end": 175.7
+        }
+      ],
+      "start": 172.64,
+      "end": 177.98,
+      "confidence": 0.667,
+      "time": 172.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "que tanto pudo amar.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "que",
+          "start": 177.98,
+          "end": 178.9
+        },
+        {
+          "word": "tanto",
+          "start": 178.9,
+          "end": 180.04
+        },
+        {
+          "word": "pudo",
+          "start": 180.04,
+          "end": 181.12
+        },
+        {
+          "word": "amar.",
+          "start": 181.12,
+          "end": 183.44
+        }
+      ],
+      "start": 177.98,
+      "end": 183.44,
+      "confidence": 1.0,
+      "time": 177.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Cada cosa hermosa aquí",
+      "words": [
+        {
+          "word": "aquí",
+          "start": 187.46,
+          "end": 188.24
+        }
+      ],
+      "start": 187.46,
+      "end": 188.24,
+      "confidence": 0.25,
+      "time": 187.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "y todo su esplendor,",
+      "words": [
+        {
+          "word": "y",
+          "start": 188.24,
+          "end": 189.34
+        },
+        {
+          "word": "todos",
+          "start": 189.34,
+          "end": 190.4
+        },
+        {
+          "word": "su",
+          "start": 190.4,
+          "end": 191.08
+        },
+        {
+          "word": "esplendor",
+          "start": 191.08,
+          "end": 194.18
+        }
+      ],
+      "start": 188.24,
+      "end": 194.18,
+      "confidence": 0.985,
+      "time": 188.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "es la obra sin igual",
+      "words": [
+        {
+          "word": "es",
+          "start": 194.18,
+          "end": 195.26
+        },
+        {
+          "word": "la",
+          "start": 195.26,
+          "end": 196.28
+        },
+        {
+          "word": "sin",
+          "start": 197.26,
+          "end": 197.66
+        },
+        {
+          "word": "igual",
+          "start": 197.66,
+          "end": 198.76
+        }
+      ],
+      "start": 194.18,
+      "end": 198.76,
+      "confidence": 0.8,
+      "time": 194.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "del grande Creador.",
+      "words": [
+        {
+          "word": "del",
+          "start": 198.76,
+          "end": 199.66
+        },
+        {
+          "word": "grande",
+          "start": 199.66,
+          "end": 200.86
+        }
+      ],
+      "start": 198.76,
+      "end": 205.76,
+      "confidence": 0.667,
+      "time": 198.76
+    }
+  ]
+}

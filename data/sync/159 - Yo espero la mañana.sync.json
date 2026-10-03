@@ -1,0 +1,990 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.93,
+  "language": "es",
+  "model": "medium",
+  "hymn": 159,
+  "source": "159 - Yo espero la mañana.mp3",
+  "duration": 208.72,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Yo espero la mañana",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 10.24,
+          "end": 11.06
+        },
+        {
+          "word": "espero",
+          "start": 11.06,
+          "end": 12.46
+        },
+        {
+          "word": "la",
+          "start": 12.46,
+          "end": 13.12
+        },
+        {
+          "word": "mañana",
+          "start": 13.12,
+          "end": 15.8
+        }
+      ],
+      "start": 10.24,
+      "end": 15.8,
+      "confidence": 1.0,
+      "time": 10.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "del gran día sin igual,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Nel",
+          "start": 15.8,
+          "end": 17.36
+        },
+        {
+          "word": "gran",
+          "start": 17.36,
+          "end": 17.96
+        },
+        {
+          "word": "día",
+          "start": 17.96,
+          "end": 18.62
+        },
+        {
+          "word": "sin",
+          "start": 18.62,
+          "end": 19.3
+        }
+      ],
+      "start": 15.8,
+      "end": 21.98,
+      "confidence": 0.76,
+      "time": 15.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "del cual dicha eterna emana",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Nel",
+          "start": 21.98,
+          "end": 23.34
+        },
+        {
+          "word": "cual",
+          "start": 23.34,
+          "end": 23.94
+        },
+        {
+          "word": "eterna",
+          "start": 24.6,
+          "end": 25.32
+        },
+        {
+          "word": "emana",
+          "start": 25.32,
+          "end": 27.3
+        }
+      ],
+      "start": 21.98,
+      "end": 27.3,
+      "confidence": 0.76,
+      "time": 21.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y deleite perennal.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 27.3,
+          "end": 28.16
+        },
+        {
+          "word": "de",
+          "start": 28.16,
+          "end": 28.52
+        },
+        {
+          "word": "perenar.",
+          "start": 30.1,
+          "end": 33.42
+        }
+      ],
+      "start": 27.3,
+      "end": 33.42,
+      "confidence": 0.94,
+      "time": 27.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Esperando, esperando",
+      "words": [
+        {
+          "word": "Esperando,",
+          "start": 35.26,
+          "end": 36.66
+        },
+        {
+          "word": "esperando",
+          "start": 39.46,
+          "end": 39.46
+        }
+      ],
+      "start": 35.26,
+      "end": 39.46,
+      "confidence": 1.0,
+      "time": 35.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "otra vida sin dolor",
+      "words": [
+        {
+          "word": "otra",
+          "start": 39.46,
+          "end": 40.36
+        },
+        {
+          "word": "vida",
+          "start": 40.36,
+          "end": 42.5
+        },
+        {
+          "word": "sin",
+          "start": 42.5,
+          "end": 43.06
+        },
+        {
+          "word": "dolor",
+          "start": 43.06,
+          "end": 45.34
+        }
+      ],
+      "start": 39.46,
+      "end": 45.34,
+      "confidence": 1.0,
+      "time": 39.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y la grata bienvenida",
+      "words": [
+        {
+          "word": "y",
+          "start": 45.34,
+          "end": 46.3
+        },
+        {
+          "word": "la",
+          "start": 46.3,
+          "end": 46.62
+        },
+        {
+          "word": "grata",
+          "start": 46.62,
+          "end": 48.7
+        },
+        {
+          "word": "bienvenida",
+          "start": 48.7,
+          "end": 51.16
+        }
+      ],
+      "start": 45.34,
+      "end": 51.16,
+      "confidence": 1.0,
+      "time": 45.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "de Jesús, mi amante Salvador.",
+      "words": [
+        {
+          "word": "de",
+          "start": 51.16,
+          "end": 52.14
+        },
+        {
+          "word": "Jesús",
+          "start": 52.14,
+          "end": 52.88
+        },
+        {
+          "word": "mi",
+          "start": 52.88,
+          "end": 53.24
+        },
+        {
+          "word": "amante",
+          "start": 53.24,
+          "end": 54.06
+        },
+        {
+          "word": "salvador.",
+          "start": 54.06,
+          "end": 58.3
+        }
+      ],
+      "start": 51.16,
+      "end": 58.3,
+      "confidence": 1.0,
+      "time": 51.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Yo espero la victoria,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 59.28,
+          "end": 60.06
+        },
+        {
+          "word": "espero",
+          "start": 60.06,
+          "end": 60.98
+        },
+        {
+          "word": "la",
+          "start": 60.98,
+          "end": 61.6
+        },
+        {
+          "word": "victoria",
+          "start": 61.6,
+          "end": 64.6
+        }
+      ],
+      "start": 59.28,
+      "end": 64.6,
+      "confidence": 1.0,
+      "time": 59.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de la muerte al fin triunfar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 64.6,
+          "end": 65.84
+        },
+        {
+          "word": "la",
+          "start": 65.84,
+          "end": 66.56
+        },
+        {
+          "word": "muerte",
+          "start": 66.56,
+          "end": 66.94
+        },
+        {
+          "word": "al",
+          "start": 66.94,
+          "end": 67.28
+        },
+        {
+          "word": "fin",
+          "start": 67.28,
+          "end": 67.48
+        },
+        {
+          "word": "triunfar,",
+          "start": 67.48,
+          "end": 70.5
+        }
+      ],
+      "start": 64.6,
+      "end": 70.5,
+      "confidence": 1.0,
+      "time": 64.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "recibir la eterna gloria",
+      "verse": 2,
+      "words": [
+        {
+          "word": "recibir",
+          "start": 71.68,
+          "end": 72.62
+        },
+        {
+          "word": "la",
+          "start": 72.62,
+          "end": 73.08
+        },
+        {
+          "word": "eterna",
+          "start": 73.08,
+          "end": 73.8
+        },
+        {
+          "word": "gloria",
+          "start": 73.8,
+          "end": 75.16
+        }
+      ],
+      "start": 71.68,
+      "end": 75.16,
+      "confidence": 1.0,
+      "time": 71.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y mis sienes coronar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 75.16,
+          "end": 76.44
+        },
+        {
+          "word": "mi",
+          "start": 76.44,
+          "end": 76.88
+        },
+        {
+          "word": "descolonar.",
+          "start": 78.04,
+          "end": 81.16
+        }
+      ],
+      "start": 75.16,
+      "end": 81.16,
+      "confidence": 0.691,
+      "time": 75.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Esperando, esperando",
+      "words": [
+        {
+          "word": "Esperando,",
+          "start": 83.7,
+          "end": 85.1
+        },
+        {
+          "word": "esperando",
+          "start": 88.0,
+          "end": 88.0
+        }
+      ],
+      "start": 83.7,
+      "end": 88.0,
+      "confidence": 1.0,
+      "time": 83.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "otra vida sin dolor",
+      "words": [
+        {
+          "word": "otra",
+          "start": 88.0,
+          "end": 88.92
+        },
+        {
+          "word": "vida",
+          "start": 88.92,
+          "end": 91.1
+        },
+        {
+          "word": "sin",
+          "start": 91.1,
+          "end": 91.62
+        },
+        {
+          "word": "dolor,",
+          "start": 91.62,
+          "end": 93.16
+        }
+      ],
+      "start": 88.0,
+      "end": 93.16,
+      "confidence": 1.0,
+      "time": 88.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y la grata bienvenida",
+      "words": [
+        {
+          "word": "y",
+          "start": 94.56,
+          "end": 94.8
+        },
+        {
+          "word": "la",
+          "start": 94.8,
+          "end": 95.48
+        },
+        {
+          "word": "grada",
+          "start": 95.48,
+          "end": 97.18
+        },
+        {
+          "word": "bienvenida",
+          "start": 97.18,
+          "end": 99.16
+        }
+      ],
+      "start": 94.56,
+      "end": 99.16,
+      "confidence": 0.97,
+      "time": 94.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "de Jesús, mi amante Salvador.",
+      "words": [
+        {
+          "word": "de",
+          "start": 99.16,
+          "end": 100.66
+        },
+        {
+          "word": "Jesús",
+          "start": 100.66,
+          "end": 101.36
+        },
+        {
+          "word": "mi",
+          "start": 101.36,
+          "end": 101.8
+        },
+        {
+          "word": "amante",
+          "start": 101.8,
+          "end": 102.56
+        },
+        {
+          "word": "salvador.",
+          "start": 102.56,
+          "end": 106.16
+        }
+      ],
+      "start": 99.16,
+      "end": 106.16,
+      "confidence": 1.0,
+      "time": 99.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Yo espero ir al cielo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "espero",
+          "start": 108.5,
+          "end": 109.76
+        },
+        {
+          "word": "ir",
+          "start": 109.76,
+          "end": 110.22
+        },
+        {
+          "word": "al",
+          "start": 110.22,
+          "end": 110.64
+        },
+        {
+          "word": "cielo,",
+          "start": 110.64,
+          "end": 112.16
+        }
+      ],
+      "start": 108.5,
+      "end": 112.16,
+      "confidence": 0.8,
+      "time": 108.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "donde reina eterno amor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "donde",
+          "start": 113.54,
+          "end": 114.7
+        },
+        {
+          "word": "reina",
+          "start": 114.7,
+          "end": 115.62
+        },
+        {
+          "word": "eterno",
+          "start": 115.62,
+          "end": 116.56
+        },
+        {
+          "word": "amor.",
+          "start": 116.56,
+          "end": 118.16
+        }
+      ],
+      "start": 113.54,
+      "end": 118.16,
+      "confidence": 1.0,
+      "time": 113.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "peregrino soy y anhelo",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Peregrino,",
+          "start": 120.26,
+          "end": 121.66
+        },
+        {
+          "word": "soy",
+          "start": 121.68,
+          "end": 122.2
+        },
+        {
+          "word": "anhelo,",
+          "start": 122.2,
+          "end": 124.26
+        }
+      ],
+      "start": 120.26,
+      "end": 124.26,
+      "confidence": 0.75,
+      "time": 120.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "las moradas del Señor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Las",
+          "start": 124.26,
+          "end": 125.18
+        },
+        {
+          "word": "moradas",
+          "start": 125.18,
+          "end": 126.94
+        },
+        {
+          "word": "del",
+          "start": 126.94,
+          "end": 128.14
+        },
+        {
+          "word": "Señor",
+          "start": 128.14,
+          "end": 130.36
+        }
+      ],
+      "start": 124.26,
+      "end": 130.36,
+      "confidence": 1.0,
+      "time": 124.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Esperando, esperando",
+      "words": [
+        {
+          "word": "Esperando,",
+          "start": 132.28,
+          "end": 133.68
+        },
+        {
+          "word": "esperando",
+          "start": 136.52,
+          "end": 136.52
+        }
+      ],
+      "start": 132.28,
+      "end": 136.52,
+      "confidence": 1.0,
+      "time": 132.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "otra vida sin dolor",
+      "words": [
+        {
+          "word": "Otra",
+          "start": 136.52,
+          "end": 137.56
+        },
+        {
+          "word": "vida",
+          "start": 137.56,
+          "end": 139.54
+        },
+        {
+          "word": "sin",
+          "start": 139.54,
+          "end": 140.16
+        },
+        {
+          "word": "dolor",
+          "start": 140.16,
+          "end": 142.42
+        }
+      ],
+      "start": 136.52,
+      "end": 142.42,
+      "confidence": 1.0,
+      "time": 136.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y la grata bienvenida",
+      "words": [
+        {
+          "word": "Y",
+          "start": 142.42,
+          "end": 143.38
+        },
+        {
+          "word": "la",
+          "start": 143.38,
+          "end": 143.94
+        },
+        {
+          "word": "bienvenida",
+          "start": 145.72,
+          "end": 148.42
+        }
+      ],
+      "start": 142.42,
+      "end": 148.42,
+      "confidence": 0.75,
+      "time": 142.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "de Jesús, mi amante Salvador.",
+      "words": [
+        {
+          "word": "De",
+          "start": 148.42,
+          "end": 149.26
+        },
+        {
+          "word": "Jesús,",
+          "start": 149.26,
+          "end": 149.92
+        },
+        {
+          "word": "mi",
+          "start": 150.1,
+          "end": 150.34
+        },
+        {
+          "word": "amante",
+          "start": 150.34,
+          "end": 151.1
+        },
+        {
+          "word": "salvador.",
+          "start": 151.1,
+          "end": 155.16
+        }
+      ],
+      "start": 148.42,
+      "end": 155.16,
+      "confidence": 1.0,
+      "time": 148.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Pronto espero unir mi canto",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Pronto",
+          "start": 156.2,
+          "end": 157.26
+        },
+        {
+          "word": "espero",
+          "start": 157.26,
+          "end": 158.16
+        },
+        {
+          "word": "mi",
+          "start": 158.8,
+          "end": 159.28
+        },
+        {
+          "word": "canto",
+          "start": 159.28,
+          "end": 161.86
+        }
+      ],
+      "start": 156.2,
+      "end": 161.86,
+      "confidence": 0.8,
+      "time": 156.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "al triunfante y celestial,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Al",
+          "start": 161.86,
+          "end": 162.86
+        },
+        {
+          "word": "triunfante",
+          "start": 162.86,
+          "end": 164.24
+        },
+        {
+          "word": "Celestial",
+          "start": 164.24,
+          "end": 167.24
+        }
+      ],
+      "start": 161.86,
+      "end": 167.24,
+      "confidence": 0.75,
+      "time": 161.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "y cambiar mi amargo llanto",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Y",
+          "start": 167.24,
+          "end": 168.78
+        },
+        {
+          "word": "cambiar",
+          "start": 168.78,
+          "end": 169.78
+        },
+        {
+          "word": "mi",
+          "start": 169.78,
+          "end": 170.16
+        },
+        {
+          "word": "amargo",
+          "start": 170.16,
+          "end": 171.06
+        },
+        {
+          "word": "llanto",
+          "start": 171.06,
+          "end": 172.86
+        }
+      ],
+      "start": 167.24,
+      "end": 172.86,
+      "confidence": 1.0,
+      "time": 167.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "por el himno angelical.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "por",
+          "start": 172.86,
+          "end": 173.88
+        },
+        {
+          "word": "el",
+          "start": 173.88,
+          "end": 174.38
+        },
+        {
+          "word": "himno",
+          "start": 174.38,
+          "end": 175.28
+        },
+        {
+          "word": "angélico.",
+          "start": 175.28,
+          "end": 179.08
+        }
+      ],
+      "start": 172.86,
+      "end": 179.08,
+      "confidence": 0.974,
+      "time": 172.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Esperando, esperando",
+      "words": [
+        {
+          "word": "Esperando,",
+          "start": 180.92,
+          "end": 182.32
+        },
+        {
+          "word": "esperando",
+          "start": 185.1,
+          "end": 185.1
+        }
+      ],
+      "start": 180.92,
+      "end": 185.1,
+      "confidence": 1.0,
+      "time": 180.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "otra vida sin dolor",
+      "words": [
+        {
+          "word": "otra",
+          "start": 185.1,
+          "end": 185.98
+        },
+        {
+          "word": "vida",
+          "start": 185.98,
+          "end": 188.14
+        },
+        {
+          "word": "sin",
+          "start": 188.14,
+          "end": 188.72
+        },
+        {
+          "word": "dolor",
+          "start": 188.72,
+          "end": 191.04
+        }
+      ],
+      "start": 185.1,
+      "end": 191.04,
+      "confidence": 1.0,
+      "time": 185.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "y la grata bienvenida",
+      "words": [
+        {
+          "word": "y",
+          "start": 191.04,
+          "end": 191.98
+        },
+        {
+          "word": "la",
+          "start": 191.98,
+          "end": 192.46
+        },
+        {
+          "word": "grata",
+          "start": 192.46,
+          "end": 194.38
+        },
+        {
+          "word": "bienvenida",
+          "start": 194.38,
+          "end": 196.82
+        }
+      ],
+      "start": 191.04,
+      "end": 196.82,
+      "confidence": 1.0,
+      "time": 191.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "de Jesús, mi amante Salvador.",
+      "words": [
+        {
+          "word": "de",
+          "start": 196.82,
+          "end": 197.86
+        },
+        {
+          "word": "Jesús",
+          "start": 197.86,
+          "end": 198.62
+        },
+        {
+          "word": "mi",
+          "start": 198.62,
+          "end": 199.04
+        },
+        {
+          "word": "amante",
+          "start": 199.04,
+          "end": 199.96
+        },
+        {
+          "word": "salvador.",
+          "start": 199.96,
+          "end": 204.56
+        }
+      ],
+      "start": 196.82,
+      "end": 204.56,
+      "confidence": 1.0,
+      "time": 196.82
+    }
+  ]
+}

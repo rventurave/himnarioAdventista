@@ -1,0 +1,496 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.713,
+  "language": "es",
+  "model": "medium",
+  "hymn": 155,
+  "source": "155 - En Sion Jesus hoy reina.mp3",
+  "duration": 152.63,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "En Sion Jesús hoy reina, alégrate, mortal,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 20.18,
+          "end": 21.5
+        },
+        {
+          "word": "hoy",
+          "start": 22.02,
+          "end": 22.4
+        },
+        {
+          "word": "reina,",
+          "start": 22.4,
+          "end": 24.06
+        },
+        {
+          "word": "alégrate",
+          "start": 24.82,
+          "end": 26.78
+        },
+        {
+          "word": "mortal.",
+          "start": 26.78,
+          "end": 28.94
+        }
+      ],
+      "start": 20.18,
+      "end": 28.94,
+      "confidence": 0.714,
+      "time": 20.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y ve con devoción y fe al trono celestial.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 28.94,
+          "end": 30.26
+        },
+        {
+          "word": "ve",
+          "start": 30.26,
+          "end": 30.84
+        },
+        {
+          "word": "con",
+          "start": 30.84,
+          "end": 31.7
+        },
+        {
+          "word": "devoción",
+          "start": 31.7,
+          "end": 33.96
+        },
+        {
+          "word": "y",
+          "start": 33.96,
+          "end": 34.3
+        },
+        {
+          "word": "fe",
+          "start": 34.3,
+          "end": 34.86
+        },
+        {
+          "word": "al",
+          "start": 34.86,
+          "end": 35.66
+        },
+        {
+          "word": "trono",
+          "start": 35.66,
+          "end": 36.86
+        },
+        {
+          "word": "celestial.",
+          "start": 36.86,
+          "end": 39.66
+        }
+      ],
+      "start": 28.94,
+      "end": 39.66,
+      "confidence": 1.0,
+      "time": 28.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "En Sion Jesús hoy reina en gloria y majestad,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 41.82,
+          "end": 42.8
+        },
+        {
+          "word": "hoy",
+          "start": 42.8,
+          "end": 43.76
+        },
+        {
+          "word": "reina",
+          "start": 43.76,
+          "end": 45.3
+        },
+        {
+          "word": "en",
+          "start": 45.3,
+          "end": 46.22
+        },
+        {
+          "word": "gloria",
+          "start": 46.22,
+          "end": 47.38
+        },
+        {
+          "word": "y",
+          "start": 47.38,
+          "end": 48.06
+        },
+        {
+          "word": "majestad,",
+          "start": 48.06,
+          "end": 50.76
+        }
+      ],
+      "start": 41.82,
+      "end": 50.76,
+      "confidence": 0.778,
+      "time": 41.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "venid, oh poderosos, y su gloria proclamad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Venido",
+          "start": 50.76,
+          "end": 52.86
+        },
+        {
+          "word": "poderoso,",
+          "start": 52.86,
+          "end": 55.4
+        },
+        {
+          "word": "su",
+          "start": 56.26,
+          "end": 56.9
+        },
+        {
+          "word": "gloria",
+          "start": 56.9,
+          "end": 58.26
+        },
+        {
+          "word": "proclamar.",
+          "start": 58.26,
+          "end": 61.36
+        }
+      ],
+      "start": 50.76,
+      "end": 61.36,
+      "confidence": 0.688,
+      "time": 50.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "En Sion Jesús hoy reina cual infinito ser,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 63.78,
+          "end": 64.04
+        },
+        {
+          "word": "Jesucristo",
+          "start": 64.04,
+          "end": 65.76
+        },
+        {
+          "word": "reina",
+          "start": 65.76,
+          "end": 67.68
+        },
+        {
+          "word": "al",
+          "start": 67.68,
+          "end": 68.96
+        },
+        {
+          "word": "infinito",
+          "start": 68.96,
+          "end": 71.02
+        },
+        {
+          "word": "ser,",
+          "start": 71.02,
+          "end": 72.68
+        }
+      ],
+      "start": 63.78,
+      "end": 72.68,
+      "confidence": 0.7,
+      "time": 63.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "los mares y abismos él gobierna con poder.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "vos",
+          "start": 73.62,
+          "end": 74.02
+        },
+        {
+          "word": "pares",
+          "start": 74.02,
+          "end": 75.28
+        },
+        {
+          "word": "abismo",
+          "start": 76.1,
+          "end": 77.8
+        },
+        {
+          "word": "verna",
+          "start": 79.48,
+          "end": 80.68
+        },
+        {
+          "word": "concluer.",
+          "start": 80.68,
+          "end": 83.3
+        }
+      ],
+      "start": 73.62,
+      "end": 83.3,
+      "confidence": 0.541,
+      "time": 73.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Oh, todo el universo alabe al Salvador!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "O",
+          "start": 83.3,
+          "end": 84.76
+        },
+        {
+          "word": "todo",
+          "start": 84.76,
+          "end": 85.72
+        },
+        {
+          "word": "el",
+          "start": 85.72,
+          "end": 86.46
+        },
+        {
+          "word": "universo",
+          "start": 86.46,
+          "end": 88.48
+        },
+        {
+          "word": "ala",
+          "start": 88.48,
+          "end": 90.58
+        },
+        {
+          "word": "Salvador,",
+          "start": 91.12,
+          "end": 93.48
+        }
+      ],
+      "start": 83.3,
+      "end": 97.04,
+      "confidence": 0.82,
+      "time": 83.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Proclámenle los pueblos cual amante Redentor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "los",
+          "start": 97.04,
+          "end": 97.76
+        },
+        {
+          "word": "pueblos",
+          "start": 97.76,
+          "end": 99.16
+        },
+        {
+          "word": "cual",
+          "start": 99.16,
+          "end": 99.96
+        },
+        {
+          "word": "aman",
+          "start": 99.96,
+          "end": 101.12
+        },
+        {
+          "word": "rellenar.",
+          "start": 102.18,
+          "end": 105.3
+        }
+      ],
+      "start": 97.04,
+      "end": 105.3,
+      "confidence": 0.786,
+      "time": 97.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En Sion Jesús hoy reina, del orbe es regidor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Pensión,",
+          "start": 105.3,
+          "end": 107.38
+        },
+        {
+          "word": "Jesús,",
+          "start": 107.38,
+          "end": 108.64
+        },
+        {
+          "word": "ordena",
+          "start": 109.06,
+          "end": 111.5
+        },
+        {
+          "word": "de",
+          "start": 111.5,
+          "end": 112.3
+        },
+        {
+          "word": "es",
+          "start": 113.2,
+          "end": 113.86
+        }
+      ],
+      "start": 105.3,
+      "end": 117.38,
+      "confidence": 0.513,
+      "time": 105.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Venid con regocijo y adoradle con fervor!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Vení,",
+          "start": 117.38,
+          "end": 118.12
+        },
+        {
+          "word": "y",
+          "start": 121.26,
+          "end": 122.08
+        },
+        {
+          "word": "adorable",
+          "start": 122.08,
+          "end": 124.06
+        }
+      ],
+      "start": 117.38,
+      "end": 126.9,
+      "confidence": 0.409,
+      "time": 117.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y ante su grandeza venid con santa unción.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 126.9,
+          "end": 128.42
+        },
+        {
+          "word": "ante",
+          "start": 128.42,
+          "end": 129.28
+        },
+        {
+          "word": "su",
+          "start": 129.28,
+          "end": 130.1
+        },
+        {
+          "word": "grandeza,",
+          "start": 130.1,
+          "end": 132.66
+        },
+        {
+          "word": "vení",
+          "start": 133.36,
+          "end": 134.06
+        },
+        {
+          "word": "con",
+          "start": 134.06,
+          "end": 134.86
+        },
+        {
+          "word": "santa",
+          "start": 134.86,
+          "end": 135.82
+        },
+        {
+          "word": "unción,",
+          "start": 135.82,
+          "end": 137.84
+        }
+      ],
+      "start": 126.9,
+      "end": 137.84,
+      "confidence": 0.993,
+      "time": 126.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Venid y coronadle Rey con toda devoción.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "vení",
+          "start": 142.32,
+          "end": 143.52
+        },
+        {
+          "word": "con",
+          "start": 143.52,
+          "end": 144.2
+        },
+        {
+          "word": "toda",
+          "start": 144.2,
+          "end": 145.64
+        },
+        {
+          "word": "devoción.",
+          "start": 145.64,
+          "end": 150.04
+        }
+      ],
+      "start": 142.32,
+      "end": 150.04,
+      "confidence": 0.563,
+      "time": 142.32
+    }
+  ]
+}

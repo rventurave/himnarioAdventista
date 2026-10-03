@@ -1,0 +1,868 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.974,
+  "language": "es",
+  "model": "medium",
+  "hymn": 102,
+  "source": "102 - Cordero de Dios.mp3",
+  "duration": 169.64,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hijo de Dios, eterno Rey;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hijo",
+          "start": 14.4,
+          "end": 15.8
+        },
+        {
+          "word": "de",
+          "start": 15.8,
+          "end": 16.54
+        },
+        {
+          "word": "Dios,",
+          "start": 16.54,
+          "end": 18.08
+        },
+        {
+          "word": "eterno",
+          "start": 18.34,
+          "end": 19.82
+        },
+        {
+          "word": "Rey,",
+          "start": 19.82,
+          "end": 20.78
+        }
+      ],
+      "start": 14.4,
+      "end": 21.26,
+      "confidence": 1.0,
+      "time": 14.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "desde su trono descendió",
+      "verse": 1,
+      "words": [
+        {
+          "word": "desde",
+          "start": 21.26,
+          "end": 21.96
+        },
+        {
+          "word": "su",
+          "start": 21.96,
+          "end": 22.74
+        },
+        {
+          "word": "trono",
+          "start": 22.74,
+          "end": 24.74
+        },
+        {
+          "word": "descendió",
+          "start": 24.74,
+          "end": 27.06
+        }
+      ],
+      "start": 21.26,
+      "end": 27.06,
+      "confidence": 1.0,
+      "time": 21.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "para pisar un suelo vil",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Para",
+          "start": 27.06,
+          "end": 28.4
+        },
+        {
+          "word": "pisar",
+          "start": 28.4,
+          "end": 30.74
+        },
+        {
+          "word": "un",
+          "start": 30.74,
+          "end": 31.06
+        },
+        {
+          "word": "suelo",
+          "start": 31.06,
+          "end": 32.02
+        },
+        {
+          "word": "vir",
+          "start": 32.02,
+          "end": 33.12
+        }
+      ],
+      "start": 27.06,
+      "end": 33.12,
+      "confidence": 0.96,
+      "time": 27.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y cual Cordero perecer.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Y",
+          "start": 33.12,
+          "end": 34.18
+        },
+        {
+          "word": "cual",
+          "start": 34.18,
+          "end": 34.64
+        },
+        {
+          "word": "cordero",
+          "start": 34.64,
+          "end": 36.18
+        },
+        {
+          "word": "perecer",
+          "start": 36.18,
+          "end": 39.36
+        }
+      ],
+      "start": 33.12,
+      "end": 39.36,
+      "confidence": 1.0,
+      "time": 33.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, Salvador! ¡Mi Salvador!",
+      "words": [
+        {
+          "word": "Oh",
+          "start": 39.36,
+          "end": 40.26
+        },
+        {
+          "word": "Salvador,",
+          "start": 40.26,
+          "end": 41.66
+        },
+        {
+          "word": "mi",
+          "start": 42.7,
+          "end": 43.2
+        },
+        {
+          "word": "Salvador",
+          "start": 43.2,
+          "end": 45.2
+        }
+      ],
+      "start": 39.36,
+      "end": 45.2,
+      "confidence": 1.0,
+      "time": 39.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cordero santo de mi Dios.",
+      "words": [
+        {
+          "word": "Cordero",
+          "start": 45.2,
+          "end": 47.08
+        },
+        {
+          "word": "santo",
+          "start": 47.08,
+          "end": 48.86
+        },
+        {
+          "word": "de",
+          "start": 48.86,
+          "end": 49.56
+        },
+        {
+          "word": "mi",
+          "start": 49.56,
+          "end": 50.06
+        },
+        {
+          "word": "Dios",
+          "start": 50.06,
+          "end": 51.3
+        }
+      ],
+      "start": 45.2,
+      "end": 51.3,
+      "confidence": 1.0,
+      "time": 45.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Quien me lavó de mi maldad",
+      "words": [
+        {
+          "word": "que",
+          "start": 51.3,
+          "end": 51.96
+        },
+        {
+          "word": "velado",
+          "start": 52.3,
+          "end": 54.2
+        },
+        {
+          "word": "de",
+          "start": 54.2,
+          "end": 55.06
+        },
+        {
+          "word": "mi",
+          "start": 55.06,
+          "end": 55.48
+        },
+        {
+          "word": "maldad",
+          "start": 55.48,
+          "end": 57.36
+        }
+      ],
+      "start": 51.3,
+      "end": 57.36,
+      "confidence": 0.768,
+      "time": 51.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "es el Cordero, mi Señor.",
+      "words": [
+        {
+          "word": "es",
+          "start": 57.36,
+          "end": 58.2
+        },
+        {
+          "word": "el",
+          "start": 58.2,
+          "end": 58.72
+        },
+        {
+          "word": "cordero",
+          "start": 58.72,
+          "end": 60.02
+        },
+        {
+          "word": "mi",
+          "start": 60.02,
+          "end": 61.36
+        },
+        {
+          "word": "seno.",
+          "start": 61.36,
+          "end": 64.36
+        }
+      ],
+      "start": 57.36,
+      "end": 64.36,
+      "confidence": 0.988,
+      "time": 57.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En una cruz, clavado fue",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 65.4,
+          "end": 65.92
+        },
+        {
+          "word": "una",
+          "start": 65.92,
+          "end": 66.54
+        },
+        {
+          "word": "cruz",
+          "start": 66.54,
+          "end": 68.18
+        },
+        {
+          "word": "clavado",
+          "start": 68.18,
+          "end": 69.62
+        },
+        {
+          "word": "fue",
+          "start": 69.62,
+          "end": 70.74
+        }
+      ],
+      "start": 65.4,
+      "end": 70.74,
+      "confidence": 1.0,
+      "time": 65.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "por una turba infame y cruel.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "por",
+          "start": 70.74,
+          "end": 71.98
+        },
+        {
+          "word": "una",
+          "start": 71.98,
+          "end": 72.8
+        },
+        {
+          "word": "turba",
+          "start": 72.8,
+          "end": 74.64
+        },
+        {
+          "word": "alfame",
+          "start": 74.64,
+          "end": 75.74
+        },
+        {
+          "word": "cruel",
+          "start": 75.74,
+          "end": 76.9
+        }
+      ],
+      "start": 70.74,
+      "end": 76.9,
+      "confidence": 0.8,
+      "time": 70.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Sacrificaron sin piedad",
+      "verse": 2,
+      "words": [
+        {
+          "word": "sacrificar,",
+          "start": 79.32,
+          "end": 80.72
+        },
+        {
+          "word": "sin",
+          "start": 81.0,
+          "end": 81.5
+        },
+        {
+          "word": "piedad,",
+          "start": 81.5,
+          "end": 83.34
+        }
+      ],
+      "start": 79.32,
+      "end": 83.86,
+      "confidence": 0.98,
+      "time": 79.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a mi Jesús, Cordero fiel.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 83.86,
+          "end": 84.26
+        },
+        {
+          "word": "mi",
+          "start": 84.26,
+          "end": 84.68
+        },
+        {
+          "word": "Jesús",
+          "start": 84.68,
+          "end": 85.7
+        },
+        {
+          "word": "cordero",
+          "start": 85.7,
+          "end": 88.12
+        },
+        {
+          "word": "fiel.",
+          "start": 88.12,
+          "end": 89.4
+        }
+      ],
+      "start": 83.86,
+      "end": 89.4,
+      "confidence": 1.0,
+      "time": 83.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, Salvador! ¡Mi Salvador!",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 89.86,
+          "end": 90.24
+        },
+        {
+          "word": "Salvador,",
+          "start": 90.66,
+          "end": 91.84
+        },
+        {
+          "word": "mi",
+          "start": 92.82,
+          "end": 93.2
+        },
+        {
+          "word": "Salvador,",
+          "start": 93.2,
+          "end": 95.14
+        }
+      ],
+      "start": 89.86,
+      "end": 96.0,
+      "confidence": 1.0,
+      "time": 89.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cordero santo de mi Dios.",
+      "words": [
+        {
+          "word": "cordero",
+          "start": 96.0,
+          "end": 97.08
+        },
+        {
+          "word": "santo",
+          "start": 97.08,
+          "end": 98.84
+        },
+        {
+          "word": "de",
+          "start": 98.84,
+          "end": 99.56
+        },
+        {
+          "word": "mi",
+          "start": 99.56,
+          "end": 100.1
+        },
+        {
+          "word": "Dios,",
+          "start": 100.1,
+          "end": 101.2
+        }
+      ],
+      "start": 96.0,
+      "end": 101.2,
+      "confidence": 1.0,
+      "time": 96.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Quien me lavó de mi maldad",
+      "words": [
+        {
+          "word": "Quien",
+          "start": 101.2,
+          "end": 102.28
+        },
+        {
+          "word": "me",
+          "start": 102.28,
+          "end": 102.78
+        },
+        {
+          "word": "lavó",
+          "start": 102.78,
+          "end": 104.48
+        },
+        {
+          "word": "de",
+          "start": 104.48,
+          "end": 105.02
+        },
+        {
+          "word": "mi",
+          "start": 105.02,
+          "end": 105.5
+        },
+        {
+          "word": "maldad",
+          "start": 105.5,
+          "end": 107.14
+        }
+      ],
+      "start": 101.2,
+      "end": 107.14,
+      "confidence": 1.0,
+      "time": 101.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "es el Cordero, mi Señor.",
+      "words": [
+        {
+          "word": "es",
+          "start": 107.14,
+          "end": 108.22
+        },
+        {
+          "word": "el",
+          "start": 108.22,
+          "end": 108.72
+        },
+        {
+          "word": "Cordero",
+          "start": 108.72,
+          "end": 110.04
+        },
+        {
+          "word": "mi",
+          "start": 110.04,
+          "end": 111.26
+        },
+        {
+          "word": "Señor.",
+          "start": 111.26,
+          "end": 113.72
+        }
+      ],
+      "start": 107.14,
+      "end": 113.72,
+      "confidence": 1.0,
+      "time": 107.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Yo, mi Jesús, soy pecador;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 114.96,
+          "end": 115.46
+        },
+        {
+          "word": "mi",
+          "start": 115.8,
+          "end": 115.96
+        },
+        {
+          "word": "Jesús,",
+          "start": 115.96,
+          "end": 117.62
+        },
+        {
+          "word": "soy",
+          "start": 118.1,
+          "end": 118.68
+        },
+        {
+          "word": "pecador,",
+          "start": 118.68,
+          "end": 120.86
+        }
+      ],
+      "start": 114.96,
+      "end": 121.4,
+      "confidence": 1.0,
+      "time": 114.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pero tu gracia me salvó.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pero",
+          "start": 121.4,
+          "end": 122.16
+        },
+        {
+          "word": "tu",
+          "start": 122.16,
+          "end": 122.78
+        },
+        {
+          "word": "gracia",
+          "start": 122.78,
+          "end": 124.78
+        },
+        {
+          "word": "me",
+          "start": 124.78,
+          "end": 125.48
+        },
+        {
+          "word": "salvó.",
+          "start": 125.48,
+          "end": 127.28
+        }
+      ],
+      "start": 121.4,
+      "end": 127.28,
+      "confidence": 1.0,
+      "time": 121.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "De hoy en más te seguiré;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 127.28,
+          "end": 128.2
+        },
+        {
+          "word": "hoy",
+          "start": 128.2,
+          "end": 128.66
+        },
+        {
+          "word": "en",
+          "start": 128.66,
+          "end": 129.24
+        },
+        {
+          "word": "más",
+          "start": 129.24,
+          "end": 130.5
+        },
+        {
+          "word": "te",
+          "start": 130.5,
+          "end": 131.2
+        },
+        {
+          "word": "seguiré.",
+          "start": 131.2,
+          "end": 133.6
+        }
+      ],
+      "start": 127.28,
+      "end": 133.6,
+      "confidence": 1.0,
+      "time": 127.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "soy tu cordero, mi Señor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Soy",
+          "start": 133.66,
+          "end": 134.14
+        },
+        {
+          "word": "tu",
+          "start": 134.14,
+          "end": 134.7
+        },
+        {
+          "word": "cordero,",
+          "start": 134.7,
+          "end": 136.14
+        },
+        {
+          "word": "mi",
+          "start": 136.46,
+          "end": 137.42
+        },
+        {
+          "word": "Señor,",
+          "start": 137.42,
+          "end": 139.22
+        }
+      ],
+      "start": 133.66,
+      "end": 139.22,
+      "confidence": 1.0,
+      "time": 133.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, Salvador! ¡Mi Salvador!",
+      "words": [
+        {
+          "word": "oh",
+          "start": 139.94,
+          "end": 140.48
+        },
+        {
+          "word": "Salvador,",
+          "start": 140.48,
+          "end": 141.76
+        },
+        {
+          "word": "mi",
+          "start": 142.82,
+          "end": 143.12
+        },
+        {
+          "word": "Salvador,",
+          "start": 143.12,
+          "end": 144.94
+        }
+      ],
+      "start": 139.94,
+      "end": 144.94,
+      "confidence": 1.0,
+      "time": 139.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cordero santo de mi Dios.",
+      "words": [
+        {
+          "word": "cordero",
+          "start": 145.74,
+          "end": 147.1
+        },
+        {
+          "word": "santo",
+          "start": 147.1,
+          "end": 148.9
+        },
+        {
+          "word": "de",
+          "start": 148.9,
+          "end": 149.58
+        },
+        {
+          "word": "mi",
+          "start": 149.58,
+          "end": 150.2
+        },
+        {
+          "word": "Dios,",
+          "start": 150.2,
+          "end": 151.14
+        }
+      ],
+      "start": 145.74,
+      "end": 151.14,
+      "confidence": 1.0,
+      "time": 145.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Quien me lavó de mi maldad",
+      "words": [
+        {
+          "word": "Quien",
+          "start": 151.14,
+          "end": 152.38
+        },
+        {
+          "word": "me",
+          "start": 152.38,
+          "end": 152.88
+        },
+        {
+          "word": "largó",
+          "start": 152.88,
+          "end": 154.54
+        },
+        {
+          "word": "de",
+          "start": 154.54,
+          "end": 155.12
+        },
+        {
+          "word": "mi",
+          "start": 155.12,
+          "end": 155.72
+        },
+        {
+          "word": "maldad",
+          "start": 155.72,
+          "end": 157.62
+        }
+      ],
+      "start": 151.14,
+      "end": 157.62,
+      "confidence": 0.967,
+      "time": 151.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "es el Cordero, mi Señor.",
+      "words": [
+        {
+          "word": "Es",
+          "start": 157.62,
+          "end": 158.48
+        },
+        {
+          "word": "el",
+          "start": 158.48,
+          "end": 159.1
+        },
+        {
+          "word": "cordero",
+          "start": 159.1,
+          "end": 160.64
+        },
+        {
+          "word": "mi",
+          "start": 160.64,
+          "end": 162.1
+        },
+        {
+          "word": "Señor",
+          "start": 162.1,
+          "end": 163.76
+        }
+      ],
+      "start": 157.62,
+      "end": 163.76,
+      "confidence": 1.0,
+      "time": 157.62
+    }
+  ]
+}

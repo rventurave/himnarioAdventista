@@ -1,0 +1,180 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.878,
+  "language": "es",
+  "model": "medium",
+  "hymn": 32,
+  "source": "032 - Nos reunimos en tu santuario.mp3",
+  "duration": 59.72,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Nos reunimos en tu santuario,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "No",
+          "start": 10.4,
+          "end": 11.8
+        },
+        {
+          "word": "unimos",
+          "start": 12.46,
+          "end": 16.1
+        },
+        {
+          "word": "en",
+          "start": 16.1,
+          "end": 16.76
+        },
+        {
+          "word": "tu",
+          "start": 16.76,
+          "end": 17.46
+        },
+        {
+          "word": "santuario,",
+          "start": 17.46,
+          "end": 21.48
+        }
+      ],
+      "start": 10.4,
+      "end": 21.96,
+      "confidence": 0.971,
+      "time": 10.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "donde santos ángeles te rinden su loor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "donde",
+          "start": 21.96,
+          "end": 22.42
+        },
+        {
+          "word": "santos",
+          "start": 22.42,
+          "end": 23.9
+        },
+        {
+          "word": "ángeles",
+          "start": 23.9,
+          "end": 25.46
+        },
+        {
+          "word": "te",
+          "start": 25.46,
+          "end": 26.02
+        },
+        {
+          "word": "rinden",
+          "start": 26.02,
+          "end": 27.62
+        },
+        {
+          "word": "su",
+          "start": 27.62,
+          "end": 28.3
+        },
+        {
+          "word": "lobo.",
+          "start": 28.3,
+          "end": 29.98
+        }
+      ],
+      "start": 21.96,
+      "end": 29.98,
+      "confidence": 0.979,
+      "time": 21.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Vamos a adorar tu gran nombre;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Vamos",
+          "start": 31.7,
+          "end": 33.1
+        },
+        {
+          "word": "a",
+          "start": 33.1,
+          "end": 33.62
+        },
+        {
+          "word": "adorar",
+          "start": 33.62,
+          "end": 37.62
+        },
+        {
+          "word": "tu",
+          "start": 37.62,
+          "end": 38.88
+        },
+        {
+          "word": "nombre",
+          "start": 38.88,
+          "end": 40.42
+        }
+      ],
+      "start": 31.7,
+      "end": 40.42,
+      "confidence": 0.833,
+      "time": 31.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en la santidad de tu presencia te alabo, Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 42.1,
+          "end": 43.5
+        },
+        {
+          "word": "la",
+          "start": 43.5,
+          "end": 43.86
+        },
+        {
+          "word": "santidad",
+          "start": 43.86,
+          "end": 45.6
+        },
+        {
+          "word": "de",
+          "start": 45.6,
+          "end": 46.1
+        },
+        {
+          "word": "tu",
+          "start": 46.1,
+          "end": 46.84
+        },
+        {
+          "word": "presencia",
+          "start": 46.84,
+          "end": 48.02
+        },
+        {
+          "word": "te",
+          "start": 48.02,
+          "end": 48.56
+        }
+      ],
+      "start": 42.1,
+      "end": 53.36,
+      "confidence": 0.778,
+      "time": 42.1
+    }
+  ]
+}

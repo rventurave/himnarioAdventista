@@ -1,0 +1,910 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.738,
+  "language": "es",
+  "model": "medium",
+  "hymn": 79,
+  "source": "079 - Se oye un canto en alta esfera.mp3",
+  "duration": 160.08,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Se oye un canto en alta esfera.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Este",
+          "start": 4.12,
+          "end": 4.72
+        },
+        {
+          "word": "es",
+          "start": 4.72,
+          "end": 4.72
+        }
+      ],
+      "start": 4.12,
+      "end": 4.88,
+      "confidence": 0.249,
+      "time": 4.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "\"En los cielos gloria a Dios;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 4.88,
+          "end": 4.9
+        },
+        {
+          "word": "los",
+          "start": 5.2,
+          "end": 5.2
+        },
+        {
+          "word": "los",
+          "start": 5.2,
+          "end": 5.2
+        },
+        {
+          "word": "días.",
+          "start": 32.72,
+          "end": 32.72
+        }
+      ],
+      "start": 4.88,
+      "end": 32.72,
+      "confidence": 0.608,
+      "time": 4.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al mortal paz en la tierra\",",
+      "verse": 1,
+      "start": 32.72,
+      "end": 32.92,
+      "confidence": 0.0,
+      "time": 32.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "canta la celeste voz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cántala",
+          "start": 32.74,
+          "end": 35.44
+        },
+        {
+          "word": "celeste",
+          "start": 35.44,
+          "end": 36.76
+        },
+        {
+          "word": "vos,",
+          "start": 36.76,
+          "end": 37.46
+        }
+      ],
+      "start": 32.92,
+      "end": 38.02,
+      "confidence": 0.685,
+      "time": 32.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Con los cielos alabemos",
+      "verse": 1,
+      "words": [
+        {
+          "word": "con",
+          "start": 38.02,
+          "end": 38.56
+        },
+        {
+          "word": "los",
+          "start": 38.56,
+          "end": 39.18
+        },
+        {
+          "word": "cielos",
+          "start": 39.18,
+          "end": 40.4
+        },
+        {
+          "word": "alabemos,",
+          "start": 40.4,
+          "end": 41.9
+        }
+      ],
+      "start": 38.02,
+      "end": 42.7,
+      "confidence": 1.0,
+      "time": 38.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al eterno Rey, cantemos",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 42.7,
+          "end": 42.96
+        },
+        {
+          "word": "eterno",
+          "start": 42.96,
+          "end": 44.28
+        },
+        {
+          "word": "reincantemos,",
+          "start": 44.28,
+          "end": 46.16
+        }
+      ],
+      "start": 42.7,
+      "end": 46.98,
+      "confidence": 0.72,
+      "time": 42.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a Jesús, a nuestro Bien,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 46.98,
+          "end": 47.22
+        },
+        {
+          "word": "Jesús",
+          "start": 47.22,
+          "end": 48.24
+        },
+        {
+          "word": "a",
+          "start": 48.24,
+          "end": 48.76
+        },
+        {
+          "word": "nuestro",
+          "start": 48.76,
+          "end": 49.46
+        },
+        {
+          "word": "bien,",
+          "start": 49.46,
+          "end": 50.34
+        }
+      ],
+      "start": 46.98,
+      "end": 51.74,
+      "confidence": 0.96,
+      "time": 46.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con el coro de Belén.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "coro",
+          "start": 51.74,
+          "end": 52.86
+        },
+        {
+          "word": "de",
+          "start": 52.86,
+          "end": 53.54
+        },
+        {
+          "word": "Belén.",
+          "start": 53.54,
+          "end": 54.66
+        }
+      ],
+      "start": 51.74,
+      "end": 54.66,
+      "confidence": 0.6,
+      "time": 51.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Canta la celeste voz:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cántala",
+          "start": 54.66,
+          "end": 56.48
+        },
+        {
+          "word": "este",
+          "start": 57.16,
+          "end": 58.26
+        },
+        {
+          "word": "voz,",
+          "start": 58.26,
+          "end": 59.1
+        }
+      ],
+      "start": 54.66,
+      "end": 59.54,
+      "confidence": 0.694,
+      "time": 54.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "\"¡En los cielos gloria a Dios!\"",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 59.54,
+          "end": 59.96
+        },
+        {
+          "word": "los",
+          "start": 59.96,
+          "end": 60.74
+        },
+        {
+          "word": "hielos",
+          "start": 60.74,
+          "end": 61.52
+        },
+        {
+          "word": "gloria",
+          "start": 61.52,
+          "end": 62.64
+        },
+        {
+          "word": "a",
+          "start": 62.64,
+          "end": 62.86
+        },
+        {
+          "word": "Dios.",
+          "start": 62.86,
+          "end": 64.68
+        }
+      ],
+      "start": 59.54,
+      "end": 64.68,
+      "confidence": 0.983,
+      "time": 59.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "El Señor de los señores,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "El",
+          "start": 66.24,
+          "end": 66.76
+        },
+        {
+          "word": "Señor",
+          "start": 66.76,
+          "end": 67.96
+        },
+        {
+          "word": "de",
+          "start": 67.96,
+          "end": 68.4
+        },
+        {
+          "word": "los",
+          "start": 68.4,
+          "end": 69.18
+        },
+        {
+          "word": "señores,",
+          "start": 69.18,
+          "end": 70.34
+        }
+      ],
+      "start": 66.24,
+      "end": 71.08,
+      "confidence": 1.0,
+      "time": 66.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "el Ungido celestial,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "elogido",
+          "start": 71.08,
+          "end": 72.76
+        },
+        {
+          "word": "celestial,",
+          "start": 72.98,
+          "end": 74.56
+        }
+      ],
+      "start": 71.08,
+      "end": 74.56,
+      "confidence": 0.59,
+      "time": 71.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "a salvar los pecadores",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 75.26,
+          "end": 75.66
+        },
+        {
+          "word": "salvar",
+          "start": 75.66,
+          "end": 77.0
+        },
+        {
+          "word": "los",
+          "start": 77.0,
+          "end": 77.42
+        },
+        {
+          "word": "pecadores",
+          "start": 77.42,
+          "end": 79.44
+        }
+      ],
+      "start": 75.26,
+      "end": 79.44,
+      "confidence": 0.95,
+      "time": 75.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "vino al seno virginal.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "vino",
+          "start": 79.44,
+          "end": 80.36
+        },
+        {
+          "word": "al",
+          "start": 80.36,
+          "end": 81.04
+        },
+        {
+          "word": "seno",
+          "start": 81.04,
+          "end": 81.9
+        },
+        {
+          "word": "virginal.",
+          "start": 81.9,
+          "end": 83.7
+        }
+      ],
+      "start": 79.44,
+      "end": 83.7,
+      "confidence": 1.0,
+      "time": 79.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Gloria al Verbo encarnado,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 84.64,
+          "end": 85.1
+        },
+        {
+          "word": "encargado,",
+          "start": 86.06,
+          "end": 88.12
+        }
+      ],
+      "start": 84.64,
+      "end": 88.7,
+      "confidence": 0.483,
+      "time": 84.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "en humanidad velado!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "enhumanidad",
+          "start": 88.7,
+          "end": 90.76
+        },
+        {
+          "word": "velado",
+          "start": 90.76,
+          "end": 92.16
+        }
+      ],
+      "start": 88.7,
+      "end": 93.62,
+      "confidence": 0.647,
+      "time": 88.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Gloria al Santo de Israel,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Santo",
+          "start": 93.62,
+          "end": 94.38
+        },
+        {
+          "word": "de",
+          "start": 94.38,
+          "end": 95.1
+        },
+        {
+          "word": "Israel,",
+          "start": 95.1,
+          "end": 96.28
+        }
+      ],
+      "start": 93.62,
+      "end": 96.28,
+      "confidence": 0.6,
+      "time": 93.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "cuyo nombre es Emanuel!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cuyo",
+          "start": 96.98,
+          "end": 97.58
+        },
+        {
+          "word": "nombre",
+          "start": 97.58,
+          "end": 98.46
+        },
+        {
+          "word": "es",
+          "start": 98.46,
+          "end": 99.16
+        },
+        {
+          "word": "Emanuel,",
+          "start": 99.16,
+          "end": 100.38
+        }
+      ],
+      "start": 96.98,
+      "end": 102.3,
+      "confidence": 1.0,
+      "time": 96.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Canta la celeste voz:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 102.3,
+          "end": 102.64
+        },
+        {
+          "word": "este",
+          "start": 103.62,
+          "end": 104.06
+        },
+        {
+          "word": "voz,",
+          "start": 104.06,
+          "end": 104.64
+        }
+      ],
+      "start": 102.3,
+      "end": 105.48,
+      "confidence": 0.709,
+      "time": 102.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "\"¡En los cielos gloria a Dios!\"",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 105.48,
+          "end": 105.48
+        },
+        {
+          "word": "los",
+          "start": 105.48,
+          "end": 106.14
+        },
+        {
+          "word": "cielos",
+          "start": 106.14,
+          "end": 106.96
+        },
+        {
+          "word": "gloria",
+          "start": 106.96,
+          "end": 108.06
+        },
+        {
+          "word": "a",
+          "start": 108.06,
+          "end": 108.48
+        },
+        {
+          "word": "Dios.",
+          "start": 108.48,
+          "end": 109.88
+        }
+      ],
+      "start": 105.48,
+      "end": 109.88,
+      "confidence": 1.0,
+      "time": 105.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Príncipe de paz eterna,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Príncipe",
+          "start": 112.08,
+          "end": 113.24
+        },
+        {
+          "word": "de",
+          "start": 113.24,
+          "end": 113.76
+        },
+        {
+          "word": "paz",
+          "start": 113.76,
+          "end": 114.62
+        },
+        {
+          "word": "eterna,",
+          "start": 114.62,
+          "end": 115.76
+        }
+      ],
+      "start": 112.08,
+      "end": 116.1,
+      "confidence": 1.0,
+      "time": 112.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡gloria a ti, Señor Jesús!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "gloria",
+          "start": 116.1,
+          "end": 116.92
+        },
+        {
+          "word": "a",
+          "start": 116.92,
+          "end": 117.22
+        },
+        {
+          "word": "ti,",
+          "start": 117.22,
+          "end": 117.7
+        },
+        {
+          "word": "Señor",
+          "start": 117.7,
+          "end": 118.46
+        },
+        {
+          "word": "Jesús,",
+          "start": 118.46,
+          "end": 119.78
+        }
+      ],
+      "start": 116.1,
+      "end": 120.24,
+      "confidence": 1.0,
+      "time": 116.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Pues al dar tu vida entera",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 120.24,
+          "end": 120.82
+        },
+        {
+          "word": "al",
+          "start": 120.82,
+          "end": 121.48
+        },
+        {
+          "word": "dar",
+          "start": 121.48,
+          "end": 122.0
+        },
+        {
+          "word": "tu",
+          "start": 122.0,
+          "end": 122.46
+        },
+        {
+          "word": "vida",
+          "start": 122.46,
+          "end": 123.04
+        },
+        {
+          "word": "entera,",
+          "start": 123.04,
+          "end": 124.24
+        }
+      ],
+      "start": 120.24,
+      "end": 124.78,
+      "confidence": 1.0,
+      "time": 120.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tú nos traes vida y luz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tú",
+          "start": 124.78,
+          "end": 125.02
+        },
+        {
+          "word": "nos",
+          "start": 125.02,
+          "end": 125.7
+        },
+        {
+          "word": "traes",
+          "start": 125.7,
+          "end": 126.6
+        },
+        {
+          "word": "vida",
+          "start": 126.6,
+          "end": 127.32
+        },
+        {
+          "word": "y",
+          "start": 127.32,
+          "end": 127.8
+        },
+        {
+          "word": "luz.",
+          "start": 127.8,
+          "end": 128.32
+        }
+      ],
+      "start": 124.78,
+      "end": 128.32,
+      "confidence": 1.0,
+      "time": 124.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Has tu majestad dejado,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "majestad",
+          "start": 129.78,
+          "end": 131.46
+        },
+        {
+          "word": "dejado,",
+          "start": 131.46,
+          "end": 132.78
+        }
+      ],
+      "start": 129.78,
+      "end": 133.44,
+      "confidence": 0.5,
+      "time": 129.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y buscarnos te has dignado;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 133.44,
+          "end": 133.66
+        },
+        {
+          "word": "mostrarnos",
+          "start": 133.66,
+          "end": 135.08
+        },
+        {
+          "word": "castigado,",
+          "start": 135.08,
+          "end": 136.84
+        }
+      ],
+      "start": 133.44,
+      "end": 137.64,
+      "confidence": 0.511,
+      "time": 133.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "para darnos el vivir",
+      "verse": 3,
+      "words": [
+        {
+          "word": "para",
+          "start": 137.64,
+          "end": 138.2
+        },
+        {
+          "word": "darnos",
+          "start": 138.2,
+          "end": 139.24
+        },
+        {
+          "word": "el",
+          "start": 139.24,
+          "end": 139.98
+        },
+        {
+          "word": "vivir",
+          "start": 139.98,
+          "end": 141.02
+        }
+      ],
+      "start": 137.64,
+      "end": 141.02,
+      "confidence": 1.0,
+      "time": 137.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a la muerte quieres ir.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 141.02,
+          "end": 141.98
+        },
+        {
+          "word": "la",
+          "start": 141.98,
+          "end": 142.48
+        },
+        {
+          "word": "muerte",
+          "start": 142.48,
+          "end": 143.4
+        },
+        {
+          "word": "que",
+          "start": 143.4,
+          "end": 144.08
+        }
+      ],
+      "start": 141.02,
+      "end": 145.4,
+      "confidence": 0.752,
+      "time": 141.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Canta la celeste voz:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "este",
+          "start": 148.28,
+          "end": 149.06
+        },
+        {
+          "word": "voz,",
+          "start": 149.06,
+          "end": 149.74
+        }
+      ],
+      "start": 148.28,
+      "end": 150.66,
+      "confidence": 0.459,
+      "time": 148.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "\"¡En los cielos gloria a Dios!\"",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 150.66,
+          "end": 150.74
+        },
+        {
+          "word": "los",
+          "start": 150.74,
+          "end": 151.3
+        },
+        {
+          "word": "cielos",
+          "start": 151.3,
+          "end": 152.26
+        },
+        {
+          "word": "adiós.",
+          "start": 152.92,
+          "end": 157.12
+        }
+      ],
+      "start": 150.66,
+      "end": 157.12,
+      "confidence": 0.656,
+      "time": 150.66
+    }
+  ]
+}

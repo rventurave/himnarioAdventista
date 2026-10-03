@@ -1,0 +1,382 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.773,
+  "language": "es",
+  "model": "medium",
+  "hymn": 59,
+  "source": "059 - Mirad que amor.mp3",
+  "duration": 54.13,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mirad qué amor nos ha dado el Padre",
+      "verse": 1,
+      "words": [
+        {
+          "word": "MIRAR",
+          "start": 7.62,
+          "end": 8.48
+        },
+        {
+          "word": "QUE",
+          "start": 8.48,
+          "end": 8.52
+        },
+        {
+          "word": "AMOR",
+          "start": 8.52,
+          "end": 9.02
+        },
+        {
+          "word": "NOS",
+          "start": 9.02,
+          "end": 9.44
+        },
+        {
+          "word": "HA",
+          "start": 9.44,
+          "end": 9.64
+        },
+        {
+          "word": "DADO",
+          "start": 9.64,
+          "end": 10.3
+        },
+        {
+          "word": "EL",
+          "start": 10.3,
+          "end": 10.52
+        },
+        {
+          "word": "PADRE",
+          "start": 10.52,
+          "end": 10.96
+        }
+      ],
+      "start": 7.62,
+      "end": 10.96,
+      "confidence": 0.985,
+      "time": 7.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al hacernos hijos de Dios;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "AL",
+          "start": 10.96,
+          "end": 11.18
+        },
+        {
+          "word": "HACER",
+          "start": 11.18,
+          "end": 12.04
+        },
+        {
+          "word": "HIJOS",
+          "start": 12.32,
+          "end": 12.88
+        },
+        {
+          "word": "DE",
+          "start": 12.88,
+          "end": 13.08
+        },
+        {
+          "word": "DIOS",
+          "start": 13.08,
+          "end": 14.4
+        }
+      ],
+      "start": 10.96,
+      "end": 14.4,
+      "confidence": 0.988,
+      "time": 10.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mirad qué amor nos ha dado el Padre",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mirad",
+          "start": 14.4,
+          "end": 15.5
+        },
+        {
+          "word": "que",
+          "start": 15.5,
+          "end": 15.74
+        },
+        {
+          "word": "amor",
+          "start": 15.74,
+          "end": 16.1
+        },
+        {
+          "word": "nos",
+          "start": 16.1,
+          "end": 16.48
+        },
+        {
+          "word": "ha",
+          "start": 16.48,
+          "end": 16.78
+        },
+        {
+          "word": "dado",
+          "start": 16.78,
+          "end": 17.32
+        },
+        {
+          "word": "el",
+          "start": 17.32,
+          "end": 17.7
+        },
+        {
+          "word": "Padre",
+          "start": 17.7,
+          "end": 18.18
+        }
+      ],
+      "start": 14.4,
+      "end": 19.44,
+      "confidence": 1.0,
+      "time": 14.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al hacernos hijos de Dios;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "hijos",
+          "start": 19.44,
+          "end": 19.88
+        },
+        {
+          "word": "de",
+          "start": 19.88,
+          "end": 20.4
+        },
+        {
+          "word": "Dios",
+          "start": 20.4,
+          "end": 21.74
+        }
+      ],
+      "start": 19.44,
+      "end": 21.74,
+      "confidence": 0.6,
+      "time": 19.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "para ser llamados hijos de Dios;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Para",
+          "start": 23.16,
+          "end": 24.24
+        },
+        {
+          "word": "ser",
+          "start": 24.24,
+          "end": 25.32
+        },
+        {
+          "word": "llamados",
+          "start": 25.32,
+          "end": 26.54
+        },
+        {
+          "word": "hijos",
+          "start": 26.54,
+          "end": 26.96
+        },
+        {
+          "word": "de",
+          "start": 26.96,
+          "end": 27.5
+        },
+        {
+          "word": "Dios",
+          "start": 27.5,
+          "end": 28.86
+        }
+      ],
+      "start": 23.16,
+      "end": 28.86,
+      "confidence": 1.0,
+      "time": 23.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "para ser llamados hijos de Dios.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Para",
+          "start": 30.22,
+          "end": 31.3
+        },
+        {
+          "word": "ser",
+          "start": 31.3,
+          "end": 32.38
+        },
+        {
+          "word": "llamados",
+          "start": 32.38,
+          "end": 33.66
+        },
+        {
+          "word": "hijos",
+          "start": 33.66,
+          "end": 34.18
+        },
+        {
+          "word": "de",
+          "start": 34.18,
+          "end": 34.8
+        },
+        {
+          "word": "Dios",
+          "start": 34.8,
+          "end": 35.9
+        }
+      ],
+      "start": 30.22,
+      "end": 35.9,
+      "confidence": 1.0,
+      "time": 30.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mirad qué amor nos ha dado el Padre",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mirad",
+          "start": 35.9,
+          "end": 37.34
+        },
+        {
+          "word": "que",
+          "start": 37.34,
+          "end": 37.34
+        },
+        {
+          "word": "amor",
+          "start": 37.34,
+          "end": 37.98
+        },
+        {
+          "word": "nos",
+          "start": 37.98,
+          "end": 38.2
+        },
+        {
+          "word": "ha",
+          "start": 38.2,
+          "end": 38.52
+        },
+        {
+          "word": "dado",
+          "start": 38.52,
+          "end": 39.06
+        }
+      ],
+      "start": 35.9,
+      "end": 40.92,
+      "confidence": 0.75,
+      "time": 35.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al hacernos hijos de Dios;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "hijos",
+          "start": 40.92,
+          "end": 41.42
+        },
+        {
+          "word": "de",
+          "start": 41.42,
+          "end": 41.86
+        },
+        {
+          "word": "Dios",
+          "start": 41.86,
+          "end": 43.08
+        }
+      ],
+      "start": 40.92,
+      "end": 43.08,
+      "confidence": 0.6,
+      "time": 40.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mirad qué amor nos ha dado el Padre",
+      "verse": 1,
+      "words": [
+        {
+          "word": "morirá",
+          "start": 44.54,
+          "end": 46.0
+        }
+      ],
+      "start": 44.54,
+      "end": 47.0,
+      "confidence": 0.105,
+      "time": 44.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al hacernos hijos de Dios.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "leernos",
+          "start": 47.0,
+          "end": 48.1
+        },
+        {
+          "word": "hijos",
+          "start": 48.1,
+          "end": 48.62
+        },
+        {
+          "word": "de",
+          "start": 48.62,
+          "end": 49.24
+        },
+        {
+          "word": "Dios!",
+          "start": 49.24,
+          "end": 50.32
+        }
+      ],
+      "start": 47.0,
+      "end": 50.32,
+      "confidence": 0.76,
+      "time": 47.0
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.885,
+  "language": "es",
+  "model": "medium",
+  "hymn": 7,
+  "source": "007 - Oh Dios, mi soberano Rey.mp3",
+  "duration": 89.23,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Oh Dios, mi soberano Rey;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "O",
+          "start": 7.18,
+          "end": 8.58
+        },
+        {
+          "word": "Dios",
+          "start": 8.58,
+          "end": 9.56
+        },
+        {
+          "word": "mi",
+          "start": 9.56,
+          "end": 9.84
+        },
+        {
+          "word": "soberano,",
+          "start": 9.84,
+          "end": 11.72
+        }
+      ],
+      "start": 7.18,
+      "end": 12.92,
+      "confidence": 0.76,
+      "time": 7.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a ti daré loor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 12.92,
+          "end": 13.18
+        }
+      ],
+      "start": 12.92,
+      "end": 15.52,
+      "confidence": 0.2,
+      "time": 12.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tu nombre yo exaltaré,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 15.52,
+          "end": 16.9
+        },
+        {
+          "word": "nombre",
+          "start": 16.9,
+          "end": 17.56
+        },
+        {
+          "word": "yo",
+          "start": 17.56,
+          "end": 18.5
+        },
+        {
+          "word": "exaltaré,",
+          "start": 18.5,
+          "end": 19.98
+        }
+      ],
+      "start": 15.52,
+      "end": 20.8,
+      "confidence": 1.0,
+      "time": 15.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "santísimo Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "santísimo",
+          "start": 20.8,
+          "end": 22.08
+        },
+        {
+          "word": "Señor",
+          "start": 22.08,
+          "end": 24.12
+        }
+      ],
+      "start": 20.8,
+      "end": 24.12,
+      "confidence": 1.0,
+      "time": 20.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Tus obras evidencia son",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tus",
+          "start": 24.12,
+          "end": 25.56
+        },
+        {
+          "word": "obras",
+          "start": 25.56,
+          "end": 26.18
+        },
+        {
+          "word": "evidencias",
+          "start": 26.18,
+          "end": 28.08
+        },
+        {
+          "word": "son",
+          "start": 28.08,
+          "end": 28.78
+        }
+      ],
+      "start": 24.12,
+      "end": 28.78,
+      "confidence": 0.985,
+      "time": 24.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "de tu infinito amor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 28.78,
+          "end": 29.44
+        },
+        {
+          "word": "tu",
+          "start": 29.44,
+          "end": 29.72
+        },
+        {
+          "word": "infinito",
+          "start": 29.72,
+          "end": 31.1
+        },
+        {
+          "word": "amor,",
+          "start": 31.1,
+          "end": 32.38
+        }
+      ],
+      "start": 28.78,
+      "end": 33.24,
+      "confidence": 1.0,
+      "time": 28.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y cantan con alegre voz",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 33.24,
+          "end": 33.52
+        },
+        {
+          "word": "canta",
+          "start": 33.52,
+          "end": 34.04
+        },
+        {
+          "word": "con",
+          "start": 34.04,
+          "end": 35.04
+        },
+        {
+          "word": "alegre",
+          "start": 35.04,
+          "end": 36.08
+        },
+        {
+          "word": "voz",
+          "start": 36.08,
+          "end": 36.54
+        }
+      ],
+      "start": 33.24,
+      "end": 36.54,
+      "confidence": 0.988,
+      "time": 33.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "las glorias del Señor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "las",
+          "start": 36.54,
+          "end": 37.36
+        },
+        {
+          "word": "glorias",
+          "start": 37.36,
+          "end": 38.04
+        },
+        {
+          "word": "del",
+          "start": 38.04,
+          "end": 38.68
+        },
+        {
+          "word": "Señor.",
+          "start": 38.68,
+          "end": 40.66
+        }
+      ],
+      "start": 36.54,
+      "end": 40.66,
+      "confidence": 1.0,
+      "time": 36.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Aquel que busca salvación,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Aquel",
+          "start": 40.66,
+          "end": 42.7
+        },
+        {
+          "word": "que",
+          "start": 42.7,
+          "end": 42.98
+        },
+        {
+          "word": "busca",
+          "start": 42.98,
+          "end": 44.0
+        },
+        {
+          "word": "salvación,",
+          "start": 44.0,
+          "end": 45.5
+        }
+      ],
+      "start": 40.66,
+      "end": 46.12,
+      "confidence": 1.0,
+      "time": 40.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en Cristo la hallará;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 46.12,
+          "end": 46.26
+        },
+        {
+          "word": "Cristo",
+          "start": 46.26,
+          "end": 46.74
+        },
+        {
+          "word": "gallará,",
+          "start": 46.74,
+          "end": 49.06
+        }
+      ],
+      "start": 46.12,
+      "end": 49.78,
+      "confidence": 0.729,
+      "time": 46.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y su ferviente petición",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 49.78,
+          "end": 50.2
+        },
+        {
+          "word": "su",
+          "start": 50.2,
+          "end": 50.58
+        },
+        {
+          "word": "fremiente",
+          "start": 50.58,
+          "end": 52.02
+        },
+        {
+          "word": "predicción,",
+          "start": 52.02,
+          "end": 53.32
+        }
+      ],
+      "start": 49.78,
+      "end": 53.94,
+      "confidence": 0.933,
+      "time": 49.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "él pronto atenderá.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 53.94,
+          "end": 54.18
+        },
+        {
+          "word": "atenderá.",
+          "start": 54.7,
+          "end": 58.06
+        }
+      ],
+      "start": 53.94,
+      "end": 58.06,
+      "confidence": 0.667,
+      "time": 53.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Eternamente durará",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Eternamente",
+          "start": 59.5,
+          "end": 60.9
+        },
+        {
+          "word": "durará",
+          "start": 60.9,
+          "end": 62.18
+        }
+      ],
+      "start": 59.5,
+      "end": 62.18,
+      "confidence": 1.0,
+      "time": 59.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "el reino del Señor.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "el",
+          "start": 62.18,
+          "end": 63.1
+        },
+        {
+          "word": "reino",
+          "start": 63.1,
+          "end": 63.56
+        },
+        {
+          "word": "del",
+          "start": 63.56,
+          "end": 64.42
+        },
+        {
+          "word": "Señor,",
+          "start": 64.42,
+          "end": 65.98
+        }
+      ],
+      "start": 62.18,
+      "end": 66.96,
+      "confidence": 1.0,
+      "time": 62.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Allí sus siervos gozarán",
+      "verse": 4,
+      "words": [
+        {
+          "word": "allí",
+          "start": 66.96,
+          "end": 67.3
+        },
+        {
+          "word": "sus",
+          "start": 67.3,
+          "end": 67.72
+        },
+        {
+          "word": "serbos",
+          "start": 67.72,
+          "end": 68.96
+        },
+        {
+          "word": "gozarán",
+          "start": 68.96,
+          "end": 70.38
+        }
+      ],
+      "start": 66.96,
+      "end": 70.38,
+      "confidence": 0.965,
+      "time": 66.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "la plenitud de amor.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "la",
+          "start": 70.38,
+          "end": 71.14
+        },
+        {
+          "word": "plenitud",
+          "start": 71.14,
+          "end": 72.52
+        },
+        {
+          "word": "de",
+          "start": 72.52,
+          "end": 73.16
+        },
+        {
+          "word": "amor.",
+          "start": 73.16,
+          "end": 74.92
+        }
+      ],
+      "start": 70.38,
+      "end": 74.92,
+      "confidence": 1.0,
+      "time": 70.38
+    }
+  ]
+}

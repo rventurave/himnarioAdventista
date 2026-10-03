@@ -1,0 +1,775 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.965,
+  "language": "es",
+  "model": "medium",
+  "hymn": 89,
+  "source": "089 - Cristianos alegraos hoy.mp3",
+  "duration": 122.72,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristianos, alegraos hoy",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristianos,",
+          "start": 8.92,
+          "end": 10.32
+        },
+        {
+          "word": "alegraos",
+          "start": 10.32,
+          "end": 11.72
+        },
+        {
+          "word": "hoy",
+          "start": 11.72,
+          "end": 12.2
+        }
+      ],
+      "start": 8.92,
+      "end": 12.2,
+      "confidence": 1.0,
+      "time": 8.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con alma, corazón y voz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "con",
+          "start": 12.2,
+          "end": 12.82
+        },
+        {
+          "word": "alma,",
+          "start": 12.82,
+          "end": 13.56
+        },
+        {
+          "word": "corazón",
+          "start": 14.2,
+          "end": 14.94
+        },
+        {
+          "word": "y",
+          "start": 14.94,
+          "end": 15.56
+        },
+        {
+          "word": "voz,",
+          "start": 15.56,
+          "end": 16.26
+        }
+      ],
+      "start": 12.2,
+      "end": 17.1,
+      "confidence": 1.0,
+      "time": 12.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ha nacido hoy Jesús,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ha",
+          "start": 17.1,
+          "end": 17.26
+        },
+        {
+          "word": "nacido",
+          "start": 17.26,
+          "end": 18.56
+        },
+        {
+          "word": "hoy",
+          "start": 18.56,
+          "end": 19.1
+        },
+        {
+          "word": "Jesús,",
+          "start": 19.1,
+          "end": 20.26
+        }
+      ],
+      "start": 17.1,
+      "end": 20.98,
+      "confidence": 1.0,
+      "time": 17.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "presten todos atención.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "presten",
+          "start": 20.98,
+          "end": 21.5
+        },
+        {
+          "word": "todos",
+          "start": 21.5,
+          "end": 22.5
+        },
+        {
+          "word": "atención,",
+          "start": 22.5,
+          "end": 24.24
+        }
+      ],
+      "start": 20.98,
+      "end": 24.24,
+      "confidence": 1.0,
+      "time": 20.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Buey y asno acompañan",
+      "verse": 1,
+      "words": [
+        {
+          "word": "no",
+          "start": 26.18,
+          "end": 27.18
+        },
+        {
+          "word": "acompañan",
+          "start": 27.18,
+          "end": 28.76
+        }
+      ],
+      "start": 26.18,
+      "end": 28.76,
+      "confidence": 0.45,
+      "time": 26.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al bebé en el mesón.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 28.76,
+          "end": 29.28
+        },
+        {
+          "word": "bebé",
+          "start": 29.28,
+          "end": 30.26
+        },
+        {
+          "word": "en",
+          "start": 30.26,
+          "end": 31.0
+        },
+        {
+          "word": "el",
+          "start": 31.0,
+          "end": 31.38
+        },
+        {
+          "word": "mesón,",
+          "start": 31.38,
+          "end": 32.52
+        }
+      ],
+      "start": 28.76,
+      "end": 33.36,
+      "confidence": 1.0,
+      "time": 28.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo ya nació,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 33.36,
+          "end": 33.64
+        },
+        {
+          "word": "ya",
+          "start": 33.64,
+          "end": 34.48
+        },
+        {
+          "word": "nació,",
+          "start": 34.48,
+          "end": 36.66
+        }
+      ],
+      "start": 33.36,
+      "end": 36.76,
+      "confidence": 1.0,
+      "time": 33.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo ya nació.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 36.76,
+          "end": 37.8
+        },
+        {
+          "word": "ya",
+          "start": 37.8,
+          "end": 38.7
+        },
+        {
+          "word": "nació.",
+          "start": 38.7,
+          "end": 40.7
+        }
+      ],
+      "start": 36.76,
+      "end": 40.7,
+      "confidence": 1.0,
+      "time": 36.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Cristianos, alegraos hoy",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cristianos",
+          "start": 40.7,
+          "end": 42.86
+        },
+        {
+          "word": "alegraos,",
+          "start": 42.86,
+          "end": 44.52
+        },
+        {
+          "word": "hoy",
+          "start": 44.8,
+          "end": 45.08
+        }
+      ],
+      "start": 40.7,
+      "end": 45.08,
+      "confidence": 1.0,
+      "time": 40.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "con alma, corazón y voz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "con",
+          "start": 45.08,
+          "end": 45.74
+        },
+        {
+          "word": "alma,",
+          "start": 45.74,
+          "end": 46.46
+        },
+        {
+          "word": "corazón",
+          "start": 47.08,
+          "end": 47.84
+        },
+        {
+          "word": "y",
+          "start": 47.84,
+          "end": 48.6
+        },
+        {
+          "word": "voz",
+          "start": 48.6,
+          "end": 49.42
+        }
+      ],
+      "start": 45.08,
+      "end": 49.42,
+      "confidence": 1.0,
+      "time": 45.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Escuchad la bendición,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "escuchad",
+          "start": 49.42,
+          "end": 51.34
+        },
+        {
+          "word": "la",
+          "start": 51.34,
+          "end": 51.8
+        },
+        {
+          "word": "bendición,",
+          "start": 51.8,
+          "end": 53.58
+        }
+      ],
+      "start": 49.42,
+      "end": 54.26,
+      "confidence": 1.0,
+      "time": 49.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "fue por esto que él nació.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "fue",
+          "start": 54.26,
+          "end": 54.34
+        },
+        {
+          "word": "por",
+          "start": 54.34,
+          "end": 55.16
+        },
+        {
+          "word": "esto",
+          "start": 55.16,
+          "end": 55.74
+        },
+        {
+          "word": "que",
+          "start": 55.74,
+          "end": 56.38
+        },
+        {
+          "word": "él",
+          "start": 56.38,
+          "end": 56.64
+        },
+        {
+          "word": "nació",
+          "start": 56.64,
+          "end": 57.72
+        }
+      ],
+      "start": 54.26,
+      "end": 57.72,
+      "confidence": 1.0,
+      "time": 54.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Las ventanas de los cielos",
+      "verse": 2,
+      "words": [
+        {
+          "word": "las",
+          "start": 57.72,
+          "end": 58.56
+        },
+        {
+          "word": "ventanas",
+          "start": 58.56,
+          "end": 59.86
+        },
+        {
+          "word": "de",
+          "start": 59.86,
+          "end": 60.7
+        },
+        {
+          "word": "los",
+          "start": 60.7,
+          "end": 61.06
+        },
+        {
+          "word": "cielos",
+          "start": 61.06,
+          "end": 62.08
+        }
+      ],
+      "start": 57.72,
+      "end": 62.08,
+      "confidence": 1.0,
+      "time": 57.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "al nacer él las abrió.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 62.08,
+          "end": 62.66
+        },
+        {
+          "word": "nacer",
+          "start": 62.66,
+          "end": 63.76
+        },
+        {
+          "word": "él",
+          "start": 63.76,
+          "end": 64.22
+        },
+        {
+          "word": "las",
+          "start": 64.22,
+          "end": 64.94
+        },
+        {
+          "word": "abrió",
+          "start": 64.94,
+          "end": 65.94
+        }
+      ],
+      "start": 62.08,
+      "end": 65.94,
+      "confidence": 1.0,
+      "time": 62.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Cristo ya nació,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 65.94,
+          "end": 67.06
+        },
+        {
+          "word": "ya",
+          "start": 67.06,
+          "end": 67.92
+        },
+        {
+          "word": "nació,",
+          "start": 67.92,
+          "end": 70.2
+        }
+      ],
+      "start": 65.94,
+      "end": 70.2,
+      "confidence": 1.0,
+      "time": 65.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Cristo ya nació.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 70.2,
+          "end": 71.38
+        },
+        {
+          "word": "ya",
+          "start": 71.38,
+          "end": 72.24
+        },
+        {
+          "word": "nació",
+          "start": 72.24,
+          "end": 74.34
+        }
+      ],
+      "start": 70.2,
+      "end": 74.34,
+      "confidence": 1.0,
+      "time": 70.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristianos, alegraos hoy",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristianos",
+          "start": 74.34,
+          "end": 76.76
+        },
+        {
+          "word": "alegraos",
+          "start": 76.76,
+          "end": 78.52
+        },
+        {
+          "word": "hoy",
+          "start": 78.52,
+          "end": 79.1
+        }
+      ],
+      "start": 74.34,
+      "end": 79.1,
+      "confidence": 1.0,
+      "time": 74.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con alma, corazón y voz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 79.1,
+          "end": 79.72
+        },
+        {
+          "word": "alma,",
+          "start": 79.72,
+          "end": 80.52
+        },
+        {
+          "word": "corazón",
+          "start": 81.26,
+          "end": 82.1
+        },
+        {
+          "word": "y",
+          "start": 82.1,
+          "end": 82.58
+        },
+        {
+          "word": "voz",
+          "start": 82.58,
+          "end": 83.44
+        }
+      ],
+      "start": 79.1,
+      "end": 83.44,
+      "confidence": 1.0,
+      "time": 79.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "No más miedo a morir:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "No",
+          "start": 83.44,
+          "end": 84.42
+        },
+        {
+          "word": "más",
+          "start": 84.42,
+          "end": 84.74
+        },
+        {
+          "word": "miedo",
+          "start": 84.74,
+          "end": 85.72
+        },
+        {
+          "word": "al",
+          "start": 85.72,
+          "end": 86.44
+        },
+        {
+          "word": "morir,",
+          "start": 86.44,
+          "end": 87.78
+        }
+      ],
+      "start": 83.44,
+      "end": 88.44,
+      "confidence": 0.96,
+      "time": 83.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "él nos vino a salvar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Él",
+          "start": 88.44,
+          "end": 88.54
+        },
+        {
+          "word": "nos",
+          "start": 88.54,
+          "end": 88.9
+        },
+        {
+          "word": "vino",
+          "start": 88.9,
+          "end": 89.8
+        },
+        {
+          "word": "a",
+          "start": 89.8,
+          "end": 90.54
+        },
+        {
+          "word": "salvar",
+          "start": 90.54,
+          "end": 91.66
+        }
+      ],
+      "start": 88.44,
+      "end": 91.66,
+      "confidence": 1.0,
+      "time": 88.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Él nos llama a todos hoy,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Él",
+          "start": 91.66,
+          "end": 92.82
+        },
+        {
+          "word": "nos",
+          "start": 92.82,
+          "end": 93.08
+        },
+        {
+          "word": "llama",
+          "start": 93.08,
+          "end": 93.84
+        },
+        {
+          "word": "todos",
+          "start": 93.84,
+          "end": 95.0
+        },
+        {
+          "word": "hoy,",
+          "start": 95.0,
+          "end": 95.64
+        }
+      ],
+      "start": 91.66,
+      "end": 95.98,
+      "confidence": 0.833,
+      "time": 91.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la vida eterna quiere dar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 95.98,
+          "end": 96.22
+        },
+        {
+          "word": "vida",
+          "start": 96.22,
+          "end": 96.98
+        },
+        {
+          "word": "eterna",
+          "start": 96.98,
+          "end": 98.12
+        },
+        {
+          "word": "quiere",
+          "start": 98.12,
+          "end": 99.06
+        },
+        {
+          "word": "dar,",
+          "start": 99.06,
+          "end": 100.1
+        }
+      ],
+      "start": 95.98,
+      "end": 100.54,
+      "confidence": 1.0,
+      "time": 95.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristo ya nació,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 100.54,
+          "end": 101.26
+        },
+        {
+          "word": "ya",
+          "start": 101.26,
+          "end": 102.16
+        },
+        {
+          "word": "nació,",
+          "start": 102.16,
+          "end": 104.24
+        }
+      ],
+      "start": 100.54,
+      "end": 104.56,
+      "confidence": 1.0,
+      "time": 100.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristo ya nació.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 104.56,
+          "end": 105.54
+        },
+        {
+          "word": "ya",
+          "start": 105.54,
+          "end": 106.42
+        },
+        {
+          "word": "nació.",
+          "start": 106.42,
+          "end": 108.74
+        }
+      ],
+      "start": 104.56,
+      "end": 108.74,
+      "confidence": 1.0,
+      "time": 104.56
+    }
+  ]
+}

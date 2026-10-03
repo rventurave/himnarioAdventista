@@ -1,0 +1,929 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.719,
+  "language": "es",
+  "model": "medium",
+  "hymn": 168,
+  "source": "168 - El Rey que viene.mp3",
+  "duration": 198.53,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "El Rey que viene cerca está,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "El",
+          "start": 11.8,
+          "end": 13.18
+        },
+        {
+          "word": "Rey",
+          "start": 13.18,
+          "end": 13.98
+        },
+        {
+          "word": "que",
+          "start": 13.98,
+          "end": 14.66
+        },
+        {
+          "word": "viene",
+          "start": 14.66,
+          "end": 15.32
+        },
+        {
+          "word": "cerca",
+          "start": 15.32,
+          "end": 16.02
+        },
+        {
+          "word": "está,",
+          "start": 16.02,
+          "end": 17.58
+        }
+      ],
+      "start": 11.8,
+      "end": 18.62,
+      "confidence": 1.0,
+      "time": 11.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "el mismo que en la cruz murió;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 18.62,
+          "end": 18.96
+        },
+        {
+          "word": "mismo",
+          "start": 18.96,
+          "end": 20.04
+        },
+        {
+          "word": "que",
+          "start": 20.04,
+          "end": 20.46
+        },
+        {
+          "word": "la",
+          "start": 20.46,
+          "end": 20.94
+        },
+        {
+          "word": "cruz",
+          "start": 20.94,
+          "end": 21.4
+        },
+        {
+          "word": "murió.",
+          "start": 21.4,
+          "end": 23.2
+        }
+      ],
+      "start": 18.62,
+      "end": 23.2,
+      "confidence": 0.857,
+      "time": 18.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mas solo viene esta vez",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sol",
+          "start": 24.4,
+          "end": 25.1
+        },
+        {
+          "word": "esta",
+          "start": 26.32,
+          "end": 27.06
+        },
+        {
+          "word": "vez",
+          "start": 27.06,
+          "end": 28.82
+        }
+      ],
+      "start": 24.4,
+      "end": 29.84,
+      "confidence": 0.588,
+      "time": 24.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por los que rescató.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "los",
+          "start": 29.84,
+          "end": 30.7
+        },
+        {
+          "word": "que",
+          "start": 30.7,
+          "end": 31.36
+        },
+        {
+          "word": "rescató.",
+          "start": 31.36,
+          "end": 34.36
+        }
+      ],
+      "start": 29.84,
+      "end": 34.36,
+      "confidence": 0.75,
+      "time": 29.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cerca está, cerca está,",
+      "words": [
+        {
+          "word": "gastar,",
+          "start": 34.96,
+          "end": 37.16
+        },
+        {
+          "word": "gastar,",
+          "start": 37.58,
+          "end": 38.56
+        }
+      ],
+      "start": 34.96,
+      "end": 39.9,
+      "confidence": 0.38,
+      "time": 34.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "a las puertas mismas llega ya;",
+      "words": [
+        {
+          "word": "a",
+          "start": 39.9,
+          "end": 40.42
+        },
+        {
+          "word": "las",
+          "start": 40.42,
+          "end": 40.7
+        },
+        {
+          "word": "muertas",
+          "start": 40.7,
+          "end": 41.9
+        },
+        {
+          "word": "mismas",
+          "start": 41.9,
+          "end": 42.96
+        }
+      ],
+      "start": 39.9,
+      "end": 45.2,
+      "confidence": 0.652,
+      "time": 39.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "viene presto, viene presto;",
+      "start": 45.2,
+      "end": 47.99,
+      "confidence": 0.0,
+      "time": 45.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "a las puertas llega ya.",
+      "words": [
+        {
+          "word": "a",
+          "start": 50.78,
+          "end": 51.38
+        },
+        {
+          "word": "las",
+          "start": 51.38,
+          "end": 51.68
+        },
+        {
+          "word": "puertas",
+          "start": 51.68,
+          "end": 52.92
+        }
+      ],
+      "start": 47.99,
+      "end": 50.78,
+      "confidence": 0.6,
+      "time": 47.99
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "De su venida vemos ya",
+      "verse": 2,
+      "words": [
+        {
+          "word": "De",
+          "start": 58.08,
+          "end": 58.7
+        },
+        {
+          "word": "su",
+          "start": 58.7,
+          "end": 59.46
+        },
+        {
+          "word": "venida",
+          "start": 59.46,
+          "end": 60.64
+        },
+        {
+          "word": "vemos",
+          "start": 60.64,
+          "end": 61.36
+        },
+        {
+          "word": "ya",
+          "start": 61.36,
+          "end": 63.2
+        }
+      ],
+      "start": 58.08,
+      "end": 63.2,
+      "confidence": 1.0,
+      "time": 58.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "señales muchas por doquier,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "señales",
+          "start": 63.2,
+          "end": 65.5
+        },
+        {
+          "word": "muchas",
+          "start": 65.5,
+          "end": 66.16
+        },
+        {
+          "word": "por",
+          "start": 66.16,
+          "end": 66.68
+        },
+        {
+          "word": "doquier",
+          "start": 66.68,
+          "end": 68.44
+        }
+      ],
+      "start": 63.2,
+      "end": 68.44,
+      "confidence": 1.0,
+      "time": 63.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y pronto el alba eternal",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 68.44,
+          "end": 69.64
+        },
+        {
+          "word": "pronto",
+          "start": 69.64,
+          "end": 70.46
+        },
+        {
+          "word": "el",
+          "start": 70.46,
+          "end": 71.24
+        },
+        {
+          "word": "alma",
+          "start": 71.24,
+          "end": 71.7
+        },
+        {
+          "word": "eterna",
+          "start": 71.7,
+          "end": 73.86
+        }
+      ],
+      "start": 68.44,
+      "end": 73.86,
+      "confidence": 0.958,
+      "time": 68.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "podrán los pueblos ver.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Podrán",
+          "start": 73.86,
+          "end": 76.2
+        },
+        {
+          "word": "los",
+          "start": 76.2,
+          "end": 76.48
+        },
+        {
+          "word": "pueblos",
+          "start": 76.48,
+          "end": 78.06
+        }
+      ],
+      "start": 73.86,
+      "end": 82.96,
+      "confidence": 0.75,
+      "time": 73.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cerca está, cerca está,",
+      "words": [
+        {
+          "word": "restar,",
+          "start": 82.96,
+          "end": 85.06
+        },
+        {
+          "word": "restar",
+          "start": 85.66,
+          "end": 85.66
+        }
+      ],
+      "start": 82.96,
+      "end": 85.66,
+      "confidence": 0.44,
+      "time": 82.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "a las puertas mismas llega ya;",
+      "words": [
+        {
+          "word": "a",
+          "start": 85.66,
+          "end": 85.76
+        },
+        {
+          "word": "las",
+          "start": 85.76,
+          "end": 86.04
+        },
+        {
+          "word": "puertas",
+          "start": 86.04,
+          "end": 87.28
+        },
+        {
+          "word": "llegar",
+          "start": 87.98,
+          "end": 88.58
+        },
+        {
+          "word": "ya.",
+          "start": 88.58,
+          "end": 90.54
+        }
+      ],
+      "start": 85.66,
+      "end": 90.54,
+      "confidence": 0.823,
+      "time": 85.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "viene presto, viene presto;",
+      "start": 90.54,
+      "end": 93.44,
+      "confidence": 0.0,
+      "time": 90.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "a las puertas llega ya.",
+      "words": [
+        {
+          "word": "a",
+          "start": 96.34,
+          "end": 96.7
+        },
+        {
+          "word": "las",
+          "start": 96.7,
+          "end": 97.66
+        },
+        {
+          "word": "puertas",
+          "start": 97.66,
+          "end": 98.2
+        },
+        {
+          "word": "llegar",
+          "start": 99.82,
+          "end": 100.08
+        },
+        {
+          "word": "ya.",
+          "start": 100.08,
+          "end": 101.42
+        }
+      ],
+      "start": 93.44,
+      "end": 96.34,
+      "confidence": 0.988,
+      "time": 93.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Pues no contéis con gozo y paz:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Pues",
+          "start": 101.42,
+          "end": 103.9
+        },
+        {
+          "word": "no",
+          "start": 103.9,
+          "end": 104.88
+        },
+        {
+          "word": "contéis",
+          "start": 104.88,
+          "end": 105.82
+        },
+        {
+          "word": "paz,",
+          "start": 106.74,
+          "end": 108.42
+        }
+      ],
+      "start": 101.42,
+      "end": 109.5,
+      "confidence": 0.571,
+      "time": 101.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "aquí las luchas seguirán;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "aquí",
+          "start": 109.5,
+          "end": 110.44
+        },
+        {
+          "word": "las",
+          "start": 110.44,
+          "end": 110.84
+        },
+        {
+          "word": "luchas",
+          "start": 110.84,
+          "end": 111.78
+        },
+        {
+          "word": "seguirán,",
+          "start": 111.78,
+          "end": 113.9
+        }
+      ],
+      "start": 109.5,
+      "end": 114.34,
+      "confidence": 1.0,
+      "time": 109.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "mas cuando vuelva el Salvador,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "más",
+          "start": 114.34,
+          "end": 114.92
+        },
+        {
+          "word": "cuando",
+          "start": 114.92,
+          "end": 116.22
+        },
+        {
+          "word": "vuelva",
+          "start": 116.22,
+          "end": 116.84
+        },
+        {
+          "word": "el",
+          "start": 116.84,
+          "end": 117.18
+        },
+        {
+          "word": "Salvador,",
+          "start": 117.18,
+          "end": 119.22
+        }
+      ],
+      "start": 114.34,
+      "end": 120.58,
+      "confidence": 1.0,
+      "time": 114.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "eterno fin tendrán.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "eterno",
+          "start": 120.58,
+          "end": 121.9
+        },
+        {
+          "word": "fin",
+          "start": 121.9,
+          "end": 122.42
+        },
+        {
+          "word": "tendrá.",
+          "start": 122.42,
+          "end": 124.82
+        }
+      ],
+      "start": 120.58,
+      "end": 124.82,
+      "confidence": 0.98,
+      "time": 120.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cerca está, cerca está,",
+      "words": [
+        {
+          "word": "restar,",
+          "start": 125.62,
+          "end": 127.8
+        },
+        {
+          "word": "restar,",
+          "start": 128.36,
+          "end": 130.48
+        }
+      ],
+      "start": 125.62,
+      "end": 130.62,
+      "confidence": 0.44,
+      "time": 125.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "a las puertas mismas llega ya;",
+      "words": [
+        {
+          "word": "a",
+          "start": 130.62,
+          "end": 131.12
+        },
+        {
+          "word": "las",
+          "start": 131.12,
+          "end": 131.4
+        },
+        {
+          "word": "puertas",
+          "start": 131.4,
+          "end": 132.58
+        },
+        {
+          "word": "mismas",
+          "start": 132.58,
+          "end": 133.6
+        },
+        {
+          "word": "llega",
+          "start": 133.6,
+          "end": 133.98
+        },
+        {
+          "word": "ya.",
+          "start": 133.98,
+          "end": 135.6
+        }
+      ],
+      "start": 130.62,
+      "end": 135.6,
+      "confidence": 1.0,
+      "time": 130.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "viene presto, viene presto;",
+      "words": [
+        {
+          "word": "detesto,",
+          "start": 136.66,
+          "end": 138.46
+        },
+        {
+          "word": "detesto,",
+          "start": 139.32,
+          "end": 141.24
+        }
+      ],
+      "start": 136.66,
+      "end": 141.82,
+      "confidence": 0.385,
+      "time": 136.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "a las puertas llega ya.",
+      "words": [
+        {
+          "word": "a",
+          "start": 141.82,
+          "end": 142.02
+        },
+        {
+          "word": "las",
+          "start": 142.02,
+          "end": 142.32
+        },
+        {
+          "word": "puertas",
+          "start": 142.32,
+          "end": 143.62
+        },
+        {
+          "word": "llegará",
+          "start": 143.62,
+          "end": 145.34
+        },
+        {
+          "word": "ya.",
+          "start": 145.34,
+          "end": 147.5
+        }
+      ],
+      "start": 141.82,
+      "end": 147.5,
+      "confidence": 0.988,
+      "time": 141.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Entonces nuestro hogar será",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Entonces",
+          "start": 149.18,
+          "end": 150.58
+        },
+        {
+          "word": "nuestro",
+          "start": 150.58,
+          "end": 151.38
+        },
+        {
+          "word": "será",
+          "start": 151.78,
+          "end": 153.62
+        }
+      ],
+      "start": 149.18,
+      "end": 153.62,
+      "confidence": 0.75,
+      "time": 149.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "la Tierra Nueva, eternal;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "la",
+          "start": 153.62,
+          "end": 154.9
+        },
+        {
+          "word": "tierra",
+          "start": 154.9,
+          "end": 156.06
+        },
+        {
+          "word": "nueva,",
+          "start": 156.06,
+          "end": 156.92
+        },
+        {
+          "word": "eterna.",
+          "start": 157.3,
+          "end": 159.08
+        }
+      ],
+      "start": 153.62,
+      "end": 159.08,
+      "confidence": 0.985,
+      "time": 153.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "la muerte nunca entrará,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "La",
+          "start": 159.52,
+          "end": 160.42
+        },
+        {
+          "word": "muerte",
+          "start": 160.42,
+          "end": 161.48
+        },
+        {
+          "word": "nunca",
+          "start": 161.48,
+          "end": 162.38
+        },
+        {
+          "word": "entrará,",
+          "start": 162.38,
+          "end": 164.92
+        }
+      ],
+      "start": 159.52,
+      "end": 165.18,
+      "confidence": 1.0,
+      "time": 159.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "pues todo es inmortal.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "pues",
+          "start": 165.18,
+          "end": 165.76
+        },
+        {
+          "word": "todo",
+          "start": 165.76,
+          "end": 166.84
+        },
+        {
+          "word": "es",
+          "start": 166.84,
+          "end": 167.68
+        },
+        {
+          "word": "inmortal.",
+          "start": 167.68,
+          "end": 170.0
+        }
+      ],
+      "start": 165.18,
+      "end": 170.0,
+      "confidence": 1.0,
+      "time": 165.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Cerca está, cerca está,",
+      "words": [
+        {
+          "word": "estén,",
+          "start": 171.28,
+          "end": 173.18
+        },
+        {
+          "word": "estén,",
+          "start": 173.98,
+          "end": 175.88
+        }
+      ],
+      "start": 171.28,
+      "end": 175.88,
+      "confidence": 0.4,
+      "time": 171.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "a las puertas mismas llega ya;",
+      "words": [
+        {
+          "word": "a",
+          "start": 175.88,
+          "end": 176.46
+        },
+        {
+          "word": "las",
+          "start": 176.46,
+          "end": 176.84
+        },
+        {
+          "word": "puertas",
+          "start": 176.84,
+          "end": 177.94
+        },
+        {
+          "word": "mismas",
+          "start": 177.94,
+          "end": 178.98
+        }
+      ],
+      "start": 175.88,
+      "end": 181.28,
+      "confidence": 0.667,
+      "time": 175.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "viene presto, viene presto;",
+      "start": 181.28,
+      "end": 183.9,
+      "confidence": 0.0,
+      "time": 181.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "a las puertas llega ya.",
+      "words": [
+        {
+          "word": "a",
+          "start": 186.52,
+          "end": 187.38
+        },
+        {
+          "word": "las",
+          "start": 187.38,
+          "end": 187.7
+        },
+        {
+          "word": "puertas",
+          "start": 187.7,
+          "end": 189.0
+        }
+      ],
+      "start": 183.9,
+      "end": 186.52,
+      "confidence": 0.6,
+      "time": 183.9
+    }
+  ]
+}

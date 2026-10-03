@@ -1,0 +1,6 @@
+# Dependencias de tools/vocal_sync.py
+#
+# WhisperX no es instalable en este entorno (Python 3.14): fija
+# faster-whisper==1.0.0 -> ctranslate2==4.4.0, sin wheel para 3.14.
+# faster-whisper 1.2.x sí es compatible y aporta timestamps por palabra.
+faster-whisper==1.2.1

@@ -1,0 +1,489 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.916,
+  "language": "es",
+  "model": "medium",
+  "hymn": 127,
+  "source": "127 - Cristo, nombre dulce.mp3",
+  "duration": 112.61,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo, nombre dulce para mí;",
+      "verse": 1,
+      "start": 0.0,
+      "end": 33.12,
+      "confidence": 0.0,
+      "time": 0.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo, escuchas siempre mi oración.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 33.12,
+          "end": 34.44
+        },
+        {
+          "word": "escucha",
+          "start": 35.68,
+          "end": 36.44
+        },
+        {
+          "word": "siempre",
+          "start": 36.44,
+          "end": 37.04
+        },
+        {
+          "word": "mi",
+          "start": 37.04,
+          "end": 37.48
+        },
+        {
+          "word": "oración",
+          "start": 37.48,
+          "end": 39.02
+        }
+      ],
+      "start": 33.12,
+      "end": 39.02,
+      "confidence": 0.988,
+      "time": 33.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Oh, Cristo, tú me levantas si caí;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Oh",
+          "start": 39.02,
+          "end": 39.52
+        },
+        {
+          "word": "Cristo,",
+          "start": 39.52,
+          "end": 40.96
+        },
+        {
+          "word": "tu",
+          "start": 41.62,
+          "end": 41.76
+        },
+        {
+          "word": "me",
+          "start": 41.76,
+          "end": 42.32
+        },
+        {
+          "word": "levantas",
+          "start": 42.32,
+          "end": 43.46
+        },
+        {
+          "word": "caí",
+          "start": 43.88,
+          "end": 44.54
+        }
+      ],
+      "start": 39.02,
+      "end": 44.54,
+      "confidence": 0.857,
+      "time": 39.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "es muy dulce tu nombre, mi Jesús.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Es",
+          "start": 44.58,
+          "end": 45.4
+        },
+        {
+          "word": "muy",
+          "start": 45.4,
+          "end": 45.66
+        },
+        {
+          "word": "dulce",
+          "start": 45.66,
+          "end": 46.68
+        },
+        {
+          "word": "tu",
+          "start": 46.68,
+          "end": 47.06
+        },
+        {
+          "word": "nombre",
+          "start": 47.06,
+          "end": 47.72
+        },
+        {
+          "word": "mi",
+          "start": 47.72,
+          "end": 48.2
+        },
+        {
+          "word": "Jesús",
+          "start": 48.2,
+          "end": 51.6
+        }
+      ],
+      "start": 44.58,
+      "end": 51.6,
+      "confidence": 1.0,
+      "time": 44.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Cristo, alabarte es mi placer,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 54.9,
+          "end": 56.1
+        },
+        {
+          "word": "alabarte",
+          "start": 57.32,
+          "end": 58.22
+        },
+        {
+          "word": "es",
+          "start": 58.22,
+          "end": 58.52
+        },
+        {
+          "word": "mi",
+          "start": 58.52,
+          "end": 58.84
+        },
+        {
+          "word": "placer,",
+          "start": 58.84,
+          "end": 60.46
+        }
+      ],
+      "start": 54.9,
+      "end": 61.42,
+      "confidence": 1.0,
+      "time": 54.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Cristo, primero y último eres tú.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 61.42,
+          "end": 62.18
+        },
+        {
+          "word": "primero",
+          "start": 62.84,
+          "end": 63.44
+        },
+        {
+          "word": "y",
+          "start": 63.44,
+          "end": 63.84
+        },
+        {
+          "word": "último",
+          "start": 63.84,
+          "end": 64.52
+        },
+        {
+          "word": "eres",
+          "start": 64.52,
+          "end": 65.26
+        },
+        {
+          "word": "tú.",
+          "start": 65.26,
+          "end": 65.86
+        }
+      ],
+      "start": 61.42,
+      "end": 65.86,
+      "confidence": 1.0,
+      "time": 61.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "oh, Cristo, por mí moriste en la cruz;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Oh",
+          "start": 66.38,
+          "end": 66.82
+        },
+        {
+          "word": "Cristo,",
+          "start": 66.82,
+          "end": 68.2
+        },
+        {
+          "word": "por",
+          "start": 68.6,
+          "end": 69.1
+        },
+        {
+          "word": "mi",
+          "start": 69.1,
+          "end": 69.42
+        },
+        {
+          "word": "morirte",
+          "start": 69.42,
+          "end": 70.86
+        },
+        {
+          "word": "en",
+          "start": 70.86,
+          "end": 71.14
+        },
+        {
+          "word": "la",
+          "start": 71.14,
+          "end": 71.48
+        },
+        {
+          "word": "cruz,",
+          "start": 71.48,
+          "end": 71.94
+        }
+      ],
+      "start": 66.38,
+      "end": 72.52,
+      "confidence": 0.989,
+      "time": 66.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "es muy dulce tu nombre, mi Jesús.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "es",
+          "start": 72.52,
+          "end": 72.7
+        },
+        {
+          "word": "muy",
+          "start": 72.7,
+          "end": 72.94
+        },
+        {
+          "word": "dulce",
+          "start": 72.94,
+          "end": 73.94
+        },
+        {
+          "word": "tu",
+          "start": 73.94,
+          "end": 74.36
+        },
+        {
+          "word": "nombre",
+          "start": 74.36,
+          "end": 74.96
+        },
+        {
+          "word": "mi",
+          "start": 74.96,
+          "end": 75.46
+        },
+        {
+          "word": "Jesús.",
+          "start": 75.46,
+          "end": 77.1
+        }
+      ],
+      "start": 72.52,
+      "end": 77.1,
+      "confidence": 1.0,
+      "time": 72.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristo, eres Rey que volverá;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 82.26,
+          "end": 83.56
+        },
+        {
+          "word": "eres",
+          "start": 84.54,
+          "end": 84.96
+        },
+        {
+          "word": "Rey",
+          "start": 84.96,
+          "end": 85.24
+        },
+        {
+          "word": "que",
+          "start": 85.24,
+          "end": 85.7
+        },
+        {
+          "word": "volverá,",
+          "start": 85.7,
+          "end": 87.7
+        }
+      ],
+      "start": 82.26,
+      "end": 88.36,
+      "confidence": 1.0,
+      "time": 82.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristo, necesitamos tu amor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 88.36,
+          "end": 89.42
+        },
+        {
+          "word": "necesitamos",
+          "start": 90.5,
+          "end": 91.7
+        },
+        {
+          "word": "tu",
+          "start": 91.7,
+          "end": 92.24
+        },
+        {
+          "word": "amor,",
+          "start": 92.24,
+          "end": 93.4
+        }
+      ],
+      "start": 88.36,
+      "end": 93.4,
+      "confidence": 1.0,
+      "time": 88.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Oh, Cristo, a ti cantamos con fervor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "oh",
+          "start": 93.78,
+          "end": 94.08
+        },
+        {
+          "word": "Cristo,",
+          "start": 94.08,
+          "end": 95.48
+        },
+        {
+          "word": "a",
+          "start": 96.06,
+          "end": 96.44
+        },
+        {
+          "word": "ti",
+          "start": 96.44,
+          "end": 96.66
+        },
+        {
+          "word": "cantamos",
+          "start": 96.66,
+          "end": 97.76
+        },
+        {
+          "word": "con",
+          "start": 97.76,
+          "end": 98.3
+        },
+        {
+          "word": "fervor,",
+          "start": 98.3,
+          "end": 99.32
+        }
+      ],
+      "start": 93.78,
+      "end": 99.96,
+      "confidence": 1.0,
+      "time": 93.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "es muy dulce tu nombre, mi Jesús.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "es",
+          "start": 99.96,
+          "end": 100.22
+        },
+        {
+          "word": "muy",
+          "start": 100.22,
+          "end": 100.38
+        },
+        {
+          "word": "dulce",
+          "start": 100.38,
+          "end": 101.5
+        },
+        {
+          "word": "tu",
+          "start": 101.5,
+          "end": 102.0
+        },
+        {
+          "word": "nombre",
+          "start": 102.0,
+          "end": 102.76
+        },
+        {
+          "word": "mi",
+          "start": 102.76,
+          "end": 103.36
+        },
+        {
+          "word": "Jesús.",
+          "start": 103.36,
+          "end": 104.5
+        }
+      ],
+      "start": 99.96,
+      "end": 104.5,
+      "confidence": 1.0,
+      "time": 99.96
+    }
+  ]
+}

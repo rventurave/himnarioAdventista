@@ -1,0 +1,1430 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.99,
+  "language": "es",
+  "model": "medium",
+  "hymn": 95,
+  "source": "095 - Un dia.mp3",
+  "duration": 238.29,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Un día que el cielo sus glorias cantaba,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Un",
+          "start": 0.0,
+          "end": 2.66
+        },
+        {
+          "word": "día",
+          "start": 2.66,
+          "end": 2.9
+        },
+        {
+          "word": "que",
+          "start": 2.9,
+          "end": 18.22
+        },
+        {
+          "word": "el",
+          "start": 18.22,
+          "end": 18.4
+        },
+        {
+          "word": "cielo",
+          "start": 18.4,
+          "end": 19.66
+        },
+        {
+          "word": "sus",
+          "start": 19.66,
+          "end": 20.46
+        },
+        {
+          "word": "glorias",
+          "start": 20.46,
+          "end": 21.28
+        },
+        {
+          "word": "cantaba",
+          "start": 21.28,
+          "end": 23.2
+        }
+      ],
+      "start": 0.0,
+      "end": 23.2,
+      "confidence": 1.0,
+      "time": 0.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "un día que el mal imperaba más cruel,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Un",
+          "start": 23.2,
+          "end": 23.8
+        },
+        {
+          "word": "día",
+          "start": 23.8,
+          "end": 24.36
+        },
+        {
+          "word": "que",
+          "start": 24.36,
+          "end": 24.68
+        },
+        {
+          "word": "el",
+          "start": 24.68,
+          "end": 25.0
+        },
+        {
+          "word": "mal",
+          "start": 25.0,
+          "end": 26.02
+        },
+        {
+          "word": "imperaba",
+          "start": 26.02,
+          "end": 27.44
+        },
+        {
+          "word": "más",
+          "start": 27.44,
+          "end": 27.88
+        },
+        {
+          "word": "cruel",
+          "start": 27.88,
+          "end": 29.22
+        }
+      ],
+      "start": 23.2,
+      "end": 29.22,
+      "confidence": 1.0,
+      "time": 23.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús descendió y al nacer de una virgen",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 29.22,
+          "end": 30.28
+        },
+        {
+          "word": "descendió,",
+          "start": 30.28,
+          "end": 31.9
+        },
+        {
+          "word": "y",
+          "start": 32.26,
+          "end": 32.38
+        },
+        {
+          "word": "al",
+          "start": 32.38,
+          "end": 32.76
+        },
+        {
+          "word": "nacer",
+          "start": 32.76,
+          "end": 33.48
+        },
+        {
+          "word": "de",
+          "start": 33.48,
+          "end": 33.84
+        },
+        {
+          "word": "una",
+          "start": 33.84,
+          "end": 34.2
+        },
+        {
+          "word": "virgen,",
+          "start": 34.2,
+          "end": 35.84
+        }
+      ],
+      "start": 29.22,
+      "end": 36.04,
+      "confidence": 1.0,
+      "time": 29.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nos dio con su vida un ejemplo tan fiel.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "nos",
+          "start": 36.04,
+          "end": 36.38
+        },
+        {
+          "word": "dio",
+          "start": 36.38,
+          "end": 36.64
+        },
+        {
+          "word": "con",
+          "start": 36.64,
+          "end": 37.06
+        },
+        {
+          "word": "su",
+          "start": 37.06,
+          "end": 37.58
+        },
+        {
+          "word": "vida",
+          "start": 37.58,
+          "end": 38.8
+        },
+        {
+          "word": "un",
+          "start": 38.8,
+          "end": 39.44
+        },
+        {
+          "word": "ejemplo",
+          "start": 39.44,
+          "end": 40.24
+        },
+        {
+          "word": "tan",
+          "start": 40.24,
+          "end": 40.98
+        },
+        {
+          "word": "fiel.",
+          "start": 40.98,
+          "end": 43.22
+        }
+      ],
+      "start": 36.04,
+      "end": 43.22,
+      "confidence": 1.0,
+      "time": 36.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Vivo, me amaba; muerto, salvome;",
+      "words": [
+        {
+          "word": "Vivo",
+          "start": 43.78,
+          "end": 44.24
+        },
+        {
+          "word": "me",
+          "start": 44.24,
+          "end": 44.66
+        },
+        {
+          "word": "amaba,",
+          "start": 44.66,
+          "end": 46.54
+        },
+        {
+          "word": "muerto",
+          "start": 46.78,
+          "end": 47.5
+        },
+        {
+          "word": "salvóme,",
+          "start": 47.5,
+          "end": 49.7
+        }
+      ],
+      "start": 43.78,
+      "end": 50.14,
+      "confidence": 1.0,
+      "time": 43.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y en el sepulcro mi mal enterró;",
+      "words": [
+        {
+          "word": "y",
+          "start": 50.14,
+          "end": 50.54
+        },
+        {
+          "word": "en",
+          "start": 50.54,
+          "end": 50.78
+        },
+        {
+          "word": "el",
+          "start": 50.78,
+          "end": 51.14
+        },
+        {
+          "word": "sepulcro",
+          "start": 51.14,
+          "end": 52.98
+        },
+        {
+          "word": "mi",
+          "start": 52.98,
+          "end": 53.44
+        },
+        {
+          "word": "mal",
+          "start": 53.44,
+          "end": 53.92
+        },
+        {
+          "word": "enterró.",
+          "start": 53.92,
+          "end": 56.4
+        }
+      ],
+      "start": 50.14,
+      "end": 56.4,
+      "confidence": 1.0,
+      "time": 50.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "resucitado, él es mi justicia;",
+      "words": [
+        {
+          "word": "Resucitado",
+          "start": 56.4,
+          "end": 59.18
+        },
+        {
+          "word": "Él",
+          "start": 59.18,
+          "end": 60.08
+        },
+        {
+          "word": "es",
+          "start": 60.08,
+          "end": 60.44
+        },
+        {
+          "word": "mi",
+          "start": 60.44,
+          "end": 60.82
+        },
+        {
+          "word": "justicia,",
+          "start": 60.82,
+          "end": 62.76
+        }
+      ],
+      "start": 56.4,
+      "end": 63.3,
+      "confidence": 1.0,
+      "time": 56.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "un día él viene, pues lo prometió.",
+      "words": [
+        {
+          "word": "un",
+          "start": 63.3,
+          "end": 63.42
+        },
+        {
+          "word": "día",
+          "start": 63.42,
+          "end": 64.12
+        },
+        {
+          "word": "Él",
+          "start": 64.12,
+          "end": 64.74
+        },
+        {
+          "word": "viene",
+          "start": 64.74,
+          "end": 66.04
+        },
+        {
+          "word": "pues",
+          "start": 66.04,
+          "end": 66.96
+        },
+        {
+          "word": "lo",
+          "start": 66.96,
+          "end": 67.88
+        },
+        {
+          "word": "prometió.",
+          "start": 67.88,
+          "end": 70.64
+        }
+      ],
+      "start": 63.3,
+      "end": 70.64,
+      "confidence": 1.0,
+      "time": 63.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Un día lleváronle al monte Calvario,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Un",
+          "start": 71.44,
+          "end": 72.14
+        },
+        {
+          "word": "día",
+          "start": 72.14,
+          "end": 72.92
+        },
+        {
+          "word": "llevaronle",
+          "start": 72.92,
+          "end": 75.22
+        },
+        {
+          "word": "al",
+          "start": 75.22,
+          "end": 75.48
+        },
+        {
+          "word": "monte",
+          "start": 75.48,
+          "end": 76.12
+        },
+        {
+          "word": "Calvario,",
+          "start": 76.12,
+          "end": 77.98
+        }
+      ],
+      "start": 71.44,
+      "end": 78.24,
+      "confidence": 1.0,
+      "time": 71.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "un día enclaváronle sobre una cruz;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "un",
+          "start": 78.24,
+          "end": 78.66
+        },
+        {
+          "word": "día",
+          "start": 78.66,
+          "end": 79.16
+        },
+        {
+          "word": "enclavaronle",
+          "start": 79.16,
+          "end": 81.74
+        },
+        {
+          "word": "sobre",
+          "start": 81.74,
+          "end": 82.28
+        },
+        {
+          "word": "una",
+          "start": 82.28,
+          "end": 82.74
+        },
+        {
+          "word": "cruz,",
+          "start": 82.74,
+          "end": 84.42
+        }
+      ],
+      "start": 78.24,
+      "end": 84.42,
+      "confidence": 1.0,
+      "time": 78.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "sufriendo dolores y pena de muerte,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Sufriendo",
+          "start": 84.42,
+          "end": 85.54
+        },
+        {
+          "word": "dolores",
+          "start": 85.54,
+          "end": 87.46
+        },
+        {
+          "word": "y",
+          "start": 87.46,
+          "end": 87.94
+        },
+        {
+          "word": "pena",
+          "start": 87.94,
+          "end": 88.52
+        },
+        {
+          "word": "de",
+          "start": 88.52,
+          "end": 89.06
+        },
+        {
+          "word": "muerte",
+          "start": 89.06,
+          "end": 90.46
+        }
+      ],
+      "start": 84.42,
+      "end": 90.46,
+      "confidence": 1.0,
+      "time": 84.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "expiando el pecado, salvome Jesús.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Expiando",
+          "start": 90.46,
+          "end": 91.58
+        },
+        {
+          "word": "el",
+          "start": 91.58,
+          "end": 91.9
+        },
+        {
+          "word": "pecado,",
+          "start": 91.9,
+          "end": 93.68
+        },
+        {
+          "word": "salvome",
+          "start": 94.36,
+          "end": 94.96
+        },
+        {
+          "word": "Jesús",
+          "start": 94.96,
+          "end": 97.4
+        }
+      ],
+      "start": 90.46,
+      "end": 97.4,
+      "confidence": 1.0,
+      "time": 90.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Vivo, me amaba; muerto, salvome;",
+      "words": [
+        {
+          "word": "Vivo",
+          "start": 97.4,
+          "end": 98.6
+        },
+        {
+          "word": "me",
+          "start": 98.6,
+          "end": 99.0
+        },
+        {
+          "word": "amaba,",
+          "start": 99.0,
+          "end": 100.92
+        },
+        {
+          "word": "muerto",
+          "start": 101.22,
+          "end": 101.72
+        },
+        {
+          "word": "salvome",
+          "start": 101.72,
+          "end": 103.56
+        }
+      ],
+      "start": 97.4,
+      "end": 103.56,
+      "confidence": 1.0,
+      "time": 97.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y en el sepulcro mi mal enterró;",
+      "words": [
+        {
+          "word": "Y",
+          "start": 103.56,
+          "end": 104.36
+        },
+        {
+          "word": "en",
+          "start": 104.36,
+          "end": 104.66
+        },
+        {
+          "word": "el",
+          "start": 104.66,
+          "end": 105.0
+        },
+        {
+          "word": "sepulcro",
+          "start": 105.0,
+          "end": 106.9
+        },
+        {
+          "word": "mi",
+          "start": 106.9,
+          "end": 107.38
+        },
+        {
+          "word": "mal",
+          "start": 107.38,
+          "end": 107.82
+        },
+        {
+          "word": "enterró",
+          "start": 107.82,
+          "end": 110.5
+        }
+      ],
+      "start": 103.56,
+      "end": 110.5,
+      "confidence": 1.0,
+      "time": 103.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "resucitado, él es mi justicia;",
+      "words": [
+        {
+          "word": "Resucitado",
+          "start": 111.94,
+          "end": 113.34
+        },
+        {
+          "word": "Él",
+          "start": 113.34,
+          "end": 114.14
+        },
+        {
+          "word": "es",
+          "start": 114.14,
+          "end": 114.52
+        },
+        {
+          "word": "mi",
+          "start": 114.52,
+          "end": 114.86
+        },
+        {
+          "word": "justicia,",
+          "start": 114.86,
+          "end": 116.72
+        }
+      ],
+      "start": 111.94,
+      "end": 117.12,
+      "confidence": 1.0,
+      "time": 111.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "un día él viene, pues lo prometió.",
+      "words": [
+        {
+          "word": "un",
+          "start": 117.12,
+          "end": 117.28
+        },
+        {
+          "word": "día",
+          "start": 117.28,
+          "end": 117.94
+        },
+        {
+          "word": "Él",
+          "start": 117.94,
+          "end": 118.5
+        },
+        {
+          "word": "viene",
+          "start": 118.5,
+          "end": 119.96
+        },
+        {
+          "word": "pues",
+          "start": 119.96,
+          "end": 120.72
+        },
+        {
+          "word": "lo",
+          "start": 120.72,
+          "end": 121.54
+        },
+        {
+          "word": "prometió.",
+          "start": 121.54,
+          "end": 124.14
+        }
+      ],
+      "start": 117.12,
+      "end": 124.14,
+      "confidence": 1.0,
+      "time": 117.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Un día la tumba ocultarle no pudo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Un",
+          "start": 125.2,
+          "end": 125.84
+        },
+        {
+          "word": "día",
+          "start": 125.84,
+          "end": 126.64
+        },
+        {
+          "word": "la",
+          "start": 126.64,
+          "end": 127.16
+        },
+        {
+          "word": "tumba",
+          "start": 127.16,
+          "end": 128.78
+        },
+        {
+          "word": "ocultarle",
+          "start": 128.78,
+          "end": 129.92
+        },
+        {
+          "word": "no",
+          "start": 129.92,
+          "end": 130.48
+        },
+        {
+          "word": "pudo,",
+          "start": 130.48,
+          "end": 131.76
+        }
+      ],
+      "start": 125.2,
+      "end": 132.1,
+      "confidence": 1.0,
+      "time": 125.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "un día el ángel la piedra quitó;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "un",
+          "start": 132.1,
+          "end": 132.52
+        },
+        {
+          "word": "día",
+          "start": 132.52,
+          "end": 133.14
+        },
+        {
+          "word": "el",
+          "start": 133.14,
+          "end": 134.04
+        },
+        {
+          "word": "ángel",
+          "start": 134.04,
+          "end": 135.18
+        },
+        {
+          "word": "la",
+          "start": 135.18,
+          "end": 135.52
+        },
+        {
+          "word": "piedra",
+          "start": 135.52,
+          "end": 136.14
+        },
+        {
+          "word": "quitó.",
+          "start": 136.14,
+          "end": 137.84
+        }
+      ],
+      "start": 132.1,
+      "end": 137.84,
+      "confidence": 1.0,
+      "time": 132.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "habiendo Jesús ya a la muerte vencido,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Habiendo",
+          "start": 137.84,
+          "end": 139.04
+        },
+        {
+          "word": "Jesús",
+          "start": 139.04,
+          "end": 140.3
+        },
+        {
+          "word": "ya",
+          "start": 140.3,
+          "end": 141.0
+        },
+        {
+          "word": "la",
+          "start": 141.0,
+          "end": 141.44
+        },
+        {
+          "word": "muerte",
+          "start": 141.44,
+          "end": 142.0
+        },
+        {
+          "word": "vencido,",
+          "start": 142.4,
+          "end": 143.76
+        }
+      ],
+      "start": 137.84,
+      "end": 144.18,
+      "confidence": 0.857,
+      "time": 137.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "a estar con su Padre en su trono, ascendió.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 144.18,
+          "end": 144.32
+        },
+        {
+          "word": "estar",
+          "start": 144.32,
+          "end": 144.74
+        },
+        {
+          "word": "con",
+          "start": 144.74,
+          "end": 145.14
+        },
+        {
+          "word": "su",
+          "start": 145.14,
+          "end": 145.54
+        },
+        {
+          "word": "Padre",
+          "start": 145.54,
+          "end": 146.92
+        },
+        {
+          "word": "en",
+          "start": 146.92,
+          "end": 147.26
+        },
+        {
+          "word": "su",
+          "start": 147.26,
+          "end": 147.6
+        },
+        {
+          "word": "trono",
+          "start": 147.6,
+          "end": 148.16
+        },
+        {
+          "word": "ascendió.",
+          "start": 148.16,
+          "end": 150.7
+        }
+      ],
+      "start": 144.18,
+      "end": 150.7,
+      "confidence": 1.0,
+      "time": 144.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Vivo, me amaba; muerto, salvome;",
+      "words": [
+        {
+          "word": "Vivo",
+          "start": 150.7,
+          "end": 152.08
+        },
+        {
+          "word": "me",
+          "start": 152.08,
+          "end": 152.54
+        },
+        {
+          "word": "amaba,",
+          "start": 152.54,
+          "end": 154.58
+        },
+        {
+          "word": "muerto",
+          "start": 154.66,
+          "end": 155.52
+        },
+        {
+          "word": "salvóme,",
+          "start": 155.52,
+          "end": 157.64
+        }
+      ],
+      "start": 150.7,
+      "end": 158.08,
+      "confidence": 1.0,
+      "time": 150.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y en el sepulcro mi mal enterró;",
+      "words": [
+        {
+          "word": "y",
+          "start": 158.08,
+          "end": 158.46
+        },
+        {
+          "word": "en",
+          "start": 158.46,
+          "end": 158.68
+        },
+        {
+          "word": "el",
+          "start": 158.68,
+          "end": 159.08
+        },
+        {
+          "word": "sepulcro",
+          "start": 159.08,
+          "end": 160.94
+        },
+        {
+          "word": "mi",
+          "start": 160.94,
+          "end": 161.44
+        },
+        {
+          "word": "mal",
+          "start": 161.44,
+          "end": 161.94
+        },
+        {
+          "word": "enterró.",
+          "start": 161.94,
+          "end": 164.4
+        }
+      ],
+      "start": 158.08,
+      "end": 164.4,
+      "confidence": 1.0,
+      "time": 158.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "resucitado, él es mi justicia;",
+      "words": [
+        {
+          "word": "Resucitado",
+          "start": 166.14,
+          "end": 167.3
+        },
+        {
+          "word": "Él",
+          "start": 167.3,
+          "end": 168.36
+        },
+        {
+          "word": "es",
+          "start": 168.36,
+          "end": 168.72
+        },
+        {
+          "word": "mi",
+          "start": 168.72,
+          "end": 169.04
+        },
+        {
+          "word": "justicia,",
+          "start": 169.04,
+          "end": 170.9
+        }
+      ],
+      "start": 166.14,
+      "end": 171.4,
+      "confidence": 1.0,
+      "time": 166.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "un día él viene, pues lo prometió.",
+      "words": [
+        {
+          "word": "un",
+          "start": 171.4,
+          "end": 171.7
+        },
+        {
+          "word": "día",
+          "start": 171.7,
+          "end": 172.36
+        },
+        {
+          "word": "Él",
+          "start": 172.36,
+          "end": 172.84
+        },
+        {
+          "word": "viene,",
+          "start": 172.84,
+          "end": 174.24
+        },
+        {
+          "word": "pues",
+          "start": 174.66,
+          "end": 175.0
+        },
+        {
+          "word": "lo",
+          "start": 175.0,
+          "end": 175.9
+        },
+        {
+          "word": "prometió.",
+          "start": 175.9,
+          "end": 178.36
+        }
+      ],
+      "start": 171.4,
+      "end": 178.36,
+      "confidence": 1.0,
+      "time": 171.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Un día vendrá y con voz de arcángel",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Un",
+          "start": 178.36,
+          "end": 180.58
+        },
+        {
+          "word": "día",
+          "start": 180.58,
+          "end": 181.3
+        },
+        {
+          "word": "vendrá",
+          "start": 181.3,
+          "end": 182.74
+        },
+        {
+          "word": "y",
+          "start": 182.74,
+          "end": 183.42
+        },
+        {
+          "word": "con",
+          "start": 183.42,
+          "end": 183.84
+        },
+        {
+          "word": "voz",
+          "start": 183.84,
+          "end": 184.18
+        },
+        {
+          "word": "de",
+          "start": 184.18,
+          "end": 184.8
+        },
+        {
+          "word": "arcángel,",
+          "start": 184.8,
+          "end": 186.46
+        }
+      ],
+      "start": 178.36,
+      "end": 186.66,
+      "confidence": 1.0,
+      "time": 178.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "un día en su gloria el Señor brillará.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "un",
+          "start": 186.66,
+          "end": 187.02
+        },
+        {
+          "word": "día",
+          "start": 187.02,
+          "end": 187.4
+        },
+        {
+          "word": "en",
+          "start": 187.4,
+          "end": 187.68
+        },
+        {
+          "word": "su",
+          "start": 187.68,
+          "end": 188.02
+        },
+        {
+          "word": "gloria",
+          "start": 188.02,
+          "end": 189.3
+        },
+        {
+          "word": "el",
+          "start": 189.3,
+          "end": 189.7
+        },
+        {
+          "word": "Señor",
+          "start": 189.7,
+          "end": 190.36
+        },
+        {
+          "word": "brillará.",
+          "start": 190.36,
+          "end": 192.24
+        }
+      ],
+      "start": 186.66,
+      "end": 192.24,
+      "confidence": 1.0,
+      "time": 186.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "¡Oh día admirable en que unido su pueblo",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Odia",
+          "start": 192.94,
+          "end": 193.78
+        },
+        {
+          "word": "admirable",
+          "start": 193.78,
+          "end": 195.4
+        },
+        {
+          "word": "en",
+          "start": 195.4,
+          "end": 195.92
+        },
+        {
+          "word": "que,",
+          "start": 195.92,
+          "end": 196.08
+        },
+        {
+          "word": "unido",
+          "start": 196.1,
+          "end": 196.88
+        },
+        {
+          "word": "su",
+          "start": 196.88,
+          "end": 197.26
+        },
+        {
+          "word": "pueblo,",
+          "start": 197.26,
+          "end": 198.6
+        }
+      ],
+      "start": 192.94,
+      "end": 199.24,
+      "confidence": 0.864,
+      "time": 192.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "loores a Cristo por siempre dará!",
+      "verse": 4,
+      "words": [
+        {
+          "word": "glores",
+          "start": 199.24,
+          "end": 199.9
+        },
+        {
+          "word": "a",
+          "start": 199.9,
+          "end": 200.44
+        },
+        {
+          "word": "Cristo",
+          "start": 200.44,
+          "end": 201.62
+        },
+        {
+          "word": "por",
+          "start": 201.62,
+          "end": 202.38
+        },
+        {
+          "word": "siempre",
+          "start": 202.38,
+          "end": 203.16
+        },
+        {
+          "word": "dará.",
+          "start": 203.16,
+          "end": 205.36
+        }
+      ],
+      "start": 199.24,
+      "end": 205.36,
+      "confidence": 0.983,
+      "time": 199.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Vivo, me amaba; muerto, salvome;",
+      "words": [
+        {
+          "word": "Vivo",
+          "start": 205.36,
+          "end": 206.8
+        },
+        {
+          "word": "me",
+          "start": 206.8,
+          "end": 207.26
+        },
+        {
+          "word": "amaba,",
+          "start": 207.26,
+          "end": 209.2
+        },
+        {
+          "word": "muerto",
+          "start": 209.32,
+          "end": 210.08
+        },
+        {
+          "word": "salvóme,",
+          "start": 210.08,
+          "end": 212.1
+        }
+      ],
+      "start": 205.36,
+      "end": 212.54,
+      "confidence": 1.0,
+      "time": 205.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "y en el sepulcro mi mal enterró;",
+      "words": [
+        {
+          "word": "y",
+          "start": 212.54,
+          "end": 212.96
+        },
+        {
+          "word": "en",
+          "start": 212.96,
+          "end": 213.24
+        },
+        {
+          "word": "el",
+          "start": 213.24,
+          "end": 213.68
+        },
+        {
+          "word": "sepulcro",
+          "start": 213.68,
+          "end": 215.48
+        },
+        {
+          "word": "mi",
+          "start": 215.48,
+          "end": 215.9
+        },
+        {
+          "word": "mal",
+          "start": 215.9,
+          "end": 216.38
+        },
+        {
+          "word": "enterró.",
+          "start": 216.38,
+          "end": 218.6
+        }
+      ],
+      "start": 212.54,
+      "end": 218.6,
+      "confidence": 1.0,
+      "time": 212.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "resucitado, él es mi justicia;",
+      "words": [
+        {
+          "word": "Resucitado",
+          "start": 220.62,
+          "end": 221.78
+        },
+        {
+          "word": "Él",
+          "start": 221.78,
+          "end": 222.66
+        },
+        {
+          "word": "es",
+          "start": 222.66,
+          "end": 223.0
+        },
+        {
+          "word": "mi",
+          "start": 223.0,
+          "end": 223.32
+        },
+        {
+          "word": "justicia,",
+          "start": 223.32,
+          "end": 225.2
+        }
+      ],
+      "start": 220.62,
+      "end": 225.62,
+      "confidence": 1.0,
+      "time": 220.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "un día él viene, pues lo prometió.",
+      "words": [
+        {
+          "word": "un",
+          "start": 225.62,
+          "end": 225.9
+        },
+        {
+          "word": "día",
+          "start": 225.9,
+          "end": 226.54
+        },
+        {
+          "word": "Él",
+          "start": 226.54,
+          "end": 227.06
+        },
+        {
+          "word": "viene,",
+          "start": 227.06,
+          "end": 228.5
+        },
+        {
+          "word": "pues",
+          "start": 228.94,
+          "end": 229.44
+        },
+        {
+          "word": "lo",
+          "start": 229.44,
+          "end": 230.4
+        },
+        {
+          "word": "prometió.",
+          "start": 230.4,
+          "end": 233.0
+        }
+      ],
+      "start": 225.62,
+      "end": 233.0,
+      "confidence": 1.0,
+      "time": 225.62
+    }
+  ]
+}

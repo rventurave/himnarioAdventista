@@ -1,0 +1,818 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.894,
+  "language": "es",
+  "model": "medium",
+  "hymn": 134,
+  "source": "134 - Cual mirra fragante.mp3",
+  "duration": 196.82,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cual mirra fragante que exhala su olor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cual",
+          "start": 13.44,
+          "end": 14.84
+        },
+        {
+          "word": "birra",
+          "start": 14.84,
+          "end": 16.24
+        },
+        {
+          "word": "fragante",
+          "start": 16.24,
+          "end": 18.34
+        },
+        {
+          "word": "que",
+          "start": 18.34,
+          "end": 19.4
+        },
+        {
+          "word": "exhala",
+          "start": 19.4,
+          "end": 20.92
+        },
+        {
+          "word": "su",
+          "start": 20.92,
+          "end": 21.46
+        },
+        {
+          "word": "olor",
+          "start": 21.46,
+          "end": 22.88
+        }
+      ],
+      "start": 13.44,
+      "end": 22.88,
+      "confidence": 0.983,
+      "time": 13.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y ricos perfumes esparce en redor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 22.88,
+          "end": 23.88
+        },
+        {
+          "word": "ricos",
+          "start": 23.88,
+          "end": 25.3
+        },
+        {
+          "word": "perfumes",
+          "start": 25.3,
+          "end": 27.52
+        },
+        {
+          "word": "esparces",
+          "start": 27.52,
+          "end": 29.56
+        },
+        {
+          "word": "en",
+          "start": 29.56,
+          "end": 30.18
+        },
+        {
+          "word": "redor.",
+          "start": 30.18,
+          "end": 32.0
+        }
+      ],
+      "start": 22.88,
+      "end": 32.0,
+      "confidence": 0.99,
+      "time": 22.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tu nombre, ¡oh Amado!, a mi corazón",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 32.96,
+          "end": 33.06
+        },
+        {
+          "word": "nombre,",
+          "start": 33.06,
+          "end": 34.42
+        },
+        {
+          "word": "guapado",
+          "start": 34.76,
+          "end": 36.62
+        },
+        {
+          "word": "a",
+          "start": 36.62,
+          "end": 37.6
+        },
+        {
+          "word": "mi",
+          "start": 37.6,
+          "end": 38.24
+        },
+        {
+          "word": "corazón,",
+          "start": 38.24,
+          "end": 40.82
+        }
+      ],
+      "start": 32.96,
+      "end": 40.82,
+      "confidence": 0.829,
+      "time": 32.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "lo llena de gozo, transpórtalo a Sion.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "lo",
+          "start": 41.66,
+          "end": 42.2
+        },
+        {
+          "word": "llena",
+          "start": 42.2,
+          "end": 43.82
+        },
+        {
+          "word": "de",
+          "start": 43.82,
+          "end": 45.18
+        },
+        {
+          "word": "transporta",
+          "start": 49.4,
+          "end": 50.8
+        }
+      ],
+      "start": 41.66,
+      "end": 52.2,
+      "confidence": 0.563,
+      "time": 41.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Aleluya, aleluya",
+      "words": [
+        {
+          "word": "Aleluya,",
+          "start": 52.2,
+          "end": 54.96
+        },
+        {
+          "word": "aleluya",
+          "start": 54.96,
+          "end": 57.22
+        }
+      ],
+      "start": 52.2,
+      "end": 57.22,
+      "confidence": 1.0,
+      "time": 52.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "al Cordero de Dios;",
+      "words": [
+        {
+          "word": "al",
+          "start": 57.22,
+          "end": 57.78
+        },
+        {
+          "word": "cordero",
+          "start": 57.78,
+          "end": 59.38
+        },
+        {
+          "word": "de",
+          "start": 59.38,
+          "end": 60.34
+        },
+        {
+          "word": "Dios,",
+          "start": 60.34,
+          "end": 61.5
+        }
+      ],
+      "start": 57.22,
+      "end": 62.34,
+      "confidence": 1.0,
+      "time": 57.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "aleluya al Amado,",
+      "words": [
+        {
+          "word": "aleluya",
+          "start": 62.34,
+          "end": 64.24
+        },
+        {
+          "word": "al",
+          "start": 64.24,
+          "end": 64.82
+        },
+        {
+          "word": "amado,",
+          "start": 64.82,
+          "end": 66.34
+        }
+      ],
+      "start": 62.34,
+      "end": 66.66,
+      "confidence": 1.0,
+      "time": 62.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "al bendito Jesús.",
+      "words": [
+        {
+          "word": "al",
+          "start": 66.66,
+          "end": 67.18
+        },
+        {
+          "word": "bendito",
+          "start": 67.18,
+          "end": 68.86
+        },
+        {
+          "word": "Jesús.",
+          "start": 68.86,
+          "end": 71.74
+        }
+      ],
+      "start": 66.66,
+      "end": 71.74,
+      "confidence": 1.0,
+      "time": 66.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cual voz amigable que al triste viador",
+      "verse": 2,
+      "words": [
+        {
+          "word": "amigable,",
+          "start": 74.78,
+          "end": 77.36
+        },
+        {
+          "word": "que",
+          "start": 77.66,
+          "end": 77.92
+        },
+        {
+          "word": "al",
+          "start": 77.92,
+          "end": 78.3
+        },
+        {
+          "word": "triste",
+          "start": 78.3,
+          "end": 79.52
+        },
+        {
+          "word": "veado,",
+          "start": 79.52,
+          "end": 81.62
+        }
+      ],
+      "start": 74.78,
+      "end": 82.52,
+      "confidence": 0.691,
+      "time": 74.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en bosque perdido le inspira valor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 82.52,
+          "end": 82.88
+        },
+        {
+          "word": "perdido,",
+          "start": 84.76,
+          "end": 86.26
+        },
+        {
+          "word": "le",
+          "start": 86.86,
+          "end": 87.12
+        },
+        {
+          "word": "inspiraba",
+          "start": 87.12,
+          "end": 89.42
+        }
+      ],
+      "start": 82.52,
+      "end": 90.44,
+      "confidence": 0.657,
+      "time": 82.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu nombre me anima y me hace saber",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 90.44,
+          "end": 91.9
+        },
+        {
+          "word": "nombre",
+          "start": 91.9,
+          "end": 93.2
+        },
+        {
+          "word": "me",
+          "start": 93.2,
+          "end": 94.16
+        },
+        {
+          "word": "anima",
+          "start": 94.16,
+          "end": 95.52
+        },
+        {
+          "word": "y",
+          "start": 95.52,
+          "end": 95.86
+        },
+        {
+          "word": "me",
+          "start": 95.86,
+          "end": 96.82
+        },
+        {
+          "word": "haces",
+          "start": 96.82,
+          "end": 98.04
+        },
+        {
+          "word": "saber",
+          "start": 98.04,
+          "end": 100.02
+        }
+      ],
+      "start": 90.44,
+      "end": 100.02,
+      "confidence": 0.993,
+      "time": 90.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que ofreces, piadoso, rescate a mi ser.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 100.02,
+          "end": 100.84
+        },
+        {
+          "word": "ofreces",
+          "start": 100.84,
+          "end": 102.78
+        },
+        {
+          "word": "piadosa,",
+          "start": 102.78,
+          "end": 106.24
+        },
+        {
+          "word": "rescate",
+          "start": 106.5,
+          "end": 108.42
+        },
+        {
+          "word": "al",
+          "start": 108.42,
+          "end": 109.36
+        },
+        {
+          "word": "miser.",
+          "start": 109.36,
+          "end": 110.62
+        }
+      ],
+      "start": 100.02,
+      "end": 110.62,
+      "confidence": 0.795,
+      "time": 100.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Aleluya, aleluya",
+      "words": [
+        {
+          "word": "Aleluya,",
+          "start": 113.48,
+          "end": 114.88
+        },
+        {
+          "word": "aleluya",
+          "start": 114.88,
+          "end": 116.28
+        }
+      ],
+      "start": 113.48,
+      "end": 116.28,
+      "confidence": 1.0,
+      "time": 113.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "al Cordero de Dios;",
+      "words": [
+        {
+          "word": "al",
+          "start": 116.28,
+          "end": 116.82
+        },
+        {
+          "word": "cordero",
+          "start": 116.82,
+          "end": 118.42
+        },
+        {
+          "word": "de",
+          "start": 118.42,
+          "end": 119.44
+        },
+        {
+          "word": "Dios,",
+          "start": 119.44,
+          "end": 120.5
+        }
+      ],
+      "start": 116.28,
+      "end": 121.22,
+      "confidence": 1.0,
+      "time": 116.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "aleluya al Amado,",
+      "words": [
+        {
+          "word": "aleluya",
+          "start": 121.22,
+          "end": 123.48
+        },
+        {
+          "word": "al",
+          "start": 123.48,
+          "end": 123.88
+        },
+        {
+          "word": "amado,",
+          "start": 123.88,
+          "end": 125.44
+        }
+      ],
+      "start": 121.22,
+      "end": 125.84,
+      "confidence": 1.0,
+      "time": 121.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "al bendito Jesús.",
+      "words": [
+        {
+          "word": "al",
+          "start": 125.84,
+          "end": 126.2
+        },
+        {
+          "word": "bendito",
+          "start": 126.2,
+          "end": 127.86
+        },
+        {
+          "word": "Jesús.",
+          "start": 127.86,
+          "end": 129.44
+        }
+      ],
+      "start": 125.84,
+      "end": 129.44,
+      "confidence": 1.0,
+      "time": 125.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cual luz que, brillando del alto fanal,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cuál",
+          "start": 131.12,
+          "end": 132.52
+        },
+        {
+          "word": "luz",
+          "start": 132.52,
+          "end": 133.1
+        },
+        {
+          "word": "que",
+          "start": 133.1,
+          "end": 133.9
+        },
+        {
+          "word": "brillando",
+          "start": 133.9,
+          "end": 136.2
+        },
+        {
+          "word": "del",
+          "start": 136.2,
+          "end": 137.34
+        },
+        {
+          "word": "alto",
+          "start": 137.34,
+          "end": 138.52
+        },
+        {
+          "word": "falán,",
+          "start": 138.52,
+          "end": 140.56
+        }
+      ],
+      "start": 131.12,
+      "end": 141.32,
+      "confidence": 0.966,
+      "time": 131.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "al nauta en la noche señala el canal,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "al",
+          "start": 141.32,
+          "end": 141.74
+        },
+        {
+          "word": "nauta",
+          "start": 141.74,
+          "end": 142.9
+        },
+        {
+          "word": "en",
+          "start": 142.9,
+          "end": 143.2
+        },
+        {
+          "word": "la",
+          "start": 143.2,
+          "end": 144.0
+        },
+        {
+          "word": "noche",
+          "start": 144.0,
+          "end": 145.08
+        },
+        {
+          "word": "señala",
+          "start": 145.08,
+          "end": 147.04
+        },
+        {
+          "word": "el",
+          "start": 147.04,
+          "end": 147.72
+        },
+        {
+          "word": "canal.",
+          "start": 147.72,
+          "end": 149.14
+        }
+      ],
+      "start": 141.32,
+      "end": 149.14,
+      "confidence": 1.0,
+      "time": 141.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "tu nombre, esparciendo benéfica luz,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 149.14,
+          "end": 150.7
+        },
+        {
+          "word": "nombre",
+          "start": 150.7,
+          "end": 152.04
+        },
+        {
+          "word": "parciendo,",
+          "start": 152.58,
+          "end": 154.38
+        },
+        {
+          "word": "benéfica",
+          "start": 154.88,
+          "end": 157.56
+        },
+        {
+          "word": "luz,",
+          "start": 157.56,
+          "end": 158.56
+        }
+      ],
+      "start": 149.14,
+      "end": 159.4,
+      "confidence": 0.988,
+      "time": 149.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "al cielo me lleva, bendito Jesús.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "al",
+          "start": 159.4,
+          "end": 159.8
+        },
+        {
+          "word": "cielo",
+          "start": 159.8,
+          "end": 160.98
+        },
+        {
+          "word": "bendito",
+          "start": 165.84,
+          "end": 167.62
+        },
+        {
+          "word": "Jesús.",
+          "start": 167.62,
+          "end": 169.92
+        }
+      ],
+      "start": 159.4,
+      "end": 169.92,
+      "confidence": 0.667,
+      "time": 159.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Aleluya, aleluya",
+      "words": [
+        {
+          "word": "Aleluya,",
+          "start": 172.14,
+          "end": 173.54
+        },
+        {
+          "word": "aleluya",
+          "start": 173.54,
+          "end": 174.94
+        }
+      ],
+      "start": 172.14,
+      "end": 174.94,
+      "confidence": 1.0,
+      "time": 172.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "al Cordero de Dios;",
+      "words": [
+        {
+          "word": "al",
+          "start": 174.94,
+          "end": 175.46
+        },
+        {
+          "word": "Cordero",
+          "start": 175.46,
+          "end": 177.08
+        },
+        {
+          "word": "de",
+          "start": 177.08,
+          "end": 178.1
+        },
+        {
+          "word": "Dios,",
+          "start": 178.1,
+          "end": 179.18
+        }
+      ],
+      "start": 174.94,
+      "end": 180.06,
+      "confidence": 1.0,
+      "time": 174.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "aleluya al Amado,",
+      "words": [
+        {
+          "word": "aleluya",
+          "start": 180.06,
+          "end": 182.3
+        },
+        {
+          "word": "al",
+          "start": 182.3,
+          "end": 182.7
+        },
+        {
+          "word": "amado,",
+          "start": 182.7,
+          "end": 184.2
+        }
+      ],
+      "start": 180.06,
+      "end": 184.66,
+      "confidence": 1.0,
+      "time": 180.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "al bendito Jesús.",
+      "words": [
+        {
+          "word": "al",
+          "start": 184.66,
+          "end": 184.92
+        },
+        {
+          "word": "bendito",
+          "start": 184.92,
+          "end": 186.8
+        },
+        {
+          "word": "Jesús.",
+          "start": 186.8,
+          "end": 188.34
+        }
+      ],
+      "start": 184.66,
+      "end": 188.34,
+      "confidence": 1.0,
+      "time": 184.66
+    }
+  ]
+}

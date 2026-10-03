@@ -1,0 +1,273 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.912,
+  "language": "es",
+  "model": "medium",
+  "hymn": 130,
+  "source": "130 - Cristo, Cristo, Cristo.mp3",
+  "duration": 87.72,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo, Cristo, Cristo;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 17.52,
+          "end": 18.92
+        },
+        {
+          "word": "Cristo,",
+          "start": 18.92,
+          "end": 20.32
+        },
+        {
+          "word": "Cristo,",
+          "start": 20.48,
+          "end": 24.06
+        }
+      ],
+      "start": 17.52,
+      "end": 24.06,
+      "confidence": 1.0,
+      "time": 17.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "otro nombre no hay igual.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Otro",
+          "start": 24.06,
+          "end": 25.18
+        },
+        {
+          "word": "nombre",
+          "start": 25.18,
+          "end": 26.54
+        },
+        {
+          "word": "no",
+          "start": 26.54,
+          "end": 27.98
+        },
+        {
+          "word": "hay",
+          "start": 27.98,
+          "end": 29.46
+        },
+        {
+          "word": "igual.",
+          "start": 29.46,
+          "end": 32.96
+        }
+      ],
+      "start": 24.06,
+      "end": 32.96,
+      "confidence": 1.0,
+      "time": 24.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Santo, tierno, puro;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Santo,",
+          "start": 34.24,
+          "end": 35.64
+        },
+        {
+          "word": "Tieno",
+          "start": 36.22,
+          "end": 38.16
+        },
+        {
+          "word": "puro,",
+          "start": 38.16,
+          "end": 41.26
+        }
+      ],
+      "start": 34.24,
+      "end": 41.82,
+      "confidence": 0.982,
+      "time": 34.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tú llevaste la cruz por mí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 41.82,
+          "end": 42.18
+        },
+        {
+          "word": "llevaste",
+          "start": 42.18,
+          "end": 44.46
+        },
+        {
+          "word": "la",
+          "start": 44.46,
+          "end": 45.48
+        },
+        {
+          "word": "cruz",
+          "start": 45.48,
+          "end": 46.4
+        },
+        {
+          "word": "por",
+          "start": 46.4,
+          "end": 47.04
+        },
+        {
+          "word": "mí.",
+          "start": 47.04,
+          "end": 50.08
+        }
+      ],
+      "start": 41.82,
+      "end": 50.08,
+      "confidence": 1.0,
+      "time": 41.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo, Cristo, Cristo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 50.08,
+          "end": 52.16
+        },
+        {
+          "word": "Cristo,",
+          "start": 53.1,
+          "end": 54.96
+        },
+        {
+          "word": "Cristo,",
+          "start": 55.38,
+          "end": 59.0
+        }
+      ],
+      "start": 50.08,
+      "end": 59.2,
+      "confidence": 1.0,
+      "time": 50.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cielo y tierra te alabarán.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cielo",
+          "start": 59.2,
+          "end": 59.74
+        },
+        {
+          "word": "te",
+          "start": 61.56,
+          "end": 62.14
+        },
+        {
+          "word": "alabará.",
+          "start": 62.14,
+          "end": 67.62
+        }
+      ],
+      "start": 59.2,
+      "end": 67.62,
+      "confidence": 0.588,
+      "time": 59.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Rey de reyes, sublime Señor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "rey",
+          "start": 70.64,
+          "end": 71.84
+        },
+        {
+          "word": "de",
+          "start": 71.84,
+          "end": 71.96
+        },
+        {
+          "word": "su",
+          "start": 73.78,
+          "end": 73.78
+        },
+        {
+          "word": "Señor,",
+          "start": 74.46,
+          "end": 76.02
+        }
+      ],
+      "start": 70.64,
+      "end": 76.76,
+      "confidence": 0.788,
+      "time": 70.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "no hay otro igual a ti.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "no",
+          "start": 76.76,
+          "end": 77.12
+        },
+        {
+          "word": "hay",
+          "start": 77.12,
+          "end": 77.46
+        },
+        {
+          "word": "otro",
+          "start": 77.46,
+          "end": 78.6
+        },
+        {
+          "word": "igual",
+          "start": 78.6,
+          "end": 80.74
+        },
+        {
+          "word": "a",
+          "start": 80.74,
+          "end": 81.88
+        },
+        {
+          "word": "ti.",
+          "start": 81.88,
+          "end": 84.08
+        }
+      ],
+      "start": 76.76,
+      "end": 84.08,
+      "confidence": 1.0,
+      "time": 76.76
+    }
+  ]
+}
