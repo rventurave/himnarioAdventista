@@ -1,0 +1,913 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.788,
+  "language": "es",
+  "model": "medium",
+  "hymn": 190,
+  "source": "190 - Santo Espiritu de Cristo.mp3",
+  "duration": 158.09,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Santo Espíritu de Cristo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 1.38,
+          "end": 1.38
+        },
+        {
+          "word": "de",
+          "start": 2.88,
+          "end": 2.88
+        }
+      ],
+      "start": 1.38,
+      "end": 3.06,
+      "confidence": 0.485,
+      "time": 1.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mora en este corazón,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 3.06,
+          "end": 3.08
+        }
+      ],
+      "start": 3.06,
+      "end": 3.26,
+      "confidence": 0.25,
+      "time": 3.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "lléname de tu presencia,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 3.16,
+          "end": 3.16
+        }
+      ],
+      "start": 3.26,
+      "end": 29.98,
+      "confidence": 0.25,
+      "time": 3.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cólmame de bendición.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 3.16,
+          "end": 3.16
+        }
+      ],
+      "start": 29.98,
+      "end": 30.18,
+      "confidence": 0.333,
+      "time": 29.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Cólmame! ¡Cólmame!",
+      "start": 30.18,
+      "end": 30.38,
+      "confidence": 0.0,
+      "time": 30.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Ven ahora y cólmame!",
+      "words": [
+        {
+          "word": "Ven",
+          "start": 30.0,
+          "end": 32.62
+        },
+        {
+          "word": "ahora",
+          "start": 32.62,
+          "end": 33.92
+        },
+        {
+          "word": "y",
+          "start": 33.92,
+          "end": 34.52
+        },
+        {
+          "word": "cólmame,",
+          "start": 34.52,
+          "end": 36.24
+        }
+      ],
+      "start": 30.38,
+      "end": 30.58,
+      "confidence": 1.0,
+      "time": 30.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Cólmame de tu presencia!",
+      "words": [
+        {
+          "word": "cólmame",
+          "start": 36.26,
+          "end": 38.14
+        },
+        {
+          "word": "de",
+          "start": 38.14,
+          "end": 38.52
+        },
+        {
+          "word": "tu",
+          "start": 38.52,
+          "end": 39.24
+        },
+        {
+          "word": "presencia,",
+          "start": 39.24,
+          "end": 40.62
+        }
+      ],
+      "start": 36.26,
+      "end": 42.84,
+      "confidence": 1.0,
+      "time": 36.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Ven, oh ven y cólmame!",
+      "words": [
+        {
+          "word": "y",
+          "start": 42.84,
+          "end": 43.36
+        },
+        {
+          "word": "cólmame.",
+          "start": 43.36,
+          "end": 45.52
+        }
+      ],
+      "start": 42.84,
+      "end": 45.52,
+      "confidence": 0.4,
+      "time": 42.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Santo Espíritu, lo puedes,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Santo",
+          "start": 45.52,
+          "end": 46.92
+        },
+        {
+          "word": "Espíritu",
+          "start": 46.92,
+          "end": 48.98
+        },
+        {
+          "word": "puedes,",
+          "start": 49.6,
+          "end": 50.44
+        }
+      ],
+      "start": 45.52,
+      "end": 51.2,
+      "confidence": 0.75,
+      "time": 45.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "aunque cómo, no lo sé;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "aunque",
+          "start": 51.2,
+          "end": 51.46
+        },
+        {
+          "word": "como",
+          "start": 51.46,
+          "end": 52.5
+        },
+        {
+          "word": "no",
+          "start": 52.5,
+          "end": 53.42
+        },
+        {
+          "word": "lo",
+          "start": 53.42,
+          "end": 53.94
+        },
+        {
+          "word": "sé,",
+          "start": 53.94,
+          "end": 54.62
+        }
+      ],
+      "start": 51.2,
+      "end": 54.62,
+      "confidence": 1.0,
+      "time": 51.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mas si tú mis ruegos oyes,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "más",
+          "start": 55.08,
+          "end": 55.74
+        },
+        {
+          "word": "si",
+          "start": 55.74,
+          "end": 56.1
+        },
+        {
+          "word": "Tú",
+          "start": 56.1,
+          "end": 56.64
+        },
+        {
+          "word": "oye",
+          "start": 58.6,
+          "end": 59.16
+        }
+      ],
+      "start": 55.08,
+      "end": 59.16,
+      "confidence": 0.657,
+      "time": 55.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "sé que puro yo seré.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "sé",
+          "start": 59.16,
+          "end": 59.9
+        },
+        {
+          "word": "que",
+          "start": 59.9,
+          "end": 60.48
+        },
+        {
+          "word": "puro",
+          "start": 60.48,
+          "end": 61.38
+        },
+        {
+          "word": "yo",
+          "start": 61.38,
+          "end": 62.3
+        },
+        {
+          "word": "seré.",
+          "start": 62.3,
+          "end": 63.46
+        }
+      ],
+      "start": 59.16,
+      "end": 63.46,
+      "confidence": 1.0,
+      "time": 59.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Cólmame! ¡Cólmame!",
+      "words": [
+        {
+          "word": "Cálmame,",
+          "start": 64.16,
+          "end": 65.52
+        },
+        {
+          "word": "cálmame,",
+          "start": 65.78,
+          "end": 67.7
+        }
+      ],
+      "start": 64.16,
+      "end": 68.12,
+      "confidence": 0.914,
+      "time": 64.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Ven ahora y cólmame!",
+      "words": [
+        {
+          "word": "ven",
+          "start": 68.12,
+          "end": 68.88
+        },
+        {
+          "word": "ahora",
+          "start": 68.88,
+          "end": 69.9
+        },
+        {
+          "word": "y",
+          "start": 69.9,
+          "end": 70.4
+        },
+        {
+          "word": "cálmame,",
+          "start": 70.4,
+          "end": 71.96
+        }
+      ],
+      "start": 68.12,
+      "end": 71.96,
+      "confidence": 0.979,
+      "time": 68.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Cólmame de tu presencia!",
+      "words": [
+        {
+          "word": "cólmame",
+          "start": 71.96,
+          "end": 74.1
+        },
+        {
+          "word": "de",
+          "start": 74.1,
+          "end": 74.5
+        },
+        {
+          "word": "tu",
+          "start": 74.5,
+          "end": 75.2
+        },
+        {
+          "word": "presencia,",
+          "start": 75.2,
+          "end": 76.58
+        }
+      ],
+      "start": 71.96,
+      "end": 77.32,
+      "confidence": 1.0,
+      "time": 71.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Ven, oh ven y cólmame!",
+      "words": [
+        {
+          "word": "renoven",
+          "start": 77.32,
+          "end": 78.64
+        },
+        {
+          "word": "y",
+          "start": 78.64,
+          "end": 79.36
+        },
+        {
+          "word": "cólmame.",
+          "start": 79.36,
+          "end": 81.36
+        }
+      ],
+      "start": 77.32,
+      "end": 81.36,
+      "confidence": 0.552,
+      "time": 77.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Débil soy, flaqueza todo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "De",
+          "start": 82.28,
+          "end": 82.98
+        },
+        {
+          "word": "soy",
+          "start": 83.18,
+          "end": 83.86
+        },
+        {
+          "word": "flaqueza,",
+          "start": 83.86,
+          "end": 85.3
+        },
+        {
+          "word": "todo",
+          "start": 85.8,
+          "end": 86.46
+        }
+      ],
+      "start": 82.28,
+      "end": 86.46,
+      "confidence": 0.985,
+      "time": 82.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "mas me postro a tus pies,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "más",
+          "start": 86.46,
+          "end": 87.14
+        },
+        {
+          "word": "me",
+          "start": 87.14,
+          "end": 87.72
+        },
+        {
+          "word": "postro",
+          "start": 87.72,
+          "end": 88.68
+        },
+        {
+          "word": "a",
+          "start": 88.68,
+          "end": 89.36
+        },
+        {
+          "word": "tus",
+          "start": 89.36,
+          "end": 89.7
+        },
+        {
+          "word": "pies,",
+          "start": 89.7,
+          "end": 90.56
+        }
+      ],
+      "start": 86.46,
+      "end": 90.56,
+      "confidence": 1.0,
+      "time": 86.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "para que tu amor eterno,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "para",
+          "start": 90.94,
+          "end": 91.8
+        },
+        {
+          "word": "que",
+          "start": 91.8,
+          "end": 92.64
+        },
+        {
+          "word": "tu",
+          "start": 92.64,
+          "end": 93.0
+        },
+        {
+          "word": "amor",
+          "start": 93.0,
+          "end": 93.88
+        },
+        {
+          "word": "eterno,",
+          "start": 93.88,
+          "end": 95.2
+        }
+      ],
+      "start": 90.94,
+      "end": 95.24,
+      "confidence": 1.0,
+      "time": 90.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "fuerte, puro y fiel me des.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "fuerte",
+          "start": 95.24,
+          "end": 96.14
+        },
+        {
+          "word": "puro",
+          "start": 96.76,
+          "end": 97.28
+        },
+        {
+          "word": "el",
+          "start": 97.28,
+          "end": 97.82
+        },
+        {
+          "word": "me",
+          "start": 98.16,
+          "end": 98.72
+        },
+        {
+          "word": "des.",
+          "start": 98.72,
+          "end": 99.24
+        }
+      ],
+      "start": 95.24,
+      "end": 99.24,
+      "confidence": 0.8,
+      "time": 95.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Cólmame! ¡Cólmame!",
+      "words": [
+        {
+          "word": "Cúlmame,",
+          "start": 99.24,
+          "end": 101.66
+        },
+        {
+          "word": "cúlmame,",
+          "start": 101.7,
+          "end": 103.78
+        }
+      ],
+      "start": 99.24,
+      "end": 104.34,
+      "confidence": 0.914,
+      "time": 99.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Ven ahora y cólmame!",
+      "words": [
+        {
+          "word": "ven",
+          "start": 104.34,
+          "end": 104.82
+        },
+        {
+          "word": "ahora",
+          "start": 104.82,
+          "end": 105.92
+        },
+        {
+          "word": "y",
+          "start": 105.92,
+          "end": 106.66
+        },
+        {
+          "word": "cúlmame,",
+          "start": 106.66,
+          "end": 108.14
+        }
+      ],
+      "start": 104.34,
+      "end": 108.34,
+      "confidence": 0.979,
+      "time": 104.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Cólmame de tu presencia!",
+      "words": [
+        {
+          "word": "cúlmame",
+          "start": 108.34,
+          "end": 110.12
+        },
+        {
+          "word": "de",
+          "start": 110.12,
+          "end": 110.54
+        },
+        {
+          "word": "tu",
+          "start": 110.54,
+          "end": 111.22
+        },
+        {
+          "word": "presencia,",
+          "start": 111.22,
+          "end": 112.6
+        }
+      ],
+      "start": 108.34,
+      "end": 113.36,
+      "confidence": 0.979,
+      "time": 108.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Ven, oh ven y cólmame!",
+      "words": [
+        {
+          "word": "ven",
+          "start": 113.36,
+          "end": 113.62
+        },
+        {
+          "word": "o",
+          "start": 113.62,
+          "end": 114.08
+        },
+        {
+          "word": "ven",
+          "start": 114.08,
+          "end": 114.66
+        },
+        {
+          "word": "y",
+          "start": 114.66,
+          "end": 114.9
+        },
+        {
+          "word": "cúlmame.",
+          "start": 114.9,
+          "end": 117.18
+        }
+      ],
+      "start": 113.36,
+      "end": 117.18,
+      "confidence": 0.943,
+      "time": 113.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Lávame, bendice y salva",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Hágame",
+          "start": 118.8,
+          "end": 120.02
+        },
+        {
+          "word": "bendice",
+          "start": 120.02,
+          "end": 121.24
+        },
+        {
+          "word": "y",
+          "start": 121.24,
+          "end": 121.96
+        },
+        {
+          "word": "salva",
+          "start": 121.96,
+          "end": 122.52
+        }
+      ],
+      "start": 118.8,
+      "end": 122.52,
+      "confidence": 0.95,
+      "time": 118.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "cuerpo, alma, espíritu;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "cuerpo,",
+          "start": 122.52,
+          "end": 123.44
+        },
+        {
+          "word": "alma",
+          "start": 124.28,
+          "end": 124.44
+        },
+        {
+          "word": "espíritu,",
+          "start": 124.76,
+          "end": 126.68
+        }
+      ],
+      "start": 122.52,
+      "end": 126.68,
+      "confidence": 1.0,
+      "time": 122.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "ya me salvas, me consuelas,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "ya",
+          "start": 127.24,
+          "end": 127.56
+        },
+        {
+          "word": "me",
+          "start": 127.56,
+          "end": 128.1
+        },
+        {
+          "word": "salvas,",
+          "start": 128.1,
+          "end": 129.1
+        },
+        {
+          "word": "me",
+          "start": 129.72,
+          "end": 129.9
+        },
+        {
+          "word": "consuelas,",
+          "start": 129.9,
+          "end": 131.26
+        }
+      ],
+      "start": 127.24,
+      "end": 133.48,
+      "confidence": 1.0,
+      "time": 127.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "de bondad me colmas tú.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "me",
+          "start": 133.48,
+          "end": 133.72
+        },
+        {
+          "word": "dormas",
+          "start": 133.72,
+          "end": 134.66
+        },
+        {
+          "word": "tú.",
+          "start": 134.66,
+          "end": 135.24
+        }
+      ],
+      "start": 133.48,
+      "end": 135.24,
+      "confidence": 0.56,
+      "time": 133.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Cólmame! ¡Cólmame!",
+      "words": [
+        {
+          "word": "Tólmame,",
+          "start": 135.24,
+          "end": 137.5
+        },
+        {
+          "word": "tólmame,",
+          "start": 137.76,
+          "end": 139.8
+        }
+      ],
+      "start": 135.24,
+      "end": 140.58,
+      "confidence": 0.914,
+      "time": 135.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Ven ahora y cólmame!",
+      "words": [
+        {
+          "word": "ven",
+          "start": 140.58,
+          "end": 140.88
+        },
+        {
+          "word": "ahora",
+          "start": 140.88,
+          "end": 141.9
+        },
+        {
+          "word": "y",
+          "start": 141.9,
+          "end": 142.4
+        },
+        {
+          "word": "tólmame,",
+          "start": 142.4,
+          "end": 144.06
+        }
+      ],
+      "start": 140.58,
+      "end": 144.34,
+      "confidence": 0.979,
+      "time": 140.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Cólmame de tu presencia!",
+      "words": [
+        {
+          "word": "tólmame",
+          "start": 144.34,
+          "end": 146.12
+        },
+        {
+          "word": "de",
+          "start": 146.12,
+          "end": 146.72
+        },
+        {
+          "word": "tu",
+          "start": 146.72,
+          "end": 147.26
+        },
+        {
+          "word": "presencia",
+          "start": 147.26,
+          "end": 148.58
+        }
+      ],
+      "start": 144.34,
+      "end": 149.88,
+      "confidence": 0.979,
+      "time": 144.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Ven, oh ven y cólmame!",
+      "words": [
+        {
+          "word": "ven",
+          "start": 149.88,
+          "end": 150.74
+        },
+        {
+          "word": "y",
+          "start": 150.74,
+          "end": 151.5
+        }
+      ],
+      "start": 149.88,
+      "end": 152.86,
+      "confidence": 0.4,
+      "time": 149.88
+    }
+  ]
+}

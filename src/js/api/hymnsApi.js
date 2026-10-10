@@ -1,6 +1,7 @@
 import API_CONFIG, { configure, getConfig } from "../core/config.js";
 import { fetchWithTimeout } from "../utils/fetchWithTimeout.js";
 import { validateCatalog } from "../utils/validators.js";
+import { resolveAudioUrl } from "../utils/audioUrl.js";
 
 export { configure, getConfig };
 
@@ -144,7 +145,7 @@ function resolveDataUrl(route) {
     return route;
   }
 
-  return `${API_CONFIG.audioBaseUrl}${route.startsWith("/") ? "" : "/"}${route}`;
+  return `${API_CONFIG.dataBaseUrl}${route.startsWith("/") ? "" : "/"}${route}`;
 }
 
 //Devuelve la ruta del audio según el modo de reproducción.
@@ -153,15 +154,9 @@ export function getHymnAudioUrl(hymn, mode = "musica") {
     return null;
   }
 
-  const route = mode === "instrumental" ? hymn.mp3RouteInstr : hymn.mp3Route;
-
-  if (!route) {
-    return null;
-  }
-
-  if (/^https?:\/\//.test(route)) {
-    return route;
-  }
-
-  return `${API_CONFIG.audioBaseUrl}${route.startsWith("/") ? "" : "/"}${route}`;
+  const instrumental = mode === "instrumental" || mode === "karaoke";
+  const route = instrumental
+    ? hymn.mp3RouteInstr || hymn.mp3UrlInstr
+    : hymn.mp3Route || hymn.mp3Url;
+  return resolveAudioUrl(route, instrumental ? "instrumentales" : "cantadas", API_CONFIG.audioBaseUrl);
 }

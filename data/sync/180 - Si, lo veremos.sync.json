@@ -1,0 +1,506 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.974,
+  "language": "es",
+  "model": "medium",
+  "hymn": 180,
+  "source": "180 - Si, lo veremos.mp3",
+  "duration": 109.9,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Sí, lo veremos cuando venga en gloria.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Si",
+          "start": 11.64,
+          "end": 13.04
+        },
+        {
+          "word": "lo",
+          "start": 13.04,
+          "end": 14.16
+        },
+        {
+          "word": "veremos",
+          "start": 14.16,
+          "end": 16.18
+        },
+        {
+          "word": "cuando",
+          "start": 16.18,
+          "end": 16.94
+        },
+        {
+          "word": "venga",
+          "start": 16.94,
+          "end": 17.82
+        },
+        {
+          "word": "en",
+          "start": 17.82,
+          "end": 18.26
+        },
+        {
+          "word": "gloria,",
+          "start": 18.26,
+          "end": 19.48
+        }
+      ],
+      "start": 11.64,
+      "end": 19.84,
+      "confidence": 1.0,
+      "time": 11.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Sí, lo veremos al Rey y Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "si",
+          "start": 19.84,
+          "end": 20.7
+        },
+        {
+          "word": "lo",
+          "start": 20.7,
+          "end": 21.54
+        },
+        {
+          "word": "veremos",
+          "start": 21.54,
+          "end": 23.02
+        },
+        {
+          "word": "al",
+          "start": 23.02,
+          "end": 23.38
+        },
+        {
+          "word": "Rey",
+          "start": 23.38,
+          "end": 24.64
+        },
+        {
+          "word": "Señor,",
+          "start": 24.64,
+          "end": 26.32
+        }
+      ],
+      "start": 19.84,
+      "end": 26.32,
+      "confidence": 0.857,
+      "time": 19.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ángeles y hombres le darán la gloria;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ángeles",
+          "start": 26.32,
+          "end": 28.6
+        },
+        {
+          "word": "y",
+          "start": 28.6,
+          "end": 29.08
+        },
+        {
+          "word": "hombres",
+          "start": 29.08,
+          "end": 30.06
+        },
+        {
+          "word": "le",
+          "start": 30.06,
+          "end": 30.9
+        },
+        {
+          "word": "darán",
+          "start": 30.9,
+          "end": 31.66
+        },
+        {
+          "word": "la",
+          "start": 31.66,
+          "end": 32.24
+        },
+        {
+          "word": "gloria,",
+          "start": 32.24,
+          "end": 33.78
+        }
+      ],
+      "start": 26.32,
+      "end": 34.6,
+      "confidence": 1.0,
+      "time": 26.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "alzando voces, hosannas cantarán.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "alzando",
+          "start": 34.6,
+          "end": 35.64
+        },
+        {
+          "word": "voces",
+          "start": 35.64,
+          "end": 36.96
+        },
+        {
+          "word": "zonas",
+          "start": 37.44,
+          "end": 38.24
+        },
+        {
+          "word": "cantarán.",
+          "start": 38.24,
+          "end": 41.36
+        }
+      ],
+      "start": 34.6,
+      "end": 41.36,
+      "confidence": 0.942,
+      "time": 34.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Sí, lo veremos la mañana hermosa.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 42.22,
+          "end": 42.98
+        },
+        {
+          "word": "lo",
+          "start": 42.98,
+          "end": 43.6
+        },
+        {
+          "word": "veremos",
+          "start": 43.6,
+          "end": 45.4
+        },
+        {
+          "word": "la",
+          "start": 45.4,
+          "end": 45.98
+        },
+        {
+          "word": "mañana",
+          "start": 45.98,
+          "end": 47.08
+        },
+        {
+          "word": "hermosa,",
+          "start": 47.08,
+          "end": 49.06
+        }
+      ],
+      "start": 42.22,
+      "end": 49.2,
+      "confidence": 1.0,
+      "time": 42.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Sí, lo veremos en todo esplendor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "si",
+          "start": 49.2,
+          "end": 50.04
+        },
+        {
+          "word": "lo",
+          "start": 50.04,
+          "end": 50.84
+        },
+        {
+          "word": "veremos",
+          "start": 50.84,
+          "end": 52.36
+        },
+        {
+          "word": "en",
+          "start": 52.36,
+          "end": 52.86
+        },
+        {
+          "word": "todo",
+          "start": 52.86,
+          "end": 53.74
+        },
+        {
+          "word": "esplendor,",
+          "start": 53.74,
+          "end": 55.56
+        }
+      ],
+      "start": 49.2,
+      "end": 55.56,
+      "confidence": 1.0,
+      "time": 49.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Huestes triunfantes de los redimidos",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cuestes",
+          "start": 55.56,
+          "end": 57.58
+        },
+        {
+          "word": "triunfantes",
+          "start": 57.58,
+          "end": 59.58
+        },
+        {
+          "word": "de",
+          "start": 59.58,
+          "end": 60.26
+        },
+        {
+          "word": "los",
+          "start": 60.26,
+          "end": 60.76
+        },
+        {
+          "word": "redimidos,",
+          "start": 60.76,
+          "end": 63.08
+        }
+      ],
+      "start": 55.56,
+      "end": 64.14,
+      "confidence": 0.983,
+      "time": 55.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "entonaremos hosannas a Jesús.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "entonaremos",
+          "start": 64.14,
+          "end": 66.22
+        },
+        {
+          "word": "sanas",
+          "start": 66.98,
+          "end": 67.8
+        },
+        {
+          "word": "a",
+          "start": 67.8,
+          "end": 68.2
+        },
+        {
+          "word": "Jesús.",
+          "start": 68.2,
+          "end": 70.46
+        }
+      ],
+      "start": 64.14,
+      "end": 70.46,
+      "confidence": 0.965,
+      "time": 64.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Sí, lo veremos en aquel gran día.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Si",
+          "start": 71.5,
+          "end": 72.34
+        },
+        {
+          "word": "lo",
+          "start": 72.34,
+          "end": 72.98
+        },
+        {
+          "word": "veremos",
+          "start": 72.98,
+          "end": 74.9
+        },
+        {
+          "word": "en",
+          "start": 74.9,
+          "end": 75.66
+        },
+        {
+          "word": "aquel",
+          "start": 75.66,
+          "end": 76.26
+        },
+        {
+          "word": "gran",
+          "start": 76.26,
+          "end": 76.78
+        },
+        {
+          "word": "día,",
+          "start": 76.78,
+          "end": 78.06
+        }
+      ],
+      "start": 71.5,
+      "end": 78.52,
+      "confidence": 1.0,
+      "time": 71.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Sí, lo veremos en su majestad. Todos unidos le",
+      "verse": 3,
+      "words": [
+        {
+          "word": "si",
+          "start": 78.52,
+          "end": 79.36
+        },
+        {
+          "word": "lo",
+          "start": 79.36,
+          "end": 80.2
+        },
+        {
+          "word": "veremos",
+          "start": 80.2,
+          "end": 81.64
+        },
+        {
+          "word": "en",
+          "start": 81.64,
+          "end": 82.0
+        },
+        {
+          "word": "Su",
+          "start": 82.0,
+          "end": 82.86
+        },
+        {
+          "word": "majestad,",
+          "start": 82.86,
+          "end": 84.56
+        },
+        {
+          "word": "Todos",
+          "start": 84.56,
+          "end": 86.78
+        },
+        {
+          "word": "unidos,",
+          "start": 86.78,
+          "end": 88.88
+        },
+        {
+          "word": "le",
+          "start": 89.32,
+          "end": 89.56
+        }
+      ],
+      "start": 78.52,
+      "end": 89.56,
+      "confidence": 1.0,
+      "time": 78.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tributaremos nuestra alabanza:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tributaremos",
+          "start": 89.56,
+          "end": 92.26
+        },
+        {
+          "word": "vuestra",
+          "start": 92.26,
+          "end": 93.92
+        },
+        {
+          "word": "alabanza,",
+          "start": 93.92,
+          "end": 95.68
+        }
+      ],
+      "start": 89.56,
+      "end": 96.28,
+      "confidence": 0.971,
+      "time": 89.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Hosanna al Señor! ¡Hosanna al Señor!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "sana",
+          "start": 96.28,
+          "end": 96.86
+        },
+        {
+          "word": "al",
+          "start": 96.86,
+          "end": 97.7
+        },
+        {
+          "word": "Señor,",
+          "start": 97.7,
+          "end": 98.82
+        },
+        {
+          "word": "sana",
+          "start": 99.86,
+          "end": 101.5
+        },
+        {
+          "word": "al",
+          "start": 101.5,
+          "end": 102.78
+        },
+        {
+          "word": "Señor.",
+          "start": 102.78,
+          "end": 104.88
+        }
+      ],
+      "start": 96.28,
+      "end": 104.88,
+      "confidence": 0.945,
+      "time": 96.28
+    }
+  ]
+}

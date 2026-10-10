@@ -1,0 +1,746 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.862,
+  "language": "es",
+  "model": "medium",
+  "hymn": 194,
+  "source": "194 - Vive en mi.mp3",
+  "duration": 155.51,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Vive, Santo Espíritu,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 2.06,
+          "end": 2.06
+        }
+      ],
+      "start": 2.06,
+      "end": 2.98,
+      "confidence": 0.313,
+      "time": 2.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en este pobre ser;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 2.98,
+          "end": 2.98
+        }
+      ],
+      "start": 2.98,
+      "end": 3.18,
+      "confidence": 0.25,
+      "time": 2.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y que tu fuego celestial",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Iglesia",
+          "start": 3.16,
+          "end": 3.16
+        }
+      ],
+      "start": 3.18,
+      "end": 29.98,
+      "confidence": 0.155,
+      "time": 3.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "transforme mi existir.",
+      "verse": 1,
+      "start": 29.98,
+      "end": 32.31,
+      "confidence": 0.0,
+      "time": 29.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Vive en mí, vive en mí,",
+      "words": [
+        {
+          "word": "¡Vive",
+          "start": 34.64,
+          "end": 36.04
+        },
+        {
+          "word": "en",
+          "start": 36.04,
+          "end": 37.12
+        },
+        {
+          "word": "mí,",
+          "start": 37.12,
+          "end": 37.76
+        },
+        {
+          "word": "vive",
+          "start": 37.8,
+          "end": 38.66
+        },
+        {
+          "word": "en",
+          "start": 38.66,
+          "end": 39.44
+        },
+        {
+          "word": "mí,",
+          "start": 39.44,
+          "end": 40.34
+        }
+      ],
+      "start": 32.31,
+      "end": 34.64,
+      "confidence": 1.0,
+      "time": 32.31
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Santo y fiel Consolador.",
+      "words": [
+        {
+          "word": "santo",
+          "start": 40.66,
+          "end": 41.86
+        },
+        {
+          "word": "y",
+          "start": 41.86,
+          "end": 42.3
+        },
+        {
+          "word": "fiel",
+          "start": 42.3,
+          "end": 43.04
+        },
+        {
+          "word": "consolador,",
+          "start": 43.04,
+          "end": 46.0
+        }
+      ],
+      "start": 40.66,
+      "end": 46.54,
+      "confidence": 1.0,
+      "time": 40.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Limpia del mal mi corazón;",
+      "words": [
+        {
+          "word": "limpia",
+          "start": 46.54,
+          "end": 47.4
+        },
+        {
+          "word": "del",
+          "start": 47.4,
+          "end": 47.92
+        },
+        {
+          "word": "mal",
+          "start": 47.92,
+          "end": 49.24
+        },
+        {
+          "word": "mi",
+          "start": 49.24,
+          "end": 49.92
+        },
+        {
+          "word": "corazón,",
+          "start": 49.92,
+          "end": 51.74
+        }
+      ],
+      "start": 46.54,
+      "end": 52.32,
+      "confidence": 1.0,
+      "time": 46.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "llénalo siempre de tu amor.",
+      "words": [
+        {
+          "word": "lléralo",
+          "start": 52.32,
+          "end": 53.54
+        },
+        {
+          "word": "siempre",
+          "start": 53.54,
+          "end": 54.44
+        },
+        {
+          "word": "de",
+          "start": 54.44,
+          "end": 55.18
+        },
+        {
+          "word": "tu",
+          "start": 55.18,
+          "end": 56.02
+        },
+        {
+          "word": "amor!",
+          "start": 56.02,
+          "end": 58.58
+        }
+      ],
+      "start": 52.32,
+      "end": 58.58,
+      "confidence": 0.983,
+      "time": 52.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Habla, Santo Espíritu,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Habla,",
+          "start": 58.58,
+          "end": 60.64
+        },
+        {
+          "word": "santo",
+          "start": 61.14,
+          "end": 61.86
+        },
+        {
+          "word": "espíritu,",
+          "start": 61.86,
+          "end": 64.64
+        }
+      ],
+      "start": 58.58,
+      "end": 65.34,
+      "confidence": 1.0,
+      "time": 58.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "háblame con poder;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "háblame",
+          "start": 65.34,
+          "end": 66.14
+        },
+        {
+          "word": "con",
+          "start": 66.14,
+          "end": 67.2
+        },
+        {
+          "word": "poder,",
+          "start": 67.2,
+          "end": 69.78
+        }
+      ],
+      "start": 65.34,
+      "end": 70.64,
+      "confidence": 1.0,
+      "time": 65.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y al escuchar tu dulce voz,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 70.64,
+          "end": 70.72
+        },
+        {
+          "word": "al",
+          "start": 70.72,
+          "end": 71.08
+        },
+        {
+          "word": "escuchar",
+          "start": 71.08,
+          "end": 72.7
+        },
+        {
+          "word": "tu",
+          "start": 72.7,
+          "end": 73.12
+        },
+        {
+          "word": "dulce",
+          "start": 73.12,
+          "end": 74.48
+        },
+        {
+          "word": "voz",
+          "start": 74.48,
+          "end": 75.28
+        }
+      ],
+      "start": 70.64,
+      "end": 75.28,
+      "confidence": 1.0,
+      "time": 70.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "consagre a ti mi ser.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "consague",
+          "start": 75.28,
+          "end": 76.82
+        },
+        {
+          "word": "a",
+          "start": 76.82,
+          "end": 77.6
+        },
+        {
+          "word": "ti",
+          "start": 77.6,
+          "end": 78.24
+        },
+        {
+          "word": "mi",
+          "start": 78.24,
+          "end": 78.9
+        },
+        {
+          "word": "ser.",
+          "start": 78.9,
+          "end": 80.7
+        }
+      ],
+      "start": 75.28,
+      "end": 80.7,
+      "confidence": 0.985,
+      "time": 75.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Vive en mí, vive en mí,",
+      "words": [
+        {
+          "word": "¡Vive",
+          "start": 80.7,
+          "end": 82.56
+        },
+        {
+          "word": "en",
+          "start": 82.56,
+          "end": 83.08
+        },
+        {
+          "word": "mí,",
+          "start": 83.08,
+          "end": 84.24
+        },
+        {
+          "word": "vive",
+          "start": 84.42,
+          "end": 85.14
+        },
+        {
+          "word": "en",
+          "start": 85.14,
+          "end": 85.9
+        },
+        {
+          "word": "mí,",
+          "start": 85.9,
+          "end": 86.78
+        }
+      ],
+      "start": 80.7,
+      "end": 87.36,
+      "confidence": 1.0,
+      "time": 80.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Santo y fiel Consolador.",
+      "words": [
+        {
+          "word": "Santo",
+          "start": 87.36,
+          "end": 88.34
+        },
+        {
+          "word": "Ciel",
+          "start": 88.88,
+          "end": 89.66
+        },
+        {
+          "word": "Consolador,",
+          "start": 89.66,
+          "end": 92.76
+        }
+      ],
+      "start": 87.36,
+      "end": 92.76,
+      "confidence": 0.712,
+      "time": 87.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Limpia del mal mi corazón;",
+      "words": [
+        {
+          "word": "limpia",
+          "start": 93.14,
+          "end": 93.98
+        },
+        {
+          "word": "del",
+          "start": 93.98,
+          "end": 94.6
+        },
+        {
+          "word": "mal",
+          "start": 94.6,
+          "end": 95.82
+        },
+        {
+          "word": "mi",
+          "start": 95.82,
+          "end": 96.44
+        },
+        {
+          "word": "corazón,",
+          "start": 96.44,
+          "end": 98.3
+        }
+      ],
+      "start": 93.14,
+      "end": 99.0,
+      "confidence": 1.0,
+      "time": 93.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "llénalo siempre de tu amor.",
+      "words": [
+        {
+          "word": "llénalo",
+          "start": 99.0,
+          "end": 100.06
+        },
+        {
+          "word": "siempre",
+          "start": 100.06,
+          "end": 101.02
+        },
+        {
+          "word": "de",
+          "start": 101.02,
+          "end": 101.8
+        },
+        {
+          "word": "tu",
+          "start": 101.8,
+          "end": 102.84
+        },
+        {
+          "word": "amor!",
+          "start": 102.84,
+          "end": 105.16
+        }
+      ],
+      "start": 99.0,
+      "end": 105.16,
+      "confidence": 1.0,
+      "time": 99.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Santo, Santo Espíritu,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Santo,",
+          "start": 105.16,
+          "end": 107.08
+        },
+        {
+          "word": "santo",
+          "start": 107.24,
+          "end": 108.64
+        },
+        {
+          "word": "Espíritu,",
+          "start": 108.64,
+          "end": 111.38
+        }
+      ],
+      "start": 105.16,
+      "end": 111.76,
+      "confidence": 1.0,
+      "time": 105.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "lléname de fervor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "lléname",
+          "start": 111.76,
+          "end": 112.82
+        },
+        {
+          "word": "de",
+          "start": 112.82,
+          "end": 114.04
+        },
+        {
+          "word": "fervor,",
+          "start": 114.04,
+          "end": 116.74
+        }
+      ],
+      "start": 111.76,
+      "end": 117.24,
+      "confidence": 1.0,
+      "time": 111.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "para servirte con amor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "para",
+          "start": 117.24,
+          "end": 117.88
+        },
+        {
+          "word": "servirte",
+          "start": 117.88,
+          "end": 119.84
+        },
+        {
+          "word": "con",
+          "start": 119.84,
+          "end": 120.88
+        },
+        {
+          "word": "amor",
+          "start": 120.88,
+          "end": 121.9
+        }
+      ],
+      "start": 117.24,
+      "end": 121.9,
+      "confidence": 1.0,
+      "time": 117.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y sea yo vencedor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 121.9,
+          "end": 122.74
+        },
+        {
+          "word": "seas",
+          "start": 122.74,
+          "end": 123.52
+        },
+        {
+          "word": "vencedor.",
+          "start": 124.16,
+          "end": 127.6
+        }
+      ],
+      "start": 121.9,
+      "end": 127.6,
+      "confidence": 0.735,
+      "time": 121.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Vive en mí, vive en mí,",
+      "words": [
+        {
+          "word": "Vive",
+          "start": 127.6,
+          "end": 129.24
+        },
+        {
+          "word": "en",
+          "start": 129.24,
+          "end": 129.82
+        },
+        {
+          "word": "mí,",
+          "start": 129.82,
+          "end": 131.04
+        },
+        {
+          "word": "vive",
+          "start": 131.06,
+          "end": 131.98
+        },
+        {
+          "word": "en",
+          "start": 131.98,
+          "end": 132.56
+        },
+        {
+          "word": "mí,",
+          "start": 132.56,
+          "end": 133.64
+        }
+      ],
+      "start": 127.6,
+      "end": 134.34,
+      "confidence": 1.0,
+      "time": 127.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Santo y fiel Consolador.",
+      "words": [
+        {
+          "word": "santo",
+          "start": 134.34,
+          "end": 135.14
+        },
+        {
+          "word": "y",
+          "start": 135.14,
+          "end": 135.66
+        },
+        {
+          "word": "fiel",
+          "start": 135.66,
+          "end": 136.4
+        },
+        {
+          "word": "consolador,",
+          "start": 136.4,
+          "end": 139.52
+        }
+      ],
+      "start": 134.34,
+      "end": 139.88,
+      "confidence": 1.0,
+      "time": 134.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Limpia del mal mi corazón;",
+      "words": [
+        {
+          "word": "limpia",
+          "start": 139.88,
+          "end": 140.76
+        },
+        {
+          "word": "del",
+          "start": 140.76,
+          "end": 141.28
+        },
+        {
+          "word": "mal",
+          "start": 141.28,
+          "end": 142.52
+        },
+        {
+          "word": "mi",
+          "start": 142.52,
+          "end": 143.08
+        },
+        {
+          "word": "corazón,",
+          "start": 143.08,
+          "end": 144.92
+        }
+      ],
+      "start": 139.88,
+      "end": 145.6,
+      "confidence": 1.0,
+      "time": 139.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "llénalo siempre de tu amor.",
+      "words": [
+        {
+          "word": "llénalo",
+          "start": 145.6,
+          "end": 146.8
+        },
+        {
+          "word": "siempre",
+          "start": 146.8,
+          "end": 147.74
+        },
+        {
+          "word": "de",
+          "start": 147.74,
+          "end": 148.6
+        },
+        {
+          "word": "tu",
+          "start": 148.6,
+          "end": 149.62
+        },
+        {
+          "word": "amor.",
+          "start": 149.62,
+          "end": 151.2
+        }
+      ],
+      "start": 145.6,
+      "end": 151.2,
+      "confidence": 1.0,
+      "time": 145.6
+    }
+  ]
+}

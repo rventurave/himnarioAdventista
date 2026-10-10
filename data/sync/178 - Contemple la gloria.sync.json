@@ -1,0 +1,848 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.967,
+  "language": "es",
+  "model": "medium",
+  "hymn": 178,
+  "source": "178 - Contemple la gloria.mp3",
+  "duration": 140.88,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Contemplé la gloria del regreso de mi Salvador,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Contemplé",
+          "start": 11.62,
+          "end": 12.74
+        },
+        {
+          "word": "la",
+          "start": 12.74,
+          "end": 12.94
+        },
+        {
+          "word": "gloria",
+          "start": 12.94,
+          "end": 13.6
+        },
+        {
+          "word": "del",
+          "start": 13.6,
+          "end": 14.1
+        },
+        {
+          "word": "regreso",
+          "start": 14.1,
+          "end": 14.88
+        },
+        {
+          "word": "de",
+          "start": 14.88,
+          "end": 15.4
+        },
+        {
+          "word": "mi",
+          "start": 15.4,
+          "end": 15.62
+        },
+        {
+          "word": "Salvador",
+          "start": 15.62,
+          "end": 16.54
+        }
+      ],
+      "start": 11.62,
+      "end": 16.54,
+      "confidence": 1.0,
+      "time": 11.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que a su paso va pisando el lagar del detractor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Que",
+          "start": 16.54,
+          "end": 17.1
+        },
+        {
+          "word": "a",
+          "start": 17.1,
+          "end": 17.42
+        },
+        {
+          "word": "su",
+          "start": 17.42,
+          "end": 17.58
+        },
+        {
+          "word": "paso",
+          "start": 17.58,
+          "end": 18.14
+        },
+        {
+          "word": "va",
+          "start": 18.14,
+          "end": 18.58
+        },
+        {
+          "word": "pisando",
+          "start": 18.58,
+          "end": 19.6
+        },
+        {
+          "word": "el",
+          "start": 19.6,
+          "end": 20.04
+        },
+        {
+          "word": "lagar",
+          "start": 20.04,
+          "end": 20.62
+        },
+        {
+          "word": "del",
+          "start": 20.62,
+          "end": 20.82
+        },
+        {
+          "word": "detractor",
+          "start": 20.82,
+          "end": 21.88
+        }
+      ],
+      "start": 16.54,
+      "end": 21.88,
+      "confidence": 1.0,
+      "time": 16.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con su espada refulgente, como gran conquistador,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Con",
+          "start": 21.88,
+          "end": 22.42
+        },
+        {
+          "word": "su",
+          "start": 22.42,
+          "end": 22.68
+        },
+        {
+          "word": "espada",
+          "start": 22.68,
+          "end": 23.4
+        },
+        {
+          "word": "refugente",
+          "start": 23.4,
+          "end": 24.54
+        },
+        {
+          "word": "como",
+          "start": 24.54,
+          "end": 25.14
+        },
+        {
+          "word": "gran",
+          "start": 25.14,
+          "end": 25.64
+        },
+        {
+          "word": "conquistador",
+          "start": 25.64,
+          "end": 26.88
+        }
+      ],
+      "start": 21.88,
+      "end": 26.88,
+      "confidence": 0.995,
+      "time": 21.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "avanza vencedor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Avanza,",
+          "start": 26.88,
+          "end": 29.0
+        },
+        {
+          "word": "vencedor",
+          "start": 29.24,
+          "end": 32.6
+        }
+      ],
+      "start": 26.88,
+      "end": 32.6,
+      "confidence": 1.0,
+      "time": 26.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Gloria, gloria, aleluya!",
+      "words": [
+        {
+          "word": "Gloria,",
+          "start": 32.6,
+          "end": 34.08
+        },
+        {
+          "word": "gloria,",
+          "start": 34.1,
+          "end": 34.94
+        },
+        {
+          "word": "aleluya",
+          "start": 35.14,
+          "end": 37.76
+        }
+      ],
+      "start": 32.6,
+      "end": 37.76,
+      "confidence": 1.0,
+      "time": 32.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Gloria, gloria, aleluya!",
+      "words": [
+        {
+          "word": "Gloria,",
+          "start": 37.76,
+          "end": 39.1
+        },
+        {
+          "word": "gloria,",
+          "start": 39.18,
+          "end": 39.96
+        },
+        {
+          "word": "aleluya",
+          "start": 40.22,
+          "end": 42.8
+        }
+      ],
+      "start": 37.76,
+      "end": 42.8,
+      "confidence": 1.0,
+      "time": 37.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Gloria, gloria, aleluya!",
+      "words": [
+        {
+          "word": "Gloria,",
+          "start": 42.8,
+          "end": 44.12
+        },
+        {
+          "word": "gloria,",
+          "start": 44.12,
+          "end": 44.8
+        },
+        {
+          "word": "aleluya",
+          "start": 45.18,
+          "end": 47.32
+        }
+      ],
+      "start": 42.8,
+      "end": 47.32,
+      "confidence": 1.0,
+      "time": 42.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Venciendo, ven, Jesús.",
+      "words": [
+        {
+          "word": "Venciéndome",
+          "start": 47.32,
+          "end": 49.88
+        },
+        {
+          "word": "en",
+          "start": 49.88,
+          "end": 50.26
+        },
+        {
+          "word": "Jesús",
+          "start": 50.26,
+          "end": 52.68
+        }
+      ],
+      "start": 47.32,
+      "end": 52.68,
+      "confidence": 0.94,
+      "time": 47.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cual el lirio de los valles Cristo vino a nacer,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cuál",
+          "start": 52.68,
+          "end": 54.4
+        },
+        {
+          "word": "el",
+          "start": 54.4,
+          "end": 54.76
+        },
+        {
+          "word": "hirio",
+          "start": 54.76,
+          "end": 55.16
+        },
+        {
+          "word": "de",
+          "start": 55.16,
+          "end": 55.62
+        },
+        {
+          "word": "los",
+          "start": 55.62,
+          "end": 55.94
+        },
+        {
+          "word": "valles,",
+          "start": 55.94,
+          "end": 56.44
+        },
+        {
+          "word": "Cristo",
+          "start": 56.44,
+          "end": 57.12
+        },
+        {
+          "word": "vino",
+          "start": 57.12,
+          "end": 57.76
+        },
+        {
+          "word": "a",
+          "start": 57.76,
+          "end": 58.28
+        },
+        {
+          "word": "nacer,",
+          "start": 58.28,
+          "end": 58.92
+        }
+      ],
+      "start": 52.68,
+      "end": 59.18,
+      "confidence": 0.988,
+      "time": 52.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "para revelar del Padre el poder transformador;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "para",
+          "start": 59.18,
+          "end": 59.7
+        },
+        {
+          "word": "revelar",
+          "start": 59.7,
+          "end": 60.82
+        },
+        {
+          "word": "del",
+          "start": 60.82,
+          "end": 61.0
+        },
+        {
+          "word": "Padre",
+          "start": 61.0,
+          "end": 61.76
+        },
+        {
+          "word": "el",
+          "start": 61.76,
+          "end": 62.06
+        },
+        {
+          "word": "poder",
+          "start": 62.06,
+          "end": 62.68
+        },
+        {
+          "word": "transformador.",
+          "start": 62.68,
+          "end": 63.96
+        }
+      ],
+      "start": 59.18,
+      "end": 63.96,
+      "confidence": 1.0,
+      "time": 59.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "él murió para salvarnos, anunciemos por doquier,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Él",
+          "start": 64.3,
+          "end": 64.7
+        },
+        {
+          "word": "murió",
+          "start": 64.7,
+          "end": 65.24
+        },
+        {
+          "word": "para",
+          "start": 65.24,
+          "end": 65.84
+        },
+        {
+          "word": "salvarnos,",
+          "start": 65.84,
+          "end": 66.74
+        },
+        {
+          "word": "alucinamos",
+          "start": 67.1,
+          "end": 68.04
+        },
+        {
+          "word": "por",
+          "start": 68.04,
+          "end": 68.5
+        }
+      ],
+      "start": 64.3,
+      "end": 70.0,
+      "confidence": 0.831,
+      "time": 64.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que avanza vencedor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "avanza",
+          "start": 70.0,
+          "end": 71.2
+        },
+        {
+          "word": "vencedor.",
+          "start": 71.2,
+          "end": 74.48
+        }
+      ],
+      "start": 70.0,
+      "end": 74.48,
+      "confidence": 0.667,
+      "time": 70.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Gloria, gloria, aleluya!",
+      "words": [
+        {
+          "word": "gloria,",
+          "start": 74.48,
+          "end": 76.32
+        },
+        {
+          "word": "gloria,",
+          "start": 76.32,
+          "end": 76.98
+        },
+        {
+          "word": "aleluya,",
+          "start": 77.34,
+          "end": 79.96
+        }
+      ],
+      "start": 74.48,
+      "end": 80.02,
+      "confidence": 1.0,
+      "time": 74.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Gloria, gloria, aleluya!",
+      "words": [
+        {
+          "word": "gloria,",
+          "start": 80.02,
+          "end": 81.42
+        },
+        {
+          "word": "gloria,",
+          "start": 81.42,
+          "end": 82.16
+        },
+        {
+          "word": "aleluya,",
+          "start": 82.16,
+          "end": 84.96
+        }
+      ],
+      "start": 80.02,
+      "end": 84.98,
+      "confidence": 1.0,
+      "time": 80.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Gloria, gloria, aleluya!",
+      "words": [
+        {
+          "word": "gloria,",
+          "start": 84.98,
+          "end": 86.34
+        },
+        {
+          "word": "gloria,",
+          "start": 86.36,
+          "end": 86.96
+        },
+        {
+          "word": "aleluya,",
+          "start": 87.0,
+          "end": 89.48
+        }
+      ],
+      "start": 84.98,
+      "end": 89.9,
+      "confidence": 1.0,
+      "time": 84.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Venciendo, ven, Jesús.",
+      "words": [
+        {
+          "word": "venciendo",
+          "start": 89.9,
+          "end": 91.28
+        },
+        {
+          "word": "Jesús.",
+          "start": 92.12,
+          "end": 94.86
+        }
+      ],
+      "start": 89.9,
+      "end": 94.86,
+      "confidence": 0.667,
+      "time": 89.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Ha sonado la trompeta que jamás se rendirá,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Ha",
+          "start": 94.86,
+          "end": 96.74
+        },
+        {
+          "word": "sonado",
+          "start": 96.74,
+          "end": 97.66
+        },
+        {
+          "word": "la",
+          "start": 97.66,
+          "end": 98.16
+        },
+        {
+          "word": "trompeta",
+          "start": 98.16,
+          "end": 98.98
+        },
+        {
+          "word": "que",
+          "start": 98.98,
+          "end": 99.4
+        },
+        {
+          "word": "jamás",
+          "start": 99.4,
+          "end": 100.16
+        },
+        {
+          "word": "se",
+          "start": 100.16,
+          "end": 100.4
+        },
+        {
+          "word": "rendirá,",
+          "start": 100.4,
+          "end": 101.46
+        }
+      ],
+      "start": 94.86,
+      "end": 101.9,
+      "confidence": 1.0,
+      "time": 94.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "ha juzgado a los mortales su divino tribunal.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ha",
+          "start": 101.9,
+          "end": 102.04
+        },
+        {
+          "word": "juzgado",
+          "start": 102.04,
+          "end": 102.74
+        },
+        {
+          "word": "a",
+          "start": 102.74,
+          "end": 103.04
+        },
+        {
+          "word": "los",
+          "start": 103.04,
+          "end": 103.36
+        },
+        {
+          "word": "mortales",
+          "start": 103.36,
+          "end": 104.16
+        },
+        {
+          "word": "su",
+          "start": 104.16,
+          "end": 104.66
+        },
+        {
+          "word": "divino",
+          "start": 104.66,
+          "end": 105.48
+        },
+        {
+          "word": "tribunal,",
+          "start": 105.48,
+          "end": 106.58
+        }
+      ],
+      "start": 101.9,
+      "end": 106.58,
+      "confidence": 1.0,
+      "time": 101.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Respondamos prestamente al Señor que nos dará",
+      "verse": 3,
+      "words": [
+        {
+          "word": "respondamos",
+          "start": 107.16,
+          "end": 108.04
+        },
+        {
+          "word": "prestamente",
+          "start": 108.04,
+          "end": 109.3
+        },
+        {
+          "word": "al",
+          "start": 109.3,
+          "end": 109.7
+        },
+        {
+          "word": "Señor",
+          "start": 109.7,
+          "end": 110.28
+        },
+        {
+          "word": "que",
+          "start": 110.28,
+          "end": 110.7
+        },
+        {
+          "word": "nos",
+          "start": 110.7,
+          "end": 111.04
+        },
+        {
+          "word": "dar",
+          "start": 111.44,
+          "end": 111.88
+        }
+      ],
+      "start": 107.16,
+      "end": 111.88,
+      "confidence": 0.991,
+      "time": 107.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "victoria eterna!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "victoria",
+          "start": 111.88,
+          "end": 113.76
+        },
+        {
+          "word": "eterna.",
+          "start": 113.76,
+          "end": 115.8
+        }
+      ],
+      "start": 111.88,
+      "end": 115.8,
+      "confidence": 1.0,
+      "time": 111.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Gloria, gloria, aleluya!",
+      "words": [
+        {
+          "word": "Gloria,",
+          "start": 117.32,
+          "end": 118.72
+        },
+        {
+          "word": "gloria,",
+          "start": 118.8,
+          "end": 119.56
+        },
+        {
+          "word": "aleluya,",
+          "start": 119.88,
+          "end": 122.52
+        }
+      ],
+      "start": 117.32,
+      "end": 122.6,
+      "confidence": 1.0,
+      "time": 117.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Gloria, gloria, aleluya!",
+      "words": [
+        {
+          "word": "gloria,",
+          "start": 122.6,
+          "end": 123.94
+        },
+        {
+          "word": "gloria,",
+          "start": 123.94,
+          "end": 124.64
+        },
+        {
+          "word": "aleluya,",
+          "start": 124.64,
+          "end": 127.46
+        }
+      ],
+      "start": 122.6,
+      "end": 127.46,
+      "confidence": 1.0,
+      "time": 122.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Gloria, gloria, aleluya!",
+      "words": [
+        {
+          "word": "gloria,",
+          "start": 127.46,
+          "end": 128.84
+        },
+        {
+          "word": "gloria,",
+          "start": 129.08,
+          "end": 129.52
+        },
+        {
+          "word": "aleluya,",
+          "start": 129.6,
+          "end": 132.0
+        }
+      ],
+      "start": 127.46,
+      "end": 132.46,
+      "confidence": 1.0,
+      "time": 127.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Venciendo, ven, Jesús.",
+      "words": [
+        {
+          "word": "venciéndome",
+          "start": 132.46,
+          "end": 134.46
+        },
+        {
+          "word": "en",
+          "start": 134.46,
+          "end": 135.1
+        },
+        {
+          "word": "Jesús.",
+          "start": 135.1,
+          "end": 136.7
+        }
+      ],
+      "start": 132.46,
+      "end": 136.7,
+      "confidence": 0.94,
+      "time": 132.46
+    }
+  ]
+}

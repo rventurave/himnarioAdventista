@@ -1,0 +1,1435 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.996,
+  "language": "es",
+  "model": "medium",
+  "hymn": 191,
+  "source": "191 - La nueva proclamad.mp3",
+  "duration": 314.12,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "La nueva proclamad doquier que el hombre esté,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "La",
+          "start": 15.34,
+          "end": 15.34
+        },
+        {
+          "word": "Nueva",
+          "start": 15.34,
+          "end": 15.34
+        },
+        {
+          "word": "Proclamada",
+          "start": 15.34,
+          "end": 15.54
+        },
+        {
+          "word": "Dóquier",
+          "start": 15.54,
+          "end": 17.58
+        },
+        {
+          "word": "que",
+          "start": 17.58,
+          "end": 17.98
+        },
+        {
+          "word": "el",
+          "start": 17.98,
+          "end": 18.24
+        },
+        {
+          "word": "hombre",
+          "start": 18.24,
+          "end": 18.7
+        },
+        {
+          "word": "esté",
+          "start": 18.7,
+          "end": 19.94
+        }
+      ],
+      "start": 15.34,
+      "end": 19.94,
+      "confidence": 0.993,
+      "time": 15.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "doquier haya aflicción, miserias y dolor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Dóquier",
+          "start": 19.94,
+          "end": 22.38
+        },
+        {
+          "word": "haya",
+          "start": 22.38,
+          "end": 22.98
+        },
+        {
+          "word": "aflicción",
+          "start": 22.98,
+          "end": 24.78
+        },
+        {
+          "word": "Miserias",
+          "start": 24.78,
+          "end": 27.26
+        },
+        {
+          "word": "y",
+          "start": 27.26,
+          "end": 27.68
+        },
+        {
+          "word": "dolor",
+          "start": 27.68,
+          "end": 29.28
+        }
+      ],
+      "start": 19.94,
+      "end": 29.28,
+      "confidence": 1.0,
+      "time": 19.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cristianos, anunciad que el Padre nos envió",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cristianos",
+          "start": 29.28,
+          "end": 32.0
+        },
+        {
+          "word": "anunciar",
+          "start": 32.0,
+          "end": 33.88
+        },
+        {
+          "word": "que",
+          "start": 33.88,
+          "end": 34.64
+        },
+        {
+          "word": "el",
+          "start": 34.64,
+          "end": 35.12
+        },
+        {
+          "word": "Padre",
+          "start": 35.12,
+          "end": 36.44
+        },
+        {
+          "word": "nos",
+          "start": 36.44,
+          "end": 37.02
+        },
+        {
+          "word": "envió",
+          "start": 37.02,
+          "end": 38.58
+        }
+      ],
+      "start": 29.28,
+      "end": 38.58,
+      "confidence": 0.989,
+      "time": 29.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "el fiel Consolador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 38.58,
+          "end": 39.7
+        },
+        {
+          "word": "fiel",
+          "start": 39.7,
+          "end": 41.26
+        },
+        {
+          "word": "Consolador.",
+          "start": 41.26,
+          "end": 47.16
+        }
+      ],
+      "start": 38.58,
+      "end": 47.16,
+      "confidence": 1.0,
+      "time": 38.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Al mundo vino ya el fiel Consolador",
+      "words": [
+        {
+          "word": "Al",
+          "start": 47.44,
+          "end": 48.68
+        },
+        {
+          "word": "mundo",
+          "start": 48.68,
+          "end": 50.14
+        },
+        {
+          "word": "vino",
+          "start": 50.14,
+          "end": 50.86
+        },
+        {
+          "word": "ya",
+          "start": 50.86,
+          "end": 52.24
+        },
+        {
+          "word": "el",
+          "start": 52.24,
+          "end": 53.42
+        },
+        {
+          "word": "fiel",
+          "start": 53.42,
+          "end": 54.58
+        },
+        {
+          "word": "Consolador,",
+          "start": 54.58,
+          "end": 56.84
+        }
+      ],
+      "start": 47.44,
+      "end": 57.36,
+      "confidence": 1.0,
+      "time": 47.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "que Dios nos prometió, la prenda de su amor;",
+      "words": [
+        {
+          "word": "que",
+          "start": 57.36,
+          "end": 58.1
+        },
+        {
+          "word": "Dios",
+          "start": 58.1,
+          "end": 59.14
+        },
+        {
+          "word": "nos",
+          "start": 59.14,
+          "end": 59.8
+        },
+        {
+          "word": "prometió",
+          "start": 59.8,
+          "end": 61.76
+        },
+        {
+          "word": "la",
+          "start": 61.76,
+          "end": 62.78
+        },
+        {
+          "word": "prenda",
+          "start": 62.78,
+          "end": 64.12
+        },
+        {
+          "word": "de",
+          "start": 64.12,
+          "end": 64.54
+        },
+        {
+          "word": "su",
+          "start": 64.54,
+          "end": 64.8
+        },
+        {
+          "word": "amor.",
+          "start": 64.8,
+          "end": 66.26
+        }
+      ],
+      "start": 57.36,
+      "end": 66.26,
+      "confidence": 1.0,
+      "time": 57.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "doquier que el hombre esté,",
+      "words": [
+        {
+          "word": "Cualquier",
+          "start": 66.26,
+          "end": 68.24
+        },
+        {
+          "word": "que",
+          "start": 68.24,
+          "end": 68.74
+        },
+        {
+          "word": "el",
+          "start": 68.74,
+          "end": 69.0
+        },
+        {
+          "word": "hombre",
+          "start": 69.0,
+          "end": 69.44
+        },
+        {
+          "word": "esté,",
+          "start": 69.44,
+          "end": 70.84
+        }
+      ],
+      "start": 66.26,
+      "end": 72.12,
+      "confidence": 0.955,
+      "time": 66.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "decid que descendió el fiel Consolador.",
+      "words": [
+        {
+          "word": "decide",
+          "start": 72.12,
+          "end": 72.84
+        },
+        {
+          "word": "que",
+          "start": 72.84,
+          "end": 73.34
+        },
+        {
+          "word": "descendió",
+          "start": 73.34,
+          "end": 75.56
+        },
+        {
+          "word": "el",
+          "start": 75.56,
+          "end": 76.66
+        },
+        {
+          "word": "fiel",
+          "start": 76.66,
+          "end": 78.08
+        },
+        {
+          "word": "Consolador.",
+          "start": 78.08,
+          "end": 84.24
+        }
+      ],
+      "start": 72.12,
+      "end": 84.24,
+      "confidence": 0.99,
+      "time": 72.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "La noche ya pasó; brillando está la luz",
+      "verse": 2,
+      "words": [
+        {
+          "word": "La",
+          "start": 84.24,
+          "end": 86.44
+        },
+        {
+          "word": "noche",
+          "start": 86.44,
+          "end": 87.82
+        },
+        {
+          "word": "ya",
+          "start": 87.82,
+          "end": 88.46
+        },
+        {
+          "word": "pasó,",
+          "start": 88.46,
+          "end": 89.96
+        },
+        {
+          "word": "brillando",
+          "start": 91.0,
+          "end": 92.36
+        },
+        {
+          "word": "está",
+          "start": 92.36,
+          "end": 92.9
+        },
+        {
+          "word": "la",
+          "start": 92.9,
+          "end": 93.48
+        },
+        {
+          "word": "luz",
+          "start": 93.48,
+          "end": 94.56
+        }
+      ],
+      "start": 84.24,
+      "end": 94.56,
+      "confidence": 1.0,
+      "time": 84.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que habrá de disipar las sombras del terror;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 94.56,
+          "end": 95.4
+        },
+        {
+          "word": "habrá",
+          "start": 95.4,
+          "end": 96.84
+        },
+        {
+          "word": "de",
+          "start": 96.84,
+          "end": 97.28
+        },
+        {
+          "word": "disipar",
+          "start": 97.28,
+          "end": 99.4
+        },
+        {
+          "word": "Las",
+          "start": 99.4,
+          "end": 100.26
+        },
+        {
+          "word": "sombras",
+          "start": 100.26,
+          "end": 101.84
+        },
+        {
+          "word": "del",
+          "start": 101.84,
+          "end": 102.28
+        },
+        {
+          "word": "terror",
+          "start": 102.28,
+          "end": 103.74
+        }
+      ],
+      "start": 94.56,
+      "end": 103.74,
+      "confidence": 1.0,
+      "time": 94.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "es para el pecador la aurora celestial",
+      "verse": 2,
+      "words": [
+        {
+          "word": "es",
+          "start": 103.74,
+          "end": 105.14
+        },
+        {
+          "word": "para",
+          "start": 105.14,
+          "end": 106.34
+        },
+        {
+          "word": "el",
+          "start": 106.34,
+          "end": 106.7
+        },
+        {
+          "word": "pecador",
+          "start": 106.7,
+          "end": 108.58
+        },
+        {
+          "word": "la",
+          "start": 108.58,
+          "end": 109.54
+        },
+        {
+          "word": "aurora",
+          "start": 109.54,
+          "end": 111.0
+        },
+        {
+          "word": "celestial,",
+          "start": 111.0,
+          "end": 112.94
+        }
+      ],
+      "start": 103.74,
+      "end": 114.06,
+      "confidence": 1.0,
+      "time": 103.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "el fiel Consolador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 114.06,
+          "end": 114.34
+        },
+        {
+          "word": "fiel",
+          "start": 114.34,
+          "end": 116.16
+        },
+        {
+          "word": "Consolador.",
+          "start": 116.16,
+          "end": 121.82
+        }
+      ],
+      "start": 114.06,
+      "end": 121.82,
+      "confidence": 1.0,
+      "time": 114.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Al mundo vino ya el fiel Consolador",
+      "words": [
+        {
+          "word": "Al",
+          "start": 122.72,
+          "end": 123.3
+        },
+        {
+          "word": "mundo",
+          "start": 123.3,
+          "end": 124.86
+        },
+        {
+          "word": "vino",
+          "start": 124.86,
+          "end": 125.56
+        },
+        {
+          "word": "ya",
+          "start": 125.56,
+          "end": 126.86
+        },
+        {
+          "word": "el",
+          "start": 126.86,
+          "end": 127.9
+        },
+        {
+          "word": "fiel",
+          "start": 127.9,
+          "end": 129.18
+        },
+        {
+          "word": "Consolador",
+          "start": 129.18,
+          "end": 131.46
+        }
+      ],
+      "start": 122.72,
+      "end": 131.46,
+      "confidence": 1.0,
+      "time": 122.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "que Dios nos prometió, la prenda de su amor;",
+      "words": [
+        {
+          "word": "que",
+          "start": 131.46,
+          "end": 132.6
+        },
+        {
+          "word": "Dios",
+          "start": 132.6,
+          "end": 133.68
+        },
+        {
+          "word": "nos",
+          "start": 133.68,
+          "end": 134.36
+        },
+        {
+          "word": "prometió",
+          "start": 134.36,
+          "end": 136.36
+        },
+        {
+          "word": "la",
+          "start": 136.36,
+          "end": 137.5
+        },
+        {
+          "word": "prenda",
+          "start": 137.5,
+          "end": 138.8
+        },
+        {
+          "word": "de",
+          "start": 138.8,
+          "end": 139.16
+        },
+        {
+          "word": "su",
+          "start": 139.16,
+          "end": 139.42
+        },
+        {
+          "word": "amor.",
+          "start": 139.42,
+          "end": 140.92
+        }
+      ],
+      "start": 131.46,
+      "end": 140.92,
+      "confidence": 1.0,
+      "time": 131.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "doquier que el hombre esté,",
+      "words": [
+        {
+          "word": "quieres",
+          "start": 142.04,
+          "end": 143.04
+        },
+        {
+          "word": "que",
+          "start": 143.04,
+          "end": 143.46
+        },
+        {
+          "word": "el",
+          "start": 143.46,
+          "end": 143.64
+        },
+        {
+          "word": "hombre",
+          "start": 143.64,
+          "end": 144.1
+        },
+        {
+          "word": "esté,",
+          "start": 144.1,
+          "end": 145.52
+        }
+      ],
+      "start": 142.04,
+      "end": 145.52,
+      "confidence": 0.966,
+      "time": 142.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "decid que descendió el fiel Consolador.",
+      "words": [
+        {
+          "word": "decid",
+          "start": 146.7,
+          "end": 147.24
+        },
+        {
+          "word": "que",
+          "start": 147.24,
+          "end": 148.06
+        },
+        {
+          "word": "descendió",
+          "start": 148.06,
+          "end": 150.16
+        },
+        {
+          "word": "el",
+          "start": 150.16,
+          "end": 151.3
+        },
+        {
+          "word": "fiel",
+          "start": 151.3,
+          "end": 152.68
+        },
+        {
+          "word": "Consolador.",
+          "start": 152.68,
+          "end": 158.38
+        }
+      ],
+      "start": 146.7,
+      "end": 158.38,
+      "confidence": 1.0,
+      "time": 146.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Es él quien da salud y plena libertad",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Es",
+          "start": 159.84,
+          "end": 161.24
+        },
+        {
+          "word": "él",
+          "start": 161.24,
+          "end": 162.28
+        },
+        {
+          "word": "quien",
+          "start": 162.28,
+          "end": 162.68
+        },
+        {
+          "word": "da",
+          "start": 162.68,
+          "end": 163.02
+        },
+        {
+          "word": "salud",
+          "start": 163.02,
+          "end": 164.66
+        },
+        {
+          "word": "y",
+          "start": 164.66,
+          "end": 165.94
+        },
+        {
+          "word": "plena",
+          "start": 165.94,
+          "end": 167.32
+        },
+        {
+          "word": "libertad",
+          "start": 167.32,
+          "end": 169.68
+        }
+      ],
+      "start": 159.84,
+      "end": 169.68,
+      "confidence": 1.0,
+      "time": 159.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "a los que encadenó el fiero tentador;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 169.68,
+          "end": 170.48
+        },
+        {
+          "word": "los",
+          "start": 170.48,
+          "end": 171.46
+        },
+        {
+          "word": "que",
+          "start": 171.46,
+          "end": 171.84
+        },
+        {
+          "word": "encadenó",
+          "start": 171.84,
+          "end": 174.14
+        },
+        {
+          "word": "el",
+          "start": 174.14,
+          "end": 175.14
+        },
+        {
+          "word": "fiero",
+          "start": 175.14,
+          "end": 176.52
+        },
+        {
+          "word": "tentador.",
+          "start": 176.52,
+          "end": 178.46
+        }
+      ],
+      "start": 169.68,
+      "end": 178.46,
+      "confidence": 1.0,
+      "time": 169.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "los rotos hierros hoy dirán que vino ya",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Los",
+          "start": 178.46,
+          "end": 179.66
+        },
+        {
+          "word": "rotos",
+          "start": 179.66,
+          "end": 181.32
+        },
+        {
+          "word": "hierros",
+          "start": 181.32,
+          "end": 181.96
+        },
+        {
+          "word": "hoy",
+          "start": 181.96,
+          "end": 183.18
+        },
+        {
+          "word": "dirán",
+          "start": 183.18,
+          "end": 185.34
+        },
+        {
+          "word": "que",
+          "start": 185.34,
+          "end": 185.88
+        },
+        {
+          "word": "vino",
+          "start": 185.88,
+          "end": 186.3
+        },
+        {
+          "word": "ya",
+          "start": 186.3,
+          "end": 188.16
+        }
+      ],
+      "start": 178.46,
+      "end": 188.16,
+      "confidence": 1.0,
+      "time": 178.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "el fiel Consolador.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 188.16,
+          "end": 189.06
+        },
+        {
+          "word": "fiel",
+          "start": 189.06,
+          "end": 190.46
+        },
+        {
+          "word": "Consolador.",
+          "start": 190.46,
+          "end": 196.44
+        }
+      ],
+      "start": 188.16,
+      "end": 196.44,
+      "confidence": 1.0,
+      "time": 188.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Al mundo vino ya el fiel Consolador",
+      "words": [
+        {
+          "word": "Al",
+          "start": 196.44,
+          "end": 198.04
+        },
+        {
+          "word": "mundo",
+          "start": 198.04,
+          "end": 199.48
+        },
+        {
+          "word": "vino",
+          "start": 199.48,
+          "end": 200.18
+        },
+        {
+          "word": "ya",
+          "start": 200.18,
+          "end": 201.58
+        },
+        {
+          "word": "el",
+          "start": 201.58,
+          "end": 202.72
+        },
+        {
+          "word": "fiel",
+          "start": 202.72,
+          "end": 203.84
+        },
+        {
+          "word": "Consolador,",
+          "start": 203.84,
+          "end": 206.16
+        }
+      ],
+      "start": 196.44,
+      "end": 206.68,
+      "confidence": 1.0,
+      "time": 196.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "que Dios nos prometió, la prenda de su amor;",
+      "words": [
+        {
+          "word": "que",
+          "start": 206.68,
+          "end": 207.32
+        },
+        {
+          "word": "Dios",
+          "start": 207.32,
+          "end": 208.36
+        },
+        {
+          "word": "nos",
+          "start": 208.36,
+          "end": 209.02
+        },
+        {
+          "word": "prometió",
+          "start": 209.02,
+          "end": 211.04
+        },
+        {
+          "word": "la",
+          "start": 211.04,
+          "end": 212.18
+        },
+        {
+          "word": "prenda",
+          "start": 212.18,
+          "end": 213.5
+        },
+        {
+          "word": "de",
+          "start": 213.5,
+          "end": 213.9
+        },
+        {
+          "word": "su",
+          "start": 213.9,
+          "end": 214.16
+        },
+        {
+          "word": "amor.",
+          "start": 214.16,
+          "end": 215.46
+        }
+      ],
+      "start": 206.68,
+      "end": 215.46,
+      "confidence": 1.0,
+      "time": 206.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "doquier que el hombre esté,",
+      "words": [
+        {
+          "word": "Doquier",
+          "start": 215.46,
+          "end": 217.56
+        },
+        {
+          "word": "que",
+          "start": 217.56,
+          "end": 218.02
+        },
+        {
+          "word": "el",
+          "start": 218.02,
+          "end": 218.22
+        },
+        {
+          "word": "hombre",
+          "start": 218.22,
+          "end": 218.7
+        },
+        {
+          "word": "esté",
+          "start": 218.7,
+          "end": 220.12
+        }
+      ],
+      "start": 215.46,
+      "end": 220.12,
+      "confidence": 1.0,
+      "time": 215.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "decid que descendió el fiel Consolador.",
+      "words": [
+        {
+          "word": "Decid",
+          "start": 220.12,
+          "end": 222.26
+        },
+        {
+          "word": "que",
+          "start": 222.26,
+          "end": 222.86
+        },
+        {
+          "word": "descendió",
+          "start": 222.86,
+          "end": 224.84
+        },
+        {
+          "word": "El",
+          "start": 224.84,
+          "end": 225.98
+        },
+        {
+          "word": "fiel",
+          "start": 225.98,
+          "end": 227.28
+        },
+        {
+          "word": "consolador",
+          "start": 227.28,
+          "end": 233.48
+        }
+      ],
+      "start": 220.12,
+      "end": 233.48,
+      "confidence": 1.0,
+      "time": 220.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Mi lengua mueve tú, que sepa hablar aquí",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 234.46,
+          "end": 235.74
+        },
+        {
+          "word": "lengua",
+          "start": 235.74,
+          "end": 237.3
+        },
+        {
+          "word": "mueve",
+          "start": 237.3,
+          "end": 238.14
+        },
+        {
+          "word": "tú",
+          "start": 238.14,
+          "end": 239.34
+        },
+        {
+          "word": "Que",
+          "start": 239.34,
+          "end": 240.28
+        },
+        {
+          "word": "sepa",
+          "start": 240.28,
+          "end": 241.76
+        },
+        {
+          "word": "hablar",
+          "start": 241.76,
+          "end": 242.36
+        },
+        {
+          "word": "aquí",
+          "start": 242.36,
+          "end": 243.74
+        }
+      ],
+      "start": 234.46,
+      "end": 243.74,
+      "confidence": 1.0,
+      "time": 234.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "del don que recibí, oh grande Dios de amor,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "del",
+          "start": 243.74,
+          "end": 244.82
+        },
+        {
+          "word": "don",
+          "start": 244.82,
+          "end": 245.86
+        },
+        {
+          "word": "que",
+          "start": 245.86,
+          "end": 246.74
+        },
+        {
+          "word": "recibí,",
+          "start": 246.74,
+          "end": 248.24
+        },
+        {
+          "word": "oh,",
+          "start": 248.96,
+          "end": 249.58
+        },
+        {
+          "word": "grande",
+          "start": 249.98,
+          "end": 250.88
+        },
+        {
+          "word": "Dios",
+          "start": 250.88,
+          "end": 251.4
+        },
+        {
+          "word": "de",
+          "start": 251.4,
+          "end": 251.94
+        },
+        {
+          "word": "amor,",
+          "start": 251.94,
+          "end": 253.06
+        }
+      ],
+      "start": 243.74,
+      "end": 253.06,
+      "confidence": 1.0,
+      "time": 243.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "al renovar en mí la imagen celestial",
+      "verse": 4,
+      "words": [
+        {
+          "word": "al",
+          "start": 254.0,
+          "end": 254.7
+        },
+        {
+          "word": "renovar",
+          "start": 254.7,
+          "end": 256.3
+        },
+        {
+          "word": "en",
+          "start": 256.3,
+          "end": 256.54
+        },
+        {
+          "word": "mí",
+          "start": 256.54,
+          "end": 257.8
+        },
+        {
+          "word": "la",
+          "start": 257.8,
+          "end": 258.68
+        },
+        {
+          "word": "imagen",
+          "start": 258.68,
+          "end": 260.24
+        },
+        {
+          "word": "celestial",
+          "start": 260.24,
+          "end": 262.2
+        }
+      ],
+      "start": 254.0,
+      "end": 262.2,
+      "confidence": 1.0,
+      "time": 254.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "el fiel Consolador.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "el",
+          "start": 262.2,
+          "end": 263.58
+        },
+        {
+          "word": "fiel",
+          "start": 263.58,
+          "end": 265.06
+        },
+        {
+          "word": "consolador.",
+          "start": 265.06,
+          "end": 270.88
+        }
+      ],
+      "start": 262.2,
+      "end": 270.88,
+      "confidence": 1.0,
+      "time": 262.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Al mundo vino ya el fiel Consolador",
+      "words": [
+        {
+          "word": "Al",
+          "start": 270.88,
+          "end": 272.58
+        },
+        {
+          "word": "mundo",
+          "start": 272.58,
+          "end": 274.04
+        },
+        {
+          "word": "vino",
+          "start": 274.04,
+          "end": 274.74
+        },
+        {
+          "word": "ya",
+          "start": 274.74,
+          "end": 276.22
+        },
+        {
+          "word": "el",
+          "start": 276.22,
+          "end": 277.42
+        },
+        {
+          "word": "fiel",
+          "start": 277.42,
+          "end": 278.4
+        },
+        {
+          "word": "Consolador,",
+          "start": 278.4,
+          "end": 280.68
+        }
+      ],
+      "start": 270.88,
+      "end": 281.22,
+      "confidence": 1.0,
+      "time": 270.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "que Dios nos prometió, la prenda de su amor;",
+      "words": [
+        {
+          "word": "que",
+          "start": 281.22,
+          "end": 281.92
+        },
+        {
+          "word": "Dios",
+          "start": 281.92,
+          "end": 282.96
+        },
+        {
+          "word": "nos",
+          "start": 282.96,
+          "end": 283.66
+        },
+        {
+          "word": "prometió",
+          "start": 283.66,
+          "end": 285.56
+        },
+        {
+          "word": "la",
+          "start": 285.56,
+          "end": 286.74
+        },
+        {
+          "word": "prenda",
+          "start": 286.74,
+          "end": 288.08
+        },
+        {
+          "word": "de",
+          "start": 288.08,
+          "end": 288.4
+        },
+        {
+          "word": "su",
+          "start": 288.4,
+          "end": 288.8
+        },
+        {
+          "word": "amor.",
+          "start": 288.8,
+          "end": 289.98
+        }
+      ],
+      "start": 281.22,
+      "end": 289.98,
+      "confidence": 1.0,
+      "time": 281.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "doquier que el hombre esté,",
+      "words": [
+        {
+          "word": "quiere",
+          "start": 291.26,
+          "end": 292.32
+        },
+        {
+          "word": "que",
+          "start": 292.32,
+          "end": 292.74
+        },
+        {
+          "word": "el",
+          "start": 292.74,
+          "end": 292.9
+        },
+        {
+          "word": "hombre",
+          "start": 292.9,
+          "end": 293.38
+        },
+        {
+          "word": "esté,",
+          "start": 293.38,
+          "end": 294.76
+        }
+      ],
+      "start": 291.26,
+      "end": 295.72,
+      "confidence": 0.972,
+      "time": 291.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "decid que descendió el fiel Consolador.",
+      "words": [
+        {
+          "word": "decir",
+          "start": 295.72,
+          "end": 296.7
+        },
+        {
+          "word": "que",
+          "start": 296.7,
+          "end": 297.42
+        },
+        {
+          "word": "descendió",
+          "start": 297.42,
+          "end": 299.38
+        },
+        {
+          "word": "el",
+          "start": 299.38,
+          "end": 300.72
+        },
+        {
+          "word": "fiel",
+          "start": 300.72,
+          "end": 302.4
+        },
+        {
+          "word": "Consolador.",
+          "start": 302.4,
+          "end": 307.1
+        }
+      ],
+      "start": 295.72,
+      "end": 307.1,
+      "confidence": 0.98,
+      "time": 295.72
+    }
+  ]
+}

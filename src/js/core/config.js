@@ -1,6 +1,8 @@
 const API_CONFIG = {
   baseUrl: "/data/himnario-api.json",
-  audioBaseUrl: "/data",
+  dataBaseUrl: "/data",
+  // URL pública, sin credenciales. Puede sustituirse por un dominio propio.
+  audioBaseUrl: "https://pub-1ca54579e235492c815179e37558122a.r2.dev/data/audios/",
   timeout: 10000,
 };
 

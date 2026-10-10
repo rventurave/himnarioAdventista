@@ -1,0 +1,386 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.997,
+  "language": "es",
+  "model": "medium",
+  "hymn": 196,
+  "source": "196 - Santo Espiritu de Dios.mp3",
+  "duration": 117.68,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Santo Espíritu de Dios",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Santu",
+          "start": 12.22,
+          "end": 13.62
+        },
+        {
+          "word": "Espíritu",
+          "start": 13.62,
+          "end": 15.02
+        },
+        {
+          "word": "de",
+          "start": 15.02,
+          "end": 15.9
+        },
+        {
+          "word": "Dios,",
+          "start": 15.9,
+          "end": 17.64
+        }
+      ],
+      "start": 12.22,
+      "end": 18.02,
+      "confidence": 0.97,
+      "time": 12.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "brilla en mi corazón;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "brilla",
+          "start": 18.02,
+          "end": 19.64
+        },
+        {
+          "word": "en",
+          "start": 19.64,
+          "end": 21.3
+        },
+        {
+          "word": "mi",
+          "start": 21.3,
+          "end": 22.38
+        },
+        {
+          "word": "corazón,",
+          "start": 22.38,
+          "end": 25.56
+        }
+      ],
+      "start": 18.02,
+      "end": 25.56,
+      "confidence": 1.0,
+      "time": 18.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "vuelve en día la oscuridad",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Vuelve",
+          "start": 25.56,
+          "end": 28.12
+        },
+        {
+          "word": "en",
+          "start": 28.12,
+          "end": 28.48
+        },
+        {
+          "word": "día",
+          "start": 28.48,
+          "end": 29.38
+        },
+        {
+          "word": "la",
+          "start": 29.38,
+          "end": 30.12
+        },
+        {
+          "word": "oscuridad",
+          "start": 30.12,
+          "end": 33.92
+        }
+      ],
+      "start": 25.56,
+      "end": 33.92,
+      "confidence": 1.0,
+      "time": 25.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de mi noche de aflicción.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 33.92,
+          "end": 35.72
+        },
+        {
+          "word": "mi",
+          "start": 35.72,
+          "end": 36.36
+        },
+        {
+          "word": "noche",
+          "start": 36.36,
+          "end": 38.14
+        },
+        {
+          "word": "de",
+          "start": 38.14,
+          "end": 39.84
+        },
+        {
+          "word": "aflicción.",
+          "start": 39.84,
+          "end": 42.84
+        }
+      ],
+      "start": 33.92,
+      "end": 42.84,
+      "confidence": 1.0,
+      "time": 33.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Poderoso Espíritu,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Poderoso",
+          "start": 49.46,
+          "end": 50.86
+        },
+        {
+          "word": "Espíritu,",
+          "start": 50.86,
+          "end": 52.26
+        }
+      ],
+      "start": 49.46,
+      "end": 52.44,
+      "confidence": 1.0,
+      "time": 49.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "limpia este corazón,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "limpia",
+          "start": 52.44,
+          "end": 54.64
+        },
+        {
+          "word": "este",
+          "start": 54.64,
+          "end": 56.56
+        },
+        {
+          "word": "corazón,",
+          "start": 56.56,
+          "end": 60.22
+        }
+      ],
+      "start": 52.44,
+      "end": 60.22,
+      "confidence": 1.0,
+      "time": 52.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "porque sobre mi alma el mal",
+      "verse": 2,
+      "words": [
+        {
+          "word": "porque",
+          "start": 60.22,
+          "end": 62.28
+        },
+        {
+          "word": "sobre",
+          "start": 62.28,
+          "end": 64.62
+        },
+        {
+          "word": "mi",
+          "start": 64.62,
+          "end": 65.52
+        },
+        {
+          "word": "alma",
+          "start": 65.52,
+          "end": 66.68
+        },
+        {
+          "word": "el",
+          "start": 66.68,
+          "end": 67.1
+        },
+        {
+          "word": "mal",
+          "start": 67.1,
+          "end": 68.78
+        }
+      ],
+      "start": 60.22,
+      "end": 68.78,
+      "confidence": 1.0,
+      "time": 60.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "ejerció cruel opresión.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ejerció",
+          "start": 68.78,
+          "end": 72.14
+        },
+        {
+          "word": "cruel",
+          "start": 72.14,
+          "end": 73.34
+        },
+        {
+          "word": "opresión.",
+          "start": 73.34,
+          "end": 77.5
+        }
+      ],
+      "start": 68.78,
+      "end": 77.5,
+      "confidence": 1.0,
+      "time": 68.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Oh, divino Espíritu,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 77.5,
+          "end": 80.3
+        },
+        {
+          "word": "Divino",
+          "start": 80.86,
+          "end": 82.64
+        },
+        {
+          "word": "Espíritu,",
+          "start": 82.64,
+          "end": 87.08
+        }
+      ],
+      "start": 77.5,
+      "end": 88.38,
+      "confidence": 1.0,
+      "time": 77.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mora en mi corazón.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mora",
+          "start": 88.38,
+          "end": 89.5
+        },
+        {
+          "word": "en",
+          "start": 89.5,
+          "end": 90.68
+        },
+        {
+          "word": "mi",
+          "start": 90.68,
+          "end": 91.5
+        },
+        {
+          "word": "corazón,",
+          "start": 91.5,
+          "end": 94.86
+        }
+      ],
+      "start": 88.38,
+      "end": 94.86,
+      "confidence": 1.0,
+      "time": 88.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Quita todo ídolo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "quita",
+          "start": 94.86,
+          "end": 97.34
+        },
+        {
+          "word": "todo",
+          "start": 97.34,
+          "end": 99.66
+        },
+        {
+          "word": "ídolo,",
+          "start": 99.66,
+          "end": 103.26
+        }
+      ],
+      "start": 94.86,
+      "end": 104.32,
+      "confidence": 1.0,
+      "time": 94.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "reina en plena posesión.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "reina",
+          "start": 104.32,
+          "end": 105.5
+        },
+        {
+          "word": "en",
+          "start": 105.5,
+          "end": 106.06
+        },
+        {
+          "word": "plena",
+          "start": 106.06,
+          "end": 108.14
+        },
+        {
+          "word": "posesión.",
+          "start": 108.14,
+          "end": 113.28
+        }
+      ],
+      "start": 104.32,
+      "end": 113.28,
+      "confidence": 1.0,
+      "time": 104.32
+    }
+  ]
+}

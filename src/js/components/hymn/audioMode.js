@@ -22,6 +22,7 @@ let activeIndex = -1;
 let listView = false;
 let listenersBound = false;
 let pendingSeek = null;
+let audioFailed = false;
 
 let syncedMode = false;
 let hasLyrics = false;
@@ -39,6 +40,8 @@ export async function start(hymn, mode) {
   analysisController?.abort();
   analysisController = new AbortController();
   clearIntroTimer();
+  resetAudio();
+  audioFailed = false;
   view.renderSection("");
 
   lines = [];
@@ -94,6 +97,13 @@ export async function start(hymn, mode) {
     playback = { lines: [] };
   }
   if (token !== loadToken) return;
+  if (audioFailed) {
+    await prepareUnsyncedContent(hymn, token);
+    if (token !== loadToken) return;
+    introReady = true;
+    enterContent();
+    return;
+  }
   if (playback.lines.length) {
     syncedMode = true;
     lines = playback.lines;
@@ -137,7 +147,7 @@ export function togglePlayback() {
   }
 
   if (audio.paused) {
-    audio.play().catch(() => {});
+    attemptAutoplay();
     view.flashState("▶");
   } else {
     audio.pause();
@@ -240,11 +250,17 @@ function clearIntroTimer() {
 ======================================== */
 
 function attemptAutoplay() {
+  const token = loadToken;
   try {
     const playback = audio.play();
 
     if (playback && typeof playback.catch === "function") {
-      playback.catch(() => {
+      playback.catch((error) => {
+        if (token !== loadToken || error.name === "AbortError") return;
+        if (error.name !== "NotAllowedError") {
+          handleAudioError();
+          return;
+        }
         //Autoplay bloqueado: ofrecemos un botón,sin romper nada.
         if (state !== "idle") {
           view.showStartButton(true);
@@ -271,6 +287,10 @@ function bindListeners() {
   if (listenersBound) {
     return;
   }
+
+  audio.addEventListener("error", () => {
+    if (audio.hasAttribute("src") && audio.error && state !== "idle") handleAudioError();
+  });
 
   audio.addEventListener("timeupdate", () => {
     maybeEnterContent();
@@ -376,6 +396,14 @@ function resetAudio() {
 
   pendingSeek = null;
   activeIndex = -1;
+}
+
+function handleAudioError() {
+  audioFailed = true;
+  audio.pause();
+  view.showStartButton(false);
+  view.renderNotice("No se pudo reproducir el audio. Comprueba tu conexión o la disponibilidad del archivo.");
+  if (introReady) enterContent();
 }
 
 //Respaldo cuando no se pueden obtener tiempos: letra completa sin resaltado.

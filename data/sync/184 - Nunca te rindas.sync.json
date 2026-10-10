@@ -1,0 +1,651 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.957,
+  "language": "es",
+  "model": "medium",
+  "hymn": 184,
+  "source": "184 - Nunca te rindas.mp3",
+  "duration": 134.37,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Días hay, lo sé, en que triste te sientes",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Días",
+          "start": 7.24,
+          "end": 8.64
+        },
+        {
+          "word": "ser",
+          "start": 10.44,
+          "end": 11.36
+        },
+        {
+          "word": "en",
+          "start": 11.36,
+          "end": 12.0
+        },
+        {
+          "word": "que",
+          "start": 12.0,
+          "end": 12.18
+        },
+        {
+          "word": "triste",
+          "start": 12.18,
+          "end": 13.12
+        },
+        {
+          "word": "te",
+          "start": 13.12,
+          "end": 14.16
+        },
+        {
+          "word": "sientes",
+          "start": 14.16,
+          "end": 15.44
+        }
+      ],
+      "start": 7.24,
+      "end": 15.44,
+      "confidence": 0.764,
+      "time": 7.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y sin esperanza estás.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 15.44,
+          "end": 16.0
+        },
+        {
+          "word": "sin",
+          "start": 16.0,
+          "end": 17.4
+        },
+        {
+          "word": "esperanza",
+          "start": 17.4,
+          "end": 19.28
+        },
+        {
+          "word": "estás.",
+          "start": 19.28,
+          "end": 22.42
+        }
+      ],
+      "start": 15.44,
+      "end": 22.42,
+      "confidence": 1.0,
+      "time": 15.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Pero existe un Dios que promete ayudarte,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Pero",
+          "start": 22.42,
+          "end": 23.42
+        },
+        {
+          "word": "existe",
+          "start": 23.42,
+          "end": 25.14
+        },
+        {
+          "word": "un",
+          "start": 25.14,
+          "end": 25.52
+        },
+        {
+          "word": "Dios",
+          "start": 25.52,
+          "end": 26.4
+        },
+        {
+          "word": "que",
+          "start": 26.4,
+          "end": 27.16
+        },
+        {
+          "word": "promete",
+          "start": 27.16,
+          "end": 28.46
+        },
+        {
+          "word": "ayudarte",
+          "start": 28.46,
+          "end": 30.58
+        }
+      ],
+      "start": 22.42,
+      "end": 30.58,
+      "confidence": 1.0,
+      "time": 22.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y fuerzas tu alma tendrá.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 30.58,
+          "end": 31.12
+        },
+        {
+          "word": "fuerzas",
+          "start": 31.12,
+          "end": 32.36
+        },
+        {
+          "word": "tu",
+          "start": 32.36,
+          "end": 33.08
+        },
+        {
+          "word": "alma",
+          "start": 33.08,
+          "end": 34.22
+        },
+        {
+          "word": "tendrá.",
+          "start": 34.22,
+          "end": 37.64
+        }
+      ],
+      "start": 30.58,
+      "end": 37.64,
+      "confidence": 1.0,
+      "time": 30.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Nunca te rindas, Cristo ya viene,",
+      "words": [
+        {
+          "word": "Nunca",
+          "start": 37.64,
+          "end": 38.56
+        },
+        {
+          "word": "te",
+          "start": 38.56,
+          "end": 39.28
+        },
+        {
+          "word": "rindas,",
+          "start": 39.28,
+          "end": 40.66
+        },
+        {
+          "word": "Cristo",
+          "start": 41.24,
+          "end": 41.64
+        },
+        {
+          "word": "ya",
+          "start": 41.64,
+          "end": 42.62
+        },
+        {
+          "word": "viene,",
+          "start": 42.62,
+          "end": 44.58
+        }
+      ],
+      "start": 37.64,
+      "end": 45.78,
+      "confidence": 1.0,
+      "time": 37.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y su rostro pronto verás.",
+      "words": [
+        {
+          "word": "y",
+          "start": 45.78,
+          "end": 46.04
+        },
+        {
+          "word": "su",
+          "start": 46.04,
+          "end": 46.3
+        },
+        {
+          "word": "rostro",
+          "start": 46.3,
+          "end": 48.12
+        },
+        {
+          "word": "pronto",
+          "start": 48.12,
+          "end": 49.38
+        },
+        {
+          "word": "verás.",
+          "start": 49.38,
+          "end": 52.9
+        }
+      ],
+      "start": 45.78,
+      "end": 52.9,
+      "confidence": 1.0,
+      "time": 45.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Nunca te rindas, Cristo ya viene;",
+      "words": [
+        {
+          "word": "Nunca",
+          "start": 52.9,
+          "end": 53.66
+        },
+        {
+          "word": "te",
+          "start": 53.66,
+          "end": 54.12
+        },
+        {
+          "word": "rindas,",
+          "start": 54.12,
+          "end": 55.78
+        },
+        {
+          "word": "Cristo",
+          "start": 56.34,
+          "end": 56.96
+        },
+        {
+          "word": "ya",
+          "start": 56.96,
+          "end": 57.82
+        },
+        {
+          "word": "viene,",
+          "start": 57.82,
+          "end": 60.26
+        }
+      ],
+      "start": 52.9,
+      "end": 60.26,
+      "confidence": 1.0,
+      "time": 52.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "nos llevará a su hogar.",
+      "words": [
+        {
+          "word": "llevará",
+          "start": 61.1,
+          "end": 63.14
+        },
+        {
+          "word": "a",
+          "start": 63.14,
+          "end": 64.02
+        },
+        {
+          "word": "su",
+          "start": 64.02,
+          "end": 64.74
+        }
+      ],
+      "start": 61.1,
+      "end": 68.64,
+      "confidence": 0.6,
+      "time": 61.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Este mundo cruel no será para siempre,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Este",
+          "start": 69.34,
+          "end": 69.8
+        },
+        {
+          "word": "mundo",
+          "start": 69.8,
+          "end": 71.5
+        },
+        {
+          "word": "cruel",
+          "start": 71.5,
+          "end": 72.46
+        },
+        {
+          "word": "no",
+          "start": 72.46,
+          "end": 73.22
+        },
+        {
+          "word": "será",
+          "start": 73.22,
+          "end": 74.02
+        },
+        {
+          "word": "para",
+          "start": 74.02,
+          "end": 75.3
+        },
+        {
+          "word": "siempre,",
+          "start": 75.3,
+          "end": 76.38
+        }
+      ],
+      "start": 69.34,
+      "end": 76.38,
+      "confidence": 1.0,
+      "time": 69.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "el mal pronto terminará;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 76.38,
+          "end": 77.26
+        },
+        {
+          "word": "mal",
+          "start": 77.26,
+          "end": 78.4
+        },
+        {
+          "word": "pronto",
+          "start": 78.4,
+          "end": 79.06
+        },
+        {
+          "word": "terminará.",
+          "start": 79.06,
+          "end": 83.68
+        }
+      ],
+      "start": 76.38,
+      "end": 83.68,
+      "confidence": 1.0,
+      "time": 76.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y mi fe en Jesús cada día es más fuerte,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Y",
+          "start": 84.22,
+          "end": 84.62
+        },
+        {
+          "word": "mi",
+          "start": 84.62,
+          "end": 84.94
+        },
+        {
+          "word": "fe",
+          "start": 84.94,
+          "end": 86.1
+        },
+        {
+          "word": "en",
+          "start": 86.1,
+          "end": 86.52
+        },
+        {
+          "word": "Jesús",
+          "start": 86.52,
+          "end": 87.68
+        },
+        {
+          "word": "cada",
+          "start": 87.68,
+          "end": 88.56
+        },
+        {
+          "word": "día",
+          "start": 88.56,
+          "end": 89.46
+        },
+        {
+          "word": "es",
+          "start": 89.46,
+          "end": 89.86
+        },
+        {
+          "word": "más",
+          "start": 89.86,
+          "end": 90.54
+        },
+        {
+          "word": "fuerte",
+          "start": 90.54,
+          "end": 91.58
+        }
+      ],
+      "start": 84.22,
+      "end": 91.58,
+      "confidence": 1.0,
+      "time": 84.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pues sé que Jesús volverá.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pues",
+          "start": 91.58,
+          "end": 92.36
+        },
+        {
+          "word": "sé",
+          "start": 92.36,
+          "end": 93.26
+        },
+        {
+          "word": "que",
+          "start": 93.26,
+          "end": 93.92
+        },
+        {
+          "word": "Jesús",
+          "start": 93.92,
+          "end": 94.8
+        },
+        {
+          "word": "volverá.",
+          "start": 94.8,
+          "end": 98.38
+        }
+      ],
+      "start": 91.58,
+      "end": 98.38,
+      "confidence": 1.0,
+      "time": 91.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Nunca te rindas, Cristo ya viene,",
+      "words": [
+        {
+          "word": "Nunca",
+          "start": 99.42,
+          "end": 99.88
+        },
+        {
+          "word": "te",
+          "start": 99.88,
+          "end": 100.26
+        },
+        {
+          "word": "rindas,",
+          "start": 100.26,
+          "end": 101.9
+        },
+        {
+          "word": "Cristo",
+          "start": 102.28,
+          "end": 102.98
+        },
+        {
+          "word": "Ya",
+          "start": 102.98,
+          "end": 103.76
+        },
+        {
+          "word": "viene",
+          "start": 103.76,
+          "end": 105.76
+        }
+      ],
+      "start": 99.42,
+      "end": 105.76,
+      "confidence": 1.0,
+      "time": 99.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y su rostro pronto verás.",
+      "words": [
+        {
+          "word": "y",
+          "start": 105.76,
+          "end": 107.26
+        },
+        {
+          "word": "su",
+          "start": 107.26,
+          "end": 107.54
+        },
+        {
+          "word": "rostro",
+          "start": 107.54,
+          "end": 109.38
+        },
+        {
+          "word": "pronto",
+          "start": 109.38,
+          "end": 110.42
+        },
+        {
+          "word": "verás",
+          "start": 110.42,
+          "end": 114.3
+        }
+      ],
+      "start": 105.76,
+      "end": 114.3,
+      "confidence": 1.0,
+      "time": 105.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Nunca te rindas, Cristo ya viene;",
+      "words": [
+        {
+          "word": "Nunca",
+          "start": 114.3,
+          "end": 114.92
+        },
+        {
+          "word": "te",
+          "start": 114.92,
+          "end": 115.34
+        },
+        {
+          "word": "rindas",
+          "start": 115.34,
+          "end": 117.04
+        },
+        {
+          "word": "Cristo",
+          "start": 117.04,
+          "end": 118.04
+        },
+        {
+          "word": "Ya",
+          "start": 118.04,
+          "end": 119.0
+        },
+        {
+          "word": "viene,",
+          "start": 119.0,
+          "end": 121.54
+        }
+      ],
+      "start": 114.3,
+      "end": 122.22,
+      "confidence": 1.0,
+      "time": 114.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "nos llevará a su hogar.",
+      "words": [
+        {
+          "word": "nos",
+          "start": 122.22,
+          "end": 122.4
+        },
+        {
+          "word": "llevará",
+          "start": 122.4,
+          "end": 124.76
+        },
+        {
+          "word": "a",
+          "start": 124.76,
+          "end": 125.58
+        },
+        {
+          "word": "su",
+          "start": 125.58,
+          "end": 126.46
+        },
+        {
+          "word": "hogar",
+          "start": 126.46,
+          "end": 129.16
+        }
+      ],
+      "start": 122.22,
+      "end": 129.16,
+      "confidence": 1.0,
+      "time": 122.22
+    }
+  ]
+}

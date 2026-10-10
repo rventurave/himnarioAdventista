@@ -1,0 +1,863 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.947,
+  "language": "es",
+  "model": "medium",
+  "hymn": 173,
+  "source": "173 - Sera al albor.mp3",
+  "duration": 192.63,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Será al albor, cuando el día despierta",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Será",
+          "start": 15.94,
+          "end": 17.34
+        },
+        {
+          "word": "albor",
+          "start": 18.7,
+          "end": 19.98
+        },
+        {
+          "word": "cuando",
+          "start": 19.98,
+          "end": 20.62
+        },
+        {
+          "word": "el",
+          "start": 20.62,
+          "end": 21.26
+        },
+        {
+          "word": "día",
+          "start": 21.26,
+          "end": 22.12
+        },
+        {
+          "word": "despierta",
+          "start": 22.12,
+          "end": 24.4
+        }
+      ],
+      "start": 15.94,
+      "end": 24.4,
+      "confidence": 0.857,
+      "time": 15.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y el sol cada sombra nocturna ahuyenta?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 24.4,
+          "end": 25.36
+        },
+        {
+          "word": "el",
+          "start": 25.36,
+          "end": 25.76
+        },
+        {
+          "word": "sol",
+          "start": 25.76,
+          "end": 26.2
+        },
+        {
+          "word": "cada",
+          "start": 26.2,
+          "end": 27.46
+        },
+        {
+          "word": "sombra",
+          "start": 27.46,
+          "end": 29.32
+        },
+        {
+          "word": "nocturna.",
+          "start": 29.32,
+          "end": 29.98
+        }
+      ],
+      "start": 24.4,
+      "end": 29.98,
+      "confidence": 0.857,
+      "time": 24.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Será al albor cuando en toda su gloria",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 36.52,
+          "end": 37.92
+        },
+        {
+          "word": "toda",
+          "start": 37.92,
+          "end": 39.32
+        },
+        {
+          "word": "su",
+          "start": 39.32,
+          "end": 40.16
+        },
+        {
+          "word": "gloria",
+          "start": 40.16,
+          "end": 41.46
+        }
+      ],
+      "start": 36.52,
+      "end": 41.46,
+      "confidence": 0.5,
+      "time": 36.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "volverá a la tierra Jesús?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "volverá",
+          "start": 41.46,
+          "end": 43.74
+        },
+        {
+          "word": "a",
+          "start": 43.74,
+          "end": 44.1
+        },
+        {
+          "word": "la",
+          "start": 44.1,
+          "end": 44.38
+        },
+        {
+          "word": "tierra",
+          "start": 44.38,
+          "end": 45.1
+        },
+        {
+          "word": "Jesús.",
+          "start": 45.8,
+          "end": 47.96
+        }
+      ],
+      "start": 41.46,
+      "end": 47.96,
+      "confidence": 1.0,
+      "time": 41.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¿Cuánto aún faltará, Señor,",
+      "words": [
+        {
+          "word": "Cuanto",
+          "start": 49.0,
+          "end": 50.04
+        },
+        {
+          "word": "aún",
+          "start": 50.04,
+          "end": 50.72
+        },
+        {
+          "word": "faltará",
+          "start": 50.72,
+          "end": 53.32
+        },
+        {
+          "word": "Señor",
+          "start": 53.76,
+          "end": 55.36
+        }
+      ],
+      "start": 49.0,
+      "end": 55.36,
+      "confidence": 1.0,
+      "time": 49.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "hasta que cante así:",
+      "words": [
+        {
+          "word": "hasta",
+          "start": 55.36,
+          "end": 56.3
+        },
+        {
+          "word": "que",
+          "start": 56.3,
+          "end": 56.9
+        },
+        {
+          "word": "cante",
+          "start": 56.9,
+          "end": 57.78
+        },
+        {
+          "word": "así",
+          "start": 57.78,
+          "end": 59.18
+        }
+      ],
+      "start": 55.36,
+      "end": 59.18,
+      "confidence": 1.0,
+      "time": 55.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "\"Cristo vuelve, ¡aleluya! ¡aleluya! Amén.",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 59.18,
+          "end": 60.12
+        },
+        {
+          "word": "vuelve,",
+          "start": 60.12,
+          "end": 61.68
+        },
+        {
+          "word": "Aleluya,",
+          "start": 61.88,
+          "end": 63.18
+        },
+        {
+          "word": "Aleluya",
+          "start": 63.68,
+          "end": 65.64
+        },
+        {
+          "word": "Amén,",
+          "start": 65.64,
+          "end": 67.48
+        }
+      ],
+      "start": 59.18,
+      "end": 67.48,
+      "confidence": 1.0,
+      "time": 59.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Aleluya! Amén\"?",
+      "words": [
+        {
+          "word": "Aleluya",
+          "start": 67.48,
+          "end": 69.64
+        },
+        {
+          "word": "Amén.",
+          "start": 69.64,
+          "end": 73.42
+        }
+      ],
+      "start": 67.48,
+      "end": 73.42,
+      "confidence": 1.0,
+      "time": 67.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Trompeta triunfal todos pronto oiremos;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Trompeta",
+          "start": 73.42,
+          "end": 75.5
+        },
+        {
+          "word": "triunfal,",
+          "start": 75.5,
+          "end": 77.36
+        },
+        {
+          "word": "todos",
+          "start": 77.72,
+          "end": 78.18
+        },
+        {
+          "word": "pronto",
+          "start": 78.18,
+          "end": 79.44
+        },
+        {
+          "word": "oiremos,",
+          "start": 79.44,
+          "end": 82.0
+        }
+      ],
+      "start": 73.42,
+      "end": 82.36,
+      "confidence": 1.0,
+      "time": 73.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "su escolta de ángeles santos veremos;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Su",
+          "start": 82.36,
+          "end": 82.82
+        },
+        {
+          "word": "escolta",
+          "start": 82.82,
+          "end": 84.24
+        },
+        {
+          "word": "de",
+          "start": 84.24,
+          "end": 85.62
+        },
+        {
+          "word": "ángeles",
+          "start": 85.62,
+          "end": 86.74
+        },
+        {
+          "word": "santos",
+          "start": 86.74,
+          "end": 88.14
+        },
+        {
+          "word": "veremos,",
+          "start": 88.14,
+          "end": 90.5
+        }
+      ],
+      "start": 82.36,
+      "end": 90.5,
+      "confidence": 1.0,
+      "time": 82.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "su sien coronada de luz miraremos",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Su",
+          "start": 90.5,
+          "end": 91.56
+        },
+        {
+          "word": "cien",
+          "start": 91.56,
+          "end": 92.5
+        },
+        {
+          "word": "coronada",
+          "start": 92.5,
+          "end": 95.18
+        },
+        {
+          "word": "de",
+          "start": 95.18,
+          "end": 95.7
+        },
+        {
+          "word": "luz",
+          "start": 95.7,
+          "end": 96.48
+        },
+        {
+          "word": "miraremos",
+          "start": 96.48,
+          "end": 98.56
+        }
+      ],
+      "start": 90.5,
+      "end": 98.56,
+      "confidence": 0.975,
+      "time": 90.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "cuando venga en gloria Jesús.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 98.56,
+          "end": 99.48
+        },
+        {
+          "word": "venga",
+          "start": 99.48,
+          "end": 101.28
+        },
+        {
+          "word": "en",
+          "start": 101.28,
+          "end": 101.74
+        },
+        {
+          "word": "gloria",
+          "start": 101.74,
+          "end": 102.58
+        },
+        {
+          "word": "Jesús.",
+          "start": 103.24,
+          "end": 105.2
+        }
+      ],
+      "start": 98.56,
+      "end": 105.2,
+      "confidence": 1.0,
+      "time": 98.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¿Cuánto aún faltará, Señor,",
+      "words": [
+        {
+          "word": "Cuanto",
+          "start": 106.32,
+          "end": 107.4
+        },
+        {
+          "word": "aún",
+          "start": 107.4,
+          "end": 108.12
+        },
+        {
+          "word": "faltará,",
+          "start": 108.12,
+          "end": 110.82
+        },
+        {
+          "word": "Señor,",
+          "start": 110.82,
+          "end": 112.8
+        }
+      ],
+      "start": 106.32,
+      "end": 113.06,
+      "confidence": 1.0,
+      "time": 106.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "hasta que cante así:",
+      "words": [
+        {
+          "word": "hasta",
+          "start": 113.06,
+          "end": 113.66
+        },
+        {
+          "word": "que",
+          "start": 113.66,
+          "end": 114.3
+        },
+        {
+          "word": "cante",
+          "start": 114.3,
+          "end": 115.1
+        },
+        {
+          "word": "así.",
+          "start": 115.1,
+          "end": 116.4
+        }
+      ],
+      "start": 113.06,
+      "end": 116.4,
+      "confidence": 1.0,
+      "time": 113.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "\"Cristo vuelve, ¡aleluya! ¡aleluya! Amén.",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 116.4,
+          "end": 117.44
+        },
+        {
+          "word": "vuelve,",
+          "start": 117.44,
+          "end": 118.96
+        },
+        {
+          "word": "Aleluya,",
+          "start": 119.2,
+          "end": 120.54
+        },
+        {
+          "word": "Aleluya,",
+          "start": 121.04,
+          "end": 122.92
+        },
+        {
+          "word": "Amén,",
+          "start": 123.0,
+          "end": 124.76
+        }
+      ],
+      "start": 116.4,
+      "end": 124.82,
+      "confidence": 1.0,
+      "time": 116.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Aleluya! Amén\"?",
+      "words": [
+        {
+          "word": "Aleluya,",
+          "start": 124.82,
+          "end": 126.86
+        },
+        {
+          "word": "Amén.",
+          "start": 127.14,
+          "end": 130.38
+        }
+      ],
+      "start": 124.82,
+      "end": 130.38,
+      "confidence": 1.0,
+      "time": 124.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Qué gozo habrá cuando acabe la muerte!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Que",
+          "start": 130.96,
+          "end": 131.56
+        },
+        {
+          "word": "bozo",
+          "start": 131.56,
+          "end": 132.9
+        },
+        {
+          "word": "habrá",
+          "start": 132.9,
+          "end": 134.74
+        },
+        {
+          "word": "cuando",
+          "start": 134.74,
+          "end": 135.3
+        },
+        {
+          "word": "acabe",
+          "start": 135.3,
+          "end": 136.62
+        },
+        {
+          "word": "la",
+          "start": 136.62,
+          "end": 137.5
+        },
+        {
+          "word": "muerte,",
+          "start": 137.5,
+          "end": 139.02
+        }
+      ],
+      "start": 130.96,
+      "end": 139.02,
+      "confidence": 0.979,
+      "time": 130.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Vivir sin dolor tocaranos en suerte;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Vivir",
+          "start": 139.02,
+          "end": 140.84
+        },
+        {
+          "word": "sin",
+          "start": 140.84,
+          "end": 141.48
+        },
+        {
+          "word": "dolor",
+          "start": 141.48,
+          "end": 143.3
+        },
+        {
+          "word": "tocará",
+          "start": 143.3,
+          "end": 144.98
+        },
+        {
+          "word": "en",
+          "start": 145.46,
+          "end": 146.18
+        },
+        {
+          "word": "suerte,",
+          "start": 146.18,
+          "end": 147.98
+        }
+      ],
+      "start": 139.02,
+      "end": 148.56,
+      "confidence": 0.99,
+      "time": 139.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "las penas y el mal quitará el Dios fuerte",
+      "verse": 3,
+      "words": [
+        {
+          "word": "las",
+          "start": 148.56,
+          "end": 149.0
+        },
+        {
+          "word": "penas",
+          "start": 149.0,
+          "end": 150.16
+        },
+        {
+          "word": "y",
+          "start": 150.16,
+          "end": 150.72
+        },
+        {
+          "word": "el",
+          "start": 150.72,
+          "end": 151.12
+        },
+        {
+          "word": "mal",
+          "start": 151.12,
+          "end": 152.04
+        },
+        {
+          "word": "quitará",
+          "start": 152.04,
+          "end": 153.9
+        },
+        {
+          "word": "el",
+          "start": 153.9,
+          "end": 154.24
+        },
+        {
+          "word": "Dios",
+          "start": 154.24,
+          "end": 154.74
+        },
+        {
+          "word": "fuerte,",
+          "start": 154.74,
+          "end": 155.84
+        }
+      ],
+      "start": 148.56,
+      "end": 155.84,
+      "confidence": 1.0,
+      "time": 148.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "cuando venga en gloria Jesús.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 155.84,
+          "end": 156.8
+        },
+        {
+          "word": "venga",
+          "start": 156.8,
+          "end": 158.62
+        },
+        {
+          "word": "en",
+          "start": 158.62,
+          "end": 159.1
+        },
+        {
+          "word": "gloria",
+          "start": 159.1,
+          "end": 159.9
+        },
+        {
+          "word": "Jesús,",
+          "start": 159.9,
+          "end": 162.62
+        }
+      ],
+      "start": 155.84,
+      "end": 162.62,
+      "confidence": 1.0,
+      "time": 155.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¿Cuánto aún faltará, Señor,",
+      "words": [
+        {
+          "word": "cuanto",
+          "start": 164.02,
+          "end": 164.62
+        },
+        {
+          "word": "aún",
+          "start": 164.62,
+          "end": 165.56
+        },
+        {
+          "word": "faltará,",
+          "start": 165.56,
+          "end": 168.08
+        },
+        {
+          "word": "Señor,",
+          "start": 168.18,
+          "end": 170.02
+        }
+      ],
+      "start": 164.02,
+      "end": 170.02,
+      "confidence": 1.0,
+      "time": 164.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "hasta que cante así:",
+      "words": [
+        {
+          "word": "hasta",
+          "start": 170.38,
+          "end": 170.94
+        },
+        {
+          "word": "que",
+          "start": 170.94,
+          "end": 171.56
+        },
+        {
+          "word": "cante",
+          "start": 171.56,
+          "end": 172.42
+        },
+        {
+          "word": "así.",
+          "start": 172.42,
+          "end": 173.66
+        }
+      ],
+      "start": 170.38,
+      "end": 173.66,
+      "confidence": 1.0,
+      "time": 170.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "\"Cristo vuelve, ¡aleluya! ¡aleluya! Amén.",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 174.12,
+          "end": 174.78
+        },
+        {
+          "word": "vuelve,",
+          "start": 174.78,
+          "end": 176.26
+        },
+        {
+          "word": "Aleluya,",
+          "start": 176.56,
+          "end": 177.88
+        },
+        {
+          "word": "Aleluya,",
+          "start": 177.88,
+          "end": 180.16
+        },
+        {
+          "word": "Amén.",
+          "start": 180.82,
+          "end": 181.96
+        }
+      ],
+      "start": 174.12,
+      "end": 181.96,
+      "confidence": 1.0,
+      "time": 174.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Aleluya! Amén\"?",
+      "words": [
+        {
+          "word": "Aleluya,",
+          "start": 183.1,
+          "end": 184.5
+        },
+        {
+          "word": "Amén.",
+          "start": 184.8,
+          "end": 188.32
+        }
+      ],
+      "start": 183.1,
+      "end": 188.32,
+      "confidence": 1.0,
+      "time": 183.1
+    }
+  ]
+}

@@ -1,0 +1,865 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.883,
+  "language": "es",
+  "model": "medium",
+  "hymn": 177,
+  "source": "177 - Los tres mensajes angelicos.mp3",
+  "duration": 143.33,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ved al ángel que proclama",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 9.42,
+          "end": 9.7
+        },
+        {
+          "word": "ángel",
+          "start": 9.7,
+          "end": 10.7
+        },
+        {
+          "word": "que",
+          "start": 10.7,
+          "end": 11.26
+        },
+        {
+          "word": "proclama",
+          "start": 11.26,
+          "end": 12.76
+        }
+      ],
+      "start": 9.42,
+      "end": 12.76,
+      "confidence": 0.8,
+      "time": 9.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "buenas nuevas por doquier.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "buenas",
+          "start": 12.76,
+          "end": 13.62
+        },
+        {
+          "word": "nuevas",
+          "start": 13.62,
+          "end": 14.38
+        },
+        {
+          "word": "por",
+          "start": 14.38,
+          "end": 15.52
+        },
+        {
+          "word": "doquier",
+          "start": 15.52,
+          "end": 17.04
+        }
+      ],
+      "start": 12.76,
+      "end": 17.04,
+      "confidence": 1.0,
+      "time": 12.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Con potente voz anuncia:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Con",
+          "start": 17.04,
+          "end": 17.94
+        },
+        {
+          "word": "potente",
+          "start": 17.94,
+          "end": 19.64
+        },
+        {
+          "word": "posaluncia",
+          "start": 19.64,
+          "end": 21.66
+        }
+      ],
+      "start": 17.04,
+      "end": 21.66,
+      "confidence": 0.706,
+      "time": 17.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "respetad y honrad a Dios,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "dios",
+          "start": 25.26,
+          "end": 26.36
+        }
+      ],
+      "start": 25.26,
+      "end": 26.36,
+      "confidence": 0.2,
+      "time": 25.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues la hora de su juicio ya llegó;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Pues",
+          "start": 26.36,
+          "end": 27.06
+        },
+        {
+          "word": "la",
+          "start": 27.06,
+          "end": 27.68
+        },
+        {
+          "word": "hora",
+          "start": 27.68,
+          "end": 28.72
+        },
+        {
+          "word": "de",
+          "start": 28.72,
+          "end": 29.3
+        },
+        {
+          "word": "su",
+          "start": 29.3,
+          "end": 29.54
+        },
+        {
+          "word": "juicio",
+          "start": 29.54,
+          "end": 30.16
+        },
+        {
+          "word": "ya",
+          "start": 30.16,
+          "end": 31.16
+        },
+        {
+          "word": "llegó",
+          "start": 31.16,
+          "end": 32.78
+        }
+      ],
+      "start": 26.36,
+      "end": 32.78,
+      "confidence": 1.0,
+      "time": 26.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y adorad al que hizo cielo, tierra y mar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Y",
+          "start": 32.78,
+          "end": 33.64
+        },
+        {
+          "word": "adorada",
+          "start": 33.64,
+          "end": 35.18
+        },
+        {
+          "word": "al",
+          "start": 35.18,
+          "end": 35.62
+        },
+        {
+          "word": "jesucielo",
+          "start": 35.62,
+          "end": 37.26
+        },
+        {
+          "word": "tierra",
+          "start": 37.26,
+          "end": 38.2
+        },
+        {
+          "word": "y",
+          "start": 38.2,
+          "end": 38.66
+        },
+        {
+          "word": "mar",
+          "start": 38.66,
+          "end": 40.34
+        }
+      ],
+      "start": 32.78,
+      "end": 40.34,
+      "confidence": 0.752,
+      "time": 32.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Otro ángel sigue presto",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Otro",
+          "start": 40.34,
+          "end": 42.6
+        },
+        {
+          "word": "ángel",
+          "start": 42.6,
+          "end": 43.66
+        },
+        {
+          "word": "sigue",
+          "start": 43.66,
+          "end": 44.38
+        },
+        {
+          "word": "presto",
+          "start": 44.38,
+          "end": 45.82
+        }
+      ],
+      "start": 40.34,
+      "end": 45.82,
+      "confidence": 1.0,
+      "time": 40.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "pregonando en alta voz:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Regonando",
+          "start": 45.82,
+          "end": 47.32
+        },
+        {
+          "word": "en",
+          "start": 47.32,
+          "end": 48.02
+        },
+        {
+          "word": "alta",
+          "start": 48.02,
+          "end": 49.04
+        },
+        {
+          "word": "voz",
+          "start": 49.04,
+          "end": 50.16
+        }
+      ],
+      "start": 45.82,
+      "end": 50.16,
+      "confidence": 0.992,
+      "time": 45.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Ha caído Babilonia",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Ha",
+          "start": 50.16,
+          "end": 51.02
+        },
+        {
+          "word": "caído",
+          "start": 51.02,
+          "end": 52.6
+        },
+        {
+          "word": "Babilonia",
+          "start": 52.6,
+          "end": 54.54
+        }
+      ],
+      "start": 50.16,
+      "end": 54.54,
+      "confidence": 1.0,
+      "time": 50.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "pues al mundo engañó.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Pues",
+          "start": 54.54,
+          "end": 55.38
+        },
+        {
+          "word": "al",
+          "start": 55.38,
+          "end": 55.82
+        },
+        {
+          "word": "mundo",
+          "start": 55.82,
+          "end": 56.48
+        },
+        {
+          "word": "engañó",
+          "start": 56.48,
+          "end": 59.38
+        }
+      ],
+      "start": 54.54,
+      "end": 59.38,
+      "confidence": 1.0,
+      "time": 54.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Pueblo mío, apartaos de su error;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Pueblo",
+          "start": 59.38,
+          "end": 60.28
+        },
+        {
+          "word": "mío",
+          "start": 60.28,
+          "end": 61.88
+        },
+        {
+          "word": "apartados",
+          "start": 61.88,
+          "end": 63.2
+        },
+        {
+          "word": "de",
+          "start": 63.2,
+          "end": 63.86
+        },
+        {
+          "word": "su",
+          "start": 63.86,
+          "end": 64.62
+        },
+        {
+          "word": "error",
+          "start": 64.62,
+          "end": 65.88
+        }
+      ],
+      "start": 59.38,
+      "end": 65.88,
+      "confidence": 0.994,
+      "time": 59.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "pues así sus plagas no os tocarán.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Pues",
+          "start": 65.88,
+          "end": 66.84
+        },
+        {
+          "word": "así",
+          "start": 66.84,
+          "end": 67.62
+        },
+        {
+          "word": "sus",
+          "start": 67.62,
+          "end": 68.46
+        },
+        {
+          "word": "plagas",
+          "start": 68.46,
+          "end": 69.3
+        },
+        {
+          "word": "nos",
+          "start": 69.3,
+          "end": 70.14
+        },
+        {
+          "word": "tocarán",
+          "start": 70.14,
+          "end": 73.34
+        }
+      ],
+      "start": 65.88,
+      "end": 73.34,
+      "confidence": 0.84,
+      "time": 65.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "El tercer mensaje llega",
+      "verse": 3,
+      "words": [
+        {
+          "word": "El",
+          "start": 73.34,
+          "end": 75.0
+        },
+        {
+          "word": "tercer",
+          "start": 75.0,
+          "end": 75.98
+        },
+        {
+          "word": "mensaje",
+          "start": 75.98,
+          "end": 77.38
+        },
+        {
+          "word": "llega",
+          "start": 77.38,
+          "end": 78.62
+        }
+      ],
+      "start": 73.34,
+      "end": 78.62,
+      "confidence": 1.0,
+      "time": 73.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con solemne admonición:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 78.62,
+          "end": 79.5
+        },
+        {
+          "word": "solemne",
+          "start": 79.5,
+          "end": 80.4
+        },
+        {
+          "word": "admonición,",
+          "start": 80.4,
+          "end": 83.26
+        }
+      ],
+      "start": 78.62,
+      "end": 83.26,
+      "confidence": 1.0,
+      "time": 78.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "El que adore a la bestia",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 83.78,
+          "end": 83.94
+        },
+        {
+          "word": "que",
+          "start": 83.94,
+          "end": 84.28
+        },
+        {
+          "word": "odore",
+          "start": 84.28,
+          "end": 85.64
+        },
+        {
+          "word": "a",
+          "start": 85.64,
+          "end": 86.18
+        },
+        {
+          "word": "la",
+          "start": 86.18,
+          "end": 86.6
+        },
+        {
+          "word": "bestia",
+          "start": 86.6,
+          "end": 87.84
+        }
+      ],
+      "start": 83.78,
+      "end": 87.84,
+      "confidence": 0.98,
+      "time": 83.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "o reciba su señal,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "o",
+          "start": 87.84,
+          "end": 88.62
+        },
+        {
+          "word": "reciba",
+          "start": 88.62,
+          "end": 89.42
+        },
+        {
+          "word": "su",
+          "start": 89.42,
+          "end": 90.14
+        },
+        {
+          "word": "señal,",
+          "start": 90.14,
+          "end": 92.26
+        }
+      ],
+      "start": 87.84,
+      "end": 92.26,
+      "confidence": 1.0,
+      "time": 87.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "el castigo ha de recibir al fin,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 92.68,
+          "end": 93.02
+        },
+        {
+          "word": "castigo",
+          "start": 93.02,
+          "end": 94.68
+        },
+        {
+          "word": "de",
+          "start": 95.2,
+          "end": 95.68
+        },
+        {
+          "word": "recibir",
+          "start": 95.68,
+          "end": 96.86
+        },
+        {
+          "word": "al",
+          "start": 96.86,
+          "end": 97.82
+        },
+        {
+          "word": "fin,",
+          "start": 97.82,
+          "end": 98.84
+        }
+      ],
+      "start": 92.68,
+      "end": 98.84,
+      "confidence": 0.857,
+      "time": 92.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pues la gracia no podrá cubrirlo más.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 98.84,
+          "end": 99.68
+        },
+        {
+          "word": "la",
+          "start": 99.68,
+          "end": 100.18
+        },
+        {
+          "word": "gracia",
+          "start": 100.18,
+          "end": 101.44
+        },
+        {
+          "word": "no",
+          "start": 101.44,
+          "end": 101.94
+        },
+        {
+          "word": "podrá",
+          "start": 101.94,
+          "end": 102.68
+        },
+        {
+          "word": "cubrirlo",
+          "start": 102.68,
+          "end": 104.62
+        },
+        {
+          "word": "más.",
+          "start": 104.62,
+          "end": 106.4
+        }
+      ],
+      "start": 98.84,
+      "end": 106.4,
+      "confidence": 1.0,
+      "time": 98.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Aquí están los que esperan",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Aquí",
+          "start": 107.52,
+          "end": 108.2
+        },
+        {
+          "word": "están",
+          "start": 108.2,
+          "end": 108.94
+        },
+        {
+          "word": "los",
+          "start": 108.94,
+          "end": 109.8
+        },
+        {
+          "word": "que",
+          "start": 109.8,
+          "end": 110.34
+        },
+        {
+          "word": "esperan",
+          "start": 110.34,
+          "end": 111.86
+        }
+      ],
+      "start": 107.52,
+      "end": 111.86,
+      "confidence": 1.0,
+      "time": 107.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "con paciencia a Jesús.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "con",
+          "start": 111.86,
+          "end": 112.46
+        },
+        {
+          "word": "paciencia",
+          "start": 112.46,
+          "end": 113.54
+        },
+        {
+          "word": "a",
+          "start": 113.54,
+          "end": 114.28
+        },
+        {
+          "word": "Jesús,",
+          "start": 114.28,
+          "end": 116.06
+        }
+      ],
+      "start": 111.86,
+      "end": 116.06,
+      "confidence": 1.0,
+      "time": 111.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Los que guardan sin reservas",
+      "verse": 4,
+      "words": [
+        {
+          "word": "los",
+          "start": 116.4,
+          "end": 117.08
+        },
+        {
+          "word": "que",
+          "start": 117.08,
+          "end": 117.46
+        },
+        {
+          "word": "guardan",
+          "start": 117.46,
+          "end": 118.7
+        },
+        {
+          "word": "sin",
+          "start": 118.7,
+          "end": 119.28
+        },
+        {
+          "word": "reservas",
+          "start": 119.28,
+          "end": 120.9
+        }
+      ],
+      "start": 116.4,
+      "end": 120.9,
+      "confidence": 1.0,
+      "time": 116.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "del Señor la Ley de amor.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "el",
+          "start": 120.9,
+          "end": 121.4
+        },
+        {
+          "word": "Señor",
+          "start": 121.4,
+          "end": 122.16
+        },
+        {
+          "word": "amor.",
+          "start": 123.28,
+          "end": 125.12
+        }
+      ],
+      "start": 120.9,
+      "end": 125.12,
+      "confidence": 0.48,
+      "time": 120.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Por la fe en Cristo ellos vivirán",
+      "verse": 4,
+      "words": [
+        {
+          "word": "la",
+          "start": 126.12,
+          "end": 126.5
+        },
+        {
+          "word": "fe",
+          "start": 126.5,
+          "end": 127.1
+        },
+        {
+          "word": "en",
+          "start": 127.1,
+          "end": 127.76
+        },
+        {
+          "word": "Cristo",
+          "start": 127.76,
+          "end": 128.44
+        },
+        {
+          "word": "ellos",
+          "start": 128.44,
+          "end": 129.14
+        },
+        {
+          "word": "vivirán,",
+          "start": 129.14,
+          "end": 132.08
+        }
+      ],
+      "start": 126.12,
+      "end": 132.32,
+      "confidence": 0.857,
+      "time": 126.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "y gozosos en el cielo entrarán.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 132.32,
+          "end": 132.82
+        },
+        {
+          "word": "gozosos",
+          "start": 132.82,
+          "end": 134.44
+        },
+        {
+          "word": "en",
+          "start": 134.44,
+          "end": 135.04
+        },
+        {
+          "word": "el",
+          "start": 135.04,
+          "end": 135.34
+        },
+        {
+          "word": "cielo",
+          "start": 135.34,
+          "end": 135.96
+        },
+        {
+          "word": "entrarán.",
+          "start": 135.96,
+          "end": 141.18
+        }
+      ],
+      "start": 132.32,
+      "end": 141.18,
+      "confidence": 1.0,
+      "time": 132.32
+    }
+  ]
+}

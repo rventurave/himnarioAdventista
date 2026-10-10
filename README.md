@@ -16,6 +16,10 @@ python3 server.py
 
 Abrir `http://localhost:3000`
 
+Los audios se reproducen desde Cloudflare R2, también en desarrollo local.
+Para publicar en Cloudflare Pages, configurar CORS y ejecutar las pruebas,
+consulta [la guía de publicación](docs/cloudflare-pages.md).
+
 > ⚠️ `python3 -m http.server` **no** sirve rutas como `/25` (daría 404), porque no
 > reescribe rutas desconocidas a `index.html`. Usa `server.py`, que sí lo hace.
 

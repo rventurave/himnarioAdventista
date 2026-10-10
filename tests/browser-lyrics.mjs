@@ -1,7 +1,7 @@
 const { chromium } = await import(process.env.PLAYWRIGHT_MODULE || 'playwright');
 const baseUrl = process.env.TEST_BASE_URL || 'http://localhost:3000';
 import assert from 'node:assert/strict';
-const browser = await chromium.launch({ headless: true, args: ['--autoplay-policy=no-user-gesture-required'] });
+const browser = await chromium.launch({ headless: true, executablePath: process.env.BROWSER_EXECUTABLE || undefined, args: ['--autoplay-policy=no-user-gesture-required'] });
 const page = await browser.newPage();
 const errors = [];
 page.on('pageerror', e => errors.push(e.message));

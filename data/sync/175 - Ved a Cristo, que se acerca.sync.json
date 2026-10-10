@@ -1,0 +1,598 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.971,
+  "language": "es",
+  "model": "medium",
+  "hymn": 175,
+  "source": "175 - Ved a Cristo, que se acerca.mp3",
+  "duration": 134.9,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ved a Cristo, que se acerca",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Veda,",
+          "start": 14.66,
+          "end": 16.06
+        },
+        {
+          "word": "Cristo,",
+          "start": 16.18,
+          "end": 17.16
+        },
+        {
+          "word": "que",
+          "start": 17.6,
+          "end": 18.34
+        },
+        {
+          "word": "se",
+          "start": 18.34,
+          "end": 19.02
+        },
+        {
+          "word": "acerca",
+          "start": 19.02,
+          "end": 20.16
+        }
+      ],
+      "start": 14.66,
+      "end": 20.16,
+      "confidence": 0.823,
+      "time": 14.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con gloriosa majestad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "con",
+          "start": 20.16,
+          "end": 21.26
+        },
+        {
+          "word": "gloriosa",
+          "start": 21.26,
+          "end": 23.3
+        },
+        {
+          "word": "majestad",
+          "start": 23.3,
+          "end": 25.9
+        }
+      ],
+      "start": 20.16,
+      "end": 25.9,
+      "confidence": 1.0,
+      "time": 20.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Los que aguardan su regreso",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Los",
+          "start": 25.9,
+          "end": 27.16
+        },
+        {
+          "word": "que",
+          "start": 27.16,
+          "end": 27.56
+        },
+        {
+          "word": "aguardan",
+          "start": 27.56,
+          "end": 28.92
+        },
+        {
+          "word": "su",
+          "start": 28.92,
+          "end": 29.84
+        },
+        {
+          "word": "regreso",
+          "start": 29.84,
+          "end": 31.74
+        }
+      ],
+      "start": 25.9,
+      "end": 31.74,
+      "confidence": 1.0,
+      "time": 25.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "dicen: \"Este es nuestro Dios,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Dicen",
+          "start": 31.74,
+          "end": 33.46
+        },
+        {
+          "word": "este",
+          "start": 33.46,
+          "end": 34.34
+        },
+        {
+          "word": "es",
+          "start": 34.34,
+          "end": 34.94
+        },
+        {
+          "word": "nuestro",
+          "start": 34.94,
+          "end": 35.96
+        },
+        {
+          "word": "Dios",
+          "start": 35.96,
+          "end": 37.3
+        }
+      ],
+      "start": 31.74,
+      "end": 37.3,
+      "confidence": 1.0,
+      "time": 31.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "lo hemos esperado siempre,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Lo",
+          "start": 37.3,
+          "end": 38.2
+        },
+        {
+          "word": "hemos",
+          "start": 38.2,
+          "end": 39.32
+        },
+        {
+          "word": "esperado",
+          "start": 39.32,
+          "end": 41.86
+        },
+        {
+          "word": "siempre",
+          "start": 41.86,
+          "end": 43.0
+        }
+      ],
+      "start": 37.3,
+      "end": 43.0,
+      "confidence": 1.0,
+      "time": 37.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "él es quien nos salvará\".",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Él",
+          "start": 43.0,
+          "end": 44.54
+        },
+        {
+          "word": "es",
+          "start": 44.54,
+          "end": 44.88
+        },
+        {
+          "word": "quien",
+          "start": 44.88,
+          "end": 45.4
+        },
+        {
+          "word": "nos",
+          "start": 45.4,
+          "end": 46.54
+        },
+        {
+          "word": "salvará",
+          "start": 46.54,
+          "end": 49.7
+        }
+      ],
+      "start": 43.0,
+      "end": 49.7,
+      "confidence": 1.0,
+      "time": 43.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Los que duermen en el polvo",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Los",
+          "start": 49.7,
+          "end": 51.1
+        },
+        {
+          "word": "que",
+          "start": 51.1,
+          "end": 51.6
+        },
+        {
+          "word": "duermen",
+          "start": 51.6,
+          "end": 53.42
+        },
+        {
+          "word": "en",
+          "start": 53.42,
+          "end": 54.16
+        },
+        {
+          "word": "el",
+          "start": 54.16,
+          "end": 54.64
+        },
+        {
+          "word": "polvo",
+          "start": 54.64,
+          "end": 55.58
+        }
+      ],
+      "start": 49.7,
+      "end": 55.58,
+      "confidence": 1.0,
+      "time": 49.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "se levantan por doquier.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "se",
+          "start": 55.58,
+          "end": 56.52
+        },
+        {
+          "word": "levantan",
+          "start": 56.52,
+          "end": 58.66
+        },
+        {
+          "word": "por",
+          "start": 58.66,
+          "end": 59.5
+        },
+        {
+          "word": "doquier,",
+          "start": 59.5,
+          "end": 61.06
+        }
+      ],
+      "start": 55.58,
+      "end": 61.06,
+      "confidence": 1.0,
+      "time": 55.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Los poderes del maligno",
+      "verse": 2,
+      "words": [
+        {
+          "word": "los",
+          "start": 61.68,
+          "end": 62.62
+        },
+        {
+          "word": "poderes",
+          "start": 62.62,
+          "end": 64.42
+        },
+        {
+          "word": "del",
+          "start": 64.42,
+          "end": 65.1
+        },
+        {
+          "word": "maligno",
+          "start": 65.1,
+          "end": 67.16
+        }
+      ],
+      "start": 61.68,
+      "end": 67.16,
+      "confidence": 1.0,
+      "time": 61.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "no los pueden retener.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "no",
+          "start": 67.16,
+          "end": 67.94
+        },
+        {
+          "word": "los",
+          "start": 67.94,
+          "end": 68.7
+        },
+        {
+          "word": "pueden",
+          "start": 68.7,
+          "end": 70.12
+        },
+        {
+          "word": "retener.",
+          "start": 70.12,
+          "end": 72.86
+        }
+      ],
+      "start": 67.16,
+      "end": 72.86,
+      "confidence": 1.0,
+      "time": 67.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Pecadores descuidados,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pecadores,",
+          "start": 75.64,
+          "end": 77.04
+        },
+        {
+          "word": "descuidados,",
+          "start": 77.04,
+          "end": 78.44
+        }
+      ],
+      "start": 75.64,
+      "end": 78.86,
+      "confidence": 1.0,
+      "time": 75.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¿qué destino encontrarán?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 78.86,
+          "end": 79.8
+        },
+        {
+          "word": "destino",
+          "start": 79.8,
+          "end": 81.24
+        },
+        {
+          "word": "encontrarán.",
+          "start": 81.24,
+          "end": 84.9
+        }
+      ],
+      "start": 78.86,
+      "end": 84.9,
+      "confidence": 1.0,
+      "time": 78.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Y entonces los salvados",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 90.74,
+          "end": 91.14
+        },
+        {
+          "word": "entonces",
+          "start": 91.14,
+          "end": 92.8
+        },
+        {
+          "word": "los",
+          "start": 92.8,
+          "end": 93.92
+        },
+        {
+          "word": "salvados",
+          "start": 93.92,
+          "end": 95.68
+        }
+      ],
+      "start": 90.74,
+      "end": 95.68,
+      "confidence": 1.0,
+      "time": 90.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "entrarán en la mansión.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "entrarán",
+          "start": 95.68,
+          "end": 98.14
+        },
+        {
+          "word": "en",
+          "start": 98.14,
+          "end": 98.78
+        },
+        {
+          "word": "la",
+          "start": 98.78,
+          "end": 99.52
+        },
+        {
+          "word": "mansión,",
+          "start": 99.52,
+          "end": 101.28
+        }
+      ],
+      "start": 95.68,
+      "end": 101.28,
+      "confidence": 1.0,
+      "time": 95.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesucristo los recibe",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jesucristo",
+          "start": 102.88,
+          "end": 104.28
+        },
+        {
+          "word": "los",
+          "start": 104.28,
+          "end": 105.52
+        },
+        {
+          "word": "recibe",
+          "start": 105.52,
+          "end": 106.92
+        }
+      ],
+      "start": 102.88,
+      "end": 106.92,
+      "confidence": 1.0,
+      "time": 102.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y les da coronación:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 106.92,
+          "end": 107.96
+        },
+        {
+          "word": "les",
+          "start": 107.96,
+          "end": 108.68
+        },
+        {
+          "word": "da",
+          "start": 108.68,
+          "end": 109.46
+        },
+        {
+          "word": "coronación.",
+          "start": 109.46,
+          "end": 112.72
+        }
+      ],
+      "start": 106.92,
+      "end": 112.72,
+      "confidence": 1.0,
+      "time": 106.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "\"Bien, buen siervo; fiel serviste;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Bien",
+          "start": 113.12,
+          "end": 114.06
+        },
+        {
+          "word": "buen",
+          "start": 114.06,
+          "end": 114.46
+        },
+        {
+          "word": "siervo,",
+          "start": 114.46,
+          "end": 115.76
+        },
+        {
+          "word": "fiel",
+          "start": 115.86,
+          "end": 116.9
+        },
+        {
+          "word": "serviste",
+          "start": 116.9,
+          "end": 118.54
+        }
+      ],
+      "start": 113.12,
+      "end": 118.54,
+      "confidence": 1.0,
+      "time": 113.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "entra al gozo del Señor\".",
+      "verse": 3,
+      "words": [
+        {
+          "word": "entre",
+          "start": 118.54,
+          "end": 119.96
+        },
+        {
+          "word": "gozo",
+          "start": 120.56,
+          "end": 121.56
+        },
+        {
+          "word": "del",
+          "start": 121.56,
+          "end": 122.42
+        },
+        {
+          "word": "Señor.",
+          "start": 122.42,
+          "end": 124.92
+        }
+      ],
+      "start": 118.54,
+      "end": 124.92,
+      "confidence": 0.776,
+      "time": 118.54
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.905,
+  "language": "es",
+  "model": "medium",
+  "hymn": 179,
+  "source": "179 - Cristo viene Aquel dia se acerca.mp3",
+  "duration": 136.15,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Cristo viene! Aquel día se acerca, bien lo sé.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 17.22,
+          "end": 18.62
+        },
+        {
+          "word": "viene",
+          "start": 18.62,
+          "end": 20.02
+        },
+        {
+          "word": "aquel",
+          "start": 20.02,
+          "end": 21.46
+        },
+        {
+          "word": "día,",
+          "start": 21.46,
+          "end": 22.36
+        },
+        {
+          "word": "sea",
+          "start": 23.02,
+          "end": 23.86
+        },
+        {
+          "word": "ser",
+          "start": 23.86,
+          "end": 24.6
+        }
+      ],
+      "start": 17.22,
+      "end": 27.36,
+      "confidence": 0.64,
+      "time": 17.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Renovemos la esperanza y afirmemos nuestra fe.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "vemos",
+          "start": 29.34,
+          "end": 30.44
+        },
+        {
+          "word": "la",
+          "start": 30.44,
+          "end": 31.22
+        },
+        {
+          "word": "esperanza,",
+          "start": 31.22,
+          "end": 33.12
+        },
+        {
+          "word": "ya",
+          "start": 33.64,
+          "end": 34.18
+        },
+        {
+          "word": "nuestra",
+          "start": 35.82,
+          "end": 36.9
+        },
+        {
+          "word": "fe.",
+          "start": 36.9,
+          "end": 38.12
+        }
+      ],
+      "start": 29.34,
+      "end": 38.12,
+      "confidence": 0.804,
+      "time": 29.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Cristo viene! ¡Cristo viene!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 38.66,
+          "end": 39.88
+        },
+        {
+          "word": "viene,",
+          "start": 39.88,
+          "end": 41.04
+        },
+        {
+          "word": "Cristo",
+          "start": 41.3,
+          "end": 42.58
+        },
+        {
+          "word": "viene,",
+          "start": 42.58,
+          "end": 43.68
+        }
+      ],
+      "start": 38.66,
+      "end": 45.02,
+      "confidence": 1.0,
+      "time": 38.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Ven, oh Príncipe de paz!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ven",
+          "start": 45.02,
+          "end": 45.04
+        },
+        {
+          "word": "o",
+          "start": 45.04,
+          "end": 45.32
+        },
+        {
+          "word": "príncipe",
+          "start": 45.32,
+          "end": 46.16
+        },
+        {
+          "word": "de",
+          "start": 46.16,
+          "end": 46.6
+        },
+        {
+          "word": "paz,",
+          "start": 46.6,
+          "end": 48.84
+        }
+      ],
+      "start": 45.02,
+      "end": 49.26,
+      "confidence": 0.96,
+      "time": 45.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Ven, oh Príncipe de paz!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ven",
+          "start": 49.26,
+          "end": 50.4
+        },
+        {
+          "word": "o",
+          "start": 50.4,
+          "end": 50.56
+        },
+        {
+          "word": "príncipe",
+          "start": 50.56,
+          "end": 52.32
+        },
+        {
+          "word": "de",
+          "start": 52.32,
+          "end": 53.26
+        },
+        {
+          "word": "paz.",
+          "start": 53.26,
+          "end": 55.26
+        }
+      ],
+      "start": 49.26,
+      "end": 55.26,
+      "confidence": 0.96,
+      "time": 49.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "De una cruz, dolor y angustia nuestra tierra puede hablar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "De",
+          "start": 55.26,
+          "end": 56.32
+        },
+        {
+          "word": "una",
+          "start": 56.32,
+          "end": 57.1
+        },
+        {
+          "word": "cruz,",
+          "start": 57.1,
+          "end": 58.28
+        },
+        {
+          "word": "dolor",
+          "start": 59.0,
+          "end": 59.1
+        },
+        {
+          "word": "y",
+          "start": 59.1,
+          "end": 59.64
+        },
+        {
+          "word": "angustia,",
+          "start": 59.64,
+          "end": 61.0
+        },
+        {
+          "word": "nuestra",
+          "start": 61.4,
+          "end": 62.2
+        },
+        {
+          "word": "tierra",
+          "start": 62.2,
+          "end": 63.6
+        },
+        {
+          "word": "puede",
+          "start": 63.6,
+          "end": 64.62
+        },
+        {
+          "word": "hablar,",
+          "start": 64.62,
+          "end": 66.0
+        }
+      ],
+      "start": 55.26,
+      "end": 66.0,
+      "confidence": 1.0,
+      "time": 55.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Pero mirará tu gloria, cuando vuelvas a reinar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pero",
+          "start": 66.48,
+          "end": 67.56
+        },
+        {
+          "word": "mirará",
+          "start": 67.56,
+          "end": 69.6
+        },
+        {
+          "word": "tu",
+          "start": 69.6,
+          "end": 70.32
+        },
+        {
+          "word": "gloria",
+          "start": 70.32,
+          "end": 71.52
+        },
+        {
+          "word": "cuando",
+          "start": 71.52,
+          "end": 72.86
+        },
+        {
+          "word": "vuelvas",
+          "start": 72.86,
+          "end": 74.4
+        },
+        {
+          "word": "a",
+          "start": 74.4,
+          "end": 75.3
+        },
+        {
+          "word": "reinar.",
+          "start": 75.3,
+          "end": 76.58
+        }
+      ],
+      "start": 66.48,
+      "end": 76.58,
+      "confidence": 1.0,
+      "time": 66.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Cristo viene! ¡Cristo viene!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 76.58,
+          "end": 78.36
+        },
+        {
+          "word": "viene,",
+          "start": 78.36,
+          "end": 79.64
+        },
+        {
+          "word": "Cristo",
+          "start": 79.84,
+          "end": 81.02
+        },
+        {
+          "word": "viene,",
+          "start": 81.02,
+          "end": 82.24
+        }
+      ],
+      "start": 76.58,
+      "end": 82.24,
+      "confidence": 1.0,
+      "time": 76.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Ven, eterno Rey de luz!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "bendecerno",
+          "start": 83.24,
+          "end": 84.5
+        },
+        {
+          "word": "Rey",
+          "start": 84.5,
+          "end": 84.76
+        },
+        {
+          "word": "de",
+          "start": 84.76,
+          "end": 85.26
+        },
+        {
+          "word": "luz,",
+          "start": 85.26,
+          "end": 87.48
+        }
+      ],
+      "start": 83.24,
+      "end": 87.48,
+      "confidence": 0.755,
+      "time": 83.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Ven, eterno Rey de luz!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "bendecerno",
+          "start": 89.04,
+          "end": 90.44
+        },
+        {
+          "word": "Rey",
+          "start": 90.44,
+          "end": 91.1
+        },
+        {
+          "word": "de",
+          "start": 91.1,
+          "end": 92.02
+        },
+        {
+          "word": "luz.",
+          "start": 92.02,
+          "end": 93.74
+        }
+      ],
+      "start": 89.04,
+      "end": 93.74,
+      "confidence": 0.755,
+      "time": 89.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "La bendita esperanza vibra en nuestro corazón.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "La",
+          "start": 94.3,
+          "end": 95.04
+        },
+        {
+          "word": "bendita",
+          "start": 95.04,
+          "end": 97.0
+        },
+        {
+          "word": "esperanza",
+          "start": 97.0,
+          "end": 99.42
+        },
+        {
+          "word": "vibra",
+          "start": 99.42,
+          "end": 100.8
+        },
+        {
+          "word": "en",
+          "start": 100.8,
+          "end": 101.1
+        },
+        {
+          "word": "nuestro",
+          "start": 101.1,
+          "end": 102.18
+        },
+        {
+          "word": "corazón,",
+          "start": 102.18,
+          "end": 104.42
+        }
+      ],
+      "start": 94.3,
+      "end": 104.42,
+      "confidence": 1.0,
+      "time": 94.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Compartamos nuestro gozo, entonemos la canción:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Compartamos",
+          "start": 106.14,
+          "end": 107.54
+        },
+        {
+          "word": "nuestro",
+          "start": 107.54,
+          "end": 108.7
+        },
+        {
+          "word": "entonemos",
+          "start": 111.16,
+          "end": 112.9
+        },
+        {
+          "word": "la",
+          "start": 112.9,
+          "end": 113.68
+        },
+        {
+          "word": "canción.",
+          "start": 113.68,
+          "end": 115.22
+        }
+      ],
+      "start": 106.14,
+      "end": 115.22,
+      "confidence": 0.833,
+      "time": 106.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Cristo viene! ¡Cristo viene!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 116.26,
+          "end": 116.94
+        },
+        {
+          "word": "viene,",
+          "start": 116.94,
+          "end": 118.02
+        },
+        {
+          "word": "Cristo",
+          "start": 118.36,
+          "end": 119.62
+        },
+        {
+          "word": "viene,",
+          "start": 119.62,
+          "end": 120.7
+        }
+      ],
+      "start": 116.26,
+      "end": 121.9,
+      "confidence": 1.0,
+      "time": 116.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Ven muy pronto, mi Jesús!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ven",
+          "start": 121.9,
+          "end": 121.98
+        },
+        {
+          "word": "muy",
+          "start": 121.98,
+          "end": 122.26
+        },
+        {
+          "word": "pronto",
+          "start": 122.26,
+          "end": 122.88
+        },
+        {
+          "word": "mi",
+          "start": 122.88,
+          "end": 123.26
+        },
+        {
+          "word": "Jesús,",
+          "start": 123.26,
+          "end": 125.82
+        }
+      ],
+      "start": 121.9,
+      "end": 125.82,
+      "confidence": 1.0,
+      "time": 121.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Ven muy pronto, mi Jesús!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ven",
+          "start": 126.48,
+          "end": 127.4
+        },
+        {
+          "word": "muy",
+          "start": 127.4,
+          "end": 127.78
+        },
+        {
+          "word": "pronto",
+          "start": 127.78,
+          "end": 129.0
+        },
+        {
+          "word": "mi",
+          "start": 129.0,
+          "end": 130.0
+        },
+        {
+          "word": "Jesús.",
+          "start": 130.0,
+          "end": 131.84
+        }
+      ],
+      "start": 126.48,
+      "end": 131.84,
+      "confidence": 1.0,
+      "time": 126.48
+    }
+  ]
+}

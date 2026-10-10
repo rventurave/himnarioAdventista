@@ -1,0 +1,683 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.957,
+  "language": "es",
+  "model": "medium",
+  "hymn": 182,
+  "source": "182 - Veremos a Cristo.mp3",
+  "duration": 211.77,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "El cielo se abrirá y le dará paso;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "El",
+          "start": 10.84,
+          "end": 12.24
+        },
+        {
+          "word": "cielo",
+          "start": 12.24,
+          "end": 13.28
+        },
+        {
+          "word": "se",
+          "start": 13.28,
+          "end": 13.94
+        },
+        {
+          "word": "abrirá",
+          "start": 13.94,
+          "end": 17.14
+        },
+        {
+          "word": "y",
+          "start": 17.14,
+          "end": 18.24
+        },
+        {
+          "word": "le",
+          "start": 18.24,
+          "end": 19.32
+        },
+        {
+          "word": "dará",
+          "start": 19.32,
+          "end": 23.3
+        },
+        {
+          "word": "paso",
+          "start": 23.3,
+          "end": 23.3
+        }
+      ],
+      "start": 10.84,
+      "end": 23.3,
+      "confidence": 1.0,
+      "time": 10.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "millones de estrellas lo alabarán.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "millones",
+          "start": 23.3,
+          "end": 25.1
+        },
+        {
+          "word": "de",
+          "start": 25.1,
+          "end": 26.36
+        },
+        {
+          "word": "estrellas",
+          "start": 26.36,
+          "end": 29.78
+        },
+        {
+          "word": "lo",
+          "start": 29.78,
+          "end": 30.88
+        },
+        {
+          "word": "alamarán.",
+          "start": 30.88,
+          "end": 35.16
+        }
+      ],
+      "start": 23.3,
+      "end": 35.16,
+      "confidence": 0.985,
+      "time": 23.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Su mirada radiante nos dará santo gozo",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Su",
+          "start": 35.2,
+          "end": 36.2
+        },
+        {
+          "word": "radiante",
+          "start": 37.62,
+          "end": 41.24
+        },
+        {
+          "word": "nos",
+          "start": 41.24,
+          "end": 42.04
+        },
+        {
+          "word": "dará",
+          "start": 42.04,
+          "end": 43.58
+        },
+        {
+          "word": "santo",
+          "start": 43.58,
+          "end": 44.2
+        },
+        {
+          "word": "gozo",
+          "start": 44.2,
+          "end": 46.86
+        }
+      ],
+      "start": 35.2,
+      "end": 46.86,
+      "confidence": 0.857,
+      "time": 35.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y contemplaremos al Salvador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 46.86,
+          "end": 48.62
+        },
+        {
+          "word": "contemplaremos",
+          "start": 48.62,
+          "end": 53.66
+        },
+        {
+          "word": "al",
+          "start": 53.66,
+          "end": 55.22
+        },
+        {
+          "word": "Salvador.",
+          "start": 55.22,
+          "end": 58.3
+        }
+      ],
+      "start": 46.86,
+      "end": 58.3,
+      "confidence": 1.0,
+      "time": 46.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Veremos a Cristo, al Rey veremos",
+      "words": [
+        {
+          "word": "Venimos",
+          "start": 60.56,
+          "end": 61.96
+        },
+        {
+          "word": "a",
+          "start": 61.96,
+          "end": 62.94
+        },
+        {
+          "word": "Cristo,",
+          "start": 62.94,
+          "end": 65.82
+        },
+        {
+          "word": "al",
+          "start": 67.12,
+          "end": 67.3
+        },
+        {
+          "word": "Rey",
+          "start": 67.3,
+          "end": 67.88
+        },
+        {
+          "word": "veremos,",
+          "start": 67.88,
+          "end": 72.36
+        }
+      ],
+      "start": 60.56,
+      "end": 72.76,
+      "confidence": 0.971,
+      "time": 60.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "cara acara en toda su gloria.",
+      "words": [
+        {
+          "word": "cara",
+          "start": 72.76,
+          "end": 74.28
+        },
+        {
+          "word": "a",
+          "start": 74.28,
+          "end": 74.58
+        },
+        {
+          "word": "en",
+          "start": 76.12,
+          "end": 76.88
+        },
+        {
+          "word": "toda",
+          "start": 76.88,
+          "end": 77.84
+        },
+        {
+          "word": "su",
+          "start": 77.84,
+          "end": 78.58
+        },
+        {
+          "word": "gloria.",
+          "start": 78.58,
+          "end": 81.32
+        }
+      ],
+      "start": 72.76,
+      "end": 81.32,
+      "confidence": 0.99,
+      "time": 72.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Veremos a Cristo, al Rey veremos",
+      "words": [
+        {
+          "word": "Veremos",
+          "start": 81.32,
+          "end": 83.92
+        },
+        {
+          "word": "a",
+          "start": 83.92,
+          "end": 85.02
+        },
+        {
+          "word": "Cristo,",
+          "start": 85.02,
+          "end": 88.02
+        },
+        {
+          "word": "al",
+          "start": 89.22,
+          "end": 89.52
+        },
+        {
+          "word": "Rey",
+          "start": 89.52,
+          "end": 89.88
+        },
+        {
+          "word": "veremos",
+          "start": 89.88,
+          "end": 94.32
+        }
+      ],
+      "start": 81.32,
+      "end": 94.32,
+      "confidence": 1.0,
+      "time": 81.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "cara a cara, al Rey y Señor.",
+      "words": [
+        {
+          "word": "cara",
+          "start": 94.32,
+          "end": 96.62
+        },
+        {
+          "word": "a",
+          "start": 96.62,
+          "end": 96.62
+        },
+        {
+          "word": "cara,",
+          "start": 96.62,
+          "end": 99.94
+        },
+        {
+          "word": "Al",
+          "start": 99.94,
+          "end": 102.58
+        },
+        {
+          "word": "rey",
+          "start": 102.58,
+          "end": 104.28
+        },
+        {
+          "word": "y",
+          "start": 104.28,
+          "end": 104.28
+        },
+        {
+          "word": "señor,",
+          "start": 106.62,
+          "end": 107.3
+        }
+      ],
+      "start": 94.32,
+      "end": 108.82,
+      "confidence": 1.0,
+      "time": 94.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Trompeta se oirá llamando a los muertos;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "meta",
+          "start": 108.82,
+          "end": 110.0
+        },
+        {
+          "word": "se",
+          "start": 110.0,
+          "end": 110.62
+        },
+        {
+          "word": "oirá",
+          "start": 110.62,
+          "end": 114.2
+        },
+        {
+          "word": "Llamando",
+          "start": 114.2,
+          "end": 116.1
+        },
+        {
+          "word": "a",
+          "start": 116.1,
+          "end": 116.64
+        },
+        {
+          "word": "los",
+          "start": 116.64,
+          "end": 117.12
+        },
+        {
+          "word": "muertos",
+          "start": 117.12,
+          "end": 120.24
+        }
+      ],
+      "start": 108.82,
+      "end": 120.24,
+      "confidence": 0.971,
+      "time": 108.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "del sueño despertarán, a vida eternal.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "del",
+          "start": 120.24,
+          "end": 121.08
+        },
+        {
+          "word": "sueño",
+          "start": 121.08,
+          "end": 122.5
+        },
+        {
+          "word": "despertarán",
+          "start": 122.5,
+          "end": 125.94
+        },
+        {
+          "word": "la",
+          "start": 125.94,
+          "end": 127.16
+        },
+        {
+          "word": "vida",
+          "start": 127.16,
+          "end": 128.18
+        },
+        {
+          "word": "eterna",
+          "start": 128.18,
+          "end": 130.78
+        }
+      ],
+      "start": 120.24,
+      "end": 130.78,
+      "confidence": 0.957,
+      "time": 120.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Y los que estemos vivos,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 130.78,
+          "end": 132.56
+        },
+        {
+          "word": "los",
+          "start": 132.56,
+          "end": 133.38
+        },
+        {
+          "word": "que",
+          "start": 133.38,
+          "end": 133.98
+        },
+        {
+          "word": "estemos",
+          "start": 133.98,
+          "end": 135.34
+        },
+        {
+          "word": "vivos,",
+          "start": 135.34,
+          "end": 138.74
+        }
+      ],
+      "start": 130.78,
+      "end": 138.8,
+      "confidence": 1.0,
+      "time": 130.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "transformados seremos",
+      "verse": 2,
+      "words": [
+        {
+          "word": "transformados",
+          "start": 138.8,
+          "end": 141.12
+        },
+        {
+          "word": "seremos",
+          "start": 141.12,
+          "end": 143.02
+        }
+      ],
+      "start": 138.8,
+      "end": 143.02,
+      "confidence": 1.0,
+      "time": 138.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y contemplaremos al Salvador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 143.02,
+          "end": 146.1
+        },
+        {
+          "word": "contemplaremos",
+          "start": 146.1,
+          "end": 150.56
+        },
+        {
+          "word": "tal",
+          "start": 150.56,
+          "end": 152.18
+        },
+        {
+          "word": "salvador.",
+          "start": 152.18,
+          "end": 155.2
+        }
+      ],
+      "start": 143.02,
+      "end": 155.2,
+      "confidence": 0.97,
+      "time": 143.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Veremos a Cristo, al Rey veremos",
+      "words": [
+        {
+          "word": "Venimos",
+          "start": 157.6,
+          "end": 159.0
+        },
+        {
+          "word": "a",
+          "start": 159.0,
+          "end": 159.9
+        },
+        {
+          "word": "Cristo,",
+          "start": 159.9,
+          "end": 162.56
+        },
+        {
+          "word": "al",
+          "start": 164.3,
+          "end": 164.48
+        },
+        {
+          "word": "Rey",
+          "start": 164.48,
+          "end": 164.96
+        },
+        {
+          "word": "veremos",
+          "start": 164.96,
+          "end": 169.36
+        }
+      ],
+      "start": 157.6,
+      "end": 169.36,
+      "confidence": 0.971,
+      "time": 157.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "cara acara en toda su gloria.",
+      "words": [
+        {
+          "word": "cara",
+          "start": 169.36,
+          "end": 171.28
+        },
+        {
+          "word": "a",
+          "start": 171.28,
+          "end": 171.46
+        },
+        {
+          "word": "en",
+          "start": 173.2,
+          "end": 173.82
+        },
+        {
+          "word": "toda",
+          "start": 173.82,
+          "end": 174.86
+        },
+        {
+          "word": "su",
+          "start": 174.86,
+          "end": 175.72
+        },
+        {
+          "word": "gloria.",
+          "start": 175.72,
+          "end": 178.26
+        }
+      ],
+      "start": 169.36,
+      "end": 178.26,
+      "confidence": 0.99,
+      "time": 169.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Veremos a Cristo, al Rey veremos",
+      "words": [
+        {
+          "word": "Veremos",
+          "start": 178.26,
+          "end": 180.94
+        },
+        {
+          "word": "a",
+          "start": 180.94,
+          "end": 182.16
+        },
+        {
+          "word": "Cristo,",
+          "start": 182.16,
+          "end": 185.18
+        },
+        {
+          "word": "al",
+          "start": 186.3,
+          "end": 186.62
+        },
+        {
+          "word": "Rey",
+          "start": 186.62,
+          "end": 187.1
+        },
+        {
+          "word": "veremos,",
+          "start": 187.1,
+          "end": 191.36
+        }
+      ],
+      "start": 178.26,
+      "end": 191.36,
+      "confidence": 1.0,
+      "time": 178.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "cara a cara, al Rey y Señor.",
+      "words": [
+        {
+          "word": "Caranara",
+          "start": 197.2,
+          "end": 198.6
+        },
+        {
+          "word": "al",
+          "start": 198.6,
+          "end": 200.0
+        },
+        {
+          "word": "Rey",
+          "start": 200.0,
+          "end": 201.04
+        },
+        {
+          "word": "y",
+          "start": 201.04,
+          "end": 201.36
+        },
+        {
+          "word": "Señor.",
+          "start": 203.46,
+          "end": 204.24
+        }
+      ],
+      "start": 197.2,
+      "end": 204.24,
+      "confidence": 0.706,
+      "time": 197.2
+    }
+  ]
+}

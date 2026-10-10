@@ -1,0 +1,957 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.945,
+  "language": "es",
+  "model": "medium",
+  "hymn": 188,
+  "source": "188 - Gran alegria.mp3",
+  "duration": 158.41,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Doquiera yo puedo ver dolor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "quiero",
+          "start": 32.42,
+          "end": 32.68
+        },
+        {
+          "word": "yo",
+          "start": 32.68,
+          "end": 32.92
+        },
+        {
+          "word": "puedo",
+          "start": 32.92,
+          "end": 33.54
+        },
+        {
+          "word": "ver",
+          "start": 33.54,
+          "end": 34.22
+        },
+        {
+          "word": "dolor,",
+          "start": 34.22,
+          "end": 36.68
+        }
+      ],
+      "start": 32.42,
+      "end": 37.08,
+      "confidence": 0.966,
+      "time": 32.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "personas que sufren sin amor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "personas",
+          "start": 37.08,
+          "end": 37.68
+        },
+        {
+          "word": "que",
+          "start": 37.68,
+          "end": 38.04
+        },
+        {
+          "word": "sufren",
+          "start": 38.04,
+          "end": 38.58
+        },
+        {
+          "word": "sin",
+          "start": 38.58,
+          "end": 39.44
+        },
+        {
+          "word": "amor,",
+          "start": 39.44,
+          "end": 41.82
+        }
+      ],
+      "start": 37.08,
+      "end": 41.82,
+      "confidence": 1.0,
+      "time": 37.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "muriendo de hambre o enfermedad,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Uniendo",
+          "start": 41.82,
+          "end": 42.78
+        },
+        {
+          "word": "de",
+          "start": 42.78,
+          "end": 43.26
+        },
+        {
+          "word": "hambre",
+          "start": 43.26,
+          "end": 43.64
+        },
+        {
+          "word": "o",
+          "start": 43.64,
+          "end": 44.46
+        },
+        {
+          "word": "enfermedad",
+          "start": 44.46,
+          "end": 47.14
+        }
+      ],
+      "start": 41.82,
+      "end": 47.14,
+      "confidence": 0.976,
+      "time": 41.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "luchando apenas por vivir.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Luchando",
+          "start": 47.14,
+          "end": 47.96
+        },
+        {
+          "word": "apenas",
+          "start": 47.96,
+          "end": 48.7
+        },
+        {
+          "word": "por",
+          "start": 48.7,
+          "end": 49.46
+        },
+        {
+          "word": "vivir",
+          "start": 49.46,
+          "end": 51.86
+        }
+      ],
+      "start": 47.14,
+      "end": 51.86,
+      "confidence": 1.0,
+      "time": 47.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hay muchos que quieren resolver",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hay",
+          "start": 51.86,
+          "end": 52.54
+        },
+        {
+          "word": "muchos",
+          "start": 52.54,
+          "end": 52.84
+        },
+        {
+          "word": "que",
+          "start": 52.84,
+          "end": 53.16
+        },
+        {
+          "word": "quieren",
+          "start": 53.16,
+          "end": 53.76
+        },
+        {
+          "word": "resolver",
+          "start": 53.76,
+          "end": 56.88
+        }
+      ],
+      "start": 51.86,
+      "end": 56.88,
+      "confidence": 1.0,
+      "time": 51.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "los males del mundo sin saber",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Los",
+          "start": 56.88,
+          "end": 57.64
+        },
+        {
+          "word": "males",
+          "start": 57.64,
+          "end": 57.94
+        },
+        {
+          "word": "del",
+          "start": 57.94,
+          "end": 58.3
+        },
+        {
+          "word": "mundo",
+          "start": 58.3,
+          "end": 58.76
+        },
+        {
+          "word": "sin",
+          "start": 58.76,
+          "end": 59.44
+        },
+        {
+          "word": "saber",
+          "start": 59.44,
+          "end": 61.9
+        }
+      ],
+      "start": 56.88,
+      "end": 61.9,
+      "confidence": 1.0,
+      "time": 56.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que solo en Cristo existe el poder",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Que",
+          "start": 61.9,
+          "end": 62.62
+        },
+        {
+          "word": "solo",
+          "start": 62.62,
+          "end": 63.08
+        },
+        {
+          "word": "en",
+          "start": 63.08,
+          "end": 63.3
+        },
+        {
+          "word": "Cristo",
+          "start": 63.3,
+          "end": 63.74
+        },
+        {
+          "word": "existe",
+          "start": 63.74,
+          "end": 65.06
+        },
+        {
+          "word": "el",
+          "start": 65.06,
+          "end": 65.96
+        },
+        {
+          "word": "poder",
+          "start": 65.96,
+          "end": 67.24
+        }
+      ],
+      "start": 61.9,
+      "end": 67.24,
+      "confidence": 1.0,
+      "time": 61.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que puede cambiar la realidad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 67.24,
+          "end": 67.7
+        },
+        {
+          "word": "puede",
+          "start": 67.7,
+          "end": 68.04
+        },
+        {
+          "word": "cambiar",
+          "start": 68.04,
+          "end": 68.7
+        },
+        {
+          "word": "la",
+          "start": 68.7,
+          "end": 69.16
+        },
+        {
+          "word": "realidad.",
+          "start": 69.16,
+          "end": 71.86
+        }
+      ],
+      "start": 67.24,
+      "end": 71.86,
+      "confidence": 1.0,
+      "time": 67.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Gran alegría inundó mi corazón",
+      "words": [
+        {
+          "word": "Gran",
+          "start": 72.36,
+          "end": 72.48
+        },
+        {
+          "word": "alegría",
+          "start": 72.48,
+          "end": 73.46
+        },
+        {
+          "word": "inundó",
+          "start": 73.46,
+          "end": 74.34
+        },
+        {
+          "word": "mi",
+          "start": 74.34,
+          "end": 74.66
+        },
+        {
+          "word": "corazón,",
+          "start": 74.66,
+          "end": 76.72
+        }
+      ],
+      "start": 72.36,
+      "end": 76.72,
+      "confidence": 1.0,
+      "time": 72.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "cuando escuché que Cristo pronto volverá.",
+      "words": [
+        {
+          "word": "cuando",
+          "start": 77.26,
+          "end": 77.48
+        },
+        {
+          "word": "escuché",
+          "start": 77.48,
+          "end": 78.14
+        },
+        {
+          "word": "que",
+          "start": 78.14,
+          "end": 78.38
+        },
+        {
+          "word": "Cristo",
+          "start": 78.38,
+          "end": 78.94
+        },
+        {
+          "word": "pronto",
+          "start": 78.94,
+          "end": 79.56
+        },
+        {
+          "word": "volverá.",
+          "start": 79.56,
+          "end": 81.84
+        }
+      ],
+      "start": 77.26,
+      "end": 81.84,
+      "confidence": 1.0,
+      "time": 77.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Gran alegría y emoción llenó mi ser",
+      "words": [
+        {
+          "word": "Gran",
+          "start": 82.32,
+          "end": 82.48
+        },
+        {
+          "word": "alegría",
+          "start": 82.48,
+          "end": 83.4
+        },
+        {
+          "word": "y",
+          "start": 83.4,
+          "end": 83.78
+        },
+        {
+          "word": "emoción",
+          "start": 83.78,
+          "end": 84.44
+        },
+        {
+          "word": "llenó",
+          "start": 84.44,
+          "end": 85.12
+        },
+        {
+          "word": "mi",
+          "start": 85.12,
+          "end": 85.54
+        },
+        {
+          "word": "ser,",
+          "start": 85.54,
+          "end": 86.86
+        }
+      ],
+      "start": 82.32,
+      "end": 86.86,
+      "confidence": 1.0,
+      "time": 82.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "por lo que Cristo hizo y hará por mí.",
+      "words": [
+        {
+          "word": "por",
+          "start": 87.4,
+          "end": 87.5
+        },
+        {
+          "word": "lo",
+          "start": 87.5,
+          "end": 87.7
+        },
+        {
+          "word": "que",
+          "start": 87.7,
+          "end": 87.88
+        },
+        {
+          "word": "Cristo",
+          "start": 87.88,
+          "end": 88.44
+        },
+        {
+          "word": "hizo",
+          "start": 88.44,
+          "end": 89.14
+        },
+        {
+          "word": "y",
+          "start": 89.14,
+          "end": 89.6
+        },
+        {
+          "word": "hará",
+          "start": 89.6,
+          "end": 90.12
+        },
+        {
+          "word": "por",
+          "start": 90.12,
+          "end": 90.52
+        },
+        {
+          "word": "mí.",
+          "start": 90.52,
+          "end": 92.3
+        }
+      ],
+      "start": 87.4,
+      "end": 92.3,
+      "confidence": 1.0,
+      "time": 87.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En breve habrá de terminar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 92.3,
+          "end": 93.04
+        },
+        {
+          "word": "breve",
+          "start": 93.04,
+          "end": 93.36
+        },
+        {
+          "word": "habrá",
+          "start": 93.36,
+          "end": 94.04
+        },
+        {
+          "word": "de",
+          "start": 94.04,
+          "end": 94.54
+        },
+        {
+          "word": "terminar",
+          "start": 94.54,
+          "end": 97.28
+        }
+      ],
+      "start": 92.3,
+      "end": 97.28,
+      "confidence": 1.0,
+      "time": 92.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "el mundo y toda vanidad;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 97.28,
+          "end": 98.0
+        },
+        {
+          "word": "mundo",
+          "start": 98.0,
+          "end": 98.32
+        },
+        {
+          "word": "y",
+          "start": 98.32,
+          "end": 98.86
+        },
+        {
+          "word": "toda",
+          "start": 98.86,
+          "end": 99.2
+        },
+        {
+          "word": "vanidad.",
+          "start": 99.2,
+          "end": 102.38
+        }
+      ],
+      "start": 97.28,
+      "end": 102.38,
+      "confidence": 1.0,
+      "time": 97.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "el mal y el pecado pronto acabarán;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "El",
+          "start": 102.98,
+          "end": 103.14
+        },
+        {
+          "word": "mal",
+          "start": 103.14,
+          "end": 103.3
+        },
+        {
+          "word": "y",
+          "start": 103.3,
+          "end": 103.42
+        },
+        {
+          "word": "el",
+          "start": 103.42,
+          "end": 103.62
+        },
+        {
+          "word": "pecado",
+          "start": 103.62,
+          "end": 104.3
+        },
+        {
+          "word": "pronto",
+          "start": 104.3,
+          "end": 105.34
+        },
+        {
+          "word": "acabará,",
+          "start": 105.34,
+          "end": 107.62
+        }
+      ],
+      "start": 102.98,
+      "end": 108.18,
+      "confidence": 0.991,
+      "time": 102.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesús volverá y reinará.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 108.18,
+          "end": 108.3
+        },
+        {
+          "word": "volverá",
+          "start": 108.3,
+          "end": 109.18
+        },
+        {
+          "word": "y",
+          "start": 109.18,
+          "end": 109.4
+        },
+        {
+          "word": "reinará.",
+          "start": 109.4,
+          "end": 112.42
+        }
+      ],
+      "start": 108.18,
+      "end": 112.42,
+      "confidence": 1.0,
+      "time": 108.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Un cielo hermoso puedo ver,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Un",
+          "start": 112.42,
+          "end": 113.22
+        },
+        {
+          "word": "cielo",
+          "start": 113.22,
+          "end": 113.58
+        },
+        {
+          "word": "hermoso",
+          "start": 113.58,
+          "end": 114.42
+        },
+        {
+          "word": "puedo",
+          "start": 114.42,
+          "end": 115.4
+        },
+        {
+          "word": "ver,",
+          "start": 115.4,
+          "end": 117.78
+        }
+      ],
+      "start": 112.42,
+      "end": 118.18,
+      "confidence": 1.0,
+      "time": 112.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mirando por medio de la fe.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mirando",
+          "start": 118.18,
+          "end": 118.58
+        },
+        {
+          "word": "por",
+          "start": 118.58,
+          "end": 118.96
+        },
+        {
+          "word": "medio",
+          "start": 118.96,
+          "end": 119.46
+        },
+        {
+          "word": "de",
+          "start": 119.46,
+          "end": 120.22
+        },
+        {
+          "word": "la",
+          "start": 120.22,
+          "end": 120.92
+        },
+        {
+          "word": "fe.",
+          "start": 120.92,
+          "end": 122.52
+        }
+      ],
+      "start": 118.18,
+      "end": 122.52,
+      "confidence": 1.0,
+      "time": 118.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "El brillo del mundo se apagará;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "El",
+          "start": 123.1,
+          "end": 123.28
+        },
+        {
+          "word": "brillo",
+          "start": 123.28,
+          "end": 123.7
+        },
+        {
+          "word": "del",
+          "start": 123.7,
+          "end": 123.98
+        },
+        {
+          "word": "mundo",
+          "start": 123.98,
+          "end": 124.44
+        },
+        {
+          "word": "se",
+          "start": 124.44,
+          "end": 125.42
+        },
+        {
+          "word": "amagará,",
+          "start": 125.42,
+          "end": 127.6
+        }
+      ],
+      "start": 123.1,
+      "end": 128.22,
+      "confidence": 0.986,
+      "time": 123.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la luz de Jesús me alumbrará.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 128.22,
+          "end": 128.34
+        },
+        {
+          "word": "luz",
+          "start": 128.34,
+          "end": 128.6
+        },
+        {
+          "word": "de",
+          "start": 128.6,
+          "end": 128.86
+        },
+        {
+          "word": "Jesús",
+          "start": 128.86,
+          "end": 129.26
+        },
+        {
+          "word": "me",
+          "start": 129.26,
+          "end": 129.66
+        },
+        {
+          "word": "alumbrará.",
+          "start": 129.66,
+          "end": 132.44
+        }
+      ],
+      "start": 128.22,
+      "end": 132.44,
+      "confidence": 1.0,
+      "time": 128.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Gran alegría inundó mi corazón",
+      "words": [
+        {
+          "word": "gran",
+          "start": 132.44,
+          "end": 133.06
+        },
+        {
+          "word": "alegría",
+          "start": 133.06,
+          "end": 133.96
+        },
+        {
+          "word": "inundó",
+          "start": 133.96,
+          "end": 134.96
+        },
+        {
+          "word": "mi",
+          "start": 134.96,
+          "end": 135.36
+        },
+        {
+          "word": "corazón",
+          "start": 135.36,
+          "end": 137.34
+        }
+      ],
+      "start": 132.44,
+      "end": 137.34,
+      "confidence": 1.0,
+      "time": 132.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "cuando escuché que Cristo pronto volverá.",
+      "words": [
+        {
+          "word": "cuando",
+          "start": 137.34,
+          "end": 138.14
+        },
+        {
+          "word": "escuché",
+          "start": 138.14,
+          "end": 138.8
+        },
+        {
+          "word": "que",
+          "start": 138.8,
+          "end": 139.06
+        },
+        {
+          "word": "Cristo",
+          "start": 139.06,
+          "end": 139.58
+        },
+        {
+          "word": "pronto",
+          "start": 139.58,
+          "end": 140.26
+        },
+        {
+          "word": "volverá",
+          "start": 140.26,
+          "end": 142.72
+        }
+      ],
+      "start": 137.34,
+      "end": 142.72,
+      "confidence": 1.0,
+      "time": 137.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Gran alegría y emoción llenó mi ser",
+      "words": [
+        {
+          "word": "y",
+          "start": 144.0,
+          "end": 144.46
+        },
+        {
+          "word": "emoción",
+          "start": 144.46,
+          "end": 145.2
+        }
+      ],
+      "start": 144.0,
+      "end": 147.46,
+      "confidence": 0.286,
+      "time": 144.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "por lo que Cristo hizo y hará por mí.",
+      "words": [
+        {
+          "word": "lo",
+          "start": 148.18,
+          "end": 148.36
+        },
+        {
+          "word": "que",
+          "start": 148.36,
+          "end": 148.54
+        },
+        {
+          "word": "Cristo",
+          "start": 148.54,
+          "end": 149.24
+        },
+        {
+          "word": "hizo",
+          "start": 149.24,
+          "end": 149.9
+        },
+        {
+          "word": "guiará",
+          "start": 149.9,
+          "end": 151.06
+        },
+        {
+          "word": "por",
+          "start": 151.06,
+          "end": 151.64
+        },
+        {
+          "word": "mí.",
+          "start": 151.64,
+          "end": 154.2
+        }
+      ],
+      "start": 148.18,
+      "end": 154.2,
+      "confidence": 0.751,
+      "time": 148.18
+    }
+  ]
+}

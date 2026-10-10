@@ -1,0 +1,733 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.955,
+  "language": "es",
+  "model": "medium",
+  "hymn": 176,
+  "source": "176 - Tu veras al Rey viniendo.mp3",
+  "duration": 104.78,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tú verás al Rey viniendo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 14.96,
+          "end": 15.88
+        },
+        {
+          "word": "verás",
+          "start": 15.88,
+          "end": 16.8
+        },
+        {
+          "word": "al",
+          "start": 16.8,
+          "end": 17.12
+        },
+        {
+          "word": "Rey",
+          "start": 17.12,
+          "end": 17.46
+        },
+        {
+          "word": "viniendo,",
+          "start": 17.46,
+          "end": 18.64
+        }
+      ],
+      "start": 14.96,
+      "end": 18.72,
+      "confidence": 1.0,
+      "time": 14.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y oirás son de trompetas.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 18.72,
+          "end": 19.34
+        },
+        {
+          "word": "de",
+          "start": 20.82,
+          "end": 21.18
+        },
+        {
+          "word": "trompetas,",
+          "start": 21.18,
+          "end": 22.12
+        }
+      ],
+      "start": 18.72,
+      "end": 22.18,
+      "confidence": 0.6,
+      "time": 18.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tú verás al Rey viniendo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tu",
+          "start": 22.18,
+          "end": 22.58
+        },
+        {
+          "word": "verás",
+          "start": 22.58,
+          "end": 23.5
+        },
+        {
+          "word": "al",
+          "start": 23.5,
+          "end": 23.96
+        },
+        {
+          "word": "Rey",
+          "start": 23.96,
+          "end": 24.2
+        },
+        {
+          "word": "viniendo,",
+          "start": 24.2,
+          "end": 25.42
+        }
+      ],
+      "start": 22.18,
+      "end": 25.98,
+      "confidence": 1.0,
+      "time": 22.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "falta poco ya.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "falta",
+          "start": 25.98,
+          "end": 26.34
+        },
+        {
+          "word": "poco",
+          "start": 26.34,
+          "end": 27.56
+        },
+        {
+          "word": "ya.",
+          "start": 27.56,
+          "end": 28.86
+        }
+      ],
+      "start": 25.98,
+      "end": 28.86,
+      "confidence": 1.0,
+      "time": 25.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Hoy escucha el coro,",
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 28.86,
+          "end": 29.5
+        },
+        {
+          "word": "escucha",
+          "start": 29.5,
+          "end": 31.28
+        },
+        {
+          "word": "el",
+          "start": 31.28,
+          "end": 31.58
+        },
+        {
+          "word": "coro,",
+          "start": 31.58,
+          "end": 32.3
+        }
+      ],
+      "start": 28.86,
+      "end": 32.3,
+      "confidence": 1.0,
+      "time": 28.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "oye las trompetas.",
+      "words": [
+        {
+          "word": "oye",
+          "start": 32.3,
+          "end": 33.1
+        },
+        {
+          "word": "las",
+          "start": 33.1,
+          "end": 34.4
+        },
+        {
+          "word": "trompetas,",
+          "start": 34.4,
+          "end": 35.56
+        }
+      ],
+      "start": 32.3,
+      "end": 35.78,
+      "confidence": 1.0,
+      "time": 32.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Hoy escucha el coro",
+      "words": [
+        {
+          "word": "hoy",
+          "start": 35.78,
+          "end": 36.3
+        },
+        {
+          "word": "escucha",
+          "start": 36.3,
+          "end": 38.06
+        },
+        {
+          "word": "el",
+          "start": 38.06,
+          "end": 38.36
+        },
+        {
+          "word": "coro",
+          "start": 38.36,
+          "end": 38.92
+        }
+      ],
+      "start": 35.78,
+      "end": 38.92,
+      "confidence": 1.0,
+      "time": 35.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "que anuncia al Señor.",
+      "words": [
+        {
+          "word": "que",
+          "start": 38.92,
+          "end": 39.7
+        },
+        {
+          "word": "anuncia",
+          "start": 39.7,
+          "end": 40.84
+        },
+        {
+          "word": "al",
+          "start": 40.84,
+          "end": 41.48
+        },
+        {
+          "word": "Señor.",
+          "start": 41.48,
+          "end": 43.48
+        }
+      ],
+      "start": 38.92,
+      "end": 43.48,
+      "confidence": 1.0,
+      "time": 38.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Resucitarán los justos,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Resucitarán",
+          "start": 45.26,
+          "end": 46.54
+        },
+        {
+          "word": "los",
+          "start": 46.54,
+          "end": 46.98
+        },
+        {
+          "word": "justos",
+          "start": 46.98,
+          "end": 47.74
+        }
+      ],
+      "start": 45.26,
+      "end": 47.74,
+      "confidence": 1.0,
+      "time": 45.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "miles de ángeles los llevan",
+      "verse": 2,
+      "words": [
+        {
+          "word": "miles",
+          "start": 47.74,
+          "end": 48.46
+        },
+        {
+          "word": "de",
+          "start": 48.46,
+          "end": 48.92
+        },
+        {
+          "word": "ángeles",
+          "start": 48.92,
+          "end": 49.76
+        },
+        {
+          "word": "los",
+          "start": 49.76,
+          "end": 50.4
+        },
+        {
+          "word": "llevan",
+          "start": 50.4,
+          "end": 51.02
+        }
+      ],
+      "start": 47.74,
+      "end": 51.02,
+      "confidence": 1.0,
+      "time": 47.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a los pies de Jesucristo;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 51.02,
+          "end": 51.64
+        },
+        {
+          "word": "los",
+          "start": 51.64,
+          "end": 52.06
+        },
+        {
+          "word": "pies",
+          "start": 52.06,
+          "end": 52.5
+        },
+        {
+          "word": "de",
+          "start": 52.5,
+          "end": 52.84
+        },
+        {
+          "word": "Jesucristo,",
+          "start": 52.84,
+          "end": 54.28
+        }
+      ],
+      "start": 51.02,
+      "end": 54.82,
+      "confidence": 1.0,
+      "time": 51.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "falta poco ya.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "falta",
+          "start": 54.82,
+          "end": 55.26
+        },
+        {
+          "word": "poco",
+          "start": 55.26,
+          "end": 56.66
+        },
+        {
+          "word": "ya.",
+          "start": 56.66,
+          "end": 57.74
+        }
+      ],
+      "start": 54.82,
+      "end": 57.74,
+      "confidence": 1.0,
+      "time": 54.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Hoy escucha el coro,",
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 57.74,
+          "end": 58.46
+        },
+        {
+          "word": "escucha",
+          "start": 58.46,
+          "end": 60.24
+        },
+        {
+          "word": "el",
+          "start": 60.24,
+          "end": 60.52
+        },
+        {
+          "word": "coro,",
+          "start": 60.52,
+          "end": 61.22
+        }
+      ],
+      "start": 57.74,
+      "end": 61.28,
+      "confidence": 1.0,
+      "time": 57.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "oye las trompetas.",
+      "words": [
+        {
+          "word": "oye",
+          "start": 61.28,
+          "end": 62.02
+        },
+        {
+          "word": "las",
+          "start": 62.02,
+          "end": 63.32
+        },
+        {
+          "word": "trompetas,",
+          "start": 63.32,
+          "end": 64.56
+        }
+      ],
+      "start": 61.28,
+      "end": 64.8,
+      "confidence": 1.0,
+      "time": 61.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Hoy escucha el coro",
+      "words": [
+        {
+          "word": "hoy",
+          "start": 64.8,
+          "end": 65.3
+        },
+        {
+          "word": "escucha",
+          "start": 65.3,
+          "end": 67.04
+        },
+        {
+          "word": "el",
+          "start": 67.04,
+          "end": 67.32
+        },
+        {
+          "word": "coro",
+          "start": 67.32,
+          "end": 67.94
+        }
+      ],
+      "start": 64.8,
+      "end": 68.62,
+      "confidence": 1.0,
+      "time": 64.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "que anuncia al Señor.",
+      "words": [
+        {
+          "word": "anuncia",
+          "start": 68.62,
+          "end": 70.04
+        },
+        {
+          "word": "al",
+          "start": 70.04,
+          "end": 70.5
+        },
+        {
+          "word": "Señor.",
+          "start": 70.5,
+          "end": 72.5
+        }
+      ],
+      "start": 68.62,
+      "end": 72.5,
+      "confidence": 0.75,
+      "time": 68.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Es Gabriel el que proclama",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Es",
+          "start": 73.18,
+          "end": 73.88
+        },
+        {
+          "word": "Gabriel",
+          "start": 73.88,
+          "end": 74.56
+        },
+        {
+          "word": "el",
+          "start": 74.56,
+          "end": 75.08
+        },
+        {
+          "word": "que",
+          "start": 75.08,
+          "end": 75.6
+        },
+        {
+          "word": "proclama",
+          "start": 75.6,
+          "end": 76.54
+        }
+      ],
+      "start": 73.18,
+      "end": 76.54,
+      "confidence": 1.0,
+      "time": 73.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y nosotros cantaremos:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 76.54,
+          "end": 77.06
+        },
+        {
+          "word": "nosotros",
+          "start": 77.06,
+          "end": 78.24
+        },
+        {
+          "word": "cantaremos,",
+          "start": 78.24,
+          "end": 79.78
+        }
+      ],
+      "start": 76.54,
+      "end": 79.98,
+      "confidence": 1.0,
+      "time": 76.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "\"Los pesares terminaron\".",
+      "verse": 3,
+      "words": [
+        {
+          "word": "los",
+          "start": 79.98,
+          "end": 80.66
+        },
+        {
+          "word": "pesares",
+          "start": 80.66,
+          "end": 81.64
+        },
+        {
+          "word": "terminaron,",
+          "start": 81.64,
+          "end": 83.3
+        }
+      ],
+      "start": 79.98,
+      "end": 83.94,
+      "confidence": 1.0,
+      "time": 79.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Falta poco ya.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "falta",
+          "start": 83.94,
+          "end": 84.2
+        },
+        {
+          "word": "poco",
+          "start": 84.2,
+          "end": 85.88
+        },
+        {
+          "word": "ya.",
+          "start": 85.88,
+          "end": 86.62
+        }
+      ],
+      "start": 83.94,
+      "end": 86.62,
+      "confidence": 1.0,
+      "time": 83.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Hoy escucha el coro,",
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 86.62,
+          "end": 87.46
+        },
+        {
+          "word": "escucha",
+          "start": 87.46,
+          "end": 89.22
+        },
+        {
+          "word": "el",
+          "start": 89.22,
+          "end": 89.34
+        },
+        {
+          "word": "coro",
+          "start": 89.34,
+          "end": 90.26
+        }
+      ],
+      "start": 86.62,
+      "end": 91.12,
+      "confidence": 1.0,
+      "time": 86.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "oye las trompetas.",
+      "words": [
+        {
+          "word": "las",
+          "start": 91.12,
+          "end": 92.28
+        },
+        {
+          "word": "topecas,",
+          "start": 92.28,
+          "end": 93.42
+        }
+      ],
+      "start": 91.12,
+      "end": 93.86,
+      "confidence": 0.617,
+      "time": 91.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Hoy escucha el coro",
+      "words": [
+        {
+          "word": "hoy",
+          "start": 93.86,
+          "end": 94.24
+        },
+        {
+          "word": "escucha",
+          "start": 94.24,
+          "end": 96.0
+        },
+        {
+          "word": "el",
+          "start": 96.0,
+          "end": 96.3
+        },
+        {
+          "word": "coro",
+          "start": 96.3,
+          "end": 97.28
+        }
+      ],
+      "start": 93.86,
+      "end": 97.28,
+      "confidence": 1.0,
+      "time": 93.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "que anuncia al Señor.",
+      "words": [
+        {
+          "word": "que",
+          "start": 97.28,
+          "end": 97.78
+        },
+        {
+          "word": "anuncia",
+          "start": 97.78,
+          "end": 99.24
+        },
+        {
+          "word": "al",
+          "start": 99.24,
+          "end": 99.56
+        },
+        {
+          "word": "Señor.",
+          "start": 99.56,
+          "end": 100.64
+        }
+      ],
+      "start": 97.28,
+      "end": 100.64,
+      "confidence": 1.0,
+      "time": 97.28
+    }
+  ]
+}

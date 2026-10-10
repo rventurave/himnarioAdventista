@@ -1,5 +1,5 @@
 # Audios del himnario
-dataBase/audios/
+data/audios/
 
 # Archivos de audio
 *.mp3
@@ -9,3 +9,6 @@ dataBase/audios/
 # Entorno de las herramientas de sincronización vocal
 .venv/
 __pycache__/
+
+# Salida estática para Cloudflare Pages
+dist/
