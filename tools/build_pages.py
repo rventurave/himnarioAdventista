@@ -12,6 +12,8 @@ def build():
     OUTPUT.mkdir(exist_ok=True)
     shutil.copy2(ROOT / "index.html", OUTPUT / "index.html")
     shutil.copy2(ROOT / "robots.txt", OUTPUT / "robots.txt")
+    # Conserva el archivo original de Google para verificar Search Console.
+    shutil.copy2(ROOT / "google559bc240c1dea629.html", OUTPUT / "google559bc240c1dea629.html")
     shutil.copytree(ROOT / "src", OUTPUT / "src", dirs_exist_ok=True)
     (OUTPUT / "data").mkdir(exist_ok=True)
     shutil.copy2(ROOT / "data/himnario-api.json", OUTPUT / "data/himnario-api.json")
