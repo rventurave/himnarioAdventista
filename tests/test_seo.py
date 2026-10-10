@@ -33,7 +33,7 @@ class HeadParser(HTMLParser):
 
 
 class SeoHtmlTests(unittest.TestCase):
-    def test_home_metadata_and_visible_content(self):
+    def test_home_metadata_without_descriptive_paragraphs(self):
         html = (ROOT / "index.html").read_text()
         parser = HeadParser()
         parser.feed(html)
@@ -47,8 +47,9 @@ class SeoHtmlTests(unittest.TestCase):
         self.assertTrue(parser.meta["og:title"])
         self.assertTrue(parser.meta["og:description"])
         self.assertIn('<h1 class="app-title">Himnario Adventista</h1>', html)
-        self.assertIn('<div class="home-description">', html)
-        self.assertNotIn('<div class="home-description" hidden', html)
+        self.assertNotIn('home-description', html)
+        self.assertNotIn('Consulta online los 613 himnos', html)
+        self.assertNotIn('Selecciona Letra para recorrer las estrofas', html)
         self.assertNotIn('name="keywords"', html)
         self.assertNotIn('.mp3', html)
 

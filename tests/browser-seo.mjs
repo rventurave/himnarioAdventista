@@ -10,18 +10,20 @@ try {
   });
   page.on('pageerror', error => errors.push(error.message));
   await page.goto(base);
-  await page.locator('.home-description').waitFor();
+  await page.locator('#search-input').waitFor();
   assert.match(await page.title(), /Himnario Adventista del Séptimo Día/);
-  assert.match(await page.locator('.home-description').textContent(), /613 himnos/);
+  assert.equal(await page.locator('.home-description').count(), 0);
+  assert.doesNotMatch(await page.locator('#view-home').textContent(), /Consulta online los 613 himnos|Selecciona Letra para recorrer las estrofas/);
   assert.equal(await page.locator('#hymn-audio').getAttribute('src'), null);
   assert.deepEqual(heavy, [], 'sin precarga de audio ni sincronizaciones en portada');
   assert.deepEqual(errors, []);
   const plain = await browser.newContext({ javaScriptEnabled: false });
   const staticPage = await plain.newPage();
   await staticPage.goto(base);
-  assert.ok(await staticPage.locator('.home-description').isVisible());
+  assert.ok(await staticPage.locator('#search-input').isVisible());
+  assert.equal(await staticPage.locator('.home-description').count(), 0);
   await plain.close();
-  console.log('Portada: metadatos, contenido visible sin JavaScript y ninguna carga de MP3/LRC/sincronización.');
+  console.log('Portada: metadatos conservados, párrafos eliminados y buscador visible con/sin JavaScript; sin precarga de audio ni sincronización.');
 } finally {
   await browser.close();
 }

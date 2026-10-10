@@ -17,9 +17,10 @@ class PagesBuildTests(unittest.TestCase):
         self.assertFalse((OUTPUT / "server.py").exists())
         self.assertTrue((OUTPUT / "404.html").exists())
         self.assertEqual((ROOT / "robots.txt").read_bytes(), (OUTPUT / "robots.txt").read_bytes())
-        verification = "google559bc240c1dea629.html"
-        self.assertTrue((OUTPUT / verification).is_file())
-        self.assertEqual((ROOT / verification).read_bytes(), (OUTPUT / verification).read_bytes())
+        for verification in ("google559bc240c1dea629.html", "google3fcf1a30d77a5e34.html"):
+            with self.subTest(verification=verification):
+                self.assertTrue((OUTPUT / verification).is_file())
+                self.assertEqual((ROOT / verification).read_bytes(), (OUTPUT / verification).read_bytes())
         rules = (OUTPUT / "_redirects").read_text().splitlines()
         self.assertEqual(len(rules), 613)
         self.assertIn('/1 /index.html 200', rules)
