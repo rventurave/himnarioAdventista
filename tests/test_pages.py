@@ -16,6 +16,7 @@ class PagesBuildTests(unittest.TestCase):
         self.assertFalse(any(p.suffix.lower() in (".mp3", ".wav", ".ogg") for p in OUTPUT.rglob("*")))
         self.assertFalse((OUTPUT / "server.py").exists())
         self.assertTrue((OUTPUT / "404.html").exists())
+        self.assertEqual((ROOT / "robots.txt").read_bytes(), (OUTPUT / "robots.txt").read_bytes())
         rules = (OUTPUT / "_redirects").read_text().splitlines()
         self.assertEqual(len(rules), 613)
         self.assertIn('/1 /index.html 200', rules)

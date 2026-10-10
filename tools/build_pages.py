@@ -11,6 +11,7 @@ OUTPUT = ROOT / "dist"
 def build():
     OUTPUT.mkdir(exist_ok=True)
     shutil.copy2(ROOT / "index.html", OUTPUT / "index.html")
+    shutil.copy2(ROOT / "robots.txt", OUTPUT / "robots.txt")
     shutil.copytree(ROOT / "src", OUTPUT / "src", dirs_exist_ok=True)
     (OUTPUT / "data").mkdir(exist_ok=True)
     shutil.copy2(ROOT / "data/himnario-api.json", OUTPUT / "data/himnario-api.json")

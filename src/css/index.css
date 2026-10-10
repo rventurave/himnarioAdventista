@@ -55,6 +55,18 @@ body {
    CONTENEDOR DEL BUSCADOR
 ======================================== */
 
+.home-description {
+  max-width: 650px;
+  margin-top: 24px;
+  color: #fff;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.home-description p + p {
+  margin-top: 12px;
+}
+
 .search-container {
   position: relative;
 
