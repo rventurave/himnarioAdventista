@@ -12,6 +12,14 @@ try {
   await page.goto(base);
   await page.locator('#search-input').waitFor();
   assert.match(await page.title(), /Himnario Adventista del Séptimo Día/);
+  assert.equal(await page.title(), 'Himnario Adventista del Séptimo Día | 613 Himnos');
+  assert.equal(await page.locator('link[rel="canonical"]').getAttribute('href'), 'https://himnario-adventista.pages.dev/');
+  assert.equal(await page.locator('meta[property="og:url"]').getAttribute('content'), 'https://himnario-adventista.pages.dev/');
+  for (const path of ['robots.txt', 'sitemap.xml']) {
+    const response = await page.request.get(`${base}/${path}`);
+    assert.equal(response.status(), 200);
+    assert.ok((await response.text()).includes('https://himnario-adventista.pages.dev/'));
+  }
   assert.equal(await page.locator('.home-description').count(), 0);
   assert.doesNotMatch(await page.locator('#view-home').textContent(), /Consulta online los 613 himnos|Selecciona Letra para recorrer las estrofas/);
   assert.equal(await page.locator('#hymn-audio').getAttribute('src'), null);

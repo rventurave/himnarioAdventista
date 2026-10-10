@@ -1,42 +1,49 @@
 # SEO del Himnario Adventista
 
-La portada incluye título descriptivo, descripción, metadatos Open Graph,
-idioma español y viewport. Su encabezado conserva la clase y apariencia
-existentes. Dos párrafos visibles explican el catálogo de 613 himnos y los
-modos de consulta; están en el HTML y se leen sin JavaScript.
+El dominio canónico es `https://himnario-adventista.pages.dev/`.
 
-No se añaden listas de palabras clave, textos ocultos ni precargas de audios
-o sincronizaciones. Los audios de R2 y las letras y tiempos originales no
-se modificaron. `robots.txt` permite el rastreo, incluidos los recursos que
-Google necesita para renderizar la aplicación, y el build lo copia a `dist`.
+La portada usa el título **Himnario Adventista del Séptimo Día | 613 Himnos**
+y la descripción solicitada. Open Graph comparte ese título y descripción y
+apunta al mismo dominio mediante `og:url`. Se conservan `lang="es"`, viewport
+y el H1 visible **Himnario Adventista**. No se añaden párrafos descriptivos,
+contenido oculto ni precargas de los audios o sincronizaciones.
 
-## Dominio pendiente
+## Diagnóstico del sitemap
 
-El repositorio no contiene el dominio público definitivo. No se ha inventado
-una URL canónica ni un sitemap con un origen ficticio. Falta confirmar ese
-dominio para agregar canonical, `og:url`, el sitemap y su referencia en robots.
+En la comprobación del 9 de octubre de 2026 (America/Lima):
 
-Las rutas `/1` a `/613` ya están definidas en las reescrituras de Pages y en
-el router. No son páginas prerenderizadas: todas reciben el mismo HTML y
-obtienen el contenido por JavaScript. El sitemap debe usar las rutas reales
-del catálogo, sin variantes duplicadas de modo ni fechas de modificación
-inventadas. También hay que evitar servir un canonical de portada a todos
-los himnos: el build actual comparte un único HTML entre esas rutas.
+- La portada respondió HTTP 200, sin meta `noindex` ni cabecera `X-Robots-Tag`
+  que impidiera indexarla.
+- `robots.txt` respondió HTTP 200 y permitió rastrear `/`.
+- `sitemap.xml` respondió HTTP 404 con una página HTML de error, sin
+  redirección. Repitiendo la solicitud con User-Agent Googlebot también
+  respondió 404. Esto no reproduce la infraestructura de Googlebot, pero sí
+  confirma el mismo resultado para ambas solicitudes.
+- El sitemap tampoco existía en el repositorio y el build no lo copiaba.
 
-## Propuesta de páginas por himno
+La causa comprobada del error de descarga es la ausencia del archivo publicado.
+No se encontró un bloqueo de robots ni un XML existente que pudiera validarse.
+No se tiene acceso al informe privado de Search Console ni al historial de sus
+solicitudes, así que esta comprobación identifica el problema actual.
 
-Generar HTML individual con título, número y letra del catálogo permitiría
-que Google y los servicios sociales lean el contenido sin ejecutar JavaScript.
-El impacto sería añadir 613 documentos al build, sustituir las reescrituras
-actuales por páginas estáticas y dar a cada una un canonical propio. Se pueden
-conservar `/numero`, los parámetros de modo y los módulos del reproductor.
-No hace falta subir audios ni modificar letras o sincronizaciones.
+Se añadió un XML UTF-8 con el namespace estándar y la URL canónica de la portada.
+El build copia `sitemap.xml` y `robots.txt` a la raíz de `dist`. Robots conserva
+el rastreo permitido y anuncia la URL pública del sitemap. No se inventan fechas
+`lastmod`, páginas ni variantes duplicadas de parámetros.
 
-Esta ampliación no está implementada; requiere acordar su alcance antes de
-cambiar la publicación. Google recomienda contenido prerenderizado y títulos
-descriptivos únicos: [SEO de aplicaciones JavaScript](https://developers.google.com/search/docs/crawling-indexing/javascript/javascript-seo-basics).
+## Alcance de las URL individuales
 
-## Comprobaciones
+El router y el build definen rutas de himnos, pero la comprobación pública de
+`/1?mode=lyrics` devolvió HTTP 308 hacia `/?mode=lyrics`. No se considera una
+página independiente confirmada para este sitemap. Por ahora solo se incluye
+la portada, que respondió 200 directamente.
+
+No se modificaron las reescrituras, el reproductor ni las rutas en esta tarea.
+Resolver la navegación directa de himnos y darles HTML y canonical propios
+requiere un cambio separado antes de incluirlos en el sitemap. No se generaron
+613 páginas ni se alteraron las letras, audios o sincronizaciones.
+
+## Pruebas y compilación
 
 ```bash
 python3 tools/build_pages.py
@@ -44,25 +51,41 @@ python3 -m unittest discover -s tests
 node --test tests/*.test.mjs
 ```
 
-`tests/browser-seo.mjs` comprueba la portada con Chrome, también sin JavaScript,
-y verifica que no se soliciten MP3, LRC ni archivos de sincronización al inicio.
-Utiliza la misma configuración Playwright descrita en `cloudflare-pages.md`.
+Las pruebas comprueban título y descripción exactos, canonical, Open Graph,
+ausencia de párrafos y `noindex`, XML válido, robots, copias byte a byte y HTTP
+local 200 sin redirecciones para HTML, robots y sitemap. La prueba de archivos
+publicados conserva las letras, sincronizaciones y ambas verificaciones Google.
 
-## Google Search Console después de completar el dominio y publicar
+`tests/browser-seo.mjs` comprueba la portada con Chrome, con y sin JavaScript,
+sus metadatos, acceso a los archivos SEO y que no se carguen MP3/LRC/sincronización
+al iniciar. Usa la configuración Playwright de `cloudflare-pages.md`.
 
-1. Abre [Google Search Console](https://search.google.com/search-console/) y
-   añade una propiedad **Prefijo de URL** con la URL HTTPS pública exacta.
-   Si usas un dominio propio y controlas su DNS, puedes elegir **Dominio**.
-2. Verifica la propiedad. En un subdominio `pages.dev`, usa la etiqueta HTML
-   proporcionada por Google en el `<head>` de `index.html`, ejecuta el build y
-   publica. Conserva esa etiqueta. Para una propiedad Dominio, usa el registro
-   TXT de DNS que Google indique; no puedes administrar el DNS de `pages.dev`.
-3. Comprueba que el sitemap y robots publicados respondan 200 y contengan el
-   dominio canónico confirmado. En **Sitemaps**, envía `sitemap.xml`.
-4. Usa **Inspección de URL → Probar URL publicada** para revisar el contenido
-   renderizado y la URL canónica. Solicita indexación de la portada.
-5. Revisa después los informes de indexación y rendimiento. Estas mejoras
-   facilitan el rastreo; no garantizan indexación ni una posición concreta.
+## Verificar después de tu despliegue
 
-Referencias: [verificación de propiedad](https://support.google.com/webmasters/answer/9008080)
-y [construcción y envío de sitemaps](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap).
+No se hicieron commits, push ni despliegues. La corrección local solo llegará
+al dominio público cuando publiques los archivos nuevos y modificados.
+
+1. Abre `https://himnario-adventista.pages.dev/sitemap.xml` y confirma que contiene
+   XML, no una página de error. Comprueba `robots.txt` y su línea `Sitemap`.
+2. Puedes comprobar códigos y cabeceras con:
+
+   ```bash
+   curl -i https://himnario-adventista.pages.dev/sitemap.xml
+   curl -i https://himnario-adventista.pages.dev/robots.txt
+   curl -I https://himnario-adventista.pages.dev/
+   ```
+
+   Espera HTTP 200 para los tres, y XML en el sitemap. El HTML debe conservar el
+   canonical correcto y no debe aparecer una cabecera `X-Robots-Tag: noindex`.
+3. En Google Search Console, selecciona la propiedad del prefijo
+   `https://himnario-adventista.pages.dev/`. En **Sitemaps**, envía `sitemap.xml`
+   o vuelve a enviar la URL corregida si ya estaba registrada.
+4. Revisa **Última lectura** y el estado de procesamiento cuando Google vuelva
+   a consultar el sitemap. El informe puede tardar en actualizarse.
+5. Usa **Inspección de URL → Probar URL publicada** sobre la portada y solicita
+   indexación. Revisa después la URL canónica elegida por Google y los informes
+   de indexación y rendimiento.
+
+Estas mejoras facilitan el rastreo, pero no garantizan una posición para una
+búsqueda concreta. Referencias: [sitemaps de Google](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap)
+y [informe de sitemaps de Search Console](https://support.google.com/webmasters/answer/7451001).
