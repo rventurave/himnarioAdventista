@@ -1,0 +1,838 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.927,
+  "language": "es",
+  "model": "medium",
+  "hymn": 460,
+  "source": "460 - Quiero estar cerca de Cristo.mp3",
+  "duration": 198.11,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Quiero estar cerca de Cristo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 2.24,
+          "end": 2.94
+        },
+        {
+          "word": "de",
+          "start": 4.2,
+          "end": 4.2
+        }
+      ],
+      "start": 2.24,
+      "end": 4.24,
+      "confidence": 0.388,
+      "time": 2.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en su presencia habitar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 4.24,
+          "end": 4.24
+        }
+      ],
+      "start": 4.24,
+      "end": 32.22,
+      "confidence": 0.25,
+      "time": 4.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Siempre yo quiero servirlo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Siempre",
+          "start": 32.24,
+          "end": 34.36
+        },
+        {
+          "word": "yo",
+          "start": 34.36,
+          "end": 35.02
+        },
+        {
+          "word": "quiero",
+          "start": 35.02,
+          "end": 36.2
+        },
+        {
+          "word": "ser",
+          "start": 36.2,
+          "end": 37.6
+        }
+      ],
+      "start": 32.24,
+      "end": 40.78,
+      "confidence": 0.985,
+      "time": 32.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "siempre a su lado he de andar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "siempre",
+          "start": 40.78,
+          "end": 41.5
+        },
+        {
+          "word": "a",
+          "start": 41.5,
+          "end": 42.08
+        },
+        {
+          "word": "su",
+          "start": 42.08,
+          "end": 42.46
+        },
+        {
+          "word": "lado",
+          "start": 42.46,
+          "end": 43.28
+        },
+        {
+          "word": "he",
+          "start": 43.28,
+          "end": 43.68
+        },
+        {
+          "word": "de",
+          "start": 43.68,
+          "end": 44.08
+        },
+        {
+          "word": "andar.",
+          "start": 44.08,
+          "end": 47.46
+        }
+      ],
+      "start": 40.78,
+      "end": 47.46,
+      "confidence": 1.0,
+      "time": 40.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Quiero estar junto a mi Cristo,",
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 47.94,
+          "end": 49.04
+        },
+        {
+          "word": "estar",
+          "start": 49.04,
+          "end": 49.76
+        },
+        {
+          "word": "junto",
+          "start": 49.76,
+          "end": 50.52
+        },
+        {
+          "word": "a",
+          "start": 50.52,
+          "end": 51.18
+        },
+        {
+          "word": "mi",
+          "start": 51.18,
+          "end": 51.62
+        },
+        {
+          "word": "Cristo,",
+          "start": 51.62,
+          "end": 53.76
+        }
+      ],
+      "start": 47.94,
+      "end": 55.3,
+      "confidence": 1.0,
+      "time": 47.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "quiero estar cerca de él.",
+      "words": [
+        {
+          "word": "quiero",
+          "start": 55.3,
+          "end": 56.2
+        },
+        {
+          "word": "estar",
+          "start": 56.2,
+          "end": 57.06
+        },
+        {
+          "word": "cerca",
+          "start": 57.06,
+          "end": 58.24
+        },
+        {
+          "word": "de",
+          "start": 58.24,
+          "end": 59.22
+        },
+        {
+          "word": "Él.",
+          "start": 59.22,
+          "end": 61.24
+        }
+      ],
+      "start": 55.3,
+      "end": 61.24,
+      "confidence": 1.0,
+      "time": 55.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Es un Amigo constante",
+      "words": [
+        {
+          "word": "es",
+          "start": 61.24,
+          "end": 63.42
+        },
+        {
+          "word": "un",
+          "start": 63.42,
+          "end": 64.38
+        },
+        {
+          "word": "amigo",
+          "start": 64.38,
+          "end": 65.58
+        },
+        {
+          "word": "constante",
+          "start": 65.58,
+          "end": 68.38
+        }
+      ],
+      "start": 61.24,
+      "end": 68.38,
+      "confidence": 1.0,
+      "time": 61.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y un Salvador siempre fiel.",
+      "words": [
+        {
+          "word": "y",
+          "start": 68.38,
+          "end": 70.42
+        },
+        {
+          "word": "un",
+          "start": 70.42,
+          "end": 71.2
+        },
+        {
+          "word": "salvador",
+          "start": 71.2,
+          "end": 72.48
+        },
+        {
+          "word": "siempre",
+          "start": 72.48,
+          "end": 73.92
+        },
+        {
+          "word": "fiel.",
+          "start": 73.92,
+          "end": 75.24
+        }
+      ],
+      "start": 68.38,
+      "end": 75.24,
+      "confidence": 1.0,
+      "time": 68.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Quiero estar cerca de Cristo,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 77.56,
+          "end": 78.56
+        },
+        {
+          "word": "estar",
+          "start": 78.56,
+          "end": 79.22
+        },
+        {
+          "word": "cerca",
+          "start": 79.22,
+          "end": 80.4
+        },
+        {
+          "word": "de",
+          "start": 80.4,
+          "end": 81.16
+        },
+        {
+          "word": "Cristo,",
+          "start": 81.16,
+          "end": 83.86
+        }
+      ],
+      "start": 77.56,
+      "end": 84.84,
+      "confidence": 1.0,
+      "time": 77.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡nada me separará!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "nada",
+          "start": 84.84,
+          "end": 85.96
+        },
+        {
+          "word": "me",
+          "start": 85.96,
+          "end": 86.66
+        },
+        {
+          "word": "separará.",
+          "start": 86.66,
+          "end": 90.04
+        }
+      ],
+      "start": 84.84,
+      "end": 90.04,
+      "confidence": 1.0,
+      "time": 84.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Pues por su gracia soy salvo,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pues",
+          "start": 91.24,
+          "end": 92.7
+        },
+        {
+          "word": "por",
+          "start": 92.7,
+          "end": 93.34
+        },
+        {
+          "word": "su",
+          "start": 93.34,
+          "end": 93.92
+        },
+        {
+          "word": "gracia",
+          "start": 93.92,
+          "end": 95.1
+        },
+        {
+          "word": "soy",
+          "start": 95.1,
+          "end": 95.68
+        },
+        {
+          "word": "salvo",
+          "start": 95.68,
+          "end": 98.98
+        }
+      ],
+      "start": 91.24,
+      "end": 98.98,
+      "confidence": 1.0,
+      "time": 91.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "su voluntad he de obrar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "su",
+          "start": 98.98,
+          "end": 100.08
+        },
+        {
+          "word": "voluntad",
+          "start": 100.08,
+          "end": 102.08
+        },
+        {
+          "word": "de",
+          "start": 102.08,
+          "end": 102.74
+        },
+        {
+          "word": "orar.",
+          "start": 102.74,
+          "end": 106.7
+        }
+      ],
+      "start": 98.98,
+      "end": 106.7,
+      "confidence": 0.787,
+      "time": 98.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Quiero estar junto a mi Cristo,",
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 106.7,
+          "end": 107.92
+        },
+        {
+          "word": "estar",
+          "start": 107.92,
+          "end": 108.58
+        },
+        {
+          "word": "junto",
+          "start": 108.58,
+          "end": 109.4
+        },
+        {
+          "word": "a",
+          "start": 109.4,
+          "end": 110.02
+        },
+        {
+          "word": "mi",
+          "start": 110.02,
+          "end": 110.52
+        },
+        {
+          "word": "Piso,",
+          "start": 110.52,
+          "end": 113.14
+        }
+      ],
+      "start": 106.7,
+      "end": 114.7,
+      "confidence": 0.96,
+      "time": 106.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "quiero estar cerca de él.",
+      "words": [
+        {
+          "word": "quiero",
+          "start": 114.7,
+          "end": 115.02
+        },
+        {
+          "word": "estar",
+          "start": 115.02,
+          "end": 115.96
+        },
+        {
+          "word": "cerca",
+          "start": 115.96,
+          "end": 117.24
+        },
+        {
+          "word": "de",
+          "start": 117.24,
+          "end": 118.6
+        },
+        {
+          "word": "él.",
+          "start": 118.6,
+          "end": 121.24
+        }
+      ],
+      "start": 114.7,
+      "end": 121.24,
+      "confidence": 1.0,
+      "time": 114.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Es un Amigo constante",
+      "words": [
+        {
+          "word": "Es",
+          "start": 121.82,
+          "end": 122.28
+        },
+        {
+          "word": "un",
+          "start": 122.28,
+          "end": 123.04
+        },
+        {
+          "word": "amigo",
+          "start": 123.04,
+          "end": 124.4
+        },
+        {
+          "word": "constante,",
+          "start": 124.4,
+          "end": 127.34
+        }
+      ],
+      "start": 121.82,
+      "end": 128.9,
+      "confidence": 1.0,
+      "time": 121.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y un Salvador siempre fiel.",
+      "words": [
+        {
+          "word": "y",
+          "start": 128.9,
+          "end": 129.36
+        },
+        {
+          "word": "un",
+          "start": 129.36,
+          "end": 129.74
+        },
+        {
+          "word": "salvador",
+          "start": 129.74,
+          "end": 131.22
+        },
+        {
+          "word": "siempre",
+          "start": 131.22,
+          "end": 132.66
+        },
+        {
+          "word": "fiel.",
+          "start": 132.66,
+          "end": 134.5
+        }
+      ],
+      "start": 128.9,
+      "end": 134.5,
+      "confidence": 1.0,
+      "time": 128.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Quiero estar junto a mi Cristo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 134.5,
+          "end": 137.22
+        },
+        {
+          "word": "estar",
+          "start": 137.22,
+          "end": 137.86
+        },
+        {
+          "word": "junto",
+          "start": 137.86,
+          "end": 138.66
+        },
+        {
+          "word": "a",
+          "start": 138.66,
+          "end": 139.22
+        },
+        {
+          "word": "mi",
+          "start": 139.22,
+          "end": 139.72
+        },
+        {
+          "word": "Cristo",
+          "start": 139.72,
+          "end": 141.96
+        }
+      ],
+      "start": 134.5,
+      "end": 141.96,
+      "confidence": 1.0,
+      "time": 134.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "su fortaleza me da.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Su",
+          "start": 141.96,
+          "end": 144.18
+        },
+        {
+          "word": "fortaleza",
+          "start": 144.18,
+          "end": 146.48
+        },
+        {
+          "word": "me",
+          "start": 146.48,
+          "end": 147.34
+        },
+        {
+          "word": "da",
+          "start": 147.34,
+          "end": 150.08
+        }
+      ],
+      "start": 141.96,
+      "end": 150.08,
+      "confidence": 1.0,
+      "time": 141.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Quiero contar sus bondades,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 150.08,
+          "end": 152.08
+        },
+        {
+          "word": "contar",
+          "start": 152.08,
+          "end": 153.2
+        },
+        {
+          "word": "sus",
+          "start": 153.2,
+          "end": 153.9
+        },
+        {
+          "word": "voltades",
+          "start": 153.9,
+          "end": 158.08
+        }
+      ],
+      "start": 150.08,
+      "end": 158.08,
+      "confidence": 0.944,
+      "time": 150.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y en su sendero avanzar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 158.08,
+          "end": 158.76
+        },
+        {
+          "word": "en",
+          "start": 158.76,
+          "end": 159.06
+        },
+        {
+          "word": "su",
+          "start": 159.06,
+          "end": 159.5
+        },
+        {
+          "word": "sendero",
+          "start": 159.5,
+          "end": 161.16
+        },
+        {
+          "word": "avanzar.",
+          "start": 161.16,
+          "end": 165.32
+        }
+      ],
+      "start": 158.08,
+      "end": 165.32,
+      "confidence": 1.0,
+      "time": 158.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Quiero estar junto a mi Cristo,",
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 165.66,
+          "end": 166.7
+        },
+        {
+          "word": "estar",
+          "start": 166.7,
+          "end": 167.32
+        },
+        {
+          "word": "junto",
+          "start": 167.32,
+          "end": 168.14
+        },
+        {
+          "word": "a",
+          "start": 168.14,
+          "end": 168.76
+        },
+        {
+          "word": "mi",
+          "start": 168.76,
+          "end": 169.22
+        },
+        {
+          "word": "Cristo,",
+          "start": 169.22,
+          "end": 171.4
+        }
+      ],
+      "start": 165.66,
+      "end": 172.84,
+      "confidence": 1.0,
+      "time": 165.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "quiero estar cerca de él.",
+      "words": [
+        {
+          "word": "quiero",
+          "start": 172.84,
+          "end": 173.8
+        },
+        {
+          "word": "estar",
+          "start": 173.8,
+          "end": 174.66
+        },
+        {
+          "word": "cerca",
+          "start": 174.66,
+          "end": 175.94
+        },
+        {
+          "word": "de",
+          "start": 175.94,
+          "end": 176.8
+        },
+        {
+          "word": "Él.",
+          "start": 176.8,
+          "end": 179.5
+        }
+      ],
+      "start": 172.84,
+      "end": 179.5,
+      "confidence": 1.0,
+      "time": 172.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Es un Amigo constante",
+      "words": [
+        {
+          "word": "es",
+          "start": 179.5,
+          "end": 181.22
+        },
+        {
+          "word": "un",
+          "start": 181.22,
+          "end": 182.02
+        },
+        {
+          "word": "amigo",
+          "start": 182.02,
+          "end": 183.14
+        },
+        {
+          "word": "constante,",
+          "start": 183.14,
+          "end": 186.86
+        }
+      ],
+      "start": 179.5,
+      "end": 188.14,
+      "confidence": 1.0,
+      "time": 179.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y un Salvador siempre fiel.",
+      "words": [
+        {
+          "word": "un",
+          "start": 188.14,
+          "end": 188.44
+        },
+        {
+          "word": "salvador",
+          "start": 188.44,
+          "end": 190.36
+        },
+        {
+          "word": "siempre",
+          "start": 190.36,
+          "end": 191.64
+        },
+        {
+          "word": "fiel.",
+          "start": 191.64,
+          "end": 195.12
+        }
+      ],
+      "start": 188.14,
+      "end": 195.12,
+      "confidence": 0.8,
+      "time": 188.14
+    }
+  ]
+}

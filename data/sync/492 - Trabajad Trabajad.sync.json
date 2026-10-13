@@ -1,0 +1,828 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.859,
+  "language": "es",
+  "model": "medium",
+  "hymn": 492,
+  "source": "492 - Trabajad Trabajad.mp3",
+  "duration": 177.45,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Trabajad! ¡Trabajad! Somos siervos de Dios;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Trabajar,",
+          "start": 24.56,
+          "end": 25.96
+        },
+        {
+          "word": "Trabajar",
+          "start": 26.24,
+          "end": 27.38
+        },
+        {
+          "word": "Somos",
+          "start": 27.38,
+          "end": 28.28
+        },
+        {
+          "word": "siervos",
+          "start": 28.28,
+          "end": 29.5
+        },
+        {
+          "word": "de",
+          "start": 29.5,
+          "end": 29.76
+        },
+        {
+          "word": "Dios.",
+          "start": 29.76,
+          "end": 30.4
+        }
+      ],
+      "start": 24.56,
+      "end": 31.32,
+      "confidence": 0.975,
+      "time": 24.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "seguiremos la senda que Cristo trazó.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Seguiremos",
+          "start": 31.32,
+          "end": 32.6
+        },
+        {
+          "word": "la",
+          "start": 32.6,
+          "end": 32.88
+        },
+        {
+          "word": "senda",
+          "start": 32.88,
+          "end": 33.86
+        },
+        {
+          "word": "que",
+          "start": 33.86,
+          "end": 34.24
+        },
+        {
+          "word": "Cristo",
+          "start": 34.24,
+          "end": 35.4
+        },
+        {
+          "word": "brazó.",
+          "start": 35.4,
+          "end": 36.36
+        }
+      ],
+      "start": 31.32,
+      "end": 36.36,
+      "confidence": 0.98,
+      "time": 31.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Recibiendo el poder que su Espíritu da,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Recibiendo",
+          "start": 36.98,
+          "end": 38.26
+        },
+        {
+          "word": "el",
+          "start": 38.26,
+          "end": 38.64
+        },
+        {
+          "word": "poder",
+          "start": 38.64,
+          "end": 39.38
+        },
+        {
+          "word": "que",
+          "start": 39.38,
+          "end": 39.92
+        },
+        {
+          "word": "espiritu",
+          "start": 40.3,
+          "end": 41.92
+        },
+        {
+          "word": "da,",
+          "start": 41.92,
+          "end": 42.18
+        }
+      ],
+      "start": 36.98,
+      "end": 42.82,
+      "confidence": 0.857,
+      "time": 36.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "el deber que nos toca cumplido será.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 42.82,
+          "end": 43.16
+        },
+        {
+          "word": "deber",
+          "start": 43.16,
+          "end": 43.94
+        },
+        {
+          "word": "que",
+          "start": 43.94,
+          "end": 44.46
+        },
+        {
+          "word": "nos",
+          "start": 44.46,
+          "end": 45.1
+        },
+        {
+          "word": "toca",
+          "start": 45.1,
+          "end": 45.84
+        },
+        {
+          "word": "cumplido",
+          "start": 45.84,
+          "end": 47.52
+        },
+        {
+          "word": "será.",
+          "start": 47.52,
+          "end": 48.72
+        }
+      ],
+      "start": 42.82,
+      "end": 48.72,
+      "confidence": 1.0,
+      "time": 42.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Trabajad! ¡Trabajad!",
+      "words": [
+        {
+          "word": "Trabajar,",
+          "start": 52.78,
+          "end": 54.18
+        },
+        {
+          "word": "trabajar,",
+          "start": 54.18,
+          "end": 55.58
+        }
+      ],
+      "start": 52.78,
+      "end": 58.4,
+      "confidence": 0.925,
+      "time": 52.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Esperad y velad!",
+      "words": [
+        {
+          "word": "esperar,",
+          "start": 58.4,
+          "end": 58.4
+        }
+      ],
+      "start": 58.4,
+      "end": 62.48,
+      "confidence": 0.305,
+      "time": 58.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Siempre orad y confiad!,",
+      "words": [
+        {
+          "word": "siempre",
+          "start": 62.48,
+          "end": 62.64
+        },
+        {
+          "word": "orar",
+          "start": 62.64,
+          "end": 65.02
+        },
+        {
+          "word": "y",
+          "start": 65.02,
+          "end": 65.6
+        },
+        {
+          "word": "confiar",
+          "start": 65.6,
+          "end": 67.68
+        }
+      ],
+      "start": 62.48,
+      "end": 67.68,
+      "confidence": 0.941,
+      "time": 62.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "que Cristo pronto volverá.",
+      "words": [
+        {
+          "word": "que",
+          "start": 67.68,
+          "end": 68.76
+        },
+        {
+          "word": "Cristo",
+          "start": 68.76,
+          "end": 69.46
+        },
+        {
+          "word": "pronto",
+          "start": 69.46,
+          "end": 70.36
+        },
+        {
+          "word": "volverá.",
+          "start": 70.36,
+          "end": 74.04
+        }
+      ],
+      "start": 67.68,
+      "end": 74.04,
+      "confidence": 1.0,
+      "time": 67.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Trabajad! ¡Trabajad! Hay que dar de comer",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Trabajar,",
+          "start": 75.66,
+          "end": 76.72
+        },
+        {
+          "word": "trabajar,",
+          "start": 76.72,
+          "end": 77.78
+        },
+        {
+          "word": "que",
+          "start": 78.34,
+          "end": 78.82
+        },
+        {
+          "word": "darte",
+          "start": 78.82,
+          "end": 79.74
+        },
+        {
+          "word": "comer,",
+          "start": 79.74,
+          "end": 80.4
+        }
+      ],
+      "start": 75.66,
+      "end": 80.88,
+      "confidence": 0.684,
+      "time": 75.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al que pan de la vida quisiere tener.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 80.88,
+          "end": 81.3
+        },
+        {
+          "word": "que",
+          "start": 81.3,
+          "end": 81.86
+        },
+        {
+          "word": "pa'",
+          "start": 81.86,
+          "end": 82.38
+        },
+        {
+          "word": "la",
+          "start": 82.88,
+          "end": 83.4
+        },
+        {
+          "word": "vida",
+          "start": 83.4,
+          "end": 84.04
+        },
+        {
+          "word": "quise",
+          "start": 84.04,
+          "end": 85.3
+        },
+        {
+          "word": "detener,",
+          "start": 85.3,
+          "end": 86.48
+        }
+      ],
+      "start": 80.88,
+      "end": 86.48,
+      "confidence": 0.838,
+      "time": 80.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Hay enfermos que irán a los pies del Señor",
+      "verse": 2,
+      "words": [
+        {
+          "word": "hay",
+          "start": 87.18,
+          "end": 87.42
+        },
+        {
+          "word": "enfermos",
+          "start": 87.42,
+          "end": 88.8
+        },
+        {
+          "word": "que",
+          "start": 88.8,
+          "end": 89.32
+        },
+        {
+          "word": "a",
+          "start": 90.04,
+          "end": 90.38
+        },
+        {
+          "word": "los",
+          "start": 90.38,
+          "end": 90.78
+        },
+        {
+          "word": "pies",
+          "start": 90.78,
+          "end": 91.32
+        },
+        {
+          "word": "del",
+          "start": 91.32,
+          "end": 91.82
+        },
+        {
+          "word": "Señor,",
+          "start": 91.82,
+          "end": 92.64
+        }
+      ],
+      "start": 87.18,
+      "end": 93.04,
+      "confidence": 0.889,
+      "time": 87.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al saber que por gracia los sana su amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 93.04,
+          "end": 93.18
+        },
+        {
+          "word": "saber",
+          "start": 93.18,
+          "end": 94.24
+        },
+        {
+          "word": "que",
+          "start": 94.24,
+          "end": 94.66
+        },
+        {
+          "word": "por",
+          "start": 94.66,
+          "end": 95.14
+        },
+        {
+          "word": "gracia",
+          "start": 95.14,
+          "end": 96.2
+        },
+        {
+          "word": "los",
+          "start": 96.2,
+          "end": 96.92
+        },
+        {
+          "word": "favor.",
+          "start": 97.9,
+          "end": 99.12
+        }
+      ],
+      "start": 93.04,
+      "end": 99.12,
+      "confidence": 0.756,
+      "time": 93.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Trabajad! ¡Trabajad!",
+      "words": [
+        {
+          "word": "trabajar,",
+          "start": 103.42,
+          "end": 104.82
+        },
+        {
+          "word": "trabajar.",
+          "start": 104.82,
+          "end": 106.08
+        }
+      ],
+      "start": 103.42,
+      "end": 109.78,
+      "confidence": 0.925,
+      "time": 103.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Esperad y velad!",
+      "words": [
+        {
+          "word": "esperar.",
+          "start": 109.78,
+          "end": 110.16
+        }
+      ],
+      "start": 109.78,
+      "end": 110.16,
+      "confidence": 0.305,
+      "time": 109.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Siempre orad y confiad!,",
+      "words": [
+        {
+          "word": "Siempre",
+          "start": 111.98,
+          "end": 112.92
+        },
+        {
+          "word": "orar",
+          "start": 112.92,
+          "end": 115.28
+        },
+        {
+          "word": "y",
+          "start": 115.28,
+          "end": 115.84
+        },
+        {
+          "word": "confiar,",
+          "start": 115.84,
+          "end": 117.86
+        }
+      ],
+      "start": 111.98,
+      "end": 118.68,
+      "confidence": 0.941,
+      "time": 111.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "que Cristo pronto volverá.",
+      "words": [
+        {
+          "word": "que",
+          "start": 118.68,
+          "end": 119.02
+        },
+        {
+          "word": "Cristo",
+          "start": 119.02,
+          "end": 119.7
+        },
+        {
+          "word": "pronto",
+          "start": 119.7,
+          "end": 120.6
+        },
+        {
+          "word": "volverá.",
+          "start": 120.6,
+          "end": 124.26
+        }
+      ],
+      "start": 118.68,
+      "end": 124.26,
+      "confidence": 1.0,
+      "time": 118.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Trabajad! ¡Trabajad! Fortaleza pedid;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Trabajar,",
+          "start": 125.42,
+          "end": 126.54
+        },
+        {
+          "word": "trabajar,",
+          "start": 126.8,
+          "end": 127.88
+        },
+        {
+          "word": "pedir,",
+          "start": 130.08,
+          "end": 130.56
+        }
+      ],
+      "start": 125.42,
+      "end": 131.2,
+      "confidence": 0.682,
+      "time": 125.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "el reinado del mal con valor combatid;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 131.2,
+          "end": 131.4
+        },
+        {
+          "word": "reinado",
+          "start": 131.4,
+          "end": 132.98
+        },
+        {
+          "word": "del",
+          "start": 132.98,
+          "end": 133.32
+        },
+        {
+          "word": "mal,",
+          "start": 133.32,
+          "end": 134.0
+        },
+        {
+          "word": "con",
+          "start": 134.2,
+          "end": 134.42
+        },
+        {
+          "word": "dolor,",
+          "start": 134.42,
+          "end": 135.48
+        }
+      ],
+      "start": 131.2,
+      "end": 135.52,
+      "confidence": 0.823,
+      "time": 131.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "conducid sus cautivos al Libertador",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 135.52,
+          "end": 136.08
+        },
+        {
+          "word": "sus",
+          "start": 138.5,
+          "end": 139.04
+        },
+        {
+          "word": "al",
+          "start": 140.36,
+          "end": 141.22
+        },
+        {
+          "word": "liberador,",
+          "start": 141.22,
+          "end": 142.58
+        }
+      ],
+      "start": 135.52,
+      "end": 143.0,
+      "confidence": 0.782,
+      "time": 135.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y decid que por gracia redime su amor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 143.0,
+          "end": 143.56
+        },
+        {
+          "word": "decir",
+          "start": 143.56,
+          "end": 144.48
+        },
+        {
+          "word": "que",
+          "start": 144.48,
+          "end": 144.88
+        },
+        {
+          "word": "por",
+          "start": 144.88,
+          "end": 145.44
+        },
+        {
+          "word": "gracia",
+          "start": 145.44,
+          "end": 146.36
+        },
+        {
+          "word": "redime",
+          "start": 146.36,
+          "end": 147.88
+        },
+        {
+          "word": "su",
+          "start": 147.88,
+          "end": 148.34
+        },
+        {
+          "word": "amor.",
+          "start": 148.34,
+          "end": 150.04
+        }
+      ],
+      "start": 143.0,
+      "end": 150.04,
+      "confidence": 0.985,
+      "time": 143.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Trabajad! ¡Trabajad!",
+      "words": [
+        {
+          "word": "Trabajar,",
+          "start": 154.8,
+          "end": 156.2
+        },
+        {
+          "word": "trabajar",
+          "start": 156.94,
+          "end": 156.94
+        }
+      ],
+      "start": 154.8,
+      "end": 157.0,
+      "confidence": 0.925,
+      "time": 154.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Esperad y velad!",
+      "words": [
+        {
+          "word": "esperar",
+          "start": 157.0,
+          "end": 159.28
+        },
+        {
+          "word": "y",
+          "start": 159.28,
+          "end": 160.02
+        },
+        {
+          "word": "velar",
+          "start": 160.02,
+          "end": 162.24
+        }
+      ],
+      "start": 157.0,
+      "end": 162.24,
+      "confidence": 0.931,
+      "time": 157.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Siempre orad y confiad!,",
+      "words": [
+        {
+          "word": "Siempre",
+          "start": 162.24,
+          "end": 163.2
+        },
+        {
+          "word": "orar",
+          "start": 163.2,
+          "end": 165.54
+        },
+        {
+          "word": "y",
+          "start": 165.54,
+          "end": 166.1
+        },
+        {
+          "word": "confiar",
+          "start": 166.1,
+          "end": 168.22
+        }
+      ],
+      "start": 162.24,
+      "end": 168.22,
+      "confidence": 0.941,
+      "time": 162.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "que Cristo pronto volverá.",
+      "words": [
+        {
+          "word": "que",
+          "start": 168.22,
+          "end": 169.28
+        },
+        {
+          "word": "Cristo",
+          "start": 169.28,
+          "end": 170.02
+        },
+        {
+          "word": "pronto",
+          "start": 170.02,
+          "end": 170.94
+        },
+        {
+          "word": "volverá",
+          "start": 170.94,
+          "end": 175.06
+        }
+      ],
+      "start": 168.22,
+      "end": 175.06,
+      "confidence": 1.0,
+      "time": 168.22
+    }
+  ]
+}

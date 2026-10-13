@@ -1,0 +1,753 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.887,
+  "language": "es",
+  "model": "medium",
+  "hymn": 466,
+  "source": "466 - Guiame, oh Salvador.mp3",
+  "duration": 167.71,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Guíame, ¡Oh Salvador!,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Díame,",
+          "start": 24.86,
+          "end": 26.26
+        },
+        {
+          "word": "oh",
+          "start": 26.42,
+          "end": 26.74
+        },
+        {
+          "word": "Salvador,",
+          "start": 26.74,
+          "end": 27.9
+        }
+      ],
+      "start": 24.86,
+      "end": 27.9,
+      "confidence": 0.945,
+      "time": 24.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por la senda de salud.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Por",
+          "start": 29.94,
+          "end": 31.04
+        },
+        {
+          "word": "la",
+          "start": 31.04,
+          "end": 31.58
+        },
+        {
+          "word": "senda",
+          "start": 31.58,
+          "end": 32.26
+        },
+        {
+          "word": "de",
+          "start": 32.26,
+          "end": 32.72
+        },
+        {
+          "word": "salud,",
+          "start": 32.72,
+          "end": 35.2
+        }
+      ],
+      "start": 29.94,
+      "end": 36.52,
+      "confidence": 1.0,
+      "time": 29.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "A tu lado no hay temor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 36.52,
+          "end": 36.9
+        },
+        {
+          "word": "tu",
+          "start": 36.9,
+          "end": 37.3
+        },
+        {
+          "word": "lado",
+          "start": 37.3,
+          "end": 37.78
+        },
+        {
+          "word": "no",
+          "start": 37.78,
+          "end": 38.14
+        },
+        {
+          "word": "hay",
+          "start": 38.14,
+          "end": 38.54
+        },
+        {
+          "word": "temor,",
+          "start": 38.54,
+          "end": 41.08
+        }
+      ],
+      "start": 36.52,
+      "end": 41.88,
+      "confidence": 1.0,
+      "time": 36.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "solo hay gozo, paz, quietud.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "solo",
+          "start": 41.88,
+          "end": 42.6
+        },
+        {
+          "word": "hay",
+          "start": 42.6,
+          "end": 42.98
+        },
+        {
+          "word": "que",
+          "start": 43.9,
+          "end": 44.36
+        }
+      ],
+      "start": 41.88,
+      "end": 46.52,
+      "confidence": 0.552,
+      "time": 41.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Cristo! ¡Cristo!",
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 46.52,
+          "end": 48.7
+        },
+        {
+          "word": "Cristo,",
+          "start": 49.88,
+          "end": 52.08
+        }
+      ],
+      "start": 46.52,
+      "end": 52.72,
+      "confidence": 1.0,
+      "time": 46.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡No me dejes, oh Señor!",
+      "words": [
+        {
+          "word": "no",
+          "start": 52.72,
+          "end": 53.76
+        },
+        {
+          "word": "me",
+          "start": 53.76,
+          "end": 54.22
+        },
+        {
+          "word": "dejes",
+          "start": 54.22,
+          "end": 54.96
+        },
+        {
+          "word": "Señor,",
+          "start": 55.28,
+          "end": 57.86
+        }
+      ],
+      "start": 52.72,
+      "end": 58.7,
+      "confidence": 0.8,
+      "time": 52.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Siendo tú mi guía fiel,",
+      "words": [
+        {
+          "word": "siendo",
+          "start": 58.7,
+          "end": 59.68
+        },
+        {
+          "word": "tu",
+          "start": 59.68,
+          "end": 60.26
+        },
+        {
+          "word": "mi",
+          "start": 60.26,
+          "end": 60.64
+        },
+        {
+          "word": "fiel,",
+          "start": 61.16,
+          "end": 63.12
+        }
+      ],
+      "start": 58.7,
+      "end": 63.54,
+      "confidence": 0.8,
+      "time": 58.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "saldré más que vencedor.",
+      "words": [
+        {
+          "word": "salte",
+          "start": 63.54,
+          "end": 64.1
+        },
+        {
+          "word": "más",
+          "start": 64.1,
+          "end": 64.82
+        },
+        {
+          "word": "que",
+          "start": 64.82,
+          "end": 65.66
+        },
+        {
+          "word": "vencedor.",
+          "start": 65.66,
+          "end": 69.62
+        }
+      ],
+      "start": 63.54,
+      "end": 69.62,
+      "confidence": 0.959,
+      "time": 63.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "No me dejes, ¡oh Señor!,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "No",
+          "start": 69.62,
+          "end": 71.4
+        },
+        {
+          "word": "me",
+          "start": 71.4,
+          "end": 72.2
+        },
+        {
+          "word": "dejes,",
+          "start": 72.2,
+          "end": 72.76
+        },
+        {
+          "word": "oh",
+          "start": 72.92,
+          "end": 73.24
+        },
+        {
+          "word": "Señor,",
+          "start": 73.24,
+          "end": 75.88
+        }
+      ],
+      "start": 69.62,
+      "end": 76.36,
+      "confidence": 1.0,
+      "time": 69.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mientras en el mundo esté.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mientras",
+          "start": 76.36,
+          "end": 77.64
+        },
+        {
+          "word": "en",
+          "start": 77.64,
+          "end": 78.22
+        },
+        {
+          "word": "el",
+          "start": 78.22,
+          "end": 78.54
+        },
+        {
+          "word": "mundo",
+          "start": 78.54,
+          "end": 78.92
+        },
+        {
+          "word": "esté.",
+          "start": 78.92,
+          "end": 81.26
+        }
+      ],
+      "start": 76.36,
+      "end": 81.26,
+      "confidence": 1.0,
+      "time": 76.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Haz que arribe, sin temor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Haz",
+          "start": 82.1,
+          "end": 83.0
+        },
+        {
+          "word": "que",
+          "start": 83.0,
+          "end": 83.36
+        },
+        {
+          "word": "arribes",
+          "start": 83.36,
+          "end": 84.14
+        },
+        {
+          "word": "sin",
+          "start": 84.14,
+          "end": 84.56
+        },
+        {
+          "word": "temor,",
+          "start": 84.56,
+          "end": 87.24
+        }
+      ],
+      "start": 82.1,
+      "end": 88.24,
+      "confidence": 0.988,
+      "time": 82.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "donde en ti descansaré.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "donde",
+          "start": 88.24,
+          "end": 88.68
+        },
+        {
+          "word": "en",
+          "start": 88.68,
+          "end": 89.16
+        },
+        {
+          "word": "ti",
+          "start": 89.16,
+          "end": 89.36
+        },
+        {
+          "word": "descansaré.",
+          "start": 89.36,
+          "end": 92.7
+        }
+      ],
+      "start": 88.24,
+      "end": 92.7,
+      "confidence": 1.0,
+      "time": 88.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Cristo! ¡Cristo!",
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 92.7,
+          "end": 94.9
+        },
+        {
+          "word": "Cristo,",
+          "start": 95.96,
+          "end": 98.54
+        }
+      ],
+      "start": 92.7,
+      "end": 100.08,
+      "confidence": 1.0,
+      "time": 92.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡No me dejes, oh Señor!",
+      "words": [
+        {
+          "word": "de",
+          "start": 100.08,
+          "end": 100.76
+        }
+      ],
+      "start": 100.08,
+      "end": 104.2,
+      "confidence": 0.188,
+      "time": 100.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Siendo tú mi guía fiel,",
+      "words": [
+        {
+          "word": "siendo",
+          "start": 104.2,
+          "end": 105.76
+        },
+        {
+          "word": "Tú",
+          "start": 105.76,
+          "end": 106.42
+        },
+        {
+          "word": "mi",
+          "start": 106.42,
+          "end": 106.68
+        },
+        {
+          "word": "guía",
+          "start": 106.68,
+          "end": 107.32
+        },
+        {
+          "word": "fiel,",
+          "start": 107.32,
+          "end": 109.16
+        }
+      ],
+      "start": 104.2,
+      "end": 109.34,
+      "confidence": 1.0,
+      "time": 104.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "saldré más que vencedor.",
+      "words": [
+        {
+          "word": "saldré",
+          "start": 109.34,
+          "end": 110.18
+        },
+        {
+          "word": "más",
+          "start": 110.18,
+          "end": 111.02
+        },
+        {
+          "word": "que",
+          "start": 111.02,
+          "end": 111.6
+        },
+        {
+          "word": "vencedor.",
+          "start": 111.6,
+          "end": 116.3
+        }
+      ],
+      "start": 109.34,
+      "end": 116.3,
+      "confidence": 1.0,
+      "time": 109.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Tú, de mi alma salvación",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 117.4,
+          "end": 118.4
+        },
+        {
+          "word": "de",
+          "start": 118.4,
+          "end": 118.88
+        },
+        {
+          "word": "mi",
+          "start": 118.88,
+          "end": 119.12
+        },
+        {
+          "word": "alma",
+          "start": 119.12,
+          "end": 119.5
+        },
+        {
+          "word": "salvación,",
+          "start": 119.74,
+          "end": 122.8
+        }
+      ],
+      "start": 117.4,
+      "end": 124.0,
+      "confidence": 1.0,
+      "time": 117.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en la ruda tempestad,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 124.0,
+          "end": 124.14
+        },
+        {
+          "word": "la",
+          "start": 124.14,
+          "end": 124.6
+        },
+        {
+          "word": "ruda",
+          "start": 124.6,
+          "end": 125.14
+        },
+        {
+          "word": "tempestad,",
+          "start": 125.14,
+          "end": 128.52
+        }
+      ],
+      "start": 124.0,
+      "end": 128.52,
+      "confidence": 1.0,
+      "time": 124.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "al venir la tentación,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ven",
+          "start": 130.1,
+          "end": 130.3
+        },
+        {
+          "word": "la",
+          "start": 130.52,
+          "end": 130.98
+        },
+        {
+          "word": "tentación",
+          "start": 130.98,
+          "end": 133.86
+        }
+      ],
+      "start": 130.1,
+      "end": 133.86,
+      "confidence": 0.735,
+      "time": 130.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡que me libre tu piedad!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 133.86,
+          "end": 135.44
+        },
+        {
+          "word": "me",
+          "start": 135.44,
+          "end": 136.04
+        },
+        {
+          "word": "libre",
+          "start": 136.04,
+          "end": 136.44
+        },
+        {
+          "word": "tu",
+          "start": 136.44,
+          "end": 136.84
+        },
+        {
+          "word": "piedad.",
+          "start": 136.84,
+          "end": 139.3
+        }
+      ],
+      "start": 133.86,
+      "end": 139.3,
+      "confidence": 1.0,
+      "time": 133.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Cristo! ¡Cristo!",
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 139.3,
+          "end": 141.78
+        },
+        {
+          "word": "Cristo,",
+          "start": 142.84,
+          "end": 144.92
+        }
+      ],
+      "start": 139.3,
+      "end": 145.8,
+      "confidence": 1.0,
+      "time": 139.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡No me dejes, oh Señor!",
+      "words": [
+        {
+          "word": "no",
+          "start": 145.8,
+          "end": 146.78
+        },
+        {
+          "word": "me",
+          "start": 146.78,
+          "end": 147.32
+        },
+        {
+          "word": "dejes,",
+          "start": 147.32,
+          "end": 147.88
+        },
+        {
+          "word": "oh",
+          "start": 148.04,
+          "end": 148.4
+        },
+        {
+          "word": "Señor,",
+          "start": 148.4,
+          "end": 151.02
+        }
+      ],
+      "start": 145.8,
+      "end": 151.76,
+      "confidence": 1.0,
+      "time": 145.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Siendo tú mi guía fiel,",
+      "words": [
+        {
+          "word": "siendo",
+          "start": 151.76,
+          "end": 152.72
+        },
+        {
+          "word": "tu",
+          "start": 152.72,
+          "end": 153.34
+        },
+        {
+          "word": "fiel,",
+          "start": 154.36,
+          "end": 156.1
+        }
+      ],
+      "start": 151.76,
+      "end": 156.64,
+      "confidence": 0.6,
+      "time": 151.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "saldré más que vencedor.",
+      "words": [
+        {
+          "word": "saldré",
+          "start": 156.64,
+          "end": 157.18
+        },
+        {
+          "word": "más",
+          "start": 157.18,
+          "end": 157.92
+        },
+        {
+          "word": "que",
+          "start": 157.92,
+          "end": 159.06
+        },
+        {
+          "word": "vencedor.",
+          "start": 159.06,
+          "end": 164.9
+        }
+      ],
+      "start": 156.64,
+      "end": 164.9,
+      "confidence": 1.0,
+      "time": 156.64
+    }
+  ]
+}

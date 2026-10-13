@@ -1,0 +1,489 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.738,
+  "language": "es",
+  "model": "medium",
+  "hymn": 341,
+  "source": "341 - Mas cerca del hogar.mp3",
+  "duration": 123.87,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "La Biblia asegura que Jesús",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 3.28,
+          "end": 3.28
+        },
+        {
+          "word": "Iglesia",
+          "start": 3.28,
+          "end": 3.28
+        },
+        {
+          "word": "Jesucristo",
+          "start": 3.28,
+          "end": 3.28
+        }
+      ],
+      "start": 3.28,
+      "end": 18.22,
+      "confidence": 0.514,
+      "time": 3.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "muy pronto en las nubes volverá.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 18.48,
+          "end": 18.48
+        },
+        {
+          "word": "la",
+          "start": 18.48,
+          "end": 18.48
+        }
+      ],
+      "start": 18.48,
+      "end": 29.98,
+      "confidence": 0.323,
+      "time": 18.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Prepárate, mi hermano, porque hoy",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Por",
+          "start": 30.0,
+          "end": 30.56
+        },
+        {
+          "word": "hoy",
+          "start": 31.4,
+          "end": 33.28
+        }
+      ],
+      "start": 30.0,
+      "end": 33.28,
+      "confidence": 0.388,
+      "time": 30.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "más cerca estamos del hogar!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "más",
+          "start": 33.28,
+          "end": 34.3
+        },
+        {
+          "word": "cerca",
+          "start": 34.3,
+          "end": 34.66
+        },
+        {
+          "word": "estamos",
+          "start": 34.66,
+          "end": 35.64
+        },
+        {
+          "word": "de",
+          "start": 35.64,
+          "end": 36.44
+        },
+        {
+          "word": "lugar,",
+          "start": 36.44,
+          "end": 39.5
+        }
+      ],
+      "start": 33.28,
+      "end": 40.44,
+      "confidence": 0.94,
+      "time": 33.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Más cerca del hogar,",
+      "words": [
+        {
+          "word": "más",
+          "start": 40.44,
+          "end": 41.28
+        },
+        {
+          "word": "cerca",
+          "start": 41.28,
+          "end": 42.56
+        },
+        {
+          "word": "de",
+          "start": 42.56,
+          "end": 43.68
+        },
+        {
+          "word": "lugar,",
+          "start": 43.68,
+          "end": 44.96
+        }
+      ],
+      "start": 40.44,
+      "end": 46.08,
+      "confidence": 0.925,
+      "time": 40.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "más cerca del hogar,",
+      "words": [
+        {
+          "word": "más",
+          "start": 46.08,
+          "end": 46.92
+        },
+        {
+          "word": "cerca",
+          "start": 46.92,
+          "end": 48.2
+        },
+        {
+          "word": "de",
+          "start": 48.2,
+          "end": 49.34
+        },
+        {
+          "word": "lugar,",
+          "start": 49.34,
+          "end": 50.58
+        }
+      ],
+      "start": 46.08,
+      "end": 51.38,
+      "confidence": 0.925,
+      "time": 46.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "más cerca estamos hoy que ayer,",
+      "words": [
+        {
+          "word": "más",
+          "start": 51.38,
+          "end": 52.58
+        },
+        {
+          "word": "cerca",
+          "start": 52.58,
+          "end": 53.62
+        },
+        {
+          "word": "estamos",
+          "start": 53.62,
+          "end": 55.26
+        },
+        {
+          "word": "hoy.",
+          "start": 55.26,
+          "end": 56.12
+        }
+      ],
+      "start": 51.38,
+      "end": 56.12,
+      "confidence": 0.667,
+      "time": 51.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "más cerca del hogar.",
+      "words": [
+        {
+          "word": "más",
+          "start": 56.12,
+          "end": 56.62
+        },
+        {
+          "word": "cerca",
+          "start": 56.62,
+          "end": 61.04
+        },
+        {
+          "word": "del",
+          "start": 61.04,
+          "end": 62.14
+        }
+      ],
+      "start": 56.12,
+      "end": 67.22,
+      "confidence": 0.75,
+      "time": 56.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "La obra ya debemos terminar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "La",
+          "start": 67.74,
+          "end": 68.26
+        },
+        {
+          "word": "obra",
+          "start": 68.26,
+          "end": 68.8
+        },
+        {
+          "word": "ya",
+          "start": 68.8,
+          "end": 69.34
+        },
+        {
+          "word": "debemos",
+          "start": 69.34,
+          "end": 70.2
+        },
+        {
+          "word": "terminar,",
+          "start": 70.2,
+          "end": 72.5
+        }
+      ],
+      "start": 67.74,
+      "end": 72.5,
+      "confidence": 1.0,
+      "time": 67.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pues muchos necesitan conocer.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pues",
+          "start": 73.6,
+          "end": 73.76
+        },
+        {
+          "word": "muchos",
+          "start": 73.76,
+          "end": 74.34
+        },
+        {
+          "word": "necesitan",
+          "start": 74.34,
+          "end": 75.74
+        },
+        {
+          "word": "conocer.",
+          "start": 75.74,
+          "end": 78.48
+        }
+      ],
+      "start": 73.6,
+      "end": 78.48,
+      "confidence": 1.0,
+      "time": 73.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Las buenas nuevas hay que proclamar:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Las",
+          "start": 79.0,
+          "end": 79.58
+        },
+        {
+          "word": "buenas",
+          "start": 79.58,
+          "end": 80.14
+        },
+        {
+          "word": "hay",
+          "start": 80.86,
+          "end": 81.22
+        },
+        {
+          "word": "que",
+          "start": 81.22,
+          "end": 81.68
+        },
+        {
+          "word": "proclamar,",
+          "start": 81.68,
+          "end": 83.86
+        }
+      ],
+      "start": 79.0,
+      "end": 83.86,
+      "confidence": 0.833,
+      "time": 79.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Más cerca estamos del hogar!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Más",
+          "start": 83.86,
+          "end": 85.18
+        },
+        {
+          "word": "cerca",
+          "start": 85.18,
+          "end": 85.54
+        },
+        {
+          "word": "estamos",
+          "start": 85.54,
+          "end": 86.36
+        },
+        {
+          "word": "del",
+          "start": 86.36,
+          "end": 87.38
+        },
+        {
+          "word": "lugar",
+          "start": 87.38,
+          "end": 90.42
+        }
+      ],
+      "start": 83.86,
+      "end": 90.42,
+      "confidence": 0.952,
+      "time": 83.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Más cerca del hogar,",
+      "words": [
+        {
+          "word": "Más",
+          "start": 90.42,
+          "end": 92.16
+        },
+        {
+          "word": "cerca",
+          "start": 92.16,
+          "end": 93.4
+        },
+        {
+          "word": "del",
+          "start": 93.4,
+          "end": 94.64
+        },
+        {
+          "word": "lugar",
+          "start": 94.64,
+          "end": 95.94
+        }
+      ],
+      "start": 90.42,
+      "end": 95.94,
+      "confidence": 0.94,
+      "time": 90.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "más cerca del hogar,",
+      "words": [
+        {
+          "word": "Más",
+          "start": 95.94,
+          "end": 97.78
+        },
+        {
+          "word": "cerca",
+          "start": 97.78,
+          "end": 99.06
+        },
+        {
+          "word": "del",
+          "start": 99.06,
+          "end": 100.22
+        },
+        {
+          "word": "lugar",
+          "start": 100.22,
+          "end": 101.56
+        }
+      ],
+      "start": 95.94,
+      "end": 101.56,
+      "confidence": 0.94,
+      "time": 95.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "más cerca estamos hoy que ayer,",
+      "words": [
+        {
+          "word": "Más",
+          "start": 101.56,
+          "end": 103.76
+        },
+        {
+          "word": "cerca",
+          "start": 103.76,
+          "end": 104.48
+        },
+        {
+          "word": "estamos",
+          "start": 104.48,
+          "end": 106.12
+        },
+        {
+          "word": "hoy",
+          "start": 106.12,
+          "end": 106.94
+        },
+        {
+          "word": "ayer",
+          "start": 107.48,
+          "end": 109.46
+        }
+      ],
+      "start": 101.56,
+      "end": 109.46,
+      "confidence": 0.833,
+      "time": 101.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "más cerca del hogar.",
+      "start": 109.46,
+      "end": 123.87,
+      "confidence": 0.0,
+      "time": 109.46
+    }
+  ]
+}

@@ -1,0 +1,1100 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.798,
+  "language": "es",
+  "model": "medium",
+  "hymn": 253,
+  "source": "253 - Tuyo soy, Jesus.mp3",
+  "duration": 206.42,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tuyo soy, Jesús, pues oí tu voz",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 2.06,
+          "end": 3.64
+        }
+      ],
+      "start": 2.06,
+      "end": 3.88,
+      "confidence": 0.114,
+      "time": 2.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que en amor llamome a mí;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 3.88,
+          "end": 3.88
+        },
+        {
+          "word": "la",
+          "start": 3.88,
+          "end": 3.88
+        }
+      ],
+      "start": 3.88,
+      "end": 29.98,
+      "confidence": 0.3,
+      "time": 3.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mas anhelo en alas de fe subir,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 3.88,
+          "end": 3.88
+        }
+      ],
+      "start": 29.98,
+      "end": 30.18,
+      "confidence": 0.143,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y más cerca estar de ti.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 30.0,
+          "end": 30.6
+        },
+        {
+          "word": "de",
+          "start": 31.82,
+          "end": 32.54
+        },
+        {
+          "word": "ti,",
+          "start": 32.54,
+          "end": 34.54
+        }
+      ],
+      "start": 30.18,
+      "end": 34.72,
+      "confidence": 0.49,
+      "time": 30.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Aún más cerca, cerca de tu cruz,",
+      "words": [
+        {
+          "word": "aún",
+          "start": 34.72,
+          "end": 35.1
+        },
+        {
+          "word": "más",
+          "start": 35.1,
+          "end": 35.78
+        },
+        {
+          "word": "cerca,",
+          "start": 35.78,
+          "end": 37.76
+        },
+        {
+          "word": "cerca",
+          "start": 38.28,
+          "end": 38.7
+        },
+        {
+          "word": "de",
+          "start": 38.7,
+          "end": 39.16
+        },
+        {
+          "word": "tu",
+          "start": 39.16,
+          "end": 39.5
+        },
+        {
+          "word": "cruz,",
+          "start": 39.5,
+          "end": 40.18
+        }
+      ],
+      "start": 34.72,
+      "end": 40.64,
+      "confidence": 1.0,
+      "time": 34.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "llévame, oh Salvador;",
+      "words": [
+        {
+          "word": "llévame",
+          "start": 40.64,
+          "end": 41.64
+        },
+        {
+          "word": "o",
+          "start": 41.64,
+          "end": 42.5
+        },
+        {
+          "word": "salvo",
+          "start": 42.5,
+          "end": 43.9
+        }
+      ],
+      "start": 40.64,
+      "end": 45.94,
+      "confidence": 0.887,
+      "time": 40.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "aún más cerca, cerca, cerca de la luz",
+      "words": [
+        {
+          "word": "aún",
+          "start": 45.94,
+          "end": 46.32
+        },
+        {
+          "word": "más",
+          "start": 46.32,
+          "end": 46.96
+        },
+        {
+          "word": "cerca,",
+          "start": 46.96,
+          "end": 47.88
+        },
+        {
+          "word": "cerca,",
+          "start": 48.6,
+          "end": 49.22
+        },
+        {
+          "word": "cerca",
+          "start": 49.38,
+          "end": 50.02
+        },
+        {
+          "word": "de",
+          "start": 50.02,
+          "end": 50.54
+        },
+        {
+          "word": "la",
+          "start": 50.54,
+          "end": 51.0
+        },
+        {
+          "word": "luz,",
+          "start": 51.0,
+          "end": 52.76
+        }
+      ],
+      "start": 45.94,
+      "end": 52.76,
+      "confidence": 1.0,
+      "time": 45.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "viva yo, ¡oh buen Pastor!",
+      "words": [
+        {
+          "word": "¡Viva",
+          "start": 52.76,
+          "end": 53.72
+        },
+        {
+          "word": "buen",
+          "start": 55.16,
+          "end": 56.2
+        },
+        {
+          "word": "pastor!",
+          "start": 56.2,
+          "end": 57.3
+        }
+      ],
+      "start": 52.76,
+      "end": 57.3,
+      "confidence": 0.6,
+      "time": 52.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "A seguirte a ti me consagro hoy,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 59.32,
+          "end": 60.02
+        },
+        {
+          "word": "seguirte",
+          "start": 60.02,
+          "end": 61.34
+        },
+        {
+          "word": "a",
+          "start": 61.34,
+          "end": 61.7
+        },
+        {
+          "word": "ti",
+          "start": 61.7,
+          "end": 62.18
+        },
+        {
+          "word": "me",
+          "start": 62.18,
+          "end": 62.66
+        },
+        {
+          "word": "consagro",
+          "start": 62.66,
+          "end": 64.18
+        },
+        {
+          "word": "hoy,",
+          "start": 64.18,
+          "end": 65.02
+        }
+      ],
+      "start": 59.32,
+      "end": 65.02,
+      "confidence": 1.0,
+      "time": 59.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "motivado por tu amor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "motivado",
+          "start": 65.2,
+          "end": 67.02
+        },
+        {
+          "word": "por",
+          "start": 67.02,
+          "end": 67.74
+        },
+        {
+          "word": "tu",
+          "start": 67.74,
+          "end": 68.26
+        },
+        {
+          "word": "amor.",
+          "start": 68.26,
+          "end": 70.02
+        }
+      ],
+      "start": 65.2,
+      "end": 70.02,
+      "confidence": 1.0,
+      "time": 65.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y mi espíritu, alma y cuerpo doy",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Y",
+          "start": 70.74,
+          "end": 71.24
+        },
+        {
+          "word": "mi",
+          "start": 71.24,
+          "end": 71.5
+        },
+        {
+          "word": "espíritu,",
+          "start": 71.5,
+          "end": 73.58
+        },
+        {
+          "word": "alma",
+          "start": 73.88,
+          "end": 74.06
+        },
+        {
+          "word": "y",
+          "start": 74.06,
+          "end": 74.24
+        },
+        {
+          "word": "cuerpo",
+          "start": 74.24,
+          "end": 75.52
+        },
+        {
+          "word": "voy",
+          "start": 75.52,
+          "end": 75.98
+        }
+      ],
+      "start": 70.74,
+      "end": 75.98,
+      "confidence": 0.971,
+      "time": 70.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "por servirte, mi Señor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "por",
+          "start": 75.98,
+          "end": 76.78
+        },
+        {
+          "word": "servirte,",
+          "start": 76.78,
+          "end": 78.44
+        },
+        {
+          "word": "mi",
+          "start": 78.82,
+          "end": 79.2
+        },
+        {
+          "word": "Señor.",
+          "start": 79.2,
+          "end": 81.52
+        }
+      ],
+      "start": 75.98,
+      "end": 81.52,
+      "confidence": 1.0,
+      "time": 75.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Aún más cerca, cerca de tu cruz,",
+      "words": [
+        {
+          "word": "¡Aun",
+          "start": 81.52,
+          "end": 82.62
+        },
+        {
+          "word": "más",
+          "start": 82.62,
+          "end": 83.14
+        },
+        {
+          "word": "cerca,",
+          "start": 83.14,
+          "end": 85.18
+        },
+        {
+          "word": "cerca",
+          "start": 85.54,
+          "end": 86.14
+        },
+        {
+          "word": "de",
+          "start": 86.14,
+          "end": 86.64
+        },
+        {
+          "word": "tu",
+          "start": 86.64,
+          "end": 87.0
+        },
+        {
+          "word": "cruz,",
+          "start": 87.0,
+          "end": 87.54
+        }
+      ],
+      "start": 81.52,
+      "end": 88.12,
+      "confidence": 1.0,
+      "time": 81.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "llévame, oh Salvador;",
+      "words": [
+        {
+          "word": "llévame",
+          "start": 88.12,
+          "end": 89.04
+        },
+        {
+          "word": "salvador!",
+          "start": 90.1,
+          "end": 92.78
+        }
+      ],
+      "start": 88.12,
+      "end": 92.78,
+      "confidence": 0.667,
+      "time": 88.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "aún más cerca, cerca, cerca de la luz",
+      "words": [
+        {
+          "word": "¡Aun",
+          "start": 93.36,
+          "end": 93.86
+        },
+        {
+          "word": "más",
+          "start": 93.86,
+          "end": 94.34
+        },
+        {
+          "word": "cerca,",
+          "start": 94.34,
+          "end": 95.3
+        },
+        {
+          "word": "cerca,",
+          "start": 96.06,
+          "end": 96.62
+        },
+        {
+          "word": "cerca",
+          "start": 96.84,
+          "end": 97.46
+        },
+        {
+          "word": "de",
+          "start": 97.46,
+          "end": 98.0
+        },
+        {
+          "word": "la",
+          "start": 98.0,
+          "end": 98.54
+        },
+        {
+          "word": "luz,",
+          "start": 98.54,
+          "end": 100.04
+        }
+      ],
+      "start": 93.36,
+      "end": 100.82,
+      "confidence": 1.0,
+      "time": 93.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "viva yo, ¡oh buen Pastor!",
+      "words": [
+        {
+          "word": "viva",
+          "start": 100.82,
+          "end": 101.16
+        },
+        {
+          "word": "en",
+          "start": 103.06,
+          "end": 103.76
+        },
+        {
+          "word": "Pastrón!",
+          "start": 103.76,
+          "end": 106.06
+        }
+      ],
+      "start": 100.82,
+      "end": 106.06,
+      "confidence": 0.532,
+      "time": 100.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Oh, cuán pura y santa delicia es",
+      "verse": 3,
+      "words": [
+        {
+          "word": "O",
+          "start": 106.06,
+          "end": 107.48
+        },
+        {
+          "word": "pura",
+          "start": 108.02,
+          "end": 109.0
+        },
+        {
+          "word": "y",
+          "start": 109.0,
+          "end": 109.32
+        },
+        {
+          "word": "santa",
+          "start": 109.32,
+          "end": 110.3
+        },
+        {
+          "word": "delicia",
+          "start": 110.3,
+          "end": 111.68
+        },
+        {
+          "word": "es",
+          "start": 111.68,
+          "end": 112.36
+        }
+      ],
+      "start": 106.06,
+      "end": 112.36,
+      "confidence": 0.829,
+      "time": 106.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "de tu comunión gozar;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 112.36,
+          "end": 113.02
+        },
+        {
+          "word": "tu",
+          "start": 113.02,
+          "end": 113.32
+        },
+        {
+          "word": "comunión",
+          "start": 113.32,
+          "end": 115.36
+        }
+      ],
+      "start": 112.36,
+      "end": 117.8,
+      "confidence": 0.75,
+      "time": 112.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "conversar contigo y tu dulce voz",
+      "verse": 3,
+      "words": [
+        {
+          "word": "conversar",
+          "start": 117.8,
+          "end": 119.62
+        },
+        {
+          "word": "contigo",
+          "start": 119.62,
+          "end": 121.2
+        },
+        {
+          "word": "y",
+          "start": 121.2,
+          "end": 121.5
+        },
+        {
+          "word": "tu",
+          "start": 121.5,
+          "end": 121.86
+        },
+        {
+          "word": "dulce",
+          "start": 121.86,
+          "end": 123.16
+        },
+        {
+          "word": "voz",
+          "start": 123.16,
+          "end": 123.7
+        }
+      ],
+      "start": 117.8,
+      "end": 123.7,
+      "confidence": 1.0,
+      "time": 117.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "cada día escuchar!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "cada",
+          "start": 123.7,
+          "end": 124.72
+        },
+        {
+          "word": "día",
+          "start": 124.72,
+          "end": 126.02
+        },
+        {
+          "word": "escuchar",
+          "start": 126.02,
+          "end": 129.18
+        }
+      ],
+      "start": 123.7,
+      "end": 129.18,
+      "confidence": 1.0,
+      "time": 123.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Aún más cerca, cerca de tu cruz,",
+      "words": [
+        {
+          "word": "Aún",
+          "start": 129.18,
+          "end": 130.08
+        },
+        {
+          "word": "más",
+          "start": 130.08,
+          "end": 131.04
+        },
+        {
+          "word": "cerca,",
+          "start": 131.04,
+          "end": 132.76
+        },
+        {
+          "word": "cerca",
+          "start": 133.16,
+          "end": 133.52
+        },
+        {
+          "word": "de",
+          "start": 133.52,
+          "end": 134.04
+        },
+        {
+          "word": "tu",
+          "start": 134.04,
+          "end": 134.38
+        },
+        {
+          "word": "cruz,",
+          "start": 134.38,
+          "end": 135.06
+        }
+      ],
+      "start": 129.18,
+      "end": 135.54,
+      "confidence": 1.0,
+      "time": 129.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "llévame, oh Salvador;",
+      "words": [
+        {
+          "word": "llévame,",
+          "start": 135.54,
+          "end": 136.48
+        },
+        {
+          "word": "oh",
+          "start": 136.74,
+          "end": 137.22
+        },
+        {
+          "word": "salvador.",
+          "start": 137.22,
+          "end": 140.28
+        }
+      ],
+      "start": 135.54,
+      "end": 140.28,
+      "confidence": 1.0,
+      "time": 135.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "aún más cerca, cerca, cerca de la luz",
+      "words": [
+        {
+          "word": "Aún",
+          "start": 140.84,
+          "end": 141.28
+        },
+        {
+          "word": "más",
+          "start": 141.28,
+          "end": 141.86
+        },
+        {
+          "word": "cerca,",
+          "start": 141.86,
+          "end": 142.72
+        },
+        {
+          "word": "cerca,",
+          "start": 143.32,
+          "end": 144.04
+        },
+        {
+          "word": "cerca",
+          "start": 144.38,
+          "end": 144.88
+        },
+        {
+          "word": "de",
+          "start": 144.88,
+          "end": 145.44
+        },
+        {
+          "word": "la",
+          "start": 145.44,
+          "end": 146.02
+        },
+        {
+          "word": "luz,",
+          "start": 146.02,
+          "end": 147.5
+        }
+      ],
+      "start": 140.84,
+      "end": 148.26,
+      "confidence": 1.0,
+      "time": 140.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "viva yo, ¡oh buen Pastor!",
+      "words": [
+        {
+          "word": "viva",
+          "start": 148.26,
+          "end": 148.6
+        },
+        {
+          "word": "yo,",
+          "start": 148.6,
+          "end": 150.02
+        },
+        {
+          "word": "buen",
+          "start": 150.04,
+          "end": 151.12
+        },
+        {
+          "word": "bastón.",
+          "start": 151.12,
+          "end": 153.46
+        }
+      ],
+      "start": 148.26,
+      "end": 153.46,
+      "confidence": 0.76,
+      "time": 148.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "De tu gran amor no comprenderé",
+      "verse": 4,
+      "words": [
+        {
+          "word": "De",
+          "start": 153.46,
+          "end": 154.78
+        },
+        {
+          "word": "tu",
+          "start": 154.78,
+          "end": 155.14
+        },
+        {
+          "word": "gran",
+          "start": 155.14,
+          "end": 156.04
+        },
+        {
+          "word": "amor",
+          "start": 156.04,
+          "end": 157.1
+        },
+        {
+          "word": "no",
+          "start": 157.1,
+          "end": 157.88
+        },
+        {
+          "word": "comprenderé",
+          "start": 157.88,
+          "end": 159.96
+        }
+      ],
+      "start": 153.46,
+      "end": 159.96,
+      "confidence": 1.0,
+      "time": 153.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "cuál es la profundidad,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "cuál",
+          "start": 159.96,
+          "end": 160.54
+        },
+        {
+          "word": "es",
+          "start": 160.54,
+          "end": 161.0
+        },
+        {
+          "word": "la",
+          "start": 161.0,
+          "end": 161.92
+        },
+        {
+          "word": "profundidad",
+          "start": 161.92,
+          "end": 165.34
+        }
+      ],
+      "start": 159.96,
+      "end": 165.34,
+      "confidence": 1.0,
+      "time": 159.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "hasta que contigo Jesús, esté",
+      "verse": 4,
+      "words": [
+        {
+          "word": "hasta",
+          "start": 165.34,
+          "end": 166.3
+        },
+        {
+          "word": "que",
+          "start": 166.3,
+          "end": 167.02
+        },
+        {
+          "word": "contigo",
+          "start": 167.02,
+          "end": 168.8
+        },
+        {
+          "word": "Jesús",
+          "start": 168.8,
+          "end": 169.82
+        },
+        {
+          "word": "esté",
+          "start": 169.82,
+          "end": 170.96
+        }
+      ],
+      "start": 165.34,
+      "end": 170.96,
+      "confidence": 1.0,
+      "time": 165.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "en gloriosa eternidad.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 170.96,
+          "end": 171.88
+        },
+        {
+          "word": "gloriosa",
+          "start": 171.88,
+          "end": 173.14
+        },
+        {
+          "word": "eternidad.",
+          "start": 173.14,
+          "end": 176.44
+        }
+      ],
+      "start": 170.96,
+      "end": 176.44,
+      "confidence": 1.0,
+      "time": 170.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Aún más cerca, cerca de tu cruz,",
+      "words": [
+        {
+          "word": "cerca,",
+          "start": 177.72,
+          "end": 179.76
+        },
+        {
+          "word": "cerca",
+          "start": 180.48,
+          "end": 181.06
+        },
+        {
+          "word": "de",
+          "start": 181.06,
+          "end": 181.56
+        },
+        {
+          "word": "tu",
+          "start": 181.56,
+          "end": 181.96
+        },
+        {
+          "word": "cruz,",
+          "start": 181.96,
+          "end": 182.56
+        }
+      ],
+      "start": 177.72,
+      "end": 183.0,
+      "confidence": 0.714,
+      "time": 177.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "llévame, oh Salvador;",
+      "words": [
+        {
+          "word": "llévame,",
+          "start": 183.0,
+          "end": 183.92
+        },
+        {
+          "word": "oh",
+          "start": 184.24,
+          "end": 184.98
+        },
+        {
+          "word": "salvador.",
+          "start": 184.98,
+          "end": 187.78
+        }
+      ],
+      "start": 183.0,
+      "end": 187.78,
+      "confidence": 1.0,
+      "time": 183.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "aún más cerca, cerca, cerca de la luz",
+      "words": [
+        {
+          "word": "cerca,",
+          "start": 188.88,
+          "end": 190.26
+        },
+        {
+          "word": "cerca,",
+          "start": 190.8,
+          "end": 191.46
+        },
+        {
+          "word": "cerca",
+          "start": 191.62,
+          "end": 192.4
+        },
+        {
+          "word": "de",
+          "start": 192.4,
+          "end": 192.92
+        },
+        {
+          "word": "la",
+          "start": 192.92,
+          "end": 193.32
+        },
+        {
+          "word": "luz,",
+          "start": 193.32,
+          "end": 195.0
+        }
+      ],
+      "start": 188.88,
+      "end": 195.82,
+      "confidence": 0.75,
+      "time": 188.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "viva yo, ¡oh buen Pastor!",
+      "words": [
+        {
+          "word": "viva",
+          "start": 195.82,
+          "end": 196.16
+        },
+        {
+          "word": "en",
+          "start": 198.0,
+          "end": 199.14
+        }
+      ],
+      "start": 195.82,
+      "end": 200.04,
+      "confidence": 0.36,
+      "time": 195.82
+    }
+  ]
+}

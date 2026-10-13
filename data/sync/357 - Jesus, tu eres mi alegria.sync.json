@@ -1,0 +1,930 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 1.0,
+  "language": "es",
+  "model": "medium",
+  "hymn": 357,
+  "source": "357 - Jesus, tu eres mi alegria.mp3",
+  "duration": 205.79,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús, tú eres mi alegría,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 18.18,
+          "end": 19.58
+        },
+        {
+          "word": "tú",
+          "start": 20.72,
+          "end": 21.22
+        },
+        {
+          "word": "eres",
+          "start": 21.22,
+          "end": 22.08
+        },
+        {
+          "word": "mi",
+          "start": 22.08,
+          "end": 22.48
+        },
+        {
+          "word": "alegría",
+          "start": 22.48,
+          "end": 25.84
+        }
+      ],
+      "start": 18.18,
+      "end": 25.84,
+      "confidence": 1.0,
+      "time": 18.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús, tú eres mi cantar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 25.84,
+          "end": 27.46
+        },
+        {
+          "word": "Tú",
+          "start": 28.22,
+          "end": 28.68
+        },
+        {
+          "word": "eres",
+          "start": 28.68,
+          "end": 29.44
+        },
+        {
+          "word": "mi",
+          "start": 29.44,
+          "end": 30.0
+        },
+        {
+          "word": "cantar,",
+          "start": 30.0,
+          "end": 33.46
+        }
+      ],
+      "start": 25.84,
+      "end": 33.74,
+      "confidence": 1.0,
+      "time": 25.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tú eres la senda más hermosa,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 33.74,
+          "end": 34.18
+        },
+        {
+          "word": "eres",
+          "start": 34.18,
+          "end": 35.46
+        },
+        {
+          "word": "la",
+          "start": 35.46,
+          "end": 35.88
+        },
+        {
+          "word": "senda",
+          "start": 35.88,
+          "end": 36.76
+        },
+        {
+          "word": "más",
+          "start": 36.76,
+          "end": 37.56
+        },
+        {
+          "word": "hermosa",
+          "start": 37.56,
+          "end": 40.78
+        }
+      ],
+      "start": 33.74,
+      "end": 40.78,
+      "confidence": 1.0,
+      "time": 33.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por donde yo quiero caminar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Por",
+          "start": 40.78,
+          "end": 41.5
+        },
+        {
+          "word": "donde",
+          "start": 41.5,
+          "end": 42.68
+        },
+        {
+          "word": "yo",
+          "start": 42.68,
+          "end": 43.36
+        },
+        {
+          "word": "quiero",
+          "start": 43.36,
+          "end": 44.12
+        },
+        {
+          "word": "caminar",
+          "start": 44.12,
+          "end": 47.88
+        }
+      ],
+      "start": 40.78,
+      "end": 47.88,
+      "confidence": 1.0,
+      "time": 40.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús, tú eres primavera",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 47.88,
+          "end": 50.1
+        },
+        {
+          "word": "Tú",
+          "start": 50.48,
+          "end": 50.82
+        },
+        {
+          "word": "eres",
+          "start": 50.82,
+          "end": 51.6
+        },
+        {
+          "word": "Primavera",
+          "start": 51.6,
+          "end": 55.6
+        }
+      ],
+      "start": 47.88,
+      "end": 55.6,
+      "confidence": 1.0,
+      "time": 47.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que hace todo florecer.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 55.6,
+          "end": 56.26
+        },
+        {
+          "word": "hace",
+          "start": 56.26,
+          "end": 57.88
+        },
+        {
+          "word": "todo",
+          "start": 57.88,
+          "end": 58.88
+        },
+        {
+          "word": "florecer",
+          "start": 58.88,
+          "end": 62.82
+        }
+      ],
+      "start": 55.6,
+      "end": 62.82,
+      "confidence": 1.0,
+      "time": 55.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tú eres la llama que me alumbra",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 62.82,
+          "end": 63.6
+        },
+        {
+          "word": "eres",
+          "start": 63.6,
+          "end": 65.06
+        },
+        {
+          "word": "la",
+          "start": 65.06,
+          "end": 65.5
+        },
+        {
+          "word": "llama",
+          "start": 65.5,
+          "end": 66.24
+        },
+        {
+          "word": "que",
+          "start": 66.24,
+          "end": 66.88
+        },
+        {
+          "word": "me",
+          "start": 66.88,
+          "end": 67.34
+        },
+        {
+          "word": "alumbra",
+          "start": 67.34,
+          "end": 70.18
+        }
+      ],
+      "start": 62.82,
+      "end": 70.18,
+      "confidence": 1.0,
+      "time": 62.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y hace brillar todo mi ser.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 70.18,
+          "end": 71.16
+        },
+        {
+          "word": "hace",
+          "start": 71.16,
+          "end": 72.28
+        },
+        {
+          "word": "brillar",
+          "start": 72.28,
+          "end": 73.4
+        },
+        {
+          "word": "todo",
+          "start": 73.4,
+          "end": 74.18
+        },
+        {
+          "word": "mi",
+          "start": 74.18,
+          "end": 74.82
+        },
+        {
+          "word": "ser",
+          "start": 74.82,
+          "end": 78.32
+        }
+      ],
+      "start": 70.18,
+      "end": 78.32,
+      "confidence": 1.0,
+      "time": 70.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Jesús, tú eres melodía,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 81.34,
+          "end": 82.74
+        },
+        {
+          "word": "tú",
+          "start": 83.52,
+          "end": 84.1
+        },
+        {
+          "word": "eres",
+          "start": 84.1,
+          "end": 84.78
+        },
+        {
+          "word": "melodía",
+          "start": 84.78,
+          "end": 88.52
+        }
+      ],
+      "start": 81.34,
+      "end": 88.52,
+      "confidence": 1.0,
+      "time": 81.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "la voz, el canto y la emoción.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "La",
+          "start": 88.52,
+          "end": 89.46
+        },
+        {
+          "word": "voz,",
+          "start": 89.46,
+          "end": 90.78
+        },
+        {
+          "word": "el",
+          "start": 91.16,
+          "end": 91.34
+        },
+        {
+          "word": "canto",
+          "start": 91.34,
+          "end": 92.08
+        },
+        {
+          "word": "y",
+          "start": 92.08,
+          "end": 92.34
+        },
+        {
+          "word": "la",
+          "start": 92.34,
+          "end": 92.82
+        },
+        {
+          "word": "emoción",
+          "start": 92.82,
+          "end": 96.06
+        }
+      ],
+      "start": 88.52,
+      "end": 96.06,
+      "confidence": 1.0,
+      "time": 88.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Tú eres la fuerza que me inspira,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 96.06,
+          "end": 97.02
+        },
+        {
+          "word": "eres",
+          "start": 97.02,
+          "end": 98.36
+        },
+        {
+          "word": "la",
+          "start": 98.36,
+          "end": 98.76
+        },
+        {
+          "word": "fuerza",
+          "start": 98.76,
+          "end": 99.4
+        },
+        {
+          "word": "que",
+          "start": 99.4,
+          "end": 100.14
+        },
+        {
+          "word": "me",
+          "start": 100.14,
+          "end": 100.5
+        },
+        {
+          "word": "inspira",
+          "start": 100.5,
+          "end": 103.5
+        }
+      ],
+      "start": 96.06,
+      "end": 103.5,
+      "confidence": 1.0,
+      "time": 96.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "el canto aunque haya aflicción.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "El",
+          "start": 103.5,
+          "end": 104.22
+        },
+        {
+          "word": "canto",
+          "start": 104.22,
+          "end": 105.38
+        },
+        {
+          "word": "aunque",
+          "start": 105.38,
+          "end": 106.04
+        },
+        {
+          "word": "haya",
+          "start": 106.04,
+          "end": 107.08
+        },
+        {
+          "word": "aflicción",
+          "start": 107.08,
+          "end": 110.98
+        }
+      ],
+      "start": 103.5,
+      "end": 110.98,
+      "confidence": 1.0,
+      "time": 103.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Jesús, tú eres la esperanza",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 110.98,
+          "end": 112.96
+        },
+        {
+          "word": "tú",
+          "start": 113.32,
+          "end": 113.74
+        },
+        {
+          "word": "eres",
+          "start": 113.74,
+          "end": 114.4
+        },
+        {
+          "word": "la",
+          "start": 114.4,
+          "end": 114.98
+        },
+        {
+          "word": "esperanza",
+          "start": 114.98,
+          "end": 117.12
+        }
+      ],
+      "start": 110.98,
+      "end": 117.12,
+      "confidence": 1.0,
+      "time": 110.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "que da la paz al corazón.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 117.12,
+          "end": 118.86
+        },
+        {
+          "word": "da",
+          "start": 118.86,
+          "end": 119.84
+        },
+        {
+          "word": "la",
+          "start": 119.84,
+          "end": 120.84
+        },
+        {
+          "word": "paz",
+          "start": 120.84,
+          "end": 121.34
+        },
+        {
+          "word": "al",
+          "start": 121.34,
+          "end": 121.72
+        },
+        {
+          "word": "corazón",
+          "start": 121.72,
+          "end": 125.2
+        }
+      ],
+      "start": 117.12,
+      "end": 125.2,
+      "confidence": 1.0,
+      "time": 117.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Jesús, tú eres la energía",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 125.2,
+          "end": 126.96
+        },
+        {
+          "word": "Tú",
+          "start": 127.84,
+          "end": 128.36
+        },
+        {
+          "word": "eres",
+          "start": 128.36,
+          "end": 129.08
+        },
+        {
+          "word": "la",
+          "start": 129.08,
+          "end": 129.66
+        },
+        {
+          "word": "energía",
+          "start": 129.66,
+          "end": 131.86
+        }
+      ],
+      "start": 125.2,
+      "end": 131.86,
+      "confidence": 1.0,
+      "time": 125.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "que mueve la vida a la acción.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 131.86,
+          "end": 133.76
+        },
+        {
+          "word": "mueve",
+          "start": 133.76,
+          "end": 135.24
+        },
+        {
+          "word": "la",
+          "start": 135.24,
+          "end": 135.74
+        },
+        {
+          "word": "vida",
+          "start": 135.74,
+          "end": 136.48
+        },
+        {
+          "word": "a",
+          "start": 136.48,
+          "end": 137.16
+        },
+        {
+          "word": "la",
+          "start": 137.16,
+          "end": 137.4
+        },
+        {
+          "word": "acción",
+          "start": 137.4,
+          "end": 140.3
+        }
+      ],
+      "start": 131.86,
+      "end": 140.3,
+      "confidence": 1.0,
+      "time": 131.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesús, tú eres mi camino,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 140.3,
+          "end": 142.34
+        },
+        {
+          "word": "Tú",
+          "start": 142.58,
+          "end": 143.24
+        },
+        {
+          "word": "eres",
+          "start": 143.24,
+          "end": 143.88
+        },
+        {
+          "word": "mi",
+          "start": 143.88,
+          "end": 144.46
+        },
+        {
+          "word": "camino,",
+          "start": 144.46,
+          "end": 147.68
+        }
+      ],
+      "start": 140.3,
+      "end": 147.68,
+      "confidence": 1.0,
+      "time": 140.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "verdad, vida y salvación.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "verdad,",
+          "start": 148.64,
+          "end": 150.18
+        },
+        {
+          "word": "vida",
+          "start": 150.44,
+          "end": 150.98
+        },
+        {
+          "word": "y",
+          "start": 150.98,
+          "end": 151.4
+        },
+        {
+          "word": "salvación.",
+          "start": 151.4,
+          "end": 155.16
+        }
+      ],
+      "start": 148.64,
+      "end": 155.16,
+      "confidence": 1.0,
+      "time": 148.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesús, tú eres mi victoria,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 155.52,
+          "end": 156.7
+        },
+        {
+          "word": "Tú",
+          "start": 157.36,
+          "end": 157.98
+        },
+        {
+          "word": "eres",
+          "start": 157.98,
+          "end": 158.68
+        },
+        {
+          "word": "mi",
+          "start": 158.68,
+          "end": 159.32
+        },
+        {
+          "word": "victoria,",
+          "start": 159.32,
+          "end": 162.42
+        }
+      ],
+      "start": 155.52,
+      "end": 162.42,
+      "confidence": 1.0,
+      "time": 155.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "motivo de mi adoración.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "motivo",
+          "start": 163.0,
+          "end": 164.02
+        },
+        {
+          "word": "de",
+          "start": 164.02,
+          "end": 165.14
+        },
+        {
+          "word": "mi",
+          "start": 165.14,
+          "end": 165.92
+        },
+        {
+          "word": "adoración.",
+          "start": 165.92,
+          "end": 169.72
+        }
+      ],
+      "start": 163.0,
+      "end": 169.72,
+      "confidence": 1.0,
+      "time": 163.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesús, mi Salvador querido,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 169.72,
+          "end": 171.28
+        },
+        {
+          "word": "mi",
+          "start": 172.34,
+          "end": 172.52
+        },
+        {
+          "word": "Salvador",
+          "start": 172.52,
+          "end": 173.84
+        },
+        {
+          "word": "querido,",
+          "start": 173.84,
+          "end": 177.24
+        }
+      ],
+      "start": 169.72,
+      "end": 178.0,
+      "confidence": 1.0,
+      "time": 169.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a ti dedico mi vivir.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 178.0,
+          "end": 178.2
+        },
+        {
+          "word": "ti",
+          "start": 178.2,
+          "end": 179.74
+        },
+        {
+          "word": "dedico",
+          "start": 179.74,
+          "end": 180.78
+        },
+        {
+          "word": "mi",
+          "start": 180.78,
+          "end": 181.42
+        },
+        {
+          "word": "vivir,",
+          "start": 181.42,
+          "end": 184.52
+        }
+      ],
+      "start": 178.0,
+      "end": 184.52,
+      "confidence": 1.0,
+      "time": 178.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Tú eres siempre mi sustento,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 184.52,
+          "end": 185.44
+        },
+        {
+          "word": "eres",
+          "start": 185.44,
+          "end": 187.3
+        },
+        {
+          "word": "siempre",
+          "start": 187.3,
+          "end": 188.12
+        },
+        {
+          "word": "mi",
+          "start": 188.12,
+          "end": 188.74
+        },
+        {
+          "word": "sustento",
+          "start": 188.74,
+          "end": 191.86
+        }
+      ],
+      "start": 184.52,
+      "end": 191.86,
+      "confidence": 1.0,
+      "time": 184.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesús, tú eres todo en mí.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 191.86,
+          "end": 194.1
+        },
+        {
+          "word": "tú",
+          "start": 194.68,
+          "end": 194.96
+        },
+        {
+          "word": "eres",
+          "start": 194.96,
+          "end": 195.66
+        },
+        {
+          "word": "todo",
+          "start": 195.66,
+          "end": 196.44
+        },
+        {
+          "word": "en",
+          "start": 196.44,
+          "end": 197.16
+        },
+        {
+          "word": "mí",
+          "start": 197.16,
+          "end": 199.56
+        }
+      ],
+      "start": 191.86,
+      "end": 199.56,
+      "confidence": 1.0,
+      "time": 191.86
+    }
+  ]
+}

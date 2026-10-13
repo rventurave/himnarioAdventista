@@ -1,0 +1,798 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.922,
+  "language": "es",
+  "model": "medium",
+  "hymn": 407,
+  "source": "407 - Muy cerca de mi Redentor.mp3",
+  "duration": 166.71,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hay un lugar do quiero estar",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hay",
+          "start": 22.7,
+          "end": 24.1
+        },
+        {
+          "word": "un",
+          "start": 24.1,
+          "end": 25.22
+        },
+        {
+          "word": "lugar",
+          "start": 25.22,
+          "end": 25.84
+        },
+        {
+          "word": "quiero",
+          "start": 26.36,
+          "end": 26.86
+        },
+        {
+          "word": "estar",
+          "start": 26.86,
+          "end": 28.82
+        }
+      ],
+      "start": 22.7,
+      "end": 28.82,
+      "confidence": 0.833,
+      "time": 22.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "muy cerca de mi Redentor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "muy",
+          "start": 28.82,
+          "end": 29.76
+        },
+        {
+          "word": "cerca",
+          "start": 29.76,
+          "end": 31.3
+        },
+        {
+          "word": "de",
+          "start": 31.3,
+          "end": 31.76
+        },
+        {
+          "word": "mi",
+          "start": 31.76,
+          "end": 32.1
+        },
+        {
+          "word": "Redentor.",
+          "start": 32.1,
+          "end": 34.74
+        }
+      ],
+      "start": 28.82,
+      "end": 34.74,
+      "confidence": 1.0,
+      "time": 28.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "allí podré yo descansar",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Allí",
+          "start": 35.48,
+          "end": 36.68
+        },
+        {
+          "word": "podré",
+          "start": 36.68,
+          "end": 37.5
+        },
+        {
+          "word": "yo",
+          "start": 37.5,
+          "end": 37.88
+        },
+        {
+          "word": "descansar",
+          "start": 37.88,
+          "end": 40.48
+        }
+      ],
+      "start": 35.48,
+      "end": 40.48,
+      "confidence": 1.0,
+      "time": 35.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al fiel amparo de su amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 42.84,
+          "end": 42.96
+        },
+        {
+          "word": "paro",
+          "start": 42.96,
+          "end": 43.64
+        },
+        {
+          "word": "de",
+          "start": 43.64,
+          "end": 43.84
+        },
+        {
+          "word": "su",
+          "start": 43.84,
+          "end": 44.24
+        },
+        {
+          "word": "amor.",
+          "start": 44.24,
+          "end": 45.94
+        }
+      ],
+      "start": 42.84,
+      "end": 45.94,
+      "confidence": 0.813,
+      "time": 42.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Muy cerca de mi Redentor",
+      "words": [
+        {
+          "word": "Muy",
+          "start": 46.54,
+          "end": 47.04
+        },
+        {
+          "word": "cerca",
+          "start": 47.04,
+          "end": 48.54
+        },
+        {
+          "word": "de",
+          "start": 48.54,
+          "end": 48.98
+        },
+        {
+          "word": "mi",
+          "start": 48.98,
+          "end": 49.32
+        },
+        {
+          "word": "Redentor",
+          "start": 49.32,
+          "end": 51.86
+        }
+      ],
+      "start": 46.54,
+      "end": 51.86,
+      "confidence": 1.0,
+      "time": 46.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "seguro asilo encontraré;",
+      "words": [
+        {
+          "word": "seguro",
+          "start": 51.86,
+          "end": 54.08
+        },
+        {
+          "word": "encontraré.",
+          "start": 55.04,
+          "end": 57.46
+        }
+      ],
+      "start": 51.86,
+      "end": 57.46,
+      "confidence": 0.667,
+      "time": 51.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "me guardará del tentador,",
+      "words": [
+        {
+          "word": "me",
+          "start": 57.46,
+          "end": 58.68
+        },
+        {
+          "word": "del",
+          "start": 60.4,
+          "end": 60.76
+        },
+        {
+          "word": "tentador,",
+          "start": 60.76,
+          "end": 63.3
+        }
+      ],
+      "start": 57.46,
+      "end": 64.18,
+      "confidence": 0.75,
+      "time": 57.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y ya de nada temeré.",
+      "words": [
+        {
+          "word": "y",
+          "start": 64.18,
+          "end": 64.62
+        },
+        {
+          "word": "dinlada",
+          "start": 65.58,
+          "end": 66.68
+        },
+        {
+          "word": "temeré.",
+          "start": 66.68,
+          "end": 69.52
+        }
+      ],
+      "start": 64.18,
+      "end": 69.52,
+      "confidence": 0.567,
+      "time": 64.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Quitarme el mundo no podrá",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Quitarme",
+          "start": 70.42,
+          "end": 71.82
+        },
+        {
+          "word": "el",
+          "start": 71.82,
+          "end": 71.92
+        },
+        {
+          "word": "mundo",
+          "start": 71.92,
+          "end": 72.46
+        },
+        {
+          "word": "no",
+          "start": 72.46,
+          "end": 73.04
+        },
+        {
+          "word": "podrá,",
+          "start": 73.04,
+          "end": 75.16
+        }
+      ],
+      "start": 70.42,
+      "end": 75.54,
+      "confidence": 1.0,
+      "time": 70.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la paz que halló mi corazón;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 75.54,
+          "end": 76.18
+        },
+        {
+          "word": "paz",
+          "start": 76.18,
+          "end": 77.18
+        },
+        {
+          "word": "que",
+          "start": 77.18,
+          "end": 77.58
+        },
+        {
+          "word": "halló",
+          "start": 77.58,
+          "end": 77.96
+        },
+        {
+          "word": "mi",
+          "start": 77.96,
+          "end": 78.34
+        },
+        {
+          "word": "corazón.",
+          "start": 78.34,
+          "end": 80.54
+        }
+      ],
+      "start": 75.54,
+      "end": 80.54,
+      "confidence": 1.0,
+      "time": 75.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesús amante me dará",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 80.54,
+          "end": 82.62
+        },
+        {
+          "word": "amante",
+          "start": 82.62,
+          "end": 84.0
+        },
+        {
+          "word": "me",
+          "start": 84.0,
+          "end": 84.58
+        },
+        {
+          "word": "dará",
+          "start": 84.58,
+          "end": 86.94
+        }
+      ],
+      "start": 80.54,
+      "end": 86.94,
+      "confidence": 1.0,
+      "time": 80.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la más segura protección.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 86.94,
+          "end": 87.86
+        },
+        {
+          "word": "más",
+          "start": 87.86,
+          "end": 88.9
+        },
+        {
+          "word": "segura",
+          "start": 88.9,
+          "end": 89.82
+        },
+        {
+          "word": "protección",
+          "start": 89.82,
+          "end": 92.4
+        }
+      ],
+      "start": 86.94,
+      "end": 92.4,
+      "confidence": 1.0,
+      "time": 86.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Muy cerca de mi Redentor",
+      "words": [
+        {
+          "word": "Muy",
+          "start": 92.4,
+          "end": 93.36
+        },
+        {
+          "word": "cerca",
+          "start": 93.36,
+          "end": 94.78
+        },
+        {
+          "word": "de",
+          "start": 94.78,
+          "end": 95.24
+        },
+        {
+          "word": "mi",
+          "start": 95.24,
+          "end": 95.52
+        },
+        {
+          "word": "redentor,",
+          "start": 95.52,
+          "end": 98.34
+        }
+      ],
+      "start": 92.4,
+      "end": 99.12,
+      "confidence": 1.0,
+      "time": 92.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "seguro asilo encontraré;",
+      "words": [
+        {
+          "word": "seguro",
+          "start": 99.12,
+          "end": 100.38
+        },
+        {
+          "word": "así",
+          "start": 100.38,
+          "end": 100.88
+        },
+        {
+          "word": "encontraré",
+          "start": 101.32,
+          "end": 103.98
+        }
+      ],
+      "start": 99.12,
+      "end": 103.98,
+      "confidence": 0.98,
+      "time": 99.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "me guardará del tentador,",
+      "words": [
+        {
+          "word": "Me",
+          "start": 103.98,
+          "end": 105.02
+        },
+        {
+          "word": "guardará",
+          "start": 105.02,
+          "end": 106.66
+        },
+        {
+          "word": "del",
+          "start": 106.66,
+          "end": 107.04
+        },
+        {
+          "word": "tentador",
+          "start": 107.04,
+          "end": 109.58
+        }
+      ],
+      "start": 103.98,
+      "end": 109.58,
+      "confidence": 1.0,
+      "time": 103.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y ya de nada temeré.",
+      "words": [
+        {
+          "word": "Y",
+          "start": 109.58,
+          "end": 110.66
+        },
+        {
+          "word": "de",
+          "start": 111.72,
+          "end": 112.18
+        },
+        {
+          "word": "nada",
+          "start": 112.18,
+          "end": 112.74
+        },
+        {
+          "word": "temeré",
+          "start": 112.74,
+          "end": 115.6
+        }
+      ],
+      "start": 109.58,
+      "end": 115.6,
+      "confidence": 0.8,
+      "time": 109.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Ni dudas ni temor tendré",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Ni",
+          "start": 115.6,
+          "end": 116.68
+        },
+        {
+          "word": "dudas,",
+          "start": 116.68,
+          "end": 118.14
+        },
+        {
+          "word": "ni",
+          "start": 118.14,
+          "end": 118.5
+        },
+        {
+          "word": "temor",
+          "start": 118.5,
+          "end": 119.2
+        },
+        {
+          "word": "tendré",
+          "start": 119.2,
+          "end": 121.5
+        }
+      ],
+      "start": 115.6,
+      "end": 121.5,
+      "confidence": 1.0,
+      "time": 115.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "estando cerca de Jesús;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "estando",
+          "start": 122.52,
+          "end": 123.92
+        },
+        {
+          "word": "cerca",
+          "start": 123.92,
+          "end": 124.56
+        },
+        {
+          "word": "de",
+          "start": 124.56,
+          "end": 125.02
+        },
+        {
+          "word": "Jesús",
+          "start": 125.02,
+          "end": 127.04
+        }
+      ],
+      "start": 122.52,
+      "end": 127.04,
+      "confidence": 1.0,
+      "time": 122.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "rodeado siempre me veré",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Rodeado",
+          "start": 127.04,
+          "end": 129.56
+        },
+        {
+          "word": "siempre",
+          "start": 129.56,
+          "end": 130.3
+        },
+        {
+          "word": "me",
+          "start": 130.3,
+          "end": 130.9
+        },
+        {
+          "word": "veré",
+          "start": 130.9,
+          "end": 132.9
+        }
+      ],
+      "start": 127.04,
+      "end": 132.9,
+      "confidence": 1.0,
+      "time": 127.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "con los fulgores de su luz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 132.9,
+          "end": 134.12
+        },
+        {
+          "word": "los",
+          "start": 134.12,
+          "end": 135.16
+        },
+        {
+          "word": "olores",
+          "start": 135.16,
+          "end": 136.04
+        },
+        {
+          "word": "de",
+          "start": 136.04,
+          "end": 136.46
+        },
+        {
+          "word": "su",
+          "start": 136.46,
+          "end": 136.78
+        },
+        {
+          "word": "luz",
+          "start": 136.78,
+          "end": 138.66
+        }
+      ],
+      "start": 132.9,
+      "end": 138.66,
+      "confidence": 0.971,
+      "time": 132.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Muy cerca de mi Redentor",
+      "words": [
+        {
+          "word": "muy",
+          "start": 138.66,
+          "end": 139.58
+        },
+        {
+          "word": "cerca",
+          "start": 139.58,
+          "end": 141.06
+        },
+        {
+          "word": "de",
+          "start": 141.06,
+          "end": 141.48
+        },
+        {
+          "word": "mi",
+          "start": 141.48,
+          "end": 141.84
+        },
+        {
+          "word": "redentor",
+          "start": 141.84,
+          "end": 144.54
+        }
+      ],
+      "start": 138.66,
+      "end": 144.54,
+      "confidence": 1.0,
+      "time": 138.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "seguro asilo encontraré;",
+      "words": [
+        {
+          "word": "seguro",
+          "start": 144.54,
+          "end": 146.62
+        },
+        {
+          "word": "así",
+          "start": 146.62,
+          "end": 147.22
+        },
+        {
+          "word": "encontraré",
+          "start": 147.62,
+          "end": 150.4
+        }
+      ],
+      "start": 144.54,
+      "end": 150.4,
+      "confidence": 0.98,
+      "time": 144.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "me guardará del tentador,",
+      "words": [
+        {
+          "word": "me",
+          "start": 150.4,
+          "end": 151.3
+        },
+        {
+          "word": "guardará",
+          "start": 151.3,
+          "end": 152.88
+        },
+        {
+          "word": "del",
+          "start": 152.88,
+          "end": 153.32
+        },
+        {
+          "word": "tentador",
+          "start": 153.32,
+          "end": 155.78
+        }
+      ],
+      "start": 150.4,
+      "end": 155.78,
+      "confidence": 1.0,
+      "time": 150.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y ya de nada temeré.",
+      "words": [
+        {
+          "word": "y",
+          "start": 155.78,
+          "end": 157.16
+        },
+        {
+          "word": "de",
+          "start": 158.18,
+          "end": 158.58
+        },
+        {
+          "word": "nada",
+          "start": 158.58,
+          "end": 159.28
+        },
+        {
+          "word": "temeré.",
+          "start": 159.28,
+          "end": 163.44
+        }
+      ],
+      "start": 155.78,
+      "end": 163.44,
+      "confidence": 0.8,
+      "time": 155.78
+    }
+  ]
+}

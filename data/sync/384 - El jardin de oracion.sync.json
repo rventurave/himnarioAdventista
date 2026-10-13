@@ -1,0 +1,1320 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.889,
+  "language": "es",
+  "model": "medium",
+  "hymn": 384,
+  "source": "384 - El jardin de oracion.mp3",
+  "duration": 249.7,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hay jardín memorable y hermoso,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ay,",
+          "start": 23.14,
+          "end": 24.54
+        },
+        {
+          "word": "cariño",
+          "start": 24.9,
+          "end": 25.92
+        },
+        {
+          "word": "y",
+          "start": 27.68,
+          "end": 28.14
+        },
+        {
+          "word": "hermoso",
+          "start": 28.14,
+          "end": 29.96
+        }
+      ],
+      "start": 23.14,
+      "end": 29.96,
+      "confidence": 0.736,
+      "time": 23.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "do las rosas exhalan su olor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "rosas",
+          "start": 31.74,
+          "end": 33.12
+        },
+        {
+          "word": "exhalan",
+          "start": 33.12,
+          "end": 34.54
+        },
+        {
+          "word": "solo.",
+          "start": 34.54,
+          "end": 37.06
+        }
+      ],
+      "start": 31.74,
+      "end": 37.06,
+      "confidence": 0.475,
+      "time": 31.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "allí Cristo en santo reposo",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Allí",
+          "start": 38.14,
+          "end": 38.6
+        },
+        {
+          "word": "Cristo,",
+          "start": 38.6,
+          "end": 39.6
+        },
+        {
+          "word": "en",
+          "start": 40.1,
+          "end": 40.26
+        },
+        {
+          "word": "santo",
+          "start": 40.26,
+          "end": 41.34
+        },
+        {
+          "word": "reposo,",
+          "start": 41.34,
+          "end": 44.16
+        }
+      ],
+      "start": 38.14,
+      "end": 44.16,
+      "confidence": 1.0,
+      "time": 38.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "levantó su plegaria de amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Levantó",
+          "start": 45.06,
+          "end": 45.94
+        },
+        {
+          "word": "su",
+          "start": 45.94,
+          "end": 46.54
+        },
+        {
+          "word": "precaria",
+          "start": 46.54,
+          "end": 48.12
+        },
+        {
+          "word": "de",
+          "start": 48.12,
+          "end": 48.8
+        },
+        {
+          "word": "amar.",
+          "start": 48.8,
+          "end": 51.24
+        }
+      ],
+      "start": 45.06,
+      "end": 51.24,
+      "confidence": 0.94,
+      "time": 45.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Oh, qué bello jardín, el jardín de oración",
+      "words": [
+        {
+          "word": "O",
+          "start": 51.86,
+          "end": 52.02
+        },
+        {
+          "word": "que",
+          "start": 52.02,
+          "end": 52.22
+        },
+        {
+          "word": "bello",
+          "start": 52.7,
+          "end": 53.34
+        },
+        {
+          "word": "jardín,",
+          "start": 53.34,
+          "end": 54.62
+        },
+        {
+          "word": "el",
+          "start": 54.68,
+          "end": 55.02
+        },
+        {
+          "word": "jardín",
+          "start": 55.02,
+          "end": 56.24
+        },
+        {
+          "word": "de",
+          "start": 56.24,
+          "end": 56.7
+        },
+        {
+          "word": "oración,",
+          "start": 56.7,
+          "end": 58.14
+        }
+      ],
+      "start": 51.86,
+      "end": 58.14,
+      "confidence": 0.975,
+      "time": 51.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "donde el alma se encuentra con Dios.",
+      "words": [
+        {
+          "word": "donde",
+          "start": 58.14,
+          "end": 58.96
+        },
+        {
+          "word": "el",
+          "start": 58.96,
+          "end": 59.56
+        },
+        {
+          "word": "alma",
+          "start": 59.56,
+          "end": 60.08
+        },
+        {
+          "word": "se",
+          "start": 60.08,
+          "end": 60.78
+        },
+        {
+          "word": "encuentra",
+          "start": 60.78,
+          "end": 61.66
+        },
+        {
+          "word": "con",
+          "start": 61.66,
+          "end": 62.4
+        },
+        {
+          "word": "Dios.",
+          "start": 62.4,
+          "end": 64.76
+        }
+      ],
+      "start": 58.14,
+      "end": 64.76,
+      "confidence": 1.0,
+      "time": 58.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Allí miro al Señor y escucho su voz,",
+      "words": [
+        {
+          "word": "Allí",
+          "start": 65.6,
+          "end": 66.28
+        },
+        {
+          "word": "miro",
+          "start": 66.28,
+          "end": 66.82
+        },
+        {
+          "word": "al",
+          "start": 66.82,
+          "end": 67.26
+        },
+        {
+          "word": "Señor",
+          "start": 67.26,
+          "end": 68.56
+        },
+        {
+          "word": "y",
+          "start": 68.56,
+          "end": 69.26
+        },
+        {
+          "word": "escucho",
+          "start": 69.26,
+          "end": 70.44
+        },
+        {
+          "word": "su",
+          "start": 70.44,
+          "end": 71.08
+        },
+        {
+          "word": "voz",
+          "start": 71.08,
+          "end": 71.94
+        }
+      ],
+      "start": 65.6,
+      "end": 71.94,
+      "confidence": 1.0,
+      "time": 65.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en la hora de la oración.",
+      "words": [
+        {
+          "word": "en",
+          "start": 71.94,
+          "end": 72.64
+        },
+        {
+          "word": "la",
+          "start": 72.64,
+          "end": 73.18
+        },
+        {
+          "word": "hora",
+          "start": 73.18,
+          "end": 73.92
+        },
+        {
+          "word": "de",
+          "start": 73.92,
+          "end": 74.82
+        },
+        {
+          "word": "la",
+          "start": 74.82,
+          "end": 75.58
+        },
+        {
+          "word": "oración.",
+          "start": 75.58,
+          "end": 78.5
+        }
+      ],
+      "start": 71.94,
+      "end": 78.5,
+      "confidence": 1.0,
+      "time": 71.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Un vergel de eternal primavera",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Un",
+          "start": 79.1,
+          "end": 79.6
+        },
+        {
+          "word": "verte",
+          "start": 79.6,
+          "end": 80.2
+        },
+        {
+          "word": "del",
+          "start": 80.2,
+          "end": 80.76
+        },
+        {
+          "word": "eterno",
+          "start": 80.76,
+          "end": 82.18
+        },
+        {
+          "word": "primavera",
+          "start": 82.46,
+          "end": 86.08
+        }
+      ],
+      "start": 79.1,
+      "end": 86.08,
+      "confidence": 0.916,
+      "time": 79.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "porque Dios allí da bendición.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "porque",
+          "start": 86.08,
+          "end": 86.74
+        },
+        {
+          "word": "Dios",
+          "start": 87.04,
+          "end": 87.5
+        },
+        {
+          "word": "a",
+          "start": 89.3,
+          "end": 89.62
+        },
+        {
+          "word": "bendición.",
+          "start": 89.62,
+          "end": 92.84
+        }
+      ],
+      "start": 86.08,
+      "end": 92.84,
+      "confidence": 0.788,
+      "time": 86.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Es el sitio do Cristo me espera,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Es",
+          "start": 93.38,
+          "end": 93.64
+        },
+        {
+          "word": "el",
+          "start": 93.64,
+          "end": 93.92
+        },
+        {
+          "word": "sitio",
+          "start": 93.92,
+          "end": 94.78
+        },
+        {
+          "word": "Cristo",
+          "start": 95.42,
+          "end": 96.36
+        },
+        {
+          "word": "espera,",
+          "start": 97.24,
+          "end": 99.02
+        }
+      ],
+      "start": 93.38,
+      "end": 99.02,
+      "confidence": 0.714,
+      "time": 93.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "el bendito rincón de oración.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 100.08,
+          "end": 100.32
+        },
+        {
+          "word": "bendito",
+          "start": 100.32,
+          "end": 101.66
+        },
+        {
+          "word": "rincón",
+          "start": 101.66,
+          "end": 102.9
+        },
+        {
+          "word": "de",
+          "start": 102.9,
+          "end": 103.32
+        },
+        {
+          "word": "oración.",
+          "start": 103.32,
+          "end": 106.26
+        }
+      ],
+      "start": 100.08,
+      "end": 106.26,
+      "confidence": 1.0,
+      "time": 100.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Oh, qué bello jardín, el jardín de oración",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 107.02,
+          "end": 107.32
+        },
+        {
+          "word": "que",
+          "start": 107.34,
+          "end": 107.72
+        },
+        {
+          "word": "bello",
+          "start": 107.72,
+          "end": 108.52
+        },
+        {
+          "word": "jardín,",
+          "start": 108.52,
+          "end": 109.88
+        },
+        {
+          "word": "el",
+          "start": 109.96,
+          "end": 110.26
+        },
+        {
+          "word": "jardín",
+          "start": 110.26,
+          "end": 111.38
+        },
+        {
+          "word": "de",
+          "start": 111.38,
+          "end": 111.92
+        },
+        {
+          "word": "oración,",
+          "start": 111.92,
+          "end": 113.42
+        }
+      ],
+      "start": 107.02,
+      "end": 113.42,
+      "confidence": 1.0,
+      "time": 107.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "donde el alma se encuentra con Dios.",
+      "words": [
+        {
+          "word": "Donde",
+          "start": 113.42,
+          "end": 114.22
+        },
+        {
+          "word": "el",
+          "start": 114.22,
+          "end": 114.82
+        },
+        {
+          "word": "alma",
+          "start": 114.82,
+          "end": 115.36
+        },
+        {
+          "word": "se",
+          "start": 115.36,
+          "end": 116.02
+        },
+        {
+          "word": "encuentra",
+          "start": 116.02,
+          "end": 116.92
+        },
+        {
+          "word": "con",
+          "start": 116.92,
+          "end": 117.7
+        },
+        {
+          "word": "Dios.",
+          "start": 117.7,
+          "end": 120.06
+        }
+      ],
+      "start": 113.42,
+      "end": 120.06,
+      "confidence": 1.0,
+      "time": 113.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Allí miro al Señor y escucho su voz,",
+      "words": [
+        {
+          "word": "Allí",
+          "start": 120.84,
+          "end": 121.48
+        },
+        {
+          "word": "miro",
+          "start": 121.48,
+          "end": 122.2
+        },
+        {
+          "word": "al",
+          "start": 122.2,
+          "end": 122.52
+        },
+        {
+          "word": "Señor",
+          "start": 122.52,
+          "end": 123.8
+        },
+        {
+          "word": "y",
+          "start": 123.8,
+          "end": 124.52
+        },
+        {
+          "word": "escucho",
+          "start": 124.52,
+          "end": 125.9
+        },
+        {
+          "word": "su",
+          "start": 125.9,
+          "end": 126.26
+        },
+        {
+          "word": "voz",
+          "start": 126.26,
+          "end": 127.18
+        }
+      ],
+      "start": 120.84,
+      "end": 127.18,
+      "confidence": 1.0,
+      "time": 120.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en la hora de la oración.",
+      "words": [
+        {
+          "word": "en",
+          "start": 127.18,
+          "end": 127.88
+        },
+        {
+          "word": "la",
+          "start": 127.88,
+          "end": 128.4
+        },
+        {
+          "word": "hora",
+          "start": 128.4,
+          "end": 129.16
+        },
+        {
+          "word": "de",
+          "start": 129.16,
+          "end": 129.98
+        },
+        {
+          "word": "la",
+          "start": 129.98,
+          "end": 130.88
+        },
+        {
+          "word": "oración.",
+          "start": 130.88,
+          "end": 132.98
+        }
+      ],
+      "start": 127.18,
+      "end": 132.98,
+      "confidence": 1.0,
+      "time": 127.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Hay un huerto do Cristo me ofrece",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Hay",
+          "start": 134.86,
+          "end": 135.32
+        },
+        {
+          "word": "un",
+          "start": 135.32,
+          "end": 135.52
+        },
+        {
+          "word": "puerto",
+          "start": 135.52,
+          "end": 136.6
+        },
+        {
+          "word": "Cristo",
+          "start": 137.28,
+          "end": 138.16
+        },
+        {
+          "word": "ofrecer",
+          "start": 138.94,
+          "end": 141.38
+        }
+      ],
+      "start": 134.86,
+      "end": 141.38,
+      "confidence": 0.691,
+      "time": 134.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "mis penurias y cargas quitar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mis",
+          "start": 141.38,
+          "end": 142.18
+        },
+        {
+          "word": "pelurias",
+          "start": 142.18,
+          "end": 143.82
+        },
+        {
+          "word": "y",
+          "start": 143.82,
+          "end": 144.4
+        },
+        {
+          "word": "cargas",
+          "start": 144.4,
+          "end": 145.26
+        },
+        {
+          "word": "quitar.",
+          "start": 145.26,
+          "end": 148.04
+        }
+      ],
+      "start": 141.38,
+      "end": 148.04,
+      "confidence": 0.985,
+      "time": 141.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Allí el gozo del cielo florece",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 149.12,
+          "end": 149.54
+        },
+        {
+          "word": "del",
+          "start": 150.42,
+          "end": 150.9
+        },
+        {
+          "word": "cielo",
+          "start": 150.9,
+          "end": 151.86
+        },
+        {
+          "word": "florecer",
+          "start": 151.86,
+          "end": 154.84
+        }
+      ],
+      "start": 149.12,
+      "end": 154.84,
+      "confidence": 0.657,
+      "time": 149.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y mi copa se ve rebosar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 155.14,
+          "end": 155.84
+        },
+        {
+          "word": "mi",
+          "start": 155.84,
+          "end": 156.36
+        },
+        {
+          "word": "copa",
+          "start": 156.36,
+          "end": 157.66
+        },
+        {
+          "word": "se",
+          "start": 157.66,
+          "end": 157.96
+        },
+        {
+          "word": "ve",
+          "start": 157.96,
+          "end": 158.6
+        },
+        {
+          "word": "rebozar.",
+          "start": 158.6,
+          "end": 161.98
+        }
+      ],
+      "start": 155.14,
+      "end": 161.98,
+      "confidence": 0.986,
+      "time": 155.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Oh, qué bello jardín, el jardín de oración",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 162.48,
+          "end": 162.74
+        },
+        {
+          "word": "qué",
+          "start": 162.74,
+          "end": 163.04
+        },
+        {
+          "word": "bello",
+          "start": 163.04,
+          "end": 164.04
+        },
+        {
+          "word": "jardín,",
+          "start": 164.04,
+          "end": 165.32
+        },
+        {
+          "word": "el",
+          "start": 165.44,
+          "end": 165.74
+        },
+        {
+          "word": "jardín",
+          "start": 165.74,
+          "end": 166.88
+        },
+        {
+          "word": "de",
+          "start": 166.88,
+          "end": 167.42
+        },
+        {
+          "word": "oración,",
+          "start": 167.42,
+          "end": 168.86
+        }
+      ],
+      "start": 162.48,
+      "end": 168.86,
+      "confidence": 1.0,
+      "time": 162.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "donde el alma se encuentra con Dios.",
+      "words": [
+        {
+          "word": "donde",
+          "start": 168.86,
+          "end": 169.64
+        },
+        {
+          "word": "el",
+          "start": 169.64,
+          "end": 170.22
+        },
+        {
+          "word": "Almo",
+          "start": 170.22,
+          "end": 170.86
+        },
+        {
+          "word": "se",
+          "start": 170.86,
+          "end": 171.5
+        },
+        {
+          "word": "encuentra",
+          "start": 171.5,
+          "end": 172.36
+        },
+        {
+          "word": "con",
+          "start": 172.36,
+          "end": 173.24
+        },
+        {
+          "word": "Dios.",
+          "start": 173.24,
+          "end": 175.48
+        }
+      ],
+      "start": 168.86,
+      "end": 175.48,
+      "confidence": 0.979,
+      "time": 168.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Allí miro al Señor y escucho su voz,",
+      "words": [
+        {
+          "word": "Allí",
+          "start": 176.36,
+          "end": 176.92
+        },
+        {
+          "word": "Señor",
+          "start": 178.14,
+          "end": 179.48
+        },
+        {
+          "word": "y",
+          "start": 179.48,
+          "end": 180.2
+        },
+        {
+          "word": "escucho",
+          "start": 180.2,
+          "end": 181.22
+        },
+        {
+          "word": "su",
+          "start": 181.22,
+          "end": 181.9
+        },
+        {
+          "word": "voz",
+          "start": 181.9,
+          "end": 182.78
+        }
+      ],
+      "start": 176.36,
+      "end": 182.78,
+      "confidence": 0.75,
+      "time": 176.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en la hora de la oración.",
+      "words": [
+        {
+          "word": "en",
+          "start": 182.78,
+          "end": 183.4
+        },
+        {
+          "word": "la",
+          "start": 183.4,
+          "end": 183.96
+        },
+        {
+          "word": "hora",
+          "start": 183.96,
+          "end": 184.66
+        },
+        {
+          "word": "de",
+          "start": 184.66,
+          "end": 185.6
+        },
+        {
+          "word": "la",
+          "start": 185.6,
+          "end": 186.34
+        },
+        {
+          "word": "oración.",
+          "start": 186.34,
+          "end": 189.22
+        }
+      ],
+      "start": 182.78,
+      "end": 189.22,
+      "confidence": 1.0,
+      "time": 182.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Es el sitio do Cristo te invita",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Es",
+          "start": 189.98,
+          "end": 190.42
+        },
+        {
+          "word": "el",
+          "start": 190.42,
+          "end": 190.8
+        },
+        {
+          "word": "sitio",
+          "start": 190.8,
+          "end": 191.62
+        },
+        {
+          "word": "do",
+          "start": 191.62,
+          "end": 192.4
+        },
+        {
+          "word": "Cristo",
+          "start": 192.4,
+          "end": 193.38
+        },
+        {
+          "word": "invita",
+          "start": 194.08,
+          "end": 196.56
+        }
+      ],
+      "start": 189.98,
+      "end": 196.56,
+      "confidence": 0.857,
+      "time": 189.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "a implorar su bondad y perdón.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "a",
+          "start": 196.56,
+          "end": 197.22
+        },
+        {
+          "word": "ignorar",
+          "start": 197.22,
+          "end": 198.14
+        },
+        {
+          "word": "su",
+          "start": 198.14,
+          "end": 198.68
+        },
+        {
+          "word": "bondad",
+          "start": 198.68,
+          "end": 199.86
+        },
+        {
+          "word": "y",
+          "start": 199.86,
+          "end": 200.4
+        },
+        {
+          "word": "perdón.",
+          "start": 200.4,
+          "end": 203.62
+        }
+      ],
+      "start": 196.56,
+      "end": 203.62,
+      "confidence": 0.967,
+      "time": 196.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Es allí donde el alma contrita",
+      "verse": 4,
+      "words": [
+        {
+          "word": "salido",
+          "start": 204.2,
+          "end": 205.48
+        },
+        {
+          "word": "del",
+          "start": 205.48,
+          "end": 206.2
+        },
+        {
+          "word": "alma",
+          "start": 206.2,
+          "end": 207.14
+        },
+        {
+          "word": "concreta",
+          "start": 207.14,
+          "end": 210.14
+        }
+      ],
+      "start": 204.2,
+      "end": 210.14,
+      "confidence": 0.582,
+      "time": 204.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "se recoge con fe y devoción.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "se",
+          "start": 210.14,
+          "end": 211.0
+        },
+        {
+          "word": "recode",
+          "start": 211.0,
+          "end": 212.2
+        },
+        {
+          "word": "con",
+          "start": 212.2,
+          "end": 213.12
+        },
+        {
+          "word": "fe",
+          "start": 213.12,
+          "end": 213.42
+        },
+        {
+          "word": "y",
+          "start": 213.42,
+          "end": 213.92
+        },
+        {
+          "word": "devoción.",
+          "start": 213.92,
+          "end": 216.88
+        }
+      ],
+      "start": 210.14,
+      "end": 216.88,
+      "confidence": 0.983,
+      "time": 210.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Oh, qué bello jardín, el jardín de oración",
+      "words": [
+        {
+          "word": "¡Oh",
+          "start": 217.46,
+          "end": 217.9
+        },
+        {
+          "word": "que",
+          "start": 217.9,
+          "end": 218.16
+        },
+        {
+          "word": "bello",
+          "start": 218.16,
+          "end": 219.18
+        },
+        {
+          "word": "jardín,",
+          "start": 219.18,
+          "end": 220.5
+        },
+        {
+          "word": "el",
+          "start": 220.52,
+          "end": 220.9
+        },
+        {
+          "word": "jardín",
+          "start": 220.9,
+          "end": 222.02
+        },
+        {
+          "word": "de",
+          "start": 222.02,
+          "end": 222.52
+        },
+        {
+          "word": "oración!",
+          "start": 222.52,
+          "end": 223.96
+        }
+      ],
+      "start": 217.46,
+      "end": 223.96,
+      "confidence": 1.0,
+      "time": 217.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "donde el alma se encuentra con Dios.",
+      "words": [
+        {
+          "word": "donde",
+          "start": 223.96,
+          "end": 224.84
+        },
+        {
+          "word": "el",
+          "start": 224.84,
+          "end": 225.42
+        },
+        {
+          "word": "alma",
+          "start": 225.42,
+          "end": 225.92
+        },
+        {
+          "word": "se",
+          "start": 225.92,
+          "end": 226.58
+        },
+        {
+          "word": "encuentra",
+          "start": 226.58,
+          "end": 227.54
+        },
+        {
+          "word": "con",
+          "start": 227.54,
+          "end": 228.46
+        },
+        {
+          "word": "Dios.",
+          "start": 228.46,
+          "end": 230.6
+        }
+      ],
+      "start": 223.96,
+      "end": 230.6,
+      "confidence": 1.0,
+      "time": 223.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Allí miro al Señor y escucho su voz,",
+      "words": [
+        {
+          "word": "Norte",
+          "start": 233.82,
+          "end": 234.82
+        },
+        {
+          "word": "y",
+          "start": 234.82,
+          "end": 235.5
+        },
+        {
+          "word": "escucho",
+          "start": 235.5,
+          "end": 236.6
+        },
+        {
+          "word": "su",
+          "start": 236.6,
+          "end": 237.02
+        },
+        {
+          "word": "voz",
+          "start": 237.02,
+          "end": 237.92
+        }
+      ],
+      "start": 233.82,
+      "end": 237.92,
+      "confidence": 0.595,
+      "time": 233.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "en la hora de la oración.",
+      "words": [
+        {
+          "word": "la",
+          "start": 238.5,
+          "end": 239.02
+        },
+        {
+          "word": "hora",
+          "start": 239.02,
+          "end": 239.88
+        },
+        {
+          "word": "de",
+          "start": 239.88,
+          "end": 240.8
+        },
+        {
+          "word": "la",
+          "start": 240.8,
+          "end": 241.78
+        },
+        {
+          "word": "oración.",
+          "start": 241.78,
+          "end": 243.0
+        }
+      ],
+      "start": 238.5,
+      "end": 243.0,
+      "confidence": 0.833,
+      "time": 238.5
+    }
+  ]
+}

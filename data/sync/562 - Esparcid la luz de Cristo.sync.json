@@ -1,0 +1,883 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.979,
+  "language": "es",
+  "model": "medium",
+  "hymn": 562,
+  "source": "562 - Esparcid la luz de Cristo.mp3",
+  "duration": 123.77,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Esparcid la luz de Cristo",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Esparcid",
+          "start": 10.88,
+          "end": 11.92
+        },
+        {
+          "word": "la",
+          "start": 11.92,
+          "end": 12.2
+        },
+        {
+          "word": "luz",
+          "start": 12.2,
+          "end": 12.5
+        },
+        {
+          "word": "de",
+          "start": 12.5,
+          "end": 12.96
+        },
+        {
+          "word": "Cristo",
+          "start": 12.96,
+          "end": 13.92
+        }
+      ],
+      "start": 10.88,
+      "end": 13.92,
+      "confidence": 1.0,
+      "time": 10.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en la densa oscuridad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 13.92,
+          "end": 14.88
+        },
+        {
+          "word": "la",
+          "start": 14.88,
+          "end": 15.3
+        },
+        {
+          "word": "tensa",
+          "start": 15.3,
+          "end": 16.58
+        },
+        {
+          "word": "oscuridad",
+          "start": 16.58,
+          "end": 18.64
+        }
+      ],
+      "start": 13.92,
+      "end": 18.64,
+      "confidence": 0.97,
+      "time": 13.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Alumbrad a quien no ha visto",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Alumnad",
+          "start": 19.82,
+          "end": 20.86
+        },
+        {
+          "word": "a",
+          "start": 20.86,
+          "end": 21.28
+        },
+        {
+          "word": "quien",
+          "start": 21.28,
+          "end": 21.48
+        },
+        {
+          "word": "no",
+          "start": 21.48,
+          "end": 21.84
+        },
+        {
+          "word": "ha",
+          "start": 21.84,
+          "end": 22.02
+        },
+        {
+          "word": "visto",
+          "start": 22.02,
+          "end": 23.08
+        }
+      ],
+      "start": 19.82,
+      "end": 23.08,
+      "confidence": 0.98,
+      "time": 19.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "más que el mundo de maldad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "más",
+          "start": 23.08,
+          "end": 23.92
+        },
+        {
+          "word": "que",
+          "start": 23.92,
+          "end": 24.12
+        },
+        {
+          "word": "el",
+          "start": 24.12,
+          "end": 24.34
+        },
+        {
+          "word": "mundo",
+          "start": 24.34,
+          "end": 24.86
+        },
+        {
+          "word": "de",
+          "start": 24.86,
+          "end": 26.2
+        },
+        {
+          "word": "maldad",
+          "start": 26.2,
+          "end": 27.6
+        }
+      ],
+      "start": 23.08,
+      "end": 27.6,
+      "confidence": 1.0,
+      "time": 23.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Esparcid la luz de Cristo,",
+      "words": [
+        {
+          "word": "Esparcid",
+          "start": 27.6,
+          "end": 29.82
+        },
+        {
+          "word": "la",
+          "start": 29.82,
+          "end": 30.16
+        },
+        {
+          "word": "luz",
+          "start": 30.16,
+          "end": 30.68
+        },
+        {
+          "word": "de",
+          "start": 30.68,
+          "end": 31.04
+        },
+        {
+          "word": "Cristo,",
+          "start": 31.04,
+          "end": 32.2
+        }
+      ],
+      "start": 27.6,
+      "end": 32.78,
+      "confidence": 1.0,
+      "time": 27.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "dad las nuevas de la cruz,",
+      "words": [
+        {
+          "word": "dadlas",
+          "start": 32.78,
+          "end": 33.26
+        },
+        {
+          "word": "nuevas",
+          "start": 33.26,
+          "end": 34.58
+        },
+        {
+          "word": "de",
+          "start": 34.58,
+          "end": 35.36
+        },
+        {
+          "word": "la",
+          "start": 35.36,
+          "end": 35.76
+        },
+        {
+          "word": "cruz",
+          "start": 35.76,
+          "end": 36.82
+        }
+      ],
+      "start": 32.78,
+      "end": 36.82,
+      "confidence": 0.823,
+      "time": 32.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "pues hay muchos que no han visto",
+      "words": [
+        {
+          "word": "pues",
+          "start": 36.82,
+          "end": 37.48
+        },
+        {
+          "word": "hay",
+          "start": 37.48,
+          "end": 38.26
+        },
+        {
+          "word": "muchos",
+          "start": 38.26,
+          "end": 39.02
+        },
+        {
+          "word": "que",
+          "start": 39.02,
+          "end": 39.5
+        },
+        {
+          "word": "no",
+          "start": 39.5,
+          "end": 39.72
+        },
+        {
+          "word": "han",
+          "start": 39.72,
+          "end": 40.08
+        },
+        {
+          "word": "visto",
+          "start": 40.08,
+          "end": 41.24
+        }
+      ],
+      "start": 36.82,
+      "end": 41.24,
+      "confidence": 1.0,
+      "time": 36.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "todavía al buen Jesús.",
+      "words": [
+        {
+          "word": "todavía",
+          "start": 41.24,
+          "end": 42.68
+        },
+        {
+          "word": "al",
+          "start": 42.68,
+          "end": 42.98
+        },
+        {
+          "word": "buen",
+          "start": 42.98,
+          "end": 43.96
+        },
+        {
+          "word": "Jesús.",
+          "start": 43.96,
+          "end": 46.1
+        }
+      ],
+      "start": 41.24,
+      "end": 46.1,
+      "confidence": 1.0,
+      "time": 41.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Alumbradles el sendero",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Alumbradles",
+          "start": 47.52,
+          "end": 48.92
+        },
+        {
+          "word": "el",
+          "start": 48.92,
+          "end": 49.24
+        },
+        {
+          "word": "sendero",
+          "start": 49.24,
+          "end": 50.94
+        }
+      ],
+      "start": 47.52,
+      "end": 50.94,
+      "confidence": 1.0,
+      "time": 47.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de la eterna salvación,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 50.94,
+          "end": 51.7
+        },
+        {
+          "word": "la",
+          "start": 51.7,
+          "end": 51.94
+        },
+        {
+          "word": "eterna",
+          "start": 51.94,
+          "end": 53.38
+        },
+        {
+          "word": "salvación",
+          "start": 53.38,
+          "end": 55.22
+        }
+      ],
+      "start": 50.94,
+      "end": 55.22,
+      "confidence": 1.0,
+      "time": 50.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y que acepten del Cordero",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 55.22,
+          "end": 56.04
+        },
+        {
+          "word": "que",
+          "start": 56.04,
+          "end": 56.48
+        },
+        {
+          "word": "acepten",
+          "start": 56.48,
+          "end": 57.92
+        },
+        {
+          "word": "del",
+          "start": 57.92,
+          "end": 58.32
+        },
+        {
+          "word": "Cordero",
+          "start": 58.32,
+          "end": 59.76
+        }
+      ],
+      "start": 55.22,
+      "end": 59.76,
+      "confidence": 1.0,
+      "time": 55.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la promesa de expiación.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 59.76,
+          "end": 60.78
+        },
+        {
+          "word": "promesa",
+          "start": 60.78,
+          "end": 61.66
+        },
+        {
+          "word": "de",
+          "start": 61.66,
+          "end": 62.84
+        },
+        {
+          "word": "expiación.",
+          "start": 62.84,
+          "end": 64.42
+        }
+      ],
+      "start": 59.76,
+      "end": 64.42,
+      "confidence": 1.0,
+      "time": 59.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Esparcid la luz de Cristo,",
+      "words": [
+        {
+          "word": "Esparcir",
+          "start": 65.22,
+          "end": 66.62
+        },
+        {
+          "word": "la",
+          "start": 66.62,
+          "end": 67.08
+        },
+        {
+          "word": "luz",
+          "start": 67.08,
+          "end": 67.52
+        },
+        {
+          "word": "de",
+          "start": 67.52,
+          "end": 67.9
+        },
+        {
+          "word": "Cristo,",
+          "start": 67.9,
+          "end": 68.9
+        }
+      ],
+      "start": 65.22,
+      "end": 69.72,
+      "confidence": 0.985,
+      "time": 65.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "dad las nuevas de la cruz,",
+      "words": [
+        {
+          "word": "dadlas",
+          "start": 69.72,
+          "end": 70.16
+        },
+        {
+          "word": "nuevas",
+          "start": 70.16,
+          "end": 71.5
+        },
+        {
+          "word": "de",
+          "start": 71.5,
+          "end": 72.28
+        },
+        {
+          "word": "la",
+          "start": 72.28,
+          "end": 72.7
+        },
+        {
+          "word": "cruz,",
+          "start": 72.7,
+          "end": 73.68
+        }
+      ],
+      "start": 69.72,
+      "end": 73.68,
+      "confidence": 0.823,
+      "time": 69.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "pues hay muchos que no han visto",
+      "words": [
+        {
+          "word": "pues",
+          "start": 73.9,
+          "end": 74.38
+        },
+        {
+          "word": "hay",
+          "start": 74.38,
+          "end": 75.14
+        },
+        {
+          "word": "muchos",
+          "start": 75.14,
+          "end": 75.94
+        },
+        {
+          "word": "que",
+          "start": 75.94,
+          "end": 76.34
+        },
+        {
+          "word": "no",
+          "start": 76.34,
+          "end": 76.58
+        },
+        {
+          "word": "han",
+          "start": 76.58,
+          "end": 76.82
+        },
+        {
+          "word": "visto",
+          "start": 76.82,
+          "end": 78.12
+        }
+      ],
+      "start": 73.9,
+      "end": 78.12,
+      "confidence": 1.0,
+      "time": 73.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "todavía al buen Jesús.",
+      "words": [
+        {
+          "word": "todavía",
+          "start": 78.12,
+          "end": 79.54
+        },
+        {
+          "word": "al",
+          "start": 79.54,
+          "end": 79.84
+        },
+        {
+          "word": "buen",
+          "start": 79.84,
+          "end": 80.88
+        },
+        {
+          "word": "Jesús.",
+          "start": 80.88,
+          "end": 83.14
+        }
+      ],
+      "start": 78.12,
+      "end": 83.14,
+      "confidence": 1.0,
+      "time": 78.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Como un barco zozobrante",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Como",
+          "start": 83.14,
+          "end": 84.16
+        },
+        {
+          "word": "un",
+          "start": 84.16,
+          "end": 85.1
+        },
+        {
+          "word": "barco",
+          "start": 85.1,
+          "end": 85.68
+        },
+        {
+          "word": "zozobrante",
+          "start": 85.68,
+          "end": 87.56
+        }
+      ],
+      "start": 83.14,
+      "end": 87.56,
+      "confidence": 1.0,
+      "time": 83.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en las ondas de la mar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 87.56,
+          "end": 88.46
+        },
+        {
+          "word": "las",
+          "start": 88.46,
+          "end": 89.22
+        },
+        {
+          "word": "ondas",
+          "start": 89.22,
+          "end": 90.26
+        },
+        {
+          "word": "de",
+          "start": 90.26,
+          "end": 90.66
+        },
+        {
+          "word": "la",
+          "start": 90.66,
+          "end": 91.1
+        },
+        {
+          "word": "mar",
+          "start": 91.1,
+          "end": 92.14
+        }
+      ],
+      "start": 87.56,
+      "end": 92.14,
+      "confidence": 1.0,
+      "time": 87.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "nuestro mundo tambaleante",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Nuestro",
+          "start": 92.14,
+          "end": 93.32
+        },
+        {
+          "word": "mundo",
+          "start": 93.32,
+          "end": 94.62
+        },
+        {
+          "word": "maleante",
+          "start": 95.16,
+          "end": 96.72
+        }
+      ],
+      "start": 92.14,
+      "end": 96.72,
+      "confidence": 0.968,
+      "time": 92.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "va muy pronto a naufragar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "va",
+          "start": 96.72,
+          "end": 97.46
+        },
+        {
+          "word": "muy",
+          "start": 97.46,
+          "end": 97.82
+        },
+        {
+          "word": "pronto",
+          "start": 97.82,
+          "end": 98.26
+        },
+        {
+          "word": "a",
+          "start": 98.26,
+          "end": 98.86
+        },
+        {
+          "word": "naufragar",
+          "start": 98.86,
+          "end": 101.2
+        }
+      ],
+      "start": 96.72,
+      "end": 101.2,
+      "confidence": 1.0,
+      "time": 96.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Esparcid la luz de Cristo,",
+      "words": [
+        {
+          "word": "Esparcid",
+          "start": 101.2,
+          "end": 103.56
+        },
+        {
+          "word": "la",
+          "start": 103.56,
+          "end": 103.84
+        },
+        {
+          "word": "luz",
+          "start": 103.84,
+          "end": 104.3
+        },
+        {
+          "word": "de",
+          "start": 104.3,
+          "end": 104.64
+        },
+        {
+          "word": "Cristo,",
+          "start": 104.64,
+          "end": 105.62
+        }
+      ],
+      "start": 101.2,
+      "end": 106.34,
+      "confidence": 1.0,
+      "time": 101.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "dad las nuevas de la cruz,",
+      "words": [
+        {
+          "word": "dad",
+          "start": 106.34,
+          "end": 106.48
+        },
+        {
+          "word": "las",
+          "start": 106.48,
+          "end": 106.88
+        },
+        {
+          "word": "nuevas",
+          "start": 106.88,
+          "end": 108.24
+        },
+        {
+          "word": "de",
+          "start": 108.24,
+          "end": 109.0
+        },
+        {
+          "word": "la",
+          "start": 109.0,
+          "end": 109.32
+        },
+        {
+          "word": "cruz",
+          "start": 109.32,
+          "end": 110.3
+        }
+      ],
+      "start": 106.34,
+      "end": 110.3,
+      "confidence": 1.0,
+      "time": 106.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "pues hay muchos que no han visto",
+      "words": [
+        {
+          "word": "pues",
+          "start": 110.3,
+          "end": 111.06
+        },
+        {
+          "word": "hay",
+          "start": 111.06,
+          "end": 111.68
+        },
+        {
+          "word": "muchos",
+          "start": 111.68,
+          "end": 112.64
+        },
+        {
+          "word": "que",
+          "start": 112.64,
+          "end": 113.04
+        },
+        {
+          "word": "no",
+          "start": 113.04,
+          "end": 113.32
+        },
+        {
+          "word": "han",
+          "start": 113.32,
+          "end": 113.76
+        },
+        {
+          "word": "visto",
+          "start": 113.76,
+          "end": 114.9
+        }
+      ],
+      "start": 110.3,
+      "end": 114.9,
+      "confidence": 1.0,
+      "time": 110.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "todavía al buen Jesús.",
+      "words": [
+        {
+          "word": "todavía",
+          "start": 114.9,
+          "end": 116.28
+        },
+        {
+          "word": "al",
+          "start": 116.28,
+          "end": 116.54
+        },
+        {
+          "word": "buen",
+          "start": 116.54,
+          "end": 117.76
+        },
+        {
+          "word": "Jesús.",
+          "start": 117.76,
+          "end": 118.86
+        }
+      ],
+      "start": 114.9,
+      "end": 118.86,
+      "confidence": 1.0,
+      "time": 114.9
+    }
+  ]
+}

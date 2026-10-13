@@ -1,0 +1,990 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.762,
+  "language": "es",
+  "model": "medium",
+  "hymn": 469,
+  "source": "469 - Jesus me guia.mp3",
+  "duration": 252.06,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús me guía. ¡Cuánta paz",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 30.12,
+          "end": 31.52
+        },
+        {
+          "word": "me",
+          "start": 31.52,
+          "end": 32.6
+        },
+        {
+          "word": "guía",
+          "start": 32.6,
+          "end": 33.34
+        },
+        {
+          "word": "tanta",
+          "start": 34.16,
+          "end": 35.02
+        },
+        {
+          "word": "paz,",
+          "start": 35.02,
+          "end": 35.52
+        }
+      ],
+      "start": 30.12,
+      "end": 39.44,
+      "confidence": 0.967,
+      "time": 30.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "he hallado en dicho tan veraz!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tan",
+          "start": 39.44,
+          "end": 40.46
+        },
+        {
+          "word": "veras.",
+          "start": 40.46,
+          "end": 41.74
+        }
+      ],
+      "start": 39.44,
+      "end": 41.74,
+      "confidence": 0.313,
+      "time": 39.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "En todo afán seguro estoy,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 41.94,
+          "end": 42.92
+        },
+        {
+          "word": "todo",
+          "start": 42.92,
+          "end": 44.0
+        },
+        {
+          "word": "afán",
+          "start": 44.0,
+          "end": 45.22
+        },
+        {
+          "word": "seguro",
+          "start": 45.22,
+          "end": 46.38
+        },
+        {
+          "word": "estoy,",
+          "start": 46.38,
+          "end": 47.36
+        }
+      ],
+      "start": 41.94,
+      "end": 47.58,
+      "confidence": 1.0,
+      "time": 41.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues Dios me guarda; suyo soy.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "pues",
+          "start": 47.58,
+          "end": 48.34
+        },
+        {
+          "word": "Dios",
+          "start": 48.34,
+          "end": 49.14
+        },
+        {
+          "word": "me",
+          "start": 49.14,
+          "end": 50.06
+        },
+        {
+          "word": "guarda",
+          "start": 50.06,
+          "end": 51.32
+        },
+        {
+          "word": "suyo",
+          "start": 52.52,
+          "end": 54.06
+        },
+        {
+          "word": "sol.",
+          "start": 54.06,
+          "end": 54.68
+        }
+      ],
+      "start": 47.58,
+      "end": 54.68,
+      "confidence": 0.967,
+      "time": 47.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Jesús me guía, esto sé;",
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 54.68,
+          "end": 56.7
+        },
+        {
+          "word": "éstos",
+          "start": 59.72,
+          "end": 60.6
+        }
+      ],
+      "start": 54.68,
+      "end": 61.08,
+      "confidence": 0.388,
+      "time": 54.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "su propia mano me guiará.",
+      "words": [
+        {
+          "word": "su",
+          "start": 61.08,
+          "end": 62.08
+        },
+        {
+          "word": "propia",
+          "start": 62.08,
+          "end": 63.36
+        },
+        {
+          "word": "mano",
+          "start": 63.36,
+          "end": 64.9
+        }
+      ],
+      "start": 61.08,
+      "end": 66.9,
+      "confidence": 0.6,
+      "time": 61.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "En toda senda oscura aquí",
+      "words": [
+        {
+          "word": "en",
+          "start": 66.9,
+          "end": 68.38
+        },
+        {
+          "word": "Tomás,",
+          "start": 68.38,
+          "end": 69.78
+        },
+        {
+          "word": "aquí,",
+          "start": 72.5,
+          "end": 73.08
+        }
+      ],
+      "start": 66.9,
+      "end": 73.9,
+      "confidence": 0.56,
+      "time": 66.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "el Salvador conmigo va.",
+      "words": [
+        {
+          "word": "el",
+          "start": 73.9,
+          "end": 74.38
+        },
+        {
+          "word": "Salvador",
+          "start": 74.38,
+          "end": 75.84
+        },
+        {
+          "word": "conmigo",
+          "start": 75.84,
+          "end": 78.58
+        },
+        {
+          "word": "va.",
+          "start": 78.58,
+          "end": 79.3
+        }
+      ],
+      "start": 73.9,
+      "end": 79.3,
+      "confidence": 1.0,
+      "time": 73.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Ayer tinieblas y vaivén;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Ayer",
+          "start": 83.36,
+          "end": 84.76
+        },
+        {
+          "word": "tinieblas",
+          "start": 84.76,
+          "end": 86.16
+        },
+        {
+          "word": "y",
+          "start": 87.2,
+          "end": 87.54
+        },
+        {
+          "word": "ven,",
+          "start": 87.54,
+          "end": 88.0
+        }
+      ],
+      "start": 83.36,
+      "end": 88.58,
+      "confidence": 0.95,
+      "time": 83.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mañana un florido Edén.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mañana",
+          "start": 88.58,
+          "end": 90.28
+        },
+        {
+          "word": "un",
+          "start": 90.28,
+          "end": 91.32
+        },
+        {
+          "word": "florido",
+          "start": 91.32,
+          "end": 92.88
+        }
+      ],
+      "start": 88.58,
+      "end": 93.56,
+      "confidence": 0.75,
+      "time": 88.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Bonanza en torno o tempestad,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ven.",
+          "start": 93.56,
+          "end": 93.88
+        },
+        {
+          "word": "no",
+          "start": 97.08,
+          "end": 97.92
+        },
+        {
+          "word": "tempestar,",
+          "start": 97.92,
+          "end": 99.96
+        }
+      ],
+      "start": 93.56,
+      "end": 100.62,
+      "confidence": 0.523,
+      "time": 93.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "me ampara siempre su bondad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "me",
+          "start": 100.62,
+          "end": 100.86
+        },
+        {
+          "word": "ampara",
+          "start": 100.86,
+          "end": 102.3
+        },
+        {
+          "word": "siempre",
+          "start": 102.3,
+          "end": 103.74
+        },
+        {
+          "word": "su",
+          "start": 103.74,
+          "end": 105.04
+        },
+        {
+          "word": "bondad.",
+          "start": 105.04,
+          "end": 107.6
+        }
+      ],
+      "start": 100.62,
+      "end": 107.6,
+      "confidence": 1.0,
+      "time": 100.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Jesús me guía, esto sé;",
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 107.84,
+          "end": 109.24
+        },
+        {
+          "word": "me",
+          "start": 109.24,
+          "end": 110.4
+        },
+        {
+          "word": "esto",
+          "start": 111.72,
+          "end": 113.0
+        },
+        {
+          "word": "sé,",
+          "start": 113.0,
+          "end": 113.42
+        }
+      ],
+      "start": 107.84,
+      "end": 113.9,
+      "confidence": 0.8,
+      "time": 107.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "su propia mano me guiará.",
+      "words": [
+        {
+          "word": "su",
+          "start": 113.9,
+          "end": 114.52
+        },
+        {
+          "word": "propia",
+          "start": 114.52,
+          "end": 115.74
+        },
+        {
+          "word": "mano",
+          "start": 115.74,
+          "end": 117.18
+        },
+        {
+          "word": "me",
+          "start": 117.18,
+          "end": 118.4
+        },
+        {
+          "word": "guiará,",
+          "start": 118.4,
+          "end": 119.68
+        }
+      ],
+      "start": 113.9,
+      "end": 119.68,
+      "confidence": 1.0,
+      "time": 113.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "En toda senda oscura aquí",
+      "words": [
+        {
+          "word": "en",
+          "start": 122.38,
+          "end": 123.1
+        },
+        {
+          "word": "aquí,",
+          "start": 124.64,
+          "end": 125.52
+        }
+      ],
+      "start": 122.38,
+      "end": 126.3,
+      "confidence": 0.4,
+      "time": 122.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "el Salvador conmigo va.",
+      "words": [
+        {
+          "word": "el",
+          "start": 126.3,
+          "end": 126.7
+        },
+        {
+          "word": "Salvador",
+          "start": 126.7,
+          "end": 128.48
+        },
+        {
+          "word": "conmigo",
+          "start": 128.48,
+          "end": 131.18
+        },
+        {
+          "word": "va.",
+          "start": 131.18,
+          "end": 133.14
+        }
+      ],
+      "start": 126.3,
+      "end": 133.14,
+      "confidence": 1.0,
+      "time": 126.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Señor, la mano que me das,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Señor,",
+          "start": 136.22,
+          "end": 137.62
+        },
+        {
+          "word": "la",
+          "start": 138.28,
+          "end": 138.58
+        },
+        {
+          "word": "mano",
+          "start": 138.58,
+          "end": 139.9
+        },
+        {
+          "word": "que",
+          "start": 139.9,
+          "end": 140.72
+        },
+        {
+          "word": "me",
+          "start": 140.72,
+          "end": 141.56
+        },
+        {
+          "word": "das,",
+          "start": 141.56,
+          "end": 142.08
+        }
+      ],
+      "start": 136.22,
+      "end": 143.02,
+      "confidence": 1.0,
+      "time": 136.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "contento tomo de hoy en más.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "contento",
+          "start": 143.02,
+          "end": 144.54
+        },
+        {
+          "word": "tomo",
+          "start": 144.54,
+          "end": 146.14
+        },
+        {
+          "word": "más,",
+          "start": 147.74,
+          "end": 148.06
+        }
+      ],
+      "start": 143.02,
+      "end": 148.06,
+      "confidence": 0.5,
+      "time": 143.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Acepto alegre el porvenir,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 151.22,
+          "end": 152.08
+        },
+        {
+          "word": "porvenir,",
+          "start": 152.08,
+          "end": 154.06
+        }
+      ],
+      "start": 151.22,
+      "end": 154.5,
+      "confidence": 0.5,
+      "time": 151.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pues Dios me quiere conducir.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 154.5,
+          "end": 155.06
+        },
+        {
+          "word": "Dios",
+          "start": 155.06,
+          "end": 155.82
+        },
+        {
+          "word": "me",
+          "start": 155.82,
+          "end": 156.76
+        },
+        {
+          "word": "quiere",
+          "start": 156.76,
+          "end": 158.04
+        },
+        {
+          "word": "conducir.",
+          "start": 158.04,
+          "end": 161.34
+        }
+      ],
+      "start": 154.5,
+      "end": 161.34,
+      "confidence": 1.0,
+      "time": 154.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Jesús me guía, esto sé;",
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 162.22,
+          "end": 163.3
+        },
+        {
+          "word": "me",
+          "start": 163.3,
+          "end": 164.38
+        },
+        {
+          "word": "Escoce,",
+          "start": 165.88,
+          "end": 167.46
+        }
+      ],
+      "start": 162.22,
+      "end": 168.26,
+      "confidence": 0.552,
+      "time": 162.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "su propia mano me guiará.",
+      "words": [
+        {
+          "word": "su",
+          "start": 168.26,
+          "end": 168.52
+        },
+        {
+          "word": "propia",
+          "start": 168.52,
+          "end": 169.7
+        },
+        {
+          "word": "mano",
+          "start": 169.7,
+          "end": 171.5
+        },
+        {
+          "word": "mediara,",
+          "start": 171.5,
+          "end": 173.5
+        }
+      ],
+      "start": 168.26,
+      "end": 173.5,
+      "confidence": 0.754,
+      "time": 168.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "En toda senda oscura aquí",
+      "words": [
+        {
+          "word": "En",
+          "start": 173.5,
+          "end": 174.5
+        },
+        {
+          "word": "todas",
+          "start": 174.5,
+          "end": 175.94
+        },
+        {
+          "word": "sendas",
+          "start": 175.94,
+          "end": 177.44
+        },
+        {
+          "word": "aquí",
+          "start": 178.62,
+          "end": 179.42
+        }
+      ],
+      "start": 173.5,
+      "end": 179.42,
+      "confidence": 0.776,
+      "time": 173.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "el Salvador conmigo va.",
+      "words": [
+        {
+          "word": "el",
+          "start": 179.42,
+          "end": 180.62
+        },
+        {
+          "word": "Salvador",
+          "start": 180.62,
+          "end": 182.62
+        },
+        {
+          "word": "conmigo",
+          "start": 182.62,
+          "end": 185.04
+        },
+        {
+          "word": "va.",
+          "start": 185.04,
+          "end": 187.44
+        }
+      ],
+      "start": 179.42,
+      "end": 187.44,
+      "confidence": 1.0,
+      "time": 179.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Y terminado mi quehacer,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "terminado,",
+          "start": 192.62,
+          "end": 194.02
+        },
+        {
+          "word": "mi",
+          "start": 194.2,
+          "end": 194.76
+        },
+        {
+          "word": "hacer,",
+          "start": 195.46,
+          "end": 196.0
+        }
+      ],
+      "start": 192.62,
+      "end": 196.72,
+      "confidence": 0.715,
+      "time": 192.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "en mí probado tu poder,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 196.72,
+          "end": 197.18
+        },
+        {
+          "word": "mi",
+          "start": 197.18,
+          "end": 198.16
+        },
+        {
+          "word": "probado",
+          "start": 198.16,
+          "end": 199.98
+        },
+        {
+          "word": "tu",
+          "start": 199.98,
+          "end": 200.82
+        },
+        {
+          "word": "poder,",
+          "start": 200.82,
+          "end": 201.96
+        }
+      ],
+      "start": 196.72,
+      "end": 201.96,
+      "confidence": 1.0,
+      "time": 196.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "la muerte misma no huiré,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "La",
+          "start": 201.96,
+          "end": 202.98
+        },
+        {
+          "word": "muerte",
+          "start": 202.98,
+          "end": 204.4
+        },
+        {
+          "word": "misma",
+          "start": 204.4,
+          "end": 205.86
+        },
+        {
+          "word": "no",
+          "start": 205.86,
+          "end": 207.06
+        },
+        {
+          "word": "huiré,",
+          "start": 207.06,
+          "end": 208.24
+        }
+      ],
+      "start": 201.96,
+      "end": 208.24,
+      "confidence": 1.0,
+      "time": 201.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "pues aun allí contigo iré.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "pues",
+          "start": 208.24,
+          "end": 209.24
+        },
+        {
+          "word": "aún",
+          "start": 209.24,
+          "end": 210.12
+        },
+        {
+          "word": "a",
+          "start": 210.12,
+          "end": 210.62
+        },
+        {
+          "word": "contigo",
+          "start": 211.24,
+          "end": 213.46
+        },
+        {
+          "word": "iré.",
+          "start": 213.46,
+          "end": 215.62
+        }
+      ],
+      "start": 208.24,
+      "end": 215.62,
+      "confidence": 0.988,
+      "time": 208.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Jesús me guía, esto sé;",
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 215.92,
+          "end": 217.32
+        },
+        {
+          "word": "me",
+          "start": 217.32,
+          "end": 218.42
+        },
+        {
+          "word": "es",
+          "start": 219.84,
+          "end": 220.6
+        },
+        {
+          "word": "vosé,",
+          "start": 220.6,
+          "end": 221.68
+        }
+      ],
+      "start": 215.92,
+      "end": 221.84,
+      "confidence": 0.748,
+      "time": 215.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "su propia mano me guiará.",
+      "words": [
+        {
+          "word": "su",
+          "start": 221.84,
+          "end": 222.6
+        },
+        {
+          "word": "propia",
+          "start": 222.6,
+          "end": 223.8
+        },
+        {
+          "word": "mano",
+          "start": 223.8,
+          "end": 225.52
+        },
+        {
+          "word": "dará,",
+          "start": 226.44,
+          "end": 227.62
+        }
+      ],
+      "start": 221.84,
+      "end": 227.62,
+      "confidence": 0.752,
+      "time": 221.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "En toda senda oscura aquí",
+      "words": [
+        {
+          "word": "En",
+          "start": 227.62,
+          "end": 228.74
+        },
+        {
+          "word": "todas,",
+          "start": 228.74,
+          "end": 229.98
+        },
+        {
+          "word": "curaquíes,",
+          "start": 231.68,
+          "end": 234.38
+        }
+      ],
+      "start": 227.62,
+      "end": 234.38,
+      "confidence": 0.542,
+      "time": 227.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "el Salvador conmigo va.",
+      "words": [
+        {
+          "word": "el",
+          "start": 234.38,
+          "end": 234.74
+        },
+        {
+          "word": "Salma",
+          "start": 234.74,
+          "end": 236.18
+        }
+      ],
+      "start": 234.38,
+      "end": 239.04,
+      "confidence": 0.442,
+      "time": 234.38
+    }
+  ]
+}

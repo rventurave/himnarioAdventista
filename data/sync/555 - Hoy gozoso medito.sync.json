@@ -1,0 +1,1131 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.978,
+  "language": "es",
+  "model": "medium",
+  "hymn": 555,
+  "source": "555 - Hoy gozoso medito.mp3",
+  "duration": 159.24,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hoy gozoso medito en la tierra mejor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 11.06,
+          "end": 12.46
+        },
+        {
+          "word": "gozoso",
+          "start": 12.46,
+          "end": 13.86
+        },
+        {
+          "word": "medito",
+          "start": 13.86,
+          "end": 15.12
+        },
+        {
+          "word": "en",
+          "start": 15.12,
+          "end": 15.5
+        },
+        {
+          "word": "la",
+          "start": 15.5,
+          "end": 15.82
+        },
+        {
+          "word": "tierra",
+          "start": 15.82,
+          "end": 16.62
+        },
+        {
+          "word": "mejor,",
+          "start": 16.62,
+          "end": 17.44
+        }
+      ],
+      "start": 11.06,
+      "end": 17.78,
+      "confidence": 1.0,
+      "time": 11.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "do al ponerse mi sol llegaré.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "do",
+          "start": 17.78,
+          "end": 17.82
+        },
+        {
+          "word": "al",
+          "start": 17.82,
+          "end": 18.12
+        },
+        {
+          "word": "ponerse",
+          "start": 18.12,
+          "end": 19.6
+        },
+        {
+          "word": "mi",
+          "start": 19.6,
+          "end": 19.86
+        },
+        {
+          "word": "sol",
+          "start": 19.86,
+          "end": 20.56
+        },
+        {
+          "word": "llegaré.",
+          "start": 20.56,
+          "end": 23.14
+        }
+      ],
+      "start": 17.78,
+      "end": 23.14,
+      "confidence": 1.0,
+      "time": 17.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cuando me halle por gracia con Cristo el Señor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 23.14,
+          "end": 23.94
+        },
+        {
+          "word": "me",
+          "start": 23.94,
+          "end": 24.66
+        },
+        {
+          "word": "halle",
+          "start": 24.66,
+          "end": 25.1
+        },
+        {
+          "word": "por",
+          "start": 25.1,
+          "end": 25.64
+        },
+        {
+          "word": "gracia",
+          "start": 25.64,
+          "end": 26.7
+        },
+        {
+          "word": "con",
+          "start": 26.7,
+          "end": 26.96
+        },
+        {
+          "word": "Cristo",
+          "start": 26.96,
+          "end": 27.72
+        },
+        {
+          "word": "el",
+          "start": 27.72,
+          "end": 28.12
+        },
+        {
+          "word": "Señor,",
+          "start": 28.12,
+          "end": 28.8
+        }
+      ],
+      "start": 23.14,
+      "end": 29.32,
+      "confidence": 1.0,
+      "time": 23.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿la corona de estrellas tendré?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 29.32,
+          "end": 29.72
+        },
+        {
+          "word": "corona",
+          "start": 29.72,
+          "end": 30.66
+        },
+        {
+          "word": "de",
+          "start": 30.66,
+          "end": 31.26
+        },
+        {
+          "word": "estrellas",
+          "start": 31.26,
+          "end": 32.32
+        },
+        {
+          "word": "tendré.",
+          "start": 32.32,
+          "end": 34.18
+        }
+      ],
+      "start": 29.32,
+      "end": 34.18,
+      "confidence": 1.0,
+      "time": 29.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¿Una bella corona de estrellas tendré",
+      "words": [
+        {
+          "word": "Una",
+          "start": 34.62,
+          "end": 35.4
+        },
+        {
+          "word": "bella",
+          "start": 35.4,
+          "end": 36.5
+        },
+        {
+          "word": "corona",
+          "start": 36.5,
+          "end": 37.74
+        },
+        {
+          "word": "de",
+          "start": 37.74,
+          "end": 38.3
+        },
+        {
+          "word": "estrellas",
+          "start": 38.3,
+          "end": 39.34
+        },
+        {
+          "word": "tendré,",
+          "start": 39.34,
+          "end": 40.02
+        }
+      ],
+      "start": 34.62,
+      "end": 40.34,
+      "confidence": 1.0,
+      "time": 34.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "por las almas que a Cristo llevé?",
+      "words": [
+        {
+          "word": "por",
+          "start": 40.34,
+          "end": 40.76
+        },
+        {
+          "word": "las",
+          "start": 40.76,
+          "end": 41.62
+        },
+        {
+          "word": "almas",
+          "start": 41.62,
+          "end": 42.08
+        },
+        {
+          "word": "que",
+          "start": 42.08,
+          "end": 42.36
+        },
+        {
+          "word": "a",
+          "start": 42.36,
+          "end": 42.66
+        },
+        {
+          "word": "Cristo",
+          "start": 42.66,
+          "end": 43.4
+        },
+        {
+          "word": "llevé.",
+          "start": 43.4,
+          "end": 45.52
+        }
+      ],
+      "start": 40.34,
+      "end": 45.52,
+      "confidence": 1.0,
+      "time": 40.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cuando llegue al hogar",
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 45.52,
+          "end": 46.5
+        },
+        {
+          "word": "llegue",
+          "start": 46.5,
+          "end": 47.64
+        },
+        {
+          "word": "al",
+          "start": 47.64,
+          "end": 47.94
+        },
+        {
+          "word": "hogar",
+          "start": 47.94,
+          "end": 48.8
+        }
+      ],
+      "start": 45.52,
+      "end": 48.8,
+      "confidence": 1.0,
+      "time": 45.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "de la dicha sin par,",
+      "words": [
+        {
+          "word": "de",
+          "start": 48.8,
+          "end": 49.26
+        },
+        {
+          "word": "la",
+          "start": 49.26,
+          "end": 49.74
+        },
+        {
+          "word": "dicha",
+          "start": 49.74,
+          "end": 50.56
+        },
+        {
+          "word": "sin",
+          "start": 50.56,
+          "end": 51.0
+        },
+        {
+          "word": "par,",
+          "start": 51.0,
+          "end": 52.54
+        }
+      ],
+      "start": 48.8,
+      "end": 53.0,
+      "confidence": 1.0,
+      "time": 48.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¿la corona de estrellas tendré?",
+      "words": [
+        {
+          "word": "la",
+          "start": 53.0,
+          "end": 53.54
+        },
+        {
+          "word": "corona",
+          "start": 53.54,
+          "end": 54.68
+        },
+        {
+          "word": "de",
+          "start": 54.68,
+          "end": 55.3
+        },
+        {
+          "word": "estrellas",
+          "start": 55.3,
+          "end": 56.28
+        },
+        {
+          "word": "tendré.",
+          "start": 56.28,
+          "end": 58.82
+        }
+      ],
+      "start": 53.0,
+      "end": 58.82,
+      "confidence": 1.0,
+      "time": 53.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "De la fuerza de Dios esperando el poder,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "De",
+          "start": 59.52,
+          "end": 60.46
+        },
+        {
+          "word": "la",
+          "start": 60.46,
+          "end": 60.84
+        },
+        {
+          "word": "fuerza",
+          "start": 60.84,
+          "end": 61.76
+        },
+        {
+          "word": "de",
+          "start": 61.76,
+          "end": 62.3
+        },
+        {
+          "word": "Dios",
+          "start": 62.3,
+          "end": 62.94
+        },
+        {
+          "word": "esperando",
+          "start": 62.94,
+          "end": 64.34
+        },
+        {
+          "word": "el",
+          "start": 64.34,
+          "end": 64.82
+        },
+        {
+          "word": "poder",
+          "start": 64.82,
+          "end": 65.44
+        }
+      ],
+      "start": 59.52,
+      "end": 65.44,
+      "confidence": 1.0,
+      "time": 59.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "trabajar quiero siempre y orar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "trabajar",
+          "start": 65.44,
+          "end": 67.06
+        },
+        {
+          "word": "quiero",
+          "start": 67.06,
+          "end": 67.7
+        },
+        {
+          "word": "siempre",
+          "start": 67.7,
+          "end": 68.86
+        },
+        {
+          "word": "llorar",
+          "start": 68.86,
+          "end": 70.86
+        }
+      ],
+      "start": 65.44,
+      "end": 70.86,
+      "confidence": 0.776,
+      "time": 65.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "por las almas, y al fin, cual estrellas, saber",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Por",
+          "start": 70.86,
+          "end": 71.7
+        },
+        {
+          "word": "las",
+          "start": 71.7,
+          "end": 72.6
+        },
+        {
+          "word": "almas",
+          "start": 72.6,
+          "end": 73.1
+        },
+        {
+          "word": "y",
+          "start": 73.1,
+          "end": 73.32
+        },
+        {
+          "word": "al",
+          "start": 73.32,
+          "end": 73.62
+        },
+        {
+          "word": "fin,",
+          "start": 73.62,
+          "end": 74.2
+        },
+        {
+          "word": "cual",
+          "start": 74.52,
+          "end": 74.8
+        },
+        {
+          "word": "estrella",
+          "start": 74.8,
+          "end": 75.94
+        },
+        {
+          "word": "saber",
+          "start": 75.94,
+          "end": 76.68
+        }
+      ],
+      "start": 70.86,
+      "end": 76.68,
+      "confidence": 0.993,
+      "time": 70.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que en mis sienes irán a brillar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 76.68,
+          "end": 77.36
+        },
+        {
+          "word": "en",
+          "start": 77.36,
+          "end": 77.54
+        },
+        {
+          "word": "mis",
+          "start": 77.54,
+          "end": 77.82
+        },
+        {
+          "word": "sienes",
+          "start": 77.82,
+          "end": 78.84
+        },
+        {
+          "word": "irán",
+          "start": 78.84,
+          "end": 80.12
+        },
+        {
+          "word": "a",
+          "start": 80.12,
+          "end": 80.42
+        },
+        {
+          "word": "brillar",
+          "start": 80.42,
+          "end": 82.48
+        }
+      ],
+      "start": 76.68,
+      "end": 82.48,
+      "confidence": 1.0,
+      "time": 76.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¿Una bella corona de estrellas tendré",
+      "words": [
+        {
+          "word": "Una",
+          "start": 82.48,
+          "end": 83.38
+        },
+        {
+          "word": "bella",
+          "start": 83.38,
+          "end": 84.52
+        },
+        {
+          "word": "corona",
+          "start": 84.52,
+          "end": 85.7
+        },
+        {
+          "word": "de",
+          "start": 85.7,
+          "end": 86.32
+        },
+        {
+          "word": "estrellas",
+          "start": 86.32,
+          "end": 87.32
+        },
+        {
+          "word": "tendré",
+          "start": 87.32,
+          "end": 88.04
+        }
+      ],
+      "start": 82.48,
+      "end": 88.04,
+      "confidence": 1.0,
+      "time": 82.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "por las almas que a Cristo llevé?",
+      "words": [
+        {
+          "word": "por",
+          "start": 88.04,
+          "end": 88.72
+        },
+        {
+          "word": "las",
+          "start": 88.72,
+          "end": 89.64
+        },
+        {
+          "word": "almas",
+          "start": 89.64,
+          "end": 90.06
+        },
+        {
+          "word": "que",
+          "start": 90.06,
+          "end": 90.36
+        },
+        {
+          "word": "a",
+          "start": 90.36,
+          "end": 90.62
+        },
+        {
+          "word": "Cristo",
+          "start": 90.62,
+          "end": 91.46
+        },
+        {
+          "word": "llevé",
+          "start": 91.46,
+          "end": 93.6
+        }
+      ],
+      "start": 88.04,
+      "end": 93.6,
+      "confidence": 1.0,
+      "time": 88.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cuando llegue al hogar",
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 93.6,
+          "end": 94.48
+        },
+        {
+          "word": "llegue",
+          "start": 94.48,
+          "end": 95.64
+        },
+        {
+          "word": "al",
+          "start": 95.64,
+          "end": 95.9
+        },
+        {
+          "word": "hogar",
+          "start": 95.9,
+          "end": 96.76
+        }
+      ],
+      "start": 93.6,
+      "end": 96.76,
+      "confidence": 1.0,
+      "time": 93.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "de la dicha sin par,",
+      "words": [
+        {
+          "word": "de",
+          "start": 96.76,
+          "end": 97.24
+        },
+        {
+          "word": "la",
+          "start": 97.24,
+          "end": 97.7
+        },
+        {
+          "word": "dicha",
+          "start": 97.7,
+          "end": 98.56
+        },
+        {
+          "word": "sin",
+          "start": 98.56,
+          "end": 99.02
+        },
+        {
+          "word": "par,",
+          "start": 99.02,
+          "end": 100.52
+        }
+      ],
+      "start": 96.76,
+      "end": 101.02,
+      "confidence": 1.0,
+      "time": 96.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¿la corona de estrellas tendré?",
+      "words": [
+        {
+          "word": "la",
+          "start": 101.02,
+          "end": 101.66
+        },
+        {
+          "word": "corona",
+          "start": 101.66,
+          "end": 102.66
+        },
+        {
+          "word": "de",
+          "start": 102.66,
+          "end": 103.36
+        },
+        {
+          "word": "estrellas",
+          "start": 103.36,
+          "end": 104.3
+        },
+        {
+          "word": "tendré.",
+          "start": 104.3,
+          "end": 106.92
+        }
+      ],
+      "start": 101.02,
+      "end": 106.92,
+      "confidence": 1.0,
+      "time": 101.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Oh!, qué gozo en los cielos será para mí",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Porque",
+          "start": 108.14,
+          "end": 108.78
+        },
+        {
+          "word": "gozo",
+          "start": 109.0,
+          "end": 109.66
+        },
+        {
+          "word": "en",
+          "start": 109.66,
+          "end": 110.06
+        },
+        {
+          "word": "los",
+          "start": 110.06,
+          "end": 110.38
+        },
+        {
+          "word": "cielos",
+          "start": 110.38,
+          "end": 111.4
+        },
+        {
+          "word": "será",
+          "start": 111.4,
+          "end": 112.22
+        },
+        {
+          "word": "para",
+          "start": 112.22,
+          "end": 112.98
+        },
+        {
+          "word": "mí,",
+          "start": 112.98,
+          "end": 113.6
+        }
+      ],
+      "start": 108.14,
+      "end": 113.94,
+      "confidence": 0.867,
+      "time": 108.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "vivas gemas poner a sus pies;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "vivas",
+          "start": 113.94,
+          "end": 114.88
+        },
+        {
+          "word": "gemas",
+          "start": 114.88,
+          "end": 115.54
+        },
+        {
+          "word": "poner",
+          "start": 115.54,
+          "end": 116.6
+        },
+        {
+          "word": "a",
+          "start": 116.6,
+          "end": 117.0
+        },
+        {
+          "word": "sus",
+          "start": 117.0,
+          "end": 117.3
+        },
+        {
+          "word": "pies,",
+          "start": 117.3,
+          "end": 118.8
+        }
+      ],
+      "start": 113.94,
+      "end": 118.8,
+      "confidence": 1.0,
+      "time": 113.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y tener en mi frente corona allí,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 118.8,
+          "end": 119.72
+        },
+        {
+          "word": "tener",
+          "start": 119.72,
+          "end": 120.88
+        },
+        {
+          "word": "en",
+          "start": 120.88,
+          "end": 121.2
+        },
+        {
+          "word": "mi",
+          "start": 121.2,
+          "end": 121.66
+        },
+        {
+          "word": "frente",
+          "start": 121.66,
+          "end": 122.62
+        },
+        {
+          "word": "corona",
+          "start": 122.62,
+          "end": 123.86
+        },
+        {
+          "word": "allí",
+          "start": 123.86,
+          "end": 124.78
+        }
+      ],
+      "start": 118.8,
+      "end": 124.78,
+      "confidence": 1.0,
+      "time": 118.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "con sus joyas de gran brillantez.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 124.78,
+          "end": 125.4
+        },
+        {
+          "word": "sus",
+          "start": 125.4,
+          "end": 126.08
+        },
+        {
+          "word": "de",
+          "start": 126.92,
+          "end": 127.36
+        },
+        {
+          "word": "gran",
+          "start": 127.36,
+          "end": 127.94
+        },
+        {
+          "word": "brillantez.",
+          "start": 127.94,
+          "end": 130.8
+        }
+      ],
+      "start": 124.78,
+      "end": 130.8,
+      "confidence": 0.833,
+      "time": 124.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¿Una bella corona de estrellas tendré",
+      "words": [
+        {
+          "word": "Una",
+          "start": 130.82,
+          "end": 131.38
+        },
+        {
+          "word": "bella",
+          "start": 131.38,
+          "end": 132.52
+        },
+        {
+          "word": "corona",
+          "start": 132.52,
+          "end": 133.8
+        },
+        {
+          "word": "de",
+          "start": 133.8,
+          "end": 134.38
+        },
+        {
+          "word": "estrellas",
+          "start": 134.38,
+          "end": 135.32
+        },
+        {
+          "word": "tendré",
+          "start": 135.32,
+          "end": 136.2
+        }
+      ],
+      "start": 130.82,
+      "end": 136.2,
+      "confidence": 1.0,
+      "time": 130.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "por las almas que a Cristo llevé?",
+      "words": [
+        {
+          "word": "por",
+          "start": 136.2,
+          "end": 136.82
+        },
+        {
+          "word": "las",
+          "start": 136.82,
+          "end": 137.62
+        },
+        {
+          "word": "almas",
+          "start": 137.62,
+          "end": 138.04
+        },
+        {
+          "word": "que",
+          "start": 138.04,
+          "end": 138.3
+        },
+        {
+          "word": "al",
+          "start": 138.3,
+          "end": 138.6
+        },
+        {
+          "word": "Cristo",
+          "start": 138.6,
+          "end": 139.4
+        },
+        {
+          "word": "llevé",
+          "start": 139.4,
+          "end": 141.62
+        }
+      ],
+      "start": 136.2,
+      "end": 141.62,
+      "confidence": 0.971,
+      "time": 136.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cuando llegue al hogar",
+      "words": [
+        {
+          "word": "cuando",
+          "start": 141.62,
+          "end": 142.56
+        },
+        {
+          "word": "llegué",
+          "start": 142.56,
+          "end": 143.68
+        },
+        {
+          "word": "al",
+          "start": 143.68,
+          "end": 144.02
+        },
+        {
+          "word": "hogar",
+          "start": 144.02,
+          "end": 144.84
+        }
+      ],
+      "start": 141.62,
+      "end": 144.84,
+      "confidence": 1.0,
+      "time": 141.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "de la dicha sin par,",
+      "words": [
+        {
+          "word": "de",
+          "start": 144.84,
+          "end": 145.28
+        },
+        {
+          "word": "la",
+          "start": 145.28,
+          "end": 145.76
+        },
+        {
+          "word": "dicha",
+          "start": 145.76,
+          "end": 146.6
+        },
+        {
+          "word": "sin",
+          "start": 146.6,
+          "end": 147.1
+        },
+        {
+          "word": "par.",
+          "start": 147.1,
+          "end": 148.52
+        }
+      ],
+      "start": 144.84,
+      "end": 148.52,
+      "confidence": 1.0,
+      "time": 144.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¿la corona de estrellas tendré?",
+      "words": [
+        {
+          "word": "La",
+          "start": 148.52,
+          "end": 149.76
+        },
+        {
+          "word": "corona",
+          "start": 149.76,
+          "end": 150.78
+        },
+        {
+          "word": "de",
+          "start": 150.78,
+          "end": 151.44
+        },
+        {
+          "word": "estrellas",
+          "start": 151.44,
+          "end": 152.66
+        },
+        {
+          "word": "te",
+          "start": 152.66,
+          "end": 152.96
+        }
+      ],
+      "start": 148.52,
+      "end": 156.48,
+      "confidence": 0.988,
+      "time": 148.52
+    }
+  ]
+}

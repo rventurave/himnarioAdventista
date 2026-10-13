@@ -1,0 +1,870 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.767,
+  "language": "es",
+  "model": "medium",
+  "hymn": 511,
+  "source": "511 - Marchare en la divina luz.mp3",
+  "duration": 186.96,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Marcharé en la divina luz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Márchale,",
+          "start": 11.4,
+          "end": 12.8
+        },
+        {
+          "word": "la",
+          "start": 12.88,
+          "end": 13.32
+        },
+        {
+          "word": "divina",
+          "start": 13.32,
+          "end": 14.72
+        },
+        {
+          "word": "luz.",
+          "start": 14.72,
+          "end": 15.68
+        }
+      ],
+      "start": 11.4,
+      "end": 16.62,
+      "confidence": 0.785,
+      "time": 11.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "marcharé, siempre marcharé;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Márchale,",
+          "start": 16.62,
+          "end": 17.94
+        },
+        {
+          "word": "siempre",
+          "start": 18.16,
+          "end": 18.64
+        },
+        {
+          "word": "márchale.",
+          "start": 18.64,
+          "end": 20.78
+        }
+      ],
+      "start": 16.62,
+      "end": 20.78,
+      "confidence": 0.95,
+      "time": 16.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en las huellas del buen Jesús,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 20.78,
+          "end": 21.92
+        },
+        {
+          "word": "las",
+          "start": 21.92,
+          "end": 22.82
+        },
+        {
+          "word": "huellas",
+          "start": 22.82,
+          "end": 23.64
+        },
+        {
+          "word": "del",
+          "start": 23.64,
+          "end": 24.04
+        },
+        {
+          "word": "buen",
+          "start": 24.04,
+          "end": 24.54
+        },
+        {
+          "word": "Jesús",
+          "start": 24.54,
+          "end": 26.02
+        }
+      ],
+      "start": 20.78,
+      "end": 26.02,
+      "confidence": 1.0,
+      "time": 20.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "siempre marcharé.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "siempre",
+          "start": 26.02,
+          "end": 27.76
+        },
+        {
+          "word": "marcharé.",
+          "start": 27.76,
+          "end": 30.9
+        }
+      ],
+      "start": 26.02,
+      "end": 30.9,
+      "confidence": 1.0,
+      "time": 26.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Vestido blanco yo tendré,",
+      "words": [
+        {
+          "word": "Vestido",
+          "start": 31.78,
+          "end": 33.18
+        },
+        {
+          "word": "blanco",
+          "start": 33.18,
+          "end": 34.56
+        },
+        {
+          "word": "yo",
+          "start": 34.56,
+          "end": 35.28
+        },
+        {
+          "word": "tendré,",
+          "start": 35.28,
+          "end": 36.76
+        }
+      ],
+      "start": 31.78,
+      "end": 36.76,
+      "confidence": 1.0,
+      "time": 31.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "corona eterna ceñiré;",
+      "words": [
+        {
+          "word": "coroña",
+          "start": 37.32,
+          "end": 38.6
+        },
+        {
+          "word": "eterna",
+          "start": 38.6,
+          "end": 39.88
+        },
+        {
+          "word": "diré,",
+          "start": 40.72,
+          "end": 41.86
+        }
+      ],
+      "start": 37.32,
+      "end": 41.86,
+      "confidence": 0.92,
+      "time": 37.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "feliz allí podré gozar,",
+      "words": [
+        {
+          "word": "feliz",
+          "start": 42.4,
+          "end": 43.6
+        },
+        {
+          "word": "al",
+          "start": 43.6,
+          "end": 44.1
+        },
+        {
+          "word": "poderosa,",
+          "start": 45.24,
+          "end": 47.2
+        }
+      ],
+      "start": 42.4,
+      "end": 47.2,
+      "confidence": 0.677,
+      "time": 42.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en el Edén sin par.",
+      "words": [
+        {
+          "word": "del",
+          "start": 49.18,
+          "end": 49.92
+        },
+        {
+          "word": "sinfón.",
+          "start": 49.92,
+          "end": 53.16
+        }
+      ],
+      "start": 49.18,
+      "end": 53.16,
+      "confidence": 0.364,
+      "time": 49.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Marcharé con mi Guía fiel,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Marcharé",
+          "start": 54.18,
+          "end": 55.58
+        },
+        {
+          "word": "con",
+          "start": 55.58,
+          "end": 56.22
+        },
+        {
+          "word": "iguía",
+          "start": 56.22,
+          "end": 57.64
+        },
+        {
+          "word": "fiel,",
+          "start": 57.64,
+          "end": 58.68
+        }
+      ],
+      "start": 54.18,
+      "end": 58.68,
+      "confidence": 0.787,
+      "time": 54.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "marcharé, siempre marcharé;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "marcharé,",
+          "start": 59.6,
+          "end": 60.76
+        },
+        {
+          "word": "siempre",
+          "start": 60.98,
+          "end": 61.48
+        },
+        {
+          "word": "marcharé,",
+          "start": 61.48,
+          "end": 63.2
+        }
+      ],
+      "start": 59.6,
+      "end": 63.2,
+      "confidence": 1.0,
+      "time": 59.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "triunfaré por la fe en él,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "triunfaré",
+          "start": 64.7,
+          "end": 66.1
+        },
+        {
+          "word": "por",
+          "start": 66.1,
+          "end": 66.62
+        },
+        {
+          "word": "la",
+          "start": 66.62,
+          "end": 67.1
+        },
+        {
+          "word": "fe",
+          "start": 67.1,
+          "end": 68.14
+        },
+        {
+          "word": "en",
+          "start": 68.14,
+          "end": 68.4
+        },
+        {
+          "word": "el,",
+          "start": 68.4,
+          "end": 69.18
+        }
+      ],
+      "start": 64.7,
+      "end": 69.18,
+      "confidence": 1.0,
+      "time": 64.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "siempre marcharé.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "siempre",
+          "start": 69.72,
+          "end": 70.74
+        },
+        {
+          "word": "marcharé",
+          "start": 70.74,
+          "end": 74.1
+        }
+      ],
+      "start": 69.72,
+      "end": 74.1,
+      "confidence": 1.0,
+      "time": 69.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Vestido blanco yo tendré,",
+      "words": [
+        {
+          "word": "Vestido",
+          "start": 74.1,
+          "end": 76.2
+        },
+        {
+          "word": "blanco",
+          "start": 76.2,
+          "end": 77.5
+        },
+        {
+          "word": "yo",
+          "start": 77.5,
+          "end": 78.22
+        }
+      ],
+      "start": 74.1,
+      "end": 79.78,
+      "confidence": 0.75,
+      "time": 74.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "corona eterna ceñiré;",
+      "words": [
+        {
+          "word": "Coronia",
+          "start": 80.36,
+          "end": 81.46
+        }
+      ],
+      "start": 80.36,
+      "end": 84.8,
+      "confidence": 0.318,
+      "time": 80.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "feliz allí podré gozar,",
+      "words": [
+        {
+          "word": "Feliz",
+          "start": 85.26,
+          "end": 86.62
+        },
+        {
+          "word": "allí",
+          "start": 86.62,
+          "end": 87.66
+        },
+        {
+          "word": "podremos",
+          "start": 87.66,
+          "end": 89.3
+        }
+      ],
+      "start": 85.26,
+      "end": 90.24,
+      "confidence": 0.735,
+      "time": 85.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en el Edén sin par.",
+      "words": [
+        {
+          "word": "del",
+          "start": 92.2,
+          "end": 92.98
+        }
+      ],
+      "start": 92.2,
+      "end": 96.08,
+      "confidence": 0.176,
+      "time": 92.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Marcharé almas a buscar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Marcharé",
+          "start": 97.3,
+          "end": 98.7
+        },
+        {
+          "word": "al",
+          "start": 98.7,
+          "end": 99.06
+        },
+        {
+          "word": "a",
+          "start": 99.54,
+          "end": 100.32
+        },
+        {
+          "word": "buscar,",
+          "start": 100.32,
+          "end": 101.44
+        }
+      ],
+      "start": 97.3,
+      "end": 101.44,
+      "confidence": 0.985,
+      "time": 97.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "marcharé, siempre marcharé;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Marcharé,",
+          "start": 101.44,
+          "end": 103.74
+        },
+        {
+          "word": "siempre",
+          "start": 103.94,
+          "end": 104.42
+        },
+        {
+          "word": "marcharé,",
+          "start": 104.42,
+          "end": 106.58
+        }
+      ],
+      "start": 101.44,
+      "end": 107.44,
+      "confidence": 1.0,
+      "time": 101.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "los perdidos a rescatar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "los",
+          "start": 107.44,
+          "end": 107.92
+        },
+        {
+          "word": "perdidos",
+          "start": 107.92,
+          "end": 109.46
+        },
+        {
+          "word": "a",
+          "start": 109.46,
+          "end": 110.14
+        },
+        {
+          "word": "rescatar,",
+          "start": 110.14,
+          "end": 111.96
+        }
+      ],
+      "start": 107.44,
+      "end": 112.82,
+      "confidence": 1.0,
+      "time": 107.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "siempre marcharé.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "siempre",
+          "start": 112.82,
+          "end": 113.56
+        },
+        {
+          "word": "marcharé.",
+          "start": 113.56,
+          "end": 117.12
+        }
+      ],
+      "start": 112.82,
+      "end": 117.12,
+      "confidence": 1.0,
+      "time": 112.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Vestido blanco yo tendré,",
+      "words": [
+        {
+          "word": "Vestido",
+          "start": 117.12,
+          "end": 119.22
+        },
+        {
+          "word": "blanco",
+          "start": 119.22,
+          "end": 120.54
+        },
+        {
+          "word": "yo",
+          "start": 120.54,
+          "end": 121.26
+        },
+        {
+          "word": "tendré,",
+          "start": 121.26,
+          "end": 122.7
+        }
+      ],
+      "start": 117.12,
+      "end": 122.7,
+      "confidence": 1.0,
+      "time": 117.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "corona eterna ceñiré;",
+      "words": [
+        {
+          "word": "Coluna",
+          "start": 123.26,
+          "end": 124.48
+        },
+        {
+          "word": "eterna",
+          "start": 124.48,
+          "end": 125.76
+        },
+        {
+          "word": "mire,",
+          "start": 126.56,
+          "end": 127.5
+        }
+      ],
+      "start": 123.26,
+      "end": 127.5,
+      "confidence": 0.853,
+      "time": 123.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "feliz allí podré gozar,",
+      "words": [
+        {
+          "word": "Feliz",
+          "start": 128.2,
+          "end": 129.66
+        },
+        {
+          "word": "allí",
+          "start": 129.66,
+          "end": 130.74
+        },
+        {
+          "word": "podré",
+          "start": 130.74,
+          "end": 132.08
+        },
+        {
+          "word": "dosar,",
+          "start": 132.08,
+          "end": 133.38
+        }
+      ],
+      "start": 128.2,
+      "end": 133.38,
+      "confidence": 0.94,
+      "time": 128.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en el Edén sin par.",
+      "words": [
+        {
+          "word": "tele",
+          "start": 134.2,
+          "end": 135.06
+        },
+        {
+          "word": "de",
+          "start": 135.06,
+          "end": 135.72
+        }
+      ],
+      "start": 134.2,
+      "end": 139.08,
+      "confidence": 0.32,
+      "time": 134.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Por Jesús, más que vencedor",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Por",
+          "start": 139.54,
+          "end": 140.36
+        },
+        {
+          "word": "Jesús",
+          "start": 140.36,
+          "end": 141.56
+        },
+        {
+          "word": "más",
+          "start": 141.56,
+          "end": 142.0
+        },
+        {
+          "word": "que",
+          "start": 142.0,
+          "end": 142.48
+        },
+        {
+          "word": "vencedor",
+          "start": 142.48,
+          "end": 144.78
+        }
+      ],
+      "start": 139.54,
+      "end": 144.78,
+      "confidence": 1.0,
+      "time": 139.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "marcharé, siempre marcharé;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "marcharé,",
+          "start": 144.78,
+          "end": 146.86
+        },
+        {
+          "word": "siempre",
+          "start": 146.98,
+          "end": 147.54
+        },
+        {
+          "word": "marcharé",
+          "start": 147.54,
+          "end": 150.1
+        }
+      ],
+      "start": 144.78,
+      "end": 150.1,
+      "confidence": 1.0,
+      "time": 144.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "al hogar de mi Salvador,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "al",
+          "start": 150.1,
+          "end": 151.26
+        },
+        {
+          "word": "hogar",
+          "start": 151.26,
+          "end": 152.46
+        },
+        {
+          "word": "de",
+          "start": 152.46,
+          "end": 152.76
+        },
+        {
+          "word": "mi",
+          "start": 152.76,
+          "end": 153.02
+        },
+        {
+          "word": "salvador",
+          "start": 153.02,
+          "end": 155.2
+        }
+      ],
+      "start": 150.1,
+      "end": 155.2,
+      "confidence": 1.0,
+      "time": 150.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "siempre marcharé.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "siempre",
+          "start": 155.2,
+          "end": 156.82
+        },
+        {
+          "word": "marcharé",
+          "start": 156.82,
+          "end": 160.54
+        }
+      ],
+      "start": 155.2,
+      "end": 160.54,
+      "confidence": 1.0,
+      "time": 155.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Vestido blanco yo tendré,",
+      "words": [
+        {
+          "word": "vestido",
+          "start": 160.54,
+          "end": 162.4
+        },
+        {
+          "word": "blanco",
+          "start": 162.4,
+          "end": 163.72
+        }
+      ],
+      "start": 160.54,
+      "end": 165.78,
+      "confidence": 0.5,
+      "time": 160.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "corona eterna ceñiré;",
+      "words": [
+        {
+          "word": "con",
+          "start": 165.78,
+          "end": 166.82
+        }
+      ],
+      "start": 165.78,
+      "end": 170.84,
+      "confidence": 0.267,
+      "time": 165.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "feliz allí podré gozar,",
+      "words": [
+        {
+          "word": "a",
+          "start": 172.72,
+          "end": 173.12
+        },
+        {
+          "word": "por",
+          "start": 174.16,
+          "end": 174.76
+        }
+      ],
+      "start": 172.72,
+      "end": 179.04,
+      "confidence": 0.448,
+      "time": 172.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "en el Edén sin par.",
+      "words": [
+        {
+          "word": "ven,",
+          "start": 179.04,
+          "end": 179.48
+        },
+        {
+          "word": "sin",
+          "start": 180.0,
+          "end": 180.0
+        }
+      ],
+      "start": 179.04,
+      "end": 182.0,
+      "confidence": 0.376,
+      "time": 179.04
+    }
+  ]
+}

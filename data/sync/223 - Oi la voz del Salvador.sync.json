@@ -1,0 +1,713 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.922,
+  "language": "es",
+  "model": "medium",
+  "hymn": 223,
+  "source": "223 - Oi la voz del Salvador.mp3",
+  "duration": 167.03,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Oí la voz del Salvador decir con tierno amor:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Oí",
+          "start": 13.14,
+          "end": 14.54
+        },
+        {
+          "word": "la",
+          "start": 14.54,
+          "end": 15.34
+        },
+        {
+          "word": "voz",
+          "start": 15.34,
+          "end": 16.12
+        },
+        {
+          "word": "del",
+          "start": 16.12,
+          "end": 16.76
+        },
+        {
+          "word": "Salvador",
+          "start": 16.76,
+          "end": 19.36
+        },
+        {
+          "word": "decir",
+          "start": 19.36,
+          "end": 21.96
+        },
+        {
+          "word": "con",
+          "start": 21.96,
+          "end": 22.82
+        },
+        {
+          "word": "tierno",
+          "start": 22.82,
+          "end": 24.0
+        },
+        {
+          "word": "amor",
+          "start": 24.0,
+          "end": 25.84
+        }
+      ],
+      "start": 13.14,
+      "end": 25.84,
+      "confidence": 1.0,
+      "time": 13.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "\"¡Oh, ven a mí, descansarás, cargado pecador!\"",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 25.84,
+          "end": 27.32
+        },
+        {
+          "word": "ven",
+          "start": 28.08,
+          "end": 28.22
+        },
+        {
+          "word": "a",
+          "start": 28.22,
+          "end": 28.76
+        },
+        {
+          "word": "mí,",
+          "start": 28.76,
+          "end": 29.5
+        },
+        {
+          "word": "descansarás,",
+          "start": 30.12,
+          "end": 32.56
+        },
+        {
+          "word": "cargado",
+          "start": 32.64,
+          "end": 34.4
+        },
+        {
+          "word": "pecador,",
+          "start": 34.4,
+          "end": 38.1
+        }
+      ],
+      "start": 25.84,
+      "end": 38.1,
+      "confidence": 1.0,
+      "time": 25.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tal como estaba, a mi Jesús, cansado acudí,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tal",
+          "start": 38.72,
+          "end": 39.4
+        },
+        {
+          "word": "como",
+          "start": 39.4,
+          "end": 40.42
+        },
+        {
+          "word": "estaba",
+          "start": 40.42,
+          "end": 41.94
+        },
+        {
+          "word": "mi",
+          "start": 41.94,
+          "end": 42.94
+        },
+        {
+          "word": "Jesús,",
+          "start": 42.94,
+          "end": 44.82
+        },
+        {
+          "word": "cansado",
+          "start": 45.7,
+          "end": 46.94
+        },
+        {
+          "word": "a",
+          "start": 46.94,
+          "end": 47.84
+        }
+      ],
+      "start": 38.72,
+      "end": 50.14,
+      "confidence": 0.868,
+      "time": 38.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y luego dulce alivio y paz por fe de él recibí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 50.14,
+          "end": 51.18
+        },
+        {
+          "word": "luego",
+          "start": 51.18,
+          "end": 52.64
+        },
+        {
+          "word": "dulce",
+          "start": 52.64,
+          "end": 54.18
+        },
+        {
+          "word": "alivio",
+          "start": 54.18,
+          "end": 55.7
+        },
+        {
+          "word": "y",
+          "start": 55.7,
+          "end": 56.02
+        },
+        {
+          "word": "paz",
+          "start": 56.02,
+          "end": 56.48
+        },
+        {
+          "word": "por",
+          "start": 56.48,
+          "end": 57.3
+        },
+        {
+          "word": "fe",
+          "start": 57.3,
+          "end": 58.0
+        },
+        {
+          "word": "del",
+          "start": 58.0,
+          "end": 58.96
+        }
+      ],
+      "start": 50.14,
+      "end": 62.14,
+      "confidence": 0.807,
+      "time": 50.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Oí la voz del Salvador decir: \"Venid, bebed;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Oí",
+          "start": 64.28,
+          "end": 65.66
+        },
+        {
+          "word": "la",
+          "start": 65.66,
+          "end": 66.4
+        },
+        {
+          "word": "voz,",
+          "start": 66.4,
+          "end": 67.18
+        },
+        {
+          "word": "el",
+          "start": 67.18,
+          "end": 68.02
+        },
+        {
+          "word": "Salvador,",
+          "start": 68.02,
+          "end": 70.34
+        },
+        {
+          "word": "decid,",
+          "start": 72.04,
+          "end": 72.98
+        },
+        {
+          "word": "venid,",
+          "start": 73.42,
+          "end": 74.56
+        },
+        {
+          "word": "bebed,",
+          "start": 74.94,
+          "end": 77.08
+        }
+      ],
+      "start": 64.28,
+      "end": 77.08,
+      "confidence": 0.97,
+      "time": 64.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "yo soy la fuente de salud que apaga toda sed\".",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 77.08,
+          "end": 78.2
+        },
+        {
+          "word": "soy",
+          "start": 78.2,
+          "end": 78.92
+        },
+        {
+          "word": "la",
+          "start": 78.92,
+          "end": 79.76
+        },
+        {
+          "word": "fuente",
+          "start": 79.76,
+          "end": 81.2
+        },
+        {
+          "word": "de",
+          "start": 81.2,
+          "end": 82.52
+        },
+        {
+          "word": "salud",
+          "start": 82.52,
+          "end": 83.22
+        },
+        {
+          "word": "que",
+          "start": 83.22,
+          "end": 84.06
+        },
+        {
+          "word": "apaga",
+          "start": 84.06,
+          "end": 85.74
+        },
+        {
+          "word": "toda",
+          "start": 85.74,
+          "end": 87.3
+        },
+        {
+          "word": "sed.",
+          "start": 87.3,
+          "end": 88.88
+        }
+      ],
+      "start": 77.08,
+      "end": 88.88,
+      "confidence": 1.0,
+      "time": 77.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Con sed de Dios, del vivo Dios, busqué a Emanuel;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Con",
+          "start": 89.9,
+          "end": 90.28
+        },
+        {
+          "word": "sede",
+          "start": 90.28,
+          "end": 91.64
+        },
+        {
+          "word": "Dios",
+          "start": 91.64,
+          "end": 92.42
+        },
+        {
+          "word": "del",
+          "start": 92.42,
+          "end": 93.24
+        },
+        {
+          "word": "vivo",
+          "start": 93.24,
+          "end": 94.6
+        },
+        {
+          "word": "Dios",
+          "start": 94.6,
+          "end": 96.04
+        },
+        {
+          "word": "bosquea",
+          "start": 96.04,
+          "end": 98.1
+        },
+        {
+          "word": "Emmanuel.",
+          "start": 98.1,
+          "end": 101.1
+        }
+      ],
+      "start": 89.9,
+      "end": 101.1,
+      "confidence": 0.776,
+      "time": 89.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "lo hallé; mi sed él apagó, y ahora vivo en él.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Lo",
+          "start": 101.1,
+          "end": 102.28
+        },
+        {
+          "word": "alié",
+          "start": 102.28,
+          "end": 103.36
+        },
+        {
+          "word": "mi",
+          "start": 103.36,
+          "end": 103.76
+        },
+        {
+          "word": "sede,",
+          "start": 103.76,
+          "end": 104.88
+        },
+        {
+          "word": "pagó",
+          "start": 106.4,
+          "end": 107.52
+        },
+        {
+          "word": "y",
+          "start": 107.52,
+          "end": 108.18
+        },
+        {
+          "word": "ahora",
+          "start": 108.18,
+          "end": 109.7
+        },
+        {
+          "word": "vivo",
+          "start": 109.7,
+          "end": 111.0
+        },
+        {
+          "word": "en",
+          "start": 111.0,
+          "end": 111.82
+        },
+        {
+          "word": "él.",
+          "start": 111.82,
+          "end": 113.6
+        }
+      ],
+      "start": 101.1,
+      "end": 113.6,
+      "confidence": 0.879,
+      "time": 101.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Oí su dulce voz decir: \"Del mundo soy la luz;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "su",
+          "start": 116.32,
+          "end": 117.22
+        },
+        {
+          "word": "dulce",
+          "start": 117.22,
+          "end": 118.76
+        },
+        {
+          "word": "voz",
+          "start": 118.76,
+          "end": 120.08
+        },
+        {
+          "word": "decir,",
+          "start": 120.08,
+          "end": 122.0
+        },
+        {
+          "word": "del",
+          "start": 122.82,
+          "end": 123.16
+        },
+        {
+          "word": "mundo",
+          "start": 123.16,
+          "end": 124.64
+        },
+        {
+          "word": "soy",
+          "start": 124.64,
+          "end": 125.5
+        },
+        {
+          "word": "la",
+          "start": 125.5,
+          "end": 126.42
+        },
+        {
+          "word": "luz.",
+          "start": 126.42,
+          "end": 128.06
+        }
+      ],
+      "start": 116.32,
+      "end": 128.06,
+      "confidence": 0.9,
+      "time": 116.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "miradme a mí y salvos sed; hay vida en mi cruz\".",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Miradme",
+          "start": 128.06,
+          "end": 130.56
+        },
+        {
+          "word": "a",
+          "start": 130.56,
+          "end": 130.96
+        },
+        {
+          "word": "mí,",
+          "start": 130.96,
+          "end": 132.18
+        },
+        {
+          "word": "y",
+          "start": 132.36,
+          "end": 132.42
+        },
+        {
+          "word": "salvo",
+          "start": 132.42,
+          "end": 133.98
+        },
+        {
+          "word": "sed,",
+          "start": 133.98,
+          "end": 134.3
+        },
+        {
+          "word": "hay",
+          "start": 135.0,
+          "end": 135.26
+        },
+        {
+          "word": "vida",
+          "start": 135.26,
+          "end": 136.62
+        },
+        {
+          "word": "en",
+          "start": 136.62,
+          "end": 137.54
+        },
+        {
+          "word": "mi",
+          "start": 137.54,
+          "end": 138.34
+        },
+        {
+          "word": "cruz.",
+          "start": 138.34,
+          "end": 140.5
+        }
+      ],
+      "start": 128.06,
+      "end": 140.5,
+      "confidence": 0.995,
+      "time": 128.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mirando a Cristo, por la fe,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Mirando",
+          "start": 140.94,
+          "end": 142.34
+        },
+        {
+          "word": "a",
+          "start": 142.34,
+          "end": 142.82
+        },
+        {
+          "word": "Cristo",
+          "start": 142.82,
+          "end": 143.82
+        },
+        {
+          "word": "por",
+          "start": 143.82,
+          "end": 145.04
+        },
+        {
+          "word": "la",
+          "start": 145.04,
+          "end": 145.86
+        },
+        {
+          "word": "fe,",
+          "start": 145.86,
+          "end": 146.86
+        }
+      ],
+      "start": 140.94,
+      "end": 147.64,
+      "confidence": 1.0,
+      "time": 140.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mi norte y sol hallé;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mi",
+          "start": 147.64,
+          "end": 148.08
+        },
+        {
+          "word": "norte",
+          "start": 148.08,
+          "end": 148.6
+        },
+        {
+          "word": "y",
+          "start": 148.6,
+          "end": 149.3
+        },
+        {
+          "word": "solaría.",
+          "start": 149.3,
+          "end": 152.02
+        }
+      ],
+      "start": 147.64,
+      "end": 152.02,
+      "confidence": 0.788,
+      "time": 147.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y en esa luz de vida, en él por siempre viviré.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 152.02,
+          "end": 153.34
+        },
+        {
+          "word": "en",
+          "start": 153.34,
+          "end": 154.44
+        },
+        {
+          "word": "esa",
+          "start": 154.44,
+          "end": 154.86
+        },
+        {
+          "word": "luz",
+          "start": 154.86,
+          "end": 155.68
+        },
+        {
+          "word": "de",
+          "start": 155.68,
+          "end": 156.6
+        },
+        {
+          "word": "vida",
+          "start": 156.6,
+          "end": 157.76
+        },
+        {
+          "word": "en",
+          "start": 157.76,
+          "end": 158.16
+        },
+        {
+          "word": "él",
+          "start": 158.16,
+          "end": 158.46
+        },
+        {
+          "word": "por",
+          "start": 158.46,
+          "end": 159.28
+        },
+        {
+          "word": "siempre",
+          "start": 159.28,
+          "end": 160.76
+        },
+        {
+          "word": "vivir.",
+          "start": 160.76,
+          "end": 162.5
+        }
+      ],
+      "start": 152.02,
+      "end": 162.5,
+      "confidence": 0.995,
+      "time": 152.02
+    }
+  ]
+}

@@ -1,0 +1,955 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.909,
+  "language": "es",
+  "model": "medium",
+  "hymn": 477,
+  "source": "477 - Los que aman al Senor.mp3",
+  "duration": 150.28,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Los que aman al Señor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Los",
+          "start": 11.06,
+          "end": 12.46
+        },
+        {
+          "word": "que",
+          "start": 12.46,
+          "end": 13.5
+        },
+        {
+          "word": "aman",
+          "start": 13.5,
+          "end": 14.62
+        },
+        {
+          "word": "al",
+          "start": 14.62,
+          "end": 15.26
+        },
+        {
+          "word": "Señor,",
+          "start": 15.26,
+          "end": 16.36
+        }
+      ],
+      "start": 11.06,
+      "end": 17.14,
+      "confidence": 1.0,
+      "time": 11.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "eleven su canción,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "eleven",
+          "start": 17.14,
+          "end": 17.86
+        },
+        {
+          "word": "su",
+          "start": 17.86,
+          "end": 18.6
+        },
+        {
+          "word": "canción,",
+          "start": 18.6,
+          "end": 20.4
+        }
+      ],
+      "start": 17.14,
+      "end": 20.92,
+      "confidence": 1.0,
+      "time": 17.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que en dulces notas de loor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 20.92,
+          "end": 21.16
+        },
+        {
+          "word": "en",
+          "start": 21.16,
+          "end": 21.68
+        },
+        {
+          "word": "dulces",
+          "start": 21.68,
+          "end": 22.36
+        },
+        {
+          "word": "notas",
+          "start": 22.36,
+          "end": 23.56
+        },
+        {
+          "word": "del",
+          "start": 23.56,
+          "end": 24.3
+        },
+        {
+          "word": "olor,",
+          "start": 24.3,
+          "end": 25.14
+        }
+      ],
+      "start": 20.92,
+      "end": 25.14,
+      "confidence": 0.955,
+      "time": 20.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que en dulces notas de loor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Que",
+          "start": 25.14,
+          "end": 25.56
+        },
+        {
+          "word": "en",
+          "start": 25.56,
+          "end": 26.04
+        },
+        {
+          "word": "dulces",
+          "start": 26.04,
+          "end": 26.74
+        },
+        {
+          "word": "gotas",
+          "start": 26.74,
+          "end": 27.84
+        },
+        {
+          "word": "del",
+          "start": 27.84,
+          "end": 28.68
+        },
+        {
+          "word": "olor",
+          "start": 28.68,
+          "end": 29.68
+        }
+      ],
+      "start": 25.14,
+      "end": 29.68,
+      "confidence": 0.935,
+      "time": 25.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ascienda a su mansión,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hacienda",
+          "start": 29.68,
+          "end": 31.88
+        },
+        {
+          "word": "su",
+          "start": 31.88,
+          "end": 32.78
+        },
+        {
+          "word": "mansión,",
+          "start": 32.78,
+          "end": 33.94
+        }
+      ],
+      "start": 29.68,
+      "end": 33.94,
+      "confidence": 0.731,
+      "time": 29.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ascienda a su mansión.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hacienda",
+          "start": 33.94,
+          "end": 35.38
+        },
+        {
+          "word": "su",
+          "start": 35.38,
+          "end": 36.18
+        },
+        {
+          "word": "mansión.",
+          "start": 36.18,
+          "end": 38.18
+        }
+      ],
+      "start": 33.94,
+      "end": 38.18,
+      "confidence": 0.731,
+      "time": 33.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "A Sion caminamos,",
+      "words": [
+        {
+          "word": "Acción,",
+          "start": 38.8,
+          "end": 39.9
+        },
+        {
+          "word": "caminamos,",
+          "start": 40.3,
+          "end": 42.8
+        }
+      ],
+      "start": 38.8,
+      "end": 43.3,
+      "confidence": 0.587,
+      "time": 38.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "nuestra ciudad tan gloriosa;",
+      "words": [
+        {
+          "word": "Nuestra",
+          "start": 43.3,
+          "end": 43.9
+        },
+        {
+          "word": "ciudad",
+          "start": 43.9,
+          "end": 44.82
+        },
+        {
+          "word": "tan",
+          "start": 44.82,
+          "end": 45.28
+        },
+        {
+          "word": "gloriosa,",
+          "start": 45.28,
+          "end": 46.96
+        }
+      ],
+      "start": 43.3,
+      "end": 46.96,
+      "confidence": 1.0,
+      "time": 43.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "marchando todos cantamos",
+      "words": [
+        {
+          "word": "marchando",
+          "start": 46.96,
+          "end": 48.62
+        },
+        {
+          "word": "todos,",
+          "start": 48.62,
+          "end": 49.32
+        },
+        {
+          "word": "cantándose",
+          "start": 49.64,
+          "end": 51.8
+        }
+      ],
+      "start": 46.96,
+      "end": 51.8,
+      "confidence": 0.956,
+      "time": 46.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "de Dios y la bella mansión.",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 51.8,
+          "end": 52.52
+        },
+        {
+          "word": "la",
+          "start": 52.96,
+          "end": 53.3
+        },
+        {
+          "word": "bella",
+          "start": 53.3,
+          "end": 53.84
+        },
+        {
+          "word": "mansión.",
+          "start": 53.84,
+          "end": 55.96
+        }
+      ],
+      "start": 51.8,
+      "end": 55.96,
+      "confidence": 0.667,
+      "time": 51.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Unida está, oh Dios,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Unida",
+          "start": 57.88,
+          "end": 59.08
+        },
+        {
+          "word": "está,",
+          "start": 59.08,
+          "end": 60.22
+        },
+        {
+          "word": "oh",
+          "start": 60.5,
+          "end": 60.74
+        },
+        {
+          "word": "Dios,",
+          "start": 60.74,
+          "end": 61.2
+        }
+      ],
+      "start": 57.88,
+      "end": 61.62,
+      "confidence": 1.0,
+      "time": 57.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu fiel y amada grey;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tu",
+          "start": 61.62,
+          "end": 61.82
+        },
+        {
+          "word": "fiel",
+          "start": 61.82,
+          "end": 62.56
+        },
+        {
+          "word": "y",
+          "start": 62.56,
+          "end": 62.96
+        },
+        {
+          "word": "amada",
+          "start": 62.96,
+          "end": 63.9
+        },
+        {
+          "word": "Gre,",
+          "start": 63.9,
+          "end": 65.28
+        }
+      ],
+      "start": 61.62,
+      "end": 65.28,
+      "confidence": 0.988,
+      "time": 61.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y cantan todos a una voz,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 65.72,
+          "end": 66.72
+        },
+        {
+          "word": "cantan",
+          "start": 66.72,
+          "end": 67.38
+        },
+        {
+          "word": "todos",
+          "start": 67.38,
+          "end": 68.36
+        },
+        {
+          "word": "a",
+          "start": 68.36,
+          "end": 69.08
+        },
+        {
+          "word": "una",
+          "start": 69.08,
+          "end": 69.5
+        },
+        {
+          "word": "voz,",
+          "start": 69.5,
+          "end": 69.98
+        }
+      ],
+      "start": 65.72,
+      "end": 70.2,
+      "confidence": 1.0,
+      "time": 65.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y cantan todos a una voz,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 70.2,
+          "end": 70.8
+        },
+        {
+          "word": "cantan",
+          "start": 70.8,
+          "end": 71.72
+        },
+        {
+          "word": "todos",
+          "start": 71.72,
+          "end": 72.78
+        },
+        {
+          "word": "a",
+          "start": 72.78,
+          "end": 73.46
+        },
+        {
+          "word": "una",
+          "start": 73.46,
+          "end": 73.9
+        },
+        {
+          "word": "voz",
+          "start": 73.9,
+          "end": 74.4
+        }
+      ],
+      "start": 70.2,
+      "end": 74.4,
+      "confidence": 1.0,
+      "time": 70.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "los hijos del gran Rey,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "los",
+          "start": 74.4,
+          "end": 75.14
+        },
+        {
+          "word": "hijos",
+          "start": 75.14,
+          "end": 77.06
+        },
+        {
+          "word": "del",
+          "start": 77.06,
+          "end": 77.84
+        },
+        {
+          "word": "gran",
+          "start": 77.84,
+          "end": 78.28
+        },
+        {
+          "word": "rey,",
+          "start": 78.28,
+          "end": 79.0
+        }
+      ],
+      "start": 74.4,
+      "end": 79.0,
+      "confidence": 1.0,
+      "time": 74.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "los hijos del gran Rey.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "los",
+          "start": 79.0,
+          "end": 79.38
+        },
+        {
+          "word": "hijos",
+          "start": 79.38,
+          "end": 80.4
+        },
+        {
+          "word": "del",
+          "start": 80.4,
+          "end": 81.22
+        },
+        {
+          "word": "gran",
+          "start": 81.22,
+          "end": 81.72
+        },
+        {
+          "word": "rey.",
+          "start": 81.72,
+          "end": 83.34
+        }
+      ],
+      "start": 79.0,
+      "end": 83.34,
+      "confidence": 1.0,
+      "time": 79.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "A Sion caminamos,",
+      "words": [
+        {
+          "word": "Acción,",
+          "start": 83.48,
+          "end": 84.88
+        },
+        {
+          "word": "caminamos,",
+          "start": 85.34,
+          "end": 87.68
+        }
+      ],
+      "start": 83.48,
+      "end": 88.34,
+      "confidence": 0.587,
+      "time": 83.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "nuestra ciudad tan gloriosa;",
+      "words": [
+        {
+          "word": "nuestra",
+          "start": 88.34,
+          "end": 88.82
+        },
+        {
+          "word": "ciudad",
+          "start": 88.82,
+          "end": 89.76
+        },
+        {
+          "word": "tan",
+          "start": 89.76,
+          "end": 90.18
+        },
+        {
+          "word": "gloriosa,",
+          "start": 90.18,
+          "end": 91.9
+        }
+      ],
+      "start": 88.34,
+      "end": 91.9,
+      "confidence": 1.0,
+      "time": 88.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "marchando todos cantamos",
+      "words": [
+        {
+          "word": "marchando",
+          "start": 92.54,
+          "end": 93.58
+        },
+        {
+          "word": "todos",
+          "start": 93.58,
+          "end": 94.32
+        },
+        {
+          "word": "cantamos",
+          "start": 94.32,
+          "end": 96.2
+        }
+      ],
+      "start": 92.54,
+      "end": 96.2,
+      "confidence": 1.0,
+      "time": 92.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "de Dios y la bella mansión.",
+      "words": [
+        {
+          "word": "de",
+          "start": 96.2,
+          "end": 96.92
+        },
+        {
+          "word": "Dios",
+          "start": 96.92,
+          "end": 97.5
+        },
+        {
+          "word": "la",
+          "start": 97.84,
+          "end": 98.28
+        },
+        {
+          "word": "mansión.",
+          "start": 98.78,
+          "end": 101.3
+        }
+      ],
+      "start": 96.2,
+      "end": 101.3,
+      "confidence": 0.667,
+      "time": 96.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cantemos con fervor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cantemos",
+          "start": 102.98,
+          "end": 104.38
+        },
+        {
+          "word": "con",
+          "start": 104.38,
+          "end": 105.2
+        },
+        {
+          "word": "fervor,",
+          "start": 105.2,
+          "end": 106.3
+        }
+      ],
+      "start": 102.98,
+      "end": 106.74,
+      "confidence": 1.0,
+      "time": 102.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "dejemos el pesar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "dejemos",
+          "start": 106.74,
+          "end": 108.1
+        },
+        {
+          "word": "empezar,",
+          "start": 108.1,
+          "end": 110.36
+        }
+      ],
+      "start": 106.74,
+      "end": 111.08,
+      "confidence": 0.6,
+      "time": 106.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "marchemos libres de temor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "marchemos",
+          "start": 111.08,
+          "end": 112.2
+        },
+        {
+          "word": "libres",
+          "start": 112.2,
+          "end": 113.32
+        },
+        {
+          "word": "de",
+          "start": 113.32,
+          "end": 114.12
+        },
+        {
+          "word": "temor,",
+          "start": 114.12,
+          "end": 115.04
+        }
+      ],
+      "start": 111.08,
+      "end": 115.04,
+      "confidence": 1.0,
+      "time": 111.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "marchemos libres de temor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "marchemos",
+          "start": 115.04,
+          "end": 116.52
+        },
+        {
+          "word": "libres",
+          "start": 116.52,
+          "end": 117.74
+        },
+        {
+          "word": "de",
+          "start": 117.74,
+          "end": 118.5
+        },
+        {
+          "word": "temor,",
+          "start": 118.5,
+          "end": 119.46
+        }
+      ],
+      "start": 115.04,
+      "end": 119.8,
+      "confidence": 1.0,
+      "time": 115.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "al más feliz hogar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "al",
+          "start": 119.8,
+          "end": 119.98
+        },
+        {
+          "word": "más",
+          "start": 119.98,
+          "end": 121.06
+        },
+        {
+          "word": "feliz",
+          "start": 121.06,
+          "end": 122.78
+        },
+        {
+          "word": "hogar,",
+          "start": 122.78,
+          "end": 123.74
+        }
+      ],
+      "start": 119.8,
+      "end": 123.92,
+      "confidence": 1.0,
+      "time": 119.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "al más feliz hogar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "al",
+          "start": 123.92,
+          "end": 124.3
+        },
+        {
+          "word": "más",
+          "start": 124.3,
+          "end": 125.0
+        },
+        {
+          "word": "feliz",
+          "start": 125.0,
+          "end": 126.12
+        },
+        {
+          "word": "hogar.",
+          "start": 126.12,
+          "end": 128.0
+        }
+      ],
+      "start": 123.92,
+      "end": 128.0,
+      "confidence": 1.0,
+      "time": 123.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "A Sion caminamos,",
+      "words": [
+        {
+          "word": "Pasión,",
+          "start": 128.0,
+          "end": 129.8
+        },
+        {
+          "word": "caminamos,",
+          "start": 130.46,
+          "end": 132.72
+        }
+      ],
+      "start": 128.0,
+      "end": 133.2,
+      "confidence": 0.627,
+      "time": 128.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "nuestra ciudad tan gloriosa;",
+      "words": [
+        {
+          "word": "nuestra",
+          "start": 133.2,
+          "end": 133.72
+        },
+        {
+          "word": "ciudad",
+          "start": 133.72,
+          "end": 134.72
+        },
+        {
+          "word": "tan",
+          "start": 134.72,
+          "end": 135.1
+        },
+        {
+          "word": "gloriosa,",
+          "start": 135.1,
+          "end": 136.9
+        }
+      ],
+      "start": 133.2,
+      "end": 136.9,
+      "confidence": 1.0,
+      "time": 133.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "marchando todos cantamos",
+      "words": [
+        {
+          "word": "marchando",
+          "start": 137.44,
+          "end": 138.56
+        },
+        {
+          "word": "todos",
+          "start": 138.56,
+          "end": 139.22
+        },
+        {
+          "word": "cantamos",
+          "start": 139.22,
+          "end": 141.38
+        }
+      ],
+      "start": 137.44,
+      "end": 141.38,
+      "confidence": 1.0,
+      "time": 137.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "de Dios y la bella mansión.",
+      "words": [
+        {
+          "word": "de",
+          "start": 141.38,
+          "end": 141.92
+        },
+        {
+          "word": "Dios",
+          "start": 141.92,
+          "end": 142.46
+        },
+        {
+          "word": "y",
+          "start": 142.46,
+          "end": 142.88
+        },
+        {
+          "word": "la",
+          "start": 142.88,
+          "end": 143.14
+        },
+        {
+          "word": "bella",
+          "start": 143.14,
+          "end": 143.92
+        },
+        {
+          "word": "mansión.",
+          "start": 143.92,
+          "end": 146.68
+        }
+      ],
+      "start": 141.38,
+      "end": 146.68,
+      "confidence": 1.0,
+      "time": 141.38
+    }
+  ]
+}

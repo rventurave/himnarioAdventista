@@ -1,0 +1,598 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.954,
+  "language": "es",
+  "model": "medium",
+  "hymn": 535,
+  "source": "535 - Las faenas terminadas.mp3",
+  "duration": 115.59,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Las faenas terminadas,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Las",
+          "start": 12.54,
+          "end": 13.94
+        },
+        {
+          "word": "faenas",
+          "start": 13.94,
+          "end": 15.34
+        },
+        {
+          "word": "terminadas",
+          "start": 15.34,
+          "end": 18.02
+        }
+      ],
+      "start": 12.54,
+      "end": 18.02,
+      "confidence": 1.0,
+      "time": 12.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con el nocturnal telón",
+      "verse": 1,
+      "words": [
+        {
+          "word": "con",
+          "start": 18.02,
+          "end": 19.02
+        },
+        {
+          "word": "el",
+          "start": 19.02,
+          "end": 19.72
+        },
+        {
+          "word": "nocturnal",
+          "start": 19.72,
+          "end": 21.72
+        },
+        {
+          "word": "telón,",
+          "start": 21.72,
+          "end": 23.4
+        }
+      ],
+      "start": 18.02,
+      "end": 23.4,
+      "confidence": 1.0,
+      "time": 18.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que de los celestes atrios",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Que",
+          "start": 23.4,
+          "end": 24.22
+        },
+        {
+          "word": "de",
+          "start": 24.22,
+          "end": 25.06
+        },
+        {
+          "word": "los",
+          "start": 25.06,
+          "end": 25.96
+        },
+        {
+          "word": "celestes",
+          "start": 25.96,
+          "end": 27.9
+        },
+        {
+          "word": "atrios",
+          "start": 27.9,
+          "end": 28.76
+        }
+      ],
+      "start": 23.4,
+      "end": 28.76,
+      "confidence": 1.0,
+      "time": 23.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ya desciende en bendición,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ya",
+          "start": 28.76,
+          "end": 29.86
+        },
+        {
+          "word": "descienden",
+          "start": 29.86,
+          "end": 31.6
+        },
+        {
+          "word": "en",
+          "start": 34.98,
+          "end": 35.5
+        }
+      ],
+      "start": 28.76,
+      "end": 35.5,
+      "confidence": 0.735,
+      "time": 28.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "viene el sábado glorioso,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 35.5,
+          "end": 35.92
+        },
+        {
+          "word": "sabado",
+          "start": 35.92,
+          "end": 37.66
+        },
+        {
+          "word": "glorioso",
+          "start": 37.66,
+          "end": 39.6
+        }
+      ],
+      "start": 35.5,
+      "end": 39.6,
+      "confidence": 0.75,
+      "time": 35.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de lo alto el rico don.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 39.6,
+          "end": 40.52
+        },
+        {
+          "word": "lo",
+          "start": 40.52,
+          "end": 41.58
+        },
+        {
+          "word": "alto",
+          "start": 41.58,
+          "end": 42.08
+        },
+        {
+          "word": "el",
+          "start": 42.08,
+          "end": 42.52
+        },
+        {
+          "word": "rico",
+          "start": 42.52,
+          "end": 43.84
+        },
+        {
+          "word": "don.",
+          "start": 43.84,
+          "end": 45.18
+        }
+      ],
+      "start": 39.6,
+      "end": 45.18,
+      "confidence": 1.0,
+      "time": 39.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Depongamos toda carga,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pongamos",
+          "start": 47.06,
+          "end": 48.94
+        },
+        {
+          "word": "toda",
+          "start": 48.94,
+          "end": 50.12
+        },
+        {
+          "word": "carga,",
+          "start": 50.12,
+          "end": 51.36
+        }
+      ],
+      "start": 47.06,
+      "end": 52.38,
+      "confidence": 0.978,
+      "time": 47.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "toda cuita, todo afán;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "toda",
+          "start": 52.38,
+          "end": 53.04
+        },
+        {
+          "word": "cuida,",
+          "start": 53.04,
+          "end": 54.24
+        },
+        {
+          "word": "todo",
+          "start": 54.84,
+          "end": 55.44
+        },
+        {
+          "word": "afán,",
+          "start": 55.44,
+          "end": 56.84
+        }
+      ],
+      "start": 52.38,
+      "end": 56.84,
+      "confidence": 0.97,
+      "time": 52.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y pidamos ante el Padre,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 57.34,
+          "end": 58.02
+        },
+        {
+          "word": "pidamos",
+          "start": 58.02,
+          "end": 59.78
+        },
+        {
+          "word": "ante",
+          "start": 59.78,
+          "end": 60.8
+        },
+        {
+          "word": "el",
+          "start": 60.8,
+          "end": 61.32
+        },
+        {
+          "word": "Padre,",
+          "start": 61.32,
+          "end": 62.54
+        }
+      ],
+      "start": 57.34,
+      "end": 63.24,
+      "confidence": 1.0,
+      "time": 57.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "do sus hijos hoy están,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Sus",
+          "start": 63.24,
+          "end": 64.1
+        },
+        {
+          "word": "hijos",
+          "start": 64.1,
+          "end": 65.18
+        },
+        {
+          "word": "hoy",
+          "start": 65.18,
+          "end": 66.18
+        },
+        {
+          "word": "están.",
+          "start": 66.18,
+          "end": 67.48
+        }
+      ],
+      "start": 63.24,
+      "end": 67.48,
+      "confidence": 0.8,
+      "time": 63.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "en el sábado glorioso,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 67.48,
+          "end": 68.64
+        },
+        {
+          "word": "el",
+          "start": 68.64,
+          "end": 69.42
+        },
+        {
+          "word": "sabado",
+          "start": 69.42,
+          "end": 71.26
+        },
+        {
+          "word": "glorioso,",
+          "start": 71.26,
+          "end": 72.98
+        }
+      ],
+      "start": 67.48,
+      "end": 73.94,
+      "confidence": 1.0,
+      "time": 67.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "el divino y vivo pan.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 73.94,
+          "end": 74.3
+        },
+        {
+          "word": "Divino",
+          "start": 74.3,
+          "end": 75.56
+        },
+        {
+          "word": "y",
+          "start": 75.56,
+          "end": 76.2
+        },
+        {
+          "word": "vivo",
+          "start": 76.2,
+          "end": 77.16
+        },
+        {
+          "word": "Pan.",
+          "start": 77.16,
+          "end": 78.78
+        }
+      ],
+      "start": 73.94,
+      "end": 78.78,
+      "confidence": 1.0,
+      "time": 73.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Padre, tu favor concede;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Padre,",
+          "start": 80.32,
+          "end": 81.72
+        },
+        {
+          "word": "tu",
+          "start": 82.02,
+          "end": 82.42
+        },
+        {
+          "word": "favor",
+          "start": 82.42,
+          "end": 83.7
+        },
+        {
+          "word": "concede,",
+          "start": 83.7,
+          "end": 85.38
+        }
+      ],
+      "start": 80.32,
+      "end": 85.82,
+      "confidence": 1.0,
+      "time": 80.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "por la noche guárdanos;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "por",
+          "start": 85.82,
+          "end": 86.5
+        },
+        {
+          "word": "la",
+          "start": 86.5,
+          "end": 87.24
+        },
+        {
+          "word": "noche",
+          "start": 87.24,
+          "end": 88.26
+        },
+        {
+          "word": "guardanos,",
+          "start": 88.26,
+          "end": 90.74
+        }
+      ],
+      "start": 85.82,
+      "end": 90.74,
+      "confidence": 1.0,
+      "time": 85.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que sintamos tu presencia;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Que",
+          "start": 90.74,
+          "end": 91.9
+        },
+        {
+          "word": "sintamos",
+          "start": 91.9,
+          "end": 93.76
+        },
+        {
+          "word": "tu",
+          "start": 93.76,
+          "end": 94.58
+        },
+        {
+          "word": "presencia",
+          "start": 94.58,
+          "end": 96.36
+        }
+      ],
+      "start": 90.74,
+      "end": 96.36,
+      "confidence": 1.0,
+      "time": 90.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con la luz despiértanos",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Con",
+          "start": 96.36,
+          "end": 97.3
+        },
+        {
+          "word": "la",
+          "start": 97.3,
+          "end": 98.02
+        },
+        {
+          "word": "luz,",
+          "start": 98.02,
+          "end": 98.48
+        },
+        {
+          "word": "desviértanos",
+          "start": 99.3,
+          "end": 101.78
+        }
+      ],
+      "start": 96.36,
+      "end": 101.78,
+      "confidence": 0.987,
+      "time": 96.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en el sábado bendito,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 101.78,
+          "end": 102.84
+        },
+        {
+          "word": "el",
+          "start": 102.84,
+          "end": 103.5
+        },
+        {
+          "word": "sabado",
+          "start": 103.5,
+          "end": 105.3
+        },
+        {
+          "word": "bendito",
+          "start": 105.3,
+          "end": 107.12
+        }
+      ],
+      "start": 101.78,
+      "end": 107.12,
+      "confidence": 1.0,
+      "time": 101.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu preciado día, oh Dios.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 107.12,
+          "end": 108.06
+        },
+        {
+          "word": "precia",
+          "start": 108.06,
+          "end": 109.3
+        },
+        {
+          "word": "todía,",
+          "start": 109.3,
+          "end": 111.16
+        },
+        {
+          "word": "oh",
+          "start": 111.2,
+          "end": 111.46
+        },
+        {
+          "word": "Dios",
+          "start": 111.46,
+          "end": 112.4
+        }
+      ],
+      "start": 107.12,
+      "end": 112.4,
+      "confidence": 0.958,
+      "time": 107.12
+    }
+  ]
+}

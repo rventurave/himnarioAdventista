@@ -1,0 +1,943 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.874,
+  "language": "es",
+  "model": "medium",
+  "hymn": 480,
+  "source": "480 - Digno eres, oh Senor.mp3",
+  "duration": 180.27,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Digno eres, oh Señor; que te honre nuestro ser,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Digno",
+          "start": 14.32,
+          "end": 15.72
+        },
+        {
+          "word": "eres,",
+          "start": 15.72,
+          "end": 16.34
+        },
+        {
+          "word": "oh",
+          "start": 16.46,
+          "end": 16.76
+        },
+        {
+          "word": "Señor,",
+          "start": 16.76,
+          "end": 17.74
+        },
+        {
+          "word": "que",
+          "start": 18.06,
+          "end": 18.3
+        },
+        {
+          "word": "honte",
+          "start": 19.0,
+          "end": 19.48
+        },
+        {
+          "word": "nuestro",
+          "start": 19.48,
+          "end": 20.2
+        },
+        {
+          "word": "ser,",
+          "start": 20.2,
+          "end": 20.92
+        }
+      ],
+      "start": 14.32,
+      "end": 21.28,
+      "confidence": 0.876,
+      "time": 14.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que te honre siempre nuestro ser.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 21.28,
+          "end": 21.7
+        },
+        {
+          "word": "te",
+          "start": 21.7,
+          "end": 22.48
+        },
+        {
+          "word": "horde",
+          "start": 22.48,
+          "end": 23.54
+        },
+        {
+          "word": "siempre",
+          "start": 23.54,
+          "end": 24.44
+        },
+        {
+          "word": "nuestro",
+          "start": 24.44,
+          "end": 25.26
+        },
+        {
+          "word": "ser.",
+          "start": 25.26,
+          "end": 27.26
+        }
+      ],
+      "start": 21.28,
+      "end": 27.26,
+      "confidence": 0.98,
+      "time": 21.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Lleno eres de bondad, mi alma se alegra en ti,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "eres",
+          "start": 29.04,
+          "end": 29.66
+        },
+        {
+          "word": "de",
+          "start": 29.66,
+          "end": 30.18
+        },
+        {
+          "word": "mi",
+          "start": 31.46,
+          "end": 31.62
+        },
+        {
+          "word": "alma",
+          "start": 31.62,
+          "end": 32.02
+        },
+        {
+          "word": "se",
+          "start": 32.02,
+          "end": 32.82
+        },
+        {
+          "word": "ti,",
+          "start": 33.9,
+          "end": 34.42
+        }
+      ],
+      "start": 29.04,
+      "end": 34.6,
+      "confidence": 0.6,
+      "time": 29.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mi alma canta y se alegra en ti.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "mi",
+          "start": 34.6,
+          "end": 34.86
+        },
+        {
+          "word": "alma",
+          "start": 34.86,
+          "end": 35.48
+        },
+        {
+          "word": "canta",
+          "start": 35.48,
+          "end": 36.66
+        },
+        {
+          "word": "y",
+          "start": 36.66,
+          "end": 37.18
+        },
+        {
+          "word": "se",
+          "start": 37.18,
+          "end": 37.56
+        },
+        {
+          "word": "ti.",
+          "start": 38.94,
+          "end": 40.96
+        }
+      ],
+      "start": 34.6,
+      "end": 40.96,
+      "confidence": 0.75,
+      "time": 34.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "De este mundo líbrame;",
+      "words": [
+        {
+          "word": "De",
+          "start": 40.96,
+          "end": 41.6
+        },
+        {
+          "word": "este",
+          "start": 41.6,
+          "end": 42.26
+        },
+        {
+          "word": "mundo",
+          "start": 42.26,
+          "end": 44.44
+        },
+        {
+          "word": "líbrame,",
+          "start": 44.44,
+          "end": 47.58
+        }
+      ],
+      "start": 40.96,
+      "end": 47.58,
+      "confidence": 1.0,
+      "time": 40.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "lléname de fe y amor.",
+      "words": [
+        {
+          "word": "déjame",
+          "start": 50.9,
+          "end": 52.08
+        },
+        {
+          "word": "amor.",
+          "start": 52.08,
+          "end": 54.34
+        }
+      ],
+      "start": 50.9,
+      "end": 54.34,
+      "confidence": 0.354,
+      "time": 50.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Haz que pueda serte fiel.",
+      "words": [
+        {
+          "word": "Haz",
+          "start": 54.84,
+          "end": 55.3
+        },
+        {
+          "word": "que",
+          "start": 55.3,
+          "end": 55.74
+        },
+        {
+          "word": "pueda",
+          "start": 55.74,
+          "end": 57.88
+        },
+        {
+          "word": "ser",
+          "start": 57.88,
+          "end": 58.52
+        }
+      ],
+      "start": 54.84,
+      "end": 61.1,
+      "confidence": 0.788,
+      "time": 54.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "tómame, Señor mi Dios.",
+      "words": [
+        {
+          "word": "cómame,",
+          "start": 62.88,
+          "end": 64.18
+        },
+        {
+          "word": "sedor",
+          "start": 64.46,
+          "end": 65.28
+        },
+        {
+          "word": "Dios.",
+          "start": 65.6,
+          "end": 68.32
+        }
+      ],
+      "start": 62.88,
+      "end": 68.32,
+      "confidence": 0.695,
+      "time": 62.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Poderoso Creador, vida plena y luz me das,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Puebloso",
+          "start": 69.92,
+          "end": 71.04
+        },
+        {
+          "word": "creador,",
+          "start": 71.04,
+          "end": 72.16
+        },
+        {
+          "word": "vida",
+          "start": 72.26,
+          "end": 72.96
+        },
+        {
+          "word": "plena",
+          "start": 72.96,
+          "end": 73.8
+        },
+        {
+          "word": "y",
+          "start": 73.8,
+          "end": 74.18
+        },
+        {
+          "word": "luz",
+          "start": 74.18,
+          "end": 74.32
+        },
+        {
+          "word": "me",
+          "start": 74.32,
+          "end": 74.86
+        },
+        {
+          "word": "das,",
+          "start": 74.86,
+          "end": 75.42
+        }
+      ],
+      "start": 69.92,
+      "end": 75.54,
+      "confidence": 0.972,
+      "time": 69.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "vida plena y clara luz me das.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "vida",
+          "start": 75.54,
+          "end": 76.34
+        },
+        {
+          "word": "plena",
+          "start": 76.34,
+          "end": 77.68
+        },
+        {
+          "word": "y",
+          "start": 77.68,
+          "end": 78.38
+        },
+        {
+          "word": "clara",
+          "start": 78.38,
+          "end": 78.92
+        },
+        {
+          "word": "luz",
+          "start": 78.92,
+          "end": 79.36
+        },
+        {
+          "word": "me",
+          "start": 79.36,
+          "end": 79.9
+        },
+        {
+          "word": "das.",
+          "start": 79.9,
+          "end": 81.72
+        }
+      ],
+      "start": 75.54,
+      "end": 81.72,
+      "confidence": 1.0,
+      "time": 75.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y tu sangre me salvó, me redimes con amor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Y",
+          "start": 82.2,
+          "end": 82.7
+        },
+        {
+          "word": "tu",
+          "start": 82.7,
+          "end": 83.04
+        },
+        {
+          "word": "sangre",
+          "start": 83.04,
+          "end": 83.78
+        },
+        {
+          "word": "me",
+          "start": 83.78,
+          "end": 84.44
+        },
+        {
+          "word": "salvó,",
+          "start": 84.44,
+          "end": 85.62
+        },
+        {
+          "word": "me",
+          "start": 86.0,
+          "end": 86.34
+        },
+        {
+          "word": "redimes",
+          "start": 86.34,
+          "end": 87.24
+        },
+        {
+          "word": "con",
+          "start": 87.24,
+          "end": 87.76
+        },
+        {
+          "word": "amor,",
+          "start": 87.76,
+          "end": 88.54
+        }
+      ],
+      "start": 82.2,
+      "end": 88.92,
+      "confidence": 1.0,
+      "time": 82.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "me redimes con tu inmenso amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "me",
+          "start": 88.92,
+          "end": 89.42
+        },
+        {
+          "word": "redimes",
+          "start": 89.42,
+          "end": 90.96
+        },
+        {
+          "word": "con",
+          "start": 90.96,
+          "end": 91.52
+        },
+        {
+          "word": "tu",
+          "start": 91.52,
+          "end": 92.08
+        },
+        {
+          "word": "inmensa",
+          "start": 92.08,
+          "end": 93.06
+        },
+        {
+          "word": "amor.",
+          "start": 93.06,
+          "end": 95.34
+        }
+      ],
+      "start": 88.92,
+      "end": 95.34,
+      "confidence": 0.986,
+      "time": 88.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "De este mundo líbrame;",
+      "words": [
+        {
+          "word": "este",
+          "start": 96.04,
+          "end": 96.54
+        },
+        {
+          "word": "mundo",
+          "start": 96.54,
+          "end": 98.8
+        },
+        {
+          "word": "libra",
+          "start": 98.8,
+          "end": 99.84
+        }
+      ],
+      "start": 96.04,
+      "end": 102.66,
+      "confidence": 0.735,
+      "time": 96.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "lléname de fe y amor.",
+      "words": [
+        {
+          "word": "lléname",
+          "start": 102.66,
+          "end": 105.26
+        },
+        {
+          "word": "de",
+          "start": 105.26,
+          "end": 105.78
+        },
+        {
+          "word": "fe",
+          "start": 105.78,
+          "end": 106.04
+        },
+        {
+          "word": "y",
+          "start": 106.04,
+          "end": 106.4
+        },
+        {
+          "word": "amor,",
+          "start": 106.4,
+          "end": 108.62
+        }
+      ],
+      "start": 102.66,
+      "end": 108.62,
+      "confidence": 1.0,
+      "time": 102.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Haz que pueda serte fiel.",
+      "words": [
+        {
+          "word": "que",
+          "start": 109.64,
+          "end": 110.64
+        },
+        {
+          "word": "puedas",
+          "start": 110.64,
+          "end": 112.5
+        },
+        {
+          "word": "ser",
+          "start": 112.5,
+          "end": 112.92
+        },
+        {
+          "word": "fiel,",
+          "start": 112.92,
+          "end": 115.16
+        }
+      ],
+      "start": 109.64,
+      "end": 115.72,
+      "confidence": 0.776,
+      "time": 109.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "tómame, Señor mi Dios.",
+      "words": [
+        {
+          "word": "tómame,",
+          "start": 115.72,
+          "end": 118.5
+        },
+        {
+          "word": "Señor",
+          "start": 119.22,
+          "end": 119.42
+        },
+        {
+          "word": "Dios.",
+          "start": 119.92,
+          "end": 122.68
+        }
+      ],
+      "start": 115.72,
+      "end": 122.68,
+      "confidence": 0.75,
+      "time": 115.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Me contemplas con piedad, hoy me dices: \"Ven a mí\",",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Me",
+          "start": 122.68,
+          "end": 123.84
+        },
+        {
+          "word": "contemplas",
+          "start": 123.84,
+          "end": 125.06
+        },
+        {
+          "word": "confedado",
+          "start": 125.06,
+          "end": 126.82
+        },
+        {
+          "word": "me",
+          "start": 127.4,
+          "end": 127.72
+        },
+        {
+          "word": "dices",
+          "start": 127.72,
+          "end": 128.36
+        },
+        {
+          "word": "ven",
+          "start": 128.36,
+          "end": 128.9
+        },
+        {
+          "word": "a",
+          "start": 128.9,
+          "end": 129.36
+        },
+        {
+          "word": "mí,",
+          "start": 129.36,
+          "end": 129.78
+        }
+      ],
+      "start": 122.68,
+      "end": 130.22,
+      "confidence": 0.794,
+      "time": 122.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "hoy me dices: \"Hijo ven a mí\".",
+      "verse": 3,
+      "words": [
+        {
+          "word": "hoy",
+          "start": 130.22,
+          "end": 130.42
+        },
+        {
+          "word": "me",
+          "start": 130.42,
+          "end": 131.22
+        },
+        {
+          "word": "dices",
+          "start": 131.22,
+          "end": 132.44
+        },
+        {
+          "word": "hijo",
+          "start": 132.44,
+          "end": 133.3
+        },
+        {
+          "word": "ven",
+          "start": 133.3,
+          "end": 133.84
+        },
+        {
+          "word": "a",
+          "start": 133.84,
+          "end": 134.34
+        },
+        {
+          "word": "mí.",
+          "start": 134.34,
+          "end": 136.0
+        }
+      ],
+      "start": 130.22,
+      "end": 136.0,
+      "confidence": 1.0,
+      "time": 130.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "La maldad del pecador por tu amor olvidarás,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "La",
+          "start": 136.62,
+          "end": 137.16
+        },
+        {
+          "word": "maldad",
+          "start": 137.16,
+          "end": 138.1
+        },
+        {
+          "word": "del",
+          "start": 138.1,
+          "end": 138.4
+        },
+        {
+          "word": "pecador",
+          "start": 138.4,
+          "end": 139.9
+        },
+        {
+          "word": "por",
+          "start": 139.9,
+          "end": 140.42
+        },
+        {
+          "word": "tu",
+          "start": 140.42,
+          "end": 140.8
+        },
+        {
+          "word": "amor",
+          "start": 140.8,
+          "end": 141.32
+        },
+        {
+          "word": "olvidarás,",
+          "start": 141.32,
+          "end": 143.08
+        }
+      ],
+      "start": 136.62,
+      "end": 143.3,
+      "confidence": 1.0,
+      "time": 136.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "por tu amor y bondad olvidarás.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "por",
+          "start": 143.3,
+          "end": 143.74
+        },
+        {
+          "word": "tu",
+          "start": 143.74,
+          "end": 144.2
+        },
+        {
+          "word": "amor",
+          "start": 144.2,
+          "end": 145.08
+        },
+        {
+          "word": "y",
+          "start": 145.08,
+          "end": 145.54
+        },
+        {
+          "word": "bondad",
+          "start": 145.54,
+          "end": 146.22
+        },
+        {
+          "word": "olvidarás.",
+          "start": 146.22,
+          "end": 149.82
+        }
+      ],
+      "start": 143.3,
+      "end": 149.82,
+      "confidence": 1.0,
+      "time": 143.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "De este mundo líbrame;",
+      "words": [
+        {
+          "word": "De",
+          "start": 149.82,
+          "end": 150.44
+        },
+        {
+          "word": "este",
+          "start": 150.44,
+          "end": 150.92
+        },
+        {
+          "word": "mundo",
+          "start": 150.92,
+          "end": 153.18
+        },
+        {
+          "word": "libre",
+          "start": 153.18,
+          "end": 153.9
+        }
+      ],
+      "start": 149.82,
+      "end": 156.42,
+      "confidence": 0.975,
+      "time": 149.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "lléname de fe y amor.",
+      "words": [
+        {
+          "word": "déjame",
+          "start": 157.9,
+          "end": 159.3
+        },
+        {
+          "word": "de",
+          "start": 159.3,
+          "end": 160.04
+        },
+        {
+          "word": "fe",
+          "start": 160.04,
+          "end": 160.46
+        },
+        {
+          "word": "y",
+          "start": 160.46,
+          "end": 160.88
+        },
+        {
+          "word": "amor,",
+          "start": 160.88,
+          "end": 163.06
+        }
+      ],
+      "start": 157.9,
+      "end": 163.06,
+      "confidence": 0.954,
+      "time": 157.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Haz que pueda serte fiel.",
+      "words": [
+        {
+          "word": "haz",
+          "start": 163.54,
+          "end": 163.84
+        },
+        {
+          "word": "que",
+          "start": 163.84,
+          "end": 164.2
+        },
+        {
+          "word": "pueda",
+          "start": 164.2,
+          "end": 166.6
+        },
+        {
+          "word": "serte",
+          "start": 166.6,
+          "end": 167.54
+        },
+        {
+          "word": "fiel,",
+          "start": 167.54,
+          "end": 169.78
+        }
+      ],
+      "start": 163.54,
+      "end": 169.78,
+      "confidence": 1.0,
+      "time": 163.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "tómame, Señor mi Dios.",
+      "words": [
+        {
+          "word": "tómame,",
+          "start": 171.2,
+          "end": 172.6
+        },
+        {
+          "word": "Señor",
+          "start": 172.78,
+          "end": 173.78
+        },
+        {
+          "word": "mi",
+          "start": 173.78,
+          "end": 174.42
+        },
+        {
+          "word": "Dios.",
+          "start": 174.42,
+          "end": 175.7
+        }
+      ],
+      "start": 171.2,
+      "end": 175.7,
+      "confidence": 1.0,
+      "time": 171.2
+    }
+  ]
+}

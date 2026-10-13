@@ -1,0 +1,1220 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.8,
+  "language": "es",
+  "model": "medium",
+  "hymn": 358,
+  "source": "358 - En el seno de mi alma.mp3",
+  "duration": 261.69,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "En el seno de mi alma una dulce quietud",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 13.8,
+          "end": 15.2
+        },
+        {
+          "word": "el",
+          "start": 15.2,
+          "end": 15.52
+        },
+        {
+          "word": "de",
+          "start": 16.66,
+          "end": 17.22
+        },
+        {
+          "word": "mi",
+          "start": 17.22,
+          "end": 17.68
+        },
+        {
+          "word": "alma",
+          "start": 17.68,
+          "end": 18.24
+        },
+        {
+          "word": "una",
+          "start": 18.24,
+          "end": 18.88
+        },
+        {
+          "word": "dulce",
+          "start": 18.88,
+          "end": 20.08
+        },
+        {
+          "word": "quietud",
+          "start": 20.08,
+          "end": 21.56
+        }
+      ],
+      "start": 13.8,
+      "end": 21.56,
+      "confidence": 0.889,
+      "time": 13.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "se difunde embargando mi ser,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "se",
+          "start": 21.56,
+          "end": 22.26
+        },
+        {
+          "word": "difunde",
+          "start": 22.26,
+          "end": 23.64
+        },
+        {
+          "word": "mi",
+          "start": 25.7,
+          "end": 26.3
+        },
+        {
+          "word": "ser",
+          "start": 26.3,
+          "end": 28.44
+        }
+      ],
+      "start": 21.56,
+      "end": 28.44,
+      "confidence": 0.8,
+      "time": 21.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "una calma infinita que solo podrán",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Una",
+          "start": 28.44,
+          "end": 29.5
+        },
+        {
+          "word": "calma",
+          "start": 29.5,
+          "end": 30.72
+        },
+        {
+          "word": "infinita",
+          "start": 30.72,
+          "end": 32.46
+        },
+        {
+          "word": "que",
+          "start": 32.46,
+          "end": 33.18
+        },
+        {
+          "word": "solo",
+          "start": 33.18,
+          "end": 34.22
+        },
+        {
+          "word": "podrán",
+          "start": 34.22,
+          "end": 35.96
+        }
+      ],
+      "start": 28.44,
+      "end": 35.96,
+      "confidence": 1.0,
+      "time": 28.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "los amados de Dios comprender.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "los",
+          "start": 35.96,
+          "end": 36.44
+        },
+        {
+          "word": "amados",
+          "start": 36.44,
+          "end": 37.8
+        },
+        {
+          "word": "de",
+          "start": 37.8,
+          "end": 38.5
+        },
+        {
+          "word": "Dios",
+          "start": 38.5,
+          "end": 39.0
+        },
+        {
+          "word": "comprender.",
+          "start": 39.0,
+          "end": 42.86
+        }
+      ],
+      "start": 35.96,
+      "end": 42.86,
+      "confidence": 1.0,
+      "time": 35.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Paz, paz, cuán dulce paz",
+      "words": [
+        {
+          "word": "Paz,",
+          "start": 44.3,
+          "end": 45.7
+        },
+        {
+          "word": "paz,",
+          "start": 46.78,
+          "end": 47.3
+        },
+        {
+          "word": "cuando",
+          "start": 47.98,
+          "end": 48.58
+        }
+      ],
+      "start": 44.3,
+      "end": 50.22,
+      "confidence": 0.588,
+      "time": 44.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "la que da nuestro Padre eternal;",
+      "words": [
+        {
+          "word": "la",
+          "start": 50.22,
+          "end": 50.9
+        },
+        {
+          "word": "que",
+          "start": 50.9,
+          "end": 51.36
+        },
+        {
+          "word": "darme",
+          "start": 51.36,
+          "end": 52.44
+        },
+        {
+          "word": "eternar.",
+          "start": 54.52,
+          "end": 57.22
+        }
+      ],
+      "start": 50.22,
+      "end": 57.22,
+      "confidence": 0.612,
+      "time": 50.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "le ruego que inunden por siempre mi ser",
+      "words": [
+        {
+          "word": "Le",
+          "start": 57.22,
+          "end": 58.6
+        },
+        {
+          "word": "ruego",
+          "start": 58.6,
+          "end": 59.7
+        },
+        {
+          "word": "por",
+          "start": 61.3,
+          "end": 61.9
+        },
+        {
+          "word": "siempre",
+          "start": 61.9,
+          "end": 63.08
+        },
+        {
+          "word": "mi",
+          "start": 63.08,
+          "end": 63.9
+        },
+        {
+          "word": "ser,",
+          "start": 63.9,
+          "end": 64.66
+        }
+      ],
+      "start": 57.22,
+      "end": 65.24,
+      "confidence": 0.75,
+      "time": 57.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "sus ondas de amor celestial.",
+      "words": [
+        {
+          "word": "sus",
+          "start": 65.24,
+          "end": 65.72
+        },
+        {
+          "word": "hondos",
+          "start": 65.72,
+          "end": 66.96
+        },
+        {
+          "word": "de",
+          "start": 66.96,
+          "end": 67.58
+        },
+        {
+          "word": "amor",
+          "start": 67.58,
+          "end": 68.54
+        }
+      ],
+      "start": 65.24,
+      "end": 71.7,
+      "confidence": 0.767,
+      "time": 65.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Qué tesoro yo tengo en la paz que me dio!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Qué",
+          "start": 72.24,
+          "end": 72.74
+        },
+        {
+          "word": "tesoro",
+          "start": 72.74,
+          "end": 74.2
+        },
+        {
+          "word": "yo",
+          "start": 74.2,
+          "end": 74.82
+        },
+        {
+          "word": "tengo",
+          "start": 74.82,
+          "end": 75.78
+        },
+        {
+          "word": "en",
+          "start": 75.78,
+          "end": 76.14
+        },
+        {
+          "word": "la",
+          "start": 76.14,
+          "end": 76.72
+        },
+        {
+          "word": "paz",
+          "start": 76.72,
+          "end": 77.1
+        },
+        {
+          "word": "que",
+          "start": 77.1,
+          "end": 77.92
+        },
+        {
+          "word": "me",
+          "start": 77.92,
+          "end": 78.42
+        },
+        {
+          "word": "dio,",
+          "start": 78.42,
+          "end": 79.1
+        }
+      ],
+      "start": 72.24,
+      "end": 79.66,
+      "confidence": 1.0,
+      "time": 72.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En el fondo de mi alma ha de estar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 79.66,
+          "end": 79.92
+        },
+        {
+          "word": "el",
+          "start": 79.92,
+          "end": 80.38
+        },
+        {
+          "word": "fondo",
+          "start": 80.38,
+          "end": 81.1
+        },
+        {
+          "word": "de",
+          "start": 81.1,
+          "end": 81.74
+        },
+        {
+          "word": "mi",
+          "start": 81.74,
+          "end": 82.16
+        },
+        {
+          "word": "alma",
+          "start": 82.16,
+          "end": 83.12
+        },
+        {
+          "word": "de",
+          "start": 83.12,
+          "end": 83.64
+        },
+        {
+          "word": "estar.",
+          "start": 83.64,
+          "end": 85.62
+        }
+      ],
+      "start": 79.66,
+      "end": 85.62,
+      "confidence": 0.889,
+      "time": 79.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tan seguro que nadie quitarlo podrá,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tan",
+          "start": 85.62,
+          "end": 86.58
+        },
+        {
+          "word": "seguro",
+          "start": 86.58,
+          "end": 87.98
+        },
+        {
+          "word": "que",
+          "start": 87.98,
+          "end": 88.74
+        },
+        {
+          "word": "nadie",
+          "start": 88.74,
+          "end": 89.64
+        },
+        {
+          "word": "podrá,",
+          "start": 91.58,
+          "end": 93.1
+        }
+      ],
+      "start": 85.62,
+      "end": 93.26,
+      "confidence": 0.833,
+      "time": 85.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mientras vea los siglos pasar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Mientras",
+          "start": 93.26,
+          "end": 93.78
+        },
+        {
+          "word": "vea",
+          "start": 93.78,
+          "end": 95.26
+        },
+        {
+          "word": "los",
+          "start": 95.26,
+          "end": 95.92
+        },
+        {
+          "word": "siglos",
+          "start": 95.92,
+          "end": 96.74
+        },
+        {
+          "word": "pasar.",
+          "start": 96.74,
+          "end": 98.72
+        }
+      ],
+      "start": 93.26,
+      "end": 98.72,
+      "confidence": 1.0,
+      "time": 93.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Paz, paz, cuán dulce paz",
+      "words": [
+        {
+          "word": "Paz,",
+          "start": 101.9,
+          "end": 102.82
+        },
+        {
+          "word": "paz,",
+          "start": 103.86,
+          "end": 104.48
+        },
+        {
+          "word": "paz,",
+          "start": 106.64,
+          "end": 107.4
+        }
+      ],
+      "start": 101.9,
+      "end": 107.84,
+      "confidence": 0.6,
+      "time": 101.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "la que da nuestro Padre eternal;",
+      "words": [
+        {
+          "word": "La",
+          "start": 107.84,
+          "end": 108.08
+        },
+        {
+          "word": "que",
+          "start": 108.08,
+          "end": 108.38
+        },
+        {
+          "word": "da",
+          "start": 108.38,
+          "end": 109.26
+        },
+        {
+          "word": "nuestro",
+          "start": 109.26,
+          "end": 110.0
+        },
+        {
+          "word": "poder",
+          "start": 110.0,
+          "end": 111.4
+        },
+        {
+          "word": "eternal.",
+          "start": 111.4,
+          "end": 114.2
+        }
+      ],
+      "start": 107.84,
+      "end": 114.2,
+      "confidence": 0.96,
+      "time": 107.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "le ruego que inunden por siempre mi ser",
+      "words": [
+        {
+          "word": "que",
+          "start": 114.2,
+          "end": 115.4
+        },
+        {
+          "word": "ningún",
+          "start": 116.54,
+          "end": 117.56
+        },
+        {
+          "word": "siempre",
+          "start": 118.7,
+          "end": 119.8
+        },
+        {
+          "word": "mi",
+          "start": 119.8,
+          "end": 120.6
+        },
+        {
+          "word": "ser,",
+          "start": 120.6,
+          "end": 121.34
+        }
+      ],
+      "start": 114.2,
+      "end": 121.9,
+      "confidence": 0.596,
+      "time": 114.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "sus ondas de amor celestial.",
+      "words": [
+        {
+          "word": "sus",
+          "start": 121.9,
+          "end": 122.38
+        },
+        {
+          "word": "de",
+          "start": 123.44,
+          "end": 124.06
+        },
+        {
+          "word": "amor",
+          "start": 124.06,
+          "end": 124.94
+        },
+        {
+          "word": "celestial.",
+          "start": 124.94,
+          "end": 126.86
+        }
+      ],
+      "start": 121.9,
+      "end": 126.86,
+      "confidence": 0.8,
+      "time": 121.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Esta paz inefable consuelo me da,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Esta",
+          "start": 128.8,
+          "end": 129.48
+        },
+        {
+          "word": "paz",
+          "start": 131.44,
+          "end": 132.16
+        },
+        {
+          "word": "consuelo",
+          "start": 132.76,
+          "end": 134.2
+        },
+        {
+          "word": "me",
+          "start": 134.2,
+          "end": 134.84
+        },
+        {
+          "word": "da,",
+          "start": 134.84,
+          "end": 135.54
+        }
+      ],
+      "start": 128.8,
+      "end": 136.0,
+      "confidence": 0.833,
+      "time": 128.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pues descanso tan solo en Jesús;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 136.0,
+          "end": 136.12
+        },
+        {
+          "word": "descanso",
+          "start": 136.12,
+          "end": 137.5
+        },
+        {
+          "word": "tan",
+          "start": 137.5,
+          "end": 138.18
+        },
+        {
+          "word": "solo",
+          "start": 138.18,
+          "end": 138.8
+        },
+        {
+          "word": "en",
+          "start": 138.8,
+          "end": 139.48
+        },
+        {
+          "word": "Jesús,",
+          "start": 139.48,
+          "end": 141.94
+        }
+      ],
+      "start": 136.0,
+      "end": 141.94,
+      "confidence": 1.0,
+      "time": 136.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y en peligro mi alma ya nunca estará,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 141.94,
+          "end": 142.7
+        },
+        {
+          "word": "en",
+          "start": 142.7,
+          "end": 143.04
+        },
+        {
+          "word": "peligro",
+          "start": 143.04,
+          "end": 144.32
+        },
+        {
+          "word": "mi",
+          "start": 144.32,
+          "end": 145.14
+        },
+        {
+          "word": "alma",
+          "start": 145.14,
+          "end": 145.96
+        },
+        {
+          "word": "ya",
+          "start": 145.96,
+          "end": 146.62
+        },
+        {
+          "word": "nunca",
+          "start": 146.62,
+          "end": 147.4
+        },
+        {
+          "word": "estará,",
+          "start": 147.4,
+          "end": 149.3
+        }
+      ],
+      "start": 141.94,
+      "end": 149.6,
+      "confidence": 1.0,
+      "time": 141.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "porque estoy inundado en su luz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "porque",
+          "start": 149.6,
+          "end": 149.88
+        },
+        {
+          "word": "estoy",
+          "start": 149.88,
+          "end": 150.96
+        },
+        {
+          "word": "inundado",
+          "start": 150.96,
+          "end": 152.26
+        },
+        {
+          "word": "en",
+          "start": 152.26,
+          "end": 152.84
+        },
+        {
+          "word": "su",
+          "start": 152.84,
+          "end": 153.38
+        },
+        {
+          "word": "luz.",
+          "start": 153.38,
+          "end": 156.12
+        }
+      ],
+      "start": 149.6,
+      "end": 156.12,
+      "confidence": 1.0,
+      "time": 149.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Paz, paz, cuán dulce paz",
+      "words": [
+        {
+          "word": "Paz,",
+          "start": 157.82,
+          "end": 158.66
+        },
+        {
+          "word": "paz,",
+          "start": 159.64,
+          "end": 159.94
+        },
+        {
+          "word": "dulcetas,",
+          "start": 160.76,
+          "end": 162.26
+        }
+      ],
+      "start": 157.82,
+      "end": 162.72,
+      "confidence": 0.588,
+      "time": 157.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "la que da nuestro Padre eternal;",
+      "words": [
+        {
+          "word": "la",
+          "start": 162.72,
+          "end": 162.94
+        },
+        {
+          "word": "madre",
+          "start": 164.76,
+          "end": 165.86
+        },
+        {
+          "word": "eterna,",
+          "start": 165.86,
+          "end": 167.9
+        }
+      ],
+      "start": 162.72,
+      "end": 167.9,
+      "confidence": 0.47,
+      "time": 162.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "le ruego que inunden por siempre mi ser",
+      "words": [
+        {
+          "word": "Que",
+          "start": 167.9,
+          "end": 169.52
+        },
+        {
+          "word": "inunden",
+          "start": 171.62,
+          "end": 172.48
+        },
+        {
+          "word": "por",
+          "start": 172.48,
+          "end": 173.2
+        },
+        {
+          "word": "siempre",
+          "start": 173.2,
+          "end": 174.18
+        },
+        {
+          "word": "mi",
+          "start": 174.18,
+          "end": 174.84
+        },
+        {
+          "word": "ser,",
+          "start": 174.84,
+          "end": 175.72
+        }
+      ],
+      "start": 167.9,
+      "end": 176.2,
+      "confidence": 0.75,
+      "time": 167.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "sus ondas de amor celestial.",
+      "words": [
+        {
+          "word": "sus",
+          "start": 176.2,
+          "end": 176.7
+        },
+        {
+          "word": "ondas",
+          "start": 176.7,
+          "end": 177.68
+        },
+        {
+          "word": "de",
+          "start": 177.68,
+          "end": 178.22
+        },
+        {
+          "word": "amor",
+          "start": 178.22,
+          "end": 179.22
+        },
+        {
+          "word": "celestial.",
+          "start": 179.22,
+          "end": 180.98
+        }
+      ],
+      "start": 176.2,
+      "end": 180.98,
+      "confidence": 1.0,
+      "time": 176.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Alma triste, que en rudo conflicto te ves,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Alba",
+          "start": 182.96,
+          "end": 183.4
+        },
+        {
+          "word": "triste",
+          "start": 183.4,
+          "end": 184.3
+        },
+        {
+          "word": "que",
+          "start": 184.3,
+          "end": 184.84
+        },
+        {
+          "word": "ves,",
+          "start": 188.18,
+          "end": 188.82
+        }
+      ],
+      "start": 182.96,
+      "end": 189.32,
+      "confidence": 0.481,
+      "time": 182.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "sola y débil, tu senda al seguir,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "sola",
+          "start": 189.32,
+          "end": 189.5
+        },
+        {
+          "word": "y",
+          "start": 189.5,
+          "end": 190.0
+        },
+        {
+          "word": "débil",
+          "start": 190.0,
+          "end": 190.66
+        },
+        {
+          "word": "tu",
+          "start": 190.66,
+          "end": 191.14
+        },
+        {
+          "word": "a",
+          "start": 192.84,
+          "end": 192.92
+        }
+      ],
+      "start": 189.32,
+      "end": 194.78,
+      "confidence": 0.686,
+      "time": 189.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "haz de Cristo tu amigo, que fiel siempre es,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Haz",
+          "start": 194.78,
+          "end": 195.74
+        },
+        {
+          "word": "de",
+          "start": 195.74,
+          "end": 196.02
+        },
+        {
+          "word": "Cristo",
+          "start": 196.02,
+          "end": 196.96
+        },
+        {
+          "word": "tu",
+          "start": 196.96,
+          "end": 197.46
+        },
+        {
+          "word": "amigo",
+          "start": 197.46,
+          "end": 198.6
+        },
+        {
+          "word": "fiel",
+          "start": 199.34,
+          "end": 199.78
+        },
+        {
+          "word": "siempre",
+          "start": 199.78,
+          "end": 201.2
+        },
+        {
+          "word": "es,",
+          "start": 201.2,
+          "end": 201.88
+        }
+      ],
+      "start": 194.78,
+      "end": 202.14,
+      "confidence": 0.889,
+      "time": 194.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "y su paz tú podrás recibir.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 202.14,
+          "end": 202.38
+        },
+        {
+          "word": "su",
+          "start": 202.38,
+          "end": 202.64
+        },
+        {
+          "word": "paz",
+          "start": 202.64,
+          "end": 203.58
+        },
+        {
+          "word": "tu",
+          "start": 203.58,
+          "end": 204.06
+        },
+        {
+          "word": "podrás",
+          "start": 204.06,
+          "end": 205.32
+        },
+        {
+          "word": "decidir.",
+          "start": 205.32,
+          "end": 209.04
+        }
+      ],
+      "start": 202.14,
+      "end": 209.04,
+      "confidence": 0.971,
+      "time": 202.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Paz, paz, cuán dulce paz",
+      "words": [
+        {
+          "word": "Paz,",
+          "start": 210.18,
+          "end": 211.24
+        },
+        {
+          "word": "paz,",
+          "start": 212.7,
+          "end": 213.0
+        },
+        {
+          "word": "cuando",
+          "start": 213.6,
+          "end": 214.24
+        }
+      ],
+      "start": 210.18,
+      "end": 215.98,
+      "confidence": 0.588,
+      "time": 210.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "la que da nuestro Padre eternal;",
+      "words": [
+        {
+          "word": "la",
+          "start": 215.98,
+          "end": 216.56
+        },
+        {
+          "word": "nuestro",
+          "start": 218.08,
+          "end": 218.56
+        },
+        {
+          "word": "Padre",
+          "start": 218.56,
+          "end": 220.1
+        },
+        {
+          "word": "carnal,",
+          "start": 220.1,
+          "end": 222.84
+        }
+      ],
+      "start": 215.98,
+      "end": 222.84,
+      "confidence": 0.628,
+      "time": 215.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "le ruego que inunden por siempre mi ser",
+      "words": [
+        {
+          "word": "Le",
+          "start": 222.84,
+          "end": 224.44
+        },
+        {
+          "word": "duelo",
+          "start": 224.44,
+          "end": 225.5
+        },
+        {
+          "word": "por",
+          "start": 227.32,
+          "end": 227.58
+        },
+        {
+          "word": "siempre",
+          "start": 227.58,
+          "end": 228.7
+        },
+        {
+          "word": "mi",
+          "start": 228.7,
+          "end": 229.58
+        },
+        {
+          "word": "ser,",
+          "start": 229.58,
+          "end": 230.5
+        }
+      ],
+      "start": 222.84,
+      "end": 231.08,
+      "confidence": 0.72,
+      "time": 222.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "sus ondas de amor celestial.",
+      "words": [
+        {
+          "word": "su",
+          "start": 231.08,
+          "end": 231.32
+        },
+        {
+          "word": "de",
+          "start": 232.78,
+          "end": 233.26
+        },
+        {
+          "word": "amor",
+          "start": 233.26,
+          "end": 234.22
+        },
+        {
+          "word": "celestial.",
+          "start": 234.22,
+          "end": 235.68
+        }
+      ],
+      "start": 231.08,
+      "end": 235.68,
+      "confidence": 0.788,
+      "time": 231.08
+    }
+  ]
+}

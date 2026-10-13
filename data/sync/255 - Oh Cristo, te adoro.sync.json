@@ -1,0 +1,729 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.95,
+  "language": "es",
+  "model": "medium",
+  "hymn": 255,
+  "source": "255 - Oh Cristo, te adoro.mp3",
+  "duration": 234.06,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Oh Cristo, te adoro, te acepto por fe;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "O",
+          "start": 14.84,
+          "end": 16.24
+        },
+        {
+          "word": "Cristo,",
+          "start": 16.24,
+          "end": 17.64
+        },
+        {
+          "word": "te",
+          "start": 18.56,
+          "end": 18.9
+        },
+        {
+          "word": "adoro,",
+          "start": 18.9,
+          "end": 21.16
+        },
+        {
+          "word": "te",
+          "start": 21.4,
+          "end": 22.28
+        },
+        {
+          "word": "acepto",
+          "start": 22.28,
+          "end": 24.66
+        },
+        {
+          "word": "por",
+          "start": 24.66,
+          "end": 25.76
+        },
+        {
+          "word": "fe.",
+          "start": 25.76,
+          "end": 27.54
+        }
+      ],
+      "start": 14.84,
+      "end": 27.54,
+      "confidence": 0.975,
+      "time": 14.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por ti los caminos del mal ya dejé;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Por",
+          "start": 27.54,
+          "end": 28.78
+        },
+        {
+          "word": "ti",
+          "start": 28.78,
+          "end": 30.48
+        },
+        {
+          "word": "los",
+          "start": 30.48,
+          "end": 31.34
+        },
+        {
+          "word": "caminos",
+          "start": 31.34,
+          "end": 34.42
+        },
+        {
+          "word": "del",
+          "start": 34.42,
+          "end": 35.62
+        },
+        {
+          "word": "mal",
+          "start": 35.62,
+          "end": 37.14
+        },
+        {
+          "word": "ya",
+          "start": 37.14,
+          "end": 38.02
+        },
+        {
+          "word": "dejé.",
+          "start": 38.02,
+          "end": 40.94
+        }
+      ],
+      "start": 27.54,
+      "end": 40.94,
+      "confidence": 1.0,
+      "time": 27.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de gracia salvaste mi alma, Señor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "De",
+          "start": 41.24,
+          "end": 42.28
+        },
+        {
+          "word": "gracias",
+          "start": 42.28,
+          "end": 44.36
+        },
+        {
+          "word": "salvaste",
+          "start": 44.36,
+          "end": 47.52
+        },
+        {
+          "word": "mi",
+          "start": 47.52,
+          "end": 48.98
+        },
+        {
+          "word": "alma,",
+          "start": 48.98,
+          "end": 51.04
+        },
+        {
+          "word": "Señor.",
+          "start": 51.48,
+          "end": 54.0
+        }
+      ],
+      "start": 41.24,
+      "end": 54.0,
+      "confidence": 0.99,
+      "time": 41.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por esto de hinojos te rindo mi amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Por",
+          "start": 54.0,
+          "end": 55.5
+        },
+        {
+          "word": "esto",
+          "start": 55.5,
+          "end": 57.68
+        },
+        {
+          "word": "de",
+          "start": 57.68,
+          "end": 58.58
+        },
+        {
+          "word": "ojos",
+          "start": 58.58,
+          "end": 60.5
+        },
+        {
+          "word": "te",
+          "start": 60.5,
+          "end": 61.9
+        },
+        {
+          "word": "rindo",
+          "start": 61.9,
+          "end": 63.9
+        },
+        {
+          "word": "mi",
+          "start": 63.9,
+          "end": 64.76
+        },
+        {
+          "word": "amor.",
+          "start": 64.76,
+          "end": 68.16
+        }
+      ],
+      "start": 54.0,
+      "end": 68.16,
+      "confidence": 0.98,
+      "time": 54.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Me viste perdido y en condenación,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "diste",
+          "start": 69.94,
+          "end": 72.1
+        },
+        {
+          "word": "perdido",
+          "start": 72.1,
+          "end": 75.22
+        },
+        {
+          "word": "en",
+          "start": 75.22,
+          "end": 76.26
+        },
+        {
+          "word": "condenación",
+          "start": 76.26,
+          "end": 81.4
+        }
+      ],
+      "start": 69.94,
+      "end": 81.4,
+      "confidence": 0.647,
+      "time": 69.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y desde el Calvario me diste perdón;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 81.4,
+          "end": 82.8
+        },
+        {
+          "word": "desde",
+          "start": 82.8,
+          "end": 84.9
+        },
+        {
+          "word": "el",
+          "start": 84.9,
+          "end": 85.88
+        },
+        {
+          "word": "calvario",
+          "start": 85.88,
+          "end": 88.3
+        },
+        {
+          "word": "me",
+          "start": 88.3,
+          "end": 89.54
+        },
+        {
+          "word": "diste",
+          "start": 89.54,
+          "end": 91.9
+        },
+        {
+          "word": "perdón.",
+          "start": 91.9,
+          "end": 94.4
+        }
+      ],
+      "start": 81.4,
+      "end": 94.4,
+      "confidence": 1.0,
+      "time": 81.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "llevaste por mí las espinas, Señor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Llevaste",
+          "start": 96.92,
+          "end": 98.32
+        },
+        {
+          "word": "por",
+          "start": 98.32,
+          "end": 99.34
+        },
+        {
+          "word": "mí",
+          "start": 99.34,
+          "end": 100.38
+        },
+        {
+          "word": "las",
+          "start": 100.38,
+          "end": 101.9
+        },
+        {
+          "word": "espinas,",
+          "start": 101.9,
+          "end": 104.96
+        },
+        {
+          "word": "Señor,",
+          "start": 104.98,
+          "end": 107.4
+        }
+      ],
+      "start": 96.92,
+      "end": 107.4,
+      "confidence": 1.0,
+      "time": 96.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "por esto de hinojos te rindo mi amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Por",
+          "start": 107.4,
+          "end": 109.44
+        },
+        {
+          "word": "esto,",
+          "start": 109.44,
+          "end": 111.58
+        },
+        {
+          "word": "del",
+          "start": 111.58,
+          "end": 112.66
+        },
+        {
+          "word": "ojos,",
+          "start": 112.66,
+          "end": 114.48
+        },
+        {
+          "word": "te",
+          "start": 115.08,
+          "end": 115.94
+        },
+        {
+          "word": "rindo",
+          "start": 115.94,
+          "end": 117.84
+        },
+        {
+          "word": "mi",
+          "start": 117.84,
+          "end": 118.78
+        },
+        {
+          "word": "amor.",
+          "start": 118.78,
+          "end": 121.52
+        }
+      ],
+      "start": 107.4,
+      "end": 121.52,
+      "confidence": 0.965,
+      "time": 107.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En todo momento, Jesús, te amaré;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 122.24,
+          "end": 123.64
+        },
+        {
+          "word": "todo",
+          "start": 123.64,
+          "end": 125.88
+        },
+        {
+          "word": "momento",
+          "start": 125.88,
+          "end": 128.86
+        },
+        {
+          "word": "Jesús",
+          "start": 128.86,
+          "end": 131.58
+        },
+        {
+          "word": "te",
+          "start": 131.58,
+          "end": 132.56
+        },
+        {
+          "word": "amaré",
+          "start": 132.56,
+          "end": 135.2
+        }
+      ],
+      "start": 122.24,
+      "end": 135.2,
+      "confidence": 1.0,
+      "time": 122.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y mientras yo viva de ti cantaré.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 135.2,
+          "end": 136.64
+        },
+        {
+          "word": "mientras",
+          "start": 136.64,
+          "end": 139.0
+        },
+        {
+          "word": "yo",
+          "start": 139.0,
+          "end": 140.22
+        },
+        {
+          "word": "viva",
+          "start": 140.22,
+          "end": 142.1
+        },
+        {
+          "word": "de",
+          "start": 142.1,
+          "end": 143.32
+        },
+        {
+          "word": "ti",
+          "start": 143.32,
+          "end": 144.78
+        },
+        {
+          "word": "cantaré.",
+          "start": 144.78,
+          "end": 148.5
+        }
+      ],
+      "start": 135.2,
+      "end": 148.5,
+      "confidence": 1.0,
+      "time": 135.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En valle de muerte serás mi Pastor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 148.62,
+          "end": 150.02
+        },
+        {
+          "word": "vale",
+          "start": 150.02,
+          "end": 152.06
+        },
+        {
+          "word": "de",
+          "start": 152.06,
+          "end": 153.2
+        },
+        {
+          "word": "muerte",
+          "start": 153.2,
+          "end": 155.28
+        },
+        {
+          "word": "serás",
+          "start": 155.28,
+          "end": 158.16
+        },
+        {
+          "word": "mi",
+          "start": 158.16,
+          "end": 158.84
+        },
+        {
+          "word": "pastor,",
+          "start": 158.84,
+          "end": 161.22
+        }
+      ],
+      "start": 148.62,
+      "end": 161.22,
+      "confidence": 0.99,
+      "time": 148.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "por esto de hinojos te rindo mi amor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Por",
+          "start": 161.22,
+          "end": 163.22
+        },
+        {
+          "word": "esto",
+          "start": 163.22,
+          "end": 165.42
+        },
+        {
+          "word": "denojos",
+          "start": 165.42,
+          "end": 168.66
+        },
+        {
+          "word": "te",
+          "start": 168.66,
+          "end": 169.8
+        },
+        {
+          "word": "rindo",
+          "start": 169.8,
+          "end": 171.76
+        },
+        {
+          "word": "mi",
+          "start": 171.76,
+          "end": 172.72
+        },
+        {
+          "word": "amor.",
+          "start": 172.72,
+          "end": 174.68
+        }
+      ],
+      "start": 161.22,
+      "end": 174.68,
+      "confidence": 0.854,
+      "time": 161.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Después, en mansiones de luz celestial,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Después",
+          "start": 177.1,
+          "end": 178.5
+        },
+        {
+          "word": "en",
+          "start": 178.5,
+          "end": 179.9
+        },
+        {
+          "word": "mansiones",
+          "start": 179.9,
+          "end": 182.94
+        },
+        {
+          "word": "de",
+          "start": 182.94,
+          "end": 184.04
+        },
+        {
+          "word": "luz",
+          "start": 184.04,
+          "end": 185.64
+        },
+        {
+          "word": "celestial",
+          "start": 185.64,
+          "end": 187.94
+        }
+      ],
+      "start": 177.1,
+      "end": 187.94,
+      "confidence": 1.0,
+      "time": 177.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "de gozo inefable, de gloria eternal,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "De",
+          "start": 187.94,
+          "end": 190.46
+        },
+        {
+          "word": "inefable,",
+          "start": 193.04,
+          "end": 196.02
+        },
+        {
+          "word": "de",
+          "start": 196.9,
+          "end": 197.36
+        },
+        {
+          "word": "gloria",
+          "start": 197.36,
+          "end": 199.36
+        },
+        {
+          "word": "eterna.",
+          "start": 199.36,
+          "end": 201.64
+        }
+      ],
+      "start": 187.94,
+      "end": 201.64,
+      "confidence": 0.823,
+      "time": 187.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "darasme corona brillante, Señor;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Darásme",
+          "start": 206.38,
+          "end": 207.78
+        },
+        {
+          "word": "corona,",
+          "start": 207.78,
+          "end": 209.18
+        },
+        {
+          "word": "brillante",
+          "start": 210.02,
+          "end": 212.74
+        },
+        {
+          "word": "Señor.",
+          "start": 212.74,
+          "end": 214.94
+        }
+      ],
+      "start": 206.38,
+      "end": 214.94,
+      "confidence": 1.0,
+      "time": 206.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "por esto de hinojos te rindo mi amor.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Por",
+          "start": 214.94,
+          "end": 217.38
+        },
+        {
+          "word": "esto",
+          "start": 217.38,
+          "end": 219.44
+        },
+        {
+          "word": "den",
+          "start": 219.44,
+          "end": 220.2
+        },
+        {
+          "word": "ojos,",
+          "start": 220.2,
+          "end": 222.38
+        },
+        {
+          "word": "te",
+          "start": 222.78,
+          "end": 223.66
+        },
+        {
+          "word": "rindo",
+          "start": 223.66,
+          "end": 225.96
+        },
+        {
+          "word": "mi",
+          "start": 225.96,
+          "end": 226.94
+        },
+        {
+          "word": "amor.",
+          "start": 226.94,
+          "end": 228.48
+        }
+      ],
+      "start": 214.94,
+      "end": 228.48,
+      "confidence": 0.965,
+      "time": 214.94
+    }
+  ]
+}

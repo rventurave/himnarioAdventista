@@ -1,6 +1,7 @@
 import { findHymn } from "../../api/hymnsApi.js";
 import { HOME_PATH, MODES } from "../../core/constants.js";
 import { navigate } from "../../core/router.js";
+import { resetHymnBackground, setHymnBackground } from "../../services/backgroundService.js";
 import * as audioMode from "./audioMode.js";
 import * as lyricsMode from "./lyricsMode.js";
 import * as view from "./hymnView.js";
@@ -16,6 +17,7 @@ export async function openHymn(id, mode) {
   const token = ++loadToken;
 
   stopCurrentMode();
+  resetHymnBackground();
 
   view.showHymn();
   view.clearNotice();
@@ -41,6 +43,7 @@ export async function openHymn(id, mode) {
   }
 
   open = true;
+  setHymnBackground(hymn);
   view.renderNotFound(false);
   view.renderHeader(hymn);
 
@@ -60,6 +63,7 @@ export async function openHymn(id, mode) {
 export function closeHymn() {
   loadToken += 1;
   stopCurrentMode();
+  resetHymnBackground();
   open = false;
 }
 
@@ -92,7 +96,9 @@ export function prev() {
 }
 
 export function togglePlayback() {
-  if (isAudioMode()) {
+  if (currentMode === MODES.LYRICS) {
+    lyricsMode.togglePlayback();
+  } else if (isAudioMode()) {
     audioMode.togglePlayback();
   }
 }

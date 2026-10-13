@@ -1,0 +1,891 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.839,
+  "language": "es",
+  "model": "medium",
+  "hymn": 293,
+  "source": "293 - Quieres ser salvo de toda maldad.mp3",
+  "duration": 153.0,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Quieres ser salvo de toda maldad?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "quieres",
+          "start": 25.84,
+          "end": 25.84
+        },
+        {
+          "word": "ver",
+          "start": 25.84,
+          "end": 25.84
+        },
+        {
+          "word": "de",
+          "start": 25.84,
+          "end": 25.84
+        }
+      ],
+      "start": 25.84,
+      "end": 29.98,
+      "confidence": 0.467,
+      "time": 25.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tan solo hay poder en mi Jesús.",
+      "verse": 1,
+      "start": 29.98,
+      "end": 30.68,
+      "confidence": 0.0,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Quieres vivir y gozar santidad?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Quieres",
+          "start": 31.38,
+          "end": 32.34
+        },
+        {
+          "word": "vivir",
+          "start": 32.34,
+          "end": 33.24
+        },
+        {
+          "word": "y",
+          "start": 33.24,
+          "end": 33.7
+        },
+        {
+          "word": "gozar",
+          "start": 33.7,
+          "end": 34.46
+        },
+        {
+          "word": "santidad,",
+          "start": 34.46,
+          "end": 35.9
+        }
+      ],
+      "start": 30.68,
+      "end": 31.38,
+      "confidence": 1.0,
+      "time": 30.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tan solo hay poder en Jesús.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tan",
+          "start": 36.3,
+          "end": 36.54
+        },
+        {
+          "word": "solo",
+          "start": 36.54,
+          "end": 37.24
+        },
+        {
+          "word": "hay",
+          "start": 37.24,
+          "end": 37.5
+        },
+        {
+          "word": "poder",
+          "start": 37.5,
+          "end": 38.38
+        },
+        {
+          "word": "en",
+          "start": 38.38,
+          "end": 38.74
+        },
+        {
+          "word": "Jesús.",
+          "start": 38.74,
+          "end": 40.44
+        }
+      ],
+      "start": 36.3,
+      "end": 40.44,
+      "confidence": 1.0,
+      "time": 36.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Hay poder, sí, sin igual poder",
+      "words": [
+        {
+          "word": "Hay",
+          "start": 40.76,
+          "end": 41.14
+        },
+        {
+          "word": "poder,",
+          "start": 41.14,
+          "end": 42.7
+        },
+        {
+          "word": "sí,",
+          "start": 43.04,
+          "end": 43.88
+        },
+        {
+          "word": "sin",
+          "start": 44.04,
+          "end": 44.48
+        },
+        {
+          "word": "igual",
+          "start": 44.48,
+          "end": 44.78
+        },
+        {
+          "word": "poder,",
+          "start": 44.78,
+          "end": 45.66
+        }
+      ],
+      "start": 40.76,
+      "end": 46.06,
+      "confidence": 1.0,
+      "time": 40.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en Jesús, quien murió;",
+      "words": [
+        {
+          "word": "en",
+          "start": 46.06,
+          "end": 46.32
+        },
+        {
+          "word": "Jesús",
+          "start": 46.32,
+          "end": 48.4
+        },
+        {
+          "word": "murió.",
+          "start": 49.06,
+          "end": 50.0
+        }
+      ],
+      "start": 46.06,
+      "end": 50.0,
+      "confidence": 0.75,
+      "time": 46.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "hay poder, sí, sin igual poder,",
+      "words": [
+        {
+          "word": "Hay",
+          "start": 50.0,
+          "end": 51.26
+        },
+        {
+          "word": "poder,",
+          "start": 51.26,
+          "end": 52.82
+        },
+        {
+          "word": "sí,",
+          "start": 53.28,
+          "end": 54.06
+        },
+        {
+          "word": "sin",
+          "start": 54.1,
+          "end": 54.44
+        },
+        {
+          "word": "igual",
+          "start": 54.44,
+          "end": 54.96
+        },
+        {
+          "word": "poder,",
+          "start": 54.96,
+          "end": 55.86
+        }
+      ],
+      "start": 50.0,
+      "end": 56.28,
+      "confidence": 1.0,
+      "time": 50.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en la sangre que él vertió.",
+      "words": [
+        {
+          "word": "en",
+          "start": 56.28,
+          "end": 56.48
+        },
+        {
+          "word": "la",
+          "start": 56.48,
+          "end": 57.08
+        },
+        {
+          "word": "sangre",
+          "start": 57.08,
+          "end": 57.86
+        },
+        {
+          "word": "que",
+          "start": 57.86,
+          "end": 58.9
+        },
+        {
+          "word": "Él",
+          "start": 58.9,
+          "end": 59.2
+        },
+        {
+          "word": "perdió.",
+          "start": 59.2,
+          "end": 61.84
+        }
+      ],
+      "start": 56.28,
+      "end": 61.84,
+      "confidence": 0.967,
+      "time": 56.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Quieres ser libre de orgullo y pasión?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Quieres",
+          "start": 62.16,
+          "end": 63.18
+        },
+        {
+          "word": "ser",
+          "start": 63.18,
+          "end": 63.66
+        },
+        {
+          "word": "libre",
+          "start": 63.66,
+          "end": 64.4
+        },
+        {
+          "word": "de",
+          "start": 64.4,
+          "end": 64.78
+        },
+        {
+          "word": "orgullo",
+          "start": 64.78,
+          "end": 65.72
+        },
+        {
+          "word": "y",
+          "start": 65.72,
+          "end": 65.88
+        },
+        {
+          "word": "pasión,",
+          "start": 65.88,
+          "end": 66.96
+        }
+      ],
+      "start": 62.16,
+      "end": 67.32,
+      "confidence": 1.0,
+      "time": 62.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Tan solo hay poder en mi Jesús.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tan",
+          "start": 67.32,
+          "end": 67.48
+        },
+        {
+          "word": "solo",
+          "start": 67.48,
+          "end": 68.2
+        },
+        {
+          "word": "hay",
+          "start": 68.2,
+          "end": 68.48
+        },
+        {
+          "word": "poder",
+          "start": 68.48,
+          "end": 69.78
+        },
+        {
+          "word": "en",
+          "start": 69.78,
+          "end": 70.5
+        },
+        {
+          "word": "mi",
+          "start": 70.5,
+          "end": 70.96
+        },
+        {
+          "word": "Jesús.",
+          "start": 70.96,
+          "end": 72.04
+        }
+      ],
+      "start": 67.32,
+      "end": 72.04,
+      "confidence": 1.0,
+      "time": 67.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Quieres vencer toda cruel tentación?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¿Quién",
+          "start": 72.04,
+          "end": 73.26
+        },
+        {
+          "word": "tentación?",
+          "start": 75.68,
+          "end": 76.92
+        }
+      ],
+      "start": 72.04,
+      "end": 77.28,
+      "confidence": 0.36,
+      "time": 72.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Tan solo hay poder en Jesús.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tan",
+          "start": 77.28,
+          "end": 77.58
+        },
+        {
+          "word": "solo",
+          "start": 77.58,
+          "end": 78.32
+        },
+        {
+          "word": "hay",
+          "start": 78.32,
+          "end": 78.58
+        },
+        {
+          "word": "poder",
+          "start": 78.58,
+          "end": 79.4
+        },
+        {
+          "word": "en",
+          "start": 79.4,
+          "end": 79.82
+        },
+        {
+          "word": "Jesús.",
+          "start": 79.82,
+          "end": 81.5
+        }
+      ],
+      "start": 77.28,
+      "end": 81.5,
+      "confidence": 1.0,
+      "time": 77.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Hay poder, sí, sin igual poder",
+      "words": [
+        {
+          "word": "Hay",
+          "start": 81.94,
+          "end": 82.18
+        },
+        {
+          "word": "poder,",
+          "start": 82.18,
+          "end": 83.74
+        },
+        {
+          "word": "sí,",
+          "start": 84.36,
+          "end": 84.94
+        },
+        {
+          "word": "sin",
+          "start": 85.2,
+          "end": 85.44
+        },
+        {
+          "word": "igual",
+          "start": 85.44,
+          "end": 85.84
+        },
+        {
+          "word": "poder,",
+          "start": 85.84,
+          "end": 86.7
+        }
+      ],
+      "start": 81.94,
+      "end": 87.02,
+      "confidence": 1.0,
+      "time": 81.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en Jesús, quien murió;",
+      "words": [
+        {
+          "word": "en",
+          "start": 87.02,
+          "end": 87.32
+        },
+        {
+          "word": "Jesús,",
+          "start": 87.32,
+          "end": 89.08
+        },
+        {
+          "word": "quien",
+          "start": 89.5,
+          "end": 89.88
+        },
+        {
+          "word": "murió.",
+          "start": 89.88,
+          "end": 91.8
+        }
+      ],
+      "start": 87.02,
+      "end": 91.8,
+      "confidence": 1.0,
+      "time": 87.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "hay poder, sí, sin igual poder,",
+      "words": [
+        {
+          "word": "poder,",
+          "start": 92.24,
+          "end": 93.8
+        },
+        {
+          "word": "sí,",
+          "start": 94.18,
+          "end": 94.96
+        },
+        {
+          "word": "sin",
+          "start": 95.28,
+          "end": 95.48
+        },
+        {
+          "word": "igual",
+          "start": 95.48,
+          "end": 96.0
+        },
+        {
+          "word": "poder,",
+          "start": 96.0,
+          "end": 96.86
+        }
+      ],
+      "start": 92.24,
+      "end": 97.32,
+      "confidence": 0.833,
+      "time": 92.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en la sangre que él vertió.",
+      "words": [
+        {
+          "word": "en",
+          "start": 97.32,
+          "end": 97.48
+        },
+        {
+          "word": "la",
+          "start": 97.48,
+          "end": 97.82
+        },
+        {
+          "word": "sangre",
+          "start": 97.82,
+          "end": 98.96
+        },
+        {
+          "word": "que",
+          "start": 98.96,
+          "end": 100.08
+        },
+        {
+          "word": "el",
+          "start": 100.08,
+          "end": 100.26
+        },
+        {
+          "word": "perdió.",
+          "start": 100.26,
+          "end": 102.88
+        }
+      ],
+      "start": 97.32,
+      "end": 102.88,
+      "confidence": 0.967,
+      "time": 97.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¿Quieres servir a tu Rey y Señor?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Quieres",
+          "start": 103.52,
+          "end": 104.38
+        },
+        {
+          "word": "servir",
+          "start": 104.38,
+          "end": 105.3
+        },
+        {
+          "word": "a",
+          "start": 105.3,
+          "end": 105.64
+        },
+        {
+          "word": "tu",
+          "start": 105.64,
+          "end": 105.78
+        },
+        {
+          "word": "Rey,",
+          "start": 105.78,
+          "end": 106.7
+        },
+        {
+          "word": "Señor,",
+          "start": 106.7,
+          "end": 107.78
+        }
+      ],
+      "start": 103.52,
+      "end": 108.26,
+      "confidence": 0.857,
+      "time": 103.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Tan solo hay poder en mi Jesús.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tan",
+          "start": 108.26,
+          "end": 108.54
+        },
+        {
+          "word": "solo",
+          "start": 108.54,
+          "end": 109.16
+        },
+        {
+          "word": "poder",
+          "start": 109.54,
+          "end": 110.9
+        },
+        {
+          "word": "en",
+          "start": 110.9,
+          "end": 111.58
+        },
+        {
+          "word": "mi",
+          "start": 111.58,
+          "end": 112.0
+        },
+        {
+          "word": "Jesús.",
+          "start": 112.0,
+          "end": 113.1
+        }
+      ],
+      "start": 108.26,
+      "end": 113.1,
+      "confidence": 0.857,
+      "time": 108.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Ven, y ser salvo podrás en su amor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Ven",
+          "start": 113.1,
+          "end": 114.18
+        },
+        {
+          "word": "y",
+          "start": 114.18,
+          "end": 114.5
+        },
+        {
+          "word": "ser",
+          "start": 114.5,
+          "end": 114.68
+        },
+        {
+          "word": "salvo",
+          "start": 114.68,
+          "end": 115.62
+        },
+        {
+          "word": "podrás",
+          "start": 115.62,
+          "end": 116.72
+        },
+        {
+          "word": "en",
+          "start": 116.72,
+          "end": 116.94
+        },
+        {
+          "word": "su",
+          "start": 116.94,
+          "end": 117.18
+        },
+        {
+          "word": "amor,",
+          "start": 117.18,
+          "end": 118.04
+        }
+      ],
+      "start": 113.1,
+      "end": 118.42,
+      "confidence": 1.0,
+      "time": 113.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Tan solo hay poder en Jesús.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tan",
+          "start": 118.42,
+          "end": 118.68
+        },
+        {
+          "word": "solo",
+          "start": 118.68,
+          "end": 119.38
+        },
+        {
+          "word": "hay",
+          "start": 119.38,
+          "end": 119.68
+        },
+        {
+          "word": "poder",
+          "start": 119.68,
+          "end": 120.46
+        },
+        {
+          "word": "en",
+          "start": 120.46,
+          "end": 120.84
+        },
+        {
+          "word": "Jesús.",
+          "start": 120.84,
+          "end": 122.6
+        }
+      ],
+      "start": 118.42,
+      "end": 122.6,
+      "confidence": 1.0,
+      "time": 118.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Hay poder, sí, sin igual poder",
+      "words": [
+        {
+          "word": "Hay",
+          "start": 122.96,
+          "end": 123.28
+        },
+        {
+          "word": "poder,",
+          "start": 123.28,
+          "end": 124.86
+        },
+        {
+          "word": "sí,",
+          "start": 125.3,
+          "end": 126.0
+        },
+        {
+          "word": "sin",
+          "start": 126.18,
+          "end": 126.44
+        },
+        {
+          "word": "poder",
+          "start": 127.08,
+          "end": 127.64
+        }
+      ],
+      "start": 122.96,
+      "end": 127.64,
+      "confidence": 0.833,
+      "time": 122.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en Jesús, quien murió;",
+      "words": [
+        {
+          "word": "en",
+          "start": 127.64,
+          "end": 128.34
+        },
+        {
+          "word": "Jesús",
+          "start": 128.34,
+          "end": 130.46
+        },
+        {
+          "word": "quien",
+          "start": 130.46,
+          "end": 131.04
+        },
+        {
+          "word": "morió.",
+          "start": 131.04,
+          "end": 132.88
+        }
+      ],
+      "start": 127.64,
+      "end": 132.88,
+      "confidence": 0.97,
+      "time": 127.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "hay poder, sí, sin igual poder,",
+      "words": [
+        {
+          "word": "Ay,",
+          "start": 132.88,
+          "end": 133.46
+        },
+        {
+          "word": "poder,",
+          "start": 133.72,
+          "end": 134.92
+        },
+        {
+          "word": "sí,",
+          "start": 135.82,
+          "end": 136.12
+        },
+        {
+          "word": "sin",
+          "start": 136.24,
+          "end": 136.6
+        },
+        {
+          "word": "poder,",
+          "start": 137.16,
+          "end": 137.88
+        }
+      ],
+      "start": 132.88,
+      "end": 138.52,
+      "confidence": 0.813,
+      "time": 132.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en la sangre que él vertió.",
+      "words": [
+        {
+          "word": "en",
+          "start": 138.52,
+          "end": 138.52
+        },
+        {
+          "word": "la",
+          "start": 138.52,
+          "end": 139.18
+        },
+        {
+          "word": "sangre",
+          "start": 139.18,
+          "end": 140.0
+        }
+      ],
+      "start": 138.52,
+      "end": 143.26,
+      "confidence": 0.5,
+      "time": 138.52
+    }
+  ]
+}

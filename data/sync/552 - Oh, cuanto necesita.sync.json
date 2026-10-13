@@ -1,0 +1,923 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.943,
+  "language": "es",
+  "model": "medium",
+  "hymn": 552,
+  "source": "552 - Oh, cuanto necesita.mp3",
+  "duration": 162.69,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh!, cuánto necesita obreros el Señor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "O",
+          "start": 11.06,
+          "end": 12.46
+        },
+        {
+          "word": "cuanto",
+          "start": 12.46,
+          "end": 13.26
+        },
+        {
+          "word": "necesita",
+          "start": 13.26,
+          "end": 15.0
+        },
+        {
+          "word": "obreros",
+          "start": 15.0,
+          "end": 16.38
+        },
+        {
+          "word": "el",
+          "start": 16.38,
+          "end": 16.66
+        },
+        {
+          "word": "Señor,",
+          "start": 16.66,
+          "end": 17.78
+        }
+      ],
+      "start": 11.06,
+      "end": 18.42,
+      "confidence": 0.967,
+      "time": 11.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que vayan presurosos al campo de labor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 18.42,
+          "end": 18.68
+        },
+        {
+          "word": "vayan",
+          "start": 18.68,
+          "end": 19.28
+        },
+        {
+          "word": "presurosos",
+          "start": 19.28,
+          "end": 21.24
+        },
+        {
+          "word": "al",
+          "start": 21.24,
+          "end": 21.64
+        },
+        {
+          "word": "campo",
+          "start": 21.64,
+          "end": 22.46
+        },
+        {
+          "word": "de",
+          "start": 22.46,
+          "end": 23.0
+        },
+        {
+          "word": "labor.",
+          "start": 23.0,
+          "end": 24.0
+        }
+      ],
+      "start": 18.42,
+      "end": 24.0,
+      "confidence": 1.0,
+      "time": 18.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Alegre yo le digo, con todo mi valor:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "alegre",
+          "start": 24.0,
+          "end": 25.46
+        },
+        {
+          "word": "yo",
+          "start": 25.46,
+          "end": 25.94
+        },
+        {
+          "word": "le",
+          "start": 25.94,
+          "end": 26.46
+        },
+        {
+          "word": "digo,",
+          "start": 26.46,
+          "end": 27.08
+        },
+        {
+          "word": "con",
+          "start": 27.4,
+          "end": 27.84
+        },
+        {
+          "word": "todo",
+          "start": 27.84,
+          "end": 28.54
+        },
+        {
+          "word": "mi",
+          "start": 28.54,
+          "end": 28.98
+        },
+        {
+          "word": "valor,",
+          "start": 28.98,
+          "end": 30.1
+        }
+      ],
+      "start": 24.0,
+      "end": 30.78,
+      "confidence": 1.0,
+      "time": 24.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Conmigo cuenta tú, Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "conmigo",
+          "start": 30.78,
+          "end": 31.64
+        },
+        {
+          "word": "cuenta",
+          "start": 31.64,
+          "end": 32.28
+        },
+        {
+          "word": "tu",
+          "start": 32.28,
+          "end": 33.18
+        },
+        {
+          "word": "Señor.",
+          "start": 33.18,
+          "end": 36.32
+        }
+      ],
+      "start": 30.78,
+      "end": 36.32,
+      "confidence": 1.0,
+      "time": 30.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Voy, Señor; voy, Señor,",
+      "words": [
+        {
+          "word": "Voy,",
+          "start": 37.68,
+          "end": 38.14
+        },
+        {
+          "word": "Señor,",
+          "start": 38.14,
+          "end": 40.02
+        },
+        {
+          "word": "voy,",
+          "start": 40.34,
+          "end": 41.22
+        },
+        {
+          "word": "Señor,",
+          "start": 41.22,
+          "end": 42.5
+        }
+      ],
+      "start": 37.68,
+      "end": 43.04,
+      "confidence": 1.0,
+      "time": 37.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "a trabajar alegre y con fervor.",
+      "words": [
+        {
+          "word": "a",
+          "start": 43.04,
+          "end": 43.26
+        },
+        {
+          "word": "trabajar",
+          "start": 43.26,
+          "end": 44.4
+        },
+        {
+          "word": "alegre",
+          "start": 44.4,
+          "end": 45.4
+        },
+        {
+          "word": "y",
+          "start": 45.4,
+          "end": 45.7
+        },
+        {
+          "word": "con",
+          "start": 45.7,
+          "end": 46.0
+        },
+        {
+          "word": "fervor.",
+          "start": 46.0,
+          "end": 48.18
+        }
+      ],
+      "start": 43.04,
+      "end": 48.18,
+      "confidence": 1.0,
+      "time": 43.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Sí, voy, Señor, voy, Señor;",
+      "words": [
+        {
+          "word": "Si",
+          "start": 48.18,
+          "end": 49.3
+        },
+        {
+          "word": "Señor,",
+          "start": 50.72,
+          "end": 51.98
+        },
+        {
+          "word": "Señor,",
+          "start": 53.9,
+          "end": 54.82
+        }
+      ],
+      "start": 48.18,
+      "end": 55.48,
+      "confidence": 0.6,
+      "time": 48.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "conmigo cuenta tú, Señor.",
+      "words": [
+        {
+          "word": "conmigo",
+          "start": 55.48,
+          "end": 56.32
+        },
+        {
+          "word": "cuenta",
+          "start": 56.32,
+          "end": 56.96
+        },
+        {
+          "word": "tu",
+          "start": 56.96,
+          "end": 57.9
+        },
+        {
+          "word": "Señor.",
+          "start": 57.9,
+          "end": 60.6
+        }
+      ],
+      "start": 55.48,
+      "end": 60.6,
+      "confidence": 1.0,
+      "time": 55.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Ahora, en la batalla, ven, cíñeme, Señor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Ahora",
+          "start": 61.2,
+          "end": 62.22
+        },
+        {
+          "word": "en",
+          "start": 62.22,
+          "end": 62.74
+        },
+        {
+          "word": "la",
+          "start": 62.74,
+          "end": 63.0
+        },
+        {
+          "word": "batalla",
+          "start": 63.0,
+          "end": 64.22
+        },
+        {
+          "word": "venciñembre,",
+          "start": 64.22,
+          "end": 65.84
+        },
+        {
+          "word": "Señor,",
+          "start": 66.26,
+          "end": 67.04
+        }
+      ],
+      "start": 61.2,
+      "end": 67.64,
+      "confidence": 0.849,
+      "time": 61.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu célica armadura dé aliento, fe y valor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tu",
+          "start": 67.64,
+          "end": 67.8
+        },
+        {
+          "word": "sélica",
+          "start": 67.8,
+          "end": 68.74
+        },
+        {
+          "word": "armadura",
+          "start": 68.74,
+          "end": 70.14
+        },
+        {
+          "word": "de",
+          "start": 70.14,
+          "end": 70.82
+        },
+        {
+          "word": "aliento,",
+          "start": 70.82,
+          "end": 71.44
+        },
+        {
+          "word": "fe",
+          "start": 71.98,
+          "end": 71.98
+        },
+        {
+          "word": "y",
+          "start": 71.98,
+          "end": 72.0
+        },
+        {
+          "word": "valor,",
+          "start": 72.0,
+          "end": 73.2
+        }
+      ],
+      "start": 67.64,
+      "end": 73.2,
+      "confidence": 0.987,
+      "time": 67.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Para vencer las huestes del fiero tentador,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Para",
+          "start": 73.2,
+          "end": 74.36
+        },
+        {
+          "word": "vencer",
+          "start": 74.36,
+          "end": 75.08
+        },
+        {
+          "word": "las",
+          "start": 75.08,
+          "end": 75.56
+        },
+        {
+          "word": "huestes",
+          "start": 75.56,
+          "end": 76.64
+        },
+        {
+          "word": "del",
+          "start": 76.64,
+          "end": 76.98
+        },
+        {
+          "word": "fiero",
+          "start": 76.98,
+          "end": 77.72
+        },
+        {
+          "word": "tentador,",
+          "start": 77.72,
+          "end": 79.28
+        }
+      ],
+      "start": 73.2,
+      "end": 79.98,
+      "confidence": 1.0,
+      "time": 73.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "conmigo cuenta tú, Señor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "conmigo",
+          "start": 79.98,
+          "end": 80.76
+        },
+        {
+          "word": "cuenta",
+          "start": 80.76,
+          "end": 81.42
+        },
+        {
+          "word": "tu",
+          "start": 81.42,
+          "end": 82.34
+        },
+        {
+          "word": "Señor.",
+          "start": 82.34,
+          "end": 85.2
+        }
+      ],
+      "start": 79.98,
+      "end": 85.2,
+      "confidence": 1.0,
+      "time": 79.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Voy, Señor; voy, Señor,",
+      "words": [
+        {
+          "word": "Voy,",
+          "start": 87.04,
+          "end": 87.34
+        },
+        {
+          "word": "Señor,",
+          "start": 87.34,
+          "end": 89.26
+        },
+        {
+          "word": "voy,",
+          "start": 89.78,
+          "end": 90.46
+        },
+        {
+          "word": "Señor,",
+          "start": 90.46,
+          "end": 91.72
+        }
+      ],
+      "start": 87.04,
+      "end": 92.32,
+      "confidence": 1.0,
+      "time": 87.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "a trabajar alegre y con fervor.",
+      "words": [
+        {
+          "word": "a",
+          "start": 92.32,
+          "end": 92.58
+        },
+        {
+          "word": "trabajar",
+          "start": 92.58,
+          "end": 93.62
+        },
+        {
+          "word": "alegre",
+          "start": 93.62,
+          "end": 94.62
+        },
+        {
+          "word": "y",
+          "start": 94.62,
+          "end": 94.92
+        },
+        {
+          "word": "con",
+          "start": 94.92,
+          "end": 95.26
+        }
+      ],
+      "start": 92.32,
+      "end": 97.54,
+      "confidence": 0.833,
+      "time": 92.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Sí, voy, Señor, voy, Señor;",
+      "words": [
+        {
+          "word": "Sí",
+          "start": 97.54,
+          "end": 98.56
+        },
+        {
+          "word": "voy,",
+          "start": 98.56,
+          "end": 99.62
+        },
+        {
+          "word": "Señor,",
+          "start": 99.9,
+          "end": 101.3
+        },
+        {
+          "word": "voy,",
+          "start": 101.68,
+          "end": 102.74
+        },
+        {
+          "word": "Señor,",
+          "start": 102.74,
+          "end": 104.2
+        }
+      ],
+      "start": 97.54,
+      "end": 104.72,
+      "confidence": 1.0,
+      "time": 97.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "conmigo cuenta tú, Señor.",
+      "words": [
+        {
+          "word": "conmigo",
+          "start": 104.72,
+          "end": 105.52
+        },
+        {
+          "word": "cuento",
+          "start": 105.52,
+          "end": 106.28
+        },
+        {
+          "word": "tu",
+          "start": 106.66,
+          "end": 107.12
+        },
+        {
+          "word": "Señor.",
+          "start": 107.12,
+          "end": 109.62
+        }
+      ],
+      "start": 104.72,
+      "end": 109.62,
+      "confidence": 0.975,
+      "time": 104.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "La carga que soporta la pobre humanidad,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "La",
+          "start": 110.48,
+          "end": 111.0
+        },
+        {
+          "word": "carga",
+          "start": 111.0,
+          "end": 111.6
+        },
+        {
+          "word": "que",
+          "start": 111.6,
+          "end": 112.1
+        },
+        {
+          "word": "soporta",
+          "start": 112.1,
+          "end": 113.54
+        },
+        {
+          "word": "la",
+          "start": 113.54,
+          "end": 113.98
+        },
+        {
+          "word": "pobre",
+          "start": 113.98,
+          "end": 114.5
+        },
+        {
+          "word": "humanidad,",
+          "start": 114.5,
+          "end": 116.22
+        }
+      ],
+      "start": 110.48,
+      "end": 116.92,
+      "confidence": 1.0,
+      "time": 110.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "con todos mis esfuerzos yo debo aliviar;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 116.92,
+          "end": 117.12
+        },
+        {
+          "word": "todos",
+          "start": 117.12,
+          "end": 117.76
+        },
+        {
+          "word": "mis",
+          "start": 117.76,
+          "end": 118.24
+        },
+        {
+          "word": "esfuerzos",
+          "start": 118.24,
+          "end": 119.62
+        },
+        {
+          "word": "yo",
+          "start": 119.62,
+          "end": 120.12
+        },
+        {
+          "word": "debo",
+          "start": 120.12,
+          "end": 121.12
+        },
+        {
+          "word": "aliviar.",
+          "start": 121.12,
+          "end": 122.42
+        }
+      ],
+      "start": 116.92,
+      "end": 122.42,
+      "confidence": 1.0,
+      "time": 116.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "para salvar las almas, doquier me toque estar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Para",
+          "start": 122.42,
+          "end": 123.44
+        },
+        {
+          "word": "salvar",
+          "start": 123.44,
+          "end": 124.34
+        },
+        {
+          "word": "las",
+          "start": 124.34,
+          "end": 124.94
+        },
+        {
+          "word": "almas",
+          "start": 124.94,
+          "end": 125.9
+        },
+        {
+          "word": "toque",
+          "start": 126.9,
+          "end": 127.82
+        },
+        {
+          "word": "estar,",
+          "start": 127.82,
+          "end": 128.7
+        }
+      ],
+      "start": 122.42,
+      "end": 129.14,
+      "confidence": 0.75,
+      "time": 122.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "conmigo cuenta tú, Señor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "conmigo",
+          "start": 129.14,
+          "end": 130.08
+        },
+        {
+          "word": "cuenta",
+          "start": 130.08,
+          "end": 130.68
+        },
+        {
+          "word": "tu",
+          "start": 130.68,
+          "end": 131.62
+        },
+        {
+          "word": "Señor.",
+          "start": 131.62,
+          "end": 134.7
+        }
+      ],
+      "start": 129.14,
+      "end": 134.7,
+      "confidence": 1.0,
+      "time": 129.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Voy, Señor; voy, Señor,",
+      "words": [
+        {
+          "word": "Voy,",
+          "start": 136.24,
+          "end": 136.64
+        },
+        {
+          "word": "Señor,",
+          "start": 136.64,
+          "end": 138.4
+        },
+        {
+          "word": "voy,",
+          "start": 138.82,
+          "end": 139.62
+        },
+        {
+          "word": "Señor,",
+          "start": 139.62,
+          "end": 140.96
+        }
+      ],
+      "start": 136.24,
+      "end": 141.54,
+      "confidence": 1.0,
+      "time": 136.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "a trabajar alegre y con fervor.",
+      "words": [
+        {
+          "word": "a",
+          "start": 141.54,
+          "end": 141.7
+        },
+        {
+          "word": "trabajar",
+          "start": 141.7,
+          "end": 142.9
+        },
+        {
+          "word": "alegre",
+          "start": 142.9,
+          "end": 143.92
+        },
+        {
+          "word": "con",
+          "start": 143.92,
+          "end": 144.42
+        },
+        {
+          "word": "ferrón.",
+          "start": 144.42,
+          "end": 146.64
+        }
+      ],
+      "start": 141.54,
+      "end": 146.64,
+      "confidence": 0.8,
+      "time": 141.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Sí, voy, Señor, voy, Señor;",
+      "words": [
+        {
+          "word": "Si",
+          "start": 146.64,
+          "end": 147.96
+        },
+        {
+          "word": "voy,",
+          "start": 147.96,
+          "end": 148.82
+        },
+        {
+          "word": "Señor,",
+          "start": 148.82,
+          "end": 150.38
+        },
+        {
+          "word": "voy,",
+          "start": 151.2,
+          "end": 151.9
+        },
+        {
+          "word": "Señor,",
+          "start": 152.46,
+          "end": 153.38
+        }
+      ],
+      "start": 146.64,
+      "end": 153.92,
+      "confidence": 1.0,
+      "time": 146.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "conmigo cuenta tú, Señor.",
+      "words": [
+        {
+          "word": "conmigo",
+          "start": 153.92,
+          "end": 154.76
+        },
+        {
+          "word": "cuenta",
+          "start": 154.76,
+          "end": 155.52
+        },
+        {
+          "word": "tu",
+          "start": 155.52,
+          "end": 156.42
+        },
+        {
+          "word": "Señor.",
+          "start": 156.42,
+          "end": 158.28
+        }
+      ],
+      "start": 153.92,
+      "end": 158.28,
+      "confidence": 1.0,
+      "time": 153.92
+    }
+  ]
+}

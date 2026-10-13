@@ -1,0 +1,709 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.983,
+  "language": "es",
+  "model": "medium",
+  "hymn": 549,
+  "source": "549 - Ya el fin se acerca.mp3",
+  "duration": 200.15,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ya el fin se acerca de tu día santo",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ya",
+          "start": 21.96,
+          "end": 23.36
+        },
+        {
+          "word": "el",
+          "start": 23.36,
+          "end": 23.92
+        },
+        {
+          "word": "fin",
+          "start": 23.92,
+          "end": 24.76
+        },
+        {
+          "word": "se",
+          "start": 24.76,
+          "end": 25.18
+        },
+        {
+          "word": "acerca",
+          "start": 25.18,
+          "end": 27.64
+        },
+        {
+          "word": "de",
+          "start": 27.64,
+          "end": 28.32
+        },
+        {
+          "word": "tu",
+          "start": 28.32,
+          "end": 29.3
+        },
+        {
+          "word": "día",
+          "start": 29.3,
+          "end": 30.6
+        },
+        {
+          "word": "santo.",
+          "start": 30.6,
+          "end": 33.06
+        }
+      ],
+      "start": 21.96,
+      "end": 35.92,
+      "confidence": 1.0,
+      "time": 21.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "benigno acepta la oración, Señor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "acepta",
+          "start": 35.92,
+          "end": 38.48
+        },
+        {
+          "word": "la",
+          "start": 38.48,
+          "end": 39.12
+        },
+        {
+          "word": "oración,",
+          "start": 39.12,
+          "end": 40.84
+        },
+        {
+          "word": "Señor,",
+          "start": 40.84,
+          "end": 43.18
+        }
+      ],
+      "start": 35.92,
+      "end": 43.18,
+      "confidence": 0.8,
+      "time": 35.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que te ofrecemos en humilde canto",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Que",
+          "start": 43.18,
+          "end": 44.9
+        },
+        {
+          "word": "te",
+          "start": 44.9,
+          "end": 46.2
+        },
+        {
+          "word": "ofrecemos",
+          "start": 46.2,
+          "end": 49.0
+        },
+        {
+          "word": "en",
+          "start": 49.0,
+          "end": 50.42
+        },
+        {
+          "word": "humilde",
+          "start": 50.42,
+          "end": 51.8
+        },
+        {
+          "word": "canto",
+          "start": 51.8,
+          "end": 54.58
+        }
+      ],
+      "start": 43.18,
+      "end": 54.58,
+      "confidence": 1.0,
+      "time": 43.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cual sacrifico de agradable olor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cual",
+          "start": 54.58,
+          "end": 55.82
+        },
+        {
+          "word": "sacrificio",
+          "start": 55.82,
+          "end": 60.02
+        },
+        {
+          "word": "de",
+          "start": 60.02,
+          "end": 60.58
+        },
+        {
+          "word": "agradable",
+          "start": 60.58,
+          "end": 62.58
+        },
+        {
+          "word": "olor",
+          "start": 62.58,
+          "end": 65.54
+        }
+      ],
+      "start": 54.58,
+      "end": 65.54,
+      "confidence": 0.994,
+      "time": 54.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Por las mercedes a tu amor debidas",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Por",
+          "start": 65.54,
+          "end": 67.14
+        },
+        {
+          "word": "las",
+          "start": 67.14,
+          "end": 68.28
+        },
+        {
+          "word": "mercedes",
+          "start": 68.28,
+          "end": 70.92
+        },
+        {
+          "word": "a",
+          "start": 70.92,
+          "end": 71.96
+        },
+        {
+          "word": "tu",
+          "start": 71.96,
+          "end": 72.26
+        },
+        {
+          "word": "amor",
+          "start": 72.26,
+          "end": 73.58
+        },
+        {
+          "word": "de",
+          "start": 73.58,
+          "end": 74.3
+        }
+      ],
+      "start": 65.54,
+      "end": 76.38,
+      "confidence": 0.991,
+      "time": 65.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "por el descanso y plácido solaz,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "por",
+          "start": 77.64,
+          "end": 78.1
+        },
+        {
+          "word": "el",
+          "start": 78.1,
+          "end": 79.04
+        },
+        {
+          "word": "descanso",
+          "start": 79.04,
+          "end": 81.64
+        },
+        {
+          "word": "y",
+          "start": 81.64,
+          "end": 82.12
+        },
+        {
+          "word": "placido",
+          "start": 82.12,
+          "end": 84.22
+        },
+        {
+          "word": "solas,",
+          "start": 84.22,
+          "end": 87.06
+        }
+      ],
+      "start": 77.64,
+      "end": 87.06,
+      "confidence": 0.98,
+      "time": 77.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "mil gracias sean solo a ti rendidas",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Mil",
+          "start": 87.06,
+          "end": 88.44
+        },
+        {
+          "word": "gracias",
+          "start": 88.44,
+          "end": 89.78
+        },
+        {
+          "word": "sean",
+          "start": 89.78,
+          "end": 92.38
+        },
+        {
+          "word": "solo",
+          "start": 92.38,
+          "end": 93.5
+        },
+        {
+          "word": "a",
+          "start": 93.5,
+          "end": 94.08
+        },
+        {
+          "word": "ti",
+          "start": 94.08,
+          "end": 94.84
+        },
+        {
+          "word": "vendidas,",
+          "start": 94.84,
+          "end": 97.76
+        }
+      ],
+      "start": 87.06,
+      "end": 97.76,
+      "confidence": 0.989,
+      "time": 87.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Rey de los reyes, Príncipe de paz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Rey",
+          "start": 98.72,
+          "end": 99.32
+        },
+        {
+          "word": "de",
+          "start": 99.32,
+          "end": 100.3
+        },
+        {
+          "word": "los",
+          "start": 100.3,
+          "end": 101.36
+        },
+        {
+          "word": "tres",
+          "start": 101.36,
+          "end": 102.72
+        },
+        {
+          "word": "Príncipe",
+          "start": 103.38,
+          "end": 105.08
+        },
+        {
+          "word": "de",
+          "start": 105.08,
+          "end": 105.9
+        },
+        {
+          "word": "Paz.",
+          "start": 105.9,
+          "end": 108.5
+        }
+      ],
+      "start": 98.72,
+      "end": 108.5,
+      "confidence": 0.971,
+      "time": 98.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Haz que del mundo la escabrosa senda",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Haz",
+          "start": 108.5,
+          "end": 110.58
+        },
+        {
+          "word": "que",
+          "start": 110.58,
+          "end": 111.5
+        },
+        {
+          "word": "del",
+          "start": 111.5,
+          "end": 111.94
+        },
+        {
+          "word": "mundo",
+          "start": 111.94,
+          "end": 114.18
+        },
+        {
+          "word": "la",
+          "start": 114.18,
+          "end": 115.02
+        },
+        {
+          "word": "escabrosa",
+          "start": 115.02,
+          "end": 117.38
+        },
+        {
+          "word": "senda",
+          "start": 117.38,
+          "end": 119.84
+        }
+      ],
+      "start": 108.5,
+      "end": 119.84,
+      "confidence": 1.0,
+      "time": 108.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "correr podamos con seguro pie;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "correr",
+          "start": 119.84,
+          "end": 122.14
+        },
+        {
+          "word": "podamos",
+          "start": 122.14,
+          "end": 125.18
+        },
+        {
+          "word": "con",
+          "start": 125.18,
+          "end": 126.18
+        },
+        {
+          "word": "seguro",
+          "start": 126.18,
+          "end": 127.8
+        },
+        {
+          "word": "pie",
+          "start": 127.8,
+          "end": 130.0
+        }
+      ],
+      "start": 119.84,
+      "end": 130.0,
+      "confidence": 1.0,
+      "time": 119.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y en los conflictos que la duda tienda,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 130.0,
+          "end": 131.06
+        },
+        {
+          "word": "en",
+          "start": 131.06,
+          "end": 131.96
+        },
+        {
+          "word": "los",
+          "start": 131.96,
+          "end": 132.98
+        },
+        {
+          "word": "conflictos",
+          "start": 132.98,
+          "end": 135.82
+        },
+        {
+          "word": "que",
+          "start": 135.82,
+          "end": 136.5
+        },
+        {
+          "word": "la",
+          "start": 136.5,
+          "end": 137.96
+        },
+        {
+          "word": "duda",
+          "start": 137.96,
+          "end": 138.44
+        },
+        {
+          "word": "atienda",
+          "start": 138.44,
+          "end": 140.98
+        }
+      ],
+      "start": 130.0,
+      "end": 140.98,
+      "confidence": 0.994,
+      "time": 130.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu luz alumbre nuestra débil fe.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tu",
+          "start": 140.98,
+          "end": 142.56
+        },
+        {
+          "word": "luz",
+          "start": 142.56,
+          "end": 143.68
+        },
+        {
+          "word": "alumbre",
+          "start": 143.68,
+          "end": 146.5
+        },
+        {
+          "word": "nuestra",
+          "start": 146.5,
+          "end": 147.7
+        },
+        {
+          "word": "débil",
+          "start": 147.7,
+          "end": 149.28
+        },
+        {
+          "word": "fe.",
+          "start": 149.28,
+          "end": 151.2
+        }
+      ],
+      "start": 140.98,
+      "end": 151.2,
+      "confidence": 1.0,
+      "time": 140.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Este descanso de sagrada holgura",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Este",
+          "start": 155.04,
+          "end": 156.44
+        },
+        {
+          "word": "descanso",
+          "start": 156.44,
+          "end": 157.84
+        },
+        {
+          "word": "de",
+          "start": 157.84,
+          "end": 158.76
+        },
+        {
+          "word": "sagrada",
+          "start": 158.76,
+          "end": 160.34
+        },
+        {
+          "word": "olvura",
+          "start": 160.34,
+          "end": 162.2
+        }
+      ],
+      "start": 155.04,
+      "end": 162.2,
+      "confidence": 0.972,
+      "time": 155.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "es de las almas celestial festín;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "es",
+          "start": 162.82,
+          "end": 164.56
+        },
+        {
+          "word": "de",
+          "start": 164.56,
+          "end": 165.6
+        },
+        {
+          "word": "las",
+          "start": 165.6,
+          "end": 166.34
+        },
+        {
+          "word": "almas",
+          "start": 166.34,
+          "end": 168.58
+        },
+        {
+          "word": "celestial",
+          "start": 168.58,
+          "end": 170.16
+        },
+        {
+          "word": "festín.",
+          "start": 170.16,
+          "end": 173.66
+        }
+      ],
+      "start": 162.82,
+      "end": 173.66,
+      "confidence": 1.0,
+      "time": 162.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "nos anticipa la sin par ventura",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Nos",
+          "start": 173.66,
+          "end": 175.5
+        },
+        {
+          "word": "anticipa",
+          "start": 175.5,
+          "end": 179.24
+        },
+        {
+          "word": "la",
+          "start": 179.24,
+          "end": 179.88
+        },
+        {
+          "word": "sin",
+          "start": 179.88,
+          "end": 180.7
+        },
+        {
+          "word": "par",
+          "start": 180.7,
+          "end": 181.56
+        },
+        {
+          "word": "ventura",
+          "start": 181.56,
+          "end": 184.06
+        }
+      ],
+      "start": 173.66,
+      "end": 184.06,
+      "confidence": 1.0,
+      "time": 173.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "de aquel reposo que será sin fin.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "De",
+          "start": 184.06,
+          "end": 185.4
+        },
+        {
+          "word": "aquel",
+          "start": 185.4,
+          "end": 186.92
+        },
+        {
+          "word": "reposo",
+          "start": 186.92,
+          "end": 189.6
+        },
+        {
+          "word": "que",
+          "start": 189.6,
+          "end": 190.74
+        },
+        {
+          "word": "se",
+          "start": 190.74,
+          "end": 191.42
+        },
+        {
+          "word": "sin",
+          "start": 192.34,
+          "end": 193.08
+        },
+        {
+          "word": "fin.",
+          "start": 193.08,
+          "end": 196.2
+        }
+      ],
+      "start": 184.06,
+      "end": 196.2,
+      "confidence": 0.991,
+      "time": 184.06
+    }
+  ]
+}

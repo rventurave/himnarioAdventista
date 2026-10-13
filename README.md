@@ -33,13 +33,16 @@ consulta [la guía de publicación](docs/cloudflare-pages.md).
 | `/25?mode=sung` | Himno 25 en modo **Cantado** (audio cantado + letra sincronizada) |
 | `/25?mode=karaoke` | Himno 25 en modo **Karaoke** (audio instrumental + letra sincronizada) |
 
-El flujo es: elegir el modo en el selector, buscar el himno y seleccionarlo.
-La aplicación navega a `/X?mode=...` y allí carga automáticamente los datos.
+El flujo es: buscar el himno y seleccionarlo para completar su número y título
+en el buscador. Puedes elegir el modo antes de iniciar. Solo al pulsar Enter o
+el botón ▶ la aplicación navega a `/X?mode=...` e inicia el modo elegido.
 
 ## Modos
 
 - **Solo letra:** sin audio. Empieza en una pantalla de presentación (número + título)
-  que permanece hasta que pulses `→`; después navega fragmento a fragmento con `←` / `→`.
+  y avanza automáticamente con los mismos tiempos guardados de Cantado. `Espacio`
+  pausa o reanuda; `←` / `→` permiten cambiar de frase. Sin tiempos disponibles,
+  conserva la navegación manual.
 - **Cantado:** audio cantado (`mp3Route`) con tiempos LRC o estimación acústica.
 - **Karaoke:** audio instrumental (`mp3RouteInstr`) con **el mismo motor y tiempos**.
 
@@ -48,8 +51,9 @@ La aplicación navega a `/X?mode=...` y allí carga automáticamente los datos.
 Al entrar a `/X` se muestra primero una pantalla grande y centrada con el número y el
 título del himno. En **Cantado** y **Karaoke** se mantiene mientras se preparan los tiempos. El audio arranca
 automáticamente al terminar la preparación y la primera frase marca el inicio de la letra. Si el navegador bloquea el
-autoplay aparece un botón **▶ Comenzar**. En **Solo letra** la presentación es la
-"diapositiva 0" y no avanza sola: espera a que pulses `→`.
+autoplay aparece un botón **▶ Comenzar**. En **Solo letra**, un reloj interno inicia
+el avance al terminar de cargar la sincronización, sin descargar ni reproducir audio.
+La primera frase aparece con el mismo adelanto de un segundo que en Cantado.
 
 ### Reproductor oculto
 
@@ -68,7 +72,7 @@ auto-scroll y se puede hacer clic en cualquier línea para saltar a ese punto.
 | `Esc` | Salir y volver a `/` (en pantalla completa, primero la cierra) |
 | `←` / `→` | Solo letra: fragmento anterior / siguiente |
 | `←` / `→` | Cantado y Karaoke: retroceder / adelantar 5 segundos |
-| `Espacio` | Cantado y Karaoke: reproducir / pausar |
+| `Espacio` | Cantado y Karaoke: reproducir / pausar; Solo letra: pausar / reanudar el avance |
 | `L` | Cantado y Karaoke: alternar frase actual / letra completa |
 | `F` | Pantalla completa |
 
@@ -89,7 +93,6 @@ himnarioAdventista/
 ├── server.py                  # servidor local con fallback SPA
 ├── index.html                 # shell SPA (vista inicio + vista himno)
 ├── sync_lyrics.py             # proceso masivo: --all / --id / --force
-├── sync-report.json           # informe de la última ejecución masiva
 ├── tools/
 │   ├── vocal_sync.py          # motor de alineación vocal (Whisper) -> .sync.json
 │   └── requirements-sync.txt
@@ -165,6 +168,22 @@ Números de estrofa, opcional `Coro`, líneas de letra y líneas vacías como se
    por longitud vocal de cada frase y la ajusta a mínimos de energía. Puede venir
    guardada en el `.sync.json` o calcularse en el navegador. Muestra
    «Sincronización aproximada según el audio…».
+
+### Fondo propio de cada himno
+
+Cada entrada de `data/himnario-api.json` tiene un campo `backgroundImage`.
+Por defecto es `null` y se muestra el fondo actual (`src/assets/fondos/fondo2.jpg`).
+
+Para asignar una imagen, guárdala en `src/assets/fondos/himnos/` (por ejemplo,
+`001.webp`) y cambia el campo del himno correspondiente:
+
+```json
+"backgroundImage": "/src/assets/fondos/himnos/001.webp"
+```
+
+El fondo se aplica en Letra, Cantado y Karaoke. Si la imagen no carga, se conserva
+el fondo predeterminado; al volver a la portada también se restaura. Las imágenes
+se incluyen automáticamente en la compilación estática con `tools/build_pages.py`.
 
 ### Letra sincronizada (`data/letras/*.lrc`)
 
@@ -284,7 +303,8 @@ data/sync/<nombre>.sync.json
   `needsReview: true`. La web muestra entonces la advertencia.
 - `needsReview: true` también cuando la confianza vocal queda por debajo de
   `--review-threshold` (0.6), aunque los tiempos sean reales.
-- Al terminar se escribe `sync-report.json` con los totales y los IDs a revisar.
+- Al terminar se genera `sync-report.json` con los totales y los IDs a revisar.
+  Es un reporte temporal, excluido de Git; se puede eliminar o evitar con `--no-report`.
 
 Opciones: `--model {tiny,base,small,medium,large-v3}` (por defecto `medium`; `large-v3`
 es más preciso pero mucho más lento en CPU), `--device cuda`, `--workers N` (cada
@@ -319,7 +339,8 @@ Proyecto personal para uso en iglesia.
 `hymnParser.js` interpreta números de estrofa y marcadores `Coro`/`Estribillo`,
 ignorando espacios adicionales y tolerando saltos de línea distintos. Devuelve
 `verses`, `chorus` y `sequence`. El coro se inserta en memoria después de cada
-estrofa. No se modifican los TXT ni el divisor utilizado por **Solo letra**.
+estrofa. Solo letra comparte esta secuencia y sus tiempos con Cantado; el divisor
+manual se conserva como respaldo cuando no hay sincronización disponible.
 
 `lyricsTimeline.js` convierte esa secuencia en fragmentos con `type`, `verse`
 (cuando corresponde), `occurrence`, `text`, `start` y `end` en segundos.
@@ -370,6 +391,7 @@ python3 -B -m unittest discover -s tests -p 'test_*.py'
 npm install --prefix /tmp/hymn-playwright playwright
 /tmp/hymn-playwright/node_modules/.bin/playwright install chromium
 PLAYWRIGHT_MODULE=/tmp/hymn-playwright/node_modules/playwright/index.mjs node tests/browser-lyrics.mjs
+PLAYWRIGHT_MODULE=/tmp/hymn-playwright/node_modules/playwright/index.mjs node tests/browser-lyrics-auto.mjs
 ```
 
 `TEST_BASE_URL` permite usar otro puerto y `TEST_HYMNS=524` limita la prueba a un

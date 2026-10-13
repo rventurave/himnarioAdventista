@@ -1,0 +1,930 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.946,
+  "language": "es",
+  "model": "medium",
+  "hymn": 607,
+  "source": "607 - Nitido rayo por Cristo.mp3",
+  "duration": 189.0,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Nítido rayo por Cristo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "todo",
+          "start": 29.98,
+          "end": 30.7
+        }
+      ],
+      "start": 29.98,
+      "end": 30.7,
+      "confidence": 0.19,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "yo quiero siempre ser;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "yo",
+          "start": 30.7,
+          "end": 31.08
+        },
+        {
+          "word": "quiero",
+          "start": 31.08,
+          "end": 32.3
+        },
+        {
+          "word": "siempre",
+          "start": 32.3,
+          "end": 33.76
+        },
+        {
+          "word": "ser,",
+          "start": 33.76,
+          "end": 35.68
+        }
+      ],
+      "start": 30.7,
+      "end": 36.64,
+      "confidence": 1.0,
+      "time": 30.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en todo quiero agradarle,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 36.64,
+          "end": 36.8
+        },
+        {
+          "word": "todo",
+          "start": 36.8,
+          "end": 37.34
+        },
+        {
+          "word": "quiero",
+          "start": 37.34,
+          "end": 38.0
+        },
+        {
+          "word": "agradarle",
+          "start": 38.0,
+          "end": 40.2
+        }
+      ],
+      "start": 36.64,
+      "end": 40.2,
+      "confidence": 1.0,
+      "time": 36.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y hacerlo con placer.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 40.2,
+          "end": 41.02
+        },
+        {
+          "word": "hacerlo",
+          "start": 41.02,
+          "end": 42.14
+        },
+        {
+          "word": "con",
+          "start": 42.14,
+          "end": 43.16
+        },
+        {
+          "word": "placer.",
+          "start": 43.16,
+          "end": 45.48
+        }
+      ],
+      "start": 40.2,
+      "end": 45.48,
+      "confidence": 1.0,
+      "time": 40.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Un nítido rayo,",
+      "words": [
+        {
+          "word": "Un",
+          "start": 45.48,
+          "end": 47.44
+        },
+        {
+          "word": "nítido",
+          "start": 47.44,
+          "end": 48.88
+        },
+        {
+          "word": "rayo,",
+          "start": 48.88,
+          "end": 51.46
+        }
+      ],
+      "start": 45.48,
+      "end": 51.6,
+      "confidence": 1.0,
+      "time": 45.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "nítido rayo por Cristo.",
+      "words": [
+        {
+          "word": "nítido",
+          "start": 51.6,
+          "end": 52.68
+        },
+        {
+          "word": "rayo",
+          "start": 52.68,
+          "end": 53.36
+        },
+        {
+          "word": "por",
+          "start": 53.36,
+          "end": 53.88
+        },
+        {
+          "word": "Cristo,",
+          "start": 53.88,
+          "end": 55.78
+        }
+      ],
+      "start": 51.6,
+      "end": 56.28,
+      "confidence": 1.0,
+      "time": 51.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Un nítido rayo,",
+      "words": [
+        {
+          "word": "un",
+          "start": 56.28,
+          "end": 57.18
+        },
+        {
+          "word": "nítido",
+          "start": 57.18,
+          "end": 59.14
+        },
+        {
+          "word": "rayo,",
+          "start": 59.14,
+          "end": 61.72
+        }
+      ],
+      "start": 56.28,
+      "end": 61.8,
+      "confidence": 1.0,
+      "time": 56.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "nítido rayo seré.",
+      "words": [
+        {
+          "word": "nítido",
+          "start": 61.8,
+          "end": 62.98
+        },
+        {
+          "word": "rayo",
+          "start": 62.98,
+          "end": 63.96
+        },
+        {
+          "word": "seré.",
+          "start": 63.96,
+          "end": 66.94
+        }
+      ],
+      "start": 61.8,
+      "end": 66.94,
+      "confidence": 1.0,
+      "time": 61.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "A Cristo quiero acercarme",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 66.94,
+          "end": 68.84
+        },
+        {
+          "word": "Cristo",
+          "start": 68.84,
+          "end": 69.4
+        },
+        {
+          "word": "quiero",
+          "start": 69.4,
+          "end": 70.06
+        },
+        {
+          "word": "acercarme",
+          "start": 70.06,
+          "end": 72.46
+        }
+      ],
+      "start": 66.94,
+      "end": 72.46,
+      "confidence": 1.0,
+      "time": 66.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en mi temprana edad;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 72.46,
+          "end": 73.14
+        },
+        {
+          "word": "mi",
+          "start": 73.14,
+          "end": 73.82
+        },
+        {
+          "word": "temprana",
+          "start": 73.82,
+          "end": 75.1
+        },
+        {
+          "word": "edad",
+          "start": 75.1,
+          "end": 77.22
+        }
+      ],
+      "start": 72.46,
+      "end": 77.22,
+      "confidence": 1.0,
+      "time": 72.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "por siempre quiero amarlo",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Por",
+          "start": 77.22,
+          "end": 77.9
+        },
+        {
+          "word": "siempre",
+          "start": 77.9,
+          "end": 78.44
+        },
+        {
+          "word": "quiero",
+          "start": 78.44,
+          "end": 79.28
+        },
+        {
+          "word": "amarlo",
+          "start": 79.28,
+          "end": 81.18
+        }
+      ],
+      "start": 77.22,
+      "end": 81.18,
+      "confidence": 1.0,
+      "time": 77.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y hacer su voluntad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 81.18,
+          "end": 81.8
+        },
+        {
+          "word": "hacer",
+          "start": 81.8,
+          "end": 82.54
+        },
+        {
+          "word": "su",
+          "start": 82.54,
+          "end": 83.44
+        },
+        {
+          "word": "voluntad",
+          "start": 83.44,
+          "end": 85.82
+        }
+      ],
+      "start": 81.18,
+      "end": 85.82,
+      "confidence": 1.0,
+      "time": 81.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Un nítido rayo,",
+      "words": [
+        {
+          "word": "Un",
+          "start": 85.82,
+          "end": 87.38
+        },
+        {
+          "word": "nitido",
+          "start": 87.38,
+          "end": 88.78
+        },
+        {
+          "word": "rayo,",
+          "start": 88.78,
+          "end": 91.06
+        }
+      ],
+      "start": 85.82,
+      "end": 91.42,
+      "confidence": 1.0,
+      "time": 85.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "nítido rayo por Cristo.",
+      "words": [
+        {
+          "word": "nitido",
+          "start": 91.42,
+          "end": 92.32
+        },
+        {
+          "word": "rayo",
+          "start": 92.32,
+          "end": 92.94
+        },
+        {
+          "word": "por",
+          "start": 92.94,
+          "end": 93.42
+        },
+        {
+          "word": "Cristo",
+          "start": 93.42,
+          "end": 94.86
+        }
+      ],
+      "start": 91.42,
+      "end": 94.86,
+      "confidence": 1.0,
+      "time": 91.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Un nítido rayo,",
+      "words": [
+        {
+          "word": "un",
+          "start": 94.86,
+          "end": 95.78
+        },
+        {
+          "word": "nítido",
+          "start": 95.78,
+          "end": 97.76
+        }
+      ],
+      "start": 94.86,
+      "end": 99.74,
+      "confidence": 0.667,
+      "time": 94.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "nítido rayo seré.",
+      "words": [
+        {
+          "word": "nítido",
+          "start": 99.74,
+          "end": 100.94
+        },
+        {
+          "word": "seré.",
+          "start": 101.74,
+          "end": 103.86
+        }
+      ],
+      "start": 99.74,
+      "end": 103.86,
+      "confidence": 0.667,
+      "time": 99.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Nítido rayo en tinieblas",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Nítido",
+          "start": 106.04,
+          "end": 107.26
+        },
+        {
+          "word": "en",
+          "start": 107.82,
+          "end": 108.12
+        },
+        {
+          "word": "ti,",
+          "start": 108.12,
+          "end": 108.48
+        }
+      ],
+      "start": 106.04,
+      "end": 110.66,
+      "confidence": 0.735,
+      "time": 106.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "deseo siempre ser.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "deseo",
+          "start": 110.66,
+          "end": 111.84
+        },
+        {
+          "word": "siempre",
+          "start": 111.84,
+          "end": 113.04
+        },
+        {
+          "word": "ser",
+          "start": 113.04,
+          "end": 114.88
+        }
+      ],
+      "start": 110.66,
+      "end": 114.88,
+      "confidence": 1.0,
+      "time": 110.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Almas perdidas a Cristo",
+      "verse": 3,
+      "words": [
+        {
+          "word": "almas",
+          "start": 114.88,
+          "end": 115.96
+        },
+        {
+          "word": "perdidas",
+          "start": 115.96,
+          "end": 117.02
+        },
+        {
+          "word": "a",
+          "start": 117.02,
+          "end": 117.58
+        },
+        {
+          "word": "Cristo,",
+          "start": 117.58,
+          "end": 119.32
+        }
+      ],
+      "start": 114.88,
+      "end": 119.74,
+      "confidence": 1.0,
+      "time": 114.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "anhelo conducir.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "anhelo",
+          "start": 119.74,
+          "end": 120.78
+        },
+        {
+          "word": "conducir.",
+          "start": 120.78,
+          "end": 123.84
+        }
+      ],
+      "start": 119.74,
+      "end": 123.84,
+      "confidence": 1.0,
+      "time": 119.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Un nítido rayo,",
+      "words": [
+        {
+          "word": "Un",
+          "start": 123.84,
+          "end": 125.8
+        },
+        {
+          "word": "nítido",
+          "start": 125.8,
+          "end": 127.26
+        },
+        {
+          "word": "rayo,",
+          "start": 127.26,
+          "end": 129.54
+        }
+      ],
+      "start": 123.84,
+      "end": 129.76,
+      "confidence": 1.0,
+      "time": 123.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "nítido rayo por Cristo.",
+      "words": [
+        {
+          "word": "nítido",
+          "start": 129.76,
+          "end": 130.74
+        },
+        {
+          "word": "rayo",
+          "start": 130.74,
+          "end": 131.46
+        },
+        {
+          "word": "por",
+          "start": 131.46,
+          "end": 132.0
+        },
+        {
+          "word": "Cristo,",
+          "start": 132.0,
+          "end": 133.64
+        }
+      ],
+      "start": 129.76,
+      "end": 134.26,
+      "confidence": 1.0,
+      "time": 129.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Un nítido rayo,",
+      "words": [
+        {
+          "word": "un",
+          "start": 134.26,
+          "end": 135.28
+        },
+        {
+          "word": "nítido",
+          "start": 135.28,
+          "end": 136.64
+        },
+        {
+          "word": "rayo,",
+          "start": 136.64,
+          "end": 138.88
+        }
+      ],
+      "start": 134.26,
+      "end": 139.04,
+      "confidence": 1.0,
+      "time": 134.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "nítido rayo seré.",
+      "words": [
+        {
+          "word": "nítido",
+          "start": 139.04,
+          "end": 140.18
+        },
+        {
+          "word": "rayo",
+          "start": 140.18,
+          "end": 141.28
+        },
+        {
+          "word": "seré.",
+          "start": 141.28,
+          "end": 144.06
+        }
+      ],
+      "start": 139.04,
+      "end": 144.06,
+      "confidence": 1.0,
+      "time": 139.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Una mansión en el cielo",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Una",
+          "start": 144.06,
+          "end": 145.78
+        },
+        {
+          "word": "mansión",
+          "start": 145.78,
+          "end": 146.78
+        },
+        {
+          "word": "en",
+          "start": 146.78,
+          "end": 147.28
+        },
+        {
+          "word": "el",
+          "start": 147.28,
+          "end": 147.66
+        },
+        {
+          "word": "cielo",
+          "start": 147.66,
+          "end": 148.94
+        }
+      ],
+      "start": 144.06,
+      "end": 148.94,
+      "confidence": 1.0,
+      "time": 144.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "fue Cristo a preparar;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "fue",
+          "start": 148.94,
+          "end": 149.76
+        },
+        {
+          "word": "Cristo",
+          "start": 149.76,
+          "end": 150.7
+        },
+        {
+          "word": "a",
+          "start": 150.7,
+          "end": 151.56
+        },
+        {
+          "word": "preparar,",
+          "start": 151.56,
+          "end": 153.96
+        }
+      ],
+      "start": 148.94,
+      "end": 154.6,
+      "confidence": 1.0,
+      "time": 148.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "y cuando venga a buscarme",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 154.6,
+          "end": 154.72
+        },
+        {
+          "word": "cuando",
+          "start": 154.72,
+          "end": 155.34
+        },
+        {
+          "word": "venga",
+          "start": 155.34,
+          "end": 156.0
+        },
+        {
+          "word": "a",
+          "start": 156.0,
+          "end": 156.32
+        },
+        {
+          "word": "buscarme",
+          "start": 156.32,
+          "end": 158.24
+        }
+      ],
+      "start": 154.6,
+      "end": 158.24,
+      "confidence": 1.0,
+      "time": 154.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "con él iré a morar.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "con",
+          "start": 158.24,
+          "end": 158.94
+        },
+        {
+          "word": "Él",
+          "start": 158.94,
+          "end": 159.56
+        },
+        {
+          "word": "iré",
+          "start": 159.56,
+          "end": 160.4
+        },
+        {
+          "word": "a",
+          "start": 160.4,
+          "end": 160.48
+        },
+        {
+          "word": "morar.",
+          "start": 160.48,
+          "end": 162.42
+        }
+      ],
+      "start": 158.24,
+      "end": 162.42,
+      "confidence": 1.0,
+      "time": 158.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Un nítido rayo,",
+      "words": [
+        {
+          "word": "Un",
+          "start": 162.42,
+          "end": 163.88
+        },
+        {
+          "word": "nítido",
+          "start": 163.88,
+          "end": 165.18
+        },
+        {
+          "word": "rayo,",
+          "start": 165.18,
+          "end": 167.12
+        }
+      ],
+      "start": 162.42,
+      "end": 167.52,
+      "confidence": 1.0,
+      "time": 162.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "nítido rayo por Cristo.",
+      "words": [
+        {
+          "word": "nítido",
+          "start": 167.52,
+          "end": 168.42
+        },
+        {
+          "word": "rayo",
+          "start": 168.42,
+          "end": 169.08
+        },
+        {
+          "word": "por",
+          "start": 169.08,
+          "end": 169.52
+        },
+        {
+          "word": "Cristo,",
+          "start": 169.52,
+          "end": 171.08
+        }
+      ],
+      "start": 167.52,
+      "end": 171.76,
+      "confidence": 1.0,
+      "time": 167.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Un nítido rayo,",
+      "words": [
+        {
+          "word": "un",
+          "start": 171.76,
+          "end": 172.52
+        },
+        {
+          "word": "nítido",
+          "start": 172.52,
+          "end": 174.0
+        },
+        {
+          "word": "rayo,",
+          "start": 174.0,
+          "end": 176.1
+        }
+      ],
+      "start": 171.76,
+      "end": 176.26,
+      "confidence": 1.0,
+      "time": 171.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "nítido rayo seré.",
+      "words": [
+        {
+          "word": "nítido",
+          "start": 176.26,
+          "end": 177.4
+        },
+        {
+          "word": "rayo",
+          "start": 177.4,
+          "end": 178.54
+        },
+        {
+          "word": "seré.",
+          "start": 178.54,
+          "end": 181.52
+        }
+      ],
+      "start": 176.26,
+      "end": 181.52,
+      "confidence": 1.0,
+      "time": 176.26
+    }
+  ]
+}

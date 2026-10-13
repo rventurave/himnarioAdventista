@@ -1,0 +1,833 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 1.0,
+  "language": "es",
+  "model": "medium",
+  "hymn": 401,
+  "source": "401 - Eterna Roca es mi Jesus.mp3",
+  "duration": 156.03,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Eterna Roca es mi Jesús,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Eterna",
+          "start": 13.6,
+          "end": 15.0
+        },
+        {
+          "word": "roca",
+          "start": 15.0,
+          "end": 16.3
+        },
+        {
+          "word": "es",
+          "start": 16.3,
+          "end": 16.62
+        },
+        {
+          "word": "mi",
+          "start": 16.62,
+          "end": 17.12
+        },
+        {
+          "word": "Jesús,",
+          "start": 17.12,
+          "end": 18.68
+        }
+      ],
+      "start": 13.6,
+      "end": 19.2,
+      "confidence": 1.0,
+      "time": 13.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "refugio en la tempestad;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "refugio",
+          "start": 19.2,
+          "end": 20.18
+        },
+        {
+          "word": "en",
+          "start": 20.18,
+          "end": 20.58
+        },
+        {
+          "word": "la",
+          "start": 20.58,
+          "end": 21.24
+        },
+        {
+          "word": "tempestad",
+          "start": 21.24,
+          "end": 23.98
+        }
+      ],
+      "start": 19.2,
+      "end": 23.98,
+      "confidence": 1.0,
+      "time": 19.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "confianza he puesto yo en él,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Confianza",
+          "start": 23.98,
+          "end": 26.04
+        },
+        {
+          "word": "he",
+          "start": 26.04,
+          "end": 26.36
+        },
+        {
+          "word": "puesto",
+          "start": 26.36,
+          "end": 27.66
+        },
+        {
+          "word": "yo",
+          "start": 27.66,
+          "end": 28.64
+        },
+        {
+          "word": "en",
+          "start": 28.64,
+          "end": 29.48
+        },
+        {
+          "word": "él,",
+          "start": 29.48,
+          "end": 30.2
+        }
+      ],
+      "start": 23.98,
+      "end": 30.54,
+      "confidence": 1.0,
+      "time": 23.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "refugio en la tempestad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "refugio",
+          "start": 30.54,
+          "end": 31.38
+        },
+        {
+          "word": "en",
+          "start": 31.38,
+          "end": 31.84
+        },
+        {
+          "word": "la",
+          "start": 31.84,
+          "end": 32.54
+        },
+        {
+          "word": "tempestad",
+          "start": 32.54,
+          "end": 35.36
+        }
+      ],
+      "start": 30.54,
+      "end": 35.36,
+      "confidence": 1.0,
+      "time": 30.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Roca eterna, nuestra protección,",
+      "words": [
+        {
+          "word": "Roca",
+          "start": 35.36,
+          "end": 36.3
+        },
+        {
+          "word": "eterna,",
+          "start": 36.3,
+          "end": 38.24
+        },
+        {
+          "word": "nuestra",
+          "start": 38.62,
+          "end": 39.02
+        },
+        {
+          "word": "protección,",
+          "start": 39.02,
+          "end": 41.04
+        }
+      ],
+      "start": 35.36,
+      "end": 41.54,
+      "confidence": 1.0,
+      "time": 35.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "nuestra fuerza, nuestro Salvador,",
+      "words": [
+        {
+          "word": "nuestra",
+          "start": 41.54,
+          "end": 41.78
+        },
+        {
+          "word": "fuerza,",
+          "start": 41.78,
+          "end": 43.64
+        },
+        {
+          "word": "nuestro",
+          "start": 44.34,
+          "end": 44.68
+        },
+        {
+          "word": "salvador",
+          "start": 44.68,
+          "end": 46.6
+        }
+      ],
+      "start": 41.54,
+      "end": 46.6,
+      "confidence": 1.0,
+      "time": 41.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "nuestro auxilio en la tribulación,",
+      "words": [
+        {
+          "word": "Nuestro",
+          "start": 46.6,
+          "end": 47.46
+        },
+        {
+          "word": "auxilio",
+          "start": 47.46,
+          "end": 49.3
+        },
+        {
+          "word": "en",
+          "start": 49.3,
+          "end": 49.7
+        },
+        {
+          "word": "la",
+          "start": 49.7,
+          "end": 50.34
+        },
+        {
+          "word": "tribulación",
+          "start": 50.34,
+          "end": 52.58
+        }
+      ],
+      "start": 46.6,
+      "end": 52.58,
+      "confidence": 1.0,
+      "time": 46.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "consolación en el dolor.",
+      "words": [
+        {
+          "word": "Consolación",
+          "start": 52.58,
+          "end": 54.36
+        },
+        {
+          "word": "en",
+          "start": 54.36,
+          "end": 54.96
+        },
+        {
+          "word": "el",
+          "start": 54.96,
+          "end": 55.74
+        },
+        {
+          "word": "dolor",
+          "start": 55.74,
+          "end": 58.34
+        }
+      ],
+      "start": 52.58,
+      "end": 58.34,
+      "confidence": 1.0,
+      "time": 52.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Es sombra en día de calor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Es",
+          "start": 59.6,
+          "end": 60.58
+        },
+        {
+          "word": "sombra",
+          "start": 60.58,
+          "end": 61.56
+        },
+        {
+          "word": "en",
+          "start": 61.56,
+          "end": 62.02
+        },
+        {
+          "word": "día",
+          "start": 62.02,
+          "end": 63.12
+        },
+        {
+          "word": "de",
+          "start": 63.12,
+          "end": 64.12
+        },
+        {
+          "word": "calor",
+          "start": 64.12,
+          "end": 65.42
+        }
+      ],
+      "start": 59.6,
+      "end": 65.42,
+      "confidence": 1.0,
+      "time": 59.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "refugio en la tempestad;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Refugio",
+          "start": 65.42,
+          "end": 66.86
+        },
+        {
+          "word": "en",
+          "start": 66.86,
+          "end": 67.32
+        },
+        {
+          "word": "la",
+          "start": 67.32,
+          "end": 68.06
+        },
+        {
+          "word": "tempestad",
+          "start": 68.06,
+          "end": 70.94
+        }
+      ],
+      "start": 65.42,
+      "end": 70.94,
+      "confidence": 1.0,
+      "time": 65.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "defensa eterna es mi Señor",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Defensa",
+          "start": 70.94,
+          "end": 72.86
+        },
+        {
+          "word": "eterna",
+          "start": 72.86,
+          "end": 74.32
+        },
+        {
+          "word": "es",
+          "start": 74.32,
+          "end": 74.66
+        },
+        {
+          "word": "mi",
+          "start": 74.66,
+          "end": 75.32
+        },
+        {
+          "word": "Señor,",
+          "start": 75.32,
+          "end": 76.74
+        }
+      ],
+      "start": 70.94,
+      "end": 77.3,
+      "confidence": 1.0,
+      "time": 70.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "refugio en la tempestad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "refugio",
+          "start": 77.3,
+          "end": 78.16
+        },
+        {
+          "word": "en",
+          "start": 78.16,
+          "end": 78.64
+        },
+        {
+          "word": "la",
+          "start": 78.64,
+          "end": 79.38
+        },
+        {
+          "word": "tempestad",
+          "start": 79.38,
+          "end": 82.06
+        }
+      ],
+      "start": 77.3,
+      "end": 82.06,
+      "confidence": 1.0,
+      "time": 77.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Roca eterna, nuestra protección,",
+      "words": [
+        {
+          "word": "Roca",
+          "start": 82.06,
+          "end": 83.04
+        },
+        {
+          "word": "eterna",
+          "start": 83.04,
+          "end": 85.0
+        },
+        {
+          "word": "nuestra",
+          "start": 85.0,
+          "end": 85.74
+        },
+        {
+          "word": "protección,",
+          "start": 85.74,
+          "end": 87.72
+        }
+      ],
+      "start": 82.06,
+      "end": 88.28,
+      "confidence": 1.0,
+      "time": 82.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "nuestra fuerza, nuestro Salvador,",
+      "words": [
+        {
+          "word": "nuestra",
+          "start": 88.28,
+          "end": 88.52
+        },
+        {
+          "word": "fuerza",
+          "start": 88.52,
+          "end": 90.56
+        },
+        {
+          "word": "nuestro",
+          "start": 90.56,
+          "end": 91.42
+        },
+        {
+          "word": "salvador",
+          "start": 91.42,
+          "end": 93.4
+        }
+      ],
+      "start": 88.28,
+      "end": 93.4,
+      "confidence": 1.0,
+      "time": 88.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "nuestro auxilio en la tribulación,",
+      "words": [
+        {
+          "word": "Nuestro",
+          "start": 93.4,
+          "end": 94.24
+        },
+        {
+          "word": "auxilio",
+          "start": 94.24,
+          "end": 95.98
+        },
+        {
+          "word": "en",
+          "start": 95.98,
+          "end": 96.46
+        },
+        {
+          "word": "la",
+          "start": 96.46,
+          "end": 96.92
+        },
+        {
+          "word": "tribulación,",
+          "start": 96.92,
+          "end": 99.38
+        }
+      ],
+      "start": 93.4,
+      "end": 99.94,
+      "confidence": 1.0,
+      "time": 93.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "consolación en el dolor.",
+      "words": [
+        {
+          "word": "Consolación",
+          "start": 99.94,
+          "end": 101.14
+        },
+        {
+          "word": "en",
+          "start": 101.14,
+          "end": 101.74
+        },
+        {
+          "word": "el",
+          "start": 101.74,
+          "end": 102.28
+        },
+        {
+          "word": "dolor.",
+          "start": 102.28,
+          "end": 105.08
+        }
+      ],
+      "start": 99.94,
+      "end": 105.08,
+      "confidence": 1.0,
+      "time": 99.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Oh!, Roca eterna, mi Jesús,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Oh",
+          "start": 106.58,
+          "end": 107.12
+        },
+        {
+          "word": "roca",
+          "start": 107.12,
+          "end": 108.44
+        },
+        {
+          "word": "eterna,",
+          "start": 108.44,
+          "end": 109.94
+        },
+        {
+          "word": "mi",
+          "start": 110.14,
+          "end": 110.7
+        },
+        {
+          "word": "Jesús,",
+          "start": 110.7,
+          "end": 112.08
+        }
+      ],
+      "start": 106.58,
+      "end": 112.78,
+      "confidence": 1.0,
+      "time": 106.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "refugio en la tempestad,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Refugio",
+          "start": 112.78,
+          "end": 113.62
+        },
+        {
+          "word": "en",
+          "start": 113.62,
+          "end": 114.1
+        },
+        {
+          "word": "la",
+          "start": 114.1,
+          "end": 114.76
+        },
+        {
+          "word": "tempestad,",
+          "start": 114.76,
+          "end": 117.5
+        }
+      ],
+      "start": 112.78,
+      "end": 117.5,
+      "confidence": 1.0,
+      "time": 112.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "sé tú mi guía, fuerza y luz,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Sé",
+          "start": 117.5,
+          "end": 118.42
+        },
+        {
+          "word": "tu",
+          "start": 118.42,
+          "end": 119.12
+        },
+        {
+          "word": "mi",
+          "start": 119.12,
+          "end": 119.92
+        },
+        {
+          "word": "guía,",
+          "start": 119.92,
+          "end": 121.24
+        },
+        {
+          "word": "fuerza",
+          "start": 121.32,
+          "end": 122.16
+        },
+        {
+          "word": "y",
+          "start": 122.16,
+          "end": 122.8
+        },
+        {
+          "word": "luz,",
+          "start": 122.8,
+          "end": 123.56
+        }
+      ],
+      "start": 117.5,
+      "end": 124.02,
+      "confidence": 1.0,
+      "time": 117.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "refugio en la tempestad.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "refugio",
+          "start": 124.02,
+          "end": 124.94
+        },
+        {
+          "word": "en",
+          "start": 124.94,
+          "end": 125.34
+        },
+        {
+          "word": "la",
+          "start": 125.34,
+          "end": 126.08
+        },
+        {
+          "word": "tempestad.",
+          "start": 126.08,
+          "end": 128.88
+        }
+      ],
+      "start": 124.02,
+      "end": 128.88,
+      "confidence": 1.0,
+      "time": 124.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Roca eterna, nuestra protección,",
+      "words": [
+        {
+          "word": "Roca",
+          "start": 129.12,
+          "end": 129.92
+        },
+        {
+          "word": "eterna,",
+          "start": 129.92,
+          "end": 131.74
+        },
+        {
+          "word": "nuestra",
+          "start": 132.2,
+          "end": 132.58
+        },
+        {
+          "word": "protección,",
+          "start": 132.58,
+          "end": 134.46
+        }
+      ],
+      "start": 129.12,
+      "end": 134.96,
+      "confidence": 1.0,
+      "time": 129.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "nuestra fuerza, nuestro Salvador,",
+      "words": [
+        {
+          "word": "nuestra",
+          "start": 134.96,
+          "end": 135.28
+        },
+        {
+          "word": "fuerza,",
+          "start": 135.28,
+          "end": 137.14
+        },
+        {
+          "word": "nuestro",
+          "start": 137.86,
+          "end": 138.18
+        },
+        {
+          "word": "salvador,",
+          "start": 138.18,
+          "end": 140.08
+        }
+      ],
+      "start": 134.96,
+      "end": 140.08,
+      "confidence": 1.0,
+      "time": 134.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "nuestro auxilio en la tribulación,",
+      "words": [
+        {
+          "word": "Nuestro",
+          "start": 140.08,
+          "end": 141.02
+        },
+        {
+          "word": "auxilio",
+          "start": 141.02,
+          "end": 142.88
+        },
+        {
+          "word": "en",
+          "start": 142.88,
+          "end": 143.22
+        },
+        {
+          "word": "la",
+          "start": 143.22,
+          "end": 143.72
+        },
+        {
+          "word": "tribulación,",
+          "start": 143.72,
+          "end": 146.18
+        }
+      ],
+      "start": 140.08,
+      "end": 146.76,
+      "confidence": 1.0,
+      "time": 140.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "consolación en el dolor.",
+      "words": [
+        {
+          "word": "Consolación",
+          "start": 146.76,
+          "end": 148.12
+        },
+        {
+          "word": "en",
+          "start": 148.12,
+          "end": 149.06
+        },
+        {
+          "word": "el",
+          "start": 149.06,
+          "end": 149.7
+        },
+        {
+          "word": "dolor.",
+          "start": 149.7,
+          "end": 150.82
+        }
+      ],
+      "start": 146.76,
+      "end": 150.82,
+      "confidence": 1.0,
+      "time": 146.76
+    }
+  ]
+}

@@ -1,0 +1,758 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.904,
+  "language": "es",
+  "model": "medium",
+  "hymn": 606,
+  "source": "606 - Llama Jesus, el Buen Pastor.mp3",
+  "duration": 157.94,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Llama Jesús, el Buen Pastor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Llaman",
+          "start": 11.46,
+          "end": 12.86
+        },
+        {
+          "word": "el",
+          "start": 14.34,
+          "end": 15.04
+        },
+        {
+          "word": "pastor,",
+          "start": 15.04,
+          "end": 16.66
+        }
+      ],
+      "start": 11.46,
+      "end": 17.08,
+      "confidence": 0.588,
+      "time": 11.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a los corderos con amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 17.08,
+          "end": 17.9
+        },
+        {
+          "word": "los",
+          "start": 17.9,
+          "end": 18.36
+        },
+        {
+          "word": "cordinos",
+          "start": 18.36,
+          "end": 19.82
+        },
+        {
+          "word": "con",
+          "start": 19.82,
+          "end": 20.68
+        },
+        {
+          "word": "amor,",
+          "start": 20.68,
+          "end": 22.38
+        }
+      ],
+      "start": 17.08,
+      "end": 23.18,
+      "confidence": 0.97,
+      "time": 17.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tantas ovejas lejos van,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tantas",
+          "start": 23.18,
+          "end": 24.06
+        },
+        {
+          "word": "ovejas",
+          "start": 24.06,
+          "end": 25.58
+        }
+      ],
+      "start": 23.18,
+      "end": 28.24,
+      "confidence": 0.5,
+      "time": 23.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de su redil vagando están.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 28.24,
+          "end": 29.18
+        },
+        {
+          "word": "su",
+          "start": 29.18,
+          "end": 29.62
+        },
+        {
+          "word": "estar.",
+          "start": 32.56,
+          "end": 33.68
+        }
+      ],
+      "start": 28.24,
+      "end": 33.68,
+      "confidence": 0.576,
+      "time": 28.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Búscalos, llámalos,",
+      "words": [
+        {
+          "word": "Búscalos,",
+          "start": 36.72,
+          "end": 38.12
+        },
+        {
+          "word": "llámalos,",
+          "start": 38.12,
+          "end": 39.52
+        }
+      ],
+      "start": 36.72,
+      "end": 39.52,
+      "confidence": 1.0,
+      "time": 36.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "los niñitos trae al Salvador.",
+      "words": [
+        {
+          "word": "los",
+          "start": 40.0,
+          "end": 40.7
+        },
+        {
+          "word": "niñitos",
+          "start": 40.7,
+          "end": 41.82
+        },
+        {
+          "word": "trae",
+          "start": 41.82,
+          "end": 42.5
+        },
+        {
+          "word": "al",
+          "start": 42.5,
+          "end": 43.0
+        },
+        {
+          "word": "Salvador.",
+          "start": 43.0,
+          "end": 44.9
+        }
+      ],
+      "start": 40.0,
+      "end": 44.9,
+      "confidence": 1.0,
+      "time": 40.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Búscalos, llámalos,",
+      "words": [
+        {
+          "word": "Búscalos,",
+          "start": 47.88,
+          "end": 49.28
+        },
+        {
+          "word": "llámalos,",
+          "start": 49.28,
+          "end": 50.68
+        }
+      ],
+      "start": 47.88,
+      "end": 50.68,
+      "confidence": 1.0,
+      "time": 47.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "los niñitos trae a Cristo.",
+      "words": [
+        {
+          "word": "los",
+          "start": 51.22,
+          "end": 51.92
+        },
+        {
+          "word": "niñitos",
+          "start": 51.92,
+          "end": 53.08
+        },
+        {
+          "word": "trae",
+          "start": 53.08,
+          "end": 53.8
+        },
+        {
+          "word": "a",
+          "start": 53.8,
+          "end": 54.2
+        },
+        {
+          "word": "Cristo.",
+          "start": 54.2,
+          "end": 55.74
+        }
+      ],
+      "start": 51.22,
+      "end": 55.74,
+      "confidence": 1.0,
+      "time": 51.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Quién al Pastor ayudará",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Quien",
+          "start": 58.24,
+          "end": 59.02
+        },
+        {
+          "word": "al",
+          "start": 59.02,
+          "end": 59.36
+        },
+        {
+          "word": "pastor",
+          "start": 59.36,
+          "end": 60.24
+        },
+        {
+          "word": "ayudará,",
+          "start": 60.24,
+          "end": 63.36
+        }
+      ],
+      "start": 58.24,
+      "end": 63.86,
+      "confidence": 1.0,
+      "time": 58.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y a los corderos buscará?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 63.86,
+          "end": 64.28
+        },
+        {
+          "word": "a",
+          "start": 64.28,
+          "end": 64.62
+        },
+        {
+          "word": "los",
+          "start": 64.62,
+          "end": 65.04
+        },
+        {
+          "word": "ordenos",
+          "start": 65.04,
+          "end": 66.86
+        },
+        {
+          "word": "buscará,",
+          "start": 66.86,
+          "end": 69.0
+        }
+      ],
+      "start": 63.86,
+      "end": 69.0,
+      "confidence": 0.976,
+      "time": 63.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Quién al redil los traerá,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Quien",
+          "start": 69.56,
+          "end": 70.36
+        },
+        {
+          "word": "al",
+          "start": 70.36,
+          "end": 70.68
+        },
+        {
+          "word": "predil",
+          "start": 70.68,
+          "end": 71.72
+        },
+        {
+          "word": "nos",
+          "start": 71.72,
+          "end": 72.52
+        },
+        {
+          "word": "traerá,",
+          "start": 72.52,
+          "end": 74.66
+        }
+      ],
+      "start": 69.56,
+      "end": 75.5,
+      "confidence": 0.949,
+      "time": 69.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "do protegidos los tendrá?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "don",
+          "start": 75.5,
+          "end": 75.8
+        },
+        {
+          "word": "protegido",
+          "start": 75.8,
+          "end": 77.86
+        },
+        {
+          "word": "nos",
+          "start": 77.86,
+          "end": 78.98
+        },
+        {
+          "word": "tendrá.",
+          "start": 78.98,
+          "end": 80.4
+        }
+      ],
+      "start": 75.5,
+      "end": 80.4,
+      "confidence": 0.905,
+      "time": 75.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Búscalos, llámalos,",
+      "words": [
+        {
+          "word": "Búscalos,",
+          "start": 83.34,
+          "end": 84.74
+        },
+        {
+          "word": "llámalos,",
+          "start": 84.74,
+          "end": 86.14
+        }
+      ],
+      "start": 83.34,
+      "end": 86.66,
+      "confidence": 1.0,
+      "time": 83.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "los niñitos trae al Salvador.",
+      "words": [
+        {
+          "word": "los",
+          "start": 86.66,
+          "end": 87.3
+        },
+        {
+          "word": "niñitos",
+          "start": 87.3,
+          "end": 88.46
+        },
+        {
+          "word": "trae",
+          "start": 88.46,
+          "end": 89.16
+        },
+        {
+          "word": "a",
+          "start": 89.16,
+          "end": 89.62
+        },
+        {
+          "word": "Salvador.",
+          "start": 89.62,
+          "end": 91.56
+        }
+      ],
+      "start": 86.66,
+      "end": 91.56,
+      "confidence": 0.96,
+      "time": 86.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Búscalos, llámalos,",
+      "words": [
+        {
+          "word": "Búscalos,",
+          "start": 94.5,
+          "end": 95.9
+        },
+        {
+          "word": "llámalos,",
+          "start": 95.9,
+          "end": 97.3
+        }
+      ],
+      "start": 94.5,
+      "end": 97.84,
+      "confidence": 1.0,
+      "time": 94.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "los niñitos trae a Cristo.",
+      "words": [
+        {
+          "word": "los",
+          "start": 97.84,
+          "end": 98.52
+        },
+        {
+          "word": "niñitos",
+          "start": 98.52,
+          "end": 99.7
+        },
+        {
+          "word": "trae",
+          "start": 99.7,
+          "end": 100.42
+        },
+        {
+          "word": "a",
+          "start": 100.42,
+          "end": 100.74
+        },
+        {
+          "word": "Cristo.",
+          "start": 100.74,
+          "end": 103.32
+        }
+      ],
+      "start": 97.84,
+      "end": 103.32,
+      "confidence": 1.0,
+      "time": 97.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Por el desierto lejos van,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Por",
+          "start": 103.32,
+          "end": 105.58
+        },
+        {
+          "word": "el",
+          "start": 105.58,
+          "end": 106.04
+        },
+        {
+          "word": "desierto",
+          "start": 106.04,
+          "end": 107.38
+        },
+        {
+          "word": "lejos",
+          "start": 107.38,
+          "end": 108.86
+        },
+        {
+          "word": "van,",
+          "start": 108.86,
+          "end": 109.8
+        }
+      ],
+      "start": 103.32,
+      "end": 110.34,
+      "confidence": 1.0,
+      "time": 103.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y en el frío errando están.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 110.34,
+          "end": 111.2
+        },
+        {
+          "word": "en",
+          "start": 111.2,
+          "end": 111.62
+        },
+        {
+          "word": "el",
+          "start": 111.62,
+          "end": 111.98
+        },
+        {
+          "word": "frío",
+          "start": 111.98,
+          "end": 112.74
+        },
+        {
+          "word": "errando",
+          "start": 112.74,
+          "end": 114.18
+        },
+        {
+          "word": "están,",
+          "start": 114.18,
+          "end": 115.42
+        }
+      ],
+      "start": 110.34,
+      "end": 116.04,
+      "confidence": 1.0,
+      "time": 110.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Pues, el Señor te dice a ti:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 116.04,
+          "end": 116.76
+        },
+        {
+          "word": "el",
+          "start": 116.76,
+          "end": 117.18
+        },
+        {
+          "word": "Señor",
+          "start": 117.18,
+          "end": 117.92
+        },
+        {
+          "word": "te",
+          "start": 117.92,
+          "end": 118.84
+        },
+        {
+          "word": "dice",
+          "start": 118.84,
+          "end": 119.56
+        },
+        {
+          "word": "a",
+          "start": 119.56,
+          "end": 120.34
+        },
+        {
+          "word": "ti,",
+          "start": 120.34,
+          "end": 121.32
+        }
+      ],
+      "start": 116.04,
+      "end": 121.72,
+      "confidence": 1.0,
+      "time": 116.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "\"Mis corderitos trae a mí\".",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mis",
+          "start": 121.72,
+          "end": 122.44
+        },
+        {
+          "word": "ordenitos",
+          "start": 122.44,
+          "end": 124.38
+        },
+        {
+          "word": "trae",
+          "start": 124.38,
+          "end": 125.8
+        },
+        {
+          "word": "a",
+          "start": 125.8,
+          "end": 126.26
+        },
+        {
+          "word": "mí.",
+          "start": 126.26,
+          "end": 126.96
+        }
+      ],
+      "start": 121.72,
+      "end": 126.96,
+      "confidence": 0.981,
+      "time": 121.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Búscalos, llámalos,",
+      "words": [
+        {
+          "word": "Puscanos,",
+          "start": 129.96,
+          "end": 131.36
+        },
+        {
+          "word": "llámanos,",
+          "start": 131.36,
+          "end": 132.76
+        }
+      ],
+      "start": 129.96,
+      "end": 133.3,
+      "confidence": 0.887,
+      "time": 129.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "los niñitos trae al Salvador.",
+      "words": [
+        {
+          "word": "los",
+          "start": 133.3,
+          "end": 133.8
+        },
+        {
+          "word": "niñitos",
+          "start": 133.8,
+          "end": 134.96
+        },
+        {
+          "word": "trae",
+          "start": 134.96,
+          "end": 135.68
+        },
+        {
+          "word": "salvador,",
+          "start": 135.68,
+          "end": 138.22
+        }
+      ],
+      "start": 133.3,
+      "end": 138.22,
+      "confidence": 0.8,
+      "time": 133.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Búscalos, llámalos,",
+      "words": [
+        {
+          "word": "puscanos,",
+          "start": 141.06,
+          "end": 142.46
+        },
+        {
+          "word": "llámanos,",
+          "start": 142.46,
+          "end": 143.86
+        }
+      ],
+      "start": 141.06,
+      "end": 144.48,
+      "confidence": 0.887,
+      "time": 141.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "los niñitos trae a Cristo.",
+      "words": [
+        {
+          "word": "los",
+          "start": 144.48,
+          "end": 145.12
+        },
+        {
+          "word": "niñitos",
+          "start": 145.12,
+          "end": 146.28
+        },
+        {
+          "word": "trae",
+          "start": 146.28,
+          "end": 147.12
+        },
+        {
+          "word": "Cristo.",
+          "start": 147.12,
+          "end": 149.02
+        }
+      ],
+      "start": 144.48,
+      "end": 149.02,
+      "confidence": 0.8,
+      "time": 144.48
+    }
+  ]
+}

@@ -1,0 +1,878 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.974,
+  "language": "es",
+  "model": "medium",
+  "hymn": 403,
+  "source": "403 - Cuando en la lucha.mp3",
+  "duration": 207.1,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cuando en la lucha me falte poder,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 14.74,
+          "end": 16.14
+        },
+        {
+          "word": "en",
+          "start": 16.14,
+          "end": 17.02
+        },
+        {
+          "word": "la",
+          "start": 17.02,
+          "end": 17.5
+        },
+        {
+          "word": "lucha",
+          "start": 17.5,
+          "end": 18.32
+        },
+        {
+          "word": "me",
+          "start": 18.32,
+          "end": 19.12
+        },
+        {
+          "word": "falte",
+          "start": 19.12,
+          "end": 20.44
+        },
+        {
+          "word": "poder,",
+          "start": 20.44,
+          "end": 22.56
+        }
+      ],
+      "start": 14.74,
+      "end": 22.56,
+      "confidence": 1.0,
+      "time": 14.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "alguien sabrá, alguien sabrá.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Alguien",
+          "start": 22.56,
+          "end": 24.22
+        },
+        {
+          "word": "sabrá,",
+          "start": 24.22,
+          "end": 26.44
+        },
+        {
+          "word": "alguien",
+          "start": 26.68,
+          "end": 27.84
+        },
+        {
+          "word": "sabrá",
+          "start": 27.84,
+          "end": 30.16
+        }
+      ],
+      "start": 22.56,
+      "end": 30.16,
+      "confidence": 1.0,
+      "time": 22.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Quién a mis ayes fin puede poner?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Quién",
+          "start": 30.16,
+          "end": 31.4
+        },
+        {
+          "word": "a",
+          "start": 31.4,
+          "end": 31.92
+        },
+        {
+          "word": "mis",
+          "start": 31.92,
+          "end": 32.54
+        },
+        {
+          "word": "calles",
+          "start": 32.54,
+          "end": 33.64
+        },
+        {
+          "word": "fin",
+          "start": 33.64,
+          "end": 34.16
+        },
+        {
+          "word": "puede",
+          "start": 34.16,
+          "end": 35.44
+        },
+        {
+          "word": "poner",
+          "start": 35.44,
+          "end": 37.6
+        }
+      ],
+      "start": 30.16,
+      "end": 37.6,
+      "confidence": 0.966,
+      "time": 30.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "alguien sabrá: es Cristo.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Alguien",
+          "start": 37.6,
+          "end": 39.42
+        },
+        {
+          "word": "sabrá,",
+          "start": 39.42,
+          "end": 41.32
+        },
+        {
+          "word": "es",
+          "start": 42.06,
+          "end": 42.1
+        },
+        {
+          "word": "Cristo",
+          "start": 42.1,
+          "end": 44.86
+        }
+      ],
+      "start": 37.6,
+      "end": 44.86,
+      "confidence": 1.0,
+      "time": 37.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Alguien sabrá, alguien sabrá;",
+      "words": [
+        {
+          "word": "Alguien",
+          "start": 44.86,
+          "end": 47.0
+        },
+        {
+          "word": "sabrá,",
+          "start": 47.0,
+          "end": 49.38
+        },
+        {
+          "word": "alguien",
+          "start": 49.38,
+          "end": 50.64
+        },
+        {
+          "word": "sabrá",
+          "start": 50.64,
+          "end": 52.92
+        }
+      ],
+      "start": 44.86,
+      "end": 52.92,
+      "confidence": 1.0,
+      "time": 44.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "cuando me oprima y me tiente Satán,",
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 52.92,
+          "end": 54.18
+        },
+        {
+          "word": "me",
+          "start": 54.18,
+          "end": 55.08
+        },
+        {
+          "word": "oprima",
+          "start": 55.08,
+          "end": 56.06
+        },
+        {
+          "word": "y",
+          "start": 56.06,
+          "end": 56.68
+        },
+        {
+          "word": "me",
+          "start": 56.68,
+          "end": 56.96
+        },
+        {
+          "word": "tiente",
+          "start": 56.96,
+          "end": 58.2
+        },
+        {
+          "word": "Satán",
+          "start": 58.2,
+          "end": 59.86
+        }
+      ],
+      "start": 52.92,
+      "end": 59.86,
+      "confidence": 1.0,
+      "time": 52.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cristo me guardará siempre;",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 60.64,
+          "end": 61.82
+        },
+        {
+          "word": "me",
+          "start": 61.82,
+          "end": 62.82
+        },
+        {
+          "word": "guardará",
+          "start": 62.82,
+          "end": 64.44
+        },
+        {
+          "word": "siempre",
+          "start": 64.44,
+          "end": 67.36
+        }
+      ],
+      "start": 60.64,
+      "end": 67.36,
+      "confidence": 1.0,
+      "time": 60.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "alguien sabrá, es Cristo.",
+      "words": [
+        {
+          "word": "alguien",
+          "start": 67.36,
+          "end": 69.44
+        },
+        {
+          "word": "sabrá,",
+          "start": 69.44,
+          "end": 71.6
+        },
+        {
+          "word": "es",
+          "start": 72.26,
+          "end": 72.26
+        },
+        {
+          "word": "Cristo.",
+          "start": 72.26,
+          "end": 75.94
+        }
+      ],
+      "start": 67.36,
+      "end": 75.94,
+      "confidence": 1.0,
+      "time": 67.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Olas de pruebas no las temeré;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "las",
+          "start": 78.6,
+          "end": 79.16
+        },
+        {
+          "word": "de",
+          "start": 79.16,
+          "end": 79.86
+        },
+        {
+          "word": "pruebas",
+          "start": 79.86,
+          "end": 80.96
+        },
+        {
+          "word": "no",
+          "start": 80.96,
+          "end": 81.62
+        },
+        {
+          "word": "las",
+          "start": 81.62,
+          "end": 82.4
+        },
+        {
+          "word": "temeré,",
+          "start": 82.4,
+          "end": 84.36
+        }
+      ],
+      "start": 78.6,
+      "end": 84.36,
+      "confidence": 0.986,
+      "time": 78.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "alguien sabrá, alguien sabrá;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "alguien",
+          "start": 85.96,
+          "end": 86.62
+        },
+        {
+          "word": "sabrá,",
+          "start": 86.62,
+          "end": 89.22
+        },
+        {
+          "word": "alguien",
+          "start": 89.74,
+          "end": 90.38
+        },
+        {
+          "word": "sabrá,",
+          "start": 90.38,
+          "end": 92.7
+        }
+      ],
+      "start": 85.96,
+      "end": 92.7,
+      "confidence": 1.0,
+      "time": 85.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pues cuando mi alma en las sombras esté,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pues",
+          "start": 92.7,
+          "end": 93.58
+        },
+        {
+          "word": "cuando",
+          "start": 93.58,
+          "end": 94.68
+        },
+        {
+          "word": "mi",
+          "start": 94.68,
+          "end": 95.22
+        },
+        {
+          "word": "alma",
+          "start": 95.22,
+          "end": 95.88
+        },
+        {
+          "word": "en",
+          "start": 95.88,
+          "end": 96.46
+        },
+        {
+          "word": "las",
+          "start": 96.46,
+          "end": 97.14
+        },
+        {
+          "word": "sombras",
+          "start": 97.14,
+          "end": 98.1
+        },
+        {
+          "word": "esté,",
+          "start": 98.1,
+          "end": 99.3
+        }
+      ],
+      "start": 92.7,
+      "end": 99.3,
+      "confidence": 1.0,
+      "time": 92.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "alguien sabrá: es Cristo.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "alguien",
+          "start": 100.94,
+          "end": 101.76
+        },
+        {
+          "word": "sabrá,",
+          "start": 101.76,
+          "end": 103.82
+        },
+        {
+          "word": "es",
+          "start": 104.52,
+          "end": 104.56
+        },
+        {
+          "word": "Cristo,",
+          "start": 104.56,
+          "end": 107.48
+        }
+      ],
+      "start": 100.94,
+      "end": 107.48,
+      "confidence": 1.0,
+      "time": 100.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Alguien sabrá, alguien sabrá;",
+      "words": [
+        {
+          "word": "alguien",
+          "start": 108.7,
+          "end": 109.38
+        },
+        {
+          "word": "sabrá,",
+          "start": 109.38,
+          "end": 111.86
+        },
+        {
+          "word": "alguien",
+          "start": 112.32,
+          "end": 113.06
+        },
+        {
+          "word": "sabrá",
+          "start": 113.06,
+          "end": 115.3
+        }
+      ],
+      "start": 108.7,
+      "end": 115.3,
+      "confidence": 1.0,
+      "time": 108.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "cuando me oprima y me tiente Satán,",
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 115.3,
+          "end": 116.72
+        },
+        {
+          "word": "me",
+          "start": 116.72,
+          "end": 117.48
+        },
+        {
+          "word": "oprima",
+          "start": 117.48,
+          "end": 118.62
+        },
+        {
+          "word": "y",
+          "start": 118.62,
+          "end": 119.26
+        },
+        {
+          "word": "me",
+          "start": 119.26,
+          "end": 119.7
+        },
+        {
+          "word": "tiente",
+          "start": 119.7,
+          "end": 120.74
+        },
+        {
+          "word": "Satán,",
+          "start": 120.74,
+          "end": 123.16
+        }
+      ],
+      "start": 115.3,
+      "end": 123.48,
+      "confidence": 1.0,
+      "time": 115.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cristo me guardará siempre;",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 123.48,
+          "end": 124.38
+        },
+        {
+          "word": "me",
+          "start": 124.38,
+          "end": 125.34
+        },
+        {
+          "word": "guardará",
+          "start": 125.34,
+          "end": 127.04
+        },
+        {
+          "word": "siempre,",
+          "start": 127.04,
+          "end": 129.66
+        }
+      ],
+      "start": 123.48,
+      "end": 131.28,
+      "confidence": 1.0,
+      "time": 123.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "alguien sabrá, es Cristo.",
+      "words": [
+        {
+          "word": "alguien",
+          "start": 131.28,
+          "end": 132.02
+        },
+        {
+          "word": "sabrá,",
+          "start": 132.02,
+          "end": 134.2
+        },
+        {
+          "word": "es",
+          "start": 134.84,
+          "end": 134.84
+        },
+        {
+          "word": "Cristo.",
+          "start": 134.84,
+          "end": 137.88
+        }
+      ],
+      "start": 131.28,
+      "end": 137.88,
+      "confidence": 1.0,
+      "time": 131.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Débil, herido, abrumado del mal,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Debil",
+          "start": 140.48,
+          "end": 141.88
+        },
+        {
+          "word": "he",
+          "start": 141.88,
+          "end": 142.6
+        },
+        {
+          "word": "abrumado",
+          "start": 143.22,
+          "end": 145.44
+        },
+        {
+          "word": "el",
+          "start": 145.44,
+          "end": 146.28
+        },
+        {
+          "word": "mar,",
+          "start": 146.28,
+          "end": 147.74
+        }
+      ],
+      "start": 140.48,
+      "end": 148.56,
+      "confidence": 0.924,
+      "time": 140.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "alguien sabrá, alguien sabrá;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "alguien",
+          "start": 148.56,
+          "end": 149.1
+        },
+        {
+          "word": "sabrá,",
+          "start": 149.1,
+          "end": 151.82
+        },
+        {
+          "word": "alguien",
+          "start": 152.36,
+          "end": 152.94
+        },
+        {
+          "word": "sabrá.",
+          "start": 152.94,
+          "end": 154.88
+        }
+      ],
+      "start": 148.56,
+      "end": 154.88,
+      "confidence": 1.0,
+      "time": 148.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "miro con ansia al hogar celestial;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Miro",
+          "start": 154.88,
+          "end": 156.72
+        },
+        {
+          "word": "con",
+          "start": 156.72,
+          "end": 157.62
+        },
+        {
+          "word": "ansia",
+          "start": 157.62,
+          "end": 158.66
+        },
+        {
+          "word": "hogar",
+          "start": 159.28,
+          "end": 160.12
+        },
+        {
+          "word": "celestial,",
+          "start": 160.12,
+          "end": 162.68
+        }
+      ],
+      "start": 154.88,
+      "end": 163.76,
+      "confidence": 0.833,
+      "time": 154.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "alguien sabrá: es Cristo.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "alguien",
+          "start": 163.76,
+          "end": 164.28
+        },
+        {
+          "word": "sabrá,",
+          "start": 164.28,
+          "end": 166.38
+        },
+        {
+          "word": "es",
+          "start": 167.04,
+          "end": 167.04
+        },
+        {
+          "word": "Cristo,",
+          "start": 167.04,
+          "end": 169.72
+        }
+      ],
+      "start": 163.76,
+      "end": 169.72,
+      "confidence": 1.0,
+      "time": 163.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Alguien sabrá, alguien sabrá;",
+      "words": [
+        {
+          "word": "Alguien",
+          "start": 169.72,
+          "end": 172.08
+        },
+        {
+          "word": "sabrá,",
+          "start": 172.08,
+          "end": 174.42
+        },
+        {
+          "word": "alguien",
+          "start": 174.42,
+          "end": 175.58
+        },
+        {
+          "word": "sabrá",
+          "start": 175.58,
+          "end": 178.06
+        }
+      ],
+      "start": 169.72,
+      "end": 178.06,
+      "confidence": 1.0,
+      "time": 169.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "cuando me oprima y me tiente Satán,",
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 178.06,
+          "end": 179.24
+        },
+        {
+          "word": "me",
+          "start": 179.24,
+          "end": 180.08
+        },
+        {
+          "word": "opima",
+          "start": 180.08,
+          "end": 181.18
+        },
+        {
+          "word": "y",
+          "start": 181.18,
+          "end": 181.82
+        },
+        {
+          "word": "me",
+          "start": 181.82,
+          "end": 182.1
+        },
+        {
+          "word": "tiente",
+          "start": 182.1,
+          "end": 183.3
+        },
+        {
+          "word": "Satán",
+          "start": 183.3,
+          "end": 184.72
+        }
+      ],
+      "start": 178.06,
+      "end": 184.72,
+      "confidence": 0.992,
+      "time": 178.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cristo me guardará siempre;",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 185.74,
+          "end": 186.9
+        },
+        {
+          "word": "me",
+          "start": 186.9,
+          "end": 188.1
+        },
+        {
+          "word": "guardará",
+          "start": 188.1,
+          "end": 189.58
+        },
+        {
+          "word": "siempre",
+          "start": 189.58,
+          "end": 193.0
+        }
+      ],
+      "start": 185.74,
+      "end": 193.0,
+      "confidence": 1.0,
+      "time": 185.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "alguien sabrá, es Cristo.",
+      "words": [
+        {
+          "word": "Alguien",
+          "start": 193.0,
+          "end": 194.72
+        },
+        {
+          "word": "sabe",
+          "start": 194.72,
+          "end": 196.7
+        },
+        {
+          "word": "Jesucristo.",
+          "start": 196.7,
+          "end": 202.12
+        }
+      ],
+      "start": 193.0,
+      "end": 202.12,
+      "confidence": 0.662,
+      "time": 193.0
+    }
+  ]
+}

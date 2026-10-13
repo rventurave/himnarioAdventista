@@ -1,0 +1,514 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.903,
+  "language": "es",
+  "model": "medium",
+  "hymn": 532,
+  "source": "532 - Sagrado es el amor.mp3",
+  "duration": 121.86,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Sagrado es el amor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Sacrado",
+          "start": 15.48,
+          "end": 16.88
+        },
+        {
+          "word": "es",
+          "start": 16.88,
+          "end": 17.6
+        },
+        {
+          "word": "el",
+          "start": 17.6,
+          "end": 18.54
+        },
+        {
+          "word": "amor",
+          "start": 18.54,
+          "end": 20.04
+        }
+      ],
+      "start": 15.48,
+      "end": 20.04,
+      "confidence": 0.979,
+      "time": 15.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que nos ha unido aquí,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 20.04,
+          "end": 20.98
+        },
+        {
+          "word": "nos",
+          "start": 20.98,
+          "end": 22.1
+        },
+        {
+          "word": "ha",
+          "start": 22.1,
+          "end": 22.66
+        },
+        {
+          "word": "unido",
+          "start": 22.66,
+          "end": 24.0
+        },
+        {
+          "word": "aquí",
+          "start": 24.0,
+          "end": 25.2
+        }
+      ],
+      "start": 20.04,
+      "end": 25.2,
+      "confidence": 1.0,
+      "time": 20.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a los que oímos del Señor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 25.2,
+          "end": 26.28
+        },
+        {
+          "word": "los",
+          "start": 26.28,
+          "end": 27.34
+        },
+        {
+          "word": "que",
+          "start": 27.34,
+          "end": 27.9
+        },
+        {
+          "word": "oímos",
+          "start": 27.9,
+          "end": 29.66
+        },
+        {
+          "word": "del",
+          "start": 29.66,
+          "end": 30.82
+        },
+        {
+          "word": "Señor",
+          "start": 30.82,
+          "end": 32.62
+        }
+      ],
+      "start": 25.2,
+      "end": 32.62,
+      "confidence": 1.0,
+      "time": 25.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "la voz que llama a sí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 32.62,
+          "end": 33.56
+        },
+        {
+          "word": "voz",
+          "start": 33.56,
+          "end": 34.54
+        },
+        {
+          "word": "que",
+          "start": 34.54,
+          "end": 35.34
+        },
+        {
+          "word": "llama",
+          "start": 35.34,
+          "end": 36.9
+        },
+        {
+          "word": "a",
+          "start": 36.9,
+          "end": 37.86
+        }
+      ],
+      "start": 32.62,
+      "end": 38.94,
+      "confidence": 0.833,
+      "time": 32.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "A nuestro buen Jesús",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 39.88,
+          "end": 40.64
+        },
+        {
+          "word": "nuestro",
+          "start": 40.64,
+          "end": 42.28
+        },
+        {
+          "word": "buen",
+          "start": 42.28,
+          "end": 43.46
+        },
+        {
+          "word": "Jesús",
+          "start": 43.46,
+          "end": 45.14
+        }
+      ],
+      "start": 39.88,
+      "end": 45.14,
+      "confidence": 1.0,
+      "time": 39.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "rogamos con fervor:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "rogamos",
+          "start": 45.66,
+          "end": 47.7
+        },
+        {
+          "word": "con",
+          "start": 47.7,
+          "end": 48.9
+        },
+        {
+          "word": "fervor",
+          "start": 48.9,
+          "end": 50.58
+        }
+      ],
+      "start": 45.66,
+      "end": 50.58,
+      "confidence": 1.0,
+      "time": 45.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "que alúmbrenos la misma luz,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 50.58,
+          "end": 51.38
+        },
+        {
+          "word": "alumbre",
+          "start": 51.38,
+          "end": 53.12
+        },
+        {
+          "word": "misma",
+          "start": 55.04,
+          "end": 56.52
+        },
+        {
+          "word": "luz",
+          "start": 56.52,
+          "end": 57.88
+        }
+      ],
+      "start": 50.58,
+      "end": 57.88,
+      "confidence": 0.788,
+      "time": 50.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "nos una el mismo amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "nos",
+          "start": 57.88,
+          "end": 58.64
+        },
+        {
+          "word": "el",
+          "start": 60.2,
+          "end": 60.5
+        },
+        {
+          "word": "mismo",
+          "start": 60.5,
+          "end": 61.56
+        },
+        {
+          "word": "amor.",
+          "start": 61.56,
+          "end": 64.14
+        }
+      ],
+      "start": 57.88,
+      "end": 64.14,
+      "confidence": 0.8,
+      "time": 57.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Nos vamos a separar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Nos",
+          "start": 65.12,
+          "end": 65.78
+        },
+        {
+          "word": "vamos",
+          "start": 65.78,
+          "end": 66.92
+        },
+        {
+          "word": "a",
+          "start": 66.92,
+          "end": 68.14
+        },
+        {
+          "word": "separar",
+          "start": 68.14,
+          "end": 70.54
+        }
+      ],
+      "start": 65.12,
+      "end": 70.54,
+      "confidence": 1.0,
+      "time": 65.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mas nuestra firme unión",
+      "verse": 3,
+      "words": [
+        {
+          "word": "más",
+          "start": 70.54,
+          "end": 71.2
+        },
+        {
+          "word": "nuestra",
+          "start": 71.2,
+          "end": 72.66
+        },
+        {
+          "word": "firme",
+          "start": 72.66,
+          "end": 74.42
+        },
+        {
+          "word": "unión.",
+          "start": 74.42,
+          "end": 75.72
+        }
+      ],
+      "start": 70.54,
+      "end": 75.72,
+      "confidence": 1.0,
+      "time": 70.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "jamás podrase quebrantar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jamás",
+          "start": 76.3,
+          "end": 77.7
+        },
+        {
+          "word": "podrá",
+          "start": 77.7,
+          "end": 79.94
+        },
+        {
+          "word": "quebrantar",
+          "start": 80.3,
+          "end": 83.16
+        }
+      ],
+      "start": 76.3,
+      "end": 83.16,
+      "confidence": 0.98,
+      "time": 76.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "por la separación.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "por",
+          "start": 83.16,
+          "end": 83.6
+        },
+        {
+          "word": "las",
+          "start": 83.6,
+          "end": 85.08
+        },
+        {
+          "word": "declaraciones.",
+          "start": 85.08,
+          "end": 89.36
+        }
+      ],
+      "start": 83.16,
+      "end": 89.36,
+      "confidence": 0.899,
+      "time": 83.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Nos hemos de encontrar",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Nos",
+          "start": 90.42,
+          "end": 91.34
+        },
+        {
+          "word": "hemos",
+          "start": 91.34,
+          "end": 92.68
+        },
+        {
+          "word": "de",
+          "start": 92.68,
+          "end": 93.94
+        },
+        {
+          "word": "encontrar",
+          "start": 93.94,
+          "end": 95.64
+        }
+      ],
+      "start": 90.42,
+      "end": 95.64,
+      "confidence": 1.0,
+      "time": 90.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "en celestial reunión;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 96.04,
+          "end": 96.74
+        },
+        {
+          "word": "reunión,",
+          "start": 99.54,
+          "end": 100.94
+        }
+      ],
+      "start": 96.04,
+      "end": 100.94,
+      "confidence": 0.667,
+      "time": 96.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "que nadie haya de faltar",
+      "verse": 4,
+      "words": [
+        {
+          "word": "que",
+          "start": 101.54,
+          "end": 102.08
+        },
+        {
+          "word": "nadie",
+          "start": 102.08,
+          "end": 103.82
+        },
+        {
+          "word": "haya",
+          "start": 103.82,
+          "end": 105.32
+        },
+        {
+          "word": "de",
+          "start": 105.32,
+          "end": 106.78
+        },
+        {
+          "word": "faltar",
+          "start": 106.78,
+          "end": 108.6
+        }
+      ],
+      "start": 101.54,
+      "end": 108.6,
+      "confidence": 1.0,
+      "time": 101.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "en la eterna Sion.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "la",
+          "start": 108.86,
+          "end": 110.54
+        },
+        {
+          "word": "eternación.",
+          "start": 110.54,
+          "end": 115.34
+        }
+      ],
+      "start": 108.86,
+      "end": 115.34,
+      "confidence": 0.485,
+      "time": 108.86
+    }
+  ]
+}

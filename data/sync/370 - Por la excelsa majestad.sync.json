@@ -1,0 +1,656 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.897,
+  "language": "es",
+  "model": "medium",
+  "hymn": 370,
+  "source": "370 - Por la excelsa majestad.mp3",
+  "duration": 143.86,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Por la excelsa majestad de los cielos, tierra y mar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Por",
+          "start": 10.96,
+          "end": 12.36
+        },
+        {
+          "word": "la",
+          "start": 12.36,
+          "end": 12.9
+        },
+        {
+          "word": "excelsa",
+          "start": 12.9,
+          "end": 14.42
+        },
+        {
+          "word": "majestad",
+          "start": 14.42,
+          "end": 16.66
+        },
+        {
+          "word": "de",
+          "start": 16.66,
+          "end": 17.64
+        },
+        {
+          "word": "los",
+          "start": 17.64,
+          "end": 18.28
+        },
+        {
+          "word": "cielos,",
+          "start": 18.28,
+          "end": 19.38
+        },
+        {
+          "word": "tierra",
+          "start": 20.04,
+          "end": 20.28
+        },
+        {
+          "word": "y",
+          "start": 20.28,
+          "end": 20.76
+        },
+        {
+          "word": "mar,",
+          "start": 20.76,
+          "end": 21.56
+        }
+      ],
+      "start": 10.96,
+      "end": 21.56,
+      "confidence": 1.0,
+      "time": 10.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por las alas de tu amor que nos cubren sin cesar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Por",
+          "start": 21.56,
+          "end": 22.5
+        },
+        {
+          "word": "las",
+          "start": 22.5,
+          "end": 23.42
+        },
+        {
+          "word": "alas",
+          "start": 23.42,
+          "end": 24.42
+        },
+        {
+          "word": "de",
+          "start": 24.42,
+          "end": 25.06
+        },
+        {
+          "word": "Tu",
+          "start": 25.06,
+          "end": 25.48
+        },
+        {
+          "word": "amor,",
+          "start": 25.48,
+          "end": 26.68
+        },
+        {
+          "word": "que",
+          "start": 27.3,
+          "end": 27.6
+        },
+        {
+          "word": "nos",
+          "start": 27.6,
+          "end": 28.28
+        },
+        {
+          "word": "cubren",
+          "start": 28.28,
+          "end": 29.42
+        },
+        {
+          "word": "sin",
+          "start": 29.42,
+          "end": 30.1
+        },
+        {
+          "word": "cesar,",
+          "start": 30.1,
+          "end": 31.86
+        }
+      ],
+      "start": 21.56,
+      "end": 31.86,
+      "confidence": 1.0,
+      "time": 21.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "te ofrecemos, oh Señor, alabanzas con fervor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ofrecemos,",
+          "start": 32.64,
+          "end": 34.16
+        },
+        {
+          "word": "oh",
+          "start": 35.22,
+          "end": 35.52
+        },
+        {
+          "word": "Señor,",
+          "start": 35.52,
+          "end": 36.78
+        },
+        {
+          "word": "alabanzas",
+          "start": 37.76,
+          "end": 39.7
+        },
+        {
+          "word": "con",
+          "start": 39.7,
+          "end": 40.5
+        },
+        {
+          "word": "fervor.",
+          "start": 40.5,
+          "end": 42.76
+        }
+      ],
+      "start": 32.64,
+      "end": 42.76,
+      "confidence": 0.857,
+      "time": 32.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Por la calma nocturnal, por la tibia luz del sol,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Por",
+          "start": 42.76,
+          "end": 44.08
+        },
+        {
+          "word": "la",
+          "start": 44.08,
+          "end": 44.84
+        },
+        {
+          "word": "calma",
+          "start": 44.84,
+          "end": 45.98
+        },
+        {
+          "word": "nocturna,",
+          "start": 45.98,
+          "end": 48.14
+        },
+        {
+          "word": "por",
+          "start": 48.5,
+          "end": 49.22
+        },
+        {
+          "word": "la",
+          "start": 49.22,
+          "end": 50.0
+        },
+        {
+          "word": "tibia",
+          "start": 50.0,
+          "end": 50.96
+        },
+        {
+          "word": "luz",
+          "start": 50.96,
+          "end": 51.58
+        },
+        {
+          "word": "del",
+          "start": 51.58,
+          "end": 52.38
+        },
+        {
+          "word": "sol,",
+          "start": 52.38,
+          "end": 53.18
+        }
+      ],
+      "start": 42.76,
+      "end": 53.98,
+      "confidence": 0.994,
+      "time": 42.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "por el amplio cielo azul, por el árbol, por la flor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "por",
+          "start": 53.98,
+          "end": 54.46
+        },
+        {
+          "word": "el",
+          "start": 54.46,
+          "end": 55.24
+        },
+        {
+          "word": "amplio",
+          "start": 55.24,
+          "end": 56.04
+        },
+        {
+          "word": "cielo",
+          "start": 56.04,
+          "end": 56.96
+        },
+        {
+          "word": "azul,",
+          "start": 56.96,
+          "end": 58.12
+        },
+        {
+          "word": "por",
+          "start": 59.0,
+          "end": 59.48
+        },
+        {
+          "word": "el",
+          "start": 59.48,
+          "end": 60.38
+        },
+        {
+          "word": "por",
+          "start": 61.06,
+          "end": 61.94
+        },
+        {
+          "word": "la",
+          "start": 61.94,
+          "end": 62.58
+        },
+        {
+          "word": "flor,",
+          "start": 62.58,
+          "end": 63.2
+        }
+      ],
+      "start": 53.98,
+      "end": 63.2,
+      "confidence": 0.909,
+      "time": 53.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "te ofrecemos, oh Señor, alabanzas con fervor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "te",
+          "start": 63.2,
+          "end": 64.22
+        },
+        {
+          "word": "ofrecemos,",
+          "start": 64.22,
+          "end": 66.08
+        },
+        {
+          "word": "oh",
+          "start": 66.08,
+          "end": 67.14
+        },
+        {
+          "word": "Señor,",
+          "start": 67.14,
+          "end": 68.3
+        },
+        {
+          "word": "alabanzas",
+          "start": 69.32,
+          "end": 71.34
+        },
+        {
+          "word": "con",
+          "start": 71.34,
+          "end": 72.08
+        }
+      ],
+      "start": 63.2,
+      "end": 74.5,
+      "confidence": 0.857,
+      "time": 63.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Por los lazos del amor que en familia y amistad",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Por",
+          "start": 74.98,
+          "end": 75.9
+        },
+        {
+          "word": "los",
+          "start": 75.9,
+          "end": 76.54
+        },
+        {
+          "word": "lazos",
+          "start": 76.54,
+          "end": 77.5
+        },
+        {
+          "word": "del",
+          "start": 77.5,
+          "end": 78.2
+        },
+        {
+          "word": "amor,",
+          "start": 78.2,
+          "end": 79.72
+        },
+        {
+          "word": "que",
+          "start": 80.44,
+          "end": 80.62
+        },
+        {
+          "word": "en",
+          "start": 80.62,
+          "end": 81.24
+        },
+        {
+          "word": "familia",
+          "start": 81.24,
+          "end": 82.18
+        },
+        {
+          "word": "y",
+          "start": 82.18,
+          "end": 83.12
+        },
+        {
+          "word": "amistad",
+          "start": 83.12,
+          "end": 84.2
+        }
+      ],
+      "start": 74.98,
+      "end": 84.2,
+      "confidence": 1.0,
+      "time": 74.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "nos acercan hacia ti, nuestro Amigo siempre fiel;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Nos",
+          "start": 84.2,
+          "end": 85.76
+        },
+        {
+          "word": "acercan",
+          "start": 85.76,
+          "end": 88.1
+        },
+        {
+          "word": "hacia",
+          "start": 88.1,
+          "end": 88.6
+        },
+        {
+          "word": "Ti,",
+          "start": 88.6,
+          "end": 89.82
+        },
+        {
+          "word": "nuestro",
+          "start": 90.2,
+          "end": 90.88
+        },
+        {
+          "word": "Amigo",
+          "start": 90.88,
+          "end": 92.56
+        },
+        {
+          "word": "siempre",
+          "start": 92.56,
+          "end": 93.98
+        },
+        {
+          "word": "fiel.",
+          "start": 94.36,
+          "end": 95.02
+        }
+      ],
+      "start": 84.2,
+      "end": 95.02,
+      "confidence": 1.0,
+      "time": 84.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "te ofrecemos, oh Señor, alabanzas con fervor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Te",
+          "start": 95.84,
+          "end": 95.84
+        },
+        {
+          "word": "ofrecemos,",
+          "start": 95.84,
+          "end": 97.66
+        },
+        {
+          "word": "oh",
+          "start": 97.66,
+          "end": 98.78
+        },
+        {
+          "word": "Reñor,",
+          "start": 98.78,
+          "end": 99.98
+        },
+        {
+          "word": "al",
+          "start": 100.86,
+          "end": 101.22
+        },
+        {
+          "word": "con",
+          "start": 102.78,
+          "end": 103.44
+        }
+      ],
+      "start": 95.84,
+      "end": 105.2,
+      "confidence": 0.831,
+      "time": 95.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Por las dádivas sin par que en Cristo tú nos das:",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Por",
+          "start": 105.2,
+          "end": 107.14
+        },
+        {
+          "word": "las",
+          "start": 107.14,
+          "end": 108.14
+        },
+        {
+          "word": "nativas",
+          "start": 108.14,
+          "end": 109.64
+        },
+        {
+          "word": "sin",
+          "start": 109.64,
+          "end": 110.64
+        },
+        {
+          "word": "par,",
+          "start": 110.64,
+          "end": 111.42
+        },
+        {
+          "word": "que",
+          "start": 112.0,
+          "end": 112.46
+        },
+        {
+          "word": "en",
+          "start": 112.46,
+          "end": 112.86
+        },
+        {
+          "word": "Cristo",
+          "start": 112.86,
+          "end": 113.98
+        },
+        {
+          "word": "tú",
+          "start": 113.98,
+          "end": 114.88
+        },
+        {
+          "word": "nos",
+          "start": 114.88,
+          "end": 115.62
+        },
+        {
+          "word": "das,",
+          "start": 115.62,
+          "end": 116.38
+        }
+      ],
+      "start": 105.2,
+      "end": 116.38,
+      "confidence": 0.984,
+      "time": 105.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "en los cielos, gozo y luz, en la tierra, vida y paz;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 116.74,
+          "end": 117.4
+        },
+        {
+          "word": "los",
+          "start": 117.4,
+          "end": 118.12
+        },
+        {
+          "word": "cielos",
+          "start": 118.12,
+          "end": 119.24
+        },
+        {
+          "word": "en",
+          "start": 122.04,
+          "end": 122.62
+        },
+        {
+          "word": "la",
+          "start": 122.62,
+          "end": 123.1
+        },
+        {
+          "word": "tierra",
+          "start": 123.1,
+          "end": 124.16
+        }
+      ],
+      "start": 116.74,
+      "end": 126.52,
+      "confidence": 0.5,
+      "time": 116.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "te ofrecemos, oh Señor, alabanzas con fervor.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Te",
+          "start": 126.52,
+          "end": 127.4
+        },
+        {
+          "word": "ofrecemos,",
+          "start": 127.4,
+          "end": 129.04
+        },
+        {
+          "word": "oh",
+          "start": 129.04,
+          "end": 130.22
+        },
+        {
+          "word": "Señor,",
+          "start": 130.22,
+          "end": 131.42
+        },
+        {
+          "word": "al",
+          "start": 132.46,
+          "end": 133.06
+        },
+        {
+          "word": "con",
+          "start": 134.98,
+          "end": 135.8
+        }
+      ],
+      "start": 126.52,
+      "end": 139.06,
+      "confidence": 0.849,
+      "time": 126.52
+    }
+  ]
+}

@@ -232,7 +232,7 @@ export async function getStructuredLyrics(hymn) {
 }
 
 /** Mismo reloj base para Cantado y Karaoke: analiza preferentemente la grabación cantada. */
-export async function getPlaybackLyrics(hymn, signal) {
+export async function getPlaybackLyrics(hymn, signal, { allowAudioAnalysis = true } = {}) {
   const [structure, synced, vocal] = await Promise.all([
     getStructuredLyrics(hymn),
     getSyncedLyrics(hymn),
@@ -255,6 +255,9 @@ export async function getPlaybackLyrics(hymn, signal) {
   //2) LRC revisado que cubra toda la secuencia.
   const exact = timelineFromLrc(structure, synced.lines);
   if (exact) return { lines: exact, estimated: false, syncMethod: 'lrc', confidence: null };
+
+  // Solo letra usa los tiempos guardados, sin descargar audio para analizarlos.
+  if (!allowAudioAnalysis) return { lines: [], estimated: false, syncMethod: 'none', confidence: null };
 
   //3) Respaldo: estimación acústica (envolvente de energía), marcada como aproximada.
   const url = getHymnAudioUrl(hymn) || getHymnAudioUrl(hymn, 'instrumental');

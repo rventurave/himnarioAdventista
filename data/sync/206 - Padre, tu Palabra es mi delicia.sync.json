@@ -1,0 +1,738 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.762,
+  "language": "es",
+  "model": "medium",
+  "hymn": 206,
+  "source": "206 - Padre, tu Palabra es mi delicia.mp3",
+  "duration": 148.14,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Padre, tu Palabra es",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Padre,",
+          "start": 12.92,
+          "end": 14.32
+        },
+        {
+          "word": "tu",
+          "start": 14.84,
+          "end": 14.94
+        },
+        {
+          "word": "Palabra",
+          "start": 14.94,
+          "end": 17.02
+        },
+        {
+          "word": "es",
+          "start": 17.02,
+          "end": 18.08
+        }
+      ],
+      "start": 12.92,
+      "end": 18.08,
+      "confidence": 1.0,
+      "time": 12.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mi delicia y mi solaz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "mi",
+          "start": 18.08,
+          "end": 19.08
+        },
+        {
+          "word": "delicia",
+          "start": 19.08,
+          "end": 20.76
+        },
+        {
+          "word": "y",
+          "start": 20.76,
+          "end": 21.18
+        },
+        {
+          "word": "mis",
+          "start": 21.18,
+          "end": 22.12
+        },
+        {
+          "word": "olas,",
+          "start": 22.12,
+          "end": 23.54
+        }
+      ],
+      "start": 18.08,
+      "end": 23.54,
+      "confidence": 0.936,
+      "time": 18.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "guía siempre aquí mis pies",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Guía",
+          "start": 23.54,
+          "end": 24.94
+        },
+        {
+          "word": "siempre",
+          "start": 24.94,
+          "end": 26.0
+        },
+        {
+          "word": "aquí",
+          "start": 26.0,
+          "end": 26.96
+        },
+        {
+          "word": "mis",
+          "start": 26.96,
+          "end": 27.6
+        },
+        {
+          "word": "pies,",
+          "start": 27.6,
+          "end": 28.08
+        }
+      ],
+      "start": 23.54,
+      "end": 28.56,
+      "confidence": 1.0,
+      "time": 23.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y a mi pecho trae la paz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 28.56,
+          "end": 28.72
+        },
+        {
+          "word": "pecho",
+          "start": 29.4,
+          "end": 30.34
+        },
+        {
+          "word": "trae",
+          "start": 30.34,
+          "end": 31.1
+        },
+        {
+          "word": "la",
+          "start": 31.1,
+          "end": 31.98
+        },
+        {
+          "word": "paz.",
+          "start": 31.98,
+          "end": 33.96
+        }
+      ],
+      "start": 28.56,
+      "end": 33.96,
+      "confidence": 0.714,
+      "time": 28.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Es tu santa Ley, Señor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "santa",
+          "start": 35.7,
+          "end": 36.88
+        },
+        {
+          "word": "ley,",
+          "start": 36.88,
+          "end": 37.92
+        },
+        {
+          "word": "Señor,",
+          "start": 37.96,
+          "end": 39.24
+        }
+      ],
+      "start": 35.7,
+      "end": 39.24,
+      "confidence": 0.6,
+      "time": 35.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "faro eterno, celestial,",
+      "verse": 1,
+      "start": 39.24,
+      "end": 41.96,
+      "confidence": 0.0,
+      "time": 39.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que en perenne resplandor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Quien",
+          "start": 44.68,
+          "end": 45.62
+        },
+        {
+          "word": "en",
+          "start": 46.96,
+          "end": 47.56
+        },
+        {
+          "word": "resplandor,",
+          "start": 48.18,
+          "end": 49.58
+        }
+      ],
+      "start": 41.96,
+      "end": 44.68,
+      "confidence": 0.712,
+      "time": 41.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "norte y guía es al mortal.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 51.34,
+          "end": 51.68
+        },
+        {
+          "word": "Salmortal.",
+          "start": 51.68,
+          "end": 55.84
+        }
+      ],
+      "start": 51.34,
+      "end": 55.84,
+      "confidence": 0.313,
+      "time": 51.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Cuando obedecí tu voz",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 57.22,
+          "end": 58.04
+        },
+        {
+          "word": "Tu",
+          "start": 60.56,
+          "end": 61.0
+        },
+        {
+          "word": "voz,",
+          "start": 61.0,
+          "end": 62.12
+        }
+      ],
+      "start": 57.22,
+      "end": 62.12,
+      "confidence": 0.75,
+      "time": 57.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "en tu gracia fuerza hallé,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 62.78,
+          "end": 63.08
+        },
+        {
+          "word": "Tu",
+          "start": 63.08,
+          "end": 63.72
+        },
+        {
+          "word": "gracia",
+          "start": 63.72,
+          "end": 65.0
+        },
+        {
+          "word": "afuérzale,",
+          "start": 65.0,
+          "end": 67.16
+        }
+      ],
+      "start": 62.78,
+      "end": 67.16,
+      "confidence": 0.776,
+      "time": 62.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y con firme pie, y veloz,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Y",
+          "start": 67.74,
+          "end": 68.54
+        },
+        {
+          "word": "confirme",
+          "start": 68.54,
+          "end": 70.32
+        }
+      ],
+      "start": 67.74,
+      "end": 72.22,
+      "confidence": 0.323,
+      "time": 67.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "por tus sendas caminé.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "por",
+          "start": 72.22,
+          "end": 72.68
+        },
+        {
+          "word": "tus",
+          "start": 72.68,
+          "end": 73.22
+        },
+        {
+          "word": "sendas",
+          "start": 73.22,
+          "end": 74.34
+        },
+        {
+          "word": "caminé.",
+          "start": 74.34,
+          "end": 78.1
+        }
+      ],
+      "start": 72.22,
+      "end": 78.1,
+      "confidence": 1.0,
+      "time": 72.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Tu verdad es mi sostén",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 78.42,
+          "end": 79.04
+        },
+        {
+          "word": "verdad",
+          "start": 79.04,
+          "end": 80.36
+        },
+        {
+          "word": "es",
+          "start": 80.36,
+          "end": 81.16
+        },
+        {
+          "word": "mi",
+          "start": 81.16,
+          "end": 82.0
+        },
+        {
+          "word": "sostén",
+          "start": 82.0,
+          "end": 83.54
+        }
+      ],
+      "start": 78.42,
+      "end": 83.54,
+      "confidence": 1.0,
+      "time": 78.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "contra duda y tentación,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "contra",
+          "start": 83.54,
+          "end": 85.0
+        },
+        {
+          "word": "duda",
+          "start": 85.0,
+          "end": 85.98
+        },
+        {
+          "word": "y",
+          "start": 85.98,
+          "end": 86.9
+        },
+        {
+          "word": "tentación,",
+          "start": 86.9,
+          "end": 88.74
+        }
+      ],
+      "start": 83.54,
+      "end": 88.74,
+      "confidence": 1.0,
+      "time": 83.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y destila calma y bien",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 89.08,
+          "end": 89.82
+        },
+        {
+          "word": "destila",
+          "start": 89.82,
+          "end": 91.66
+        },
+        {
+          "word": "calma",
+          "start": 91.66,
+          "end": 92.94
+        },
+        {
+          "word": "y",
+          "start": 92.94,
+          "end": 93.2
+        },
+        {
+          "word": "bien",
+          "start": 93.2,
+          "end": 93.52
+        }
+      ],
+      "start": 89.08,
+      "end": 93.52,
+      "confidence": 1.0,
+      "time": 89.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "cuando asalta la aflicción.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 93.52,
+          "end": 94.26
+        },
+        {
+          "word": "salta",
+          "start": 94.26,
+          "end": 95.74
+        },
+        {
+          "word": "la",
+          "start": 95.74,
+          "end": 96.44
+        },
+        {
+          "word": "aflicción.",
+          "start": 96.44,
+          "end": 99.6
+        }
+      ],
+      "start": 93.52,
+      "end": 99.6,
+      "confidence": 0.986,
+      "time": 93.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Son tus dichos para mí",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Son",
+          "start": 99.6,
+          "end": 101.72
+        },
+        {
+          "word": "tus",
+          "start": 101.72,
+          "end": 102.52
+        },
+        {
+          "word": "dichos",
+          "start": 102.52,
+          "end": 103.72
+        },
+        {
+          "word": "para",
+          "start": 103.72,
+          "end": 105.04
+        },
+        {
+          "word": "mí,",
+          "start": 105.04,
+          "end": 106.26
+        }
+      ],
+      "start": 99.6,
+      "end": 106.78,
+      "confidence": 1.0,
+      "time": 99.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "prendas fieles de salud.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "prendas",
+          "start": 106.78,
+          "end": 107.9
+        },
+        {
+          "word": "de",
+          "start": 107.9,
+          "end": 108.44
+        },
+        {
+          "word": "salón,",
+          "start": 109.94,
+          "end": 111.7
+        }
+      ],
+      "start": 106.78,
+      "end": 112.38,
+      "confidence": 0.69,
+      "time": 106.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Dame, pues, que te oiga a ti",
+      "verse": 3,
+      "words": [
+        {
+          "word": "dame",
+          "start": 112.38,
+          "end": 113.08
+        },
+        {
+          "word": "pues",
+          "start": 113.08,
+          "end": 113.9
+        },
+        {
+          "word": "que",
+          "start": 114.36,
+          "end": 114.76
+        },
+        {
+          "word": "oiga",
+          "start": 114.76,
+          "end": 115.76
+        },
+        {
+          "word": "ti",
+          "start": 115.76,
+          "end": 116.36
+        }
+      ],
+      "start": 112.38,
+      "end": 116.36,
+      "confidence": 0.714,
+      "time": 112.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con filial solicitud.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 116.36,
+          "end": 116.94
+        },
+        {
+          "word": "solicitud.",
+          "start": 117.74,
+          "end": 121.94
+        }
+      ],
+      "start": 116.36,
+      "end": 121.94,
+      "confidence": 0.667,
+      "time": 116.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Es mi ciencia, mi saber,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Es",
+          "start": 121.94,
+          "end": 123.28
+        },
+        {
+          "word": "mi",
+          "start": 123.28,
+          "end": 123.84
+        },
+        {
+          "word": "ciencia,",
+          "start": 123.84,
+          "end": 124.74
+        },
+        {
+          "word": "mi",
+          "start": 125.02,
+          "end": 125.96
+        },
+        {
+          "word": "saber,",
+          "start": 125.96,
+          "end": 127.18
+        }
+      ],
+      "start": 121.94,
+      "end": 128.3,
+      "confidence": 1.0,
+      "time": 121.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu divina voluntad;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tu",
+          "start": 128.3,
+          "end": 128.36
+        },
+        {
+          "word": "divina",
+          "start": 128.36,
+          "end": 130.38
+        },
+        {
+          "word": "voluntad,",
+          "start": 130.38,
+          "end": 132.78
+        }
+      ],
+      "start": 128.3,
+      "end": 133.38,
+      "confidence": 1.0,
+      "time": 128.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y por siempre lo ha de ser",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 133.38,
+          "end": 133.7
+        },
+        {
+          "word": "por",
+          "start": 133.7,
+          "end": 134.4
+        },
+        {
+          "word": "siempre",
+          "start": 134.4,
+          "end": 135.54
+        },
+        {
+          "word": "lo",
+          "start": 135.54,
+          "end": 136.3
+        }
+      ],
+      "start": 133.38,
+      "end": 138.18,
+      "confidence": 0.571,
+      "time": 133.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en la grande eternidad.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 138.18,
+          "end": 138.44
+        },
+        {
+          "word": "grande",
+          "start": 138.44,
+          "end": 139.64
+        },
+        {
+          "word": "tendidad.",
+          "start": 139.64,
+          "end": 143.08
+        }
+      ],
+      "start": 138.18,
+      "end": 143.08,
+      "confidence": 0.724,
+      "time": 138.18
+    }
+  ]
+}

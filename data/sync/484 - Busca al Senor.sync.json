@@ -1,0 +1,563 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.792,
+  "language": "es",
+  "model": "medium",
+  "hymn": 484,
+  "source": "484 - Busca al Senor.mp3",
+  "duration": 153.99,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mi hermano, eleva tu alma hacia lo mejor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 20.8,
+          "end": 22.2
+        },
+        {
+          "word": "releva",
+          "start": 23.6,
+          "end": 25.54
+        },
+        {
+          "word": "tu",
+          "start": 25.54,
+          "end": 25.94
+        },
+        {
+          "word": "alma",
+          "start": 25.94,
+          "end": 27.14
+        },
+        {
+          "word": "hacia",
+          "start": 27.14,
+          "end": 28.26
+        },
+        {
+          "word": "lo",
+          "start": 28.26,
+          "end": 29.14
+        },
+        {
+          "word": "mejor.",
+          "start": 29.14,
+          "end": 29.98
+        }
+      ],
+      "start": 20.8,
+      "end": 29.98,
+      "confidence": 0.868,
+      "time": 20.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Deja lo que es pasajero, busca al Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Déjalo",
+          "start": 32.8,
+          "end": 34.2
+        },
+        {
+          "word": "que",
+          "start": 34.2,
+          "end": 34.84
+        },
+        {
+          "word": "es",
+          "start": 34.84,
+          "end": 35.32
+        },
+        {
+          "word": "pasajero,",
+          "start": 35.32,
+          "end": 37.4
+        },
+        {
+          "word": "busca",
+          "start": 37.66,
+          "end": 38.76
+        },
+        {
+          "word": "al",
+          "start": 38.76,
+          "end": 39.64
+        },
+        {
+          "word": "Señor,",
+          "start": 39.64,
+          "end": 42.26
+        }
+      ],
+      "start": 32.8,
+      "end": 43.58,
+      "confidence": 0.868,
+      "time": 32.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Esta tierra pasará, ella nada puede dar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "esta",
+          "start": 43.58,
+          "end": 44.16
+        },
+        {
+          "word": "tierra",
+          "start": 44.16,
+          "end": 45.4
+        },
+        {
+          "word": "pasará,",
+          "start": 45.4,
+          "end": 47.86
+        },
+        {
+          "word": "nada",
+          "start": 49.6,
+          "end": 50.78
+        },
+        {
+          "word": "puede",
+          "start": 50.78,
+          "end": 51.88
+        },
+        {
+          "word": "dar.",
+          "start": 51.88,
+          "end": 53.32
+        }
+      ],
+      "start": 43.58,
+      "end": 53.32,
+      "confidence": 0.857,
+      "time": 43.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ya es hora de elevarse al celeste hogar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 56.2,
+          "end": 57.06
+        },
+        {
+          "word": "elevarse",
+          "start": 57.06,
+          "end": 58.76
+        },
+        {
+          "word": "al",
+          "start": 58.76,
+          "end": 59.64
+        }
+      ],
+      "start": 56.2,
+      "end": 63.64,
+      "confidence": 0.375,
+      "time": 56.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Como un río corre al mar sin interrupción;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "como",
+          "start": 64.92,
+          "end": 65.38
+        },
+        {
+          "word": "un",
+          "start": 65.38,
+          "end": 65.78
+        },
+        {
+          "word": "río",
+          "start": 65.78,
+          "end": 66.84
+        },
+        {
+          "word": "corre",
+          "start": 66.84,
+          "end": 68.12
+        },
+        {
+          "word": "a",
+          "start": 68.12,
+          "end": 68.88
+        },
+        {
+          "word": "mar",
+          "start": 68.88,
+          "end": 69.36
+        },
+        {
+          "word": "sin",
+          "start": 69.36,
+          "end": 70.44
+        },
+        {
+          "word": "interrupción,",
+          "start": 70.44,
+          "end": 74.34
+        }
+      ],
+      "start": 64.92,
+      "end": 74.34,
+      "confidence": 0.975,
+      "time": 64.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "como un astro en su curso va sin variación;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Como",
+          "start": 74.34,
+          "end": 76.08
+        },
+        {
+          "word": "unas",
+          "start": 76.08,
+          "end": 77.2
+        },
+        {
+          "word": "en",
+          "start": 78.1,
+          "end": 78.36
+        },
+        {
+          "word": "su",
+          "start": 78.36,
+          "end": 78.98
+        },
+        {
+          "word": "curso",
+          "start": 78.98,
+          "end": 80.12
+        },
+        {
+          "word": "invalidación,",
+          "start": 81.6,
+          "end": 85.32
+        }
+      ],
+      "start": 74.34,
+      "end": 85.32,
+      "confidence": 0.629,
+      "time": 74.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "el que aceptó al Señor busca contemplar su faz;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 86.12,
+          "end": 86.48
+        },
+        {
+          "word": "que",
+          "start": 86.48,
+          "end": 87.12
+        },
+        {
+          "word": "acepta",
+          "start": 87.12,
+          "end": 88.72
+        },
+        {
+          "word": "al",
+          "start": 88.72,
+          "end": 89.16
+        },
+        {
+          "word": "Señor",
+          "start": 89.16,
+          "end": 90.6
+        },
+        {
+          "word": "busca",
+          "start": 90.6,
+          "end": 92.06
+        },
+        {
+          "word": "contemplar",
+          "start": 92.06,
+          "end": 94.38
+        },
+        {
+          "word": "su",
+          "start": 94.38,
+          "end": 95.02
+        },
+        {
+          "word": "paz.",
+          "start": 95.02,
+          "end": 95.96
+        }
+      ],
+      "start": 86.12,
+      "end": 95.96,
+      "confidence": 0.967,
+      "time": 86.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "tiende hacia el cielo siempre, y recibe paz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "hacia",
+          "start": 97.78,
+          "end": 98.56
+        },
+        {
+          "word": "el",
+          "start": 98.56,
+          "end": 99.18
+        },
+        {
+          "word": "cielo",
+          "start": 99.18,
+          "end": 99.84
+        },
+        {
+          "word": "siempre",
+          "start": 99.84,
+          "end": 101.36
+        },
+        {
+          "word": "y",
+          "start": 102.58,
+          "end": 103.64
+        },
+        {
+          "word": "recibe",
+          "start": 103.64,
+          "end": 104.2
+        },
+        {
+          "word": "paz,",
+          "start": 104.2,
+          "end": 106.48
+        }
+      ],
+      "start": 97.78,
+      "end": 106.48,
+      "confidence": 0.875,
+      "time": 97.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Peregrino, enjuga el llanto,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 109.28,
+          "end": 109.88
+        },
+        {
+          "word": "ato",
+          "start": 111.62,
+          "end": 112.5
+        }
+      ],
+      "start": 109.28,
+      "end": 112.5,
+      "confidence": 0.435,
+      "time": 109.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hacia el premio vas.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "hacia",
+          "start": 112.5,
+          "end": 113.26
+        },
+        {
+          "word": "el",
+          "start": 113.26,
+          "end": 114.08
+        },
+        {
+          "word": "premio",
+          "start": 114.08,
+          "end": 115.12
+        },
+        {
+          "word": "más.",
+          "start": 115.12,
+          "end": 117.08
+        }
+      ],
+      "start": 112.5,
+      "end": 117.08,
+      "confidence": 0.95,
+      "time": 112.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Pronto al Salvador viniendo en gran luz verás.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Pronto",
+          "start": 117.08,
+          "end": 118.64
+        },
+        {
+          "word": "al",
+          "start": 118.64,
+          "end": 119.02
+        },
+        {
+          "word": "Salvador",
+          "start": 119.02,
+          "end": 120.82
+        },
+        {
+          "word": "viniendo",
+          "start": 120.82,
+          "end": 122.88
+        },
+        {
+          "word": "entran",
+          "start": 122.88,
+          "end": 124.26
+        },
+        {
+          "word": "velas.",
+          "start": 125.12,
+          "end": 127.8
+        }
+      ],
+      "start": 117.08,
+      "end": 127.8,
+      "confidence": 0.705,
+      "time": 117.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Ya muy poco tardará, el hogar más cerca está.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Ya",
+          "start": 128.22,
+          "end": 129.1
+        },
+        {
+          "word": "poco",
+          "start": 130.04,
+          "end": 130.84
+        },
+        {
+          "word": "tardará,",
+          "start": 130.84,
+          "end": 133.24
+        },
+        {
+          "word": "el",
+          "start": 134.22,
+          "end": 134.62
+        },
+        {
+          "word": "hogar",
+          "start": 134.62,
+          "end": 135.68
+        },
+        {
+          "word": "más",
+          "start": 135.68,
+          "end": 136.58
+        },
+        {
+          "word": "cerca",
+          "start": 136.58,
+          "end": 137.42
+        },
+        {
+          "word": "está,",
+          "start": 137.42,
+          "end": 138.6
+        }
+      ],
+      "start": 128.22,
+      "end": 138.6,
+      "confidence": 0.889,
+      "time": 128.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Quedarán atrás las penas, gozo nos dará.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Quedarán",
+          "start": 140.16,
+          "end": 141.56
+        },
+        {
+          "word": "atrás",
+          "start": 141.56,
+          "end": 142.36
+        },
+        {
+          "word": "las",
+          "start": 142.36,
+          "end": 143.18
+        },
+        {
+          "word": "venas,",
+          "start": 143.18,
+          "end": 144.4
+        },
+        {
+          "word": "sonros",
+          "start": 145.46,
+          "end": 146.86
+        },
+        {
+          "word": "darán.",
+          "start": 146.86,
+          "end": 151.16
+        }
+      ],
+      "start": 140.16,
+      "end": 151.16,
+      "confidence": 0.803,
+      "time": 140.16
+    }
+  ]
+}

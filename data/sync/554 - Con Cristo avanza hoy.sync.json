@@ -1,0 +1,496 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.676,
+  "language": "es",
+  "model": "large-v3",
+  "hymn": 554,
+  "source": "554 - Con Cristo avanza hoy.mp3",
+  "duration": 140.2,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Con Cristo avanza hoy,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Con",
+          "start": 19.54,
+          "end": 20.94
+        },
+        {
+          "word": "Cristo",
+          "start": 20.94,
+          "end": 22.14
+        },
+        {
+          "word": "alza",
+          "start": 22.14,
+          "end": 23.76
+        },
+        {
+          "word": "hoy",
+          "start": 23.76,
+          "end": 24.54
+        }
+      ],
+      "start": 19.54,
+      "end": 29.0,
+      "confidence": 0.94,
+      "time": 19.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "él te llamó a ti.",
+      "verse": 1,
+      "start": 29.0,
+      "end": 29.2,
+      "confidence": 0.0,
+      "time": 29.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Te ha guiado",
+      "verse": 1,
+      "start": 29.2,
+      "end": 29.4,
+      "confidence": 0.0,
+      "time": 29.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y te guardará en su amor.",
+      "verse": 1,
+      "start": 29.4,
+      "end": 29.6,
+      "confidence": 0.0,
+      "time": 29.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Él cumplirá fielmente lo que a",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 24.54,
+          "end": 26.48
+        },
+        {
+          "word": "La",
+          "start": 51.02,
+          "end": 51.26
+        }
+      ],
+      "start": 29.6,
+      "end": 29.8,
+      "confidence": 0.3,
+      "time": 29.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "su iglesia prometió.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Iglesia",
+          "start": 51.26,
+          "end": 51.5
+        }
+      ],
+      "start": 51.26,
+      "end": 58.62,
+      "confidence": 0.333,
+      "time": 51.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Con Cristo avanza hoy,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Con",
+          "start": 59.0,
+          "end": 59.62
+        },
+        {
+          "word": "Cristo",
+          "start": 59.62,
+          "end": 60.68
+        },
+        {
+          "word": "avanza",
+          "start": 60.68,
+          "end": 62.2
+        },
+        {
+          "word": "hoy,",
+          "start": 62.2,
+          "end": 63.54
+        }
+      ],
+      "start": 59.0,
+      "end": 63.6,
+      "confidence": 1.0,
+      "time": 59.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "resuelto a alcanzar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "resuelto",
+          "start": 63.6,
+          "end": 66.36
+        },
+        {
+          "word": "alcanzar.",
+          "start": 66.36,
+          "end": 69.04
+        }
+      ],
+      "start": 63.6,
+      "end": 69.04,
+      "confidence": 0.667,
+      "time": 63.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "victorias en su nombre",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Victorias",
+          "start": 70.46,
+          "end": 71.86
+        },
+        {
+          "word": "en",
+          "start": 71.86,
+          "end": 72.46
+        },
+        {
+          "word": "su",
+          "start": 72.46,
+          "end": 72.96
+        },
+        {
+          "word": "nombre",
+          "start": 72.96,
+          "end": 74.2
+        }
+      ],
+      "start": 70.46,
+      "end": 74.2,
+      "confidence": 1.0,
+      "time": 70.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y por su poder.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 74.2,
+          "end": 74.92
+        },
+        {
+          "word": "por",
+          "start": 74.92,
+          "end": 75.68
+        },
+        {
+          "word": "su",
+          "start": 75.68,
+          "end": 76.36
+        },
+        {
+          "word": "poder",
+          "start": 76.36,
+          "end": 78.5
+        }
+      ],
+      "start": 74.2,
+      "end": 78.5,
+      "confidence": 1.0,
+      "time": 74.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Te guardará,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "te",
+          "start": 78.5,
+          "end": 80.9
+        },
+        {
+          "word": "guardarás.",
+          "start": 80.9,
+          "end": 85.08
+        }
+      ],
+      "start": 78.5,
+      "end": 85.08,
+      "confidence": 0.97,
+      "time": 78.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "su Santo Espíritu",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Su",
+          "start": 85.08,
+          "end": 86.32
+        },
+        {
+          "word": "Santo",
+          "start": 86.32,
+          "end": 87.26
+        },
+        {
+          "word": "Espíritu",
+          "start": 87.26,
+          "end": 89.68
+        }
+      ],
+      "start": 85.08,
+      "end": 89.68,
+      "confidence": 1.0,
+      "time": 85.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "te fortalecerá.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "te",
+          "start": 89.68,
+          "end": 90.26
+        },
+        {
+          "word": "fortalecerá.",
+          "start": 90.26,
+          "end": 95.54
+        }
+      ],
+      "start": 89.68,
+      "end": 95.54,
+      "confidence": 1.0,
+      "time": 89.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Con Cristo avanza hoy,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Con",
+          "start": 95.54,
+          "end": 98.32
+        },
+        {
+          "word": "Cristo",
+          "start": 98.32,
+          "end": 99.3
+        },
+        {
+          "word": "avanza",
+          "start": 99.3,
+          "end": 100.9
+        },
+        {
+          "word": "hoy",
+          "start": 100.9,
+          "end": 101.9
+        }
+      ],
+      "start": 95.54,
+      "end": 101.9,
+      "confidence": 1.0,
+      "time": 95.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "las buenas nuevas da;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "las",
+          "start": 101.9,
+          "end": 103.64
+        },
+        {
+          "word": "buenas",
+          "start": 103.64,
+          "end": 104.52
+        },
+        {
+          "word": "nuevas",
+          "start": 104.52,
+          "end": 105.8
+        },
+        {
+          "word": "da",
+          "start": 105.8,
+          "end": 106.92
+        }
+      ],
+      "start": 101.9,
+      "end": 106.92,
+      "confidence": 1.0,
+      "time": 101.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que por su sangre",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Que",
+          "start": 106.92,
+          "end": 108.62
+        },
+        {
+          "word": "por",
+          "start": 108.62,
+          "end": 109.56
+        },
+        {
+          "word": "su",
+          "start": 109.56,
+          "end": 110.24
+        },
+        {
+          "word": "sangre",
+          "start": 110.24,
+          "end": 111.44
+        }
+      ],
+      "start": 106.92,
+      "end": 111.44,
+      "confidence": 1.0,
+      "time": 106.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "salvación ofrece ya.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "salvación",
+          "start": 111.44,
+          "end": 113.74
+        },
+        {
+          "word": "ofrece",
+          "start": 113.74,
+          "end": 115.88
+        },
+        {
+          "word": "ya",
+          "start": 115.88,
+          "end": 117.66
+        }
+      ],
+      "start": 111.44,
+      "end": 117.66,
+      "confidence": 1.0,
+      "time": 111.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Avanza hoy,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "¡Avanzador!",
+          "start": 121.48,
+          "end": 122.88
+        }
+      ],
+      "start": 121.48,
+      "end": 124.92,
+      "confidence": 0.47,
+      "time": 121.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "imita al Salvador,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "¡Limita",
+          "start": 124.92,
+          "end": 126.32
+        },
+        {
+          "word": "al",
+          "start": 126.32,
+          "end": 126.66
+        },
+        {
+          "word": "Salvador",
+          "start": 126.66,
+          "end": 127.74
+        }
+      ],
+      "start": 124.92,
+      "end": 127.74,
+      "confidence": 0.982,
+      "time": 124.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con Cristo avanza hoy.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 127.74,
+          "end": 129.02
+        },
+        {
+          "word": "Cristo",
+          "start": 129.02,
+          "end": 130.24
+        },
+        {
+          "word": "avanzador!",
+          "start": 130.24,
+          "end": 133.76
+        }
+      ],
+      "start": 127.74,
+      "end": 133.76,
+      "confidence": 0.735,
+      "time": 127.74
+    }
+  ]
+}

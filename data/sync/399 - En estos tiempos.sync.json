@@ -1,0 +1,1133 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.754,
+  "language": "es",
+  "model": "medium",
+  "hymn": 399,
+  "source": "399 - En estos tiempos.mp3",
+  "duration": 171.42,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "En estos tiempos necesitas",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 21.5,
+          "end": 22.9
+        },
+        {
+          "word": "estos",
+          "start": 22.9,
+          "end": 23.58
+        },
+        {
+          "word": "tiempos",
+          "start": 23.58,
+          "end": 25.86
+        },
+        {
+          "word": "necesitas",
+          "start": 25.86,
+          "end": 27.88
+        }
+      ],
+      "start": 21.5,
+      "end": 27.88,
+      "confidence": 1.0,
+      "time": 21.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "un Salvador, un ancla firme.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Un",
+          "start": 27.88,
+          "end": 28.48
+        },
+        {
+          "word": "Salvador,",
+          "start": 28.48,
+          "end": 30.12
+        },
+        {
+          "word": "un",
+          "start": 31.1,
+          "end": 31.44
+        },
+        {
+          "word": "ancla",
+          "start": 31.44,
+          "end": 31.96
+        },
+        {
+          "word": "firme,",
+          "start": 31.96,
+          "end": 33.72
+        }
+      ],
+      "start": 27.88,
+      "end": 33.86,
+      "confidence": 1.0,
+      "time": 27.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Debes tener seguridad",
+      "verse": 1,
+      "words": [
+        {
+          "word": "debes",
+          "start": 33.86,
+          "end": 34.6
+        },
+        {
+          "word": "tener",
+          "start": 34.6,
+          "end": 36.44
+        },
+        {
+          "word": "seguridad",
+          "start": 36.44,
+          "end": 38.16
+        }
+      ],
+      "start": 33.86,
+      "end": 38.16,
+      "confidence": 1.0,
+      "time": 33.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de que tu ancla en la Roca esté.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 38.88,
+          "end": 39.68
+        },
+        {
+          "word": "que",
+          "start": 39.68,
+          "end": 40.04
+        },
+        {
+          "word": "tu",
+          "start": 40.04,
+          "end": 41.02
+        },
+        {
+          "word": "ancla",
+          "start": 41.02,
+          "end": 42.48
+        },
+        {
+          "word": "en",
+          "start": 42.48,
+          "end": 42.94
+        },
+        {
+          "word": "la",
+          "start": 42.94,
+          "end": 43.46
+        },
+        {
+          "word": "roca",
+          "start": 43.46,
+          "end": 44.44
+        },
+        {
+          "word": "esté.",
+          "start": 44.44,
+          "end": 45.9
+        }
+      ],
+      "start": 38.88,
+      "end": 45.9,
+      "confidence": 1.0,
+      "time": 38.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "La Roca es Cristo,",
+      "words": [
+        {
+          "word": "La",
+          "start": 46.38,
+          "end": 46.86
+        },
+        {
+          "word": "roca",
+          "start": 46.86,
+          "end": 47.38
+        },
+        {
+          "word": "es",
+          "start": 47.38,
+          "end": 47.66
+        },
+        {
+          "word": "Cristo,",
+          "start": 47.66,
+          "end": 48.88
+        }
+      ],
+      "start": 46.38,
+      "end": 49.42,
+      "confidence": 1.0,
+      "time": 46.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "no hay otra igual;",
+      "words": [
+        {
+          "word": "no",
+          "start": 49.42,
+          "end": 49.58
+        },
+        {
+          "word": "hay",
+          "start": 49.58,
+          "end": 49.88
+        },
+        {
+          "word": "otra",
+          "start": 49.88,
+          "end": 50.28
+        },
+        {
+          "word": "igual.",
+          "start": 50.28,
+          "end": 51.56
+        }
+      ],
+      "start": 49.42,
+      "end": 51.56,
+      "confidence": 1.0,
+      "time": 49.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "la Roca es Cristo,",
+      "words": [
+        {
+          "word": "La",
+          "start": 52.18,
+          "end": 52.42
+        },
+        {
+          "word": "roca",
+          "start": 52.42,
+          "end": 53.02
+        },
+        {
+          "word": "es",
+          "start": 53.02,
+          "end": 53.3
+        },
+        {
+          "word": "Cristo,",
+          "start": 53.3,
+          "end": 54.4
+        }
+      ],
+      "start": 52.18,
+      "end": 54.88,
+      "confidence": 1.0,
+      "time": 52.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "no hay otra igual.",
+      "words": [
+        {
+          "word": "no",
+          "start": 54.88,
+          "end": 55.08
+        },
+        {
+          "word": "hay",
+          "start": 55.08,
+          "end": 55.48
+        },
+        {
+          "word": "otra",
+          "start": 55.48,
+          "end": 56.0
+        },
+        {
+          "word": "igual.",
+          "start": 56.0,
+          "end": 57.26
+        }
+      ],
+      "start": 54.88,
+      "end": 57.26,
+      "confidence": 1.0,
+      "time": 54.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "[1 y 2:] Debes tener seguridad",
+      "words": [
+        {
+          "word": "debes",
+          "start": 57.26,
+          "end": 58.68
+        },
+        {
+          "word": "tener",
+          "start": 58.68,
+          "end": 60.56
+        },
+        {
+          "word": "seguridad",
+          "start": 60.56,
+          "end": 62.88
+        }
+      ],
+      "start": 57.26,
+      "end": 62.88,
+      "confidence": 0.5,
+      "time": 57.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "de que tu ancla en la Roca esté.",
+      "words": [
+        {
+          "word": "de",
+          "start": 62.88,
+          "end": 63.76
+        },
+        {
+          "word": "que",
+          "start": 63.76,
+          "end": 64.14
+        },
+        {
+          "word": "tu",
+          "start": 64.14,
+          "end": 65.26
+        },
+        {
+          "word": "ancla",
+          "start": 65.26,
+          "end": 66.62
+        },
+        {
+          "word": "en",
+          "start": 66.62,
+          "end": 67.1
+        },
+        {
+          "word": "la",
+          "start": 67.1,
+          "end": 67.6
+        },
+        {
+          "word": "roca",
+          "start": 67.6,
+          "end": 68.58
+        },
+        {
+          "word": "esté.",
+          "start": 68.58,
+          "end": 70.14
+        }
+      ],
+      "start": 62.88,
+      "end": 70.14,
+      "confidence": 1.0,
+      "time": 62.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "[3:] Seguro estoy, seguro estoy,",
+      "start": 70.14,
+      "end": 70.34,
+      "confidence": 0.0,
+      "time": 70.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "sé que mi ancla en la Roca está.",
+      "start": 70.34,
+      "end": 70.54,
+      "confidence": 0.0,
+      "time": 70.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En estos tiempos necesitas",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 70.44,
+          "end": 71.38
+        },
+        {
+          "word": "estos",
+          "start": 71.38,
+          "end": 71.74
+        },
+        {
+          "word": "tiempos",
+          "start": 71.74,
+          "end": 74.1
+        },
+        {
+          "word": "necesitas",
+          "start": 74.1,
+          "end": 76.16
+        }
+      ],
+      "start": 70.54,
+      "end": 70.74,
+      "confidence": 1.0,
+      "time": 70.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la Santa Biblia, la Palabra.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 76.16,
+          "end": 76.82
+        },
+        {
+          "word": "Santa",
+          "start": 76.82,
+          "end": 77.44
+        },
+        {
+          "word": "Biblia.",
+          "start": 77.44,
+          "end": 79.5
+        },
+        {
+          "word": "la",
+          "start": 79.5,
+          "end": 80.76
+        },
+        {
+          "word": "palabra",
+          "start": 80.76,
+          "end": 81.42
+        }
+      ],
+      "start": 76.16,
+      "end": 81.42,
+      "confidence": 1.0,
+      "time": 76.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Debes tener seguridad",
+      "verse": 2,
+      "words": [
+        {
+          "word": "debes",
+          "start": 81.42,
+          "end": 82.96
+        },
+        {
+          "word": "tener",
+          "start": 82.96,
+          "end": 84.8
+        },
+        {
+          "word": "seguridad",
+          "start": 84.8,
+          "end": 86.2
+        }
+      ],
+      "start": 81.42,
+      "end": 86.2,
+      "confidence": 1.0,
+      "time": 81.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de que tu ancla en la Roca esté.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 86.2,
+          "end": 88.02
+        },
+        {
+          "word": "que",
+          "start": 88.02,
+          "end": 88.36
+        },
+        {
+          "word": "tu",
+          "start": 88.36,
+          "end": 89.64
+        },
+        {
+          "word": "antla",
+          "start": 89.64,
+          "end": 90.86
+        },
+        {
+          "word": "en",
+          "start": 90.86,
+          "end": 91.3
+        },
+        {
+          "word": "la",
+          "start": 91.3,
+          "end": 91.78
+        },
+        {
+          "word": "roca",
+          "start": 91.78,
+          "end": 92.8
+        },
+        {
+          "word": "esté",
+          "start": 92.8,
+          "end": 94.18
+        }
+      ],
+      "start": 86.2,
+      "end": 94.18,
+      "confidence": 0.985,
+      "time": 86.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "La Roca es Cristo,",
+      "words": [
+        {
+          "word": "la",
+          "start": 94.54,
+          "end": 95.24
+        },
+        {
+          "word": "roca",
+          "start": 95.24,
+          "end": 95.82
+        },
+        {
+          "word": "es",
+          "start": 95.82,
+          "end": 96.1
+        },
+        {
+          "word": "Cristo",
+          "start": 96.1,
+          "end": 97.3
+        }
+      ],
+      "start": 94.54,
+      "end": 97.3,
+      "confidence": 1.0,
+      "time": 94.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "no hay otra igual;",
+      "words": [
+        {
+          "word": "no",
+          "start": 97.3,
+          "end": 97.96
+        },
+        {
+          "word": "hay",
+          "start": 97.96,
+          "end": 98.24
+        },
+        {
+          "word": "otra",
+          "start": 98.24,
+          "end": 98.62
+        },
+        {
+          "word": "igual",
+          "start": 98.62,
+          "end": 100.06
+        }
+      ],
+      "start": 97.3,
+      "end": 100.06,
+      "confidence": 1.0,
+      "time": 97.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "la Roca es Cristo,",
+      "words": [
+        {
+          "word": "la",
+          "start": 100.06,
+          "end": 100.88
+        },
+        {
+          "word": "roca",
+          "start": 100.88,
+          "end": 101.4
+        },
+        {
+          "word": "es",
+          "start": 101.4,
+          "end": 101.76
+        },
+        {
+          "word": "Cristo",
+          "start": 101.76,
+          "end": 102.84
+        }
+      ],
+      "start": 100.06,
+      "end": 102.84,
+      "confidence": 1.0,
+      "time": 100.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "no hay otra igual.",
+      "words": [
+        {
+          "word": "no",
+          "start": 102.84,
+          "end": 103.5
+        },
+        {
+          "word": "hay",
+          "start": 103.5,
+          "end": 103.86
+        },
+        {
+          "word": "otra",
+          "start": 103.86,
+          "end": 104.4
+        },
+        {
+          "word": "igual",
+          "start": 104.4,
+          "end": 105.7
+        }
+      ],
+      "start": 102.84,
+      "end": 105.7,
+      "confidence": 1.0,
+      "time": 102.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "[1 y 2:] Debes tener seguridad",
+      "words": [
+        {
+          "word": "Debes",
+          "start": 105.7,
+          "end": 107.04
+        },
+        {
+          "word": "tener",
+          "start": 107.04,
+          "end": 108.94
+        },
+        {
+          "word": "seguridad",
+          "start": 108.94,
+          "end": 110.98
+        }
+      ],
+      "start": 105.7,
+      "end": 110.98,
+      "confidence": 0.5,
+      "time": 105.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "de que tu ancla en la Roca esté.",
+      "words": [
+        {
+          "word": "De",
+          "start": 111.5,
+          "end": 112.22
+        },
+        {
+          "word": "que",
+          "start": 112.22,
+          "end": 112.56
+        },
+        {
+          "word": "tu",
+          "start": 112.56,
+          "end": 114.06
+        },
+        {
+          "word": "ancla",
+          "start": 114.06,
+          "end": 114.98
+        },
+        {
+          "word": "en",
+          "start": 114.98,
+          "end": 115.44
+        },
+        {
+          "word": "la",
+          "start": 115.44,
+          "end": 115.92
+        },
+        {
+          "word": "roca",
+          "start": 115.92,
+          "end": 116.94
+        },
+        {
+          "word": "esté",
+          "start": 116.94,
+          "end": 118.42
+        }
+      ],
+      "start": 111.5,
+      "end": 118.42,
+      "confidence": 1.0,
+      "time": 111.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "[3:] Seguro estoy, seguro estoy,",
+      "start": 118.42,
+      "end": 118.62,
+      "confidence": 0.0,
+      "time": 118.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "sé que mi ancla en la Roca está.",
+      "start": 118.62,
+      "end": 118.82,
+      "confidence": 0.0,
+      "time": 118.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "En estos tiempos sé que tengo",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 118.42,
+          "end": 119.74
+        },
+        {
+          "word": "estos",
+          "start": 119.74,
+          "end": 120.08
+        },
+        {
+          "word": "tiempos",
+          "start": 120.08,
+          "end": 122.14
+        },
+        {
+          "word": "Sé",
+          "start": 122.14,
+          "end": 122.48
+        },
+        {
+          "word": "que",
+          "start": 122.48,
+          "end": 123.38
+        },
+        {
+          "word": "tengo",
+          "start": 123.38,
+          "end": 124.2
+        }
+      ],
+      "start": 118.82,
+      "end": 119.02,
+      "confidence": 1.0,
+      "time": 118.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "un Salvador, un ancla firme.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "un",
+          "start": 124.2,
+          "end": 125.06
+        },
+        {
+          "word": "Salvador",
+          "start": 125.06,
+          "end": 126.7
+        },
+        {
+          "word": "Un",
+          "start": 127.24,
+          "end": 127.94
+        },
+        {
+          "word": "ancla",
+          "start": 127.94,
+          "end": 128.48
+        },
+        {
+          "word": "firme",
+          "start": 128.48,
+          "end": 130.28
+        }
+      ],
+      "start": 124.2,
+      "end": 130.28,
+      "confidence": 1.0,
+      "time": 124.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Seguro estoy, seguro estoy,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Seguro",
+          "start": 130.28,
+          "end": 131.34
+        },
+        {
+          "word": "estoy,",
+          "start": 131.34,
+          "end": 132.86
+        },
+        {
+          "word": "seguro",
+          "start": 133.58,
+          "end": 134.16
+        },
+        {
+          "word": "estoy",
+          "start": 134.16,
+          "end": 135.54
+        }
+      ],
+      "start": 130.28,
+      "end": 135.54,
+      "confidence": 1.0,
+      "time": 130.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "sé que mi ancla en la Roca está.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Sé",
+          "start": 135.54,
+          "end": 136.24
+        },
+        {
+          "word": "que",
+          "start": 136.24,
+          "end": 136.68
+        },
+        {
+          "word": "mi",
+          "start": 136.68,
+          "end": 138.12
+        },
+        {
+          "word": "ancla",
+          "start": 138.12,
+          "end": 139.12
+        },
+        {
+          "word": "en",
+          "start": 139.12,
+          "end": 139.58
+        },
+        {
+          "word": "la",
+          "start": 139.58,
+          "end": 140.14
+        },
+        {
+          "word": "roca",
+          "start": 140.14,
+          "end": 141.24
+        },
+        {
+          "word": "está",
+          "start": 141.24,
+          "end": 142.52
+        }
+      ],
+      "start": 135.54,
+      "end": 142.52,
+      "confidence": 1.0,
+      "time": 135.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "La Roca es Cristo,",
+      "words": [
+        {
+          "word": "La",
+          "start": 142.52,
+          "end": 143.4
+        },
+        {
+          "word": "roca",
+          "start": 143.4,
+          "end": 144.06
+        },
+        {
+          "word": "es",
+          "start": 144.06,
+          "end": 144.38
+        },
+        {
+          "word": "Cristo,",
+          "start": 144.38,
+          "end": 145.58
+        }
+      ],
+      "start": 142.52,
+      "end": 145.84,
+      "confidence": 1.0,
+      "time": 142.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "no hay otra igual;",
+      "words": [
+        {
+          "word": "no",
+          "start": 145.84,
+          "end": 146.22
+        },
+        {
+          "word": "hay",
+          "start": 146.22,
+          "end": 146.52
+        },
+        {
+          "word": "otra",
+          "start": 146.52,
+          "end": 146.94
+        },
+        {
+          "word": "igual",
+          "start": 146.94,
+          "end": 148.36
+        }
+      ],
+      "start": 145.84,
+      "end": 148.36,
+      "confidence": 1.0,
+      "time": 145.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "la Roca es Cristo,",
+      "words": [
+        {
+          "word": "La",
+          "start": 148.36,
+          "end": 149.06
+        },
+        {
+          "word": "roca",
+          "start": 149.06,
+          "end": 149.78
+        },
+        {
+          "word": "es",
+          "start": 149.78,
+          "end": 149.94
+        },
+        {
+          "word": "Cristo,",
+          "start": 149.94,
+          "end": 151.2
+        }
+      ],
+      "start": 148.36,
+      "end": 151.64,
+      "confidence": 1.0,
+      "time": 148.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "no hay otra igual.",
+      "words": [
+        {
+          "word": "no",
+          "start": 151.64,
+          "end": 151.88
+        },
+        {
+          "word": "hay",
+          "start": 151.88,
+          "end": 152.24
+        },
+        {
+          "word": "otra",
+          "start": 152.24,
+          "end": 152.7
+        },
+        {
+          "word": "igual",
+          "start": 152.7,
+          "end": 154.14
+        }
+      ],
+      "start": 151.64,
+      "end": 154.14,
+      "confidence": 1.0,
+      "time": 151.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "[1 y 2:] Debes tener seguridad",
+      "start": 154.14,
+      "end": 154.34,
+      "confidence": 0.0,
+      "time": 154.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "de que tu ancla en la Roca esté.",
+      "start": 154.34,
+      "end": 154.54,
+      "confidence": 0.0,
+      "time": 154.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "[3:] Seguro estoy, seguro estoy,",
+      "words": [
+        {
+          "word": "Seguro",
+          "start": 154.14,
+          "end": 155.62
+        },
+        {
+          "word": "estoy,",
+          "start": 155.62,
+          "end": 157.16
+        },
+        {
+          "word": "seguro",
+          "start": 157.34,
+          "end": 158.36
+        },
+        {
+          "word": "estoy",
+          "start": 158.36,
+          "end": 159.8
+        }
+      ],
+      "start": 154.54,
+      "end": 154.74,
+      "confidence": 0.8,
+      "time": 154.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "sé que mi ancla en la Roca está.",
+      "words": [
+        {
+          "word": "Sé",
+          "start": 159.8,
+          "end": 160.56
+        },
+        {
+          "word": "que",
+          "start": 160.56,
+          "end": 161.08
+        },
+        {
+          "word": "mi",
+          "start": 161.08,
+          "end": 162.44
+        },
+        {
+          "word": "antla",
+          "start": 162.44,
+          "end": 163.36
+        },
+        {
+          "word": "en",
+          "start": 163.36,
+          "end": 163.7
+        },
+        {
+          "word": "la",
+          "start": 163.7,
+          "end": 164.26
+        },
+        {
+          "word": "roca",
+          "start": 164.26,
+          "end": 165.54
+        },
+        {
+          "word": "está.",
+          "start": 165.54,
+          "end": 166.2
+        }
+      ],
+      "start": 159.8,
+      "end": 166.2,
+      "confidence": 0.985,
+      "time": 159.8
+    }
+  ]
+}

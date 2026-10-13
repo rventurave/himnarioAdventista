@@ -1,0 +1,770 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.926,
+  "language": "es",
+  "model": "medium",
+  "hymn": 213,
+  "source": "213 - Tierno y amante, Jesus nos invita.mp3",
+  "duration": 200.15,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tierno y amante, Jesús nos invita.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tierno",
+          "start": 16.48,
+          "end": 17.88
+        },
+        {
+          "word": "Llamante",
+          "start": 17.88,
+          "end": 19.28
+        },
+        {
+          "word": "Jesús",
+          "start": 19.28,
+          "end": 20.44
+        },
+        {
+          "word": "nos",
+          "start": 20.44,
+          "end": 21.5
+        },
+        {
+          "word": "invita,",
+          "start": 21.5,
+          "end": 23.36
+        }
+      ],
+      "start": 16.48,
+      "end": 23.96,
+      "confidence": 0.819,
+      "time": 16.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Llámate a ti, y a mí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "llámate",
+          "start": 23.96,
+          "end": 25.08
+        },
+        {
+          "word": "a",
+          "start": 25.08,
+          "end": 25.58
+        },
+        {
+          "word": "ti,",
+          "start": 25.58,
+          "end": 26.6
+        },
+        {
+          "word": "a",
+          "start": 27.24,
+          "end": 27.42
+        },
+        {
+          "word": "mí.",
+          "start": 27.42,
+          "end": 29.98
+        }
+      ],
+      "start": 23.96,
+      "end": 29.98,
+      "confidence": 0.833,
+      "time": 23.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mírale allá en la puerta esperando;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "mírale",
+          "start": 30.0,
+          "end": 32.32
+        },
+        {
+          "word": "allá",
+          "start": 32.32,
+          "end": 33.14
+        },
+        {
+          "word": "en",
+          "start": 33.14,
+          "end": 33.88
+        },
+        {
+          "word": "la",
+          "start": 33.88,
+          "end": 34.46
+        },
+        {
+          "word": "puerta",
+          "start": 34.46,
+          "end": 35.14
+        },
+        {
+          "word": "esperando,",
+          "start": 35.14,
+          "end": 37.3
+        }
+      ],
+      "start": 30.0,
+      "end": 38.54,
+      "confidence": 1.0,
+      "time": 30.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "aguarda a ti y a mí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "aguarda",
+          "start": 38.54,
+          "end": 39.98
+        },
+        {
+          "word": "a",
+          "start": 39.98,
+          "end": 40.02
+        },
+        {
+          "word": "ti",
+          "start": 40.02,
+          "end": 40.64
+        },
+        {
+          "word": "y",
+          "start": 40.64,
+          "end": 41.2
+        },
+        {
+          "word": "a",
+          "start": 41.2,
+          "end": 41.92
+        },
+        {
+          "word": "mí.",
+          "start": 41.92,
+          "end": 44.16
+        }
+      ],
+      "start": 38.54,
+      "end": 44.16,
+      "confidence": 1.0,
+      "time": 38.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Venid, venid, tristes, cansados, venid!",
+      "words": [
+        {
+          "word": "Venid,",
+          "start": 49.44,
+          "end": 50.84
+        },
+        {
+          "word": "venid,",
+          "start": 50.84,
+          "end": 52.24
+        },
+        {
+          "word": "tristes,",
+          "start": 52.8,
+          "end": 53.58
+        },
+        {
+          "word": "cansados,",
+          "start": 53.6,
+          "end": 55.62
+        },
+        {
+          "word": "venid,",
+          "start": 55.84,
+          "end": 59.48
+        }
+      ],
+      "start": 49.44,
+      "end": 60.32,
+      "confidence": 1.0,
+      "time": 49.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Tierno y amante, Jesús nos invita:",
+      "words": [
+        {
+          "word": "tierno",
+          "start": 60.32,
+          "end": 60.86
+        },
+        {
+          "word": "y",
+          "start": 60.86,
+          "end": 61.38
+        },
+        {
+          "word": "amante,",
+          "start": 61.38,
+          "end": 62.56
+        },
+        {
+          "word": "Jesús",
+          "start": 63.02,
+          "end": 63.7
+        },
+        {
+          "word": "nos",
+          "start": 63.7,
+          "end": 64.8
+        },
+        {
+          "word": "invita,",
+          "start": 64.8,
+          "end": 66.4
+        }
+      ],
+      "start": 60.32,
+      "end": 66.4,
+      "confidence": 1.0,
+      "time": 60.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, pecadores, venid!",
+      "words": [
+        {
+          "word": "O",
+          "start": 66.4,
+          "end": 67.48
+        },
+        {
+          "word": "pecado",
+          "start": 67.48,
+          "end": 69.1
+        }
+      ],
+      "start": 66.4,
+      "end": 75.4,
+      "confidence": 0.58,
+      "time": 66.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Sigue llamando; ¿por qué dilatamos?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Sigue",
+          "start": 75.94,
+          "end": 76.98
+        },
+        {
+          "word": "llamando",
+          "start": 76.98,
+          "end": 78.66
+        },
+        {
+          "word": "porque",
+          "start": 78.66,
+          "end": 79.7
+        },
+        {
+          "word": "dilatamos,",
+          "start": 79.7,
+          "end": 82.66
+        }
+      ],
+      "start": 75.94,
+      "end": 82.66,
+      "confidence": 0.788,
+      "time": 75.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Llámate a ti, y a mí.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "llámate",
+          "start": 83.34,
+          "end": 84.5
+        },
+        {
+          "word": "a",
+          "start": 84.5,
+          "end": 84.88
+        },
+        {
+          "word": "ti",
+          "start": 84.88,
+          "end": 85.96
+        },
+        {
+          "word": "y",
+          "start": 85.96,
+          "end": 86.24
+        },
+        {
+          "word": "a",
+          "start": 86.24,
+          "end": 86.78
+        },
+        {
+          "word": "mí.",
+          "start": 86.78,
+          "end": 89.64
+        }
+      ],
+      "start": 83.34,
+      "end": 89.64,
+      "confidence": 1.0,
+      "time": 83.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Tantas mercedes en poco tendremos?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tantas",
+          "start": 89.64,
+          "end": 91.38
+        },
+        {
+          "word": "Mercedes",
+          "start": 91.38,
+          "end": 93.04
+        },
+        {
+          "word": "en",
+          "start": 93.04,
+          "end": 93.92
+        },
+        {
+          "word": "poco",
+          "start": 93.92,
+          "end": 94.9
+        },
+        {
+          "word": "tendremos,",
+          "start": 94.9,
+          "end": 96.94
+        }
+      ],
+      "start": 89.64,
+      "end": 98.06,
+      "confidence": 1.0,
+      "time": 89.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Ámate a ti y a mí.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "amate",
+          "start": 98.06,
+          "end": 98.98
+        },
+        {
+          "word": "a",
+          "start": 98.98,
+          "end": 99.36
+        },
+        {
+          "word": "ti",
+          "start": 99.36,
+          "end": 100.36
+        },
+        {
+          "word": "y",
+          "start": 100.36,
+          "end": 101.02
+        },
+        {
+          "word": "a",
+          "start": 101.02,
+          "end": 101.46
+        },
+        {
+          "word": "mí.",
+          "start": 101.46,
+          "end": 103.48
+        }
+      ],
+      "start": 98.06,
+      "end": 103.48,
+      "confidence": 1.0,
+      "time": 98.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Venid, venid, tristes, cansados, venid!",
+      "words": [
+        {
+          "word": "Venid,",
+          "start": 108.8,
+          "end": 110.2
+        },
+        {
+          "word": "venid,",
+          "start": 110.2,
+          "end": 111.6
+        },
+        {
+          "word": "tristes,",
+          "start": 111.78,
+          "end": 112.92
+        },
+        {
+          "word": "cansados,",
+          "start": 112.96,
+          "end": 115.1
+        },
+        {
+          "word": "venid.",
+          "start": 115.26,
+          "end": 118.54
+        }
+      ],
+      "start": 108.8,
+      "end": 118.54,
+      "confidence": 1.0,
+      "time": 108.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Tierno y amante, Jesús nos invita:",
+      "words": [
+        {
+          "word": "Tierno",
+          "start": 118.54,
+          "end": 120.12
+        },
+        {
+          "word": "y",
+          "start": 120.12,
+          "end": 120.74
+        },
+        {
+          "word": "amante",
+          "start": 120.74,
+          "end": 121.86
+        },
+        {
+          "word": "Jesús",
+          "start": 121.86,
+          "end": 123.04
+        },
+        {
+          "word": "nos",
+          "start": 123.04,
+          "end": 124.1
+        },
+        {
+          "word": "invita,",
+          "start": 124.1,
+          "end": 125.9
+        }
+      ],
+      "start": 118.54,
+      "end": 126.38,
+      "confidence": 1.0,
+      "time": 118.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, pecadores, venid!",
+      "words": [
+        {
+          "word": "o",
+          "start": 126.38,
+          "end": 126.92
+        },
+        {
+          "word": "pecado",
+          "start": 126.92,
+          "end": 128.52
+        }
+      ],
+      "start": 126.38,
+      "end": 134.6,
+      "confidence": 0.58,
+      "time": 126.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Oh, maravilla de amor prometido",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Oh",
+          "start": 134.6,
+          "end": 136.1
+        },
+        {
+          "word": "maravilla",
+          "start": 136.1,
+          "end": 138.04
+        },
+        {
+          "word": "de",
+          "start": 138.04,
+          "end": 138.48
+        },
+        {
+          "word": "amor",
+          "start": 138.48,
+          "end": 139.3
+        },
+        {
+          "word": "prometido,",
+          "start": 139.3,
+          "end": 142.2
+        }
+      ],
+      "start": 134.6,
+      "end": 142.58,
+      "confidence": 1.0,
+      "time": 134.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "tanto a ti como a mí!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tanto",
+          "start": 142.58,
+          "end": 143.46
+        },
+        {
+          "word": "a",
+          "start": 143.46,
+          "end": 144.42
+        },
+        {
+          "word": "ti",
+          "start": 144.42,
+          "end": 145.02
+        },
+        {
+          "word": "como",
+          "start": 145.02,
+          "end": 145.6
+        },
+        {
+          "word": "a",
+          "start": 145.6,
+          "end": 146.08
+        },
+        {
+          "word": "mí,",
+          "start": 146.08,
+          "end": 149.08
+        }
+      ],
+      "start": 142.58,
+      "end": 149.08,
+      "confidence": 1.0,
+      "time": 142.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Ven y recibe el perdón ofrecido,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ven",
+          "start": 149.76,
+          "end": 150.56
+        },
+        {
+          "word": "y",
+          "start": 150.56,
+          "end": 151.02
+        },
+        {
+          "word": "recibe",
+          "start": 151.02,
+          "end": 152.32
+        },
+        {
+          "word": "el",
+          "start": 152.32,
+          "end": 152.92
+        },
+        {
+          "word": "perdono",
+          "start": 152.92,
+          "end": 154.26
+        },
+        {
+          "word": "ofrecido,",
+          "start": 154.26,
+          "end": 156.6
+        }
+      ],
+      "start": 149.76,
+      "end": 156.98,
+      "confidence": 0.99,
+      "time": 149.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "dado de gracia a ti.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "dado",
+          "start": 156.98,
+          "end": 157.82
+        },
+        {
+          "word": "gracia",
+          "start": 158.7,
+          "end": 160.16
+        },
+        {
+          "word": "a",
+          "start": 160.16,
+          "end": 160.7
+        },
+        {
+          "word": "ti.",
+          "start": 160.7,
+          "end": 162.88
+        }
+      ],
+      "start": 156.98,
+      "end": 162.88,
+      "confidence": 0.8,
+      "time": 156.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Venid, venid, tristes, cansados, venid!",
+      "words": [
+        {
+          "word": "Venid,",
+          "start": 168.16,
+          "end": 169.56
+        },
+        {
+          "word": "venid,",
+          "start": 169.56,
+          "end": 170.96
+        },
+        {
+          "word": "tristes,",
+          "start": 171.2,
+          "end": 172.34
+        },
+        {
+          "word": "cansados,",
+          "start": 172.38,
+          "end": 174.48
+        },
+        {
+          "word": "venid,",
+          "start": 174.62,
+          "end": 178.22
+        }
+      ],
+      "start": 168.16,
+      "end": 178.22,
+      "confidence": 1.0,
+      "time": 168.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Tierno y amante, Jesús nos invita:",
+      "words": [
+        {
+          "word": "Pierdo",
+          "start": 178.22,
+          "end": 179.72
+        },
+        {
+          "word": "y",
+          "start": 179.72,
+          "end": 180.16
+        },
+        {
+          "word": "amante,",
+          "start": 180.16,
+          "end": 181.26
+        },
+        {
+          "word": "Jesús",
+          "start": 181.88,
+          "end": 182.5
+        },
+        {
+          "word": "nos",
+          "start": 182.5,
+          "end": 183.52
+        },
+        {
+          "word": "invita,",
+          "start": 183.52,
+          "end": 185.24
+        }
+      ],
+      "start": 178.22,
+      "end": 185.24,
+      "confidence": 0.967,
+      "time": 178.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, pecadores, venid!",
+      "words": [
+        {
+          "word": "¡o",
+          "start": 185.96,
+          "end": 186.48
+        },
+        {
+          "word": "pecado",
+          "start": 186.48,
+          "end": 188.12
+        }
+      ],
+      "start": 185.96,
+      "end": 193.74,
+      "confidence": 0.58,
+      "time": 185.96
+    }
+  ]
+}

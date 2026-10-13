@@ -1,0 +1,145 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.625,
+  "language": "es",
+  "model": "medium",
+  "hymn": 283,
+  "source": "283 - Ven, Señor Jesus.mp3",
+  "duration": 65.38,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ven, Señor Jesús, dirige mi pensar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 3.08,
+          "end": 3.08
+        },
+        {
+          "word": "Jesucristo",
+          "start": 3.22,
+          "end": 3.22
+        },
+        {
+          "word": "mi",
+          "start": 30.38,
+          "end": 31.22
+        }
+      ],
+      "start": 3.08,
+      "end": 34.06,
+      "confidence": 0.447,
+      "time": 3.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ven, Señor Jesús, protege mi mirar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ven,",
+          "start": 35.38,
+          "end": 35.78
+        },
+        {
+          "word": "Señor",
+          "start": 35.78,
+          "end": 36.84
+        },
+        {
+          "word": "Jesús,",
+          "start": 36.84,
+          "end": 39.4
+        }
+      ],
+      "start": 35.38,
+      "end": 39.4,
+      "confidence": 0.5,
+      "time": 35.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ven, Señor Jesús, modela mi hablar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "den",
+          "start": 40.62,
+          "end": 41.34
+        },
+        {
+          "word": "mi",
+          "start": 42.22,
+          "end": 42.88
+        },
+        {
+          "word": "amar.",
+          "start": 42.88,
+          "end": 45.16
+        }
+      ],
+      "start": 40.62,
+      "end": 45.16,
+      "confidence": 0.427,
+      "time": 40.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "oh, ven, Señor Jesús, mi corazón te entrego.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 45.56,
+          "end": 46.44
+        },
+        {
+          "word": "ven,",
+          "start": 46.98,
+          "end": 47.14
+        },
+        {
+          "word": "Señor",
+          "start": 47.14,
+          "end": 48.2
+        },
+        {
+          "word": "Jesús,",
+          "start": 48.2,
+          "end": 50.6
+        },
+        {
+          "word": "mi",
+          "start": 51.26,
+          "end": 51.86
+        },
+        {
+          "word": "corazón",
+          "start": 51.86,
+          "end": 53.94
+        },
+        {
+          "word": "te",
+          "start": 53.94,
+          "end": 54.86
+        },
+        {
+          "word": "entrego.",
+          "start": 54.86,
+          "end": 57.26
+        }
+      ],
+      "start": 45.56,
+      "end": 57.26,
+      "confidence": 1.0,
+      "time": 45.56
+    }
+  ]
+}

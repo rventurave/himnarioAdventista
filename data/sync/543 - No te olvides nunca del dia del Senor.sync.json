@@ -1,0 +1,932 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.991,
+  "language": "es",
+  "model": "medium",
+  "hymn": 543,
+  "source": "543 - No te olvides nunca del dia del Senor.mp3",
+  "duration": 184.03,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "No te olvides nunca del día del Señor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "No",
+          "start": 9.68,
+          "end": 11.08
+        },
+        {
+          "word": "te",
+          "start": 11.08,
+          "end": 11.8
+        },
+        {
+          "word": "olvides",
+          "start": 11.8,
+          "end": 13.04
+        },
+        {
+          "word": "nunca",
+          "start": 13.04,
+          "end": 14.7
+        },
+        {
+          "word": "del",
+          "start": 14.7,
+          "end": 15.34
+        },
+        {
+          "word": "día",
+          "start": 15.34,
+          "end": 16.48
+        },
+        {
+          "word": "del",
+          "start": 16.48,
+          "end": 17.3
+        },
+        {
+          "word": "Señor",
+          "start": 17.3,
+          "end": 19.24
+        }
+      ],
+      "start": 9.68,
+      "end": 19.24,
+      "confidence": 1.0,
+      "time": 9.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de toda la semana, sin duda, es el mejor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 19.24,
+          "end": 20.08
+        },
+        {
+          "word": "toda",
+          "start": 20.08,
+          "end": 21.22
+        },
+        {
+          "word": "la",
+          "start": 21.22,
+          "end": 22.12
+        },
+        {
+          "word": "semana,",
+          "start": 22.12,
+          "end": 23.9
+        },
+        {
+          "word": "sin",
+          "start": 24.18,
+          "end": 24.68
+        },
+        {
+          "word": "duda",
+          "start": 24.68,
+          "end": 25.56
+        },
+        {
+          "word": "es",
+          "start": 25.56,
+          "end": 26.06
+        },
+        {
+          "word": "el",
+          "start": 26.06,
+          "end": 26.62
+        },
+        {
+          "word": "mejor",
+          "start": 26.62,
+          "end": 28.34
+        }
+      ],
+      "start": 19.24,
+      "end": 28.34,
+      "confidence": 1.0,
+      "time": 19.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Nos da reposo santo, nos colma de solaz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Nos",
+          "start": 28.34,
+          "end": 29.3
+        },
+        {
+          "word": "da",
+          "start": 29.3,
+          "end": 30.06
+        },
+        {
+          "word": "reposo",
+          "start": 30.06,
+          "end": 31.48
+        },
+        {
+          "word": "Santo,",
+          "start": 31.48,
+          "end": 32.84
+        },
+        {
+          "word": "nos",
+          "start": 33.6,
+          "end": 33.9
+        },
+        {
+          "word": "colma",
+          "start": 33.9,
+          "end": 35.02
+        },
+        {
+          "word": "de",
+          "start": 35.02,
+          "end": 35.88
+        },
+        {
+          "word": "solas,",
+          "start": 35.88,
+          "end": 37.92
+        }
+      ],
+      "start": 28.34,
+      "end": 37.92,
+      "confidence": 0.985,
+      "time": 28.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "alumbra nuestra vida llenándola de paz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "alumbra",
+          "start": 38.6,
+          "end": 39.6
+        },
+        {
+          "word": "nuestra",
+          "start": 39.6,
+          "end": 40.66
+        },
+        {
+          "word": "vida,",
+          "start": 40.66,
+          "end": 42.4
+        },
+        {
+          "word": "llenándola",
+          "start": 42.94,
+          "end": 44.68
+        },
+        {
+          "word": "de",
+          "start": 44.68,
+          "end": 45.78
+        },
+        {
+          "word": "paz.",
+          "start": 45.78,
+          "end": 47.22
+        }
+      ],
+      "start": 38.6,
+      "end": 47.22,
+      "confidence": 1.0,
+      "time": 38.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Santo sábado de paz, oh, bienvenido seas.",
+      "words": [
+        {
+          "word": "Santo",
+          "start": 47.96,
+          "end": 48.74
+        },
+        {
+          "word": "sábado",
+          "start": 48.74,
+          "end": 50.58
+        },
+        {
+          "word": "de",
+          "start": 50.58,
+          "end": 51.1
+        },
+        {
+          "word": "paz,",
+          "start": 51.1,
+          "end": 51.82
+        },
+        {
+          "word": "oh",
+          "start": 52.32,
+          "end": 52.48
+        },
+        {
+          "word": "bienvenido",
+          "start": 52.48,
+          "end": 54.66
+        },
+        {
+          "word": "seas,",
+          "start": 54.66,
+          "end": 56.4
+        }
+      ],
+      "start": 47.96,
+      "end": 56.4,
+      "confidence": 1.0,
+      "time": 47.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Tú eres sello de amor, de Dios gran bendición.",
+      "words": [
+        {
+          "word": "Tú",
+          "start": 56.4,
+          "end": 57.26
+        },
+        {
+          "word": "eres",
+          "start": 57.26,
+          "end": 58.36
+        },
+        {
+          "word": "seño",
+          "start": 58.36,
+          "end": 59.18
+        },
+        {
+          "word": "de",
+          "start": 59.18,
+          "end": 60.16
+        },
+        {
+          "word": "amor,",
+          "start": 60.16,
+          "end": 61.04
+        },
+        {
+          "word": "de",
+          "start": 61.22,
+          "end": 61.66
+        },
+        {
+          "word": "Dios",
+          "start": 61.66,
+          "end": 62.32
+        },
+        {
+          "word": "gran",
+          "start": 62.32,
+          "end": 62.86
+        },
+        {
+          "word": "bendición.",
+          "start": 62.86,
+          "end": 66.36
+        }
+      ],
+      "start": 56.4,
+      "end": 66.36,
+      "confidence": 0.978,
+      "time": 56.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Guarda el día santo, adora al Señor",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Guarda",
+          "start": 67.3,
+          "end": 68.4
+        },
+        {
+          "word": "el",
+          "start": 68.4,
+          "end": 68.68
+        },
+        {
+          "word": "día",
+          "start": 68.68,
+          "end": 69.7
+        },
+        {
+          "word": "santo,",
+          "start": 69.7,
+          "end": 71.6
+        },
+        {
+          "word": "adora",
+          "start": 72.2,
+          "end": 73.2
+        },
+        {
+          "word": "al",
+          "start": 73.2,
+          "end": 74.08
+        },
+        {
+          "word": "Señor,",
+          "start": 74.08,
+          "end": 75.86
+        }
+      ],
+      "start": 67.3,
+      "end": 75.86,
+      "confidence": 1.0,
+      "time": 67.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que dice a sus hijos: \"La senda al cielo soy\".",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 76.38,
+          "end": 76.82
+        },
+        {
+          "word": "dice",
+          "start": 76.82,
+          "end": 77.78
+        },
+        {
+          "word": "a",
+          "start": 77.78,
+          "end": 78.6
+        },
+        {
+          "word": "sus",
+          "start": 78.6,
+          "end": 79.32
+        },
+        {
+          "word": "hijos,",
+          "start": 79.32,
+          "end": 80.64
+        },
+        {
+          "word": "la",
+          "start": 81.42,
+          "end": 81.58
+        },
+        {
+          "word": "senda",
+          "start": 81.58,
+          "end": 82.46
+        },
+        {
+          "word": "al",
+          "start": 82.46,
+          "end": 82.66
+        },
+        {
+          "word": "cielo",
+          "start": 82.66,
+          "end": 83.48
+        },
+        {
+          "word": "soy.",
+          "start": 83.48,
+          "end": 84.4
+        }
+      ],
+      "start": 76.38,
+      "end": 84.4,
+      "confidence": 1.0,
+      "time": 76.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si humildes hoy seguimos a nuestro Salvador,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 84.4,
+          "end": 85.84
+        },
+        {
+          "word": "humildes",
+          "start": 85.84,
+          "end": 87.38
+        },
+        {
+          "word": "hoy",
+          "start": 87.38,
+          "end": 87.84
+        },
+        {
+          "word": "seguimos",
+          "start": 87.84,
+          "end": 89.98
+        },
+        {
+          "word": "a",
+          "start": 89.98,
+          "end": 90.64
+        },
+        {
+          "word": "nuestro",
+          "start": 90.64,
+          "end": 91.66
+        },
+        {
+          "word": "Salvador,",
+          "start": 91.66,
+          "end": 93.78
+        }
+      ],
+      "start": 84.4,
+      "end": 94.94,
+      "confidence": 1.0,
+      "time": 84.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la fuente de agua eterna daranos con amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 94.94,
+          "end": 95.24
+        },
+        {
+          "word": "fuente",
+          "start": 95.24,
+          "end": 96.36
+        },
+        {
+          "word": "de",
+          "start": 96.36,
+          "end": 97.02
+        },
+        {
+          "word": "agua",
+          "start": 97.02,
+          "end": 97.28
+        },
+        {
+          "word": "eterna",
+          "start": 97.28,
+          "end": 99.26
+        },
+        {
+          "word": "dará",
+          "start": 99.26,
+          "end": 100.66
+        },
+        {
+          "word": "con",
+          "start": 100.98,
+          "end": 101.86
+        },
+        {
+          "word": "amor.",
+          "start": 101.86,
+          "end": 103.74
+        }
+      ],
+      "start": 94.94,
+      "end": 103.74,
+      "confidence": 0.993,
+      "time": 94.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Santo sábado de paz, oh, bienvenido seas.",
+      "words": [
+        {
+          "word": "Santo",
+          "start": 103.74,
+          "end": 105.4
+        },
+        {
+          "word": "sábado",
+          "start": 105.4,
+          "end": 107.38
+        },
+        {
+          "word": "de",
+          "start": 107.38,
+          "end": 107.9
+        },
+        {
+          "word": "paz,",
+          "start": 107.9,
+          "end": 108.54
+        },
+        {
+          "word": "oh",
+          "start": 109.02,
+          "end": 109.18
+        },
+        {
+          "word": "bienvenido",
+          "start": 109.18,
+          "end": 111.34
+        },
+        {
+          "word": "seas,",
+          "start": 111.34,
+          "end": 113.14
+        }
+      ],
+      "start": 103.74,
+      "end": 113.14,
+      "confidence": 1.0,
+      "time": 103.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Tú eres sello de amor, de Dios gran bendición.",
+      "words": [
+        {
+          "word": "Tú",
+          "start": 113.68,
+          "end": 114.22
+        },
+        {
+          "word": "eres",
+          "start": 114.22,
+          "end": 115.06
+        },
+        {
+          "word": "helio",
+          "start": 115.06,
+          "end": 115.92
+        },
+        {
+          "word": "de",
+          "start": 115.92,
+          "end": 116.9
+        },
+        {
+          "word": "amor,",
+          "start": 116.9,
+          "end": 117.72
+        },
+        {
+          "word": "de",
+          "start": 117.88,
+          "end": 118.34
+        },
+        {
+          "word": "Dios",
+          "start": 118.34,
+          "end": 119.08
+        },
+        {
+          "word": "gran",
+          "start": 119.08,
+          "end": 119.58
+        },
+        {
+          "word": "bendición.",
+          "start": 119.58,
+          "end": 122.66
+        }
+      ],
+      "start": 113.68,
+      "end": 122.66,
+      "confidence": 0.973,
+      "time": 113.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Santas son tus horas y llenas de solaz;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Santas",
+          "start": 124.24,
+          "end": 125.36
+        },
+        {
+          "word": "son",
+          "start": 125.36,
+          "end": 126.08
+        },
+        {
+          "word": "tus",
+          "start": 126.08,
+          "end": 126.66
+        },
+        {
+          "word": "horas,",
+          "start": 126.66,
+          "end": 128.1
+        },
+        {
+          "word": "y",
+          "start": 128.52,
+          "end": 128.84
+        },
+        {
+          "word": "llenas",
+          "start": 128.84,
+          "end": 129.9
+        },
+        {
+          "word": "de",
+          "start": 129.9,
+          "end": 130.86
+        },
+        {
+          "word": "solas,",
+          "start": 130.86,
+          "end": 132.7
+        }
+      ],
+      "start": 124.24,
+      "end": 132.7,
+      "confidence": 0.985,
+      "time": 124.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en ellas alabamos con gozo a Jesús.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 132.7,
+          "end": 133.48
+        },
+        {
+          "word": "ella",
+          "start": 133.48,
+          "end": 134.54
+        },
+        {
+          "word": "salabamos",
+          "start": 134.54,
+          "end": 137.54
+        },
+        {
+          "word": "con",
+          "start": 137.54,
+          "end": 138.18
+        },
+        {
+          "word": "gozo",
+          "start": 138.18,
+          "end": 139.28
+        },
+        {
+          "word": "a",
+          "start": 139.28,
+          "end": 140.1
+        },
+        {
+          "word": "Jesús.",
+          "start": 140.1,
+          "end": 141.88
+        }
+      ],
+      "start": 132.7,
+      "end": 141.88,
+      "confidence": 0.986,
+      "time": 132.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Oh Salvador amante, cuán bueno eres tú!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "¡Oh,",
+          "start": 142.32,
+          "end": 142.76
+        },
+        {
+          "word": "Salvador",
+          "start": 143.26,
+          "end": 144.26
+        },
+        {
+          "word": "amante!",
+          "start": 144.26,
+          "end": 146.58
+        },
+        {
+          "word": "¡Cuán",
+          "start": 146.92,
+          "end": 147.5
+        },
+        {
+          "word": "bueno",
+          "start": 147.5,
+          "end": 148.42
+        },
+        {
+          "word": "eres",
+          "start": 148.42,
+          "end": 149.56
+        },
+        {
+          "word": "tú!",
+          "start": 149.56,
+          "end": 151.0
+        }
+      ],
+      "start": 142.32,
+      "end": 151.0,
+      "confidence": 1.0,
+      "time": 142.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Con tu presencia llenas mi vida de tu luz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Con",
+          "start": 151.44,
+          "end": 151.96
+        },
+        {
+          "word": "tu",
+          "start": 151.96,
+          "end": 152.72
+        },
+        {
+          "word": "presencia",
+          "start": 152.72,
+          "end": 154.04
+        },
+        {
+          "word": "llenas",
+          "start": 154.04,
+          "end": 155.84
+        },
+        {
+          "word": "mi",
+          "start": 155.84,
+          "end": 156.58
+        },
+        {
+          "word": "vida",
+          "start": 156.58,
+          "end": 157.58
+        },
+        {
+          "word": "de",
+          "start": 157.58,
+          "end": 158.48
+        },
+        {
+          "word": "tu",
+          "start": 158.48,
+          "end": 158.92
+        },
+        {
+          "word": "luz.",
+          "start": 158.92,
+          "end": 160.56
+        }
+      ],
+      "start": 151.44,
+      "end": 160.56,
+      "confidence": 1.0,
+      "time": 151.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Santo sábado de paz, oh, bienvenido seas.",
+      "words": [
+        {
+          "word": "Santo",
+          "start": 160.56,
+          "end": 162.18
+        },
+        {
+          "word": "sábado",
+          "start": 162.18,
+          "end": 164.12
+        },
+        {
+          "word": "de",
+          "start": 164.12,
+          "end": 164.58
+        },
+        {
+          "word": "paz,",
+          "start": 164.58,
+          "end": 165.24
+        },
+        {
+          "word": "o",
+          "start": 165.74,
+          "end": 165.94
+        },
+        {
+          "word": "bienvenido",
+          "start": 165.94,
+          "end": 168.02
+        },
+        {
+          "word": "seas.",
+          "start": 168.02,
+          "end": 169.74
+        }
+      ],
+      "start": 160.56,
+      "end": 169.74,
+      "confidence": 0.971,
+      "time": 160.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Tú eres sello de amor, de Dios gran bendición.",
+      "words": [
+        {
+          "word": "Tú",
+          "start": 170.3,
+          "end": 171.02
+        },
+        {
+          "word": "eres",
+          "start": 171.02,
+          "end": 171.78
+        },
+        {
+          "word": "Helio",
+          "start": 171.78,
+          "end": 172.62
+        },
+        {
+          "word": "de",
+          "start": 172.62,
+          "end": 173.56
+        },
+        {
+          "word": "amor,",
+          "start": 173.56,
+          "end": 174.4
+        },
+        {
+          "word": "de",
+          "start": 174.68,
+          "end": 175.12
+        },
+        {
+          "word": "Dios",
+          "start": 175.12,
+          "end": 175.86
+        },
+        {
+          "word": "gran",
+          "start": 175.86,
+          "end": 176.56
+        },
+        {
+          "word": "bendición.",
+          "start": 176.56,
+          "end": 178.6
+        }
+      ],
+      "start": 170.3,
+      "end": 178.6,
+      "confidence": 0.973,
+      "time": 170.3
+    }
+  ]
+}

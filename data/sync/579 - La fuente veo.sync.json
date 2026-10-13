@@ -1,0 +1,1113 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.824,
+  "language": "es",
+  "model": "medium",
+  "hymn": 579,
+  "source": "579 - La fuente veo.mp3",
+  "duration": 188.11,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "La fuente veo carmesí,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "La",
+          "start": 21.94,
+          "end": 23.34
+        },
+        {
+          "word": "fuente",
+          "start": 23.34,
+          "end": 24.54
+        },
+        {
+          "word": "veo,",
+          "start": 24.54,
+          "end": 25.84
+        },
+        {
+          "word": "carmesí,",
+          "start": 26.1,
+          "end": 27.44
+        }
+      ],
+      "start": 21.94,
+      "end": 28.3,
+      "confidence": 1.0,
+      "time": 21.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "el ancho manantial,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 28.3,
+          "end": 28.66
+        },
+        {
+          "word": "ancho",
+          "start": 28.66,
+          "end": 29.2
+        }
+      ],
+      "start": 28.3,
+      "end": 29.98,
+      "confidence": 0.667,
+      "time": 28.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que de Jesús, mi Salvador,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 32.54,
+          "end": 33.6
+        },
+        {
+          "word": "Jesús,",
+          "start": 33.6,
+          "end": 34.7
+        },
+        {
+          "word": "mi",
+          "start": 35.4,
+          "end": 35.56
+        },
+        {
+          "word": "Salvador,",
+          "start": 35.56,
+          "end": 36.78
+        }
+      ],
+      "start": 32.54,
+      "end": 41.7,
+      "confidence": 0.8,
+      "time": 32.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "emana perennal.",
+      "verse": 1,
+      "start": 41.7,
+      "end": 41.9,
+      "confidence": 0.0,
+      "time": 41.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "La fuente veo carmesí;",
+      "words": [
+        {
+          "word": "La",
+          "start": 41.78,
+          "end": 42.68
+        },
+        {
+          "word": "Fuente",
+          "start": 42.68,
+          "end": 43.42
+        },
+        {
+          "word": "Ocarme",
+          "start": 44.36,
+          "end": 45.74
+        }
+      ],
+      "start": 41.9,
+      "end": 42.1,
+      "confidence": 0.715,
+      "time": 41.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "con su poder me limpia a mí.",
+      "words": [
+        {
+          "word": "con",
+          "start": 46.58,
+          "end": 47.38
+        },
+        {
+          "word": "su",
+          "start": 47.38,
+          "end": 47.78
+        },
+        {
+          "word": "poder",
+          "start": 47.78,
+          "end": 48.88
+        },
+        {
+          "word": "me",
+          "start": 48.88,
+          "end": 49.88
+        },
+        {
+          "word": "limpia",
+          "start": 49.88,
+          "end": 50.58
+        },
+        {
+          "word": "a",
+          "start": 50.58,
+          "end": 50.78
+        },
+        {
+          "word": "mí.",
+          "start": 50.78,
+          "end": 51.06
+        }
+      ],
+      "start": 46.58,
+      "end": 51.06,
+      "confidence": 1.0,
+      "time": 46.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, gloria a Dios!, me limpia a mí,",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 51.06,
+          "end": 52.12
+        },
+        {
+          "word": "gloria",
+          "start": 52.12,
+          "end": 52.86
+        },
+        {
+          "word": "a",
+          "start": 52.86,
+          "end": 53.06
+        },
+        {
+          "word": "Dios,",
+          "start": 53.06,
+          "end": 53.68
+        },
+        {
+          "word": "me",
+          "start": 54.16,
+          "end": 54.6
+        },
+        {
+          "word": "limpia",
+          "start": 54.6,
+          "end": 55.24
+        },
+        {
+          "word": "a",
+          "start": 55.24,
+          "end": 55.52
+        },
+        {
+          "word": "mí,",
+          "start": 55.52,
+          "end": 55.88
+        }
+      ],
+      "start": 51.06,
+      "end": 56.14,
+      "confidence": 1.0,
+      "time": 51.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "me limpia, ¡oh sí!, me limpia a mí.",
+      "words": [
+        {
+          "word": "me",
+          "start": 56.14,
+          "end": 56.92
+        },
+        {
+          "word": "limpia",
+          "start": 56.92,
+          "end": 57.5
+        },
+        {
+          "word": "o",
+          "start": 57.5,
+          "end": 57.98
+        },
+        {
+          "word": "sí,",
+          "start": 57.98,
+          "end": 58.48
+        },
+        {
+          "word": "me",
+          "start": 59.16,
+          "end": 59.32
+        },
+        {
+          "word": "limpia",
+          "start": 59.32,
+          "end": 60.04
+        },
+        {
+          "word": "a",
+          "start": 60.04,
+          "end": 60.62
+        },
+        {
+          "word": "mí.",
+          "start": 60.62,
+          "end": 61.94
+        }
+      ],
+      "start": 56.14,
+      "end": 61.94,
+      "confidence": 0.975,
+      "time": 56.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Soy nueva criatura en él;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Soy",
+          "start": 62.88,
+          "end": 63.84
+        },
+        {
+          "word": "nueva",
+          "start": 63.84,
+          "end": 64.74
+        },
+        {
+          "word": "criatura",
+          "start": 64.74,
+          "end": 66.9
+        },
+        {
+          "word": "en",
+          "start": 66.9,
+          "end": 67.42
+        },
+        {
+          "word": "Él,",
+          "start": 67.42,
+          "end": 67.76
+        }
+      ],
+      "start": 62.88,
+      "end": 67.94,
+      "confidence": 1.0,
+      "time": 62.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "me hizo renacer,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "me",
+          "start": 67.94,
+          "end": 68.86
+        },
+        {
+          "word": "hizo",
+          "start": 68.86,
+          "end": 69.46
+        },
+        {
+          "word": "renacer",
+          "start": 69.46,
+          "end": 72.18
+        }
+      ],
+      "start": 67.94,
+      "end": 72.18,
+      "confidence": 1.0,
+      "time": 67.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y el hombre viejo nunca más",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 72.18,
+          "end": 73.22
+        },
+        {
+          "word": "el",
+          "start": 73.22,
+          "end": 73.68
+        },
+        {
+          "word": "hombre",
+          "start": 73.68,
+          "end": 74.3
+        },
+        {
+          "word": "viejo",
+          "start": 74.3,
+          "end": 75.78
+        },
+        {
+          "word": "nunca",
+          "start": 75.78,
+          "end": 76.62
+        },
+        {
+          "word": "más",
+          "start": 76.62,
+          "end": 77.34
+        }
+      ],
+      "start": 72.18,
+      "end": 77.34,
+      "confidence": 1.0,
+      "time": 72.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "podrá prevalecer.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "podrá",
+          "start": 77.34,
+          "end": 78.7
+        },
+        {
+          "word": "prevalecer.",
+          "start": 78.7,
+          "end": 81.72
+        }
+      ],
+      "start": 77.34,
+      "end": 81.72,
+      "confidence": 1.0,
+      "time": 77.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "La fuente veo carmesí;",
+      "words": [
+        {
+          "word": "La",
+          "start": 82.24,
+          "end": 83.0
+        },
+        {
+          "word": "Fuente",
+          "start": 83.0,
+          "end": 83.7
+        },
+        {
+          "word": "ve,",
+          "start": 83.7,
+          "end": 84.64
+        },
+        {
+          "word": "Carmesí,",
+          "start": 85.28,
+          "end": 86.6
+        }
+      ],
+      "start": 82.24,
+      "end": 86.9,
+      "confidence": 0.985,
+      "time": 82.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "con su poder me limpia a mí.",
+      "words": [
+        {
+          "word": "con",
+          "start": 86.9,
+          "end": 87.66
+        },
+        {
+          "word": "su",
+          "start": 87.66,
+          "end": 88.0
+        },
+        {
+          "word": "poder",
+          "start": 88.0,
+          "end": 89.1
+        },
+        {
+          "word": "me",
+          "start": 89.1,
+          "end": 90.06
+        },
+        {
+          "word": "limpia",
+          "start": 90.06,
+          "end": 90.76
+        },
+        {
+          "word": "a",
+          "start": 90.76,
+          "end": 91.0
+        },
+        {
+          "word": "mí,",
+          "start": 91.0,
+          "end": 91.32
+        }
+      ],
+      "start": 86.9,
+      "end": 91.32,
+      "confidence": 1.0,
+      "time": 86.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, gloria a Dios!, me limpia a mí,",
+      "words": [
+        {
+          "word": "oh",
+          "start": 92.04,
+          "end": 92.38
+        },
+        {
+          "word": "gloria",
+          "start": 92.38,
+          "end": 93.12
+        },
+        {
+          "word": "Dios,",
+          "start": 93.12,
+          "end": 93.86
+        },
+        {
+          "word": "me",
+          "start": 94.0,
+          "end": 94.82
+        },
+        {
+          "word": "limpia",
+          "start": 94.82,
+          "end": 95.5
+        },
+        {
+          "word": "a",
+          "start": 95.5,
+          "end": 95.74
+        },
+        {
+          "word": "mí,",
+          "start": 95.74,
+          "end": 96.1
+        }
+      ],
+      "start": 92.04,
+      "end": 96.38,
+      "confidence": 0.875,
+      "time": 92.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "me limpia, ¡oh sí!, me limpia a mí.",
+      "words": [
+        {
+          "word": "me",
+          "start": 96.38,
+          "end": 97.18
+        },
+        {
+          "word": "limpia",
+          "start": 97.18,
+          "end": 97.76
+        },
+        {
+          "word": "así,",
+          "start": 97.76,
+          "end": 98.54
+        },
+        {
+          "word": "me",
+          "start": 98.94,
+          "end": 99.5
+        },
+        {
+          "word": "limpia",
+          "start": 99.5,
+          "end": 100.34
+        },
+        {
+          "word": "a",
+          "start": 100.34,
+          "end": 100.64
+        },
+        {
+          "word": "mí.",
+          "start": 100.64,
+          "end": 101.52
+        }
+      ],
+      "start": 96.38,
+      "end": 101.52,
+      "confidence": 0.86,
+      "time": 96.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Gozoso espero ir con Jesús",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Gozo",
+          "start": 103.16,
+          "end": 104.56
+        },
+        {
+          "word": "estero",
+          "start": 104.8,
+          "end": 106.0
+        },
+        {
+          "word": "ir",
+          "start": 106.36,
+          "end": 106.44
+        },
+        {
+          "word": "con",
+          "start": 106.44,
+          "end": 106.84
+        },
+        {
+          "word": "Jesús",
+          "start": 106.84,
+          "end": 107.82
+        }
+      ],
+      "start": 103.16,
+      "end": 107.82,
+      "confidence": 0.968,
+      "time": 103.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "a mi celeste hogar;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 107.82,
+          "end": 108.98
+        },
+        {
+          "word": "mi",
+          "start": 108.98,
+          "end": 109.28
+        },
+        {
+          "word": "celestial",
+          "start": 109.28,
+          "end": 110.56
+        },
+        {
+          "word": "hogar,",
+          "start": 110.56,
+          "end": 112.82
+        }
+      ],
+      "start": 107.82,
+      "end": 112.82,
+      "confidence": 0.963,
+      "time": 107.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "allí, cual fuente, de la cruz",
+      "verse": 3,
+      "words": [
+        {
+          "word": "allico",
+          "start": 113.64,
+          "end": 114.2
+        },
+        {
+          "word": "al",
+          "start": 114.2,
+          "end": 114.54
+        },
+        {
+          "word": "Fuente",
+          "start": 114.54,
+          "end": 116.04
+        },
+        {
+          "word": "de",
+          "start": 116.04,
+          "end": 116.52
+        },
+        {
+          "word": "la",
+          "start": 116.52,
+          "end": 116.94
+        },
+        {
+          "word": "Cruz",
+          "start": 116.94,
+          "end": 117.44
+        }
+      ],
+      "start": 113.64,
+      "end": 117.44,
+      "confidence": 0.957,
+      "time": 113.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "su amor ha de manar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "su",
+          "start": 117.44,
+          "end": 118.12
+        },
+        {
+          "word": "amor",
+          "start": 118.12,
+          "end": 118.94
+        },
+        {
+          "word": "a",
+          "start": 118.94,
+          "end": 119.68
+        },
+        {
+          "word": "demanar.",
+          "start": 119.68,
+          "end": 122.04
+        }
+      ],
+      "start": 117.44,
+      "end": 122.04,
+      "confidence": 0.74,
+      "time": 117.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "La fuente veo carmesí;",
+      "words": [
+        {
+          "word": "La",
+          "start": 122.24,
+          "end": 123.14
+        },
+        {
+          "word": "Fuente",
+          "start": 123.14,
+          "end": 124.02
+        },
+        {
+          "word": "Ocarme",
+          "start": 124.9,
+          "end": 126.28
+        }
+      ],
+      "start": 122.24,
+      "end": 127.04,
+      "confidence": 0.715,
+      "time": 122.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "con su poder me limpia a mí.",
+      "words": [
+        {
+          "word": "con",
+          "start": 127.04,
+          "end": 127.86
+        },
+        {
+          "word": "su",
+          "start": 127.86,
+          "end": 128.3
+        },
+        {
+          "word": "poder",
+          "start": 128.3,
+          "end": 129.36
+        },
+        {
+          "word": "me",
+          "start": 129.36,
+          "end": 130.32
+        },
+        {
+          "word": "limpia",
+          "start": 130.32,
+          "end": 131.04
+        },
+        {
+          "word": "a",
+          "start": 131.04,
+          "end": 131.28
+        },
+        {
+          "word": "mí,",
+          "start": 131.28,
+          "end": 131.5
+        }
+      ],
+      "start": 127.04,
+      "end": 131.5,
+      "confidence": 1.0,
+      "time": 127.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, gloria a Dios!, me limpia a mí,",
+      "words": [
+        {
+          "word": "gloria",
+          "start": 132.58,
+          "end": 133.28
+        },
+        {
+          "word": "a",
+          "start": 133.28,
+          "end": 133.58
+        },
+        {
+          "word": "Dios",
+          "start": 133.58,
+          "end": 134.2
+        },
+        {
+          "word": "me",
+          "start": 134.2,
+          "end": 135.1
+        },
+        {
+          "word": "limpia",
+          "start": 135.1,
+          "end": 135.76
+        },
+        {
+          "word": "a",
+          "start": 135.76,
+          "end": 135.98
+        },
+        {
+          "word": "mí,",
+          "start": 135.98,
+          "end": 136.36
+        }
+      ],
+      "start": 132.58,
+      "end": 137.06,
+      "confidence": 0.875,
+      "time": 132.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "me limpia, ¡oh sí!, me limpia a mí.",
+      "words": [
+        {
+          "word": "me",
+          "start": 137.06,
+          "end": 137.34
+        },
+        {
+          "word": "limpia",
+          "start": 137.34,
+          "end": 138.0
+        },
+        {
+          "word": "así,",
+          "start": 138.0,
+          "end": 138.86
+        },
+        {
+          "word": "me",
+          "start": 139.2,
+          "end": 139.64
+        },
+        {
+          "word": "limpia",
+          "start": 139.64,
+          "end": 140.56
+        },
+        {
+          "word": "a",
+          "start": 140.56,
+          "end": 140.88
+        },
+        {
+          "word": "mí.",
+          "start": 140.88,
+          "end": 142.42
+        }
+      ],
+      "start": 137.06,
+      "end": 142.42,
+      "confidence": 0.86,
+      "time": 137.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Anhelo en la luz a andar",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 146.0,
+          "end": 146.68
+        },
+        {
+          "word": "la",
+          "start": 146.68,
+          "end": 146.92
+        },
+        {
+          "word": "luz",
+          "start": 146.92,
+          "end": 147.32
+        },
+        {
+          "word": "andar,",
+          "start": 147.32,
+          "end": 148.14
+        }
+      ],
+      "start": 146.0,
+      "end": 149.08,
+      "confidence": 0.667,
+      "time": 146.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "sin el mundano error;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "sin",
+          "start": 149.08,
+          "end": 149.36
+        },
+        {
+          "word": "error,",
+          "start": 150.96,
+          "end": 152.72
+        }
+      ],
+      "start": 149.08,
+      "end": 152.72,
+      "confidence": 0.5,
+      "time": 149.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "deseo un limpio corazón",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Este",
+          "start": 152.72,
+          "end": 154.32
+        },
+        {
+          "word": "un",
+          "start": 154.74,
+          "end": 154.98
+        },
+        {
+          "word": "limpio",
+          "start": 154.98,
+          "end": 156.34
+        },
+        {
+          "word": "corazón",
+          "start": 156.34,
+          "end": 157.68
+        }
+      ],
+      "start": 152.72,
+      "end": 157.68,
+      "confidence": 0.95,
+      "time": 152.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "que agrade al Salvador.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "que",
+          "start": 157.68,
+          "end": 158.74
+        },
+        {
+          "word": "agradea",
+          "start": 158.74,
+          "end": 159.52
+        },
+        {
+          "word": "al",
+          "start": 159.52,
+          "end": 160.06
+        },
+        {
+          "word": "Salvador.",
+          "start": 160.06,
+          "end": 162.14
+        }
+      ],
+      "start": 157.68,
+      "end": 162.14,
+      "confidence": 0.985,
+      "time": 157.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "La fuente veo carmesí;",
+      "words": [
+        {
+          "word": "La",
+          "start": 162.86,
+          "end": 163.42
+        },
+        {
+          "word": "Fuente",
+          "start": 163.42,
+          "end": 164.22
+        },
+        {
+          "word": "Ocormesí,",
+          "start": 165.22,
+          "end": 167.22
+        }
+      ],
+      "start": 162.86,
+      "end": 167.44,
+      "confidence": 0.72,
+      "time": 162.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "con su poder me limpia a mí.",
+      "words": [
+        {
+          "word": "con",
+          "start": 167.44,
+          "end": 168.14
+        },
+        {
+          "word": "su",
+          "start": 168.14,
+          "end": 168.52
+        },
+        {
+          "word": "poder",
+          "start": 168.52,
+          "end": 169.66
+        },
+        {
+          "word": "me",
+          "start": 169.66,
+          "end": 170.64
+        },
+        {
+          "word": "limpia",
+          "start": 170.64,
+          "end": 171.3
+        },
+        {
+          "word": "a",
+          "start": 171.3,
+          "end": 171.56
+        },
+        {
+          "word": "mí.",
+          "start": 171.56,
+          "end": 171.88
+        }
+      ],
+      "start": 167.44,
+      "end": 171.88,
+      "confidence": 1.0,
+      "time": 167.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Oh, gloria a Dios!, me limpia a mí,",
+      "words": [
+        {
+          "word": "gloria",
+          "start": 173.2,
+          "end": 173.64
+        },
+        {
+          "word": "mi",
+          "start": 177.82,
+          "end": 178.22
+        }
+      ],
+      "start": 173.2,
+      "end": 180.46,
+      "confidence": 0.25,
+      "time": 173.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "me limpia, ¡oh sí!, me limpia a mí.",
+      "words": [
+        {
+          "word": "mi",
+          "start": 180.46,
+          "end": 180.9
+        }
+      ],
+      "start": 180.46,
+      "end": 184.52,
+      "confidence": 0.125,
+      "time": 180.46
+    }
+  ]
+}

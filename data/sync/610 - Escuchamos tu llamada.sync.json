@@ -1,0 +1,1260 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.99,
+  "language": "es",
+  "model": "medium",
+  "hymn": 610,
+  "source": "610 - Escuchamos tu llamada.mp3",
+  "duration": 243.62,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Escuchamos tu llamada,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Escuchamos",
+          "start": 20.68,
+          "end": 22.08
+        },
+        {
+          "word": "tu",
+          "start": 22.08,
+          "end": 22.64
+        },
+        {
+          "word": "llamada,",
+          "start": 22.64,
+          "end": 24.62
+        }
+      ],
+      "start": 20.68,
+      "end": 25.18,
+      "confidence": 1.0,
+      "time": 20.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "respondemos con placer;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "respondemos",
+          "start": 25.18,
+          "end": 26.44
+        },
+        {
+          "word": "con",
+          "start": 26.44,
+          "end": 27.06
+        },
+        {
+          "word": "placer",
+          "start": 27.06,
+          "end": 28.8
+        }
+      ],
+      "start": 25.18,
+      "end": 28.8,
+      "confidence": 1.0,
+      "time": 25.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "una lealtad constante,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Una",
+          "start": 28.8,
+          "end": 29.7
+        },
+        {
+          "word": "lealtad",
+          "start": 29.7,
+          "end": 31.4
+        },
+        {
+          "word": "constante,",
+          "start": 31.4,
+          "end": 32.82
+        }
+      ],
+      "start": 28.8,
+      "end": 33.86,
+      "confidence": 1.0,
+      "time": 28.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nuestro voto debe ser.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "nuestro",
+          "start": 33.86,
+          "end": 34.08
+        },
+        {
+          "word": "voto",
+          "start": 34.08,
+          "end": 35.24
+        },
+        {
+          "word": "debe",
+          "start": 35.24,
+          "end": 36.38
+        },
+        {
+          "word": "ser",
+          "start": 36.38,
+          "end": 37.56
+        }
+      ],
+      "start": 33.86,
+      "end": 37.56,
+      "confidence": 1.0,
+      "time": 33.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "A ti, oh Jesús, damos todo nuestro ser,",
+      "words": [
+        {
+          "word": "a",
+          "start": 37.56,
+          "end": 38.56
+        },
+        {
+          "word": "ti,",
+          "start": 38.56,
+          "end": 39.66
+        },
+        {
+          "word": "oh,",
+          "start": 39.66,
+          "end": 40.4
+        },
+        {
+          "word": "Jesús,",
+          "start": 40.4,
+          "end": 41.9
+        },
+        {
+          "word": "damos",
+          "start": 42.22,
+          "end": 42.86
+        },
+        {
+          "word": "todo",
+          "start": 42.86,
+          "end": 43.84
+        },
+        {
+          "word": "nuestro",
+          "start": 43.84,
+          "end": 44.8
+        },
+        {
+          "word": "ser,",
+          "start": 44.8,
+          "end": 46.2
+        }
+      ],
+      "start": 37.56,
+      "end": 46.2,
+      "confidence": 1.0,
+      "time": 37.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "pues la juventud redimiste para ti.",
+      "words": [
+        {
+          "word": "Pues",
+          "start": 46.2,
+          "end": 47.1
+        },
+        {
+          "word": "la",
+          "start": 47.1,
+          "end": 48.3
+        },
+        {
+          "word": "juventud",
+          "start": 48.3,
+          "end": 50.84
+        },
+        {
+          "word": "rendidiste",
+          "start": 50.84,
+          "end": 52.5
+        },
+        {
+          "word": "para",
+          "start": 52.5,
+          "end": 53.8
+        },
+        {
+          "word": "ti",
+          "start": 53.8,
+          "end": 55.06
+        }
+      ],
+      "start": 46.2,
+      "end": 55.06,
+      "confidence": 0.984,
+      "time": 46.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Con talentos consagrados empeñados en servir,",
+      "words": [
+        {
+          "word": "Con",
+          "start": 55.06,
+          "end": 55.76
+        },
+        {
+          "word": "talentos",
+          "start": 55.76,
+          "end": 57.3
+        },
+        {
+          "word": "consagrados,",
+          "start": 57.3,
+          "end": 59.48
+        },
+        {
+          "word": "empeñados",
+          "start": 59.6,
+          "end": 61.42
+        },
+        {
+          "word": "en",
+          "start": 61.42,
+          "end": 62.1
+        },
+        {
+          "word": "servir",
+          "start": 62.1,
+          "end": 63.62
+        }
+      ],
+      "start": 55.06,
+      "end": 63.62,
+      "confidence": 1.0,
+      "time": 55.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "la juventud del mundo, de Cristo ha de ser.",
+      "words": [
+        {
+          "word": "La",
+          "start": 63.62,
+          "end": 64.6
+        },
+        {
+          "word": "juventud",
+          "start": 64.6,
+          "end": 67.3
+        },
+        {
+          "word": "del",
+          "start": 67.3,
+          "end": 67.96
+        },
+        {
+          "word": "mundo",
+          "start": 67.96,
+          "end": 68.76
+        },
+        {
+          "word": "de",
+          "start": 68.76,
+          "end": 69.2
+        },
+        {
+          "word": "Cristo",
+          "start": 69.2,
+          "end": 70.08
+        },
+        {
+          "word": "ha",
+          "start": 70.08,
+          "end": 71.16
+        },
+        {
+          "word": "de",
+          "start": 71.16,
+          "end": 71.52
+        },
+        {
+          "word": "ser",
+          "start": 71.52,
+          "end": 73.94
+        }
+      ],
+      "start": 63.62,
+      "end": 73.94,
+      "confidence": 1.0,
+      "time": 63.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Dondequiera tú nos guíes,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Donde",
+          "start": 73.94,
+          "end": 75.56
+        },
+        {
+          "word": "tú",
+          "start": 76.56,
+          "end": 77.32
+        },
+        {
+          "word": "nos",
+          "start": 77.32,
+          "end": 77.96
+        },
+        {
+          "word": "guíes,",
+          "start": 77.96,
+          "end": 79.3
+        }
+      ],
+      "start": 73.94,
+      "end": 79.66,
+      "confidence": 0.985,
+      "time": 73.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "vengan pruebas o desdén,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "vengan",
+          "start": 79.66,
+          "end": 79.98
+        },
+        {
+          "word": "pruebas",
+          "start": 79.98,
+          "end": 81.02
+        },
+        {
+          "word": "o",
+          "start": 81.02,
+          "end": 81.7
+        },
+        {
+          "word": "desdén,",
+          "start": 81.7,
+          "end": 83.54
+        }
+      ],
+      "start": 79.66,
+      "end": 84.08,
+      "confidence": 1.0,
+      "time": 79.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "seguiremos tu llamada;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "seguiremos",
+          "start": 84.08,
+          "end": 85.38
+        },
+        {
+          "word": "tu",
+          "start": 85.38,
+          "end": 85.94
+        },
+        {
+          "word": "llamada,",
+          "start": 85.94,
+          "end": 87.8
+        }
+      ],
+      "start": 84.08,
+      "end": 88.28,
+      "confidence": 1.0,
+      "time": 84.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "solo da la orden: \"Ven\".",
+      "verse": 2,
+      "words": [
+        {
+          "word": "sólo",
+          "start": 88.28,
+          "end": 88.64
+        },
+        {
+          "word": "da",
+          "start": 88.64,
+          "end": 89.2
+        },
+        {
+          "word": "la",
+          "start": 89.2,
+          "end": 90.02
+        },
+        {
+          "word": "orden,",
+          "start": 90.02,
+          "end": 90.8
+        },
+        {
+          "word": "ven",
+          "start": 91.56,
+          "end": 92.14
+        }
+      ],
+      "start": 88.28,
+      "end": 92.14,
+      "confidence": 1.0,
+      "time": 88.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "A ti, oh Jesús, damos todo nuestro ser,",
+      "words": [
+        {
+          "word": "a",
+          "start": 92.14,
+          "end": 93.12
+        },
+        {
+          "word": "ti,",
+          "start": 93.12,
+          "end": 94.14
+        },
+        {
+          "word": "oh",
+          "start": 94.4,
+          "end": 95.0
+        },
+        {
+          "word": "Jesús.",
+          "start": 95.0,
+          "end": 95.94
+        },
+        {
+          "word": "Damos",
+          "start": 95.94,
+          "end": 97.38
+        },
+        {
+          "word": "todo",
+          "start": 97.38,
+          "end": 98.44
+        },
+        {
+          "word": "nuestro",
+          "start": 98.44,
+          "end": 99.46
+        },
+        {
+          "word": "ser,",
+          "start": 99.46,
+          "end": 100.92
+        }
+      ],
+      "start": 92.14,
+      "end": 101.34,
+      "confidence": 1.0,
+      "time": 92.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "pues la juventud redimiste para ti.",
+      "words": [
+        {
+          "word": "pues",
+          "start": 101.34,
+          "end": 101.72
+        },
+        {
+          "word": "la",
+          "start": 101.72,
+          "end": 102.82
+        },
+        {
+          "word": "juventud",
+          "start": 102.82,
+          "end": 105.38
+        },
+        {
+          "word": "redimiste",
+          "start": 105.38,
+          "end": 107.0
+        },
+        {
+          "word": "para",
+          "start": 107.0,
+          "end": 108.34
+        },
+        {
+          "word": "ti.",
+          "start": 108.34,
+          "end": 109.04
+        }
+      ],
+      "start": 101.34,
+      "end": 109.04,
+      "confidence": 1.0,
+      "time": 101.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Con talentos consagrados empeñados en servir,",
+      "words": [
+        {
+          "word": "Con",
+          "start": 109.82,
+          "end": 110.3
+        },
+        {
+          "word": "talentos",
+          "start": 110.3,
+          "end": 111.9
+        },
+        {
+          "word": "consagrados,",
+          "start": 111.9,
+          "end": 114.04
+        },
+        {
+          "word": "empeñados",
+          "start": 114.68,
+          "end": 116.0
+        },
+        {
+          "word": "en",
+          "start": 116.0,
+          "end": 116.68
+        },
+        {
+          "word": "servir,",
+          "start": 116.68,
+          "end": 118.3
+        }
+      ],
+      "start": 109.82,
+      "end": 118.3,
+      "confidence": 1.0,
+      "time": 109.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "la juventud del mundo, de Cristo ha de ser.",
+      "words": [
+        {
+          "word": "la",
+          "start": 118.3,
+          "end": 119.22
+        },
+        {
+          "word": "Juventud",
+          "start": 119.22,
+          "end": 121.96
+        },
+        {
+          "word": "del",
+          "start": 121.96,
+          "end": 122.52
+        },
+        {
+          "word": "mundo",
+          "start": 122.52,
+          "end": 123.34
+        },
+        {
+          "word": "de",
+          "start": 123.34,
+          "end": 123.82
+        },
+        {
+          "word": "Cristo",
+          "start": 123.82,
+          "end": 124.72
+        },
+        {
+          "word": "ha",
+          "start": 124.72,
+          "end": 125.8
+        },
+        {
+          "word": "de",
+          "start": 125.8,
+          "end": 126.26
+        },
+        {
+          "word": "ser.",
+          "start": 126.26,
+          "end": 128.42
+        }
+      ],
+      "start": 118.3,
+      "end": 128.42,
+      "confidence": 1.0,
+      "time": 118.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Tú nos diste aptitudes,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 129.3,
+          "end": 129.9
+        },
+        {
+          "word": "nos",
+          "start": 129.9,
+          "end": 130.32
+        },
+        {
+          "word": "diste",
+          "start": 130.32,
+          "end": 131.38
+        },
+        {
+          "word": "actitudes",
+          "start": 131.38,
+          "end": 133.42
+        }
+      ],
+      "start": 129.3,
+      "end": 133.42,
+      "confidence": 0.983,
+      "time": 129.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "que debemos emplear;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 133.42,
+          "end": 134.28
+        },
+        {
+          "word": "debemos",
+          "start": 134.28,
+          "end": 135.76
+        },
+        {
+          "word": "emplear.",
+          "start": 135.76,
+          "end": 137.3
+        }
+      ],
+      "start": 133.42,
+      "end": 137.3,
+      "confidence": 1.0,
+      "time": 133.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "nuestro tiempo todo es tuyo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Nuestro",
+          "start": 138.22,
+          "end": 138.88
+        },
+        {
+          "word": "tiempo",
+          "start": 138.88,
+          "end": 139.84
+        },
+        {
+          "word": "todo",
+          "start": 139.84,
+          "end": 140.7
+        },
+        {
+          "word": "es",
+          "start": 140.7,
+          "end": 141.36
+        },
+        {
+          "word": "tuyo,",
+          "start": 141.36,
+          "end": 142.46
+        }
+      ],
+      "start": 138.22,
+      "end": 142.96,
+      "confidence": 1.0,
+      "time": 138.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "te queremos ayudar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "te",
+          "start": 142.96,
+          "end": 143.1
+        },
+        {
+          "word": "queremos",
+          "start": 143.1,
+          "end": 144.18
+        },
+        {
+          "word": "ayudar.",
+          "start": 144.18,
+          "end": 146.6
+        }
+      ],
+      "start": 142.96,
+      "end": 146.6,
+      "confidence": 1.0,
+      "time": 142.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "A ti, oh Jesús, damos todo nuestro ser,",
+      "words": [
+        {
+          "word": "A",
+          "start": 146.6,
+          "end": 147.72
+        },
+        {
+          "word": "ti,",
+          "start": 147.72,
+          "end": 148.7
+        },
+        {
+          "word": "oh",
+          "start": 148.8,
+          "end": 149.5
+        },
+        {
+          "word": "Jesús,",
+          "start": 149.5,
+          "end": 150.94
+        },
+        {
+          "word": "damos",
+          "start": 151.66,
+          "end": 151.9
+        },
+        {
+          "word": "todo",
+          "start": 151.9,
+          "end": 152.98
+        },
+        {
+          "word": "nuestro",
+          "start": 152.98,
+          "end": 154.0
+        },
+        {
+          "word": "ser,",
+          "start": 154.0,
+          "end": 155.32
+        }
+      ],
+      "start": 146.6,
+      "end": 155.82,
+      "confidence": 1.0,
+      "time": 146.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "pues la juventud redimiste para ti.",
+      "words": [
+        {
+          "word": "pues",
+          "start": 155.82,
+          "end": 156.24
+        },
+        {
+          "word": "la",
+          "start": 156.24,
+          "end": 157.42
+        },
+        {
+          "word": "juventud",
+          "start": 157.42,
+          "end": 159.92
+        },
+        {
+          "word": "redimiste",
+          "start": 159.92,
+          "end": 161.64
+        },
+        {
+          "word": "para",
+          "start": 161.64,
+          "end": 162.92
+        },
+        {
+          "word": "ti.",
+          "start": 162.92,
+          "end": 164.14
+        }
+      ],
+      "start": 155.82,
+      "end": 164.14,
+      "confidence": 1.0,
+      "time": 155.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Con talentos consagrados empeñados en servir,",
+      "words": [
+        {
+          "word": "Con",
+          "start": 164.14,
+          "end": 164.94
+        },
+        {
+          "word": "talentos",
+          "start": 164.94,
+          "end": 166.44
+        },
+        {
+          "word": "consagrados,",
+          "start": 166.44,
+          "end": 168.56
+        },
+        {
+          "word": "empeñados",
+          "start": 169.24,
+          "end": 170.58
+        },
+        {
+          "word": "en",
+          "start": 170.58,
+          "end": 171.2
+        },
+        {
+          "word": "servir,",
+          "start": 171.2,
+          "end": 172.84
+        }
+      ],
+      "start": 164.14,
+      "end": 173.56,
+      "confidence": 1.0,
+      "time": 164.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "la juventud del mundo, de Cristo ha de ser.",
+      "words": [
+        {
+          "word": "la",
+          "start": 173.56,
+          "end": 173.92
+        },
+        {
+          "word": "juventud",
+          "start": 173.92,
+          "end": 176.42
+        },
+        {
+          "word": "del",
+          "start": 176.42,
+          "end": 177.12
+        },
+        {
+          "word": "mundo",
+          "start": 177.12,
+          "end": 177.84
+        },
+        {
+          "word": "de",
+          "start": 177.84,
+          "end": 178.28
+        },
+        {
+          "word": "Cristo",
+          "start": 178.28,
+          "end": 179.16
+        },
+        {
+          "word": "ha",
+          "start": 179.16,
+          "end": 180.2
+        },
+        {
+          "word": "de",
+          "start": 180.2,
+          "end": 180.6
+        },
+        {
+          "word": "ser.",
+          "start": 180.6,
+          "end": 182.84
+        }
+      ],
+      "start": 173.56,
+      "end": 182.84,
+      "confidence": 1.0,
+      "time": 173.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Danos una gran tarea;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Danos",
+          "start": 182.84,
+          "end": 185.06
+        },
+        {
+          "word": "una",
+          "start": 185.06,
+          "end": 185.5
+        },
+        {
+          "word": "gran",
+          "start": 185.5,
+          "end": 186.28
+        },
+        {
+          "word": "tarea,",
+          "start": 186.28,
+          "end": 187.96
+        }
+      ],
+      "start": 182.84,
+      "end": 188.38,
+      "confidence": 1.0,
+      "time": 182.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "la esperamos hoy, Señor.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "la",
+          "start": 188.38,
+          "end": 188.74
+        },
+        {
+          "word": "esperamos",
+          "start": 188.74,
+          "end": 190.08
+        },
+        {
+          "word": "hoy",
+          "start": 190.08,
+          "end": 190.54
+        },
+        {
+          "word": "Señor,",
+          "start": 190.54,
+          "end": 192.46
+        }
+      ],
+      "start": 188.38,
+      "end": 193.14,
+      "confidence": 1.0,
+      "time": 188.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Con placer la cumpliremos,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "con",
+          "start": 193.14,
+          "end": 193.18
+        },
+        {
+          "word": "placer",
+          "start": 193.18,
+          "end": 193.92
+        },
+        {
+          "word": "la",
+          "start": 193.92,
+          "end": 194.54
+        },
+        {
+          "word": "cumpliremos,",
+          "start": 194.54,
+          "end": 197.0
+        }
+      ],
+      "start": 193.14,
+      "end": 197.22,
+      "confidence": 1.0,
+      "time": 193.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "con arrojo y sin temor.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "con",
+          "start": 197.22,
+          "end": 197.68
+        },
+        {
+          "word": "arrojo",
+          "start": 197.68,
+          "end": 198.68
+        },
+        {
+          "word": "y",
+          "start": 198.68,
+          "end": 198.88
+        },
+        {
+          "word": "sin",
+          "start": 198.88,
+          "end": 199.36
+        },
+        {
+          "word": "temor.",
+          "start": 199.36,
+          "end": 201.26
+        }
+      ],
+      "start": 197.22,
+      "end": 201.26,
+      "confidence": 1.0,
+      "time": 197.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "A ti, oh Jesús, damos todo nuestro ser,",
+      "words": [
+        {
+          "word": "A",
+          "start": 201.26,
+          "end": 202.12
+        },
+        {
+          "word": "ti,",
+          "start": 202.12,
+          "end": 203.28
+        },
+        {
+          "word": "oh",
+          "start": 203.28,
+          "end": 203.96
+        },
+        {
+          "word": "Jesús,",
+          "start": 203.96,
+          "end": 205.46
+        },
+        {
+          "word": "damos",
+          "start": 206.24,
+          "end": 206.48
+        },
+        {
+          "word": "todo",
+          "start": 206.48,
+          "end": 207.54
+        },
+        {
+          "word": "nuestro",
+          "start": 207.54,
+          "end": 208.46
+        },
+        {
+          "word": "ser,",
+          "start": 208.46,
+          "end": 209.84
+        }
+      ],
+      "start": 201.26,
+      "end": 210.32,
+      "confidence": 1.0,
+      "time": 201.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "pues la juventud redimiste para ti.",
+      "words": [
+        {
+          "word": "pues",
+          "start": 210.32,
+          "end": 210.76
+        },
+        {
+          "word": "la",
+          "start": 210.76,
+          "end": 211.9
+        },
+        {
+          "word": "juventud,",
+          "start": 211.9,
+          "end": 214.38
+        },
+        {
+          "word": "rediviste",
+          "start": 214.86,
+          "end": 216.14
+        },
+        {
+          "word": "para",
+          "start": 216.14,
+          "end": 217.38
+        },
+        {
+          "word": "ti.",
+          "start": 217.38,
+          "end": 218.76
+        }
+      ],
+      "start": 210.32,
+      "end": 218.76,
+      "confidence": 0.989,
+      "time": 210.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Con talentos consagrados empeñados en servir,",
+      "words": [
+        {
+          "word": "con",
+          "start": 218.76,
+          "end": 219.42
+        },
+        {
+          "word": "talentos",
+          "start": 219.42,
+          "end": 220.88
+        },
+        {
+          "word": "consagrados,",
+          "start": 220.88,
+          "end": 223.12
+        },
+        {
+          "word": "enviados",
+          "start": 223.78,
+          "end": 225.02
+        },
+        {
+          "word": "en",
+          "start": 225.02,
+          "end": 225.82
+        },
+        {
+          "word": "servir",
+          "start": 225.82,
+          "end": 227.32
+        }
+      ],
+      "start": 218.76,
+      "end": 227.32,
+      "confidence": 0.971,
+      "time": 218.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "la juventud del mundo, de Cristo ha de ser.",
+      "words": [
+        {
+          "word": "la",
+          "start": 227.32,
+          "end": 228.4
+        },
+        {
+          "word": "juventud",
+          "start": 228.4,
+          "end": 231.0
+        },
+        {
+          "word": "del",
+          "start": 231.0,
+          "end": 231.66
+        },
+        {
+          "word": "mundo",
+          "start": 231.66,
+          "end": 232.38
+        },
+        {
+          "word": "de",
+          "start": 232.38,
+          "end": 232.86
+        },
+        {
+          "word": "Cristo",
+          "start": 232.86,
+          "end": 233.8
+        },
+        {
+          "word": "a",
+          "start": 233.8,
+          "end": 234.92
+        },
+        {
+          "word": "deser.",
+          "start": 234.92,
+          "end": 238.66
+        }
+      ],
+      "start": 227.32,
+      "end": 238.66,
+      "confidence": 0.85,
+      "time": 227.32
+    }
+  ]
+}

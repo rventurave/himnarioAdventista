@@ -1,0 +1,690 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.795,
+  "language": "es",
+  "model": "medium",
+  "hymn": 317,
+  "source": "317 - En el hogar do nunca habra.mp3",
+  "duration": 156.19,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "En el hogar do nunca habrá",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 11.28,
+          "end": 12.68
+        },
+        {
+          "word": "el",
+          "start": 12.68,
+          "end": 14.08
+        },
+        {
+          "word": "nunca",
+          "start": 14.86,
+          "end": 15.68
+        },
+        {
+          "word": "habrá",
+          "start": 15.68,
+          "end": 17.72
+        }
+      ],
+      "start": 11.28,
+      "end": 17.72,
+      "confidence": 0.667,
+      "time": 11.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tristeza, muerte ni dolor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tristeza,",
+          "start": 17.72,
+          "end": 19.86
+        },
+        {
+          "word": "muerte",
+          "start": 20.22,
+          "end": 20.44
+        },
+        {
+          "word": "ni",
+          "start": 20.44,
+          "end": 20.92
+        },
+        {
+          "word": "dolor.",
+          "start": 20.92,
+          "end": 22.92
+        }
+      ],
+      "start": 17.72,
+      "end": 22.92,
+      "confidence": 1.0,
+      "time": 17.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "eterno gozo existirá,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "eterno",
+          "start": 24.18,
+          "end": 25.64
+        },
+        {
+          "word": "gozo",
+          "start": 25.64,
+          "end": 26.1
+        },
+        {
+          "word": "existirá,",
+          "start": 26.1,
+          "end": 28.88
+        }
+      ],
+      "start": 24.18,
+      "end": 29.7,
+      "confidence": 1.0,
+      "time": 24.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "es la promesa del Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 29.7,
+          "end": 30.56
+        },
+        {
+          "word": "la",
+          "start": 30.56,
+          "end": 31.04
+        },
+        {
+          "word": "promesa",
+          "start": 31.04,
+          "end": 31.96
+        },
+        {
+          "word": "del",
+          "start": 31.96,
+          "end": 32.52
+        },
+        {
+          "word": "Señor.",
+          "start": 32.52,
+          "end": 34.42
+        }
+      ],
+      "start": 29.7,
+      "end": 34.42,
+      "confidence": 1.0,
+      "time": 29.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Velad y esperad al Salvador;",
+      "words": [
+        {
+          "word": "esperada",
+          "start": 37.7,
+          "end": 38.92
+        },
+        {
+          "word": "Salvador,",
+          "start": 39.38,
+          "end": 40.2
+        }
+      ],
+      "start": 37.7,
+      "end": 42.2,
+      "confidence": 0.388,
+      "time": 37.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "muy pronto vendrá el Redentor.",
+      "words": [
+        {
+          "word": "muy",
+          "start": 42.2,
+          "end": 42.58
+        },
+        {
+          "word": "pronto",
+          "start": 42.58,
+          "end": 43.66
+        },
+        {
+          "word": "vendrá",
+          "start": 43.66,
+          "end": 44.54
+        },
+        {
+          "word": "el",
+          "start": 44.54,
+          "end": 44.96
+        },
+        {
+          "word": "Redentor.",
+          "start": 44.96,
+          "end": 45.96
+        }
+      ],
+      "start": 42.2,
+      "end": 45.96,
+      "confidence": 1.0,
+      "time": 42.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Velad y orad! Vendrá el Salvador.",
+      "words": [
+        {
+          "word": "vendrá",
+          "start": 51.68,
+          "end": 53.98
+        },
+        {
+          "word": "el",
+          "start": 53.98,
+          "end": 54.58
+        },
+        {
+          "word": "Salvador.",
+          "start": 54.58,
+          "end": 57.5
+        }
+      ],
+      "start": 51.68,
+      "end": 57.5,
+      "confidence": 0.5,
+      "time": 51.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si vuestra senda angosta es,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 58.2,
+          "end": 59.1
+        },
+        {
+          "word": "vuestra",
+          "start": 59.1,
+          "end": 60.46
+        },
+        {
+          "word": "senda",
+          "start": 60.46,
+          "end": 61.2
+        },
+        {
+          "word": "consta",
+          "start": 61.2,
+          "end": 62.7
+        },
+        {
+          "word": "es,",
+          "start": 62.7,
+          "end": 63.72
+        }
+      ],
+      "start": 58.2,
+      "end": 65.3,
+      "confidence": 0.954,
+      "time": 58.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡seguid!, no os desaniméis;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "seguidnos",
+          "start": 65.3,
+          "end": 66.56
+        },
+        {
+          "word": "desaniméis,",
+          "start": 66.56,
+          "end": 69.44
+        }
+      ],
+      "start": 65.3,
+      "end": 69.44,
+      "confidence": 0.485,
+      "time": 65.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "felicidad habrá después",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Felicidad",
+          "start": 70.92,
+          "end": 72.32
+        },
+        {
+          "word": "habrá",
+          "start": 72.32,
+          "end": 72.92
+        },
+        {
+          "word": "después,",
+          "start": 72.92,
+          "end": 75.08
+        }
+      ],
+      "start": 70.92,
+      "end": 75.48,
+      "confidence": 1.0,
+      "time": 70.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en el hogar donde estaréis.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 75.48,
+          "end": 76.88
+        },
+        {
+          "word": "el",
+          "start": 76.88,
+          "end": 77.58
+        },
+        {
+          "word": "horar",
+          "start": 77.58,
+          "end": 78.12
+        },
+        {
+          "word": "donde",
+          "start": 78.12,
+          "end": 78.76
+        },
+        {
+          "word": "estarás.",
+          "start": 78.76,
+          "end": 80.84
+        }
+      ],
+      "start": 75.48,
+      "end": 80.84,
+      "confidence": 0.952,
+      "time": 75.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Velad y esperad al Salvador;",
+      "words": [
+        {
+          "word": "velaz",
+          "start": 83.06,
+          "end": 84.06
+        },
+        {
+          "word": "y",
+          "start": 84.06,
+          "end": 84.34
+        },
+        {
+          "word": "esperada",
+          "start": 84.34,
+          "end": 85.18
+        },
+        {
+          "word": "al",
+          "start": 85.18,
+          "end": 85.72
+        },
+        {
+          "word": "Salvador,",
+          "start": 85.72,
+          "end": 86.48
+        }
+      ],
+      "start": 83.06,
+      "end": 87.2,
+      "confidence": 0.964,
+      "time": 83.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "muy pronto vendrá el Redentor.",
+      "words": [
+        {
+          "word": "muy",
+          "start": 87.2,
+          "end": 87.58
+        },
+        {
+          "word": "pronto",
+          "start": 87.58,
+          "end": 89.86
+        },
+        {
+          "word": "vendrá",
+          "start": 89.86,
+          "end": 90.82
+        },
+        {
+          "word": "el",
+          "start": 90.82,
+          "end": 91.22
+        },
+        {
+          "word": "Redentor.",
+          "start": 91.22,
+          "end": 92.22
+        }
+      ],
+      "start": 87.2,
+      "end": 92.22,
+      "confidence": 1.0,
+      "time": 87.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Velad y orad! Vendrá el Salvador.",
+      "words": [
+        {
+          "word": "Vená",
+          "start": 93.9,
+          "end": 95.3
+        },
+        {
+          "word": "plorar,",
+          "start": 95.54,
+          "end": 98.08
+        },
+        {
+          "word": "vendrá",
+          "start": 99.04,
+          "end": 100.28
+        },
+        {
+          "word": "el",
+          "start": 100.28,
+          "end": 100.68
+        },
+        {
+          "word": "Salvador.",
+          "start": 100.68,
+          "end": 103.98
+        }
+      ],
+      "start": 93.9,
+      "end": 103.98,
+      "confidence": 0.76,
+      "time": 93.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Es tiempo de ir a trabajar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Es",
+          "start": 104.52,
+          "end": 105.34
+        },
+        {
+          "word": "tiempo",
+          "start": 105.34,
+          "end": 106.68
+        },
+        {
+          "word": "de",
+          "start": 106.68,
+          "end": 107.16
+        },
+        {
+          "word": "la",
+          "start": 107.16,
+          "end": 107.5
+        },
+        {
+          "word": "trabajar",
+          "start": 107.5,
+          "end": 109.68
+        }
+      ],
+      "start": 104.52,
+      "end": 109.68,
+      "confidence": 0.8,
+      "time": 104.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y dar las nuevas de salud",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 109.68,
+          "end": 111.12
+        },
+        {
+          "word": "dar",
+          "start": 111.12,
+          "end": 112.04
+        },
+        {
+          "word": "las",
+          "start": 112.04,
+          "end": 112.5
+        },
+        {
+          "word": "nuevas",
+          "start": 112.5,
+          "end": 113.02
+        },
+        {
+          "word": "de",
+          "start": 113.02,
+          "end": 113.58
+        },
+        {
+          "word": "salud,",
+          "start": 113.58,
+          "end": 115.26
+        }
+      ],
+      "start": 109.68,
+      "end": 115.26,
+      "confidence": 1.0,
+      "time": 109.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "de Aquel que a todos ha de dar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 117.78,
+          "end": 118.02
+        },
+        {
+          "word": "a",
+          "start": 118.02,
+          "end": 118.36
+        },
+        {
+          "word": "todos",
+          "start": 118.36,
+          "end": 118.8
+        },
+        {
+          "word": "ha",
+          "start": 118.8,
+          "end": 119.36
+        },
+        {
+          "word": "de",
+          "start": 119.36,
+          "end": 119.92
+        },
+        {
+          "word": "dar",
+          "start": 119.92,
+          "end": 121.52
+        }
+      ],
+      "start": 117.78,
+      "end": 121.52,
+      "confidence": 0.75,
+      "time": 117.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "hogar de eterna juventud.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "juventud",
+          "start": 124.6,
+          "end": 127.22
+        }
+      ],
+      "start": 124.6,
+      "end": 127.22,
+      "confidence": 0.25,
+      "time": 124.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Velad y esperad al Salvador;",
+      "words": [
+        {
+          "word": "Verá,",
+          "start": 128.74,
+          "end": 130.14
+        },
+        {
+          "word": "y",
+          "start": 130.48,
+          "end": 130.56
+        },
+        {
+          "word": "esperará",
+          "start": 130.56,
+          "end": 131.48
+        },
+        {
+          "word": "salvador",
+          "start": 131.82,
+          "end": 132.52
+        }
+      ],
+      "start": 128.74,
+      "end": 132.52,
+      "confidence": 0.736,
+      "time": 128.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "muy pronto vendrá el Redentor.",
+      "words": [
+        {
+          "word": "Muy",
+          "start": 133.08,
+          "end": 133.96
+        },
+        {
+          "word": "pronto",
+          "start": 133.96,
+          "end": 135.18
+        },
+        {
+          "word": "vendrá",
+          "start": 136.18,
+          "end": 137.14
+        },
+        {
+          "word": "el",
+          "start": 137.14,
+          "end": 137.56
+        },
+        {
+          "word": "Redentor",
+          "start": 137.56,
+          "end": 138.56
+        }
+      ],
+      "start": 133.08,
+      "end": 138.56,
+      "confidence": 1.0,
+      "time": 133.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Velad y orad! Vendrá el Salvador.",
+      "words": [
+        {
+          "word": "Verá,",
+          "start": 138.56,
+          "end": 140.58
+        },
+        {
+          "word": "Vendrá",
+          "start": 144.26,
+          "end": 146.58
+        },
+        {
+          "word": "el",
+          "start": 148.82,
+          "end": 149.52
+        },
+        {
+          "word": "Salvador.",
+          "start": 149.52,
+          "end": 150.94
+        }
+      ],
+      "start": 138.56,
+      "end": 150.94,
+      "confidence": 0.633,
+      "time": 138.56
+    }
+  ]
+}

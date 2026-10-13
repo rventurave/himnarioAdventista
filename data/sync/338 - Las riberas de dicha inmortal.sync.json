@@ -1,0 +1,758 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.78,
+  "language": "es",
+  "model": "medium",
+  "hymn": 338,
+  "source": "338 - Las riberas de dicha inmortal.mp3",
+  "duration": 150.91,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Las riberas de dicha inmortal,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Las",
+          "start": 19.84,
+          "end": 21.24
+        },
+        {
+          "word": "tideras",
+          "start": 21.24,
+          "end": 22.52
+        },
+        {
+          "word": "de",
+          "start": 22.52,
+          "end": 22.86
+        },
+        {
+          "word": "dicha",
+          "start": 22.86,
+          "end": 23.64
+        },
+        {
+          "word": "inmortal,",
+          "start": 23.64,
+          "end": 25.48
+        }
+      ],
+      "start": 19.84,
+      "end": 25.48,
+      "confidence": 0.966,
+      "time": 19.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "la mansión de indecible placer,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "La",
+          "start": 25.48,
+          "end": 26.26
+        },
+        {
+          "word": "marción",
+          "start": 26.26,
+          "end": 27.16
+        },
+        {
+          "word": "de",
+          "start": 27.16,
+          "end": 27.56
+        },
+        {
+          "word": "indecible",
+          "start": 27.56,
+          "end": 28.82
+        },
+        {
+          "word": "nacer,",
+          "start": 28.82,
+          "end": 30.56
+        }
+      ],
+      "start": 25.48,
+      "end": 30.56,
+      "confidence": 0.933,
+      "time": 25.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "la bellísima luz celestial,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "La",
+          "start": 31.34,
+          "end": 31.52
+        },
+        {
+          "word": "bellísima",
+          "start": 31.52,
+          "end": 32.98
+        },
+        {
+          "word": "luz",
+          "start": 32.98,
+          "end": 33.62
+        },
+        {
+          "word": "celestial,",
+          "start": 33.62,
+          "end": 35.82
+        }
+      ],
+      "start": 31.34,
+      "end": 35.82,
+      "confidence": 1.0,
+      "time": 31.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡cuántas glorias iremos a ver!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¿Cuántas",
+          "start": 36.42,
+          "end": 36.96
+        },
+        {
+          "word": "glorias",
+          "start": 36.96,
+          "end": 38.04
+        },
+        {
+          "word": "iremos",
+          "start": 38.04,
+          "end": 39.24
+        },
+        {
+          "word": "a",
+          "start": 39.24,
+          "end": 40.2
+        },
+        {
+          "word": "ver?",
+          "start": 40.2,
+          "end": 40.9
+        }
+      ],
+      "start": 36.42,
+      "end": 40.9,
+      "confidence": 1.0,
+      "time": 36.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "En aquel porvenir",
+      "words": [
+        {
+          "word": "a",
+          "start": 44.48,
+          "end": 44.8
+        },
+        {
+          "word": "venir",
+          "start": 44.8,
+          "end": 46.32
+        }
+      ],
+      "start": 44.48,
+      "end": 46.32,
+      "confidence": 0.601,
+      "time": 44.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "que divisa con júbilo el fiel,",
+      "words": [
+        {
+          "word": "Que",
+          "start": 46.32,
+          "end": 47.02
+        },
+        {
+          "word": "divisa",
+          "start": 47.02,
+          "end": 48.16
+        },
+        {
+          "word": "cúbido",
+          "start": 48.54,
+          "end": 49.66
+        },
+        {
+          "word": "fiel,",
+          "start": 50.0,
+          "end": 51.46
+        }
+      ],
+      "start": 46.32,
+      "end": 51.46,
+      "confidence": 0.633,
+      "time": 46.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "más allá del Jordán,",
+      "words": [
+        {
+          "word": "Más",
+          "start": 51.46,
+          "end": 52.24
+        },
+        {
+          "word": "allá",
+          "start": 52.24,
+          "end": 54.3
+        },
+        {
+          "word": "del",
+          "start": 55.68,
+          "end": 56.0
+        }
+      ],
+      "start": 51.46,
+      "end": 57.3,
+      "confidence": 0.75,
+      "time": 51.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en la patria do reina Emanuel.",
+      "words": [
+        {
+          "word": "la",
+          "start": 57.3,
+          "end": 57.68
+        },
+        {
+          "word": "patria",
+          "start": 57.68,
+          "end": 58.58
+        },
+        {
+          "word": "torreña",
+          "start": 58.58,
+          "end": 59.72
+        },
+        {
+          "word": "manruel.",
+          "start": 60.0,
+          "end": 62.58
+        }
+      ],
+      "start": 57.3,
+      "end": 62.58,
+      "confidence": 0.619,
+      "time": 57.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cada santo de Dios gozará,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cada",
+          "start": 63.3,
+          "end": 63.92
+        },
+        {
+          "word": "santo",
+          "start": 63.92,
+          "end": 64.94
+        },
+        {
+          "word": "de",
+          "start": 64.94,
+          "end": 65.32
+        },
+        {
+          "word": "Dios",
+          "start": 65.32,
+          "end": 65.84
+        },
+        {
+          "word": "gozará,",
+          "start": 65.84,
+          "end": 68.06
+        }
+      ],
+      "start": 63.3,
+      "end": 68.76,
+      "confidence": 1.0,
+      "time": 63.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "deslumbrante en pureza y candor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "deslumbrante",
+          "start": 68.76,
+          "end": 69.98
+        },
+        {
+          "word": "en",
+          "start": 69.98,
+          "end": 70.3
+        },
+        {
+          "word": "pureza",
+          "start": 70.3,
+          "end": 71.24
+        },
+        {
+          "word": "y",
+          "start": 71.24,
+          "end": 71.5
+        },
+        {
+          "word": "candor,",
+          "start": 71.5,
+          "end": 73.32
+        }
+      ],
+      "start": 68.76,
+      "end": 73.32,
+      "confidence": 1.0,
+      "time": 68.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "del Cordero en pos andará,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Del",
+          "start": 73.32,
+          "end": 74.02
+        },
+        {
+          "word": "cordero",
+          "start": 74.02,
+          "end": 75.32
+        },
+        {
+          "word": "en",
+          "start": 75.32,
+          "end": 75.82
+        },
+        {
+          "word": "pos",
+          "start": 75.82,
+          "end": 76.3
+        },
+        {
+          "word": "andará,",
+          "start": 76.3,
+          "end": 78.42
+        }
+      ],
+      "start": 73.32,
+      "end": 79.16,
+      "confidence": 1.0,
+      "time": 73.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "cantará alabanzas de amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cantará",
+          "start": 79.16,
+          "end": 80.42
+        },
+        {
+          "word": "alabanzas",
+          "start": 80.42,
+          "end": 81.78
+        },
+        {
+          "word": "de",
+          "start": 81.78,
+          "end": 82.12
+        },
+        {
+          "word": "amor.",
+          "start": 82.12,
+          "end": 83.58
+        }
+      ],
+      "start": 79.16,
+      "end": 83.58,
+      "confidence": 1.0,
+      "time": 79.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "En aquel porvenir",
+      "words": [
+        {
+          "word": "aquí,",
+          "start": 84.56,
+          "end": 86.5
+        },
+        {
+          "word": "por",
+          "start": 86.8,
+          "end": 87.04
+        }
+      ],
+      "start": 84.56,
+      "end": 89.4,
+      "confidence": 0.58,
+      "time": 84.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "que divisa con júbilo el fiel,",
+      "words": [
+        {
+          "word": "que",
+          "start": 89.4,
+          "end": 89.72
+        },
+        {
+          "word": "divisa",
+          "start": 89.72,
+          "end": 90.8
+        },
+        {
+          "word": "cúbido",
+          "start": 91.12,
+          "end": 92.24
+        },
+        {
+          "word": "fiel.",
+          "start": 92.56,
+          "end": 94.12
+        }
+      ],
+      "start": 89.4,
+      "end": 94.12,
+      "confidence": 0.633,
+      "time": 89.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "más allá del Jordán,",
+      "words": [
+        {
+          "word": "Más",
+          "start": 94.12,
+          "end": 96.12
+        },
+        {
+          "word": "allá",
+          "start": 96.12,
+          "end": 96.86
+        },
+        {
+          "word": "del",
+          "start": 96.86,
+          "end": 97.36
+        }
+      ],
+      "start": 94.12,
+      "end": 99.12,
+      "confidence": 0.75,
+      "time": 94.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en la patria do reina Emanuel.",
+      "words": [
+        {
+          "word": "en",
+          "start": 99.12,
+          "end": 99.86
+        },
+        {
+          "word": "la",
+          "start": 99.86,
+          "end": 100.26
+        },
+        {
+          "word": "patria",
+          "start": 100.26,
+          "end": 101.18
+        },
+        {
+          "word": "borreña",
+          "start": 101.18,
+          "end": 102.26
+        },
+        {
+          "word": "Manuel.",
+          "start": 102.54,
+          "end": 104.66
+        }
+      ],
+      "start": 99.12,
+      "end": 104.66,
+      "confidence": 0.792,
+      "time": 99.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "De mi viaje la terminación",
+      "verse": 3,
+      "words": [
+        {
+          "word": "De",
+          "start": 105.84,
+          "end": 106.4
+        },
+        {
+          "word": "mi",
+          "start": 106.4,
+          "end": 106.66
+        },
+        {
+          "word": "vial",
+          "start": 106.66,
+          "end": 107.22
+        },
+        {
+          "word": "la",
+          "start": 107.68,
+          "end": 108.26
+        },
+        {
+          "word": "terminación,",
+          "start": 108.26,
+          "end": 110.78
+        }
+      ],
+      "start": 105.84,
+      "end": 111.26,
+      "confidence": 0.96,
+      "time": 105.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "tan feliz, ya no tarda en llegar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tan",
+          "start": 111.26,
+          "end": 111.56
+        },
+        {
+          "word": "feliz",
+          "start": 111.56,
+          "end": 112.54
+        },
+        {
+          "word": "anotada",
+          "start": 112.54,
+          "end": 113.86
+        },
+        {
+          "word": "en",
+          "start": 113.86,
+          "end": 114.14
+        }
+      ],
+      "start": 111.26,
+      "end": 115.98,
+      "confidence": 0.543,
+      "time": 111.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Efectuada mi transformación,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "efectuada",
+          "start": 115.98,
+          "end": 117.92
+        },
+        {
+          "word": "mi",
+          "start": 117.92,
+          "end": 118.2
+        },
+        {
+          "word": "formación,",
+          "start": 118.96,
+          "end": 121.14
+        }
+      ],
+      "start": 115.98,
+      "end": 121.52,
+      "confidence": 0.957,
+      "time": 115.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "con Jesús para siempre he de estar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 121.52,
+          "end": 121.78
+        },
+        {
+          "word": "Jesús",
+          "start": 121.78,
+          "end": 122.64
+        },
+        {
+          "word": "para",
+          "start": 122.64,
+          "end": 123.36
+        },
+        {
+          "word": "siempre",
+          "start": 123.36,
+          "end": 124.24
+        },
+        {
+          "word": "estar.",
+          "start": 124.24,
+          "end": 126.02
+        }
+      ],
+      "start": 121.52,
+      "end": 126.02,
+      "confidence": 0.714,
+      "time": 121.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "En aquel porvenir",
+      "words": [
+        {
+          "word": "En",
+          "start": 126.8,
+          "end": 127.12
+        },
+        {
+          "word": "aquel",
+          "start": 127.12,
+          "end": 129.3
+        },
+        {
+          "word": "porvení",
+          "start": 129.3,
+          "end": 131.52
+        }
+      ],
+      "start": 126.8,
+      "end": 131.52,
+      "confidence": 0.98,
+      "time": 126.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "que divisa con júbilo el fiel,",
+      "words": [
+        {
+          "word": "que",
+          "start": 131.52,
+          "end": 132.26
+        },
+        {
+          "word": "divisa",
+          "start": 132.26,
+          "end": 133.38
+        },
+        {
+          "word": "con",
+          "start": 133.38,
+          "end": 133.7
+        }
+      ],
+      "start": 131.52,
+      "end": 136.36,
+      "confidence": 0.5,
+      "time": 131.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "más allá del Jordán,",
+      "words": [
+        {
+          "word": "Maseñar",
+          "start": 138.22,
+          "end": 139.62
+        }
+      ],
+      "start": 138.22,
+      "end": 142.48,
+      "confidence": 0.235,
+      "time": 138.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en la patria do reina Emanuel.",
+      "words": [
+        {
+          "word": "en",
+          "start": 142.48,
+          "end": 142.48
+        },
+        {
+          "word": "la",
+          "start": 142.48,
+          "end": 143.04
+        },
+        {
+          "word": "patria",
+          "start": 143.04,
+          "end": 143.84
+        },
+        {
+          "word": "morena",
+          "start": 143.84,
+          "end": 145.02
+        },
+        {
+          "word": "Emmanuel.",
+          "start": 145.02,
+          "end": 146.12
+        }
+      ],
+      "start": 142.48,
+      "end": 146.12,
+      "confidence": 0.799,
+      "time": 142.48
+    }
+  ]
+}

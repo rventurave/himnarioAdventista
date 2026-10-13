@@ -24,7 +24,7 @@ body {
 
   background:
     linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
-    url("../assets/fondos/fondo2.jpg");
+    var(--hymn-background, url("../assets/fondos/fondo2.jpg"));
 
   background-size: cover;
   background-position: center;
@@ -160,7 +160,8 @@ button {
    IMAGEN DEL BOTÓN
 ======================================== */
 
-button img {
+button img,
+button svg {
   display: block;
 
   width: 22px;
@@ -188,7 +189,8 @@ button:hover {
   box-shadow: 0 5px 12px rgba(49, 95, 114, 0.25);
 }
 
-button:hover img {
+button:hover img,
+button:hover svg {
   transform: scale(1.08);
 }
 

@@ -1,0 +1,942 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.885,
+  "language": "es",
+  "model": "medium",
+  "hymn": 227,
+  "source": "227 - Preste oidos el humano.mp3",
+  "duration": 195.97,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Preste oídos el humano a la voz del Salvador,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Preste",
+          "start": 12.4,
+          "end": 13.8
+        },
+        {
+          "word": "oídos",
+          "start": 13.8,
+          "end": 15.2
+        },
+        {
+          "word": "el",
+          "start": 15.2,
+          "end": 15.8
+        },
+        {
+          "word": "humano",
+          "start": 15.8,
+          "end": 17.4
+        },
+        {
+          "word": "a",
+          "start": 17.4,
+          "end": 18.54
+        },
+        {
+          "word": "la",
+          "start": 18.54,
+          "end": 19.0
+        },
+        {
+          "word": "voz",
+          "start": 19.0,
+          "end": 20.16
+        },
+        {
+          "word": "del",
+          "start": 20.16,
+          "end": 20.52
+        },
+        {
+          "word": "Salvador",
+          "start": 20.52,
+          "end": 22.68
+        }
+      ],
+      "start": 12.4,
+      "end": 22.68,
+      "confidence": 1.0,
+      "time": 12.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "regocíjese el que siente el pecado abrumador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Regocijes",
+          "start": 24.5,
+          "end": 25.9
+        },
+        {
+          "word": "el",
+          "start": 25.9,
+          "end": 26.46
+        },
+        {
+          "word": "que",
+          "start": 26.46,
+          "end": 27.1
+        },
+        {
+          "word": "siente",
+          "start": 27.1,
+          "end": 28.2
+        },
+        {
+          "word": "el",
+          "start": 28.2,
+          "end": 29.3
+        },
+        {
+          "word": "pecado",
+          "start": 29.3,
+          "end": 31.16
+        },
+        {
+          "word": "abrumador,",
+          "start": 31.16,
+          "end": 33.54
+        }
+      ],
+      "start": 24.5,
+      "end": 33.54,
+      "confidence": 0.991,
+      "time": 24.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ya resuena el evangelio de la tierra en la ancha faz",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ya",
+          "start": 34.28,
+          "end": 34.68
+        },
+        {
+          "word": "resuena",
+          "start": 34.68,
+          "end": 36.68
+        },
+        {
+          "word": "el",
+          "start": 36.68,
+          "end": 37.26
+        },
+        {
+          "word": "Evangelio",
+          "start": 37.26,
+          "end": 39.32
+        },
+        {
+          "word": "de",
+          "start": 39.32,
+          "end": 40.06
+        },
+        {
+          "word": "la",
+          "start": 40.06,
+          "end": 40.58
+        },
+        {
+          "word": "tierra",
+          "start": 40.58,
+          "end": 42.04
+        },
+        {
+          "word": "en",
+          "start": 42.04,
+          "end": 42.46
+        },
+        {
+          "word": "la",
+          "start": 42.46,
+          "end": 42.78
+        },
+        {
+          "word": "chafaz,",
+          "start": 42.78,
+          "end": 44.44
+        }
+      ],
+      "start": 34.28,
+      "end": 44.44,
+      "confidence": 0.891,
+      "time": 34.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y de gracia ofrece al hombre el perdón, consuelo y paz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 44.44,
+          "end": 45.38
+        },
+        {
+          "word": "de",
+          "start": 45.38,
+          "end": 45.98
+        },
+        {
+          "word": "gracia",
+          "start": 45.98,
+          "end": 47.56
+        },
+        {
+          "word": "ofrece",
+          "start": 47.56,
+          "end": 48.46
+        },
+        {
+          "word": "hombre",
+          "start": 49.22,
+          "end": 50.14
+        },
+        {
+          "word": "el",
+          "start": 50.14,
+          "end": 51.0
+        },
+        {
+          "word": "perdón,",
+          "start": 51.0,
+          "end": 52.66
+        },
+        {
+          "word": "consuelo",
+          "start": 53.0,
+          "end": 53.96
+        },
+        {
+          "word": "y",
+          "start": 53.96,
+          "end": 55.66
+        },
+        {
+          "word": "paz.",
+          "start": 55.66,
+          "end": 56.34
+        }
+      ],
+      "start": 44.44,
+      "end": 56.34,
+      "confidence": 0.909,
+      "time": 44.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Vengan cuantos se acongojan por lograr con qué vivir,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Vengan",
+          "start": 57.04,
+          "end": 57.96
+        },
+        {
+          "word": "cuantos",
+          "start": 57.96,
+          "end": 59.7
+        },
+        {
+          "word": "se",
+          "start": 59.7,
+          "end": 60.28
+        },
+        {
+          "word": "acangojan",
+          "start": 60.28,
+          "end": 62.08
+        },
+        {
+          "word": "por",
+          "start": 62.08,
+          "end": 63.0
+        },
+        {
+          "word": "lograr",
+          "start": 63.0,
+          "end": 64.76
+        },
+        {
+          "word": "con",
+          "start": 64.76,
+          "end": 65.2
+        },
+        {
+          "word": "qué",
+          "start": 65.2,
+          "end": 65.72
+        },
+        {
+          "word": "vivir",
+          "start": 65.72,
+          "end": 67.28
+        }
+      ],
+      "start": 57.04,
+      "end": 67.28,
+      "confidence": 0.993,
+      "time": 57.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y en su afán tan solo rinden servidumbre hasta morir.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 67.28,
+          "end": 68.02
+        },
+        {
+          "word": "su",
+          "start": 68.26,
+          "end": 68.52
+        },
+        {
+          "word": "afán",
+          "start": 68.52,
+          "end": 70.08
+        },
+        {
+          "word": "tan",
+          "start": 70.08,
+          "end": 70.5
+        },
+        {
+          "word": "solo",
+          "start": 70.5,
+          "end": 71.34
+        },
+        {
+          "word": "rinden",
+          "start": 71.34,
+          "end": 73.12
+        },
+        {
+          "word": "ser",
+          "start": 73.12,
+          "end": 74.02
+        }
+      ],
+      "start": 67.28,
+      "end": 78.1,
+      "confidence": 0.694,
+      "time": 67.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Hay vestido más precioso, blanco, puro y eternal;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Hay",
+          "start": 78.6,
+          "end": 79.2
+        },
+        {
+          "word": "vestido",
+          "start": 79.2,
+          "end": 81.32
+        },
+        {
+          "word": "más",
+          "start": 81.32,
+          "end": 82.02
+        },
+        {
+          "word": "precioso,",
+          "start": 82.02,
+          "end": 83.94
+        },
+        {
+          "word": "blanco,",
+          "start": 84.18,
+          "end": 85.02
+        },
+        {
+          "word": "puro",
+          "start": 86.18,
+          "end": 86.72
+        },
+        {
+          "word": "y",
+          "start": 86.72,
+          "end": 87.4
+        },
+        {
+          "word": "eterno,",
+          "start": 87.4,
+          "end": 89.14
+        }
+      ],
+      "start": 78.6,
+      "end": 89.14,
+      "confidence": 0.983,
+      "time": 78.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "es Jesús quien da a las almas ese manto celestial.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "es",
+          "start": 89.84,
+          "end": 90.16
+        },
+        {
+          "word": "Jesús",
+          "start": 90.16,
+          "end": 91.22
+        },
+        {
+          "word": "quien",
+          "start": 91.22,
+          "end": 92.3
+        },
+        {
+          "word": "las",
+          "start": 92.8,
+          "end": 93.68
+        },
+        {
+          "word": "almas",
+          "start": 93.68,
+          "end": 94.82
+        },
+        {
+          "word": "ese",
+          "start": 95.54,
+          "end": 95.94
+        },
+        {
+          "word": "manto",
+          "start": 95.94,
+          "end": 97.7
+        },
+        {
+          "word": "celestial.",
+          "start": 97.7,
+          "end": 99.08
+        }
+      ],
+      "start": 89.84,
+      "end": 99.08,
+      "confidence": 0.8,
+      "time": 89.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Vengan todos los que sufran,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Vengan",
+          "start": 101.38,
+          "end": 102.78
+        },
+        {
+          "word": "todos",
+          "start": 102.78,
+          "end": 104.18
+        },
+        {
+          "word": "los",
+          "start": 104.18,
+          "end": 104.76
+        },
+        {
+          "word": "que",
+          "start": 104.76,
+          "end": 105.62
+        },
+        {
+          "word": "sufran,",
+          "start": 105.62,
+          "end": 106.76
+        }
+      ],
+      "start": 101.38,
+      "end": 106.94,
+      "confidence": 1.0,
+      "time": 101.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "los que sientan hambre y sed,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "los",
+          "start": 106.94,
+          "end": 107.54
+        },
+        {
+          "word": "que",
+          "start": 107.54,
+          "end": 108.62
+        },
+        {
+          "word": "sientan",
+          "start": 108.62,
+          "end": 109.82
+        },
+        {
+          "word": "hambre",
+          "start": 109.82,
+          "end": 110.5
+        },
+        {
+          "word": "y",
+          "start": 110.5,
+          "end": 111.64
+        },
+        {
+          "word": "sed,",
+          "start": 111.64,
+          "end": 111.88
+        }
+      ],
+      "start": 106.94,
+      "end": 111.88,
+      "confidence": 1.0,
+      "time": 106.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "los que débiles se encuentren,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Los",
+          "start": 111.88,
+          "end": 112.9
+        },
+        {
+          "word": "que",
+          "start": 112.9,
+          "end": 113.72
+        },
+        {
+          "word": "debiles",
+          "start": 113.72,
+          "end": 115.68
+        },
+        {
+          "word": "encuentren",
+          "start": 115.68,
+          "end": 117.56
+        }
+      ],
+      "start": 111.88,
+      "end": 117.56,
+      "confidence": 0.8,
+      "time": 111.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de este mundo a la merced.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 117.56,
+          "end": 118.38
+        },
+        {
+          "word": "este",
+          "start": 118.38,
+          "end": 118.78
+        },
+        {
+          "word": "mundo",
+          "start": 118.78,
+          "end": 120.26
+        },
+        {
+          "word": "a",
+          "start": 120.26,
+          "end": 120.8
+        },
+        {
+          "word": "la",
+          "start": 120.8,
+          "end": 121.2
+        },
+        {
+          "word": "merced",
+          "start": 121.2,
+          "end": 122.9
+        }
+      ],
+      "start": 117.56,
+      "end": 122.9,
+      "confidence": 1.0,
+      "time": 117.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En Jesús hay pronto auxilio,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 122.9,
+          "end": 123.76
+        },
+        {
+          "word": "Jesús",
+          "start": 123.76,
+          "end": 124.92
+        },
+        {
+          "word": "hay",
+          "start": 124.92,
+          "end": 125.92
+        },
+        {
+          "word": "pronto",
+          "start": 125.92,
+          "end": 126.66
+        },
+        {
+          "word": "auxilia,",
+          "start": 126.66,
+          "end": 128.3
+        }
+      ],
+      "start": 122.9,
+      "end": 129.06,
+      "confidence": 0.983,
+      "time": 122.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hay hartura y bienestar;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "hay",
+          "start": 129.06,
+          "end": 129.26
+        },
+        {
+          "word": "Artura",
+          "start": 129.26,
+          "end": 131.1
+        },
+        {
+          "word": "y",
+          "start": 131.1,
+          "end": 131.6
+        },
+        {
+          "word": "bienestar",
+          "start": 131.6,
+          "end": 133.68
+        }
+      ],
+      "start": 129.06,
+      "end": 133.68,
+      "confidence": 0.988,
+      "time": 129.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hay salud y fortaleza cual ninguno puede dar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Hay",
+          "start": 133.68,
+          "end": 134.62
+        },
+        {
+          "word": "salud",
+          "start": 134.62,
+          "end": 135.86
+        },
+        {
+          "word": "y",
+          "start": 135.86,
+          "end": 136.94
+        },
+        {
+          "word": "fortaleza",
+          "start": 136.94,
+          "end": 139.32
+        },
+        {
+          "word": "Cual",
+          "start": 139.32,
+          "end": 140.02
+        },
+        {
+          "word": "ninguno",
+          "start": 140.02,
+          "end": 142.12
+        },
+        {
+          "word": "puede",
+          "start": 142.12,
+          "end": 142.96
+        },
+        {
+          "word": "dar",
+          "start": 142.96,
+          "end": 145.0
+        }
+      ],
+      "start": 133.68,
+      "end": 145.0,
+      "confidence": 1.0,
+      "time": 133.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "¿Por qué en rumbo siempre incierto vuestra vida recorréis?",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Porque",
+          "start": 145.6,
+          "end": 146.74
+        },
+        {
+          "word": "rombo,",
+          "start": 146.74,
+          "end": 148.48
+        },
+        {
+          "word": "siempre",
+          "start": 148.76,
+          "end": 149.3
+        },
+        {
+          "word": "encierto",
+          "start": 149.3,
+          "end": 151.0
+        },
+        {
+          "word": "Vuestra",
+          "start": 151.0,
+          "end": 152.34
+        },
+        {
+          "word": "vida",
+          "start": 152.34,
+          "end": 153.94
+        },
+        {
+          "word": "recorrens",
+          "start": 153.94,
+          "end": 156.84
+        }
+      ],
+      "start": 145.6,
+      "end": 156.84,
+      "confidence": 0.742,
+      "time": 145.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "A Jesús venid, mortales, que muy cerca le tenéis.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "A",
+          "start": 156.84,
+          "end": 157.34
+        },
+        {
+          "word": "venidortales",
+          "start": 158.5,
+          "end": 161.64
+        },
+        {
+          "word": "que",
+          "start": 161.64,
+          "end": 162.64
+        },
+        {
+          "word": "muy",
+          "start": 162.64,
+          "end": 163.16
+        },
+        {
+          "word": "cerca",
+          "start": 163.16,
+          "end": 164.74
+        },
+        {
+          "word": "le",
+          "start": 164.74,
+          "end": 165.46
+        },
+        {
+          "word": "tenés.",
+          "start": 165.46,
+          "end": 167.3
+        }
+      ],
+      "start": 156.84,
+      "end": 167.3,
+      "confidence": 0.765,
+      "time": 156.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Él es vida en cielo y tierra,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "les",
+          "start": 168.06,
+          "end": 168.76
+        },
+        {
+          "word": "vida",
+          "start": 168.76,
+          "end": 169.88
+        },
+        {
+          "word": "cielo",
+          "start": 170.48,
+          "end": 170.88
+        },
+        {
+          "word": "y",
+          "start": 170.88,
+          "end": 171.26
+        },
+        {
+          "word": "tierra,",
+          "start": 171.26,
+          "end": 172.52
+        }
+      ],
+      "start": 168.06,
+      "end": 172.52,
+      "confidence": 0.697,
+      "time": 168.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "y la riqueza de su amor",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 173.02,
+          "end": 173.24
+        },
+        {
+          "word": "la",
+          "start": 173.24,
+          "end": 173.62
+        },
+        {
+          "word": "riqueza",
+          "start": 173.62,
+          "end": 175.64
+        },
+        {
+          "word": "de",
+          "start": 175.64,
+          "end": 176.24
+        },
+        {
+          "word": "su",
+          "start": 176.24,
+          "end": 176.5
+        },
+        {
+          "word": "amor",
+          "start": 176.5,
+          "end": 178.04
+        }
+      ],
+      "start": 173.02,
+      "end": 178.04,
+      "confidence": 1.0,
+      "time": 173.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "os mejora la presente y os reserva otra mejor.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "os",
+          "start": 178.04,
+          "end": 179.0
+        },
+        {
+          "word": "lejora",
+          "start": 179.0,
+          "end": 181.12
+        },
+        {
+          "word": "la",
+          "start": 181.12,
+          "end": 181.62
+        },
+        {
+          "word": "presente",
+          "start": 181.62,
+          "end": 183.36
+        },
+        {
+          "word": "Dios",
+          "start": 183.36,
+          "end": 184.38
+        },
+        {
+          "word": "desea",
+          "start": 184.38,
+          "end": 186.86
+        },
+        {
+          "word": "otra",
+          "start": 186.86,
+          "end": 187.5
+        }
+      ],
+      "start": 178.04,
+      "end": 188.84,
+      "confidence": 0.722,
+      "time": 178.04
+    }
+  ]
+}

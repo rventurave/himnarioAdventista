@@ -1,0 +1,708 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.937,
+  "language": "es",
+  "model": "medium",
+  "hymn": 540,
+  "source": "540 - Ya asoma el sol brillante.mp3",
+  "duration": 92.73,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ya asoma el sol brillante,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ya",
+          "start": 14.16,
+          "end": 14.8
+        },
+        {
+          "word": "sofa",
+          "start": 14.8,
+          "end": 15.84
+        },
+        {
+          "word": "el",
+          "start": 15.84,
+          "end": 16.08
+        },
+        {
+          "word": "sol",
+          "start": 16.08,
+          "end": 16.36
+        },
+        {
+          "word": "brillante,",
+          "start": 16.36,
+          "end": 17.72
+        }
+      ],
+      "start": 14.16,
+      "end": 18.04,
+      "confidence": 0.96,
+      "time": 14.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "vertiendo luz, calor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "vertiendo",
+          "start": 18.04,
+          "end": 18.84
+        },
+        {
+          "word": "calor,",
+          "start": 19.16,
+          "end": 20.0
+        }
+      ],
+      "start": 18.04,
+      "end": 21.0,
+      "confidence": 0.667,
+      "time": 18.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "natura alegre canta:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "altura",
+          "start": 21.0,
+          "end": 21.5
+        },
+        {
+          "word": "alegre",
+          "start": 21.5,
+          "end": 22.4
+        },
+        {
+          "word": "canta,",
+          "start": 22.4,
+          "end": 23.5
+        }
+      ],
+      "start": 21.0,
+      "end": 23.72,
+      "confidence": 0.967,
+      "time": 21.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "es día del Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 23.72,
+          "end": 23.96
+        },
+        {
+          "word": "día",
+          "start": 23.96,
+          "end": 24.6
+        },
+        {
+          "word": "del",
+          "start": 24.6,
+          "end": 25.1
+        },
+        {
+          "word": "Señor.",
+          "start": 25.1,
+          "end": 25.92
+        }
+      ],
+      "start": 23.72,
+      "end": 25.92,
+      "confidence": 1.0,
+      "time": 23.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Hoy, sábado, reunidos",
+      "words": [
+        {
+          "word": "Hoy,",
+          "start": 25.92,
+          "end": 26.84
+        },
+        {
+          "word": "sábado,",
+          "start": 26.88,
+          "end": 27.96
+        },
+        {
+          "word": "reunidos",
+          "start": 28.12,
+          "end": 29.3
+        }
+      ],
+      "start": 25.92,
+      "end": 29.3,
+      "confidence": 1.0,
+      "time": 25.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en culto a ti, Señor,",
+      "words": [
+        {
+          "word": "en",
+          "start": 29.3,
+          "end": 29.72
+        },
+        {
+          "word": "culto",
+          "start": 29.72,
+          "end": 30.34
+        },
+        {
+          "word": "a",
+          "start": 30.34,
+          "end": 30.54
+        },
+        {
+          "word": "ti,",
+          "start": 30.54,
+          "end": 30.78
+        },
+        {
+          "word": "Señor,",
+          "start": 30.78,
+          "end": 31.62
+        }
+      ],
+      "start": 29.3,
+      "end": 32.2,
+      "confidence": 1.0,
+      "time": 29.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "tus hijos redimidos",
+      "words": [
+        {
+          "word": "tus",
+          "start": 32.2,
+          "end": 32.62
+        },
+        {
+          "word": "hijos",
+          "start": 32.62,
+          "end": 33.3
+        },
+        {
+          "word": "redimidos",
+          "start": 33.3,
+          "end": 35.02
+        }
+      ],
+      "start": 32.2,
+      "end": 35.02,
+      "confidence": 1.0,
+      "time": 32.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "te rinden su loor.",
+      "words": [
+        {
+          "word": "te",
+          "start": 35.02,
+          "end": 35.52
+        },
+        {
+          "word": "rinden",
+          "start": 35.52,
+          "end": 36.18
+        },
+        {
+          "word": "su",
+          "start": 36.18,
+          "end": 36.68
+        },
+        {
+          "word": "honor.",
+          "start": 36.68,
+          "end": 38.08
+        }
+      ],
+      "start": 35.02,
+      "end": 38.08,
+      "confidence": 0.95,
+      "time": 35.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Perfume de las flores",
+      "verse": 2,
+      "words": [
+        {
+          "word": "fume",
+          "start": 39.86,
+          "end": 40.48
+        },
+        {
+          "word": "de",
+          "start": 40.48,
+          "end": 41.0
+        },
+        {
+          "word": "las",
+          "start": 41.0,
+          "end": 41.4
+        },
+        {
+          "word": "flores",
+          "start": 41.4,
+          "end": 42.32
+        }
+      ],
+      "start": 39.86,
+      "end": 42.32,
+      "confidence": 0.959,
+      "time": 39.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "se eleva hacia Dios.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "se",
+          "start": 42.32,
+          "end": 42.86
+        },
+        {
+          "word": "hacia",
+          "start": 43.72,
+          "end": 44.06
+        },
+        {
+          "word": "Dios,",
+          "start": 44.06,
+          "end": 44.64
+        }
+      ],
+      "start": 42.32,
+      "end": 44.9,
+      "confidence": 0.75,
+      "time": 42.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Los pajarillos trinan",
+      "verse": 2,
+      "words": [
+        {
+          "word": "los",
+          "start": 44.9,
+          "end": 45.62
+        },
+        {
+          "word": "pajarillos",
+          "start": 45.62,
+          "end": 46.96
+        },
+        {
+          "word": "trinan",
+          "start": 46.96,
+          "end": 48.06
+        }
+      ],
+      "start": 44.9,
+      "end": 48.06,
+      "confidence": 1.0,
+      "time": 44.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con melodiosa voz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "con",
+          "start": 48.06,
+          "end": 48.48
+        },
+        {
+          "word": "melodios",
+          "start": 48.48,
+          "end": 49.58
+        }
+      ],
+      "start": 48.06,
+      "end": 50.38,
+      "confidence": 0.647,
+      "time": 48.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Hoy, sábado, reunidos",
+      "words": [
+        {
+          "word": "Hoy,",
+          "start": 50.38,
+          "end": 51.42
+        },
+        {
+          "word": "sábado",
+          "start": 51.58,
+          "end": 52.5
+        },
+        {
+          "word": "reunidos,",
+          "start": 52.5,
+          "end": 53.88
+        }
+      ],
+      "start": 50.38,
+      "end": 54.14,
+      "confidence": 1.0,
+      "time": 50.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en culto a ti, Señor,",
+      "words": [
+        {
+          "word": "en",
+          "start": 54.14,
+          "end": 54.32
+        },
+        {
+          "word": "culto",
+          "start": 54.32,
+          "end": 54.92
+        },
+        {
+          "word": "a",
+          "start": 54.92,
+          "end": 55.14
+        },
+        {
+          "word": "ti,",
+          "start": 55.14,
+          "end": 55.36
+        },
+        {
+          "word": "Señor,",
+          "start": 55.36,
+          "end": 56.16
+        }
+      ],
+      "start": 54.14,
+      "end": 56.78,
+      "confidence": 1.0,
+      "time": 54.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "tus hijos redimidos",
+      "words": [
+        {
+          "word": "tus",
+          "start": 56.78,
+          "end": 57.22
+        },
+        {
+          "word": "hijos",
+          "start": 57.22,
+          "end": 57.88
+        },
+        {
+          "word": "redimidos",
+          "start": 57.88,
+          "end": 59.58
+        }
+      ],
+      "start": 56.78,
+      "end": 59.58,
+      "confidence": 1.0,
+      "time": 56.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "te rinden su loor.",
+      "words": [
+        {
+          "word": "te",
+          "start": 59.58,
+          "end": 60.16
+        },
+        {
+          "word": "rinden",
+          "start": 60.16,
+          "end": 60.76
+        },
+        {
+          "word": "su",
+          "start": 60.76,
+          "end": 61.28
+        },
+        {
+          "word": "lor.",
+          "start": 61.28,
+          "end": 63.08
+        }
+      ],
+      "start": 59.58,
+      "end": 63.08,
+      "confidence": 0.979,
+      "time": 59.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Si pájaros y flores",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Si",
+          "start": 63.76,
+          "end": 64.46
+        },
+        {
+          "word": "pájaros",
+          "start": 64.46,
+          "end": 65.64
+        },
+        {
+          "word": "y",
+          "start": 65.64,
+          "end": 65.86
+        },
+        {
+          "word": "flores",
+          "start": 65.86,
+          "end": 66.82
+        }
+      ],
+      "start": 63.76,
+      "end": 66.82,
+      "confidence": 1.0,
+      "time": 63.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "te alaban, oh Señor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "te",
+          "start": 66.82,
+          "end": 67.24
+        },
+        {
+          "word": "alaban,",
+          "start": 67.24,
+          "end": 68.06
+        },
+        {
+          "word": "oh",
+          "start": 68.1,
+          "end": 68.5
+        },
+        {
+          "word": "Señor,",
+          "start": 68.5,
+          "end": 69.14
+        }
+      ],
+      "start": 66.82,
+      "end": 69.76,
+      "confidence": 1.0,
+      "time": 66.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "tus hijos reverentes",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tus",
+          "start": 69.76,
+          "end": 70.26
+        },
+        {
+          "word": "hijos",
+          "start": 70.26,
+          "end": 70.88
+        },
+        {
+          "word": "remerentes",
+          "start": 70.88,
+          "end": 72.58
+        }
+      ],
+      "start": 69.76,
+      "end": 72.58,
+      "confidence": 0.98,
+      "time": 69.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "te alabarán mejor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "te",
+          "start": 72.58,
+          "end": 73.18
+        },
+        {
+          "word": "alaban",
+          "start": 73.18,
+          "end": 73.96
+        },
+        {
+          "word": "mejor.",
+          "start": 73.96,
+          "end": 74.92
+        }
+      ],
+      "start": 72.58,
+      "end": 74.92,
+      "confidence": 0.971,
+      "time": 72.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Hoy, sábado, reunidos",
+      "words": [
+        {
+          "word": "Hoy,",
+          "start": 74.92,
+          "end": 76.02
+        },
+        {
+          "word": "Salvador,",
+          "start": 76.06,
+          "end": 77.06
+        },
+        {
+          "word": "reunidos",
+          "start": 77.32,
+          "end": 78.5
+        }
+      ],
+      "start": 74.92,
+      "end": 78.5,
+      "confidence": 0.943,
+      "time": 74.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en culto a ti, Señor,",
+      "words": [
+        {
+          "word": "en",
+          "start": 78.5,
+          "end": 78.9
+        },
+        {
+          "word": "culto",
+          "start": 78.9,
+          "end": 79.56
+        },
+        {
+          "word": "al",
+          "start": 79.56,
+          "end": 79.74
+        },
+        {
+          "word": "Señor,",
+          "start": 79.74,
+          "end": 80.56
+        }
+      ],
+      "start": 78.5,
+      "end": 81.5,
+      "confidence": 0.76,
+      "time": 78.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "tus hijos redimidos",
+      "words": [
+        {
+          "word": "tus",
+          "start": 81.5,
+          "end": 81.76
+        },
+        {
+          "word": "hijos",
+          "start": 81.76,
+          "end": 82.46
+        },
+        {
+          "word": "redimidos",
+          "start": 82.46,
+          "end": 84.24
+        }
+      ],
+      "start": 81.5,
+      "end": 84.24,
+      "confidence": 1.0,
+      "time": 81.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "te rinden su loor.",
+      "words": [
+        {
+          "word": "te",
+          "start": 84.24,
+          "end": 84.78
+        },
+        {
+          "word": "rinden",
+          "start": 84.78,
+          "end": 85.6
+        },
+        {
+          "word": "su",
+          "start": 85.6,
+          "end": 86.32
+        },
+        {
+          "word": "lojón.",
+          "start": 86.32,
+          "end": 90.32
+        }
+      ],
+      "start": 84.24,
+      "end": 90.32,
+      "confidence": 0.95,
+      "time": 84.24
+    }
+  ]
+}

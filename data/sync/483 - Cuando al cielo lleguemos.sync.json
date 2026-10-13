@@ -1,0 +1,778 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.911,
+  "language": "es",
+  "model": "medium",
+  "hymn": 483,
+  "source": "483 - Cuando al cielo lleguemos.mp3",
+  "duration": 129.1,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Todos juntos de Jesús cantemos,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Todos",
+          "start": 9.94,
+          "end": 11.34
+        },
+        {
+          "word": "juntos",
+          "start": 11.34,
+          "end": 12.74
+        },
+        {
+          "word": "de",
+          "start": 12.74,
+          "end": 13.2
+        },
+        {
+          "word": "Jesús",
+          "start": 13.2,
+          "end": 13.68
+        },
+        {
+          "word": "cartemos",
+          "start": 13.68,
+          "end": 15.08
+        }
+      ],
+      "start": 9.94,
+      "end": 15.08,
+      "confidence": 0.985,
+      "time": 9.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "su misericordia y su bondad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "su",
+          "start": 15.08,
+          "end": 15.88
+        },
+        {
+          "word": "misericordia",
+          "start": 15.88,
+          "end": 17.58
+        },
+        {
+          "word": "y",
+          "start": 17.58,
+          "end": 18.1
+        },
+        {
+          "word": "su",
+          "start": 18.1,
+          "end": 18.44
+        },
+        {
+          "word": "bondad",
+          "start": 18.44,
+          "end": 19.76
+        }
+      ],
+      "start": 15.08,
+      "end": 19.76,
+      "confidence": 1.0,
+      "time": 15.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "En mansiones celestiales",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 19.76,
+          "end": 20.66
+        },
+        {
+          "word": "mansiones",
+          "start": 20.66,
+          "end": 22.42
+        },
+        {
+          "word": "celestiales",
+          "start": 22.42,
+          "end": 24.84
+        }
+      ],
+      "start": 19.76,
+      "end": 24.84,
+      "confidence": 1.0,
+      "time": 19.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nos prepara un bello hogar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "nos",
+          "start": 24.84,
+          "end": 25.64
+        },
+        {
+          "word": "prepara",
+          "start": 25.64,
+          "end": 26.84
+        },
+        {
+          "word": "hogar",
+          "start": 27.08,
+          "end": 28.64
+        }
+      ],
+      "start": 24.84,
+      "end": 28.64,
+      "confidence": 0.6,
+      "time": 24.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cuando al cielo lleguemos,",
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 28.64,
+          "end": 29.46
+        },
+        {
+          "word": "cielo",
+          "start": 29.9,
+          "end": 31.6
+        },
+        {
+          "word": "reguemos,",
+          "start": 31.6,
+          "end": 33.68
+        }
+      ],
+      "start": 28.64,
+      "end": 34.3,
+      "confidence": 0.724,
+      "time": 28.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡día alegre, bendito aquel será!",
+      "words": [
+        {
+          "word": "día",
+          "start": 34.3,
+          "end": 34.46
+        },
+        {
+          "word": "alegre",
+          "start": 34.46,
+          "end": 35.4
+        },
+        {
+          "word": "bendito",
+          "start": 35.54,
+          "end": 36.16
+        },
+        {
+          "word": "aquel",
+          "start": 36.16,
+          "end": 36.7
+        },
+        {
+          "word": "será.",
+          "start": 36.7,
+          "end": 38.18
+        }
+      ],
+      "start": 34.3,
+      "end": 38.18,
+      "confidence": 1.0,
+      "time": 34.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cuando a Dios veamos,",
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 38.64,
+          "end": 39.12
+        },
+        {
+          "word": "a",
+          "start": 39.12,
+          "end": 39.54
+        },
+        {
+          "word": "Dios",
+          "start": 39.54,
+          "end": 40.98
+        },
+        {
+          "word": "creamos,",
+          "start": 40.98,
+          "end": 43.32
+        }
+      ],
+      "start": 38.64,
+      "end": 44.02,
+      "confidence": 0.965,
+      "time": 38.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Victoria! vamos a cantar.",
+      "words": [
+        {
+          "word": "victoria",
+          "start": 44.02,
+          "end": 45.06
+        },
+        {
+          "word": "vamos",
+          "start": 45.06,
+          "end": 45.84
+        },
+        {
+          "word": "a",
+          "start": 45.84,
+          "end": 46.38
+        },
+        {
+          "word": "cantar.",
+          "start": 46.38,
+          "end": 48.58
+        }
+      ],
+      "start": 44.02,
+      "end": 48.58,
+      "confidence": 1.0,
+      "time": 44.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mientras juntos peregrinamos,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Mientras",
+          "start": 48.84,
+          "end": 49.96
+        },
+        {
+          "word": "juntos",
+          "start": 49.96,
+          "end": 51.16
+        },
+        {
+          "word": "peregrinamos,",
+          "start": 51.16,
+          "end": 53.48
+        }
+      ],
+      "start": 48.84,
+      "end": 54.12,
+      "confidence": 1.0,
+      "time": 48.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "nubes oscurecerán el sol.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "nubes",
+          "start": 54.12,
+          "end": 54.94
+        },
+        {
+          "word": "oscurecerán",
+          "start": 54.94,
+          "end": 56.76
+        },
+        {
+          "word": "el",
+          "start": 56.76,
+          "end": 57.3
+        },
+        {
+          "word": "sol.",
+          "start": 57.3,
+          "end": 58.02
+        }
+      ],
+      "start": 54.12,
+      "end": 58.02,
+      "confidence": 1.0,
+      "time": 54.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Pero cuando el viaje acabe,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Pero",
+          "start": 58.02,
+          "end": 59.22
+        },
+        {
+          "word": "cuando",
+          "start": 59.22,
+          "end": 60.38
+        },
+        {
+          "word": "el",
+          "start": 60.38,
+          "end": 60.98
+        },
+        {
+          "word": "viaje",
+          "start": 60.98,
+          "end": 61.56
+        },
+        {
+          "word": "acabe,",
+          "start": 61.56,
+          "end": 63.02
+        }
+      ],
+      "start": 58.02,
+      "end": 63.8,
+      "confidence": 1.0,
+      "time": 58.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "no habrá sombras ni dolor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "no",
+          "start": 63.8,
+          "end": 63.8
+        },
+        {
+          "word": "habrá",
+          "start": 63.8,
+          "end": 64.44
+        },
+        {
+          "word": "sombras",
+          "start": 64.44,
+          "end": 65.02
+        },
+        {
+          "word": "ni",
+          "start": 65.02,
+          "end": 65.44
+        },
+        {
+          "word": "dolor.",
+          "start": 65.44,
+          "end": 66.9
+        }
+      ],
+      "start": 63.8,
+      "end": 66.9,
+      "confidence": 1.0,
+      "time": 63.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cuando al cielo lleguemos,",
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 67.38,
+          "end": 67.86
+        },
+        {
+          "word": "cielo",
+          "start": 68.6,
+          "end": 70.08
+        }
+      ],
+      "start": 67.38,
+      "end": 72.64,
+      "confidence": 0.5,
+      "time": 67.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡día alegre, bendito aquel será!",
+      "words": [
+        {
+          "word": "día",
+          "start": 72.64,
+          "end": 72.84
+        },
+        {
+          "word": "alegre",
+          "start": 72.84,
+          "end": 73.84
+        },
+        {
+          "word": "bendito",
+          "start": 73.84,
+          "end": 74.5
+        },
+        {
+          "word": "aquel",
+          "start": 74.5,
+          "end": 74.94
+        },
+        {
+          "word": "será.",
+          "start": 74.94,
+          "end": 76.46
+        }
+      ],
+      "start": 72.64,
+      "end": 76.46,
+      "confidence": 1.0,
+      "time": 72.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cuando a Dios veamos,",
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 76.98,
+          "end": 77.48
+        },
+        {
+          "word": "a",
+          "start": 77.48,
+          "end": 77.88
+        },
+        {
+          "word": "Dios",
+          "start": 77.88,
+          "end": 79.36
+        },
+        {
+          "word": "creamos,",
+          "start": 79.36,
+          "end": 81.66
+        }
+      ],
+      "start": 76.98,
+      "end": 82.38,
+      "confidence": 0.965,
+      "time": 76.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Victoria! vamos a cantar.",
+      "words": [
+        {
+          "word": "victoria",
+          "start": 82.38,
+          "end": 83.38
+        },
+        {
+          "word": "vamos",
+          "start": 83.38,
+          "end": 84.3
+        },
+        {
+          "word": "a",
+          "start": 84.3,
+          "end": 84.7
+        },
+        {
+          "word": "ganar.",
+          "start": 84.7,
+          "end": 86.56
+        }
+      ],
+      "start": 82.38,
+      "end": 86.56,
+      "confidence": 0.959,
+      "time": 82.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Adelante, el premio nos espera:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Adelante,",
+          "start": 88.22,
+          "end": 89.5
+        },
+        {
+          "word": "el",
+          "start": 89.66,
+          "end": 89.66
+        },
+        {
+          "word": "premio",
+          "start": 89.66,
+          "end": 90.18
+        },
+        {
+          "word": "nos",
+          "start": 90.18,
+          "end": 90.62
+        },
+        {
+          "word": "espera,",
+          "start": 90.62,
+          "end": 91.76
+        }
+      ],
+      "start": 88.22,
+      "end": 92.7,
+      "confidence": 1.0,
+      "time": 88.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "contemplar a nuestro Salvador,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "contemplar",
+          "start": 92.7,
+          "end": 93.76
+        },
+        {
+          "word": "a",
+          "start": 93.76,
+          "end": 93.94
+        },
+        {
+          "word": "nuestro",
+          "start": 93.94,
+          "end": 94.36
+        },
+        {
+          "word": "salvador,",
+          "start": 94.36,
+          "end": 96.44
+        }
+      ],
+      "start": 92.7,
+      "end": 96.44,
+      "confidence": 1.0,
+      "time": 92.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "ingresar por los portales,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ingresar",
+          "start": 97.42,
+          "end": 98.6
+        },
+        {
+          "word": "por",
+          "start": 98.6,
+          "end": 99.36
+        },
+        {
+          "word": "las",
+          "start": 99.36,
+          "end": 100.04
+        },
+        {
+          "word": "portales",
+          "start": 100.04,
+          "end": 101.36
+        }
+      ],
+      "start": 97.42,
+      "end": 101.36,
+      "confidence": 0.95,
+      "time": 97.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y en las calles de oro andar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 101.36,
+          "end": 102.06
+        },
+        {
+          "word": "en",
+          "start": 102.06,
+          "end": 102.34
+        },
+        {
+          "word": "las",
+          "start": 102.34,
+          "end": 102.98
+        },
+        {
+          "word": "calles",
+          "start": 102.98,
+          "end": 103.46
+        },
+        {
+          "word": "de",
+          "start": 103.46,
+          "end": 103.76
+        },
+        {
+          "word": "Oranar.",
+          "start": 103.76,
+          "end": 105.52
+        }
+      ],
+      "start": 101.36,
+      "end": 105.52,
+      "confidence": 0.834,
+      "time": 101.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cuando al cielo lleguemos,",
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 105.64,
+          "end": 106.28
+        },
+        {
+          "word": "cielo",
+          "start": 106.86,
+          "end": 108.5
+        },
+        {
+          "word": "leguemos,",
+          "start": 108.5,
+          "end": 110.48
+        }
+      ],
+      "start": 105.64,
+      "end": 111.24,
+      "confidence": 0.741,
+      "time": 105.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡día alegre, bendito aquel será!",
+      "words": [
+        {
+          "word": "alegré",
+          "start": 111.24,
+          "end": 112.3
+        },
+        {
+          "word": "bendito",
+          "start": 112.3,
+          "end": 112.94
+        },
+        {
+          "word": "a",
+          "start": 112.94,
+          "end": 113.2
+        },
+        {
+          "word": "se",
+          "start": 113.44,
+          "end": 113.76
+        }
+      ],
+      "start": 111.24,
+      "end": 114.92,
+      "confidence": 0.776,
+      "time": 111.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cuando a Dios veamos,",
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 114.92,
+          "end": 115.94
+        },
+        {
+          "word": "a",
+          "start": 115.94,
+          "end": 116.32
+        },
+        {
+          "word": "Dios",
+          "start": 116.32,
+          "end": 117.74
+        },
+        {
+          "word": "creamos,",
+          "start": 117.74,
+          "end": 120.08
+        }
+      ],
+      "start": 114.92,
+      "end": 120.78,
+      "confidence": 0.965,
+      "time": 114.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Victoria! vamos a cantar.",
+      "words": [
+        {
+          "word": "victoria",
+          "start": 120.78,
+          "end": 121.96
+        },
+        {
+          "word": "vamos",
+          "start": 121.96,
+          "end": 122.78
+        },
+        {
+          "word": "a",
+          "start": 122.78,
+          "end": 123.26
+        },
+        {
+          "word": "ganar.",
+          "start": 123.26,
+          "end": 126.66
+        }
+      ],
+      "start": 120.78,
+      "end": 126.66,
+      "confidence": 0.959,
+      "time": 120.78
+    }
+  ]
+}

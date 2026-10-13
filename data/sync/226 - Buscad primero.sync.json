@@ -1,0 +1,337 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.653,
+  "language": "es",
+  "model": "medium",
+  "hymn": 226,
+  "source": "226 - Buscad primero.mp3",
+  "duration": 115.7,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Buscad primero el reino de Dios",
+      "verse": 1,
+      "words": [
+        {
+          "word": "primero",
+          "start": 14.96,
+          "end": 16.36
+        },
+        {
+          "word": "el",
+          "start": 16.36,
+          "end": 17.26
+        },
+        {
+          "word": "reino",
+          "start": 17.26,
+          "end": 18.16
+        },
+        {
+          "word": "de",
+          "start": 18.16,
+          "end": 18.72
+        },
+        {
+          "word": "Dios",
+          "start": 18.72,
+          "end": 19.92
+        }
+      ],
+      "start": 14.96,
+      "end": 19.92,
+      "confidence": 0.833,
+      "time": 14.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y su perfecta justicia;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 19.92,
+          "end": 21.04
+        },
+        {
+          "word": "su",
+          "start": 21.04,
+          "end": 21.48
+        },
+        {
+          "word": "perfecta",
+          "start": 21.48,
+          "end": 23.3
+        },
+        {
+          "word": "justicia",
+          "start": 23.3,
+          "end": 25.9
+        }
+      ],
+      "start": 19.92,
+      "end": 25.9,
+      "confidence": 1.0,
+      "time": 19.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y lo demás añadido será.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Y",
+          "start": 25.9,
+          "end": 27.64
+        },
+        {
+          "word": "lo",
+          "start": 27.64,
+          "end": 28.28
+        },
+        {
+          "word": "de",
+          "start": 28.28,
+          "end": 28.62
+        },
+        {
+          "word": "añadido",
+          "start": 29.68,
+          "end": 31.34
+        },
+        {
+          "word": "será,",
+          "start": 31.34,
+          "end": 32.86
+        }
+      ],
+      "start": 25.9,
+      "end": 34.28,
+      "confidence": 0.988,
+      "time": 25.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Alelu, aleluya.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Aleluia,",
+          "start": 34.28,
+          "end": 36.08
+        },
+        {
+          "word": "Aleluia.",
+          "start": 36.08,
+          "end": 40.26
+        }
+      ],
+      "start": 34.28,
+      "end": 40.26,
+      "confidence": 0.927,
+      "time": 34.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "No solo de pan el hombre vivirá,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "No",
+          "start": 42.82,
+          "end": 44.22
+        },
+        {
+          "word": "sólo",
+          "start": 44.22,
+          "end": 45.08
+        },
+        {
+          "word": "del",
+          "start": 45.08,
+          "end": 46.06
+        },
+        {
+          "word": "pan",
+          "start": 46.06,
+          "end": 46.52
+        },
+        {
+          "word": "del",
+          "start": 46.9,
+          "end": 47.06
+        },
+        {
+          "word": "hombre",
+          "start": 47.06,
+          "end": 47.48
+        },
+        {
+          "word": "vivirá,",
+          "start": 47.48,
+          "end": 49.86
+        }
+      ],
+      "start": 42.82,
+      "end": 50.34,
+      "confidence": 0.966,
+      "time": 42.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "sino de toda palabra",
+      "verse": 2,
+      "words": [
+        {
+          "word": "sino",
+          "start": 50.34,
+          "end": 51.08
+        },
+        {
+          "word": "de",
+          "start": 51.08,
+          "end": 52.3
+        },
+        {
+          "word": "toda",
+          "start": 52.3,
+          "end": 52.8
+        },
+        {
+          "word": "palabra.",
+          "start": 52.8,
+          "end": 55.96
+        }
+      ],
+      "start": 50.34,
+      "end": 55.96,
+      "confidence": 1.0,
+      "time": 50.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "que sale de la boca de Dios.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 55.96,
+          "end": 57.5
+        },
+        {
+          "word": "salen",
+          "start": 57.5,
+          "end": 58.78
+        },
+        {
+          "word": "la",
+          "start": 59.68,
+          "end": 60.38
+        },
+        {
+          "word": "roca",
+          "start": 60.38,
+          "end": 61.04
+        },
+        {
+          "word": "de",
+          "start": 61.04,
+          "end": 61.66
+        },
+        {
+          "word": "Dios.",
+          "start": 61.66,
+          "end": 63.06
+        }
+      ],
+      "start": 55.96,
+      "end": 67.98,
+      "confidence": 0.827,
+      "time": 55.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Alelu, aleluya.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Aleluya!",
+          "start": 67.98,
+          "end": 69.38
+        }
+      ],
+      "start": 67.98,
+      "end": 69.38,
+      "confidence": 0.5,
+      "time": 67.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Pedid, pedid, y se os dará;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Este",
+          "start": 73.12,
+          "end": 74.52
+        },
+        {
+          "word": "los",
+          "start": 78.52,
+          "end": 78.52
+        }
+      ],
+      "start": 73.12,
+      "end": 99.36,
+      "confidence": 0.28,
+      "time": 73.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "buscad, buscad, y hallaréis;",
+      "verse": 3,
+      "start": 99.36,
+      "end": 99.56,
+      "confidence": 0.0,
+      "time": 99.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "llamad, llamad, y se os abrirá.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "los",
+          "start": 78.52,
+          "end": 78.52
+        }
+      ],
+      "start": 99.56,
+      "end": 99.76,
+      "confidence": 0.147,
+      "time": 99.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Alelu, aleluya.",
+      "verse": 3,
+      "start": 99.76,
+      "end": 115.7,
+      "confidence": 0.0,
+      "time": 99.76
+    }
+  ]
+}

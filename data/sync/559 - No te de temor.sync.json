@@ -1,0 +1,1145 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.892,
+  "language": "es",
+  "model": "medium",
+  "hymn": 559,
+  "source": "559 - No te de temor.mp3",
+  "duration": 205.37,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "No te dé temor hablar por Cristo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "No",
+          "start": 23.18,
+          "end": 24.58
+        },
+        {
+          "word": "te",
+          "start": 24.58,
+          "end": 25.1
+        },
+        {
+          "word": "de",
+          "start": 25.1,
+          "end": 25.42
+        },
+        {
+          "word": "temor",
+          "start": 25.42,
+          "end": 26.68
+        },
+        {
+          "word": "hablar",
+          "start": 27.06,
+          "end": 27.64
+        },
+        {
+          "word": "por",
+          "start": 27.64,
+          "end": 28.52
+        },
+        {
+          "word": "Cristo",
+          "start": 28.52,
+          "end": 29.44
+        }
+      ],
+      "start": 23.18,
+      "end": 29.44,
+      "confidence": 1.0,
+      "time": 23.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "haz que brille en ti su luz;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Haz",
+          "start": 29.44,
+          "end": 30.42
+        },
+        {
+          "word": "que",
+          "start": 30.42,
+          "end": 31.38
+        },
+        {
+          "word": "brille",
+          "start": 31.38,
+          "end": 32.26
+        },
+        {
+          "word": "en",
+          "start": 32.26,
+          "end": 32.56
+        },
+        {
+          "word": "ti",
+          "start": 32.56,
+          "end": 33.14
+        },
+        {
+          "word": "su",
+          "start": 33.14,
+          "end": 33.78
+        },
+        {
+          "word": "luz,",
+          "start": 33.78,
+          "end": 34.84
+        }
+      ],
+      "start": 29.44,
+      "end": 35.3,
+      "confidence": 1.0,
+      "time": 29.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al que te salvó confiesa siempre,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 35.3,
+          "end": 35.42
+        },
+        {
+          "word": "que",
+          "start": 35.42,
+          "end": 35.76
+        },
+        {
+          "word": "te",
+          "start": 35.76,
+          "end": 36.18
+        },
+        {
+          "word": "salvo",
+          "start": 36.18,
+          "end": 37.06
+        },
+        {
+          "word": "confiesas",
+          "start": 37.06,
+          "end": 39.18
+        },
+        {
+          "word": "siempre",
+          "start": 39.18,
+          "end": 40.28
+        }
+      ],
+      "start": 35.3,
+      "end": 40.28,
+      "confidence": 0.99,
+      "time": 35.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "todo debes a Jesús.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "todo",
+          "start": 40.28,
+          "end": 41.64
+        },
+        {
+          "word": "de",
+          "start": 41.64,
+          "end": 42.64
+        },
+        {
+          "word": "Jesús.",
+          "start": 45.38,
+          "end": 45.38
+        }
+      ],
+      "start": 40.28,
+      "end": 45.38,
+      "confidence": 0.735,
+      "time": 40.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "No te dé temor, no te dé temor,",
+      "words": [
+        {
+          "word": "No",
+          "start": 45.38,
+          "end": 46.1
+        },
+        {
+          "word": "te",
+          "start": 46.1,
+          "end": 46.38
+        },
+        {
+          "word": "detemor,",
+          "start": 46.38,
+          "end": 48.38
+        },
+        {
+          "word": "no",
+          "start": 48.58,
+          "end": 48.78
+        },
+        {
+          "word": "te",
+          "start": 48.78,
+          "end": 49.16
+        },
+        {
+          "word": "detemor",
+          "start": 49.16,
+          "end": 51.08
+        }
+      ],
+      "start": 45.38,
+      "end": 51.08,
+      "confidence": 0.725,
+      "time": 45.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "nunca, nunca, nunca.",
+      "words": [
+        {
+          "word": "nunca,",
+          "start": 51.08,
+          "end": 52.16
+        },
+        {
+          "word": "nunca,",
+          "start": 52.48,
+          "end": 53.74
+        },
+        {
+          "word": "nunca.",
+          "start": 53.76,
+          "end": 55.68
+        }
+      ],
+      "start": 51.08,
+      "end": 55.68,
+      "confidence": 1.0,
+      "time": 51.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Es tu Salvador amante;",
+      "words": [
+        {
+          "word": "Es",
+          "start": 57.06,
+          "end": 57.38
+        },
+        {
+          "word": "tu",
+          "start": 57.38,
+          "end": 57.74
+        },
+        {
+          "word": "salvadora",
+          "start": 57.74,
+          "end": 60.28
+        },
+        {
+          "word": "amante,",
+          "start": 60.28,
+          "end": 61.62
+        }
+      ],
+      "start": 57.06,
+      "end": 62.22,
+      "confidence": 0.985,
+      "time": 57.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "nunca, pues, te dé temor.",
+      "words": [
+        {
+          "word": "nunca",
+          "start": 62.22,
+          "end": 63.02
+        },
+        {
+          "word": "pues",
+          "start": 63.02,
+          "end": 63.96
+        },
+        {
+          "word": "te",
+          "start": 63.96,
+          "end": 64.8
+        },
+        {
+          "word": "detemor.",
+          "start": 64.8,
+          "end": 67.5
+        }
+      ],
+      "start": 62.22,
+      "end": 67.5,
+      "confidence": 0.78,
+      "time": 62.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "No te dé temor vivir por Cristo",
+      "verse": 2,
+      "words": [
+        {
+          "word": "No",
+          "start": 67.5,
+          "end": 68.76
+        },
+        {
+          "word": "te",
+          "start": 68.76,
+          "end": 69.18
+        },
+        {
+          "word": "de",
+          "start": 69.18,
+          "end": 69.54
+        },
+        {
+          "word": "temor",
+          "start": 69.54,
+          "end": 70.44
+        },
+        {
+          "word": "vivir",
+          "start": 70.44,
+          "end": 71.66
+        },
+        {
+          "word": "por",
+          "start": 71.66,
+          "end": 72.46
+        },
+        {
+          "word": "Cristo,",
+          "start": 72.46,
+          "end": 73.62
+        }
+      ],
+      "start": 67.5,
+      "end": 74.14,
+      "confidence": 1.0,
+      "time": 67.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "cuanto de tu parte esté;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cuanto",
+          "start": 74.14,
+          "end": 74.8
+        },
+        {
+          "word": "de",
+          "start": 74.8,
+          "end": 75.96
+        },
+        {
+          "word": "tu",
+          "start": 75.96,
+          "end": 76.46
+        },
+        {
+          "word": "parte",
+          "start": 76.46,
+          "end": 77.52
+        },
+        {
+          "word": "esté.",
+          "start": 77.52,
+          "end": 78.7
+        }
+      ],
+      "start": 74.14,
+      "end": 78.7,
+      "confidence": 1.0,
+      "time": 74.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "obra con amor, con fe y constancia:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Pobre",
+          "start": 79.38,
+          "end": 79.76
+        },
+        {
+          "word": "con",
+          "start": 79.76,
+          "end": 80.16
+        },
+        {
+          "word": "amor,",
+          "start": 80.16,
+          "end": 81.02
+        },
+        {
+          "word": "con",
+          "start": 81.6,
+          "end": 81.96
+        },
+        {
+          "word": "fe",
+          "start": 81.96,
+          "end": 82.38
+        },
+        {
+          "word": "y",
+          "start": 82.38,
+          "end": 82.96
+        },
+        {
+          "word": "constancia,",
+          "start": 82.96,
+          "end": 84.16
+        }
+      ],
+      "start": 79.38,
+      "end": 84.94,
+      "confidence": 0.971,
+      "time": 79.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tus trabajos premiará.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tus",
+          "start": 84.94,
+          "end": 85.12
+        },
+        {
+          "word": "trabajos",
+          "start": 85.12,
+          "end": 87.24
+        }
+      ],
+      "start": 84.94,
+      "end": 89.44,
+      "confidence": 0.667,
+      "time": 84.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "No te dé temor, no te dé temor,",
+      "words": [
+        {
+          "word": "No",
+          "start": 89.44,
+          "end": 90.16
+        },
+        {
+          "word": "te",
+          "start": 90.16,
+          "end": 90.5
+        },
+        {
+          "word": "detemor,",
+          "start": 90.5,
+          "end": 92.38
+        },
+        {
+          "word": "no",
+          "start": 92.46,
+          "end": 92.78
+        },
+        {
+          "word": "te",
+          "start": 92.78,
+          "end": 93.16
+        },
+        {
+          "word": "detemor,",
+          "start": 93.16,
+          "end": 95.08
+        }
+      ],
+      "start": 89.44,
+      "end": 95.48,
+      "confidence": 0.725,
+      "time": 89.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "nunca, nunca, nunca.",
+      "words": [
+        {
+          "word": "nunca,",
+          "start": 95.48,
+          "end": 96.2
+        },
+        {
+          "word": "nunca,",
+          "start": 96.42,
+          "end": 97.78
+        },
+        {
+          "word": "nunca.",
+          "start": 97.78,
+          "end": 99.82
+        }
+      ],
+      "start": 95.48,
+      "end": 99.82,
+      "confidence": 1.0,
+      "time": 95.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Es tu Salvador amante;",
+      "words": [
+        {
+          "word": "Es",
+          "start": 100.7,
+          "end": 101.24
+        },
+        {
+          "word": "salvador",
+          "start": 101.76,
+          "end": 103.96
+        },
+        {
+          "word": "amante,",
+          "start": 103.96,
+          "end": 105.6
+        }
+      ],
+      "start": 100.7,
+      "end": 106.2,
+      "confidence": 0.75,
+      "time": 100.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "nunca, pues, te dé temor.",
+      "words": [
+        {
+          "word": "nunca",
+          "start": 106.2,
+          "end": 107.06
+        },
+        {
+          "word": "pues",
+          "start": 107.06,
+          "end": 107.84
+        },
+        {
+          "word": "te",
+          "start": 107.84,
+          "end": 109.04
+        },
+        {
+          "word": "detemor.",
+          "start": 109.04,
+          "end": 111.5
+        }
+      ],
+      "start": 106.2,
+      "end": 111.5,
+      "confidence": 0.78,
+      "time": 106.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "No te dé temor sufrir por Cristo",
+      "verse": 3,
+      "words": [
+        {
+          "word": "No",
+          "start": 111.5,
+          "end": 112.76
+        },
+        {
+          "word": "te",
+          "start": 112.76,
+          "end": 113.16
+        },
+        {
+          "word": "dé",
+          "start": 113.16,
+          "end": 113.5
+        },
+        {
+          "word": "temor,",
+          "start": 113.5,
+          "end": 114.42
+        },
+        {
+          "word": "sufrir",
+          "start": 114.5,
+          "end": 115.7
+        },
+        {
+          "word": "por",
+          "start": 115.7,
+          "end": 116.42
+        },
+        {
+          "word": "Cristo,",
+          "start": 116.42,
+          "end": 117.52
+        }
+      ],
+      "start": 111.5,
+      "end": 118.12,
+      "confidence": 1.0,
+      "time": 111.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "los reproches, o el dolor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "los",
+          "start": 118.12,
+          "end": 118.56
+        },
+        {
+          "word": "reproches",
+          "start": 118.56,
+          "end": 120.38
+        },
+        {
+          "word": "o",
+          "start": 120.38,
+          "end": 120.8
+        },
+        {
+          "word": "el",
+          "start": 120.8,
+          "end": 121.36
+        },
+        {
+          "word": "dolor.",
+          "start": 121.36,
+          "end": 122.72
+        }
+      ],
+      "start": 118.12,
+      "end": 122.72,
+      "confidence": 1.0,
+      "time": 118.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "sufre con amor tus pruebas todas,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Sufre",
+          "start": 123.14,
+          "end": 123.7
+        },
+        {
+          "word": "con",
+          "start": 123.7,
+          "end": 124.26
+        },
+        {
+          "word": "amor",
+          "start": 124.26,
+          "end": 125.08
+        },
+        {
+          "word": "tus",
+          "start": 125.08,
+          "end": 125.76
+        },
+        {
+          "word": "pruebas",
+          "start": 125.76,
+          "end": 127.14
+        },
+        {
+          "word": "todas,",
+          "start": 127.14,
+          "end": 128.22
+        }
+      ],
+      "start": 123.14,
+      "end": 128.84,
+      "confidence": 1.0,
+      "time": 123.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "cual sufrió tu Salvador.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "cual",
+          "start": 128.84,
+          "end": 129.12
+        },
+        {
+          "word": "sufrió",
+          "start": 129.12,
+          "end": 130.46
+        },
+        {
+          "word": "tu",
+          "start": 130.46,
+          "end": 131.12
+        },
+        {
+          "word": "Salvador.",
+          "start": 131.12,
+          "end": 132.8
+        }
+      ],
+      "start": 128.84,
+      "end": 132.8,
+      "confidence": 1.0,
+      "time": 128.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "No te dé temor, no te dé temor,",
+      "words": [
+        {
+          "word": "No",
+          "start": 132.8,
+          "end": 134.06
+        },
+        {
+          "word": "te",
+          "start": 134.06,
+          "end": 134.5
+        },
+        {
+          "word": "dé",
+          "start": 134.5,
+          "end": 134.78
+        },
+        {
+          "word": "temor,",
+          "start": 134.78,
+          "end": 136.38
+        },
+        {
+          "word": "no",
+          "start": 136.38,
+          "end": 136.76
+        },
+        {
+          "word": "te",
+          "start": 136.76,
+          "end": 137.14
+        },
+        {
+          "word": "dé",
+          "start": 137.14,
+          "end": 137.44
+        },
+        {
+          "word": "temor",
+          "start": 137.44,
+          "end": 139.08
+        }
+      ],
+      "start": 132.8,
+      "end": 139.08,
+      "confidence": 1.0,
+      "time": 132.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "nunca, nunca, nunca.",
+      "words": [
+        {
+          "word": "Nunca,",
+          "start": 139.08,
+          "end": 140.56
+        },
+        {
+          "word": "nunca,",
+          "start": 140.56,
+          "end": 141.74
+        },
+        {
+          "word": "nunca",
+          "start": 141.76,
+          "end": 144.08
+        }
+      ],
+      "start": 139.08,
+      "end": 144.08,
+      "confidence": 1.0,
+      "time": 139.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Es tu Salvador amante;",
+      "words": [
+        {
+          "word": "salvador",
+          "start": 146.26,
+          "end": 148.08
+        },
+        {
+          "word": "amante",
+          "start": 148.08,
+          "end": 149.56
+        }
+      ],
+      "start": 146.26,
+      "end": 149.56,
+      "confidence": 0.5,
+      "time": 146.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "nunca, pues, te dé temor.",
+      "words": [
+        {
+          "word": "Nunca",
+          "start": 149.56,
+          "end": 151.08
+        },
+        {
+          "word": "pues",
+          "start": 151.08,
+          "end": 151.96
+        },
+        {
+          "word": "te",
+          "start": 151.96,
+          "end": 152.68
+        },
+        {
+          "word": "dé",
+          "start": 152.68,
+          "end": 153.2
+        },
+        {
+          "word": "temor",
+          "start": 153.2,
+          "end": 155.5
+        }
+      ],
+      "start": 149.56,
+      "end": 155.5,
+      "confidence": 1.0,
+      "time": 149.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "No te dé temor morir por Cristo:",
+      "verse": 4,
+      "words": [
+        {
+          "word": "No",
+          "start": 155.5,
+          "end": 158.06
+        },
+        {
+          "word": "te",
+          "start": 158.06,
+          "end": 158.66
+        },
+        {
+          "word": "de",
+          "start": 159.74,
+          "end": 160.06
+        },
+        {
+          "word": "morir",
+          "start": 160.06,
+          "end": 161.04
+        },
+        {
+          "word": "por",
+          "start": 161.04,
+          "end": 161.74
+        },
+        {
+          "word": "Cristo,",
+          "start": 161.74,
+          "end": 162.98
+        }
+      ],
+      "start": 155.5,
+      "end": 163.46,
+      "confidence": 0.857,
+      "time": 155.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "vida y verdad es él;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "vida",
+          "start": 163.46,
+          "end": 164.3
+        },
+        {
+          "word": "y",
+          "start": 164.3,
+          "end": 165.52
+        },
+        {
+          "word": "verdad",
+          "start": 165.52,
+          "end": 166.7
+        }
+      ],
+      "start": 163.46,
+      "end": 168.1,
+      "confidence": 0.6,
+      "time": 163.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "él te llevará con gran ternura",
+      "verse": 4,
+      "words": [
+        {
+          "word": "con",
+          "start": 170.42,
+          "end": 171.1
+        },
+        {
+          "word": "gran",
+          "start": 171.1,
+          "end": 171.84
+        },
+        {
+          "word": "ternura",
+          "start": 171.84,
+          "end": 173.46
+        }
+      ],
+      "start": 170.42,
+      "end": 173.46,
+      "confidence": 0.5,
+      "time": 170.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "a su célico vergel.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "a",
+          "start": 173.46,
+          "end": 174.56
+        },
+        {
+          "word": "su",
+          "start": 174.56,
+          "end": 175.16
+        },
+        {
+          "word": "sérico",
+          "start": 175.16,
+          "end": 177.1
+        },
+        {
+          "word": "Virgen.",
+          "start": 177.1,
+          "end": 178.72
+        }
+      ],
+      "start": 173.46,
+      "end": 178.72,
+      "confidence": 0.9,
+      "time": 173.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "No te dé temor, no te dé temor,",
+      "words": [
+        {
+          "word": "No",
+          "start": 178.72,
+          "end": 179.5
+        },
+        {
+          "word": "te",
+          "start": 179.5,
+          "end": 179.88
+        },
+        {
+          "word": "de",
+          "start": 179.88,
+          "end": 180.16
+        },
+        {
+          "word": "temor,",
+          "start": 180.16,
+          "end": 181.7
+        },
+        {
+          "word": "no",
+          "start": 181.7,
+          "end": 182.06
+        },
+        {
+          "word": "te",
+          "start": 182.06,
+          "end": 182.5
+        },
+        {
+          "word": "de",
+          "start": 182.5,
+          "end": 182.82
+        },
+        {
+          "word": "temor,",
+          "start": 182.82,
+          "end": 184.36
+        }
+      ],
+      "start": 178.72,
+      "end": 185.12,
+      "confidence": 1.0,
+      "time": 178.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "nunca, nunca, nunca.",
+      "words": [
+        {
+          "word": "nunca,",
+          "start": 185.12,
+          "end": 185.56
+        },
+        {
+          "word": "nunca,",
+          "start": 185.94,
+          "end": 187.08
+        },
+        {
+          "word": "nunca.",
+          "start": 189.4,
+          "end": 189.4
+        }
+      ],
+      "start": 185.12,
+      "end": 189.4,
+      "confidence": 1.0,
+      "time": 185.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Es tu Salvador amante;",
+      "words": [
+        {
+          "word": "Es",
+          "start": 190.4,
+          "end": 190.72
+        },
+        {
+          "word": "tu",
+          "start": 190.72,
+          "end": 191.16
+        },
+        {
+          "word": "salvadora",
+          "start": 191.16,
+          "end": 193.52
+        },
+        {
+          "word": "amante,",
+          "start": 193.52,
+          "end": 194.94
+        }
+      ],
+      "start": 190.4,
+      "end": 196.0,
+      "confidence": 0.985,
+      "time": 190.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "nunca, pues, te dé temor.",
+      "words": [
+        {
+          "word": "nunca",
+          "start": 196.0,
+          "end": 196.38
+        },
+        {
+          "word": "pues",
+          "start": 196.38,
+          "end": 197.4
+        },
+        {
+          "word": "te",
+          "start": 197.4,
+          "end": 198.12
+        },
+        {
+          "word": "de",
+          "start": 198.12,
+          "end": 198.9
+        },
+        {
+          "word": "temor.",
+          "start": 198.9,
+          "end": 201.92
+        }
+      ],
+      "start": 196.0,
+      "end": 201.92,
+      "confidence": 1.0,
+      "time": 196.0
+    }
+  ]
+}

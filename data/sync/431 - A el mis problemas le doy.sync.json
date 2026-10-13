@@ -1,0 +1,494 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.986,
+  "language": "es",
+  "model": "medium",
+  "hymn": 431,
+  "source": "431 - A el mis problemas le doy.mp3",
+  "duration": 121.23,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "A él mis problemas le doy;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "A",
+          "start": 22.5,
+          "end": 23.9
+        },
+        {
+          "word": "él",
+          "start": 23.9,
+          "end": 25.3
+        },
+        {
+          "word": "mis",
+          "start": 25.3,
+          "end": 25.8
+        },
+        {
+          "word": "problemas",
+          "start": 25.8,
+          "end": 28.08
+        },
+        {
+          "word": "le",
+          "start": 28.08,
+          "end": 28.78
+        },
+        {
+          "word": "doy",
+          "start": 28.78,
+          "end": 29.98
+        }
+      ],
+      "start": 22.5,
+      "end": 29.98,
+      "confidence": 1.0,
+      "time": 22.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "le traigo mis tristezas,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Le",
+          "start": 32.58,
+          "end": 33.98
+        },
+        {
+          "word": "traigo",
+          "start": 33.98,
+          "end": 35.38
+        },
+        {
+          "word": "mis",
+          "start": 35.38,
+          "end": 35.76
+        },
+        {
+          "word": "tristezas,",
+          "start": 35.76,
+          "end": 37.88
+        }
+      ],
+      "start": 32.58,
+      "end": 38.0,
+      "confidence": 1.0,
+      "time": 32.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "las pongo a sus pies;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "las",
+          "start": 38.0,
+          "end": 38.6
+        },
+        {
+          "word": "pongo",
+          "start": 38.6,
+          "end": 39.72
+        },
+        {
+          "word": "a",
+          "start": 39.72,
+          "end": 40.3
+        },
+        {
+          "word": "sus",
+          "start": 40.3,
+          "end": 40.92
+        },
+        {
+          "word": "pies",
+          "start": 40.92,
+          "end": 41.98
+        }
+      ],
+      "start": 38.0,
+      "end": 41.98,
+      "confidence": 1.0,
+      "time": 38.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y cada vez que yo no sé qué debo hacer,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Y",
+          "start": 42.58,
+          "end": 43.44
+        },
+        {
+          "word": "cada",
+          "start": 43.44,
+          "end": 44.26
+        },
+        {
+          "word": "vez",
+          "start": 44.26,
+          "end": 45.38
+        },
+        {
+          "word": "que",
+          "start": 45.38,
+          "end": 45.9
+        },
+        {
+          "word": "yo",
+          "start": 45.9,
+          "end": 46.36
+        },
+        {
+          "word": "no",
+          "start": 46.36,
+          "end": 46.9
+        },
+        {
+          "word": "sé",
+          "start": 46.9,
+          "end": 47.88
+        },
+        {
+          "word": "qué",
+          "start": 47.88,
+          "end": 49.2
+        },
+        {
+          "word": "debo",
+          "start": 49.2,
+          "end": 50.94
+        },
+        {
+          "word": "hacer",
+          "start": 50.94,
+          "end": 52.06
+        }
+      ],
+      "start": 42.58,
+      "end": 52.06,
+      "confidence": 1.0,
+      "time": 42.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "yo le doy mis problemas a él.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 52.06,
+          "end": 52.8
+        },
+        {
+          "word": "le",
+          "start": 52.8,
+          "end": 53.42
+        },
+        {
+          "word": "doy",
+          "start": 53.42,
+          "end": 54.88
+        },
+        {
+          "word": "mis",
+          "start": 54.88,
+          "end": 55.36
+        },
+        {
+          "word": "problemas",
+          "start": 55.36,
+          "end": 57.88
+        },
+        {
+          "word": "a",
+          "start": 57.88,
+          "end": 58.94
+        },
+        {
+          "word": "Él,",
+          "start": 58.94,
+          "end": 62.02
+        }
+      ],
+      "start": 52.06,
+      "end": 62.02,
+      "confidence": 1.0,
+      "time": 52.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "A él mis problemas le doy;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 63.26,
+          "end": 63.38
+        },
+        {
+          "word": "Él",
+          "start": 63.38,
+          "end": 64.86
+        },
+        {
+          "word": "mis",
+          "start": 64.86,
+          "end": 65.3
+        },
+        {
+          "word": "problemas",
+          "start": 65.3,
+          "end": 67.62
+        },
+        {
+          "word": "le",
+          "start": 67.62,
+          "end": 68.24
+        },
+        {
+          "word": "doy.",
+          "start": 68.24,
+          "end": 71.9
+        }
+      ],
+      "start": 63.26,
+      "end": 71.9,
+      "confidence": 1.0,
+      "time": 63.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "le traigo mis tristezas,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Le",
+          "start": 72.02,
+          "end": 73.02
+        },
+        {
+          "word": "traigo",
+          "start": 73.02,
+          "end": 74.9
+        },
+        {
+          "word": "mis",
+          "start": 74.9,
+          "end": 75.26
+        },
+        {
+          "word": "tristezas,",
+          "start": 75.26,
+          "end": 77.28
+        }
+      ],
+      "start": 72.02,
+      "end": 77.28,
+      "confidence": 1.0,
+      "time": 72.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "las pongo a sus pies;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Las",
+          "start": 77.28,
+          "end": 78.04
+        },
+        {
+          "word": "pongo",
+          "start": 78.04,
+          "end": 79.12
+        },
+        {
+          "word": "a",
+          "start": 79.12,
+          "end": 79.72
+        },
+        {
+          "word": "sus",
+          "start": 79.72,
+          "end": 80.42
+        },
+        {
+          "word": "pies",
+          "start": 80.42,
+          "end": 82.12
+        }
+      ],
+      "start": 77.28,
+      "end": 82.12,
+      "confidence": 1.0,
+      "time": 77.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y cada vez que yo no sé qué debo hacer,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Y",
+          "start": 82.12,
+          "end": 82.96
+        },
+        {
+          "word": "cada",
+          "start": 82.96,
+          "end": 83.74
+        },
+        {
+          "word": "vez",
+          "start": 83.74,
+          "end": 84.94
+        },
+        {
+          "word": "que",
+          "start": 84.94,
+          "end": 85.42
+        },
+        {
+          "word": "yo",
+          "start": 85.42,
+          "end": 85.88
+        },
+        {
+          "word": "sé",
+          "start": 86.38,
+          "end": 87.56
+        },
+        {
+          "word": "¿Qué",
+          "start": 87.56,
+          "end": 88.7
+        },
+        {
+          "word": "debo",
+          "start": 88.7,
+          "end": 90.0
+        },
+        {
+          "word": "hacer?",
+          "start": 90.0,
+          "end": 91.52
+        }
+      ],
+      "start": 82.12,
+      "end": 91.52,
+      "confidence": 0.9,
+      "time": 82.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "yo le doy mis tristezas al Señor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 91.7,
+          "end": 92.3
+        },
+        {
+          "word": "le",
+          "start": 92.3,
+          "end": 92.86
+        },
+        {
+          "word": "doy",
+          "start": 92.86,
+          "end": 93.6
+        },
+        {
+          "word": "mis",
+          "start": 93.6,
+          "end": 94.54
+        },
+        {
+          "word": "tristezas",
+          "start": 94.54,
+          "end": 96.86
+        },
+        {
+          "word": "al",
+          "start": 96.86,
+          "end": 97.32
+        },
+        {
+          "word": "Señor",
+          "start": 97.32,
+          "end": 99.2
+        }
+      ],
+      "start": 91.7,
+      "end": 99.2,
+      "confidence": 1.0,
+      "time": 91.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "yo le doy mis problemas a él.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "yo",
+          "start": 102.26,
+          "end": 102.48
+        },
+        {
+          "word": "le",
+          "start": 102.48,
+          "end": 103.02
+        },
+        {
+          "word": "doy",
+          "start": 103.02,
+          "end": 104.58
+        },
+        {
+          "word": "mis",
+          "start": 104.58,
+          "end": 105.1
+        },
+        {
+          "word": "problemas",
+          "start": 105.1,
+          "end": 107.54
+        },
+        {
+          "word": "a",
+          "start": 107.54,
+          "end": 108.32
+        },
+        {
+          "word": "Él",
+          "start": 108.32,
+          "end": 112.5
+        }
+      ],
+      "start": 102.26,
+      "end": 112.5,
+      "confidence": 1.0,
+      "time": 102.26
+    }
+  ]
+}

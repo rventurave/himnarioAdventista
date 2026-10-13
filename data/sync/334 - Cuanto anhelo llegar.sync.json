@@ -1,0 +1,1013 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.955,
+  "language": "es",
+  "model": "medium",
+  "hymn": 334,
+  "source": "334 - Cuanto anhelo llegar.mp3",
+  "duration": 180.17,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cuánto anhelo llegar al celeste hogar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Canto",
+          "start": 24.44,
+          "end": 25.84
+        },
+        {
+          "word": "anhelo",
+          "start": 25.84,
+          "end": 26.94
+        },
+        {
+          "word": "llegar",
+          "start": 26.94,
+          "end": 27.94
+        },
+        {
+          "word": "al",
+          "start": 27.94,
+          "end": 28.36
+        },
+        {
+          "word": "celeste",
+          "start": 28.36,
+          "end": 29.74
+        }
+      ],
+      "start": 24.44,
+      "end": 29.74,
+      "confidence": 0.824,
+      "time": 24.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a la margen del río de vida;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 29.74,
+          "end": 31.3
+        },
+        {
+          "word": "la",
+          "start": 31.3,
+          "end": 31.7
+        },
+        {
+          "word": "margen",
+          "start": 31.7,
+          "end": 32.76
+        },
+        {
+          "word": "del",
+          "start": 32.76,
+          "end": 33.14
+        },
+        {
+          "word": "río",
+          "start": 33.14,
+          "end": 34.1
+        },
+        {
+          "word": "de",
+          "start": 34.1,
+          "end": 34.8
+        },
+        {
+          "word": "vida",
+          "start": 34.8,
+          "end": 35.74
+        }
+      ],
+      "start": 29.74,
+      "end": 35.74,
+      "confidence": 1.0,
+      "time": 29.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "sorpresas sin fin me aguardan allá;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sorpresas",
+          "start": 37.16,
+          "end": 38.56
+        },
+        {
+          "word": "sin",
+          "start": 38.56,
+          "end": 39.04
+        },
+        {
+          "word": "fin",
+          "start": 39.04,
+          "end": 39.5
+        },
+        {
+          "word": "me",
+          "start": 39.5,
+          "end": 40.26
+        },
+        {
+          "word": "aguardan",
+          "start": 40.26,
+          "end": 41.66
+        },
+        {
+          "word": "allá",
+          "start": 41.66,
+          "end": 42.36
+        }
+      ],
+      "start": 37.16,
+      "end": 42.36,
+      "confidence": 1.0,
+      "time": 37.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mas ¡oh, qué será ver a Cristo!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "más",
+          "start": 42.58,
+          "end": 43.42
+        },
+        {
+          "word": "oh",
+          "start": 43.42,
+          "end": 43.96
+        },
+        {
+          "word": "que",
+          "start": 43.96,
+          "end": 44.3
+        },
+        {
+          "word": "será",
+          "start": 44.3,
+          "end": 45.38
+        },
+        {
+          "word": "ver",
+          "start": 45.38,
+          "end": 45.84
+        },
+        {
+          "word": "a",
+          "start": 45.84,
+          "end": 46.24
+        },
+        {
+          "word": "Cristo",
+          "start": 46.24,
+          "end": 47.84
+        }
+      ],
+      "start": 42.58,
+      "end": 47.84,
+      "confidence": 1.0,
+      "time": 42.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, qué será ver a Cristo!",
+      "words": [
+        {
+          "word": "oh",
+          "start": 47.84,
+          "end": 49.72
+        },
+        {
+          "word": "que",
+          "start": 49.72,
+          "end": 50.0
+        },
+        {
+          "word": "será",
+          "start": 50.0,
+          "end": 51.1
+        },
+        {
+          "word": "ver",
+          "start": 51.1,
+          "end": 51.64
+        },
+        {
+          "word": "a",
+          "start": 51.64,
+          "end": 52.06
+        },
+        {
+          "word": "Cristo",
+          "start": 52.06,
+          "end": 54.2
+        }
+      ],
+      "start": 47.84,
+      "end": 54.2,
+      "confidence": 1.0,
+      "time": 47.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Qué será ver al Señor!",
+      "words": [
+        {
+          "word": "que",
+          "start": 54.2,
+          "end": 55.4
+        },
+        {
+          "word": "será",
+          "start": 55.4,
+          "end": 56.08
+        },
+        {
+          "word": "ver",
+          "start": 56.08,
+          "end": 56.74
+        },
+        {
+          "word": "al",
+          "start": 56.74,
+          "end": 57.22
+        },
+        {
+          "word": "Señor",
+          "start": 57.22,
+          "end": 58.5
+        }
+      ],
+      "start": 54.2,
+      "end": 58.5,
+      "confidence": 1.0,
+      "time": 54.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Pronto nos llevará al eterno hogar,",
+      "words": [
+        {
+          "word": "Pronto",
+          "start": 58.5,
+          "end": 60.5
+        },
+        {
+          "word": "nos",
+          "start": 60.5,
+          "end": 61.1
+        },
+        {
+          "word": "llevará",
+          "start": 61.1,
+          "end": 63.0
+        },
+        {
+          "word": "al",
+          "start": 63.0,
+          "end": 63.38
+        },
+        {
+          "word": "eterno",
+          "start": 63.38,
+          "end": 64.78
+        },
+        {
+          "word": "hogar,",
+          "start": 64.78,
+          "end": 66.1
+        }
+      ],
+      "start": 58.5,
+      "end": 66.68,
+      "confidence": 1.0,
+      "time": 58.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "mas ¡oh, qué será ver a Cristo!",
+      "words": [
+        {
+          "word": "más",
+          "start": 66.68,
+          "end": 67.5
+        },
+        {
+          "word": "que",
+          "start": 67.98,
+          "end": 68.48
+        },
+        {
+          "word": "será,",
+          "start": 68.48,
+          "end": 69.88
+        },
+        {
+          "word": "verá",
+          "start": 70.58,
+          "end": 71.1
+        },
+        {
+          "word": "grisor.",
+          "start": 71.1,
+          "end": 74.8
+        }
+      ],
+      "start": 66.68,
+      "end": 74.8,
+      "confidence": 0.677,
+      "time": 66.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Unos han de morir para no más vivir,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Unos",
+          "start": 74.8,
+          "end": 76.3
+        },
+        {
+          "word": "han",
+          "start": 76.3,
+          "end": 76.84
+        },
+        {
+          "word": "de",
+          "start": 76.84,
+          "end": 77.3
+        },
+        {
+          "word": "morir",
+          "start": 77.3,
+          "end": 78.28
+        },
+        {
+          "word": "para",
+          "start": 78.28,
+          "end": 78.86
+        },
+        {
+          "word": "no",
+          "start": 78.86,
+          "end": 79.54
+        },
+        {
+          "word": "mas",
+          "start": 79.54,
+          "end": 79.92
+        },
+        {
+          "word": "vivir,",
+          "start": 79.92,
+          "end": 81.04
+        }
+      ],
+      "start": 74.8,
+      "end": 81.5,
+      "confidence": 1.0,
+      "time": 74.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mas los justos a vida retornan.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mas",
+          "start": 81.5,
+          "end": 81.62
+        },
+        {
+          "word": "los",
+          "start": 81.62,
+          "end": 82.06
+        },
+        {
+          "word": "justos",
+          "start": 82.06,
+          "end": 82.9
+        },
+        {
+          "word": "a",
+          "start": 82.9,
+          "end": 83.46
+        },
+        {
+          "word": "vida",
+          "start": 83.46,
+          "end": 84.1
+        },
+        {
+          "word": "retornan",
+          "start": 84.1,
+          "end": 86.82
+        }
+      ],
+      "start": 81.5,
+      "end": 86.82,
+      "confidence": 1.0,
+      "time": 81.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Qué gozo será volverlos a ver!,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Que",
+          "start": 86.82,
+          "end": 87.62
+        },
+        {
+          "word": "gozo",
+          "start": 87.62,
+          "end": 88.48
+        },
+        {
+          "word": "será",
+          "start": 88.48,
+          "end": 89.62
+        },
+        {
+          "word": "volverlos",
+          "start": 89.62,
+          "end": 91.64
+        },
+        {
+          "word": "a",
+          "start": 91.64,
+          "end": 92.1
+        },
+        {
+          "word": "ver,",
+          "start": 92.1,
+          "end": 92.58
+        }
+      ],
+      "start": 86.82,
+      "end": 93.18,
+      "confidence": 1.0,
+      "time": 86.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mas ¡oh, qué será ver a Cristo!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mas",
+          "start": 93.18,
+          "end": 93.44
+        },
+        {
+          "word": "oh",
+          "start": 93.44,
+          "end": 94.12
+        },
+        {
+          "word": "que",
+          "start": 94.12,
+          "end": 94.48
+        },
+        {
+          "word": "será",
+          "start": 94.48,
+          "end": 95.5
+        },
+        {
+          "word": "ver",
+          "start": 95.5,
+          "end": 95.96
+        },
+        {
+          "word": "a",
+          "start": 95.96,
+          "end": 96.46
+        },
+        {
+          "word": "Cristo",
+          "start": 96.46,
+          "end": 97.96
+        }
+      ],
+      "start": 93.18,
+      "end": 97.96,
+      "confidence": 1.0,
+      "time": 93.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, qué será ver a Cristo!",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 97.96,
+          "end": 99.68
+        },
+        {
+          "word": "que",
+          "start": 100.08,
+          "end": 100.18
+        },
+        {
+          "word": "será",
+          "start": 100.18,
+          "end": 101.16
+        },
+        {
+          "word": "ver",
+          "start": 101.16,
+          "end": 101.66
+        },
+        {
+          "word": "a",
+          "start": 101.66,
+          "end": 101.98
+        },
+        {
+          "word": "Cristo,",
+          "start": 101.98,
+          "end": 103.6
+        }
+      ],
+      "start": 97.96,
+      "end": 104.78,
+      "confidence": 1.0,
+      "time": 97.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Qué será ver al Señor!",
+      "words": [
+        {
+          "word": "que",
+          "start": 104.78,
+          "end": 105.52
+        },
+        {
+          "word": "será",
+          "start": 105.52,
+          "end": 106.2
+        },
+        {
+          "word": "ver",
+          "start": 106.2,
+          "end": 106.86
+        },
+        {
+          "word": "al",
+          "start": 106.86,
+          "end": 107.24
+        },
+        {
+          "word": "Señor",
+          "start": 107.24,
+          "end": 109.7
+        }
+      ],
+      "start": 104.78,
+      "end": 109.7,
+      "confidence": 1.0,
+      "time": 104.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Pronto nos llevará al eterno hogar,",
+      "words": [
+        {
+          "word": "no",
+          "start": 110.52,
+          "end": 111.1
+        },
+        {
+          "word": "vará",
+          "start": 111.66,
+          "end": 113.04
+        },
+        {
+          "word": "al",
+          "start": 113.04,
+          "end": 113.46
+        },
+        {
+          "word": "eterno",
+          "start": 113.46,
+          "end": 114.92
+        },
+        {
+          "word": "hogar,",
+          "start": 114.92,
+          "end": 116.2
+        }
+      ],
+      "start": 110.52,
+      "end": 117.08,
+      "confidence": 0.796,
+      "time": 110.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "mas ¡oh, qué será ver a Cristo!",
+      "words": [
+        {
+          "word": "mas",
+          "start": 117.08,
+          "end": 117.36
+        },
+        {
+          "word": "oh,",
+          "start": 117.36,
+          "end": 118.14
+        },
+        {
+          "word": "que",
+          "start": 118.14,
+          "end": 118.58
+        },
+        {
+          "word": "será",
+          "start": 118.58,
+          "end": 119.9
+        },
+        {
+          "word": "ver",
+          "start": 119.9,
+          "end": 120.78
+        },
+        {
+          "word": "a",
+          "start": 120.78,
+          "end": 121.28
+        },
+        {
+          "word": "Cristo",
+          "start": 121.28,
+          "end": 123.66
+        }
+      ],
+      "start": 117.08,
+      "end": 123.66,
+      "confidence": 1.0,
+      "time": 117.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cuando vaya a vivir en aquella ciudad,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 123.66,
+          "end": 126.0
+        },
+        {
+          "word": "vaya",
+          "start": 126.0,
+          "end": 127.08
+        },
+        {
+          "word": "a",
+          "start": 127.08,
+          "end": 127.2
+        },
+        {
+          "word": "vivir",
+          "start": 127.2,
+          "end": 128.16
+        },
+        {
+          "word": "en",
+          "start": 128.16,
+          "end": 128.94
+        },
+        {
+          "word": "aquella",
+          "start": 128.94,
+          "end": 129.8
+        },
+        {
+          "word": "ciudad,",
+          "start": 129.8,
+          "end": 130.98
+        }
+      ],
+      "start": 123.66,
+      "end": 131.48,
+      "confidence": 1.0,
+      "time": 123.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "cuando vea el rostro divino,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 131.48,
+          "end": 131.86
+        },
+        {
+          "word": "vea",
+          "start": 131.86,
+          "end": 132.92
+        },
+        {
+          "word": "el",
+          "start": 132.92,
+          "end": 133.32
+        },
+        {
+          "word": "rostro",
+          "start": 133.32,
+          "end": 134.3
+        },
+        {
+          "word": "divino,",
+          "start": 134.3,
+          "end": 136.76
+        }
+      ],
+      "start": 131.48,
+      "end": 137.18,
+      "confidence": 1.0,
+      "time": 131.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "no habrá más dolor, ni muerte jamás.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "no",
+          "start": 137.18,
+          "end": 137.52
+        },
+        {
+          "word": "habrá",
+          "start": 137.52,
+          "end": 138.3
+        },
+        {
+          "word": "más",
+          "start": 138.3,
+          "end": 138.64
+        },
+        {
+          "word": "dolor,",
+          "start": 138.64,
+          "end": 139.6
+        },
+        {
+          "word": "ni",
+          "start": 140.06,
+          "end": 140.5
+        },
+        {
+          "word": "muerte",
+          "start": 140.5,
+          "end": 141.52
+        },
+        {
+          "word": "jamás.",
+          "start": 141.52,
+          "end": 142.76
+        }
+      ],
+      "start": 137.18,
+      "end": 142.76,
+      "confidence": 1.0,
+      "time": 137.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Oh, sí, qué será ver a Cristo!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "¡Oh",
+          "start": 142.76,
+          "end": 143.4
+        },
+        {
+          "word": "sí!",
+          "start": 143.4,
+          "end": 144.08
+        },
+        {
+          "word": "¿Qué",
+          "start": 144.1,
+          "end": 144.38
+        },
+        {
+          "word": "será?",
+          "start": 144.38,
+          "end": 145.54
+        },
+        {
+          "word": "¿Verá",
+          "start": 145.74,
+          "end": 146.3
+        },
+        {
+          "word": "a",
+          "start": 146.3,
+          "end": 146.56
+        },
+        {
+          "word": "Cristo?",
+          "start": 146.56,
+          "end": 147.96
+        }
+      ],
+      "start": 142.76,
+      "end": 147.96,
+      "confidence": 0.991,
+      "time": 142.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, qué será ver a Cristo!",
+      "words": [
+        {
+          "word": "¡Oh!",
+          "start": 149.54,
+          "end": 149.94
+        },
+        {
+          "word": "¿Qué",
+          "start": 150.0,
+          "end": 150.16
+        },
+        {
+          "word": "será?",
+          "start": 150.16,
+          "end": 151.3
+        },
+        {
+          "word": "¿Verá",
+          "start": 151.5,
+          "end": 152.08
+        },
+        {
+          "word": "a",
+          "start": 152.08,
+          "end": 152.26
+        },
+        {
+          "word": "Cristo?",
+          "start": 152.26,
+          "end": 154.38
+        }
+      ],
+      "start": 149.54,
+      "end": 154.38,
+      "confidence": 0.99,
+      "time": 149.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Qué será ver al Señor!",
+      "words": [
+        {
+          "word": "¿Qué",
+          "start": 154.96,
+          "end": 155.62
+        },
+        {
+          "word": "será?",
+          "start": 155.62,
+          "end": 156.3
+        },
+        {
+          "word": "¿Verá",
+          "start": 156.78,
+          "end": 157.16
+        },
+        {
+          "word": "al",
+          "start": 157.16,
+          "end": 157.36
+        },
+        {
+          "word": "Señor?",
+          "start": 157.36,
+          "end": 159.68
+        }
+      ],
+      "start": 154.96,
+      "end": 159.68,
+      "confidence": 0.988,
+      "time": 154.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Pronto nos llevará al eterno hogar,",
+      "words": [
+        {
+          "word": "Pronto",
+          "start": 160.16,
+          "end": 160.54
+        },
+        {
+          "word": "nos",
+          "start": 160.54,
+          "end": 161.18
+        },
+        {
+          "word": "llevará",
+          "start": 161.18,
+          "end": 163.12
+        },
+        {
+          "word": "al",
+          "start": 163.12,
+          "end": 163.48
+        },
+        {
+          "word": "eterno",
+          "start": 163.48,
+          "end": 165.02
+        },
+        {
+          "word": "hogar",
+          "start": 165.02,
+          "end": 166.26
+        }
+      ],
+      "start": 160.16,
+      "end": 166.26,
+      "confidence": 1.0,
+      "time": 160.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "mas ¡oh, qué será ver a Cristo!",
+      "words": [
+        {
+          "word": "que",
+          "start": 168.16,
+          "end": 168.72
+        },
+        {
+          "word": "será",
+          "start": 168.72,
+          "end": 170.02
+        },
+        {
+          "word": "ver",
+          "start": 170.02,
+          "end": 170.86
+        },
+        {
+          "word": "a",
+          "start": 170.86,
+          "end": 172.88
+        },
+        {
+          "word": "Cristo.",
+          "start": 172.88,
+          "end": 173.48
+        }
+      ],
+      "start": 168.16,
+      "end": 173.48,
+      "confidence": 0.714,
+      "time": 168.16
+    }
+  ]
+}

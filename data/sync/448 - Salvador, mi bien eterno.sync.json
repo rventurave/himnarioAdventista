@@ -1,0 +1,885 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.98,
+  "language": "es",
+  "model": "medium",
+  "hymn": 448,
+  "source": "448 - Salvador, mi bien eterno.mp3",
+  "duration": 168.86,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Salvador, mi bien eterno,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Salvador,",
+          "start": 29.28,
+          "end": 30.32
+        },
+        {
+          "word": "mi",
+          "start": 31.16,
+          "end": 31.6
+        },
+        {
+          "word": "bien",
+          "start": 31.6,
+          "end": 32.28
+        },
+        {
+          "word": "eterno,",
+          "start": 32.28,
+          "end": 34.1
+        }
+      ],
+      "start": 29.28,
+      "end": 34.46,
+      "confidence": 1.0,
+      "time": 29.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "más que vida para mí,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "más",
+          "start": 34.46,
+          "end": 34.88
+        },
+        {
+          "word": "que",
+          "start": 34.88,
+          "end": 36.06
+        },
+        {
+          "word": "vida",
+          "start": 36.06,
+          "end": 36.88
+        },
+        {
+          "word": "para",
+          "start": 36.88,
+          "end": 38.02
+        },
+        {
+          "word": "mí,",
+          "start": 38.02,
+          "end": 39.34
+        }
+      ],
+      "start": 34.46,
+      "end": 39.34,
+      "confidence": 1.0,
+      "time": 34.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en mi fatigosa senda",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 39.92,
+          "end": 40.48
+        },
+        {
+          "word": "mi",
+          "start": 40.48,
+          "end": 40.82
+        },
+        {
+          "word": "fátigo",
+          "start": 40.82,
+          "end": 43.22
+        }
+      ],
+      "start": 39.92,
+      "end": 46.22,
+      "confidence": 0.735,
+      "time": 39.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tenme siempre junto a ti;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "siempre",
+          "start": 46.22,
+          "end": 48.14
+        },
+        {
+          "word": "junto",
+          "start": 48.14,
+          "end": 48.96
+        },
+        {
+          "word": "a",
+          "start": 48.96,
+          "end": 49.32
+        },
+        {
+          "word": "ti,",
+          "start": 49.32,
+          "end": 50.34
+        }
+      ],
+      "start": 46.22,
+      "end": 50.34,
+      "confidence": 0.8,
+      "time": 46.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "junto a ti, junto a ti,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Junto",
+          "start": 50.34,
+          "end": 51.7
+        },
+        {
+          "word": "a",
+          "start": 51.7,
+          "end": 52.0
+        },
+        {
+          "word": "ti,",
+          "start": 52.0,
+          "end": 53.54
+        },
+        {
+          "word": "junto",
+          "start": 53.62,
+          "end": 54.36
+        },
+        {
+          "word": "a",
+          "start": 54.36,
+          "end": 54.74
+        },
+        {
+          "word": "ti,",
+          "start": 54.74,
+          "end": 56.1
+        }
+      ],
+      "start": 50.34,
+      "end": 56.34,
+      "confidence": 1.0,
+      "time": 50.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "junto a ti, junto a ti;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Junto",
+          "start": 56.34,
+          "end": 57.28
+        },
+        {
+          "word": "a",
+          "start": 57.28,
+          "end": 58.38
+        },
+        {
+          "word": "ti,",
+          "start": 58.38,
+          "end": 58.98
+        },
+        {
+          "word": "junto",
+          "start": 59.16,
+          "end": 59.84
+        },
+        {
+          "word": "a",
+          "start": 59.84,
+          "end": 60.18
+        },
+        {
+          "word": "ti,",
+          "start": 60.18,
+          "end": 61.46
+        }
+      ],
+      "start": 56.34,
+      "end": 61.46,
+      "confidence": 1.0,
+      "time": 56.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en mi fatigosa senda",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 62.42,
+          "end": 62.44
+        },
+        {
+          "word": "mi",
+          "start": 62.44,
+          "end": 62.82
+        },
+        {
+          "word": "fatigosa",
+          "start": 62.82,
+          "end": 65.6
+        },
+        {
+          "word": "senda,",
+          "start": 65.6,
+          "end": 67.46
+        }
+      ],
+      "start": 62.42,
+      "end": 67.74,
+      "confidence": 1.0,
+      "time": 62.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tenme siempre junto a ti.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tenme",
+          "start": 67.74,
+          "end": 68.5
+        },
+        {
+          "word": "siempre",
+          "start": 68.5,
+          "end": 70.16
+        },
+        {
+          "word": "junto",
+          "start": 70.16,
+          "end": 71.16
+        },
+        {
+          "word": "a",
+          "start": 71.16,
+          "end": 71.56
+        },
+        {
+          "word": "ti.",
+          "start": 71.56,
+          "end": 72.96
+        }
+      ],
+      "start": 67.74,
+      "end": 72.96,
+      "confidence": 1.0,
+      "time": 67.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "No me afano por placeres,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "No",
+          "start": 72.96,
+          "end": 74.48
+        },
+        {
+          "word": "me",
+          "start": 74.48,
+          "end": 74.92
+        },
+        {
+          "word": "afano",
+          "start": 74.92,
+          "end": 76.64
+        },
+        {
+          "word": "por",
+          "start": 76.64,
+          "end": 77.38
+        },
+        {
+          "word": "placeres,",
+          "start": 77.38,
+          "end": 79.12
+        }
+      ],
+      "start": 72.96,
+      "end": 79.64,
+      "confidence": 1.0,
+      "time": 72.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "ni renombre busco aquí;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ni",
+          "start": 79.64,
+          "end": 79.96
+        },
+        {
+          "word": "renombre",
+          "start": 79.96,
+          "end": 82.08
+        },
+        {
+          "word": "busco",
+          "start": 82.08,
+          "end": 82.96
+        },
+        {
+          "word": "aquí.",
+          "start": 82.96,
+          "end": 84.46
+        }
+      ],
+      "start": 79.64,
+      "end": 84.46,
+      "confidence": 1.0,
+      "time": 79.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "vengan pruebas o desdenes,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Vengan",
+          "start": 85.0,
+          "end": 85.8
+        },
+        {
+          "word": "pruebas",
+          "start": 85.8,
+          "end": 87.7
+        },
+        {
+          "word": "o",
+          "start": 87.7,
+          "end": 88.46
+        },
+        {
+          "word": "descenes,",
+          "start": 88.46,
+          "end": 90.4
+        }
+      ],
+      "start": 85.0,
+      "end": 90.9,
+      "confidence": 0.981,
+      "time": 85.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "tenme siempre junto a ti;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tenme",
+          "start": 90.9,
+          "end": 91.48
+        },
+        {
+          "word": "siempre",
+          "start": 91.48,
+          "end": 93.22
+        },
+        {
+          "word": "junto",
+          "start": 93.22,
+          "end": 94.12
+        },
+        {
+          "word": "a",
+          "start": 94.12,
+          "end": 94.5
+        },
+        {
+          "word": "ti,",
+          "start": 94.5,
+          "end": 95.2
+        }
+      ],
+      "start": 90.9,
+      "end": 95.2,
+      "confidence": 1.0,
+      "time": 90.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "junto a ti, junto a ti,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Junto",
+          "start": 95.2,
+          "end": 96.82
+        },
+        {
+          "word": "a",
+          "start": 96.82,
+          "end": 97.1
+        },
+        {
+          "word": "ti,",
+          "start": 97.1,
+          "end": 98.64
+        },
+        {
+          "word": "junto",
+          "start": 98.64,
+          "end": 99.5
+        },
+        {
+          "word": "a",
+          "start": 99.5,
+          "end": 99.9
+        },
+        {
+          "word": "ti,",
+          "start": 99.9,
+          "end": 101.26
+        }
+      ],
+      "start": 95.2,
+      "end": 101.48,
+      "confidence": 1.0,
+      "time": 95.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "junto a ti, junto a ti;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "junto",
+          "start": 101.48,
+          "end": 102.24
+        },
+        {
+          "word": "a",
+          "start": 102.24,
+          "end": 102.56
+        },
+        {
+          "word": "ti,",
+          "start": 102.56,
+          "end": 104.38
+        },
+        {
+          "word": "junto",
+          "start": 104.38,
+          "end": 105.12
+        },
+        {
+          "word": "a",
+          "start": 105.12,
+          "end": 105.44
+        },
+        {
+          "word": "ti",
+          "start": 105.44,
+          "end": 106.84
+        }
+      ],
+      "start": 101.48,
+      "end": 106.84,
+      "confidence": 1.0,
+      "time": 101.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "vengan pruebas o desdenes,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Vengan",
+          "start": 106.84,
+          "end": 108.08
+        },
+        {
+          "word": "pruebas",
+          "start": 108.08,
+          "end": 110.02
+        },
+        {
+          "word": "o",
+          "start": 110.02,
+          "end": 110.72
+        },
+        {
+          "word": "decenas,",
+          "start": 110.72,
+          "end": 112.46
+        }
+      ],
+      "start": 106.84,
+      "end": 113.14,
+      "confidence": 0.95,
+      "time": 106.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "tenme siempre junto a ti.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tenme",
+          "start": 113.14,
+          "end": 113.62
+        },
+        {
+          "word": "siempre",
+          "start": 113.62,
+          "end": 115.38
+        },
+        {
+          "word": "junto",
+          "start": 115.38,
+          "end": 116.3
+        },
+        {
+          "word": "a",
+          "start": 116.3,
+          "end": 116.7
+        },
+        {
+          "word": "ti",
+          "start": 116.7,
+          "end": 118.14
+        }
+      ],
+      "start": 113.14,
+      "end": 118.14,
+      "confidence": 1.0,
+      "time": 113.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En el valle de la muerte",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 118.14,
+          "end": 119.86
+        },
+        {
+          "word": "el",
+          "start": 119.86,
+          "end": 121.14
+        },
+        {
+          "word": "valle",
+          "start": 121.14,
+          "end": 121.82
+        },
+        {
+          "word": "de",
+          "start": 121.82,
+          "end": 122.7
+        },
+        {
+          "word": "la",
+          "start": 122.7,
+          "end": 123.0
+        },
+        {
+          "word": "muerte,",
+          "start": 123.0,
+          "end": 124.28
+        }
+      ],
+      "start": 118.14,
+      "end": 125.1,
+      "confidence": 1.0,
+      "time": 118.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "no te alejes, sino allí,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "no",
+          "start": 125.1,
+          "end": 125.38
+        },
+        {
+          "word": "te",
+          "start": 125.38,
+          "end": 125.8
+        },
+        {
+          "word": "alejes,",
+          "start": 125.8,
+          "end": 127.62
+        },
+        {
+          "word": "sino",
+          "start": 127.62,
+          "end": 128.48
+        },
+        {
+          "word": "allí",
+          "start": 128.48,
+          "end": 130.0
+        }
+      ],
+      "start": 125.1,
+      "end": 130.0,
+      "confidence": 1.0,
+      "time": 125.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu presencia me aliente",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 130.0,
+          "end": 131.04
+        },
+        {
+          "word": "presencia",
+          "start": 131.04,
+          "end": 132.98
+        },
+        {
+          "word": "me",
+          "start": 132.98,
+          "end": 134.06
+        },
+        {
+          "word": "aliente,",
+          "start": 134.06,
+          "end": 135.7
+        }
+      ],
+      "start": 130.0,
+      "end": 136.32,
+      "confidence": 1.0,
+      "time": 130.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tenme siempre junto a ti;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tenme",
+          "start": 136.32,
+          "end": 136.94
+        },
+        {
+          "word": "siempre",
+          "start": 136.94,
+          "end": 138.64
+        },
+        {
+          "word": "junto",
+          "start": 138.64,
+          "end": 139.54
+        },
+        {
+          "word": "a",
+          "start": 139.54,
+          "end": 139.9
+        },
+        {
+          "word": "ti",
+          "start": 139.9,
+          "end": 141.08
+        }
+      ],
+      "start": 136.32,
+      "end": 141.08,
+      "confidence": 1.0,
+      "time": 136.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "junto a ti, junto a ti,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "junto",
+          "start": 141.08,
+          "end": 142.12
+        },
+        {
+          "word": "a",
+          "start": 142.12,
+          "end": 142.52
+        },
+        {
+          "word": "ti,",
+          "start": 142.52,
+          "end": 144.16
+        },
+        {
+          "word": "junto",
+          "start": 144.16,
+          "end": 145.02
+        },
+        {
+          "word": "a",
+          "start": 145.02,
+          "end": 145.18
+        },
+        {
+          "word": "ti,",
+          "start": 145.18,
+          "end": 146.68
+        }
+      ],
+      "start": 141.08,
+      "end": 146.78,
+      "confidence": 1.0,
+      "time": 141.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "junto a ti, junto a ti;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "junto",
+          "start": 146.78,
+          "end": 147.66
+        },
+        {
+          "word": "a",
+          "start": 147.66,
+          "end": 148.04
+        },
+        {
+          "word": "ti,",
+          "start": 148.04,
+          "end": 149.66
+        },
+        {
+          "word": "junto",
+          "start": 149.66,
+          "end": 150.4
+        },
+        {
+          "word": "a",
+          "start": 150.4,
+          "end": 150.8
+        },
+        {
+          "word": "ti",
+          "start": 150.8,
+          "end": 152.2
+        }
+      ],
+      "start": 146.78,
+      "end": 152.2,
+      "confidence": 1.0,
+      "time": 146.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu presencia me aliente,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tu",
+          "start": 152.2,
+          "end": 153.08
+        },
+        {
+          "word": "presencia",
+          "start": 153.08,
+          "end": 155.16
+        },
+        {
+          "word": "me",
+          "start": 155.16,
+          "end": 156.12
+        },
+        {
+          "word": "aliente,",
+          "start": 156.12,
+          "end": 157.82
+        }
+      ],
+      "start": 152.2,
+      "end": 158.36,
+      "confidence": 1.0,
+      "time": 152.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tenme siempre junto a ti.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tenme",
+          "start": 158.36,
+          "end": 158.98
+        },
+        {
+          "word": "siempre",
+          "start": 158.98,
+          "end": 160.9
+        },
+        {
+          "word": "junto",
+          "start": 160.9,
+          "end": 162.0
+        },
+        {
+          "word": "a",
+          "start": 162.0,
+          "end": 163.24
+        },
+        {
+          "word": "ti",
+          "start": 163.24,
+          "end": 165.0
+        }
+      ],
+      "start": 158.36,
+      "end": 165.0,
+      "confidence": 1.0,
+      "time": 158.36
+    }
+  ]
+}

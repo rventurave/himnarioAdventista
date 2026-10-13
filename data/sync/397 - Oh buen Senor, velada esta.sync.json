@@ -1,0 +1,529 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.912,
+  "language": "es",
+  "model": "medium",
+  "hymn": 397,
+  "source": "397 - Oh buen Senor, velada esta.mp3",
+  "duration": 130.46,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Oh buen Señor, velada está",
+      "verse": 1,
+      "words": [
+        {
+          "word": "O",
+          "start": 14.78,
+          "end": 16.18
+        },
+        {
+          "word": "buen",
+          "start": 16.18,
+          "end": 17.08
+        },
+        {
+          "word": "Señor",
+          "start": 17.08,
+          "end": 18.92
+        }
+      ],
+      "start": 14.78,
+      "end": 23.14,
+      "confidence": 0.56,
+      "time": 14.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tu santa forma aquí,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tu",
+          "start": 23.14,
+          "end": 23.86
+        },
+        {
+          "word": "santa",
+          "start": 23.86,
+          "end": 25.04
+        },
+        {
+          "word": "forma",
+          "start": 25.04,
+          "end": 26.86
+        },
+        {
+          "word": "aquí",
+          "start": 26.86,
+          "end": 28.42
+        }
+      ],
+      "start": 23.14,
+      "end": 28.42,
+      "confidence": 1.0,
+      "time": 23.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues el pecado, oh Jehová,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Pues",
+          "start": 28.42,
+          "end": 29.48
+        },
+        {
+          "word": "el",
+          "start": 29.48,
+          "end": 30.3
+        },
+        {
+          "word": "pecado,",
+          "start": 30.3,
+          "end": 32.54
+        },
+        {
+          "word": "Jehová,",
+          "start": 32.54,
+          "end": 35.62
+        }
+      ],
+      "start": 28.42,
+      "end": 36.42,
+      "confidence": 0.8,
+      "time": 28.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "te esconde hoy de mí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "te",
+          "start": 36.42,
+          "end": 36.42
+        },
+        {
+          "word": "esconde",
+          "start": 36.42,
+          "end": 38.12
+        },
+        {
+          "word": "hoy",
+          "start": 38.12,
+          "end": 39.42
+        },
+        {
+          "word": "de",
+          "start": 39.42,
+          "end": 40.26
+        },
+        {
+          "word": "mí.",
+          "start": 40.26,
+          "end": 42.0
+        }
+      ],
+      "start": 36.42,
+      "end": 42.0,
+      "confidence": 1.0,
+      "time": 36.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Aunque no te distingo hoy,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Aunque",
+          "start": 43.2,
+          "end": 44.34
+        },
+        {
+          "word": "no",
+          "start": 44.34,
+          "end": 45.2
+        },
+        {
+          "word": "te",
+          "start": 45.2,
+          "end": 46.66
+        },
+        {
+          "word": "distingo",
+          "start": 46.66,
+          "end": 48.82
+        },
+        {
+          "word": "hoy,",
+          "start": 48.82,
+          "end": 50.56
+        }
+      ],
+      "start": 43.2,
+      "end": 50.56,
+      "confidence": 1.0,
+      "time": 43.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "sé que conmigo estás;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "sé",
+          "start": 51.2,
+          "end": 51.46
+        },
+        {
+          "word": "que",
+          "start": 51.46,
+          "end": 52.46
+        },
+        {
+          "word": "conmigo",
+          "start": 52.46,
+          "end": 54.42
+        },
+        {
+          "word": "estás",
+          "start": 54.42,
+          "end": 56.1
+        }
+      ],
+      "start": 51.2,
+      "end": 56.1,
+      "confidence": 1.0,
+      "time": 51.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y si en afán o lucha estoy,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 56.1,
+          "end": 57.08
+        },
+        {
+          "word": "si",
+          "start": 57.08,
+          "end": 57.7
+        },
+        {
+          "word": "en",
+          "start": 57.7,
+          "end": 58.28
+        },
+        {
+          "word": "afán",
+          "start": 58.28,
+          "end": 59.6
+        },
+        {
+          "word": "o",
+          "start": 59.6,
+          "end": 60.46
+        },
+        {
+          "word": "lucha",
+          "start": 60.46,
+          "end": 62.04
+        },
+        {
+          "word": "estoy,",
+          "start": 62.04,
+          "end": 63.02
+        }
+      ],
+      "start": 56.1,
+      "end": 63.64,
+      "confidence": 1.0,
+      "time": 56.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "tu auxilio me darás.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 63.64,
+          "end": 63.84
+        },
+        {
+          "word": "auxilio",
+          "start": 63.84,
+          "end": 66.16
+        },
+        {
+          "word": "me",
+          "start": 66.16,
+          "end": 67.32
+        },
+        {
+          "word": "darás.",
+          "start": 67.32,
+          "end": 70.26
+        }
+      ],
+      "start": 63.64,
+      "end": 70.26,
+      "confidence": 1.0,
+      "time": 63.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Como un sueño nocturnal,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Como",
+          "start": 70.76,
+          "end": 72.16
+        },
+        {
+          "word": "un",
+          "start": 72.16,
+          "end": 72.92
+        },
+        {
+          "word": "sueño",
+          "start": 72.92,
+          "end": 74.94
+        },
+        {
+          "word": "nocturnal,",
+          "start": 74.94,
+          "end": 78.48
+        }
+      ],
+      "start": 70.76,
+      "end": 78.66,
+      "confidence": 1.0,
+      "time": 70.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "dorada ensoñación,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "dorada",
+          "start": 78.66,
+          "end": 80.28
+        },
+        {
+          "word": "soñación,",
+          "start": 80.46,
+          "end": 83.76
+        }
+      ],
+      "start": 78.66,
+      "end": 83.76,
+      "confidence": 0.967,
+      "time": 78.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "es tu presencia sin igual",
+      "verse": 3,
+      "words": [
+        {
+          "word": "es",
+          "start": 83.76,
+          "end": 84.96
+        },
+        {
+          "word": "tu",
+          "start": 84.96,
+          "end": 85.62
+        },
+        {
+          "word": "presencia",
+          "start": 85.62,
+          "end": 87.86
+        },
+        {
+          "word": "sin",
+          "start": 87.86,
+          "end": 89.28
+        },
+        {
+          "word": "igual,",
+          "start": 89.28,
+          "end": 90.94
+        }
+      ],
+      "start": 83.76,
+      "end": 91.34,
+      "confidence": 1.0,
+      "time": 83.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la más feliz visión.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 91.34,
+          "end": 91.86
+        },
+        {
+          "word": "más",
+          "start": 91.86,
+          "end": 93.06
+        },
+        {
+          "word": "feliz",
+          "start": 93.06,
+          "end": 95.04
+        },
+        {
+          "word": "visión.",
+          "start": 95.04,
+          "end": 98.08
+        }
+      ],
+      "start": 91.34,
+      "end": 98.08,
+      "confidence": 1.0,
+      "time": 91.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Tu forma puedo percibir",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 98.76,
+          "end": 99.5
+        },
+        {
+          "word": "forma",
+          "start": 99.5,
+          "end": 100.58
+        },
+        {
+          "word": "puedo",
+          "start": 100.58,
+          "end": 102.56
+        },
+        {
+          "word": "percibir",
+          "start": 102.56,
+          "end": 105.98
+        }
+      ],
+      "start": 98.76,
+      "end": 105.98,
+      "confidence": 1.0,
+      "time": 98.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "en alas de la fe;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 105.98,
+          "end": 107.28
+        },
+        {
+          "word": "alas",
+          "start": 107.28,
+          "end": 108.5
+        },
+        {
+          "word": "de",
+          "start": 108.5,
+          "end": 109.6
+        },
+        {
+          "word": "la",
+          "start": 109.6,
+          "end": 110.2
+        },
+        {
+          "word": "fe,",
+          "start": 110.2,
+          "end": 111.5
+        }
+      ],
+      "start": 105.98,
+      "end": 111.5,
+      "confidence": 1.0,
+      "time": 105.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "con tu influencia en mi vivir,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Con",
+          "start": 111.5,
+          "end": 112.66
+        },
+        {
+          "word": "Tu",
+          "start": 112.66,
+          "end": 113.42
+        },
+        {
+          "word": "influencia,",
+          "start": 113.42,
+          "end": 115.56
+        },
+        {
+          "word": "mi",
+          "start": 115.56,
+          "end": 117.1
+        }
+      ],
+      "start": 111.5,
+      "end": 121.56,
+      "confidence": 0.667,
+      "time": 111.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "confiado andaré.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "andaré.",
+          "start": 121.56,
+          "end": 126.4
+        }
+      ],
+      "start": 121.56,
+      "end": 126.4,
+      "confidence": 0.5,
+      "time": 121.56
+    }
+  ]
+}

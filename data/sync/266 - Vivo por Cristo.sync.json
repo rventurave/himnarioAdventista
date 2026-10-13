@@ -1,0 +1,1410 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.99,
+  "language": "es",
+  "model": "medium",
+  "hymn": 266,
+  "source": "266 - Vivo por Cristo.mp3",
+  "duration": 339.38,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Vivo por Cristo, confiando en su amor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Vivo",
+          "start": 19.68,
+          "end": 21.08
+        },
+        {
+          "word": "por",
+          "start": 21.08,
+          "end": 21.66
+        },
+        {
+          "word": "Cristo",
+          "start": 21.66,
+          "end": 23.16
+        },
+        {
+          "word": "confiando",
+          "start": 23.16,
+          "end": 24.76
+        },
+        {
+          "word": "en",
+          "start": 24.76,
+          "end": 25.46
+        },
+        {
+          "word": "Su",
+          "start": 25.46,
+          "end": 26.04
+        },
+        {
+          "word": "amor",
+          "start": 26.04,
+          "end": 27.82
+        }
+      ],
+      "start": 19.68,
+      "end": 27.82,
+      "confidence": 1.0,
+      "time": 19.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "vida me imparte, poder y valor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "vida",
+          "start": 27.82,
+          "end": 29.36
+        },
+        {
+          "word": "me",
+          "start": 29.36,
+          "end": 30.14
+        },
+        {
+          "word": "imparte,",
+          "start": 30.14,
+          "end": 31.62
+        },
+        {
+          "word": "poder",
+          "start": 31.88,
+          "end": 32.88
+        },
+        {
+          "word": "y",
+          "start": 32.88,
+          "end": 34.0
+        },
+        {
+          "word": "valor.",
+          "start": 34.0,
+          "end": 36.22
+        }
+      ],
+      "start": 27.82,
+      "end": 36.22,
+      "confidence": 1.0,
+      "time": 27.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "grande es el gozo que tengo por él,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Grande",
+          "start": 36.82,
+          "end": 37.78
+        },
+        {
+          "word": "es",
+          "start": 37.78,
+          "end": 38.88
+        },
+        {
+          "word": "el",
+          "start": 38.88,
+          "end": 39.34
+        },
+        {
+          "word": "bozo",
+          "start": 39.34,
+          "end": 40.6
+        },
+        {
+          "word": "que",
+          "start": 40.6,
+          "end": 41.32
+        },
+        {
+          "word": "tengo",
+          "start": 41.32,
+          "end": 42.88
+        },
+        {
+          "word": "por",
+          "start": 42.88,
+          "end": 44.08
+        },
+        {
+          "word": "él,",
+          "start": 44.08,
+          "end": 45.62
+        }
+      ],
+      "start": 36.82,
+      "end": 45.62,
+      "confidence": 0.981,
+      "time": 36.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "es de mi senda Jesús guía fiel.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 46.46,
+          "end": 47.04
+        },
+        {
+          "word": "de",
+          "start": 47.04,
+          "end": 47.86
+        },
+        {
+          "word": "mi",
+          "start": 47.86,
+          "end": 48.34
+        },
+        {
+          "word": "senda,",
+          "start": 48.34,
+          "end": 49.92
+        },
+        {
+          "word": "Jesús,",
+          "start": 50.16,
+          "end": 50.98
+        },
+        {
+          "word": "fiel.",
+          "start": 52.66,
+          "end": 54.14
+        }
+      ],
+      "start": 46.46,
+      "end": 54.14,
+      "confidence": 0.857,
+      "time": 46.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, Salvador bendito!,",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 54.14,
+          "end": 55.24
+        },
+        {
+          "word": "Salvador",
+          "start": 55.68,
+          "end": 56.68
+        },
+        {
+          "word": "bendito,",
+          "start": 56.68,
+          "end": 58.58
+        }
+      ],
+      "start": 54.14,
+      "end": 58.82,
+      "confidence": 1.0,
+      "time": 54.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "me doy tan solo a ti,",
+      "words": [
+        {
+          "word": "me",
+          "start": 58.82,
+          "end": 59.42
+        },
+        {
+          "word": "doy",
+          "start": 59.42,
+          "end": 59.96
+        },
+        {
+          "word": "tan",
+          "start": 59.96,
+          "end": 60.6
+        },
+        {
+          "word": "solo",
+          "start": 60.6,
+          "end": 61.26
+        },
+        {
+          "word": "a",
+          "start": 61.26,
+          "end": 61.88
+        },
+        {
+          "word": "ti,",
+          "start": 61.88,
+          "end": 62.94
+        }
+      ],
+      "start": 58.82,
+      "end": 63.34,
+      "confidence": 1.0,
+      "time": 58.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "porque tú en el Calvario",
+      "words": [
+        {
+          "word": "porque",
+          "start": 63.34,
+          "end": 63.94
+        },
+        {
+          "word": "tú",
+          "start": 63.94,
+          "end": 64.56
+        },
+        {
+          "word": "en",
+          "start": 64.56,
+          "end": 65.06
+        },
+        {
+          "word": "el",
+          "start": 65.06,
+          "end": 65.36
+        },
+        {
+          "word": "calvario",
+          "start": 65.36,
+          "end": 66.9
+        }
+      ],
+      "start": 63.34,
+      "end": 66.9,
+      "confidence": 1.0,
+      "time": 63.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "te diste allí por mí;",
+      "words": [
+        {
+          "word": "te",
+          "start": 66.9,
+          "end": 67.9
+        },
+        {
+          "word": "diste",
+          "start": 67.9,
+          "end": 68.72
+        },
+        {
+          "word": "a",
+          "start": 68.72,
+          "end": 69.0
+        },
+        {
+          "word": "por",
+          "start": 69.24,
+          "end": 69.96
+        },
+        {
+          "word": "mí.",
+          "start": 69.96,
+          "end": 71.06
+        }
+      ],
+      "start": 66.9,
+      "end": 71.06,
+      "confidence": 0.988,
+      "time": 66.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "no tengo más Maestro,",
+      "words": [
+        {
+          "word": "No",
+          "start": 71.06,
+          "end": 72.06
+        },
+        {
+          "word": "tengo",
+          "start": 72.06,
+          "end": 73.04
+        },
+        {
+          "word": "más",
+          "start": 73.04,
+          "end": 73.76
+        },
+        {
+          "word": "maestro,",
+          "start": 73.76,
+          "end": 75.46
+        }
+      ],
+      "start": 71.06,
+      "end": 75.64,
+      "confidence": 1.0,
+      "time": 71.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "yo fiel te serviré;",
+      "words": [
+        {
+          "word": "yo",
+          "start": 75.64,
+          "end": 76.26
+        },
+        {
+          "word": "fiel",
+          "start": 76.26,
+          "end": 76.64
+        },
+        {
+          "word": "te",
+          "start": 76.64,
+          "end": 77.26
+        },
+        {
+          "word": "serviré,",
+          "start": 77.26,
+          "end": 79.68
+        }
+      ],
+      "start": 75.64,
+      "end": 80.16,
+      "confidence": 1.0,
+      "time": 75.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "a ti me doy pues tuyo soy,",
+      "words": [
+        {
+          "word": "a",
+          "start": 80.16,
+          "end": 80.64
+        },
+        {
+          "word": "ti",
+          "start": 80.64,
+          "end": 81.04
+        },
+        {
+          "word": "me",
+          "start": 81.04,
+          "end": 81.64
+        },
+        {
+          "word": "doy",
+          "start": 81.64,
+          "end": 82.1
+        },
+        {
+          "word": "pues",
+          "start": 82.1,
+          "end": 82.66
+        },
+        {
+          "word": "tuyo",
+          "start": 82.66,
+          "end": 83.8
+        },
+        {
+          "word": "soy,",
+          "start": 83.8,
+          "end": 84.58
+        }
+      ],
+      "start": 80.16,
+      "end": 84.58,
+      "confidence": 1.0,
+      "time": 80.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "de mi alma eterno Rey.",
+      "words": [
+        {
+          "word": "de",
+          "start": 84.58,
+          "end": 85.2
+        },
+        {
+          "word": "mi",
+          "start": 85.2,
+          "end": 85.54
+        },
+        {
+          "word": "alma",
+          "start": 85.54,
+          "end": 86.06
+        },
+        {
+          "word": "eterno",
+          "start": 86.06,
+          "end": 87.78
+        },
+        {
+          "word": "Rey.",
+          "start": 87.78,
+          "end": 89.44
+        }
+      ],
+      "start": 84.58,
+      "end": 89.44,
+      "confidence": 1.0,
+      "time": 84.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Vivo por Cristo, murió pues por mí;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Vivo",
+          "start": 89.44,
+          "end": 91.82
+        },
+        {
+          "word": "por",
+          "start": 91.82,
+          "end": 92.42
+        },
+        {
+          "word": "Cristo,",
+          "start": 92.42,
+          "end": 93.86
+        },
+        {
+          "word": "murió",
+          "start": 94.34,
+          "end": 95.12
+        },
+        {
+          "word": "pues",
+          "start": 95.12,
+          "end": 96.24
+        },
+        {
+          "word": "por",
+          "start": 96.24,
+          "end": 96.88
+        },
+        {
+          "word": "mí,",
+          "start": 96.88,
+          "end": 98.7
+        }
+      ],
+      "start": 89.44,
+      "end": 99.24,
+      "confidence": 1.0,
+      "time": 89.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "siempre servirle yo quisiera aquí;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "siempre",
+          "start": 99.24,
+          "end": 100.22
+        },
+        {
+          "word": "servirle",
+          "start": 100.22,
+          "end": 102.58
+        },
+        {
+          "word": "yo",
+          "start": 102.58,
+          "end": 103.14
+        },
+        {
+          "word": "quisiera",
+          "start": 103.14,
+          "end": 105.2
+        },
+        {
+          "word": "aquí,",
+          "start": 105.2,
+          "end": 106.94
+        }
+      ],
+      "start": 99.24,
+      "end": 106.94,
+      "confidence": 1.0,
+      "time": 99.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "porque me ha dado tal prueba de amor",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Porque",
+          "start": 106.94,
+          "end": 108.46
+        },
+        {
+          "word": "me",
+          "start": 108.46,
+          "end": 109.28
+        },
+        {
+          "word": "ha",
+          "start": 109.28,
+          "end": 109.98
+        },
+        {
+          "word": "dado",
+          "start": 109.98,
+          "end": 110.96
+        },
+        {
+          "word": "tal",
+          "start": 110.96,
+          "end": 111.78
+        },
+        {
+          "word": "prueba",
+          "start": 111.78,
+          "end": 112.68
+        },
+        {
+          "word": "de",
+          "start": 112.68,
+          "end": 114.1
+        },
+        {
+          "word": "amor,",
+          "start": 114.1,
+          "end": 115.72
+        }
+      ],
+      "start": 106.94,
+      "end": 116.6,
+      "confidence": 1.0,
+      "time": 106.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "quiero rendirme por siempre al Señor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "quiero",
+          "start": 116.6,
+          "end": 117.62
+        },
+        {
+          "word": "rendirme",
+          "start": 117.62,
+          "end": 120.14
+        },
+        {
+          "word": "por",
+          "start": 120.14,
+          "end": 120.9
+        },
+        {
+          "word": "siempre",
+          "start": 120.9,
+          "end": 121.62
+        },
+        {
+          "word": "al",
+          "start": 121.62,
+          "end": 122.64
+        },
+        {
+          "word": "Señor.",
+          "start": 122.64,
+          "end": 124.58
+        }
+      ],
+      "start": 116.6,
+      "end": 124.58,
+      "confidence": 1.0,
+      "time": 116.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, Salvador bendito!,",
+      "words": [
+        {
+          "word": "Oh",
+          "start": 124.58,
+          "end": 125.8
+        },
+        {
+          "word": "salvador",
+          "start": 125.8,
+          "end": 127.46
+        },
+        {
+          "word": "bendito,",
+          "start": 127.46,
+          "end": 129.22
+        }
+      ],
+      "start": 124.58,
+      "end": 129.44,
+      "confidence": 1.0,
+      "time": 124.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "me doy tan solo a ti,",
+      "words": [
+        {
+          "word": "me",
+          "start": 129.44,
+          "end": 130.06
+        },
+        {
+          "word": "doy",
+          "start": 130.06,
+          "end": 130.56
+        },
+        {
+          "word": "tan",
+          "start": 130.56,
+          "end": 131.16
+        },
+        {
+          "word": "solo",
+          "start": 131.16,
+          "end": 131.86
+        },
+        {
+          "word": "a",
+          "start": 131.86,
+          "end": 132.42
+        },
+        {
+          "word": "ti,",
+          "start": 132.42,
+          "end": 133.5
+        }
+      ],
+      "start": 129.44,
+      "end": 133.9,
+      "confidence": 1.0,
+      "time": 129.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "porque tú en el Calvario",
+      "words": [
+        {
+          "word": "porque",
+          "start": 133.9,
+          "end": 134.52
+        },
+        {
+          "word": "tú",
+          "start": 134.52,
+          "end": 135.22
+        },
+        {
+          "word": "en",
+          "start": 135.22,
+          "end": 135.64
+        },
+        {
+          "word": "el",
+          "start": 135.64,
+          "end": 136.0
+        },
+        {
+          "word": "calvario",
+          "start": 136.0,
+          "end": 137.62
+        }
+      ],
+      "start": 133.9,
+      "end": 137.62,
+      "confidence": 1.0,
+      "time": 133.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "te diste allí por mí;",
+      "words": [
+        {
+          "word": "te",
+          "start": 137.62,
+          "end": 138.52
+        },
+        {
+          "word": "diste",
+          "start": 138.52,
+          "end": 139.3
+        },
+        {
+          "word": "allí",
+          "start": 139.3,
+          "end": 139.92
+        },
+        {
+          "word": "por",
+          "start": 139.92,
+          "end": 140.62
+        },
+        {
+          "word": "mí.",
+          "start": 140.62,
+          "end": 141.88
+        }
+      ],
+      "start": 137.62,
+      "end": 141.88,
+      "confidence": 1.0,
+      "time": 137.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "no tengo más Maestro,",
+      "words": [
+        {
+          "word": "No",
+          "start": 141.88,
+          "end": 142.82
+        },
+        {
+          "word": "tengo",
+          "start": 142.82,
+          "end": 143.98
+        },
+        {
+          "word": "más",
+          "start": 143.98,
+          "end": 144.66
+        },
+        {
+          "word": "maestro,",
+          "start": 144.66,
+          "end": 146.54
+        }
+      ],
+      "start": 141.88,
+      "end": 146.88,
+      "confidence": 1.0,
+      "time": 141.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "yo fiel te serviré;",
+      "words": [
+        {
+          "word": "yo",
+          "start": 146.88,
+          "end": 147.34
+        },
+        {
+          "word": "fiel",
+          "start": 147.34,
+          "end": 147.76
+        },
+        {
+          "word": "te",
+          "start": 147.76,
+          "end": 148.38
+        },
+        {
+          "word": "serviré,",
+          "start": 148.38,
+          "end": 150.82
+        }
+      ],
+      "start": 146.88,
+      "end": 151.5,
+      "confidence": 1.0,
+      "time": 146.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "a ti me doy pues tuyo soy,",
+      "words": [
+        {
+          "word": "a",
+          "start": 151.5,
+          "end": 151.9
+        },
+        {
+          "word": "ti",
+          "start": 151.9,
+          "end": 152.32
+        },
+        {
+          "word": "me",
+          "start": 152.32,
+          "end": 152.98
+        },
+        {
+          "word": "doy",
+          "start": 152.98,
+          "end": 153.4
+        },
+        {
+          "word": "pues",
+          "start": 153.4,
+          "end": 154.02
+        },
+        {
+          "word": "tuyo",
+          "start": 154.02,
+          "end": 155.28
+        },
+        {
+          "word": "soy,",
+          "start": 155.28,
+          "end": 155.88
+        }
+      ],
+      "start": 151.5,
+      "end": 156.18,
+      "confidence": 1.0,
+      "time": 151.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "de mi alma eterno Rey.",
+      "words": [
+        {
+          "word": "de",
+          "start": 156.18,
+          "end": 156.82
+        },
+        {
+          "word": "mi",
+          "start": 156.82,
+          "end": 157.2
+        },
+        {
+          "word": "alma",
+          "start": 157.2,
+          "end": 157.86
+        },
+        {
+          "word": "eterno",
+          "start": 157.86,
+          "end": 159.62
+        },
+        {
+          "word": "rey.",
+          "start": 159.62,
+          "end": 161.74
+        }
+      ],
+      "start": 156.18,
+      "end": 161.74,
+      "confidence": 1.0,
+      "time": 156.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Vivo por Cristo, doquiera que esté;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Vivo",
+          "start": 161.74,
+          "end": 163.6
+        },
+        {
+          "word": "por",
+          "start": 163.6,
+          "end": 164.24
+        },
+        {
+          "word": "Cristo,",
+          "start": 164.24,
+          "end": 165.8
+        },
+        {
+          "word": "quiera",
+          "start": 166.6,
+          "end": 168.14
+        },
+        {
+          "word": "que",
+          "start": 168.14,
+          "end": 168.9
+        },
+        {
+          "word": "esté,",
+          "start": 168.9,
+          "end": 170.46
+        }
+      ],
+      "start": 161.74,
+      "end": 171.3,
+      "confidence": 0.986,
+      "time": 161.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "ya por su ayuda sus obras haré;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ya",
+          "start": 171.3,
+          "end": 171.68
+        },
+        {
+          "word": "por",
+          "start": 171.68,
+          "end": 172.66
+        },
+        {
+          "word": "su",
+          "start": 172.66,
+          "end": 173.2
+        },
+        {
+          "word": "ayuda",
+          "start": 173.2,
+          "end": 174.6
+        },
+        {
+          "word": "su",
+          "start": 174.6,
+          "end": 175.48
+        },
+        {
+          "word": "sobra",
+          "start": 175.48,
+          "end": 177.24
+        },
+        {
+          "word": "zaré.",
+          "start": 177.24,
+          "end": 179.76
+        }
+      ],
+      "start": 171.3,
+      "end": 179.76,
+      "confidence": 0.953,
+      "time": 171.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pruebas hoy llevo con gozo y amor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Prueba,",
+          "start": 179.76,
+          "end": 181.66
+        },
+        {
+          "word": "soy",
+          "start": 182.1,
+          "end": 182.3
+        },
+        {
+          "word": "llevo,",
+          "start": 182.3,
+          "end": 183.72
+        },
+        {
+          "word": "con",
+          "start": 184.24,
+          "end": 184.62
+        },
+        {
+          "word": "gozo",
+          "start": 184.62,
+          "end": 185.78
+        },
+        {
+          "word": "y",
+          "start": 185.78,
+          "end": 186.46
+        },
+        {
+          "word": "amor,",
+          "start": 186.46,
+          "end": 188.46
+        }
+      ],
+      "start": 179.76,
+      "end": 188.46,
+      "confidence": 0.963,
+      "time": 179.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pues veo en ellas la cruz del Señor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 189.18,
+          "end": 189.76
+        },
+        {
+          "word": "veo",
+          "start": 189.76,
+          "end": 190.82
+        },
+        {
+          "word": "en",
+          "start": 190.82,
+          "end": 191.76
+        },
+        {
+          "word": "ellos",
+          "start": 191.76,
+          "end": 192.84
+        },
+        {
+          "word": "la",
+          "start": 192.84,
+          "end": 193.7
+        },
+        {
+          "word": "cruz",
+          "start": 193.7,
+          "end": 194.58
+        },
+        {
+          "word": "del",
+          "start": 194.58,
+          "end": 195.36
+        },
+        {
+          "word": "Señor.",
+          "start": 195.36,
+          "end": 197.4
+        }
+      ],
+      "start": 189.18,
+      "end": 197.4,
+      "confidence": 0.985,
+      "time": 189.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, Salvador bendito!,",
+      "words": [
+        {
+          "word": "Oh",
+          "start": 198.14,
+          "end": 198.5
+        },
+        {
+          "word": "Salvador",
+          "start": 198.5,
+          "end": 200.1
+        },
+        {
+          "word": "bendito,",
+          "start": 200.1,
+          "end": 202.06
+        }
+      ],
+      "start": 198.14,
+      "end": 202.42,
+      "confidence": 1.0,
+      "time": 198.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "me doy tan solo a ti,",
+      "words": [
+        {
+          "word": "me",
+          "start": 202.42,
+          "end": 202.98
+        },
+        {
+          "word": "doy",
+          "start": 202.98,
+          "end": 203.46
+        },
+        {
+          "word": "tan",
+          "start": 203.46,
+          "end": 204.12
+        },
+        {
+          "word": "solo",
+          "start": 204.12,
+          "end": 204.7
+        },
+        {
+          "word": "a",
+          "start": 204.7,
+          "end": 205.34
+        },
+        {
+          "word": "ti,",
+          "start": 205.34,
+          "end": 206.28
+        }
+      ],
+      "start": 202.42,
+      "end": 206.28,
+      "confidence": 1.0,
+      "time": 202.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "porque tú en el Calvario",
+      "words": [
+        {
+          "word": "porque",
+          "start": 206.28,
+          "end": 207.46
+        },
+        {
+          "word": "tú",
+          "start": 207.46,
+          "end": 208.24
+        },
+        {
+          "word": "en",
+          "start": 208.24,
+          "end": 208.72
+        },
+        {
+          "word": "el",
+          "start": 208.72,
+          "end": 209.08
+        },
+        {
+          "word": "calvario",
+          "start": 209.08,
+          "end": 210.68
+        }
+      ],
+      "start": 206.28,
+      "end": 210.68,
+      "confidence": 1.0,
+      "time": 206.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "te diste allí por mí;",
+      "words": [
+        {
+          "word": "te",
+          "start": 210.68,
+          "end": 211.54
+        },
+        {
+          "word": "diste",
+          "start": 211.54,
+          "end": 212.42
+        },
+        {
+          "word": "a",
+          "start": 278.36,
+          "end": 278.96
+        },
+        {
+          "word": "por",
+          "start": 286.44,
+          "end": 286.9
+        },
+        {
+          "word": "mí.",
+          "start": 286.9,
+          "end": 288.5
+        }
+      ],
+      "start": 210.68,
+      "end": 288.5,
+      "confidence": 0.988,
+      "time": 210.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "no tengo más Maestro,",
+      "words": [
+        {
+          "word": "No",
+          "start": 288.5,
+          "end": 289.5
+        },
+        {
+          "word": "tengo",
+          "start": 289.5,
+          "end": 290.52
+        },
+        {
+          "word": "más",
+          "start": 290.52,
+          "end": 291.18
+        },
+        {
+          "word": "maestro,",
+          "start": 291.18,
+          "end": 293.1
+        }
+      ],
+      "start": 288.5,
+      "end": 293.4,
+      "confidence": 1.0,
+      "time": 288.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "yo fiel te serviré;",
+      "words": [
+        {
+          "word": "yo",
+          "start": 293.4,
+          "end": 293.92
+        },
+        {
+          "word": "fiel",
+          "start": 293.92,
+          "end": 294.42
+        },
+        {
+          "word": "te",
+          "start": 294.42,
+          "end": 295.0
+        },
+        {
+          "word": "serviré,",
+          "start": 295.0,
+          "end": 297.68
+        }
+      ],
+      "start": 293.4,
+      "end": 298.32,
+      "confidence": 1.0,
+      "time": 293.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "a ti me doy pues tuyo soy,",
+      "words": [
+        {
+          "word": "a",
+          "start": 298.32,
+          "end": 298.52
+        },
+        {
+          "word": "ti",
+          "start": 298.52,
+          "end": 299.02
+        },
+        {
+          "word": "me",
+          "start": 299.02,
+          "end": 299.68
+        },
+        {
+          "word": "doy",
+          "start": 299.68,
+          "end": 300.1
+        },
+        {
+          "word": "pues",
+          "start": 300.1,
+          "end": 300.78
+        },
+        {
+          "word": "tuyo",
+          "start": 300.78,
+          "end": 302.22
+        },
+        {
+          "word": "soy,",
+          "start": 302.22,
+          "end": 303.08
+        }
+      ],
+      "start": 298.32,
+      "end": 303.5,
+      "confidence": 1.0,
+      "time": 298.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "de mi alma eterno Rey.",
+      "words": [
+        {
+          "word": "de",
+          "start": 303.5,
+          "end": 304.08
+        },
+        {
+          "word": "mi",
+          "start": 304.08,
+          "end": 304.5
+        },
+        {
+          "word": "alma",
+          "start": 304.5,
+          "end": 305.22
+        },
+        {
+          "word": "eterno",
+          "start": 305.22,
+          "end": 307.88
+        },
+        {
+          "word": "rey.",
+          "start": 307.88,
+          "end": 310.02
+        }
+      ],
+      "start": 303.5,
+      "end": 310.02,
+      "confidence": 1.0,
+      "time": 303.5
+    }
+  ]
+}

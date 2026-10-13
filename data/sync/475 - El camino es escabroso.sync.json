@@ -1,0 +1,1056 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.919,
+  "language": "es",
+  "model": "medium",
+  "hymn": 475,
+  "source": "475 - El camino es escabroso.mp3",
+  "duration": 194.46,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "El camino es escabroso, y los pies sangrantes van.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "El",
+          "start": 20.22,
+          "end": 21.48
+        },
+        {
+          "word": "camino",
+          "start": 21.48,
+          "end": 22.4
+        },
+        {
+          "word": "es",
+          "start": 22.4,
+          "end": 23.12
+        },
+        {
+          "word": "escabroso",
+          "start": 23.12,
+          "end": 24.36
+        },
+        {
+          "word": "y",
+          "start": 24.36,
+          "end": 24.78
+        },
+        {
+          "word": "los",
+          "start": 24.78,
+          "end": 25.16
+        },
+        {
+          "word": "pies",
+          "start": 25.16,
+          "end": 25.48
+        },
+        {
+          "word": "sangrantes",
+          "start": 25.48,
+          "end": 26.78
+        },
+        {
+          "word": "van,",
+          "start": 26.78,
+          "end": 27.32
+        }
+      ],
+      "start": 20.22,
+      "end": 27.32,
+      "confidence": 1.0,
+      "time": 20.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Cuánto dista Canaán? ¿Cuánto dista Canaán?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cuánto",
+          "start": 27.32,
+          "end": 28.52
+        },
+        {
+          "word": "destacanán,",
+          "start": 28.52,
+          "end": 30.76
+        },
+        {
+          "word": "cuánto",
+          "start": 30.76,
+          "end": 31.84
+        },
+        {
+          "word": "destacanán,",
+          "start": 31.84,
+          "end": 34.08
+        }
+      ],
+      "start": 27.32,
+      "end": 34.46,
+      "confidence": 0.592,
+      "time": 27.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Por su amparo suspiramos cada día más y más.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "por",
+          "start": 34.46,
+          "end": 34.6
+        },
+        {
+          "word": "su",
+          "start": 34.6,
+          "end": 34.9
+        },
+        {
+          "word": "amparo",
+          "start": 34.9,
+          "end": 35.78
+        },
+        {
+          "word": "suspiramos",
+          "start": 35.78,
+          "end": 37.16
+        },
+        {
+          "word": "cada",
+          "start": 37.16,
+          "end": 38.0
+        },
+        {
+          "word": "día",
+          "start": 38.0,
+          "end": 38.58
+        },
+        {
+          "word": "más",
+          "start": 38.58,
+          "end": 39.14
+        },
+        {
+          "word": "y",
+          "start": 39.14,
+          "end": 39.6
+        },
+        {
+          "word": "más,",
+          "start": 39.6,
+          "end": 40.24
+        }
+      ],
+      "start": 34.46,
+      "end": 40.24,
+      "confidence": 1.0,
+      "time": 34.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Cuánto aún, cuánto dista Canaán?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cuánto",
+          "start": 40.94,
+          "end": 41.4
+        },
+        {
+          "word": "aún,",
+          "start": 41.4,
+          "end": 42.02
+        },
+        {
+          "word": "cuánto",
+          "start": 42.12,
+          "end": 43.2
+        },
+        {
+          "word": "destacanán.",
+          "start": 43.2,
+          "end": 47.42
+        }
+      ],
+      "start": 40.94,
+      "end": 47.42,
+      "confidence": 0.755,
+      "time": 40.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Muy cansados, tan cansados,",
+      "words": [
+        {
+          "word": "Muy",
+          "start": 47.42,
+          "end": 48.88
+        },
+        {
+          "word": "cansados,",
+          "start": 48.88,
+          "end": 51.58
+        },
+        {
+          "word": "tan",
+          "start": 51.64,
+          "end": 52.18
+        },
+        {
+          "word": "cansados,",
+          "start": 52.18,
+          "end": 54.58
+        }
+      ],
+      "start": 47.42,
+      "end": 54.88,
+      "confidence": 1.0,
+      "time": 47.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "muy cansados de vagar",
+      "words": [
+        {
+          "word": "muy",
+          "start": 54.88,
+          "end": 55.3
+        },
+        {
+          "word": "cansados",
+          "start": 55.3,
+          "end": 56.38
+        },
+        {
+          "word": "de",
+          "start": 56.38,
+          "end": 56.98
+        },
+        {
+          "word": "vagar",
+          "start": 56.98,
+          "end": 57.8
+        }
+      ],
+      "start": 54.88,
+      "end": 57.8,
+      "confidence": 1.0,
+      "time": 54.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "por el desierto estamos ya.",
+      "words": [
+        {
+          "word": "por",
+          "start": 57.8,
+          "end": 58.2
+        },
+        {
+          "word": "el",
+          "start": 58.2,
+          "end": 58.64
+        },
+        {
+          "word": "desierto",
+          "start": 58.64,
+          "end": 59.26
+        },
+        {
+          "word": "estamos",
+          "start": 59.26,
+          "end": 60.26
+        },
+        {
+          "word": "ya.",
+          "start": 60.26,
+          "end": 61.0
+        }
+      ],
+      "start": 57.8,
+      "end": 61.0,
+      "confidence": 1.0,
+      "time": 57.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Muy cansados, tan cansados.",
+      "words": [
+        {
+          "word": "Muy",
+          "start": 61.22,
+          "end": 61.86
+        },
+        {
+          "word": "cansados,",
+          "start": 61.86,
+          "end": 64.32
+        },
+        {
+          "word": "tan",
+          "start": 64.76,
+          "end": 65.14
+        },
+        {
+          "word": "cansados,",
+          "start": 65.14,
+          "end": 67.72
+        }
+      ],
+      "start": 61.22,
+      "end": 68.14,
+      "confidence": 1.0,
+      "time": 61.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¿Cuánto aún, cuánto dista Canaán?",
+      "words": [
+        {
+          "word": "cuánto",
+          "start": 68.14,
+          "end": 68.9
+        },
+        {
+          "word": "aún,",
+          "start": 68.9,
+          "end": 69.58
+        },
+        {
+          "word": "cuánto",
+          "start": 70.14,
+          "end": 70.9
+        },
+        {
+          "word": "dista",
+          "start": 70.9,
+          "end": 71.76
+        },
+        {
+          "word": "canan.",
+          "start": 73.7,
+          "end": 76.02
+        }
+      ],
+      "start": 68.14,
+      "end": 76.02,
+      "confidence": 0.989,
+      "time": 68.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Por el árido desierto es penoso el caminar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Por",
+          "start": 76.02,
+          "end": 77.42
+        },
+        {
+          "word": "el",
+          "start": 77.42,
+          "end": 77.94
+        },
+        {
+          "word": "árnido",
+          "start": 77.94,
+          "end": 78.82
+        },
+        {
+          "word": "desierto",
+          "start": 78.82,
+          "end": 79.94
+        },
+        {
+          "word": "es",
+          "start": 79.94,
+          "end": 80.48
+        },
+        {
+          "word": "penoso",
+          "start": 80.48,
+          "end": 81.18
+        },
+        {
+          "word": "el",
+          "start": 81.18,
+          "end": 81.58
+        },
+        {
+          "word": "caminar,",
+          "start": 81.58,
+          "end": 83.04
+        }
+      ],
+      "start": 76.02,
+      "end": 83.52,
+      "confidence": 0.993,
+      "time": 76.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Dista mucho Canaán? ¿Dista mucho Canaán?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "dista",
+          "start": 83.52,
+          "end": 84.1
+        },
+        {
+          "word": "mucho",
+          "start": 84.1,
+          "end": 84.74
+        },
+        {
+          "word": "canal,",
+          "start": 84.74,
+          "end": 86.1
+        },
+        {
+          "word": "dista",
+          "start": 86.34,
+          "end": 87.18
+        },
+        {
+          "word": "mucho",
+          "start": 87.18,
+          "end": 87.88
+        },
+        {
+          "word": "canal.",
+          "start": 87.88,
+          "end": 89.28
+        }
+      ],
+      "start": 83.52,
+      "end": 89.28,
+      "confidence": 0.945,
+      "time": 83.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En la arena están las huellas de los que pasaron ya.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 89.8,
+          "end": 90.2
+        },
+        {
+          "word": "la",
+          "start": 90.2,
+          "end": 90.44
+        },
+        {
+          "word": "arena",
+          "start": 90.44,
+          "end": 90.96
+        },
+        {
+          "word": "están",
+          "start": 90.96,
+          "end": 91.5
+        },
+        {
+          "word": "los",
+          "start": 91.5,
+          "end": 92.12
+        },
+        {
+          "word": "de",
+          "start": 92.74,
+          "end": 93.1
+        },
+        {
+          "word": "los",
+          "start": 93.1,
+          "end": 93.38
+        },
+        {
+          "word": "que",
+          "start": 93.38,
+          "end": 93.9
+        },
+        {
+          "word": "pasaron",
+          "start": 93.9,
+          "end": 94.74
+        },
+        {
+          "word": "ya,",
+          "start": 94.74,
+          "end": 95.44
+        }
+      ],
+      "start": 89.8,
+      "end": 96.2,
+      "confidence": 0.891,
+      "time": 89.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Cuánto aún, cuánto dista Canaán?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cuanto",
+          "start": 96.2,
+          "end": 96.5
+        },
+        {
+          "word": "aún,",
+          "start": 96.5,
+          "end": 97.26
+        },
+        {
+          "word": "cuanto",
+          "start": 97.26,
+          "end": 98.18
+        },
+        {
+          "word": "dista",
+          "start": 98.18,
+          "end": 99.38
+        }
+      ],
+      "start": 96.2,
+      "end": 101.96,
+      "confidence": 0.8,
+      "time": 96.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Muy cansados, tan cansados,",
+      "words": [
+        {
+          "word": "Muy",
+          "start": 101.96,
+          "end": 103.6
+        },
+        {
+          "word": "cansados,",
+          "start": 103.6,
+          "end": 106.18
+        },
+        {
+          "word": "tan",
+          "start": 106.22,
+          "end": 106.72
+        },
+        {
+          "word": "cansados,",
+          "start": 106.72,
+          "end": 109.2
+        }
+      ],
+      "start": 101.96,
+      "end": 109.4,
+      "confidence": 1.0,
+      "time": 101.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "muy cansados de vagar",
+      "words": [
+        {
+          "word": "muy",
+          "start": 109.4,
+          "end": 109.88
+        },
+        {
+          "word": "cansados",
+          "start": 109.88,
+          "end": 110.98
+        },
+        {
+          "word": "de",
+          "start": 110.98,
+          "end": 111.56
+        },
+        {
+          "word": "vagar",
+          "start": 111.56,
+          "end": 112.22
+        }
+      ],
+      "start": 109.4,
+      "end": 112.22,
+      "confidence": 1.0,
+      "time": 109.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "por el desierto estamos ya.",
+      "words": [
+        {
+          "word": "por",
+          "start": 112.22,
+          "end": 112.78
+        },
+        {
+          "word": "el",
+          "start": 112.78,
+          "end": 113.16
+        },
+        {
+          "word": "desierto",
+          "start": 113.16,
+          "end": 113.88
+        },
+        {
+          "word": "estamos",
+          "start": 113.88,
+          "end": 114.88
+        },
+        {
+          "word": "ya.",
+          "start": 114.88,
+          "end": 115.58
+        }
+      ],
+      "start": 112.22,
+      "end": 115.58,
+      "confidence": 1.0,
+      "time": 112.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Muy cansados, tan cansados.",
+      "words": [
+        {
+          "word": "Muy",
+          "start": 115.72,
+          "end": 116.4
+        },
+        {
+          "word": "cansados,",
+          "start": 116.4,
+          "end": 117.68
+        },
+        {
+          "word": "tan",
+          "start": 119.08,
+          "end": 119.54
+        },
+        {
+          "word": "cansados,",
+          "start": 119.54,
+          "end": 122.08
+        }
+      ],
+      "start": 115.72,
+      "end": 122.52,
+      "confidence": 1.0,
+      "time": 115.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¿Cuánto aún, cuánto dista Canaán?",
+      "words": [
+        {
+          "word": "cuánto",
+          "start": 122.52,
+          "end": 123.22
+        },
+        {
+          "word": "aún,",
+          "start": 123.22,
+          "end": 123.92
+        },
+        {
+          "word": "cuánto",
+          "start": 124.04,
+          "end": 125.18
+        },
+        {
+          "word": "destacan.",
+          "start": 125.18,
+          "end": 127.76
+        }
+      ],
+      "start": 122.52,
+      "end": 127.76,
+      "confidence": 0.754,
+      "time": 122.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Oh, cuán dulce el descanso ha de ser en nuestro hogar!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "O",
+          "start": 130.66,
+          "end": 131.74
+        },
+        {
+          "word": "cuándo",
+          "start": 131.74,
+          "end": 132.58
+        },
+        {
+          "word": "el",
+          "start": 132.58,
+          "end": 133.22
+        },
+        {
+          "word": "descanso",
+          "start": 133.22,
+          "end": 134.5
+        },
+        {
+          "word": "ha",
+          "start": 134.5,
+          "end": 134.92
+        },
+        {
+          "word": "de",
+          "start": 134.92,
+          "end": 135.3
+        },
+        {
+          "word": "ser",
+          "start": 135.3,
+          "end": 135.58
+        },
+        {
+          "word": "en",
+          "start": 135.58,
+          "end": 135.98
+        },
+        {
+          "word": "nuestro",
+          "start": 135.98,
+          "end": 136.44
+        },
+        {
+          "word": "hogar,",
+          "start": 136.44,
+          "end": 137.48
+        }
+      ],
+      "start": 130.66,
+      "end": 137.7,
+      "confidence": 0.885,
+      "time": 130.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Ya se acerca Canaán! ¡Ya se acerca Canaán,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ya",
+          "start": 137.7,
+          "end": 137.94
+        },
+        {
+          "word": "se",
+          "start": 137.94,
+          "end": 138.22
+        },
+        {
+          "word": "acerca",
+          "start": 138.22,
+          "end": 138.98
+        },
+        {
+          "word": "Canaán,",
+          "start": 139.58,
+          "end": 140.66
+        },
+        {
+          "word": "ya",
+          "start": 140.66,
+          "end": 141.02
+        },
+        {
+          "word": "se",
+          "start": 141.02,
+          "end": 141.22
+        },
+        {
+          "word": "acerca",
+          "start": 141.22,
+          "end": 141.84
+        },
+        {
+          "word": "Canaán,",
+          "start": 142.06,
+          "end": 143.54
+        }
+      ],
+      "start": 137.7,
+      "end": 143.54,
+      "confidence": 1.0,
+      "time": 137.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "donde todas nuestras penas ya no volverán jamás!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "donde",
+          "start": 143.66,
+          "end": 144.3
+        },
+        {
+          "word": "todas",
+          "start": 144.3,
+          "end": 145.18
+        },
+        {
+          "word": "nuestras",
+          "start": 145.18,
+          "end": 145.86
+        },
+        {
+          "word": "penas",
+          "start": 145.86,
+          "end": 146.66
+        },
+        {
+          "word": "ya",
+          "start": 146.66,
+          "end": 147.2
+        },
+        {
+          "word": "no",
+          "start": 147.2,
+          "end": 147.56
+        },
+        {
+          "word": "volverán",
+          "start": 147.56,
+          "end": 148.48
+        },
+        {
+          "word": "jamás,",
+          "start": 148.48,
+          "end": 149.54
+        }
+      ],
+      "start": 143.66,
+      "end": 150.06,
+      "confidence": 1.0,
+      "time": 143.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Cerca ya, ya se acerca Canaán!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "cerca",
+          "start": 150.06,
+          "end": 150.6
+        },
+        {
+          "word": "ya,",
+          "start": 150.6,
+          "end": 151.38
+        },
+        {
+          "word": "ya",
+          "start": 151.74,
+          "end": 152.18
+        },
+        {
+          "word": "se",
+          "start": 152.18,
+          "end": 152.36
+        },
+        {
+          "word": "acerca",
+          "start": 152.36,
+          "end": 152.94
+        },
+        {
+          "word": "Canaán.",
+          "start": 153.2,
+          "end": 156.7
+        }
+      ],
+      "start": 150.06,
+      "end": 156.7,
+      "confidence": 1.0,
+      "time": 150.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Muy cansados, tan cansados,",
+      "words": [
+        {
+          "word": "Muy",
+          "start": 156.7,
+          "end": 157.74
+        },
+        {
+          "word": "cansados,",
+          "start": 157.74,
+          "end": 160.36
+        },
+        {
+          "word": "tan",
+          "start": 160.42,
+          "end": 161.04
+        },
+        {
+          "word": "cansados,",
+          "start": 161.04,
+          "end": 163.34
+        }
+      ],
+      "start": 156.7,
+      "end": 163.78,
+      "confidence": 1.0,
+      "time": 156.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "muy cansados de vagar",
+      "words": [
+        {
+          "word": "muy",
+          "start": 163.78,
+          "end": 164.0
+        },
+        {
+          "word": "cansados",
+          "start": 164.0,
+          "end": 165.02
+        },
+        {
+          "word": "de",
+          "start": 165.02,
+          "end": 165.6
+        },
+        {
+          "word": "vagar",
+          "start": 165.6,
+          "end": 166.16
+        }
+      ],
+      "start": 163.78,
+      "end": 166.16,
+      "confidence": 1.0,
+      "time": 163.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "por el desierto estamos ya.",
+      "words": [
+        {
+          "word": "por",
+          "start": 166.16,
+          "end": 166.74
+        },
+        {
+          "word": "el",
+          "start": 166.74,
+          "end": 167.12
+        },
+        {
+          "word": "desierto",
+          "start": 167.12,
+          "end": 167.68
+        }
+      ],
+      "start": 166.16,
+      "end": 169.4,
+      "confidence": 0.6,
+      "time": 166.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Muy cansados, tan cansados.",
+      "words": [
+        {
+          "word": "Muy",
+          "start": 169.6,
+          "end": 170.14
+        },
+        {
+          "word": "cansados,",
+          "start": 170.14,
+          "end": 172.56
+        },
+        {
+          "word": "tan",
+          "start": 172.8,
+          "end": 173.28
+        },
+        {
+          "word": "cansados,",
+          "start": 173.28,
+          "end": 175.62
+        }
+      ],
+      "start": 169.6,
+      "end": 176.14,
+      "confidence": 1.0,
+      "time": 169.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¿Cuánto aún, cuánto dista Canaán?",
+      "words": [
+        {
+          "word": "cuanto",
+          "start": 176.14,
+          "end": 176.58
+        },
+        {
+          "word": "aún,",
+          "start": 176.58,
+          "end": 177.42
+        },
+        {
+          "word": "cuanto",
+          "start": 178.04,
+          "end": 178.3
+        }
+      ],
+      "start": 176.14,
+      "end": 181.1,
+      "confidence": 0.6,
+      "time": 176.14
+    }
+  ]
+}

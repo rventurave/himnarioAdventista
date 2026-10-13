@@ -1,0 +1,818 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.9,
+  "language": "es",
+  "model": "medium",
+  "hymn": 320,
+  "source": "320 - Jamas se dice adios alla.mp3",
+  "duration": 133.17,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cuán grato es con amigos vernos",
+      "verse": 1,
+      "words": [
+        {
+          "word": "gratos,",
+          "start": 10.42,
+          "end": 11.5
+        },
+        {
+          "word": "con",
+          "start": 12.06,
+          "end": 12.5
+        },
+        {
+          "word": "amigos,",
+          "start": 12.5,
+          "end": 13.78
+        },
+        {
+          "word": "vernos",
+          "start": 14.18,
+          "end": 14.72
+        }
+      ],
+      "start": 10.42,
+      "end": 14.72,
+      "confidence": 0.657,
+      "time": 10.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en tiempo tan veloz;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 14.72,
+          "end": 15.16
+        },
+        {
+          "word": "tiempo",
+          "start": 15.16,
+          "end": 16.16
+        },
+        {
+          "word": "tan",
+          "start": 16.16,
+          "end": 17.16
+        },
+        {
+          "word": "veloz,",
+          "start": 17.16,
+          "end": 19.36
+        }
+      ],
+      "start": 14.72,
+      "end": 19.36,
+      "confidence": 1.0,
+      "time": 14.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mas siempre llega el día triste",
+      "verse": 1,
+      "words": [
+        {
+          "word": "más",
+          "start": 19.68,
+          "end": 19.98
+        },
+        {
+          "word": "siempre",
+          "start": 19.98,
+          "end": 21.1
+        },
+        {
+          "word": "llega",
+          "start": 21.1,
+          "end": 22.1
+        },
+        {
+          "word": "el",
+          "start": 22.1,
+          "end": 22.62
+        },
+        {
+          "word": "día",
+          "start": 22.62,
+          "end": 23.44
+        },
+        {
+          "word": "triste",
+          "start": 23.44,
+          "end": 24.2
+        }
+      ],
+      "start": 19.68,
+      "end": 24.2,
+      "confidence": 1.0,
+      "time": 19.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en que se dice \"adiós\".",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 24.2,
+          "end": 24.78
+        },
+        {
+          "word": "que",
+          "start": 24.78,
+          "end": 25.44
+        },
+        {
+          "word": "se",
+          "start": 25.44,
+          "end": 26.06
+        },
+        {
+          "word": "dice",
+          "start": 26.06,
+          "end": 26.9
+        },
+        {
+          "word": "adiós.",
+          "start": 26.9,
+          "end": 28.96
+        }
+      ],
+      "start": 24.2,
+      "end": 28.96,
+      "confidence": 1.0,
+      "time": 24.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Jamás se dice \"adiós\" allá,",
+      "words": [
+        {
+          "word": "Jamás",
+          "start": 28.96,
+          "end": 30.28
+        },
+        {
+          "word": "se",
+          "start": 30.28,
+          "end": 30.88
+        },
+        {
+          "word": "dice",
+          "start": 30.88,
+          "end": 31.7
+        },
+        {
+          "word": "adiós",
+          "start": 31.7,
+          "end": 33.02
+        },
+        {
+          "word": "allá,",
+          "start": 33.02,
+          "end": 33.62
+        }
+      ],
+      "start": 28.96,
+      "end": 33.88,
+      "confidence": 1.0,
+      "time": 28.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "jamás se dice \"adiós\";",
+      "words": [
+        {
+          "word": "jamás",
+          "start": 33.88,
+          "end": 35.22
+        },
+        {
+          "word": "se",
+          "start": 35.22,
+          "end": 35.62
+        },
+        {
+          "word": "dice",
+          "start": 35.62,
+          "end": 36.44
+        },
+        {
+          "word": "adiós",
+          "start": 36.44,
+          "end": 38.72
+        }
+      ],
+      "start": 33.88,
+      "end": 38.72,
+      "confidence": 1.0,
+      "time": 33.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en el país de gozo y paz",
+      "words": [
+        {
+          "word": "en",
+          "start": 38.72,
+          "end": 39.42
+        },
+        {
+          "word": "el",
+          "start": 39.42,
+          "end": 40.1
+        },
+        {
+          "word": "país",
+          "start": 40.1,
+          "end": 41.1
+        },
+        {
+          "word": "de",
+          "start": 41.1,
+          "end": 41.7
+        },
+        {
+          "word": "gozo",
+          "start": 41.7,
+          "end": 42.54
+        },
+        {
+          "word": "y",
+          "start": 42.54,
+          "end": 42.72
+        },
+        {
+          "word": "paz,",
+          "start": 42.72,
+          "end": 44.34
+        }
+      ],
+      "start": 38.72,
+      "end": 45.02,
+      "confidence": 1.0,
+      "time": 38.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "jamás se dice \"adiós\".",
+      "words": [
+        {
+          "word": "jamás",
+          "start": 45.02,
+          "end": 45.78
+        },
+        {
+          "word": "se",
+          "start": 45.78,
+          "end": 46.42
+        },
+        {
+          "word": "dice",
+          "start": 46.42,
+          "end": 47.22
+        },
+        {
+          "word": "adiós.",
+          "start": 47.22,
+          "end": 49.44
+        }
+      ],
+      "start": 45.02,
+      "end": 49.44,
+      "confidence": 1.0,
+      "time": 45.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cuán dulce es el consuelo dado",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cuándo",
+          "start": 49.44,
+          "end": 50.68
+        },
+        {
+          "word": "el",
+          "start": 50.68,
+          "end": 50.86
+        },
+        {
+          "word": "consuelo",
+          "start": 51.72,
+          "end": 53.4
+        },
+        {
+          "word": "dado",
+          "start": 53.4,
+          "end": 54.0
+        }
+      ],
+      "start": 49.44,
+      "end": 54.0,
+      "confidence": 0.657,
+      "time": 49.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "por ellos al partir:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "por",
+          "start": 54.0,
+          "end": 54.94
+        },
+        {
+          "word": "el",
+          "start": 54.94,
+          "end": 55.5
+        },
+        {
+          "word": "al",
+          "start": 55.94,
+          "end": 56.52
+        },
+        {
+          "word": "partir,",
+          "start": 56.52,
+          "end": 58.38
+        }
+      ],
+      "start": 54.0,
+      "end": 59.18,
+      "confidence": 0.985,
+      "time": 54.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que cuando venga Cristo en gloria,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 59.18,
+          "end": 59.42
+        },
+        {
+          "word": "cuando",
+          "start": 59.42,
+          "end": 60.62
+        },
+        {
+          "word": "venga",
+          "start": 60.62,
+          "end": 61.66
+        },
+        {
+          "word": "Cristo",
+          "start": 61.66,
+          "end": 62.7
+        },
+        {
+          "word": "en",
+          "start": 62.7,
+          "end": 63.12
+        },
+        {
+          "word": "gloria",
+          "start": 63.12,
+          "end": 63.7
+        }
+      ],
+      "start": 59.18,
+      "end": 63.7,
+      "confidence": 1.0,
+      "time": 59.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "nos hemos de reunir.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "nos",
+          "start": 63.7,
+          "end": 64.48
+        },
+        {
+          "word": "hemos",
+          "start": 64.48,
+          "end": 65.28
+        },
+        {
+          "word": "de",
+          "start": 65.28,
+          "end": 66.26
+        },
+        {
+          "word": "reunir.",
+          "start": 66.26,
+          "end": 68.26
+        }
+      ],
+      "start": 63.7,
+      "end": 68.26,
+      "confidence": 1.0,
+      "time": 63.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Jamás se dice \"adiós\" allá,",
+      "words": [
+        {
+          "word": "Jamás",
+          "start": 68.26,
+          "end": 69.76
+        },
+        {
+          "word": "se",
+          "start": 69.76,
+          "end": 70.3
+        },
+        {
+          "word": "dice",
+          "start": 70.3,
+          "end": 71.08
+        },
+        {
+          "word": "adiós",
+          "start": 71.08,
+          "end": 72.4
+        },
+        {
+          "word": "allá,",
+          "start": 72.4,
+          "end": 73.1
+        }
+      ],
+      "start": 68.26,
+      "end": 73.32,
+      "confidence": 1.0,
+      "time": 68.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "jamás se dice \"adiós\";",
+      "words": [
+        {
+          "word": "jamás",
+          "start": 73.32,
+          "end": 74.82
+        },
+        {
+          "word": "se",
+          "start": 74.82,
+          "end": 75.1
+        },
+        {
+          "word": "dice",
+          "start": 75.1,
+          "end": 76.0
+        },
+        {
+          "word": "adiós,",
+          "start": 76.0,
+          "end": 78.24
+        }
+      ],
+      "start": 73.32,
+      "end": 78.24,
+      "confidence": 1.0,
+      "time": 73.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en el país de gozo y paz",
+      "words": [
+        {
+          "word": "en",
+          "start": 78.68,
+          "end": 79.32
+        },
+        {
+          "word": "el",
+          "start": 79.32,
+          "end": 79.84
+        },
+        {
+          "word": "país",
+          "start": 79.84,
+          "end": 80.58
+        },
+        {
+          "word": "de",
+          "start": 80.58,
+          "end": 81.12
+        }
+      ],
+      "start": 78.68,
+      "end": 84.24,
+      "confidence": 0.571,
+      "time": 78.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "jamás se dice \"adiós\".",
+      "words": [
+        {
+          "word": "jamás",
+          "start": 84.24,
+          "end": 85.38
+        },
+        {
+          "word": "se",
+          "start": 85.38,
+          "end": 85.96
+        },
+        {
+          "word": "dice",
+          "start": 85.96,
+          "end": 86.74
+        },
+        {
+          "word": "adiós.",
+          "start": 86.74,
+          "end": 88.84
+        }
+      ],
+      "start": 84.24,
+      "end": 88.84,
+      "confidence": 1.0,
+      "time": 84.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Jamás habrá una despedida,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jamás",
+          "start": 88.84,
+          "end": 90.4
+        },
+        {
+          "word": "habrá",
+          "start": 90.4,
+          "end": 91.4
+        },
+        {
+          "word": "un",
+          "start": 91.4,
+          "end": 91.98
+        },
+        {
+          "word": "de",
+          "start": 92.6,
+          "end": 92.98
+        }
+      ],
+      "start": 88.84,
+      "end": 93.62,
+      "confidence": 0.97,
+      "time": 88.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "tan dolorosa aquí;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tan",
+          "start": 93.62,
+          "end": 94.24
+        },
+        {
+          "word": "rosa",
+          "start": 95.9,
+          "end": 96.36
+        },
+        {
+          "word": "aquí,",
+          "start": 96.36,
+          "end": 98.04
+        }
+      ],
+      "start": 93.62,
+      "end": 98.04,
+      "confidence": 0.933,
+      "time": 93.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "mas grata unión y paz eterna",
+      "verse": 3,
+      "words": [
+        {
+          "word": "más",
+          "start": 98.62,
+          "end": 98.94
+        },
+        {
+          "word": "unión",
+          "start": 99.88,
+          "end": 101.02
+        },
+        {
+          "word": "y",
+          "start": 101.02,
+          "end": 101.6
+        },
+        {
+          "word": "paz",
+          "start": 101.6,
+          "end": 102.22
+        },
+        {
+          "word": "eternas",
+          "start": 102.22,
+          "end": 103.48
+        }
+      ],
+      "start": 98.62,
+      "end": 103.48,
+      "confidence": 0.823,
+      "time": 98.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "se gozarán allí.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "se",
+          "start": 103.48,
+          "end": 103.94
+        },
+        {
+          "word": "gozarán",
+          "start": 103.94,
+          "end": 105.92
+        },
+        {
+          "word": "allí.",
+          "start": 105.92,
+          "end": 107.54
+        }
+      ],
+      "start": 103.48,
+      "end": 107.54,
+      "confidence": 1.0,
+      "time": 103.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Jamás se dice \"adiós\" allá,",
+      "words": [
+        {
+          "word": "jamás",
+          "start": 107.54,
+          "end": 109.5
+        },
+        {
+          "word": "se",
+          "start": 109.5,
+          "end": 109.88
+        },
+        {
+          "word": "a",
+          "start": 110.74,
+          "end": 111.06
+        },
+        {
+          "word": "allá,",
+          "start": 111.72,
+          "end": 112.7
+        }
+      ],
+      "start": 107.54,
+      "end": 112.88,
+      "confidence": 0.788,
+      "time": 107.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "jamás se dice \"adiós\";",
+      "words": [
+        {
+          "word": "jamás",
+          "start": 112.88,
+          "end": 114.38
+        },
+        {
+          "word": "se",
+          "start": 114.38,
+          "end": 114.84
+        },
+        {
+          "word": "a",
+          "start": 115.54,
+          "end": 115.92
+        }
+      ],
+      "start": 112.88,
+      "end": 117.44,
+      "confidence": 0.735,
+      "time": 112.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en el país de gozo y paz",
+      "words": [
+        {
+          "word": "en",
+          "start": 117.44,
+          "end": 118.44
+        },
+        {
+          "word": "el",
+          "start": 118.44,
+          "end": 119.04
+        },
+        {
+          "word": "país",
+          "start": 119.04,
+          "end": 120.1
+        },
+        {
+          "word": "de",
+          "start": 120.1,
+          "end": 120.72
+        },
+        {
+          "word": "gozo",
+          "start": 120.72,
+          "end": 121.6
+        },
+        {
+          "word": "y",
+          "start": 121.6,
+          "end": 123.14
+        },
+        {
+          "word": "paz,",
+          "start": 123.14,
+          "end": 123.48
+        }
+      ],
+      "start": 117.44,
+      "end": 124.16,
+      "confidence": 1.0,
+      "time": 117.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "jamás se dice \"adiós\".",
+      "words": [
+        {
+          "word": "jamás",
+          "start": 124.16,
+          "end": 125.3
+        },
+        {
+          "word": "se",
+          "start": 125.3,
+          "end": 125.66
+        },
+        {
+          "word": "a",
+          "start": 126.74,
+          "end": 127.12
+        }
+      ],
+      "start": 124.16,
+      "end": 129.0,
+      "confidence": 0.735,
+      "time": 124.16
+    }
+  ]
+}

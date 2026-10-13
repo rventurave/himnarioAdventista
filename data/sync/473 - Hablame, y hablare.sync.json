@@ -1,0 +1,446 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.971,
+  "language": "es",
+  "model": "medium",
+  "hymn": 473,
+  "source": "473 - Hablame, y hablare.mp3",
+  "duration": 82.99,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Oh, háblame, y hablaré",
+      "verse": 1,
+      "words": [
+        {
+          "word": "O,",
+          "start": 10.92,
+          "end": 12.32
+        },
+        {
+          "word": "háblame",
+          "start": 13.52,
+          "end": 14.48
+        },
+        {
+          "word": "y",
+          "start": 14.48,
+          "end": 15.54
+        },
+        {
+          "word": "hablaré,",
+          "start": 15.54,
+          "end": 17.32
+        }
+      ],
+      "start": 10.92,
+      "end": 17.72,
+      "confidence": 0.95,
+      "time": 10.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cual eco vivo de tu voz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cuál",
+          "start": 17.72,
+          "end": 18.16
+        },
+        {
+          "word": "eco",
+          "start": 18.16,
+          "end": 19.3
+        },
+        {
+          "word": "vivo",
+          "start": 19.3,
+          "end": 20.46
+        },
+        {
+          "word": "de",
+          "start": 20.46,
+          "end": 21.32
+        },
+        {
+          "word": "tu",
+          "start": 21.32,
+          "end": 22.02
+        },
+        {
+          "word": "voz,",
+          "start": 22.02,
+          "end": 22.52
+        }
+      ],
+      "start": 17.72,
+      "end": 22.64,
+      "confidence": 1.0,
+      "time": 17.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tal como me buscaste tú,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tal",
+          "start": 22.64,
+          "end": 23.3
+        },
+        {
+          "word": "como",
+          "start": 23.3,
+          "end": 24.42
+        },
+        {
+          "word": "me",
+          "start": 24.42,
+          "end": 25.42
+        },
+        {
+          "word": "buscaste",
+          "start": 25.42,
+          "end": 27.32
+        },
+        {
+          "word": "tú,",
+          "start": 27.32,
+          "end": 27.84
+        }
+      ],
+      "start": 22.64,
+      "end": 27.84,
+      "confidence": 1.0,
+      "time": 22.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "iré tras quien errante va.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "iré",
+          "start": 27.84,
+          "end": 29.62
+        },
+        {
+          "word": "tras",
+          "start": 29.62,
+          "end": 30.02
+        },
+        {
+          "word": "quien",
+          "start": 30.02,
+          "end": 30.98
+        },
+        {
+          "word": "errante",
+          "start": 30.98,
+          "end": 32.78
+        },
+        {
+          "word": "va.",
+          "start": 32.78,
+          "end": 33.96
+        }
+      ],
+      "start": 27.84,
+      "end": 33.96,
+      "confidence": 1.0,
+      "time": 27.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Oh, guíame, y guiaré",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 34.9,
+          "end": 35.58
+        },
+        {
+          "word": "guíame",
+          "start": 36.14,
+          "end": 37.16
+        },
+        {
+          "word": "y",
+          "start": 37.16,
+          "end": 38.12
+        },
+        {
+          "word": "guiaré",
+          "start": 38.12,
+          "end": 40.14
+        }
+      ],
+      "start": 34.9,
+      "end": 40.14,
+      "confidence": 1.0,
+      "time": 34.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "al pie que vacilante va.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 40.14,
+          "end": 40.72
+        },
+        {
+          "word": "pie",
+          "start": 40.72,
+          "end": 41.36
+        },
+        {
+          "word": "que",
+          "start": 41.36,
+          "end": 42.14
+        },
+        {
+          "word": "vacilante",
+          "start": 42.14,
+          "end": 44.64
+        },
+        {
+          "word": "va.",
+          "start": 44.64,
+          "end": 45.18
+        }
+      ],
+      "start": 40.14,
+      "end": 45.18,
+      "confidence": 1.0,
+      "time": 40.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Susténtame, y yo daré",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Susténtame",
+          "start": 46.58,
+          "end": 47.98
+        },
+        {
+          "word": "y",
+          "start": 47.98,
+          "end": 48.78
+        },
+        {
+          "word": "yo",
+          "start": 48.78,
+          "end": 49.5
+        },
+        {
+          "word": "daré",
+          "start": 49.5,
+          "end": 50.78
+        }
+      ],
+      "start": 46.58,
+      "end": 50.78,
+      "confidence": 1.0,
+      "time": 46.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "maná al que hambriento está.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mano",
+          "start": 50.78,
+          "end": 52.06
+        },
+        {
+          "word": "al",
+          "start": 52.06,
+          "end": 52.82
+        },
+        {
+          "word": "que",
+          "start": 52.82,
+          "end": 53.62
+        },
+        {
+          "word": "hambre",
+          "start": 53.62,
+          "end": 54.6
+        },
+        {
+          "word": "escar.",
+          "start": 55.28,
+          "end": 56.68
+        }
+      ],
+      "start": 50.78,
+      "end": 56.68,
+      "confidence": 0.9,
+      "time": 50.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Oh, afírmame, y ayudaré",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Afírmame",
+          "start": 58.5,
+          "end": 59.9
+        },
+        {
+          "word": "y",
+          "start": 59.9,
+          "end": 60.7
+        },
+        {
+          "word": "ayudaré",
+          "start": 60.7,
+          "end": 62.56
+        }
+      ],
+      "start": 58.5,
+      "end": 62.56,
+      "confidence": 0.75,
+      "time": 58.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a estar en pie en Roca fiel.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 62.56,
+          "end": 63.34
+        },
+        {
+          "word": "estar",
+          "start": 63.34,
+          "end": 64.28
+        },
+        {
+          "word": "en",
+          "start": 64.28,
+          "end": 64.94
+        },
+        {
+          "word": "pie",
+          "start": 64.94,
+          "end": 66.02
+        },
+        {
+          "word": "en",
+          "start": 66.02,
+          "end": 66.44
+        },
+        {
+          "word": "roca",
+          "start": 66.44,
+          "end": 67.4
+        },
+        {
+          "word": "fiel,",
+          "start": 67.4,
+          "end": 68.1
+        }
+      ],
+      "start": 62.56,
+      "end": 68.44,
+      "confidence": 1.0,
+      "time": 62.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Sostenme, y extenderé",
+      "verse": 3,
+      "words": [
+        {
+          "word": "sosténme",
+          "start": 68.44,
+          "end": 70.24
+        },
+        {
+          "word": "y",
+          "start": 70.24,
+          "end": 71.42
+        },
+        {
+          "word": "extendré",
+          "start": 71.42,
+          "end": 73.32
+        }
+      ],
+      "start": 68.44,
+      "end": 73.32,
+      "confidence": 0.988,
+      "time": 68.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mi mano a quien va a caer.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mi",
+          "start": 73.32,
+          "end": 74.14
+        },
+        {
+          "word": "mano",
+          "start": 74.14,
+          "end": 75.36
+        },
+        {
+          "word": "a",
+          "start": 75.36,
+          "end": 76.16
+        },
+        {
+          "word": "quien",
+          "start": 76.16,
+          "end": 76.8
+        },
+        {
+          "word": "va",
+          "start": 76.8,
+          "end": 77.62
+        },
+        {
+          "word": "a",
+          "start": 77.62,
+          "end": 78.02
+        },
+        {
+          "word": "caer.",
+          "start": 78.02,
+          "end": 80.7
+        }
+      ],
+      "start": 73.32,
+      "end": 80.7,
+      "confidence": 1.0,
+      "time": 73.32
+    }
+  ]
+}

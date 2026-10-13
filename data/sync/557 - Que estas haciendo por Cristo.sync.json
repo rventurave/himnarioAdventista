@@ -1,0 +1,898 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.935,
+  "language": "es",
+  "model": "medium",
+  "hymn": 557,
+  "source": "557 - Que estas haciendo por Cristo.mp3",
+  "duration": 159.09,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Qué estás haciendo por Cristo",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¿Qué",
+          "start": 8.87,
+          "end": 9.5
+        },
+        {
+          "word": "estás",
+          "start": 9.5,
+          "end": 10.04
+        },
+        {
+          "word": "haciendo",
+          "start": 10.04,
+          "end": 10.68
+        },
+        {
+          "word": "por",
+          "start": 10.68,
+          "end": 11.26
+        },
+        {
+          "word": "Cristo",
+          "start": 11.26,
+          "end": 12.72
+        }
+      ],
+      "start": 8.87,
+      "end": 12.72,
+      "confidence": 1.0,
+      "time": 8.87
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mientras vida él te da?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "mientras",
+          "start": 12.72,
+          "end": 14.12
+        },
+        {
+          "word": "vida",
+          "start": 14.12,
+          "end": 14.7
+        },
+        {
+          "word": "te",
+          "start": 14.7,
+          "end": 15.32
+        }
+      ],
+      "start": 12.72,
+      "end": 16.66,
+      "confidence": 0.6,
+      "time": 12.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Sembrando estás su Palabra",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Sembrando",
+          "start": 17.2,
+          "end": 18.0
+        },
+        {
+          "word": "esta",
+          "start": 18.0,
+          "end": 18.42
+        },
+        {
+          "word": "Su",
+          "start": 18.42,
+          "end": 18.84
+        },
+        {
+          "word": "Palabra",
+          "start": 18.84,
+          "end": 20.92
+        }
+      ],
+      "start": 17.2,
+      "end": 20.92,
+      "confidence": 0.985,
+      "time": 17.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "o te hallas durmiendo quizá?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "te",
+          "start": 20.92,
+          "end": 21.54
+        },
+        {
+          "word": "hallas",
+          "start": 21.54,
+          "end": 21.98
+        },
+        {
+          "word": "durmiendo",
+          "start": 21.98,
+          "end": 22.82
+        },
+        {
+          "word": "aquí",
+          "start": 22.82,
+          "end": 23.38
+        }
+      ],
+      "start": 20.92,
+      "end": 24.64,
+      "confidence": 0.76,
+      "time": 20.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¿Qué estás haciendo hoy para Cristo?",
+      "words": [
+        {
+          "word": "¿Qué",
+          "start": 24.64,
+          "end": 26.14
+        },
+        {
+          "word": "estás",
+          "start": 26.14,
+          "end": 26.94
+        },
+        {
+          "word": "haciendo",
+          "start": 26.94,
+          "end": 28.78
+        },
+        {
+          "word": "hoy",
+          "start": 28.78,
+          "end": 30.18
+        },
+        {
+          "word": "para",
+          "start": 30.18,
+          "end": 31.2
+        },
+        {
+          "word": "Cristo?",
+          "start": 31.2,
+          "end": 32.84
+        }
+      ],
+      "start": 24.64,
+      "end": 33.18,
+      "confidence": 1.0,
+      "time": 24.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¿Qué estás haciendo? ¿Hoy esperarás?",
+      "words": [
+        {
+          "word": "¿Qué",
+          "start": 33.18,
+          "end": 34.16
+        },
+        {
+          "word": "estás",
+          "start": 34.16,
+          "end": 34.92
+        },
+        {
+          "word": "haciendo",
+          "start": 34.92,
+          "end": 36.78
+        },
+        {
+          "word": "hoy?",
+          "start": 36.78,
+          "end": 38.04
+        },
+        {
+          "word": "Esperarás.",
+          "start": 39.68,
+          "end": 41.08
+        }
+      ],
+      "start": 33.18,
+      "end": 41.08,
+      "confidence": 1.0,
+      "time": 33.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¿Qué estás haciendo hoy para Cristo?",
+      "words": [
+        {
+          "word": "¿Qué",
+          "start": 41.08,
+          "end": 42.18
+        },
+        {
+          "word": "estás",
+          "start": 42.18,
+          "end": 42.98
+        },
+        {
+          "word": "haciendo",
+          "start": 42.98,
+          "end": 44.82
+        },
+        {
+          "word": "hoy",
+          "start": 44.82,
+          "end": 46.14
+        },
+        {
+          "word": "para",
+          "start": 46.14,
+          "end": 47.22
+        },
+        {
+          "word": "Cristo?",
+          "start": 47.22,
+          "end": 48.78
+        }
+      ],
+      "start": 41.08,
+      "end": 48.78,
+      "confidence": 1.0,
+      "time": 41.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Te dio su gracia; tú ¿qué le darás?",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 50.2,
+          "end": 50.8
+        },
+        {
+          "word": "su",
+          "start": 50.8,
+          "end": 51.24
+        },
+        {
+          "word": "gracia",
+          "start": 51.24,
+          "end": 53.02
+        },
+        {
+          "word": "tú",
+          "start": 53.02,
+          "end": 53.86
+        },
+        {
+          "word": "que",
+          "start": 53.86,
+          "end": 54.38
+        },
+        {
+          "word": "le",
+          "start": 54.38,
+          "end": 55.04
+        },
+        {
+          "word": "darás.",
+          "start": 55.04,
+          "end": 57.14
+        }
+      ],
+      "start": 50.2,
+      "end": 57.14,
+      "confidence": 0.868,
+      "time": 50.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Qué estás haciendo por Cristo,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¿Qué",
+          "start": 58.04,
+          "end": 58.46
+        },
+        {
+          "word": "estás",
+          "start": 58.46,
+          "end": 59.04
+        },
+        {
+          "word": "haciendo",
+          "start": 59.04,
+          "end": 59.74
+        },
+        {
+          "word": "por",
+          "start": 59.74,
+          "end": 60.44
+        },
+        {
+          "word": "Cristo,",
+          "start": 60.44,
+          "end": 61.84
+        }
+      ],
+      "start": 58.04,
+      "end": 62.42,
+      "confidence": 1.0,
+      "time": 58.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu gran Rey y Señor?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tu",
+          "start": 62.42,
+          "end": 62.86
+        },
+        {
+          "word": "gran",
+          "start": 62.86,
+          "end": 63.26
+        },
+        {
+          "word": "Rey",
+          "start": 63.26,
+          "end": 63.9
+        },
+        {
+          "word": "y",
+          "start": 63.9,
+          "end": 64.42
+        },
+        {
+          "word": "Señor?",
+          "start": 64.42,
+          "end": 65.66
+        }
+      ],
+      "start": 62.42,
+      "end": 65.66,
+      "confidence": 1.0,
+      "time": 62.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Cuidas el alma afligida",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cuidas",
+          "start": 65.66,
+          "end": 66.8
+        },
+        {
+          "word": "el",
+          "start": 66.8,
+          "end": 67.26
+        },
+        {
+          "word": "alma",
+          "start": 67.26,
+          "end": 67.74
+        },
+        {
+          "word": "afligida",
+          "start": 67.74,
+          "end": 69.78
+        }
+      ],
+      "start": 65.66,
+      "end": 69.78,
+      "confidence": 1.0,
+      "time": 65.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con gracia, ternura y amor?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "con",
+          "start": 69.78,
+          "end": 70.28
+        },
+        {
+          "word": "gracia,",
+          "start": 70.28,
+          "end": 70.82
+        },
+        {
+          "word": "y",
+          "start": 71.54,
+          "end": 71.86
+        },
+        {
+          "word": "amor.",
+          "start": 71.86,
+          "end": 73.66
+        }
+      ],
+      "start": 69.78,
+      "end": 73.66,
+      "confidence": 0.8,
+      "time": 69.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¿Qué estás haciendo hoy para Cristo?",
+      "words": [
+        {
+          "word": "¿Qué",
+          "start": 74.2,
+          "end": 75.14
+        },
+        {
+          "word": "estás",
+          "start": 75.14,
+          "end": 75.94
+        },
+        {
+          "word": "haciendo",
+          "start": 75.94,
+          "end": 77.92
+        },
+        {
+          "word": "hoy",
+          "start": 77.92,
+          "end": 79.2
+        },
+        {
+          "word": "para",
+          "start": 79.2,
+          "end": 80.2
+        },
+        {
+          "word": "Cristo?",
+          "start": 80.2,
+          "end": 81.66
+        }
+      ],
+      "start": 74.2,
+      "end": 81.66,
+      "confidence": 1.0,
+      "time": 74.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¿Qué estás haciendo? ¿Hoy esperarás?",
+      "words": [
+        {
+          "word": "¿Qué",
+          "start": 82.1,
+          "end": 83.12
+        },
+        {
+          "word": "estás",
+          "start": 83.12,
+          "end": 83.92
+        },
+        {
+          "word": "haciendo",
+          "start": 83.92,
+          "end": 85.84
+        },
+        {
+          "word": "hoy?",
+          "start": 85.84,
+          "end": 87.0
+        },
+        {
+          "word": "Esperarás.",
+          "start": 88.44,
+          "end": 89.84
+        }
+      ],
+      "start": 82.1,
+      "end": 89.84,
+      "confidence": 1.0,
+      "time": 82.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¿Qué estás haciendo hoy para Cristo?",
+      "words": [
+        {
+          "word": "¿Qué",
+          "start": 89.84,
+          "end": 91.06
+        },
+        {
+          "word": "estás",
+          "start": 91.06,
+          "end": 91.92
+        },
+        {
+          "word": "haciendo",
+          "start": 91.92,
+          "end": 93.92
+        },
+        {
+          "word": "hoy",
+          "start": 93.92,
+          "end": 95.16
+        },
+        {
+          "word": "para",
+          "start": 95.16,
+          "end": 96.24
+        },
+        {
+          "word": "Cristo?",
+          "start": 96.24,
+          "end": 97.84
+        }
+      ],
+      "start": 89.84,
+      "end": 97.84,
+      "confidence": 1.0,
+      "time": 89.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Te dio su gracia; tú ¿qué le darás?",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 99.22,
+          "end": 99.82
+        },
+        {
+          "word": "su",
+          "start": 99.82,
+          "end": 100.3
+        },
+        {
+          "word": "gracia",
+          "start": 100.3,
+          "end": 102.1
+        },
+        {
+          "word": "tú",
+          "start": 102.1,
+          "end": 102.86
+        },
+        {
+          "word": "que",
+          "start": 102.86,
+          "end": 103.22
+        },
+        {
+          "word": "le",
+          "start": 103.22,
+          "end": 103.98
+        },
+        {
+          "word": "darás.",
+          "start": 103.98,
+          "end": 106.44
+        }
+      ],
+      "start": 99.22,
+      "end": 106.44,
+      "confidence": 0.868,
+      "time": 99.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¿Qué estás haciendo por Cristo?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "¿Qué",
+          "start": 108.12,
+          "end": 108.5
+        },
+        {
+          "word": "estás",
+          "start": 108.5,
+          "end": 109.06
+        },
+        {
+          "word": "haciendo",
+          "start": 109.06,
+          "end": 109.8
+        },
+        {
+          "word": "por",
+          "start": 109.8,
+          "end": 110.4
+        },
+        {
+          "word": "Cristo?",
+          "start": 110.4,
+          "end": 111.6
+        }
+      ],
+      "start": 108.12,
+      "end": 111.6,
+      "confidence": 1.0,
+      "time": 108.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Pronto anochecerá.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Pronto",
+          "start": 112.48,
+          "end": 113.12
+        },
+        {
+          "word": "anochecerá.",
+          "start": 113.12,
+          "end": 115.86
+        }
+      ],
+      "start": 112.48,
+      "end": 115.86,
+      "confidence": 1.0,
+      "time": 112.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Ven sin tardar y trabaja,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Ven",
+          "start": 115.86,
+          "end": 116.54
+        },
+        {
+          "word": "sin",
+          "start": 116.54,
+          "end": 116.9
+        },
+        {
+          "word": "tardar",
+          "start": 116.9,
+          "end": 117.72
+        },
+        {
+          "word": "y",
+          "start": 117.72,
+          "end": 118.02
+        },
+        {
+          "word": "trabaja,",
+          "start": 118.02,
+          "end": 119.8
+        }
+      ],
+      "start": 115.86,
+      "end": 120.0,
+      "confidence": 1.0,
+      "time": 115.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pues Cristo muy pronto vendrá.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 120.0,
+          "end": 120.24
+        },
+        {
+          "word": "Cristo",
+          "start": 120.24,
+          "end": 120.78
+        },
+        {
+          "word": "muy",
+          "start": 120.78,
+          "end": 121.26
+        },
+        {
+          "word": "pronto",
+          "start": 121.26,
+          "end": 121.84
+        },
+        {
+          "word": "vendrá.",
+          "start": 121.84,
+          "end": 123.74
+        }
+      ],
+      "start": 120.0,
+      "end": 123.74,
+      "confidence": 1.0,
+      "time": 120.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¿Qué estás haciendo hoy para Cristo?",
+      "words": [
+        {
+          "word": "¿Qué",
+          "start": 124.18,
+          "end": 125.12
+        },
+        {
+          "word": "estás",
+          "start": 125.12,
+          "end": 125.92
+        },
+        {
+          "word": "haciendo",
+          "start": 125.92,
+          "end": 127.96
+        },
+        {
+          "word": "hoy",
+          "start": 127.96,
+          "end": 129.22
+        },
+        {
+          "word": "para",
+          "start": 129.22,
+          "end": 130.2
+        },
+        {
+          "word": "Cristo?",
+          "start": 130.2,
+          "end": 131.54
+        }
+      ],
+      "start": 124.18,
+      "end": 131.54,
+      "confidence": 1.0,
+      "time": 124.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¿Qué estás haciendo? ¿Hoy esperarás?",
+      "words": [
+        {
+          "word": "¿Qué",
+          "start": 132.16,
+          "end": 133.1
+        },
+        {
+          "word": "estás",
+          "start": 133.1,
+          "end": 133.94
+        },
+        {
+          "word": "haciendo",
+          "start": 133.94,
+          "end": 135.68
+        },
+        {
+          "word": "hoy?",
+          "start": 135.68,
+          "end": 137.0
+        },
+        {
+          "word": "Esperarás.",
+          "start": 138.54,
+          "end": 139.94
+        }
+      ],
+      "start": 132.16,
+      "end": 139.94,
+      "confidence": 1.0,
+      "time": 132.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¿Qué estás haciendo hoy para Cristo?",
+      "words": [
+        {
+          "word": "¿Qué",
+          "start": 139.94,
+          "end": 141.16
+        },
+        {
+          "word": "estás",
+          "start": 141.16,
+          "end": 142.08
+        },
+        {
+          "word": "haciendo",
+          "start": 142.08,
+          "end": 143.8
+        },
+        {
+          "word": "hoy",
+          "start": 143.8,
+          "end": 145.1
+        },
+        {
+          "word": "para",
+          "start": 145.1,
+          "end": 146.22
+        },
+        {
+          "word": "Cristo?",
+          "start": 146.22,
+          "end": 147.72
+        }
+      ],
+      "start": 139.94,
+      "end": 147.72,
+      "confidence": 1.0,
+      "time": 139.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Te dio su gracia; tú ¿qué le darás?",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 149.22,
+          "end": 149.88
+        },
+        {
+          "word": "gracia,",
+          "start": 150.28,
+          "end": 152.04
+        },
+        {
+          "word": "tú",
+          "start": 152.7,
+          "end": 153.04
+        },
+        {
+          "word": "que",
+          "start": 153.04,
+          "end": 153.42
+        },
+        {
+          "word": "le",
+          "start": 153.42,
+          "end": 154.24
+        },
+        {
+          "word": "darás.",
+          "start": 154.24,
+          "end": 157.44
+        }
+      ],
+      "start": 149.22,
+      "end": 157.44,
+      "confidence": 0.742,
+      "time": 149.22
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.912,
+  "language": "es",
+  "model": "medium",
+  "hymn": 228,
+  "source": "228 - Me buscareis y me hallareis.mp3",
+  "duration": 69.69,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Me buscaréis y me hallaréis,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 29.98,
+          "end": 31.5
+        },
+        {
+          "word": "me",
+          "start": 31.5,
+          "end": 32.46
+        },
+        {
+          "word": "hallarés,",
+          "start": 32.46,
+          "end": 35.84
+        }
+      ],
+      "start": 29.98,
+      "end": 36.12,
+      "confidence": 0.593,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "porque me buscaréis",
+      "verse": 1,
+      "words": [
+        {
+          "word": "porque",
+          "start": 36.12,
+          "end": 37.26
+        },
+        {
+          "word": "me",
+          "start": 37.26,
+          "end": 38.14
+        },
+        {
+          "word": "buscaréis",
+          "start": 38.14,
+          "end": 39.76
+        }
+      ],
+      "start": 36.12,
+      "end": 39.76,
+      "confidence": 1.0,
+      "time": 36.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de todo vuestro corazón.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 39.76,
+          "end": 40.58
+        },
+        {
+          "word": "todo",
+          "start": 40.58,
+          "end": 41.46
+        },
+        {
+          "word": "vuestro",
+          "start": 41.46,
+          "end": 42.6
+        },
+        {
+          "word": "corazón.",
+          "start": 42.6,
+          "end": 45.02
+        }
+      ],
+      "start": 39.76,
+      "end": 45.02,
+      "confidence": 1.0,
+      "time": 39.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Me buscaréis y me hallaréis,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Me",
+          "start": 45.02,
+          "end": 46.26
+        },
+        {
+          "word": "buscaréis,",
+          "start": 46.26,
+          "end": 49.42
+        },
+        {
+          "word": "y",
+          "start": 49.96,
+          "end": 50.3
+        },
+        {
+          "word": "me",
+          "start": 50.3,
+          "end": 50.66
+        },
+        {
+          "word": "hallaréis,",
+          "start": 50.66,
+          "end": 54.6
+        }
+      ],
+      "start": 45.02,
+      "end": 55.08,
+      "confidence": 1.0,
+      "time": 45.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "porque me buscaréis",
+      "verse": 1,
+      "words": [
+        {
+          "word": "porque",
+          "start": 55.08,
+          "end": 55.84
+        },
+        {
+          "word": "me",
+          "start": 55.84,
+          "end": 56.74
+        },
+        {
+          "word": "buscaréis",
+          "start": 56.74,
+          "end": 58.44
+        }
+      ],
+      "start": 55.08,
+      "end": 58.44,
+      "confidence": 1.0,
+      "time": 55.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de todo corazón.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 58.44,
+          "end": 59.32
+        },
+        {
+          "word": "todo",
+          "start": 59.32,
+          "end": 60.28
+        },
+        {
+          "word": "corazón.",
+          "start": 60.28,
+          "end": 63.64
+        }
+      ],
+      "start": 58.44,
+      "end": 63.64,
+      "confidence": 1.0,
+      "time": 58.44
+    }
+  ]
+}

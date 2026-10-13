@@ -1,0 +1,873 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.996,
+  "language": "es",
+  "model": "medium",
+  "hymn": 362,
+  "source": "362 - Con sin igual amor.mp3",
+  "duration": 174.58,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Con sin igual amor Cristo me ama,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Con",
+          "start": 18.52,
+          "end": 19.92
+        },
+        {
+          "word": "sin",
+          "start": 19.92,
+          "end": 20.58
+        },
+        {
+          "word": "igual",
+          "start": 20.58,
+          "end": 21.68
+        },
+        {
+          "word": "amor",
+          "start": 21.68,
+          "end": 23.04
+        },
+        {
+          "word": "Crisco",
+          "start": 23.04,
+          "end": 23.76
+        },
+        {
+          "word": "me",
+          "start": 23.76,
+          "end": 24.54
+        },
+        {
+          "word": "amó",
+          "start": 24.54,
+          "end": 25.5
+        }
+      ],
+      "start": 18.52,
+      "end": 25.5,
+      "confidence": 0.957,
+      "time": 18.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "su dulce paz en mi alma derrama,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Su",
+          "start": 25.5,
+          "end": 26.32
+        },
+        {
+          "word": "dulce",
+          "start": 26.32,
+          "end": 27.08
+        },
+        {
+          "word": "paz",
+          "start": 27.08,
+          "end": 28.12
+        },
+        {
+          "word": "en",
+          "start": 28.12,
+          "end": 28.66
+        },
+        {
+          "word": "mi",
+          "start": 28.66,
+          "end": 29.3
+        },
+        {
+          "word": "alma",
+          "start": 29.3,
+          "end": 29.86
+        },
+        {
+          "word": "derrama",
+          "start": 29.86,
+          "end": 31.4
+        }
+      ],
+      "start": 25.5,
+      "end": 31.4,
+      "confidence": 1.0,
+      "time": 25.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y por salvarme su vida dio:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 31.4,
+          "end": 32.66
+        },
+        {
+          "word": "por",
+          "start": 32.66,
+          "end": 33.06
+        },
+        {
+          "word": "salvarme",
+          "start": 33.06,
+          "end": 34.96
+        },
+        {
+          "word": "su",
+          "start": 34.96,
+          "end": 35.8
+        },
+        {
+          "word": "vida",
+          "start": 35.8,
+          "end": 36.48
+        },
+        {
+          "word": "dio.",
+          "start": 36.48,
+          "end": 37.72
+        }
+      ],
+      "start": 31.4,
+      "end": 37.72,
+      "confidence": 1.0,
+      "time": 31.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ya pertenezco a él.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ya",
+          "start": 38.14,
+          "end": 39.06
+        },
+        {
+          "word": "pertenezco",
+          "start": 39.06,
+          "end": 41.04
+        },
+        {
+          "word": "a",
+          "start": 41.04,
+          "end": 41.54
+        },
+        {
+          "word": "Él,",
+          "start": 41.54,
+          "end": 44.0
+        }
+      ],
+      "start": 38.14,
+      "end": 44.0,
+      "confidence": 1.0,
+      "time": 38.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Ya pertenezco a Cristo,",
+      "words": [
+        {
+          "word": "ya",
+          "start": 44.48,
+          "end": 45.36
+        },
+        {
+          "word": "pertenezco",
+          "start": 45.36,
+          "end": 47.3
+        },
+        {
+          "word": "a",
+          "start": 47.3,
+          "end": 47.58
+        },
+        {
+          "word": "Cristo",
+          "start": 47.58,
+          "end": 50.0
+        }
+      ],
+      "start": 44.48,
+      "end": 50.0,
+      "confidence": 1.0,
+      "time": 44.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡cuán pura es su amistad!",
+      "words": [
+        {
+          "word": "Cuán",
+          "start": 50.0,
+          "end": 51.78
+        },
+        {
+          "word": "pura",
+          "start": 51.78,
+          "end": 52.3
+        },
+        {
+          "word": "es",
+          "start": 52.3,
+          "end": 52.44
+        },
+        {
+          "word": "Su",
+          "start": 52.44,
+          "end": 53.08
+        },
+        {
+          "word": "amistad,",
+          "start": 53.08,
+          "end": 56.8
+        }
+      ],
+      "start": 50.0,
+      "end": 57.06,
+      "confidence": 1.0,
+      "time": 50.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Por las edades durará,",
+      "words": [
+        {
+          "word": "por",
+          "start": 57.06,
+          "end": 57.92
+        },
+        {
+          "word": "las",
+          "start": 57.92,
+          "end": 58.5
+        },
+        {
+          "word": "edades",
+          "start": 58.5,
+          "end": 60.28
+        },
+        {
+          "word": "durará",
+          "start": 60.28,
+          "end": 62.96
+        }
+      ],
+      "start": 57.06,
+      "end": 62.96,
+      "confidence": 1.0,
+      "time": 57.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y por la eternidad.",
+      "words": [
+        {
+          "word": "y",
+          "start": 62.96,
+          "end": 64.26
+        },
+        {
+          "word": "por",
+          "start": 64.26,
+          "end": 64.8
+        },
+        {
+          "word": "la",
+          "start": 64.8,
+          "end": 65.2
+        },
+        {
+          "word": "eternidad.",
+          "start": 65.2,
+          "end": 69.16
+        }
+      ],
+      "start": 62.96,
+      "end": 69.16,
+      "confidence": 1.0,
+      "time": 62.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Por mis pecados fui condenado,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Por",
+          "start": 69.16,
+          "end": 71.06
+        },
+        {
+          "word": "mis",
+          "start": 71.06,
+          "end": 71.58
+        },
+        {
+          "word": "pecados",
+          "start": 71.58,
+          "end": 73.34
+        },
+        {
+          "word": "fui",
+          "start": 73.34,
+          "end": 74.16
+        },
+        {
+          "word": "condenado,",
+          "start": 74.16,
+          "end": 76.46
+        }
+      ],
+      "start": 69.16,
+      "end": 76.46,
+      "confidence": 1.0,
+      "time": 69.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mas hoy por Cristo soy perdonado;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "más",
+          "start": 76.68,
+          "end": 77.44
+        },
+        {
+          "word": "hoy",
+          "start": 77.44,
+          "end": 77.76
+        },
+        {
+          "word": "por",
+          "start": 77.76,
+          "end": 78.12
+        },
+        {
+          "word": "Cristo",
+          "start": 78.12,
+          "end": 79.52
+        },
+        {
+          "word": "soy",
+          "start": 79.52,
+          "end": 80.5
+        },
+        {
+          "word": "perdonado.",
+          "start": 80.5,
+          "end": 82.16
+        }
+      ],
+      "start": 76.68,
+      "end": 82.16,
+      "confidence": 1.0,
+      "time": 76.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "del hondo abismo me levantó:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Del",
+          "start": 82.94,
+          "end": 83.86
+        },
+        {
+          "word": "hondo",
+          "start": 83.86,
+          "end": 84.42
+        },
+        {
+          "word": "abismo",
+          "start": 84.42,
+          "end": 85.92
+        },
+        {
+          "word": "me",
+          "start": 85.92,
+          "end": 87.0
+        },
+        {
+          "word": "levanto,",
+          "start": 87.0,
+          "end": 88.16
+        }
+      ],
+      "start": 82.94,
+      "end": 88.16,
+      "confidence": 1.0,
+      "time": 82.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ya pertenezco a él.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ya",
+          "start": 89.28,
+          "end": 90.1
+        },
+        {
+          "word": "pertenezco",
+          "start": 90.1,
+          "end": 92.16
+        },
+        {
+          "word": "a",
+          "start": 92.16,
+          "end": 92.52
+        },
+        {
+          "word": "Él,",
+          "start": 92.52,
+          "end": 94.96
+        }
+      ],
+      "start": 89.28,
+      "end": 94.96,
+      "confidence": 1.0,
+      "time": 89.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Ya pertenezco a Cristo,",
+      "words": [
+        {
+          "word": "Ya",
+          "start": 94.96,
+          "end": 96.6
+        },
+        {
+          "word": "pertenezco",
+          "start": 96.6,
+          "end": 98.4
+        },
+        {
+          "word": "a",
+          "start": 98.4,
+          "end": 98.84
+        },
+        {
+          "word": "Cristo",
+          "start": 98.84,
+          "end": 101.4
+        }
+      ],
+      "start": 94.96,
+      "end": 101.4,
+      "confidence": 1.0,
+      "time": 94.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡cuán pura es su amistad!",
+      "words": [
+        {
+          "word": "cuán",
+          "start": 101.4,
+          "end": 102.86
+        },
+        {
+          "word": "pura",
+          "start": 102.86,
+          "end": 103.28
+        },
+        {
+          "word": "es",
+          "start": 103.28,
+          "end": 103.48
+        },
+        {
+          "word": "Su",
+          "start": 103.48,
+          "end": 104.14
+        },
+        {
+          "word": "amistad,",
+          "start": 104.14,
+          "end": 107.8
+        }
+      ],
+      "start": 101.4,
+      "end": 107.8,
+      "confidence": 1.0,
+      "time": 101.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Por las edades durará,",
+      "words": [
+        {
+          "word": "por",
+          "start": 108.14,
+          "end": 109.04
+        },
+        {
+          "word": "las",
+          "start": 109.04,
+          "end": 109.7
+        },
+        {
+          "word": "edades",
+          "start": 109.7,
+          "end": 111.38
+        },
+        {
+          "word": "durará",
+          "start": 111.38,
+          "end": 114.02
+        }
+      ],
+      "start": 108.14,
+      "end": 114.02,
+      "confidence": 1.0,
+      "time": 108.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y por la eternidad.",
+      "words": [
+        {
+          "word": "y",
+          "start": 114.02,
+          "end": 115.44
+        },
+        {
+          "word": "por",
+          "start": 115.44,
+          "end": 115.96
+        },
+        {
+          "word": "la",
+          "start": 115.96,
+          "end": 116.44
+        },
+        {
+          "word": "eternidad.",
+          "start": 116.44,
+          "end": 120.26
+        }
+      ],
+      "start": 114.02,
+      "end": 120.26,
+      "confidence": 1.0,
+      "time": 114.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Mi corazón palpita de gozo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 120.26,
+          "end": 122.06
+        },
+        {
+          "word": "corazón",
+          "start": 122.06,
+          "end": 123.58
+        },
+        {
+          "word": "palpita",
+          "start": 123.58,
+          "end": 125.46
+        },
+        {
+          "word": "de",
+          "start": 125.46,
+          "end": 126.04
+        },
+        {
+          "word": "gozo,",
+          "start": 126.04,
+          "end": 127.18
+        }
+      ],
+      "start": 120.26,
+      "end": 127.46,
+      "confidence": 1.0,
+      "time": 120.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cristo es de Dios el don más precioso;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 127.46,
+          "end": 128.24
+        },
+        {
+          "word": "es",
+          "start": 128.24,
+          "end": 128.68
+        },
+        {
+          "word": "de",
+          "start": 128.68,
+          "end": 128.98
+        },
+        {
+          "word": "Dios",
+          "start": 128.98,
+          "end": 129.62
+        },
+        {
+          "word": "el",
+          "start": 129.62,
+          "end": 130.46
+        },
+        {
+          "word": "don",
+          "start": 130.46,
+          "end": 131.12
+        },
+        {
+          "word": "más",
+          "start": 131.12,
+          "end": 131.66
+        },
+        {
+          "word": "precioso,",
+          "start": 131.66,
+          "end": 133.36
+        }
+      ],
+      "start": 127.46,
+      "end": 133.36,
+      "confidence": 1.0,
+      "time": 127.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "por redimirme su sangre dio,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Por",
+          "start": 133.36,
+          "end": 134.28
+        },
+        {
+          "word": "redimirme",
+          "start": 134.28,
+          "end": 136.46
+        },
+        {
+          "word": "su",
+          "start": 136.46,
+          "end": 137.26
+        },
+        {
+          "word": "sangre",
+          "start": 137.26,
+          "end": 138.04
+        },
+        {
+          "word": "dio",
+          "start": 138.04,
+          "end": 139.16
+        }
+      ],
+      "start": 133.36,
+      "end": 139.16,
+      "confidence": 1.0,
+      "time": 133.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "ya pertenezco a él.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Ya",
+          "start": 139.16,
+          "end": 140.54
+        },
+        {
+          "word": "pertenezco",
+          "start": 140.54,
+          "end": 142.48
+        },
+        {
+          "word": "a",
+          "start": 142.48,
+          "end": 142.8
+        },
+        {
+          "word": "él",
+          "start": 142.8,
+          "end": 145.28
+        }
+      ],
+      "start": 139.16,
+      "end": 145.28,
+      "confidence": 1.0,
+      "time": 139.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Ya pertenezco a Cristo,",
+      "words": [
+        {
+          "word": "Ya",
+          "start": 145.28,
+          "end": 146.5
+        },
+        {
+          "word": "pertenezco",
+          "start": 146.5,
+          "end": 148.56
+        },
+        {
+          "word": "a",
+          "start": 148.56,
+          "end": 148.96
+        },
+        {
+          "word": "Cristo",
+          "start": 148.96,
+          "end": 151.36
+        }
+      ],
+      "start": 145.28,
+      "end": 151.36,
+      "confidence": 1.0,
+      "time": 145.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡cuán pura es su amistad!",
+      "words": [
+        {
+          "word": "Cuán",
+          "start": 151.36,
+          "end": 152.6
+        },
+        {
+          "word": "dura",
+          "start": 152.6,
+          "end": 153.04
+        },
+        {
+          "word": "es",
+          "start": 153.04,
+          "end": 153.32
+        },
+        {
+          "word": "su",
+          "start": 153.32,
+          "end": 153.92
+        },
+        {
+          "word": "amistad",
+          "start": 153.92,
+          "end": 157.5
+        }
+      ],
+      "start": 151.36,
+      "end": 157.5,
+      "confidence": 0.97,
+      "time": 151.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Por las edades durará,",
+      "words": [
+        {
+          "word": "por",
+          "start": 157.5,
+          "end": 158.56
+        },
+        {
+          "word": "las",
+          "start": 158.56,
+          "end": 159.12
+        },
+        {
+          "word": "edades",
+          "start": 159.12,
+          "end": 160.92
+        },
+        {
+          "word": "durará",
+          "start": 160.92,
+          "end": 163.38
+        }
+      ],
+      "start": 157.5,
+      "end": 163.38,
+      "confidence": 1.0,
+      "time": 157.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y por la eternidad.",
+      "words": [
+        {
+          "word": "y",
+          "start": 163.38,
+          "end": 164.86
+        },
+        {
+          "word": "por",
+          "start": 164.86,
+          "end": 165.4
+        },
+        {
+          "word": "la",
+          "start": 165.4,
+          "end": 165.9
+        },
+        {
+          "word": "eternidad.",
+          "start": 165.9,
+          "end": 169.66
+        }
+      ],
+      "start": 163.38,
+      "end": 169.66,
+      "confidence": 1.0,
+      "time": 163.38
+    }
+  ]
+}

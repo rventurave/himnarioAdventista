@@ -1,0 +1,411 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.981,
+  "language": "es",
+  "model": "medium",
+  "hymn": 303,
+  "source": "303 - Sublime gracia.mp3",
+  "duration": 132.23,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Sublime gracia del Señor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Sublime",
+          "start": 20.86,
+          "end": 22.26
+        },
+        {
+          "word": "gracia",
+          "start": 22.26,
+          "end": 23.66
+        },
+        {
+          "word": "del",
+          "start": 23.66,
+          "end": 25.08
+        },
+        {
+          "word": "Señor",
+          "start": 25.08,
+          "end": 26.64
+        }
+      ],
+      "start": 20.86,
+      "end": 26.64,
+      "confidence": 1.0,
+      "time": 20.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de muerte me libró.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "De",
+          "start": 26.64,
+          "end": 27.92
+        },
+        {
+          "word": "muerte",
+          "start": 27.92,
+          "end": 29.8
+        },
+        {
+          "word": "me",
+          "start": 29.8,
+          "end": 31.9
+        },
+        {
+          "word": "libró,",
+          "start": 31.9,
+          "end": 36.06
+        }
+      ],
+      "start": 26.64,
+      "end": 36.98,
+      "confidence": 1.0,
+      "time": 26.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Perdido fui, me rescató;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "perdido",
+          "start": 36.98,
+          "end": 39.28
+        },
+        {
+          "word": "fui,",
+          "start": 39.28,
+          "end": 40.3
+        },
+        {
+          "word": "me",
+          "start": 41.04,
+          "end": 41.74
+        },
+        {
+          "word": "rescató,",
+          "start": 41.74,
+          "end": 45.24
+        }
+      ],
+      "start": 36.98,
+      "end": 45.66,
+      "confidence": 1.0,
+      "time": 36.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "fui ciego, me hizo ver.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "fui",
+          "start": 45.66,
+          "end": 46.02
+        },
+        {
+          "word": "ciego",
+          "start": 46.02,
+          "end": 48.26
+        },
+        {
+          "word": "me",
+          "start": 48.26,
+          "end": 49.78
+        },
+        {
+          "word": "hizo",
+          "start": 49.78,
+          "end": 50.56
+        },
+        {
+          "word": "ver.",
+          "start": 50.56,
+          "end": 53.54
+        }
+      ],
+      "start": 45.66,
+      "end": 53.54,
+      "confidence": 1.0,
+      "time": 45.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Mi corazón enterneció,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 53.54,
+          "end": 55.94
+        },
+        {
+          "word": "corazón",
+          "start": 55.94,
+          "end": 59.92
+        },
+        {
+          "word": "enterneció,",
+          "start": 59.92,
+          "end": 63.68
+        }
+      ],
+      "start": 53.54,
+      "end": 64.38,
+      "confidence": 1.0,
+      "time": 53.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "mis dudas disipó.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mis",
+          "start": 64.38,
+          "end": 65.0
+        },
+        {
+          "word": "dudas",
+          "start": 65.0,
+          "end": 67.44
+        },
+        {
+          "word": "disipó,",
+          "start": 67.44,
+          "end": 72.82
+        }
+      ],
+      "start": 64.38,
+      "end": 72.82,
+      "confidence": 1.0,
+      "time": 64.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Preciosa fue la hora en que",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Preciosa",
+          "start": 74.66,
+          "end": 76.06
+        },
+        {
+          "word": "fue",
+          "start": 76.06,
+          "end": 77.28
+        },
+        {
+          "word": "la",
+          "start": 77.28,
+          "end": 78.7
+        },
+        {
+          "word": "hora",
+          "start": 78.7,
+          "end": 80.38
+        },
+        {
+          "word": "en",
+          "start": 80.38,
+          "end": 80.98
+        },
+        {
+          "word": "que",
+          "start": 80.98,
+          "end": 82.36
+        }
+      ],
+      "start": 74.66,
+      "end": 82.36,
+      "confidence": 1.0,
+      "time": 74.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "rendí mi vida a él.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "rendí",
+          "start": 82.36,
+          "end": 84.48
+        },
+        {
+          "word": "mi",
+          "start": 84.48,
+          "end": 85.42
+        },
+        {
+          "word": "vida",
+          "start": 85.42,
+          "end": 87.16
+        },
+        {
+          "word": "a",
+          "start": 87.16,
+          "end": 88.38
+        },
+        {
+          "word": "Él.",
+          "start": 88.38,
+          "end": 91.04
+        }
+      ],
+      "start": 82.36,
+      "end": 91.04,
+      "confidence": 1.0,
+      "time": 82.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesús promete darme el bien;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 94.1,
+          "end": 95.5
+        },
+        {
+          "word": "promete",
+          "start": 95.5,
+          "end": 96.9
+        },
+        {
+          "word": "darme",
+          "start": 96.9,
+          "end": 99.12
+        },
+        {
+          "word": "el",
+          "start": 99.12,
+          "end": 99.42
+        },
+        {
+          "word": "bien,",
+          "start": 99.42,
+          "end": 100.46
+        }
+      ],
+      "start": 94.1,
+      "end": 101.48,
+      "confidence": 1.0,
+      "time": 94.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "confío siempre en él.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "confío",
+          "start": 101.48,
+          "end": 103.58
+        },
+        {
+          "word": "siempre",
+          "start": 103.58,
+          "end": 105.52
+        },
+        {
+          "word": "en",
+          "start": 105.52,
+          "end": 106.52
+        },
+        {
+          "word": "Él,",
+          "start": 106.52,
+          "end": 109.6
+        }
+      ],
+      "start": 101.48,
+      "end": 109.6,
+      "confidence": 1.0,
+      "time": 101.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mi protector y guía fiel",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 109.6,
+          "end": 110.48
+        },
+        {
+          "word": "protector,",
+          "start": 110.48,
+          "end": 113.66
+        },
+        {
+          "word": "guía",
+          "start": 115.04,
+          "end": 117.28
+        },
+        {
+          "word": "fiel,",
+          "start": 117.28,
+          "end": 118.58
+        }
+      ],
+      "start": 109.6,
+      "end": 118.58,
+      "confidence": 0.8,
+      "time": 109.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "me llevará al hogar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "me",
+          "start": 119.28,
+          "end": 119.7
+        },
+        {
+          "word": "llevará",
+          "start": 119.7,
+          "end": 124.0
+        },
+        {
+          "word": "al",
+          "start": 124.0,
+          "end": 124.28
+        },
+        {
+          "word": "hogar.",
+          "start": 124.28,
+          "end": 130.14
+        }
+      ],
+      "start": 119.28,
+      "end": 130.14,
+      "confidence": 1.0,
+      "time": 119.28
+    }
+  ]
+}

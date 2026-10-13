@@ -1,0 +1,1330 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.936,
+  "language": "es",
+  "model": "medium",
+  "hymn": 306,
+  "source": "306 - Llego Jesus.mp3",
+  "duration": 218.15,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Muy solitario, junto al sendero,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Muy",
+          "start": 13.84,
+          "end": 15.2
+        },
+        {
+          "word": "solitario,",
+          "start": 15.2,
+          "end": 16.56
+        },
+        {
+          "word": "junto",
+          "start": 16.56,
+          "end": 17.18
+        },
+        {
+          "word": "al",
+          "start": 17.18,
+          "end": 17.7
+        },
+        {
+          "word": "sendero,",
+          "start": 17.7,
+          "end": 19.72
+        }
+      ],
+      "start": 13.84,
+      "end": 20.2,
+      "confidence": 1.0,
+      "time": 13.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "un pobre ciego mendigaba pan;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "un",
+          "start": 20.2,
+          "end": 20.5
+        },
+        {
+          "word": "pobre",
+          "start": 20.5,
+          "end": 21.18
+        },
+        {
+          "word": "ciego,",
+          "start": 21.18,
+          "end": 22.68
+        },
+        {
+          "word": "mendiga",
+          "start": 22.78,
+          "end": 23.84
+        },
+        {
+          "word": "Guapán,",
+          "start": 23.84,
+          "end": 26.02
+        }
+      ],
+      "start": 20.2,
+      "end": 26.02,
+      "confidence": 0.948,
+      "time": 20.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "iba sin rumbo a tientas, en tinieblas.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sin",
+          "start": 26.98,
+          "end": 27.5
+        },
+        {
+          "word": "rumbo,",
+          "start": 27.5,
+          "end": 28.78
+        },
+        {
+          "word": "a",
+          "start": 28.84,
+          "end": 29.12
+        },
+        {
+          "word": "tientas",
+          "start": 29.12,
+          "end": 29.86
+        },
+        {
+          "word": "en",
+          "start": 29.86,
+          "end": 30.28
+        },
+        {
+          "word": "piñelas,",
+          "start": 30.28,
+          "end": 32.22
+        }
+      ],
+      "start": 26.98,
+      "end": 32.22,
+      "confidence": 0.836,
+      "time": 26.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Llegó Jesús, y al ciego vista dio.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Llegó",
+          "start": 32.66,
+          "end": 33.24
+        },
+        {
+          "word": "Jesús",
+          "start": 33.24,
+          "end": 34.4
+        },
+        {
+          "word": "y",
+          "start": 34.4,
+          "end": 34.96
+        },
+        {
+          "word": "al",
+          "start": 34.96,
+          "end": 35.22
+        },
+        {
+          "word": "cielo",
+          "start": 35.22,
+          "end": 35.96
+        },
+        {
+          "word": "vistajó,",
+          "start": 35.96,
+          "end": 38.3
+        }
+      ],
+      "start": 32.66,
+      "end": 38.3,
+      "confidence": 0.831,
+      "time": 32.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Llegó Jesús, y huyó el enemigo;",
+      "words": [
+        {
+          "word": "Llegó",
+          "start": 38.68,
+          "end": 39.42
+        },
+        {
+          "word": "Jesús",
+          "start": 39.42,
+          "end": 40.94
+        },
+        {
+          "word": "y",
+          "start": 40.94,
+          "end": 41.44
+        },
+        {
+          "word": "huyó",
+          "start": 41.44,
+          "end": 41.98
+        },
+        {
+          "word": "el",
+          "start": 41.98,
+          "end": 42.56
+        },
+        {
+          "word": "enemigo,",
+          "start": 42.56,
+          "end": 44.56
+        }
+      ],
+      "start": 38.68,
+      "end": 44.56,
+      "confidence": 1.0,
+      "time": 38.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "llegó Jesús, el llanto a enjugar;",
+      "words": [
+        {
+          "word": "Llegó",
+          "start": 44.88,
+          "end": 45.58
+        },
+        {
+          "word": "Jesús",
+          "start": 45.58,
+          "end": 47.16
+        },
+        {
+          "word": "del",
+          "start": 47.16,
+          "end": 47.6
+        },
+        {
+          "word": "llanto",
+          "start": 47.6,
+          "end": 48.32
+        },
+        {
+          "word": "a",
+          "start": 48.32,
+          "end": 48.7
+        },
+        {
+          "word": "encudar,",
+          "start": 48.7,
+          "end": 50.7
+        }
+      ],
+      "start": 44.88,
+      "end": 50.7,
+      "confidence": 0.951,
+      "time": 44.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "se irán las sombras y entrará su gloria",
+      "words": [
+        {
+          "word": "Se",
+          "start": 50.7,
+          "end": 51.54
+        },
+        {
+          "word": "irán",
+          "start": 51.54,
+          "end": 51.92
+        },
+        {
+          "word": "las",
+          "start": 51.92,
+          "end": 52.66
+        },
+        {
+          "word": "sombras,",
+          "start": 52.66,
+          "end": 53.82
+        },
+        {
+          "word": "entrará",
+          "start": 54.12,
+          "end": 54.94
+        },
+        {
+          "word": "su",
+          "start": 55.22,
+          "end": 55.46
+        },
+        {
+          "word": "gloria,",
+          "start": 55.46,
+          "end": 57.04
+        }
+      ],
+      "start": 50.7,
+      "end": 57.36,
+      "confidence": 0.875,
+      "time": 50.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "si a Jesús entrada quieres dar.",
+      "words": [
+        {
+          "word": "si",
+          "start": 57.36,
+          "end": 57.76
+        },
+        {
+          "word": "a",
+          "start": 57.76,
+          "end": 58.22
+        },
+        {
+          "word": "Jesús",
+          "start": 58.22,
+          "end": 59.6
+        },
+        {
+          "word": "entrada",
+          "start": 59.6,
+          "end": 60.64
+        },
+        {
+          "word": "quiere",
+          "start": 60.64,
+          "end": 61.54
+        }
+      ],
+      "start": 57.36,
+      "end": 63.42,
+      "confidence": 0.823,
+      "time": 57.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Atormentado por el enemigo",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Atormentado",
+          "start": 65.56,
+          "end": 66.94
+        },
+        {
+          "word": "por",
+          "start": 66.94,
+          "end": 67.58
+        },
+        {
+          "word": "el",
+          "start": 67.58,
+          "end": 68.2
+        },
+        {
+          "word": "enemigo,",
+          "start": 68.2,
+          "end": 70.32
+        }
+      ],
+      "start": 65.56,
+      "end": 70.76,
+      "confidence": 1.0,
+      "time": 65.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "entre las tumbas iba un hombre vil;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "entre",
+          "start": 70.76,
+          "end": 71.2
+        },
+        {
+          "word": "las",
+          "start": 71.2,
+          "end": 72.58
+        },
+        {
+          "word": "tumbas",
+          "start": 72.58,
+          "end": 73.38
+        },
+        {
+          "word": "iba",
+          "start": 73.38,
+          "end": 73.82
+        },
+        {
+          "word": "un",
+          "start": 73.82,
+          "end": 74.16
+        },
+        {
+          "word": "hombre",
+          "start": 74.16,
+          "end": 74.74
+        },
+        {
+          "word": "vil,",
+          "start": 74.74,
+          "end": 76.32
+        }
+      ],
+      "start": 70.76,
+      "end": 76.32,
+      "confidence": 1.0,
+      "time": 70.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "su cuerpo el templo era del demonio.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Su",
+          "start": 76.32,
+          "end": 77.1
+        },
+        {
+          "word": "cuerpo,",
+          "start": 77.1,
+          "end": 77.66
+        },
+        {
+          "word": "el",
+          "start": 77.66,
+          "end": 78.64
+        },
+        {
+          "word": "templo,",
+          "start": 78.64,
+          "end": 79.62
+        },
+        {
+          "word": "era",
+          "start": 79.62,
+          "end": 80.18
+        },
+        {
+          "word": "del",
+          "start": 80.18,
+          "end": 80.68
+        },
+        {
+          "word": "demonio.",
+          "start": 80.68,
+          "end": 82.78
+        }
+      ],
+      "start": 76.32,
+      "end": 83.36,
+      "confidence": 1.0,
+      "time": 76.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Llegó Jesús, y al diablo derrotó.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Llegó",
+          "start": 83.36,
+          "end": 83.74
+        },
+        {
+          "word": "Jesús",
+          "start": 83.74,
+          "end": 85.16
+        },
+        {
+          "word": "y",
+          "start": 85.16,
+          "end": 85.48
+        },
+        {
+          "word": "al",
+          "start": 85.48,
+          "end": 85.76
+        },
+        {
+          "word": "diablo",
+          "start": 85.76,
+          "end": 86.44
+        },
+        {
+          "word": "derrotó.",
+          "start": 86.44,
+          "end": 88.92
+        }
+      ],
+      "start": 83.36,
+      "end": 88.92,
+      "confidence": 1.0,
+      "time": 83.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Llegó Jesús, y huyó el enemigo;",
+      "words": [
+        {
+          "word": "Llegó",
+          "start": 89.24,
+          "end": 89.98
+        },
+        {
+          "word": "Jesús",
+          "start": 89.98,
+          "end": 91.46
+        },
+        {
+          "word": "y",
+          "start": 91.46,
+          "end": 91.88
+        },
+        {
+          "word": "huyó",
+          "start": 91.88,
+          "end": 92.48
+        },
+        {
+          "word": "el",
+          "start": 92.48,
+          "end": 93.06
+        },
+        {
+          "word": "enemigo.",
+          "start": 93.06,
+          "end": 95.02
+        }
+      ],
+      "start": 89.24,
+      "end": 95.38,
+      "confidence": 1.0,
+      "time": 89.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "llegó Jesús, el llanto a enjugar;",
+      "words": [
+        {
+          "word": "Llegó",
+          "start": 95.38,
+          "end": 96.12
+        },
+        {
+          "word": "Jesús,",
+          "start": 96.12,
+          "end": 97.66
+        },
+        {
+          "word": "el",
+          "start": 97.9,
+          "end": 98.1
+        },
+        {
+          "word": "llanto",
+          "start": 98.1,
+          "end": 98.86
+        },
+        {
+          "word": "en",
+          "start": 98.86,
+          "end": 99.36
+        }
+      ],
+      "start": 95.38,
+      "end": 101.26,
+      "confidence": 0.823,
+      "time": 95.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "se irán las sombras y entrará su gloria",
+      "words": [
+        {
+          "word": "Se",
+          "start": 101.26,
+          "end": 102.06
+        },
+        {
+          "word": "irán",
+          "start": 102.06,
+          "end": 102.42
+        },
+        {
+          "word": "las",
+          "start": 102.42,
+          "end": 103.1
+        },
+        {
+          "word": "sombras",
+          "start": 103.1,
+          "end": 104.34
+        },
+        {
+          "word": "y",
+          "start": 104.34,
+          "end": 104.78
+        },
+        {
+          "word": "entrará",
+          "start": 104.78,
+          "end": 105.54
+        },
+        {
+          "word": "su",
+          "start": 105.54,
+          "end": 105.92
+        },
+        {
+          "word": "gloria,",
+          "start": 105.92,
+          "end": 107.5
+        }
+      ],
+      "start": 101.26,
+      "end": 107.86,
+      "confidence": 1.0,
+      "time": 101.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "si a Jesús entrada quieres dar.",
+      "words": [
+        {
+          "word": "si",
+          "start": 107.86,
+          "end": 108.24
+        },
+        {
+          "word": "a",
+          "start": 108.24,
+          "end": 108.66
+        },
+        {
+          "word": "Jesús",
+          "start": 108.66,
+          "end": 110.08
+        },
+        {
+          "word": "entrada",
+          "start": 110.08,
+          "end": 111.12
+        },
+        {
+          "word": "quieres",
+          "start": 111.12,
+          "end": 112.12
+        },
+        {
+          "word": "dar.",
+          "start": 112.12,
+          "end": 114.0
+        }
+      ],
+      "start": 107.86,
+      "end": 114.0,
+      "confidence": 1.0,
+      "time": 107.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "\"Inmundo soy\", clamaba el leproso;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Inundoso,",
+          "start": 115.02,
+          "end": 116.42
+        },
+        {
+          "word": "hoy",
+          "start": 116.92,
+          "end": 117.1
+        },
+        {
+          "word": "clamaba",
+          "start": 117.1,
+          "end": 118.12
+        },
+        {
+          "word": "el",
+          "start": 118.12,
+          "end": 118.72
+        },
+        {
+          "word": "leproso,",
+          "start": 118.72,
+          "end": 120.5
+        }
+      ],
+      "start": 115.02,
+      "end": 120.96,
+      "confidence": 0.936,
+      "time": 115.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "el sordomudo no podía hablar;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 120.96,
+          "end": 121.34
+        },
+        {
+          "word": "sordo",
+          "start": 121.34,
+          "end": 122.08
+        },
+        {
+          "word": "no",
+          "start": 123.48,
+          "end": 124.0
+        },
+        {
+          "word": "podía",
+          "start": 124.0,
+          "end": 124.78
+        },
+        {
+          "word": "hablar,",
+          "start": 124.78,
+          "end": 126.66
+        }
+      ],
+      "start": 120.96,
+      "end": 126.66,
+      "confidence": 0.988,
+      "time": 120.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "la fiebre alzó la víctima en sus garras.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "La",
+          "start": 126.66,
+          "end": 127.5
+        },
+        {
+          "word": "febre",
+          "start": 127.5,
+          "end": 128.34
+        },
+        {
+          "word": "sola",
+          "start": 128.34,
+          "end": 129.74
+        },
+        {
+          "word": "en",
+          "start": 130.74,
+          "end": 131.12
+        },
+        {
+          "word": "sus",
+          "start": 131.12,
+          "end": 131.84
+        },
+        {
+          "word": "garras,",
+          "start": 131.84,
+          "end": 133.26
+        }
+      ],
+      "start": 126.66,
+      "end": 133.74,
+      "confidence": 0.718,
+      "time": 126.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Llegó Jesús, la raza a libertar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "llegó",
+          "start": 133.74,
+          "end": 133.98
+        },
+        {
+          "word": "Jesús,",
+          "start": 133.98,
+          "end": 135.54
+        },
+        {
+          "word": "la",
+          "start": 135.88,
+          "end": 136.1
+        },
+        {
+          "word": "raza",
+          "start": 136.1,
+          "end": 136.9
+        },
+        {
+          "word": "libertad.",
+          "start": 136.9,
+          "end": 139.42
+        }
+      ],
+      "start": 133.74,
+      "end": 139.42,
+      "confidence": 0.821,
+      "time": 133.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Llegó Jesús, y huyó el enemigo;",
+      "words": [
+        {
+          "word": "Llegó",
+          "start": 139.58,
+          "end": 140.3
+        },
+        {
+          "word": "Jesús,",
+          "start": 140.3,
+          "end": 141.82
+        },
+        {
+          "word": "y",
+          "start": 142.06,
+          "end": 142.32
+        },
+        {
+          "word": "el",
+          "start": 142.78,
+          "end": 143.42
+        },
+        {
+          "word": "enemigo,",
+          "start": 143.42,
+          "end": 145.34
+        }
+      ],
+      "start": 139.58,
+      "end": 146.04,
+      "confidence": 0.833,
+      "time": 139.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "llegó Jesús, el llanto a enjugar;",
+      "words": [
+        {
+          "word": "llegó",
+          "start": 146.04,
+          "end": 146.34
+        },
+        {
+          "word": "Jesús,",
+          "start": 146.34,
+          "end": 148.0
+        },
+        {
+          "word": "el",
+          "start": 148.32,
+          "end": 148.42
+        },
+        {
+          "word": "llanto",
+          "start": 148.42,
+          "end": 149.14
+        },
+        {
+          "word": "a",
+          "start": 149.14,
+          "end": 149.5
+        },
+        {
+          "word": "enjugar.",
+          "start": 149.5,
+          "end": 151.68
+        }
+      ],
+      "start": 146.04,
+      "end": 151.68,
+      "confidence": 1.0,
+      "time": 146.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "se irán las sombras y entrará su gloria",
+      "words": [
+        {
+          "word": "Se",
+          "start": 151.68,
+          "end": 152.36
+        },
+        {
+          "word": "irán",
+          "start": 152.36,
+          "end": 152.78
+        },
+        {
+          "word": "las",
+          "start": 152.78,
+          "end": 153.4
+        },
+        {
+          "word": "sombras",
+          "start": 153.4,
+          "end": 154.66
+        },
+        {
+          "word": "y",
+          "start": 154.66,
+          "end": 155.08
+        },
+        {
+          "word": "entrará",
+          "start": 155.08,
+          "end": 155.86
+        },
+        {
+          "word": "su",
+          "start": 155.86,
+          "end": 156.26
+        },
+        {
+          "word": "gloria,",
+          "start": 156.26,
+          "end": 157.92
+        }
+      ],
+      "start": 151.68,
+      "end": 158.24,
+      "confidence": 1.0,
+      "time": 151.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "si a Jesús entrada quieres dar.",
+      "words": [
+        {
+          "word": "si",
+          "start": 158.24,
+          "end": 158.6
+        },
+        {
+          "word": "a",
+          "start": 158.6,
+          "end": 159.04
+        },
+        {
+          "word": "Jesús",
+          "start": 159.04,
+          "end": 160.48
+        },
+        {
+          "word": "entrada",
+          "start": 160.48,
+          "end": 161.5
+        },
+        {
+          "word": "quiere",
+          "start": 161.5,
+          "end": 162.44
+        }
+      ],
+      "start": 158.24,
+      "end": 164.34,
+      "confidence": 0.823,
+      "time": 158.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Así los hombres de hoy son incapaces",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Así",
+          "start": 164.96,
+          "end": 165.8
+        },
+        {
+          "word": "los",
+          "start": 165.8,
+          "end": 166.9
+        },
+        {
+          "word": "hombres",
+          "start": 166.9,
+          "end": 167.64
+        },
+        {
+          "word": "de",
+          "start": 167.64,
+          "end": 167.88
+        },
+        {
+          "word": "hoy",
+          "start": 167.88,
+          "end": 168.02
+        },
+        {
+          "word": "son",
+          "start": 168.02,
+          "end": 168.58
+        },
+        {
+          "word": "incapaces",
+          "start": 168.58,
+          "end": 170.82
+        }
+      ],
+      "start": 164.96,
+      "end": 170.82,
+      "confidence": 1.0,
+      "time": 164.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "de dominar sus vicios, su temor;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "de",
+          "start": 170.82,
+          "end": 171.64
+        },
+        {
+          "word": "dominar",
+          "start": 171.64,
+          "end": 173.48
+        },
+        {
+          "word": "sus",
+          "start": 173.48,
+          "end": 173.94
+        },
+        {
+          "word": "vicios,",
+          "start": 173.94,
+          "end": 174.66
+        },
+        {
+          "word": "su",
+          "start": 174.66,
+          "end": 175.06
+        },
+        {
+          "word": "temor.",
+          "start": 175.06,
+          "end": 177.06
+        }
+      ],
+      "start": 170.82,
+      "end": 177.06,
+      "confidence": 1.0,
+      "time": 170.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "el corazón lo tienen quebrantado.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "El",
+          "start": 177.06,
+          "end": 177.76
+        },
+        {
+          "word": "corazón",
+          "start": 177.76,
+          "end": 179.62
+        },
+        {
+          "word": "lo",
+          "start": 179.62,
+          "end": 180.22
+        },
+        {
+          "word": "tienen",
+          "start": 180.22,
+          "end": 180.8
+        },
+        {
+          "word": "quebrantado,",
+          "start": 180.8,
+          "end": 183.4
+        }
+      ],
+      "start": 177.06,
+      "end": 183.72,
+      "confidence": 1.0,
+      "time": 177.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Jesús les brinda el bálsamo de amor.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 183.72,
+          "end": 184.36
+        },
+        {
+          "word": "les",
+          "start": 184.36,
+          "end": 185.04
+        },
+        {
+          "word": "brinda",
+          "start": 185.04,
+          "end": 186.16
+        },
+        {
+          "word": "el",
+          "start": 186.16,
+          "end": 186.46
+        },
+        {
+          "word": "bálsamo",
+          "start": 186.46,
+          "end": 187.48
+        },
+        {
+          "word": "de",
+          "start": 187.48,
+          "end": 188.06
+        },
+        {
+          "word": "amor.",
+          "start": 188.06,
+          "end": 189.48
+        }
+      ],
+      "start": 183.72,
+      "end": 189.48,
+      "confidence": 1.0,
+      "time": 183.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Llegó Jesús, y huyó el enemigo;",
+      "words": [
+        {
+          "word": "Llegó",
+          "start": 189.94,
+          "end": 190.64
+        },
+        {
+          "word": "Jesús",
+          "start": 190.64,
+          "end": 192.12
+        },
+        {
+          "word": "y",
+          "start": 192.12,
+          "end": 192.5
+        },
+        {
+          "word": "huyó",
+          "start": 192.5,
+          "end": 193.16
+        },
+        {
+          "word": "el",
+          "start": 193.16,
+          "end": 193.76
+        },
+        {
+          "word": "enemigo,",
+          "start": 193.76,
+          "end": 195.68
+        }
+      ],
+      "start": 189.94,
+      "end": 196.36,
+      "confidence": 1.0,
+      "time": 189.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "llegó Jesús, el llanto a enjugar;",
+      "words": [
+        {
+          "word": "llegó",
+          "start": 196.36,
+          "end": 196.66
+        },
+        {
+          "word": "Jesús",
+          "start": 196.66,
+          "end": 198.26
+        },
+        {
+          "word": "el",
+          "start": 198.26,
+          "end": 198.74
+        },
+        {
+          "word": "llanto",
+          "start": 198.74,
+          "end": 199.5
+        },
+        {
+          "word": "a",
+          "start": 199.5,
+          "end": 199.76
+        },
+        {
+          "word": "enjugar.",
+          "start": 199.76,
+          "end": 201.98
+        }
+      ],
+      "start": 196.36,
+      "end": 201.98,
+      "confidence": 1.0,
+      "time": 196.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "se irán las sombras y entrará su gloria",
+      "words": [
+        {
+          "word": "Se",
+          "start": 201.98,
+          "end": 202.68
+        },
+        {
+          "word": "irán",
+          "start": 202.68,
+          "end": 203.14
+        },
+        {
+          "word": "las",
+          "start": 203.14,
+          "end": 203.88
+        },
+        {
+          "word": "sombras",
+          "start": 203.88,
+          "end": 204.98
+        },
+        {
+          "word": "y",
+          "start": 204.98,
+          "end": 205.42
+        },
+        {
+          "word": "entrará",
+          "start": 205.42,
+          "end": 206.2
+        },
+        {
+          "word": "su",
+          "start": 206.2,
+          "end": 206.62
+        },
+        {
+          "word": "gloria,",
+          "start": 206.62,
+          "end": 208.24
+        }
+      ],
+      "start": 201.98,
+      "end": 208.72,
+      "confidence": 1.0,
+      "time": 201.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "si a Jesús entrada quieres dar.",
+      "words": [
+        {
+          "word": "si",
+          "start": 208.72,
+          "end": 208.94
+        },
+        {
+          "word": "a",
+          "start": 208.94,
+          "end": 209.34
+        },
+        {
+          "word": "Jesús",
+          "start": 209.34,
+          "end": 210.84
+        },
+        {
+          "word": "entrada",
+          "start": 210.84,
+          "end": 211.9
+        },
+        {
+          "word": "quiere",
+          "start": 211.9,
+          "end": 212.94
+        }
+      ],
+      "start": 208.72,
+      "end": 214.0,
+      "confidence": 0.823,
+      "time": 208.72
+    }
+  ]
+}

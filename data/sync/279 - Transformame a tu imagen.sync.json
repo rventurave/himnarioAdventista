@@ -1,0 +1,436 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.952,
+  "language": "es",
+  "model": "medium",
+  "hymn": 279,
+  "source": "279 - Transformame a tu imagen.mp3",
+  "duration": 111.05,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hoy pido en oración",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 13.18,
+          "end": 14.58
+        },
+        {
+          "word": "pido,",
+          "start": 14.58,
+          "end": 15.98
+        },
+        {
+          "word": "en",
+          "start": 15.98,
+          "end": 16.6
+        },
+        {
+          "word": "oración,",
+          "start": 16.6,
+          "end": 18.9
+        }
+      ],
+      "start": 13.18,
+      "end": 19.52,
+      "confidence": 1.0,
+      "time": 13.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que perdones mi tibieza;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 19.52,
+          "end": 19.72
+        },
+        {
+          "word": "perdones",
+          "start": 19.72,
+          "end": 21.46
+        },
+        {
+          "word": "mi",
+          "start": 21.46,
+          "end": 22.24
+        },
+        {
+          "word": "timidez,",
+          "start": 22.24,
+          "end": 23.96
+        }
+      ],
+      "start": 19.52,
+      "end": 23.96,
+      "confidence": 0.957,
+      "time": 19.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues quiero, de corazón,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Pues",
+          "start": 23.96,
+          "end": 25.9
+        },
+        {
+          "word": "quiero,",
+          "start": 25.9,
+          "end": 27.4
+        },
+        {
+          "word": "de",
+          "start": 27.76,
+          "end": 28.38
+        },
+        {
+          "word": "corazón,",
+          "start": 28.38,
+          "end": 30.48
+        }
+      ],
+      "start": 23.96,
+      "end": 31.54,
+      "confidence": 1.0,
+      "time": 23.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "consagrarme a ti, Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "consagrarme",
+          "start": 31.54,
+          "end": 33.26
+        },
+        {
+          "word": "a",
+          "start": 33.26,
+          "end": 33.52
+        },
+        {
+          "word": "Ti,",
+          "start": 33.52,
+          "end": 34.06
+        },
+        {
+          "word": "Señor.",
+          "start": 34.08,
+          "end": 35.96
+        }
+      ],
+      "start": 31.54,
+      "end": 35.96,
+      "confidence": 1.0,
+      "time": 31.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Renuévame, Señor;",
+      "words": [
+        {
+          "word": "Renuevame,",
+          "start": 39.54,
+          "end": 40.94
+        },
+        {
+          "word": "Señor,",
+          "start": 40.94,
+          "end": 42.34
+        }
+      ],
+      "start": 39.54,
+      "end": 43.36,
+      "confidence": 1.0,
+      "time": 39.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "inspírame valor;",
+      "words": [
+        {
+          "word": "expírame",
+          "start": 43.36,
+          "end": 45.72
+        },
+        {
+          "word": "valor.",
+          "start": 45.72,
+          "end": 46.96
+        }
+      ],
+      "start": 43.36,
+      "end": 46.96,
+      "confidence": 0.912,
+      "time": 43.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "transfórmame a tu imagen;",
+      "words": [
+        {
+          "word": "Transformame",
+          "start": 49.36,
+          "end": 50.76
+        },
+        {
+          "word": "a",
+          "start": 50.76,
+          "end": 51.16
+        },
+        {
+          "word": "tu",
+          "start": 51.16,
+          "end": 51.66
+        },
+        {
+          "word": "imagen,",
+          "start": 51.66,
+          "end": 53.76
+        }
+      ],
+      "start": 49.36,
+      "end": 55.08,
+      "confidence": 1.0,
+      "time": 49.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "renuévame, Señor.",
+      "words": [
+        {
+          "word": "renuévame",
+          "start": 55.08,
+          "end": 57.42
+        },
+        {
+          "word": "Señor.",
+          "start": 57.42,
+          "end": 60.3
+        }
+      ],
+      "start": 55.08,
+      "end": 60.3,
+      "confidence": 1.0,
+      "time": 55.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "A otros quiero llevar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 61.1,
+          "end": 62.02
+        },
+        {
+          "word": "otros",
+          "start": 62.02,
+          "end": 63.76
+        },
+        {
+          "word": "lleva",
+          "start": 64.48,
+          "end": 66.52
+        }
+      ],
+      "start": 61.1,
+      "end": 66.52,
+      "confidence": 0.735,
+      "time": 61.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu mensaje de esperanza;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tu",
+          "start": 66.52,
+          "end": 67.4
+        },
+        {
+          "word": "mensaje",
+          "start": 67.4,
+          "end": 69.1
+        },
+        {
+          "word": "de",
+          "start": 69.1,
+          "end": 69.88
+        },
+        {
+          "word": "esperanza,",
+          "start": 69.88,
+          "end": 72.32
+        }
+      ],
+      "start": 66.52,
+      "end": 72.32,
+      "confidence": 1.0,
+      "time": 66.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "viviendo para servir,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Viviendo",
+          "start": 72.32,
+          "end": 74.92
+        },
+        {
+          "word": "para",
+          "start": 74.92,
+          "end": 75.92
+        },
+        {
+          "word": "servir,",
+          "start": 75.92,
+          "end": 77.74
+        }
+      ],
+      "start": 72.32,
+      "end": 79.04,
+      "confidence": 1.0,
+      "time": 72.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "compartiendo tu amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "compartiendo",
+          "start": 79.04,
+          "end": 80.34
+        },
+        {
+          "word": "Tu",
+          "start": 80.34,
+          "end": 81.24
+        },
+        {
+          "word": "amor.",
+          "start": 81.24,
+          "end": 83.48
+        }
+      ],
+      "start": 79.04,
+      "end": 83.48,
+      "confidence": 1.0,
+      "time": 79.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Renuévame, Señor;",
+      "words": [
+        {
+          "word": "Renuevame",
+          "start": 85.9,
+          "end": 87.3
+        },
+        {
+          "word": "Señor,",
+          "start": 87.3,
+          "end": 88.7
+        }
+      ],
+      "start": 85.9,
+      "end": 89.8,
+      "confidence": 1.0,
+      "time": 85.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "inspírame valor;",
+      "words": [
+        {
+          "word": "inspírame",
+          "start": 89.8,
+          "end": 92.1
+        },
+        {
+          "word": "valor.",
+          "start": 92.1,
+          "end": 94.3
+        }
+      ],
+      "start": 89.8,
+      "end": 94.3,
+      "confidence": 1.0,
+      "time": 89.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "transfórmame a tu imagen;",
+      "words": [
+        {
+          "word": "Transformame",
+          "start": 94.3,
+          "end": 96.98
+        },
+        {
+          "word": "a",
+          "start": 96.98,
+          "end": 97.52
+        },
+        {
+          "word": "tu",
+          "start": 97.52,
+          "end": 98.02
+        },
+        {
+          "word": "imagen,",
+          "start": 98.02,
+          "end": 99.98
+        }
+      ],
+      "start": 94.3,
+      "end": 99.98,
+      "confidence": 1.0,
+      "time": 94.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "renuévame, Señor.",
+      "words": [
+        {
+          "word": "Señor.",
+          "start": 103.48,
+          "end": 105.38
+        }
+      ],
+      "start": 103.48,
+      "end": 105.38,
+      "confidence": 0.5,
+      "time": 103.48
+    }
+  ]
+}

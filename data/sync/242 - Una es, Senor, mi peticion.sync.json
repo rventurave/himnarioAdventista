@@ -1,0 +1,1050 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.803,
+  "language": "es",
+  "model": "medium",
+  "hymn": 242,
+  "source": "242 - Una es, Senor, mi peticion.mp3",
+  "duration": 184.66,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Una es, Señor, mi petición,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Una",
+          "start": 7.68,
+          "end": 7.68
+        },
+        {
+          "word": "señor,",
+          "start": 8.16,
+          "end": 9.6
+        },
+        {
+          "word": "petición,",
+          "start": 10.2,
+          "end": 12.16
+        }
+      ],
+      "start": 7.68,
+      "end": 12.16,
+      "confidence": 0.6,
+      "time": 7.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues en mi senda infiel erré:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "pues",
+          "start": 12.56,
+          "end": 12.96
+        },
+        {
+          "word": "en",
+          "start": 12.96,
+          "end": 13.38
+        },
+        {
+          "word": "mi",
+          "start": 13.38,
+          "end": 13.84
+        },
+        {
+          "word": "senda",
+          "start": 13.84,
+          "end": 15.28
+        },
+        {
+          "word": "re,",
+          "start": 16.34,
+          "end": 17.44
+        }
+      ],
+      "start": 12.56,
+      "end": 17.44,
+      "confidence": 0.8,
+      "time": 12.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "sea por agua o en crisol,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sea",
+          "start": 17.82,
+          "end": 18.52
+        },
+        {
+          "word": "por",
+          "start": 18.52,
+          "end": 19.24
+        },
+        {
+          "word": "o",
+          "start": 20.52,
+          "end": 21.06
+        },
+        {
+          "word": "en",
+          "start": 21.06,
+          "end": 21.46
+        },
+        {
+          "word": "prisión.",
+          "start": 21.46,
+          "end": 22.8
+        }
+      ],
+      "start": 17.82,
+      "end": 22.8,
+      "confidence": 0.795,
+      "time": 17.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡oh, límpiame!, ¡oh, límpiame!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Olímpiame,",
+          "start": 22.8,
+          "end": 25.42
+        },
+        {
+          "word": "olímpiame,",
+          "start": 25.56,
+          "end": 28.1
+        }
+      ],
+      "start": 22.8,
+      "end": 28.42,
+      "confidence": 0.482,
+      "time": 22.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, límpiame de mi maldad",
+      "words": [
+        {
+          "word": "olímpiame,",
+          "start": 28.42,
+          "end": 30.84
+        },
+        {
+          "word": "de",
+          "start": 31.0,
+          "end": 31.52
+        },
+        {
+          "word": "mi",
+          "start": 31.52,
+          "end": 31.98
+        },
+        {
+          "word": "maldad",
+          "start": 31.98,
+          "end": 33.3
+        }
+      ],
+      "start": 28.42,
+      "end": 33.3,
+      "confidence": 0.793,
+      "time": 28.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en tu crisol, si he menester!",
+      "words": [
+        {
+          "word": "en",
+          "start": 33.3,
+          "end": 33.96
+        },
+        {
+          "word": "tu",
+          "start": 33.96,
+          "end": 34.58
+        },
+        {
+          "word": "Cristo",
+          "start": 34.58,
+          "end": 35.92
+        }
+      ],
+      "start": 33.3,
+      "end": 38.96,
+      "confidence": 0.483,
+      "time": 33.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "No importa el medio, oh Señor,",
+      "words": [
+        {
+          "word": "no",
+          "start": 38.96,
+          "end": 39.24
+        },
+        {
+          "word": "importa",
+          "start": 39.24,
+          "end": 39.9
+        },
+        {
+          "word": "el",
+          "start": 39.9,
+          "end": 41.06
+        },
+        {
+          "word": "medio,",
+          "start": 41.06,
+          "end": 41.64
+        },
+        {
+          "word": "Señor,",
+          "start": 41.8,
+          "end": 43.76
+        }
+      ],
+      "start": 38.96,
+      "end": 44.42,
+      "confidence": 0.833,
+      "time": 38.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡oh, límpiame!, ¡oh, límpiame!",
+      "words": [
+        {
+          "word": "olímpiame,",
+          "start": 44.42,
+          "end": 46.7
+        },
+        {
+          "word": "olímpiame.",
+          "start": 47.18,
+          "end": 50.12
+        }
+      ],
+      "start": 44.42,
+      "end": 50.12,
+      "confidence": 0.482,
+      "time": 44.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si al alma das más luz, Señor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 50.12,
+          "end": 50.78
+        },
+        {
+          "word": "al",
+          "start": 50.78,
+          "end": 51.14
+        },
+        {
+          "word": "alma",
+          "start": 51.14,
+          "end": 51.7
+        },
+        {
+          "word": "das",
+          "start": 51.7,
+          "end": 52.96
+        },
+        {
+          "word": "Señor,",
+          "start": 53.98,
+          "end": 55.3
+        }
+      ],
+      "start": 50.12,
+      "end": 56.08,
+      "confidence": 0.714,
+      "time": 50.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "agradecido cantaré;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "agradecido",
+          "start": 56.08,
+          "end": 58.52
+        },
+        {
+          "word": "cantaré,",
+          "start": 58.52,
+          "end": 60.64
+        }
+      ],
+      "start": 56.08,
+      "end": 60.64,
+      "confidence": 1.0,
+      "time": 56.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pero de un puro corazón",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pero",
+          "start": 60.88,
+          "end": 61.58
+        },
+        {
+          "word": "de",
+          "start": 61.58,
+          "end": 62.1
+        },
+        {
+          "word": "un",
+          "start": 62.1,
+          "end": 63.16
+        },
+        {
+          "word": "puro",
+          "start": 63.16,
+          "end": 63.9
+        },
+        {
+          "word": "corazón",
+          "start": 63.9,
+          "end": 65.88
+        }
+      ],
+      "start": 60.88,
+      "end": 65.88,
+      "confidence": 1.0,
+      "time": 60.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "más gozaré, más gozaré.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "más",
+          "start": 65.88,
+          "end": 66.84
+        },
+        {
+          "word": "gozaré,",
+          "start": 66.84,
+          "end": 68.8
+        },
+        {
+          "word": "más",
+          "start": 68.82,
+          "end": 69.4
+        },
+        {
+          "word": "gozaré.",
+          "start": 69.4,
+          "end": 71.3
+        }
+      ],
+      "start": 65.88,
+      "end": 71.3,
+      "confidence": 1.0,
+      "time": 65.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, límpiame de mi maldad",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 71.3,
+          "end": 72.16
+        },
+        {
+          "word": "límplame",
+          "start": 72.46,
+          "end": 73.72
+        },
+        {
+          "word": "de",
+          "start": 73.72,
+          "end": 74.58
+        },
+        {
+          "word": "mi",
+          "start": 74.58,
+          "end": 75.26
+        },
+        {
+          "word": "maldad,",
+          "start": 75.26,
+          "end": 76.6
+        }
+      ],
+      "start": 71.3,
+      "end": 76.96,
+      "confidence": 0.985,
+      "time": 71.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en tu crisol, si he menester!",
+      "words": [
+        {
+          "word": "en",
+          "start": 76.96,
+          "end": 77.2
+        },
+        {
+          "word": "tu",
+          "start": 77.2,
+          "end": 77.88
+        },
+        {
+          "word": "prisión",
+          "start": 77.88,
+          "end": 79.4
+        },
+        {
+          "word": "me",
+          "start": 80.06,
+          "end": 80.44
+        }
+      ],
+      "start": 76.96,
+      "end": 82.2,
+      "confidence": 0.618,
+      "time": 76.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "No importa el medio, oh Señor,",
+      "words": [
+        {
+          "word": "no",
+          "start": 82.2,
+          "end": 82.54
+        },
+        {
+          "word": "importa",
+          "start": 82.54,
+          "end": 83.22
+        },
+        {
+          "word": "el",
+          "start": 83.22,
+          "end": 84.38
+        },
+        {
+          "word": "medio,",
+          "start": 84.38,
+          "end": 85.06
+        },
+        {
+          "word": "oh",
+          "start": 85.24,
+          "end": 86.1
+        },
+        {
+          "word": "Señor,",
+          "start": 86.1,
+          "end": 87.1
+        }
+      ],
+      "start": 82.2,
+      "end": 87.8,
+      "confidence": 1.0,
+      "time": 82.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡oh, límpiame!, ¡oh, límpiame!",
+      "words": [
+        {
+          "word": "oh,",
+          "start": 87.8,
+          "end": 88.02
+        },
+        {
+          "word": "límplame,",
+          "start": 88.34,
+          "end": 89.96
+        },
+        {
+          "word": "oh,",
+          "start": 90.22,
+          "end": 90.76
+        },
+        {
+          "word": "límplame.",
+          "start": 91.12,
+          "end": 93.18
+        }
+      ],
+      "start": 87.8,
+      "end": 93.18,
+      "confidence": 0.963,
+      "time": 87.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Solo en el limpio corazón",
+      "verse": 3,
+      "words": [
+        {
+          "word": "limpio",
+          "start": 94.8,
+          "end": 96.64
+        },
+        {
+          "word": "corazón",
+          "start": 96.64,
+          "end": 98.56
+        }
+      ],
+      "start": 94.8,
+      "end": 98.56,
+      "confidence": 0.4,
+      "time": 94.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "podrá tu faz resplandecer",
+      "verse": 3,
+      "words": [
+        {
+          "word": "podrá",
+          "start": 98.56,
+          "end": 99.68
+        },
+        {
+          "word": "tu",
+          "start": 99.68,
+          "end": 100.2
+        },
+        {
+          "word": "paz",
+          "start": 100.2,
+          "end": 101.42
+        },
+        {
+          "word": "resplándese",
+          "start": 101.42,
+          "end": 103.86
+        }
+      ],
+      "start": 98.56,
+      "end": 103.86,
+      "confidence": 0.93,
+      "time": 98.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y ser completa la visión",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 103.86,
+          "end": 104.66
+        },
+        {
+          "word": "ser",
+          "start": 104.66,
+          "end": 105.1
+        },
+        {
+          "word": "completa",
+          "start": 105.1,
+          "end": 106.94
+        },
+        {
+          "word": "la",
+          "start": 106.94,
+          "end": 107.8
+        },
+        {
+          "word": "visión",
+          "start": 107.8,
+          "end": 109.32
+        }
+      ],
+      "start": 103.86,
+      "end": 109.32,
+      "confidence": 1.0,
+      "time": 103.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "de tu poder, de tu poder.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 109.32,
+          "end": 109.94
+        },
+        {
+          "word": "tu",
+          "start": 109.94,
+          "end": 110.28
+        },
+        {
+          "word": "poder,",
+          "start": 110.28,
+          "end": 111.76
+        },
+        {
+          "word": "de",
+          "start": 112.18,
+          "end": 112.58
+        },
+        {
+          "word": "tu",
+          "start": 112.58,
+          "end": 113.14
+        },
+        {
+          "word": "poder.",
+          "start": 113.14,
+          "end": 114.32
+        }
+      ],
+      "start": 109.32,
+      "end": 114.32,
+      "confidence": 1.0,
+      "time": 109.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, límpiame de mi maldad",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 114.32,
+          "end": 115.44
+        },
+        {
+          "word": "límpiame",
+          "start": 115.72,
+          "end": 117.26
+        },
+        {
+          "word": "de",
+          "start": 117.26,
+          "end": 118.04
+        },
+        {
+          "word": "mi",
+          "start": 118.04,
+          "end": 118.5
+        },
+        {
+          "word": "maldad,",
+          "start": 118.5,
+          "end": 119.8
+        }
+      ],
+      "start": 114.32,
+      "end": 120.02,
+      "confidence": 1.0,
+      "time": 114.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en tu crisol, si he menester!",
+      "words": [
+        {
+          "word": "en",
+          "start": 120.02,
+          "end": 120.42
+        },
+        {
+          "word": "tu",
+          "start": 120.42,
+          "end": 121.1
+        },
+        {
+          "word": "crisol,",
+          "start": 121.1,
+          "end": 122.6
+        },
+        {
+          "word": "este,",
+          "start": 123.96,
+          "end": 124.98
+        }
+      ],
+      "start": 120.02,
+      "end": 125.42,
+      "confidence": 0.633,
+      "time": 120.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "No importa el medio, oh Señor,",
+      "words": [
+        {
+          "word": "no",
+          "start": 125.42,
+          "end": 125.7
+        },
+        {
+          "word": "importa",
+          "start": 125.7,
+          "end": 126.44
+        },
+        {
+          "word": "el",
+          "start": 126.44,
+          "end": 127.58
+        },
+        {
+          "word": "medio,",
+          "start": 127.58,
+          "end": 128.18
+        },
+        {
+          "word": "oh",
+          "start": 128.38,
+          "end": 129.04
+        },
+        {
+          "word": "Señor,",
+          "start": 129.04,
+          "end": 130.26
+        }
+      ],
+      "start": 125.42,
+      "end": 131.02,
+      "confidence": 1.0,
+      "time": 125.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡oh, límpiame!, ¡oh, límpiame!",
+      "words": [
+        {
+          "word": "oh,",
+          "start": 131.02,
+          "end": 131.24
+        },
+        {
+          "word": "límpiame,",
+          "start": 131.24,
+          "end": 133.16
+        },
+        {
+          "word": "oh,",
+          "start": 133.42,
+          "end": 134.04
+        },
+        {
+          "word": "límpiame.",
+          "start": 134.22,
+          "end": 136.18
+        }
+      ],
+      "start": 131.02,
+      "end": 136.18,
+      "confidence": 1.0,
+      "time": 131.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Quiero mi senda enderezar,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 136.18,
+          "end": 137.74
+        },
+        {
+          "word": "mi",
+          "start": 137.74,
+          "end": 138.26
+        },
+        {
+          "word": "sed",
+          "start": 138.26,
+          "end": 139.46
+        },
+        {
+          "word": "merezar,",
+          "start": 140.28,
+          "end": 142.04
+        }
+      ],
+      "start": 136.18,
+      "end": 143.22,
+      "confidence": 0.925,
+      "time": 136.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "libre del mal ser quiero hoy;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "del",
+          "start": 143.22,
+          "end": 143.84
+        },
+        {
+          "word": "mar",
+          "start": 143.84,
+          "end": 144.78
+        },
+        {
+          "word": "se",
+          "start": 144.78,
+          "end": 145.24
+        },
+        {
+          "word": "adhiero,",
+          "start": 145.24,
+          "end": 147.4
+        }
+      ],
+      "start": 143.22,
+      "end": 148.0,
+      "confidence": 0.585,
+      "time": 143.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "pero sin ti vano es luchar,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "pero",
+          "start": 148.0,
+          "end": 148.5
+        },
+        {
+          "word": "sin",
+          "start": 148.5,
+          "end": 148.96
+        },
+        {
+          "word": "ti",
+          "start": 148.96,
+          "end": 150.26
+        },
+        {
+          "word": "vago",
+          "start": 150.26,
+          "end": 151.04
+        },
+        {
+          "word": "es",
+          "start": 151.04,
+          "end": 151.44
+        },
+        {
+          "word": "luchar,",
+          "start": 151.44,
+          "end": 152.7
+        }
+      ],
+      "start": 148.0,
+      "end": 153.18,
+      "confidence": 0.975,
+      "time": 148.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "indigno soy, indigno soy.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "indigno",
+          "start": 153.18,
+          "end": 154.56
+        },
+        {
+          "word": "soy,",
+          "start": 154.56,
+          "end": 155.24
+        },
+        {
+          "word": "indigno",
+          "start": 155.54,
+          "end": 157.02
+        },
+        {
+          "word": "soy.",
+          "start": 157.02,
+          "end": 157.96
+        }
+      ],
+      "start": 153.18,
+      "end": 157.96,
+      "confidence": 1.0,
+      "time": 153.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Oh, límpiame de mi maldad",
+      "words": [
+        {
+          "word": "Olímpiame",
+          "start": 157.96,
+          "end": 160.32
+        },
+        {
+          "word": "de",
+          "start": 160.32,
+          "end": 161.16
+        },
+        {
+          "word": "mi",
+          "start": 161.16,
+          "end": 161.72
+        },
+        {
+          "word": "maldad,",
+          "start": 161.72,
+          "end": 163.04
+        }
+      ],
+      "start": 157.96,
+      "end": 163.04,
+      "confidence": 0.793,
+      "time": 157.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "en tu crisol, si he menester!",
+      "words": [
+        {
+          "word": "en",
+          "start": 163.64,
+          "end": 163.98
+        },
+        {
+          "word": "tu",
+          "start": 163.98,
+          "end": 164.32
+        },
+        {
+          "word": "cristal",
+          "start": 164.32,
+          "end": 165.88
+        },
+        {
+          "word": "esté.",
+          "start": 166.78,
+          "end": 168.18
+        }
+      ],
+      "start": 163.64,
+      "end": 168.18,
+      "confidence": 0.61,
+      "time": 163.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "No importa el medio, oh Señor,",
+      "words": [
+        {
+          "word": "No",
+          "start": 168.68,
+          "end": 169.02
+        },
+        {
+          "word": "importa",
+          "start": 169.02,
+          "end": 169.68
+        },
+        {
+          "word": "el",
+          "start": 169.68,
+          "end": 170.82
+        },
+        {
+          "word": "medio,",
+          "start": 170.82,
+          "end": 171.46
+        },
+        {
+          "word": "oh",
+          "start": 171.46,
+          "end": 172.52
+        },
+        {
+          "word": "Señor,",
+          "start": 172.52,
+          "end": 173.22
+        }
+      ],
+      "start": 168.68,
+      "end": 173.22,
+      "confidence": 1.0,
+      "time": 168.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡oh, límpiame!, ¡oh, límpiame!",
+      "words": [
+        {
+          "word": "olímpiame,",
+          "start": 177.42,
+          "end": 178.82
+        },
+        {
+          "word": "olímpiame.",
+          "start": 178.82,
+          "end": 180.22
+        }
+      ],
+      "start": 177.42,
+      "end": 180.22,
+      "confidence": 0.482,
+      "time": 177.42
+    }
+  ]
+}

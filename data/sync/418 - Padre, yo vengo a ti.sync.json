@@ -1,0 +1,953 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.98,
+  "language": "es",
+  "model": "medium",
+  "hymn": 418,
+  "source": "418 - Padre, yo vengo a ti.mp3",
+  "duration": 222.12,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Padre, yo vengo a ti; solo hay en ti poder.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Padre,",
+          "start": 6.34,
+          "end": 7.74
+        },
+        {
+          "word": "yo",
+          "start": 8.32,
+          "end": 8.42
+        },
+        {
+          "word": "vengo",
+          "start": 8.42,
+          "end": 9.52
+        },
+        {
+          "word": "a",
+          "start": 9.52,
+          "end": 9.92
+        },
+        {
+          "word": "ti,",
+          "start": 9.92,
+          "end": 11.12
+        },
+        {
+          "word": "solo",
+          "start": 11.4,
+          "end": 12.62
+        },
+        {
+          "word": "hay",
+          "start": 12.62,
+          "end": 13.32
+        },
+        {
+          "word": "en",
+          "start": 13.32,
+          "end": 13.84
+        },
+        {
+          "word": "ti",
+          "start": 13.84,
+          "end": 14.74
+        },
+        {
+          "word": "poder,",
+          "start": 14.74,
+          "end": 16.08
+        }
+      ],
+      "start": 6.34,
+      "end": 16.8,
+      "confidence": 1.0,
+      "time": 6.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Protégeme, Señor, mi ayudador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "protejeme,",
+          "start": 16.8,
+          "end": 20.04
+        },
+        {
+          "word": "Señor,",
+          "start": 20.1,
+          "end": 21.4
+        },
+        {
+          "word": "mi",
+          "start": 21.82,
+          "end": 23.08
+        },
+        {
+          "word": "ayudador.",
+          "start": 23.08,
+          "end": 26.28
+        }
+      ],
+      "start": 16.8,
+      "end": 26.28,
+      "confidence": 0.983,
+      "time": 16.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Sombras tan solo aquí, más densas hoy que ayer,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Sombras",
+          "start": 26.28,
+          "end": 28.94
+        },
+        {
+          "word": "tan",
+          "start": 28.94,
+          "end": 29.68
+        },
+        {
+          "word": "solo",
+          "start": 29.68,
+          "end": 30.86
+        },
+        {
+          "word": "aquí,",
+          "start": 30.86,
+          "end": 32.14
+        },
+        {
+          "word": "más",
+          "start": 33.14,
+          "end": 33.72
+        },
+        {
+          "word": "tensas",
+          "start": 33.72,
+          "end": 35.22
+        },
+        {
+          "word": "hoy",
+          "start": 35.22,
+          "end": 36.04
+        },
+        {
+          "word": "que",
+          "start": 36.04,
+          "end": 36.36
+        },
+        {
+          "word": "ayer,",
+          "start": 36.36,
+          "end": 37.6
+        }
+      ],
+      "start": 26.28,
+      "end": 38.7,
+      "confidence": 0.989,
+      "time": 26.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "me cercan, mas me harás un vencedor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "me",
+          "start": 38.7,
+          "end": 39.2
+        },
+        {
+          "word": "cercan",
+          "start": 39.2,
+          "end": 40.42
+        },
+        {
+          "word": "más,",
+          "start": 40.42,
+          "end": 41.38
+        },
+        {
+          "word": "me",
+          "start": 41.6,
+          "end": 41.9
+        },
+        {
+          "word": "harás",
+          "start": 41.9,
+          "end": 43.08
+        },
+        {
+          "word": "un",
+          "start": 43.08,
+          "end": 44.52
+        },
+        {
+          "word": "vencedor.",
+          "start": 44.52,
+          "end": 47.28
+        }
+      ],
+      "start": 38.7,
+      "end": 47.28,
+      "confidence": 1.0,
+      "time": 38.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Padre, yo vengo a ti,",
+      "words": [
+        {
+          "word": "Padre,",
+          "start": 48.98,
+          "end": 50.38
+        },
+        {
+          "word": "yo",
+          "start": 50.98,
+          "end": 51.18
+        },
+        {
+          "word": "vengo",
+          "start": 51.18,
+          "end": 52.22
+        },
+        {
+          "word": "a",
+          "start": 52.22,
+          "end": 52.52
+        },
+        {
+          "word": "ti,",
+          "start": 52.52,
+          "end": 53.84
+        }
+      ],
+      "start": 48.98,
+      "end": 54.92,
+      "confidence": 1.0,
+      "time": 48.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "oye mi voz;",
+      "words": [
+        {
+          "word": "oye",
+          "start": 54.92,
+          "end": 55.7
+        },
+        {
+          "word": "mi",
+          "start": 55.7,
+          "end": 56.36
+        },
+        {
+          "word": "voz,",
+          "start": 56.36,
+          "end": 58.7
+        }
+      ],
+      "start": 54.92,
+      "end": 60.24,
+      "confidence": 1.0,
+      "time": 54.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "confío solo en ti,",
+      "words": [
+        {
+          "word": "confío",
+          "start": 60.24,
+          "end": 61.52
+        },
+        {
+          "word": "solo",
+          "start": 61.52,
+          "end": 62.86
+        },
+        {
+          "word": "en",
+          "start": 62.86,
+          "end": 63.48
+        },
+        {
+          "word": "ti,",
+          "start": 63.48,
+          "end": 64.5
+        }
+      ],
+      "start": 60.24,
+      "end": 65.14,
+      "confidence": 1.0,
+      "time": 60.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "dame tu amor.",
+      "words": [
+        {
+          "word": "cambe",
+          "start": 65.14,
+          "end": 66.38
+        },
+        {
+          "word": "tu",
+          "start": 66.38,
+          "end": 66.98
+        },
+        {
+          "word": "amor.",
+          "start": 66.98,
+          "end": 69.58
+        }
+      ],
+      "start": 65.14,
+      "end": 69.58,
+      "confidence": 0.933,
+      "time": 65.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Ampárame, Señor; dame tu dulce amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Amparame,",
+          "start": 74.74,
+          "end": 76.14
+        },
+        {
+          "word": "Señor,",
+          "start": 76.14,
+          "end": 77.54
+        },
+        {
+          "word": "dame",
+          "start": 78.6,
+          "end": 79.66
+        },
+        {
+          "word": "tu",
+          "start": 79.66,
+          "end": 80.38
+        },
+        {
+          "word": "dulce",
+          "start": 80.38,
+          "end": 81.56
+        },
+        {
+          "word": "amor,",
+          "start": 81.56,
+          "end": 82.72
+        }
+      ],
+      "start": 74.74,
+      "end": 83.92,
+      "confidence": 1.0,
+      "time": 74.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Aleja el mal de mí, dame tu paz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "aleja",
+          "start": 83.92,
+          "end": 85.34
+        },
+        {
+          "word": "el",
+          "start": 85.34,
+          "end": 85.78
+        },
+        {
+          "word": "mal",
+          "start": 85.78,
+          "end": 86.62
+        },
+        {
+          "word": "de",
+          "start": 86.62,
+          "end": 87.18
+        },
+        {
+          "word": "mí,",
+          "start": 87.18,
+          "end": 88.06
+        },
+        {
+          "word": "dame",
+          "start": 88.76,
+          "end": 90.46
+        },
+        {
+          "word": "tu",
+          "start": 90.46,
+          "end": 91.24
+        },
+        {
+          "word": "paz.",
+          "start": 91.24,
+          "end": 93.22
+        }
+      ],
+      "start": 83.92,
+      "end": 93.22,
+      "confidence": 1.0,
+      "time": 83.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Oh, Padre, líbrame de todo cruel dolor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Oh",
+          "start": 93.22,
+          "end": 94.92
+        },
+        {
+          "word": "Padre,",
+          "start": 94.92,
+          "end": 96.34
+        },
+        {
+          "word": "líbrame",
+          "start": 96.4,
+          "end": 98.52
+        },
+        {
+          "word": "de",
+          "start": 98.52,
+          "end": 100.5
+        },
+        {
+          "word": "todo",
+          "start": 100.5,
+          "end": 101.46
+        },
+        {
+          "word": "cruel",
+          "start": 101.46,
+          "end": 102.58
+        },
+        {
+          "word": "dolor,",
+          "start": 102.58,
+          "end": 103.94
+        }
+      ],
+      "start": 93.22,
+      "end": 104.88,
+      "confidence": 1.0,
+      "time": 93.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y en el cielo al fin vea tu faz!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 104.88,
+          "end": 105.98
+        },
+        {
+          "word": "en",
+          "start": 105.98,
+          "end": 106.78
+        },
+        {
+          "word": "el",
+          "start": 106.78,
+          "end": 107.18
+        },
+        {
+          "word": "cielo",
+          "start": 107.18,
+          "end": 108.04
+        },
+        {
+          "word": "al",
+          "start": 108.04,
+          "end": 108.46
+        },
+        {
+          "word": "fin",
+          "start": 108.46,
+          "end": 109.58
+        },
+        {
+          "word": "vea",
+          "start": 109.58,
+          "end": 111.9
+        },
+        {
+          "word": "tu",
+          "start": 111.9,
+          "end": 112.6
+        },
+        {
+          "word": "faz.",
+          "start": 112.6,
+          "end": 114.5
+        }
+      ],
+      "start": 104.88,
+      "end": 114.5,
+      "confidence": 1.0,
+      "time": 104.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Padre, yo vengo a ti,",
+      "words": [
+        {
+          "word": "Padre,",
+          "start": 114.5,
+          "end": 117.06
+        },
+        {
+          "word": "yo",
+          "start": 117.6,
+          "end": 117.92
+        },
+        {
+          "word": "vengo",
+          "start": 117.92,
+          "end": 118.8
+        },
+        {
+          "word": "a",
+          "start": 118.8,
+          "end": 119.26
+        },
+        {
+          "word": "ti,",
+          "start": 119.26,
+          "end": 120.5
+        }
+      ],
+      "start": 114.5,
+      "end": 121.08,
+      "confidence": 1.0,
+      "time": 114.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "oye mi voz;",
+      "words": [
+        {
+          "word": "oye",
+          "start": 121.08,
+          "end": 122.38
+        },
+        {
+          "word": "mi",
+          "start": 122.38,
+          "end": 123.04
+        },
+        {
+          "word": "voz,",
+          "start": 123.04,
+          "end": 125.34
+        }
+      ],
+      "start": 121.08,
+      "end": 126.64,
+      "confidence": 1.0,
+      "time": 121.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "confío solo en ti,",
+      "words": [
+        {
+          "word": "confío",
+          "start": 126.64,
+          "end": 128.24
+        },
+        {
+          "word": "solo",
+          "start": 128.24,
+          "end": 129.58
+        },
+        {
+          "word": "en",
+          "start": 129.58,
+          "end": 130.24
+        },
+        {
+          "word": "ti,",
+          "start": 130.24,
+          "end": 131.46
+        }
+      ],
+      "start": 126.64,
+      "end": 132.52,
+      "confidence": 1.0,
+      "time": 126.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "dame tu amor.",
+      "words": [
+        {
+          "word": "amé",
+          "start": 132.52,
+          "end": 133.52
+        },
+        {
+          "word": "tu",
+          "start": 133.52,
+          "end": 134.08
+        },
+        {
+          "word": "amor.",
+          "start": 134.08,
+          "end": 136.48
+        }
+      ],
+      "start": 132.52,
+      "end": 136.48,
+      "confidence": 0.971,
+      "time": 132.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Padre, yo vengo a ti; dame tu bendición.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Padre,",
+          "start": 140.1,
+          "end": 141.5
+        },
+        {
+          "word": "yo",
+          "start": 141.98,
+          "end": 142.24
+        },
+        {
+          "word": "vengo",
+          "start": 142.24,
+          "end": 143.26
+        },
+        {
+          "word": "a",
+          "start": 143.26,
+          "end": 143.72
+        },
+        {
+          "word": "ti,",
+          "start": 143.72,
+          "end": 144.86
+        },
+        {
+          "word": "dame",
+          "start": 145.42,
+          "end": 146.78
+        },
+        {
+          "word": "tu",
+          "start": 146.78,
+          "end": 147.5
+        },
+        {
+          "word": "bendición,",
+          "start": 147.5,
+          "end": 149.96
+        }
+      ],
+      "start": 140.1,
+      "end": 151.4,
+      "confidence": 1.0,
+      "time": 140.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Confío en ti, Señor; sé mi sostén.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "confío",
+          "start": 151.4,
+          "end": 152.34
+        },
+        {
+          "word": "en",
+          "start": 152.34,
+          "end": 152.9
+        },
+        {
+          "word": "ti,",
+          "start": 152.9,
+          "end": 153.82
+        },
+        {
+          "word": "Señor,",
+          "start": 153.84,
+          "end": 155.28
+        },
+        {
+          "word": "sé",
+          "start": 155.62,
+          "end": 157.02
+        },
+        {
+          "word": "mi",
+          "start": 157.02,
+          "end": 157.62
+        },
+        {
+          "word": "sostén.",
+          "start": 157.62,
+          "end": 160.32
+        }
+      ],
+      "start": 151.4,
+      "end": 160.32,
+      "confidence": 1.0,
+      "time": 151.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Tu gracia y tu poder llenen mi corazón.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "gracia",
+          "start": 162.9,
+          "end": 163.26
+        },
+        {
+          "word": "y",
+          "start": 163.26,
+          "end": 163.52
+        },
+        {
+          "word": "tu",
+          "start": 163.52,
+          "end": 164.52
+        },
+        {
+          "word": "poder,",
+          "start": 164.52,
+          "end": 165.96
+        },
+        {
+          "word": "mi",
+          "start": 168.38,
+          "end": 169.14
+        },
+        {
+          "word": "corazón,",
+          "start": 169.14,
+          "end": 171.2
+        }
+      ],
+      "start": 162.9,
+      "end": 172.68,
+      "confidence": 0.75,
+      "time": 162.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Guíame por tu amor al santo Edén.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "guía",
+          "start": 172.68,
+          "end": 173.36
+        },
+        {
+          "word": "por",
+          "start": 174.08,
+          "end": 175.16
+        },
+        {
+          "word": "tu",
+          "start": 175.16,
+          "end": 175.68
+        },
+        {
+          "word": "amor",
+          "start": 175.68,
+          "end": 176.7
+        },
+        {
+          "word": "al",
+          "start": 176.7,
+          "end": 178.26
+        },
+        {
+          "word": "santo",
+          "start": 178.26,
+          "end": 179.3
+        },
+        {
+          "word": "eterno.",
+          "start": 179.3,
+          "end": 181.32
+        }
+      ],
+      "start": 172.68,
+      "end": 181.32,
+      "confidence": 0.957,
+      "time": 172.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Padre, yo vengo a ti,",
+      "words": [
+        {
+          "word": "Padre,",
+          "start": 182.86,
+          "end": 184.26
+        },
+        {
+          "word": "yo",
+          "start": 184.9,
+          "end": 185.08
+        },
+        {
+          "word": "vengo",
+          "start": 185.08,
+          "end": 186.08
+        },
+        {
+          "word": "a",
+          "start": 186.08,
+          "end": 186.52
+        },
+        {
+          "word": "ti,",
+          "start": 186.52,
+          "end": 187.62
+        }
+      ],
+      "start": 182.86,
+      "end": 188.1,
+      "confidence": 1.0,
+      "time": 182.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "oye mi voz;",
+      "words": [
+        {
+          "word": "oye",
+          "start": 188.1,
+          "end": 189.5
+        },
+        {
+          "word": "mi",
+          "start": 189.5,
+          "end": 190.24
+        },
+        {
+          "word": "voz,",
+          "start": 190.24,
+          "end": 192.4
+        }
+      ],
+      "start": 188.1,
+      "end": 194.12,
+      "confidence": 1.0,
+      "time": 188.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "confío solo en ti,",
+      "words": [
+        {
+          "word": "confío",
+          "start": 194.12,
+          "end": 195.34
+        },
+        {
+          "word": "solo",
+          "start": 195.34,
+          "end": 196.64
+        },
+        {
+          "word": "en",
+          "start": 196.64,
+          "end": 197.3
+        },
+        {
+          "word": "ti,",
+          "start": 197.3,
+          "end": 198.54
+        }
+      ],
+      "start": 194.12,
+      "end": 199.62,
+      "confidence": 1.0,
+      "time": 194.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "dame tu amor.",
+      "words": [
+        {
+          "word": "dame",
+          "start": 199.62,
+          "end": 200.8
+        },
+        {
+          "word": "tu",
+          "start": 200.8,
+          "end": 201.42
+        },
+        {
+          "word": "amor.",
+          "start": 201.42,
+          "end": 205.26
+        }
+      ],
+      "start": 199.62,
+      "end": 205.26,
+      "confidence": 1.0,
+      "time": 199.62
+    }
+  ]
+}

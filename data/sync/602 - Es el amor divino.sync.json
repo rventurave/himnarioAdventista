@@ -1,0 +1,1035 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.909,
+  "language": "es",
+  "model": "medium",
+  "hymn": 602,
+  "source": "602 - Es el amor divino.mp3",
+  "duration": 169.59,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Es el amor divino",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Es",
+          "start": 19.86,
+          "end": 21.26
+        },
+        {
+          "word": "el",
+          "start": 21.26,
+          "end": 21.72
+        },
+        {
+          "word": "amor",
+          "start": 21.72,
+          "end": 22.72
+        },
+        {
+          "word": "divino,",
+          "start": 22.72,
+          "end": 24.34
+        }
+      ],
+      "start": 19.86,
+      "end": 25.9,
+      "confidence": 1.0,
+      "time": 19.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mi gozo y mi placer,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "mi",
+          "start": 25.9,
+          "end": 26.48
+        },
+        {
+          "word": "placer",
+          "start": 26.48,
+          "end": 27.9
+        }
+      ],
+      "start": 25.9,
+      "end": 27.9,
+      "confidence": 0.4,
+      "time": 25.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "allana mi camino",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 29.26,
+          "end": 29.72
+        },
+        {
+          "word": "mi",
+          "start": 29.72,
+          "end": 30.16
+        },
+        {
+          "word": "camino",
+          "start": 30.16,
+          "end": 31.26
+        }
+      ],
+      "start": 29.26,
+      "end": 31.26,
+      "confidence": 0.98,
+      "time": 29.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y me hace obedecer.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 31.26,
+          "end": 31.96
+        },
+        {
+          "word": "me",
+          "start": 31.96,
+          "end": 32.58
+        },
+        {
+          "word": "hace",
+          "start": 32.58,
+          "end": 33.12
+        },
+        {
+          "word": "obedecer",
+          "start": 33.12,
+          "end": 35.9
+        }
+      ],
+      "start": 31.26,
+      "end": 35.9,
+      "confidence": 1.0,
+      "time": 31.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Dios es amor,",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 35.9,
+          "end": 37.1
+        },
+        {
+          "word": "es",
+          "start": 37.1,
+          "end": 38.04
+        },
+        {
+          "word": "amor,",
+          "start": 38.04,
+          "end": 39.72
+        }
+      ],
+      "start": 35.9,
+      "end": 40.32,
+      "confidence": 1.0,
+      "time": 35.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "soy su pequeñuelo;",
+      "words": [
+        {
+          "word": "soy",
+          "start": 40.32,
+          "end": 40.42
+        },
+        {
+          "word": "su",
+          "start": 40.42,
+          "end": 40.94
+        },
+        {
+          "word": "pequeño",
+          "start": 40.94,
+          "end": 42.08
+        }
+      ],
+      "start": 40.32,
+      "end": 43.72,
+      "confidence": 0.965,
+      "time": 40.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "quiero ser santo",
+      "words": [
+        {
+          "word": "quiero",
+          "start": 43.72,
+          "end": 44.86
+        },
+        {
+          "word": "ser",
+          "start": 44.86,
+          "end": 47.16
+        },
+        {
+          "word": "santo",
+          "start": 47.16,
+          "end": 48.26
+        }
+      ],
+      "start": 43.72,
+      "end": 48.26,
+      "confidence": 1.0,
+      "time": 43.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "como es él.",
+      "words": [
+        {
+          "word": "como",
+          "start": 48.26,
+          "end": 49.04
+        },
+        {
+          "word": "es",
+          "start": 49.04,
+          "end": 49.6
+        },
+        {
+          "word": "Él",
+          "start": 49.6,
+          "end": 50.56
+        }
+      ],
+      "start": 48.26,
+      "end": 50.56,
+      "confidence": 1.0,
+      "time": 48.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Es el amor divino",
+      "words": [
+        {
+          "word": "es",
+          "start": 50.56,
+          "end": 51.46
+        },
+        {
+          "word": "el",
+          "start": 51.46,
+          "end": 52.1
+        },
+        {
+          "word": "amor",
+          "start": 52.1,
+          "end": 52.7
+        },
+        {
+          "word": "divino,",
+          "start": 52.7,
+          "end": 54.46
+        }
+      ],
+      "start": 50.56,
+      "end": 55.92,
+      "confidence": 1.0,
+      "time": 50.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "mi gozo y mi placer,",
+      "words": [
+        {
+          "word": "mi",
+          "start": 55.92,
+          "end": 56.46
+        },
+        {
+          "word": "placer",
+          "start": 56.46,
+          "end": 57.74
+        }
+      ],
+      "start": 55.92,
+      "end": 57.74,
+      "confidence": 0.4,
+      "time": 55.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "allana mi camino",
+      "words": [
+        {
+          "word": "a",
+          "start": 59.22,
+          "end": 59.74
+        },
+        {
+          "word": "mi",
+          "start": 59.74,
+          "end": 60.18
+        },
+        {
+          "word": "camino",
+          "start": 60.18,
+          "end": 61.32
+        }
+      ],
+      "start": 59.22,
+      "end": 61.32,
+      "confidence": 0.98,
+      "time": 59.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y me hace obedecer.",
+      "words": [
+        {
+          "word": "y",
+          "start": 61.32,
+          "end": 62.04
+        },
+        {
+          "word": "me",
+          "start": 62.04,
+          "end": 62.64
+        },
+        {
+          "word": "hace",
+          "start": 62.64,
+          "end": 63.2
+        },
+        {
+          "word": "obedecer.",
+          "start": 63.2,
+          "end": 65.74
+        }
+      ],
+      "start": 61.32,
+      "end": 65.74,
+      "confidence": 1.0,
+      "time": 61.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Del triste mundo lleno",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Del",
+          "start": 67.32,
+          "end": 68.02
+        },
+        {
+          "word": "triste",
+          "start": 68.02,
+          "end": 68.98
+        },
+        {
+          "word": "mundo",
+          "start": 68.98,
+          "end": 69.8
+        },
+        {
+          "word": "lleno",
+          "start": 69.8,
+          "end": 71.32
+        }
+      ],
+      "start": 67.32,
+      "end": 71.32,
+      "confidence": 1.0,
+      "time": 67.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de muerte y dolor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 71.32,
+          "end": 71.86
+        },
+        {
+          "word": "muerte",
+          "start": 71.86,
+          "end": 72.6
+        },
+        {
+          "word": "y",
+          "start": 72.6,
+          "end": 73.3
+        },
+        {
+          "word": "dolor",
+          "start": 73.3,
+          "end": 74.72
+        }
+      ],
+      "start": 71.32,
+      "end": 74.72,
+      "confidence": 1.0,
+      "time": 71.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "quisiera yo llevar a Dios",
+      "verse": 2,
+      "words": [
+        {
+          "word": "quisiera",
+          "start": 74.72,
+          "end": 76.48
+        },
+        {
+          "word": "yo",
+          "start": 76.48,
+          "end": 77.14
+        },
+        {
+          "word": "llevar",
+          "start": 77.14,
+          "end": 78.0
+        },
+        {
+          "word": "a",
+          "start": 78.0,
+          "end": 78.48
+        },
+        {
+          "word": "Dios",
+          "start": 78.48,
+          "end": 78.8
+        }
+      ],
+      "start": 74.72,
+      "end": 78.8,
+      "confidence": 1.0,
+      "time": 74.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "un pobre pecador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "un",
+          "start": 78.8,
+          "end": 79.38
+        },
+        {
+          "word": "pobre",
+          "start": 79.38,
+          "end": 80.2
+        },
+        {
+          "word": "pecador.",
+          "start": 80.2,
+          "end": 82.78
+        }
+      ],
+      "start": 78.8,
+      "end": 82.78,
+      "confidence": 1.0,
+      "time": 78.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Dios es amor,",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 82.78,
+          "end": 84.0
+        },
+        {
+          "word": "es",
+          "start": 84.0,
+          "end": 84.7
+        },
+        {
+          "word": "amor,",
+          "start": 84.7,
+          "end": 86.54
+        }
+      ],
+      "start": 82.78,
+      "end": 87.06,
+      "confidence": 1.0,
+      "time": 82.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "soy su pequeñuelo;",
+      "words": [
+        {
+          "word": "soy",
+          "start": 87.06,
+          "end": 87.24
+        },
+        {
+          "word": "su",
+          "start": 87.24,
+          "end": 87.92
+        },
+        {
+          "word": "Pequeñelo,",
+          "start": 87.92,
+          "end": 90.24
+        }
+      ],
+      "start": 87.06,
+      "end": 90.86,
+      "confidence": 0.989,
+      "time": 87.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "quiero ser santo",
+      "words": [
+        {
+          "word": "quiero",
+          "start": 90.86,
+          "end": 91.86
+        },
+        {
+          "word": "ser",
+          "start": 91.86,
+          "end": 94.04
+        },
+        {
+          "word": "santo",
+          "start": 94.04,
+          "end": 95.1
+        }
+      ],
+      "start": 90.86,
+      "end": 95.1,
+      "confidence": 1.0,
+      "time": 90.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "como es él.",
+      "words": [
+        {
+          "word": "como",
+          "start": 95.1,
+          "end": 95.92
+        },
+        {
+          "word": "es",
+          "start": 95.92,
+          "end": 96.42
+        },
+        {
+          "word": "Él,",
+          "start": 96.42,
+          "end": 97.34
+        }
+      ],
+      "start": 95.1,
+      "end": 97.34,
+      "confidence": 1.0,
+      "time": 95.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Es el amor divino",
+      "words": [
+        {
+          "word": "es",
+          "start": 97.64,
+          "end": 98.34
+        },
+        {
+          "word": "el",
+          "start": 98.34,
+          "end": 98.96
+        },
+        {
+          "word": "amor",
+          "start": 98.96,
+          "end": 99.54
+        },
+        {
+          "word": "divino,",
+          "start": 99.54,
+          "end": 101.2
+        }
+      ],
+      "start": 97.64,
+      "end": 102.82,
+      "confidence": 1.0,
+      "time": 97.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "mi gozo y mi placer,",
+      "words": [
+        {
+          "word": "mi",
+          "start": 102.82,
+          "end": 103.32
+        },
+        {
+          "word": "placer,",
+          "start": 103.32,
+          "end": 104.88
+        }
+      ],
+      "start": 102.82,
+      "end": 104.88,
+      "confidence": 0.4,
+      "time": 102.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "allana mi camino",
+      "words": [
+        {
+          "word": "Allana",
+          "start": 104.88,
+          "end": 106.52
+        },
+        {
+          "word": "mi",
+          "start": 106.52,
+          "end": 107.04
+        },
+        {
+          "word": "camino",
+          "start": 107.04,
+          "end": 108.18
+        }
+      ],
+      "start": 104.88,
+      "end": 108.18,
+      "confidence": 1.0,
+      "time": 104.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y me hace obedecer.",
+      "words": [
+        {
+          "word": "y",
+          "start": 108.18,
+          "end": 108.94
+        },
+        {
+          "word": "me",
+          "start": 108.94,
+          "end": 109.54
+        },
+        {
+          "word": "hace",
+          "start": 109.54,
+          "end": 110.06
+        },
+        {
+          "word": "obedecer",
+          "start": 110.06,
+          "end": 113.02
+        }
+      ],
+      "start": 108.18,
+      "end": 113.02,
+      "confidence": 1.0,
+      "time": 108.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Y cuando vaya al cielo",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 115.42,
+          "end": 116.82
+        },
+        {
+          "word": "cuando",
+          "start": 116.82,
+          "end": 117.74
+        },
+        {
+          "word": "vaya",
+          "start": 117.74,
+          "end": 118.38
+        },
+        {
+          "word": "al",
+          "start": 118.38,
+          "end": 118.82
+        },
+        {
+          "word": "cielo",
+          "start": 118.82,
+          "end": 119.7
+        }
+      ],
+      "start": 115.42,
+      "end": 119.7,
+      "confidence": 1.0,
+      "time": 115.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "con Cristo, mi Señor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 119.7,
+          "end": 120.62
+        },
+        {
+          "word": "Cristo",
+          "start": 120.62,
+          "end": 121.36
+        },
+        {
+          "word": "mi",
+          "start": 121.36,
+          "end": 122.02
+        },
+        {
+          "word": "Señor",
+          "start": 122.02,
+          "end": 122.88
+        }
+      ],
+      "start": 119.7,
+      "end": 122.88,
+      "confidence": 1.0,
+      "time": 119.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "allí por siempre cantaré",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Allí",
+          "start": 123.4,
+          "end": 124.78
+        },
+        {
+          "word": "por",
+          "start": 124.78,
+          "end": 125.26
+        },
+        {
+          "word": "siempre",
+          "start": 125.26,
+          "end": 126.1
+        },
+        {
+          "word": "cantaré",
+          "start": 126.1,
+          "end": 127.48
+        }
+      ],
+      "start": 123.4,
+      "end": 127.48,
+      "confidence": 1.0,
+      "time": 123.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "de Dios y de su amor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 127.48,
+          "end": 128.1
+        },
+        {
+          "word": "Dios",
+          "start": 128.1,
+          "end": 128.56
+        },
+        {
+          "word": "y",
+          "start": 128.56,
+          "end": 129.14
+        },
+        {
+          "word": "de",
+          "start": 129.14,
+          "end": 129.48
+        },
+        {
+          "word": "su",
+          "start": 129.48,
+          "end": 129.8
+        },
+        {
+          "word": "amor",
+          "start": 129.8,
+          "end": 131.38
+        }
+      ],
+      "start": 127.48,
+      "end": 131.38,
+      "confidence": 1.0,
+      "time": 127.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Dios es amor,",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 131.38,
+          "end": 132.78
+        },
+        {
+          "word": "es",
+          "start": 132.78,
+          "end": 133.64
+        },
+        {
+          "word": "amor,",
+          "start": 133.64,
+          "end": 135.36
+        }
+      ],
+      "start": 131.38,
+      "end": 135.9,
+      "confidence": 1.0,
+      "time": 131.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "soy su pequeñuelo;",
+      "words": [
+        {
+          "word": "soy",
+          "start": 135.9,
+          "end": 136.02
+        },
+        {
+          "word": "su",
+          "start": 136.02,
+          "end": 136.62
+        },
+        {
+          "word": "Pequeñelo,",
+          "start": 136.62,
+          "end": 139.06
+        }
+      ],
+      "start": 135.9,
+      "end": 139.62,
+      "confidence": 0.989,
+      "time": 135.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "quiero ser santo",
+      "words": [
+        {
+          "word": "quiero",
+          "start": 139.62,
+          "end": 140.62
+        },
+        {
+          "word": "ser",
+          "start": 140.62,
+          "end": 142.9
+        },
+        {
+          "word": "santo",
+          "start": 142.9,
+          "end": 143.96
+        }
+      ],
+      "start": 139.62,
+      "end": 143.96,
+      "confidence": 1.0,
+      "time": 139.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "como es él.",
+      "words": [
+        {
+          "word": "como",
+          "start": 143.96,
+          "end": 144.76
+        },
+        {
+          "word": "es",
+          "start": 144.76,
+          "end": 145.28
+        },
+        {
+          "word": "Él.",
+          "start": 145.28,
+          "end": 146.14
+        }
+      ],
+      "start": 143.96,
+      "end": 146.14,
+      "confidence": 1.0,
+      "time": 143.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Es el amor divino",
+      "words": [
+        {
+          "word": "Es",
+          "start": 146.14,
+          "end": 147.14
+        },
+        {
+          "word": "el",
+          "start": 147.14,
+          "end": 147.72
+        },
+        {
+          "word": "amor",
+          "start": 147.72,
+          "end": 148.34
+        },
+        {
+          "word": "divino,",
+          "start": 148.34,
+          "end": 150.1
+        }
+      ],
+      "start": 146.14,
+      "end": 151.56,
+      "confidence": 1.0,
+      "time": 146.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "mi gozo y mi placer,",
+      "words": [
+        {
+          "word": "mi",
+          "start": 151.56,
+          "end": 152.12
+        },
+        {
+          "word": "placer.",
+          "start": 152.12,
+          "end": 153.64
+        }
+      ],
+      "start": 151.56,
+      "end": 153.64,
+      "confidence": 0.4,
+      "time": 151.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "allana mi camino",
+      "words": [
+        {
+          "word": "a",
+          "start": 154.86,
+          "end": 155.4
+        },
+        {
+          "word": "mi",
+          "start": 155.4,
+          "end": 155.82
+        },
+        {
+          "word": "camino",
+          "start": 155.82,
+          "end": 156.96
+        }
+      ],
+      "start": 154.86,
+      "end": 156.96,
+      "confidence": 0.98,
+      "time": 154.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y me hace obedecer.",
+      "words": [
+        {
+          "word": "y",
+          "start": 156.96,
+          "end": 157.8
+        },
+        {
+          "word": "me",
+          "start": 157.8,
+          "end": 158.26
+        },
+        {
+          "word": "hace",
+          "start": 158.26,
+          "end": 158.86
+        },
+        {
+          "word": "obedecer.",
+          "start": 158.86,
+          "end": 162.78
+        }
+      ],
+      "start": 156.96,
+      "end": 162.78,
+      "confidence": 1.0,
+      "time": 156.96
+    }
+  ]
+}

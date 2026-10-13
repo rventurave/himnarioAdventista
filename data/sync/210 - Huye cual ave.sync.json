@@ -1,0 +1,566 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.875,
+  "language": "es",
+  "model": "medium",
+  "hymn": 210,
+  "source": "210 - Huye cual ave.mp3",
+  "duration": 154.67,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Huye cual ave a tu monte,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Uye",
+          "start": 17.3,
+          "end": 18.7
+        },
+        {
+          "word": "cualate",
+          "start": 18.7,
+          "end": 20.04
+        },
+        {
+          "word": "a",
+          "start": 20.04,
+          "end": 20.52
+        },
+        {
+          "word": "tu",
+          "start": 20.52,
+          "end": 20.7
+        },
+        {
+          "word": "monte",
+          "start": 20.7,
+          "end": 23.78
+        }
+      ],
+      "start": 17.3,
+      "end": 23.78,
+      "confidence": 0.809,
+      "time": 17.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "alma abrumada del mal;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Alma",
+          "start": 23.78,
+          "end": 25.68
+        },
+        {
+          "word": "abrumada",
+          "start": 25.68,
+          "end": 27.78
+        },
+        {
+          "word": "del",
+          "start": 27.78,
+          "end": 28.14
+        },
+        {
+          "word": "mar",
+          "start": 28.14,
+          "end": 30.78
+        }
+      ],
+      "start": 23.78,
+      "end": 30.78,
+      "confidence": 0.95,
+      "time": 23.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "allí en Jesús, clara fuente,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Allí",
+          "start": 31.66,
+          "end": 33.24
+        },
+        {
+          "word": "en",
+          "start": 33.24,
+          "end": 33.42
+        },
+        {
+          "word": "Jesús",
+          "start": 33.42,
+          "end": 34.52
+        },
+        {
+          "word": "clara",
+          "start": 34.52,
+          "end": 35.48
+        },
+        {
+          "word": "fuente",
+          "start": 35.48,
+          "end": 38.92
+        }
+      ],
+      "start": 31.66,
+      "end": 38.92,
+      "confidence": 1.0,
+      "time": 31.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "lava tu lepra mortal.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "La",
+          "start": 38.92,
+          "end": 40.24
+        },
+        {
+          "word": "patulepra",
+          "start": 40.24,
+          "end": 42.54
+        },
+        {
+          "word": "mortal",
+          "start": 42.54,
+          "end": 45.9
+        }
+      ],
+      "start": 38.92,
+      "end": 45.9,
+      "confidence": 0.692,
+      "time": 38.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Huye del mal vergonzoso,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Huye",
+          "start": 45.9,
+          "end": 48.1
+        },
+        {
+          "word": "del",
+          "start": 48.1,
+          "end": 48.48
+        },
+        {
+          "word": "mal",
+          "start": 48.48,
+          "end": 49.28
+        },
+        {
+          "word": "vergonzoso,",
+          "start": 49.28,
+          "end": 53.66
+        }
+      ],
+      "start": 45.9,
+      "end": 54.3,
+      "confidence": 1.0,
+      "time": 45.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "clame tu ser, temeroso;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "clame",
+          "start": 54.3,
+          "end": 55.56
+        },
+        {
+          "word": "tu",
+          "start": 55.56,
+          "end": 55.84
+        },
+        {
+          "word": "ser",
+          "start": 55.84,
+          "end": 56.7
+        },
+        {
+          "word": "temeroso,",
+          "start": 56.7,
+          "end": 60.92
+        }
+      ],
+      "start": 54.3,
+      "end": 60.92,
+      "confidence": 1.0,
+      "time": 54.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo te ofrece reposo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 60.92,
+          "end": 62.6
+        },
+        {
+          "word": "te",
+          "start": 62.6,
+          "end": 63.24
+        },
+        {
+          "word": "ofrece",
+          "start": 63.24,
+          "end": 64.78
+        },
+        {
+          "word": "reposo,",
+          "start": 64.78,
+          "end": 67.96
+        }
+      ],
+      "start": 60.92,
+      "end": 68.62,
+      "confidence": 1.0,
+      "time": 60.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡oh! alma abrumada del mal;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "oh",
+          "start": 68.62,
+          "end": 68.94
+        },
+        {
+          "word": "alma",
+          "start": 68.94,
+          "end": 70.2
+        },
+        {
+          "word": "brumada",
+          "start": 70.2,
+          "end": 72.08
+        },
+        {
+          "word": "del",
+          "start": 72.08,
+          "end": 72.54
+        },
+        {
+          "word": "mal,",
+          "start": 72.54,
+          "end": 73.84
+        }
+      ],
+      "start": 68.62,
+      "end": 74.2,
+      "confidence": 0.992,
+      "time": 68.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡oh! alma abrumada del mal.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "oh",
+          "start": 74.2,
+          "end": 76.06
+        },
+        {
+          "word": "alma",
+          "start": 76.06,
+          "end": 77.36
+        },
+        {
+          "word": "brumada",
+          "start": 77.36,
+          "end": 79.42
+        },
+        {
+          "word": "del",
+          "start": 79.42,
+          "end": 80.12
+        },
+        {
+          "word": "mal.",
+          "start": 80.12,
+          "end": 83.2
+        }
+      ],
+      "start": 74.2,
+      "end": 83.2,
+      "confidence": 0.992,
+      "time": 74.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Quiere el Maestro salvarte,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Quiere",
+          "start": 83.2,
+          "end": 85.3
+        },
+        {
+          "word": "el",
+          "start": 85.3,
+          "end": 85.74
+        },
+        {
+          "word": "Maestro",
+          "start": 85.74,
+          "end": 87.28
+        },
+        {
+          "word": "salvarte,",
+          "start": 87.28,
+          "end": 90.8
+        }
+      ],
+      "start": 83.2,
+      "end": 91.82,
+      "confidence": 1.0,
+      "time": 83.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "tu llanto enjugará;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tu",
+          "start": 91.82,
+          "end": 92.24
+        },
+        {
+          "word": "llanto",
+          "start": 92.24,
+          "end": 93.26
+        },
+        {
+          "word": "enjugará,",
+          "start": 93.26,
+          "end": 98.14
+        }
+      ],
+      "start": 91.82,
+      "end": 99.54,
+      "confidence": 1.0,
+      "time": 91.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "promete nunca dejarte,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "promete",
+          "start": 99.54,
+          "end": 100.52
+        },
+        {
+          "word": "nunca",
+          "start": 100.52,
+          "end": 102.16
+        },
+        {
+          "word": "dejarte,",
+          "start": 102.16,
+          "end": 105.68
+        }
+      ],
+      "start": 99.54,
+      "end": 106.4,
+      "confidence": 1.0,
+      "time": 99.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "defensa fiel te será.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "defensa",
+          "start": 106.4,
+          "end": 107.84
+        },
+        {
+          "word": "fiel",
+          "start": 107.84,
+          "end": 108.9
+        },
+        {
+          "word": "te",
+          "start": 108.9,
+          "end": 109.7
+        },
+        {
+          "word": "será.",
+          "start": 109.7,
+          "end": 110.22
+        }
+      ],
+      "start": 106.4,
+      "end": 110.22,
+      "confidence": 1.0,
+      "time": 106.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Ven, pues, va el día volando;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Ven",
+          "start": 112.88,
+          "end": 114.28
+        },
+        {
+          "word": "pues,",
+          "start": 114.28,
+          "end": 115.1
+        },
+        {
+          "word": "volando,",
+          "start": 116.9,
+          "end": 120.36
+        }
+      ],
+      "start": 112.88,
+      "end": 121.0,
+      "confidence": 0.5,
+      "time": 112.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "no andes más suspirando",
+      "verse": 2,
+      "words": [
+        {
+          "word": "no",
+          "start": 121.0,
+          "end": 121.92
+        },
+        {
+          "word": "andes",
+          "start": 121.92,
+          "end": 122.84
+        },
+        {
+          "word": "más",
+          "start": 122.84,
+          "end": 123.62
+        },
+        {
+          "word": "suspirando,",
+          "start": 123.62,
+          "end": 127.68
+        }
+      ],
+      "start": 121.0,
+      "end": 128.14,
+      "confidence": 1.0,
+      "time": 121.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "ni te detengas llorando:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ni",
+          "start": 128.14,
+          "end": 129.12
+        },
+        {
+          "word": "te",
+          "start": 129.12,
+          "end": 130.04
+        },
+        {
+          "word": "detengas",
+          "start": 130.04,
+          "end": 131.7
+        },
+        {
+          "word": "llorando,",
+          "start": 131.7,
+          "end": 134.82
+        }
+      ],
+      "start": 128.14,
+      "end": 134.82,
+      "confidence": 1.0,
+      "time": 128.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "tus males Jesús quitará;",
+      "verse": 2,
+      "start": 134.82,
+      "end": 135.02,
+      "confidence": 0.0,
+      "time": 134.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "tus males Jesús quitará.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¡Tus",
+          "start": 134.82,
+          "end": 135.8
+        },
+        {
+          "word": "males",
+          "start": 135.8,
+          "end": 137.16
+        },
+        {
+          "word": "Jesús",
+          "start": 137.16,
+          "end": 138.38
+        },
+        {
+          "word": "quitará!",
+          "start": 138.38,
+          "end": 140.72
+        }
+      ],
+      "start": 135.02,
+      "end": 135.22,
+      "confidence": 1.0,
+      "time": 135.02
+    }
+  ]
+}

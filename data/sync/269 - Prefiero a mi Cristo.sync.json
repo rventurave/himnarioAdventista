@@ -1,0 +1,1083 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.987,
+  "language": "es",
+  "model": "medium",
+  "hymn": 269,
+  "source": "269 - Prefiero a mi Cristo.mp3",
+  "duration": 249.18,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Prefiero a mi Cristo al vano oropel;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Deciero",
+          "start": 23.18,
+          "end": 24.54
+        },
+        {
+          "word": "a",
+          "start": 24.54,
+          "end": 24.82
+        },
+        {
+          "word": "mi",
+          "start": 24.82,
+          "end": 25.12
+        },
+        {
+          "word": "Cristo,",
+          "start": 25.12,
+          "end": 26.66
+        },
+        {
+          "word": "al",
+          "start": 27.42,
+          "end": 27.58
+        },
+        {
+          "word": "vano",
+          "start": 27.58,
+          "end": 29.38
+        },
+        {
+          "word": "europeo,",
+          "start": 29.38,
+          "end": 29.98
+        }
+      ],
+      "start": 23.18,
+      "end": 29.98,
+      "confidence": 0.938,
+      "time": 23.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "prefiero su gracia a riquezas sin fin.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Prefiero",
+          "start": 32.34,
+          "end": 33.74
+        },
+        {
+          "word": "Su",
+          "start": 33.74,
+          "end": 34.3
+        },
+        {
+          "word": "gracia,",
+          "start": 34.3,
+          "end": 36.18
+        },
+        {
+          "word": "riqueza",
+          "start": 36.42,
+          "end": 37.96
+        },
+        {
+          "word": "sin",
+          "start": 37.96,
+          "end": 38.96
+        },
+        {
+          "word": "fin",
+          "start": 38.96,
+          "end": 40.28
+        }
+      ],
+      "start": 32.34,
+      "end": 40.28,
+      "confidence": 0.849,
+      "time": 32.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "A casas y tierras prefiérole a él;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "A",
+          "start": 40.28,
+          "end": 41.42
+        },
+        {
+          "word": "casas",
+          "start": 41.42,
+          "end": 43.18
+        },
+        {
+          "word": "y",
+          "start": 43.18,
+          "end": 43.42
+        },
+        {
+          "word": "tierras",
+          "start": 43.42,
+          "end": 45.34
+        },
+        {
+          "word": "prefierole",
+          "start": 45.34,
+          "end": 48.14
+        },
+        {
+          "word": "a",
+          "start": 48.14,
+          "end": 48.62
+        },
+        {
+          "word": "Él",
+          "start": 48.62,
+          "end": 49.48
+        }
+      ],
+      "start": 40.28,
+      "end": 49.48,
+      "confidence": 1.0,
+      "time": 40.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "será de mi alma fuerte paladín.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Será",
+          "start": 49.48,
+          "end": 51.0
+        },
+        {
+          "word": "de",
+          "start": 51.0,
+          "end": 52.12
+        },
+        {
+          "word": "mi",
+          "start": 52.12,
+          "end": 52.92
+        },
+        {
+          "word": "alma",
+          "start": 52.92,
+          "end": 54.08
+        },
+        {
+          "word": "fuerte",
+          "start": 54.08,
+          "end": 55.0
+        },
+        {
+          "word": "baladín",
+          "start": 55.0,
+          "end": 57.98
+        }
+      ],
+      "start": 49.48,
+      "end": 57.98,
+      "confidence": 0.986,
+      "time": 49.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Antes que ser rey de cualquier nación",
+      "words": [
+        {
+          "word": "antes",
+          "start": 57.98,
+          "end": 59.62
+        },
+        {
+          "word": "que",
+          "start": 59.62,
+          "end": 61.2
+        },
+        {
+          "word": "ser",
+          "start": 61.2,
+          "end": 61.96
+        },
+        {
+          "word": "rey",
+          "start": 61.96,
+          "end": 63.52
+        },
+        {
+          "word": "de",
+          "start": 63.52,
+          "end": 64.04
+        },
+        {
+          "word": "cualquier",
+          "start": 64.04,
+          "end": 65.46
+        },
+        {
+          "word": "nación",
+          "start": 65.46,
+          "end": 67.76
+        }
+      ],
+      "start": 57.98,
+      "end": 67.76,
+      "confidence": 1.0,
+      "time": 57.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y en pecado gobernar,",
+      "words": [
+        {
+          "word": "y",
+          "start": 67.76,
+          "end": 68.52
+        },
+        {
+          "word": "en",
+          "start": 68.52,
+          "end": 68.76
+        },
+        {
+          "word": "pecado",
+          "start": 68.76,
+          "end": 71.06
+        },
+        {
+          "word": "gobernar.",
+          "start": 71.06,
+          "end": 77.16
+        }
+      ],
+      "start": 67.76,
+      "end": 77.16,
+      "confidence": 1.0,
+      "time": 67.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "prefiero a mi Cristo, sublime don",
+      "words": [
+        {
+          "word": "Prefiero",
+          "start": 77.16,
+          "end": 79.8
+        },
+        {
+          "word": "a",
+          "start": 79.8,
+          "end": 80.18
+        },
+        {
+          "word": "mi",
+          "start": 80.18,
+          "end": 80.44
+        },
+        {
+          "word": "Cristo",
+          "start": 80.44,
+          "end": 81.96
+        },
+        {
+          "word": "sublime",
+          "start": 81.96,
+          "end": 84.94
+        },
+        {
+          "word": "don,",
+          "start": 84.94,
+          "end": 86.16
+        }
+      ],
+      "start": 77.16,
+      "end": 86.84,
+      "confidence": 1.0,
+      "time": 77.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "cual el mundo no ha de dar.",
+      "words": [
+        {
+          "word": "cual",
+          "start": 86.84,
+          "end": 87.14
+        },
+        {
+          "word": "el",
+          "start": 87.14,
+          "end": 87.6
+        },
+        {
+          "word": "mundo",
+          "start": 87.6,
+          "end": 89.34
+        },
+        {
+          "word": "no",
+          "start": 89.34,
+          "end": 90.7
+        },
+        {
+          "word": "ha",
+          "start": 90.7,
+          "end": 91.54
+        },
+        {
+          "word": "de",
+          "start": 91.54,
+          "end": 92.22
+        },
+        {
+          "word": "dar.",
+          "start": 92.22,
+          "end": 95.36
+        }
+      ],
+      "start": 86.84,
+      "end": 95.36,
+      "confidence": 1.0,
+      "time": 86.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "No quiero el aplauso del mundo falaz;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "No",
+          "start": 95.36,
+          "end": 96.92
+        },
+        {
+          "word": "quiero",
+          "start": 96.92,
+          "end": 98.58
+        },
+        {
+          "word": "el",
+          "start": 98.58,
+          "end": 99.22
+        },
+        {
+          "word": "aplauso",
+          "start": 99.22,
+          "end": 101.14
+        },
+        {
+          "word": "del",
+          "start": 101.14,
+          "end": 101.84
+        },
+        {
+          "word": "mundo",
+          "start": 101.84,
+          "end": 103.46
+        },
+        {
+          "word": "falas,",
+          "start": 103.46,
+          "end": 105.26
+        }
+      ],
+      "start": 95.36,
+      "end": 105.86,
+      "confidence": 0.983,
+      "time": 95.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "prefiero en las filas de Cristo servir.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "prefiero",
+          "start": 105.86,
+          "end": 107.94
+        },
+        {
+          "word": "en",
+          "start": 107.94,
+          "end": 108.26
+        },
+        {
+          "word": "las",
+          "start": 108.26,
+          "end": 108.82
+        },
+        {
+          "word": "filas",
+          "start": 108.82,
+          "end": 110.38
+        },
+        {
+          "word": "de",
+          "start": 110.38,
+          "end": 110.88
+        },
+        {
+          "word": "Cristo",
+          "start": 110.88,
+          "end": 111.84
+        },
+        {
+          "word": "servir.",
+          "start": 111.84,
+          "end": 113.8
+        }
+      ],
+      "start": 105.86,
+      "end": 113.8,
+      "confidence": 1.0,
+      "time": 105.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "La fama del mundo es liviana y fugaz;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "La",
+          "start": 113.8,
+          "end": 115.26
+        },
+        {
+          "word": "fama",
+          "start": 115.26,
+          "end": 117.34
+        },
+        {
+          "word": "del",
+          "start": 117.34,
+          "end": 117.8
+        },
+        {
+          "word": "mundo",
+          "start": 117.8,
+          "end": 118.64
+        },
+        {
+          "word": "es",
+          "start": 118.64,
+          "end": 119.86
+        },
+        {
+          "word": "limirana",
+          "start": 119.86,
+          "end": 121.76
+        },
+        {
+          "word": "y",
+          "start": 121.76,
+          "end": 122.12
+        },
+        {
+          "word": "fugaz,",
+          "start": 122.12,
+          "end": 123.82
+        }
+      ],
+      "start": 113.8,
+      "end": 124.28,
+      "confidence": 0.985,
+      "time": 113.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "prefiero por siempre a Jesús seguir.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "prefiero",
+          "start": 124.28,
+          "end": 126.48
+        },
+        {
+          "word": "por",
+          "start": 126.48,
+          "end": 127.12
+        },
+        {
+          "word": "siempre",
+          "start": 127.12,
+          "end": 128.14
+        },
+        {
+          "word": "a",
+          "start": 128.14,
+          "end": 129.12
+        },
+        {
+          "word": "Jesús",
+          "start": 129.12,
+          "end": 130.84
+        },
+        {
+          "word": "seguir.",
+          "start": 130.84,
+          "end": 132.82
+        }
+      ],
+      "start": 124.28,
+      "end": 132.82,
+      "confidence": 1.0,
+      "time": 124.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Antes que ser rey de cualquier nación",
+      "words": [
+        {
+          "word": "antes",
+          "start": 132.82,
+          "end": 133.9
+        },
+        {
+          "word": "que",
+          "start": 133.9,
+          "end": 135.5
+        },
+        {
+          "word": "ser",
+          "start": 135.5,
+          "end": 136.24
+        },
+        {
+          "word": "rey",
+          "start": 136.24,
+          "end": 137.82
+        },
+        {
+          "word": "de",
+          "start": 137.82,
+          "end": 138.3
+        },
+        {
+          "word": "cualquier",
+          "start": 138.3,
+          "end": 139.58
+        },
+        {
+          "word": "nación",
+          "start": 139.58,
+          "end": 142.0
+        }
+      ],
+      "start": 132.82,
+      "end": 142.0,
+      "confidence": 1.0,
+      "time": 132.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y en pecado gobernar,",
+      "words": [
+        {
+          "word": "y",
+          "start": 142.0,
+          "end": 142.78
+        },
+        {
+          "word": "en",
+          "start": 142.78,
+          "end": 143.0
+        },
+        {
+          "word": "pecado",
+          "start": 143.0,
+          "end": 145.36
+        },
+        {
+          "word": "gobernar.",
+          "start": 145.36,
+          "end": 151.4
+        }
+      ],
+      "start": 142.0,
+      "end": 151.4,
+      "confidence": 1.0,
+      "time": 142.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "prefiero a mi Cristo, sublime don",
+      "words": [
+        {
+          "word": "Prefiero",
+          "start": 152.72,
+          "end": 154.12
+        },
+        {
+          "word": "a",
+          "start": 154.12,
+          "end": 154.5
+        },
+        {
+          "word": "mi",
+          "start": 154.5,
+          "end": 154.72
+        },
+        {
+          "word": "Cristo,",
+          "start": 154.72,
+          "end": 156.2
+        },
+        {
+          "word": "sublime",
+          "start": 156.76,
+          "end": 159.18
+        },
+        {
+          "word": "don,",
+          "start": 159.18,
+          "end": 160.3
+        }
+      ],
+      "start": 152.72,
+      "end": 160.3,
+      "confidence": 1.0,
+      "time": 152.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "cual el mundo no ha de dar.",
+      "words": [
+        {
+          "word": "cual",
+          "start": 160.3,
+          "end": 161.38
+        },
+        {
+          "word": "el",
+          "start": 161.38,
+          "end": 161.9
+        },
+        {
+          "word": "mundo",
+          "start": 161.9,
+          "end": 163.46
+        },
+        {
+          "word": "no",
+          "start": 163.46,
+          "end": 165.02
+        },
+        {
+          "word": "ha",
+          "start": 165.02,
+          "end": 165.68
+        },
+        {
+          "word": "de",
+          "start": 165.68,
+          "end": 166.54
+        },
+        {
+          "word": "dar",
+          "start": 166.54,
+          "end": 168.98
+        }
+      ],
+      "start": 160.3,
+      "end": 168.98,
+      "confidence": 1.0,
+      "time": 160.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Más bello que el lirio en su níveo blancor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Más",
+          "start": 170.58,
+          "end": 171.98
+        },
+        {
+          "word": "bello",
+          "start": 171.98,
+          "end": 173.38
+        },
+        {
+          "word": "que",
+          "start": 173.38,
+          "end": 173.82
+        },
+        {
+          "word": "el",
+          "start": 173.82,
+          "end": 174.14
+        },
+        {
+          "word": "lirio",
+          "start": 174.14,
+          "end": 175.0
+        },
+        {
+          "word": "en",
+          "start": 175.0,
+          "end": 175.86
+        },
+        {
+          "word": "su",
+          "start": 175.86,
+          "end": 176.24
+        },
+        {
+          "word": "nivio",
+          "start": 176.24,
+          "end": 178.02
+        },
+        {
+          "word": "blanco",
+          "start": 178.02,
+          "end": 178.98
+        }
+      ],
+      "start": 170.58,
+      "end": 178.98,
+      "confidence": 0.98,
+      "time": 170.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "mi Cristo es más dulce aún que la miel.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 178.98,
+          "end": 180.5
+        },
+        {
+          "word": "Cristo",
+          "start": 180.5,
+          "end": 182.3
+        },
+        {
+          "word": "es",
+          "start": 182.3,
+          "end": 182.68
+        },
+        {
+          "word": "más",
+          "start": 182.68,
+          "end": 183.3
+        },
+        {
+          "word": "dulce",
+          "start": 183.3,
+          "end": 185.04
+        },
+        {
+          "word": "aún",
+          "start": 185.04,
+          "end": 185.94
+        },
+        {
+          "word": "que",
+          "start": 185.94,
+          "end": 186.74
+        },
+        {
+          "word": "la",
+          "start": 186.74,
+          "end": 187.5
+        },
+        {
+          "word": "miel",
+          "start": 187.5,
+          "end": 188.3
+        }
+      ],
+      "start": 178.98,
+      "end": 188.3,
+      "confidence": 1.0,
+      "time": 178.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Su paz a mi alma dará el Señor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Su",
+          "start": 188.3,
+          "end": 189.52
+        },
+        {
+          "word": "Paz",
+          "start": 189.52,
+          "end": 191.02
+        },
+        {
+          "word": "a",
+          "start": 191.02,
+          "end": 191.52
+        },
+        {
+          "word": "mi",
+          "start": 191.52,
+          "end": 192.24
+        },
+        {
+          "word": "alma",
+          "start": 192.24,
+          "end": 193.92
+        },
+        {
+          "word": "dará",
+          "start": 193.92,
+          "end": 195.88
+        },
+        {
+          "word": "el",
+          "start": 195.88,
+          "end": 196.32
+        },
+        {
+          "word": "Señor",
+          "start": 196.32,
+          "end": 197.3
+        }
+      ],
+      "start": 188.3,
+      "end": 197.3,
+      "confidence": 1.0,
+      "time": 188.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "yo quiero que Cristo me conserve fiel.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 197.84,
+          "end": 198.82
+        },
+        {
+          "word": "quiero",
+          "start": 198.82,
+          "end": 200.54
+        },
+        {
+          "word": "que",
+          "start": 200.54,
+          "end": 201.16
+        },
+        {
+          "word": "Cristo",
+          "start": 201.16,
+          "end": 202.26
+        },
+        {
+          "word": "me",
+          "start": 202.26,
+          "end": 203.44
+        },
+        {
+          "word": "conserve",
+          "start": 203.44,
+          "end": 205.42
+        },
+        {
+          "word": "fiel",
+          "start": 205.42,
+          "end": 206.3
+        }
+      ],
+      "start": 197.84,
+      "end": 206.3,
+      "confidence": 1.0,
+      "time": 197.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Antes que ser rey de cualquier nación",
+      "words": [
+        {
+          "word": "Antes",
+          "start": 207.06,
+          "end": 208.06
+        },
+        {
+          "word": "que",
+          "start": 208.06,
+          "end": 209.56
+        },
+        {
+          "word": "ser",
+          "start": 209.56,
+          "end": 210.34
+        },
+        {
+          "word": "Rey",
+          "start": 210.34,
+          "end": 211.6
+        },
+        {
+          "word": "de",
+          "start": 211.6,
+          "end": 212.36
+        },
+        {
+          "word": "cualquier",
+          "start": 212.36,
+          "end": 213.84
+        },
+        {
+          "word": "nación",
+          "start": 213.84,
+          "end": 215.3
+        }
+      ],
+      "start": 207.06,
+      "end": 215.3,
+      "confidence": 1.0,
+      "time": 207.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y en pecado gobernar,",
+      "words": [
+        {
+          "word": "y",
+          "start": 215.3,
+          "end": 216.72
+        },
+        {
+          "word": "en",
+          "start": 216.72,
+          "end": 216.96
+        },
+        {
+          "word": "pecado",
+          "start": 216.96,
+          "end": 219.36
+        },
+        {
+          "word": "gobernar.",
+          "start": 219.36,
+          "end": 225.32
+        }
+      ],
+      "start": 215.3,
+      "end": 225.32,
+      "confidence": 1.0,
+      "time": 215.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "prefiero a mi Cristo, sublime don",
+      "words": [
+        {
+          "word": "Refiero",
+          "start": 226.42,
+          "end": 227.82
+        },
+        {
+          "word": "a",
+          "start": 227.82,
+          "end": 228.28
+        },
+        {
+          "word": "mi",
+          "start": 228.28,
+          "end": 228.8
+        },
+        {
+          "word": "Cristo",
+          "start": 228.8,
+          "end": 230.24
+        },
+        {
+          "word": "sublime",
+          "start": 230.24,
+          "end": 233.28
+        },
+        {
+          "word": "don",
+          "start": 233.28,
+          "end": 234.3
+        }
+      ],
+      "start": 226.42,
+      "end": 234.3,
+      "confidence": 0.993,
+      "time": 226.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "cual el mundo no ha de dar.",
+      "words": [
+        {
+          "word": "cual",
+          "start": 234.3,
+          "end": 235.4
+        },
+        {
+          "word": "el",
+          "start": 235.4,
+          "end": 235.94
+        },
+        {
+          "word": "mundo",
+          "start": 235.94,
+          "end": 237.42
+        },
+        {
+          "word": "no",
+          "start": 237.42,
+          "end": 239.28
+        },
+        {
+          "word": "ha",
+          "start": 239.28,
+          "end": 239.9
+        },
+        {
+          "word": "de",
+          "start": 239.9,
+          "end": 240.5
+        },
+        {
+          "word": "dar.",
+          "start": 240.5,
+          "end": 243.88
+        }
+      ],
+      "start": 234.3,
+      "end": 243.88,
+      "confidence": 1.0,
+      "time": 234.3
+    }
+  ]
+}

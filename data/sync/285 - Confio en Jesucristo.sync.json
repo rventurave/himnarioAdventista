@@ -1,0 +1,668 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.874,
+  "language": "es",
+  "model": "medium",
+  "hymn": 285,
+  "source": "285 - Confio en Jesucristo.mp3",
+  "duration": 148.35,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Confío en Jesucristo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 22.36,
+          "end": 22.36
+        }
+      ],
+      "start": 22.36,
+      "end": 32.34,
+      "confidence": 0.333,
+      "time": 22.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "quien en la cruz murió.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 22.36,
+          "end": 22.36
+        }
+      ],
+      "start": 32.34,
+      "end": 32.54,
+      "confidence": 0.2,
+      "time": 32.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Por esa muerte invicto",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Iglesia",
+          "start": 22.36,
+          "end": 22.36
+        },
+        {
+          "word": "fuerte",
+          "start": 32.36,
+          "end": 33.2
+        },
+        {
+          "word": "invicto",
+          "start": 33.66,
+          "end": 35.56
+        }
+      ],
+      "start": 32.54,
+      "end": 35.56,
+      "confidence": 0.665,
+      "time": 32.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al cielo marcho yo.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 35.56,
+          "end": 36.12
+        },
+        {
+          "word": "cielo",
+          "start": 36.12,
+          "end": 37.36
+        },
+        {
+          "word": "marcho",
+          "start": 37.36,
+          "end": 38.88
+        },
+        {
+          "word": "yo.",
+          "start": 38.88,
+          "end": 40.3
+        }
+      ],
+      "start": 35.56,
+      "end": 40.3,
+      "confidence": 1.0,
+      "time": 35.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Con sangre tan preciosa",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Con",
+          "start": 40.5,
+          "end": 41.16
+        },
+        {
+          "word": "sangre",
+          "start": 41.16,
+          "end": 42.38
+        },
+        {
+          "word": "tan",
+          "start": 42.38,
+          "end": 43.12
+        },
+        {
+          "word": "preciosa",
+          "start": 43.12,
+          "end": 45.5
+        }
+      ],
+      "start": 40.5,
+      "end": 45.5,
+      "confidence": 1.0,
+      "time": 40.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mis culpas lava él:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "mis",
+          "start": 45.5,
+          "end": 46.36
+        },
+        {
+          "word": "culpas",
+          "start": 46.36,
+          "end": 47.66
+        },
+        {
+          "word": "la",
+          "start": 47.66,
+          "end": 48.2
+        },
+        {
+          "word": "él,",
+          "start": 49.08,
+          "end": 50.42
+        }
+      ],
+      "start": 45.5,
+      "end": 50.42,
+      "confidence": 0.985,
+      "time": 45.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "la derramó copiosa",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 50.94,
+          "end": 51.5
+        },
+        {
+          "word": "tierra",
+          "start": 51.5,
+          "end": 52.48
+        },
+        {
+          "word": "copiosa",
+          "start": 53.2,
+          "end": 55.58
+        }
+      ],
+      "start": 50.94,
+      "end": 55.58,
+      "confidence": 0.923,
+      "time": 50.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por mí ya Emanuel.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "por",
+          "start": 55.58,
+          "end": 56.48
+        },
+        {
+          "word": "mí",
+          "start": 56.48,
+          "end": 57.24
+        },
+        {
+          "word": "ya",
+          "start": 57.24,
+          "end": 57.9
+        },
+        {
+          "word": "Manuel.",
+          "start": 58.64,
+          "end": 59.86
+        }
+      ],
+      "start": 55.58,
+      "end": 59.86,
+      "confidence": 0.988,
+      "time": 55.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Me cubre tu justicia",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Me",
+          "start": 59.86,
+          "end": 62.02
+        },
+        {
+          "word": "cubre",
+          "start": 62.02,
+          "end": 63.38
+        },
+        {
+          "word": "tu",
+          "start": 63.38,
+          "end": 63.98
+        },
+        {
+          "word": "justicia,",
+          "start": 63.98,
+          "end": 66.3
+        }
+      ],
+      "start": 59.86,
+      "end": 68.34,
+      "confidence": 1.0,
+      "time": 59.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "de plena protección;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "protección,",
+          "start": 68.34,
+          "end": 71.08
+        }
+      ],
+      "start": 68.34,
+      "end": 71.46,
+      "confidence": 0.333,
+      "time": 68.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "tú eres mi delicia,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tu",
+          "start": 71.46,
+          "end": 72.2
+        },
+        {
+          "word": "eres",
+          "start": 72.2,
+          "end": 73.48
+        },
+        {
+          "word": "mi",
+          "start": 73.48,
+          "end": 74.1
+        },
+        {
+          "word": "delicia,",
+          "start": 74.1,
+          "end": 76.36
+        }
+      ],
+      "start": 71.46,
+      "end": 76.92,
+      "confidence": 1.0,
+      "time": 71.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "mi eterna salvación.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mi",
+          "start": 76.92,
+          "end": 77.18
+        },
+        {
+          "word": "eterna",
+          "start": 77.18,
+          "end": 78.9
+        },
+        {
+          "word": "salvación.",
+          "start": 78.9,
+          "end": 81.24
+        }
+      ],
+      "start": 76.92,
+      "end": 81.24,
+      "confidence": 1.0,
+      "time": 76.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Jesús, en ti descanso;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 81.24,
+          "end": 83.16
+        },
+        {
+          "word": "en",
+          "start": 83.16,
+          "end": 83.58
+        },
+        {
+          "word": "ti",
+          "start": 83.58,
+          "end": 84.18
+        },
+        {
+          "word": "descanso,",
+          "start": 84.18,
+          "end": 86.52
+        }
+      ],
+      "start": 81.24,
+      "end": 87.26,
+      "confidence": 1.0,
+      "time": 81.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "reposo tú me das;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "retoso",
+          "start": 87.26,
+          "end": 88.38
+        },
+        {
+          "word": "tú",
+          "start": 88.38,
+          "end": 89.18
+        },
+        {
+          "word": "me",
+          "start": 89.18,
+          "end": 90.08
+        },
+        {
+          "word": "das,",
+          "start": 90.08,
+          "end": 91.54
+        }
+      ],
+      "start": 87.26,
+      "end": 91.54,
+      "confidence": 0.975,
+      "time": 87.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "tranquilo, pues, avanzo",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tranquilo",
+          "start": 92.12,
+          "end": 93.6
+        },
+        {
+          "word": "pues",
+          "start": 93.6,
+          "end": 94.52
+        },
+        {
+          "word": "avanzo",
+          "start": 94.52,
+          "end": 96.68
+        }
+      ],
+      "start": 92.12,
+      "end": 96.68,
+      "confidence": 1.0,
+      "time": 92.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "al cielo, donde estás.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 96.68,
+          "end": 97.38
+        },
+        {
+          "word": "cielo",
+          "start": 97.38,
+          "end": 98.54
+        },
+        {
+          "word": "donde",
+          "start": 98.54,
+          "end": 99.68
+        },
+        {
+          "word": "estás.",
+          "start": 99.68,
+          "end": 101.76
+        }
+      ],
+      "start": 96.68,
+      "end": 101.76,
+      "confidence": 1.0,
+      "time": 96.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "A disfrutar invitas.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "A",
+          "start": 101.76,
+          "end": 103.24
+        },
+        {
+          "word": "disfrutar",
+          "start": 104.04,
+          "end": 105.22
+        },
+        {
+          "word": "invitas,",
+          "start": 105.22,
+          "end": 107.56
+        }
+      ],
+      "start": 101.76,
+      "end": 107.56,
+      "confidence": 1.0,
+      "time": 101.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Acepto, mi Señor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "acepto",
+          "start": 107.56,
+          "end": 109.36
+        },
+        {
+          "word": "mi",
+          "start": 109.36,
+          "end": 109.92
+        },
+        {
+          "word": "Señor,",
+          "start": 109.92,
+          "end": 112.04
+        }
+      ],
+      "start": 107.56,
+      "end": 112.04,
+      "confidence": 1.0,
+      "time": 107.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "delicias infinitas y celestial amor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "delicias",
+          "start": 112.98,
+          "end": 114.34
+        },
+        {
+          "word": "infinitas",
+          "start": 114.34,
+          "end": 117.28
+        },
+        {
+          "word": "y",
+          "start": 117.28,
+          "end": 118.34
+        },
+        {
+          "word": "celestial",
+          "start": 118.34,
+          "end": 119.7
+        },
+        {
+          "word": "amor.",
+          "start": 119.7,
+          "end": 122.2
+        }
+      ],
+      "start": 112.98,
+      "end": 122.2,
+      "confidence": 1.0,
+      "time": 112.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Espero al fin mirarte,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Espero",
+          "start": 122.2,
+          "end": 124.38
+        },
+        {
+          "word": "al",
+          "start": 124.38,
+          "end": 124.78
+        },
+        {
+          "word": "fin",
+          "start": 124.78,
+          "end": 125.18
+        },
+        {
+          "word": "mirarte,",
+          "start": 125.18,
+          "end": 127.46
+        }
+      ],
+      "start": 122.2,
+      "end": 128.4,
+      "confidence": 1.0,
+      "time": 122.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "oír tu dulce voz;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "oír",
+          "start": 128.4,
+          "end": 129.04
+        },
+        {
+          "word": "tu",
+          "start": 129.04,
+          "end": 129.58
+        },
+        {
+          "word": "dulce",
+          "start": 129.58,
+          "end": 130.94
+        },
+        {
+          "word": "voz.",
+          "start": 130.94,
+          "end": 132.5
+        }
+      ],
+      "start": 128.4,
+      "end": 132.5,
+      "confidence": 1.0,
+      "time": 128.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "espero yo cantarte,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Espero",
+          "start": 133.64,
+          "end": 134.54
+        },
+        {
+          "word": "cantante,",
+          "start": 135.24,
+          "end": 137.44
+        }
+      ],
+      "start": 133.64,
+      "end": 138.22,
+      "confidence": 0.642,
+      "time": 133.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mi Salvador, mi Dios.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mi",
+          "start": 138.22,
+          "end": 138.46
+        },
+        {
+          "word": "salvador,",
+          "start": 138.46,
+          "end": 140.76
+        },
+        {
+          "word": "mi",
+          "start": 141.7,
+          "end": 141.7
+        },
+        {
+          "word": "Dios.",
+          "start": 141.7,
+          "end": 142.34
+        }
+      ],
+      "start": 138.22,
+      "end": 142.34,
+      "confidence": 1.0,
+      "time": 138.22
+    }
+  ]
+}

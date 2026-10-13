@@ -1,0 +1,636 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.929,
+  "language": "es",
+  "model": "medium",
+  "hymn": 340,
+  "source": "340 - Oh, que musica divina.mp3",
+  "duration": 133.43,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh, qué música divina se oye desde el mar!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "O",
+          "start": 7.84,
+          "end": 9.24
+        },
+        {
+          "word": "que",
+          "start": 9.24,
+          "end": 10.1
+        },
+        {
+          "word": "música",
+          "start": 10.1,
+          "end": 11.82
+        },
+        {
+          "word": "divina",
+          "start": 11.82,
+          "end": 13.52
+        },
+        {
+          "word": "se",
+          "start": 13.52,
+          "end": 13.94
+        },
+        {
+          "word": "oye",
+          "start": 13.94,
+          "end": 14.32
+        },
+        {
+          "word": "desde",
+          "start": 14.32,
+          "end": 15.56
+        },
+        {
+          "word": "el",
+          "start": 15.56,
+          "end": 16.52
+        },
+        {
+          "word": "mar",
+          "start": 16.52,
+          "end": 17.54
+        }
+      ],
+      "start": 7.84,
+      "end": 18.7,
+      "confidence": 0.978,
+      "time": 7.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Embelesa los sentidos esta dulce canción.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "lesa",
+          "start": 18.7,
+          "end": 19.9
+        },
+        {
+          "word": "los",
+          "start": 19.9,
+          "end": 20.22
+        },
+        {
+          "word": "sentidos",
+          "start": 20.22,
+          "end": 21.8
+        },
+        {
+          "word": "esta",
+          "start": 21.8,
+          "end": 22.64
+        },
+        {
+          "word": "dulce",
+          "start": 22.64,
+          "end": 24.02
+        },
+        {
+          "word": "canción",
+          "start": 24.02,
+          "end": 25.4
+        }
+      ],
+      "start": 18.7,
+      "end": 25.4,
+      "confidence": 0.967,
+      "time": 18.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Son las voces celestiales, que me invitan a cantar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Son",
+          "start": 25.4,
+          "end": 26.66
+        },
+        {
+          "word": "las",
+          "start": 26.66,
+          "end": 27.22
+        },
+        {
+          "word": "voces",
+          "start": 27.22,
+          "end": 28.58
+        },
+        {
+          "word": "celestiales",
+          "start": 28.58,
+          "end": 30.7
+        },
+        {
+          "word": "que",
+          "start": 30.7,
+          "end": 31.04
+        },
+        {
+          "word": "me",
+          "start": 31.04,
+          "end": 31.74
+        },
+        {
+          "word": "invitan",
+          "start": 31.74,
+          "end": 32.96
+        },
+        {
+          "word": "a",
+          "start": 32.96,
+          "end": 33.26
+        },
+        {
+          "word": "cantar,",
+          "start": 33.26,
+          "end": 35.32
+        }
+      ],
+      "start": 25.4,
+      "end": 35.6,
+      "confidence": 1.0,
+      "time": 25.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y me dan la bienvenida a la celestial mansión.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 35.6,
+          "end": 36.08
+        },
+        {
+          "word": "me",
+          "start": 36.08,
+          "end": 36.48
+        },
+        {
+          "word": "dan",
+          "start": 36.48,
+          "end": 37.1
+        },
+        {
+          "word": "la",
+          "start": 37.1,
+          "end": 37.82
+        },
+        {
+          "word": "bienvenida",
+          "start": 37.82,
+          "end": 39.5
+        },
+        {
+          "word": "a",
+          "start": 39.5,
+          "end": 40.26
+        },
+        {
+          "word": "la",
+          "start": 40.26,
+          "end": 40.84
+        },
+        {
+          "word": "celestial",
+          "start": 40.84,
+          "end": 42.26
+        },
+        {
+          "word": "mansión.",
+          "start": 42.26,
+          "end": 44.62
+        }
+      ],
+      "start": 35.6,
+      "end": 44.62,
+      "confidence": 1.0,
+      "time": 35.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "A orillas del Jordán estoy, meditando en Jesús;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 44.62,
+          "end": 45.68
+        },
+        {
+          "word": "orillas",
+          "start": 45.68,
+          "end": 47.26
+        },
+        {
+          "word": "del",
+          "start": 47.26,
+          "end": 47.72
+        },
+        {
+          "word": "cordón",
+          "start": 47.72,
+          "end": 48.56
+        },
+        {
+          "word": "estoy",
+          "start": 48.56,
+          "end": 49.18
+        },
+        {
+          "word": "meditando",
+          "start": 49.18,
+          "end": 51.02
+        },
+        {
+          "word": "en",
+          "start": 51.02,
+          "end": 51.68
+        },
+        {
+          "word": "Jesús,",
+          "start": 51.68,
+          "end": 53.34
+        }
+      ],
+      "start": 44.62,
+      "end": 53.92,
+      "confidence": 0.975,
+      "time": 44.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y ansiosamente anhelo ya su mano estrechar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 53.92,
+          "end": 54.14
+        },
+        {
+          "word": "ansiosamente",
+          "start": 54.14,
+          "end": 56.34
+        },
+        {
+          "word": "anhelo",
+          "start": 56.34,
+          "end": 57.8
+        },
+        {
+          "word": "ya",
+          "start": 57.8,
+          "end": 58.34
+        },
+        {
+          "word": "su",
+          "start": 58.34,
+          "end": 58.74
+        },
+        {
+          "word": "mano",
+          "start": 58.74,
+          "end": 60.14
+        },
+        {
+          "word": "estrechar.",
+          "start": 60.14,
+          "end": 61.98
+        }
+      ],
+      "start": 53.92,
+      "end": 61.98,
+      "confidence": 1.0,
+      "time": 53.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Yo te ruego que envíes a tus ángeles de luz;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 61.98,
+          "end": 62.72
+        },
+        {
+          "word": "te",
+          "start": 62.72,
+          "end": 63.22
+        },
+        {
+          "word": "ruego",
+          "start": 63.22,
+          "end": 64.6
+        },
+        {
+          "word": "que",
+          "start": 64.6,
+          "end": 65.52
+        },
+        {
+          "word": "envíes",
+          "start": 65.52,
+          "end": 66.8
+        },
+        {
+          "word": "a",
+          "start": 66.8,
+          "end": 67.24
+        },
+        {
+          "word": "tus",
+          "start": 67.24,
+          "end": 67.7
+        },
+        {
+          "word": "ángeles",
+          "start": 67.7,
+          "end": 69.3
+        },
+        {
+          "word": "de",
+          "start": 69.3,
+          "end": 69.86
+        },
+        {
+          "word": "luz,",
+          "start": 69.86,
+          "end": 71.34
+        }
+      ],
+      "start": 61.98,
+      "end": 71.34,
+      "confidence": 1.0,
+      "time": 61.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "haz que pueda yo unirme a ese canto sin par.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pueda",
+          "start": 72.06,
+          "end": 73.62
+        },
+        {
+          "word": "yo",
+          "start": 73.62,
+          "end": 74.36
+        },
+        {
+          "word": "unirme",
+          "start": 74.36,
+          "end": 75.98
+        },
+        {
+          "word": "a",
+          "start": 75.98,
+          "end": 76.26
+        },
+        {
+          "word": "ese",
+          "start": 76.26,
+          "end": 76.56
+        },
+        {
+          "word": "canto",
+          "start": 76.56,
+          "end": 78.02
+        },
+        {
+          "word": "sin",
+          "start": 78.02,
+          "end": 79.02
+        },
+        {
+          "word": "par.",
+          "start": 79.02,
+          "end": 80.28
+        }
+      ],
+      "start": 72.06,
+      "end": 80.28,
+      "confidence": 0.8,
+      "time": 72.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Aun con aguas muy profundas y un gran vendaval;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Con",
+          "start": 81.3,
+          "end": 82.0
+        },
+        {
+          "word": "muy",
+          "start": 83.68,
+          "end": 84.18
+        },
+        {
+          "word": "profundas",
+          "start": 84.18,
+          "end": 85.86
+        },
+        {
+          "word": "y",
+          "start": 85.86,
+          "end": 86.34
+        },
+        {
+          "word": "un",
+          "start": 86.34,
+          "end": 86.78
+        },
+        {
+          "word": "gran",
+          "start": 86.78,
+          "end": 87.44
+        },
+        {
+          "word": "venta",
+          "start": 87.44,
+          "end": 89.04
+        }
+      ],
+      "start": 81.3,
+      "end": 89.78,
+      "confidence": 0.752,
+      "time": 81.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "si Jesús me lo permite, los abismos cruzaré.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Si",
+          "start": 89.78,
+          "end": 90.58
+        },
+        {
+          "word": "Jesús",
+          "start": 90.58,
+          "end": 91.64
+        },
+        {
+          "word": "me",
+          "start": 91.64,
+          "end": 92.48
+        },
+        {
+          "word": "lo",
+          "start": 92.48,
+          "end": 92.92
+        },
+        {
+          "word": "permite,",
+          "start": 92.92,
+          "end": 94.2
+        },
+        {
+          "word": "los",
+          "start": 94.88,
+          "end": 95.22
+        },
+        {
+          "word": "abismos",
+          "start": 95.22,
+          "end": 96.86
+        },
+        {
+          "word": "cruzaré,",
+          "start": 96.86,
+          "end": 98.84
+        }
+      ],
+      "start": 89.78,
+      "end": 98.84,
+      "confidence": 1.0,
+      "time": 89.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Pues su música divina es sublime, sin igual;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 99.28,
+          "end": 99.52
+        },
+        {
+          "word": "su",
+          "start": 99.52,
+          "end": 99.94
+        },
+        {
+          "word": "música",
+          "start": 99.94,
+          "end": 101.64
+        },
+        {
+          "word": "divina",
+          "start": 101.64,
+          "end": 103.26
+        },
+        {
+          "word": "es",
+          "start": 103.26,
+          "end": 104.06
+        },
+        {
+          "word": "sin",
+          "start": 105.68,
+          "end": 106.26
+        },
+        {
+          "word": "igual,",
+          "start": 106.26,
+          "end": 107.8
+        }
+      ],
+      "start": 99.28,
+      "end": 107.8,
+      "confidence": 0.875,
+      "time": 99.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "quiero unirme al gran coro y a Cristo cantaré.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 108.56,
+          "end": 108.88
+        },
+        {
+          "word": "uniré",
+          "start": 108.88,
+          "end": 110.8
+        },
+        {
+          "word": "al",
+          "start": 110.8,
+          "end": 111.16
+        },
+        {
+          "word": "cantoro",
+          "start": 111.16,
+          "end": 112.56
+        },
+        {
+          "word": "y",
+          "start": 112.56,
+          "end": 113.38
+        },
+        {
+          "word": "a",
+          "start": 113.38,
+          "end": 113.84
+        },
+        {
+          "word": "Cristo",
+          "start": 113.84,
+          "end": 114.94
+        },
+        {
+          "word": "cantaré.",
+          "start": 114.94,
+          "end": 116.92
+        }
+      ],
+      "start": 108.56,
+      "end": 116.92,
+      "confidence": 0.842,
+      "time": 108.56
+    }
+  ]
+}

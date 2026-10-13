@@ -1,0 +1,451 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.873,
+  "language": "es",
+  "model": "medium",
+  "hymn": 519,
+  "source": "519 - Despierta, hermano, sin demorar.mp3",
+  "duration": 94.98,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Despierta, hermano, sin demorar",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Despierta",
+          "start": 14.88,
+          "end": 16.28
+        },
+        {
+          "word": "mano",
+          "start": 16.94,
+          "end": 17.86
+        },
+        {
+          "word": "sin",
+          "start": 17.86,
+          "end": 18.78
+        },
+        {
+          "word": "demorar",
+          "start": 18.78,
+          "end": 20.9
+        }
+      ],
+      "start": 14.88,
+      "end": 20.9,
+      "confidence": 0.959,
+      "time": 14.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y toma las armas del bien;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Y",
+          "start": 20.9,
+          "end": 21.92
+        },
+        {
+          "word": "toma",
+          "start": 21.92,
+          "end": 22.84
+        },
+        {
+          "word": "las",
+          "start": 22.84,
+          "end": 23.9
+        },
+        {
+          "word": "armas",
+          "start": 23.9,
+          "end": 24.72
+        },
+        {
+          "word": "del",
+          "start": 24.72,
+          "end": 25.52
+        },
+        {
+          "word": "bien",
+          "start": 25.52,
+          "end": 26.36
+        }
+      ],
+      "start": 20.9,
+      "end": 26.36,
+      "confidence": 1.0,
+      "time": 20.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con fuerza y vigor lucharás por tu fe;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Con",
+          "start": 26.36,
+          "end": 27.18
+        },
+        {
+          "word": "fuerza",
+          "start": 27.18,
+          "end": 28.1
+        },
+        {
+          "word": "y",
+          "start": 28.1,
+          "end": 28.78
+        },
+        {
+          "word": "vigor",
+          "start": 28.78,
+          "end": 29.44
+        },
+        {
+          "word": "lucharás",
+          "start": 29.44,
+          "end": 31.26
+        },
+        {
+          "word": "por",
+          "start": 31.26,
+          "end": 31.96
+        },
+        {
+          "word": "tu",
+          "start": 31.96,
+          "end": 32.68
+        },
+        {
+          "word": "fe,",
+          "start": 32.68,
+          "end": 33.54
+        }
+      ],
+      "start": 26.36,
+      "end": 33.86,
+      "confidence": 1.0,
+      "time": 26.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y un cielo de gloria obtendrás.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 33.86,
+          "end": 34.14
+        },
+        {
+          "word": "un",
+          "start": 34.14,
+          "end": 34.58
+        },
+        {
+          "word": "cielo",
+          "start": 34.58,
+          "end": 35.56
+        },
+        {
+          "word": "de",
+          "start": 35.56,
+          "end": 36.4
+        },
+        {
+          "word": "entras.",
+          "start": 37.44,
+          "end": 39.86
+        }
+      ],
+      "start": 33.86,
+      "end": 39.86,
+      "confidence": 0.8,
+      "time": 33.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "La voz divina llama por ti:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "La",
+          "start": 40.66,
+          "end": 41.34
+        },
+        {
+          "word": "voz",
+          "start": 41.34,
+          "end": 42.16
+        },
+        {
+          "word": "divina",
+          "start": 42.16,
+          "end": 44.24
+        },
+        {
+          "word": "llama",
+          "start": 44.24,
+          "end": 45.22
+        },
+        {
+          "word": "por",
+          "start": 45.22,
+          "end": 46.26
+        },
+        {
+          "word": "ti,",
+          "start": 46.26,
+          "end": 47.18
+        }
+      ],
+      "start": 40.66,
+      "end": 47.96,
+      "confidence": 1.0,
+      "time": 40.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "\"Fiel hijo, al Reino entrarás\".",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 47.96,
+          "end": 48.26
+        },
+        {
+          "word": "hijo",
+          "start": 48.26,
+          "end": 49.28
+        },
+        {
+          "word": "al",
+          "start": 49.28,
+          "end": 49.96
+        },
+        {
+          "word": "reino",
+          "start": 49.96,
+          "end": 50.86
+        },
+        {
+          "word": "entras,",
+          "start": 50.86,
+          "end": 51.88
+        }
+      ],
+      "start": 47.96,
+      "end": 51.88,
+      "confidence": 0.943,
+      "time": 47.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Con los redimidos, a Dios cantarás;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Con",
+          "start": 51.88,
+          "end": 53.28
+        },
+        {
+          "word": "los",
+          "start": 53.28,
+          "end": 54.0
+        },
+        {
+          "word": "redimidos",
+          "start": 54.0,
+          "end": 56.3
+        },
+        {
+          "word": "cantarás,",
+          "start": 57.52,
+          "end": 59.94
+        }
+      ],
+      "start": 51.88,
+      "end": 60.52,
+      "confidence": 0.667,
+      "time": 51.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "dejando el mal vivirás.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Dejando",
+          "start": 60.52,
+          "end": 61.92
+        },
+        {
+          "word": "el",
+          "start": 61.92,
+          "end": 62.66
+        },
+        {
+          "word": "mal",
+          "start": 62.66,
+          "end": 63.06
+        },
+        {
+          "word": "vivirás.",
+          "start": 63.06,
+          "end": 66.22
+        }
+      ],
+      "start": 60.52,
+      "end": 66.22,
+      "confidence": 1.0,
+      "time": 60.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Fija tu vista siempre en Jesús,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tu",
+          "start": 68.22,
+          "end": 69.04
+        },
+        {
+          "word": "vista",
+          "start": 69.04,
+          "end": 70.34
+        },
+        {
+          "word": "siempre",
+          "start": 70.34,
+          "end": 71.58
+        },
+        {
+          "word": "en",
+          "start": 71.58,
+          "end": 72.18
+        },
+        {
+          "word": "Jesús,",
+          "start": 72.18,
+          "end": 73.32
+        }
+      ],
+      "start": 68.22,
+      "end": 74.18,
+      "confidence": 0.833,
+      "time": 68.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "dejando el lastre del mal.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "dejando",
+          "start": 74.18,
+          "end": 75.4
+        },
+        {
+          "word": "el",
+          "start": 75.4,
+          "end": 76.32
+        },
+        {
+          "word": "rastro",
+          "start": 76.32,
+          "end": 77.16
+        },
+        {
+          "word": "del",
+          "start": 77.16,
+          "end": 78.0
+        },
+        {
+          "word": "mar",
+          "start": 78.0,
+          "end": 78.8
+        }
+      ],
+      "start": 74.18,
+      "end": 78.8,
+      "confidence": 0.92,
+      "time": 74.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Con prisa avanza, siguiendo su luz;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 78.8,
+          "end": 79.64
+        },
+        {
+          "word": "prisa",
+          "start": 79.64,
+          "end": 81.04
+        },
+        {
+          "word": "avanzada",
+          "start": 81.04,
+          "end": 82.58
+        },
+        {
+          "word": "siguiendo",
+          "start": 82.58,
+          "end": 84.36
+        },
+        {
+          "word": "su",
+          "start": 84.36,
+          "end": 85.18
+        },
+        {
+          "word": "luz",
+          "start": 85.18,
+          "end": 86.14
+        }
+      ],
+      "start": 78.8,
+      "end": 88.16,
+      "confidence": 0.99,
+      "time": 78.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "corona de vida tendrás.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "debida",
+          "start": 88.16,
+          "end": 90.3
+        }
+      ],
+      "start": 88.16,
+      "end": 93.26,
+      "confidence": 0.19,
+      "time": 88.16
+    }
+  ]
+}

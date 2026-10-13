@@ -1,0 +1,636 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.842,
+  "language": "es",
+  "model": "medium",
+  "hymn": 208,
+  "source": "208 - Santa Biblia.mp3",
+  "duration": 136.15,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Santa Biblia!, para mí eres un tesoro aquí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Santa",
+          "start": 12.86,
+          "end": 14.26
+        },
+        {
+          "word": "Biblia",
+          "start": 14.26,
+          "end": 15.66
+        },
+        {
+          "word": "para",
+          "start": 15.66,
+          "end": 15.94
+        },
+        {
+          "word": "mí,",
+          "start": 15.94,
+          "end": 17.26
+        },
+        {
+          "word": "eres",
+          "start": 17.8,
+          "end": 18.82
+        },
+        {
+          "word": "tesoro",
+          "start": 19.54,
+          "end": 21.08
+        },
+        {
+          "word": "aquí,",
+          "start": 21.08,
+          "end": 22.08
+        }
+      ],
+      "start": 12.86,
+      "end": 22.92,
+      "confidence": 0.875,
+      "time": 12.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tú contienes con verdad la divina voluntad;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tú",
+          "start": 22.92,
+          "end": 23.38
+        },
+        {
+          "word": "contienes",
+          "start": 23.38,
+          "end": 25.08
+        },
+        {
+          "word": "con",
+          "start": 25.08,
+          "end": 25.56
+        },
+        {
+          "word": "verdad",
+          "start": 25.56,
+          "end": 26.9
+        },
+        {
+          "word": "la",
+          "start": 26.9,
+          "end": 28.08
+        },
+        {
+          "word": "divina",
+          "start": 28.08,
+          "end": 29.5
+        }
+      ],
+      "start": 22.92,
+      "end": 29.98,
+      "confidence": 0.857,
+      "time": 22.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tú me dices lo que soy, de quién vine y a quién voy.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 30.0,
+          "end": 32.52
+        },
+        {
+          "word": "me",
+          "start": 32.52,
+          "end": 33.1
+        },
+        {
+          "word": "dices",
+          "start": 33.1,
+          "end": 34.22
+        },
+        {
+          "word": "lo",
+          "start": 34.22,
+          "end": 34.94
+        },
+        {
+          "word": "que",
+          "start": 34.94,
+          "end": 35.56
+        },
+        {
+          "word": "soy,",
+          "start": 35.56,
+          "end": 36.34
+        },
+        {
+          "word": "de",
+          "start": 36.64,
+          "end": 37.28
+        },
+        {
+          "word": "quién",
+          "start": 37.28,
+          "end": 37.8
+        },
+        {
+          "word": "vine",
+          "start": 37.8,
+          "end": 38.84
+        },
+        {
+          "word": "y",
+          "start": 38.84,
+          "end": 39.36
+        },
+        {
+          "word": "a",
+          "start": 39.36,
+          "end": 39.78
+        },
+        {
+          "word": "quién",
+          "start": 39.78,
+          "end": 40.54
+        }
+      ],
+      "start": 30.0,
+      "end": 41.0,
+      "confidence": 0.923,
+      "time": 30.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Tú reprendes mi dudar; tú me exhortas sin cesar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 42.36,
+          "end": 43.26
+        },
+        {
+          "word": "reprendes",
+          "start": 43.26,
+          "end": 44.8
+        },
+        {
+          "word": "mi",
+          "start": 44.8,
+          "end": 45.44
+        },
+        {
+          "word": "rodar,",
+          "start": 45.44,
+          "end": 46.76
+        },
+        {
+          "word": "tú",
+          "start": 47.08,
+          "end": 47.68
+        },
+        {
+          "word": "me",
+          "start": 47.68,
+          "end": 48.24
+        },
+        {
+          "word": "exhortas",
+          "start": 48.24,
+          "end": 49.56
+        },
+        {
+          "word": "sin",
+          "start": 49.56,
+          "end": 50.14
+        },
+        {
+          "word": "cesar,",
+          "start": 50.14,
+          "end": 51.0
+        }
+      ],
+      "start": 42.36,
+      "end": 51.0,
+      "confidence": 0.973,
+      "time": 42.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Eres faro que a mi pie va guiando, por la fe,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Eres",
+          "start": 51.0,
+          "end": 53.22
+        },
+        {
+          "word": "baroque",
+          "start": 53.22,
+          "end": 54.46
+        },
+        {
+          "word": "a",
+          "start": 54.46,
+          "end": 55.06
+        },
+        {
+          "word": "mi",
+          "start": 55.06,
+          "end": 55.58
+        },
+        {
+          "word": "pie,",
+          "start": 55.58,
+          "end": 56.44
+        },
+        {
+          "word": "valiando",
+          "start": 57.22,
+          "end": 58.92
+        },
+        {
+          "word": "por",
+          "start": 58.92,
+          "end": 59.8
+        },
+        {
+          "word": "la",
+          "start": 59.8,
+          "end": 60.4
+        },
+        {
+          "word": "fe,",
+          "start": 60.4,
+          "end": 61.24
+        }
+      ],
+      "start": 51.0,
+      "end": 62.04,
+      "confidence": 0.778,
+      "time": 51.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "a las fuentes del amor del benigno Salvador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 62.04,
+          "end": 62.44
+        },
+        {
+          "word": "las",
+          "start": 62.44,
+          "end": 62.68
+        },
+        {
+          "word": "fuentes",
+          "start": 62.68,
+          "end": 63.86
+        },
+        {
+          "word": "del",
+          "start": 63.86,
+          "end": 64.68
+        },
+        {
+          "word": "amor,",
+          "start": 64.68,
+          "end": 65.96
+        },
+        {
+          "word": "el",
+          "start": 66.6,
+          "end": 66.94
+        },
+        {
+          "word": "bendito",
+          "start": 66.94,
+          "end": 68.52
+        },
+        {
+          "word": "salvador.",
+          "start": 68.52,
+          "end": 71.88
+        }
+      ],
+      "start": 62.04,
+      "end": 71.88,
+      "confidence": 0.964,
+      "time": 62.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Eres la infalible voz del Espíritu de Dios,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Eres",
+          "start": 71.88,
+          "end": 74.1
+        },
+        {
+          "word": "vos,",
+          "start": 77.18,
+          "end": 77.18
+        },
+        {
+          "word": "el",
+          "start": 77.4,
+          "end": 78.44
+        },
+        {
+          "word": "Espíritu",
+          "start": 78.44,
+          "end": 80.32
+        },
+        {
+          "word": "de",
+          "start": 80.32,
+          "end": 81.1
+        }
+      ],
+      "start": 71.88,
+      "end": 81.98,
+      "confidence": 0.585,
+      "time": 71.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que vigor al alma da cuando en aflicción está.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 82.96,
+          "end": 83.16
+        },
+        {
+          "word": "vigor",
+          "start": 83.16,
+          "end": 84.0
+        },
+        {
+          "word": "a",
+          "start": 84.0,
+          "end": 84.72
+        },
+        {
+          "word": "alma",
+          "start": 85.08,
+          "end": 85.82
+        },
+        {
+          "word": "cuando",
+          "start": 87.4,
+          "end": 87.98
+        },
+        {
+          "word": "en",
+          "start": 87.98,
+          "end": 88.58
+        },
+        {
+          "word": "aflicción",
+          "start": 88.58,
+          "end": 90.26
+        },
+        {
+          "word": "está,",
+          "start": 90.26,
+          "end": 91.28
+        }
+      ],
+      "start": 82.96,
+      "end": 91.28,
+      "confidence": 0.867,
+      "time": 82.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Tú me enseñas a triunfar de la muerte y el pecar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 91.28,
+          "end": 92.56
+        },
+        {
+          "word": "a",
+          "start": 94.18,
+          "end": 94.84
+        },
+        {
+          "word": "de",
+          "start": 96.62,
+          "end": 97.22
+        },
+        {
+          "word": "la",
+          "start": 97.22,
+          "end": 97.92
+        },
+        {
+          "word": "muerte",
+          "start": 97.92,
+          "end": 98.84
+        },
+        {
+          "word": "y",
+          "start": 98.84,
+          "end": 99.6
+        }
+      ],
+      "start": 91.28,
+      "end": 102.14,
+      "confidence": 0.545,
+      "time": 91.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Por tu santa letra sé que con Cristo reinaré.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Por",
+          "start": 103.6,
+          "end": 103.66
+        },
+        {
+          "word": "tu",
+          "start": 103.66,
+          "end": 104.04
+        },
+        {
+          "word": "santa",
+          "start": 104.04,
+          "end": 105.02
+        },
+        {
+          "word": "letra",
+          "start": 105.02,
+          "end": 106.28
+        },
+        {
+          "word": "sé,",
+          "start": 106.28,
+          "end": 107.08
+        },
+        {
+          "word": "que",
+          "start": 107.88,
+          "end": 108.24
+        },
+        {
+          "word": "Cristo",
+          "start": 108.66,
+          "end": 109.8
+        },
+        {
+          "word": "regaré,",
+          "start": 109.8,
+          "end": 111.82
+        }
+      ],
+      "start": 103.6,
+      "end": 111.82,
+      "confidence": 0.874,
+      "time": 103.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Yo, que tan indigno soy, por tu luz al cielo voy.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 111.82,
+          "end": 113.18
+        },
+        {
+          "word": "que",
+          "start": 113.18,
+          "end": 113.56
+        },
+        {
+          "word": "tan",
+          "start": 113.56,
+          "end": 114.38
+        },
+        {
+          "word": "indigno",
+          "start": 114.38,
+          "end": 116.32
+        },
+        {
+          "word": "soy,",
+          "start": 116.32,
+          "end": 116.86
+        },
+        {
+          "word": "por",
+          "start": 118.0,
+          "end": 118.06
+        },
+        {
+          "word": "tu",
+          "start": 118.06,
+          "end": 118.32
+        },
+        {
+          "word": "luz",
+          "start": 118.32,
+          "end": 118.94
+        },
+        {
+          "word": "al",
+          "start": 118.94,
+          "end": 119.4
+        },
+        {
+          "word": "cielo",
+          "start": 119.4,
+          "end": 120.5
+        },
+        {
+          "word": "voy.",
+          "start": 120.5,
+          "end": 121.48
+        }
+      ],
+      "start": 111.82,
+      "end": 121.48,
+      "confidence": 1.0,
+      "time": 111.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "¡Santa Biblia!, para mí eres un tesoro aquí.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Santa",
+          "start": 122.44,
+          "end": 122.94
+        },
+        {
+          "word": "para",
+          "start": 124.18,
+          "end": 125.08
+        },
+        {
+          "word": "mi,",
+          "start": 125.08,
+          "end": 126.32
+        },
+        {
+          "word": "eres",
+          "start": 127.16,
+          "end": 128.08
+        },
+        {
+          "word": "un",
+          "start": 128.08,
+          "end": 128.78
+        },
+        {
+          "word": "tesoro",
+          "start": 128.78,
+          "end": 130.92
+        },
+        {
+          "word": "a",
+          "start": 130.92,
+          "end": 131.46
+        }
+      ],
+      "start": 122.44,
+      "end": 133.6,
+      "confidence": 0.868,
+      "time": 122.44
+    }
+  ]
+}

@@ -1,0 +1,948 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.97,
+  "language": "es",
+  "model": "medium",
+  "hymn": 319,
+  "source": "319 - Cuando mi lucha termine al final.mp3",
+  "duration": 187.74,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cuando mi lucha termine al final",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 16.76,
+          "end": 17.46
+        },
+        {
+          "word": "mi",
+          "start": 17.46,
+          "end": 18.52
+        },
+        {
+          "word": "lucha",
+          "start": 18.52,
+          "end": 19.34
+        },
+        {
+          "word": "termine",
+          "start": 19.34,
+          "end": 20.66
+        },
+        {
+          "word": "al",
+          "start": 20.66,
+          "end": 21.16
+        },
+        {
+          "word": "final",
+          "start": 21.16,
+          "end": 22.42
+        }
+      ],
+      "start": 16.76,
+      "end": 22.42,
+      "confidence": 1.0,
+      "time": 16.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y me halle salvo en la playa eternal,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 22.74,
+          "end": 23.44
+        },
+        {
+          "word": "me",
+          "start": 23.44,
+          "end": 23.92
+        },
+        {
+          "word": "hallé",
+          "start": 23.92,
+          "end": 24.42
+        },
+        {
+          "word": "salvo",
+          "start": 24.42,
+          "end": 25.16
+        },
+        {
+          "word": "en",
+          "start": 25.16,
+          "end": 25.58
+        },
+        {
+          "word": "la",
+          "start": 25.58,
+          "end": 26.04
+        },
+        {
+          "word": "playa",
+          "start": 26.04,
+          "end": 26.88
+        },
+        {
+          "word": "eterna",
+          "start": 26.88,
+          "end": 28.04
+        }
+      ],
+      "start": 22.74,
+      "end": 28.04,
+      "confidence": 0.993,
+      "time": 22.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "junto al que adoro, mi Rey celestial,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "junto",
+          "start": 28.04,
+          "end": 29.62
+        },
+        {
+          "word": "al",
+          "start": 29.62,
+          "end": 30.04
+        },
+        {
+          "word": "que",
+          "start": 30.04,
+          "end": 30.54
+        },
+        {
+          "word": "adoro",
+          "start": 30.54,
+          "end": 31.44
+        },
+        {
+          "word": "mi",
+          "start": 31.44,
+          "end": 32.0
+        },
+        {
+          "word": "Rey",
+          "start": 32.0,
+          "end": 32.46
+        },
+        {
+          "word": "celestial,",
+          "start": 32.46,
+          "end": 34.04
+        }
+      ],
+      "start": 28.04,
+      "end": 34.04,
+      "confidence": 1.0,
+      "time": 28.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "eterna gloria será para mí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "eterna",
+          "start": 35.58,
+          "end": 36.36
+        },
+        {
+          "word": "gloria",
+          "start": 36.36,
+          "end": 37.42
+        },
+        {
+          "word": "será",
+          "start": 37.42,
+          "end": 38.3
+        },
+        {
+          "word": "para",
+          "start": 38.3,
+          "end": 39.34
+        },
+        {
+          "word": "mí.",
+          "start": 39.34,
+          "end": 42.04
+        }
+      ],
+      "start": 35.58,
+      "end": 42.04,
+      "confidence": 1.0,
+      "time": 35.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Gloria sin fin eso será,",
+      "words": [
+        {
+          "word": "Gloria",
+          "start": 43.6,
+          "end": 44.14
+        },
+        {
+          "word": "sin",
+          "start": 44.14,
+          "end": 44.88
+        },
+        {
+          "word": "fin,",
+          "start": 44.88,
+          "end": 45.86
+        },
+        {
+          "word": "eso",
+          "start": 46.24,
+          "end": 46.9
+        },
+        {
+          "word": "será,",
+          "start": 46.9,
+          "end": 48.44
+        }
+      ],
+      "start": 43.6,
+      "end": 48.44,
+      "confidence": 1.0,
+      "time": 43.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "gloria sin fin eso será.",
+      "words": [
+        {
+          "word": "gloria",
+          "start": 48.92,
+          "end": 49.84
+        },
+        {
+          "word": "sin",
+          "start": 49.84,
+          "end": 50.54
+        },
+        {
+          "word": "fin,",
+          "start": 50.54,
+          "end": 51.44
+        },
+        {
+          "word": "eso",
+          "start": 52.06,
+          "end": 52.8
+        },
+        {
+          "word": "será,",
+          "start": 52.8,
+          "end": 54.28
+        }
+      ],
+      "start": 48.92,
+      "end": 54.28,
+      "confidence": 1.0,
+      "time": 48.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cuando por gracia su faz vea allí,",
+      "words": [
+        {
+          "word": "cuando",
+          "start": 54.28,
+          "end": 55.56
+        },
+        {
+          "word": "por",
+          "start": 55.56,
+          "end": 56.26
+        },
+        {
+          "word": "gracia",
+          "start": 56.26,
+          "end": 57.38
+        },
+        {
+          "word": "su",
+          "start": 57.38,
+          "end": 57.9
+        },
+        {
+          "word": "faz",
+          "start": 57.9,
+          "end": 58.52
+        },
+        {
+          "word": "allí",
+          "start": 59.3,
+          "end": 61.56
+        }
+      ],
+      "start": 54.28,
+      "end": 61.56,
+      "confidence": 0.857,
+      "time": 54.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "eterna gloria será para mí.",
+      "words": [
+        {
+          "word": "eterna",
+          "start": 61.56,
+          "end": 63.4
+        },
+        {
+          "word": "gloria",
+          "start": 63.4,
+          "end": 65.54
+        },
+        {
+          "word": "será",
+          "start": 65.54,
+          "end": 66.82
+        },
+        {
+          "word": "para",
+          "start": 66.82,
+          "end": 68.92
+        },
+        {
+          "word": "mí.",
+          "start": 68.92,
+          "end": 72.04
+        }
+      ],
+      "start": 61.56,
+      "end": 72.04,
+      "confidence": 1.0,
+      "time": 61.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cuando la gracia infinita me dé",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 73.28,
+          "end": 74.16
+        },
+        {
+          "word": "la",
+          "start": 74.16,
+          "end": 74.86
+        },
+        {
+          "word": "gracia",
+          "start": 74.86,
+          "end": 75.7
+        },
+        {
+          "word": "infinita",
+          "start": 75.7,
+          "end": 77.06
+        },
+        {
+          "word": "me",
+          "start": 77.06,
+          "end": 77.82
+        },
+        {
+          "word": "dé",
+          "start": 77.82,
+          "end": 78.52
+        }
+      ],
+      "start": 73.28,
+      "end": 78.52,
+      "confidence": 1.0,
+      "time": 73.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "bella morada en la casa del Rey,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Bella",
+          "start": 78.52,
+          "end": 80.0
+        },
+        {
+          "word": "morada",
+          "start": 80.0,
+          "end": 81.24
+        },
+        {
+          "word": "en",
+          "start": 81.24,
+          "end": 81.68
+        },
+        {
+          "word": "la",
+          "start": 81.68,
+          "end": 82.1
+        },
+        {
+          "word": "casa",
+          "start": 82.1,
+          "end": 82.94
+        },
+        {
+          "word": "del",
+          "start": 82.94,
+          "end": 83.48
+        },
+        {
+          "word": "Rey,",
+          "start": 83.48,
+          "end": 84.68
+        }
+      ],
+      "start": 78.52,
+      "end": 85.64,
+      "confidence": 1.0,
+      "time": 78.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "maravillado su rostro veré,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Maravillado",
+          "start": 85.64,
+          "end": 87.66
+        },
+        {
+          "word": "su",
+          "start": 87.66,
+          "end": 88.16
+        },
+        {
+          "word": "rostro",
+          "start": 88.16,
+          "end": 89.26
+        },
+        {
+          "word": "veré,",
+          "start": 89.26,
+          "end": 90.84
+        }
+      ],
+      "start": 85.64,
+      "end": 90.84,
+      "confidence": 1.0,
+      "time": 85.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y eterna gloria será para mí.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "eterna",
+          "start": 91.72,
+          "end": 92.7
+        },
+        {
+          "word": "gloria",
+          "start": 92.7,
+          "end": 93.64
+        },
+        {
+          "word": "será",
+          "start": 93.64,
+          "end": 94.6
+        },
+        {
+          "word": "para",
+          "start": 94.6,
+          "end": 95.86
+        },
+        {
+          "word": "mí.",
+          "start": 95.86,
+          "end": 98.8
+        }
+      ],
+      "start": 91.72,
+      "end": 98.8,
+      "confidence": 0.833,
+      "time": 91.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Gloria sin fin eso será,",
+      "words": [
+        {
+          "word": "Gloria",
+          "start": 98.8,
+          "end": 100.5
+        },
+        {
+          "word": "sin",
+          "start": 100.5,
+          "end": 101.14
+        },
+        {
+          "word": "fin,",
+          "start": 101.14,
+          "end": 102.12
+        },
+        {
+          "word": "eso",
+          "start": 102.52,
+          "end": 103.24
+        },
+        {
+          "word": "será,",
+          "start": 103.24,
+          "end": 104.92
+        }
+      ],
+      "start": 98.8,
+      "end": 105.32,
+      "confidence": 1.0,
+      "time": 98.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "gloria sin fin eso será.",
+      "words": [
+        {
+          "word": "gloria",
+          "start": 105.32,
+          "end": 106.28
+        },
+        {
+          "word": "sin",
+          "start": 106.28,
+          "end": 106.86
+        },
+        {
+          "word": "fin,",
+          "start": 106.86,
+          "end": 108.08
+        },
+        {
+          "word": "eso",
+          "start": 108.56,
+          "end": 109.26
+        },
+        {
+          "word": "será,",
+          "start": 109.26,
+          "end": 110.88
+        }
+      ],
+      "start": 105.32,
+      "end": 111.34,
+      "confidence": 1.0,
+      "time": 105.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cuando por gracia su faz vea allí,",
+      "words": [
+        {
+          "word": "cuando",
+          "start": 111.34,
+          "end": 112.2
+        },
+        {
+          "word": "por",
+          "start": 112.2,
+          "end": 113.08
+        },
+        {
+          "word": "gracia",
+          "start": 113.08,
+          "end": 114.14
+        },
+        {
+          "word": "Su",
+          "start": 114.14,
+          "end": 114.72
+        },
+        {
+          "word": "faz",
+          "start": 114.72,
+          "end": 115.3
+        },
+        {
+          "word": "allí,",
+          "start": 116.12,
+          "end": 118.18
+        }
+      ],
+      "start": 111.34,
+      "end": 119.3,
+      "confidence": 0.857,
+      "time": 111.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "eterna gloria será para mí.",
+      "words": [
+        {
+          "word": "eterna",
+          "start": 119.3,
+          "end": 120.1
+        },
+        {
+          "word": "gloria",
+          "start": 120.1,
+          "end": 122.18
+        },
+        {
+          "word": "será",
+          "start": 122.18,
+          "end": 123.42
+        },
+        {
+          "word": "para",
+          "start": 123.42,
+          "end": 125.42
+        },
+        {
+          "word": "mí.",
+          "start": 125.42,
+          "end": 126.84
+        }
+      ],
+      "start": 119.3,
+      "end": 126.84,
+      "confidence": 1.0,
+      "time": 119.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Encontraré a mis amados allá;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Encontraré",
+          "start": 129.64,
+          "end": 131.04
+        },
+        {
+          "word": "a",
+          "start": 131.04,
+          "end": 131.26
+        },
+        {
+          "word": "mis",
+          "start": 131.26,
+          "end": 131.58
+        },
+        {
+          "word": "amados",
+          "start": 131.58,
+          "end": 133.02
+        },
+        {
+          "word": "allá,",
+          "start": 133.02,
+          "end": 134.46
+        }
+      ],
+      "start": 129.64,
+      "end": 134.98,
+      "confidence": 1.0,
+      "time": 129.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "gozo cual río en redor correrá;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "gozo",
+          "start": 134.98,
+          "end": 135.64
+        },
+        {
+          "word": "cual",
+          "start": 135.64,
+          "end": 136.08
+        },
+        {
+          "word": "río",
+          "start": 136.08,
+          "end": 137.0
+        },
+        {
+          "word": "en",
+          "start": 137.0,
+          "end": 137.34
+        },
+        {
+          "word": "redor",
+          "start": 137.34,
+          "end": 138.18
+        },
+        {
+          "word": "correrá,",
+          "start": 138.18,
+          "end": 140.6
+        }
+      ],
+      "start": 134.98,
+      "end": 141.0,
+      "confidence": 1.0,
+      "time": 134.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "dulce sonrisa Jesús me dará,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "dulce",
+          "start": 141.0,
+          "end": 141.74
+        },
+        {
+          "word": "sonrisa",
+          "start": 141.74,
+          "end": 143.08
+        },
+        {
+          "word": "Jesús",
+          "start": 143.08,
+          "end": 144.02
+        },
+        {
+          "word": "me",
+          "start": 144.02,
+          "end": 144.76
+        },
+        {
+          "word": "dará,",
+          "start": 144.76,
+          "end": 146.52
+        }
+      ],
+      "start": 141.0,
+      "end": 147.48,
+      "confidence": 1.0,
+      "time": 141.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "eterna gloria será para mí.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "eterna",
+          "start": 147.48,
+          "end": 148.16
+        },
+        {
+          "word": "gloria",
+          "start": 148.16,
+          "end": 149.18
+        },
+        {
+          "word": "será",
+          "start": 149.18,
+          "end": 150.24
+        },
+        {
+          "word": "para",
+          "start": 150.24,
+          "end": 151.68
+        },
+        {
+          "word": "mí.",
+          "start": 151.68,
+          "end": 154.74
+        }
+      ],
+      "start": 147.48,
+      "end": 154.74,
+      "confidence": 1.0,
+      "time": 147.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Gloria sin fin eso será,",
+      "words": [
+        {
+          "word": "Gloria",
+          "start": 154.74,
+          "end": 156.28
+        },
+        {
+          "word": "sin",
+          "start": 156.28,
+          "end": 156.96
+        },
+        {
+          "word": "fin",
+          "start": 156.96,
+          "end": 157.9
+        },
+        {
+          "word": "eso",
+          "start": 157.9,
+          "end": 158.94
+        },
+        {
+          "word": "será,",
+          "start": 158.94,
+          "end": 160.52
+        }
+      ],
+      "start": 154.74,
+      "end": 160.96,
+      "confidence": 1.0,
+      "time": 154.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "gloria sin fin eso será.",
+      "words": [
+        {
+          "word": "gloria",
+          "start": 160.96,
+          "end": 161.82
+        },
+        {
+          "word": "sin",
+          "start": 161.82,
+          "end": 162.44
+        },
+        {
+          "word": "fin",
+          "start": 162.44,
+          "end": 163.48
+        },
+        {
+          "word": "eso",
+          "start": 163.48,
+          "end": 164.7
+        },
+        {
+          "word": "será,",
+          "start": 164.7,
+          "end": 166.12
+        }
+      ],
+      "start": 160.96,
+      "end": 166.56,
+      "confidence": 1.0,
+      "time": 160.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cuando por gracia su faz vea allí,",
+      "words": [
+        {
+          "word": "cuando",
+          "start": 166.56,
+          "end": 167.46
+        },
+        {
+          "word": "por",
+          "start": 167.46,
+          "end": 168.22
+        },
+        {
+          "word": "gracia",
+          "start": 168.22,
+          "end": 169.32
+        },
+        {
+          "word": "su",
+          "start": 169.32,
+          "end": 169.86
+        },
+        {
+          "word": "faz",
+          "start": 169.86,
+          "end": 170.34
+        },
+        {
+          "word": "allí,",
+          "start": 171.26,
+          "end": 173.12
+        }
+      ],
+      "start": 166.56,
+      "end": 174.32,
+      "confidence": 0.857,
+      "time": 166.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "eterna gloria será para mí.",
+      "words": [
+        {
+          "word": "eterna",
+          "start": 174.32,
+          "end": 175.32
+        },
+        {
+          "word": "gloria",
+          "start": 175.32,
+          "end": 177.14
+        },
+        {
+          "word": "será",
+          "start": 177.14,
+          "end": 178.54
+        },
+        {
+          "word": "para",
+          "start": 178.54,
+          "end": 180.74
+        },
+        {
+          "word": "mí.",
+          "start": 180.74,
+          "end": 182.26
+        }
+      ],
+      "start": 174.32,
+      "end": 182.26,
+      "confidence": 1.0,
+      "time": 174.32
+    }
+  ]
+}

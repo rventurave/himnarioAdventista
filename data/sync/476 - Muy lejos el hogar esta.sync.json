@@ -1,0 +1,727 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.929,
+  "language": "es",
+  "model": "medium",
+  "hymn": 476,
+  "source": "476 - Muy lejos el hogar esta.mp3",
+  "duration": 165.93,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "\"¿Muy lejos el hogar está?\",",
+      "verse": 1,
+      "start": 0.0,
+      "end": 30.94,
+      "confidence": 0.0,
+      "time": 0.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con ansia al guarda pregunté.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 30.94,
+          "end": 31.16
+        },
+        {
+          "word": "guarda",
+          "start": 31.16,
+          "end": 32.94
+        },
+        {
+          "word": "pregunte",
+          "start": 32.94,
+          "end": 34.84
+        }
+      ],
+      "start": 30.94,
+      "end": 34.84,
+      "confidence": 0.6,
+      "time": 30.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "\"Muy pronto el día llegará",
+      "verse": 1,
+      "words": [
+        {
+          "word": "muy",
+          "start": 34.84,
+          "end": 35.54
+        },
+        {
+          "word": "pronto",
+          "start": 35.54,
+          "end": 36.42
+        },
+        {
+          "word": "el",
+          "start": 36.42,
+          "end": 37.0
+        },
+        {
+          "word": "día",
+          "start": 37.0,
+          "end": 38.22
+        },
+        {
+          "word": "llegará",
+          "start": 38.22,
+          "end": 40.4
+        }
+      ],
+      "start": 34.84,
+      "end": 40.4,
+      "confidence": 1.0,
+      "time": 34.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de contemplar al Rey\",",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 40.4,
+          "end": 41.34
+        },
+        {
+          "word": "contemplar",
+          "start": 41.34,
+          "end": 43.64
+        },
+        {
+          "word": "al",
+          "start": 43.64,
+          "end": 44.1
+        },
+        {
+          "word": "Rey.",
+          "start": 44.1,
+          "end": 45.58
+        }
+      ],
+      "start": 40.4,
+      "end": 45.58,
+      "confidence": 1.0,
+      "time": 40.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "me contestó; \"no llores más,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Me",
+          "start": 46.18,
+          "end": 46.94
+        },
+        {
+          "word": "contestó,",
+          "start": 46.94,
+          "end": 49.0
+        },
+        {
+          "word": "no",
+          "start": 49.18,
+          "end": 49.44
+        },
+        {
+          "word": "llores",
+          "start": 49.44,
+          "end": 50.76
+        },
+        {
+          "word": "más,",
+          "start": 50.76,
+          "end": 51.66
+        }
+      ],
+      "start": 46.18,
+      "end": 52.26,
+      "confidence": 1.0,
+      "time": 46.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cercano está del viaje el fin;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cerca",
+          "start": 52.26,
+          "end": 52.84
+        },
+        {
+          "word": "está",
+          "start": 53.64,
+          "end": 54.54
+        },
+        {
+          "word": "del",
+          "start": 54.54,
+          "end": 55.12
+        },
+        {
+          "word": "viaje",
+          "start": 55.12,
+          "end": 55.9
+        },
+        {
+          "word": "el",
+          "start": 55.9,
+          "end": 56.6
+        },
+        {
+          "word": "fin,",
+          "start": 56.6,
+          "end": 57.26
+        }
+      ],
+      "start": 52.26,
+      "end": 57.26,
+      "confidence": 0.99,
+      "time": 52.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "alegre entonces entrarás al celestial festín\".",
+      "verse": 1,
+      "words": [
+        {
+          "word": "alegre",
+          "start": 57.26,
+          "end": 59.06
+        },
+        {
+          "word": "entonces",
+          "start": 59.06,
+          "end": 60.58
+        },
+        {
+          "word": "entrarás",
+          "start": 60.58,
+          "end": 62.92
+        },
+        {
+          "word": "al",
+          "start": 62.92,
+          "end": 63.62
+        },
+        {
+          "word": "celestial",
+          "start": 63.62,
+          "end": 65.76
+        },
+        {
+          "word": "festín.",
+          "start": 65.76,
+          "end": 68.26
+        }
+      ],
+      "start": 57.26,
+      "end": 68.26,
+      "confidence": 1.0,
+      "time": 57.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Señales muchas se ven ya,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Señales",
+          "start": 70.32,
+          "end": 71.72
+        },
+        {
+          "word": "muchas",
+          "start": 71.72,
+          "end": 73.06
+        },
+        {
+          "word": "se",
+          "start": 73.06,
+          "end": 73.94
+        },
+        {
+          "word": "ven",
+          "start": 73.94,
+          "end": 74.54
+        },
+        {
+          "word": "ya,",
+          "start": 74.54,
+          "end": 75.44
+        }
+      ],
+      "start": 70.32,
+      "end": 75.44,
+      "confidence": 1.0,
+      "time": 70.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "en cielo, tierra y en el mar;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 75.92,
+          "end": 76.1
+        },
+        {
+          "word": "cielo,",
+          "start": 76.1,
+          "end": 77.22
+        },
+        {
+          "word": "tierra",
+          "start": 77.28,
+          "end": 78.44
+        },
+        {
+          "word": "y",
+          "start": 78.44,
+          "end": 79.14
+        },
+        {
+          "word": "en",
+          "start": 79.14,
+          "end": 79.9
+        },
+        {
+          "word": "el",
+          "start": 79.9,
+          "end": 80.2
+        },
+        {
+          "word": "mar,",
+          "start": 80.2,
+          "end": 80.78
+        }
+      ],
+      "start": 75.92,
+      "end": 80.78,
+      "confidence": 1.0,
+      "time": 75.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "la aurora luego rayará,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 81.38,
+          "end": 81.64
+        },
+        {
+          "word": "aurora",
+          "start": 81.64,
+          "end": 82.78
+        },
+        {
+          "word": "luego",
+          "start": 82.78,
+          "end": 84.24
+        },
+        {
+          "word": "rayará",
+          "start": 84.24,
+          "end": 86.32
+        }
+      ],
+      "start": 81.38,
+      "end": 86.32,
+      "confidence": 1.0,
+      "time": 81.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "del anhelado hogar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "del",
+          "start": 86.32,
+          "end": 87.34
+        },
+        {
+          "word": "anhelado",
+          "start": 87.34,
+          "end": 89.82
+        },
+        {
+          "word": "hogar.",
+          "start": 89.82,
+          "end": 91.6
+        }
+      ],
+      "start": 86.32,
+      "end": 91.6,
+      "confidence": 1.0,
+      "time": 86.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Consuélate, no llores más;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Consuélate,",
+          "start": 93.62,
+          "end": 95.02
+        },
+        {
+          "word": "no",
+          "start": 95.06,
+          "end": 95.58
+        },
+        {
+          "word": "llores",
+          "start": 95.58,
+          "end": 96.7
+        },
+        {
+          "word": "más,",
+          "start": 96.7,
+          "end": 97.5
+        }
+      ],
+      "start": 93.62,
+      "end": 97.5,
+      "confidence": 1.0,
+      "time": 93.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "el Redentor enjugará",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 97.98,
+          "end": 98.6
+        },
+        {
+          "word": "Redentor",
+          "start": 98.6,
+          "end": 100.84
+        },
+        {
+          "word": "enjugará.",
+          "start": 100.84,
+          "end": 103.04
+        }
+      ],
+      "start": 97.98,
+      "end": 103.04,
+      "confidence": 1.0,
+      "time": 97.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "del siervo fiel las lágrimas; descanso le dará.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Del",
+          "start": 103.56,
+          "end": 103.9
+        },
+        {
+          "word": "siervo",
+          "start": 103.9,
+          "end": 105.16
+        },
+        {
+          "word": "fiel",
+          "start": 105.16,
+          "end": 106.26
+        },
+        {
+          "word": "las",
+          "start": 106.26,
+          "end": 106.74
+        },
+        {
+          "word": "lágrimas",
+          "start": 106.74,
+          "end": 108.88
+        },
+        {
+          "word": "descanso",
+          "start": 108.88,
+          "end": 110.9
+        },
+        {
+          "word": "le",
+          "start": 110.9,
+          "end": 112.04
+        },
+        {
+          "word": "dará.",
+          "start": 112.04,
+          "end": 113.86
+        }
+      ],
+      "start": 103.56,
+      "end": 113.86,
+      "confidence": 1.0,
+      "time": 103.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesús en breve volverá,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 113.86,
+          "end": 116.12
+        },
+        {
+          "word": "en",
+          "start": 116.12,
+          "end": 117.2
+        },
+        {
+          "word": "breve",
+          "start": 117.2,
+          "end": 118.36
+        },
+        {
+          "word": "volverá,",
+          "start": 118.36,
+          "end": 120.92
+        }
+      ],
+      "start": 113.86,
+      "end": 121.24,
+      "confidence": 1.0,
+      "time": 113.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡qué pensamiento alentador!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 121.24,
+          "end": 121.48
+        },
+        {
+          "word": "pensamiento",
+          "start": 121.48,
+          "end": 123.9
+        },
+        {
+          "word": "alentador,",
+          "start": 123.9,
+          "end": 126.2
+        }
+      ],
+      "start": 121.24,
+      "end": 126.72,
+      "confidence": 1.0,
+      "time": 121.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "La creación ansiosa está",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 126.72,
+          "end": 127.26
+        },
+        {
+          "word": "creación",
+          "start": 127.26,
+          "end": 129.36
+        },
+        {
+          "word": "ansiosa",
+          "start": 129.36,
+          "end": 130.64
+        },
+        {
+          "word": "está",
+          "start": 130.64,
+          "end": 131.9
+        }
+      ],
+      "start": 126.72,
+      "end": 131.9,
+      "confidence": 1.0,
+      "time": 126.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de ver al Creador.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 131.9,
+          "end": 132.72
+        },
+        {
+          "word": "ver",
+          "start": 132.72,
+          "end": 133.42
+        },
+        {
+          "word": "al",
+          "start": 133.42,
+          "end": 133.96
+        },
+        {
+          "word": "Creador.",
+          "start": 133.96,
+          "end": 137.2
+        }
+      ],
+      "start": 131.9,
+      "end": 137.2,
+      "confidence": 1.0,
+      "time": 131.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Entonces ya terminará",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Entonces",
+          "start": 137.2,
+          "end": 139.22
+        },
+        {
+          "word": "ya",
+          "start": 139.22,
+          "end": 140.5
+        },
+        {
+          "word": "terminará",
+          "start": 140.5,
+          "end": 143.36
+        }
+      ],
+      "start": 137.2,
+      "end": 143.36,
+      "confidence": 1.0,
+      "time": 137.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tristeza, muerte y dolor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tristeza,",
+          "start": 143.36,
+          "end": 144.92
+        },
+        {
+          "word": "muerte",
+          "start": 145.98,
+          "end": 146.36
+        },
+        {
+          "word": "y",
+          "start": 146.36,
+          "end": 147.22
+        },
+        {
+          "word": "dolor.",
+          "start": 147.22,
+          "end": 148.5
+        }
+      ],
+      "start": 143.36,
+      "end": 148.5,
+      "confidence": 1.0,
+      "time": 143.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "un paraíso se abrirá al pueblo del Señor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Un",
+          "start": 149.08,
+          "end": 149.72
+        },
+        {
+          "word": "paraíso",
+          "start": 149.72,
+          "end": 151.9
+        },
+        {
+          "word": "se",
+          "start": 151.9,
+          "end": 152.72
+        },
+        {
+          "word": "abrirá",
+          "start": 152.72,
+          "end": 154.56
+        },
+        {
+          "word": "al",
+          "start": 154.56,
+          "end": 154.92
+        },
+        {
+          "word": "pueblo",
+          "start": 154.92,
+          "end": 156.18
+        },
+        {
+          "word": "del",
+          "start": 156.18,
+          "end": 157.46
+        },
+        {
+          "word": "Señor.",
+          "start": 157.46,
+          "end": 159.74
+        }
+      ],
+      "start": 149.08,
+      "end": 159.74,
+      "confidence": 1.0,
+      "time": 149.08
+    }
+  ]
+}

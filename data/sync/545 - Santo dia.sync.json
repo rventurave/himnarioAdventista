@@ -1,0 +1,768 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.958,
+  "language": "es",
+  "model": "medium",
+  "hymn": 545,
+  "source": "545 - Santo dia.mp3",
+  "duration": 154.72,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Santo día que el Señor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Santo",
+          "start": 11.66,
+          "end": 13.06
+        },
+        {
+          "word": "día",
+          "start": 13.06,
+          "end": 13.92
+        },
+        {
+          "word": "que",
+          "start": 13.92,
+          "end": 14.26
+        },
+        {
+          "word": "el",
+          "start": 14.26,
+          "end": 14.64
+        },
+        {
+          "word": "Señor",
+          "start": 14.64,
+          "end": 17.28
+        }
+      ],
+      "start": 11.66,
+      "end": 17.28,
+      "confidence": 1.0,
+      "time": 11.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en Edén santificó",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 17.28,
+          "end": 18.82
+        },
+        {
+          "word": "Eden",
+          "start": 18.82,
+          "end": 19.32
+        },
+        {
+          "word": "santificó",
+          "start": 19.32,
+          "end": 22.9
+        }
+      ],
+      "start": 17.28,
+      "end": 22.9,
+      "confidence": 1.0,
+      "time": 17.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y lo dio como señal",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 22.9,
+          "end": 24.3
+        },
+        {
+          "word": "lo",
+          "start": 24.3,
+          "end": 24.82
+        },
+        {
+          "word": "dio",
+          "start": 24.82,
+          "end": 25.08
+        },
+        {
+          "word": "como",
+          "start": 25.08,
+          "end": 25.84
+        },
+        {
+          "word": "señal",
+          "start": 25.84,
+          "end": 28.94
+        }
+      ],
+      "start": 22.9,
+      "end": 28.94,
+      "confidence": 1.0,
+      "time": 22.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "del poder que nos creó.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "del",
+          "start": 28.94,
+          "end": 30.2
+        },
+        {
+          "word": "poder",
+          "start": 30.2,
+          "end": 30.92
+        },
+        {
+          "word": "que",
+          "start": 30.92,
+          "end": 31.4
+        },
+        {
+          "word": "nos",
+          "start": 31.4,
+          "end": 31.94
+        },
+        {
+          "word": "creó.",
+          "start": 31.94,
+          "end": 34.6
+        }
+      ],
+      "start": 28.94,
+      "end": 34.6,
+      "confidence": 1.0,
+      "time": 28.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Santo sábado de paz,",
+      "words": [
+        {
+          "word": "Santo",
+          "start": 35.14,
+          "end": 36.28
+        },
+        {
+          "word": "sábado",
+          "start": 36.28,
+          "end": 37.48
+        },
+        {
+          "word": "de",
+          "start": 37.48,
+          "end": 38.0
+        },
+        {
+          "word": "paz,",
+          "start": 38.0,
+          "end": 40.48
+        }
+      ],
+      "start": 35.14,
+      "end": 41.7,
+      "confidence": 1.0,
+      "time": 35.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "bendecido del Señor!",
+      "words": [
+        {
+          "word": "bendecido",
+          "start": 41.7,
+          "end": 42.82
+        },
+        {
+          "word": "del",
+          "start": 42.82,
+          "end": 43.24
+        },
+        {
+          "word": "Señor,",
+          "start": 43.24,
+          "end": 45.92
+        }
+      ],
+      "start": 41.7,
+      "end": 45.92,
+      "confidence": 1.0,
+      "time": 41.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Siempre el sábado será",
+      "words": [
+        {
+          "word": "Siempre",
+          "start": 45.92,
+          "end": 47.8
+        },
+        {
+          "word": "el",
+          "start": 47.8,
+          "end": 48.06
+        },
+        {
+          "word": "sábado",
+          "start": 48.06,
+          "end": 48.96
+        },
+        {
+          "word": "será",
+          "start": 48.96,
+          "end": 51.84
+        }
+      ],
+      "start": 45.92,
+      "end": 51.84,
+      "confidence": 1.0,
+      "time": 45.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "monumento de su amor.",
+      "words": [
+        {
+          "word": "monumento",
+          "start": 51.84,
+          "end": 54.54
+        },
+        {
+          "word": "de",
+          "start": 54.54,
+          "end": 54.84
+        },
+        {
+          "word": "su",
+          "start": 54.84,
+          "end": 55.2
+        },
+        {
+          "word": "amor.",
+          "start": 55.2,
+          "end": 57.44
+        }
+      ],
+      "start": 51.84,
+      "end": 57.44,
+      "confidence": 1.0,
+      "time": 51.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Gran congoja hallará",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Gran",
+          "start": 58.5,
+          "end": 59.26
+        }
+      ],
+      "start": 58.5,
+      "end": 64.36,
+      "confidence": 0.333,
+      "time": 58.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "quien del mundo siga en pos.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "quien",
+          "start": 64.36,
+          "end": 65.0
+        },
+        {
+          "word": "del",
+          "start": 65.0,
+          "end": 65.46
+        },
+        {
+          "word": "mundo",
+          "start": 65.46,
+          "end": 66.04
+        },
+        {
+          "word": "siga",
+          "start": 66.04,
+          "end": 66.74
+        },
+        {
+          "word": "post,",
+          "start": 67.14,
+          "end": 69.04
+        }
+      ],
+      "start": 64.36,
+      "end": 69.04,
+      "confidence": 0.823,
+      "time": 64.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "El perfecto gozo está",
+      "verse": 2,
+      "words": [
+        {
+          "word": "El",
+          "start": 69.04,
+          "end": 70.74
+        },
+        {
+          "word": "perfecto",
+          "start": 70.74,
+          "end": 71.98
+        },
+        {
+          "word": "gozo",
+          "start": 71.98,
+          "end": 72.46
+        },
+        {
+          "word": "está",
+          "start": 72.46,
+          "end": 74.72
+        }
+      ],
+      "start": 69.04,
+      "end": 74.72,
+      "confidence": 1.0,
+      "time": 69.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en la paz que ofrece Dios.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 74.72,
+          "end": 76.52
+        },
+        {
+          "word": "la",
+          "start": 76.52,
+          "end": 77.02
+        },
+        {
+          "word": "paz",
+          "start": 77.02,
+          "end": 77.22
+        },
+        {
+          "word": "que",
+          "start": 77.22,
+          "end": 77.62
+        },
+        {
+          "word": "ofrece",
+          "start": 77.62,
+          "end": 78.32
+        },
+        {
+          "word": "Dios.",
+          "start": 78.32,
+          "end": 80.84
+        }
+      ],
+      "start": 74.72,
+      "end": 80.84,
+      "confidence": 1.0,
+      "time": 74.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Santo sábado de paz,",
+      "words": [
+        {
+          "word": "Santo",
+          "start": 81.2,
+          "end": 82.6
+        },
+        {
+          "word": "sábado",
+          "start": 82.6,
+          "end": 83.8
+        },
+        {
+          "word": "de",
+          "start": 83.8,
+          "end": 84.22
+        },
+        {
+          "word": "paz,",
+          "start": 84.22,
+          "end": 86.7
+        }
+      ],
+      "start": 81.2,
+      "end": 87.98,
+      "confidence": 1.0,
+      "time": 81.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "bendecido del Señor!",
+      "words": [
+        {
+          "word": "bendecido",
+          "start": 87.98,
+          "end": 89.16
+        },
+        {
+          "word": "del",
+          "start": 89.16,
+          "end": 89.68
+        },
+        {
+          "word": "Señor,",
+          "start": 89.68,
+          "end": 92.14
+        }
+      ],
+      "start": 87.98,
+      "end": 92.14,
+      "confidence": 1.0,
+      "time": 87.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Siempre el sábado será",
+      "words": [
+        {
+          "word": "siempre",
+          "start": 92.14,
+          "end": 94.1
+        },
+        {
+          "word": "ensamado",
+          "start": 94.1,
+          "end": 95.3
+        },
+        {
+          "word": "será",
+          "start": 95.3,
+          "end": 98.16
+        }
+      ],
+      "start": 92.14,
+      "end": 98.16,
+      "confidence": 0.707,
+      "time": 92.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "monumento de su amor.",
+      "words": [
+        {
+          "word": "monumento",
+          "start": 98.16,
+          "end": 100.88
+        },
+        {
+          "word": "de",
+          "start": 100.88,
+          "end": 101.16
+        },
+        {
+          "word": "su",
+          "start": 101.16,
+          "end": 101.64
+        },
+        {
+          "word": "amor.",
+          "start": 101.64,
+          "end": 103.9
+        }
+      ],
+      "start": 98.16,
+      "end": 103.9,
+      "confidence": 1.0,
+      "time": 98.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "En el día del Señor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 106.1,
+          "end": 106.4
+        },
+        {
+          "word": "el",
+          "start": 106.4,
+          "end": 106.7
+        },
+        {
+          "word": "día",
+          "start": 106.7,
+          "end": 107.2
+        },
+        {
+          "word": "del",
+          "start": 107.2,
+          "end": 107.74
+        },
+        {
+          "word": "Señor,",
+          "start": 107.74,
+          "end": 110.6
+        }
+      ],
+      "start": 106.1,
+      "end": 111.48,
+      "confidence": 1.0,
+      "time": 106.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "santa paz podrá gozar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Santa",
+          "start": 111.48,
+          "end": 112.14
+        },
+        {
+          "word": "Paz",
+          "start": 112.14,
+          "end": 112.7
+        },
+        {
+          "word": "podrá",
+          "start": 112.7,
+          "end": 113.58
+        },
+        {
+          "word": "gozar,",
+          "start": 113.58,
+          "end": 116.22
+        }
+      ],
+      "start": 111.48,
+      "end": 116.22,
+      "confidence": 1.0,
+      "time": 111.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "quien acuda, en la quietud,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Quien",
+          "start": 116.22,
+          "end": 117.92
+        },
+        {
+          "word": "acuda",
+          "start": 117.92,
+          "end": 118.62
+        },
+        {
+          "word": "en",
+          "start": 118.62,
+          "end": 118.96
+        },
+        {
+          "word": "la",
+          "start": 118.96,
+          "end": 119.24
+        },
+        {
+          "word": "quietud",
+          "start": 119.24,
+          "end": 122.18
+        }
+      ],
+      "start": 116.22,
+      "end": 122.18,
+      "confidence": 1.0,
+      "time": 116.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "sus palabras a escuchar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "sus",
+          "start": 122.18,
+          "end": 123.46
+        },
+        {
+          "word": "palabras",
+          "start": 123.46,
+          "end": 124.56
+        },
+        {
+          "word": "a",
+          "start": 124.56,
+          "end": 125.06
+        },
+        {
+          "word": "escuchar.",
+          "start": 125.06,
+          "end": 128.02
+        }
+      ],
+      "start": 122.18,
+      "end": 128.02,
+      "confidence": 1.0,
+      "time": 122.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Santo sábado de paz,",
+      "words": [
+        {
+          "word": "Santo",
+          "start": 128.24,
+          "end": 129.6
+        },
+        {
+          "word": "sábado",
+          "start": 129.6,
+          "end": 130.78
+        },
+        {
+          "word": "de",
+          "start": 130.78,
+          "end": 131.3
+        },
+        {
+          "word": "paz,",
+          "start": 131.3,
+          "end": 133.66
+        }
+      ],
+      "start": 128.24,
+      "end": 134.74,
+      "confidence": 1.0,
+      "time": 128.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "bendecido del Señor!",
+      "words": [
+        {
+          "word": "bendecido",
+          "start": 134.74,
+          "end": 136.16
+        },
+        {
+          "word": "del",
+          "start": 136.16,
+          "end": 136.56
+        },
+        {
+          "word": "Señor,",
+          "start": 136.56,
+          "end": 139.22
+        }
+      ],
+      "start": 134.74,
+      "end": 139.22,
+      "confidence": 1.0,
+      "time": 134.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Siempre el sábado será",
+      "words": [
+        {
+          "word": "siempre",
+          "start": 139.22,
+          "end": 141.12
+        },
+        {
+          "word": "el",
+          "start": 141.12,
+          "end": 141.36
+        },
+        {
+          "word": "sábado",
+          "start": 141.36,
+          "end": 142.3
+        },
+        {
+          "word": "será",
+          "start": 142.3,
+          "end": 145.22
+        }
+      ],
+      "start": 139.22,
+      "end": 145.22,
+      "confidence": 1.0,
+      "time": 139.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "monumento de su amor.",
+      "words": [
+        {
+          "word": "monumento",
+          "start": 146.86,
+          "end": 148.26
+        },
+        {
+          "word": "de",
+          "start": 148.26,
+          "end": 148.64
+        },
+        {
+          "word": "su",
+          "start": 148.64,
+          "end": 149.1
+        },
+        {
+          "word": "amor.",
+          "start": 149.1,
+          "end": 150.72
+        }
+      ],
+      "start": 146.86,
+      "end": 150.72,
+      "confidence": 1.0,
+      "time": 146.86
+    }
+  ]
+}

@@ -58,6 +58,12 @@ function handleKeydown(event) {
 
   const mode = getCurrentMode();
 
+  if (key === " " || key === "Spacebar") {
+    event.preventDefault();
+    togglePlayback();
+    return;
+  }
+
   if (key === "l" || key === "L") {
     if (mode !== MODES.LYRICS) {
       event.preventDefault();
@@ -77,10 +83,7 @@ function handleKeydown(event) {
     return;
   }
 
-  if (key === " " || key === "Spacebar") {
-    event.preventDefault();
-    togglePlayback();
-  } else if (key === "ArrowRight") {
+  if (key === "ArrowRight") {
     event.preventDefault();
     seekBy(SEEK_STEP);
   } else if (key === "ArrowLeft") {

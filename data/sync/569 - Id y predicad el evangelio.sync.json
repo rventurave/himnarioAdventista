@@ -1,0 +1,1483 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.979,
+  "language": "es",
+  "model": "medium",
+  "hymn": 569,
+  "source": "569 - Id y predicad el evangelio.mp3",
+  "duration": 190.93,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Oíd, oíd lo que nos manda el Salvador:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Oíd,",
+          "start": 12.06,
+          "end": 12.82
+        },
+        {
+          "word": "oíd",
+          "start": 12.82,
+          "end": 13.58
+        },
+        {
+          "word": "lo",
+          "start": 13.58,
+          "end": 13.86
+        },
+        {
+          "word": "que",
+          "start": 13.86,
+          "end": 14.24
+        },
+        {
+          "word": "nos",
+          "start": 14.24,
+          "end": 14.58
+        },
+        {
+          "word": "manda",
+          "start": 14.58,
+          "end": 14.96
+        },
+        {
+          "word": "el",
+          "start": 14.96,
+          "end": 15.24
+        },
+        {
+          "word": "Salvador,",
+          "start": 15.24,
+          "end": 15.96
+        }
+      ],
+      "start": 12.06,
+      "end": 16.28,
+      "confidence": 1.0,
+      "time": 12.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "\"Marchad, marchad, y proclamad mi amor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "marchad,",
+          "start": 16.28,
+          "end": 17.12
+        },
+        {
+          "word": "marchad",
+          "start": 17.34,
+          "end": 18.28
+        },
+        {
+          "word": "y",
+          "start": 18.28,
+          "end": 18.66
+        },
+        {
+          "word": "proclamad,",
+          "start": 18.66,
+          "end": 19.6
+        },
+        {
+          "word": "mi",
+          "start": 19.74,
+          "end": 19.86
+        },
+        {
+          "word": "amor,",
+          "start": 19.86,
+          "end": 20.5
+        }
+      ],
+      "start": 16.28,
+      "end": 21.0,
+      "confidence": 1.0,
+      "time": 16.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues he aquí yo con vosotros estaré;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "pues",
+          "start": 21.0,
+          "end": 21.28
+        },
+        {
+          "word": "Aquí",
+          "start": 21.28,
+          "end": 22.82
+        },
+        {
+          "word": "yo",
+          "start": 22.82,
+          "end": 23.72
+        },
+        {
+          "word": "con",
+          "start": 23.72,
+          "end": 23.9
+        },
+        {
+          "word": "vosotros",
+          "start": 23.9,
+          "end": 24.84
+        },
+        {
+          "word": "estaré,",
+          "start": 24.84,
+          "end": 25.68
+        }
+      ],
+      "start": 21.0,
+      "end": 25.82,
+      "confidence": 0.857,
+      "time": 21.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "los días todos hasta el fin os guardaré\".",
+      "verse": 1,
+      "words": [
+        {
+          "word": "los",
+          "start": 25.82,
+          "end": 25.92
+        },
+        {
+          "word": "días",
+          "start": 25.92,
+          "end": 26.5
+        },
+        {
+          "word": "todos",
+          "start": 26.5,
+          "end": 27.16
+        },
+        {
+          "word": "hasta",
+          "start": 27.16,
+          "end": 27.58
+        },
+        {
+          "word": "el",
+          "start": 27.58,
+          "end": 27.8
+        },
+        {
+          "word": "fin",
+          "start": 27.8,
+          "end": 28.0
+        },
+        {
+          "word": "os",
+          "start": 28.0,
+          "end": 28.3
+        },
+        {
+          "word": "guardaré.",
+          "start": 28.3,
+          "end": 30.48
+        }
+      ],
+      "start": 25.82,
+      "end": 30.48,
+      "confidence": 1.0,
+      "time": 25.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Id, id por el mundo;",
+      "words": [
+        {
+          "word": "Id,",
+          "start": 31.86,
+          "end": 31.86
+        },
+        {
+          "word": "id",
+          "start": 31.86,
+          "end": 32.36
+        },
+        {
+          "word": "por",
+          "start": 32.36,
+          "end": 32.88
+        },
+        {
+          "word": "el",
+          "start": 32.88,
+          "end": 33.48
+        },
+        {
+          "word": "mundo,",
+          "start": 33.48,
+          "end": 34.92
+        }
+      ],
+      "start": 31.86,
+      "end": 36.22,
+      "confidence": 1.0,
+      "time": 31.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "id, id y predicad el evangelio.",
+      "words": [
+        {
+          "word": "id",
+          "start": 36.22,
+          "end": 37.04
+        },
+        {
+          "word": "y",
+          "start": 37.04,
+          "end": 37.38
+        },
+        {
+          "word": "prédicate",
+          "start": 37.38,
+          "end": 38.88
+        },
+        {
+          "word": "el",
+          "start": 38.88,
+          "end": 39.4
+        },
+        {
+          "word": "evangelio,",
+          "start": 39.4,
+          "end": 40.28
+        }
+      ],
+      "start": 36.22,
+      "end": 41.22,
+      "confidence": 0.816,
+      "time": 36.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Id, id, va adelante",
+      "words": [
+        {
+          "word": "id,",
+          "start": 41.22,
+          "end": 41.6
+        },
+        {
+          "word": "id",
+          "start": 41.6,
+          "end": 42.26
+        },
+        {
+          "word": "va",
+          "start": 42.26,
+          "end": 42.46
+        },
+        {
+          "word": "delante",
+          "start": 42.46,
+          "end": 44.28
+        }
+      ],
+      "start": 41.22,
+      "end": 44.28,
+      "confidence": 0.99,
+      "time": 41.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "el todopoderoso Salvador.",
+      "words": [
+        {
+          "word": "el",
+          "start": 44.28,
+          "end": 44.92
+        },
+        {
+          "word": "todopoderoso",
+          "start": 44.92,
+          "end": 46.74
+        },
+        {
+          "word": "Salvador.",
+          "start": 46.74,
+          "end": 47.86
+        }
+      ],
+      "start": 44.28,
+      "end": 47.86,
+      "confidence": 1.0,
+      "time": 44.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Gloria, gloria, aleluya a Jesús.",
+      "words": [
+        {
+          "word": "Gloria,",
+          "start": 49.72,
+          "end": 50.88
+        },
+        {
+          "word": "gloria,",
+          "start": 50.98,
+          "end": 51.66
+        },
+        {
+          "word": "aleluya",
+          "start": 51.88,
+          "end": 52.84
+        },
+        {
+          "word": "a",
+          "start": 52.84,
+          "end": 53.14
+        },
+        {
+          "word": "Jesús,",
+          "start": 53.14,
+          "end": 54.28
+        }
+      ],
+      "start": 49.72,
+      "end": 54.28,
+      "confidence": 1.0,
+      "time": 49.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Gloria, gloria, aleluya a Jesús.",
+      "words": [
+        {
+          "word": "gloria,",
+          "start": 54.52,
+          "end": 55.72
+        },
+        {
+          "word": "gloria,",
+          "start": 55.74,
+          "end": 56.36
+        },
+        {
+          "word": "aleluya",
+          "start": 56.54,
+          "end": 57.88
+        },
+        {
+          "word": "a",
+          "start": 57.88,
+          "end": 58.02
+        },
+        {
+          "word": "Jesús.",
+          "start": 58.02,
+          "end": 59.16
+        }
+      ],
+      "start": 54.52,
+      "end": 59.16,
+      "confidence": 1.0,
+      "time": 54.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Nuestras almas él salvó,",
+      "words": [
+        {
+          "word": "Nuestras",
+          "start": 59.46,
+          "end": 60.1
+        },
+        {
+          "word": "almas",
+          "start": 60.1,
+          "end": 60.68
+        },
+        {
+          "word": "Él",
+          "start": 60.68,
+          "end": 61.06
+        },
+        {
+          "word": "salvó,",
+          "start": 61.06,
+          "end": 61.76
+        }
+      ],
+      "start": 59.46,
+      "end": 61.76,
+      "confidence": 1.0,
+      "time": 59.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "nuestras manchas él lavó;",
+      "words": [
+        {
+          "word": "nuestras",
+          "start": 61.84,
+          "end": 62.42
+        },
+        {
+          "word": "manchas",
+          "start": 62.42,
+          "end": 63.08
+        },
+        {
+          "word": "Él",
+          "start": 63.08,
+          "end": 63.52
+        },
+        {
+          "word": "lavó,",
+          "start": 63.52,
+          "end": 64.18
+        }
+      ],
+      "start": 61.84,
+      "end": 64.18,
+      "confidence": 1.0,
+      "time": 61.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "proclamemos, pues, a todos su amor.",
+      "words": [
+        {
+          "word": "proclamemos",
+          "start": 64.38,
+          "end": 65.32
+        },
+        {
+          "word": "pues",
+          "start": 65.32,
+          "end": 65.76
+        },
+        {
+          "word": "a",
+          "start": 65.76,
+          "end": 66.22
+        },
+        {
+          "word": "todo",
+          "start": 66.22,
+          "end": 66.58
+        },
+        {
+          "word": "su",
+          "start": 66.58,
+          "end": 67.36
+        },
+        {
+          "word": "amor.",
+          "start": 67.36,
+          "end": 69.1
+        }
+      ],
+      "start": 64.38,
+      "end": 69.1,
+      "confidence": 0.99,
+      "time": 64.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mirad, mirad la condición del pecador;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Mirad,",
+          "start": 70.04,
+          "end": 71.16
+        },
+        {
+          "word": "mirad",
+          "start": 71.32,
+          "end": 72.38
+        },
+        {
+          "word": "la",
+          "start": 72.38,
+          "end": 72.7
+        },
+        {
+          "word": "condición",
+          "start": 72.7,
+          "end": 73.52
+        },
+        {
+          "word": "del",
+          "start": 73.52,
+          "end": 73.88
+        },
+        {
+          "word": "pecador,",
+          "start": 73.88,
+          "end": 74.68
+        }
+      ],
+      "start": 70.04,
+      "end": 74.68,
+      "confidence": 1.0,
+      "time": 70.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡qué triste es! ¡qué llena de dolor!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 74.68,
+          "end": 74.98
+        },
+        {
+          "word": "triste",
+          "start": 74.98,
+          "end": 76.18
+        },
+        {
+          "word": "es,",
+          "start": 76.18,
+          "end": 77.14
+        },
+        {
+          "word": "que",
+          "start": 77.34,
+          "end": 77.54
+        },
+        {
+          "word": "llena",
+          "start": 77.54,
+          "end": 78.04
+        },
+        {
+          "word": "de",
+          "start": 78.04,
+          "end": 78.48
+        },
+        {
+          "word": "dolor,",
+          "start": 78.48,
+          "end": 79.22
+        }
+      ],
+      "start": 74.68,
+      "end": 79.54,
+      "confidence": 1.0,
+      "time": 74.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Sin luz, sin paz, camina a la destrucción,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "sin",
+          "start": 79.54,
+          "end": 79.84
+        },
+        {
+          "word": "luz,",
+          "start": 79.84,
+          "end": 80.7
+        },
+        {
+          "word": "sin",
+          "start": 80.96,
+          "end": 81.04
+        },
+        {
+          "word": "paz,",
+          "start": 81.04,
+          "end": 81.84
+        },
+        {
+          "word": "camina",
+          "start": 82.18,
+          "end": 82.82
+        },
+        {
+          "word": "a",
+          "start": 82.82,
+          "end": 83.28
+        },
+        {
+          "word": "la",
+          "start": 83.28,
+          "end": 83.76
+        },
+        {
+          "word": "destrucción",
+          "start": 83.76,
+          "end": 84.38
+        }
+      ],
+      "start": 79.54,
+      "end": 84.38,
+      "confidence": 1.0,
+      "time": 79.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y no conoce el gran peligro en que está.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 84.38,
+          "end": 84.66
+        },
+        {
+          "word": "no",
+          "start": 84.66,
+          "end": 85.08
+        },
+        {
+          "word": "conoce",
+          "start": 85.08,
+          "end": 85.68
+        },
+        {
+          "word": "el",
+          "start": 85.68,
+          "end": 85.92
+        },
+        {
+          "word": "gran",
+          "start": 85.92,
+          "end": 86.24
+        },
+        {
+          "word": "peligro",
+          "start": 86.24,
+          "end": 87.12
+        },
+        {
+          "word": "en",
+          "start": 87.12,
+          "end": 87.72
+        },
+        {
+          "word": "que",
+          "start": 87.72,
+          "end": 88.32
+        },
+        {
+          "word": "está.",
+          "start": 88.32,
+          "end": 89.34
+        }
+      ],
+      "start": 84.38,
+      "end": 89.34,
+      "confidence": 1.0,
+      "time": 84.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Id, id por el mundo;",
+      "words": [
+        {
+          "word": "Id",
+          "start": 89.34,
+          "end": 91.22
+        },
+        {
+          "word": "por",
+          "start": 91.22,
+          "end": 91.96
+        },
+        {
+          "word": "el",
+          "start": 91.96,
+          "end": 92.5
+        },
+        {
+          "word": "mundo,",
+          "start": 92.5,
+          "end": 94.1
+        }
+      ],
+      "start": 89.34,
+      "end": 95.6,
+      "confidence": 0.8,
+      "time": 89.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "id, id y predicad el evangelio.",
+      "words": [
+        {
+          "word": "id",
+          "start": 95.6,
+          "end": 96.24
+        },
+        {
+          "word": "y",
+          "start": 96.24,
+          "end": 96.54
+        },
+        {
+          "word": "prédicate",
+          "start": 96.54,
+          "end": 98.0
+        },
+        {
+          "word": "el",
+          "start": 98.0,
+          "end": 98.5
+        },
+        {
+          "word": "Evangelio,",
+          "start": 98.5,
+          "end": 99.38
+        }
+      ],
+      "start": 95.6,
+      "end": 100.46,
+      "confidence": 0.816,
+      "time": 95.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Id, id, va adelante",
+      "words": [
+        {
+          "word": "id,",
+          "start": 100.46,
+          "end": 100.86
+        },
+        {
+          "word": "id",
+          "start": 100.86,
+          "end": 101.34
+        },
+        {
+          "word": "va",
+          "start": 101.34,
+          "end": 101.64
+        },
+        {
+          "word": "delante",
+          "start": 101.64,
+          "end": 103.36
+        }
+      ],
+      "start": 100.46,
+      "end": 103.36,
+      "confidence": 0.99,
+      "time": 100.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "el todopoderoso Salvador.",
+      "words": [
+        {
+          "word": "el",
+          "start": 103.36,
+          "end": 104.08
+        },
+        {
+          "word": "Todopoderoso",
+          "start": 104.08,
+          "end": 105.92
+        },
+        {
+          "word": "Salvador.",
+          "start": 105.92,
+          "end": 107.46
+        }
+      ],
+      "start": 103.36,
+      "end": 107.46,
+      "confidence": 1.0,
+      "time": 103.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Gloria, gloria, aleluya a Jesús.",
+      "words": [
+        {
+          "word": "Gloria,",
+          "start": 109.0,
+          "end": 110.0
+        },
+        {
+          "word": "gloria,",
+          "start": 110.12,
+          "end": 110.8
+        },
+        {
+          "word": "aleluya",
+          "start": 111.0,
+          "end": 112.18
+        },
+        {
+          "word": "a",
+          "start": 112.18,
+          "end": 112.26
+        },
+        {
+          "word": "Jesús,",
+          "start": 112.26,
+          "end": 113.42
+        }
+      ],
+      "start": 109.0,
+      "end": 113.74,
+      "confidence": 1.0,
+      "time": 109.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Gloria, gloria, aleluya a Jesús.",
+      "words": [
+        {
+          "word": "gloria,",
+          "start": 113.74,
+          "end": 114.88
+        },
+        {
+          "word": "gloria,",
+          "start": 114.9,
+          "end": 115.54
+        },
+        {
+          "word": "aleluya",
+          "start": 115.78,
+          "end": 116.92
+        },
+        {
+          "word": "a",
+          "start": 116.92,
+          "end": 117.1
+        },
+        {
+          "word": "Jesús,",
+          "start": 117.1,
+          "end": 118.22
+        }
+      ],
+      "start": 113.74,
+      "end": 118.22,
+      "confidence": 1.0,
+      "time": 113.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Nuestras almas él salvó,",
+      "words": [
+        {
+          "word": "Nuestras",
+          "start": 118.22,
+          "end": 119.22
+        },
+        {
+          "word": "almas",
+          "start": 119.22,
+          "end": 119.8
+        },
+        {
+          "word": "Él",
+          "start": 119.8,
+          "end": 120.1
+        },
+        {
+          "word": "salvó,",
+          "start": 120.1,
+          "end": 120.88
+        }
+      ],
+      "start": 118.22,
+      "end": 121.26,
+      "confidence": 1.0,
+      "time": 118.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "nuestras manchas él lavó;",
+      "words": [
+        {
+          "word": "nuestras",
+          "start": 121.26,
+          "end": 121.56
+        },
+        {
+          "word": "manchas",
+          "start": 121.56,
+          "end": 122.14
+        },
+        {
+          "word": "Él",
+          "start": 122.14,
+          "end": 122.64
+        },
+        {
+          "word": "lavó,",
+          "start": 122.64,
+          "end": 123.3
+        }
+      ],
+      "start": 121.26,
+      "end": 123.68,
+      "confidence": 1.0,
+      "time": 121.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "proclamemos, pues, a todos su amor.",
+      "words": [
+        {
+          "word": "proclamemos",
+          "start": 123.68,
+          "end": 124.46
+        },
+        {
+          "word": "pues",
+          "start": 124.46,
+          "end": 124.92
+        },
+        {
+          "word": "a",
+          "start": 124.92,
+          "end": 125.38
+        },
+        {
+          "word": "todo",
+          "start": 125.38,
+          "end": 125.66
+        },
+        {
+          "word": "su",
+          "start": 125.66,
+          "end": 126.44
+        },
+        {
+          "word": "amor.",
+          "start": 126.44,
+          "end": 128.38
+        }
+      ],
+      "start": 123.68,
+      "end": 128.38,
+      "confidence": 0.99,
+      "time": 123.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Salid, salid, embajadores del Señor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Salid,",
+          "start": 129.3,
+          "end": 130.32
+        },
+        {
+          "word": "salid",
+          "start": 130.56,
+          "end": 131.62
+        },
+        {
+          "word": "embajadores",
+          "start": 131.62,
+          "end": 132.8
+        },
+        {
+          "word": "del",
+          "start": 132.8,
+          "end": 133.28
+        },
+        {
+          "word": "Señor,",
+          "start": 133.28,
+          "end": 133.82
+        }
+      ],
+      "start": 129.3,
+      "end": 134.36,
+      "confidence": 1.0,
+      "time": 129.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "buscad, buscad al pobre pecador.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "buscad,",
+          "start": 134.36,
+          "end": 135.14
+        },
+        {
+          "word": "buscad",
+          "start": 135.18,
+          "end": 136.38
+        },
+        {
+          "word": "al",
+          "start": 136.38,
+          "end": 136.56
+        },
+        {
+          "word": "pobre",
+          "start": 136.56,
+          "end": 137.16
+        },
+        {
+          "word": "pecador,",
+          "start": 137.16,
+          "end": 138.38
+        }
+      ],
+      "start": 134.36,
+      "end": 138.38,
+      "confidence": 1.0,
+      "time": 134.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Aprovechad el tiempo que el Señor os da,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Aprovechad",
+          "start": 140.02,
+          "end": 141.1
+        },
+        {
+          "word": "el",
+          "start": 141.1,
+          "end": 141.36
+        },
+        {
+          "word": "tiempo",
+          "start": 141.36,
+          "end": 141.82
+        },
+        {
+          "word": "que",
+          "start": 141.82,
+          "end": 142.12
+        },
+        {
+          "word": "el",
+          "start": 142.12,
+          "end": 142.36
+        },
+        {
+          "word": "Señor",
+          "start": 142.36,
+          "end": 142.92
+        },
+        {
+          "word": "os",
+          "start": 142.92,
+          "end": 143.22
+        },
+        {
+          "word": "da,",
+          "start": 143.22,
+          "end": 143.44
+        }
+      ],
+      "start": 140.02,
+      "end": 143.56,
+      "confidence": 1.0,
+      "time": 140.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pues pronto el día de salud acabará.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 143.56,
+          "end": 143.78
+        },
+        {
+          "word": "pronto",
+          "start": 143.78,
+          "end": 144.2
+        },
+        {
+          "word": "el",
+          "start": 144.2,
+          "end": 144.42
+        },
+        {
+          "word": "día",
+          "start": 144.42,
+          "end": 144.9
+        },
+        {
+          "word": "de",
+          "start": 144.9,
+          "end": 145.44
+        },
+        {
+          "word": "salud",
+          "start": 145.44,
+          "end": 145.98
+        },
+        {
+          "word": "acabará.",
+          "start": 145.98,
+          "end": 148.52
+        }
+      ],
+      "start": 143.56,
+      "end": 148.52,
+      "confidence": 1.0,
+      "time": 143.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Id, id por el mundo;",
+      "words": [
+        {
+          "word": "Id,",
+          "start": 149.92,
+          "end": 150.0
+        },
+        {
+          "word": "id",
+          "start": 150.06,
+          "end": 150.5
+        },
+        {
+          "word": "por",
+          "start": 150.5,
+          "end": 151.08
+        },
+        {
+          "word": "el",
+          "start": 151.08,
+          "end": 151.68
+        },
+        {
+          "word": "mundo,",
+          "start": 151.68,
+          "end": 153.24
+        }
+      ],
+      "start": 149.92,
+      "end": 154.0,
+      "confidence": 1.0,
+      "time": 149.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "id, id y predicad el evangelio.",
+      "words": [
+        {
+          "word": "id,",
+          "start": 154.0,
+          "end": 155.02
+        },
+        {
+          "word": "id",
+          "start": 155.02,
+          "end": 155.48
+        },
+        {
+          "word": "y",
+          "start": 155.48,
+          "end": 155.66
+        },
+        {
+          "word": "predicad",
+          "start": 155.66,
+          "end": 157.14
+        },
+        {
+          "word": "el",
+          "start": 157.14,
+          "end": 157.54
+        },
+        {
+          "word": "Evangelio,",
+          "start": 157.54,
+          "end": 158.5
+        }
+      ],
+      "start": 154.0,
+      "end": 159.24,
+      "confidence": 1.0,
+      "time": 154.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Id, id, va adelante",
+      "words": [
+        {
+          "word": "id,",
+          "start": 159.24,
+          "end": 159.8
+        },
+        {
+          "word": "id",
+          "start": 159.8,
+          "end": 160.32
+        },
+        {
+          "word": "va",
+          "start": 160.32,
+          "end": 160.68
+        },
+        {
+          "word": "adelante",
+          "start": 160.68,
+          "end": 162.2
+        }
+      ],
+      "start": 159.24,
+      "end": 162.2,
+      "confidence": 1.0,
+      "time": 159.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "el todopoderoso Salvador.",
+      "words": [
+        {
+          "word": "el",
+          "start": 162.2,
+          "end": 163.14
+        },
+        {
+          "word": "Todopoderoso",
+          "start": 163.14,
+          "end": 164.98
+        },
+        {
+          "word": "Salvador.",
+          "start": 164.98,
+          "end": 165.98
+        }
+      ],
+      "start": 162.2,
+      "end": 165.98,
+      "confidence": 1.0,
+      "time": 162.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Gloria, gloria, aleluya a Jesús.",
+      "words": [
+        {
+          "word": "Gloria,",
+          "start": 167.88,
+          "end": 169.16
+        },
+        {
+          "word": "gloria,",
+          "start": 169.3,
+          "end": 170.14
+        },
+        {
+          "word": "aleluya",
+          "start": 170.14,
+          "end": 171.28
+        },
+        {
+          "word": "a",
+          "start": 171.28,
+          "end": 171.38
+        },
+        {
+          "word": "Jesús",
+          "start": 171.38,
+          "end": 172.02
+        }
+      ],
+      "start": 167.88,
+      "end": 172.02,
+      "confidence": 1.0,
+      "time": 167.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Gloria, gloria, aleluya a Jesús.",
+      "words": [
+        {
+          "word": "Gloria,",
+          "start": 172.56,
+          "end": 173.82
+        },
+        {
+          "word": "gloria,",
+          "start": 173.86,
+          "end": 174.56
+        },
+        {
+          "word": "aleluya",
+          "start": 174.9,
+          "end": 176.1
+        },
+        {
+          "word": "a",
+          "start": 176.1,
+          "end": 176.22
+        },
+        {
+          "word": "Jesús",
+          "start": 176.22,
+          "end": 177.4
+        }
+      ],
+      "start": 172.56,
+      "end": 177.4,
+      "confidence": 1.0,
+      "time": 172.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Nuestras almas él salvó,",
+      "words": [
+        {
+          "word": "Nuestras",
+          "start": 177.4,
+          "end": 178.4
+        },
+        {
+          "word": "almas",
+          "start": 178.4,
+          "end": 178.92
+        },
+        {
+          "word": "Él",
+          "start": 178.92,
+          "end": 179.26
+        },
+        {
+          "word": "salvó,",
+          "start": 179.26,
+          "end": 179.96
+        }
+      ],
+      "start": 177.4,
+      "end": 180.32,
+      "confidence": 1.0,
+      "time": 177.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "nuestras manchas él lavó;",
+      "words": [
+        {
+          "word": "nuestras",
+          "start": 180.32,
+          "end": 180.6
+        },
+        {
+          "word": "manchas",
+          "start": 180.6,
+          "end": 181.24
+        },
+        {
+          "word": "Él",
+          "start": 181.24,
+          "end": 181.68
+        },
+        {
+          "word": "lavó",
+          "start": 181.68,
+          "end": 182.32
+        }
+      ],
+      "start": 180.32,
+      "end": 182.32,
+      "confidence": 1.0,
+      "time": 180.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "proclamemos, pues, a todos su amor.",
+      "words": [
+        {
+          "word": "Proclamemos",
+          "start": 182.32,
+          "end": 183.54
+        },
+        {
+          "word": "pues",
+          "start": 183.54,
+          "end": 184.02
+        },
+        {
+          "word": "a",
+          "start": 184.02,
+          "end": 184.52
+        },
+        {
+          "word": "todo",
+          "start": 184.52,
+          "end": 184.84
+        },
+        {
+          "word": "su",
+          "start": 184.84,
+          "end": 185.76
+        },
+        {
+          "word": "amor",
+          "start": 185.76,
+          "end": 187.94
+        }
+      ],
+      "start": 182.32,
+      "end": 187.94,
+      "confidence": 0.99,
+      "time": 182.32
+    }
+  ]
+}

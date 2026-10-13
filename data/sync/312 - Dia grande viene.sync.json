@@ -1,0 +1,868 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.82,
+  "language": "es",
+  "model": "medium",
+  "hymn": 312,
+  "source": "312 - Dia grande viene.mp3",
+  "duration": 133.59,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Día grande viene, un día grande,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Día",
+          "start": 8.52,
+          "end": 9.92
+        },
+        {
+          "word": "grande",
+          "start": 9.92,
+          "end": 11.06
+        },
+        {
+          "word": "viene,",
+          "start": 11.06,
+          "end": 11.98
+        },
+        {
+          "word": "un",
+          "start": 11.98,
+          "end": 12.62
+        },
+        {
+          "word": "día",
+          "start": 12.62,
+          "end": 13.34
+        },
+        {
+          "word": "grande,",
+          "start": 13.34,
+          "end": 14.1
+        }
+      ],
+      "start": 8.52,
+      "end": 14.56,
+      "confidence": 1.0,
+      "time": 8.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "día grande viene y cerca está,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "día",
+          "start": 14.56,
+          "end": 14.74
+        },
+        {
+          "word": "grande",
+          "start": 14.74,
+          "end": 15.82
+        },
+        {
+          "word": "viene",
+          "start": 15.82,
+          "end": 16.48
+        },
+        {
+          "word": "y",
+          "start": 16.48,
+          "end": 16.72
+        },
+        {
+          "word": "cerca",
+          "start": 16.72,
+          "end": 17.12
+        },
+        {
+          "word": "está",
+          "start": 17.12,
+          "end": 18.44
+        }
+      ],
+      "start": 14.56,
+      "end": 18.44,
+      "confidence": 1.0,
+      "time": 14.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cuando justos y malos separados quedarán.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 18.44,
+          "end": 19.44
+        },
+        {
+          "word": "justos",
+          "start": 19.44,
+          "end": 20.58
+        },
+        {
+          "word": "y",
+          "start": 20.58,
+          "end": 20.92
+        },
+        {
+          "word": "malos",
+          "start": 20.92,
+          "end": 21.48
+        },
+        {
+          "word": "separados",
+          "start": 21.48,
+          "end": 22.6
+        },
+        {
+          "word": "quedarán",
+          "start": 22.6,
+          "end": 23.68
+        }
+      ],
+      "start": 18.44,
+      "end": 23.68,
+      "confidence": 1.0,
+      "time": 18.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh! hermano, ¿apercibido estás?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "o",
+          "start": 23.68,
+          "end": 24.2
+        },
+        {
+          "word": "percibido",
+          "start": 25.08,
+          "end": 26.64
+        },
+        {
+          "word": "estás",
+          "start": 26.64,
+          "end": 28.66
+        }
+      ],
+      "start": 23.68,
+      "end": 28.66,
+      "confidence": 0.692,
+      "time": 23.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¿Te hallas listo?, ¿te hallas listo",
+      "words": [
+        {
+          "word": "Te",
+          "start": 28.66,
+          "end": 29.7
+        },
+        {
+          "word": "alas,",
+          "start": 29.7,
+          "end": 30.46
+        },
+        {
+          "word": "Cristo,",
+          "start": 30.54,
+          "end": 31.18
+        },
+        {
+          "word": "te",
+          "start": 31.76,
+          "end": 32.1
+        },
+        {
+          "word": "alas,",
+          "start": 32.1,
+          "end": 32.82
+        },
+        {
+          "word": "Cristo,",
+          "start": 32.82,
+          "end": 33.64
+        }
+      ],
+      "start": 28.66,
+      "end": 34.86,
+      "confidence": 0.905,
+      "time": 28.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "para el fallo del gran tribunal?",
+      "words": [
+        {
+          "word": "para",
+          "start": 34.86,
+          "end": 35.04
+        },
+        {
+          "word": "el",
+          "start": 35.04,
+          "end": 35.32
+        },
+        {
+          "word": "fallo",
+          "start": 35.32,
+          "end": 35.88
+        },
+        {
+          "word": "del",
+          "start": 35.88,
+          "end": 36.22
+        },
+        {
+          "word": "tribunal.",
+          "start": 36.22,
+          "end": 38.46
+        }
+      ],
+      "start": 34.86,
+      "end": 38.46,
+      "confidence": 0.833,
+      "time": 34.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¿Te hallas listo?,",
+      "words": [
+        {
+          "word": "alias",
+          "start": 39.68,
+          "end": 40.1
+        },
+        {
+          "word": "tristón,",
+          "start": 40.1,
+          "end": 41.04
+        }
+      ],
+      "start": 39.68,
+      "end": 41.46,
+      "confidence": 0.545,
+      "time": 39.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¿te hallas listo para el tribunal?",
+      "words": [
+        {
+          "word": "alias",
+          "start": 41.46,
+          "end": 42.4
+        },
+        {
+          "word": "tristón,",
+          "start": 42.4,
+          "end": 43.54
+        },
+        {
+          "word": "para",
+          "start": 43.9,
+          "end": 44.7
+        },
+        {
+          "word": "el",
+          "start": 44.7,
+          "end": 45.28
+        },
+        {
+          "word": "tribunal.",
+          "start": 45.28,
+          "end": 48.58
+        }
+      ],
+      "start": 41.46,
+      "end": 48.58,
+      "confidence": 0.773,
+      "time": 41.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Día triste viene, un día triste,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Día",
+          "start": 49.32,
+          "end": 49.68
+        },
+        {
+          "word": "triste",
+          "start": 49.68,
+          "end": 50.78
+        },
+        {
+          "word": "viene",
+          "start": 50.78,
+          "end": 51.78
+        },
+        {
+          "word": "un",
+          "start": 51.78,
+          "end": 52.3
+        },
+        {
+          "word": "día",
+          "start": 52.3,
+          "end": 53.0
+        },
+        {
+          "word": "triste,",
+          "start": 53.0,
+          "end": 53.8
+        }
+      ],
+      "start": 49.32,
+      "end": 54.2,
+      "confidence": 1.0,
+      "time": 49.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "día triste viene y cerca está,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "día",
+          "start": 54.2,
+          "end": 54.46
+        },
+        {
+          "word": "triste",
+          "start": 54.46,
+          "end": 55.52
+        },
+        {
+          "word": "viene",
+          "start": 55.52,
+          "end": 56.1
+        },
+        {
+          "word": "y",
+          "start": 56.1,
+          "end": 56.36
+        },
+        {
+          "word": "cerca",
+          "start": 56.36,
+          "end": 56.78
+        },
+        {
+          "word": "está,",
+          "start": 56.78,
+          "end": 58.22
+        }
+      ],
+      "start": 54.2,
+      "end": 58.22,
+      "confidence": 1.0,
+      "time": 54.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "cuando: \"Id pecadores, no os conozco\", el Juez dirá.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 58.22,
+          "end": 59.14
+        },
+        {
+          "word": "pecadores,",
+          "start": 60.06,
+          "end": 60.92
+        },
+        {
+          "word": "nos",
+          "start": 61.12,
+          "end": 61.34
+        },
+        {
+          "word": "conozco",
+          "start": 61.34,
+          "end": 62.16
+        }
+      ],
+      "start": 58.22,
+      "end": 63.3,
+      "confidence": 0.431,
+      "time": 58.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Oh! hermano, ¿apercibido estás?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 63.72,
+          "end": 63.88
+        },
+        {
+          "word": "hermano,",
+          "start": 64.1,
+          "end": 64.54
+        },
+        {
+          "word": "percibido",
+          "start": 64.92,
+          "end": 66.26
+        },
+        {
+          "word": "estas.",
+          "start": 66.26,
+          "end": 68.42
+        }
+      ],
+      "start": 63.72,
+      "end": 68.42,
+      "confidence": 0.992,
+      "time": 63.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¿Te hallas listo?, ¿te hallas listo",
+      "words": [
+        {
+          "word": "Te",
+          "start": 69.1,
+          "end": 69.82
+        },
+        {
+          "word": "hayas",
+          "start": 69.82,
+          "end": 70.22
+        },
+        {
+          "word": "visto,",
+          "start": 70.22,
+          "end": 70.96
+        },
+        {
+          "word": "te",
+          "start": 71.18,
+          "end": 71.8
+        },
+        {
+          "word": "hayas",
+          "start": 71.8,
+          "end": 72.62
+        },
+        {
+          "word": "visto",
+          "start": 72.62,
+          "end": 73.52
+        }
+      ],
+      "start": 69.1,
+      "end": 73.52,
+      "confidence": 0.905,
+      "time": 69.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "para el fallo del gran tribunal?",
+      "words": [
+        {
+          "word": "para",
+          "start": 73.52,
+          "end": 74.66
+        },
+        {
+          "word": "el",
+          "start": 74.66,
+          "end": 74.92
+        },
+        {
+          "word": "fallo",
+          "start": 74.92,
+          "end": 75.56
+        },
+        {
+          "word": "del",
+          "start": 75.56,
+          "end": 75.8
+        },
+        {
+          "word": "gran",
+          "start": 75.8,
+          "end": 76.18
+        },
+        {
+          "word": "tribunal.",
+          "start": 76.18,
+          "end": 78.08
+        }
+      ],
+      "start": 73.52,
+      "end": 78.08,
+      "confidence": 1.0,
+      "time": 73.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¿Te hallas listo?,",
+      "words": [
+        {
+          "word": "Te",
+          "start": 78.48,
+          "end": 79.36
+        },
+        {
+          "word": "hayas",
+          "start": 79.36,
+          "end": 79.78
+        },
+        {
+          "word": "visto,",
+          "start": 79.78,
+          "end": 80.42
+        }
+      ],
+      "start": 78.48,
+      "end": 81.0,
+      "confidence": 0.905,
+      "time": 78.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¿te hallas listo para el tribunal?",
+      "words": [
+        {
+          "word": "te",
+          "start": 81.0,
+          "end": 81.4
+        },
+        {
+          "word": "hayas",
+          "start": 81.4,
+          "end": 82.18
+        },
+        {
+          "word": "visto",
+          "start": 82.18,
+          "end": 83.0
+        },
+        {
+          "word": "pa'",
+          "start": 83.0,
+          "end": 84.06
+        }
+      ],
+      "start": 81.0,
+      "end": 88.14,
+      "confidence": 0.609,
+      "time": 81.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Día alegre viene, un día alegre,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Díale",
+          "start": 88.94,
+          "end": 89.76
+        },
+        {
+          "word": "tenés",
+          "start": 90.42,
+          "end": 91.42
+        },
+        {
+          "word": "un",
+          "start": 91.42,
+          "end": 91.94
+        },
+        {
+          "word": "día",
+          "start": 91.94,
+          "end": 92.68
+        },
+        {
+          "word": "alegre,",
+          "start": 92.68,
+          "end": 93.26
+        }
+      ],
+      "start": 88.94,
+      "end": 93.26,
+      "confidence": 0.783,
+      "time": 88.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "día alegre viene y cerca está;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "díale",
+          "start": 93.28,
+          "end": 94.76
+        },
+        {
+          "word": "bien",
+          "start": 95.34,
+          "end": 95.62
+        },
+        {
+          "word": "cerca",
+          "start": 95.62,
+          "end": 96.08
+        },
+        {
+          "word": "estás,",
+          "start": 96.08,
+          "end": 97.68
+        }
+      ],
+      "start": 93.28,
+      "end": 97.68,
+      "confidence": 0.613,
+      "time": 93.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "mas su luz brilla solo en los que aman al Señor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "su",
+          "start": 98.48,
+          "end": 98.78
+        },
+        {
+          "word": "luz",
+          "start": 98.78,
+          "end": 99.44
+        },
+        {
+          "word": "brillás",
+          "start": 99.44,
+          "end": 100.06
+        },
+        {
+          "word": "solo",
+          "start": 100.06,
+          "end": 100.48
+        },
+        {
+          "word": "en",
+          "start": 100.48,
+          "end": 100.72
+        },
+        {
+          "word": "los",
+          "start": 100.72,
+          "end": 100.96
+        },
+        {
+          "word": "que",
+          "start": 100.96,
+          "end": 101.46
+        },
+        {
+          "word": "aman",
+          "start": 101.46,
+          "end": 101.84
+        },
+        {
+          "word": "al",
+          "start": 101.84,
+          "end": 102.2
+        },
+        {
+          "word": "Señor,",
+          "start": 102.2,
+          "end": 102.74
+        }
+      ],
+      "start": 98.48,
+      "end": 102.74,
+      "confidence": 0.904,
+      "time": 98.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Oh! hermano, ¿apercibido estás?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "percibido",
+          "start": 104.4,
+          "end": 105.68
+        },
+        {
+          "word": "estas.",
+          "start": 105.68,
+          "end": 107.88
+        }
+      ],
+      "start": 104.4,
+      "end": 107.88,
+      "confidence": 0.492,
+      "time": 104.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¿Te hallas listo?, ¿te hallas listo",
+      "words": [
+        {
+          "word": "Te",
+          "start": 107.88,
+          "end": 109.24
+        },
+        {
+          "word": "listo,",
+          "start": 109.7,
+          "end": 110.58
+        },
+        {
+          "word": "te",
+          "start": 110.66,
+          "end": 111.3
+        },
+        {
+          "word": "listo,",
+          "start": 112.08,
+          "end": 113.1
+        }
+      ],
+      "start": 107.88,
+      "end": 113.18,
+      "confidence": 0.667,
+      "time": 107.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "para el fallo del gran tribunal?",
+      "words": [
+        {
+          "word": "para",
+          "start": 113.18,
+          "end": 114.24
+        },
+        {
+          "word": "el",
+          "start": 114.24,
+          "end": 114.46
+        },
+        {
+          "word": "fallo",
+          "start": 114.46,
+          "end": 115.02
+        },
+        {
+          "word": "del",
+          "start": 115.02,
+          "end": 115.3
+        },
+        {
+          "word": "gran",
+          "start": 115.3,
+          "end": 115.6
+        },
+        {
+          "word": "tribunal.",
+          "start": 115.6,
+          "end": 117.52
+        }
+      ],
+      "start": 113.18,
+      "end": 117.52,
+      "confidence": 1.0,
+      "time": 113.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¿Te hallas listo?,",
+      "words": [
+        {
+          "word": "Te",
+          "start": 117.54,
+          "end": 118.46
+        },
+        {
+          "word": "listo,",
+          "start": 119.2,
+          "end": 120.08
+        }
+      ],
+      "start": 117.54,
+      "end": 120.54,
+      "confidence": 0.667,
+      "time": 117.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¿te hallas listo para el tribunal?",
+      "words": [
+        {
+          "word": "te",
+          "start": 120.54,
+          "end": 120.84
+        },
+        {
+          "word": "listo,",
+          "start": 121.52,
+          "end": 122.5
+        },
+        {
+          "word": "para",
+          "start": 123.46,
+          "end": 123.9
+        },
+        {
+          "word": "el",
+          "start": 123.9,
+          "end": 124.64
+        },
+        {
+          "word": "tribunal.",
+          "start": 124.64,
+          "end": 126.26
+        }
+      ],
+      "start": 120.54,
+      "end": 126.26,
+      "confidence": 0.833,
+      "time": 120.54
+    }
+  ]
+}

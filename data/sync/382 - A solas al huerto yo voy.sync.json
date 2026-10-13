@@ -1,0 +1,1018 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.956,
+  "language": "es",
+  "model": "medium",
+  "hymn": 382,
+  "source": "382 - A solas al huerto yo voy.mp3",
+  "duration": 194.98,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "A solas al huerto yo voy",
+      "verse": 1,
+      "words": [
+        {
+          "word": "A",
+          "start": 14.7,
+          "end": 15.4
+        },
+        {
+          "word": "solas",
+          "start": 15.4,
+          "end": 16.8
+        },
+        {
+          "word": "al",
+          "start": 16.8,
+          "end": 17.1
+        },
+        {
+          "word": "muerto",
+          "start": 17.1,
+          "end": 17.92
+        },
+        {
+          "word": "yo",
+          "start": 17.92,
+          "end": 18.78
+        },
+        {
+          "word": "voy",
+          "start": 18.78,
+          "end": 20.14
+        }
+      ],
+      "start": 14.7,
+      "end": 20.14,
+      "confidence": 0.983,
+      "time": 14.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cuando duerme aún la floresta;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 20.14,
+          "end": 21.08
+        },
+        {
+          "word": "duerme",
+          "start": 21.08,
+          "end": 22.24
+        },
+        {
+          "word": "aún",
+          "start": 22.24,
+          "end": 22.84
+        },
+        {
+          "word": "la",
+          "start": 22.84,
+          "end": 23.44
+        },
+        {
+          "word": "floresta",
+          "start": 23.44,
+          "end": 25.84
+        }
+      ],
+      "start": 20.14,
+      "end": 25.84,
+      "confidence": 1.0,
+      "time": 20.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y en quietud y paz con Jesús estoy,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 25.84,
+          "end": 26.36
+        },
+        {
+          "word": "en",
+          "start": 26.36,
+          "end": 26.56
+        },
+        {
+          "word": "quietud",
+          "start": 26.56,
+          "end": 27.92
+        },
+        {
+          "word": "y",
+          "start": 27.92,
+          "end": 28.34
+        },
+        {
+          "word": "paz",
+          "start": 28.34,
+          "end": 29.14
+        },
+        {
+          "word": "con",
+          "start": 29.14,
+          "end": 29.42
+        },
+        {
+          "word": "Jesús",
+          "start": 29.42,
+          "end": 30.62
+        },
+        {
+          "word": "estoy",
+          "start": 30.62,
+          "end": 31.88
+        }
+      ],
+      "start": 25.84,
+      "end": 31.88,
+      "confidence": 1.0,
+      "time": 25.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "oyendo absorto allí su voz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "oyendo",
+          "start": 31.88,
+          "end": 33.7
+        },
+        {
+          "word": "a",
+          "start": 33.7,
+          "end": 34.44
+        },
+        {
+          "word": "su",
+          "start": 36.18,
+          "end": 36.98
+        },
+        {
+          "word": "voz.",
+          "start": 36.98,
+          "end": 38.36
+        }
+      ],
+      "start": 31.88,
+      "end": 38.36,
+      "confidence": 0.788,
+      "time": 31.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Él conmigo está, puedo oír su voz;",
+      "words": [
+        {
+          "word": "Él",
+          "start": 39.56,
+          "end": 40.18
+        },
+        {
+          "word": "conmigo",
+          "start": 40.18,
+          "end": 42.0
+        },
+        {
+          "word": "está,",
+          "start": 42.0,
+          "end": 42.48
+        },
+        {
+          "word": "puedo",
+          "start": 42.78,
+          "end": 43.12
+        },
+        {
+          "word": "oír",
+          "start": 43.12,
+          "end": 44.14
+        },
+        {
+          "word": "su",
+          "start": 44.14,
+          "end": 44.7
+        },
+        {
+          "word": "voz",
+          "start": 44.7,
+          "end": 45.22
+        }
+      ],
+      "start": 39.56,
+      "end": 45.22,
+      "confidence": 1.0,
+      "time": 39.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y me dice que suyo soy;",
+      "words": [
+        {
+          "word": "y",
+          "start": 45.22,
+          "end": 45.74
+        },
+        {
+          "word": "me",
+          "start": 45.74,
+          "end": 46.18
+        },
+        {
+          "word": "dice",
+          "start": 46.18,
+          "end": 47.22
+        },
+        {
+          "word": "que",
+          "start": 47.22,
+          "end": 47.74
+        },
+        {
+          "word": "suyo",
+          "start": 47.74,
+          "end": 48.56
+        },
+        {
+          "word": "soy",
+          "start": 48.56,
+          "end": 50.16
+        }
+      ],
+      "start": 45.22,
+      "end": 50.16,
+      "confidence": 1.0,
+      "time": 45.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y el encanto que hallo en él allí,",
+      "words": [
+        {
+          "word": "y",
+          "start": 50.16,
+          "end": 50.84
+        },
+        {
+          "word": "el",
+          "start": 50.84,
+          "end": 51.22
+        },
+        {
+          "word": "encanto",
+          "start": 51.22,
+          "end": 52.66
+        },
+        {
+          "word": "que",
+          "start": 52.66,
+          "end": 53.16
+        },
+        {
+          "word": "halló",
+          "start": 53.16,
+          "end": 53.84
+        },
+        {
+          "word": "en",
+          "start": 53.84,
+          "end": 54.8
+        },
+        {
+          "word": "el",
+          "start": 54.8,
+          "end": 55.56
+        },
+        {
+          "word": "alí,",
+          "start": 55.56,
+          "end": 56.74
+        }
+      ],
+      "start": 50.16,
+      "end": 57.4,
+      "confidence": 0.989,
+      "time": 50.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "con nadie podré tener.",
+      "words": [
+        {
+          "word": "con",
+          "start": 57.4,
+          "end": 57.58
+        },
+        {
+          "word": "nadie",
+          "start": 57.58,
+          "end": 58.56
+        },
+        {
+          "word": "podré",
+          "start": 58.56,
+          "end": 59.64
+        },
+        {
+          "word": "tener.",
+          "start": 59.64,
+          "end": 62.68
+        }
+      ],
+      "start": 57.4,
+      "end": 62.68,
+      "confidence": 1.0,
+      "time": 57.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Tan dulce es la voz del Señor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tan",
+          "start": 63.58,
+          "end": 64.2
+        },
+        {
+          "word": "dulce",
+          "start": 64.2,
+          "end": 64.96
+        },
+        {
+          "word": "es",
+          "start": 64.96,
+          "end": 65.22
+        },
+        {
+          "word": "la",
+          "start": 65.22,
+          "end": 65.62
+        },
+        {
+          "word": "voz",
+          "start": 65.62,
+          "end": 65.86
+        },
+        {
+          "word": "del",
+          "start": 65.86,
+          "end": 66.34
+        },
+        {
+          "word": "Señor,",
+          "start": 66.34,
+          "end": 68.2
+        }
+      ],
+      "start": 63.58,
+      "end": 68.76,
+      "confidence": 1.0,
+      "time": 63.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que las aves guardan silencio;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 68.76,
+          "end": 68.98
+        },
+        {
+          "word": "las",
+          "start": 68.98,
+          "end": 70.14
+        },
+        {
+          "word": "ames",
+          "start": 70.14,
+          "end": 70.72
+        },
+        {
+          "word": "guardan",
+          "start": 70.72,
+          "end": 71.52
+        },
+        {
+          "word": "silencio,",
+          "start": 71.52,
+          "end": 73.9
+        }
+      ],
+      "start": 68.76,
+      "end": 73.9,
+      "confidence": 0.97,
+      "time": 68.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y tan solo se oye esa voz de amor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 73.9,
+          "end": 74.46
+        },
+        {
+          "word": "tan",
+          "start": 74.46,
+          "end": 74.94
+        },
+        {
+          "word": "solo",
+          "start": 74.94,
+          "end": 76.14
+        },
+        {
+          "word": "soy",
+          "start": 76.14,
+          "end": 77.12
+        },
+        {
+          "word": "esa",
+          "start": 77.12,
+          "end": 77.56
+        },
+        {
+          "word": "voz",
+          "start": 77.56,
+          "end": 78.36
+        },
+        {
+          "word": "de",
+          "start": 78.36,
+          "end": 78.94
+        },
+        {
+          "word": "amor,",
+          "start": 78.94,
+          "end": 79.64
+        }
+      ],
+      "start": 73.9,
+      "end": 79.64,
+      "confidence": 0.867,
+      "time": 73.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que inmensa paz al alma da.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 80.06,
+          "end": 80.32
+        },
+        {
+          "word": "inmensa",
+          "start": 80.32,
+          "end": 81.5
+        },
+        {
+          "word": "paz",
+          "start": 81.5,
+          "end": 82.68
+        },
+        {
+          "word": "al",
+          "start": 82.68,
+          "end": 83.52
+        },
+        {
+          "word": "alma",
+          "start": 83.52,
+          "end": 84.56
+        },
+        {
+          "word": "da.",
+          "start": 84.56,
+          "end": 85.86
+        }
+      ],
+      "start": 80.06,
+      "end": 85.86,
+      "confidence": 1.0,
+      "time": 80.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Él conmigo está, puedo oír su voz;",
+      "words": [
+        {
+          "word": "Él",
+          "start": 87.24,
+          "end": 87.8
+        },
+        {
+          "word": "conmigo",
+          "start": 87.8,
+          "end": 89.64
+        },
+        {
+          "word": "está,",
+          "start": 89.64,
+          "end": 90.14
+        },
+        {
+          "word": "puedo",
+          "start": 90.46,
+          "end": 90.8
+        },
+        {
+          "word": "oír",
+          "start": 90.8,
+          "end": 91.88
+        },
+        {
+          "word": "su",
+          "start": 91.88,
+          "end": 92.36
+        },
+        {
+          "word": "voz,",
+          "start": 92.36,
+          "end": 93.04
+        }
+      ],
+      "start": 87.24,
+      "end": 93.04,
+      "confidence": 1.0,
+      "time": 87.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y me dice que suyo soy;",
+      "words": [
+        {
+          "word": "y",
+          "start": 93.38,
+          "end": 93.58
+        },
+        {
+          "word": "me",
+          "start": 93.58,
+          "end": 93.96
+        },
+        {
+          "word": "dice",
+          "start": 93.96,
+          "end": 95.04
+        },
+        {
+          "word": "que",
+          "start": 95.04,
+          "end": 95.62
+        },
+        {
+          "word": "suyo",
+          "start": 95.62,
+          "end": 96.48
+        },
+        {
+          "word": "soy,",
+          "start": 96.48,
+          "end": 98.26
+        }
+      ],
+      "start": 93.38,
+      "end": 98.26,
+      "confidence": 1.0,
+      "time": 93.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y el encanto que hallo en él allí,",
+      "words": [
+        {
+          "word": "y",
+          "start": 98.26,
+          "end": 99.12
+        },
+        {
+          "word": "el",
+          "start": 99.12,
+          "end": 99.48
+        },
+        {
+          "word": "encanto",
+          "start": 99.48,
+          "end": 100.88
+        },
+        {
+          "word": "en",
+          "start": 102.0,
+          "end": 102.9
+        },
+        {
+          "word": "él",
+          "start": 102.9,
+          "end": 103.58
+        },
+        {
+          "word": "allí,",
+          "start": 103.58,
+          "end": 104.64
+        }
+      ],
+      "start": 98.26,
+      "end": 105.72,
+      "confidence": 0.75,
+      "time": 98.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "con nadie podré tener.",
+      "words": [
+        {
+          "word": "con",
+          "start": 105.72,
+          "end": 105.9
+        },
+        {
+          "word": "nadie",
+          "start": 105.9,
+          "end": 107.0
+        },
+        {
+          "word": "podré",
+          "start": 107.0,
+          "end": 108.26
+        },
+        {
+          "word": "tener.",
+          "start": 108.26,
+          "end": 111.8
+        }
+      ],
+      "start": 105.72,
+      "end": 111.8,
+      "confidence": 1.0,
+      "time": 105.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Con él encantado yo estoy,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Con",
+          "start": 113.34,
+          "end": 114.08
+        },
+        {
+          "word": "él",
+          "start": 114.08,
+          "end": 114.76
+        },
+        {
+          "word": "encantado",
+          "start": 114.76,
+          "end": 116.42
+        },
+        {
+          "word": "yo",
+          "start": 116.42,
+          "end": 116.96
+        },
+        {
+          "word": "estoy,",
+          "start": 116.96,
+          "end": 118.38
+        }
+      ],
+      "start": 113.34,
+      "end": 119.12,
+      "confidence": 1.0,
+      "time": 113.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "aunque en torno lleguen las sombras;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "aunque",
+          "start": 119.12,
+          "end": 119.44
+        },
+        {
+          "word": "en",
+          "start": 119.44,
+          "end": 120.02
+        },
+        {
+          "word": "porno",
+          "start": 120.02,
+          "end": 121.14
+        },
+        {
+          "word": "lleguen",
+          "start": 121.14,
+          "end": 122.04
+        },
+        {
+          "word": "las",
+          "start": 122.04,
+          "end": 123.1
+        },
+        {
+          "word": "sombras,",
+          "start": 123.1,
+          "end": 124.76
+        }
+      ],
+      "start": 119.12,
+      "end": 124.76,
+      "confidence": 0.98,
+      "time": 119.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "mas me ordena ir, y a escuchar yo voy,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "más",
+          "start": 124.76,
+          "end": 125.44
+        },
+        {
+          "word": "me",
+          "start": 125.44,
+          "end": 125.7
+        },
+        {
+          "word": "ordena",
+          "start": 125.7,
+          "end": 127.18
+        },
+        {
+          "word": "ir",
+          "start": 127.18,
+          "end": 127.86
+        },
+        {
+          "word": "y",
+          "start": 127.86,
+          "end": 128.36
+        },
+        {
+          "word": "a",
+          "start": 128.36,
+          "end": 128.5
+        },
+        {
+          "word": "escuchar",
+          "start": 128.5,
+          "end": 129.7
+        },
+        {
+          "word": "yo",
+          "start": 129.7,
+          "end": 130.44
+        },
+        {
+          "word": "voy,",
+          "start": 130.44,
+          "end": 131.04
+        }
+      ],
+      "start": 124.76,
+      "end": 131.32,
+      "confidence": 1.0,
+      "time": 124.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "su voz doquier la pena esté.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "su",
+          "start": 131.32,
+          "end": 131.84
+        },
+        {
+          "word": "voz",
+          "start": 131.84,
+          "end": 132.74
+        },
+        {
+          "word": "doquier",
+          "start": 132.74,
+          "end": 134.3
+        },
+        {
+          "word": "la",
+          "start": 134.3,
+          "end": 135.08
+        },
+        {
+          "word": "pena",
+          "start": 135.08,
+          "end": 136.38
+        },
+        {
+          "word": "este.",
+          "start": 136.38,
+          "end": 138.3
+        }
+      ],
+      "start": 131.32,
+      "end": 138.3,
+      "confidence": 1.0,
+      "time": 131.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Él conmigo está, puedo oír su voz;",
+      "words": [
+        {
+          "word": "conmigo",
+          "start": 140.4,
+          "end": 142.36
+        },
+        {
+          "word": "esta,",
+          "start": 142.36,
+          "end": 142.98
+        },
+        {
+          "word": "puedo",
+          "start": 143.52,
+          "end": 143.86
+        },
+        {
+          "word": "oír",
+          "start": 143.86,
+          "end": 144.92
+        },
+        {
+          "word": "su",
+          "start": 144.92,
+          "end": 145.44
+        },
+        {
+          "word": "voz",
+          "start": 145.44,
+          "end": 146.1
+        }
+      ],
+      "start": 140.4,
+      "end": 146.1,
+      "confidence": 0.857,
+      "time": 140.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y me dice que suyo soy;",
+      "words": [
+        {
+          "word": "y",
+          "start": 146.1,
+          "end": 146.66
+        },
+        {
+          "word": "me",
+          "start": 146.66,
+          "end": 147.1
+        },
+        {
+          "word": "dice",
+          "start": 147.1,
+          "end": 148.12
+        },
+        {
+          "word": "que",
+          "start": 148.12,
+          "end": 148.7
+        },
+        {
+          "word": "suyo",
+          "start": 148.7,
+          "end": 149.5
+        },
+        {
+          "word": "soy,",
+          "start": 149.5,
+          "end": 151.0
+        }
+      ],
+      "start": 146.1,
+      "end": 151.0,
+      "confidence": 1.0,
+      "time": 146.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y el encanto que hallo en él allí,",
+      "words": [
+        {
+          "word": "y",
+          "start": 151.0,
+          "end": 151.86
+        },
+        {
+          "word": "el",
+          "start": 151.86,
+          "end": 152.1
+        },
+        {
+          "word": "encanto",
+          "start": 152.1,
+          "end": 153.46
+        },
+        {
+          "word": "que",
+          "start": 153.46,
+          "end": 153.96
+        },
+        {
+          "word": "en",
+          "start": 154.24,
+          "end": 154.86
+        },
+        {
+          "word": "él",
+          "start": 154.86,
+          "end": 156.2
+        },
+        {
+          "word": "allí",
+          "start": 156.2,
+          "end": 157.6
+        }
+      ],
+      "start": 151.0,
+      "end": 157.6,
+      "confidence": 0.875,
+      "time": 151.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "con nadie podré tener.",
+      "words": [
+        {
+          "word": "con",
+          "start": 157.6,
+          "end": 158.54
+        },
+        {
+          "word": "nadie",
+          "start": 158.54,
+          "end": 159.78
+        },
+        {
+          "word": "podré",
+          "start": 159.78,
+          "end": 161.46
+        },
+        {
+          "word": "tener.",
+          "start": 161.46,
+          "end": 163.26
+        }
+      ],
+      "start": 157.6,
+      "end": 163.26,
+      "confidence": 1.0,
+      "time": 157.6
+    }
+  ]
+}

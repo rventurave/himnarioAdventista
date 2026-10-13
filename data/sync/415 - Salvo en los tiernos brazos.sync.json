@@ -1,0 +1,903 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.888,
+  "language": "es",
+  "model": "medium",
+  "hymn": 415,
+  "source": "415 - Salvo en los tiernos brazos.mp3",
+  "duration": 194.77,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Salvo en los tiernos brazos de mi Jesús seré,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Salva",
+          "start": 9.68,
+          "end": 11.08
+        },
+        {
+          "word": "en",
+          "start": 11.08,
+          "end": 11.24
+        },
+        {
+          "word": "los",
+          "start": 11.24,
+          "end": 11.54
+        },
+        {
+          "word": "tiernos",
+          "start": 11.54,
+          "end": 12.66
+        },
+        {
+          "word": "brazos",
+          "start": 12.66,
+          "end": 14.8
+        },
+        {
+          "word": "de",
+          "start": 14.8,
+          "end": 15.72
+        },
+        {
+          "word": "mi",
+          "start": 15.72,
+          "end": 16.02
+        },
+        {
+          "word": "Jesús",
+          "start": 16.02,
+          "end": 16.84
+        },
+        {
+          "word": "hered",
+          "start": 16.84,
+          "end": 19.28
+        }
+      ],
+      "start": 9.68,
+      "end": 19.28,
+      "confidence": 0.964,
+      "time": 9.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y en su amoroso pecho siempre reposaré.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 19.28,
+          "end": 20.06
+        },
+        {
+          "word": "en",
+          "start": 20.06,
+          "end": 20.56
+        },
+        {
+          "word": "su",
+          "start": 20.56,
+          "end": 20.84
+        },
+        {
+          "word": "amoroso",
+          "start": 20.84,
+          "end": 22.3
+        },
+        {
+          "word": "pecho",
+          "start": 22.3,
+          "end": 24.52
+        },
+        {
+          "word": "siempre",
+          "start": 24.52,
+          "end": 25.74
+        },
+        {
+          "word": "reposaré",
+          "start": 25.74,
+          "end": 28.92
+        }
+      ],
+      "start": 19.28,
+      "end": 28.92,
+      "confidence": 1.0,
+      "time": 19.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Este es sin duda el eco de celestial canción,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Este",
+          "start": 28.92,
+          "end": 30.48
+        },
+        {
+          "word": "es",
+          "start": 30.48,
+          "end": 30.74
+        },
+        {
+          "word": "sin",
+          "start": 30.74,
+          "end": 31.04
+        },
+        {
+          "word": "duda",
+          "start": 31.04,
+          "end": 31.82
+        },
+        {
+          "word": "el",
+          "start": 31.82,
+          "end": 32.96
+        },
+        {
+          "word": "eco",
+          "start": 32.96,
+          "end": 34.42
+        },
+        {
+          "word": "de",
+          "start": 34.42,
+          "end": 35.32
+        },
+        {
+          "word": "celestial",
+          "start": 35.32,
+          "end": 36.16
+        },
+        {
+          "word": "canción",
+          "start": 36.16,
+          "end": 39.12
+        }
+      ],
+      "start": 28.92,
+      "end": 39.12,
+      "confidence": 1.0,
+      "time": 28.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que de inefable gozo llena mi corazón.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 39.12,
+          "end": 40.18
+        },
+        {
+          "word": "de",
+          "start": 40.18,
+          "end": 40.46
+        },
+        {
+          "word": "inefable",
+          "start": 40.46,
+          "end": 41.9
+        },
+        {
+          "word": "gozo",
+          "start": 41.9,
+          "end": 44.24
+        },
+        {
+          "word": "llena",
+          "start": 44.24,
+          "end": 45.28
+        },
+        {
+          "word": "mi",
+          "start": 45.28,
+          "end": 45.86
+        },
+        {
+          "word": "corazón.",
+          "start": 45.86,
+          "end": 49.6
+        }
+      ],
+      "start": 39.12,
+      "end": 49.6,
+      "confidence": 1.0,
+      "time": 39.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Salvo en los tiernos brazos",
+      "words": [
+        {
+          "word": "salvo",
+          "start": 49.6,
+          "end": 51.0
+        },
+        {
+          "word": "en",
+          "start": 51.0,
+          "end": 51.16
+        },
+        {
+          "word": "los",
+          "start": 51.16,
+          "end": 51.46
+        },
+        {
+          "word": "tiernos",
+          "start": 51.46,
+          "end": 52.8
+        },
+        {
+          "word": "brazos",
+          "start": 52.8,
+          "end": 54.88
+        }
+      ],
+      "start": 49.6,
+      "end": 54.88,
+      "confidence": 1.0,
+      "time": 49.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "de mi Jesús seré,",
+      "words": [
+        {
+          "word": "de",
+          "start": 54.88,
+          "end": 55.84
+        },
+        {
+          "word": "mí",
+          "start": 55.84,
+          "end": 56.06
+        },
+        {
+          "word": "sucederé,",
+          "start": 56.52,
+          "end": 59.8
+        }
+      ],
+      "start": 54.88,
+      "end": 59.8,
+      "confidence": 0.7,
+      "time": 54.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y en su amoroso pecho",
+      "words": [
+        {
+          "word": "y",
+          "start": 59.8,
+          "end": 60.4
+        },
+        {
+          "word": "en",
+          "start": 60.4,
+          "end": 60.56
+        },
+        {
+          "word": "su",
+          "start": 60.56,
+          "end": 60.94
+        },
+        {
+          "word": "amoroso",
+          "start": 60.94,
+          "end": 62.34
+        },
+        {
+          "word": "pecho",
+          "start": 62.34,
+          "end": 64.5
+        }
+      ],
+      "start": 59.8,
+      "end": 64.5,
+      "confidence": 1.0,
+      "time": 59.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "siempre reposaré.",
+      "words": [
+        {
+          "word": "siempre",
+          "start": 64.5,
+          "end": 65.74
+        },
+        {
+          "word": "reposaré.",
+          "start": 65.74,
+          "end": 69.2
+        }
+      ],
+      "start": 64.5,
+      "end": 69.2,
+      "confidence": 1.0,
+      "time": 64.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En sus amantes brazos hallo solicitud;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 69.2,
+          "end": 71.0
+        },
+        {
+          "word": "sus",
+          "start": 71.0,
+          "end": 71.58
+        },
+        {
+          "word": "amantes",
+          "start": 71.58,
+          "end": 72.86
+        },
+        {
+          "word": "brazos,",
+          "start": 72.86,
+          "end": 75.38
+        },
+        {
+          "word": "solicitó,",
+          "start": 76.38,
+          "end": 80.0
+        }
+      ],
+      "start": 69.2,
+      "end": 80.0,
+      "confidence": 0.816,
+      "time": 69.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "líbrame de tristeza, líbrame de inquietud.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Libra",
+          "start": 80.44,
+          "end": 81.22
+        },
+        {
+          "word": "de",
+          "start": 81.5,
+          "end": 82.14
+        },
+        {
+          "word": "tristeza,",
+          "start": 82.14,
+          "end": 84.88
+        },
+        {
+          "word": "libra",
+          "start": 85.74,
+          "end": 86.14
+        },
+        {
+          "word": "de",
+          "start": 86.56,
+          "end": 87.04
+        }
+      ],
+      "start": 80.44,
+      "end": 89.54,
+      "confidence": 0.813,
+      "time": 80.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Y si vinieren pruebas, fáciles pasarán;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Y",
+          "start": 89.54,
+          "end": 90.62
+        },
+        {
+          "word": "si",
+          "start": 90.62,
+          "end": 91.04
+        },
+        {
+          "word": "vinieren",
+          "start": 91.04,
+          "end": 92.44
+        },
+        {
+          "word": "pruebas,",
+          "start": 92.44,
+          "end": 94.88
+        },
+        {
+          "word": "desbalsarán,",
+          "start": 95.88,
+          "end": 99.64
+        }
+      ],
+      "start": 89.54,
+      "end": 99.64,
+      "confidence": 0.8,
+      "time": 89.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "lágrimas si vertiere, pronto se enjugarán.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 100.24,
+          "end": 100.52
+        },
+        {
+          "word": "si",
+          "start": 101.4,
+          "end": 101.82
+        },
+        {
+          "word": "perfiere,",
+          "start": 101.82,
+          "end": 104.4
+        },
+        {
+          "word": "pronto",
+          "start": 105.14,
+          "end": 105.62
+        },
+        {
+          "word": "se",
+          "start": 105.62,
+          "end": 106.02
+        },
+        {
+          "word": "encobrarán.",
+          "start": 106.02,
+          "end": 109.54
+        }
+      ],
+      "start": 100.24,
+      "end": 109.54,
+      "confidence": 0.928,
+      "time": 100.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Salvo en los tiernos brazos",
+      "words": [
+        {
+          "word": "Salvo",
+          "start": 109.54,
+          "end": 111.54
+        },
+        {
+          "word": "en",
+          "start": 111.54,
+          "end": 111.66
+        },
+        {
+          "word": "los",
+          "start": 111.66,
+          "end": 111.92
+        },
+        {
+          "word": "tiernos",
+          "start": 111.92,
+          "end": 113.16
+        },
+        {
+          "word": "brazos",
+          "start": 113.16,
+          "end": 115.44
+        }
+      ],
+      "start": 109.54,
+      "end": 115.44,
+      "confidence": 1.0,
+      "time": 109.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "de mi Jesús seré,",
+      "words": [
+        {
+          "word": "de",
+          "start": 115.44,
+          "end": 116.26
+        },
+        {
+          "word": "mi",
+          "start": 116.26,
+          "end": 116.62
+        },
+        {
+          "word": "Jesús",
+          "start": 116.62,
+          "end": 117.44
+        }
+      ],
+      "start": 115.44,
+      "end": 120.28,
+      "confidence": 0.75,
+      "time": 115.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y en su amoroso pecho",
+      "words": [
+        {
+          "word": "En",
+          "start": 120.74,
+          "end": 121.1
+        },
+        {
+          "word": "su",
+          "start": 121.1,
+          "end": 121.54
+        },
+        {
+          "word": "amoroso",
+          "start": 121.54,
+          "end": 123.0
+        },
+        {
+          "word": "pecho",
+          "start": 123.0,
+          "end": 125.16
+        }
+      ],
+      "start": 120.74,
+      "end": 125.16,
+      "confidence": 0.8,
+      "time": 120.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "siempre reposaré.",
+      "words": [
+        {
+          "word": "siempre",
+          "start": 125.16,
+          "end": 126.34
+        },
+        {
+          "word": "reposare.",
+          "start": 126.34,
+          "end": 128.94
+        }
+      ],
+      "start": 125.16,
+      "end": 128.94,
+      "confidence": 1.0,
+      "time": 125.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Y cruzaré la noche lóbrega, sin temor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 128.94,
+          "end": 131.46
+        },
+        {
+          "word": "cruzaré",
+          "start": 131.46,
+          "end": 133.02
+        },
+        {
+          "word": "la",
+          "start": 133.02,
+          "end": 133.6
+        },
+        {
+          "word": "noche,",
+          "start": 133.6,
+          "end": 135.58
+        },
+        {
+          "word": "bregas",
+          "start": 136.48,
+          "end": 137.1
+        },
+        {
+          "word": "sin",
+          "start": 137.1,
+          "end": 138.02
+        },
+        {
+          "word": "temor,",
+          "start": 138.02,
+          "end": 140.38
+        }
+      ],
+      "start": 128.94,
+      "end": 141.3,
+      "confidence": 0.98,
+      "time": 128.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "hasta que venga el día de perennal fulgor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "hasta",
+          "start": 141.3,
+          "end": 141.66
+        },
+        {
+          "word": "que",
+          "start": 141.66,
+          "end": 142.14
+        },
+        {
+          "word": "venga",
+          "start": 142.14,
+          "end": 142.9
+        },
+        {
+          "word": "el",
+          "start": 142.9,
+          "end": 143.64
+        },
+        {
+          "word": "día",
+          "start": 143.64,
+          "end": 145.16
+        },
+        {
+          "word": "de",
+          "start": 145.16,
+          "end": 146.34
+        },
+        {
+          "word": "merenar",
+          "start": 146.34,
+          "end": 147.6
+        },
+        {
+          "word": "fulgor.",
+          "start": 147.64,
+          "end": 150.04
+        }
+      ],
+      "start": 141.3,
+      "end": 150.04,
+      "confidence": 0.975,
+      "time": 141.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Cuán placentero entonces con él será morar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 152.66,
+          "end": 153.38
+        },
+        {
+          "word": "con",
+          "start": 155.7,
+          "end": 156.12
+        },
+        {
+          "word": "él",
+          "start": 156.12,
+          "end": 156.44
+        },
+        {
+          "word": "será",
+          "start": 156.44,
+          "end": 157.22
+        },
+        {
+          "word": "morar,",
+          "start": 157.22,
+          "end": 160.02
+        }
+      ],
+      "start": 152.66,
+      "end": 160.32,
+      "confidence": 0.706,
+      "time": 152.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y en la mansión de gloria siempre con él reinar!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 160.32,
+          "end": 160.82
+        },
+        {
+          "word": "en",
+          "start": 160.82,
+          "end": 161.14
+        },
+        {
+          "word": "la",
+          "start": 161.14,
+          "end": 161.38
+        },
+        {
+          "word": "mansión",
+          "start": 161.38,
+          "end": 162.34
+        },
+        {
+          "word": "de",
+          "start": 162.34,
+          "end": 162.96
+        },
+        {
+          "word": "gloria,",
+          "start": 162.96,
+          "end": 164.78
+        },
+        {
+          "word": "siempre",
+          "start": 165.5,
+          "end": 166.08
+        },
+        {
+          "word": "con",
+          "start": 166.08,
+          "end": 166.58
+        },
+        {
+          "word": "él",
+          "start": 166.58,
+          "end": 167.28
+        },
+        {
+          "word": "reinar.",
+          "start": 167.28,
+          "end": 169.44
+        }
+      ],
+      "start": 160.32,
+      "end": 169.44,
+      "confidence": 1.0,
+      "time": 160.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Salvo en los tiernos brazos",
+      "words": [
+        {
+          "word": "Algo",
+          "start": 169.44,
+          "end": 171.16
+        },
+        {
+          "word": "en",
+          "start": 172.26,
+          "end": 172.74
+        },
+        {
+          "word": "los",
+          "start": 172.74,
+          "end": 173.06
+        },
+        {
+          "word": "brazos",
+          "start": 173.06,
+          "end": 175.06
+        }
+      ],
+      "start": 169.44,
+      "end": 176.0,
+      "confidence": 0.76,
+      "time": 169.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "de mi Jesús seré,",
+      "words": [
+        {
+          "word": "dije",
+          "start": 176.0,
+          "end": 176.5
+        }
+      ],
+      "start": 176.0,
+      "end": 179.9,
+      "confidence": 0.2,
+      "time": 176.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y en su amoroso pecho",
+      "words": [
+        {
+          "word": "En",
+          "start": 180.58,
+          "end": 180.8
+        },
+        {
+          "word": "su",
+          "start": 180.8,
+          "end": 181.2
+        },
+        {
+          "word": "amoroso",
+          "start": 181.2,
+          "end": 182.68
+        },
+        {
+          "word": "pecho",
+          "start": 182.68,
+          "end": 184.68
+        }
+      ],
+      "start": 180.58,
+      "end": 184.68,
+      "confidence": 0.8,
+      "time": 180.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "siempre reposaré.",
+      "words": [
+        {
+          "word": "siempre",
+          "start": 184.68,
+          "end": 186.26
+        },
+        {
+          "word": "reposaré.",
+          "start": 186.26,
+          "end": 188.98
+        }
+      ],
+      "start": 184.68,
+      "end": 188.98,
+      "confidence": 1.0,
+      "time": 184.68
+    }
+  ]
+}

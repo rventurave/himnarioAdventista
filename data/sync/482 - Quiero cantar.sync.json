@@ -1,0 +1,646 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.944,
+  "language": "es",
+  "model": "medium",
+  "hymn": 482,
+  "source": "482 - Quiero cantar.mp3",
+  "duration": 149.55,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Al transitar por este mundo oscuro,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Al",
+          "start": 16.32,
+          "end": 17.72
+        },
+        {
+          "word": "transitar",
+          "start": 17.72,
+          "end": 19.12
+        },
+        {
+          "word": "por",
+          "start": 19.12,
+          "end": 19.9
+        },
+        {
+          "word": "este",
+          "start": 19.9,
+          "end": 20.7
+        },
+        {
+          "word": "mundo",
+          "start": 20.7,
+          "end": 21.58
+        },
+        {
+          "word": "oscuro",
+          "start": 21.58,
+          "end": 23.9
+        }
+      ],
+      "start": 16.32,
+      "end": 23.9,
+      "confidence": 1.0,
+      "time": 16.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "puedo cantar, no importa la aflicción.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Puedo",
+          "start": 23.9,
+          "end": 25.16
+        },
+        {
+          "word": "cantar,",
+          "start": 25.16,
+          "end": 27.08
+        },
+        {
+          "word": "no",
+          "start": 27.3,
+          "end": 27.62
+        },
+        {
+          "word": "importa",
+          "start": 27.62,
+          "end": 28.5
+        },
+        {
+          "word": "la",
+          "start": 28.5,
+          "end": 29.24
+        },
+        {
+          "word": "ficción,",
+          "start": 29.24,
+          "end": 31.68
+        }
+      ],
+      "start": 23.9,
+      "end": 32.58,
+      "confidence": 0.987,
+      "time": 23.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Al caminar, asciendo en el sendero,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 32.58,
+          "end": 32.76
+        },
+        {
+          "word": "caminar,",
+          "start": 32.76,
+          "end": 35.0
+        },
+        {
+          "word": "haciendo",
+          "start": 35.54,
+          "end": 36.18
+        },
+        {
+          "word": "en",
+          "start": 36.18,
+          "end": 36.92
+        },
+        {
+          "word": "el",
+          "start": 36.92,
+          "end": 37.38
+        },
+        {
+          "word": "sendero,",
+          "start": 37.38,
+          "end": 39.76
+        }
+      ],
+      "start": 32.58,
+      "end": 39.76,
+      "confidence": 0.987,
+      "time": 32.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "porque mi hogar está en el más allá.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "porque",
+          "start": 40.36,
+          "end": 41.1
+        },
+        {
+          "word": "mi",
+          "start": 41.1,
+          "end": 41.56
+        },
+        {
+          "word": "hogar",
+          "start": 41.56,
+          "end": 43.26
+        },
+        {
+          "word": "está",
+          "start": 43.26,
+          "end": 44.18
+        },
+        {
+          "word": "en",
+          "start": 44.18,
+          "end": 44.54
+        },
+        {
+          "word": "el",
+          "start": 44.54,
+          "end": 44.92
+        },
+        {
+          "word": "más",
+          "start": 44.92,
+          "end": 45.42
+        },
+        {
+          "word": "allá.",
+          "start": 45.42,
+          "end": 46.56
+        }
+      ],
+      "start": 40.36,
+      "end": 46.56,
+      "confidence": 1.0,
+      "time": 40.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Quiero cantar, seguir cantando alegre,",
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 46.56,
+          "end": 49.16
+        },
+        {
+          "word": "cantar,",
+          "start": 49.16,
+          "end": 51.16
+        },
+        {
+          "word": "seguir",
+          "start": 51.68,
+          "end": 52.1
+        },
+        {
+          "word": "cantando",
+          "start": 52.1,
+          "end": 53.58
+        },
+        {
+          "word": "alegre,",
+          "start": 53.58,
+          "end": 56.5
+        }
+      ],
+      "start": 46.56,
+      "end": 59.12,
+      "confidence": 1.0,
+      "time": 46.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "con fervor, confiando en su bondad;",
+      "words": [
+        {
+          "word": "confiando",
+          "start": 59.12,
+          "end": 60.36
+        },
+        {
+          "word": "en",
+          "start": 60.36,
+          "end": 60.76
+        },
+        {
+          "word": "su",
+          "start": 60.76,
+          "end": 61.32
+        },
+        {
+          "word": "bondad.",
+          "start": 61.32,
+          "end": 63.86
+        }
+      ],
+      "start": 59.12,
+      "end": 63.86,
+      "confidence": 0.667,
+      "time": 59.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "hasta llegar a la Ciudad hermosa",
+      "words": [
+        {
+          "word": "hasta",
+          "start": 63.86,
+          "end": 65.02
+        },
+        {
+          "word": "llegar",
+          "start": 65.02,
+          "end": 67.06
+        },
+        {
+          "word": "a",
+          "start": 67.06,
+          "end": 67.88
+        },
+        {
+          "word": "la",
+          "start": 67.88,
+          "end": 68.2
+        },
+        {
+          "word": "ciudad",
+          "start": 68.2,
+          "end": 69.48
+        },
+        {
+          "word": "hermosa",
+          "start": 69.48,
+          "end": 72.16
+        }
+      ],
+      "start": 63.86,
+      "end": 72.16,
+      "confidence": 1.0,
+      "time": 63.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "que mi Señor fue a preparar.",
+      "words": [
+        {
+          "word": "que",
+          "start": 72.16,
+          "end": 72.78
+        },
+        {
+          "word": "mi",
+          "start": 72.78,
+          "end": 73.32
+        },
+        {
+          "word": "Señor",
+          "start": 73.32,
+          "end": 74.86
+        },
+        {
+          "word": "a",
+          "start": 75.82,
+          "end": 77.06
+        },
+        {
+          "word": "preparar.",
+          "start": 77.06,
+          "end": 80.22
+        }
+      ],
+      "start": 72.16,
+      "end": 80.22,
+      "confidence": 0.833,
+      "time": 72.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Lo terrenal es de valor escaso",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Lo",
+          "start": 81.76,
+          "end": 82.66
+        },
+        {
+          "word": "es",
+          "start": 84.98,
+          "end": 85.78
+        },
+        {
+          "word": "de",
+          "start": 85.78,
+          "end": 86.36
+        },
+        {
+          "word": "valor",
+          "start": 86.36,
+          "end": 87.54
+        },
+        {
+          "word": "escaso,",
+          "start": 87.54,
+          "end": 89.8
+        }
+      ],
+      "start": 81.76,
+      "end": 89.8,
+      "confidence": 0.833,
+      "time": 81.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al comprender que todo pasará;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 89.8,
+          "end": 90.68
+        },
+        {
+          "word": "comprender",
+          "start": 90.68,
+          "end": 93.04
+        },
+        {
+          "word": "que",
+          "start": 93.04,
+          "end": 93.76
+        },
+        {
+          "word": "todo",
+          "start": 93.76,
+          "end": 94.52
+        },
+        {
+          "word": "pasará.",
+          "start": 94.52,
+          "end": 97.6
+        }
+      ],
+      "start": 89.8,
+      "end": 97.6,
+      "confidence": 1.0,
+      "time": 89.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y el dolor que nos preocupa tanto",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Y",
+          "start": 98.76,
+          "end": 99.0
+        },
+        {
+          "word": "el",
+          "start": 99.0,
+          "end": 99.3
+        },
+        {
+          "word": "dolor",
+          "start": 99.3,
+          "end": 100.92
+        },
+        {
+          "word": "que",
+          "start": 100.92,
+          "end": 101.68
+        },
+        {
+          "word": "nos",
+          "start": 101.68,
+          "end": 102.4
+        },
+        {
+          "word": "preocupa",
+          "start": 102.4,
+          "end": 103.8
+        },
+        {
+          "word": "tanto",
+          "start": 103.8,
+          "end": 105.64
+        }
+      ],
+      "start": 98.76,
+      "end": 105.64,
+      "confidence": 1.0,
+      "time": 98.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "sólo será recuerdo que pasó.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "solo",
+          "start": 105.64,
+          "end": 107.16
+        },
+        {
+          "word": "será,",
+          "start": 107.16,
+          "end": 109.0
+        },
+        {
+          "word": "recuerdo,",
+          "start": 109.28,
+          "end": 110.66
+        },
+        {
+          "word": "que",
+          "start": 111.08,
+          "end": 111.14
+        },
+        {
+          "word": "pastor",
+          "start": 111.26,
+          "end": 113.72
+        }
+      ],
+      "start": 105.64,
+      "end": 113.72,
+      "confidence": 0.976,
+      "time": 105.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Quiero cantar, seguir cantando alegre,",
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 113.72,
+          "end": 115.18
+        },
+        {
+          "word": "cantar,",
+          "start": 115.18,
+          "end": 117.16
+        },
+        {
+          "word": "seguir",
+          "start": 117.28,
+          "end": 118.12
+        },
+        {
+          "word": "cantando",
+          "start": 118.12,
+          "end": 119.74
+        },
+        {
+          "word": "alegre,",
+          "start": 119.74,
+          "end": 122.38
+        }
+      ],
+      "start": 113.72,
+      "end": 123.06,
+      "confidence": 1.0,
+      "time": 113.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "con fervor, confiando en su bondad;",
+      "words": [
+        {
+          "word": "con",
+          "start": 123.06,
+          "end": 123.4
+        },
+        {
+          "word": "fervor,",
+          "start": 123.4,
+          "end": 125.12
+        },
+        {
+          "word": "confiando",
+          "start": 125.6,
+          "end": 126.44
+        },
+        {
+          "word": "en",
+          "start": 126.44,
+          "end": 126.7
+        },
+        {
+          "word": "su",
+          "start": 126.7,
+          "end": 127.2
+        },
+        {
+          "word": "bondad,",
+          "start": 127.2,
+          "end": 129.92
+        }
+      ],
+      "start": 123.06,
+      "end": 129.92,
+      "confidence": 1.0,
+      "time": 123.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "hasta llegar a la Ciudad hermosa",
+      "words": [
+        {
+          "word": "Hasta",
+          "start": 129.92,
+          "end": 131.1
+        },
+        {
+          "word": "llegar",
+          "start": 131.1,
+          "end": 133.1
+        },
+        {
+          "word": "a",
+          "start": 133.1,
+          "end": 133.72
+        },
+        {
+          "word": "la",
+          "start": 133.72,
+          "end": 134.2
+        },
+        {
+          "word": "ciudad",
+          "start": 134.2,
+          "end": 135.5
+        },
+        {
+          "word": "hermosa",
+          "start": 135.5,
+          "end": 138.28
+        }
+      ],
+      "start": 129.92,
+      "end": 138.28,
+      "confidence": 1.0,
+      "time": 129.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "que mi Señor fue a preparar.",
+      "words": [
+        {
+          "word": "Que",
+          "start": 138.28,
+          "end": 138.92
+        },
+        {
+          "word": "mi",
+          "start": 138.92,
+          "end": 139.34
+        },
+        {
+          "word": "Señor",
+          "start": 139.34,
+          "end": 140.92
+        },
+        {
+          "word": "a",
+          "start": 142.04,
+          "end": 143.08
+        },
+        {
+          "word": "preparar.",
+          "start": 143.08,
+          "end": 146.76
+        }
+      ],
+      "start": 138.28,
+      "end": 146.76,
+      "confidence": 0.833,
+      "time": 138.28
+    }
+  ]
+}

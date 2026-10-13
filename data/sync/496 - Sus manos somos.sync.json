@@ -1,0 +1,394 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.678,
+  "language": "es",
+  "model": "medium",
+  "hymn": 496,
+  "source": "496 - Sus manos somos.mp3",
+  "duration": 118.83,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Sus manos somos,",
+      "verse": 1,
+      "start": 0.0,
+      "end": 29.98,
+      "confidence": 0.0,
+      "time": 0.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que ayudan en el mundo.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 29.98,
+          "end": 31.16
+        },
+        {
+          "word": "el",
+          "start": 31.16,
+          "end": 32.94
+        },
+        {
+          "word": "mundo.",
+          "start": 32.94,
+          "end": 35.24
+        }
+      ],
+      "start": 29.98,
+      "end": 35.24,
+      "confidence": 0.6,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Somos sus pies,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Somos",
+          "start": 36.2,
+          "end": 37.6
+        },
+        {
+          "word": "pies",
+          "start": 38.16,
+          "end": 39.96
+        }
+      ],
+      "start": 36.2,
+      "end": 39.96,
+      "confidence": 0.667,
+      "time": 36.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que van donde él los guía.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 39.96,
+          "end": 41.24
+        },
+        {
+          "word": "los",
+          "start": 43.02,
+          "end": 43.98
+        }
+      ],
+      "start": 39.96,
+      "end": 46.16,
+      "confidence": 0.333,
+      "time": 39.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Somos su amor,",
+      "words": [
+        {
+          "word": "Somos",
+          "start": 47.86,
+          "end": 49.26
+        },
+        {
+          "word": "su",
+          "start": 49.26,
+          "end": 50.42
+        },
+        {
+          "word": "amor",
+          "start": 50.42,
+          "end": 51.12
+        }
+      ],
+      "start": 47.86,
+      "end": 51.12,
+      "confidence": 1.0,
+      "time": 47.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "lumbre en las tinieblas.",
+      "words": [
+        {
+          "word": "las",
+          "start": 53.4,
+          "end": 54.76
+        },
+        {
+          "word": "mineras.",
+          "start": 54.76,
+          "end": 57.36
+        }
+      ],
+      "start": 53.4,
+      "end": 57.36,
+      "confidence": 0.444,
+      "time": 53.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Somos su luz",
+      "words": [
+        {
+          "word": "Somos",
+          "start": 60.56,
+          "end": 61.96
+        }
+      ],
+      "start": 60.56,
+      "end": 63.36,
+      "confidence": 0.333,
+      "time": 60.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en la oscuridad.",
+      "words": [
+        {
+          "word": "en",
+          "start": 63.36,
+          "end": 64.3
+        },
+        {
+          "word": "la",
+          "start": 64.3,
+          "end": 64.94
+        },
+        {
+          "word": "oscuridad.",
+          "start": 64.94,
+          "end": 69.1
+        }
+      ],
+      "start": 63.36,
+      "end": 69.1,
+      "confidence": 1.0,
+      "time": 63.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Sus ojos somos,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tus",
+          "start": 69.66,
+          "end": 71.06
+        },
+        {
+          "word": "ojos",
+          "start": 71.06,
+          "end": 72.34
+        },
+        {
+          "word": "somos",
+          "start": 72.34,
+          "end": 74.46
+        }
+      ],
+      "start": 69.66,
+      "end": 74.46,
+      "confidence": 0.933,
+      "time": 69.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que ven a los sufrientes.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 74.46,
+          "end": 75.4
+        },
+        {
+          "word": "ven",
+          "start": 75.4,
+          "end": 76.3
+        },
+        {
+          "word": "a",
+          "start": 76.3,
+          "end": 76.86
+        },
+        {
+          "word": "los",
+          "start": 76.86,
+          "end": 77.48
+        },
+        {
+          "word": "sufrientes.",
+          "start": 77.48,
+          "end": 80.88
+        }
+      ],
+      "start": 74.46,
+      "end": 80.88,
+      "confidence": 1.0,
+      "time": 74.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Somos su voz,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Somos",
+          "start": 80.88,
+          "end": 83.0
+        },
+        {
+          "word": "su",
+          "start": 83.0,
+          "end": 83.9
+        },
+        {
+          "word": "voz",
+          "start": 83.9,
+          "end": 85.76
+        }
+      ],
+      "start": 80.88,
+      "end": 85.76,
+      "confidence": 1.0,
+      "time": 80.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que anuncia su regreso.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 85.76,
+          "end": 86.52
+        },
+        {
+          "word": "anuncia",
+          "start": 86.52,
+          "end": 87.84
+        },
+        {
+          "word": "su",
+          "start": 87.84,
+          "end": 88.62
+        },
+        {
+          "word": "regreso,",
+          "start": 88.62,
+          "end": 91.72
+        }
+      ],
+      "start": 85.76,
+      "end": 91.72,
+      "confidence": 1.0,
+      "time": 85.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Somos su amor,",
+      "words": [
+        {
+          "word": "somos",
+          "start": 93.6,
+          "end": 94.8
+        },
+        {
+          "word": "su",
+          "start": 94.8,
+          "end": 96.22
+        },
+        {
+          "word": "amor,",
+          "start": 96.22,
+          "end": 97.56
+        }
+      ],
+      "start": 93.6,
+      "end": 99.2,
+      "confidence": 1.0,
+      "time": 93.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "lumbre en las tinieblas.",
+      "words": [
+        {
+          "word": "las",
+          "start": 99.2,
+          "end": 100.32
+        },
+        {
+          "word": "tiendas,",
+          "start": 100.32,
+          "end": 103.04
+        }
+      ],
+      "start": 99.2,
+      "end": 103.04,
+      "confidence": 0.444,
+      "time": 99.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Somos su luz",
+      "words": [
+        {
+          "word": "Somos",
+          "start": 106.28,
+          "end": 107.68
+        }
+      ],
+      "start": 106.28,
+      "end": 109.08,
+      "confidence": 0.333,
+      "time": 106.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en la oscuridad.",
+      "words": [
+        {
+          "word": "en",
+          "start": 109.08,
+          "end": 110.28
+        },
+        {
+          "word": "la",
+          "start": 110.28,
+          "end": 110.66
+        },
+        {
+          "word": "oscuridad.",
+          "start": 110.66,
+          "end": 114.28
+        }
+      ],
+      "start": 109.08,
+      "end": 114.28,
+      "confidence": 1.0,
+      "time": 109.08
+    }
+  ]
+}

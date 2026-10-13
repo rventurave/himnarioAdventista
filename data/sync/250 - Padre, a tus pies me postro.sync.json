@@ -1,0 +1,777 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.743,
+  "language": "es",
+  "model": "medium",
+  "hymn": 250,
+  "source": "250 - Padre, a tus pies me postro.mp3",
+  "duration": 176.77,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Padre, a tus pies me postro;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 3.32,
+          "end": 3.32
+        }
+      ],
+      "start": 3.32,
+      "end": 29.98,
+      "confidence": 0.133,
+      "time": 3.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "rompe mis prisiones duras;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "días.",
+          "start": 29.98,
+          "end": 29.98
+        }
+      ],
+      "start": 29.98,
+      "end": 30.18,
+      "confidence": 0.2,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "oh, responde mientras llamo;",
+      "verse": 1,
+      "start": 30.18,
+      "end": 30.38,
+      "confidence": 0.0,
+      "time": 30.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pon tu Espíritu en mí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "con",
+          "start": 30.0,
+          "end": 30.0
+        },
+        {
+          "word": "tu",
+          "start": 30.0,
+          "end": 30.32
+        },
+        {
+          "word": "espíritu",
+          "start": 30.32,
+          "end": 32.04
+        },
+        {
+          "word": "en",
+          "start": 32.04,
+          "end": 32.5
+        },
+        {
+          "word": "mí.",
+          "start": 32.5,
+          "end": 34.32
+        }
+      ],
+      "start": 30.38,
+      "end": 30.58,
+      "confidence": 0.96,
+      "time": 30.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Pon tu Espíritu en mi alma;",
+      "words": [
+        {
+          "word": "Con",
+          "start": 35.2,
+          "end": 36.14
+        },
+        {
+          "word": "tu",
+          "start": 36.14,
+          "end": 36.6
+        },
+        {
+          "word": "espíritu",
+          "start": 36.6,
+          "end": 37.52
+        },
+        {
+          "word": "en",
+          "start": 37.52,
+          "end": 37.9
+        },
+        {
+          "word": "mi",
+          "start": 37.9,
+          "end": 38.6
+        },
+        {
+          "word": "alma,",
+          "start": 38.6,
+          "end": 40.46
+        }
+      ],
+      "start": 35.2,
+      "end": 40.46,
+      "confidence": 0.967,
+      "time": 35.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "hazme lo que ser debiera;",
+      "words": [
+        {
+          "word": "haz",
+          "start": 41.48,
+          "end": 41.98
+        },
+        {
+          "word": "lo",
+          "start": 42.24,
+          "end": 42.6
+        },
+        {
+          "word": "que",
+          "start": 42.6,
+          "end": 42.94
+        },
+        {
+          "word": "se",
+          "start": 42.94,
+          "end": 43.22
+        },
+        {
+          "word": "temera,",
+          "start": 43.22,
+          "end": 45.86
+        }
+      ],
+      "start": 41.48,
+      "end": 45.86,
+      "confidence": 0.93,
+      "time": 41.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "hazme puro en todo,",
+      "words": [
+        {
+          "word": "haz",
+          "start": 46.5,
+          "end": 46.96
+        },
+        {
+          "word": "en",
+          "start": 47.64,
+          "end": 48.12
+        },
+        {
+          "word": "todo,",
+          "start": 48.12,
+          "end": 48.96
+        }
+      ],
+      "start": 46.5,
+      "end": 49.42,
+      "confidence": 0.735,
+      "time": 46.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "libre del pecado;",
+      "words": [
+        {
+          "word": "libre",
+          "start": 49.42,
+          "end": 49.92
+        },
+        {
+          "word": "del",
+          "start": 49.92,
+          "end": 50.38
+        },
+        {
+          "word": "pecado,",
+          "start": 50.38,
+          "end": 51.9
+        }
+      ],
+      "start": 49.42,
+      "end": 51.9,
+      "confidence": 1.0,
+      "time": 49.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "pon tu Espíritu en mí.",
+      "words": [
+        {
+          "word": "con",
+          "start": 52.54,
+          "end": 53.42
+        },
+        {
+          "word": "tu",
+          "start": 53.42,
+          "end": 53.8
+        },
+        {
+          "word": "espíritu",
+          "start": 53.8,
+          "end": 55.52
+        },
+        {
+          "word": "en",
+          "start": 55.52,
+          "end": 56.06
+        },
+        {
+          "word": "mí.",
+          "start": 56.06,
+          "end": 57.56
+        }
+      ],
+      "start": 52.54,
+      "end": 57.56,
+      "confidence": 0.96,
+      "time": 52.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mientras Cristo intercede,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Mientras",
+          "start": 57.56,
+          "end": 60.02
+        },
+        {
+          "word": "Cristo",
+          "start": 60.02,
+          "end": 60.78
+        },
+        {
+          "word": "intercede,",
+          "start": 60.78,
+          "end": 63.82
+        }
+      ],
+      "start": 57.56,
+      "end": 64.98,
+      "confidence": 1.0,
+      "time": 57.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mientras oro yo humilde,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mientras",
+          "start": 64.98,
+          "end": 65.48
+        },
+        {
+          "word": "yo",
+          "start": 66.12,
+          "end": 66.86
+        },
+        {
+          "word": "minde,",
+          "start": 66.86,
+          "end": 69.16
+        }
+      ],
+      "start": 64.98,
+      "end": 69.96,
+      "confidence": 0.7,
+      "time": 64.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "lo que necesito dame;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "lo",
+          "start": 69.96,
+          "end": 70.8
+        },
+        {
+          "word": "que",
+          "start": 70.8,
+          "end": 71.4
+        },
+        {
+          "word": "necesito",
+          "start": 71.4,
+          "end": 72.62
+        },
+        {
+          "word": "dame",
+          "start": 72.62,
+          "end": 75.14
+        }
+      ],
+      "start": 69.96,
+      "end": 75.14,
+      "confidence": 1.0,
+      "time": 69.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pon tu Espíritu en mí.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "con",
+          "start": 75.14,
+          "end": 76.56
+        },
+        {
+          "word": "Tu",
+          "start": 76.56,
+          "end": 76.98
+        },
+        {
+          "word": "Espíritu",
+          "start": 76.98,
+          "end": 78.56
+        },
+        {
+          "word": "en",
+          "start": 78.56,
+          "end": 79.16
+        },
+        {
+          "word": "mi.",
+          "start": 79.16,
+          "end": 80.36
+        }
+      ],
+      "start": 75.14,
+      "end": 80.36,
+      "confidence": 0.96,
+      "time": 75.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Pon tu Espíritu en mi alma;",
+      "words": [
+        {
+          "word": "Con",
+          "start": 80.36,
+          "end": 83.12
+        },
+        {
+          "word": "Tu",
+          "start": 83.12,
+          "end": 83.52
+        },
+        {
+          "word": "Espíritu",
+          "start": 83.52,
+          "end": 84.54
+        },
+        {
+          "word": "en",
+          "start": 84.54,
+          "end": 84.88
+        },
+        {
+          "word": "mi",
+          "start": 84.88,
+          "end": 85.58
+        },
+        {
+          "word": "alma",
+          "start": 85.58,
+          "end": 87.42
+        }
+      ],
+      "start": 80.36,
+      "end": 87.42,
+      "confidence": 0.967,
+      "time": 80.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "hazme lo que ser debiera;",
+      "words": [
+        {
+          "word": "Hazme",
+          "start": 87.42,
+          "end": 89.34
+        },
+        {
+          "word": "de",
+          "start": 90.24,
+          "end": 90.88
+        }
+      ],
+      "start": 87.42,
+      "end": 92.36,
+      "confidence": 0.388,
+      "time": 87.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "hazme puro en todo,",
+      "words": [
+        {
+          "word": "Hazme",
+          "start": 93.12,
+          "end": 94.28
+        },
+        {
+          "word": "todo",
+          "start": 94.88,
+          "end": 96.1
+        }
+      ],
+      "start": 93.12,
+      "end": 96.1,
+      "confidence": 0.5,
+      "time": 93.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "libre del pecado;",
+      "words": [
+        {
+          "word": "libre",
+          "start": 96.1,
+          "end": 97.04
+        },
+        {
+          "word": "del",
+          "start": 97.04,
+          "end": 97.48
+        },
+        {
+          "word": "pecado",
+          "start": 97.48,
+          "end": 99.04
+        }
+      ],
+      "start": 96.1,
+      "end": 99.04,
+      "confidence": 1.0,
+      "time": 96.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "pon tu Espíritu en mí.",
+      "words": [
+        {
+          "word": "Con",
+          "start": 99.04,
+          "end": 100.52
+        },
+        {
+          "word": "Tu",
+          "start": 100.52,
+          "end": 100.84
+        },
+        {
+          "word": "Espíritu",
+          "start": 100.84,
+          "end": 102.58
+        },
+        {
+          "word": "en",
+          "start": 102.58,
+          "end": 103.1
+        },
+        {
+          "word": "mi",
+          "start": 103.1,
+          "end": 104.7
+        }
+      ],
+      "start": 99.04,
+      "end": 104.7,
+      "confidence": 0.96,
+      "time": 99.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "No deseo ofenderte,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "No",
+          "start": 104.7,
+          "end": 106.76
+        },
+        {
+          "word": "pensé",
+          "start": 106.76,
+          "end": 107.52
+        },
+        {
+          "word": "ofenderte,",
+          "start": 107.52,
+          "end": 110.74
+        }
+      ],
+      "start": 104.7,
+      "end": 112.12,
+      "confidence": 0.92,
+      "time": 104.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "viviré para agradarte",
+      "verse": 3,
+      "words": [
+        {
+          "word": "viviré",
+          "start": 112.12,
+          "end": 112.98
+        },
+        {
+          "word": "para",
+          "start": 112.98,
+          "end": 113.44
+        },
+        {
+          "word": "agradarte,",
+          "start": 113.44,
+          "end": 116.0
+        }
+      ],
+      "start": 112.12,
+      "end": 117.5,
+      "confidence": 1.0,
+      "time": 112.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y en el corazón guardarte;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 117.5,
+          "end": 117.86
+        },
+        {
+          "word": "el",
+          "start": 117.86,
+          "end": 118.26
+        },
+        {
+          "word": "corazón",
+          "start": 118.26,
+          "end": 119.02
+        },
+        {
+          "word": "guardarte,",
+          "start": 119.02,
+          "end": 121.84
+        }
+      ],
+      "start": 117.5,
+      "end": 123.18,
+      "confidence": 0.8,
+      "time": 117.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pon tu Espíritu en mí.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 123.18,
+          "end": 123.28
+        },
+        {
+          "word": "Espíritu",
+          "start": 123.62,
+          "end": 125.36
+        },
+        {
+          "word": "en",
+          "start": 125.36,
+          "end": 125.8
+        },
+        {
+          "word": "mí.",
+          "start": 125.8,
+          "end": 127.66
+        }
+      ],
+      "start": 123.18,
+      "end": 127.66,
+      "confidence": 0.76,
+      "time": 123.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Pon tu Espíritu en mi alma;",
+      "words": [
+        {
+          "word": "Ponte",
+          "start": 127.66,
+          "end": 129.54
+        },
+        {
+          "word": "espíritu",
+          "start": 129.54,
+          "end": 130.74
+        },
+        {
+          "word": "en",
+          "start": 130.74,
+          "end": 131.12
+        },
+        {
+          "word": "mi",
+          "start": 131.12,
+          "end": 131.86
+        },
+        {
+          "word": "alma,",
+          "start": 131.86,
+          "end": 133.8
+        }
+      ],
+      "start": 127.66,
+      "end": 135.72,
+      "confidence": 0.823,
+      "time": 127.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "hazme lo que ser debiera;",
+      "words": [
+        {
+          "word": "lo",
+          "start": 135.72,
+          "end": 136.06
+        },
+        {
+          "word": "que",
+          "start": 136.06,
+          "end": 136.36
+        },
+        {
+          "word": "ser",
+          "start": 136.36,
+          "end": 136.72
+        },
+        {
+          "word": "de",
+          "start": 140.34,
+          "end": 140.76
+        }
+      ],
+      "start": 135.72,
+      "end": 152.32,
+      "confidence": 0.788,
+      "time": 135.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "hazme puro en todo,",
+      "start": 152.32,
+      "end": 152.52,
+      "confidence": 0.0,
+      "time": 152.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "libre del pecado;",
+      "words": [
+        {
+          "word": "libre",
+          "start": 142.44,
+          "end": 143.56
+        },
+        {
+          "word": "del",
+          "start": 143.56,
+          "end": 144.02
+        },
+        {
+          "word": "pecado,",
+          "start": 144.02,
+          "end": 145.56
+        }
+      ],
+      "start": 152.52,
+      "end": 152.72,
+      "confidence": 1.0,
+      "time": 152.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "pon tu Espíritu en mí.",
+      "words": [
+        {
+          "word": "ponte",
+          "start": 146.52,
+          "end": 147.42
+        },
+        {
+          "word": "espíritu",
+          "start": 147.42,
+          "end": 149.36
+        },
+        {
+          "word": "en",
+          "start": 149.36,
+          "end": 150.16
+        },
+        {
+          "word": "mi.",
+          "start": 150.16,
+          "end": 152.32
+        }
+      ],
+      "start": 152.72,
+      "end": 152.92,
+      "confidence": 0.788,
+      "time": 152.72
+    }
+  ]
+}

@@ -1,0 +1,698 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.959,
+  "language": "es",
+  "model": "medium",
+  "hymn": 449,
+  "source": "449 - Cristo, mi piloto se.mp3",
+  "duration": 144.22,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo, mi piloto sé en el tempestuoso mar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 11.38,
+          "end": 12.78
+        },
+        {
+          "word": "mi",
+          "start": 12.78,
+          "end": 14.18
+        },
+        {
+          "word": "piloto",
+          "start": 14.18,
+          "end": 15.54
+        },
+        {
+          "word": "sé,",
+          "start": 15.54,
+          "end": 16.74
+        },
+        {
+          "word": "en",
+          "start": 17.3,
+          "end": 17.94
+        },
+        {
+          "word": "el",
+          "start": 17.94,
+          "end": 18.88
+        },
+        {
+          "word": "tempestuoso",
+          "start": 18.88,
+          "end": 20.68
+        },
+        {
+          "word": "mar",
+          "start": 20.68,
+          "end": 22.12
+        }
+      ],
+      "start": 11.38,
+      "end": 22.12,
+      "confidence": 1.0,
+      "time": 11.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Fieras ondas mi bajel van a hacerlo zozobrar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Fieras",
+          "start": 22.12,
+          "end": 23.84
+        },
+        {
+          "word": "ondas,",
+          "start": 23.84,
+          "end": 25.08
+        },
+        {
+          "word": "mi",
+          "start": 25.18,
+          "end": 25.62
+        },
+        {
+          "word": "bajel,",
+          "start": 25.62,
+          "end": 27.5
+        },
+        {
+          "word": "van",
+          "start": 28.06,
+          "end": 28.4
+        },
+        {
+          "word": "a",
+          "start": 28.4,
+          "end": 29.22
+        },
+        {
+          "word": "sobrar,",
+          "start": 30.84,
+          "end": 32.4
+        }
+      ],
+      "start": 22.12,
+      "end": 32.4,
+      "confidence": 0.854,
+      "time": 22.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mas si tú conmigo vas, pronto al puerto llegaré.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "más",
+          "start": 33.04,
+          "end": 33.54
+        },
+        {
+          "word": "si",
+          "start": 33.54,
+          "end": 33.88
+        },
+        {
+          "word": "tú",
+          "start": 33.88,
+          "end": 34.98
+        },
+        {
+          "word": "conmigo",
+          "start": 34.98,
+          "end": 36.3
+        },
+        {
+          "word": "vas,",
+          "start": 36.3,
+          "end": 37.76
+        },
+        {
+          "word": "pronto",
+          "start": 38.38,
+          "end": 38.74
+        },
+        {
+          "word": "al",
+          "start": 38.74,
+          "end": 39.06
+        },
+        {
+          "word": "puerto",
+          "start": 39.06,
+          "end": 40.58
+        },
+        {
+          "word": "llegaré.",
+          "start": 40.58,
+          "end": 43.22
+        }
+      ],
+      "start": 33.04,
+      "end": 43.22,
+      "confidence": 1.0,
+      "time": 33.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Carta y brújula hallo en ti.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Carta",
+          "start": 43.22,
+          "end": 44.04
+        },
+        {
+          "word": "y",
+          "start": 44.04,
+          "end": 44.28
+        },
+        {
+          "word": "brújula",
+          "start": 44.28,
+          "end": 46.22
+        },
+        {
+          "word": "en",
+          "start": 46.6,
+          "end": 47.1
+        },
+        {
+          "word": "ti,",
+          "start": 47.1,
+          "end": 48.52
+        }
+      ],
+      "start": 43.22,
+      "end": 48.6,
+      "confidence": 0.833,
+      "time": 43.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Cristo, mi piloto sé!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 48.6,
+          "end": 49.42
+        },
+        {
+          "word": "mi",
+          "start": 49.42,
+          "end": 50.74
+        },
+        {
+          "word": "piloto",
+          "start": 50.74,
+          "end": 52.1
+        },
+        {
+          "word": "sé.",
+          "start": 52.1,
+          "end": 53.88
+        }
+      ],
+      "start": 48.6,
+      "end": 53.88,
+      "confidence": 1.0,
+      "time": 48.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Todo agita el huracán con indómito furor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Todo",
+          "start": 55.26,
+          "end": 56.22
+        },
+        {
+          "word": "agita",
+          "start": 56.22,
+          "end": 57.88
+        },
+        {
+          "word": "el",
+          "start": 57.88,
+          "end": 58.22
+        },
+        {
+          "word": "huracán,",
+          "start": 58.22,
+          "end": 60.44
+        },
+        {
+          "word": "con",
+          "start": 60.76,
+          "end": 61.38
+        },
+        {
+          "word": "indómito",
+          "start": 61.38,
+          "end": 63.74
+        },
+        {
+          "word": "furor,",
+          "start": 63.74,
+          "end": 65.62
+        }
+      ],
+      "start": 55.26,
+      "end": 65.62,
+      "confidence": 1.0,
+      "time": 55.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "mas los vientos cesarán al mandato de tu voz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "más",
+          "start": 65.62,
+          "end": 66.58
+        },
+        {
+          "word": "los",
+          "start": 66.58,
+          "end": 67.06
+        },
+        {
+          "word": "vientos",
+          "start": 67.06,
+          "end": 68.52
+        },
+        {
+          "word": "cesarán.",
+          "start": 68.52,
+          "end": 70.94
+        },
+        {
+          "word": "Al",
+          "start": 70.98,
+          "end": 71.74
+        },
+        {
+          "word": "mandato",
+          "start": 71.74,
+          "end": 73.7
+        },
+        {
+          "word": "de",
+          "start": 73.7,
+          "end": 74.22
+        },
+        {
+          "word": "tu",
+          "start": 74.22,
+          "end": 74.74
+        },
+        {
+          "word": "voz",
+          "start": 74.74,
+          "end": 76.12
+        }
+      ],
+      "start": 65.62,
+      "end": 76.12,
+      "confidence": 1.0,
+      "time": 65.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Y al decir que haya paz, cederá sumiso el mar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 76.12,
+          "end": 76.8
+        },
+        {
+          "word": "al",
+          "start": 76.8,
+          "end": 77.08
+        },
+        {
+          "word": "decir",
+          "start": 77.08,
+          "end": 78.3
+        },
+        {
+          "word": "que",
+          "start": 78.3,
+          "end": 79.06
+        },
+        {
+          "word": "haya",
+          "start": 79.06,
+          "end": 79.78
+        },
+        {
+          "word": "paz",
+          "start": 79.78,
+          "end": 81.4
+        },
+        {
+          "word": "cederá",
+          "start": 81.4,
+          "end": 83.76
+        },
+        {
+          "word": "sumiso",
+          "start": 83.76,
+          "end": 84.72
+        },
+        {
+          "word": "el",
+          "start": 84.72,
+          "end": 85.12
+        },
+        {
+          "word": "mar",
+          "start": 85.12,
+          "end": 86.38
+        }
+      ],
+      "start": 76.12,
+      "end": 86.38,
+      "confidence": 1.0,
+      "time": 76.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "De las aguas, tú el Señor, eres mi piloto fiel.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 86.38,
+          "end": 87.46
+        },
+        {
+          "word": "las",
+          "start": 87.46,
+          "end": 88.24
+        },
+        {
+          "word": "aguas",
+          "start": 88.24,
+          "end": 89.38
+        },
+        {
+          "word": "tu",
+          "start": 89.38,
+          "end": 89.78
+        },
+        {
+          "word": "el",
+          "start": 89.78,
+          "end": 90.12
+        },
+        {
+          "word": "Señor.",
+          "start": 90.12,
+          "end": 91.56
+        },
+        {
+          "word": "Eres",
+          "start": 91.56,
+          "end": 92.98
+        },
+        {
+          "word": "mi",
+          "start": 92.98,
+          "end": 94.26
+        },
+        {
+          "word": "piloto",
+          "start": 94.26,
+          "end": 95.5
+        },
+        {
+          "word": "fiel.",
+          "start": 95.5,
+          "end": 97.56
+        }
+      ],
+      "start": 86.38,
+      "end": 97.56,
+      "confidence": 1.0,
+      "time": 86.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cuando al fin cercano esté de la playa celestial,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 98.54,
+          "end": 99.62
+        },
+        {
+          "word": "al",
+          "start": 99.62,
+          "end": 99.96
+        },
+        {
+          "word": "fin",
+          "start": 99.96,
+          "end": 101.08
+        },
+        {
+          "word": "cercano",
+          "start": 101.08,
+          "end": 102.24
+        },
+        {
+          "word": "esté",
+          "start": 102.24,
+          "end": 103.64
+        },
+        {
+          "word": "De",
+          "start": 103.64,
+          "end": 104.88
+        },
+        {
+          "word": "la",
+          "start": 104.88,
+          "end": 106.14
+        },
+        {
+          "word": "playa",
+          "start": 106.14,
+          "end": 106.88
+        },
+        {
+          "word": "celestial",
+          "start": 106.88,
+          "end": 108.98
+        }
+      ],
+      "start": 98.54,
+      "end": 108.98,
+      "confidence": 1.0,
+      "time": 98.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "si el abismo ruge aún entre el puerto y mi bajel,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mismo",
+          "start": 111.04,
+          "end": 111.9
+        },
+        {
+          "word": "ruge",
+          "start": 111.9,
+          "end": 112.9
+        },
+        {
+          "word": "aún",
+          "start": 112.9,
+          "end": 114.36
+        },
+        {
+          "word": "Entre",
+          "start": 114.36,
+          "end": 115.44
+        },
+        {
+          "word": "el",
+          "start": 115.44,
+          "end": 115.8
+        },
+        {
+          "word": "puerto",
+          "start": 115.8,
+          "end": 117.0
+        },
+        {
+          "word": "y",
+          "start": 117.0,
+          "end": 117.5
+        },
+        {
+          "word": "mi",
+          "start": 117.5,
+          "end": 117.86
+        },
+        {
+          "word": "baje",
+          "start": 117.86,
+          "end": 119.36
+        }
+      ],
+      "start": 111.04,
+      "end": 119.36,
+      "confidence": 0.798,
+      "time": 111.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en tu pecho al descansar quiero oír tu voz decir:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 119.36,
+          "end": 120.5
+        },
+        {
+          "word": "tu",
+          "start": 120.5,
+          "end": 120.9
+        },
+        {
+          "word": "pecho",
+          "start": 120.9,
+          "end": 122.2
+        },
+        {
+          "word": "al",
+          "start": 122.2,
+          "end": 122.5
+        },
+        {
+          "word": "descansar",
+          "start": 122.5,
+          "end": 124.9
+        },
+        {
+          "word": "Quiero",
+          "start": 124.9,
+          "end": 125.92
+        },
+        {
+          "word": "oír",
+          "start": 125.92,
+          "end": 127.22
+        },
+        {
+          "word": "tu",
+          "start": 127.22,
+          "end": 127.68
+        },
+        {
+          "word": "voz",
+          "start": 127.68,
+          "end": 128.18
+        },
+        {
+          "word": "decir",
+          "start": 128.18,
+          "end": 130.08
+        }
+      ],
+      "start": 119.36,
+      "end": 130.08,
+      "confidence": 1.0,
+      "time": 119.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "\"Nada temas ya del mar, tu piloto siempre soy\".",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Nada",
+          "start": 130.08,
+          "end": 131.2
+        },
+        {
+          "word": "temas",
+          "start": 131.2,
+          "end": 132.8
+        },
+        {
+          "word": "ya",
+          "start": 132.8,
+          "end": 133.46
+        },
+        {
+          "word": "del",
+          "start": 133.46,
+          "end": 133.82
+        },
+        {
+          "word": "mar",
+          "start": 133.82,
+          "end": 135.22
+        },
+        {
+          "word": "Tu",
+          "start": 135.22,
+          "end": 136.22
+        },
+        {
+          "word": "piloco",
+          "start": 136.22,
+          "end": 138.18
+        },
+        {
+          "word": "siempre",
+          "start": 138.18,
+          "end": 139.22
+        },
+        {
+          "word": "soy",
+          "start": 139.22,
+          "end": 142.12
+        }
+      ],
+      "start": 130.08,
+      "end": 142.12,
+      "confidence": 0.989,
+      "time": 130.08
+    }
+  ]
+}

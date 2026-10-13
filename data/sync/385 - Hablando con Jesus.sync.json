@@ -1,0 +1,243 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.883,
+  "language": "es",
+  "model": "medium",
+  "hymn": 385,
+  "source": "385 - Hablando con Jesus.mp3",
+  "duration": 34.12,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hablando con Jesús,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hablando",
+          "start": 11.0,
+          "end": 11.78
+        },
+        {
+          "word": "con",
+          "start": 11.78,
+          "end": 12.24
+        },
+        {
+          "word": "Jesús",
+          "start": 12.24,
+          "end": 12.78
+        }
+      ],
+      "start": 11.0,
+      "end": 12.78,
+      "confidence": 1.0,
+      "time": 11.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "todo está muy bien;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "todo",
+          "start": 12.78,
+          "end": 13.5
+        },
+        {
+          "word": "está",
+          "start": 13.5,
+          "end": 14.48
+        },
+        {
+          "word": "muy",
+          "start": 14.48,
+          "end": 15.38
+        },
+        {
+          "word": "bien",
+          "start": 15.38,
+          "end": 16.02
+        }
+      ],
+      "start": 12.78,
+      "end": 16.02,
+      "confidence": 1.0,
+      "time": 12.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "hablando con Jesús,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hablando",
+          "start": 16.02,
+          "end": 17.12
+        },
+        {
+          "word": "con",
+          "start": 17.12,
+          "end": 17.52
+        },
+        {
+          "word": "Jesús",
+          "start": 17.52,
+          "end": 18.2
+        }
+      ],
+      "start": 16.02,
+      "end": 18.2,
+      "confidence": 1.0,
+      "time": 16.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "todo está muy bien.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "todo",
+          "start": 18.2,
+          "end": 18.96
+        },
+        {
+          "word": "está",
+          "start": 18.96,
+          "end": 19.84
+        },
+        {
+          "word": "muy",
+          "start": 19.84,
+          "end": 20.66
+        },
+        {
+          "word": "bien",
+          "start": 20.66,
+          "end": 21.36
+        }
+      ],
+      "start": 18.2,
+      "end": 21.36,
+      "confidence": 1.0,
+      "time": 18.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Si es mucho mi penar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Si",
+          "start": 21.36,
+          "end": 21.82
+        },
+        {
+          "word": "es",
+          "start": 21.82,
+          "end": 21.96
+        },
+        {
+          "word": "mucho",
+          "start": 21.96,
+          "end": 22.46
+        },
+        {
+          "word": "mi",
+          "start": 22.46,
+          "end": 22.98
+        },
+        {
+          "word": "pegar,",
+          "start": 22.98,
+          "end": 24.1
+        }
+      ],
+      "start": 21.36,
+      "end": 24.44,
+      "confidence": 0.976,
+      "time": 21.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "lo alabo sin cesar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "lo",
+          "start": 24.44,
+          "end": 24.58
+        },
+        {
+          "word": "sin",
+          "start": 25.18,
+          "end": 25.64
+        },
+        {
+          "word": "cesar,",
+          "start": 25.64,
+          "end": 26.8
+        }
+      ],
+      "start": 24.44,
+      "end": 27.2,
+      "confidence": 0.75,
+      "time": 24.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "hablando con Jesús,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "parrando",
+          "start": 27.2,
+          "end": 27.82
+        },
+        {
+          "word": "con",
+          "start": 27.82,
+          "end": 28.24
+        },
+        {
+          "word": "sus",
+          "start": 28.52,
+          "end": 28.9
+        }
+      ],
+      "start": 27.2,
+      "end": 30.66,
+      "confidence": 0.875,
+      "time": 27.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "todo está muy bien.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "muy",
+          "start": 30.66,
+          "end": 31.38
+        },
+        {
+          "word": "bien.",
+          "start": 31.38,
+          "end": 31.88
+        }
+      ],
+      "start": 30.66,
+      "end": 31.88,
+      "confidence": 0.5,
+      "time": 30.66
+    }
+  ]
+}

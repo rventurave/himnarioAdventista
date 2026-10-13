@@ -1,0 +1,716 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.943,
+  "language": "es",
+  "model": "medium",
+  "hymn": 430,
+  "source": "430 - Solo no estoy.mp3",
+  "duration": 147.25,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Solo no estoy, pues Cristo me acompaña",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Solo",
+          "start": 13.58,
+          "end": 14.28
+        },
+        {
+          "word": "no",
+          "start": 14.28,
+          "end": 15.3
+        },
+        {
+          "word": "estoy",
+          "start": 15.3,
+          "end": 16.38
+        },
+        {
+          "word": "pues",
+          "start": 16.38,
+          "end": 16.88
+        },
+        {
+          "word": "Cristo",
+          "start": 16.88,
+          "end": 17.54
+        },
+        {
+          "word": "me",
+          "start": 17.54,
+          "end": 18.18
+        },
+        {
+          "word": "acompaña",
+          "start": 18.18,
+          "end": 20.56
+        }
+      ],
+      "start": 13.58,
+      "end": 20.56,
+      "confidence": 1.0,
+      "time": 13.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por todas partes donde quiera voy.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "por",
+          "start": 20.56,
+          "end": 21.36
+        },
+        {
+          "word": "todas",
+          "start": 21.36,
+          "end": 22.12
+        },
+        {
+          "word": "partes",
+          "start": 22.12,
+          "end": 23.66
+        },
+        {
+          "word": "donde",
+          "start": 23.66,
+          "end": 24.48
+        },
+        {
+          "word": "quiera",
+          "start": 24.48,
+          "end": 25.48
+        },
+        {
+          "word": "voy",
+          "start": 25.48,
+          "end": 27.2
+        }
+      ],
+      "start": 20.56,
+      "end": 27.2,
+      "confidence": 1.0,
+      "time": 20.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mi corazón se alegra con su gracia:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 27.2,
+          "end": 28.08
+        },
+        {
+          "word": "corazón",
+          "start": 28.08,
+          "end": 29.98
+        },
+        {
+          "word": "se",
+          "start": 29.98,
+          "end": 30.62
+        },
+        {
+          "word": "alegra",
+          "start": 30.62,
+          "end": 31.4
+        },
+        {
+          "word": "con",
+          "start": 31.4,
+          "end": 31.92
+        },
+        {
+          "word": "Su",
+          "start": 31.92,
+          "end": 32.4
+        },
+        {
+          "word": "gracia,",
+          "start": 32.4,
+          "end": 34.46
+        }
+      ],
+      "start": 27.2,
+      "end": 35.04,
+      "confidence": 1.0,
+      "time": 27.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a cuantos quieran él les da su amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 35.04,
+          "end": 35.1
+        },
+        {
+          "word": "cuantos",
+          "start": 35.1,
+          "end": 36.36
+        },
+        {
+          "word": "quiera",
+          "start": 36.36,
+          "end": 37.42
+        },
+        {
+          "word": "Él",
+          "start": 37.74,
+          "end": 38.06
+        },
+        {
+          "word": "su",
+          "start": 38.88,
+          "end": 39.34
+        },
+        {
+          "word": "amor.",
+          "start": 39.34,
+          "end": 40.8
+        }
+      ],
+      "start": 35.04,
+      "end": 40.8,
+      "confidence": 0.742,
+      "time": 35.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Solo no estoy, Jesús está a mi lado;",
+      "words": [
+        {
+          "word": "Solo",
+          "start": 41.32,
+          "end": 42.12
+        },
+        {
+          "word": "nuestro",
+          "start": 42.12,
+          "end": 43.34
+        },
+        {
+          "word": "Jesús",
+          "start": 44.06,
+          "end": 44.86
+        },
+        {
+          "word": "está",
+          "start": 44.86,
+          "end": 45.62
+        },
+        {
+          "word": "a",
+          "start": 45.62,
+          "end": 46.16
+        },
+        {
+          "word": "mi",
+          "start": 46.16,
+          "end": 46.16
+        },
+        {
+          "word": "lado,",
+          "start": 46.16,
+          "end": 47.82
+        }
+      ],
+      "start": 41.32,
+      "end": 48.58,
+      "confidence": 0.85,
+      "time": 41.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en él hallé amigo sin igual.",
+      "words": [
+        {
+          "word": "en",
+          "start": 48.58,
+          "end": 48.84
+        },
+        {
+          "word": "él",
+          "start": 48.84,
+          "end": 49.46
+        },
+        {
+          "word": "alea,",
+          "start": 49.46,
+          "end": 51.3
+        },
+        {
+          "word": "amigos,",
+          "start": 51.3,
+          "end": 51.94
+        },
+        {
+          "word": "igual",
+          "start": 52.64,
+          "end": 54.48
+        }
+      ],
+      "start": 48.58,
+      "end": 54.48,
+      "confidence": 0.79,
+      "time": 48.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "De tal amigo apoyo y guía tengo;",
+      "words": [
+        {
+          "word": "De",
+          "start": 54.48,
+          "end": 55.58
+        },
+        {
+          "word": "tal",
+          "start": 55.58,
+          "end": 56.12
+        },
+        {
+          "word": "amigo",
+          "start": 56.12,
+          "end": 57.74
+        },
+        {
+          "word": "apoyo",
+          "start": 57.74,
+          "end": 58.54
+        },
+        {
+          "word": "y",
+          "start": 58.54,
+          "end": 59.12
+        },
+        {
+          "word": "guía",
+          "start": 59.12,
+          "end": 59.7
+        },
+        {
+          "word": "tengo,",
+          "start": 59.7,
+          "end": 61.44
+        }
+      ],
+      "start": 54.48,
+      "end": 62.22,
+      "confidence": 1.0,
+      "time": 54.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "solo no estoy, Jesús conmigo está.",
+      "words": [
+        {
+          "word": "solo",
+          "start": 62.22,
+          "end": 62.66
+        },
+        {
+          "word": "no",
+          "start": 62.66,
+          "end": 63.34
+        },
+        {
+          "word": "estoy,",
+          "start": 63.34,
+          "end": 64.44
+        },
+        {
+          "word": "Jesús",
+          "start": 64.54,
+          "end": 65.3
+        },
+        {
+          "word": "conmigo",
+          "start": 65.3,
+          "end": 66.6
+        },
+        {
+          "word": "está.",
+          "start": 66.6,
+          "end": 68.44
+        }
+      ],
+      "start": 62.22,
+      "end": 68.44,
+      "confidence": 1.0,
+      "time": 62.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Solo no estoy, incluso en la tormenta,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Solo",
+          "start": 69.34,
+          "end": 70.32
+        },
+        {
+          "word": "no",
+          "start": 70.32,
+          "end": 71.02
+        },
+        {
+          "word": "estoy",
+          "start": 71.02,
+          "end": 72.18
+        },
+        {
+          "word": "incluso",
+          "start": 72.18,
+          "end": 73.12
+        },
+        {
+          "word": "en",
+          "start": 73.12,
+          "end": 73.62
+        },
+        {
+          "word": "la",
+          "start": 73.62,
+          "end": 73.96
+        },
+        {
+          "word": "tormenta,",
+          "start": 73.96,
+          "end": 76.28
+        }
+      ],
+      "start": 69.34,
+      "end": 76.5,
+      "confidence": 1.0,
+      "time": 69.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "cuando me acosan vientos de aflicción.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 76.5,
+          "end": 77.06
+        },
+        {
+          "word": "me",
+          "start": 77.06,
+          "end": 77.64
+        },
+        {
+          "word": "acozan",
+          "start": 77.64,
+          "end": 79.3
+        },
+        {
+          "word": "vientos",
+          "start": 79.3,
+          "end": 80.14
+        },
+        {
+          "word": "de",
+          "start": 80.14,
+          "end": 80.58
+        },
+        {
+          "word": "aflicción.",
+          "start": 80.58,
+          "end": 82.9
+        }
+      ],
+      "start": 76.5,
+      "end": 82.9,
+      "confidence": 0.983,
+      "time": 76.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Seguro estoy pues sé que va conmigo",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Seguro",
+          "start": 82.9,
+          "end": 84.6
+        },
+        {
+          "word": "estoy,",
+          "start": 84.6,
+          "end": 85.78
+        },
+        {
+          "word": "pues",
+          "start": 85.82,
+          "end": 86.3
+        },
+        {
+          "word": "se",
+          "start": 86.3,
+          "end": 86.82
+        },
+        {
+          "word": "quema",
+          "start": 86.82,
+          "end": 87.5
+        },
+        {
+          "word": "conmigo,",
+          "start": 87.5,
+          "end": 89.8
+        }
+      ],
+      "start": 82.9,
+      "end": 90.46,
+      "confidence": 0.849,
+      "time": 82.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y en sus brazos él me llevará.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 90.46,
+          "end": 90.86
+        },
+        {
+          "word": "en",
+          "start": 90.86,
+          "end": 91.26
+        },
+        {
+          "word": "sus",
+          "start": 91.26,
+          "end": 91.64
+        },
+        {
+          "word": "brazos",
+          "start": 91.64,
+          "end": 93.2
+        },
+        {
+          "word": "él",
+          "start": 93.2,
+          "end": 93.72
+        },
+        {
+          "word": "me",
+          "start": 93.72,
+          "end": 93.98
+        },
+        {
+          "word": "elevará.",
+          "start": 93.98,
+          "end": 96.42
+        }
+      ],
+      "start": 90.46,
+      "end": 96.42,
+      "confidence": 0.988,
+      "time": 90.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Solo no estoy, Jesús está a mi lado;",
+      "words": [
+        {
+          "word": "Solo",
+          "start": 97.06,
+          "end": 97.76
+        },
+        {
+          "word": "no",
+          "start": 97.76,
+          "end": 98.4
+        },
+        {
+          "word": "estoy,",
+          "start": 98.4,
+          "end": 99.44
+        },
+        {
+          "word": "Jesús",
+          "start": 99.76,
+          "end": 100.32
+        },
+        {
+          "word": "está",
+          "start": 100.32,
+          "end": 101.16
+        },
+        {
+          "word": "a",
+          "start": 101.16,
+          "end": 101.78
+        },
+        {
+          "word": "mi",
+          "start": 101.78,
+          "end": 101.78
+        },
+        {
+          "word": "lado,",
+          "start": 101.78,
+          "end": 103.38
+        }
+      ],
+      "start": 97.06,
+      "end": 104.22,
+      "confidence": 1.0,
+      "time": 97.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en él hallé amigo sin igual.",
+      "words": [
+        {
+          "word": "en",
+          "start": 104.22,
+          "end": 104.54
+        },
+        {
+          "word": "el",
+          "start": 104.54,
+          "end": 105.02
+        },
+        {
+          "word": "ale,",
+          "start": 105.02,
+          "end": 105.76
+        },
+        {
+          "word": "amigos,",
+          "start": 106.78,
+          "end": 107.58
+        },
+        {
+          "word": "sin",
+          "start": 107.78,
+          "end": 108.36
+        },
+        {
+          "word": "igual.",
+          "start": 108.36,
+          "end": 110.26
+        }
+      ],
+      "start": 104.22,
+      "end": 110.26,
+      "confidence": 0.965,
+      "time": 104.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "De tal amigo apoyo y guía tengo;",
+      "words": [
+        {
+          "word": "De",
+          "start": 110.26,
+          "end": 111.36
+        },
+        {
+          "word": "tal",
+          "start": 111.36,
+          "end": 111.76
+        },
+        {
+          "word": "amigo",
+          "start": 111.76,
+          "end": 113.44
+        },
+        {
+          "word": "apoyo",
+          "start": 113.44,
+          "end": 114.24
+        },
+        {
+          "word": "y",
+          "start": 114.24,
+          "end": 114.86
+        },
+        {
+          "word": "guía",
+          "start": 114.86,
+          "end": 115.44
+        },
+        {
+          "word": "tengo,",
+          "start": 115.44,
+          "end": 117.06
+        }
+      ],
+      "start": 110.26,
+      "end": 117.86,
+      "confidence": 1.0,
+      "time": 110.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "solo no estoy, Jesús conmigo está.",
+      "words": [
+        {
+          "word": "solo",
+          "start": 117.86,
+          "end": 118.36
+        },
+        {
+          "word": "no",
+          "start": 118.36,
+          "end": 119.04
+        },
+        {
+          "word": "está,",
+          "start": 119.04,
+          "end": 119.96
+        },
+        {
+          "word": "Jesús",
+          "start": 120.46,
+          "end": 121.16
+        },
+        {
+          "word": "conmigo",
+          "start": 121.16,
+          "end": 122.86
+        },
+        {
+          "word": "está.",
+          "start": 122.86,
+          "end": 124.5
+        }
+      ],
+      "start": 117.86,
+      "end": 124.5,
+      "confidence": 0.967,
+      "time": 117.86
+    }
+  ]
+}

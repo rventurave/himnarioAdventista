@@ -1,0 +1,1325 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.988,
+  "language": "es",
+  "model": "medium",
+  "hymn": 408,
+  "source": "408 - Cristo me ayuda por el a vivir.mp3",
+  "duration": 271.41,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo me ayuda por él a vivir,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 20.6,
+          "end": 22.0
+        },
+        {
+          "word": "me",
+          "start": 22.0,
+          "end": 22.6
+        },
+        {
+          "word": "ayuda",
+          "start": 22.6,
+          "end": 24.04
+        },
+        {
+          "word": "por",
+          "start": 24.04,
+          "end": 25.18
+        },
+        {
+          "word": "él",
+          "start": 25.18,
+          "end": 25.88
+        },
+        {
+          "word": "a",
+          "start": 25.88,
+          "end": 26.3
+        },
+        {
+          "word": "vivir",
+          "start": 26.3,
+          "end": 28.1
+        }
+      ],
+      "start": 20.6,
+      "end": 28.1,
+      "confidence": 1.0,
+      "time": 20.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo me ayuda por él a morir.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 28.1,
+          "end": 29.6
+        },
+        {
+          "word": "me",
+          "start": 29.6,
+          "end": 30.46
+        },
+        {
+          "word": "ayuda",
+          "start": 30.46,
+          "end": 31.56
+        },
+        {
+          "word": "por",
+          "start": 31.56,
+          "end": 32.66
+        },
+        {
+          "word": "él",
+          "start": 32.66,
+          "end": 33.7
+        },
+        {
+          "word": "a",
+          "start": 33.7,
+          "end": 34.26
+        },
+        {
+          "word": "morir",
+          "start": 34.26,
+          "end": 36.22
+        }
+      ],
+      "start": 28.1,
+      "end": 36.22,
+      "confidence": 1.0,
+      "time": 28.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hasta que llegue su gloria a ver,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hasta",
+          "start": 36.22,
+          "end": 37.26
+        },
+        {
+          "word": "que",
+          "start": 37.26,
+          "end": 38.12
+        },
+        {
+          "word": "llegue",
+          "start": 38.12,
+          "end": 39.32
+        },
+        {
+          "word": "su",
+          "start": 39.32,
+          "end": 40.0
+        },
+        {
+          "word": "gloria",
+          "start": 40.0,
+          "end": 41.34
+        },
+        {
+          "word": "a",
+          "start": 41.34,
+          "end": 42.34
+        },
+        {
+          "word": "ver",
+          "start": 42.34,
+          "end": 43.56
+        }
+      ],
+      "start": 36.22,
+      "end": 43.56,
+      "confidence": 1.0,
+      "time": 36.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cada momento le entrego mi ser.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cada",
+          "start": 43.56,
+          "end": 45.08
+        },
+        {
+          "word": "momento",
+          "start": 45.08,
+          "end": 46.8
+        },
+        {
+          "word": "le",
+          "start": 46.8,
+          "end": 47.66
+        },
+        {
+          "word": "entrego",
+          "start": 47.66,
+          "end": 49.2
+        },
+        {
+          "word": "mi",
+          "start": 49.2,
+          "end": 49.76
+        },
+        {
+          "word": "ser",
+          "start": 49.76,
+          "end": 51.02
+        }
+      ],
+      "start": 43.56,
+      "end": 51.02,
+      "confidence": 1.0,
+      "time": 43.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cada momento la vida me da;",
+      "words": [
+        {
+          "word": "Cada",
+          "start": 51.02,
+          "end": 52.62
+        },
+        {
+          "word": "momento",
+          "start": 52.62,
+          "end": 54.2
+        },
+        {
+          "word": "la",
+          "start": 54.2,
+          "end": 55.18
+        },
+        {
+          "word": "vida",
+          "start": 55.18,
+          "end": 56.28
+        },
+        {
+          "word": "me",
+          "start": 56.28,
+          "end": 57.14
+        },
+        {
+          "word": "da,",
+          "start": 57.14,
+          "end": 58.58
+        }
+      ],
+      "start": 51.02,
+      "end": 59.62,
+      "confidence": 1.0,
+      "time": 51.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "cada momento conmigo él está.",
+      "words": [
+        {
+          "word": "cada",
+          "start": 59.62,
+          "end": 60.24
+        },
+        {
+          "word": "momento",
+          "start": 60.24,
+          "end": 61.98
+        },
+        {
+          "word": "conmigo",
+          "start": 61.98,
+          "end": 63.86
+        },
+        {
+          "word": "él",
+          "start": 63.86,
+          "end": 64.76
+        },
+        {
+          "word": "está",
+          "start": 64.76,
+          "end": 66.08
+        }
+      ],
+      "start": 59.62,
+      "end": 66.08,
+      "confidence": 1.0,
+      "time": 59.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Hasta que llegue su gloria a ver,",
+      "words": [
+        {
+          "word": "hasta",
+          "start": 66.08,
+          "end": 67.5
+        },
+        {
+          "word": "que",
+          "start": 67.5,
+          "end": 68.44
+        },
+        {
+          "word": "llegue",
+          "start": 68.44,
+          "end": 69.62
+        },
+        {
+          "word": "su",
+          "start": 69.62,
+          "end": 70.32
+        },
+        {
+          "word": "gloria",
+          "start": 70.32,
+          "end": 71.96
+        },
+        {
+          "word": "a",
+          "start": 71.96,
+          "end": 72.62
+        },
+        {
+          "word": "ver.",
+          "start": 72.62,
+          "end": 73.88
+        }
+      ],
+      "start": 66.08,
+      "end": 73.88,
+      "confidence": 1.0,
+      "time": 66.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "cada momento le entrego mi ser.",
+      "words": [
+        {
+          "word": "Cada",
+          "start": 73.88,
+          "end": 75.3
+        },
+        {
+          "word": "momento",
+          "start": 75.3,
+          "end": 77.4
+        },
+        {
+          "word": "entregó",
+          "start": 77.4,
+          "end": 79.58
+        },
+        {
+          "word": "mi",
+          "start": 79.58,
+          "end": 80.12
+        },
+        {
+          "word": "ser.",
+          "start": 80.12,
+          "end": 81.96
+        }
+      ],
+      "start": 73.88,
+      "end": 81.96,
+      "confidence": 0.833,
+      "time": 73.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Siento pesares? Muy cerca él está.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Siento",
+          "start": 82.24,
+          "end": 83.18
+        },
+        {
+          "word": "pesar,",
+          "start": 83.18,
+          "end": 84.6
+        },
+        {
+          "word": "muy",
+          "start": 85.22,
+          "end": 85.84
+        },
+        {
+          "word": "cerca",
+          "start": 85.84,
+          "end": 86.62
+        },
+        {
+          "word": "Él",
+          "start": 86.62,
+          "end": 87.42
+        },
+        {
+          "word": "está.",
+          "start": 87.42,
+          "end": 88.98
+        }
+      ],
+      "start": 82.24,
+      "end": 88.98,
+      "confidence": 0.99,
+      "time": 82.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Siento dolores? Alivio me da.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Siento",
+          "start": 89.64,
+          "end": 90.86
+        },
+        {
+          "word": "dolores,",
+          "start": 90.86,
+          "end": 92.82
+        },
+        {
+          "word": "alivio",
+          "start": 93.32,
+          "end": 95.0
+        },
+        {
+          "word": "me",
+          "start": 95.0,
+          "end": 95.52
+        },
+        {
+          "word": "da.",
+          "start": 95.52,
+          "end": 96.7
+        }
+      ],
+      "start": 89.64,
+      "end": 96.7,
+      "confidence": 1.0,
+      "time": 89.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Tenso aflicciones? Me muestra su amor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tengo",
+          "start": 96.7,
+          "end": 98.04
+        },
+        {
+          "word": "aflicciones,",
+          "start": 98.04,
+          "end": 100.08
+        },
+        {
+          "word": "me",
+          "start": 100.42,
+          "end": 101.04
+        },
+        {
+          "word": "muestra",
+          "start": 101.04,
+          "end": 102.12
+        },
+        {
+          "word": "su",
+          "start": 102.12,
+          "end": 102.6
+        },
+        {
+          "word": "amor,",
+          "start": 102.6,
+          "end": 104.44
+        }
+      ],
+      "start": 96.7,
+      "end": 104.44,
+      "confidence": 0.98,
+      "time": 96.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "cada momento me guarda el Señor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cada",
+          "start": 105.1,
+          "end": 106.02
+        },
+        {
+          "word": "momento",
+          "start": 106.02,
+          "end": 107.74
+        },
+        {
+          "word": "me",
+          "start": 107.74,
+          "end": 108.66
+        },
+        {
+          "word": "guarda",
+          "start": 108.66,
+          "end": 109.88
+        },
+        {
+          "word": "el",
+          "start": 109.88,
+          "end": 110.18
+        },
+        {
+          "word": "Señor,",
+          "start": 110.18,
+          "end": 111.96
+        }
+      ],
+      "start": 105.1,
+      "end": 111.96,
+      "confidence": 1.0,
+      "time": 105.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cada momento la vida me da;",
+      "words": [
+        {
+          "word": "cada",
+          "start": 112.72,
+          "end": 113.58
+        },
+        {
+          "word": "momento",
+          "start": 113.58,
+          "end": 115.22
+        },
+        {
+          "word": "la",
+          "start": 115.22,
+          "end": 116.16
+        },
+        {
+          "word": "vida",
+          "start": 116.16,
+          "end": 117.22
+        },
+        {
+          "word": "me",
+          "start": 117.22,
+          "end": 118.12
+        },
+        {
+          "word": "da,",
+          "start": 118.12,
+          "end": 119.34
+        }
+      ],
+      "start": 112.72,
+      "end": 119.34,
+      "confidence": 1.0,
+      "time": 112.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "cada momento conmigo él está.",
+      "words": [
+        {
+          "word": "Cada",
+          "start": 119.34,
+          "end": 121.16
+        },
+        {
+          "word": "momento",
+          "start": 121.16,
+          "end": 122.9
+        },
+        {
+          "word": "conmigo",
+          "start": 122.9,
+          "end": 124.78
+        },
+        {
+          "word": "Él",
+          "start": 124.78,
+          "end": 125.58
+        },
+        {
+          "word": "está,",
+          "start": 125.58,
+          "end": 126.86
+        }
+      ],
+      "start": 119.34,
+      "end": 128.18,
+      "confidence": 1.0,
+      "time": 119.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Hasta que llegue su gloria a ver,",
+      "words": [
+        {
+          "word": "hasta",
+          "start": 128.18,
+          "end": 128.5
+        },
+        {
+          "word": "que",
+          "start": 128.5,
+          "end": 129.42
+        },
+        {
+          "word": "llegue",
+          "start": 129.42,
+          "end": 130.58
+        },
+        {
+          "word": "su",
+          "start": 130.58,
+          "end": 131.26
+        },
+        {
+          "word": "gloria",
+          "start": 131.26,
+          "end": 132.68
+        },
+        {
+          "word": "a",
+          "start": 132.68,
+          "end": 133.58
+        },
+        {
+          "word": "ver,",
+          "start": 133.58,
+          "end": 134.74
+        }
+      ],
+      "start": 128.18,
+      "end": 134.74,
+      "confidence": 1.0,
+      "time": 128.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "cada momento le entrego mi ser.",
+      "words": [
+        {
+          "word": "Cada",
+          "start": 134.74,
+          "end": 136.22
+        },
+        {
+          "word": "momento",
+          "start": 136.22,
+          "end": 138.12
+        },
+        {
+          "word": "le",
+          "start": 138.12,
+          "end": 139.04
+        },
+        {
+          "word": "entrego",
+          "start": 139.04,
+          "end": 140.5
+        },
+        {
+          "word": "mi",
+          "start": 140.5,
+          "end": 141.02
+        },
+        {
+          "word": "ser.",
+          "start": 141.02,
+          "end": 142.58
+        }
+      ],
+      "start": 134.74,
+      "end": 142.58,
+      "confidence": 1.0,
+      "time": 134.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¿Tengo amarguras? o ¿tengo temor?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tengo",
+          "start": 143.08,
+          "end": 144.06
+        },
+        {
+          "word": "amarguras",
+          "start": 144.06,
+          "end": 146.08
+        },
+        {
+          "word": "o",
+          "start": 146.08,
+          "end": 146.78
+        },
+        {
+          "word": "tengo",
+          "start": 146.78,
+          "end": 147.86
+        },
+        {
+          "word": "temor.",
+          "start": 147.86,
+          "end": 150.38
+        }
+      ],
+      "start": 143.08,
+      "end": 150.38,
+      "confidence": 1.0,
+      "time": 143.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¿Tengo tristezas? Me inspira valor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tengo",
+          "start": 150.64,
+          "end": 151.8
+        },
+        {
+          "word": "tristezas,",
+          "start": 151.8,
+          "end": 153.6
+        },
+        {
+          "word": "me",
+          "start": 153.6,
+          "end": 154.14
+        },
+        {
+          "word": "inspira",
+          "start": 154.14,
+          "end": 155.8
+        },
+        {
+          "word": "valor.",
+          "start": 155.8,
+          "end": 157.7
+        }
+      ],
+      "start": 150.64,
+      "end": 157.7,
+      "confidence": 1.0,
+      "time": 150.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¿Tengo conflictos o penas aquí?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tengo",
+          "start": 157.7,
+          "end": 159.34
+        },
+        {
+          "word": "conflictos",
+          "start": 159.34,
+          "end": 161.5
+        },
+        {
+          "word": "o",
+          "start": 161.5,
+          "end": 162.14
+        },
+        {
+          "word": "penas",
+          "start": 162.14,
+          "end": 163.48
+        },
+        {
+          "word": "aquí",
+          "start": 163.48,
+          "end": 165.38
+        }
+      ],
+      "start": 157.7,
+      "end": 165.38,
+      "confidence": 1.0,
+      "time": 157.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cada momento se acuerda de mí.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cada",
+          "start": 165.38,
+          "end": 166.96
+        },
+        {
+          "word": "momento",
+          "start": 166.96,
+          "end": 168.74
+        },
+        {
+          "word": "se",
+          "start": 168.74,
+          "end": 169.56
+        },
+        {
+          "word": "acuerda",
+          "start": 169.56,
+          "end": 171.06
+        },
+        {
+          "word": "de",
+          "start": 171.06,
+          "end": 171.64
+        },
+        {
+          "word": "mí",
+          "start": 171.64,
+          "end": 172.7
+        }
+      ],
+      "start": 165.38,
+      "end": 172.7,
+      "confidence": 1.0,
+      "time": 165.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cada momento la vida me da;",
+      "words": [
+        {
+          "word": "Cada",
+          "start": 172.7,
+          "end": 174.42
+        },
+        {
+          "word": "momento",
+          "start": 174.42,
+          "end": 176.06
+        },
+        {
+          "word": "la",
+          "start": 176.06,
+          "end": 177.08
+        },
+        {
+          "word": "vida",
+          "start": 177.08,
+          "end": 178.18
+        },
+        {
+          "word": "me",
+          "start": 178.18,
+          "end": 179.04
+        },
+        {
+          "word": "da,",
+          "start": 179.04,
+          "end": 180.32
+        }
+      ],
+      "start": 172.7,
+      "end": 181.44,
+      "confidence": 1.0,
+      "time": 172.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "cada momento conmigo él está.",
+      "words": [
+        {
+          "word": "cada",
+          "start": 181.44,
+          "end": 182.0
+        },
+        {
+          "word": "momento",
+          "start": 182.0,
+          "end": 183.94
+        },
+        {
+          "word": "conmigo",
+          "start": 183.94,
+          "end": 185.8
+        },
+        {
+          "word": "Él",
+          "start": 185.8,
+          "end": 186.66
+        },
+        {
+          "word": "está",
+          "start": 186.66,
+          "end": 187.8
+        }
+      ],
+      "start": 181.44,
+      "end": 187.8,
+      "confidence": 1.0,
+      "time": 181.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Hasta que llegue su gloria a ver,",
+      "words": [
+        {
+          "word": "hasta",
+          "start": 187.8,
+          "end": 189.38
+        },
+        {
+          "word": "que",
+          "start": 189.38,
+          "end": 190.34
+        },
+        {
+          "word": "llegue",
+          "start": 190.34,
+          "end": 191.5
+        },
+        {
+          "word": "su",
+          "start": 191.5,
+          "end": 192.22
+        },
+        {
+          "word": "gloria",
+          "start": 192.22,
+          "end": 193.86
+        },
+        {
+          "word": "a",
+          "start": 193.86,
+          "end": 194.52
+        },
+        {
+          "word": "ver.",
+          "start": 194.52,
+          "end": 195.58
+        }
+      ],
+      "start": 187.8,
+      "end": 195.58,
+      "confidence": 1.0,
+      "time": 187.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "cada momento le entrego mi ser.",
+      "words": [
+        {
+          "word": "Cada",
+          "start": 195.58,
+          "end": 197.14
+        },
+        {
+          "word": "momento",
+          "start": 197.14,
+          "end": 199.0
+        },
+        {
+          "word": "le",
+          "start": 199.0,
+          "end": 199.96
+        },
+        {
+          "word": "entrego",
+          "start": 199.96,
+          "end": 201.48
+        },
+        {
+          "word": "mi",
+          "start": 201.48,
+          "end": 202.14
+        },
+        {
+          "word": "ser.",
+          "start": 202.14,
+          "end": 203.5
+        }
+      ],
+      "start": 195.58,
+      "end": 203.5,
+      "confidence": 1.0,
+      "time": 195.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "¿Tengo flaquezas? o ¿débil estoy?",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Tengo",
+          "start": 203.96,
+          "end": 205.14
+        },
+        {
+          "word": "claquesas,",
+          "start": 205.14,
+          "end": 207.12
+        },
+        {
+          "word": "débil",
+          "start": 207.82,
+          "end": 209.44
+        },
+        {
+          "word": "estoy,",
+          "start": 209.44,
+          "end": 210.94
+        }
+      ],
+      "start": 203.96,
+      "end": 210.94,
+      "confidence": 0.773,
+      "time": 203.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Cristo me dice: \"Tu amparo yo soy\".",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 211.6,
+          "end": 212.52
+        },
+        {
+          "word": "me",
+          "start": 212.52,
+          "end": 213.44
+        },
+        {
+          "word": "dice",
+          "start": 213.44,
+          "end": 214.58
+        },
+        {
+          "word": "tu",
+          "start": 214.58,
+          "end": 215.04
+        },
+        {
+          "word": "amparo",
+          "start": 215.04,
+          "end": 216.9
+        },
+        {
+          "word": "yo",
+          "start": 216.9,
+          "end": 217.4
+        },
+        {
+          "word": "soy.",
+          "start": 217.4,
+          "end": 218.66
+        }
+      ],
+      "start": 211.6,
+      "end": 218.66,
+      "confidence": 1.0,
+      "time": 211.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Cada momento, en sombra o en luz,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Cada",
+          "start": 218.66,
+          "end": 220.28
+        },
+        {
+          "word": "momento",
+          "start": 220.28,
+          "end": 222.12
+        },
+        {
+          "word": "en",
+          "start": 222.12,
+          "end": 222.92
+        },
+        {
+          "word": "sombra",
+          "start": 222.92,
+          "end": 224.06
+        },
+        {
+          "word": "o",
+          "start": 224.06,
+          "end": 224.54
+        },
+        {
+          "word": "en",
+          "start": 224.54,
+          "end": 225.0
+        },
+        {
+          "word": "luz,",
+          "start": 225.0,
+          "end": 226.36
+        }
+      ],
+      "start": 218.66,
+      "end": 227.0,
+      "confidence": 1.0,
+      "time": 218.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "siempre anda junto conmigo Jesús.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "siempre",
+          "start": 227.0,
+          "end": 227.56
+        },
+        {
+          "word": "anda",
+          "start": 227.56,
+          "end": 228.42
+        },
+        {
+          "word": "junto",
+          "start": 228.42,
+          "end": 229.96
+        },
+        {
+          "word": "conmigo,",
+          "start": 229.96,
+          "end": 231.68
+        },
+        {
+          "word": "Jesús.",
+          "start": 231.88,
+          "end": 233.74
+        }
+      ],
+      "start": 227.0,
+      "end": 233.74,
+      "confidence": 1.0,
+      "time": 227.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Cada momento la vida me da;",
+      "words": [
+        {
+          "word": "Cada",
+          "start": 233.74,
+          "end": 235.44
+        },
+        {
+          "word": "momento",
+          "start": 235.44,
+          "end": 237.06
+        },
+        {
+          "word": "la",
+          "start": 237.06,
+          "end": 238.1
+        },
+        {
+          "word": "vida",
+          "start": 238.1,
+          "end": 239.2
+        },
+        {
+          "word": "me",
+          "start": 239.2,
+          "end": 240.04
+        },
+        {
+          "word": "da,",
+          "start": 240.04,
+          "end": 241.16
+        }
+      ],
+      "start": 233.74,
+      "end": 242.42,
+      "confidence": 1.0,
+      "time": 233.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "cada momento conmigo él está.",
+      "words": [
+        {
+          "word": "cada",
+          "start": 242.42,
+          "end": 243.02
+        },
+        {
+          "word": "momento",
+          "start": 243.02,
+          "end": 244.98
+        },
+        {
+          "word": "conmigo",
+          "start": 244.98,
+          "end": 246.7
+        },
+        {
+          "word": "Él",
+          "start": 246.7,
+          "end": 247.64
+        },
+        {
+          "word": "está",
+          "start": 247.64,
+          "end": 248.84
+        }
+      ],
+      "start": 242.42,
+      "end": 248.84,
+      "confidence": 1.0,
+      "time": 242.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Hasta que llegue su gloria a ver,",
+      "words": [
+        {
+          "word": "hasta",
+          "start": 248.84,
+          "end": 250.38
+        },
+        {
+          "word": "que",
+          "start": 250.38,
+          "end": 251.3
+        },
+        {
+          "word": "llegue",
+          "start": 251.3,
+          "end": 252.5
+        },
+        {
+          "word": "Su",
+          "start": 252.5,
+          "end": 253.16
+        },
+        {
+          "word": "gloria",
+          "start": 253.16,
+          "end": 254.76
+        },
+        {
+          "word": "a",
+          "start": 254.76,
+          "end": 255.44
+        },
+        {
+          "word": "ver.",
+          "start": 255.44,
+          "end": 256.64
+        }
+      ],
+      "start": 248.84,
+      "end": 256.64,
+      "confidence": 1.0,
+      "time": 248.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "cada momento le entrego mi ser.",
+      "words": [
+        {
+          "word": "Cada",
+          "start": 256.64,
+          "end": 258.24
+        },
+        {
+          "word": "momento",
+          "start": 258.24,
+          "end": 260.24
+        },
+        {
+          "word": "le",
+          "start": 260.24,
+          "end": 261.08
+        },
+        {
+          "word": "entrego",
+          "start": 261.08,
+          "end": 263.14
+        },
+        {
+          "word": "mi",
+          "start": 263.14,
+          "end": 263.78
+        },
+        {
+          "word": "ser.",
+          "start": 263.78,
+          "end": 265.5
+        }
+      ],
+      "start": 256.64,
+      "end": 265.5,
+      "confidence": 1.0,
+      "time": 256.64
+    }
+  ]
+}

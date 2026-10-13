@@ -1,0 +1,633 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.851,
+  "language": "es",
+  "model": "medium",
+  "hymn": 365,
+  "source": "365 - Elevemos al Senor.mp3",
+  "duration": 151.43,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Elevemos al Señor nuestros himnos de loor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 1.98,
+          "end": 2.06
+        },
+        {
+          "word": "de",
+          "start": 2.14,
+          "end": 2.14
+        }
+      ],
+      "start": 1.98,
+      "end": 2.18,
+      "confidence": 0.277,
+      "time": 1.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues los campos visitó con su rica bendición.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "los",
+          "start": 2.14,
+          "end": 2.2
+        },
+        {
+          "word": "Con",
+          "start": 30.0,
+          "end": 31.3
+        },
+        {
+          "word": "su",
+          "start": 31.3,
+          "end": 32.0
+        },
+        {
+          "word": "rica",
+          "start": 32.0,
+          "end": 33.3
+        },
+        {
+          "word": "bendición",
+          "start": 33.3,
+          "end": 35.0
+        }
+      ],
+      "start": 2.18,
+      "end": 35.0,
+      "confidence": 0.625,
+      "time": 2.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ya la siega terminó, la cosecha se guardó;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ya",
+          "start": 35.88,
+          "end": 37.04
+        },
+        {
+          "word": "la",
+          "start": 37.04,
+          "end": 37.68
+        },
+        {
+          "word": "ciega",
+          "start": 37.68,
+          "end": 38.68
+        },
+        {
+          "word": "terminó",
+          "start": 38.68,
+          "end": 40.0
+        },
+        {
+          "word": "La",
+          "start": 41.12,
+          "end": 42.28
+        },
+        {
+          "word": "cosecha",
+          "start": 42.28,
+          "end": 43.8
+        },
+        {
+          "word": "se",
+          "start": 43.8,
+          "end": 44.66
+        },
+        {
+          "word": "guardó",
+          "start": 44.66,
+          "end": 46.26
+        }
+      ],
+      "start": 35.88,
+      "end": 46.26,
+      "confidence": 0.985,
+      "time": 35.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "el invierno llegará, pero nada faltará.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "El",
+          "start": 46.26,
+          "end": 47.64
+        },
+        {
+          "word": "infierno",
+          "start": 47.64,
+          "end": 48.82
+        },
+        {
+          "word": "llegará",
+          "start": 48.82,
+          "end": 51.36
+        },
+        {
+          "word": "Pero",
+          "start": 51.36,
+          "end": 52.82
+        },
+        {
+          "word": "nada",
+          "start": 52.82,
+          "end": 54.3
+        },
+        {
+          "word": "faltará",
+          "start": 54.3,
+          "end": 57.92
+        }
+      ],
+      "start": 46.26,
+      "end": 57.92,
+      "confidence": 0.987,
+      "time": 46.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Este mundo es de Dios, el eterno Sembrador;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Este",
+          "start": 57.92,
+          "end": 60.28
+        },
+        {
+          "word": "mundo",
+          "start": 60.28,
+          "end": 61.74
+        },
+        {
+          "word": "es",
+          "start": 61.74,
+          "end": 62.74
+        },
+        {
+          "word": "de",
+          "start": 62.74,
+          "end": 63.32
+        },
+        {
+          "word": "Dios,",
+          "start": 63.32,
+          "end": 64.34
+        },
+        {
+          "word": "el",
+          "start": 65.5,
+          "end": 65.74
+        },
+        {
+          "word": "eterno",
+          "start": 65.74,
+          "end": 67.32
+        },
+        {
+          "word": "sembrador,",
+          "start": 67.32,
+          "end": 69.76
+        }
+      ],
+      "start": 57.92,
+      "end": 70.54,
+      "confidence": 1.0,
+      "time": 57.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y en su mies han de crecer hasta el fin el mal y el bien.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 70.54,
+          "end": 71.02
+        },
+        {
+          "word": "en",
+          "start": 71.02,
+          "end": 71.26
+        },
+        {
+          "word": "su",
+          "start": 71.26,
+          "end": 71.62
+        },
+        {
+          "word": "mesa",
+          "start": 71.62,
+          "end": 72.44
+        },
+        {
+          "word": "crecer,",
+          "start": 73.76,
+          "end": 75.4
+        },
+        {
+          "word": "hasta",
+          "start": 76.0,
+          "end": 76.54
+        },
+        {
+          "word": "el",
+          "start": 76.54,
+          "end": 76.98
+        },
+        {
+          "word": "fin",
+          "start": 76.98,
+          "end": 77.48
+        },
+        {
+          "word": "el",
+          "start": 77.48,
+          "end": 78.18
+        },
+        {
+          "word": "mal",
+          "start": 78.18,
+          "end": 78.86
+        },
+        {
+          "word": "y",
+          "start": 78.86,
+          "end": 79.32
+        },
+        {
+          "word": "el",
+          "start": 79.32,
+          "end": 79.66
+        },
+        {
+          "word": "bien.",
+          "start": 79.66,
+          "end": 80.48
+        }
+      ],
+      "start": 70.54,
+      "end": 80.48,
+      "confidence": 0.857,
+      "time": 70.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Todo grano brotará, flor y espiga crecerá;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Todo",
+          "start": 80.48,
+          "end": 82.1
+        },
+        {
+          "word": "grano",
+          "start": 82.1,
+          "end": 83.5
+        },
+        {
+          "word": "brotará,",
+          "start": 83.5,
+          "end": 86.0
+        },
+        {
+          "word": "Flores",
+          "start": 87.26,
+          "end": 87.7
+        },
+        {
+          "word": "crecerán,",
+          "start": 88.96,
+          "end": 91.56
+        }
+      ],
+      "start": 80.48,
+      "end": 91.56,
+      "confidence": 0.697,
+      "time": 80.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Oh, Señor, queremos ser, el buen trigo en tu mies.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Oh",
+          "start": 92.48,
+          "end": 92.84
+        },
+        {
+          "word": "Señor",
+          "start": 92.84,
+          "end": 93.78
+        },
+        {
+          "word": "queremos",
+          "start": 93.78,
+          "end": 95.6
+        },
+        {
+          "word": "ser",
+          "start": 95.6,
+          "end": 96.98
+        },
+        {
+          "word": "El",
+          "start": 96.98,
+          "end": 97.96
+        },
+        {
+          "word": "buen",
+          "start": 97.96,
+          "end": 98.56
+        },
+        {
+          "word": "tringo",
+          "start": 98.56,
+          "end": 99.92
+        },
+        {
+          "word": "en",
+          "start": 99.92,
+          "end": 100.9
+        },
+        {
+          "word": "tu",
+          "start": 100.9,
+          "end": 101.74
+        },
+        {
+          "word": "mes.",
+          "start": 101.74,
+          "end": 103.68
+        }
+      ],
+      "start": 92.48,
+      "end": 103.68,
+      "confidence": 0.986,
+      "time": 92.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Ven, Señor, a recoger la cosecha de tu haber;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Ven,",
+          "start": 104.92,
+          "end": 105.4
+        },
+        {
+          "word": "Señora,",
+          "start": 106.0,
+          "end": 106.98
+        },
+        {
+          "word": "recoge",
+          "start": 107.94,
+          "end": 109.2
+        },
+        {
+          "word": "La",
+          "start": 109.2,
+          "end": 110.56
+        },
+        {
+          "word": "cosecha",
+          "start": 110.56,
+          "end": 112.18
+        },
+        {
+          "word": "de",
+          "start": 112.18,
+          "end": 112.84
+        },
+        {
+          "word": "tu",
+          "start": 112.84,
+          "end": 113.56
+        },
+        {
+          "word": "haber",
+          "start": 113.56,
+          "end": 114.66
+        }
+      ],
+      "start": 104.92,
+      "end": 114.66,
+      "confidence": 0.876,
+      "time": 104.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "junta al pueblo en tu alfolí,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Junta",
+          "start": 114.66,
+          "end": 116.24
+        },
+        {
+          "word": "al",
+          "start": 116.24,
+          "end": 116.52
+        },
+        {
+          "word": "pueblo",
+          "start": 116.52,
+          "end": 117.24
+        },
+        {
+          "word": "en",
+          "start": 117.24,
+          "end": 117.9
+        },
+        {
+          "word": "tu",
+          "start": 117.9,
+          "end": 118.54
+        },
+        {
+          "word": "alfolí",
+          "start": 118.54,
+          "end": 120.28
+        }
+      ],
+      "start": 114.66,
+      "end": 120.28,
+      "confidence": 1.0,
+      "time": 114.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tenlo siempre unido a ti.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tenlo",
+          "start": 120.28,
+          "end": 121.54
+        },
+        {
+          "word": "siempre",
+          "start": 121.54,
+          "end": 122.42
+        },
+        {
+          "word": "unido",
+          "start": 122.42,
+          "end": 123.84
+        },
+        {
+          "word": "a",
+          "start": 123.84,
+          "end": 124.4
+        },
+        {
+          "word": "ti",
+          "start": 124.4,
+          "end": 125.38
+        }
+      ],
+      "start": 120.28,
+      "end": 125.38,
+      "confidence": 1.0,
+      "time": 120.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Libre ya de su pecar y sin penas que pasar;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Libre",
+          "start": 125.38,
+          "end": 126.8
+        },
+        {
+          "word": "ya",
+          "start": 126.8,
+          "end": 127.56
+        },
+        {
+          "word": "de",
+          "start": 127.56,
+          "end": 128.2
+        },
+        {
+          "word": "su",
+          "start": 128.2,
+          "end": 128.88
+        },
+        {
+          "word": "pecar",
+          "start": 128.88,
+          "end": 130.44
+        },
+        {
+          "word": "Y",
+          "start": 130.44,
+          "end": 131.66
+        },
+        {
+          "word": "sin",
+          "start": 131.66,
+          "end": 132.0
+        },
+        {
+          "word": "penas",
+          "start": 132.0,
+          "end": 133.36
+        },
+        {
+          "word": "que",
+          "start": 133.36,
+          "end": 134.0
+        },
+        {
+          "word": "pasar",
+          "start": 134.0,
+          "end": 135.68
+        }
+      ],
+      "start": 125.38,
+      "end": 135.68,
+      "confidence": 1.0,
+      "time": 125.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ven, levanta, oh Señor, la cosecha de tu amor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "levanta,",
+          "start": 137.14,
+          "end": 139.18
+        },
+        {
+          "word": "oh",
+          "start": 139.28,
+          "end": 139.66
+        },
+        {
+          "word": "Señor,",
+          "start": 139.66,
+          "end": 140.8
+        },
+        {
+          "word": "la",
+          "start": 141.58,
+          "end": 142.12
+        },
+        {
+          "word": "consejera",
+          "start": 142.12,
+          "end": 144.5
+        },
+        {
+          "word": "del",
+          "start": 144.5,
+          "end": 145.52
+        },
+        {
+          "word": "amor.",
+          "start": 145.52,
+          "end": 146.82
+        }
+      ],
+      "start": 137.14,
+      "end": 146.82,
+      "confidence": 0.739,
+      "time": 137.14
+    }
+  ]
+}

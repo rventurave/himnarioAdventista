@@ -1,0 +1,1213 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.96,
+  "language": "es",
+  "model": "medium",
+  "hymn": 379,
+  "source": "379 - Habla, Senor, a mi alma.mp3",
+  "duration": 228.73,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Habla, Señor, a mi alma; hable tu dulce voz;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Habla,",
+          "start": 17.68,
+          "end": 19.08
+        },
+        {
+          "word": "señora",
+          "start": 19.26,
+          "end": 20.28
+        },
+        {
+          "word": "mi",
+          "start": 20.28,
+          "end": 21.02
+        },
+        {
+          "word": "alma,",
+          "start": 21.02,
+          "end": 22.32
+        },
+        {
+          "word": "hable",
+          "start": 22.94,
+          "end": 23.28
+        },
+        {
+          "word": "tu",
+          "start": 23.28,
+          "end": 23.68
+        },
+        {
+          "word": "dulce",
+          "start": 23.68,
+          "end": 24.78
+        },
+        {
+          "word": "voz,",
+          "start": 24.78,
+          "end": 26.46
+        }
+      ],
+      "start": 17.68,
+      "end": 26.46,
+      "confidence": 0.882,
+      "time": 17.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "susurre en tierna notas: \"Tú no estás solo, no\".",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Susurren",
+          "start": 26.46,
+          "end": 27.86
+        },
+        {
+          "word": "tiernas",
+          "start": 27.86,
+          "end": 29.0
+        },
+        {
+          "word": "notas",
+          "start": 29.0,
+          "end": 30.98
+        },
+        {
+          "word": "Tú",
+          "start": 30.98,
+          "end": 31.48
+        },
+        {
+          "word": "no",
+          "start": 31.48,
+          "end": 31.88
+        },
+        {
+          "word": "estás",
+          "start": 31.88,
+          "end": 32.22
+        },
+        {
+          "word": "solo,",
+          "start": 32.22,
+          "end": 33.22
+        },
+        {
+          "word": "no",
+          "start": 33.22,
+          "end": 35.14
+        }
+      ],
+      "start": 26.46,
+      "end": 35.14,
+      "confidence": 0.876,
+      "time": 26.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mi corazón prepara, presto a escuchar tu Ley;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 35.14,
+          "end": 35.8
+        },
+        {
+          "word": "corazón",
+          "start": 35.8,
+          "end": 37.16
+        },
+        {
+          "word": "prepara",
+          "start": 37.16,
+          "end": 39.54
+        },
+        {
+          "word": "Presto",
+          "start": 39.54,
+          "end": 40.36
+        },
+        {
+          "word": "a",
+          "start": 40.36,
+          "end": 40.52
+        },
+        {
+          "word": "escuchar",
+          "start": 40.52,
+          "end": 41.58
+        },
+        {
+          "word": "tu",
+          "start": 41.58,
+          "end": 41.94
+        },
+        {
+          "word": "ley",
+          "start": 41.94,
+          "end": 43.76
+        }
+      ],
+      "start": 35.14,
+      "end": 43.76,
+      "confidence": 1.0,
+      "time": 35.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "canciones mi alma llenen de gratitud y fe.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Canciones",
+          "start": 43.76,
+          "end": 44.9
+        },
+        {
+          "word": "mi",
+          "start": 44.9,
+          "end": 45.46
+        },
+        {
+          "word": "alma",
+          "start": 45.46,
+          "end": 46.1
+        },
+        {
+          "word": "llenen",
+          "start": 46.1,
+          "end": 48.04
+        },
+        {
+          "word": "De",
+          "start": 48.04,
+          "end": 48.74
+        },
+        {
+          "word": "gratitud",
+          "start": 48.74,
+          "end": 50.24
+        },
+        {
+          "word": "y",
+          "start": 50.24,
+          "end": 50.68
+        },
+        {
+          "word": "fe",
+          "start": 50.68,
+          "end": 52.2
+        }
+      ],
+      "start": 43.76,
+      "end": 52.2,
+      "confidence": 1.0,
+      "time": 43.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Háblame en dulces notas, háblame con amor:",
+      "words": [
+        {
+          "word": "Háblame",
+          "start": 52.2,
+          "end": 53.64
+        },
+        {
+          "word": "en",
+          "start": 53.64,
+          "end": 53.86
+        },
+        {
+          "word": "dulces",
+          "start": 53.86,
+          "end": 54.82
+        },
+        {
+          "word": "notas,",
+          "start": 54.82,
+          "end": 56.78
+        },
+        {
+          "word": "háblame",
+          "start": 57.38,
+          "end": 57.94
+        },
+        {
+          "word": "con",
+          "start": 57.94,
+          "end": 58.86
+        },
+        {
+          "word": "amor,",
+          "start": 58.86,
+          "end": 60.8
+        }
+      ],
+      "start": 52.2,
+      "end": 61.18,
+      "confidence": 1.0,
+      "time": 52.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "\"Ya la victoria es tuya, no tengas más temor\".",
+      "words": [
+        {
+          "word": "ya",
+          "start": 61.18,
+          "end": 61.56
+        },
+        {
+          "word": "la",
+          "start": 61.56,
+          "end": 62.02
+        },
+        {
+          "word": "victoria",
+          "start": 62.02,
+          "end": 63.1
+        },
+        {
+          "word": "es",
+          "start": 63.1,
+          "end": 63.92
+        },
+        {
+          "word": "tuya,",
+          "start": 63.92,
+          "end": 65.04
+        },
+        {
+          "word": "no",
+          "start": 65.34,
+          "end": 65.82
+        },
+        {
+          "word": "tengas",
+          "start": 65.82,
+          "end": 66.6
+        },
+        {
+          "word": "más",
+          "start": 66.6,
+          "end": 67.32
+        },
+        {
+          "word": "temor.",
+          "start": 67.32,
+          "end": 69.42
+        }
+      ],
+      "start": 61.18,
+      "end": 69.42,
+      "confidence": 1.0,
+      "time": 61.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Háblame cada día, hable tu tierna voz;",
+      "words": [
+        {
+          "word": "Háblame",
+          "start": 69.42,
+          "end": 70.8
+        },
+        {
+          "word": "cada",
+          "start": 70.8,
+          "end": 72.1
+        },
+        {
+          "word": "día,",
+          "start": 72.1,
+          "end": 73.8
+        },
+        {
+          "word": "hable",
+          "start": 74.5,
+          "end": 74.7
+        },
+        {
+          "word": "tu",
+          "start": 74.7,
+          "end": 75.08
+        },
+        {
+          "word": "tierra",
+          "start": 75.08,
+          "end": 76.1
+        },
+        {
+          "word": "voz",
+          "start": 76.1,
+          "end": 78.02
+        }
+      ],
+      "start": 69.42,
+      "end": 78.02,
+      "confidence": 0.986,
+      "time": 69.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "susurre en mis oídos: \"Tú no estás solo, no\".",
+      "words": [
+        {
+          "word": "Susurre",
+          "start": 78.02,
+          "end": 79.32
+        },
+        {
+          "word": "en",
+          "start": 79.32,
+          "end": 80.08
+        },
+        {
+          "word": "mis",
+          "start": 80.08,
+          "end": 80.3
+        },
+        {
+          "word": "oídos,",
+          "start": 80.3,
+          "end": 82.34
+        },
+        {
+          "word": "tú",
+          "start": 82.5,
+          "end": 82.94
+        },
+        {
+          "word": "no",
+          "start": 82.94,
+          "end": 83.34
+        },
+        {
+          "word": "estás",
+          "start": 83.34,
+          "end": 83.66
+        },
+        {
+          "word": "solo,",
+          "start": 83.66,
+          "end": 84.76
+        },
+        {
+          "word": "no",
+          "start": 85.04,
+          "end": 86.74
+        }
+      ],
+      "start": 78.02,
+      "end": 86.74,
+      "confidence": 1.0,
+      "time": 78.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Habla a tus hijos siempre, dales tu santidad;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Háblale",
+          "start": 86.74,
+          "end": 88.3
+        },
+        {
+          "word": "a",
+          "start": 88.3,
+          "end": 88.34
+        },
+        {
+          "word": "tus",
+          "start": 88.34,
+          "end": 88.86
+        },
+        {
+          "word": "hijos",
+          "start": 88.86,
+          "end": 89.5
+        },
+        {
+          "word": "siempre,",
+          "start": 89.5,
+          "end": 91.42
+        },
+        {
+          "word": "dale",
+          "start": 92.04,
+          "end": 92.28
+        },
+        {
+          "word": "santidad",
+          "start": 92.78,
+          "end": 95.66
+        }
+      ],
+      "start": 86.74,
+      "end": 95.66,
+      "confidence": 0.86,
+      "time": 86.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "llénalos de tu gozo; enséñales a orar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Llena",
+          "start": 95.66,
+          "end": 96.68
+        },
+        {
+          "word": "de",
+          "start": 97.12,
+          "end": 97.94
+        },
+        {
+          "word": "tu",
+          "start": 97.94,
+          "end": 98.32
+        },
+        {
+          "word": "gozo,",
+          "start": 98.32,
+          "end": 100.12
+        },
+        {
+          "word": "enséñales",
+          "start": 100.72,
+          "end": 102.14
+        },
+        {
+          "word": "a",
+          "start": 102.14,
+          "end": 102.56
+        },
+        {
+          "word": "orar.",
+          "start": 102.56,
+          "end": 104.36
+        }
+      ],
+      "start": 95.66,
+      "end": 104.36,
+      "confidence": 0.991,
+      "time": 95.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "A ti consagren todo, vivan tan solo en ti,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 104.92,
+          "end": 105.12
+        },
+        {
+          "word": "ti",
+          "start": 105.12,
+          "end": 105.3
+        },
+        {
+          "word": "consagren",
+          "start": 105.3,
+          "end": 106.68
+        },
+        {
+          "word": "todo,",
+          "start": 106.68,
+          "end": 108.56
+        },
+        {
+          "word": "vivan",
+          "start": 109.2,
+          "end": 109.72
+        },
+        {
+          "word": "tan",
+          "start": 109.72,
+          "end": 110.08
+        },
+        {
+          "word": "solo",
+          "start": 110.08,
+          "end": 110.8
+        },
+        {
+          "word": "en",
+          "start": 110.8,
+          "end": 111.2
+        },
+        {
+          "word": "ti.",
+          "start": 111.2,
+          "end": 112.76
+        }
+      ],
+      "start": 104.92,
+      "end": 112.76,
+      "confidence": 1.0,
+      "time": 104.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "traigan tu reino pronto, vean tu rostro aquí.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Traigan",
+          "start": 113.32,
+          "end": 113.82
+        },
+        {
+          "word": "tu",
+          "start": 113.82,
+          "end": 114.28
+        },
+        {
+          "word": "reino",
+          "start": 114.28,
+          "end": 115.26
+        },
+        {
+          "word": "pronto,",
+          "start": 115.26,
+          "end": 116.96
+        },
+        {
+          "word": "vean",
+          "start": 117.9,
+          "end": 118.2
+        },
+        {
+          "word": "tu",
+          "start": 118.2,
+          "end": 118.56
+        },
+        {
+          "word": "rostro",
+          "start": 118.56,
+          "end": 119.56
+        },
+        {
+          "word": "aquí.",
+          "start": 119.56,
+          "end": 121.22
+        }
+      ],
+      "start": 113.32,
+      "end": 121.22,
+      "confidence": 1.0,
+      "time": 113.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Háblame en dulces notas, háblame con amor:",
+      "words": [
+        {
+          "word": "Háblame",
+          "start": 121.22,
+          "end": 122.78
+        },
+        {
+          "word": "en",
+          "start": 122.78,
+          "end": 123.06
+        },
+        {
+          "word": "dulces",
+          "start": 123.06,
+          "end": 123.94
+        },
+        {
+          "word": "notas,",
+          "start": 123.94,
+          "end": 125.9
+        },
+        {
+          "word": "háblame",
+          "start": 126.54,
+          "end": 127.12
+        },
+        {
+          "word": "con",
+          "start": 127.12,
+          "end": 128.0
+        },
+        {
+          "word": "amor,",
+          "start": 128.0,
+          "end": 130.04
+        }
+      ],
+      "start": 121.22,
+      "end": 130.46,
+      "confidence": 1.0,
+      "time": 121.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "\"Ya la victoria es tuya, no tengas más temor\".",
+      "words": [
+        {
+          "word": "ya",
+          "start": 130.46,
+          "end": 130.74
+        },
+        {
+          "word": "la",
+          "start": 130.74,
+          "end": 131.14
+        },
+        {
+          "word": "victoria",
+          "start": 131.14,
+          "end": 132.3
+        },
+        {
+          "word": "es",
+          "start": 132.3,
+          "end": 132.94
+        },
+        {
+          "word": "tuya,",
+          "start": 132.94,
+          "end": 134.24
+        },
+        {
+          "word": "no",
+          "start": 134.56,
+          "end": 135.02
+        },
+        {
+          "word": "tengas",
+          "start": 135.02,
+          "end": 135.76
+        },
+        {
+          "word": "más",
+          "start": 135.76,
+          "end": 136.44
+        },
+        {
+          "word": "temor.",
+          "start": 136.44,
+          "end": 138.62
+        }
+      ],
+      "start": 130.46,
+      "end": 138.62,
+      "confidence": 1.0,
+      "time": 130.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Háblame cada día, hable tu tierna voz;",
+      "words": [
+        {
+          "word": "Háblame",
+          "start": 138.62,
+          "end": 139.96
+        },
+        {
+          "word": "cada",
+          "start": 139.96,
+          "end": 140.98
+        },
+        {
+          "word": "día,",
+          "start": 140.98,
+          "end": 142.96
+        },
+        {
+          "word": "hable",
+          "start": 143.7,
+          "end": 143.86
+        },
+        {
+          "word": "tu",
+          "start": 143.86,
+          "end": 144.28
+        },
+        {
+          "word": "tierra",
+          "start": 144.28,
+          "end": 145.26
+        },
+        {
+          "word": "voz",
+          "start": 145.26,
+          "end": 147.24
+        }
+      ],
+      "start": 138.62,
+      "end": 147.24,
+      "confidence": 0.986,
+      "time": 138.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "susurre en mis oídos: \"Tú no estás solo, no\".",
+      "words": [
+        {
+          "word": "Susurre",
+          "start": 147.24,
+          "end": 148.48
+        },
+        {
+          "word": "en",
+          "start": 148.48,
+          "end": 149.2
+        },
+        {
+          "word": "mis",
+          "start": 149.2,
+          "end": 149.46
+        },
+        {
+          "word": "oídos,",
+          "start": 149.46,
+          "end": 151.66
+        },
+        {
+          "word": "solo",
+          "start": 152.8,
+          "end": 154.02
+        },
+        {
+          "word": "no",
+          "start": 154.02,
+          "end": 155.92
+        }
+      ],
+      "start": 147.24,
+      "end": 155.92,
+      "confidence": 0.667,
+      "time": 147.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Habla cual en lo antiguo diste tu santa Ley.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Háblale",
+          "start": 156.52,
+          "end": 157.9
+        },
+        {
+          "word": "en",
+          "start": 157.9,
+          "end": 158.56
+        },
+        {
+          "word": "lo",
+          "start": 158.56,
+          "end": 158.98
+        },
+        {
+          "word": "antiguo,",
+          "start": 158.98,
+          "end": 161.08
+        },
+        {
+          "word": "diste",
+          "start": 161.46,
+          "end": 161.82
+        },
+        {
+          "word": "tu",
+          "start": 161.82,
+          "end": 162.2
+        },
+        {
+          "word": "santa",
+          "start": 162.2,
+          "end": 163.3
+        },
+        {
+          "word": "ley",
+          "start": 163.3,
+          "end": 165.0
+        }
+      ],
+      "start": 156.52,
+      "end": 165.0,
+      "confidence": 0.882,
+      "time": 156.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Tus testimonios siempre quiero guardar por fe.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tus",
+          "start": 165.0,
+          "end": 165.76
+        },
+        {
+          "word": "testimonios",
+          "start": 165.76,
+          "end": 167.5
+        },
+        {
+          "word": "siempre",
+          "start": 167.5,
+          "end": 169.22
+        },
+        {
+          "word": "quiero",
+          "start": 169.22,
+          "end": 170.26
+        },
+        {
+          "word": "guardar",
+          "start": 170.26,
+          "end": 171.5
+        },
+        {
+          "word": "por",
+          "start": 171.5,
+          "end": 171.96
+        },
+        {
+          "word": "fe",
+          "start": 171.96,
+          "end": 173.52
+        }
+      ],
+      "start": 165.0,
+      "end": 173.52,
+      "confidence": 1.0,
+      "time": 165.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Quiero magnificarte, quiero a tu gloria dar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 173.52,
+          "end": 174.66
+        },
+        {
+          "word": "magnificarte,",
+          "start": 174.66,
+          "end": 177.86
+        },
+        {
+          "word": "quiero",
+          "start": 178.24,
+          "end": 178.78
+        },
+        {
+          "word": "a",
+          "start": 178.78,
+          "end": 179.08
+        },
+        {
+          "word": "tu",
+          "start": 179.08,
+          "end": 179.32
+        },
+        {
+          "word": "gloria",
+          "start": 179.32,
+          "end": 180.4
+        },
+        {
+          "word": "dar",
+          "start": 180.4,
+          "end": 182.16
+        }
+      ],
+      "start": 173.52,
+      "end": 182.16,
+      "confidence": 1.0,
+      "time": 173.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "el grato testimonio de obedecer y amar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "El",
+          "start": 182.16,
+          "end": 183.0
+        },
+        {
+          "word": "grato",
+          "start": 183.0,
+          "end": 183.66
+        },
+        {
+          "word": "testimonio",
+          "start": 183.66,
+          "end": 186.72
+        },
+        {
+          "word": "de",
+          "start": 186.72,
+          "end": 187.22
+        },
+        {
+          "word": "obedecer",
+          "start": 187.22,
+          "end": 188.62
+        },
+        {
+          "word": "y",
+          "start": 188.62,
+          "end": 189.1
+        },
+        {
+          "word": "amar",
+          "start": 189.1,
+          "end": 190.74
+        }
+      ],
+      "start": 182.16,
+      "end": 190.74,
+      "confidence": 1.0,
+      "time": 182.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Háblame en dulces notas, háblame con amor:",
+      "words": [
+        {
+          "word": "Háblame",
+          "start": 190.74,
+          "end": 192.16
+        },
+        {
+          "word": "en",
+          "start": 192.16,
+          "end": 192.44
+        },
+        {
+          "word": "dulces",
+          "start": 192.44,
+          "end": 193.34
+        },
+        {
+          "word": "notas,",
+          "start": 193.34,
+          "end": 195.28
+        },
+        {
+          "word": "háblame",
+          "start": 195.82,
+          "end": 196.44
+        },
+        {
+          "word": "con",
+          "start": 196.44,
+          "end": 197.32
+        },
+        {
+          "word": "amor,",
+          "start": 197.32,
+          "end": 199.4
+        }
+      ],
+      "start": 190.74,
+      "end": 199.82,
+      "confidence": 1.0,
+      "time": 190.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "\"Ya la victoria es tuya, no tengas más temor\".",
+      "words": [
+        {
+          "word": "ya",
+          "start": 199.82,
+          "end": 200.16
+        },
+        {
+          "word": "la",
+          "start": 200.16,
+          "end": 200.58
+        },
+        {
+          "word": "victoria",
+          "start": 200.58,
+          "end": 201.68
+        },
+        {
+          "word": "es",
+          "start": 201.68,
+          "end": 202.4
+        },
+        {
+          "word": "tuya,",
+          "start": 202.4,
+          "end": 203.66
+        },
+        {
+          "word": "no",
+          "start": 203.86,
+          "end": 204.32
+        },
+        {
+          "word": "tengas",
+          "start": 204.32,
+          "end": 205.14
+        },
+        {
+          "word": "más",
+          "start": 205.14,
+          "end": 205.9
+        },
+        {
+          "word": "temor.",
+          "start": 205.9,
+          "end": 207.96
+        }
+      ],
+      "start": 199.82,
+      "end": 207.96,
+      "confidence": 1.0,
+      "time": 199.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Háblame cada día, hable tu tierna voz;",
+      "words": [
+        {
+          "word": "Háblame",
+          "start": 207.96,
+          "end": 209.34
+        },
+        {
+          "word": "cada",
+          "start": 209.34,
+          "end": 210.62
+        },
+        {
+          "word": "día,",
+          "start": 210.62,
+          "end": 212.3
+        },
+        {
+          "word": "hable",
+          "start": 213.08,
+          "end": 213.26
+        },
+        {
+          "word": "tu",
+          "start": 213.26,
+          "end": 213.64
+        },
+        {
+          "word": "tierna",
+          "start": 213.64,
+          "end": 214.82
+        },
+        {
+          "word": "voz",
+          "start": 214.82,
+          "end": 216.6
+        }
+      ],
+      "start": 207.96,
+      "end": 216.6,
+      "confidence": 1.0,
+      "time": 207.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "susurre en mis oídos: \"Tú no estás solo, no\".",
+      "words": [
+        {
+          "word": "Susurro",
+          "start": 216.6,
+          "end": 217.88
+        },
+        {
+          "word": "en",
+          "start": 217.88,
+          "end": 218.28
+        },
+        {
+          "word": "mis",
+          "start": 218.28,
+          "end": 218.84
+        },
+        {
+          "word": "oídos,",
+          "start": 218.84,
+          "end": 220.96
+        },
+        {
+          "word": "tú",
+          "start": 221.04,
+          "end": 221.56
+        },
+        {
+          "word": "no",
+          "start": 221.56,
+          "end": 221.96
+        },
+        {
+          "word": "estás",
+          "start": 221.96,
+          "end": 222.32
+        },
+        {
+          "word": "solo,",
+          "start": 222.32,
+          "end": 223.54
+        },
+        {
+          "word": "no",
+          "start": 223.92,
+          "end": 225.42
+        }
+      ],
+      "start": 216.6,
+      "end": 225.42,
+      "confidence": 0.99,
+      "time": 216.6
+    }
+  ]
+}

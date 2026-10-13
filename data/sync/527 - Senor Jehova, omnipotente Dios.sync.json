@@ -1,0 +1,419 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.783,
+  "language": "es",
+  "model": "medium",
+  "hymn": 527,
+  "source": "527 - Senor Jehova, omnipotente Dios.mp3",
+  "duration": 138.08,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Señor Jehová, omnipotente Dios,",
+      "verse": 1,
+      "start": 0.0,
+      "end": 16.16,
+      "confidence": 0.0,
+      "time": 0.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tú que los astros riges con poder,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "los",
+          "start": 16.16,
+          "end": 16.16
+        },
+        {
+          "word": "Santos",
+          "start": 16.16,
+          "end": 16.16
+        }
+      ],
+      "start": 16.16,
+      "end": 29.98,
+      "confidence": 0.257,
+      "time": 16.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "oye clemente nuestra humilde voz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cremente",
+          "start": 34.88,
+          "end": 36.28
+        },
+        {
+          "word": "nuestra",
+          "start": 36.28,
+          "end": 37.62
+        },
+        {
+          "word": "humilde",
+          "start": 37.62,
+          "end": 38.96
+        },
+        {
+          "word": "voz,",
+          "start": 38.96,
+          "end": 41.2
+        }
+      ],
+      "start": 34.88,
+      "end": 42.2,
+      "confidence": 0.785,
+      "time": 34.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nuestra oración hoy puedas responder.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "nuestra",
+          "start": 42.2,
+          "end": 43.12
+        },
+        {
+          "word": "oración",
+          "start": 43.12,
+          "end": 45.7
+        },
+        {
+          "word": "hoy",
+          "start": 45.7,
+          "end": 46.46
+        },
+        {
+          "word": "puedas",
+          "start": 46.46,
+          "end": 48.16
+        },
+        {
+          "word": "responder.",
+          "start": 48.16,
+          "end": 51.2
+        }
+      ],
+      "start": 42.2,
+      "end": 51.2,
+      "confidence": 1.0,
+      "time": 42.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "A nuestra patria da tu bendición;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 51.2,
+          "end": 53.4
+        },
+        {
+          "word": "nuestra",
+          "start": 53.4,
+          "end": 54.48
+        },
+        {
+          "word": "patria",
+          "start": 54.48,
+          "end": 57.04
+        },
+        {
+          "word": "da",
+          "start": 57.04,
+          "end": 57.66
+        },
+        {
+          "word": "tu",
+          "start": 57.66,
+          "end": 58.52
+        },
+        {
+          "word": "bendición,",
+          "start": 58.52,
+          "end": 61.72
+        }
+      ],
+      "start": 51.2,
+      "end": 61.72,
+      "confidence": 1.0,
+      "time": 51.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "enséñanos tus leyes a guardar;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "enseña",
+          "start": 63.48,
+          "end": 64.74
+        },
+        {
+          "word": "tus",
+          "start": 66.62,
+          "end": 67.6
+        },
+        {
+          "word": "a",
+          "start": 68.54,
+          "end": 69.48
+        },
+        {
+          "word": "guardar.",
+          "start": 69.48,
+          "end": 71.6
+        }
+      ],
+      "start": 63.48,
+      "end": 71.6,
+      "confidence": 0.788,
+      "time": 63.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "alumbra la conciencia y la razón,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Alumbra",
+          "start": 73.86,
+          "end": 75.26
+        },
+        {
+          "word": "la",
+          "start": 75.26,
+          "end": 76.66
+        },
+        {
+          "word": "conciencia",
+          "start": 76.66,
+          "end": 78.3
+        },
+        {
+          "word": "y",
+          "start": 78.3,
+          "end": 78.84
+        },
+        {
+          "word": "la",
+          "start": 78.84,
+          "end": 79.44
+        },
+        {
+          "word": "razón,",
+          "start": 79.44,
+          "end": 81.9
+        }
+      ],
+      "start": 73.86,
+      "end": 83.26,
+      "confidence": 1.0,
+      "time": 73.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y reina siempre tú en todo hogar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 83.26,
+          "end": 83.84
+        },
+        {
+          "word": "reina",
+          "start": 83.84,
+          "end": 84.86
+        },
+        {
+          "word": "siempre",
+          "start": 84.86,
+          "end": 87.16
+        },
+        {
+          "word": "tu",
+          "start": 87.16,
+          "end": 88.38
+        },
+        {
+          "word": "en",
+          "start": 88.38,
+          "end": 89.1
+        },
+        {
+          "word": "todo",
+          "start": 89.1,
+          "end": 90.0
+        },
+        {
+          "word": "lugar.",
+          "start": 90.0,
+          "end": 91.6
+        }
+      ],
+      "start": 83.26,
+      "end": 91.6,
+      "confidence": 0.966,
+      "time": 83.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Danos valor al enfrentar el mal;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "¡Danos",
+          "start": 93.96,
+          "end": 95.36
+        },
+        {
+          "word": "valor",
+          "start": 95.36,
+          "end": 96.76
+        },
+        {
+          "word": "al",
+          "start": 96.76,
+          "end": 98.28
+        },
+        {
+          "word": "enfrentar",
+          "start": 98.28,
+          "end": 100.16
+        },
+        {
+          "word": "el",
+          "start": 100.16,
+          "end": 100.92
+        },
+        {
+          "word": "mal!",
+          "start": 100.92,
+          "end": 101.62
+        }
+      ],
+      "start": 93.96,
+      "end": 101.62,
+      "confidence": 1.0,
+      "time": 93.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "condúcenos por sendas de virtud.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "¡Coducemos",
+          "start": 106.02,
+          "end": 107.42
+        },
+        {
+          "word": "por",
+          "start": 107.42,
+          "end": 108.4
+        },
+        {
+          "word": "cerdas",
+          "start": 108.4,
+          "end": 109.44
+        },
+        {
+          "word": "de",
+          "start": 109.44,
+          "end": 110.18
+        },
+        {
+          "word": "virtud!",
+          "start": 110.18,
+          "end": 111.6
+        }
+      ],
+      "start": 106.02,
+      "end": 111.6,
+      "confidence": 0.941,
+      "time": 106.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Protégenos con mano paternal,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Protegid",
+          "start": 115.18,
+          "end": 116.58
+        },
+        {
+          "word": "hermano",
+          "start": 117.98,
+          "end": 119.94
+        },
+        {
+          "word": "paternal,",
+          "start": 119.94,
+          "end": 122.92
+        }
+      ],
+      "start": 115.18,
+      "end": 122.92,
+      "confidence": 0.659,
+      "time": 115.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "concédenos tu paz, consuelo y luz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Concede",
+          "start": 125.36,
+          "end": 126.76
+        },
+        {
+          "word": "paz,",
+          "start": 128.16,
+          "end": 129.14
+        },
+        {
+          "word": "con",
+          "start": 129.56,
+          "end": 129.86
+        },
+        {
+          "word": "y",
+          "start": 131.18,
+          "end": 131.7
+        },
+        {
+          "word": "luz.",
+          "start": 131.7,
+          "end": 134.62
+        }
+      ],
+      "start": 125.36,
+      "end": 134.62,
+      "confidence": 0.813,
+      "time": 125.36
+    }
+  ]
+}

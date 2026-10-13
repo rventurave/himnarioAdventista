@@ -1,0 +1,663 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.95,
+  "language": "es",
+  "model": "medium",
+  "hymn": 238,
+  "source": "238 - Yo escucho, buen Jesus.mp3",
+  "duration": 153.57,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Yo escucho, buen Jesús, tu dulce voz de amor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 17.8,
+          "end": 19.2
+        },
+        {
+          "word": "escucho,",
+          "start": 19.2,
+          "end": 20.6
+        },
+        {
+          "word": "buen",
+          "start": 20.78,
+          "end": 20.92
+        },
+        {
+          "word": "Jesús,",
+          "start": 20.92,
+          "end": 22.7
+        },
+        {
+          "word": "tu",
+          "start": 23.5,
+          "end": 23.96
+        },
+        {
+          "word": "dulce",
+          "start": 23.96,
+          "end": 25.76
+        },
+        {
+          "word": "voz",
+          "start": 25.76,
+          "end": 26.16
+        },
+        {
+          "word": "de",
+          "start": 26.16,
+          "end": 26.7
+        },
+        {
+          "word": "amor",
+          "start": 26.7,
+          "end": 28.1
+        }
+      ],
+      "start": 17.8,
+      "end": 28.1,
+      "confidence": 1.0,
+      "time": 17.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que, desde el árbol de la cruz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 28.1,
+          "end": 29.3
+        },
+        {
+          "word": "desde",
+          "start": 29.3,
+          "end": 30.74
+        },
+        {
+          "word": "el",
+          "start": 30.74,
+          "end": 31.28
+        },
+        {
+          "word": "árbol",
+          "start": 31.28,
+          "end": 31.96
+        },
+        {
+          "word": "de",
+          "start": 31.96,
+          "end": 32.54
+        },
+        {
+          "word": "la",
+          "start": 32.54,
+          "end": 33.04
+        },
+        {
+          "word": "cruz",
+          "start": 33.04,
+          "end": 34.08
+        }
+      ],
+      "start": 28.1,
+      "end": 34.08,
+      "confidence": 1.0,
+      "time": 28.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "invita al pecador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "invita",
+          "start": 34.08,
+          "end": 36.24
+        },
+        {
+          "word": "al",
+          "start": 36.24,
+          "end": 36.56
+        },
+        {
+          "word": "pecador.",
+          "start": 36.56,
+          "end": 39.42
+        }
+      ],
+      "start": 34.08,
+      "end": 39.42,
+      "confidence": 1.0,
+      "time": 34.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Yo soy pecador, nada hay bueno en mí;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 39.58,
+          "end": 40.94
+        },
+        {
+          "word": "soy",
+          "start": 40.94,
+          "end": 41.78
+        },
+        {
+          "word": "pecador,",
+          "start": 41.78,
+          "end": 44.96
+        },
+        {
+          "word": "nada",
+          "start": 45.42,
+          "end": 46.76
+        },
+        {
+          "word": "bueno",
+          "start": 47.28,
+          "end": 47.68
+        },
+        {
+          "word": "en",
+          "start": 47.68,
+          "end": 48.16
+        },
+        {
+          "word": "mí,",
+          "start": 48.16,
+          "end": 50.14
+        }
+      ],
+      "start": 39.58,
+      "end": 50.14,
+      "confidence": 0.875,
+      "time": 39.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ser objeto de tu amor deseo y vengo a ti.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ser",
+          "start": 50.14,
+          "end": 52.08
+        },
+        {
+          "word": "objeto",
+          "start": 52.08,
+          "end": 53.08
+        },
+        {
+          "word": "de",
+          "start": 53.08,
+          "end": 53.76
+        },
+        {
+          "word": "tu",
+          "start": 53.76,
+          "end": 54.04
+        },
+        {
+          "word": "amor,",
+          "start": 54.04,
+          "end": 55.06
+        },
+        {
+          "word": "deseo",
+          "start": 55.76,
+          "end": 57.88
+        },
+        {
+          "word": "y",
+          "start": 57.88,
+          "end": 58.08
+        },
+        {
+          "word": "vengo",
+          "start": 58.08,
+          "end": 58.74
+        },
+        {
+          "word": "a",
+          "start": 58.74,
+          "end": 59.2
+        },
+        {
+          "word": "ti.",
+          "start": 59.2,
+          "end": 61.2
+        }
+      ],
+      "start": 50.14,
+      "end": 61.2,
+      "confidence": 1.0,
+      "time": 50.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Tú ofreces el perdón de toda iniquidad,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 61.98,
+          "end": 62.88
+        },
+        {
+          "word": "ofreces",
+          "start": 62.88,
+          "end": 64.88
+        },
+        {
+          "word": "el",
+          "start": 64.88,
+          "end": 65.48
+        },
+        {
+          "word": "perdón",
+          "start": 65.48,
+          "end": 67.12
+        },
+        {
+          "word": "de",
+          "start": 67.12,
+          "end": 68.3
+        },
+        {
+          "word": "toda",
+          "start": 68.3,
+          "end": 69.82
+        },
+        {
+          "word": "iniquidad.",
+          "start": 69.82,
+          "end": 72.16
+        }
+      ],
+      "start": 61.98,
+      "end": 72.16,
+      "confidence": 1.0,
+      "time": 61.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "si el llanto inunda el corazón que acude a tu piedad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "si",
+          "start": 72.16,
+          "end": 73.12
+        },
+        {
+          "word": "el",
+          "start": 73.12,
+          "end": 73.64
+        },
+        {
+          "word": "llanto",
+          "start": 73.64,
+          "end": 75.12
+        },
+        {
+          "word": "inunda",
+          "start": 75.12,
+          "end": 75.88
+        },
+        {
+          "word": "el",
+          "start": 75.88,
+          "end": 76.28
+        },
+        {
+          "word": "corazón",
+          "start": 76.28,
+          "end": 77.86
+        },
+        {
+          "word": "que",
+          "start": 77.86,
+          "end": 78.76
+        },
+        {
+          "word": "acude",
+          "start": 78.76,
+          "end": 80.32
+        },
+        {
+          "word": "a",
+          "start": 80.32,
+          "end": 80.66
+        },
+        {
+          "word": "tu",
+          "start": 80.66,
+          "end": 81.04
+        },
+        {
+          "word": "piedad.",
+          "start": 81.04,
+          "end": 83.62
+        }
+      ],
+      "start": 72.16,
+      "end": 83.62,
+      "confidence": 1.0,
+      "time": 72.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Yo soy pecador, ten de mí piedad;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 83.74,
+          "end": 85.14
+        },
+        {
+          "word": "soy",
+          "start": 85.14,
+          "end": 85.96
+        },
+        {
+          "word": "pecador,",
+          "start": 85.96,
+          "end": 89.02
+        },
+        {
+          "word": "tende",
+          "start": 90.28,
+          "end": 91.22
+        },
+        {
+          "word": "mi",
+          "start": 91.22,
+          "end": 91.62
+        },
+        {
+          "word": "piedad,",
+          "start": 91.62,
+          "end": 94.28
+        }
+      ],
+      "start": 83.74,
+      "end": 94.28,
+      "confidence": 0.849,
+      "time": 83.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "ve mi llanto de dolor y borra mi maldad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mi",
+          "start": 95.5,
+          "end": 96.4
+        },
+        {
+          "word": "llanto",
+          "start": 96.4,
+          "end": 97.3
+        },
+        {
+          "word": "de",
+          "start": 97.3,
+          "end": 97.94
+        },
+        {
+          "word": "dolor",
+          "start": 97.94,
+          "end": 98.92
+        },
+        {
+          "word": "y",
+          "start": 98.92,
+          "end": 100.34
+        },
+        {
+          "word": "borra",
+          "start": 100.34,
+          "end": 101.76
+        },
+        {
+          "word": "mi",
+          "start": 101.76,
+          "end": 102.18
+        },
+        {
+          "word": "maldad,",
+          "start": 102.18,
+          "end": 104.94
+        }
+      ],
+      "start": 95.5,
+      "end": 105.76,
+      "confidence": 0.889,
+      "time": 95.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Prometes aumentar la fe del que creyó,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "prometes",
+          "start": 105.76,
+          "end": 108.18
+        },
+        {
+          "word": "aumentar",
+          "start": 108.18,
+          "end": 110.06
+        },
+        {
+          "word": "la",
+          "start": 110.06,
+          "end": 111.4
+        },
+        {
+          "word": "fe",
+          "start": 111.4,
+          "end": 112.68
+        },
+        {
+          "word": "del",
+          "start": 112.68,
+          "end": 113.14
+        },
+        {
+          "word": "que",
+          "start": 113.14,
+          "end": 113.74
+        },
+        {
+          "word": "creyó",
+          "start": 113.74,
+          "end": 115.66
+        }
+      ],
+      "start": 105.76,
+      "end": 115.66,
+      "confidence": 1.0,
+      "time": 105.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y gracia sobre gracia dar a quien en ti confió.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 115.66,
+          "end": 116.78
+        },
+        {
+          "word": "gracias",
+          "start": 116.78,
+          "end": 118.42
+        },
+        {
+          "word": "sobregraciadar",
+          "start": 118.42,
+          "end": 121.34
+        },
+        {
+          "word": "a",
+          "start": 121.34,
+          "end": 122.2
+        },
+        {
+          "word": "quien",
+          "start": 122.2,
+          "end": 123.4
+        },
+        {
+          "word": "en",
+          "start": 123.4,
+          "end": 123.92
+        },
+        {
+          "word": "ti",
+          "start": 123.92,
+          "end": 124.32
+        },
+        {
+          "word": "confió.",
+          "start": 124.32,
+          "end": 126.8
+        }
+      ],
+      "start": 115.66,
+      "end": 126.8,
+      "confidence": 0.788,
+      "time": 115.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Creo en ti, Señor, solo fío en ti;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Creo",
+          "start": 127.82,
+          "end": 128.72
+        },
+        {
+          "word": "en",
+          "start": 128.72,
+          "end": 129.28
+        },
+        {
+          "word": "ti,",
+          "start": 129.28,
+          "end": 129.56
+        },
+        {
+          "word": "Señor,",
+          "start": 129.56,
+          "end": 132.02
+        },
+        {
+          "word": "solo",
+          "start": 132.62,
+          "end": 134.28
+        },
+        {
+          "word": "fío",
+          "start": 134.28,
+          "end": 134.96
+        },
+        {
+          "word": "en",
+          "start": 134.96,
+          "end": 135.56
+        },
+        {
+          "word": "ti.",
+          "start": 135.56,
+          "end": 137.7
+        }
+      ],
+      "start": 127.82,
+      "end": 137.7,
+      "confidence": 1.0,
+      "time": 127.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "dame tu infinito amor, y basta para mí.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Dame",
+          "start": 137.7,
+          "end": 139.5
+        },
+        {
+          "word": "tu",
+          "start": 139.5,
+          "end": 140.04
+        },
+        {
+          "word": "infinito",
+          "start": 140.04,
+          "end": 141.28
+        },
+        {
+          "word": "amor",
+          "start": 141.28,
+          "end": 142.2
+        },
+        {
+          "word": "y",
+          "start": 142.2,
+          "end": 143.56
+        },
+        {
+          "word": "basta",
+          "start": 143.56,
+          "end": 144.9
+        },
+        {
+          "word": "para",
+          "start": 144.9,
+          "end": 146.24
+        },
+        {
+          "word": "mí.",
+          "start": 146.24,
+          "end": 149.52
+        }
+      ],
+      "start": 137.7,
+      "end": 149.52,
+      "confidence": 1.0,
+      "time": 137.7
+    }
+  ]
+}

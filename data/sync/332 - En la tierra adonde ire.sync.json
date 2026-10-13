@@ -1,0 +1,763 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.896,
+  "language": "es",
+  "model": "medium",
+  "hymn": 332,
+  "source": "332 - En la tierra adonde ire.mp3",
+  "duration": 140.41,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "En la tierra adonde iré",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 10.42,
+          "end": 11.82
+        },
+        {
+          "word": "la",
+          "start": 11.82,
+          "end": 12.38
+        },
+        {
+          "word": "tierra",
+          "start": 12.38,
+          "end": 13.88
+        },
+        {
+          "word": "donde",
+          "start": 13.88,
+          "end": 14.72
+        },
+        {
+          "word": "iré,",
+          "start": 14.72,
+          "end": 16.52
+        }
+      ],
+      "start": 10.42,
+      "end": 16.76,
+      "confidence": 0.989,
+      "time": 10.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "muerte y llanto no habrá;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "muerte",
+          "start": 16.76,
+          "end": 17.36
+        },
+        {
+          "word": "y",
+          "start": 17.36,
+          "end": 17.64
+        },
+        {
+          "word": "llanto,",
+          "start": 17.64,
+          "end": 19.06
+        }
+      ],
+      "start": 16.76,
+      "end": 21.36,
+      "confidence": 0.6,
+      "time": 16.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "gozo eterno allí tendré,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "eterno",
+          "start": 22.26,
+          "end": 24.06
+        },
+        {
+          "word": "alitendré,",
+          "start": 24.06,
+          "end": 26.42
+        }
+      ],
+      "start": 22.26,
+      "end": 26.94,
+      "confidence": 0.47,
+      "time": 22.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y no hay noche allá.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 26.94,
+          "end": 27.2
+        },
+        {
+          "word": "no",
+          "start": 27.2,
+          "end": 27.5
+        },
+        {
+          "word": "hay",
+          "start": 27.5,
+          "end": 27.78
+        },
+        {
+          "word": "noche",
+          "start": 27.78,
+          "end": 28.62
+        }
+      ],
+      "start": 26.94,
+      "end": 31.22,
+      "confidence": 0.8,
+      "time": 26.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Dios las penas quitará,",
+      "words": [
+        {
+          "word": "las",
+          "start": 32.32,
+          "end": 32.82
+        },
+        {
+          "word": "penas",
+          "start": 32.82,
+          "end": 34.4
+        },
+        {
+          "word": "quitará,",
+          "start": 34.4,
+          "end": 36.52
+        }
+      ],
+      "start": 32.32,
+      "end": 37.14,
+      "confidence": 0.75,
+      "time": 32.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "no habrá muerte ni dolor;",
+      "words": [
+        {
+          "word": "no",
+          "start": 37.14,
+          "end": 37.32
+        },
+        {
+          "word": "habrá",
+          "start": 37.32,
+          "end": 38.5
+        },
+        {
+          "word": "muerte",
+          "start": 38.5,
+          "end": 39.24
+        },
+        {
+          "word": "ni",
+          "start": 39.24,
+          "end": 39.9
+        },
+        {
+          "word": "dolor.",
+          "start": 39.9,
+          "end": 41.46
+        }
+      ],
+      "start": 37.14,
+      "end": 41.46,
+      "confidence": 1.0,
+      "time": 37.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "tiempo no se contará,",
+      "words": [
+        {
+          "word": "Tiempo",
+          "start": 41.46,
+          "end": 42.82
+        },
+        {
+          "word": "no",
+          "start": 42.82,
+          "end": 44.06
+        },
+        {
+          "word": "se",
+          "start": 44.06,
+          "end": 44.6
+        },
+        {
+          "word": "contará",
+          "start": 44.6,
+          "end": 46.88
+        }
+      ],
+      "start": 41.46,
+      "end": 46.88,
+      "confidence": 1.0,
+      "time": 41.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y no hay noche allá.",
+      "words": [
+        {
+          "word": "y",
+          "start": 46.88,
+          "end": 47.62
+        },
+        {
+          "word": "no",
+          "start": 47.62,
+          "end": 47.92
+        },
+        {
+          "word": "hay",
+          "start": 47.92,
+          "end": 48.96
+        },
+        {
+          "word": "noche",
+          "start": 48.96,
+          "end": 49.9
+        },
+        {
+          "word": "allá.",
+          "start": 49.9,
+          "end": 52.24
+        }
+      ],
+      "start": 46.88,
+      "end": 52.24,
+      "confidence": 1.0,
+      "time": 46.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Puertas bellas se abrirán",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Fuertes",
+          "start": 53.4,
+          "end": 54.16
+        }
+      ],
+      "start": 53.4,
+      "end": 57.84,
+      "confidence": 0.207,
+      "time": 53.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en la Santa Ciudad;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 57.84,
+          "end": 58.9
+        },
+        {
+          "word": "la",
+          "start": 58.9,
+          "end": 59.24
+        },
+        {
+          "word": "Santa",
+          "start": 59.24,
+          "end": 60.76
+        },
+        {
+          "word": "Ciudad,",
+          "start": 60.76,
+          "end": 62.46
+        }
+      ],
+      "start": 57.84,
+      "end": 62.46,
+      "confidence": 1.0,
+      "time": 57.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "calles áureas se verán,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Carles,",
+          "start": 62.46,
+          "end": 64.58
+        },
+        {
+          "word": "se",
+          "start": 65.76,
+          "end": 66.48
+        },
+        {
+          "word": "verá,",
+          "start": 66.48,
+          "end": 68.36
+        }
+      ],
+      "start": 62.46,
+      "end": 68.86,
+      "confidence": 0.71,
+      "time": 62.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y no hay noche allá.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 68.86,
+          "end": 69.04
+        },
+        {
+          "word": "no",
+          "start": 69.04,
+          "end": 69.3
+        },
+        {
+          "word": "hay",
+          "start": 69.3,
+          "end": 69.56
+        },
+        {
+          "word": "noche",
+          "start": 69.56,
+          "end": 70.32
+        },
+        {
+          "word": "alta.",
+          "start": 70.32,
+          "end": 72.32
+        }
+      ],
+      "start": 68.86,
+      "end": 72.32,
+      "confidence": 0.97,
+      "time": 68.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Dios las penas quitará,",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 73.6,
+          "end": 74.0
+        },
+        {
+          "word": "las",
+          "start": 74.0,
+          "end": 75.56
+        },
+        {
+          "word": "penas",
+          "start": 75.56,
+          "end": 76.2
+        },
+        {
+          "word": "quitará,",
+          "start": 76.2,
+          "end": 78.34
+        }
+      ],
+      "start": 73.6,
+      "end": 78.94,
+      "confidence": 1.0,
+      "time": 73.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "no habrá muerte ni dolor;",
+      "words": [
+        {
+          "word": "no",
+          "start": 78.94,
+          "end": 79.12
+        },
+        {
+          "word": "habrá",
+          "start": 79.12,
+          "end": 79.58
+        },
+        {
+          "word": "muerte",
+          "start": 79.58,
+          "end": 81.06
+        },
+        {
+          "word": "ni",
+          "start": 81.06,
+          "end": 81.7
+        },
+        {
+          "word": "dolor,",
+          "start": 81.7,
+          "end": 82.46
+        }
+      ],
+      "start": 78.94,
+      "end": 82.46,
+      "confidence": 1.0,
+      "time": 78.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "tiempo no se contará,",
+      "words": [
+        {
+          "word": "Tiempo",
+          "start": 82.46,
+          "end": 84.6
+        },
+        {
+          "word": "no",
+          "start": 84.6,
+          "end": 85.94
+        },
+        {
+          "word": "se",
+          "start": 85.94,
+          "end": 86.42
+        },
+        {
+          "word": "contará",
+          "start": 86.42,
+          "end": 88.72
+        }
+      ],
+      "start": 82.46,
+      "end": 88.72,
+      "confidence": 1.0,
+      "time": 82.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y no hay noche allá.",
+      "words": [
+        {
+          "word": "y",
+          "start": 88.72,
+          "end": 89.38
+        },
+        {
+          "word": "no",
+          "start": 89.38,
+          "end": 89.7
+        },
+        {
+          "word": "hay",
+          "start": 89.7,
+          "end": 90.7
+        },
+        {
+          "word": "noche",
+          "start": 90.7,
+          "end": 91.56
+        },
+        {
+          "word": "allá.",
+          "start": 91.56,
+          "end": 94.12
+        }
+      ],
+      "start": 88.72,
+      "end": 94.12,
+      "confidence": 1.0,
+      "time": 88.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Para siempre viviré",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Para",
+          "start": 95.34,
+          "end": 95.86
+        },
+        {
+          "word": "siempre",
+          "start": 95.86,
+          "end": 97.44
+        },
+        {
+          "word": "viviré",
+          "start": 97.44,
+          "end": 100.28
+        }
+      ],
+      "start": 95.34,
+      "end": 100.28,
+      "confidence": 1.0,
+      "time": 95.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en mi amado hogar;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 100.28,
+          "end": 100.56
+        },
+        {
+          "word": "mi",
+          "start": 100.56,
+          "end": 100.9
+        },
+        {
+          "word": "amado",
+          "start": 100.9,
+          "end": 102.64
+        },
+        {
+          "word": "hogar.",
+          "start": 102.64,
+          "end": 104.46
+        }
+      ],
+      "start": 100.28,
+      "end": 104.46,
+      "confidence": 1.0,
+      "time": 100.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "agua viva beberé,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Agua",
+          "start": 104.46,
+          "end": 106.2
+        },
+        {
+          "word": "viva",
+          "start": 106.2,
+          "end": 107.64
+        },
+        {
+          "word": "bebé,",
+          "start": 107.64,
+          "end": 109.86
+        }
+      ],
+      "start": 104.46,
+      "end": 110.38,
+      "confidence": 0.98,
+      "time": 104.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y no hay noche allá.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 110.38,
+          "end": 110.74
+        },
+        {
+          "word": "no",
+          "start": 110.74,
+          "end": 111.04
+        },
+        {
+          "word": "hay",
+          "start": 111.04,
+          "end": 111.32
+        },
+        {
+          "word": "noche",
+          "start": 111.32,
+          "end": 112.14
+        },
+        {
+          "word": "al",
+          "start": 112.14,
+          "end": 113.86
+        }
+      ],
+      "start": 110.38,
+      "end": 114.88,
+      "confidence": 0.988,
+      "time": 110.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Dios las penas quitará,",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 115.42,
+          "end": 115.86
+        },
+        {
+          "word": "las",
+          "start": 115.86,
+          "end": 116.46
+        },
+        {
+          "word": "penas",
+          "start": 116.46,
+          "end": 118.06
+        },
+        {
+          "word": "quitará,",
+          "start": 118.06,
+          "end": 120.1
+        }
+      ],
+      "start": 115.42,
+      "end": 120.66,
+      "confidence": 1.0,
+      "time": 115.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "no habrá muerte ni dolor;",
+      "words": [
+        {
+          "word": "no",
+          "start": 120.66,
+          "end": 120.9
+        },
+        {
+          "word": "habla",
+          "start": 120.9,
+          "end": 121.3
+        },
+        {
+          "word": "muerte",
+          "start": 121.3,
+          "end": 122.84
+        },
+        {
+          "word": "ni",
+          "start": 122.84,
+          "end": 123.5
+        },
+        {
+          "word": "dolor,",
+          "start": 123.5,
+          "end": 124.46
+        }
+      ],
+      "start": 120.66,
+      "end": 124.46,
+      "confidence": 0.976,
+      "time": 120.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "tiempo no se contará,",
+      "words": [
+        {
+          "word": "Tiempo",
+          "start": 124.46,
+          "end": 126.42
+        },
+        {
+          "word": "no",
+          "start": 126.42,
+          "end": 127.7
+        },
+        {
+          "word": "se",
+          "start": 127.7,
+          "end": 128.18
+        },
+        {
+          "word": "contará,",
+          "start": 128.18,
+          "end": 130.52
+        }
+      ],
+      "start": 124.46,
+      "end": 131.3,
+      "confidence": 1.0,
+      "time": 124.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y no hay noche allá.",
+      "words": [
+        {
+          "word": "y",
+          "start": 131.3,
+          "end": 131.3
+        },
+        {
+          "word": "no",
+          "start": 131.3,
+          "end": 131.56
+        },
+        {
+          "word": "hay",
+          "start": 131.56,
+          "end": 132.66
+        },
+        {
+          "word": "noche",
+          "start": 132.66,
+          "end": 133.46
+        },
+        {
+          "word": "allá.",
+          "start": 133.46,
+          "end": 134.96
+        }
+      ],
+      "start": 131.3,
+      "end": 134.96,
+      "confidence": 1.0,
+      "time": 131.3
+    }
+  ]
+}

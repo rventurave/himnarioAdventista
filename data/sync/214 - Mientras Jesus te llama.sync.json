@@ -1,0 +1,601 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.934,
+  "language": "es",
+  "model": "medium",
+  "hymn": 214,
+  "source": "214 - Mientras Jesus te llama.mp3",
+  "duration": 150.75,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mientras Jesús te llama,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mientras",
+          "start": 13.9,
+          "end": 15.3
+        },
+        {
+          "word": "Jesús",
+          "start": 15.3,
+          "end": 16.7
+        },
+        {
+          "word": "te",
+          "start": 16.7,
+          "end": 17.34
+        },
+        {
+          "word": "llama,",
+          "start": 17.34,
+          "end": 18.46
+        }
+      ],
+      "start": 13.9,
+      "end": 19.6,
+      "confidence": 1.0,
+      "time": 13.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ven, pecador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ven,",
+          "start": 19.6,
+          "end": 19.84
+        },
+        {
+          "word": "pecador,",
+          "start": 20.28,
+          "end": 23.32
+        }
+      ],
+      "start": 19.6,
+      "end": 23.32,
+      "confidence": 1.0,
+      "time": 19.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mientras por ti oramos,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mientras",
+          "start": 23.32,
+          "end": 25.9
+        },
+        {
+          "word": "por",
+          "start": 25.9,
+          "end": 26.6
+        },
+        {
+          "word": "ti",
+          "start": 26.6,
+          "end": 27.22
+        },
+        {
+          "word": "oramos",
+          "start": 27.22,
+          "end": 29.0
+        }
+      ],
+      "start": 23.32,
+      "end": 29.0,
+      "confidence": 1.0,
+      "time": 23.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ven, pecador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ven,",
+          "start": 29.0,
+          "end": 30.34
+        },
+        {
+          "word": "pecador.",
+          "start": 30.36,
+          "end": 33.5
+        }
+      ],
+      "start": 29.0,
+      "end": 33.5,
+      "confidence": 1.0,
+      "time": 29.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hoy es el día propicio.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 34.6,
+          "end": 35.54
+        },
+        {
+          "word": "es",
+          "start": 35.54,
+          "end": 36.56
+        },
+        {
+          "word": "el",
+          "start": 36.56,
+          "end": 37.02
+        },
+        {
+          "word": "día",
+          "start": 37.02,
+          "end": 37.6
+        },
+        {
+          "word": "propicio,",
+          "start": 37.6,
+          "end": 39.42
+        }
+      ],
+      "start": 34.6,
+      "end": 40.22,
+      "confidence": 1.0,
+      "time": 34.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ven, pecador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ven,",
+          "start": 40.22,
+          "end": 40.66
+        },
+        {
+          "word": "pecador.",
+          "start": 41.44,
+          "end": 44.12
+        }
+      ],
+      "start": 40.22,
+      "end": 44.12,
+      "confidence": 1.0,
+      "time": 40.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hoy puedes conocerle.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "puedes",
+          "start": 46.68,
+          "end": 47.24
+        },
+        {
+          "word": "conocerle,",
+          "start": 47.24,
+          "end": 49.9
+        }
+      ],
+      "start": 46.68,
+      "end": 50.44,
+      "confidence": 0.667,
+      "time": 46.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ven, pecador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ven,",
+          "start": 50.44,
+          "end": 51.12
+        },
+        {
+          "word": "pecador.",
+          "start": 51.54,
+          "end": 54.46
+        }
+      ],
+      "start": 50.44,
+      "end": 54.46,
+      "confidence": 1.0,
+      "time": 50.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¿Andas de mal cargado?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Andas",
+          "start": 55.98,
+          "end": 57.26
+        },
+        {
+          "word": "del",
+          "start": 57.26,
+          "end": 57.68
+        },
+        {
+          "word": "mal",
+          "start": 57.68,
+          "end": 58.48
+        },
+        {
+          "word": "cargado,",
+          "start": 58.48,
+          "end": 60.02
+        }
+      ],
+      "start": 55.98,
+      "end": 60.9,
+      "confidence": 0.97,
+      "time": 55.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Ven, pecador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ven,",
+          "start": 60.9,
+          "end": 61.38
+        },
+        {
+          "word": "pecador.",
+          "start": 62.18,
+          "end": 65.12
+        }
+      ],
+      "start": 60.9,
+      "end": 65.12,
+      "confidence": 1.0,
+      "time": 60.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Hay en Jesús alivio. Ven, pecador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Ay,",
+          "start": 65.12,
+          "end": 67.02
+        },
+        {
+          "word": "Jesús,",
+          "start": 68.86,
+          "end": 68.86
+        },
+        {
+          "word": "alivio,",
+          "start": 69.36,
+          "end": 70.74
+        },
+        {
+          "word": "ven,",
+          "start": 71.4,
+          "end": 72.02
+        },
+        {
+          "word": "pecador.",
+          "start": 72.42,
+          "end": 75.2
+        }
+      ],
+      "start": 65.12,
+      "end": 75.2,
+      "confidence": 0.813,
+      "time": 65.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "No quiere engañarte.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "No",
+          "start": 76.32,
+          "end": 77.18
+        },
+        {
+          "word": "quiere",
+          "start": 77.18,
+          "end": 78.86
+        },
+        {
+          "word": "engañarte,",
+          "start": 78.86,
+          "end": 81.02
+        }
+      ],
+      "start": 76.32,
+      "end": 81.4,
+      "confidence": 1.0,
+      "time": 76.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Ven, pecador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ven,",
+          "start": 81.4,
+          "end": 82.4
+        },
+        {
+          "word": "pecador.",
+          "start": 82.46,
+          "end": 85.92
+        }
+      ],
+      "start": 81.4,
+      "end": 85.92,
+      "confidence": 1.0,
+      "time": 81.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Hoy quiere rescatarte.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 85.92,
+          "end": 87.44
+        },
+        {
+          "word": "quiere",
+          "start": 87.44,
+          "end": 88.88
+        },
+        {
+          "word": "rescatarte,",
+          "start": 88.88,
+          "end": 91.5
+        }
+      ],
+      "start": 85.92,
+      "end": 91.96,
+      "confidence": 1.0,
+      "time": 85.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Ven, pecador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ven,",
+          "start": 91.96,
+          "end": 92.82
+        },
+        {
+          "word": "pecador.",
+          "start": 93.3,
+          "end": 96.74
+        }
+      ],
+      "start": 91.96,
+      "end": 96.74,
+      "confidence": 1.0,
+      "time": 91.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Oye sus tiernos ruegos.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Oye",
+          "start": 98.78,
+          "end": 100.16
+        },
+        {
+          "word": "su",
+          "start": 100.16,
+          "end": 100.6
+        },
+        {
+          "word": "ruegos,",
+          "start": 102.04,
+          "end": 103.3
+        }
+      ],
+      "start": 98.78,
+      "end": 104.32,
+      "confidence": 0.735,
+      "time": 98.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Ven, pecador.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ven,",
+          "start": 104.32,
+          "end": 104.66
+        },
+        {
+          "word": "pecador.",
+          "start": 105.42,
+          "end": 108.02
+        }
+      ],
+      "start": 104.32,
+      "end": 108.02,
+      "confidence": 1.0,
+      "time": 104.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Su bendición recibe. Ven, pecador.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Su",
+          "start": 108.02,
+          "end": 109.78
+        },
+        {
+          "word": "bendición",
+          "start": 109.78,
+          "end": 111.92
+        },
+        {
+          "word": "recibe",
+          "start": 111.92,
+          "end": 113.8
+        },
+        {
+          "word": "ven,",
+          "start": 113.8,
+          "end": 115.06
+        },
+        {
+          "word": "pecador,",
+          "start": 115.18,
+          "end": 118.54
+        }
+      ],
+      "start": 108.02,
+      "end": 118.54,
+      "confidence": 1.0,
+      "time": 108.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mientras Jesús te llama,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mientras",
+          "start": 119.4,
+          "end": 120.96
+        },
+        {
+          "word": "Jesús",
+          "start": 120.96,
+          "end": 122.26
+        },
+        {
+          "word": "llamo",
+          "start": 122.9,
+          "end": 124.16
+        }
+      ],
+      "start": 119.4,
+      "end": 124.16,
+      "confidence": 0.72,
+      "time": 119.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ven, pecador.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ven,",
+          "start": 124.16,
+          "end": 125.24
+        },
+        {
+          "word": "pecador,",
+          "start": 125.94,
+          "end": 129.02
+        }
+      ],
+      "start": 124.16,
+      "end": 129.02,
+      "confidence": 1.0,
+      "time": 124.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mientras por ti oramos,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Mientras",
+          "start": 129.02,
+          "end": 131.54
+        },
+        {
+          "word": "por",
+          "start": 131.54,
+          "end": 132.2
+        },
+        {
+          "word": "ti",
+          "start": 132.2,
+          "end": 132.84
+        },
+        {
+          "word": "oramos",
+          "start": 132.84,
+          "end": 134.68
+        }
+      ],
+      "start": 129.02,
+      "end": 134.68,
+      "confidence": 1.0,
+      "time": 129.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ven, pecador.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 134.68,
+          "end": 136.1
+        },
+        {
+          "word": "pecador.",
+          "start": 136.1,
+          "end": 140.96
+        }
+      ],
+      "start": 134.68,
+      "end": 140.96,
+      "confidence": 0.94,
+      "time": 134.68
+    }
+  ]
+}

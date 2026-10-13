@@ -1,0 +1,851 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.91,
+  "language": "es",
+  "model": "medium",
+  "hymn": 575,
+  "source": "575 - Tocad trompeta ya.mp3",
+  "duration": 176.14,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tocad trompeta ya,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tocad",
+          "start": 22.24,
+          "end": 23.64
+        },
+        {
+          "word": "trompeta",
+          "start": 23.64,
+          "end": 25.04
+        },
+        {
+          "word": "ya,",
+          "start": 25.04,
+          "end": 26.42
+        }
+      ],
+      "start": 22.24,
+      "end": 26.42,
+      "confidence": 1.0,
+      "time": 22.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "alegres en Sion;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Alegres",
+          "start": 26.42,
+          "end": 28.62
+        },
+        {
+          "word": "en",
+          "start": 28.62,
+          "end": 29.18
+        },
+        {
+          "word": "Sion,",
+          "start": 29.18,
+          "end": 30.54
+        }
+      ],
+      "start": 26.42,
+      "end": 31.66,
+      "confidence": 1.0,
+      "time": 26.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al mundo proclamad",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 31.66,
+          "end": 31.8
+        },
+        {
+          "word": "mundo",
+          "start": 31.8,
+          "end": 32.86
+        },
+        {
+          "word": "proclama",
+          "start": 32.86,
+          "end": 35.32
+        }
+      ],
+      "start": 31.66,
+      "end": 35.32,
+      "confidence": 0.98,
+      "time": 31.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "la eterna redención.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 35.32,
+          "end": 36.16
+        },
+        {
+          "word": "eterna",
+          "start": 36.16,
+          "end": 37.54
+        },
+        {
+          "word": "redención.",
+          "start": 37.54,
+          "end": 40.32
+        }
+      ],
+      "start": 35.32,
+      "end": 40.32,
+      "confidence": 1.0,
+      "time": 35.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Este es el año de bondad,",
+      "words": [
+        {
+          "word": "Este",
+          "start": 40.32,
+          "end": 41.32
+        },
+        {
+          "word": "es",
+          "start": 41.32,
+          "end": 42.14
+        },
+        {
+          "word": "el",
+          "start": 42.14,
+          "end": 42.56
+        },
+        {
+          "word": "año",
+          "start": 42.56,
+          "end": 43.18
+        },
+        {
+          "word": "de",
+          "start": 43.18,
+          "end": 44.02
+        },
+        {
+          "word": "bondad,",
+          "start": 44.02,
+          "end": 44.72
+        }
+      ],
+      "start": 40.32,
+      "end": 44.72,
+      "confidence": 1.0,
+      "time": 40.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "volved a vuestra libertad,",
+      "words": [
+        {
+          "word": "Volved",
+          "start": 44.72,
+          "end": 46.26
+        },
+        {
+          "word": "a",
+          "start": 46.26,
+          "end": 46.76
+        },
+        {
+          "word": "vuestra",
+          "start": 46.76,
+          "end": 47.86
+        },
+        {
+          "word": "libertad,",
+          "start": 47.86,
+          "end": 49.48
+        }
+      ],
+      "start": 44.72,
+      "end": 49.64,
+      "confidence": 1.0,
+      "time": 44.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "volved a vuestra libertad.",
+      "words": [
+        {
+          "word": "volved",
+          "start": 49.64,
+          "end": 50.92
+        },
+        {
+          "word": "a",
+          "start": 50.92,
+          "end": 51.32
+        },
+        {
+          "word": "vuestra",
+          "start": 51.32,
+          "end": 52.36
+        },
+        {
+          "word": "libertad.",
+          "start": 52.36,
+          "end": 57.96
+        }
+      ],
+      "start": 49.64,
+      "end": 57.96,
+      "confidence": 1.0,
+      "time": 49.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "A Cristo predicad;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Al",
+          "start": 59.46,
+          "end": 60.68
+        },
+        {
+          "word": "Cristo",
+          "start": 60.68,
+          "end": 61.72
+        },
+        {
+          "word": "predija,",
+          "start": 61.72,
+          "end": 64.3
+        }
+      ],
+      "start": 59.46,
+      "end": 65.4,
+      "confidence": 0.893,
+      "time": 59.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "decid que ya murió",
+      "verse": 2,
+      "words": [
+        {
+          "word": "decid",
+          "start": 65.4,
+          "end": 65.84
+        },
+        {
+          "word": "que",
+          "start": 65.84,
+          "end": 66.38
+        },
+        {
+          "word": "ya",
+          "start": 66.38,
+          "end": 67.0
+        },
+        {
+          "word": "murió",
+          "start": 67.0,
+          "end": 68.62
+        }
+      ],
+      "start": 65.4,
+      "end": 68.62,
+      "confidence": 1.0,
+      "time": 65.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y con su potestad",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 68.62,
+          "end": 69.8
+        },
+        {
+          "word": "con",
+          "start": 69.8,
+          "end": 70.32
+        },
+        {
+          "word": "su",
+          "start": 70.32,
+          "end": 70.98
+        },
+        {
+          "word": "potestad",
+          "start": 70.98,
+          "end": 72.72
+        }
+      ],
+      "start": 68.62,
+      "end": 72.72,
+      "confidence": 1.0,
+      "time": 68.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la muerte destruyó.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "La",
+          "start": 72.72,
+          "end": 74.18
+        },
+        {
+          "word": "muerte",
+          "start": 74.18,
+          "end": 75.44
+        },
+        {
+          "word": "destruyó.",
+          "start": 75.44,
+          "end": 77.72
+        }
+      ],
+      "start": 72.72,
+      "end": 77.72,
+      "confidence": 1.0,
+      "time": 72.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Este es el año de bondad,",
+      "words": [
+        {
+          "word": "Este",
+          "start": 78.74,
+          "end": 79.34
+        },
+        {
+          "word": "es",
+          "start": 79.34,
+          "end": 80.16
+        },
+        {
+          "word": "el",
+          "start": 80.16,
+          "end": 80.54
+        },
+        {
+          "word": "año",
+          "start": 80.54,
+          "end": 81.2
+        },
+        {
+          "word": "de",
+          "start": 81.2,
+          "end": 82.06
+        },
+        {
+          "word": "bondad.",
+          "start": 82.06,
+          "end": 82.94
+        }
+      ],
+      "start": 78.74,
+      "end": 82.94,
+      "confidence": 1.0,
+      "time": 78.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "volved a vuestra libertad,",
+      "words": [
+        {
+          "word": "Volverá",
+          "start": 83.64,
+          "end": 84.82
+        },
+        {
+          "word": "vuestra",
+          "start": 84.82,
+          "end": 85.86
+        },
+        {
+          "word": "libertad.",
+          "start": 85.86,
+          "end": 86.72
+        }
+      ],
+      "start": 83.64,
+      "end": 86.72,
+      "confidence": 0.715,
+      "time": 83.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "volved a vuestra libertad.",
+      "words": [
+        {
+          "word": "Volverá",
+          "start": 87.88,
+          "end": 89.28
+        },
+        {
+          "word": "vuestra",
+          "start": 89.28,
+          "end": 90.46
+        },
+        {
+          "word": "libertad.",
+          "start": 90.46,
+          "end": 96.88
+        }
+      ],
+      "start": 87.88,
+      "end": 96.88,
+      "confidence": 0.715,
+      "time": 87.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Vosotros que el favor",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Vosotros",
+          "start": 98.72,
+          "end": 100.12
+        },
+        {
+          "word": "que",
+          "start": 100.12,
+          "end": 100.62
+        },
+        {
+          "word": "el",
+          "start": 100.62,
+          "end": 101.14
+        },
+        {
+          "word": "favor",
+          "start": 101.14,
+          "end": 102.82
+        }
+      ],
+      "start": 98.72,
+      "end": 102.82,
+      "confidence": 1.0,
+      "time": 98.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "del Cielo despreciáis,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "del",
+          "start": 102.82,
+          "end": 103.66
+        },
+        {
+          "word": "cielo",
+          "start": 103.66,
+          "end": 104.66
+        },
+        {
+          "word": "despreciáis,",
+          "start": 104.66,
+          "end": 106.96
+        }
+      ],
+      "start": 102.82,
+      "end": 108.2,
+      "confidence": 1.0,
+      "time": 102.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "su gracia gozaréis",
+      "verse": 3,
+      "words": [
+        {
+          "word": "gracia",
+          "start": 108.2,
+          "end": 109.34
+        },
+        {
+          "word": "gozaréis",
+          "start": 109.34,
+          "end": 111.86
+        }
+      ],
+      "start": 108.2,
+      "end": 111.86,
+      "confidence": 0.667,
+      "time": 108.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "si a Cristo pronto vais.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "si",
+          "start": 111.86,
+          "end": 112.5
+        },
+        {
+          "word": "a",
+          "start": 112.5,
+          "end": 112.84
+        },
+        {
+          "word": "Cristo",
+          "start": 112.84,
+          "end": 113.78
+        },
+        {
+          "word": "pronto",
+          "start": 113.78,
+          "end": 115.0
+        },
+        {
+          "word": "vais.",
+          "start": 115.0,
+          "end": 115.88
+        }
+      ],
+      "start": 111.86,
+      "end": 115.88,
+      "confidence": 1.0,
+      "time": 111.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Este es el año de bondad,",
+      "words": [
+        {
+          "word": "desde",
+          "start": 115.88,
+          "end": 117.66
+        },
+        {
+          "word": "el",
+          "start": 117.66,
+          "end": 118.68
+        },
+        {
+          "word": "año",
+          "start": 118.68,
+          "end": 119.52
+        },
+        {
+          "word": "de",
+          "start": 119.52,
+          "end": 120.34
+        },
+        {
+          "word": "bondad",
+          "start": 120.34,
+          "end": 121.34
+        }
+      ],
+      "start": 115.88,
+      "end": 121.34,
+      "confidence": 0.8,
+      "time": 115.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "volved a vuestra libertad,",
+      "words": [
+        {
+          "word": "volverá",
+          "start": 121.34,
+          "end": 123.06
+        },
+        {
+          "word": "a",
+          "start": 123.06,
+          "end": 123.38
+        },
+        {
+          "word": "vuestra",
+          "start": 123.38,
+          "end": 124.18
+        },
+        {
+          "word": "libertad,",
+          "start": 124.18,
+          "end": 125.92
+        }
+      ],
+      "start": 121.34,
+      "end": 126.36,
+      "confidence": 0.965,
+      "time": 121.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "volved a vuestra libertad.",
+      "words": [
+        {
+          "word": "volverá",
+          "start": 126.36,
+          "end": 127.62
+        },
+        {
+          "word": "a",
+          "start": 127.62,
+          "end": 127.92
+        },
+        {
+          "word": "vuestra",
+          "start": 127.92,
+          "end": 128.76
+        },
+        {
+          "word": "libertad.",
+          "start": 128.76,
+          "end": 134.72
+        }
+      ],
+      "start": 126.36,
+      "end": 134.72,
+      "confidence": 0.965,
+      "time": 126.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Llamadles con amor;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Llamadés",
+          "start": 136.9,
+          "end": 138.3
+        },
+        {
+          "word": "con",
+          "start": 138.3,
+          "end": 138.96
+        },
+        {
+          "word": "amor",
+          "start": 138.96,
+          "end": 140.76
+        }
+      ],
+      "start": 136.9,
+      "end": 141.72,
+      "confidence": 0.988,
+      "time": 136.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "id, ofrecedles paz.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "ofrése",
+          "start": 141.72,
+          "end": 143.32
+        },
+        {
+          "word": "respaz,",
+          "start": 143.32,
+          "end": 144.94
+        }
+      ],
+      "start": 141.72,
+      "end": 144.94,
+      "confidence": 0.525,
+      "time": 141.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Es tarde, apresurad;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "a",
+          "start": 147.0,
+          "end": 147.5
+        }
+      ],
+      "start": 147.0,
+      "end": 149.78,
+      "confidence": 0.313,
+      "time": 147.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "que vuelvan a su faz.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "que",
+          "start": 149.78,
+          "end": 150.76
+        },
+        {
+          "word": "vuelvan",
+          "start": 150.76,
+          "end": 152.14
+        },
+        {
+          "word": "a",
+          "start": 152.14,
+          "end": 152.62
+        },
+        {
+          "word": "su",
+          "start": 152.62,
+          "end": 153.2
+        },
+        {
+          "word": "paz.",
+          "start": 153.2,
+          "end": 154.36
+        }
+      ],
+      "start": 149.78,
+      "end": 154.36,
+      "confidence": 0.96,
+      "time": 149.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Este es el año de bondad,",
+      "words": [
+        {
+          "word": "Este",
+          "start": 155.04,
+          "end": 155.64
+        },
+        {
+          "word": "es",
+          "start": 155.64,
+          "end": 156.46
+        },
+        {
+          "word": "el",
+          "start": 156.46,
+          "end": 156.82
+        },
+        {
+          "word": "año",
+          "start": 156.82,
+          "end": 157.54
+        },
+        {
+          "word": "de",
+          "start": 157.54,
+          "end": 158.36
+        },
+        {
+          "word": "bondad,",
+          "start": 158.36,
+          "end": 159.24
+        }
+      ],
+      "start": 155.04,
+      "end": 159.68,
+      "confidence": 1.0,
+      "time": 155.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "volved a vuestra libertad,",
+      "words": [
+        {
+          "word": "volvéd",
+          "start": 159.68,
+          "end": 160.76
+        },
+        {
+          "word": "a",
+          "start": 160.76,
+          "end": 161.18
+        },
+        {
+          "word": "vuestra",
+          "start": 161.18,
+          "end": 162.16
+        },
+        {
+          "word": "libertad,",
+          "start": 162.16,
+          "end": 163.72
+        }
+      ],
+      "start": 159.68,
+      "end": 163.72,
+      "confidence": 1.0,
+      "time": 159.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "volved a vuestra libertad.",
+      "words": [
+        {
+          "word": "Volverá",
+          "start": 163.72,
+          "end": 165.74
+        },
+        {
+          "word": "vuestra",
+          "start": 165.74,
+          "end": 166.74
+        },
+        {
+          "word": "libertad.",
+          "start": 166.74,
+          "end": 173.42
+        }
+      ],
+      "start": 163.72,
+      "end": 173.42,
+      "confidence": 0.715,
+      "time": 163.72
+    }
+  ]
+}

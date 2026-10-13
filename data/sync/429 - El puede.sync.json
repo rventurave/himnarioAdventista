@@ -1,0 +1,438 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.982,
+  "language": "es",
+  "model": "medium",
+  "hymn": 429,
+  "source": "429 - El puede.mp3",
+  "duration": 58.98,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Él puede, él puede, yo sé que él puede;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "El",
+          "start": 11.44,
+          "end": 12.36
+        },
+        {
+          "word": "puede,",
+          "start": 12.36,
+          "end": 12.94
+        },
+        {
+          "word": "el",
+          "start": 13.34,
+          "end": 13.68
+        },
+        {
+          "word": "puede,",
+          "start": 13.68,
+          "end": 14.5
+        },
+        {
+          "word": "yo",
+          "start": 14.78,
+          "end": 14.9
+        },
+        {
+          "word": "sé",
+          "start": 14.9,
+          "end": 15.5
+        },
+        {
+          "word": "que",
+          "start": 15.5,
+          "end": 15.98
+        },
+        {
+          "word": "el",
+          "start": 15.98,
+          "end": 16.24
+        },
+        {
+          "word": "puede,",
+          "start": 16.24,
+          "end": 16.82
+        }
+      ],
+      "start": 11.44,
+      "end": 17.28,
+      "confidence": 1.0,
+      "time": 11.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "yo sé que Cristo puede salvarme del mal.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "yo",
+          "start": 17.28,
+          "end": 17.46
+        },
+        {
+          "word": "sé",
+          "start": 17.46,
+          "end": 17.82
+        },
+        {
+          "word": "que",
+          "start": 17.82,
+          "end": 18.2
+        },
+        {
+          "word": "Cristo",
+          "start": 18.2,
+          "end": 18.66
+        },
+        {
+          "word": "puede",
+          "start": 18.66,
+          "end": 19.1
+        },
+        {
+          "word": "salvarme",
+          "start": 19.1,
+          "end": 19.86
+        },
+        {
+          "word": "del",
+          "start": 19.86,
+          "end": 20.32
+        },
+        {
+          "word": "mal.",
+          "start": 20.32,
+          "end": 21.98
+        }
+      ],
+      "start": 17.28,
+      "end": 21.98,
+      "confidence": 1.0,
+      "time": 17.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Él puede, él puede, yo sé que él puede;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Él",
+          "start": 21.98,
+          "end": 22.78
+        },
+        {
+          "word": "puede,",
+          "start": 22.78,
+          "end": 23.44
+        },
+        {
+          "word": "Él",
+          "start": 23.74,
+          "end": 24.0
+        },
+        {
+          "word": "puede,",
+          "start": 24.0,
+          "end": 24.88
+        },
+        {
+          "word": "yo",
+          "start": 25.08,
+          "end": 25.32
+        },
+        {
+          "word": "sé",
+          "start": 25.32,
+          "end": 25.88
+        },
+        {
+          "word": "que",
+          "start": 25.88,
+          "end": 26.44
+        },
+        {
+          "word": "Él",
+          "start": 26.44,
+          "end": 26.66
+        },
+        {
+          "word": "puede,",
+          "start": 26.66,
+          "end": 27.2
+        }
+      ],
+      "start": 21.98,
+      "end": 27.66,
+      "confidence": 1.0,
+      "time": 21.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "yo sé que Cristo puede salvarme del mal.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "yo",
+          "start": 27.66,
+          "end": 27.86
+        },
+        {
+          "word": "sé",
+          "start": 27.86,
+          "end": 28.2
+        },
+        {
+          "word": "que",
+          "start": 28.2,
+          "end": 28.58
+        },
+        {
+          "word": "Cristo",
+          "start": 28.58,
+          "end": 29.02
+        },
+        {
+          "word": "puede",
+          "start": 29.02,
+          "end": 29.46
+        },
+        {
+          "word": "salvarme",
+          "start": 29.46,
+          "end": 30.2
+        },
+        {
+          "word": "del",
+          "start": 30.2,
+          "end": 30.56
+        },
+        {
+          "word": "mal",
+          "start": 30.56,
+          "end": 32.2
+        }
+      ],
+      "start": 27.66,
+      "end": 32.2,
+      "confidence": 1.0,
+      "time": 27.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Sanó al quebrantado, al muerto levantó;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Sanó",
+          "start": 32.2,
+          "end": 33.54
+        },
+        {
+          "word": "al",
+          "start": 33.54,
+          "end": 33.78
+        },
+        {
+          "word": "quebrantado,",
+          "start": 33.78,
+          "end": 35.04
+        },
+        {
+          "word": "al",
+          "start": 35.52,
+          "end": 35.68
+        },
+        {
+          "word": "muerto",
+          "start": 35.68,
+          "end": 36.34
+        },
+        {
+          "word": "levantó,",
+          "start": 36.34,
+          "end": 37.84
+        }
+      ],
+      "start": 32.2,
+      "end": 38.48,
+      "confidence": 1.0,
+      "time": 32.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "él hizo al cojo caminar, y al ciego vista dio.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 38.48,
+          "end": 38.48
+        },
+        {
+          "word": "hizo",
+          "start": 38.48,
+          "end": 38.72
+        },
+        {
+          "word": "al",
+          "start": 38.72,
+          "end": 39.08
+        },
+        {
+          "word": "cojo",
+          "start": 39.08,
+          "end": 39.58
+        },
+        {
+          "word": "caminar",
+          "start": 39.58,
+          "end": 40.52
+        },
+        {
+          "word": "y",
+          "start": 40.52,
+          "end": 40.68
+        },
+        {
+          "word": "al",
+          "start": 40.68,
+          "end": 40.88
+        },
+        {
+          "word": "ciego",
+          "start": 40.88,
+          "end": 41.5
+        },
+        {
+          "word": "visabió",
+          "start": 41.5,
+          "end": 42.92
+        }
+      ],
+      "start": 38.48,
+      "end": 42.92,
+      "confidence": 0.88,
+      "time": 38.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Él puede, él puede, yo sé que él puede;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Él",
+          "start": 42.92,
+          "end": 43.48
+        },
+        {
+          "word": "puede,",
+          "start": 43.48,
+          "end": 44.2
+        },
+        {
+          "word": "Él",
+          "start": 44.5,
+          "end": 44.72
+        },
+        {
+          "word": "puede,",
+          "start": 44.72,
+          "end": 45.5
+        },
+        {
+          "word": "yo",
+          "start": 45.86,
+          "end": 46.02
+        },
+        {
+          "word": "sé",
+          "start": 46.02,
+          "end": 46.6
+        },
+        {
+          "word": "que",
+          "start": 46.6,
+          "end": 47.1
+        },
+        {
+          "word": "Él",
+          "start": 47.1,
+          "end": 47.38
+        },
+        {
+          "word": "puede",
+          "start": 47.38,
+          "end": 48.06
+        }
+      ],
+      "start": 42.92,
+      "end": 48.06,
+      "confidence": 1.0,
+      "time": 42.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "yo sé que Cristo puede salvarme del mal.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 48.06,
+          "end": 48.62
+        },
+        {
+          "word": "sé",
+          "start": 48.62,
+          "end": 48.98
+        },
+        {
+          "word": "que",
+          "start": 48.98,
+          "end": 49.34
+        },
+        {
+          "word": "Cristo",
+          "start": 49.34,
+          "end": 49.84
+        },
+        {
+          "word": "puede",
+          "start": 49.84,
+          "end": 50.28
+        },
+        {
+          "word": "salvarme",
+          "start": 50.28,
+          "end": 51.06
+        },
+        {
+          "word": "del",
+          "start": 51.06,
+          "end": 51.46
+        },
+        {
+          "word": "mal",
+          "start": 51.46,
+          "end": 53.76
+        }
+      ],
+      "start": 48.06,
+      "end": 53.76,
+      "confidence": 1.0,
+      "time": 48.06
+    }
+  ]
+}

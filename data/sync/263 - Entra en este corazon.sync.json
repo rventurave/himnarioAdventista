@@ -1,0 +1,768 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.835,
+  "language": "es",
+  "model": "medium",
+  "hymn": 263,
+  "source": "263 - Entra en este corazon.mp3",
+  "duration": 131.45,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Entra en este corazón,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Entra",
+          "start": 10.8,
+          "end": 11.96
+        },
+        {
+          "word": "en",
+          "start": 11.96,
+          "end": 12.34
+        },
+        {
+          "word": "este",
+          "start": 12.34,
+          "end": 12.74
+        },
+        {
+          "word": "corazón,",
+          "start": 12.74,
+          "end": 14.88
+        }
+      ],
+      "start": 10.8,
+      "end": 14.88,
+      "confidence": 1.0,
+      "time": 10.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "haz en mí tu habitación,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Paz",
+          "start": 15.44,
+          "end": 16.56
+        },
+        {
+          "word": "en",
+          "start": 16.56,
+          "end": 16.96
+        },
+        {
+          "word": "mi",
+          "start": 16.96,
+          "end": 17.14
+        },
+        {
+          "word": "tu",
+          "start": 17.14,
+          "end": 17.52
+        },
+        {
+          "word": "habitación,",
+          "start": 17.52,
+          "end": 19.62
+        }
+      ],
+      "start": 15.44,
+      "end": 19.62,
+      "confidence": 0.96,
+      "time": 15.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "sea yo tu posesión,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Sea",
+          "start": 20.24,
+          "end": 21.2
+        },
+        {
+          "word": "yo",
+          "start": 21.2,
+          "end": 21.78
+        },
+        {
+          "word": "tu",
+          "start": 21.78,
+          "end": 22.3
+        },
+        {
+          "word": "posesión,",
+          "start": 22.3,
+          "end": 24.44
+        }
+      ],
+      "start": 20.24,
+      "end": 24.44,
+      "confidence": 1.0,
+      "time": 20.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mora en mí, oh Cristo.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mora",
+          "start": 24.9,
+          "end": 25.42
+        },
+        {
+          "word": "en",
+          "start": 25.42,
+          "end": 25.98
+        },
+        {
+          "word": "mí,",
+          "start": 25.98,
+          "end": 26.48
+        },
+        {
+          "word": "oh",
+          "start": 27.18,
+          "end": 27.18
+        },
+        {
+          "word": "Cristo,",
+          "start": 27.18,
+          "end": 28.24
+        }
+      ],
+      "start": 24.9,
+      "end": 28.24,
+      "confidence": 1.0,
+      "time": 24.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Mora en mí, oh Cristo,",
+      "words": [
+        {
+          "word": "Flora",
+          "start": 28.24,
+          "end": 30.26
+        },
+        {
+          "word": "en",
+          "start": 30.26,
+          "end": 30.76
+        },
+        {
+          "word": "mí,",
+          "start": 30.76,
+          "end": 31.2
+        },
+        {
+          "word": "oh",
+          "start": 31.32,
+          "end": 31.9
+        },
+        {
+          "word": "Cristo,",
+          "start": 31.9,
+          "end": 33.7
+        }
+      ],
+      "start": 28.24,
+      "end": 34.06,
+      "confidence": 0.96,
+      "time": 28.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "mora en mí, oh Cristo.",
+      "words": [
+        {
+          "word": "flora",
+          "start": 34.06,
+          "end": 34.86
+        },
+        {
+          "word": "en",
+          "start": 34.86,
+          "end": 35.3
+        },
+        {
+          "word": "mí,",
+          "start": 35.3,
+          "end": 36.0
+        },
+        {
+          "word": "oh",
+          "start": 36.0,
+          "end": 36.5
+        },
+        {
+          "word": "Cristo,",
+          "start": 36.5,
+          "end": 38.54
+        }
+      ],
+      "start": 34.06,
+      "end": 39.24,
+      "confidence": 0.96,
+      "time": 34.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Entra en este corazón,",
+      "words": [
+        {
+          "word": "entra",
+          "start": 39.24,
+          "end": 39.56
+        },
+        {
+          "word": "en",
+          "start": 39.56,
+          "end": 40.18
+        },
+        {
+          "word": "este",
+          "start": 40.18,
+          "end": 41.26
+        },
+        {
+          "word": "corazón,",
+          "start": 41.26,
+          "end": 43.18
+        }
+      ],
+      "start": 39.24,
+      "end": 43.64,
+      "confidence": 1.0,
+      "time": 39.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "mora en mí, oh Cristo.",
+      "words": [
+        {
+          "word": "flora",
+          "start": 43.64,
+          "end": 44.4
+        },
+        {
+          "word": "en",
+          "start": 44.4,
+          "end": 44.98
+        },
+        {
+          "word": "mí,",
+          "start": 44.98,
+          "end": 45.6
+        },
+        {
+          "word": "oh",
+          "start": 45.72,
+          "end": 46.08
+        },
+        {
+          "word": "Cristo.",
+          "start": 46.08,
+          "end": 48.42
+        }
+      ],
+      "start": 43.64,
+      "end": 48.42,
+      "confidence": 0.96,
+      "time": 43.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Pon tu Espíritu en mí,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Pon",
+          "start": 48.42,
+          "end": 50.3
+        },
+        {
+          "word": "tu",
+          "start": 50.3,
+          "end": 50.64
+        },
+        {
+          "word": "espíritu",
+          "start": 50.64,
+          "end": 52.02
+        },
+        {
+          "word": "en",
+          "start": 52.02,
+          "end": 52.52
+        },
+        {
+          "word": "mí,",
+          "start": 52.52,
+          "end": 53.78
+        }
+      ],
+      "start": 48.42,
+      "end": 54.56,
+      "confidence": 1.0,
+      "time": 48.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hazme muy leal a ti.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "hazme",
+          "start": 54.56,
+          "end": 55.5
+        },
+        {
+          "word": "muy",
+          "start": 55.5,
+          "end": 56.06
+        },
+        {
+          "word": "leal",
+          "start": 56.06,
+          "end": 56.84
+        },
+        {
+          "word": "a",
+          "start": 56.84,
+          "end": 57.22
+        },
+        {
+          "word": "ti.",
+          "start": 57.22,
+          "end": 58.38
+        }
+      ],
+      "start": 54.56,
+      "end": 58.76,
+      "confidence": 1.0,
+      "time": 54.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Quiero serte fiel aquí,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 58.76,
+          "end": 60.14
+        },
+        {
+          "word": "serte",
+          "start": 60.14,
+          "end": 60.98
+        },
+        {
+          "word": "fiel",
+          "start": 60.98,
+          "end": 61.78
+        },
+        {
+          "word": "aquí.",
+          "start": 61.78,
+          "end": 63.1
+        }
+      ],
+      "start": 58.76,
+      "end": 63.1,
+      "confidence": 1.0,
+      "time": 58.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mora en mí, oh Cristo.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Moralí,",
+          "start": 63.1,
+          "end": 65.16
+        },
+        {
+          "word": "oh",
+          "start": 65.16,
+          "end": 65.88
+        },
+        {
+          "word": "Cristo,",
+          "start": 65.88,
+          "end": 67.8
+        }
+      ],
+      "start": 63.1,
+      "end": 68.32,
+      "confidence": 0.588,
+      "time": 63.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Mora en mí, oh Cristo,",
+      "words": [
+        {
+          "word": "moralí,",
+          "start": 68.32,
+          "end": 70.34
+        },
+        {
+          "word": "oh",
+          "start": 70.34,
+          "end": 70.46
+        },
+        {
+          "word": "Cristo,",
+          "start": 70.46,
+          "end": 72.44
+        }
+      ],
+      "start": 68.32,
+      "end": 73.02,
+      "confidence": 0.588,
+      "time": 68.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "mora en mí, oh Cristo.",
+      "words": [
+        {
+          "word": "moralí,",
+          "start": 73.02,
+          "end": 74.72
+        },
+        {
+          "word": "oh",
+          "start": 74.72,
+          "end": 75.2
+        },
+        {
+          "word": "Cristo,",
+          "start": 75.2,
+          "end": 77.36
+        }
+      ],
+      "start": 73.02,
+      "end": 77.36,
+      "confidence": 0.588,
+      "time": 73.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Entra en este corazón,",
+      "words": [
+        {
+          "word": "entra",
+          "start": 78.0,
+          "end": 78.34
+        },
+        {
+          "word": "en",
+          "start": 78.34,
+          "end": 79.16
+        },
+        {
+          "word": "este",
+          "start": 79.16,
+          "end": 80.02
+        },
+        {
+          "word": "corazón,",
+          "start": 80.02,
+          "end": 81.98
+        }
+      ],
+      "start": 78.0,
+      "end": 82.78,
+      "confidence": 1.0,
+      "time": 78.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "mora en mí, oh Cristo.",
+      "words": [
+        {
+          "word": "moralí,",
+          "start": 82.78,
+          "end": 84.34
+        },
+        {
+          "word": "oh",
+          "start": 84.34,
+          "end": 84.84
+        },
+        {
+          "word": "Cristo.",
+          "start": 84.84,
+          "end": 87.12
+        }
+      ],
+      "start": 82.78,
+      "end": 87.12,
+      "confidence": 0.588,
+      "time": 82.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Hoy me entrego a ti, Señor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 87.12,
+          "end": 88.96
+        },
+        {
+          "word": "me",
+          "start": 88.96,
+          "end": 89.46
+        },
+        {
+          "word": "entrego",
+          "start": 89.46,
+          "end": 90.04
+        },
+        {
+          "word": "a",
+          "start": 90.04,
+          "end": 90.3
+        },
+        {
+          "word": "ti,",
+          "start": 90.3,
+          "end": 90.82
+        },
+        {
+          "word": "Señor,",
+          "start": 90.82,
+          "end": 92.26
+        }
+      ],
+      "start": 87.12,
+      "end": 93.54,
+      "confidence": 1.0,
+      "time": 87.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "para ser tu ayudador.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "para",
+          "start": 93.54,
+          "end": 94.02
+        },
+        {
+          "word": "ser",
+          "start": 94.02,
+          "end": 94.54
+        },
+        {
+          "word": "tu",
+          "start": 94.54,
+          "end": 94.92
+        },
+        {
+          "word": "ayudador.",
+          "start": 94.92,
+          "end": 96.96
+        }
+      ],
+      "start": 93.54,
+      "end": 97.4,
+      "confidence": 1.0,
+      "time": 93.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Quiero proclamar tu amor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 97.4,
+          "end": 98.8
+        },
+        {
+          "word": "proclamar",
+          "start": 98.8,
+          "end": 100.12
+        },
+        {
+          "word": "tu",
+          "start": 100.12,
+          "end": 100.46
+        },
+        {
+          "word": "amor,",
+          "start": 100.46,
+          "end": 101.86
+        }
+      ],
+      "start": 97.4,
+      "end": 102.24,
+      "confidence": 1.0,
+      "time": 97.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "mora en mí, oh Cristo.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "moran",
+          "start": 102.24,
+          "end": 103.14
+        },
+        {
+          "word": "mío",
+          "start": 103.14,
+          "end": 104.56
+        },
+        {
+          "word": "Cristo,",
+          "start": 104.56,
+          "end": 105.72
+        }
+      ],
+      "start": 102.24,
+      "end": 107.02,
+      "confidence": 0.564,
+      "time": 102.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Mora en mí, oh Cristo,",
+      "words": [
+        {
+          "word": "moran",
+          "start": 107.02,
+          "end": 107.96
+        },
+        {
+          "word": "mío",
+          "start": 107.96,
+          "end": 109.28
+        },
+        {
+          "word": "Cristo,",
+          "start": 109.28,
+          "end": 111.04
+        }
+      ],
+      "start": 107.02,
+      "end": 111.42,
+      "confidence": 0.564,
+      "time": 107.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "mora en mí, oh Cristo.",
+      "words": [
+        {
+          "word": "moran",
+          "start": 111.42,
+          "end": 112.74
+        },
+        {
+          "word": "mío",
+          "start": 112.74,
+          "end": 113.84
+        },
+        {
+          "word": "Cristo.",
+          "start": 113.84,
+          "end": 115.68
+        }
+      ],
+      "start": 111.42,
+      "end": 115.68,
+      "confidence": 0.564,
+      "time": 111.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Entra en este corazón,",
+      "words": [
+        {
+          "word": "Entra",
+          "start": 115.68,
+          "end": 116.9
+        },
+        {
+          "word": "en",
+          "start": 116.9,
+          "end": 117.8
+        },
+        {
+          "word": "este",
+          "start": 117.8,
+          "end": 118.56
+        },
+        {
+          "word": "corazón,",
+          "start": 118.56,
+          "end": 120.62
+        }
+      ],
+      "start": 115.68,
+      "end": 122.26,
+      "confidence": 1.0,
+      "time": 115.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "mora en mí, oh Cristo.",
+      "words": [
+        {
+          "word": "mío",
+          "start": 122.26,
+          "end": 123.8
+        },
+        {
+          "word": "Cristo.",
+          "start": 123.8,
+          "end": 124.9
+        }
+      ],
+      "start": 122.26,
+      "end": 124.9,
+      "confidence": 0.376,
+      "time": 122.26
+    }
+  ]
+}

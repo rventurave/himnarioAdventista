@@ -1,0 +1,784 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.933,
+  "language": "es",
+  "model": "medium",
+  "hymn": 419,
+  "source": "419 - Por la justicia de Jesus.mp3",
+  "duration": 115.91,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Por la justicia de Jesús,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Por",
+          "start": 10.9,
+          "end": 12.3
+        },
+        {
+          "word": "la",
+          "start": 12.3,
+          "end": 12.92
+        },
+        {
+          "word": "justicia",
+          "start": 12.92,
+          "end": 14.48
+        },
+        {
+          "word": "de",
+          "start": 14.48,
+          "end": 15.08
+        },
+        {
+          "word": "Jesús,",
+          "start": 15.08,
+          "end": 15.92
+        }
+      ],
+      "start": 10.9,
+      "end": 16.4,
+      "confidence": 1.0,
+      "time": 10.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "la sangre que por mí vertió,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 16.4,
+          "end": 16.84
+        },
+        {
+          "word": "sangre",
+          "start": 16.84,
+          "end": 17.48
+        },
+        {
+          "word": "que",
+          "start": 17.48,
+          "end": 18.38
+        },
+        {
+          "word": "por",
+          "start": 18.38,
+          "end": 19.22
+        },
+        {
+          "word": "mí",
+          "start": 19.22,
+          "end": 19.6
+        },
+        {
+          "word": "vertió,",
+          "start": 19.6,
+          "end": 20.7
+        }
+      ],
+      "start": 16.4,
+      "end": 20.7,
+      "confidence": 1.0,
+      "time": 16.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "alcánzase perdón de Dios",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Alcánzase",
+          "start": 20.7,
+          "end": 22.88
+        },
+        {
+          "word": "perdón",
+          "start": 22.88,
+          "end": 24.08
+        },
+        {
+          "word": "de",
+          "start": 24.08,
+          "end": 24.5
+        },
+        {
+          "word": "Dios,",
+          "start": 24.5,
+          "end": 24.92
+        }
+      ],
+      "start": 20.7,
+      "end": 25.16,
+      "confidence": 1.0,
+      "time": 20.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y cuanto bien nos prometió;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 25.16,
+          "end": 25.98
+        },
+        {
+          "word": "cuanto",
+          "start": 25.98,
+          "end": 26.56
+        },
+        {
+          "word": "bien",
+          "start": 26.56,
+          "end": 27.4
+        },
+        {
+          "word": "nos",
+          "start": 27.4,
+          "end": 28.36
+        },
+        {
+          "word": "prometió",
+          "start": 28.36,
+          "end": 29.52
+        }
+      ],
+      "start": 25.16,
+      "end": 29.52,
+      "confidence": 1.0,
+      "time": 25.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que solo él rescata sé;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 29.52,
+          "end": 30.38
+        },
+        {
+          "word": "solo",
+          "start": 30.38,
+          "end": 31.16
+        },
+        {
+          "word": "Él",
+          "start": 31.16,
+          "end": 32.1
+        },
+        {
+          "word": "rescatase",
+          "start": 32.1,
+          "end": 33.96
+        }
+      ],
+      "start": 29.52,
+      "end": 33.96,
+      "confidence": 0.788,
+      "time": 29.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "segura base es de mi fe,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "segura",
+          "start": 33.96,
+          "end": 35.66
+        },
+        {
+          "word": "bases",
+          "start": 35.66,
+          "end": 36.76
+        },
+        {
+          "word": "de",
+          "start": 36.76,
+          "end": 37.64
+        },
+        {
+          "word": "mi",
+          "start": 37.64,
+          "end": 38.04
+        },
+        {
+          "word": "fe,",
+          "start": 38.04,
+          "end": 38.42
+        }
+      ],
+      "start": 33.96,
+      "end": 38.42,
+      "confidence": 0.823,
+      "time": 33.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "segura base es de mi fe.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "segura",
+          "start": 39.48,
+          "end": 40.34
+        },
+        {
+          "word": "bases",
+          "start": 40.34,
+          "end": 41.54
+        },
+        {
+          "word": "de",
+          "start": 41.54,
+          "end": 42.46
+        },
+        {
+          "word": "mi",
+          "start": 42.46,
+          "end": 42.92
+        },
+        {
+          "word": "fe.",
+          "start": 42.92,
+          "end": 44.4
+        }
+      ],
+      "start": 39.48,
+      "end": 44.4,
+      "confidence": 0.823,
+      "time": 39.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Así, turbada no veré",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Así",
+          "start": 44.4,
+          "end": 46.14
+        },
+        {
+          "word": "turbada",
+          "start": 46.14,
+          "end": 48.04
+        },
+        {
+          "word": "no",
+          "start": 48.04,
+          "end": 48.6
+        },
+        {
+          "word": "veré",
+          "start": 48.6,
+          "end": 49.66
+        }
+      ],
+      "start": 44.4,
+      "end": 49.66,
+      "confidence": 1.0,
+      "time": 44.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "mi paz, su incomparable don.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mi",
+          "start": 49.66,
+          "end": 50.36
+        },
+        {
+          "word": "incomparable,",
+          "start": 50.9,
+          "end": 53.3
+        },
+        {
+          "word": "don,",
+          "start": 53.5,
+          "end": 53.78
+        }
+      ],
+      "start": 49.66,
+      "end": 53.78,
+      "confidence": 0.6,
+      "time": 49.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Aun cuando un tiempo oculto esté",
+      "verse": 2,
+      "words": [
+        {
+          "word": "aun",
+          "start": 54.54,
+          "end": 54.8
+        },
+        {
+          "word": "cuando",
+          "start": 54.8,
+          "end": 55.32
+        },
+        {
+          "word": "un",
+          "start": 55.32,
+          "end": 55.66
+        },
+        {
+          "word": "tiempo",
+          "start": 55.66,
+          "end": 56.92
+        },
+        {
+          "word": "culto",
+          "start": 56.92,
+          "end": 57.8
+        },
+        {
+          "word": "esté,",
+          "start": 57.8,
+          "end": 58.18
+        }
+      ],
+      "start": 54.54,
+      "end": 58.76,
+      "confidence": 0.991,
+      "time": 54.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "me dejará su bendición.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "me",
+          "start": 58.76,
+          "end": 59.36
+        },
+        {
+          "word": "dejará",
+          "start": 59.36,
+          "end": 60.86
+        },
+        {
+          "word": "su",
+          "start": 60.86,
+          "end": 61.58
+        },
+        {
+          "word": "bendición.",
+          "start": 61.58,
+          "end": 62.8
+        }
+      ],
+      "start": 58.76,
+      "end": 62.8,
+      "confidence": 1.0,
+      "time": 58.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "En mí no puedo hallar jamás",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 63.1,
+          "end": 63.9
+        },
+        {
+          "word": "mí",
+          "start": 63.9,
+          "end": 64.24
+        },
+        {
+          "word": "no",
+          "start": 64.24,
+          "end": 64.72
+        },
+        {
+          "word": "puedo",
+          "start": 64.72,
+          "end": 65.66
+        },
+        {
+          "word": "aliar",
+          "start": 65.66,
+          "end": 66.46
+        },
+        {
+          "word": "jamás",
+          "start": 66.46,
+          "end": 67.6
+        }
+      ],
+      "start": 63.1,
+      "end": 67.6,
+      "confidence": 0.973,
+      "time": 63.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "la base firme de la paz,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 67.6,
+          "end": 68.34
+        },
+        {
+          "word": "base",
+          "start": 68.34,
+          "end": 68.96
+        },
+        {
+          "word": "firme",
+          "start": 68.96,
+          "end": 70.56
+        },
+        {
+          "word": "de",
+          "start": 70.56,
+          "end": 71.04
+        },
+        {
+          "word": "la",
+          "start": 71.04,
+          "end": 71.46
+        },
+        {
+          "word": "paz,",
+          "start": 71.46,
+          "end": 71.82
+        }
+      ],
+      "start": 67.6,
+      "end": 71.82,
+      "confidence": 1.0,
+      "time": 67.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "la base firme de la paz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 71.82,
+          "end": 72.92
+        },
+        {
+          "word": "base",
+          "start": 72.92,
+          "end": 73.48
+        },
+        {
+          "word": "firme",
+          "start": 73.48,
+          "end": 75.24
+        },
+        {
+          "word": "de",
+          "start": 75.24,
+          "end": 75.72
+        },
+        {
+          "word": "la",
+          "start": 75.72,
+          "end": 76.2
+        },
+        {
+          "word": "paz.",
+          "start": 76.2,
+          "end": 77.52
+        }
+      ],
+      "start": 71.82,
+      "end": 77.52,
+      "confidence": 1.0,
+      "time": 71.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En la tormenta es mi sostén",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 78.02,
+          "end": 79.2
+        },
+        {
+          "word": "la",
+          "start": 79.2,
+          "end": 79.82
+        },
+        {
+          "word": "tormenta",
+          "start": 79.82,
+          "end": 81.2
+        },
+        {
+          "word": "es",
+          "start": 81.2,
+          "end": 81.62
+        },
+        {
+          "word": "mi",
+          "start": 81.62,
+          "end": 81.9
+        },
+        {
+          "word": "sostén,",
+          "start": 81.9,
+          "end": 82.88
+        }
+      ],
+      "start": 78.02,
+      "end": 82.88,
+      "confidence": 1.0,
+      "time": 78.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "el pacto que juró y selló.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 83.14,
+          "end": 83.8
+        },
+        {
+          "word": "pacto",
+          "start": 83.8,
+          "end": 84.46
+        },
+        {
+          "word": "que",
+          "start": 84.46,
+          "end": 85.18
+        },
+        {
+          "word": "juro",
+          "start": 85.18,
+          "end": 86.14
+        },
+        {
+          "word": "y",
+          "start": 86.14,
+          "end": 86.5
+        },
+        {
+          "word": "se",
+          "start": 86.5,
+          "end": 86.78
+        }
+      ],
+      "start": 83.14,
+      "end": 87.12,
+      "confidence": 0.99,
+      "time": 83.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Su amor es mi supremo bien,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Su",
+          "start": 87.6,
+          "end": 87.96
+        },
+        {
+          "word": "amor",
+          "start": 87.96,
+          "end": 88.68
+        },
+        {
+          "word": "es",
+          "start": 88.68,
+          "end": 89.2
+        },
+        {
+          "word": "mi",
+          "start": 89.2,
+          "end": 89.74
+        },
+        {
+          "word": "supremo",
+          "start": 89.74,
+          "end": 91.28
+        },
+        {
+          "word": "bien,",
+          "start": 91.28,
+          "end": 91.64
+        }
+      ],
+      "start": 87.6,
+      "end": 91.64,
+      "confidence": 1.0,
+      "time": 87.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pues en la cruz me redimió.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 92.06,
+          "end": 92.66
+        },
+        {
+          "word": "en",
+          "start": 92.66,
+          "end": 93.26
+        },
+        {
+          "word": "la",
+          "start": 93.26,
+          "end": 93.6
+        },
+        {
+          "word": "cruz",
+          "start": 93.6,
+          "end": 94.22
+        },
+        {
+          "word": "me",
+          "start": 94.22,
+          "end": 95.1
+        },
+        {
+          "word": "redimió.",
+          "start": 95.1,
+          "end": 96.26
+        }
+      ],
+      "start": 92.06,
+      "end": 96.26,
+      "confidence": 1.0,
+      "time": 92.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesús, la Peña, me será",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 96.56,
+          "end": 97.6
+        },
+        {
+          "word": "la",
+          "start": 97.6,
+          "end": 98.44
+        },
+        {
+          "word": "peña",
+          "start": 98.44,
+          "end": 99.46
+        },
+        {
+          "word": "me",
+          "start": 99.46,
+          "end": 99.96
+        },
+        {
+          "word": "será",
+          "start": 99.96,
+          "end": 100.62
+        }
+      ],
+      "start": 96.56,
+      "end": 100.62,
+      "confidence": 1.0,
+      "time": 96.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "base única que durará,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "única",
+          "start": 101.76,
+          "end": 102.76
+        },
+        {
+          "word": "que",
+          "start": 102.76,
+          "end": 104.0
+        },
+        {
+          "word": "durará,",
+          "start": 104.0,
+          "end": 105.26
+        }
+      ],
+      "start": 101.76,
+      "end": 106.38,
+      "confidence": 0.75,
+      "time": 101.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "base única que durará.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "única",
+          "start": 106.38,
+          "end": 107.62
+        },
+        {
+          "word": "que",
+          "start": 107.62,
+          "end": 108.78
+        },
+        {
+          "word": "durará.",
+          "start": 108.78,
+          "end": 111.12
+        }
+      ],
+      "start": 106.38,
+      "end": 111.12,
+      "confidence": 0.75,
+      "time": 106.38
+    }
+  ]
+}

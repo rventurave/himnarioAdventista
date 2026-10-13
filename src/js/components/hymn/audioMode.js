@@ -1,6 +1,6 @@
 import { findActiveIndex } from "../../utils/lyricsTimeline.js";
 import { getHymnAudioUrl } from "../../api/hymnsApi.js";
-import { MODES } from "../../core/constants.js";
+import { MODES, LYRICS_LEAD_SECONDS } from "../../core/constants.js";
 import { getSlides, getPlaybackLyrics } from "../../services/lyricsService.js";
 import * as view from "./hymnView.js";
 
@@ -11,9 +11,6 @@ const audio = view.getAudioElement();
  * Con sincronización, la primera frase determina el fin de la presentación.
  */
 const INTRO_SECONDS = 5;
-
-//La letra se adelanta al audio: la frase se muestra 1 s antes de cantarse.
-const LYRICS_LEAD_SECONDS = 1;
 
 let loadToken = 0;
 let analysisController = null;

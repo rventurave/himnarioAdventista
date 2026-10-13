@@ -1,0 +1,668 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.909,
+  "language": "es",
+  "model": "medium",
+  "hymn": 538,
+  "source": "538 - Hoy es dia de reposo.mp3",
+  "duration": 142.6,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hoy es día de reposo, día santo de solaz;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 10.54,
+          "end": 11.94
+        },
+        {
+          "word": "es",
+          "start": 11.94,
+          "end": 12.58
+        },
+        {
+          "word": "día",
+          "start": 12.58,
+          "end": 14.08
+        },
+        {
+          "word": "de",
+          "start": 14.08,
+          "end": 14.92
+        },
+        {
+          "word": "reposo,",
+          "start": 14.92,
+          "end": 16.52
+        },
+        {
+          "word": "día",
+          "start": 17.26,
+          "end": 17.52
+        },
+        {
+          "word": "santo",
+          "start": 17.52,
+          "end": 19.12
+        },
+        {
+          "word": "de",
+          "start": 19.12,
+          "end": 19.8
+        },
+        {
+          "word": "solas.",
+          "start": 19.8,
+          "end": 21.56
+        }
+      ],
+      "start": 10.54,
+      "end": 21.56,
+      "confidence": 0.987,
+      "time": 10.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "es el día venturoso que nos trae dulce paz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Es",
+          "start": 21.56,
+          "end": 22.34
+        },
+        {
+          "word": "el",
+          "start": 22.34,
+          "end": 22.86
+        },
+        {
+          "word": "día",
+          "start": 22.86,
+          "end": 24.4
+        },
+        {
+          "word": "venturoso",
+          "start": 24.4,
+          "end": 26.76
+        },
+        {
+          "word": "que",
+          "start": 26.76,
+          "end": 27.42
+        },
+        {
+          "word": "nos",
+          "start": 27.42,
+          "end": 28.06
+        },
+        {
+          "word": "trae",
+          "start": 28.06,
+          "end": 29.56
+        },
+        {
+          "word": "dulce",
+          "start": 29.56,
+          "end": 30.52
+        },
+        {
+          "word": "paz.",
+          "start": 30.52,
+          "end": 31.7
+        }
+      ],
+      "start": 21.56,
+      "end": 31.7,
+      "confidence": 1.0,
+      "time": 21.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Es el día señalado con el sello del amor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Es",
+          "start": 32.34,
+          "end": 32.74
+        },
+        {
+          "word": "el",
+          "start": 32.74,
+          "end": 33.6
+        },
+        {
+          "word": "día",
+          "start": 33.6,
+          "end": 34.74
+        },
+        {
+          "word": "señalado",
+          "start": 34.74,
+          "end": 37.1
+        },
+        {
+          "word": "con",
+          "start": 37.1,
+          "end": 37.96
+        },
+        {
+          "word": "el",
+          "start": 37.96,
+          "end": 39.0
+        },
+        {
+          "word": "celo",
+          "start": 39.0,
+          "end": 39.98
+        },
+        {
+          "word": "del",
+          "start": 39.98,
+          "end": 40.38
+        },
+        {
+          "word": "amor.",
+          "start": 40.38,
+          "end": 42.16
+        }
+      ],
+      "start": 32.34,
+      "end": 42.16,
+      "confidence": 0.978,
+      "time": 32.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nuestro Dios lo ha designado:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Nuestro",
+          "start": 42.16,
+          "end": 43.54
+        },
+        {
+          "word": "Dios",
+          "start": 43.54,
+          "end": 44.68
+        },
+        {
+          "word": "lo",
+          "start": 44.68,
+          "end": 45.14
+        },
+        {
+          "word": "ha",
+          "start": 45.14,
+          "end": 45.72
+        },
+        {
+          "word": "designado,",
+          "start": 45.72,
+          "end": 47.52
+        }
+      ],
+      "start": 42.16,
+      "end": 48.0,
+      "confidence": 1.0,
+      "time": 42.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "es el día del Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 48.0,
+          "end": 48.44
+        },
+        {
+          "word": "el",
+          "start": 48.44,
+          "end": 49.0
+        },
+        {
+          "word": "Día",
+          "start": 49.0,
+          "end": 50.28
+        },
+        {
+          "word": "del",
+          "start": 50.28,
+          "end": 51.0
+        },
+        {
+          "word": "Señor.",
+          "start": 51.0,
+          "end": 53.06
+        }
+      ],
+      "start": 48.0,
+      "end": 53.06,
+      "confidence": 1.0,
+      "time": 48.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Hoy cantamos de alegría al Autor del santo don,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 54.22,
+          "end": 54.72
+        },
+        {
+          "word": "cantamos",
+          "start": 54.72,
+          "end": 56.78
+        },
+        {
+          "word": "de",
+          "start": 56.78,
+          "end": 57.54
+        },
+        {
+          "word": "alegría",
+          "start": 57.54,
+          "end": 59.14
+        },
+        {
+          "word": "al",
+          "start": 59.14,
+          "end": 59.98
+        },
+        {
+          "word": "Autor",
+          "start": 59.98,
+          "end": 61.56
+        },
+        {
+          "word": "del",
+          "start": 61.56,
+          "end": 62.0
+        },
+        {
+          "word": "Santo",
+          "start": 62.0,
+          "end": 62.94
+        },
+        {
+          "word": "Don,",
+          "start": 62.94,
+          "end": 64.06
+        }
+      ],
+      "start": 54.22,
+      "end": 64.06,
+      "confidence": 1.0,
+      "time": 54.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "que nos da el festivo día y se goza en el perdón.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 64.06,
+          "end": 64.98
+        },
+        {
+          "word": "los",
+          "start": 64.98,
+          "end": 65.7
+        },
+        {
+          "word": "bodía",
+          "start": 67.9,
+          "end": 69.48
+        },
+        {
+          "word": "y",
+          "start": 69.48,
+          "end": 70.14
+        },
+        {
+          "word": "se",
+          "start": 70.14,
+          "end": 70.72
+        },
+        {
+          "word": "goza",
+          "start": 70.72,
+          "end": 72.14
+        },
+        {
+          "word": "en",
+          "start": 72.14,
+          "end": 72.66
+        },
+        {
+          "word": "el",
+          "start": 72.66,
+          "end": 73.18
+        },
+        {
+          "word": "perdón.",
+          "start": 73.18,
+          "end": 74.7
+        }
+      ],
+      "start": 64.06,
+      "end": 74.7,
+      "confidence": 0.721,
+      "time": 64.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Aceptemos, pues, con gusto el descanso semanal,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Aceptemos",
+          "start": 75.96,
+          "end": 77.36
+        },
+        {
+          "word": "pues",
+          "start": 77.36,
+          "end": 78.14
+        },
+        {
+          "word": "con",
+          "start": 78.14,
+          "end": 78.5
+        },
+        {
+          "word": "gusto",
+          "start": 78.5,
+          "end": 79.68
+        },
+        {
+          "word": "el",
+          "start": 79.68,
+          "end": 80.82
+        },
+        {
+          "word": "descanso",
+          "start": 80.82,
+          "end": 82.56
+        },
+        {
+          "word": "semanal,",
+          "start": 82.56,
+          "end": 85.04
+        }
+      ],
+      "start": 75.96,
+      "end": 85.04,
+      "confidence": 1.0,
+      "time": 75.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "esperando el día augusto del reposo celestial.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Esperando",
+          "start": 85.04,
+          "end": 87.66
+        },
+        {
+          "word": "el",
+          "start": 87.66,
+          "end": 88.06
+        },
+        {
+          "word": "día",
+          "start": 88.06,
+          "end": 88.72
+        },
+        {
+          "word": "a",
+          "start": 88.72,
+          "end": 88.92
+        },
+        {
+          "word": "del",
+          "start": 90.24,
+          "end": 90.92
+        },
+        {
+          "word": "reposos",
+          "start": 90.92,
+          "end": 93.48
+        },
+        {
+          "word": "celestial.",
+          "start": 93.48,
+          "end": 95.56
+        }
+      ],
+      "start": 85.04,
+      "end": 95.56,
+      "confidence": 0.983,
+      "time": 85.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Los que a ti nos acercamos por Jesús, Dios de verdad,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Los",
+          "start": 97.16,
+          "end": 97.4
+        },
+        {
+          "word": "que",
+          "start": 97.4,
+          "end": 97.82
+        },
+        {
+          "word": "a",
+          "start": 97.82,
+          "end": 98.08
+        },
+        {
+          "word": "ti",
+          "start": 98.08,
+          "end": 99.08
+        },
+        {
+          "word": "nos",
+          "start": 99.08,
+          "end": 99.82
+        },
+        {
+          "word": "acercamos",
+          "start": 99.82,
+          "end": 101.84
+        },
+        {
+          "word": "por",
+          "start": 101.84,
+          "end": 102.6
+        },
+        {
+          "word": "Jesús,",
+          "start": 102.6,
+          "end": 104.1
+        },
+        {
+          "word": "Dios",
+          "start": 104.46,
+          "end": 104.64
+        },
+        {
+          "word": "de",
+          "start": 104.64,
+          "end": 105.26
+        },
+        {
+          "word": "verdad,",
+          "start": 105.26,
+          "end": 106.84
+        }
+      ],
+      "start": 97.16,
+      "end": 106.84,
+      "confidence": 1.0,
+      "time": 97.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hoy alegres proclamamos tu justicia y tu bondad.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 106.84,
+          "end": 107.84
+        },
+        {
+          "word": "alegres",
+          "start": 107.84,
+          "end": 109.8
+        },
+        {
+          "word": "proclamamos",
+          "start": 109.8,
+          "end": 112.14
+        },
+        {
+          "word": "Tu",
+          "start": 112.14,
+          "end": 112.82
+        },
+        {
+          "word": "Justicia",
+          "start": 112.82,
+          "end": 114.72
+        },
+        {
+          "word": "y",
+          "start": 114.72,
+          "end": 115.22
+        },
+        {
+          "word": "Tu",
+          "start": 115.22,
+          "end": 115.64
+        }
+      ],
+      "start": 106.84,
+      "end": 117.22,
+      "confidence": 0.875,
+      "time": 106.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En los fastos de la historia siempre se celebrará",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 117.48,
+          "end": 118.02
+        },
+        {
+          "word": "los",
+          "start": 118.02,
+          "end": 119.14
+        },
+        {
+          "word": "bastos",
+          "start": 119.14,
+          "end": 120.24
+        },
+        {
+          "word": "de",
+          "start": 120.24,
+          "end": 120.84
+        },
+        {
+          "word": "la",
+          "start": 120.84,
+          "end": 121.12
+        },
+        {
+          "word": "historia,",
+          "start": 121.12,
+          "end": 122.46
+        },
+        {
+          "word": "celebrará.",
+          "start": 124.7,
+          "end": 127.5
+        }
+      ],
+      "start": 117.48,
+      "end": 127.5,
+      "confidence": 0.767,
+      "time": 117.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "este día, y su memoria por los siglos durará.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Este",
+          "start": 127.5,
+          "end": 128.9
+        },
+        {
+          "word": "día",
+          "start": 128.9,
+          "end": 130.46
+        },
+        {
+          "word": "su",
+          "start": 130.98,
+          "end": 131.3
+        },
+        {
+          "word": "memoria",
+          "start": 131.3,
+          "end": 132.98
+        },
+        {
+          "word": "por",
+          "start": 132.98,
+          "end": 133.74
+        },
+        {
+          "word": "los",
+          "start": 133.74,
+          "end": 134.94
+        }
+      ],
+      "start": 127.5,
+      "end": 139.7,
+      "confidence": 0.667,
+      "time": 127.5
+    }
+  ]
+}

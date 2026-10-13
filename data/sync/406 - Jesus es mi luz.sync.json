@@ -1,0 +1,1460 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.867,
+  "language": "es",
+  "model": "medium",
+  "hymn": 406,
+  "source": "406 - Jesus es mi luz.mp3",
+  "duration": 200.62,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús es mi luz, jamás temeré;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 12.16,
+          "end": 13.32
+        },
+        {
+          "word": "es",
+          "start": 13.32,
+          "end": 14.22
+        },
+        {
+          "word": "mi",
+          "start": 14.22,
+          "end": 14.64
+        },
+        {
+          "word": "luz,",
+          "start": 14.64,
+          "end": 15.12
+        },
+        {
+          "word": "jamás",
+          "start": 15.2,
+          "end": 16.5
+        },
+        {
+          "word": "te",
+          "start": 16.5,
+          "end": 17.04
+        }
+      ],
+      "start": 12.16,
+      "end": 18.38,
+      "confidence": 0.99,
+      "time": 12.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de día y de noche en luz andaré.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 18.38,
+          "end": 18.8
+        },
+        {
+          "word": "día",
+          "start": 18.8,
+          "end": 19.48
+        },
+        {
+          "word": "y",
+          "start": 19.48,
+          "end": 19.82
+        },
+        {
+          "word": "de",
+          "start": 19.82,
+          "end": 20.42
+        },
+        {
+          "word": "noche",
+          "start": 20.42,
+          "end": 21.0
+        },
+        {
+          "word": "sanaré.",
+          "start": 22.3,
+          "end": 23.52
+        }
+      ],
+      "start": 18.38,
+      "end": 23.52,
+      "confidence": 0.737,
+      "time": 18.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "En horas de llanto, de luto y dolor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 23.52,
+          "end": 24.54
+        },
+        {
+          "word": "horas",
+          "start": 24.54,
+          "end": 25.28
+        },
+        {
+          "word": "de",
+          "start": 25.28,
+          "end": 25.74
+        },
+        {
+          "word": "llanto",
+          "start": 25.74,
+          "end": 26.56
+        },
+        {
+          "word": "del",
+          "start": 26.56,
+          "end": 27.1
+        },
+        {
+          "word": "y",
+          "start": 27.78,
+          "end": 28.06
+        },
+        {
+          "word": "dolor",
+          "start": 28.06,
+          "end": 29.14
+        }
+      ],
+      "start": 23.52,
+      "end": 29.14,
+      "confidence": 0.86,
+      "time": 23.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "consuelo y gozo me infunde el Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Consuelo",
+          "start": 29.14,
+          "end": 30.86
+        },
+        {
+          "word": "y",
+          "start": 30.86,
+          "end": 31.28
+        },
+        {
+          "word": "gozo",
+          "start": 31.28,
+          "end": 32.16
+        },
+        {
+          "word": "me",
+          "start": 32.16,
+          "end": 32.5
+        },
+        {
+          "word": "enfunde",
+          "start": 32.5,
+          "end": 33.56
+        },
+        {
+          "word": "el",
+          "start": 33.56,
+          "end": 34.04
+        },
+        {
+          "word": "Señor",
+          "start": 34.04,
+          "end": 34.84
+        }
+      ],
+      "start": 29.14,
+      "end": 34.84,
+      "confidence": 0.988,
+      "time": 29.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Jesús es mi luz, mi todo, mi bien;",
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 34.84,
+          "end": 36.02
+        },
+        {
+          "word": "es",
+          "start": 36.02,
+          "end": 36.56
+        },
+        {
+          "word": "mi",
+          "start": 36.56,
+          "end": 36.9
+        },
+        {
+          "word": "luz,",
+          "start": 36.9,
+          "end": 37.46
+        },
+        {
+          "word": "mi",
+          "start": 38.12,
+          "end": 38.18
+        },
+        {
+          "word": "todo,",
+          "start": 38.18,
+          "end": 39.14
+        },
+        {
+          "word": "mi",
+          "start": 39.66,
+          "end": 39.66
+        },
+        {
+          "word": "bien",
+          "start": 39.66,
+          "end": 40.32
+        }
+      ],
+      "start": 34.84,
+      "end": 40.32,
+      "confidence": 1.0,
+      "time": 34.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "de día y de noche él es mi sostén.",
+      "words": [
+        {
+          "word": "De",
+          "start": 40.32,
+          "end": 41.14
+        },
+        {
+          "word": "día",
+          "start": 41.14,
+          "end": 41.76
+        },
+        {
+          "word": "y",
+          "start": 41.76,
+          "end": 42.06
+        },
+        {
+          "word": "de",
+          "start": 42.06,
+          "end": 42.58
+        },
+        {
+          "word": "noche",
+          "start": 42.58,
+          "end": 43.42
+        },
+        {
+          "word": "Él",
+          "start": 43.42,
+          "end": 44.04
+        },
+        {
+          "word": "es",
+          "start": 44.04,
+          "end": 44.42
+        },
+        {
+          "word": "mi",
+          "start": 44.42,
+          "end": 44.74
+        },
+        {
+          "word": "sostén",
+          "start": 44.74,
+          "end": 45.96
+        }
+      ],
+      "start": 40.32,
+      "end": 45.96,
+      "confidence": 1.0,
+      "time": 40.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Jesús es mi luz, mi todo, mi bien;",
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 45.96,
+          "end": 47.1
+        },
+        {
+          "word": "es",
+          "start": 47.1,
+          "end": 47.68
+        },
+        {
+          "word": "mi",
+          "start": 47.68,
+          "end": 48.04
+        },
+        {
+          "word": "luz",
+          "start": 48.04,
+          "end": 48.58
+        },
+        {
+          "word": "todo",
+          "start": 49.36,
+          "end": 50.32
+        },
+        {
+          "word": "mi",
+          "start": 50.32,
+          "end": 50.86
+        },
+        {
+          "word": "bien,",
+          "start": 50.86,
+          "end": 51.46
+        }
+      ],
+      "start": 45.96,
+      "end": 51.66,
+      "confidence": 0.875,
+      "time": 45.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "de día y de noche él es mi sostén.",
+      "words": [
+        {
+          "word": "de",
+          "start": 51.66,
+          "end": 52.24
+        },
+        {
+          "word": "día",
+          "start": 52.24,
+          "end": 52.86
+        },
+        {
+          "word": "y",
+          "start": 52.86,
+          "end": 53.22
+        },
+        {
+          "word": "de",
+          "start": 53.22,
+          "end": 53.76
+        },
+        {
+          "word": "noche",
+          "start": 53.76,
+          "end": 54.42
+        },
+        {
+          "word": "Él",
+          "start": 54.42,
+          "end": 55.22
+        },
+        {
+          "word": "es",
+          "start": 55.22,
+          "end": 55.74
+        },
+        {
+          "word": "mi",
+          "start": 55.74,
+          "end": 56.12
+        }
+      ],
+      "start": 51.66,
+      "end": 58.24,
+      "confidence": 0.889,
+      "time": 51.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesús es mi luz; si en males estoy,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 58.68,
+          "end": 59.72
+        },
+        {
+          "word": "es",
+          "start": 59.72,
+          "end": 60.2
+        },
+        {
+          "word": "mi",
+          "start": 60.2,
+          "end": 60.64
+        },
+        {
+          "word": "luz",
+          "start": 60.64,
+          "end": 61.2
+        },
+        {
+          "word": "en",
+          "start": 61.76,
+          "end": 62.26
+        },
+        {
+          "word": "malas",
+          "start": 62.26,
+          "end": 62.94
+        },
+        {
+          "word": "estoy,",
+          "start": 62.94,
+          "end": 63.84
+        }
+      ],
+      "start": 58.68,
+      "end": 64.58,
+      "confidence": 0.86,
+      "time": 58.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al Padre benigno seguro yo voy.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 64.58,
+          "end": 64.62
+        },
+        {
+          "word": "Padre",
+          "start": 64.62,
+          "end": 65.62
+        },
+        {
+          "word": "bendigno",
+          "start": 65.62,
+          "end": 66.98
+        },
+        {
+          "word": "seguro",
+          "start": 66.98,
+          "end": 68.14
+        },
+        {
+          "word": "yo",
+          "start": 68.14,
+          "end": 69.0
+        },
+        {
+          "word": "voy.",
+          "start": 69.0,
+          "end": 69.42
+        }
+      ],
+      "start": 64.58,
+      "end": 69.42,
+      "confidence": 0.993,
+      "time": 64.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Allí está Cristo, mi fiel Mediador;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Allí",
+          "start": 69.42,
+          "end": 71.04
+        },
+        {
+          "word": "está",
+          "start": 71.04,
+          "end": 71.52
+        },
+        {
+          "word": "Cristo,",
+          "start": 71.52,
+          "end": 72.42
+        },
+        {
+          "word": "mi",
+          "start": 72.66,
+          "end": 72.92
+        },
+        {
+          "word": "fiel",
+          "start": 72.92,
+          "end": 73.58
+        },
+        {
+          "word": "mediador,",
+          "start": 73.58,
+          "end": 75.18
+        }
+      ],
+      "start": 69.42,
+      "end": 75.52,
+      "confidence": 1.0,
+      "time": 69.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "sus méritos siempre pondrá a mi favor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "su",
+          "start": 75.52,
+          "end": 75.72
+        },
+        {
+          "word": "siempre",
+          "start": 77.06,
+          "end": 78.06
+        },
+        {
+          "word": "pondrá",
+          "start": 78.06,
+          "end": 79.18
+        },
+        {
+          "word": "mi",
+          "start": 79.18,
+          "end": 79.72
+        },
+        {
+          "word": "favor.",
+          "start": 79.72,
+          "end": 80.6
+        }
+      ],
+      "start": 75.52,
+      "end": 80.6,
+      "confidence": 0.706,
+      "time": 75.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Jesús es mi luz, mi todo, mi bien;",
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 81.24,
+          "end": 81.98
+        },
+        {
+          "word": "es",
+          "start": 81.98,
+          "end": 82.5
+        },
+        {
+          "word": "mi",
+          "start": 82.5,
+          "end": 82.88
+        },
+        {
+          "word": "luz",
+          "start": 82.88,
+          "end": 83.42
+        },
+        {
+          "word": "todo",
+          "start": 84.06,
+          "end": 85.1
+        },
+        {
+          "word": "mi",
+          "start": 85.1,
+          "end": 85.7
+        },
+        {
+          "word": "bien,",
+          "start": 85.7,
+          "end": 86.2
+        }
+      ],
+      "start": 81.24,
+      "end": 86.7,
+      "confidence": 0.875,
+      "time": 81.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "de día y de noche él es mi sostén.",
+      "words": [
+        {
+          "word": "de",
+          "start": 86.7,
+          "end": 86.92
+        },
+        {
+          "word": "día",
+          "start": 86.92,
+          "end": 87.72
+        },
+        {
+          "word": "y",
+          "start": 87.72,
+          "end": 88.02
+        },
+        {
+          "word": "de",
+          "start": 88.02,
+          "end": 88.54
+        },
+        {
+          "word": "noche",
+          "start": 88.54,
+          "end": 89.3
+        },
+        {
+          "word": "Él",
+          "start": 89.3,
+          "end": 90.18
+        },
+        {
+          "word": "es",
+          "start": 90.18,
+          "end": 90.48
+        },
+        {
+          "word": "mi",
+          "start": 90.48,
+          "end": 90.88
+        },
+        {
+          "word": "sostén.",
+          "start": 90.88,
+          "end": 91.84
+        }
+      ],
+      "start": 86.7,
+      "end": 91.84,
+      "confidence": 1.0,
+      "time": 86.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Jesús es mi luz, mi todo, mi bien;",
+      "words": [
+        {
+          "word": "es",
+          "start": 92.9,
+          "end": 93.6
+        },
+        {
+          "word": "mi",
+          "start": 93.6,
+          "end": 94.12
+        },
+        {
+          "word": "luz,",
+          "start": 94.12,
+          "end": 94.6
+        },
+        {
+          "word": "mi",
+          "start": 94.84,
+          "end": 95.26
+        },
+        {
+          "word": "todo,",
+          "start": 95.26,
+          "end": 96.22
+        },
+        {
+          "word": "mi",
+          "start": 96.82,
+          "end": 96.82
+        }
+      ],
+      "start": 92.9,
+      "end": 97.62,
+      "confidence": 0.75,
+      "time": 92.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "de día y de noche él es mi sostén.",
+      "words": [
+        {
+          "word": "de",
+          "start": 97.62,
+          "end": 98.1
+        },
+        {
+          "word": "día",
+          "start": 98.1,
+          "end": 98.86
+        },
+        {
+          "word": "y",
+          "start": 98.86,
+          "end": 99.18
+        },
+        {
+          "word": "de",
+          "start": 99.18,
+          "end": 99.72
+        },
+        {
+          "word": "noche",
+          "start": 99.72,
+          "end": 100.32
+        },
+        {
+          "word": "Él",
+          "start": 100.32,
+          "end": 101.3
+        },
+        {
+          "word": "es",
+          "start": 101.3,
+          "end": 101.52
+        },
+        {
+          "word": "mi",
+          "start": 101.52,
+          "end": 101.98
+        }
+      ],
+      "start": 97.62,
+      "end": 104.54,
+      "confidence": 0.889,
+      "time": 97.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Jesús es mi luz, mi amparo y broquel;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "es",
+          "start": 105.46,
+          "end": 106.0
+        },
+        {
+          "word": "mi",
+          "start": 106.0,
+          "end": 106.44
+        },
+        {
+          "word": "luz,",
+          "start": 106.44,
+          "end": 106.96
+        },
+        {
+          "word": "mi",
+          "start": 108.74,
+          "end": 108.88
+        }
+      ],
+      "start": 105.46,
+      "end": 110.32,
+      "confidence": 0.5,
+      "time": 105.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "victoria obtendré; me mantiene muy fiel.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "victoria",
+          "start": 110.32,
+          "end": 111.42
+        },
+        {
+          "word": "obtendré,",
+          "start": 111.42,
+          "end": 112.52
+        }
+      ],
+      "start": 110.32,
+      "end": 115.44,
+      "confidence": 0.333,
+      "time": 110.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Si débil estoy en mi ayuda vendrá;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Si",
+          "start": 115.44,
+          "end": 116.12
+        },
+        {
+          "word": "debil",
+          "start": 116.12,
+          "end": 117.26
+        },
+        {
+          "word": "estoy",
+          "start": 117.26,
+          "end": 118.06
+        },
+        {
+          "word": "en",
+          "start": 118.06,
+          "end": 118.48
+        },
+        {
+          "word": "mi",
+          "start": 118.48,
+          "end": 118.84
+        },
+        {
+          "word": "ayuda",
+          "start": 118.84,
+          "end": 119.78
+        },
+        {
+          "word": "vendrá",
+          "start": 119.78,
+          "end": 121.1
+        }
+      ],
+      "start": 115.44,
+      "end": 121.1,
+      "confidence": 1.0,
+      "time": 115.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "su brazo potente mi andar sostendrá.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Su",
+          "start": 121.1,
+          "end": 121.62
+        },
+        {
+          "word": "brazo",
+          "start": 121.62,
+          "end": 122.64
+        },
+        {
+          "word": "potente",
+          "start": 122.64,
+          "end": 123.94
+        },
+        {
+          "word": "mi",
+          "start": 123.94,
+          "end": 124.3
+        },
+        {
+          "word": "andar",
+          "start": 124.3,
+          "end": 125.06
+        },
+        {
+          "word": "sostendrá",
+          "start": 125.06,
+          "end": 126.78
+        }
+      ],
+      "start": 121.1,
+      "end": 126.78,
+      "confidence": 1.0,
+      "time": 121.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Jesús es mi luz, mi todo, mi bien;",
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 126.78,
+          "end": 127.82
+        },
+        {
+          "word": "es",
+          "start": 127.82,
+          "end": 128.4
+        },
+        {
+          "word": "mi",
+          "start": 128.4,
+          "end": 128.66
+        },
+        {
+          "word": "luz,",
+          "start": 128.66,
+          "end": 129.32
+        },
+        {
+          "word": "mi",
+          "start": 129.72,
+          "end": 129.94
+        },
+        {
+          "word": "todo,",
+          "start": 129.94,
+          "end": 131.0
+        },
+        {
+          "word": "mi",
+          "start": 131.48,
+          "end": 131.48
+        },
+        {
+          "word": "bien",
+          "start": 131.48,
+          "end": 132.1
+        }
+      ],
+      "start": 126.78,
+      "end": 132.1,
+      "confidence": 1.0,
+      "time": 126.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "de día y de noche él es mi sostén.",
+      "words": [
+        {
+          "word": "De",
+          "start": 132.1,
+          "end": 132.74
+        },
+        {
+          "word": "día",
+          "start": 132.74,
+          "end": 133.6
+        },
+        {
+          "word": "y",
+          "start": 133.6,
+          "end": 133.92
+        },
+        {
+          "word": "de",
+          "start": 133.92,
+          "end": 134.5
+        },
+        {
+          "word": "noche",
+          "start": 134.5,
+          "end": 135.24
+        },
+        {
+          "word": "Él",
+          "start": 135.24,
+          "end": 136.12
+        },
+        {
+          "word": "es",
+          "start": 136.12,
+          "end": 136.34
+        },
+        {
+          "word": "mi",
+          "start": 136.34,
+          "end": 136.72
+        },
+        {
+          "word": "sostén",
+          "start": 136.72,
+          "end": 137.86
+        }
+      ],
+      "start": 132.1,
+      "end": 137.86,
+      "confidence": 1.0,
+      "time": 132.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Jesús es mi luz, mi todo, mi bien;",
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 137.86,
+          "end": 138.92
+        },
+        {
+          "word": "es",
+          "start": 138.92,
+          "end": 139.52
+        },
+        {
+          "word": "mi",
+          "start": 139.52,
+          "end": 139.9
+        },
+        {
+          "word": "luz",
+          "start": 139.9,
+          "end": 140.48
+        },
+        {
+          "word": "todo",
+          "start": 141.12,
+          "end": 142.04
+        },
+        {
+          "word": "mi",
+          "start": 142.04,
+          "end": 142.68
+        },
+        {
+          "word": "bien,",
+          "start": 142.68,
+          "end": 143.24
+        }
+      ],
+      "start": 137.86,
+      "end": 143.44,
+      "confidence": 0.875,
+      "time": 137.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "de día y de noche él es mi sostén.",
+      "words": [
+        {
+          "word": "de",
+          "start": 143.44,
+          "end": 143.88
+        },
+        {
+          "word": "día",
+          "start": 143.88,
+          "end": 144.74
+        },
+        {
+          "word": "y",
+          "start": 144.74,
+          "end": 145.06
+        },
+        {
+          "word": "de",
+          "start": 145.06,
+          "end": 145.62
+        },
+        {
+          "word": "noche",
+          "start": 145.62,
+          "end": 146.22
+        },
+        {
+          "word": "Él",
+          "start": 146.22,
+          "end": 146.94
+        },
+        {
+          "word": "es",
+          "start": 146.94,
+          "end": 147.44
+        },
+        {
+          "word": "mi",
+          "start": 147.44,
+          "end": 147.92
+        },
+        {
+          "word": "sustención.",
+          "start": 147.92,
+          "end": 150.48
+        }
+      ],
+      "start": 143.44,
+      "end": 150.48,
+      "confidence": 0.975,
+      "time": 143.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Jesús es mi luz, mi todo, mi bien;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 150.56,
+          "end": 151.18
+        },
+        {
+          "word": "es",
+          "start": 151.18,
+          "end": 151.96
+        },
+        {
+          "word": "mi",
+          "start": 151.96,
+          "end": 152.28
+        },
+        {
+          "word": "luz",
+          "start": 152.28,
+          "end": 152.9
+        },
+        {
+          "word": "todo",
+          "start": 153.82,
+          "end": 154.62
+        },
+        {
+          "word": "mi",
+          "start": 154.62,
+          "end": 155.12
+        },
+        {
+          "word": "bien,",
+          "start": 155.12,
+          "end": 155.62
+        }
+      ],
+      "start": 150.56,
+      "end": 156.18,
+      "confidence": 0.875,
+      "time": 150.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "le doy alma y cuerpo y mi mente también.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "le",
+          "start": 156.18,
+          "end": 156.58
+        },
+        {
+          "word": "doy",
+          "start": 156.58,
+          "end": 157.18
+        },
+        {
+          "word": "alma",
+          "start": 157.18,
+          "end": 157.5
+        },
+        {
+          "word": "cuerpo",
+          "start": 157.78,
+          "end": 158.52
+        },
+        {
+          "word": "y",
+          "start": 158.52,
+          "end": 158.86
+        },
+        {
+          "word": "mi",
+          "start": 158.86,
+          "end": 159.2
+        },
+        {
+          "word": "mente",
+          "start": 159.2,
+          "end": 160.06
+        },
+        {
+          "word": "también.",
+          "start": 160.06,
+          "end": 161.28
+        }
+      ],
+      "start": 156.18,
+      "end": 161.28,
+      "confidence": 0.889,
+      "time": 156.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Entono al Cordero alegre loor;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "al",
+          "start": 162.7,
+          "end": 162.94
+        },
+        {
+          "word": "alegre",
+          "start": 164.3,
+          "end": 165.72
+        }
+      ],
+      "start": 162.7,
+      "end": 167.94,
+      "confidence": 0.4,
+      "time": 162.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "con todos sus santos le rindo honor.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "todos",
+          "start": 167.94,
+          "end": 168.48
+        },
+        {
+          "word": "santos",
+          "start": 169.02,
+          "end": 170.02
+        },
+        {
+          "word": "rinda",
+          "start": 170.48,
+          "end": 171.48
+        },
+        {
+          "word": "honor.",
+          "start": 171.48,
+          "end": 172.46
+        }
+      ],
+      "start": 167.94,
+      "end": 172.46,
+      "confidence": 0.554,
+      "time": 167.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Jesús es mi luz, mi todo, mi bien;",
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 173.16,
+          "end": 173.76
+        },
+        {
+          "word": "es",
+          "start": 173.76,
+          "end": 174.38
+        },
+        {
+          "word": "mi",
+          "start": 174.38,
+          "end": 174.66
+        },
+        {
+          "word": "luz,",
+          "start": 174.66,
+          "end": 175.26
+        },
+        {
+          "word": "mi",
+          "start": 175.28,
+          "end": 175.94
+        },
+        {
+          "word": "todo,",
+          "start": 175.94,
+          "end": 176.84
+        },
+        {
+          "word": "mi",
+          "start": 176.84,
+          "end": 177.32
+        },
+        {
+          "word": "bien,",
+          "start": 177.32,
+          "end": 178.04
+        }
+      ],
+      "start": 173.16,
+      "end": 178.6,
+      "confidence": 1.0,
+      "time": 173.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "de día y de noche él es mi sostén.",
+      "words": [
+        {
+          "word": "de",
+          "start": 178.6,
+          "end": 178.84
+        },
+        {
+          "word": "día",
+          "start": 178.84,
+          "end": 179.44
+        },
+        {
+          "word": "y",
+          "start": 179.44,
+          "end": 179.78
+        },
+        {
+          "word": "de",
+          "start": 179.78,
+          "end": 180.3
+        },
+        {
+          "word": "noche",
+          "start": 180.3,
+          "end": 181.0
+        },
+        {
+          "word": "el",
+          "start": 181.0,
+          "end": 181.7
+        },
+        {
+          "word": "es",
+          "start": 181.7,
+          "end": 182.26
+        },
+        {
+          "word": "mi",
+          "start": 182.26,
+          "end": 182.66
+        }
+      ],
+      "start": 178.6,
+      "end": 183.86,
+      "confidence": 0.889,
+      "time": 178.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Jesús es mi luz, mi todo, mi bien;",
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 183.86,
+          "end": 184.9
+        },
+        {
+          "word": "es",
+          "start": 184.9,
+          "end": 185.5
+        },
+        {
+          "word": "mi",
+          "start": 185.5,
+          "end": 185.88
+        },
+        {
+          "word": "luz,",
+          "start": 185.88,
+          "end": 186.38
+        },
+        {
+          "word": "mi",
+          "start": 187.04,
+          "end": 187.04
+        },
+        {
+          "word": "todo,",
+          "start": 187.04,
+          "end": 188.0
+        },
+        {
+          "word": "mi",
+          "start": 188.62,
+          "end": 188.62
+        }
+      ],
+      "start": 183.86,
+      "end": 189.14,
+      "confidence": 0.875,
+      "time": 183.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "de día y de noche él es mi sostén.",
+      "words": [
+        {
+          "word": "De",
+          "start": 189.14,
+          "end": 190.02
+        },
+        {
+          "word": "día",
+          "start": 190.02,
+          "end": 190.62
+        },
+        {
+          "word": "y",
+          "start": 190.62,
+          "end": 190.98
+        },
+        {
+          "word": "de",
+          "start": 190.98,
+          "end": 191.34
+        },
+        {
+          "word": "noche",
+          "start": 191.34,
+          "end": 192.2
+        },
+        {
+          "word": "Él",
+          "start": 192.2,
+          "end": 193.32
+        },
+        {
+          "word": "es",
+          "start": 193.32,
+          "end": 193.7
+        },
+        {
+          "word": "mi",
+          "start": 193.7,
+          "end": 194.16
+        }
+      ],
+      "start": 189.14,
+      "end": 197.6,
+      "confidence": 0.889,
+      "time": 189.14
+    }
+  ]
+}

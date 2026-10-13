@@ -1,0 +1,391 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.802,
+  "language": "es",
+  "model": "medium",
+  "hymn": 587,
+  "source": "587 - Te dedicamos, oh Senor.mp3",
+  "duration": 91.74,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Te dedicamos, oh Señor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Te",
+          "start": 14.24,
+          "end": 15.64
+        },
+        {
+          "word": "dedicamos",
+          "start": 15.64,
+          "end": 17.04
+        },
+        {
+          "word": "Señor,",
+          "start": 17.7,
+          "end": 19.34
+        }
+      ],
+      "start": 14.24,
+      "end": 19.96,
+      "confidence": 0.75,
+      "time": 14.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "hoy esta casa de oración.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "hoy",
+          "start": 19.96,
+          "end": 20.3
+        },
+        {
+          "word": "esta",
+          "start": 20.3,
+          "end": 20.92
+        },
+        {
+          "word": "casa",
+          "start": 20.92,
+          "end": 22.42
+        },
+        {
+          "word": "de",
+          "start": 22.42,
+          "end": 23.28
+        },
+        {
+          "word": "oración,",
+          "start": 23.28,
+          "end": 24.62
+        }
+      ],
+      "start": 19.96,
+      "end": 24.62,
+      "confidence": 1.0,
+      "time": 19.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Con gratitud y devoción",
+      "verse": 1,
+      "words": [
+        {
+          "word": "gratitud",
+          "start": 25.28,
+          "end": 27.74
+        },
+        {
+          "word": "y",
+          "start": 27.74,
+          "end": 28.52
+        },
+        {
+          "word": "decoción",
+          "start": 28.52,
+          "end": 30.24
+        }
+      ],
+      "start": 25.28,
+      "end": 30.24,
+      "confidence": 0.731,
+      "time": 25.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "la consagramos a tu honor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 30.24,
+          "end": 30.82
+        },
+        {
+          "word": "consagramos",
+          "start": 30.82,
+          "end": 33.64
+        },
+        {
+          "word": "a",
+          "start": 33.64,
+          "end": 34.7
+        },
+        {
+          "word": "tu",
+          "start": 34.7,
+          "end": 35.3
+        },
+        {
+          "word": "honor.",
+          "start": 35.3,
+          "end": 36.46
+        }
+      ],
+      "start": 30.24,
+      "end": 36.46,
+      "confidence": 1.0,
+      "time": 30.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Que tu presencia siempre aquí",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Que",
+          "start": 38.04,
+          "end": 38.2
+        },
+        {
+          "word": "tu",
+          "start": 38.2,
+          "end": 38.72
+        },
+        {
+          "word": "presencia",
+          "start": 38.72,
+          "end": 40.38
+        },
+        {
+          "word": "siempre",
+          "start": 40.38,
+          "end": 41.62
+        },
+        {
+          "word": "aquí",
+          "start": 41.62,
+          "end": 43.08
+        }
+      ],
+      "start": 38.04,
+      "end": 43.08,
+      "confidence": 1.0,
+      "time": 38.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "sea un refugio al mortal.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "sea",
+          "start": 43.08,
+          "end": 44.06
+        },
+        {
+          "word": "un",
+          "start": 44.06,
+          "end": 44.72
+        },
+        {
+          "word": "refugio",
+          "start": 44.72,
+          "end": 46.34
+        },
+        {
+          "word": "al",
+          "start": 46.34,
+          "end": 47.1
+        },
+        {
+          "word": "mortal.",
+          "start": 47.1,
+          "end": 47.8
+        }
+      ],
+      "start": 43.08,
+      "end": 47.8,
+      "confidence": 1.0,
+      "time": 43.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Escucha toda oración",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Escucha",
+          "start": 47.8,
+          "end": 50.28
+        },
+        {
+          "word": "toda",
+          "start": 50.28,
+          "end": 51.7
+        },
+        {
+          "word": "oración",
+          "start": 51.7,
+          "end": 54.04
+        }
+      ],
+      "start": 47.8,
+      "end": 54.04,
+      "confidence": 1.0,
+      "time": 47.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y acepta nuestra adoración.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 54.04,
+          "end": 54.62
+        },
+        {
+          "word": "acepta",
+          "start": 54.62,
+          "end": 56.28
+        },
+        {
+          "word": "nuestra",
+          "start": 56.28,
+          "end": 57.28
+        },
+        {
+          "word": "oración.",
+          "start": 57.28,
+          "end": 59.8
+        }
+      ],
+      "start": 54.04,
+      "end": 59.8,
+      "confidence": 0.981,
+      "time": 54.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Oh, Padre, ven a bendecir",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Oh",
+          "start": 59.8,
+          "end": 62.14
+        },
+        {
+          "word": "Padre,",
+          "start": 62.14,
+          "end": 63.18
+        },
+        {
+          "word": "ya",
+          "start": 64.08,
+          "end": 64.5
+        }
+      ],
+      "start": 59.8,
+      "end": 67.34,
+      "confidence": 0.56,
+      "time": 59.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "este lugar y a tu grey.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "es",
+          "start": 67.34,
+          "end": 67.8
+        }
+      ],
+      "start": 67.34,
+      "end": 72.08,
+      "confidence": 0.157,
+      "time": 67.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Que en este templo siempre esté",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 72.6,
+          "end": 72.84
+        },
+        {
+          "word": "en",
+          "start": 72.84,
+          "end": 73.68
+        },
+        {
+          "word": "este",
+          "start": 73.68,
+          "end": 74.24
+        },
+        {
+          "word": "siempre",
+          "start": 75.46,
+          "end": 76.42
+        },
+        {
+          "word": "esté",
+          "start": 76.42,
+          "end": 77.82
+        }
+      ],
+      "start": 72.6,
+      "end": 77.82,
+      "confidence": 0.833,
+      "time": 72.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu Santo Espíritu hasta el fin.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tu",
+          "start": 77.82,
+          "end": 78.34
+        },
+        {
+          "word": "San",
+          "start": 78.34,
+          "end": 79.4
+        },
+        {
+          "word": "Espíritu",
+          "start": 79.4,
+          "end": 81.6
+        },
+        {
+          "word": "hasta",
+          "start": 81.6,
+          "end": 82.5
+        },
+        {
+          "word": "el",
+          "start": 91.48,
+          "end": 91.52
+        }
+      ],
+      "start": 77.82,
+      "end": 91.54,
+      "confidence": 0.823,
+      "time": 77.82
+    }
+  ]
+}

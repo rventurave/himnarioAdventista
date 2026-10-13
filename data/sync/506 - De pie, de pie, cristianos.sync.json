@@ -1,0 +1,797 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.874,
+  "language": "es",
+  "model": "medium",
+  "hymn": 506,
+  "source": "506 - De pie, de pie, cristianos.mp3",
+  "duration": 188.06,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡De pie, de pie, cristianos!,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 22.38,
+          "end": 22.88
+        },
+        {
+          "word": "Cristianos,",
+          "start": 22.88,
+          "end": 25.36
+        }
+      ],
+      "start": 22.38,
+      "end": 25.58,
+      "confidence": 0.4,
+      "time": 22.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "soldados de la cruz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "soldados",
+          "start": 25.58,
+          "end": 27.36
+        },
+        {
+          "word": "de",
+          "start": 27.36,
+          "end": 28.12
+        },
+        {
+          "word": "la",
+          "start": 28.12,
+          "end": 28.78
+        },
+        {
+          "word": "cruz,",
+          "start": 28.78,
+          "end": 29.98
+        }
+      ],
+      "start": 25.58,
+      "end": 29.98,
+      "confidence": 1.0,
+      "time": 25.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Seguid el estandarte de vuestro Rey, Jesús,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "seguid",
+          "start": 30.0,
+          "end": 32.26
+        },
+        {
+          "word": "el",
+          "start": 32.26,
+          "end": 32.96
+        },
+        {
+          "word": "estandarte",
+          "start": 32.96,
+          "end": 35.28
+        },
+        {
+          "word": "de",
+          "start": 35.28,
+          "end": 36.26
+        },
+        {
+          "word": "vuestro",
+          "start": 36.26,
+          "end": 37.46
+        },
+        {
+          "word": "rey",
+          "start": 37.46,
+          "end": 38.64
+        },
+        {
+          "word": "Jesús,",
+          "start": 38.64,
+          "end": 40.18
+        }
+      ],
+      "start": 30.0,
+      "end": 40.18,
+      "confidence": 1.0,
+      "time": 30.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues victoriosamente sus huestes mandará,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "pues",
+          "start": 40.98,
+          "end": 41.38
+        },
+        {
+          "word": "victoriosamente",
+          "start": 41.38,
+          "end": 45.44
+        },
+        {
+          "word": "sus",
+          "start": 45.44,
+          "end": 46.4
+        },
+        {
+          "word": "deslandarán",
+          "start": 47.36,
+          "end": 50.58
+        }
+      ],
+      "start": 40.98,
+      "end": 50.58,
+      "confidence": 0.76,
+      "time": 40.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y al fiero enemigo, pujante, vencerá.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 50.58,
+          "end": 51.1
+        },
+        {
+          "word": "al",
+          "start": 51.1,
+          "end": 51.6
+        },
+        {
+          "word": "cielo",
+          "start": 51.6,
+          "end": 52.66
+        },
+        {
+          "word": "enemigo,",
+          "start": 52.66,
+          "end": 55.62
+        },
+        {
+          "word": "cante",
+          "start": 56.4,
+          "end": 57.66
+        },
+        {
+          "word": "vencerá.",
+          "start": 57.66,
+          "end": 60.88
+        }
+      ],
+      "start": 50.58,
+      "end": 60.88,
+      "confidence": 0.927,
+      "time": 50.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡De pie, de pie, cristianos!,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "De",
+          "start": 61.62,
+          "end": 62.08
+        },
+        {
+          "word": "pie,",
+          "start": 62.08,
+          "end": 62.92
+        },
+        {
+          "word": "de",
+          "start": 62.92,
+          "end": 63.4
+        },
+        {
+          "word": "pie,",
+          "start": 63.4,
+          "end": 63.86
+        },
+        {
+          "word": "cristianos,",
+          "start": 63.94,
+          "end": 66.44
+        }
+      ],
+      "start": 61.62,
+      "end": 66.72,
+      "confidence": 1.0,
+      "time": 61.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "pues suena ya el clarín",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pues",
+          "start": 66.72,
+          "end": 67.16
+        },
+        {
+          "word": "suena",
+          "start": 67.16,
+          "end": 68.32
+        },
+        {
+          "word": "ya",
+          "start": 68.32,
+          "end": 68.76
+        },
+        {
+          "word": "el",
+          "start": 68.76,
+          "end": 69.22
+        },
+        {
+          "word": "clarín,",
+          "start": 69.22,
+          "end": 70.58
+        }
+      ],
+      "start": 66.72,
+      "end": 70.58,
+      "confidence": 1.0,
+      "time": 66.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "llamando al conflicto al bravo paladín.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Llamando",
+          "start": 72.08,
+          "end": 73.48
+        },
+        {
+          "word": "al",
+          "start": 73.48,
+          "end": 74.16
+        },
+        {
+          "word": "conflicto,",
+          "start": 74.16,
+          "end": 76.62
+        },
+        {
+          "word": "al",
+          "start": 76.76,
+          "end": 77.4
+        },
+        {
+          "word": "drabo",
+          "start": 77.4,
+          "end": 78.44
+        },
+        {
+          "word": "paladín,",
+          "start": 78.44,
+          "end": 80.58
+        }
+      ],
+      "start": 72.08,
+      "end": 80.58,
+      "confidence": 0.96,
+      "time": 72.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Soldados obedientes, henchíos de valor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Soldados",
+          "start": 83.62,
+          "end": 85.02
+        },
+        {
+          "word": "obedientes,",
+          "start": 85.02,
+          "end": 86.42
+        },
+        {
+          "word": "de",
+          "start": 88.7,
+          "end": 89.36
+        },
+        {
+          "word": "valor,",
+          "start": 89.36,
+          "end": 90.58
+        }
+      ],
+      "start": 83.62,
+      "end": 90.58,
+      "confidence": 0.8,
+      "time": 83.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "portaos en la lucha con bríos y vigor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Voltaos",
+          "start": 92.5,
+          "end": 93.9
+        },
+        {
+          "word": "en",
+          "start": 93.9,
+          "end": 94.4
+        },
+        {
+          "word": "la",
+          "start": 94.4,
+          "end": 95.08
+        },
+        {
+          "word": "lucha",
+          "start": 95.08,
+          "end": 96.58
+        },
+        {
+          "word": "con",
+          "start": 96.58,
+          "end": 97.52
+        },
+        {
+          "word": "frío",
+          "start": 97.52,
+          "end": 98.58
+        },
+        {
+          "word": "y",
+          "start": 98.58,
+          "end": 99.22
+        },
+        {
+          "word": "vigor.",
+          "start": 99.22,
+          "end": 100.52
+        }
+      ],
+      "start": 92.5,
+      "end": 100.52,
+      "confidence": 0.954,
+      "time": 92.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡De pie, de pie, cristianos!,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "De",
+          "start": 102.58,
+          "end": 103.2
+        },
+        {
+          "word": "pie,",
+          "start": 103.2,
+          "end": 104.1
+        },
+        {
+          "word": "de",
+          "start": 104.1,
+          "end": 104.42
+        },
+        {
+          "word": "pie,",
+          "start": 104.42,
+          "end": 105.02
+        },
+        {
+          "word": "cristianos,",
+          "start": 105.02,
+          "end": 107.38
+        }
+      ],
+      "start": 102.58,
+      "end": 107.82,
+      "confidence": 1.0,
+      "time": 102.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en Dios la fuerza está;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 107.82,
+          "end": 108.3
+        },
+        {
+          "word": "Dios",
+          "start": 108.3,
+          "end": 108.78
+        },
+        {
+          "word": "la",
+          "start": 108.78,
+          "end": 109.42
+        },
+        {
+          "word": "fuerza",
+          "start": 109.42,
+          "end": 110.22
+        },
+        {
+          "word": "está.",
+          "start": 110.22,
+          "end": 111.96
+        }
+      ],
+      "start": 107.82,
+      "end": 111.96,
+      "confidence": 1.0,
+      "time": 107.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "el débil brazo humano bien pronto os faltará.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "El",
+          "start": 111.96,
+          "end": 113.28
+        },
+        {
+          "word": "débil",
+          "start": 113.28,
+          "end": 114.5
+        },
+        {
+          "word": "brazo",
+          "start": 114.5,
+          "end": 115.68
+        },
+        {
+          "word": "humano,",
+          "start": 115.68,
+          "end": 117.4
+        },
+        {
+          "word": "bien",
+          "start": 117.74,
+          "end": 118.46
+        },
+        {
+          "word": "pronto",
+          "start": 118.46,
+          "end": 119.22
+        },
+        {
+          "word": "os",
+          "start": 119.22,
+          "end": 119.9
+        },
+        {
+          "word": "faltará,",
+          "start": 119.9,
+          "end": 122.3
+        }
+      ],
+      "start": 111.96,
+      "end": 122.3,
+      "confidence": 1.0,
+      "time": 111.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Tomando la armadura de Dios, con oración,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tomando",
+          "start": 123.12,
+          "end": 124.62
+        },
+        {
+          "word": "la",
+          "start": 124.62,
+          "end": 125.24
+        },
+        {
+          "word": "armadura",
+          "start": 125.24,
+          "end": 127.34
+        },
+        {
+          "word": "de",
+          "start": 127.34,
+          "end": 128.44
+        },
+        {
+          "word": "Dios",
+          "start": 128.44,
+          "end": 129.0
+        },
+        {
+          "word": "con",
+          "start": 129.0,
+          "end": 129.78
+        },
+        {
+          "word": "oración,",
+          "start": 129.78,
+          "end": 132.56
+        }
+      ],
+      "start": 123.12,
+      "end": 132.56,
+      "confidence": 1.0,
+      "time": 123.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "donde el deber os llame, id presto con tesón.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "donde",
+          "start": 132.56,
+          "end": 134.26
+        },
+        {
+          "word": "de",
+          "start": 134.26,
+          "end": 135.0
+        },
+        {
+          "word": "llaman",
+          "start": 135.9,
+          "end": 137.4
+        },
+        {
+          "word": "Cristo",
+          "start": 138.52,
+          "end": 139.6
+        },
+        {
+          "word": "confesó.",
+          "start": 139.6,
+          "end": 142.92
+        }
+      ],
+      "start": 132.56,
+      "end": 142.92,
+      "confidence": 0.502,
+      "time": 132.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "¡De pie, de pie, cristianos!,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "De",
+          "start": 143.5,
+          "end": 144.12
+        },
+        {
+          "word": "pieles",
+          "start": 144.12,
+          "end": 145.8
+        },
+        {
+          "word": "de",
+          "start": 145.8,
+          "end": 146.24
+        },
+        {
+          "word": "cristianos,",
+          "start": 146.24,
+          "end": 148.52
+        }
+      ],
+      "start": 143.5,
+      "end": 149.14,
+      "confidence": 0.788,
+      "time": 143.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "al fin el galardón;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "al",
+          "start": 149.14,
+          "end": 149.5
+        },
+        {
+          "word": "fin",
+          "start": 149.5,
+          "end": 149.96
+        }
+      ],
+      "start": 149.14,
+      "end": 152.56,
+      "confidence": 0.5,
+      "time": 149.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "si hoy la lucha es recia, mañana habrá canción.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Si",
+          "start": 152.56,
+          "end": 154.26
+        },
+        {
+          "word": "hoy",
+          "start": 154.26,
+          "end": 155.18
+        },
+        {
+          "word": "la",
+          "start": 155.18,
+          "end": 155.54
+        },
+        {
+          "word": "lucha",
+          "start": 155.54,
+          "end": 156.42
+        },
+        {
+          "word": "es",
+          "start": 156.42,
+          "end": 157.22
+        },
+        {
+          "word": "mañana",
+          "start": 159.36,
+          "end": 160.22
+        },
+        {
+          "word": "habrá",
+          "start": 160.22,
+          "end": 161.22
+        },
+        {
+          "word": "canción.",
+          "start": 161.22,
+          "end": 162.56
+        }
+      ],
+      "start": 152.56,
+      "end": 162.56,
+      "confidence": 0.889,
+      "time": 152.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Quien salga victorioso corona obtendrá,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Quien",
+          "start": 163.84,
+          "end": 164.54
+        },
+        {
+          "word": "salva",
+          "start": 164.54,
+          "end": 165.84
+        },
+        {
+          "word": "victorioso,",
+          "start": 165.84,
+          "end": 168.66
+        },
+        {
+          "word": "ona",
+          "start": 169.74,
+          "end": 170.82
+        },
+        {
+          "word": "obtendrá.",
+          "start": 170.82,
+          "end": 172.56
+        }
+      ],
+      "start": 163.84,
+      "end": 172.56,
+      "confidence": 0.936,
+      "time": 163.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "y con el Rey de gloria por siempre vivirá.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 172.56,
+          "end": 174.58
+        },
+        {
+          "word": "con",
+          "start": 174.58,
+          "end": 175.56
+        },
+        {
+          "word": "el",
+          "start": 175.56,
+          "end": 176.02
+        },
+        {
+          "word": "rey",
+          "start": 176.02,
+          "end": 176.58
+        },
+        {
+          "word": "de",
+          "start": 176.58,
+          "end": 177.24
+        },
+        {
+          "word": "gloria",
+          "start": 177.24,
+          "end": 178.72
+        },
+        {
+          "word": "por",
+          "start": 178.72,
+          "end": 179.56
+        },
+        {
+          "word": "siempre",
+          "start": 179.56,
+          "end": 180.78
+        },
+        {
+          "word": "dirá.",
+          "start": 181.8,
+          "end": 184.66
+        }
+      ],
+      "start": 172.56,
+      "end": 184.66,
+      "confidence": 0.973,
+      "time": 172.56
+    }
+  ]
+}

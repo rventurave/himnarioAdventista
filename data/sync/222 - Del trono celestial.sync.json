@@ -1,0 +1,1065 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.999,
+  "language": "es",
+  "model": "medium",
+  "hymn": 222,
+  "source": "222 - Del trono celestial.mp3",
+  "duration": 219.77,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Del trono celestial al mundo descendí,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "del",
+          "start": 25.56,
+          "end": 26.96
+        },
+        {
+          "word": "trono",
+          "start": 26.96,
+          "end": 28.36
+        },
+        {
+          "word": "celestial",
+          "start": 28.36,
+          "end": 31.42
+        },
+        {
+          "word": "al",
+          "start": 31.42,
+          "end": 32.36
+        },
+        {
+          "word": "mundo",
+          "start": 32.36,
+          "end": 33.66
+        },
+        {
+          "word": "descendí",
+          "start": 33.66,
+          "end": 37.04
+        }
+      ],
+      "start": 25.56,
+      "end": 37.04,
+      "confidence": 1.0,
+      "time": 25.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "sed y hambre padecí cual mísero mortal.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Sed",
+          "start": 37.04,
+          "end": 37.76
+        },
+        {
+          "word": "y",
+          "start": 37.76,
+          "end": 38.56
+        },
+        {
+          "word": "hambre",
+          "start": 38.56,
+          "end": 39.12
+        },
+        {
+          "word": "padecí,",
+          "start": 39.12,
+          "end": 42.66
+        },
+        {
+          "word": "cual",
+          "start": 42.7,
+          "end": 43.14
+        },
+        {
+          "word": "mísero",
+          "start": 43.14,
+          "end": 45.42
+        },
+        {
+          "word": "mortal,",
+          "start": 45.42,
+          "end": 47.04
+        }
+      ],
+      "start": 37.04,
+      "end": 47.04,
+      "confidence": 1.0,
+      "time": 37.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Y todo fue por ti, por ti.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 48.08,
+          "end": 48.62
+        },
+        {
+          "word": "todo",
+          "start": 48.62,
+          "end": 49.82
+        },
+        {
+          "word": "fue",
+          "start": 49.82,
+          "end": 50.7
+        },
+        {
+          "word": "por",
+          "start": 50.7,
+          "end": 51.16
+        },
+        {
+          "word": "ti,",
+          "start": 51.16,
+          "end": 52.02
+        },
+        {
+          "word": "por",
+          "start": 52.08,
+          "end": 52.46
+        },
+        {
+          "word": "ti,",
+          "start": 52.46,
+          "end": 53.1
+        }
+      ],
+      "start": 48.08,
+      "end": 53.44,
+      "confidence": 1.0,
+      "time": 48.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Qué has hecho tú por mí?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 53.44,
+          "end": 53.62
+        },
+        {
+          "word": "has",
+          "start": 53.62,
+          "end": 54.46
+        },
+        {
+          "word": "hecho",
+          "start": 54.46,
+          "end": 55.18
+        },
+        {
+          "word": "tú",
+          "start": 55.18,
+          "end": 56.02
+        },
+        {
+          "word": "por",
+          "start": 56.02,
+          "end": 56.58
+        },
+        {
+          "word": "mí.",
+          "start": 56.58,
+          "end": 58.52
+        }
+      ],
+      "start": 53.44,
+      "end": 58.52,
+      "confidence": 1.0,
+      "time": 53.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Y todo fue por ti, por ti.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 58.52,
+          "end": 59.34
+        },
+        {
+          "word": "todo",
+          "start": 59.34,
+          "end": 60.58
+        },
+        {
+          "word": "fue",
+          "start": 60.58,
+          "end": 61.66
+        },
+        {
+          "word": "por",
+          "start": 61.66,
+          "end": 62.14
+        },
+        {
+          "word": "ti,",
+          "start": 62.14,
+          "end": 62.98
+        },
+        {
+          "word": "por",
+          "start": 62.98,
+          "end": 63.44
+        },
+        {
+          "word": "ti",
+          "start": 63.44,
+          "end": 64.2
+        }
+      ],
+      "start": 58.52,
+      "end": 64.2,
+      "confidence": 1.0,
+      "time": 58.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Qué has hecho tú por mí?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 64.2,
+          "end": 64.66
+        },
+        {
+          "word": "has",
+          "start": 64.66,
+          "end": 65.4
+        },
+        {
+          "word": "hecho",
+          "start": 65.4,
+          "end": 66.24
+        },
+        {
+          "word": "tú",
+          "start": 66.24,
+          "end": 67.16
+        },
+        {
+          "word": "por",
+          "start": 67.16,
+          "end": 67.72
+        },
+        {
+          "word": "mí.",
+          "start": 67.72,
+          "end": 71.02
+        }
+      ],
+      "start": 64.2,
+      "end": 71.02,
+      "confidence": 1.0,
+      "time": 64.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Por darte la salud en cruenta cruz morí;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Por",
+          "start": 72.48,
+          "end": 73.1
+        },
+        {
+          "word": "darte",
+          "start": 73.1,
+          "end": 74.38
+        },
+        {
+          "word": "la",
+          "start": 74.38,
+          "end": 75.46
+        },
+        {
+          "word": "salud",
+          "start": 75.46,
+          "end": 77.74
+        },
+        {
+          "word": "en",
+          "start": 77.74,
+          "end": 78.58
+        },
+        {
+          "word": "cuenta",
+          "start": 78.58,
+          "end": 79.8
+        },
+        {
+          "word": "cruz",
+          "start": 79.8,
+          "end": 80.76
+        },
+        {
+          "word": "morí,",
+          "start": 80.76,
+          "end": 82.52
+        }
+      ],
+      "start": 72.48,
+      "end": 82.52,
+      "confidence": 0.994,
+      "time": 72.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "tu sustituto fui en dura esclavitud.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tu",
+          "start": 82.52,
+          "end": 83.92
+        },
+        {
+          "word": "sustituto",
+          "start": 83.92,
+          "end": 86.38
+        },
+        {
+          "word": "fui",
+          "start": 86.38,
+          "end": 88.9
+        },
+        {
+          "word": "en",
+          "start": 88.9,
+          "end": 89.54
+        },
+        {
+          "word": "dura",
+          "start": 89.54,
+          "end": 90.36
+        },
+        {
+          "word": "esclavitud",
+          "start": 90.36,
+          "end": 93.76
+        }
+      ],
+      "start": 82.52,
+      "end": 93.76,
+      "confidence": 1.0,
+      "time": 82.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Y todo fue por ti, por ti.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 93.76,
+          "end": 94.68
+        },
+        {
+          "word": "todo",
+          "start": 94.68,
+          "end": 95.92
+        },
+        {
+          "word": "fue",
+          "start": 95.92,
+          "end": 96.74
+        },
+        {
+          "word": "por",
+          "start": 96.74,
+          "end": 97.22
+        },
+        {
+          "word": "ti,",
+          "start": 97.22,
+          "end": 98.1
+        },
+        {
+          "word": "por",
+          "start": 98.14,
+          "end": 98.54
+        },
+        {
+          "word": "ti",
+          "start": 98.54,
+          "end": 99.12
+        }
+      ],
+      "start": 93.76,
+      "end": 99.12,
+      "confidence": 1.0,
+      "time": 93.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¿Qué has hecho tú por mí?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 99.12,
+          "end": 99.72
+        },
+        {
+          "word": "has",
+          "start": 99.72,
+          "end": 100.6
+        },
+        {
+          "word": "hecho",
+          "start": 100.6,
+          "end": 101.28
+        },
+        {
+          "word": "tu",
+          "start": 101.28,
+          "end": 102.18
+        },
+        {
+          "word": "por",
+          "start": 102.18,
+          "end": 102.76
+        },
+        {
+          "word": "mi",
+          "start": 102.76,
+          "end": 104.5
+        }
+      ],
+      "start": 99.12,
+      "end": 104.5,
+      "confidence": 1.0,
+      "time": 99.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Y todo fue por ti, por ti.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 104.5,
+          "end": 105.4
+        },
+        {
+          "word": "todo",
+          "start": 105.4,
+          "end": 106.74
+        },
+        {
+          "word": "fue",
+          "start": 106.74,
+          "end": 107.68
+        },
+        {
+          "word": "por",
+          "start": 107.68,
+          "end": 108.34
+        },
+        {
+          "word": "ti,",
+          "start": 108.34,
+          "end": 109.04
+        },
+        {
+          "word": "por",
+          "start": 109.14,
+          "end": 109.62
+        },
+        {
+          "word": "ti",
+          "start": 109.62,
+          "end": 110.18
+        }
+      ],
+      "start": 104.5,
+      "end": 110.18,
+      "confidence": 1.0,
+      "time": 104.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¿Qué has hecho tú por mí?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 110.18,
+          "end": 110.66
+        },
+        {
+          "word": "has",
+          "start": 110.66,
+          "end": 111.5
+        },
+        {
+          "word": "hecho",
+          "start": 111.5,
+          "end": 112.24
+        },
+        {
+          "word": "tú",
+          "start": 112.24,
+          "end": 113.16
+        },
+        {
+          "word": "por",
+          "start": 113.16,
+          "end": 113.72
+        },
+        {
+          "word": "mí.",
+          "start": 113.72,
+          "end": 116.18
+        }
+      ],
+      "start": 110.18,
+      "end": 116.18,
+      "confidence": 1.0,
+      "time": 110.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Del Padre celestial, completa bendición,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Del",
+          "start": 118.82,
+          "end": 119.14
+        },
+        {
+          "word": "Padre",
+          "start": 119.14,
+          "end": 121.22
+        },
+        {
+          "word": "Celestial",
+          "start": 121.22,
+          "end": 123.18
+        },
+        {
+          "word": "completa",
+          "start": 123.82,
+          "end": 125.68
+        },
+        {
+          "word": "bendición,",
+          "start": 125.68,
+          "end": 129.2
+        }
+      ],
+      "start": 118.82,
+      "end": 129.2,
+      "confidence": 1.0,
+      "time": 118.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "eterna salvación, delicia perennal",
+      "verse": 3,
+      "words": [
+        {
+          "word": "eterna",
+          "start": 130.18,
+          "end": 131.22
+        },
+        {
+          "word": "salvación,",
+          "start": 131.22,
+          "end": 134.18
+        },
+        {
+          "word": "delicia",
+          "start": 135.0,
+          "end": 136.64
+        },
+        {
+          "word": "perenal",
+          "start": 136.64,
+          "end": 140.06
+        }
+      ],
+      "start": 130.18,
+      "end": 140.06,
+      "confidence": 0.99,
+      "time": 130.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "te doy de gracia a ti, a ti.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "te",
+          "start": 140.06,
+          "end": 140.86
+        },
+        {
+          "word": "doy",
+          "start": 140.86,
+          "end": 141.72
+        },
+        {
+          "word": "de",
+          "start": 141.72,
+          "end": 142.34
+        },
+        {
+          "word": "gracia",
+          "start": 142.34,
+          "end": 143.46
+        },
+        {
+          "word": "a",
+          "start": 143.46,
+          "end": 143.78
+        },
+        {
+          "word": "ti,",
+          "start": 143.78,
+          "end": 144.44
+        },
+        {
+          "word": "a",
+          "start": 144.44,
+          "end": 144.88
+        },
+        {
+          "word": "ti",
+          "start": 144.88,
+          "end": 145.64
+        }
+      ],
+      "start": 140.06,
+      "end": 145.64,
+      "confidence": 1.0,
+      "time": 140.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Y huyes tú de mí?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 145.64,
+          "end": 146.56
+        },
+        {
+          "word": "huyes",
+          "start": 146.56,
+          "end": 147.44
+        },
+        {
+          "word": "tú",
+          "start": 147.44,
+          "end": 148.3
+        },
+        {
+          "word": "de",
+          "start": 148.3,
+          "end": 148.8
+        },
+        {
+          "word": "mí",
+          "start": 148.8,
+          "end": 150.64
+        }
+      ],
+      "start": 145.64,
+      "end": 150.64,
+      "confidence": 1.0,
+      "time": 145.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Te doy de gracia a ti, a ti",
+      "verse": 3,
+      "words": [
+        {
+          "word": "te",
+          "start": 150.86,
+          "end": 151.56
+        },
+        {
+          "word": "doy",
+          "start": 151.56,
+          "end": 152.5
+        },
+        {
+          "word": "de",
+          "start": 152.5,
+          "end": 153.22
+        },
+        {
+          "word": "gracia",
+          "start": 153.22,
+          "end": 154.32
+        },
+        {
+          "word": "a",
+          "start": 154.32,
+          "end": 154.72
+        },
+        {
+          "word": "ti,",
+          "start": 154.72,
+          "end": 155.34
+        },
+        {
+          "word": "a",
+          "start": 155.4,
+          "end": 155.84
+        },
+        {
+          "word": "ti",
+          "start": 155.84,
+          "end": 156.44
+        }
+      ],
+      "start": 150.86,
+      "end": 156.44,
+      "confidence": 1.0,
+      "time": 150.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Y huyes tú de mí?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 156.44,
+          "end": 157.48
+        },
+        {
+          "word": "huyes",
+          "start": 157.48,
+          "end": 158.34
+        },
+        {
+          "word": "tú",
+          "start": 158.34,
+          "end": 159.22
+        },
+        {
+          "word": "de",
+          "start": 159.22,
+          "end": 159.76
+        },
+        {
+          "word": "mí",
+          "start": 159.76,
+          "end": 161.38
+        }
+      ],
+      "start": 156.44,
+      "end": 161.38,
+      "confidence": 1.0,
+      "time": 156.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Los lazos de Satán quebranta, pecador,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Los",
+          "start": 164.18,
+          "end": 165.34
+        },
+        {
+          "word": "lazos",
+          "start": 165.34,
+          "end": 166.76
+        },
+        {
+          "word": "de",
+          "start": 166.76,
+          "end": 167.64
+        },
+        {
+          "word": "Satán,",
+          "start": 167.64,
+          "end": 170.14
+        },
+        {
+          "word": "quebranta",
+          "start": 170.64,
+          "end": 171.86
+        },
+        {
+          "word": "pecador,",
+          "start": 171.86,
+          "end": 175.08
+        }
+      ],
+      "start": 164.18,
+      "end": 175.64,
+      "confidence": 1.0,
+      "time": 164.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "y el néctar de mi amor tus labios probarán.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 175.64,
+          "end": 175.88
+        },
+        {
+          "word": "el",
+          "start": 175.88,
+          "end": 176.5
+        },
+        {
+          "word": "néctar",
+          "start": 176.5,
+          "end": 177.28
+        },
+        {
+          "word": "de",
+          "start": 177.28,
+          "end": 178.16
+        },
+        {
+          "word": "mi",
+          "start": 178.16,
+          "end": 178.64
+        },
+        {
+          "word": "amor,",
+          "start": 178.64,
+          "end": 180.8
+        },
+        {
+          "word": "tus",
+          "start": 180.98,
+          "end": 181.44
+        },
+        {
+          "word": "labios",
+          "start": 181.44,
+          "end": 182.74
+        },
+        {
+          "word": "probarán.",
+          "start": 182.74,
+          "end": 186.08
+        }
+      ],
+      "start": 175.64,
+      "end": 186.08,
+      "confidence": 1.0,
+      "time": 175.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "No dudes, ven a mí, a mí.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "No",
+          "start": 186.08,
+          "end": 187.02
+        },
+        {
+          "word": "dudes,",
+          "start": 187.02,
+          "end": 188.06
+        },
+        {
+          "word": "ven",
+          "start": 188.38,
+          "end": 189.16
+        },
+        {
+          "word": "a",
+          "start": 189.16,
+          "end": 189.68
+        },
+        {
+          "word": "mí,",
+          "start": 189.68,
+          "end": 190.48
+        },
+        {
+          "word": "a",
+          "start": 190.5,
+          "end": 190.92
+        },
+        {
+          "word": "mí,",
+          "start": 190.92,
+          "end": 191.48
+        }
+      ],
+      "start": 186.08,
+      "end": 191.7,
+      "confidence": 1.0,
+      "time": 186.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "¡Jesús, me rindo a ti!",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 191.7,
+          "end": 192.82
+        },
+        {
+          "word": "me",
+          "start": 192.82,
+          "end": 193.62
+        },
+        {
+          "word": "rindo",
+          "start": 193.62,
+          "end": 194.5
+        },
+        {
+          "word": "a",
+          "start": 194.5,
+          "end": 195.1
+        },
+        {
+          "word": "ti.",
+          "start": 195.1,
+          "end": 196.68
+        }
+      ],
+      "start": 191.7,
+      "end": 196.68,
+      "confidence": 1.0,
+      "time": 191.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "No dudes, ven a mí, a mí.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "No",
+          "start": 197.38,
+          "end": 197.68
+        },
+        {
+          "word": "dudes,",
+          "start": 197.68,
+          "end": 198.7
+        },
+        {
+          "word": "ven",
+          "start": 199.68,
+          "end": 200.02
+        },
+        {
+          "word": "a",
+          "start": 200.02,
+          "end": 200.5
+        },
+        {
+          "word": "mí,",
+          "start": 200.5,
+          "end": 201.18
+        },
+        {
+          "word": "a",
+          "start": 201.5,
+          "end": 201.86
+        },
+        {
+          "word": "mí,",
+          "start": 201.86,
+          "end": 202.26
+        }
+      ],
+      "start": 197.38,
+      "end": 202.64,
+      "confidence": 1.0,
+      "time": 197.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "¡Jesús, me rindo a ti!",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 202.64,
+          "end": 203.9
+        },
+        {
+          "word": "me",
+          "start": 203.9,
+          "end": 204.58
+        },
+        {
+          "word": "rindo",
+          "start": 204.58,
+          "end": 205.96
+        },
+        {
+          "word": "a",
+          "start": 205.96,
+          "end": 206.6
+        },
+        {
+          "word": "ti.",
+          "start": 206.6,
+          "end": 209.42
+        }
+      ],
+      "start": 202.64,
+      "end": 209.42,
+      "confidence": 1.0,
+      "time": 202.64
+    }
+  ]
+}

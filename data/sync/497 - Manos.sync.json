@@ -1,0 +1,858 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 1.0,
+  "language": "es",
+  "model": "medium",
+  "hymn": 497,
+  "source": "497 - Manos.mp3",
+  "duration": 147.77,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Estas manos Dios me dio",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Estas",
+          "start": 23.84,
+          "end": 25.12
+        },
+        {
+          "word": "manos",
+          "start": 25.12,
+          "end": 25.84
+        },
+        {
+          "word": "Dios",
+          "start": 25.84,
+          "end": 26.34
+        },
+        {
+          "word": "me",
+          "start": 26.34,
+          "end": 26.92
+        },
+        {
+          "word": "dio",
+          "start": 26.92,
+          "end": 27.56
+        }
+      ],
+      "start": 23.84,
+      "end": 27.56,
+      "confidence": 1.0,
+      "time": 23.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "para que puedan servir",
+      "verse": 1,
+      "words": [
+        {
+          "word": "para",
+          "start": 27.56,
+          "end": 28.36
+        },
+        {
+          "word": "que",
+          "start": 28.36,
+          "end": 29.0
+        },
+        {
+          "word": "puedan",
+          "start": 29.0,
+          "end": 29.7
+        },
+        {
+          "word": "servir",
+          "start": 29.7,
+          "end": 30.82
+        }
+      ],
+      "start": 27.56,
+      "end": 30.82,
+      "confidence": 1.0,
+      "time": 27.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al que a mi lado está",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 30.82,
+          "end": 31.7
+        },
+        {
+          "word": "que",
+          "start": 31.7,
+          "end": 32.06
+        },
+        {
+          "word": "a",
+          "start": 32.06,
+          "end": 32.56
+        },
+        {
+          "word": "mi",
+          "start": 32.56,
+          "end": 32.84
+        },
+        {
+          "word": "lado",
+          "start": 32.84,
+          "end": 33.44
+        },
+        {
+          "word": "está",
+          "start": 33.44,
+          "end": 34.44
+        }
+      ],
+      "start": 30.82,
+      "end": 34.44,
+      "confidence": 1.0,
+      "time": 30.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y no puede sonreír.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 34.44,
+          "end": 35.0
+        },
+        {
+          "word": "no",
+          "start": 35.0,
+          "end": 35.52
+        },
+        {
+          "word": "puede",
+          "start": 35.52,
+          "end": 36.26
+        },
+        {
+          "word": "sonreír.",
+          "start": 36.26,
+          "end": 37.8
+        }
+      ],
+      "start": 34.44,
+      "end": 37.8,
+      "confidence": 1.0,
+      "time": 34.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Con mis manos quiero dar",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Con",
+          "start": 37.8,
+          "end": 38.4
+        },
+        {
+          "word": "mis",
+          "start": 38.4,
+          "end": 38.9
+        },
+        {
+          "word": "manos",
+          "start": 38.9,
+          "end": 39.64
+        },
+        {
+          "word": "quiero",
+          "start": 39.64,
+          "end": 40.4
+        },
+        {
+          "word": "dar",
+          "start": 40.4,
+          "end": 41.42
+        }
+      ],
+      "start": 37.8,
+      "end": 41.42,
+      "confidence": 1.0,
+      "time": 37.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "paz, amor, felicidad;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "paz,",
+          "start": 41.42,
+          "end": 41.94
+        },
+        {
+          "word": "amor,",
+          "start": 42.18,
+          "end": 42.68
+        },
+        {
+          "word": "felicidad",
+          "start": 43.14,
+          "end": 45.4
+        }
+      ],
+      "start": 41.42,
+      "end": 45.4,
+      "confidence": 1.0,
+      "time": 41.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "imitando a Jesús.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "imitando",
+          "start": 45.4,
+          "end": 47.56
+        },
+        {
+          "word": "a",
+          "start": 47.56,
+          "end": 48.48
+        },
+        {
+          "word": "Jesús.",
+          "start": 48.48,
+          "end": 51.72
+        }
+      ],
+      "start": 45.4,
+      "end": 51.72,
+      "confidence": 1.0,
+      "time": 45.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Manos ocupadas en la causa del amor.",
+      "words": [
+        {
+          "word": "Manos",
+          "start": 51.72,
+          "end": 53.68
+        },
+        {
+          "word": "ocupadas",
+          "start": 53.68,
+          "end": 55.12
+        },
+        {
+          "word": "en",
+          "start": 55.12,
+          "end": 55.56
+        },
+        {
+          "word": "la",
+          "start": 55.56,
+          "end": 55.98
+        },
+        {
+          "word": "causa",
+          "start": 55.98,
+          "end": 56.7
+        },
+        {
+          "word": "del",
+          "start": 56.7,
+          "end": 57.3
+        },
+        {
+          "word": "amor",
+          "start": 57.3,
+          "end": 58.96
+        }
+      ],
+      "start": 51.72,
+      "end": 58.96,
+      "confidence": 1.0,
+      "time": 51.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Manos consagradas al servicio del Señor.",
+      "words": [
+        {
+          "word": "Manos",
+          "start": 58.96,
+          "end": 60.48
+        },
+        {
+          "word": "consagradas",
+          "start": 60.48,
+          "end": 61.96
+        },
+        {
+          "word": "al",
+          "start": 61.96,
+          "end": 62.46
+        },
+        {
+          "word": "servicio",
+          "start": 62.46,
+          "end": 63.56
+        },
+        {
+          "word": "del",
+          "start": 63.56,
+          "end": 64.14
+        },
+        {
+          "word": "Señor",
+          "start": 64.14,
+          "end": 65.98
+        }
+      ],
+      "start": 58.96,
+      "end": 65.98,
+      "confidence": 1.0,
+      "time": 58.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Manos preocupadas por asirse de Jesús.",
+      "words": [
+        {
+          "word": "Manos",
+          "start": 65.98,
+          "end": 67.14
+        },
+        {
+          "word": "preocupadas",
+          "start": 67.14,
+          "end": 68.68
+        },
+        {
+          "word": "por",
+          "start": 68.68,
+          "end": 69.56
+        },
+        {
+          "word": "asirse",
+          "start": 69.56,
+          "end": 70.28
+        },
+        {
+          "word": "de",
+          "start": 70.28,
+          "end": 70.9
+        },
+        {
+          "word": "Jesús",
+          "start": 70.9,
+          "end": 72.68
+        }
+      ],
+      "start": 65.98,
+      "end": 72.68,
+      "confidence": 1.0,
+      "time": 65.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Manos que no temen el encuentro con la luz.",
+      "words": [
+        {
+          "word": "Manos",
+          "start": 72.68,
+          "end": 73.98
+        },
+        {
+          "word": "que",
+          "start": 73.98,
+          "end": 74.44
+        },
+        {
+          "word": "no",
+          "start": 74.44,
+          "end": 74.96
+        },
+        {
+          "word": "temen",
+          "start": 74.96,
+          "end": 75.84
+        },
+        {
+          "word": "el",
+          "start": 75.84,
+          "end": 76.5
+        },
+        {
+          "word": "encuentro",
+          "start": 76.5,
+          "end": 77.32
+        },
+        {
+          "word": "con",
+          "start": 77.32,
+          "end": 77.94
+        },
+        {
+          "word": "la",
+          "start": 77.94,
+          "end": 78.44
+        },
+        {
+          "word": "luz",
+          "start": 78.44,
+          "end": 80.1
+        }
+      ],
+      "start": 72.68,
+      "end": 80.1,
+      "confidence": 1.0,
+      "time": 72.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Estas manos se unirán",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Estas",
+          "start": 83.86,
+          "end": 85.18
+        },
+        {
+          "word": "manos",
+          "start": 85.18,
+          "end": 85.84
+        },
+        {
+          "word": "se",
+          "start": 85.84,
+          "end": 86.38
+        },
+        {
+          "word": "unirán",
+          "start": 86.38,
+          "end": 87.78
+        }
+      ],
+      "start": 83.86,
+      "end": 87.78,
+      "confidence": 1.0,
+      "time": 83.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a las de mi Salvador,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 87.78,
+          "end": 88.2
+        },
+        {
+          "word": "las",
+          "start": 88.2,
+          "end": 88.46
+        },
+        {
+          "word": "de",
+          "start": 88.46,
+          "end": 89.02
+        },
+        {
+          "word": "mi",
+          "start": 89.02,
+          "end": 89.4
+        },
+        {
+          "word": "Salvador",
+          "start": 89.4,
+          "end": 90.66
+        }
+      ],
+      "start": 87.78,
+      "end": 90.66,
+      "confidence": 1.0,
+      "time": 87.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "demostrando así el poder",
+      "verse": 2,
+      "words": [
+        {
+          "word": "demostrando",
+          "start": 90.66,
+          "end": 92.54
+        },
+        {
+          "word": "así",
+          "start": 92.54,
+          "end": 93.02
+        },
+        {
+          "word": "el",
+          "start": 93.02,
+          "end": 93.4
+        },
+        {
+          "word": "poder",
+          "start": 93.4,
+          "end": 94.48
+        }
+      ],
+      "start": 90.66,
+      "end": 94.48,
+      "confidence": 1.0,
+      "time": 90.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que mi vida transformó.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 94.48,
+          "end": 95.04
+        },
+        {
+          "word": "mi",
+          "start": 95.04,
+          "end": 95.5
+        },
+        {
+          "word": "vida",
+          "start": 95.5,
+          "end": 96.22
+        },
+        {
+          "word": "transformó",
+          "start": 96.22,
+          "end": 97.82
+        }
+      ],
+      "start": 94.48,
+      "end": 97.82,
+      "confidence": 1.0,
+      "time": 94.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Tú también puedes andar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 97.82,
+          "end": 98.46
+        },
+        {
+          "word": "también",
+          "start": 98.46,
+          "end": 99.24
+        },
+        {
+          "word": "puedes",
+          "start": 99.24,
+          "end": 100.12
+        },
+        {
+          "word": "andar",
+          "start": 100.12,
+          "end": 101.4
+        }
+      ],
+      "start": 97.82,
+      "end": 101.4,
+      "confidence": 1.0,
+      "time": 97.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de la mano de aquel",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 101.4,
+          "end": 101.96
+        },
+        {
+          "word": "la",
+          "start": 101.96,
+          "end": 102.46
+        },
+        {
+          "word": "mano",
+          "start": 102.46,
+          "end": 103.14
+        },
+        {
+          "word": "de",
+          "start": 103.14,
+          "end": 103.84
+        },
+        {
+          "word": "Aquel",
+          "start": 103.84,
+          "end": 104.72
+        }
+      ],
+      "start": 101.4,
+      "end": 104.72,
+      "confidence": 1.0,
+      "time": 101.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que por ti su vida dio.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 105.44,
+          "end": 106.16
+        },
+        {
+          "word": "por",
+          "start": 106.16,
+          "end": 106.56
+        },
+        {
+          "word": "ti",
+          "start": 106.56,
+          "end": 106.98
+        },
+        {
+          "word": "su",
+          "start": 106.98,
+          "end": 107.56
+        },
+        {
+          "word": "vida",
+          "start": 107.56,
+          "end": 108.94
+        },
+        {
+          "word": "dio",
+          "start": 108.94,
+          "end": 109.6
+        }
+      ],
+      "start": 105.44,
+      "end": 109.6,
+      "confidence": 1.0,
+      "time": 105.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Manos ocupadas en la causa del amor.",
+      "words": [
+        {
+          "word": "Manos",
+          "start": 112.32,
+          "end": 113.72
+        },
+        {
+          "word": "ocupadas",
+          "start": 113.72,
+          "end": 115.1
+        },
+        {
+          "word": "en",
+          "start": 115.1,
+          "end": 115.58
+        },
+        {
+          "word": "la",
+          "start": 115.58,
+          "end": 115.96
+        },
+        {
+          "word": "causa",
+          "start": 115.96,
+          "end": 116.72
+        },
+        {
+          "word": "del",
+          "start": 116.72,
+          "end": 117.34
+        },
+        {
+          "word": "amor,",
+          "start": 117.34,
+          "end": 118.6
+        }
+      ],
+      "start": 112.32,
+      "end": 118.6,
+      "confidence": 1.0,
+      "time": 112.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Manos consagradas al servicio del Señor.",
+      "words": [
+        {
+          "word": "Manos",
+          "start": 119.4,
+          "end": 120.56
+        },
+        {
+          "word": "consagradas",
+          "start": 120.56,
+          "end": 121.96
+        },
+        {
+          "word": "al",
+          "start": 121.96,
+          "end": 122.5
+        },
+        {
+          "word": "servicio",
+          "start": 122.5,
+          "end": 123.58
+        },
+        {
+          "word": "del",
+          "start": 123.58,
+          "end": 124.14
+        },
+        {
+          "word": "Señor,",
+          "start": 124.14,
+          "end": 125.8
+        }
+      ],
+      "start": 119.4,
+      "end": 125.8,
+      "confidence": 1.0,
+      "time": 119.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Manos preocupadas por asirse de Jesús.",
+      "words": [
+        {
+          "word": "Manos",
+          "start": 126.62,
+          "end": 127.18
+        },
+        {
+          "word": "preocupadas",
+          "start": 127.18,
+          "end": 128.76
+        },
+        {
+          "word": "por",
+          "start": 128.76,
+          "end": 129.52
+        },
+        {
+          "word": "asirse",
+          "start": 129.52,
+          "end": 130.34
+        },
+        {
+          "word": "de",
+          "start": 130.34,
+          "end": 130.96
+        },
+        {
+          "word": "Jesús,",
+          "start": 130.96,
+          "end": 132.7
+        }
+      ],
+      "start": 126.62,
+      "end": 132.7,
+      "confidence": 1.0,
+      "time": 126.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Manos que no temen el encuentro con la luz.",
+      "words": [
+        {
+          "word": "Manos",
+          "start": 132.7,
+          "end": 134.06
+        },
+        {
+          "word": "que",
+          "start": 134.06,
+          "end": 134.54
+        },
+        {
+          "word": "no",
+          "start": 134.54,
+          "end": 135.02
+        },
+        {
+          "word": "temen",
+          "start": 135.02,
+          "end": 135.96
+        },
+        {
+          "word": "el",
+          "start": 135.96,
+          "end": 136.58
+        },
+        {
+          "word": "encuentro",
+          "start": 136.58,
+          "end": 137.42
+        },
+        {
+          "word": "con",
+          "start": 137.42,
+          "end": 138.06
+        },
+        {
+          "word": "la",
+          "start": 138.06,
+          "end": 138.78
+        },
+        {
+          "word": "luz",
+          "start": 138.78,
+          "end": 141.02
+        }
+      ],
+      "start": 132.7,
+      "end": 141.02,
+      "confidence": 1.0,
+      "time": 132.7
+    }
+  ]
+}

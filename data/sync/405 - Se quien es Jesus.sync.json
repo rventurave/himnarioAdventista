@@ -1,0 +1,459 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.817,
+  "language": "es",
+  "model": "medium",
+  "hymn": 405,
+  "source": "405 - Se quien es Jesus.mp3",
+  "duration": 99.0,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "No tengo duda, sé quién es Jesús;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "No",
+          "start": 12.64,
+          "end": 14.0
+        },
+        {
+          "word": "tengo",
+          "start": 14.0,
+          "end": 14.88
+        },
+        {
+          "word": "dudas",
+          "start": 14.88,
+          "end": 16.46
+        },
+        {
+          "word": "quién",
+          "start": 17.64,
+          "end": 18.2
+        },
+        {
+          "word": "es",
+          "start": 18.2,
+          "end": 18.5
+        },
+        {
+          "word": "Jesús,",
+          "start": 18.5,
+          "end": 19.88
+        }
+      ],
+      "start": 12.64,
+      "end": 20.2,
+      "confidence": 0.849,
+      "time": 12.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ya no me engañará el tentador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ya",
+          "start": 20.2,
+          "end": 20.66
+        },
+        {
+          "word": "no",
+          "start": 20.66,
+          "end": 21.14
+        },
+        {
+          "word": "me",
+          "start": 21.14,
+          "end": 21.5
+        },
+        {
+          "word": "engañará",
+          "start": 21.5,
+          "end": 24.2
+        },
+        {
+          "word": "el",
+          "start": 24.2,
+          "end": 24.88
+        },
+        {
+          "word": "tentador.",
+          "start": 24.88,
+          "end": 26.58
+        }
+      ],
+      "start": 20.2,
+      "end": 26.58,
+      "confidence": 1.0,
+      "time": 20.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Él es mi Salvador, mi Amigo fiel;",
+      "start": 26.58,
+      "end": 26.78,
+      "confidence": 0.0,
+      "time": 26.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "me guía siempre con su amor.",
+      "start": 26.78,
+      "end": 26.98,
+      "confidence": 0.0,
+      "time": 26.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Él es mi Salvador, mi Amigo fiel,",
+      "words": [
+        {
+          "word": "Él",
+          "start": 26.58,
+          "end": 27.32
+        },
+        {
+          "word": "es",
+          "start": 27.32,
+          "end": 27.8
+        },
+        {
+          "word": "mi",
+          "start": 27.8,
+          "end": 28.64
+        },
+        {
+          "word": "Salvador,",
+          "start": 28.64,
+          "end": 30.1
+        },
+        {
+          "word": "mi",
+          "start": 31.06,
+          "end": 31.4
+        },
+        {
+          "word": "amigo",
+          "start": 31.4,
+          "end": 32.26
+        },
+        {
+          "word": "fiel,",
+          "start": 32.26,
+          "end": 33.34
+        }
+      ],
+      "start": 26.98,
+      "end": 27.18,
+      "confidence": 1.0,
+      "time": 26.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "me guía siempre con su amor.",
+      "words": [
+        {
+          "word": "me",
+          "start": 33.72,
+          "end": 34.08
+        },
+        {
+          "word": "guía",
+          "start": 34.08,
+          "end": 34.74
+        },
+        {
+          "word": "siempre",
+          "start": 34.74,
+          "end": 36.1
+        },
+        {
+          "word": "con",
+          "start": 36.1,
+          "end": 37.6
+        },
+        {
+          "word": "su",
+          "start": 37.6,
+          "end": 38.18
+        },
+        {
+          "word": "amor.",
+          "start": 38.18,
+          "end": 53.2
+        }
+      ],
+      "start": 33.72,
+      "end": 53.2,
+      "confidence": 1.0,
+      "time": 33.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Estoy contento, pues conmigo está",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Estoy",
+          "start": 53.2,
+          "end": 54.52
+        },
+        {
+          "word": "contento",
+          "start": 54.52,
+          "end": 56.54
+        },
+        {
+          "word": "pues",
+          "start": 56.54,
+          "end": 57.7
+        },
+        {
+          "word": "conmigo",
+          "start": 57.7,
+          "end": 58.88
+        },
+        {
+          "word": "está",
+          "start": 58.88,
+          "end": 59.82
+        }
+      ],
+      "start": 53.2,
+      "end": 59.82,
+      "confidence": 1.0,
+      "time": 53.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a toda hora y en cualquier lugar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 59.82,
+          "end": 60.82
+        },
+        {
+          "word": "toda",
+          "start": 60.82,
+          "end": 61.7
+        },
+        {
+          "word": "hora",
+          "start": 61.7,
+          "end": 62.76
+        },
+        {
+          "word": "y",
+          "start": 62.76,
+          "end": 64.02
+        },
+        {
+          "word": "en",
+          "start": 64.02,
+          "end": 64.48
+        },
+        {
+          "word": "cualquier",
+          "start": 64.48,
+          "end": 65.16
+        },
+        {
+          "word": "lugar.",
+          "start": 65.16,
+          "end": 66.46
+        }
+      ],
+      "start": 59.82,
+      "end": 66.46,
+      "confidence": 1.0,
+      "time": 59.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Él es mi Salvador, mi Amigo fiel;",
+      "words": [
+        {
+          "word": "Él",
+          "start": 66.72,
+          "end": 67.28
+        },
+        {
+          "word": "es",
+          "start": 67.28,
+          "end": 67.78
+        },
+        {
+          "word": "mi",
+          "start": 67.78,
+          "end": 68.66
+        },
+        {
+          "word": "Salvador,",
+          "start": 68.66,
+          "end": 69.98
+        },
+        {
+          "word": "mi",
+          "start": 70.94,
+          "end": 71.26
+        },
+        {
+          "word": "amigo",
+          "start": 71.26,
+          "end": 72.2
+        },
+        {
+          "word": "fiel,",
+          "start": 72.2,
+          "end": 73.34
+        }
+      ],
+      "start": 66.72,
+      "end": 73.68,
+      "confidence": 1.0,
+      "time": 66.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "me guía siempre con su amor.",
+      "words": [
+        {
+          "word": "me",
+          "start": 73.68,
+          "end": 74.12
+        },
+        {
+          "word": "guía",
+          "start": 74.12,
+          "end": 74.72
+        },
+        {
+          "word": "siempre",
+          "start": 74.72,
+          "end": 76.1
+        },
+        {
+          "word": "con",
+          "start": 76.1,
+          "end": 77.6
+        },
+        {
+          "word": "su",
+          "start": 77.6,
+          "end": 78.12
+        },
+        {
+          "word": "amor.",
+          "start": 78.12,
+          "end": 79.92
+        }
+      ],
+      "start": 73.68,
+      "end": 79.92,
+      "confidence": 1.0,
+      "time": 73.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Él es mi Salvador, mi Amigo fiel,",
+      "words": [
+        {
+          "word": "Él",
+          "start": 79.92,
+          "end": 80.74
+        },
+        {
+          "word": "es",
+          "start": 80.74,
+          "end": 81.22
+        },
+        {
+          "word": "mi",
+          "start": 81.22,
+          "end": 82.08
+        },
+        {
+          "word": "salvador,",
+          "start": 82.08,
+          "end": 84.14
+        },
+        {
+          "word": "mi",
+          "start": 84.46,
+          "end": 84.72
+        },
+        {
+          "word": "amigo",
+          "start": 84.72,
+          "end": 85.46
+        },
+        {
+          "word": "fiel,",
+          "start": 85.46,
+          "end": 86.54
+        }
+      ],
+      "start": 79.92,
+      "end": 86.94,
+      "confidence": 1.0,
+      "time": 79.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "me guía siempre con su amor.",
+      "words": [
+        {
+          "word": "me",
+          "start": 86.94,
+          "end": 87.42
+        },
+        {
+          "word": "guía",
+          "start": 87.42,
+          "end": 88.06
+        },
+        {
+          "word": "siempre",
+          "start": 88.06,
+          "end": 89.5
+        },
+        {
+          "word": "con",
+          "start": 89.5,
+          "end": 91.1
+        },
+        {
+          "word": "su",
+          "start": 91.1,
+          "end": 91.66
+        },
+        {
+          "word": "amor.",
+          "start": 91.66,
+          "end": 93.54
+        }
+      ],
+      "start": 86.94,
+      "end": 93.54,
+      "confidence": 1.0,
+      "time": 86.94
+    }
+  ]
+}

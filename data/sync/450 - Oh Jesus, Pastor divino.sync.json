@@ -1,0 +1,587 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.7,
+  "language": "es",
+  "model": "medium",
+  "hymn": 450,
+  "source": "450 - Oh Jesus, Pastor divino.mp3",
+  "duration": 193.31,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh Jesús, Pastor divino! Acudimos a rogar",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 41.42,
+          "end": 41.42
+        }
+      ],
+      "start": 41.42,
+      "end": 59.98,
+      "confidence": 0.114,
+      "time": 41.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que desciendas amoroso tus corderos a buscar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 41.42,
+          "end": 41.42
+        }
+      ],
+      "start": 59.98,
+      "end": 60.18,
+      "confidence": 0.134,
+      "time": 59.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh Pastor!, ven, tu rebaño te reclama sin cesar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "pastor,",
+          "start": 60.8,
+          "end": 61.72
+        },
+        {
+          "word": "ventur",
+          "start": 62.2,
+          "end": 63.16
+        },
+        {
+          "word": "baño,",
+          "start": 64.18,
+          "end": 65.44
+        },
+        {
+          "word": "te",
+          "start": 65.86,
+          "end": 66.16
+        },
+        {
+          "word": "reclamas",
+          "start": 66.16,
+          "end": 67.7
+        },
+        {
+          "word": "sin",
+          "start": 67.7,
+          "end": 68.28
+        },
+        {
+          "word": "cesar,",
+          "start": 68.28,
+          "end": 70.34
+        }
+      ],
+      "start": 60.8,
+      "end": 70.56,
+      "confidence": 0.751,
+      "time": 60.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "te reclama sin cesar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "te",
+          "start": 70.56,
+          "end": 71.14
+        },
+        {
+          "word": "reclamas",
+          "start": 71.14,
+          "end": 72.66
+        },
+        {
+          "word": "sin",
+          "start": 72.66,
+          "end": 73.4
+        },
+        {
+          "word": "cesar.",
+          "start": 73.4,
+          "end": 75.48
+        }
+      ],
+      "start": 70.56,
+      "end": 75.48,
+      "confidence": 0.985,
+      "time": 70.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Al herido del pecado no lo dejes sucumbir;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Al",
+          "start": 75.48,
+          "end": 76.86
+        },
+        {
+          "word": "herido",
+          "start": 76.86,
+          "end": 78.2
+        },
+        {
+          "word": "del",
+          "start": 78.2,
+          "end": 78.84
+        },
+        {
+          "word": "pecado",
+          "start": 78.84,
+          "end": 81.14
+        },
+        {
+          "word": "no",
+          "start": 81.14,
+          "end": 81.82
+        },
+        {
+          "word": "lo",
+          "start": 81.82,
+          "end": 82.46
+        },
+        {
+          "word": "dejes",
+          "start": 82.46,
+          "end": 83.36
+        },
+        {
+          "word": "sucumbir,",
+          "start": 83.36,
+          "end": 86.18
+        }
+      ],
+      "start": 75.48,
+      "end": 86.58,
+      "confidence": 1.0,
+      "time": 75.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "al que va por otra senda déjale tu voz oír.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 86.58,
+          "end": 86.72
+        },
+        {
+          "word": "que",
+          "start": 86.72,
+          "end": 87.1
+        },
+        {
+          "word": "va",
+          "start": 87.1,
+          "end": 87.62
+        },
+        {
+          "word": "por",
+          "start": 87.62,
+          "end": 88.6
+        },
+        {
+          "word": "otra",
+          "start": 88.6,
+          "end": 89.56
+        },
+        {
+          "word": "senda",
+          "start": 89.56,
+          "end": 91.44
+        },
+        {
+          "word": "déjale",
+          "start": 91.44,
+          "end": 93.12
+        },
+        {
+          "word": "tu",
+          "start": 93.12,
+          "end": 93.54
+        },
+        {
+          "word": "voz",
+          "start": 93.54,
+          "end": 94.16
+        },
+        {
+          "word": "oír.",
+          "start": 94.16,
+          "end": 95.48
+        }
+      ],
+      "start": 86.58,
+      "end": 95.48,
+      "confidence": 1.0,
+      "time": 86.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Ven, Pastor!, el lobo llega y nos quiere destruir,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Ven,",
+          "start": 95.48,
+          "end": 96.84
+        },
+        {
+          "word": "Pastor,",
+          "start": 97.2,
+          "end": 98.06
+        },
+        {
+          "word": "el",
+          "start": 98.06,
+          "end": 98.66
+        },
+        {
+          "word": "lobo",
+          "start": 98.66,
+          "end": 99.58
+        },
+        {
+          "word": "llega",
+          "start": 99.58,
+          "end": 101.24
+        },
+        {
+          "word": "y",
+          "start": 101.24,
+          "end": 101.92
+        },
+        {
+          "word": "nos",
+          "start": 101.92,
+          "end": 102.4
+        },
+        {
+          "word": "quiere",
+          "start": 102.4,
+          "end": 103.48
+        },
+        {
+          "word": "destruir,",
+          "start": 103.48,
+          "end": 106.46
+        }
+      ],
+      "start": 95.48,
+      "end": 106.54,
+      "confidence": 1.0,
+      "time": 95.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y nos quiere destruir.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 106.54,
+          "end": 107.0
+        },
+        {
+          "word": "nos",
+          "start": 107.0,
+          "end": 107.28
+        },
+        {
+          "word": "quiere",
+          "start": 107.28,
+          "end": 108.48
+        },
+        {
+          "word": "destruir.",
+          "start": 108.48,
+          "end": 111.78
+        }
+      ],
+      "start": 106.54,
+      "end": 111.78,
+      "confidence": 1.0,
+      "time": 106.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Guíanos por tus senderos al aprisco del amor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Guíanos",
+          "start": 111.78,
+          "end": 114.08
+        },
+        {
+          "word": "por",
+          "start": 114.08,
+          "end": 114.92
+        },
+        {
+          "word": "tus",
+          "start": 114.92,
+          "end": 115.56
+        },
+        {
+          "word": "senderos",
+          "start": 115.56,
+          "end": 117.88
+        },
+        {
+          "word": "al",
+          "start": 117.88,
+          "end": 118.68
+        },
+        {
+          "word": "aprisco",
+          "start": 118.68,
+          "end": 119.92
+        },
+        {
+          "word": "del",
+          "start": 119.92,
+          "end": 120.78
+        },
+        {
+          "word": "amor,",
+          "start": 120.78,
+          "end": 122.72
+        }
+      ],
+      "start": 111.78,
+      "end": 122.72,
+      "confidence": 1.0,
+      "time": 111.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "llévanos cual corderitos en tu seno bienhechor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "llévanos",
+          "start": 123.44,
+          "end": 124.36
+        },
+        {
+          "word": "cual",
+          "start": 124.36,
+          "end": 124.9
+        },
+        {
+          "word": "corderitos",
+          "start": 124.9,
+          "end": 127.84
+        },
+        {
+          "word": "en",
+          "start": 127.84,
+          "end": 128.6
+        },
+        {
+          "word": "tu",
+          "start": 128.6,
+          "end": 128.96
+        },
+        {
+          "word": "seno",
+          "start": 128.96,
+          "end": 130.16
+        },
+        {
+          "word": "bien",
+          "start": 130.16,
+          "end": 131.0
+        }
+      ],
+      "start": 123.44,
+      "end": 132.72,
+      "confidence": 0.991,
+      "time": 123.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Guía, sí, a tus corderos, amantísimo Pastor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "así",
+          "start": 133.88,
+          "end": 134.64
+        },
+        {
+          "word": "a",
+          "start": 134.64,
+          "end": 135.16
+        },
+        {
+          "word": "tus",
+          "start": 135.16,
+          "end": 135.66
+        },
+        {
+          "word": "corderos,",
+          "start": 135.66,
+          "end": 138.04
+        },
+        {
+          "word": "amantísimo",
+          "start": 138.6,
+          "end": 140.72
+        },
+        {
+          "word": "pastor,",
+          "start": 140.72,
+          "end": 143.02
+        }
+      ],
+      "start": 133.88,
+      "end": 143.54,
+      "confidence": 0.84,
+      "time": 133.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "amantísimo Pastor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "amantísimo",
+          "start": 143.54,
+          "end": 145.78
+        },
+        {
+          "word": "pastor.",
+          "start": 145.78,
+          "end": 148.48
+        }
+      ],
+      "start": 143.54,
+      "end": 148.48,
+      "confidence": 1.0,
+      "time": 143.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Oye, Cristo, nuestro ruego, oye nuestra petición;",
+      "verse": 4,
+      "start": 148.48,
+      "end": 153.96,
+      "confidence": 0.0,
+      "time": 148.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "ven, ampara tu rebaño con tu santa protección.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 159.44,
+          "end": 159.44
+        },
+        {
+          "word": "español",
+          "start": 159.44,
+          "end": 159.44
+        },
+        {
+          "word": "Santos",
+          "start": 161.92,
+          "end": 161.92
+        }
+      ],
+      "start": 153.96,
+      "end": 159.44,
+      "confidence": 0.311,
+      "time": 153.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Te lo piden tus corderos con humilde corazón,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "los",
+          "start": 161.92,
+          "end": 161.92
+        },
+        {
+          "word": "con",
+          "start": 178.48,
+          "end": 179.9
+        },
+        {
+          "word": "humilde",
+          "start": 179.9,
+          "end": 181.3
+        },
+        {
+          "word": "corazón,",
+          "start": 181.3,
+          "end": 184.24
+        }
+      ],
+      "start": 161.92,
+      "end": 184.66,
+      "confidence": 0.485,
+      "time": 161.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "con humilde corazón.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "con",
+          "start": 184.66,
+          "end": 185.2
+        },
+        {
+          "word": "humilde",
+          "start": 185.2,
+          "end": 186.6
+        },
+        {
+          "word": "corazón.",
+          "start": 186.6,
+          "end": 189.48
+        }
+      ],
+      "start": 184.66,
+      "end": 189.48,
+      "confidence": 1.0,
+      "time": 184.66
+    }
+  ]
+}

@@ -1,0 +1,947 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.96,
+  "language": "es",
+  "model": "medium",
+  "hymn": 300,
+  "source": "300 - Lejos de mi Padre Dios.mp3",
+  "duration": 202.08,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Lejos de mi Padre Dios,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Lejos",
+          "start": 12.92,
+          "end": 14.32
+        },
+        {
+          "word": "de",
+          "start": 14.32,
+          "end": 15.32
+        },
+        {
+          "word": "mi",
+          "start": 15.32,
+          "end": 15.68
+        },
+        {
+          "word": "Padre",
+          "start": 15.68,
+          "end": 17.1
+        },
+        {
+          "word": "Dios,",
+          "start": 17.1,
+          "end": 18.28
+        }
+      ],
+      "start": 12.92,
+      "end": 18.98,
+      "confidence": 1.0,
+      "time": 12.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por Jesús hallado,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "por",
+          "start": 18.98,
+          "end": 19.46
+        },
+        {
+          "word": "Jesús",
+          "start": 19.46,
+          "end": 20.88
+        },
+        {
+          "word": "hallado,",
+          "start": 20.88,
+          "end": 23.72
+        }
+      ],
+      "start": 18.98,
+      "end": 23.72,
+      "confidence": 1.0,
+      "time": 18.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por su gracia y por su amor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Por",
+          "start": 23.72,
+          "end": 24.92
+        },
+        {
+          "word": "su",
+          "start": 24.92,
+          "end": 25.52
+        },
+        {
+          "word": "gracia",
+          "start": 25.52,
+          "end": 26.82
+        },
+        {
+          "word": "y",
+          "start": 26.82,
+          "end": 26.96
+        },
+        {
+          "word": "por",
+          "start": 26.96,
+          "end": 27.86
+        },
+        {
+          "word": "su",
+          "start": 27.86,
+          "end": 28.32
+        },
+        {
+          "word": "amor",
+          "start": 28.32,
+          "end": 29.46
+        }
+      ],
+      "start": 23.72,
+      "end": 29.46,
+      "confidence": 1.0,
+      "time": 23.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "solo fui salvado.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "solo",
+          "start": 29.46,
+          "end": 31.1
+        },
+        {
+          "word": "fui",
+          "start": 31.1,
+          "end": 32.08
+        },
+        {
+          "word": "salvado.",
+          "start": 32.08,
+          "end": 35.0
+        }
+      ],
+      "start": 29.46,
+      "end": 35.0,
+      "confidence": 1.0,
+      "time": 29.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "En Jesús, mi Señor, es mi gloria eterna;",
+      "words": [
+        {
+          "word": "En",
+          "start": 35.44,
+          "end": 36.36
+        },
+        {
+          "word": "Jesús,",
+          "start": 36.36,
+          "end": 38.08
+        },
+        {
+          "word": "mi",
+          "start": 38.6,
+          "end": 39.1
+        },
+        {
+          "word": "Señor,",
+          "start": 39.1,
+          "end": 40.64
+        },
+        {
+          "word": "es",
+          "start": 41.42,
+          "end": 42.1
+        },
+        {
+          "word": "mi",
+          "start": 42.1,
+          "end": 42.64
+        },
+        {
+          "word": "gloria",
+          "start": 42.64,
+          "end": 43.68
+        },
+        {
+          "word": "eterna.",
+          "start": 43.68,
+          "end": 46.06
+        }
+      ],
+      "start": 35.44,
+      "end": 46.06,
+      "confidence": 1.0,
+      "time": 35.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "él me amó y me salvó en su gracia tierna.",
+      "words": [
+        {
+          "word": "Él",
+          "start": 46.06,
+          "end": 47.5
+        },
+        {
+          "word": "me",
+          "start": 47.5,
+          "end": 48.06
+        },
+        {
+          "word": "amó",
+          "start": 48.06,
+          "end": 49.06
+        },
+        {
+          "word": "y",
+          "start": 49.06,
+          "end": 49.58
+        },
+        {
+          "word": "me",
+          "start": 49.58,
+          "end": 50.5
+        },
+        {
+          "word": "salvó",
+          "start": 50.5,
+          "end": 52.22
+        },
+        {
+          "word": "en",
+          "start": 52.22,
+          "end": 53.26
+        },
+        {
+          "word": "Su",
+          "start": 53.26,
+          "end": 53.76
+        },
+        {
+          "word": "gracia",
+          "start": 53.76,
+          "end": 55.18
+        },
+        {
+          "word": "tierna.",
+          "start": 55.18,
+          "end": 58.9
+        }
+      ],
+      "start": 46.06,
+      "end": 58.9,
+      "confidence": 1.0,
+      "time": 46.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En Jesús, mi Salvador,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 59.5,
+          "end": 60.22
+        },
+        {
+          "word": "Jesús,",
+          "start": 60.22,
+          "end": 61.5
+        },
+        {
+          "word": "mi",
+          "start": 61.84,
+          "end": 62.08
+        },
+        {
+          "word": "Salvador,",
+          "start": 62.08,
+          "end": 64.4
+        }
+      ],
+      "start": 59.5,
+      "end": 65.38,
+      "confidence": 1.0,
+      "time": 59.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pongo mi confianza;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pongo",
+          "start": 65.38,
+          "end": 66.24
+        },
+        {
+          "word": "mi",
+          "start": 66.24,
+          "end": 67.36
+        },
+        {
+          "word": "confianza,",
+          "start": 67.36,
+          "end": 70.08
+        }
+      ],
+      "start": 65.38,
+      "end": 70.08,
+      "confidence": 1.0,
+      "time": 65.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "toda mi necesidad",
+      "verse": 2,
+      "words": [
+        {
+          "word": "toda",
+          "start": 70.08,
+          "end": 71.76
+        },
+        {
+          "word": "mi",
+          "start": 71.76,
+          "end": 72.98
+        },
+        {
+          "word": "necesidad,",
+          "start": 72.98,
+          "end": 75.9
+        }
+      ],
+      "start": 70.08,
+      "end": 76.98,
+      "confidence": 1.0,
+      "time": 70.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "suple en abundancia.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "su",
+          "start": 76.98,
+          "end": 77.14
+        },
+        {
+          "word": "abundancia.",
+          "start": 78.46,
+          "end": 81.48
+        }
+      ],
+      "start": 76.98,
+      "end": 81.48,
+      "confidence": 0.647,
+      "time": 76.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "En Jesús, mi Señor, es mi gloria eterna;",
+      "words": [
+        {
+          "word": "En",
+          "start": 82.02,
+          "end": 82.8
+        },
+        {
+          "word": "Jesús,",
+          "start": 82.8,
+          "end": 84.6
+        },
+        {
+          "word": "mi",
+          "start": 84.84,
+          "end": 85.58
+        },
+        {
+          "word": "Señor,",
+          "start": 85.58,
+          "end": 86.98
+        },
+        {
+          "word": "es",
+          "start": 87.66,
+          "end": 88.48
+        },
+        {
+          "word": "mi",
+          "start": 88.48,
+          "end": 88.94
+        },
+        {
+          "word": "gloria",
+          "start": 88.94,
+          "end": 90.08
+        },
+        {
+          "word": "eterna.",
+          "start": 90.08,
+          "end": 92.48
+        }
+      ],
+      "start": 82.02,
+      "end": 92.48,
+      "confidence": 1.0,
+      "time": 82.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "él me amó y me salvó en su gracia tierna.",
+      "words": [
+        {
+          "word": "Él",
+          "start": 92.48,
+          "end": 93.92
+        },
+        {
+          "word": "me",
+          "start": 93.92,
+          "end": 94.48
+        },
+        {
+          "word": "amó",
+          "start": 94.48,
+          "end": 95.52
+        },
+        {
+          "word": "y",
+          "start": 95.52,
+          "end": 96.08
+        },
+        {
+          "word": "me",
+          "start": 96.08,
+          "end": 96.96
+        },
+        {
+          "word": "salvó",
+          "start": 96.96,
+          "end": 98.62
+        },
+        {
+          "word": "en",
+          "start": 98.62,
+          "end": 99.72
+        },
+        {
+          "word": "Su",
+          "start": 99.72,
+          "end": 100.18
+        },
+        {
+          "word": "gracia",
+          "start": 100.18,
+          "end": 101.6
+        },
+        {
+          "word": "tierna.",
+          "start": 101.6,
+          "end": 105.42
+        }
+      ],
+      "start": 92.48,
+      "end": 105.42,
+      "confidence": 1.0,
+      "time": 92.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cerca de mi buen Pastor",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cerca",
+          "start": 106.3,
+          "end": 107.48
+        },
+        {
+          "word": "de",
+          "start": 107.48,
+          "end": 108.32
+        },
+        {
+          "word": "mi",
+          "start": 108.32,
+          "end": 108.72
+        },
+        {
+          "word": "buen",
+          "start": 108.72,
+          "end": 109.62
+        },
+        {
+          "word": "Pastor",
+          "start": 109.62,
+          "end": 111.24
+        }
+      ],
+      "start": 106.3,
+      "end": 111.24,
+      "confidence": 1.0,
+      "time": 106.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "vivo cada día;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "vivo",
+          "start": 111.24,
+          "end": 112.82
+        },
+        {
+          "word": "cada",
+          "start": 112.82,
+          "end": 114.54
+        },
+        {
+          "word": "día,",
+          "start": 114.54,
+          "end": 116.92
+        }
+      ],
+      "start": 111.24,
+      "end": 116.92,
+      "confidence": 1.0,
+      "time": 111.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "toda gracia en ti, Señor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Toda",
+          "start": 116.92,
+          "end": 118.66
+        },
+        {
+          "word": "gracia",
+          "start": 118.66,
+          "end": 119.8
+        },
+        {
+          "word": "en",
+          "start": 119.8,
+          "end": 120.18
+        },
+        {
+          "word": "ti,",
+          "start": 120.18,
+          "end": 120.98
+        },
+        {
+          "word": "Señor,",
+          "start": 120.98,
+          "end": 122.58
+        }
+      ],
+      "start": 116.92,
+      "end": 123.74,
+      "confidence": 1.0,
+      "time": 116.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "halla el alma mía.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "halla",
+          "start": 123.74,
+          "end": 124.12
+        },
+        {
+          "word": "el",
+          "start": 124.12,
+          "end": 125.02
+        },
+        {
+          "word": "alma",
+          "start": 125.02,
+          "end": 125.62
+        },
+        {
+          "word": "mía.",
+          "start": 125.62,
+          "end": 128.26
+        }
+      ],
+      "start": 123.74,
+      "end": 128.26,
+      "confidence": 1.0,
+      "time": 123.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "En Jesús, mi Señor, es mi gloria eterna;",
+      "words": [
+        {
+          "word": "En",
+          "start": 128.5,
+          "end": 129.46
+        },
+        {
+          "word": "Jesús,",
+          "start": 129.46,
+          "end": 131.22
+        },
+        {
+          "word": "mi",
+          "start": 131.5,
+          "end": 132.2
+        },
+        {
+          "word": "Señor,",
+          "start": 132.2,
+          "end": 133.66
+        },
+        {
+          "word": "es",
+          "start": 134.38,
+          "end": 135.16
+        },
+        {
+          "word": "mi",
+          "start": 135.16,
+          "end": 135.72
+        },
+        {
+          "word": "gloria",
+          "start": 135.72,
+          "end": 136.72
+        },
+        {
+          "word": "alterna.",
+          "start": 136.72,
+          "end": 139.34
+        }
+      ],
+      "start": 128.5,
+      "end": 139.34,
+      "confidence": 0.983,
+      "time": 128.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "él me amó y me salvó en su gracia tierna.",
+      "words": [
+        {
+          "word": "Él",
+          "start": 139.34,
+          "end": 140.56
+        },
+        {
+          "word": "me",
+          "start": 140.56,
+          "end": 141.12
+        },
+        {
+          "word": "amó",
+          "start": 141.12,
+          "end": 142.14
+        },
+        {
+          "word": "y",
+          "start": 142.14,
+          "end": 142.68
+        },
+        {
+          "word": "me",
+          "start": 142.68,
+          "end": 143.64
+        },
+        {
+          "word": "salvó",
+          "start": 143.64,
+          "end": 145.26
+        },
+        {
+          "word": "en",
+          "start": 145.26,
+          "end": 146.38
+        },
+        {
+          "word": "Su",
+          "start": 146.38,
+          "end": 146.9
+        },
+        {
+          "word": "gracia",
+          "start": 146.9,
+          "end": 148.3
+        },
+        {
+          "word": "tierna.",
+          "start": 148.3,
+          "end": 152.14
+        }
+      ],
+      "start": 139.34,
+      "end": 152.14,
+      "confidence": 1.0,
+      "time": 139.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Guárdame, Señor Jesús,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Guárdame,",
+          "start": 153.32,
+          "end": 154.72
+        },
+        {
+          "word": "Señor",
+          "start": 154.72,
+          "end": 156.14
+        },
+        {
+          "word": "Jesús,",
+          "start": 156.14,
+          "end": 157.84
+        }
+      ],
+      "start": 153.32,
+      "end": 158.86,
+      "confidence": 1.0,
+      "time": 153.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "para que no caiga;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "para",
+          "start": 158.86,
+          "end": 159.62
+        },
+        {
+          "word": "que",
+          "start": 159.62,
+          "end": 160.46
+        },
+        {
+          "word": "no",
+          "start": 160.46,
+          "end": 161.4
+        },
+        {
+          "word": "caiga",
+          "start": 161.4,
+          "end": 163.6
+        }
+      ],
+      "start": 158.86,
+      "end": 163.6,
+      "confidence": 1.0,
+      "time": 158.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "cual sarmiento de la vid,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Balzamiento",
+          "start": 163.6,
+          "end": 166.34
+        },
+        {
+          "word": "de",
+          "start": 166.34,
+          "end": 167.58
+        },
+        {
+          "word": "la",
+          "start": 167.58,
+          "end": 168.22
+        },
+        {
+          "word": "vida,",
+          "start": 168.22,
+          "end": 169.36
+        }
+      ],
+      "start": 163.6,
+      "end": 169.44,
+      "confidence": 0.752,
+      "time": 163.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "vida de ti traiga.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "vida",
+          "start": 169.44,
+          "end": 170.78
+        },
+        {
+          "word": "de",
+          "start": 170.78,
+          "end": 171.76
+        },
+        {
+          "word": "ti",
+          "start": 171.76,
+          "end": 172.24
+        },
+        {
+          "word": "traiga.",
+          "start": 172.24,
+          "end": 174.68
+        }
+      ],
+      "start": 169.44,
+      "end": 174.68,
+      "confidence": 1.0,
+      "time": 169.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "En Jesús, mi Señor, es mi gloria eterna;",
+      "words": [
+        {
+          "word": "En",
+          "start": 175.1,
+          "end": 176.0
+        },
+        {
+          "word": "Jesús,",
+          "start": 176.0,
+          "end": 177.7
+        },
+        {
+          "word": "mi",
+          "start": 178.26,
+          "end": 178.8
+        },
+        {
+          "word": "Señor,",
+          "start": 178.8,
+          "end": 180.22
+        },
+        {
+          "word": "es",
+          "start": 181.1,
+          "end": 181.72
+        },
+        {
+          "word": "mi",
+          "start": 181.72,
+          "end": 182.1
+        },
+        {
+          "word": "gloria",
+          "start": 182.1,
+          "end": 183.34
+        },
+        {
+          "word": "eterna.",
+          "start": 183.34,
+          "end": 185.82
+        }
+      ],
+      "start": 175.1,
+      "end": 185.82,
+      "confidence": 1.0,
+      "time": 175.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "él me amó y me salvó en su gracia tierna.",
+      "words": [
+        {
+          "word": "amor",
+          "start": 187.56,
+          "end": 188.78
+        },
+        {
+          "word": "y",
+          "start": 188.78,
+          "end": 189.4
+        },
+        {
+          "word": "salvo",
+          "start": 190.0,
+          "end": 191.62
+        },
+        {
+          "word": "en",
+          "start": 191.62,
+          "end": 192.98
+        },
+        {
+          "word": "su",
+          "start": 192.98,
+          "end": 193.4
+        },
+        {
+          "word": "gracia",
+          "start": 193.4,
+          "end": 194.94
+        },
+        {
+          "word": "tierna.",
+          "start": 194.94,
+          "end": 197.6
+        }
+      ],
+      "start": 187.56,
+      "end": 197.6,
+      "confidence": 0.694,
+      "time": 187.56
+    }
+  ]
+}

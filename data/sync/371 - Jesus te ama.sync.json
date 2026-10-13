@@ -1,0 +1,507 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.928,
+  "language": "es",
+  "model": "medium",
+  "hymn": 371,
+  "source": "371 - Jesus te ama.mp3",
+  "duration": 126.07,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Gracias te doy por darme esperanza",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Gracias",
+          "start": 14.26,
+          "end": 15.66
+        },
+        {
+          "word": "te",
+          "start": 15.66,
+          "end": 16.12
+        },
+        {
+          "word": "doy",
+          "start": 16.12,
+          "end": 16.82
+        },
+        {
+          "word": "por",
+          "start": 16.82,
+          "end": 17.6
+        },
+        {
+          "word": "darme",
+          "start": 17.6,
+          "end": 19.06
+        },
+        {
+          "word": "esperanza,",
+          "start": 19.06,
+          "end": 20.68
+        }
+      ],
+      "start": 14.26,
+      "end": 21.26,
+      "confidence": 1.0,
+      "time": 14.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que muy pronto volverás.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 21.26,
+          "end": 22.3
+        },
+        {
+          "word": "muy",
+          "start": 22.3,
+          "end": 22.86
+        },
+        {
+          "word": "pronto",
+          "start": 22.86,
+          "end": 23.52
+        },
+        {
+          "word": "volverás.",
+          "start": 23.52,
+          "end": 27.38
+        }
+      ],
+      "start": 21.26,
+      "end": 27.38,
+      "confidence": 1.0,
+      "time": 21.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Gracias te doy por tu sacrificio",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Gracias",
+          "start": 27.38,
+          "end": 29.16
+        },
+        {
+          "word": "te",
+          "start": 29.16,
+          "end": 29.6
+        },
+        {
+          "word": "doy",
+          "start": 29.6,
+          "end": 30.72
+        },
+        {
+          "word": "por",
+          "start": 30.72,
+          "end": 31.18
+        },
+        {
+          "word": "tu",
+          "start": 31.18,
+          "end": 32.36
+        },
+        {
+          "word": "sacrificio",
+          "start": 32.36,
+          "end": 34.24
+        }
+      ],
+      "start": 27.38,
+      "end": 34.24,
+      "confidence": 1.0,
+      "time": 27.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que me dio la salvación.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 34.24,
+          "end": 35.72
+        },
+        {
+          "word": "me",
+          "start": 35.72,
+          "end": 36.2
+        },
+        {
+          "word": "dio",
+          "start": 36.2,
+          "end": 36.48
+        },
+        {
+          "word": "la",
+          "start": 36.48,
+          "end": 37.24
+        },
+        {
+          "word": "salvación.",
+          "start": 37.24,
+          "end": 40.24
+        }
+      ],
+      "start": 34.24,
+      "end": 40.24,
+      "confidence": 1.0,
+      "time": 34.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Jesús te ama, Jesús en la cruz lo demostró.",
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 41.24,
+          "end": 42.64
+        },
+        {
+          "word": "Jesús,",
+          "start": 44.2,
+          "end": 45.82
+        },
+        {
+          "word": "en",
+          "start": 46.86,
+          "end": 47.34
+        },
+        {
+          "word": "la",
+          "start": 47.34,
+          "end": 48.02
+        },
+        {
+          "word": "cruz",
+          "start": 48.02,
+          "end": 49.34
+        },
+        {
+          "word": "lo",
+          "start": 49.34,
+          "end": 50.44
+        },
+        {
+          "word": "demostró.",
+          "start": 50.44,
+          "end": 52.98
+        }
+      ],
+      "start": 41.24,
+      "end": 52.98,
+      "confidence": 0.778,
+      "time": 41.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Jesús hoy te invita: Dame tu corazón.",
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 52.98,
+          "end": 55.22
+        },
+        {
+          "word": "hoy",
+          "start": 55.22,
+          "end": 56.28
+        },
+        {
+          "word": "te",
+          "start": 56.28,
+          "end": 57.22
+        },
+        {
+          "word": "invita,",
+          "start": 57.22,
+          "end": 60.5
+        },
+        {
+          "word": "dame",
+          "start": 61.48,
+          "end": 62.62
+        },
+        {
+          "word": "tu",
+          "start": 62.62,
+          "end": 63.24
+        },
+        {
+          "word": "corazón.",
+          "start": 63.24,
+          "end": 67.32
+        }
+      ],
+      "start": 52.98,
+      "end": 67.32,
+      "confidence": 1.0,
+      "time": 52.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Gracias te doy por darte alabanza",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Gracias",
+          "start": 68.54,
+          "end": 69.88
+        },
+        {
+          "word": "te",
+          "start": 69.88,
+          "end": 70.34
+        },
+        {
+          "word": "doy",
+          "start": 70.34,
+          "end": 70.98
+        },
+        {
+          "word": "por",
+          "start": 70.98,
+          "end": 71.98
+        },
+        {
+          "word": "darme",
+          "start": 71.98,
+          "end": 73.3
+        },
+        {
+          "word": "alabanza",
+          "start": 73.3,
+          "end": 74.9
+        }
+      ],
+      "start": 68.54,
+      "end": 74.9,
+      "confidence": 0.98,
+      "time": 68.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y feliz poder cantar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 74.9,
+          "end": 76.46
+        },
+        {
+          "word": "feliz",
+          "start": 76.46,
+          "end": 77.3
+        },
+        {
+          "word": "poder",
+          "start": 77.3,
+          "end": 78.02
+        },
+        {
+          "word": "cantar.",
+          "start": 78.02,
+          "end": 81.38
+        }
+      ],
+      "start": 74.9,
+      "end": 81.38,
+      "confidence": 1.0,
+      "time": 74.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Gracias te doy por la vida eterna",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Gracias",
+          "start": 81.38,
+          "end": 83.22
+        },
+        {
+          "word": "te",
+          "start": 83.22,
+          "end": 83.62
+        },
+        {
+          "word": "doy",
+          "start": 83.62,
+          "end": 84.74
+        },
+        {
+          "word": "por",
+          "start": 84.74,
+          "end": 85.28
+        },
+        {
+          "word": "la",
+          "start": 85.28,
+          "end": 86.34
+        },
+        {
+          "word": "vida",
+          "start": 86.34,
+          "end": 86.68
+        },
+        {
+          "word": "eterna,",
+          "start": 86.68,
+          "end": 88.14
+        }
+      ],
+      "start": 81.38,
+      "end": 88.44,
+      "confidence": 1.0,
+      "time": 81.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que en breve he de gozar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 88.44,
+          "end": 89.8
+        },
+        {
+          "word": "en",
+          "start": 89.8,
+          "end": 90.32
+        },
+        {
+          "word": "breve",
+          "start": 90.32,
+          "end": 90.78
+        },
+        {
+          "word": "gozar.",
+          "start": 91.4,
+          "end": 94.08
+        }
+      ],
+      "start": 88.44,
+      "end": 94.08,
+      "confidence": 0.667,
+      "time": 88.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Jesús te ama, Jesús en la cruz lo demostró.",
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 95.08,
+          "end": 96.48
+        },
+        {
+          "word": "te",
+          "start": 96.48,
+          "end": 97.06
+        },
+        {
+          "word": "amaba,",
+          "start": 97.06,
+          "end": 97.84
+        },
+        {
+          "word": "Jesús",
+          "start": 99.38,
+          "end": 99.58
+        },
+        {
+          "word": "en",
+          "start": 99.58,
+          "end": 101.06
+        },
+        {
+          "word": "la",
+          "start": 101.06,
+          "end": 101.78
+        },
+        {
+          "word": "cruz",
+          "start": 101.78,
+          "end": 103.2
+        },
+        {
+          "word": "lo",
+          "start": 103.2,
+          "end": 103.94
+        },
+        {
+          "word": "demostró.",
+          "start": 103.94,
+          "end": 106.9
+        }
+      ],
+      "start": 95.08,
+      "end": 106.9,
+      "confidence": 0.993,
+      "time": 95.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Jesús hoy te invita: Dame tu corazón.",
+      "words": [
+        {
+          "word": "Jesucristo,",
+          "start": 108.42,
+          "end": 109.82
+        },
+        {
+          "word": "te",
+          "start": 110.32,
+          "end": 110.78
+        },
+        {
+          "word": "invito,",
+          "start": 110.78,
+          "end": 114.22
+        },
+        {
+          "word": "dame",
+          "start": 114.5,
+          "end": 116.26
+        },
+        {
+          "word": "tu",
+          "start": 116.26,
+          "end": 117.04
+        },
+        {
+          "word": "corazón.",
+          "start": 117.04,
+          "end": 119.26
+        }
+      ],
+      "start": 108.42,
+      "end": 119.26,
+      "confidence": 0.814,
+      "time": 108.42
+    }
+  ]
+}

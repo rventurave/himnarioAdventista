@@ -1,0 +1,722 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.815,
+  "language": "es",
+  "model": "medium",
+  "hymn": 256,
+  "source": "256 - Jesus, yo he prometido.mp3",
+  "duration": 216.95,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús, yo he prometido servirte con amor;",
+      "verse": 1,
+      "start": 0.0,
+      "end": 30.0,
+      "confidence": 0.0,
+      "time": 0.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "concédeme tu gracia, mi amigo y Salvador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 30.0,
+          "end": 32.32
+        },
+        {
+          "word": "amigo",
+          "start": 32.32,
+          "end": 34.04
+        },
+        {
+          "word": "salvador,",
+          "start": 34.76,
+          "end": 37.98
+        }
+      ],
+      "start": 30.0,
+      "end": 38.92,
+      "confidence": 0.429,
+      "time": 30.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "No temeré la lucha si tú a mi lado estás,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "no",
+          "start": 38.92,
+          "end": 39.04
+        },
+        {
+          "word": "temeré",
+          "start": 39.04,
+          "end": 41.68
+        },
+        {
+          "word": "la",
+          "start": 41.68,
+          "end": 42.18
+        },
+        {
+          "word": "lucha",
+          "start": 42.18,
+          "end": 44.1
+        },
+        {
+          "word": "si",
+          "start": 44.1,
+          "end": 45.08
+        },
+        {
+          "word": "tú",
+          "start": 45.08,
+          "end": 45.92
+        },
+        {
+          "word": "a",
+          "start": 45.92,
+          "end": 46.4
+        },
+        {
+          "word": "mi",
+          "start": 46.4,
+          "end": 46.72
+        },
+        {
+          "word": "lado",
+          "start": 46.72,
+          "end": 47.78
+        },
+        {
+          "word": "estás.",
+          "start": 47.78,
+          "end": 50.0
+        }
+      ],
+      "start": 38.92,
+      "end": 50.0,
+      "confidence": 1.0,
+      "time": 38.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ni perderé el camino si tú alumbrando vas.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 53.28,
+          "end": 54.14
+        },
+        {
+          "word": "camino",
+          "start": 54.14,
+          "end": 56.4
+        },
+        {
+          "word": "si",
+          "start": 56.4,
+          "end": 57.48
+        },
+        {
+          "word": "tú",
+          "start": 57.48,
+          "end": 58.6
+        },
+        {
+          "word": "alumbrando",
+          "start": 58.6,
+          "end": 60.32
+        },
+        {
+          "word": "vas.",
+          "start": 60.32,
+          "end": 62.64
+        }
+      ],
+      "start": 53.28,
+      "end": 62.64,
+      "confidence": 0.75,
+      "time": 53.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "El mundo está acechando y abunda en tentación,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "El",
+          "start": 63.22,
+          "end": 64.06
+        },
+        {
+          "word": "mundo",
+          "start": 64.06,
+          "end": 65.26
+        },
+        {
+          "word": "está",
+          "start": 65.26,
+          "end": 66.3
+        },
+        {
+          "word": "acechando",
+          "start": 66.3,
+          "end": 69.14
+        },
+        {
+          "word": "y",
+          "start": 69.14,
+          "end": 70.16
+        },
+        {
+          "word": "a",
+          "start": 70.16,
+          "end": 70.8
+        },
+        {
+          "word": "tentación.",
+          "start": 71.82,
+          "end": 75.22
+        }
+      ],
+      "start": 63.22,
+      "end": 75.22,
+      "confidence": 0.868,
+      "time": 63.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "sutil es el engaño y loca la pasión;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Sotiles",
+          "start": 76.48,
+          "end": 77.88
+        },
+        {
+          "word": "el",
+          "start": 77.88,
+          "end": 79.06
+        },
+        {
+          "word": "engaño",
+          "start": 79.06,
+          "end": 81.56
+        },
+        {
+          "word": "y",
+          "start": 81.56,
+          "end": 82.72
+        },
+        {
+          "word": "loca",
+          "start": 82.72,
+          "end": 83.84
+        },
+        {
+          "word": "la",
+          "start": 83.84,
+          "end": 84.78
+        },
+        {
+          "word": "pasión.",
+          "start": 84.78,
+          "end": 87.14
+        }
+      ],
+      "start": 76.48,
+      "end": 87.14,
+      "confidence": 0.85,
+      "time": 76.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "acércate, Maestro, revela tu piedad",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Acércate,",
+          "start": 90.92,
+          "end": 92.32
+        },
+        {
+          "word": "maestro,",
+          "start": 92.32,
+          "end": 93.14
+        },
+        {
+          "word": "¡Repel",
+          "start": 94.72,
+          "end": 96.12
+        },
+        {
+          "word": "tu",
+          "start": 96.6,
+          "end": 97.04
+        },
+        {
+          "word": "piedad!",
+          "start": 97.04,
+          "end": 99.14
+        }
+      ],
+      "start": 90.92,
+      "end": 99.14,
+      "confidence": 0.967,
+      "time": 90.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y escuda, fiel, mi alma de toda iniquidad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¡Es",
+          "start": 100.54,
+          "end": 101.24
+        },
+        {
+          "word": "mi",
+          "start": 103.18,
+          "end": 104.3
+        },
+        {
+          "word": "alma",
+          "start": 104.3,
+          "end": 105.98
+        },
+        {
+          "word": "de",
+          "start": 105.98,
+          "end": 107.3
+        },
+        {
+          "word": "dañitidad!",
+          "start": 108.34,
+          "end": 112.38
+        }
+      ],
+      "start": 100.54,
+      "end": 112.38,
+      "confidence": 0.593,
+      "time": 100.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si ves mi mente errando del necio mal en pos,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Si",
+          "start": 112.76,
+          "end": 113.7
+        },
+        {
+          "word": "ves",
+          "start": 113.7,
+          "end": 114.92
+        },
+        {
+          "word": "mi",
+          "start": 114.92,
+          "end": 115.3
+        },
+        {
+          "word": "mente",
+          "start": 115.3,
+          "end": 116.12
+        },
+        {
+          "word": "errando",
+          "start": 116.12,
+          "end": 118.14
+        },
+        {
+          "word": "del",
+          "start": 118.14,
+          "end": 119.66
+        },
+        {
+          "word": "necio",
+          "start": 119.66,
+          "end": 121.4
+        },
+        {
+          "word": "mal",
+          "start": 121.4,
+          "end": 122.44
+        },
+        {
+          "word": "en",
+          "start": 122.44,
+          "end": 123.2
+        },
+        {
+          "word": "pos",
+          "start": 123.2,
+          "end": 124.14
+        }
+      ],
+      "start": 112.76,
+      "end": 124.14,
+      "confidence": 1.0,
+      "time": 112.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "concédeme que escuche, Señor, tu clara voz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "concedeme",
+          "start": 126.86,
+          "end": 128.26
+        },
+        {
+          "word": "que",
+          "start": 128.26,
+          "end": 129.2
+        },
+        {
+          "word": "escuche",
+          "start": 129.2,
+          "end": 130.14
+        },
+        {
+          "word": "Señor",
+          "start": 131.84,
+          "end": 133.24
+        },
+        {
+          "word": "tu",
+          "start": 133.24,
+          "end": 133.74
+        },
+        {
+          "word": "clara",
+          "start": 133.74,
+          "end": 135.32
+        },
+        {
+          "word": "voz",
+          "start": 135.32,
+          "end": 136.14
+        }
+      ],
+      "start": 126.86,
+      "end": 136.14,
+      "confidence": 1.0,
+      "time": 126.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Aliéntame en la lucha, mi espíritu sostén,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "alientame",
+          "start": 138.88,
+          "end": 140.28
+        },
+        {
+          "word": "en",
+          "start": 140.28,
+          "end": 140.96
+        },
+        {
+          "word": "la",
+          "start": 140.96,
+          "end": 141.66
+        },
+        {
+          "word": "lucha",
+          "start": 141.66,
+          "end": 143.48
+        },
+        {
+          "word": "Mi",
+          "start": 143.48,
+          "end": 144.38
+        },
+        {
+          "word": "Espíritu",
+          "start": 144.38,
+          "end": 146.8
+        },
+        {
+          "word": "sostén,",
+          "start": 146.8,
+          "end": 149.64
+        }
+      ],
+      "start": 138.88,
+      "end": 150.68,
+      "confidence": 1.0,
+      "time": 138.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "confórtame si temo, impúlsame en el bien.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "concórtame",
+          "start": 150.68,
+          "end": 152.92
+        },
+        {
+          "word": "si",
+          "start": 152.92,
+          "end": 153.78
+        },
+        {
+          "word": "tengo,",
+          "start": 153.78,
+          "end": 155.76
+        },
+        {
+          "word": "impúlzame",
+          "start": 157.5,
+          "end": 158.9
+        },
+        {
+          "word": "en",
+          "start": 158.9,
+          "end": 159.74
+        },
+        {
+          "word": "el",
+          "start": 159.74,
+          "end": 160.16
+        },
+        {
+          "word": "bien.",
+          "start": 160.16,
+          "end": 161.52
+        }
+      ],
+      "start": 150.68,
+      "end": 161.52,
+      "confidence": 0.953,
+      "time": 150.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Jesús, tú has prometido a todo aquel que va",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 161.52,
+          "end": 164.04
+        },
+        {
+          "word": "prometido",
+          "start": 165.04,
+          "end": 168.5
+        },
+        {
+          "word": "a",
+          "start": 168.5,
+          "end": 169.76
+        },
+        {
+          "word": "todo",
+          "start": 169.76,
+          "end": 170.92
+        },
+        {
+          "word": "aquel",
+          "start": 170.92,
+          "end": 171.96
+        },
+        {
+          "word": "que",
+          "start": 171.96,
+          "end": 172.82
+        },
+        {
+          "word": "va",
+          "start": 172.82,
+          "end": 174.4
+        }
+      ],
+      "start": 161.52,
+      "end": 174.4,
+      "confidence": 0.778,
+      "time": 161.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "siguiendo tus pisadas, que al cielo llegará.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "siguiendo",
+          "start": 174.4,
+          "end": 177.14
+        },
+        {
+          "word": "tus",
+          "start": 177.14,
+          "end": 178.0
+        },
+        {
+          "word": "pisadas",
+          "start": 178.0,
+          "end": 180.82
+        },
+        {
+          "word": "que",
+          "start": 180.82,
+          "end": 181.56
+        },
+        {
+          "word": "al",
+          "start": 181.56,
+          "end": 181.94
+        },
+        {
+          "word": "cielo",
+          "start": 181.94,
+          "end": 183.2
+        }
+      ],
+      "start": 174.4,
+      "end": 186.52,
+      "confidence": 0.857,
+      "time": 174.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Sostenme en el camino, y al fin, con dulce amor,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Susten",
+          "start": 188.02,
+          "end": 189.42
+        },
+        {
+          "word": "en",
+          "start": 189.42,
+          "end": 189.86
+        },
+        {
+          "word": "el",
+          "start": 189.86,
+          "end": 190.56
+        },
+        {
+          "word": "camino",
+          "start": 190.56,
+          "end": 192.82
+        },
+        {
+          "word": "y",
+          "start": 192.82,
+          "end": 193.82
+        },
+        {
+          "word": "al",
+          "start": 193.82,
+          "end": 194.32
+        },
+        {
+          "word": "fin",
+          "start": 194.32,
+          "end": 195.24
+        },
+        {
+          "word": "con",
+          "start": 195.24,
+          "end": 195.98
+        },
+        {
+          "word": "dulce",
+          "start": 195.98,
+          "end": 196.98
+        },
+        {
+          "word": "amor",
+          "start": 196.98,
+          "end": 198.52
+        }
+      ],
+      "start": 188.02,
+      "end": 198.52,
+      "confidence": 0.983,
+      "time": 188.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "trasládame a tu gloria, mi amigo y Salvador.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Trascada",
+          "start": 200.46,
+          "end": 201.86
+        },
+        {
+          "word": "a",
+          "start": 202.34,
+          "end": 202.8
+        },
+        {
+          "word": "tu",
+          "start": 202.8,
+          "end": 203.36
+        },
+        {
+          "word": "gloria,",
+          "start": 203.36,
+          "end": 205.5
+        },
+        {
+          "word": "mi",
+          "start": 206.52,
+          "end": 206.68
+        },
+        {
+          "word": "amigo",
+          "start": 206.68,
+          "end": 208.04
+        },
+        {
+          "word": "salvador",
+          "start": 208.04,
+          "end": 211.08
+        }
+      ],
+      "start": 200.46,
+      "end": 211.08,
+      "confidence": 0.858,
+      "time": 200.46
+    }
+  ]
+}

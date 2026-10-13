@@ -1,0 +1,1020 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.977,
+  "language": "es",
+  "model": "medium",
+  "hymn": 600,
+  "source": "600 - Cuando venga Jesucristo.mp3",
+  "duration": 202.29,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cuando venga Jesucristo",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 33.38,
+          "end": 34.78
+        },
+        {
+          "word": "venga",
+          "start": 34.78,
+          "end": 36.18
+        },
+        {
+          "word": "Jesucristo",
+          "start": 36.18,
+          "end": 38.54
+        }
+      ],
+      "start": 33.38,
+      "end": 38.54,
+      "confidence": 1.0,
+      "time": 33.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en busca de joyas,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 38.54,
+          "end": 39.34
+        },
+        {
+          "word": "busca",
+          "start": 39.34,
+          "end": 40.7
+        },
+        {
+          "word": "de",
+          "start": 40.7,
+          "end": 41.78
+        },
+        {
+          "word": "joyas,",
+          "start": 41.78,
+          "end": 43.16
+        }
+      ],
+      "start": 38.54,
+      "end": 43.62,
+      "confidence": 1.0,
+      "time": 38.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "todo niño redimido",
+      "verse": 1,
+      "words": [
+        {
+          "word": "todo",
+          "start": 43.62,
+          "end": 43.98
+        },
+        {
+          "word": "niño",
+          "start": 43.98,
+          "end": 45.44
+        },
+        {
+          "word": "redimido",
+          "start": 45.44,
+          "end": 47.82
+        }
+      ],
+      "start": 43.62,
+      "end": 47.82,
+      "confidence": 1.0,
+      "time": 43.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "su gema será.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "su",
+          "start": 47.82,
+          "end": 48.58
+        },
+        {
+          "word": "gema",
+          "start": 48.58,
+          "end": 50.1
+        },
+        {
+          "word": "será.",
+          "start": 50.1,
+          "end": 51.58
+        }
+      ],
+      "start": 47.82,
+      "end": 51.58,
+      "confidence": 1.0,
+      "time": 47.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Como estrellas que brillan",
+      "words": [
+        {
+          "word": "Como",
+          "start": 51.58,
+          "end": 53.3
+        },
+        {
+          "word": "estrellas",
+          "start": 53.3,
+          "end": 54.98
+        },
+        {
+          "word": "que",
+          "start": 54.98,
+          "end": 55.92
+        },
+        {
+          "word": "brillan",
+          "start": 55.92,
+          "end": 57.24
+        }
+      ],
+      "start": 51.58,
+      "end": 57.24,
+      "confidence": 1.0,
+      "time": 51.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "son los niños que le aman;",
+      "words": [
+        {
+          "word": "son",
+          "start": 57.24,
+          "end": 57.72
+        },
+        {
+          "word": "los",
+          "start": 57.72,
+          "end": 58.48
+        },
+        {
+          "word": "niños",
+          "start": 58.48,
+          "end": 59.3
+        },
+        {
+          "word": "que",
+          "start": 59.3,
+          "end": 60.1
+        },
+        {
+          "word": "le",
+          "start": 60.1,
+          "end": 60.96
+        },
+        {
+          "word": "aman",
+          "start": 60.96,
+          "end": 61.7
+        }
+      ],
+      "start": 57.24,
+      "end": 61.7,
+      "confidence": 1.0,
+      "time": 57.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "son tesoros que adornan",
+      "words": [
+        {
+          "word": "Son",
+          "start": 61.7,
+          "end": 62.5
+        },
+        {
+          "word": "tesoros",
+          "start": 62.5,
+          "end": 64.38
+        },
+        {
+          "word": "que",
+          "start": 64.38,
+          "end": 65.22
+        },
+        {
+          "word": "adornan",
+          "start": 65.22,
+          "end": 66.9
+        }
+      ],
+      "start": 61.7,
+      "end": 66.9,
+      "confidence": 1.0,
+      "time": 61.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "al Rey y Señor.",
+      "words": [
+        {
+          "word": "al",
+          "start": 66.9,
+          "end": 67.74
+        },
+        {
+          "word": "Rey",
+          "start": 67.74,
+          "end": 69.2
+        },
+        {
+          "word": "y",
+          "start": 69.2,
+          "end": 69.48
+        },
+        {
+          "word": "Señor",
+          "start": 69.48,
+          "end": 72.48
+        }
+      ],
+      "start": 66.9,
+      "end": 72.48,
+      "confidence": 1.0,
+      "time": 66.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Quiere Cristo en su corona",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Quiere",
+          "start": 72.48,
+          "end": 74.26
+        },
+        {
+          "word": "Cristo",
+          "start": 74.26,
+          "end": 75.26
+        },
+        {
+          "word": "en",
+          "start": 75.26,
+          "end": 75.9
+        },
+        {
+          "word": "su",
+          "start": 75.9,
+          "end": 76.34
+        },
+        {
+          "word": "corona",
+          "start": 76.34,
+          "end": 77.92
+        }
+      ],
+      "start": 72.48,
+      "end": 77.92,
+      "confidence": 1.0,
+      "time": 72.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "brillantes estrellas;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "brilliantes",
+          "start": 77.92,
+          "end": 81.16
+        },
+        {
+          "word": "estrellas,",
+          "start": 81.16,
+          "end": 82.82
+        }
+      ],
+      "start": 77.92,
+      "end": 82.82,
+      "confidence": 0.986,
+      "time": 77.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "cada gema que le adorna",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cada",
+          "start": 83.28,
+          "end": 83.68
+        },
+        {
+          "word": "gema",
+          "start": 83.68,
+          "end": 84.9
+        },
+        {
+          "word": "que",
+          "start": 84.9,
+          "end": 85.64
+        },
+        {
+          "word": "le",
+          "start": 85.64,
+          "end": 86.12
+        },
+        {
+          "word": "adorna",
+          "start": 86.12,
+          "end": 87.64
+        }
+      ],
+      "start": 83.28,
+      "end": 87.64,
+      "confidence": 1.0,
+      "time": 83.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con sangre compró.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "con",
+          "start": 87.64,
+          "end": 88.54
+        },
+        {
+          "word": "sangre",
+          "start": 88.54,
+          "end": 90.14
+        },
+        {
+          "word": "compró.",
+          "start": 90.14,
+          "end": 91.48
+        }
+      ],
+      "start": 87.64,
+      "end": 91.48,
+      "confidence": 1.0,
+      "time": 87.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Como estrellas que brillan",
+      "words": [
+        {
+          "word": "Como",
+          "start": 92.38,
+          "end": 93.1
+        },
+        {
+          "word": "estrellas",
+          "start": 93.1,
+          "end": 94.82
+        },
+        {
+          "word": "que",
+          "start": 94.82,
+          "end": 95.74
+        },
+        {
+          "word": "brillan",
+          "start": 95.74,
+          "end": 97.04
+        }
+      ],
+      "start": 92.38,
+      "end": 97.04,
+      "confidence": 1.0,
+      "time": 92.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "son los niños que le aman;",
+      "words": [
+        {
+          "word": "son",
+          "start": 97.04,
+          "end": 97.56
+        },
+        {
+          "word": "los",
+          "start": 97.56,
+          "end": 98.26
+        },
+        {
+          "word": "niños",
+          "start": 98.26,
+          "end": 99.32
+        },
+        {
+          "word": "que",
+          "start": 99.32,
+          "end": 99.92
+        },
+        {
+          "word": "le",
+          "start": 99.92,
+          "end": 100.88
+        },
+        {
+          "word": "aman,",
+          "start": 100.88,
+          "end": 101.5
+        }
+      ],
+      "start": 97.04,
+      "end": 101.5,
+      "confidence": 1.0,
+      "time": 97.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "son tesoros que adornan",
+      "words": [
+        {
+          "word": "son",
+          "start": 101.5,
+          "end": 102.32
+        },
+        {
+          "word": "tesoros",
+          "start": 102.32,
+          "end": 104.2
+        },
+        {
+          "word": "que",
+          "start": 104.2,
+          "end": 104.96
+        },
+        {
+          "word": "adornan",
+          "start": 104.96,
+          "end": 106.78
+        }
+      ],
+      "start": 101.5,
+      "end": 106.78,
+      "confidence": 1.0,
+      "time": 101.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "al Rey y Señor.",
+      "words": [
+        {
+          "word": "al",
+          "start": 106.78,
+          "end": 107.56
+        },
+        {
+          "word": "rey",
+          "start": 107.56,
+          "end": 109.12
+        },
+        {
+          "word": "y",
+          "start": 109.12,
+          "end": 109.28
+        },
+        {
+          "word": "señor.",
+          "start": 109.28,
+          "end": 112.48
+        }
+      ],
+      "start": 106.78,
+      "end": 112.48,
+      "confidence": 1.0,
+      "time": 106.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Él escoge por tesoros",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Él",
+          "start": 112.96,
+          "end": 114.36
+        },
+        {
+          "word": "escoge",
+          "start": 114.36,
+          "end": 115.98
+        },
+        {
+          "word": "por",
+          "start": 115.98,
+          "end": 116.48
+        },
+        {
+          "word": "tesoros",
+          "start": 116.48,
+          "end": 118.48
+        }
+      ],
+      "start": 112.96,
+      "end": 118.48,
+      "confidence": 1.0,
+      "time": 112.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "los niños amados,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "los",
+          "start": 118.48,
+          "end": 119.4
+        },
+        {
+          "word": "niños",
+          "start": 119.4,
+          "end": 120.76
+        },
+        {
+          "word": "amados,",
+          "start": 120.76,
+          "end": 122.82
+        }
+      ],
+      "start": 118.48,
+      "end": 122.82,
+      "confidence": 1.0,
+      "time": 118.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y en su seno a los corderos",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 122.82,
+          "end": 123.44
+        },
+        {
+          "word": "en",
+          "start": 123.44,
+          "end": 123.76
+        },
+        {
+          "word": "su",
+          "start": 123.76,
+          "end": 124.12
+        },
+        {
+          "word": "seno",
+          "start": 124.12,
+          "end": 125.44
+        },
+        {
+          "word": "a",
+          "start": 125.44,
+          "end": 125.76
+        },
+        {
+          "word": "los",
+          "start": 125.76,
+          "end": 126.04
+        },
+        {
+          "word": "corderos",
+          "start": 126.04,
+          "end": 127.96
+        }
+      ],
+      "start": 122.82,
+      "end": 127.96,
+      "confidence": 1.0,
+      "time": 122.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "recibe Jesús.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "recibe",
+          "start": 127.96,
+          "end": 130.06
+        },
+        {
+          "word": "Jesús.",
+          "start": 130.06,
+          "end": 132.1
+        }
+      ],
+      "start": 127.96,
+      "end": 132.1,
+      "confidence": 1.0,
+      "time": 127.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Como estrellas que brillan",
+      "words": [
+        {
+          "word": "Como",
+          "start": 132.54,
+          "end": 133.2
+        },
+        {
+          "word": "estrellas",
+          "start": 133.2,
+          "end": 134.94
+        },
+        {
+          "word": "que",
+          "start": 134.94,
+          "end": 135.84
+        },
+        {
+          "word": "brillan",
+          "start": 135.84,
+          "end": 137.16
+        }
+      ],
+      "start": 132.54,
+      "end": 137.16,
+      "confidence": 1.0,
+      "time": 132.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "son los niños que le aman;",
+      "words": [
+        {
+          "word": "son",
+          "start": 137.16,
+          "end": 137.74
+        },
+        {
+          "word": "los",
+          "start": 137.74,
+          "end": 138.58
+        },
+        {
+          "word": "niños",
+          "start": 138.58,
+          "end": 139.58
+        },
+        {
+          "word": "que",
+          "start": 139.58,
+          "end": 140.16
+        },
+        {
+          "word": "le",
+          "start": 140.16,
+          "end": 140.92
+        },
+        {
+          "word": "aman,",
+          "start": 140.92,
+          "end": 141.68
+        }
+      ],
+      "start": 137.16,
+      "end": 141.68,
+      "confidence": 1.0,
+      "time": 137.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "son tesoros que adornan",
+      "words": [
+        {
+          "word": "son",
+          "start": 142.26,
+          "end": 142.52
+        },
+        {
+          "word": "tesoros",
+          "start": 142.52,
+          "end": 144.38
+        },
+        {
+          "word": "que",
+          "start": 144.38,
+          "end": 145.22
+        },
+        {
+          "word": "adornan",
+          "start": 145.22,
+          "end": 146.9
+        }
+      ],
+      "start": 142.26,
+      "end": 146.9,
+      "confidence": 1.0,
+      "time": 142.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "al Rey y Señor.",
+      "words": [
+        {
+          "word": "al",
+          "start": 146.9,
+          "end": 147.58
+        },
+        {
+          "word": "Rey",
+          "start": 147.58,
+          "end": 149.08
+        },
+        {
+          "word": "Señor.",
+          "start": 149.08,
+          "end": 150.36
+        }
+      ],
+      "start": 146.9,
+      "end": 150.36,
+      "confidence": 0.75,
+      "time": 146.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Si los niños y las niñas",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Si",
+          "start": 152.96,
+          "end": 154.36
+        },
+        {
+          "word": "los",
+          "start": 154.36,
+          "end": 155.04
+        },
+        {
+          "word": "niños",
+          "start": 155.04,
+          "end": 156.04
+        },
+        {
+          "word": "y",
+          "start": 156.04,
+          "end": 156.76
+        },
+        {
+          "word": "las",
+          "start": 156.76,
+          "end": 157.42
+        },
+        {
+          "word": "niñas",
+          "start": 157.42,
+          "end": 158.7
+        }
+      ],
+      "start": 152.96,
+      "end": 158.7,
+      "confidence": 1.0,
+      "time": 152.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "acuden a Cristo,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "acuden",
+          "start": 158.7,
+          "end": 160.88
+        },
+        {
+          "word": "a",
+          "start": 160.88,
+          "end": 161.88
+        },
+        {
+          "word": "Cristo,",
+          "start": 161.88,
+          "end": 162.96
+        }
+      ],
+      "start": 158.7,
+      "end": 163.64,
+      "confidence": 1.0,
+      "time": 158.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "bellas joyas, escogidas,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "bellas",
+          "start": 163.64,
+          "end": 164.28
+        },
+        {
+          "word": "escogidas",
+          "start": 165.78,
+          "end": 167.76
+        }
+      ],
+      "start": 163.64,
+      "end": 167.76,
+      "confidence": 0.667,
+      "time": 163.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "serán para él.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "serán",
+          "start": 167.76,
+          "end": 169.32
+        },
+        {
+          "word": "para",
+          "start": 169.32,
+          "end": 170.94
+        },
+        {
+          "word": "Él.",
+          "start": 170.94,
+          "end": 172.2
+        }
+      ],
+      "start": 167.76,
+      "end": 172.2,
+      "confidence": 1.0,
+      "time": 167.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Como estrellas que brillan",
+      "words": [
+        {
+          "word": "Como",
+          "start": 172.2,
+          "end": 173.1
+        },
+        {
+          "word": "estrellas",
+          "start": 173.1,
+          "end": 174.74
+        },
+        {
+          "word": "que",
+          "start": 174.74,
+          "end": 175.64
+        },
+        {
+          "word": "brillan,",
+          "start": 175.64,
+          "end": 176.96
+        }
+      ],
+      "start": 172.2,
+      "end": 177.22,
+      "confidence": 1.0,
+      "time": 172.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "son los niños que le aman;",
+      "words": [
+        {
+          "word": "son",
+          "start": 177.22,
+          "end": 177.46
+        },
+        {
+          "word": "los",
+          "start": 177.46,
+          "end": 178.22
+        },
+        {
+          "word": "niños",
+          "start": 178.22,
+          "end": 179.14
+        },
+        {
+          "word": "que",
+          "start": 179.14,
+          "end": 179.68
+        },
+        {
+          "word": "le",
+          "start": 179.68,
+          "end": 180.56
+        },
+        {
+          "word": "aman,",
+          "start": 180.56,
+          "end": 181.22
+        }
+      ],
+      "start": 177.22,
+      "end": 181.22,
+      "confidence": 1.0,
+      "time": 177.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "son tesoros que adornan",
+      "words": [
+        {
+          "word": "son",
+          "start": 181.72,
+          "end": 182.02
+        },
+        {
+          "word": "tesoros",
+          "start": 182.02,
+          "end": 183.98
+        },
+        {
+          "word": "que",
+          "start": 183.98,
+          "end": 184.8
+        },
+        {
+          "word": "adornan",
+          "start": 184.8,
+          "end": 186.5
+        }
+      ],
+      "start": 181.72,
+      "end": 186.5,
+      "confidence": 1.0,
+      "time": 181.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "al Rey y Señor.",
+      "words": [
+        {
+          "word": "al",
+          "start": 186.5,
+          "end": 187.34
+        },
+        {
+          "word": "Rey",
+          "start": 187.34,
+          "end": 188.7
+        },
+        {
+          "word": "Señor.",
+          "start": 188.7,
+          "end": 190.86
+        }
+      ],
+      "start": 186.5,
+      "end": 190.86,
+      "confidence": 0.75,
+      "time": 186.5
+    }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.694,
+  "language": "es",
+  "model": "medium",
+  "hymn": 464,
+  "source": "464 - Ven, inspiranos.mp3",
+  "duration": 141.24,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ven, inspíranos; ven, enséñanos;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 3.06,
+          "end": 3.06
+        },
+        {
+          "word": "Santos",
+          "start": 3.14,
+          "end": 3.14
+        }
+      ],
+      "start": 3.06,
+      "end": 3.26,
+      "confidence": 0.42,
+      "time": 3.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Señor, por medio de tu Espíritu.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 3.14,
+          "end": 3.14
+        }
+      ],
+      "start": 3.26,
+      "end": 29.98,
+      "confidence": 0.167,
+      "time": 3.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ven, anímanos; ven, transfórmanos;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ven,",
+          "start": 31.76,
+          "end": 33.12
+        },
+        {
+          "word": "ánima'",
+          "start": 33.4,
+          "end": 34.02
+        },
+        {
+          "word": "ven,",
+          "start": 36.2,
+          "end": 36.88
+        },
+        {
+          "word": "transforma'",
+          "start": 37.32,
+          "end": 37.86
+        }
+      ],
+      "start": 31.76,
+      "end": 39.02,
+      "confidence": 0.97,
+      "time": 31.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Señor, con tu poder y gloria.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Señor,",
+          "start": 39.02,
+          "end": 40.4
+        },
+        {
+          "word": "con",
+          "start": 40.78,
+          "end": 40.86
+        },
+        {
+          "word": "tu",
+          "start": 40.86,
+          "end": 41.18
+        },
+        {
+          "word": "poder",
+          "start": 41.18,
+          "end": 42.6
+        },
+        {
+          "word": "y",
+          "start": 42.6,
+          "end": 43.56
+        },
+        {
+          "word": "gloria.",
+          "start": 43.56,
+          "end": 45.86
+        }
+      ],
+      "start": 39.02,
+      "end": 45.86,
+      "confidence": 1.0,
+      "time": 39.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Señor, queremos dar loor",
+      "words": [
+        {
+          "word": "Señor,",
+          "start": 45.86,
+          "end": 48.2
+        },
+        {
+          "word": "hemos",
+          "start": 49.06,
+          "end": 50.62
+        }
+      ],
+      "start": 45.86,
+      "end": 54.2,
+      "confidence": 0.442,
+      "time": 45.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en gratitud a ti.",
+      "words": [
+        {
+          "word": "en",
+          "start": 54.2,
+          "end": 55.22
+        },
+        {
+          "word": "gratitud",
+          "start": 55.22,
+          "end": 57.64
+        },
+        {
+          "word": "a",
+          "start": 57.64,
+          "end": 58.42
+        },
+        {
+          "word": "ti.",
+          "start": 58.42,
+          "end": 60.78
+        }
+      ],
+      "start": 54.2,
+      "end": 60.78,
+      "confidence": 1.0,
+      "time": 54.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Acepta nuestro corazón;",
+      "words": [
+        {
+          "word": "Acepta",
+          "start": 60.78,
+          "end": 63.48
+        },
+        {
+          "word": "nuestro",
+          "start": 63.48,
+          "end": 65.12
+        },
+        {
+          "word": "corazón,",
+          "start": 65.12,
+          "end": 68.38
+        }
+      ],
+      "start": 60.78,
+      "end": 69.28,
+      "confidence": 1.0,
+      "time": 60.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Ven y transfórmalo hoy.",
+      "words": [
+        {
+          "word": "ven",
+          "start": 69.28,
+          "end": 69.98
+        },
+        {
+          "word": "y",
+          "start": 69.98,
+          "end": 70.56
+        },
+        {
+          "word": "tránsformalo.",
+          "start": 70.56,
+          "end": 75.18
+        }
+      ],
+      "start": 69.28,
+      "end": 75.18,
+      "confidence": 0.75,
+      "time": 69.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Ven, ayúdanos; ven, consuélanos;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Ven,",
+          "start": 77.68,
+          "end": 78.22
+        },
+        {
+          "word": "ayúdanos,",
+          "start": 78.68,
+          "end": 80.46
+        },
+        {
+          "word": "ven,",
+          "start": 81.44,
+          "end": 82.02
+        },
+        {
+          "word": "consuélanos,",
+          "start": 82.2,
+          "end": 83.72
+        }
+      ],
+      "start": 77.68,
+      "end": 83.72,
+      "confidence": 1.0,
+      "time": 77.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Señor, concédenos tu dulce paz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Señor,",
+          "start": 83.72,
+          "end": 85.2
+        },
+        {
+          "word": "con",
+          "start": 85.72,
+          "end": 85.94
+        },
+        {
+          "word": "produce",
+          "start": 87.66,
+          "end": 90.1
+        },
+        {
+          "word": "paz",
+          "start": 90.1,
+          "end": 91.98
+        }
+      ],
+      "start": 83.72,
+      "end": 93.76,
+      "confidence": 0.748,
+      "time": 83.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Danos tu poder para obedecer",
+      "verse": 2,
+      "words": [
+        {
+          "word": "poder,",
+          "start": 93.76,
+          "end": 95.38
+        },
+        {
+          "word": "para",
+          "start": 96.82,
+          "end": 97.06
+        },
+        {
+          "word": "obedecer",
+          "start": 97.06,
+          "end": 99.0
+        }
+      ],
+      "start": 93.76,
+      "end": 99.6,
+      "confidence": 0.6,
+      "time": 93.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y amarte por tu sacrificio.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "amante",
+          "start": 99.6,
+          "end": 100.74
+        },
+        {
+          "word": "por",
+          "start": 100.74,
+          "end": 101.18
+        },
+        {
+          "word": "tu",
+          "start": 101.18,
+          "end": 101.52
+        },
+        {
+          "word": "sacrificio.",
+          "start": 101.52,
+          "end": 105.86
+        }
+      ],
+      "start": 99.6,
+      "end": 105.86,
+      "confidence": 0.78,
+      "time": 99.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Señor, queremos dar loor",
+      "words": [
+        {
+          "word": "Señor,",
+          "start": 105.86,
+          "end": 107.74
+        },
+        {
+          "word": "queremos",
+          "start": 107.84,
+          "end": 109.98
+        }
+      ],
+      "start": 105.86,
+      "end": 112.62,
+      "confidence": 0.5,
+      "time": 105.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en gratitud a ti.",
+      "words": [
+        {
+          "word": "en",
+          "start": 112.62,
+          "end": 114.54
+        },
+        {
+          "word": "gratitud",
+          "start": 114.54,
+          "end": 116.74
+        },
+        {
+          "word": "a",
+          "start": 116.74,
+          "end": 117.62
+        },
+        {
+          "word": "Ti.",
+          "start": 117.62,
+          "end": 119.92
+        }
+      ],
+      "start": 112.62,
+      "end": 119.92,
+      "confidence": 1.0,
+      "time": 112.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Acepta nuestro corazón;",
+      "words": [
+        {
+          "word": "nuestro",
+          "start": 122.48,
+          "end": 124.08
+        },
+        {
+          "word": "corazón,",
+          "start": 124.08,
+          "end": 127.22
+        }
+      ],
+      "start": 122.48,
+      "end": 127.22,
+      "confidence": 0.667,
+      "time": 122.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Ven y transfórmalo hoy.",
+      "words": [
+        {
+          "word": "transforma",
+          "start": 129.52,
+          "end": 132.42
+        }
+      ],
+      "start": 129.52,
+      "end": 133.28,
+      "confidence": 0.235,
+      "time": 129.52
+    }
+  ]
+}

@@ -1,0 +1,933 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.931,
+  "language": "es",
+  "model": "medium",
+  "hymn": 411,
+  "source": "411 - Bajo sus alas.mp3",
+  "duration": 228.83,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Bajo sus alas ¡seguro descanso!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Susana",
+          "start": 22.22,
+          "end": 23.62
+        },
+        {
+          "word": "seguro",
+          "start": 23.62,
+          "end": 24.76
+        },
+        {
+          "word": "descansó",
+          "start": 24.76,
+          "end": 27.78
+        }
+      ],
+      "start": 22.22,
+      "end": 27.78,
+      "confidence": 0.588,
+      "time": 22.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Aunque anochece y amaga el turbión,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "aunque",
+          "start": 27.78,
+          "end": 28.94
+        },
+        {
+          "word": "anoche",
+          "start": 28.94,
+          "end": 30.64
+        },
+        {
+          "word": "llamara",
+          "start": 31.42,
+          "end": 32.96
+        },
+        {
+          "word": "el",
+          "start": 32.96,
+          "end": 33.44
+        },
+        {
+          "word": "turbión.",
+          "start": 33.44,
+          "end": 35.32
+        }
+      ],
+      "start": 27.78,
+      "end": 35.32,
+      "confidence": 0.79,
+      "time": 27.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en él confío, su brazo me guarda;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 36.22,
+          "end": 36.72
+        },
+        {
+          "word": "él",
+          "start": 36.72,
+          "end": 37.52
+        },
+        {
+          "word": "confío,",
+          "start": 37.52,
+          "end": 39.0
+        },
+        {
+          "word": "su",
+          "start": 39.48,
+          "end": 39.76
+        },
+        {
+          "word": "brazo",
+          "start": 39.76,
+          "end": 41.04
+        },
+        {
+          "word": "me",
+          "start": 41.04,
+          "end": 41.78
+        },
+        {
+          "word": "guarda,",
+          "start": 41.78,
+          "end": 43.64
+        }
+      ],
+      "start": 36.22,
+      "end": 43.64,
+      "confidence": 1.0,
+      "time": 36.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "hijo soy de su eternal redención.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "hijo",
+          "start": 44.46,
+          "end": 44.98
+        },
+        {
+          "word": "soy",
+          "start": 44.98,
+          "end": 45.62
+        },
+        {
+          "word": "de",
+          "start": 45.62,
+          "end": 46.2
+        },
+        {
+          "word": "su",
+          "start": 46.2,
+          "end": 46.9
+        },
+        {
+          "word": "eterna",
+          "start": 46.9,
+          "end": 48.16
+        },
+        {
+          "word": "redención.",
+          "start": 48.16,
+          "end": 51.24
+        }
+      ],
+      "start": 44.46,
+      "end": 51.24,
+      "confidence": 0.99,
+      "time": 44.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Salvo en Jesús, salvo en Jesús,",
+      "words": [
+        {
+          "word": "Salvo",
+          "start": 51.24,
+          "end": 52.9
+        },
+        {
+          "word": "en",
+          "start": 52.9,
+          "end": 53.32
+        },
+        {
+          "word": "Jesús,",
+          "start": 53.32,
+          "end": 55.36
+        },
+        {
+          "word": "salvo",
+          "start": 55.96,
+          "end": 56.58
+        },
+        {
+          "word": "en",
+          "start": 56.58,
+          "end": 57.14
+        },
+        {
+          "word": "Jesús,",
+          "start": 57.14,
+          "end": 59.12
+        }
+      ],
+      "start": 51.24,
+      "end": 59.86,
+      "confidence": 1.0,
+      "time": 51.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¿quién de él podrá apartarme?",
+      "words": [
+        {
+          "word": "quien",
+          "start": 59.86,
+          "end": 60.22
+        },
+        {
+          "word": "de",
+          "start": 60.22,
+          "end": 60.88
+        },
+        {
+          "word": "él",
+          "start": 60.88,
+          "end": 61.3
+        },
+        {
+          "word": "podrá",
+          "start": 61.3,
+          "end": 62.52
+        },
+        {
+          "word": "apartarme.",
+          "start": 62.52,
+          "end": 66.68
+        }
+      ],
+      "start": 59.86,
+      "end": 66.68,
+      "confidence": 1.0,
+      "time": 59.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Bajo sus alas siempre estaré",
+      "words": [
+        {
+          "word": "Bajo",
+          "start": 66.68,
+          "end": 68.52
+        },
+        {
+          "word": "sus",
+          "start": 68.52,
+          "end": 69.44
+        },
+        {
+          "word": "alas",
+          "start": 69.44,
+          "end": 71.02
+        },
+        {
+          "word": "siempre",
+          "start": 71.02,
+          "end": 72.08
+        },
+        {
+          "word": "estaré,",
+          "start": 72.08,
+          "end": 74.94
+        }
+      ],
+      "start": 66.68,
+      "end": 75.46,
+      "confidence": 1.0,
+      "time": 66.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "salvo y seguro por siempre.",
+      "words": [
+        {
+          "word": "salvo",
+          "start": 75.46,
+          "end": 76.26
+        },
+        {
+          "word": "inseguro",
+          "start": 76.26,
+          "end": 78.28
+        },
+        {
+          "word": "por",
+          "start": 78.28,
+          "end": 79.2
+        },
+        {
+          "word": "siempre.",
+          "start": 79.2,
+          "end": 82.9
+        }
+      ],
+      "start": 75.46,
+      "end": 82.9,
+      "confidence": 0.783,
+      "time": 75.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Bajo sus alas ¡eterno refugio!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Bajo",
+          "start": 84.4,
+          "end": 85.8
+        },
+        {
+          "word": "tus",
+          "start": 85.8,
+          "end": 86.94
+        },
+        {
+          "word": "alas,",
+          "start": 86.94,
+          "end": 88.38
+        },
+        {
+          "word": "eterno",
+          "start": 88.42,
+          "end": 90.28
+        },
+        {
+          "word": "refugio,",
+          "start": 90.28,
+          "end": 92.34
+        }
+      ],
+      "start": 84.4,
+      "end": 92.98,
+      "confidence": 0.96,
+      "time": 84.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Tanto lo anhela este fiel corazón.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tanto",
+          "start": 92.98,
+          "end": 93.48
+        },
+        {
+          "word": "lo",
+          "start": 93.48,
+          "end": 94.44
+        },
+        {
+          "word": "anhelas",
+          "start": 94.44,
+          "end": 95.78
+        },
+        {
+          "word": "fiel",
+          "start": 96.46,
+          "end": 97.08
+        },
+        {
+          "word": "corazón.",
+          "start": 97.08,
+          "end": 99.76
+        }
+      ],
+      "start": 92.98,
+      "end": 99.76,
+      "confidence": 0.823,
+      "time": 92.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si para mí no hay remedio en la tierra,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 99.76,
+          "end": 101.04
+        },
+        {
+          "word": "para",
+          "start": 101.04,
+          "end": 102.3
+        },
+        {
+          "word": "mí",
+          "start": 102.3,
+          "end": 102.96
+        },
+        {
+          "word": "hay",
+          "start": 102.96,
+          "end": 103.54
+        },
+        {
+          "word": "remedio",
+          "start": 103.54,
+          "end": 105.28
+        },
+        {
+          "word": "en",
+          "start": 105.28,
+          "end": 105.72
+        },
+        {
+          "word": "la",
+          "start": 105.72,
+          "end": 106.38
+        },
+        {
+          "word": "tierra,",
+          "start": 106.38,
+          "end": 107.8
+        }
+      ],
+      "start": 99.76,
+      "end": 108.34,
+      "confidence": 0.889,
+      "time": 99.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristo me sana y me da bendición.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 108.34,
+          "end": 109.26
+        },
+        {
+          "word": "me",
+          "start": 109.26,
+          "end": 110.24
+        },
+        {
+          "word": "sana",
+          "start": 110.24,
+          "end": 110.94
+        },
+        {
+          "word": "y",
+          "start": 110.94,
+          "end": 111.54
+        },
+        {
+          "word": "me",
+          "start": 111.54,
+          "end": 112.12
+        },
+        {
+          "word": "da",
+          "start": 112.12,
+          "end": 112.7
+        },
+        {
+          "word": "bendición.",
+          "start": 112.7,
+          "end": 116.12
+        }
+      ],
+      "start": 108.34,
+      "end": 116.12,
+      "confidence": 1.0,
+      "time": 108.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Salvo en Jesús, salvo en Jesús,",
+      "words": [
+        {
+          "word": "Salvo",
+          "start": 116.12,
+          "end": 117.42
+        },
+        {
+          "word": "en",
+          "start": 117.42,
+          "end": 117.84
+        },
+        {
+          "word": "Jesús,",
+          "start": 117.84,
+          "end": 119.9
+        },
+        {
+          "word": "salvo",
+          "start": 120.5,
+          "end": 121.1
+        },
+        {
+          "word": "en",
+          "start": 121.1,
+          "end": 121.7
+        },
+        {
+          "word": "Jesús,",
+          "start": 121.7,
+          "end": 123.78
+        }
+      ],
+      "start": 116.12,
+      "end": 124.42,
+      "confidence": 1.0,
+      "time": 116.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¿quién de él podrá apartarme?",
+      "words": [
+        {
+          "word": "quien",
+          "start": 124.42,
+          "end": 124.76
+        },
+        {
+          "word": "de",
+          "start": 124.76,
+          "end": 125.24
+        },
+        {
+          "word": "él",
+          "start": 125.24,
+          "end": 125.74
+        },
+        {
+          "word": "podrá",
+          "start": 125.74,
+          "end": 127.06
+        },
+        {
+          "word": "apartarme.",
+          "start": 127.06,
+          "end": 131.26
+        }
+      ],
+      "start": 124.42,
+      "end": 131.26,
+      "confidence": 1.0,
+      "time": 124.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Bajo sus alas siempre estaré",
+      "words": [
+        {
+          "word": "Bajo",
+          "start": 131.26,
+          "end": 133.04
+        },
+        {
+          "word": "sus",
+          "start": 133.04,
+          "end": 133.96
+        },
+        {
+          "word": "alas",
+          "start": 133.96,
+          "end": 135.56
+        },
+        {
+          "word": "siempre",
+          "start": 135.56,
+          "end": 136.6
+        },
+        {
+          "word": "estaré,",
+          "start": 136.6,
+          "end": 139.48
+        }
+      ],
+      "start": 131.26,
+      "end": 139.88,
+      "confidence": 1.0,
+      "time": 131.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "salvo y seguro por siempre.",
+      "words": [
+        {
+          "word": "salvo",
+          "start": 139.88,
+          "end": 140.84
+        },
+        {
+          "word": "inseguro",
+          "start": 140.84,
+          "end": 142.86
+        },
+        {
+          "word": "por",
+          "start": 142.86,
+          "end": 143.84
+        },
+        {
+          "word": "siempre.",
+          "start": 143.84,
+          "end": 147.7
+        }
+      ],
+      "start": 139.88,
+      "end": 147.7,
+      "confidence": 0.783,
+      "time": 139.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Bajo sus alas ¡placer indecible!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Bajo",
+          "start": 149.14,
+          "end": 150.54
+        },
+        {
+          "word": "sus",
+          "start": 150.54,
+          "end": 151.36
+        },
+        {
+          "word": "alas,",
+          "start": 151.36,
+          "end": 153.0
+        },
+        {
+          "word": "placer",
+          "start": 153.0,
+          "end": 154.18
+        },
+        {
+          "word": "indecible,",
+          "start": 154.18,
+          "end": 156.58
+        }
+      ],
+      "start": 149.14,
+      "end": 157.32,
+      "confidence": 1.0,
+      "time": 149.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Me escondo aquí mientras pase mi afán.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "me",
+          "start": 157.32,
+          "end": 158.04
+        },
+        {
+          "word": "escondo",
+          "start": 158.04,
+          "end": 158.92
+        },
+        {
+          "word": "aquí",
+          "start": 158.92,
+          "end": 159.88
+        },
+        {
+          "word": "mientras",
+          "start": 159.88,
+          "end": 161.2
+        },
+        {
+          "word": "pase",
+          "start": 161.2,
+          "end": 162.46
+        },
+        {
+          "word": "mi",
+          "start": 162.46,
+          "end": 163.16
+        },
+        {
+          "word": "afán.",
+          "start": 163.16,
+          "end": 165.16
+        }
+      ],
+      "start": 157.32,
+      "end": 165.16,
+      "confidence": 1.0,
+      "time": 157.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Fiel protección de mi fiero enemigo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Fiel",
+          "start": 165.16,
+          "end": 166.04
+        },
+        {
+          "word": "protección",
+          "start": 166.04,
+          "end": 167.96
+        },
+        {
+          "word": "de",
+          "start": 167.96,
+          "end": 168.74
+        },
+        {
+          "word": "mi",
+          "start": 168.74,
+          "end": 169.26
+        },
+        {
+          "word": "fiel",
+          "start": 169.26,
+          "end": 170.06
+        },
+        {
+          "word": "enemigo,",
+          "start": 170.06,
+          "end": 172.88
+        }
+      ],
+      "start": 165.16,
+      "end": 172.88,
+      "confidence": 0.967,
+      "time": 165.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "paz y salud me proporcionarán.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Paz",
+          "start": 173.16,
+          "end": 173.92
+        },
+        {
+          "word": "y",
+          "start": 173.92,
+          "end": 174.48
+        },
+        {
+          "word": "salud",
+          "start": 174.48,
+          "end": 175.54
+        },
+        {
+          "word": "me",
+          "start": 175.54,
+          "end": 176.34
+        },
+        {
+          "word": "proporcionarán.",
+          "start": 176.34,
+          "end": 181.3
+        }
+      ],
+      "start": 173.16,
+      "end": 181.3,
+      "confidence": 1.0,
+      "time": 173.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Salvo en Jesús, salvo en Jesús,",
+      "words": [
+        {
+          "word": "Salvo",
+          "start": 182.2,
+          "end": 182.78
+        },
+        {
+          "word": "en",
+          "start": 182.78,
+          "end": 183.32
+        },
+        {
+          "word": "Jesús,",
+          "start": 183.32,
+          "end": 185.32
+        },
+        {
+          "word": "salvo",
+          "start": 185.98,
+          "end": 186.64
+        },
+        {
+          "word": "en",
+          "start": 186.64,
+          "end": 187.06
+        },
+        {
+          "word": "Jesús,",
+          "start": 187.06,
+          "end": 189.06
+        }
+      ],
+      "start": 182.2,
+      "end": 189.06,
+      "confidence": 1.0,
+      "time": 182.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¿quién de él podrá apartarme?",
+      "words": [
+        {
+          "word": "¿Quién",
+          "start": 189.06,
+          "end": 190.44
+        },
+        {
+          "word": "del",
+          "start": 190.44,
+          "end": 190.76
+        },
+        {
+          "word": "podrá",
+          "start": 190.76,
+          "end": 192.68
+        },
+        {
+          "word": "apartarme?",
+          "start": 192.68,
+          "end": 196.8
+        }
+      ],
+      "start": 189.06,
+      "end": 196.8,
+      "confidence": 0.776,
+      "time": 189.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Bajo sus alas siempre estaré",
+      "words": [
+        {
+          "word": "Bajo",
+          "start": 198.0,
+          "end": 198.74
+        },
+        {
+          "word": "su",
+          "start": 198.74,
+          "end": 199.44
+        },
+        {
+          "word": "salva",
+          "start": 199.44,
+          "end": 201.4
+        },
+        {
+          "word": "siempre",
+          "start": 201.4,
+          "end": 202.68
+        },
+        {
+          "word": "estaré",
+          "start": 202.68,
+          "end": 205.32
+        }
+      ],
+      "start": 198.0,
+      "end": 205.32,
+      "confidence": 0.948,
+      "time": 198.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "salvo y seguro por siempre.",
+      "words": [
+        {
+          "word": "Salva",
+          "start": 205.32,
+          "end": 206.76
+        },
+        {
+          "word": "y",
+          "start": 206.76,
+          "end": 207.3
+        },
+        {
+          "word": "seguro",
+          "start": 207.3,
+          "end": 208.7
+        },
+        {
+          "word": "por",
+          "start": 208.7,
+          "end": 209.86
+        },
+        {
+          "word": "siempre",
+          "start": 209.86,
+          "end": 213.28
+        }
+      ],
+      "start": 205.32,
+      "end": 213.28,
+      "confidence": 0.976,
+      "time": 205.32
+    }
+  ]
+}

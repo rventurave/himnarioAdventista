@@ -1,0 +1,625 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.694,
+  "language": "es",
+  "model": "medium",
+  "hymn": 305,
+  "source": "305 - Maravillosa su gracia es.mp3",
+  "duration": 175.93,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Maravillosa su gracia es,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 2.1,
+          "end": 4.7
+        }
+      ],
+      "start": 2.1,
+      "end": 29.98,
+      "confidence": 0.25,
+      "time": 2.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "gracia que excede nuestro pecar.",
+      "verse": 1,
+      "start": 29.98,
+      "end": 30.18,
+      "confidence": 0.0,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "En el Calvario se derramó:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 5.84,
+          "end": 5.84
+        },
+        {
+          "word": "de",
+          "start": 5.84,
+          "end": 5.84
+        }
+      ],
+      "start": 30.18,
+      "end": 30.38,
+      "confidence": 0.388,
+      "time": 30.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "allí su sangre Jesús vertió.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesucristo",
+          "start": 5.84,
+          "end": 5.84
+        }
+      ],
+      "start": 30.38,
+      "end": 30.58,
+      "confidence": 0.16,
+      "time": 30.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Gracia, gracia, gracia que limpia y da perdón.",
+      "words": [
+        {
+          "word": "¡Gracias!",
+          "start": 41.88,
+          "end": 43.28
+        },
+        {
+          "word": "¡Gracias!",
+          "start": 45.04,
+          "end": 46.44
+        }
+      ],
+      "start": 41.88,
+      "end": 46.44,
+      "confidence": 0.235,
+      "time": 41.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Gracia, gracia, gracia más grande que mi pecar.",
+      "words": [
+        {
+          "word": "¡Gracias!",
+          "start": 46.44,
+          "end": 47.78
+        },
+        {
+          "word": "¡Gracias!",
+          "start": 54.72,
+          "end": 56.12
+        },
+        {
+          "word": "gracia",
+          "start": 60.0,
+          "end": 61.02
+        },
+        {
+          "word": "más",
+          "start": 61.02,
+          "end": 61.72
+        },
+        {
+          "word": "grande",
+          "start": 61.72,
+          "end": 62.56
+        },
+        {
+          "word": "que",
+          "start": 62.56,
+          "end": 63.24
+        },
+        {
+          "word": "mil",
+          "start": 63.24,
+          "end": 64.36
+        },
+        {
+          "word": "pecas.",
+          "start": 64.36,
+          "end": 66.52
+        }
+      ],
+      "start": 46.44,
+      "end": 66.52,
+      "confidence": 0.955,
+      "time": 46.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Grande es mi culpa, es como el mar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Grandes",
+          "start": 66.88,
+          "end": 68.08
+        },
+        {
+          "word": "mi",
+          "start": 68.08,
+          "end": 68.46
+        },
+        {
+          "word": "culpa",
+          "start": 68.46,
+          "end": 69.54
+        },
+        {
+          "word": "el",
+          "start": 71.48,
+          "end": 72.06
+        },
+        {
+          "word": "mar,",
+          "start": 72.06,
+          "end": 73.22
+        }
+      ],
+      "start": 66.88,
+      "end": 73.22,
+      "confidence": 0.618,
+      "time": 66.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que me amenaza con perdición.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 73.82,
+          "end": 74.02
+        },
+        {
+          "word": "me",
+          "start": 74.02,
+          "end": 74.48
+        },
+        {
+          "word": "amenazca",
+          "start": 74.48,
+          "end": 76.66
+        },
+        {
+          "word": "competición,",
+          "start": 76.86,
+          "end": 79.48
+        }
+      ],
+      "start": 73.82,
+      "end": 79.48,
+      "confidence": 0.756,
+      "time": 73.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Pero mayor gracia Cristo da,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pero",
+          "start": 79.98,
+          "end": 81.08
+        },
+        {
+          "word": "mayor",
+          "start": 81.08,
+          "end": 82.2
+        },
+        {
+          "word": "gracias",
+          "start": 82.2,
+          "end": 82.94
+        },
+        {
+          "word": "Cristo",
+          "start": 82.94,
+          "end": 84.72
+        },
+        {
+          "word": "da.",
+          "start": 84.72,
+          "end": 86.08
+        }
+      ],
+      "start": 79.98,
+      "end": 86.08,
+      "confidence": 0.988,
+      "time": 79.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "arrepentido voy a la cruz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "arrepentido",
+          "start": 88.0,
+          "end": 89.4
+        },
+        {
+          "word": "voy",
+          "start": 89.4,
+          "end": 90.14
+        },
+        {
+          "word": "a",
+          "start": 90.14,
+          "end": 91.1
+        },
+        {
+          "word": "la",
+          "start": 91.1,
+          "end": 91.84
+        },
+        {
+          "word": "cruz.",
+          "start": 91.84,
+          "end": 93.24
+        }
+      ],
+      "start": 88.0,
+      "end": 93.24,
+      "confidence": 1.0,
+      "time": 88.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Gracia, gracia, gracia que limpia y da perdón.",
+      "words": [
+        {
+          "word": "Graz",
+          "start": 94.88,
+          "end": 95.22
+        },
+        {
+          "word": "graz",
+          "start": 96.4,
+          "end": 98.56
+        },
+        {
+          "word": "graz",
+          "start": 100.06,
+          "end": 100.76
+        },
+        {
+          "word": "limpia",
+          "start": 101.3,
+          "end": 102.56
+        },
+        {
+          "word": "ida",
+          "start": 102.56,
+          "end": 104.04
+        }
+      ],
+      "start": 94.88,
+      "end": 105.98,
+      "confidence": 0.52,
+      "time": 94.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Gracia, gracia, gracia más grande que mi pecar.",
+      "words": [
+        {
+          "word": "Graz",
+          "start": 107.14,
+          "end": 108.54
+        },
+        {
+          "word": "graz",
+          "start": 109.66,
+          "end": 111.66
+        },
+        {
+          "word": "¡Gracias",
+          "start": 112.36,
+          "end": 114.14
+        },
+        {
+          "word": "más",
+          "start": 114.14,
+          "end": 114.7
+        },
+        {
+          "word": "grande",
+          "start": 114.7,
+          "end": 115.6
+        },
+        {
+          "word": "que",
+          "start": 115.6,
+          "end": 116.46
+        },
+        {
+          "word": "mi",
+          "start": 116.46,
+          "end": 117.46
+        },
+        {
+          "word": "pecado!",
+          "start": 117.46,
+          "end": 119.42
+        }
+      ],
+      "start": 107.14,
+      "end": 119.42,
+      "confidence": 0.912,
+      "time": 107.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Gracia infinita y eternal,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "¡Gracias",
+          "start": 119.98,
+          "end": 121.06
+        },
+        {
+          "word": "infinita",
+          "start": 121.06,
+          "end": 122.66
+        },
+        {
+          "word": "y",
+          "start": 122.66,
+          "end": 124.0
+        },
+        {
+          "word": "eterna!",
+          "start": 124.0,
+          "end": 125.94
+        }
+      ],
+      "start": 119.98,
+      "end": 125.94,
+      "confidence": 0.97,
+      "time": 119.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "siempre gratuita para el que cree.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "¡Siempre",
+          "start": 126.28,
+          "end": 127.64
+        },
+        {
+          "word": "gratuita",
+          "start": 127.64,
+          "end": 129.8
+        },
+        {
+          "word": "para",
+          "start": 129.8,
+          "end": 130.82
+        },
+        {
+          "word": "el",
+          "start": 130.82,
+          "end": 131.08
+        },
+        {
+          "word": "que",
+          "start": 131.08,
+          "end": 131.76
+        },
+        {
+          "word": "cree!",
+          "start": 131.76,
+          "end": 132.46
+        }
+      ],
+      "start": 126.28,
+      "end": 132.46,
+      "confidence": 1.0,
+      "time": 126.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Tú, que anhelas ver a tu Dios,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 133.02,
+          "end": 133.9
+        },
+        {
+          "word": "que",
+          "start": 133.9,
+          "end": 134.58
+        },
+        {
+          "word": "anhelas",
+          "start": 134.58,
+          "end": 136.18
+        },
+        {
+          "word": "a",
+          "start": 137.1,
+          "end": 137.66
+        },
+        {
+          "word": "tu",
+          "start": 137.66,
+          "end": 138.2
+        },
+        {
+          "word": "Dios",
+          "start": 138.2,
+          "end": 139.38
+        }
+      ],
+      "start": 133.02,
+      "end": 139.38,
+      "confidence": 0.857,
+      "time": 133.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "su gracia ahora ¿recibirás?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Su",
+          "start": 139.38,
+          "end": 140.52
+        },
+        {
+          "word": "gran",
+          "start": 140.52,
+          "end": 140.9
+        },
+        {
+          "word": "sabor",
+          "start": 140.9,
+          "end": 142.02
+        },
+        {
+          "word": "recibido.",
+          "start": 142.82,
+          "end": 145.26
+        }
+      ],
+      "start": 139.38,
+      "end": 145.26,
+      "confidence": 0.836,
+      "time": 139.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Gracia, gracia, gracia que limpia y da perdón.",
+      "words": [
+        {
+          "word": "Gracias,",
+          "start": 149.68,
+          "end": 151.08
+        },
+        {
+          "word": "gracias,",
+          "start": 151.08,
+          "end": 152.48
+        },
+        {
+          "word": "gracias",
+          "start": 152.8,
+          "end": 153.84
+        },
+        {
+          "word": "que",
+          "start": 153.84,
+          "end": 154.48
+        },
+        {
+          "word": "limpia",
+          "start": 154.48,
+          "end": 155.66
+        },
+        {
+          "word": "y",
+          "start": 155.66,
+          "end": 156.38
+        },
+        {
+          "word": "perdon.",
+          "start": 157.36,
+          "end": 159.06
+        }
+      ],
+      "start": 149.68,
+      "end": 159.06,
+      "confidence": 0.853,
+      "time": 149.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Gracia, gracia, gracia más grande que mi pecar.",
+      "words": [
+        {
+          "word": "¡Gracias!",
+          "start": 163.08,
+          "end": 164.48
+        },
+        {
+          "word": "¡Gracias!",
+          "start": 164.48,
+          "end": 165.88
+        },
+        {
+          "word": "¡Gracias",
+          "start": 165.88,
+          "end": 167.22
+        },
+        {
+          "word": "más",
+          "start": 167.22,
+          "end": 167.84
+        },
+        {
+          "word": "grande",
+          "start": 167.84,
+          "end": 168.84
+        },
+        {
+          "word": "que",
+          "start": 168.84,
+          "end": 169.54
+        },
+        {
+          "word": "mi",
+          "start": 169.54,
+          "end": 170.74
+        },
+        {
+          "word": "pecado!",
+          "start": 170.74,
+          "end": 172.58
+        }
+      ],
+      "start": 163.08,
+      "end": 172.58,
+      "confidence": 0.957,
+      "time": 163.08
+    }
+  ]
+}

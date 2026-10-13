@@ -1,0 +1,768 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.865,
+  "language": "es",
+  "model": "medium",
+  "hymn": 573,
+  "source": "573 - Te envio a ti.mp3",
+  "duration": 148.92,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Te envío a ti, a un mundo que perece,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Este",
+          "start": 0.0,
+          "end": 1.1
+        },
+        {
+          "word": "en",
+          "start": 2.86,
+          "end": 2.86
+        },
+        {
+          "word": "la",
+          "start": 2.86,
+          "end": 2.86
+        }
+      ],
+      "start": 0.0,
+      "end": 2.86,
+      "confidence": 0.282,
+      "time": 0.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "para servir a Dios con devoción.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 2.86,
+          "end": 2.86
+        }
+      ],
+      "start": 2.86,
+      "end": 29.98,
+      "confidence": 0.157,
+      "time": 2.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Te envío a ti, te sostendrá mi gracia,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "te",
+          "start": 31.02,
+          "end": 31.76
+        },
+        {
+          "word": "sostendrá",
+          "start": 31.76,
+          "end": 33.08
+        },
+        {
+          "word": "mi",
+          "start": 33.08,
+          "end": 33.6
+        },
+        {
+          "word": "gracia,",
+          "start": 33.6,
+          "end": 35.38
+        }
+      ],
+      "start": 31.02,
+      "end": 35.86,
+      "confidence": 0.5,
+      "time": 31.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y en mi nombre tú podrás vencer.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 35.86,
+          "end": 36.22
+        },
+        {
+          "word": "en",
+          "start": 36.22,
+          "end": 36.68
+        },
+        {
+          "word": "mi",
+          "start": 36.68,
+          "end": 37.16
+        },
+        {
+          "word": "nombre",
+          "start": 37.16,
+          "end": 38.46
+        },
+        {
+          "word": "tú",
+          "start": 38.46,
+          "end": 39.08
+        },
+        {
+          "word": "podrás",
+          "start": 39.08,
+          "end": 40.14
+        },
+        {
+          "word": "vencer.",
+          "start": 40.14,
+          "end": 42.2
+        }
+      ],
+      "start": 35.86,
+      "end": 42.2,
+      "confidence": 1.0,
+      "time": 35.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Te envío a ti, aun mundo desolado",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Te",
+          "start": 43.58,
+          "end": 44.26
+        },
+        {
+          "word": "envío",
+          "start": 44.26,
+          "end": 44.96
+        },
+        {
+          "word": "a",
+          "start": 44.96,
+          "end": 45.46
+        },
+        {
+          "word": "ti",
+          "start": 45.46,
+          "end": 46.4
+        },
+        {
+          "word": "a",
+          "start": 46.64,
+          "end": 46.82
+        },
+        {
+          "word": "mundo",
+          "start": 47.04,
+          "end": 47.72
+        },
+        {
+          "word": "desolado",
+          "start": 47.72,
+          "end": 50.36
+        }
+      ],
+      "start": 43.58,
+      "end": 50.36,
+      "confidence": 0.991,
+      "time": 43.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "que olvidó el precio de la cruz;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 50.36,
+          "end": 51.34
+        },
+        {
+          "word": "olvidó",
+          "start": 51.34,
+          "end": 53.38
+        },
+        {
+          "word": "el",
+          "start": 53.38,
+          "end": 53.86
+        },
+        {
+          "word": "precio",
+          "start": 53.86,
+          "end": 54.52
+        },
+        {
+          "word": "de",
+          "start": 54.52,
+          "end": 55.1
+        },
+        {
+          "word": "la",
+          "start": 55.1,
+          "end": 55.6
+        },
+        {
+          "word": "cruz.",
+          "start": 55.6,
+          "end": 57.36
+        }
+      ],
+      "start": 50.36,
+      "end": 57.36,
+      "confidence": 1.0,
+      "time": 50.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "ve a decirles cuánto Dios los ama,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Ve",
+          "start": 57.36,
+          "end": 58.22
+        },
+        {
+          "word": "a",
+          "start": 58.22,
+          "end": 58.82
+        },
+        {
+          "word": "decirles",
+          "start": 58.82,
+          "end": 60.58
+        },
+        {
+          "word": "cuanto",
+          "start": 60.58,
+          "end": 61.22
+        },
+        {
+          "word": "Dios",
+          "start": 61.22,
+          "end": 61.86
+        },
+        {
+          "word": "los",
+          "start": 61.86,
+          "end": 62.9
+        },
+        {
+          "word": "ama,",
+          "start": 62.9,
+          "end": 63.9
+        }
+      ],
+      "start": 57.36,
+      "end": 64.64,
+      "confidence": 1.0,
+      "time": 57.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "que por salvarlos a su Hijo dio.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 64.64,
+          "end": 64.9
+        },
+        {
+          "word": "por",
+          "start": 64.9,
+          "end": 65.56
+        },
+        {
+          "word": "salvarlos",
+          "start": 65.56,
+          "end": 67.4
+        },
+        {
+          "word": "a",
+          "start": 67.4,
+          "end": 68.1
+        },
+        {
+          "word": "su",
+          "start": 68.1,
+          "end": 68.48
+        },
+        {
+          "word": "Hijo",
+          "start": 68.48,
+          "end": 69.18
+        },
+        {
+          "word": "dió.",
+          "start": 69.18,
+          "end": 72.12
+        }
+      ],
+      "start": 64.64,
+      "end": 72.12,
+      "confidence": 1.0,
+      "time": 64.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Tal vez mañana sea ya muy tarde,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tal",
+          "start": 72.14,
+          "end": 73.22
+        },
+        {
+          "word": "vez",
+          "start": 73.22,
+          "end": 73.62
+        },
+        {
+          "word": "mañana",
+          "start": 73.62,
+          "end": 75.52
+        },
+        {
+          "word": "sea",
+          "start": 75.52,
+          "end": 76.3
+        },
+        {
+          "word": "ya",
+          "start": 76.3,
+          "end": 76.98
+        },
+        {
+          "word": "muy",
+          "start": 76.98,
+          "end": 77.46
+        },
+        {
+          "word": "tarde,",
+          "start": 77.46,
+          "end": 78.86
+        }
+      ],
+      "start": 72.14,
+      "end": 79.44,
+      "confidence": 1.0,
+      "time": 72.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y la cosecha puédase perder.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 79.44,
+          "end": 80.06
+        },
+        {
+          "word": "la",
+          "start": 80.06,
+          "end": 80.56
+        },
+        {
+          "word": "cosecha",
+          "start": 80.56,
+          "end": 82.54
+        },
+        {
+          "word": "puedas",
+          "start": 82.54,
+          "end": 83.58
+        },
+        {
+          "word": "perder.",
+          "start": 83.96,
+          "end": 85.72
+        }
+      ],
+      "start": 79.44,
+      "end": 85.72,
+      "confidence": 0.988,
+      "time": 79.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Hoy es el día, anda y no te tardes,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 85.72,
+          "end": 86.94
+        },
+        {
+          "word": "es",
+          "start": 86.94,
+          "end": 87.48
+        },
+        {
+          "word": "el",
+          "start": 87.48,
+          "end": 88.06
+        },
+        {
+          "word": "día,",
+          "start": 88.06,
+          "end": 89.34
+        },
+        {
+          "word": "anda",
+          "start": 89.46,
+          "end": 90.04
+        },
+        {
+          "word": "y",
+          "start": 90.04,
+          "end": 90.4
+        },
+        {
+          "word": "no",
+          "start": 90.4,
+          "end": 90.78
+        },
+        {
+          "word": "te",
+          "start": 90.78,
+          "end": 91.22
+        },
+        {
+          "word": "tardes,",
+          "start": 91.22,
+          "end": 93.18
+        }
+      ],
+      "start": 85.72,
+      "end": 93.66,
+      "confidence": 1.0,
+      "time": 85.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "contigo iré la mies a recoger.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "contigo",
+          "start": 93.66,
+          "end": 94.42
+        },
+        {
+          "word": "iré",
+          "start": 94.42,
+          "end": 95.86
+        },
+        {
+          "word": "la",
+          "start": 95.86,
+          "end": 96.32
+        },
+        {
+          "word": "Miesa",
+          "start": 96.32,
+          "end": 97.2
+        },
+        {
+          "word": "a",
+          "start": 97.2,
+          "end": 97.8
+        },
+        {
+          "word": "recoger.",
+          "start": 97.8,
+          "end": 99.84
+        }
+      ],
+      "start": 93.66,
+      "end": 99.84,
+      "confidence": 0.99,
+      "time": 93.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Te envío a ti, aunque el sendero pase",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Te",
+          "start": 101.6,
+          "end": 101.96
+        },
+        {
+          "word": "envío",
+          "start": 101.96,
+          "end": 102.56
+        },
+        {
+          "word": "a",
+          "start": 102.56,
+          "end": 103.08
+        },
+        {
+          "word": "ti,",
+          "start": 103.08,
+          "end": 104.18
+        },
+        {
+          "word": "aunque",
+          "start": 104.38,
+          "end": 104.66
+        },
+        {
+          "word": "el",
+          "start": 104.66,
+          "end": 105.08
+        },
+        {
+          "word": "sendero",
+          "start": 105.08,
+          "end": 106.16
+        },
+        {
+          "word": "pase",
+          "start": 106.16,
+          "end": 107.82
+        }
+      ],
+      "start": 101.6,
+      "end": 107.82,
+      "confidence": 1.0,
+      "time": 101.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "por valles negros de tribulación.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "por",
+          "start": 107.82,
+          "end": 108.82
+        },
+        {
+          "word": "negros",
+          "start": 109.64,
+          "end": 111.36
+        },
+        {
+          "word": "de",
+          "start": 111.36,
+          "end": 111.88
+        },
+        {
+          "word": "tripulación,",
+          "start": 111.88,
+          "end": 114.52
+        }
+      ],
+      "start": 107.82,
+      "end": 114.52,
+      "confidence": 0.789,
+      "time": 107.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Se acerca el día en que podré decirte:",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Se",
+          "start": 114.52,
+          "end": 115.5
+        },
+        {
+          "word": "acerca",
+          "start": 115.5,
+          "end": 116.2
+        },
+        {
+          "word": "el",
+          "start": 116.2,
+          "end": 116.88
+        },
+        {
+          "word": "día",
+          "start": 116.88,
+          "end": 118.0
+        },
+        {
+          "word": "en",
+          "start": 118.0,
+          "end": 118.4
+        },
+        {
+          "word": "que",
+          "start": 118.4,
+          "end": 118.68
+        },
+        {
+          "word": "podré",
+          "start": 118.68,
+          "end": 119.76
+        },
+        {
+          "word": "decirte,",
+          "start": 119.76,
+          "end": 122.04
+        }
+      ],
+      "start": 114.52,
+      "end": 122.22,
+      "confidence": 1.0,
+      "time": 114.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "buen siervo fiel, recibe el galardón.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "buen",
+          "start": 122.22,
+          "end": 122.48
+        },
+        {
+          "word": "siervo",
+          "start": 122.48,
+          "end": 123.32
+        },
+        {
+          "word": "fiel,",
+          "start": 123.32,
+          "end": 124.62
+        },
+        {
+          "word": "recibe",
+          "start": 124.62,
+          "end": 125.82
+        },
+        {
+          "word": "el",
+          "start": 125.82,
+          "end": 126.52
+        },
+        {
+          "word": "galardón.",
+          "start": 126.52,
+          "end": 129.56
+        }
+      ],
+      "start": 122.22,
+      "end": 129.56,
+      "confidence": 1.0,
+      "time": 122.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Como el Padre me envió a mí,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Como",
+          "start": 129.56,
+          "end": 131.72
+        },
+        {
+          "word": "el",
+          "start": 131.72,
+          "end": 132.24
+        },
+        {
+          "word": "Padre",
+          "start": 132.24,
+          "end": 133.44
+        },
+        {
+          "word": "me",
+          "start": 133.44,
+          "end": 133.82
+        },
+        {
+          "word": "envió",
+          "start": 133.82,
+          "end": 134.86
+        },
+        {
+          "word": "a",
+          "start": 134.86,
+          "end": 135.98
+        },
+        {
+          "word": "mí,",
+          "start": 135.98,
+          "end": 137.38
+        }
+      ],
+      "start": 129.56,
+      "end": 137.72,
+      "confidence": 1.0,
+      "time": 129.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "yo te envío a ti.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "yo",
+          "start": 137.72,
+          "end": 138.68
+        },
+        {
+          "word": "te",
+          "start": 138.68,
+          "end": 139.7
+        },
+        {
+          "word": "envío",
+          "start": 139.7,
+          "end": 141.56
+        },
+        {
+          "word": "a",
+          "start": 141.56,
+          "end": 142.34
+        },
+        {
+          "word": "ti.",
+          "start": 142.34,
+          "end": 144.22
+        }
+      ],
+      "start": 137.72,
+      "end": 144.22,
+      "confidence": 1.0,
+      "time": 137.72
+    }
+  ]
+}

@@ -1,0 +1,1356 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.877,
+  "language": "es",
+  "model": "medium",
+  "hymn": 337,
+  "source": "337 - Nunca mas adios.mp3",
+  "duration": 275.9,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hay una tierra sin maldad,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Luna,",
+          "start": 16.6,
+          "end": 18.0
+        },
+        {
+          "word": "tierra",
+          "start": 18.04,
+          "end": 19.28
+        },
+        {
+          "word": "sin",
+          "start": 19.28,
+          "end": 20.52
+        },
+        {
+          "word": "maldad,",
+          "start": 20.52,
+          "end": 23.36
+        }
+      ],
+      "start": 16.6,
+      "end": 23.36,
+      "confidence": 0.783,
+      "time": 16.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de dicha, paz y amor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 23.36,
+          "end": 24.54
+        },
+        {
+          "word": "dicha",
+          "start": 24.54,
+          "end": 26.04
+        },
+        {
+          "word": "paz",
+          "start": 26.04,
+          "end": 27.08
+        },
+        {
+          "word": "y",
+          "start": 27.08,
+          "end": 27.62
+        },
+        {
+          "word": "amor,",
+          "start": 27.62,
+          "end": 29.7
+        }
+      ],
+      "start": 23.36,
+      "end": 29.7,
+      "confidence": 1.0,
+      "time": 23.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con días sin oscuridad",
+      "verse": 1,
+      "words": [
+        {
+          "word": "día",
+          "start": 30.92,
+          "end": 32.28
+        },
+        {
+          "word": "sin",
+          "start": 32.28,
+          "end": 33.36
+        },
+        {
+          "word": "oscuridad,",
+          "start": 33.36,
+          "end": 37.56
+        }
+      ],
+      "start": 30.92,
+      "end": 37.56,
+      "confidence": 0.735,
+      "time": 30.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y goces sin dolor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 38.5,
+          "end": 38.96
+        },
+        {
+          "word": "sin",
+          "start": 40.12,
+          "end": 41.1
+        },
+        {
+          "word": "dolor.",
+          "start": 41.1,
+          "end": 43.56
+        }
+      ],
+      "start": 38.5,
+      "end": 43.56,
+      "confidence": 0.75,
+      "time": 38.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Vamos a la tierra de Emanuel,",
+      "words": [
+        {
+          "word": "Vamos",
+          "start": 44.02,
+          "end": 44.98
+        },
+        {
+          "word": "a",
+          "start": 44.98,
+          "end": 45.96
+        },
+        {
+          "word": "la",
+          "start": 45.96,
+          "end": 46.74
+        },
+        {
+          "word": "tierra",
+          "start": 46.74,
+          "end": 47.62
+        },
+        {
+          "word": "de",
+          "start": 47.62,
+          "end": 48.92
+        },
+        {
+          "word": "Emmanuel,",
+          "start": 48.92,
+          "end": 50.16
+        }
+      ],
+      "start": 44.02,
+      "end": 50.16,
+      "confidence": 0.993,
+      "time": 44.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "la trompeta ya nos llama a Sion.",
+      "words": [
+        {
+          "word": "La",
+          "start": 50.16,
+          "end": 50.88
+        },
+        {
+          "word": "trompeta",
+          "start": 50.88,
+          "end": 52.84
+        },
+        {
+          "word": "ya",
+          "start": 52.84,
+          "end": 53.66
+        },
+        {
+          "word": "no",
+          "start": 53.66,
+          "end": 54.36
+        },
+        {
+          "word": "llamación,",
+          "start": 54.96,
+          "end": 56.78
+        }
+      ],
+      "start": 50.16,
+      "end": 56.78,
+      "confidence": 0.697,
+      "time": 50.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Reinaremos siempre allí con él",
+      "words": [
+        {
+          "word": "Reinaemos",
+          "start": 57.3,
+          "end": 59.18
+        },
+        {
+          "word": "siempre",
+          "start": 59.18,
+          "end": 60.56
+        },
+        {
+          "word": "allí",
+          "start": 60.56,
+          "end": 61.62
+        },
+        {
+          "word": "con",
+          "start": 61.62,
+          "end": 62.68
+        },
+        {
+          "word": "él,",
+          "start": 62.68,
+          "end": 64.72
+        }
+      ],
+      "start": 57.3,
+      "end": 64.72,
+      "confidence": 0.994,
+      "time": 57.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y nunca habrá separación.",
+      "words": [
+        {
+          "word": "Nunca",
+          "start": 65.54,
+          "end": 66.38
+        },
+        {
+          "word": "habrá",
+          "start": 66.38,
+          "end": 67.14
+        },
+        {
+          "word": "separación,",
+          "start": 67.14,
+          "end": 71.02
+        }
+      ],
+      "start": 65.54,
+      "end": 71.02,
+      "confidence": 0.75,
+      "time": 65.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Qué! ¿Nunca más adiós?",
+      "words": [
+        {
+          "word": "Que",
+          "start": 71.5,
+          "end": 72.36
+        },
+        {
+          "word": "nunca",
+          "start": 72.36,
+          "end": 73.04
+        },
+        {
+          "word": "más",
+          "start": 73.04,
+          "end": 73.8
+        },
+        {
+          "word": "a",
+          "start": 73.8,
+          "end": 74.06
+        }
+      ],
+      "start": 71.5,
+      "end": 74.7,
+      "confidence": 0.985,
+      "time": 71.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "No, ¡nunca más adiós!",
+      "words": [
+        {
+          "word": "No",
+          "start": 74.98,
+          "end": 75.48
+        },
+        {
+          "word": "nunca",
+          "start": 75.48,
+          "end": 76.48
+        },
+        {
+          "word": "más",
+          "start": 76.48,
+          "end": 77.24
+        },
+        {
+          "word": "a",
+          "start": 77.24,
+          "end": 77.56
+        }
+      ],
+      "start": 74.98,
+      "end": 78.36,
+      "confidence": 0.985,
+      "time": 74.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Qué! ¿Nunca más adiós?",
+      "words": [
+        {
+          "word": "que",
+          "start": 78.36,
+          "end": 79.22
+        },
+        {
+          "word": "nunca",
+          "start": 79.22,
+          "end": 80.2
+        },
+        {
+          "word": "más",
+          "start": 80.2,
+          "end": 80.98
+        },
+        {
+          "word": "adiós,",
+          "start": 80.98,
+          "end": 82.24
+        }
+      ],
+      "start": 78.36,
+      "end": 82.36,
+      "confidence": 1.0,
+      "time": 78.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "No, ¡nunca más adiós!",
+      "words": [
+        {
+          "word": "no,",
+          "start": 82.36,
+          "end": 82.54
+        },
+        {
+          "word": "nunca",
+          "start": 82.82,
+          "end": 83.54
+        },
+        {
+          "word": "más",
+          "start": 83.54,
+          "end": 84.4
+        },
+        {
+          "word": "adiós.",
+          "start": 84.4,
+          "end": 85.42
+        }
+      ],
+      "start": 82.36,
+      "end": 85.42,
+      "confidence": 1.0,
+      "time": 82.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Reinaremos siempre allí con él",
+      "words": [
+        {
+          "word": "Reinaré",
+          "start": 86.18,
+          "end": 87.58
+        },
+        {
+          "word": "siempre",
+          "start": 88.04,
+          "end": 89.4
+        },
+        {
+          "word": "allí",
+          "start": 89.4,
+          "end": 90.4
+        },
+        {
+          "word": "con",
+          "start": 90.4,
+          "end": 91.62
+        },
+        {
+          "word": "Él",
+          "start": 91.62,
+          "end": 93.46
+        }
+      ],
+      "start": 86.18,
+      "end": 93.46,
+      "confidence": 0.988,
+      "time": 86.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y nunca habrá separación.",
+      "words": [
+        {
+          "word": "y",
+          "start": 93.46,
+          "end": 94.7
+        },
+        {
+          "word": "nunca",
+          "start": 94.7,
+          "end": 95.46
+        },
+        {
+          "word": "separación.",
+          "start": 95.88,
+          "end": 100.5
+        }
+      ],
+      "start": 93.46,
+      "end": 100.5,
+      "confidence": 0.75,
+      "time": 93.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Es siempre primavera allá",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Es",
+          "start": 100.5,
+          "end": 102.2
+        },
+        {
+          "word": "siempre",
+          "start": 102.2,
+          "end": 103.8
+        }
+      ],
+      "start": 100.5,
+      "end": 109.82,
+      "confidence": 0.5,
+      "time": 100.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y sin marchita flor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 109.82,
+          "end": 110.42
+        },
+        {
+          "word": "si",
+          "start": 110.42,
+          "end": 111.22
+        },
+        {
+          "word": "parchita",
+          "start": 111.22,
+          "end": 113.26
+        },
+        {
+          "word": "flor,",
+          "start": 113.26,
+          "end": 115.3
+        }
+      ],
+      "start": 109.82,
+      "end": 116.1,
+      "confidence": 0.966,
+      "time": 109.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Muy poco nos separa ya",
+      "verse": 2,
+      "words": [
+        {
+          "word": "muy",
+          "start": 116.1,
+          "end": 116.56
+        },
+        {
+          "word": "poco",
+          "start": 116.56,
+          "end": 118.02
+        },
+        {
+          "word": "no",
+          "start": 118.02,
+          "end": 118.98
+        },
+        {
+          "word": "se",
+          "start": 118.98,
+          "end": 119.7
+        }
+      ],
+      "start": 116.1,
+      "end": 123.08,
+      "confidence": 0.776,
+      "time": 116.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de ese hogar mejor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 123.08,
+          "end": 124.46
+        },
+        {
+          "word": "ese",
+          "start": 124.46,
+          "end": 125.62
+        },
+        {
+          "word": "hogar",
+          "start": 125.62,
+          "end": 127.24
+        },
+        {
+          "word": "mejor.",
+          "start": 127.24,
+          "end": 128.66
+        }
+      ],
+      "start": 123.08,
+      "end": 128.66,
+      "confidence": 1.0,
+      "time": 123.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Vamos a la tierra de Emanuel,",
+      "words": [
+        {
+          "word": "Vamos",
+          "start": 128.66,
+          "end": 130.6
+        },
+        {
+          "word": "a",
+          "start": 130.6,
+          "end": 131.68
+        },
+        {
+          "word": "la",
+          "start": 131.68,
+          "end": 132.44
+        },
+        {
+          "word": "tierra",
+          "start": 132.44,
+          "end": 133.32
+        },
+        {
+          "word": "de",
+          "start": 133.32,
+          "end": 134.58
+        },
+        {
+          "word": "Emanuel,",
+          "start": 134.58,
+          "end": 135.84
+        }
+      ],
+      "start": 128.66,
+      "end": 136.06,
+      "confidence": 1.0,
+      "time": 128.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "la trompeta ya nos llama a Sion.",
+      "words": [
+        {
+          "word": "la",
+          "start": 136.06,
+          "end": 136.64
+        },
+        {
+          "word": "trompeta",
+          "start": 136.64,
+          "end": 138.6
+        },
+        {
+          "word": "llamación",
+          "start": 140.18,
+          "end": 141.66
+        }
+      ],
+      "start": 136.06,
+      "end": 141.66,
+      "confidence": 0.42,
+      "time": 136.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Reinaremos siempre allí con él",
+      "words": [
+        {
+          "word": "Reinaemos",
+          "start": 143.5,
+          "end": 144.9
+        },
+        {
+          "word": "siempre",
+          "start": 144.9,
+          "end": 146.3
+        },
+        {
+          "word": "allí",
+          "start": 146.3,
+          "end": 147.42
+        },
+        {
+          "word": "con",
+          "start": 147.42,
+          "end": 148.42
+        },
+        {
+          "word": "él,",
+          "start": 148.42,
+          "end": 150.36
+        }
+      ],
+      "start": 143.5,
+      "end": 151.26,
+      "confidence": 0.994,
+      "time": 143.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y nunca habrá separación.",
+      "words": [
+        {
+          "word": "y",
+          "start": 151.26,
+          "end": 151.34
+        },
+        {
+          "word": "nunca",
+          "start": 151.34,
+          "end": 151.98
+        },
+        {
+          "word": "habrá",
+          "start": 151.98,
+          "end": 152.8
+        },
+        {
+          "word": "separación",
+          "start": 152.8,
+          "end": 155.66
+        }
+      ],
+      "start": 151.26,
+      "end": 155.66,
+      "confidence": 1.0,
+      "time": 151.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Qué! ¿Nunca más adiós?",
+      "words": [
+        {
+          "word": "que",
+          "start": 155.66,
+          "end": 157.8
+        },
+        {
+          "word": "nunca",
+          "start": 157.8,
+          "end": 158.76
+        },
+        {
+          "word": "más",
+          "start": 158.76,
+          "end": 159.54
+        },
+        {
+          "word": "a",
+          "start": 159.54,
+          "end": 159.84
+        }
+      ],
+      "start": 155.66,
+      "end": 160.54,
+      "confidence": 0.985,
+      "time": 155.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "No, ¡nunca más adiós!",
+      "words": [
+        {
+          "word": "no.",
+          "start": 160.54,
+          "end": 161.36
+        },
+        {
+          "word": "Nunca",
+          "start": 161.68,
+          "end": 162.32
+        },
+        {
+          "word": "más",
+          "start": 162.32,
+          "end": 162.96
+        },
+        {
+          "word": "a",
+          "start": 162.96,
+          "end": 163.28
+        }
+      ],
+      "start": 160.54,
+      "end": 164.06,
+      "confidence": 0.985,
+      "time": 160.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Qué! ¿Nunca más adiós?",
+      "words": [
+        {
+          "word": "que",
+          "start": 164.7,
+          "end": 165.02
+        },
+        {
+          "word": "nunca",
+          "start": 165.02,
+          "end": 166.04
+        },
+        {
+          "word": "más",
+          "start": 166.04,
+          "end": 166.84
+        },
+        {
+          "word": "a",
+          "start": 166.84,
+          "end": 167.16
+        }
+      ],
+      "start": 164.7,
+      "end": 167.82,
+      "confidence": 0.985,
+      "time": 164.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "No, ¡nunca más adiós!",
+      "words": [
+        {
+          "word": "no,",
+          "start": 167.82,
+          "end": 168.68
+        },
+        {
+          "word": "nunca",
+          "start": 168.68,
+          "end": 169.58
+        },
+        {
+          "word": "más",
+          "start": 169.58,
+          "end": 170.36
+        },
+        {
+          "word": "a",
+          "start": 170.36,
+          "end": 170.6
+        }
+      ],
+      "start": 167.82,
+      "end": 171.3,
+      "confidence": 0.985,
+      "time": 167.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Reinaremos siempre allí con él",
+      "words": [
+        {
+          "word": "Reinaré",
+          "start": 171.78,
+          "end": 173.18
+        },
+        {
+          "word": "siempre",
+          "start": 173.74,
+          "end": 175.08
+        },
+        {
+          "word": "allí",
+          "start": 175.08,
+          "end": 176.2
+        },
+        {
+          "word": "con",
+          "start": 176.2,
+          "end": 177.24
+        },
+        {
+          "word": "él",
+          "start": 177.24,
+          "end": 179.14
+        }
+      ],
+      "start": 171.78,
+      "end": 179.14,
+      "confidence": 0.988,
+      "time": 171.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y nunca habrá separación.",
+      "words": [
+        {
+          "word": "y",
+          "start": 179.14,
+          "end": 180.36
+        },
+        {
+          "word": "nunca",
+          "start": 180.36,
+          "end": 181.1
+        },
+        {
+          "word": "habrás",
+          "start": 181.1,
+          "end": 181.96
+        },
+        {
+          "word": "separación.",
+          "start": 181.96,
+          "end": 186.3
+        }
+      ],
+      "start": 179.14,
+      "end": 186.3,
+      "confidence": 0.985,
+      "time": 179.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Si pudiésemos cual Moisés mirar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Si",
+          "start": 186.92,
+          "end": 187.52
+        },
+        {
+          "word": "pudiésemos",
+          "start": 187.52,
+          "end": 190.18
+        },
+        {
+          "word": "desmidar",
+          "start": 191.72,
+          "end": 194.54
+        }
+      ],
+      "start": 186.92,
+      "end": 194.54,
+      "confidence": 0.554,
+      "time": 186.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "la hermosa tierra más allá,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 194.54,
+          "end": 195.78
+        },
+        {
+          "word": "rosa",
+          "start": 195.78,
+          "end": 196.46
+        },
+        {
+          "word": "tierra",
+          "start": 196.46,
+          "end": 197.32
+        },
+        {
+          "word": "más",
+          "start": 197.32,
+          "end": 198.28
+        },
+        {
+          "word": "allá",
+          "start": 198.28,
+          "end": 200.6
+        }
+      ],
+      "start": 194.54,
+      "end": 200.6,
+      "confidence": 0.967,
+      "time": 194.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "los placeres que este mundo da",
+      "verse": 3,
+      "words": [
+        {
+          "word": "los",
+          "start": 200.6,
+          "end": 201.72
+        },
+        {
+          "word": "placeres",
+          "start": 201.72,
+          "end": 203.58
+        },
+        {
+          "word": "que",
+          "start": 203.58,
+          "end": 204.74
+        },
+        {
+          "word": "este",
+          "start": 204.74,
+          "end": 205.22
+        },
+        {
+          "word": "mundo",
+          "start": 205.22,
+          "end": 206.68
+        },
+        {
+          "word": "da",
+          "start": 206.68,
+          "end": 207.6
+        }
+      ],
+      "start": 200.6,
+      "end": 207.6,
+      "confidence": 1.0,
+      "time": 200.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "no nos encantarían más.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "No",
+          "start": 207.6,
+          "end": 209.72
+        },
+        {
+          "word": "nos",
+          "start": 209.72,
+          "end": 210.58
+        },
+        {
+          "word": "encantarían",
+          "start": 210.58,
+          "end": 213.14
+        },
+        {
+          "word": "más.",
+          "start": 213.14,
+          "end": 214.6
+        }
+      ],
+      "start": 207.6,
+      "end": 214.6,
+      "confidence": 1.0,
+      "time": 207.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Vamos a la tierra de Emanuel,",
+      "words": [
+        {
+          "word": "Vamos",
+          "start": 216.22,
+          "end": 216.32
+        },
+        {
+          "word": "a",
+          "start": 216.32,
+          "end": 217.34
+        },
+        {
+          "word": "la",
+          "start": 217.34,
+          "end": 218.04
+        },
+        {
+          "word": "tierra",
+          "start": 218.04,
+          "end": 218.98
+        },
+        {
+          "word": "de",
+          "start": 218.98,
+          "end": 220.24
+        },
+        {
+          "word": "Emanuel,",
+          "start": 220.24,
+          "end": 221.48
+        }
+      ],
+      "start": 216.22,
+      "end": 221.48,
+      "confidence": 1.0,
+      "time": 216.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "la trompeta ya nos llama a Sion.",
+      "words": [
+        {
+          "word": "la",
+          "start": 221.92,
+          "end": 222.4
+        },
+        {
+          "word": "trompeta",
+          "start": 222.4,
+          "end": 224.36
+        },
+        {
+          "word": "y",
+          "start": 225.9,
+          "end": 226.62
+        }
+      ],
+      "start": 221.92,
+      "end": 228.02,
+      "confidence": 0.4,
+      "time": 221.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Reinaremos siempre allí con él",
+      "words": [
+        {
+          "word": "Reinaremos",
+          "start": 229.16,
+          "end": 230.56
+        },
+        {
+          "word": "siempre",
+          "start": 230.56,
+          "end": 231.94
+        },
+        {
+          "word": "allí",
+          "start": 231.94,
+          "end": 233.0
+        },
+        {
+          "word": "con",
+          "start": 233.0,
+          "end": 234.1
+        },
+        {
+          "word": "él",
+          "start": 234.1,
+          "end": 235.8
+        }
+      ],
+      "start": 229.16,
+      "end": 235.8,
+      "confidence": 1.0,
+      "time": 229.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y nunca habrá separación.",
+      "words": [
+        {
+          "word": "y",
+          "start": 235.8,
+          "end": 236.96
+        },
+        {
+          "word": "nunca",
+          "start": 236.96,
+          "end": 237.68
+        },
+        {
+          "word": "habrá",
+          "start": 237.68,
+          "end": 238.5
+        },
+        {
+          "word": "separación",
+          "start": 238.5,
+          "end": 242.38
+        }
+      ],
+      "start": 235.8,
+      "end": 242.38,
+      "confidence": 1.0,
+      "time": 235.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Qué! ¿Nunca más adiós?",
+      "words": [
+        {
+          "word": "que",
+          "start": 242.38,
+          "end": 243.58
+        },
+        {
+          "word": "nunca",
+          "start": 243.58,
+          "end": 244.6
+        },
+        {
+          "word": "más",
+          "start": 244.6,
+          "end": 245.24
+        },
+        {
+          "word": "adiós,",
+          "start": 245.24,
+          "end": 246.28
+        }
+      ],
+      "start": 242.38,
+      "end": 246.28,
+      "confidence": 1.0,
+      "time": 242.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "No, ¡nunca más adiós!",
+      "words": [
+        {
+          "word": "no,",
+          "start": 246.28,
+          "end": 247.06
+        },
+        {
+          "word": "nunca",
+          "start": 247.24,
+          "end": 247.86
+        },
+        {
+          "word": "más",
+          "start": 247.86,
+          "end": 248.64
+        },
+        {
+          "word": "adiós",
+          "start": 248.64,
+          "end": 250.1
+        }
+      ],
+      "start": 246.28,
+      "end": 250.1,
+      "confidence": 1.0,
+      "time": 246.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Qué! ¿Nunca más adiós?",
+      "words": [
+        {
+          "word": "que",
+          "start": 250.1,
+          "end": 250.66
+        },
+        {
+          "word": "nunca",
+          "start": 250.66,
+          "end": 251.62
+        },
+        {
+          "word": "más",
+          "start": 251.62,
+          "end": 252.4
+        },
+        {
+          "word": "adiós,",
+          "start": 252.4,
+          "end": 253.52
+        }
+      ],
+      "start": 250.1,
+      "end": 253.72,
+      "confidence": 1.0,
+      "time": 250.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "No, ¡nunca más adiós!",
+      "words": [
+        {
+          "word": "no,",
+          "start": 253.72,
+          "end": 254.24
+        },
+        {
+          "word": "nunca",
+          "start": 254.24,
+          "end": 255.0
+        },
+        {
+          "word": "más",
+          "start": 255.0,
+          "end": 255.72
+        },
+        {
+          "word": "adiós",
+          "start": 255.72,
+          "end": 256.9
+        }
+      ],
+      "start": 253.72,
+      "end": 256.9,
+      "confidence": 1.0,
+      "time": 253.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Reinaremos siempre allí con él",
+      "words": [
+        {
+          "word": "iremos",
+          "start": 257.3,
+          "end": 259.36
+        },
+        {
+          "word": "siempre",
+          "start": 259.36,
+          "end": 260.72
+        },
+        {
+          "word": "allí",
+          "start": 260.72,
+          "end": 261.94
+        },
+        {
+          "word": "con",
+          "start": 261.94,
+          "end": 263.0
+        },
+        {
+          "word": "Él",
+          "start": 263.0,
+          "end": 264.86
+        }
+      ],
+      "start": 257.3,
+      "end": 264.86,
+      "confidence": 0.97,
+      "time": 257.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y nunca habrá separación.",
+      "words": [
+        {
+          "word": "y",
+          "start": 264.86,
+          "end": 266.46
+        },
+        {
+          "word": "abrazo",
+          "start": 266.96,
+          "end": 267.84
+        }
+      ],
+      "start": 264.86,
+      "end": 271.48,
+      "confidence": 0.459,
+      "time": 264.86
+    }
+  ]
+}

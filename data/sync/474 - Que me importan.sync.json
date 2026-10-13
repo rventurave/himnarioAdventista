@@ -1,0 +1,975 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.992,
+  "language": "es",
+  "model": "medium",
+  "hymn": 474,
+  "source": "474 - Que me importan.mp3",
+  "duration": 191.29,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Qué me importan del mundo las penas",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Que",
+          "start": 26.06,
+          "end": 27.46
+        },
+        {
+          "word": "me",
+          "start": 27.46,
+          "end": 27.8
+        },
+        {
+          "word": "importan",
+          "start": 27.8,
+          "end": 28.86
+        },
+        {
+          "word": "del",
+          "start": 28.86,
+          "end": 29.3
+        },
+        {
+          "word": "mundo",
+          "start": 29.3,
+          "end": 30.16
+        },
+        {
+          "word": "las",
+          "start": 30.16,
+          "end": 31.16
+        },
+        {
+          "word": "penas",
+          "start": 31.16,
+          "end": 33.48
+        }
+      ],
+      "start": 26.06,
+      "end": 33.48,
+      "confidence": 1.0,
+      "time": 26.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y doblada tener la cerviz?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 33.48,
+          "end": 33.96
+        },
+        {
+          "word": "doblada",
+          "start": 33.96,
+          "end": 35.28
+        },
+        {
+          "word": "tenerla",
+          "start": 35.28,
+          "end": 37.24
+        },
+        {
+          "word": "a",
+          "start": 37.24,
+          "end": 37.24
+        },
+        {
+          "word": "serviz.",
+          "start": 37.24,
+          "end": 39.94
+        }
+      ],
+      "start": 33.48,
+      "end": 39.94,
+      "confidence": 0.928,
+      "time": 33.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Qué me importa sufrir en cadenas",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¿Qué",
+          "start": 40.32,
+          "end": 40.58
+        },
+        {
+          "word": "me",
+          "start": 40.58,
+          "end": 40.98
+        },
+        {
+          "word": "importa",
+          "start": 40.98,
+          "end": 41.9
+        },
+        {
+          "word": "sufrir",
+          "start": 41.9,
+          "end": 43.28
+        },
+        {
+          "word": "en",
+          "start": 43.28,
+          "end": 43.92
+        },
+        {
+          "word": "cadenas",
+          "start": 43.92,
+          "end": 46.58
+        }
+      ],
+      "start": 40.32,
+      "end": 46.58,
+      "confidence": 1.0,
+      "time": 40.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "si me espera una patria feliz?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "si",
+          "start": 46.58,
+          "end": 47.16
+        },
+        {
+          "word": "me",
+          "start": 47.16,
+          "end": 47.56
+        },
+        {
+          "word": "espera",
+          "start": 47.56,
+          "end": 48.28
+        },
+        {
+          "word": "una",
+          "start": 48.28,
+          "end": 49.08
+        },
+        {
+          "word": "patria",
+          "start": 49.08,
+          "end": 50.24
+        },
+        {
+          "word": "feliz?",
+          "start": 50.24,
+          "end": 52.28
+        }
+      ],
+      "start": 46.58,
+      "end": 52.28,
+      "confidence": 1.0,
+      "time": 46.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Resignado, tranquilo y dichoso,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Resignado,",
+          "start": 53.72,
+          "end": 55.12
+        },
+        {
+          "word": "tranquilo",
+          "start": 55.44,
+          "end": 56.5
+        },
+        {
+          "word": "y",
+          "start": 56.5,
+          "end": 56.92
+        },
+        {
+          "word": "dichoso",
+          "start": 56.92,
+          "end": 59.72
+        }
+      ],
+      "start": 53.72,
+      "end": 59.72,
+      "confidence": 1.0,
+      "time": 53.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de la aurora vislumbro la luz;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "De",
+          "start": 59.72,
+          "end": 60.44
+        },
+        {
+          "word": "la",
+          "start": 60.44,
+          "end": 60.8
+        },
+        {
+          "word": "aurora",
+          "start": 60.8,
+          "end": 61.9
+        },
+        {
+          "word": "vislumbro",
+          "start": 61.9,
+          "end": 63.4
+        },
+        {
+          "word": "la",
+          "start": 63.4,
+          "end": 64.18
+        },
+        {
+          "word": "luz",
+          "start": 64.18,
+          "end": 66.36
+        }
+      ],
+      "start": 59.72,
+      "end": 66.36,
+      "confidence": 1.0,
+      "time": 59.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mis prisiones las llevo gozoso",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mis",
+          "start": 66.36,
+          "end": 66.98
+        },
+        {
+          "word": "prisiones",
+          "start": 66.98,
+          "end": 68.46
+        },
+        {
+          "word": "las",
+          "start": 68.46,
+          "end": 69.26
+        },
+        {
+          "word": "llevo",
+          "start": 69.26,
+          "end": 70.06
+        },
+        {
+          "word": "gozosos",
+          "start": 70.06,
+          "end": 73.24
+        }
+      ],
+      "start": 66.36,
+      "end": 73.24,
+      "confidence": 0.988,
+      "time": 66.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por Jesús, quien venció en la cruz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Por",
+          "start": 73.24,
+          "end": 73.74
+        },
+        {
+          "word": "Jesús,",
+          "start": 73.74,
+          "end": 74.4
+        },
+        {
+          "word": "quien",
+          "start": 74.52,
+          "end": 75.04
+        },
+        {
+          "word": "venció",
+          "start": 75.04,
+          "end": 76.12
+        },
+        {
+          "word": "en",
+          "start": 76.12,
+          "end": 76.8
+        },
+        {
+          "word": "la",
+          "start": 76.8,
+          "end": 77.38
+        },
+        {
+          "word": "cruz",
+          "start": 77.38,
+          "end": 80.52
+        }
+      ],
+      "start": 73.24,
+      "end": 80.52,
+      "confidence": 1.0,
+      "time": 73.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Aunque preso, las horas se vuelan",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Aunque",
+          "start": 80.52,
+          "end": 81.18
+        },
+        {
+          "word": "preso",
+          "start": 81.18,
+          "end": 82.4
+        },
+        {
+          "word": "las",
+          "start": 82.4,
+          "end": 83.18
+        },
+        {
+          "word": "horas",
+          "start": 83.18,
+          "end": 83.98
+        },
+        {
+          "word": "se",
+          "start": 83.98,
+          "end": 84.78
+        },
+        {
+          "word": "vuelan",
+          "start": 84.78,
+          "end": 87.1
+        }
+      ],
+      "start": 80.52,
+      "end": 87.1,
+      "confidence": 1.0,
+      "time": 80.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "en gratísimo y santo solaz:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 87.1,
+          "end": 87.6
+        },
+        {
+          "word": "gratisimo",
+          "start": 87.6,
+          "end": 89.22
+        },
+        {
+          "word": "y",
+          "start": 89.22,
+          "end": 89.5
+        },
+        {
+          "word": "santo",
+          "start": 89.5,
+          "end": 90.46
+        },
+        {
+          "word": "solas.",
+          "start": 90.46,
+          "end": 93.46
+        }
+      ],
+      "start": 87.1,
+      "end": 93.46,
+      "confidence": 0.976,
+      "time": 87.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "con la Biblia mis males se ausentan,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Con",
+          "start": 93.66,
+          "end": 94.12
+        },
+        {
+          "word": "la",
+          "start": 94.12,
+          "end": 94.5
+        },
+        {
+          "word": "Biblia",
+          "start": 94.5,
+          "end": 95.42
+        },
+        {
+          "word": "mis",
+          "start": 95.42,
+          "end": 96.06
+        },
+        {
+          "word": "males",
+          "start": 96.06,
+          "end": 96.88
+        },
+        {
+          "word": "se",
+          "start": 96.88,
+          "end": 97.46
+        },
+        {
+          "word": "ausentan",
+          "start": 97.46,
+          "end": 100.2
+        }
+      ],
+      "start": 93.66,
+      "end": 100.2,
+      "confidence": 1.0,
+      "time": 93.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "pues de darme la dicha es capaz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pues",
+          "start": 100.2,
+          "end": 100.72
+        },
+        {
+          "word": "de",
+          "start": 100.72,
+          "end": 101.22
+        },
+        {
+          "word": "darme",
+          "start": 101.22,
+          "end": 102.2
+        },
+        {
+          "word": "la",
+          "start": 102.2,
+          "end": 102.84
+        },
+        {
+          "word": "dicha",
+          "start": 102.84,
+          "end": 103.74
+        },
+        {
+          "word": "es",
+          "start": 103.74,
+          "end": 103.9
+        },
+        {
+          "word": "capaz.",
+          "start": 103.9,
+          "end": 106.48
+        }
+      ],
+      "start": 100.2,
+      "end": 106.48,
+      "confidence": 1.0,
+      "time": 100.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Libro santo!, mi vida ilumina;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Libro",
+          "start": 107.24,
+          "end": 107.66
+        },
+        {
+          "word": "santo",
+          "start": 107.66,
+          "end": 108.56
+        },
+        {
+          "word": "mi",
+          "start": 108.56,
+          "end": 109.24
+        },
+        {
+          "word": "vida",
+          "start": 109.24,
+          "end": 110.16
+        },
+        {
+          "word": "ilumina",
+          "start": 110.16,
+          "end": 113.3
+        }
+      ],
+      "start": 107.24,
+      "end": 113.3,
+      "confidence": 1.0,
+      "time": 107.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "nunca, nunca te apartes de mí;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Nunca,",
+          "start": 113.3,
+          "end": 114.36
+        },
+        {
+          "word": "nunca",
+          "start": 114.36,
+          "end": 115.16
+        },
+        {
+          "word": "te",
+          "start": 115.16,
+          "end": 115.82
+        },
+        {
+          "word": "apartes",
+          "start": 115.82,
+          "end": 116.94
+        },
+        {
+          "word": "de",
+          "start": 116.94,
+          "end": 117.62
+        },
+        {
+          "word": "mí.",
+          "start": 117.62,
+          "end": 119.82
+        }
+      ],
+      "start": 113.3,
+      "end": 119.82,
+      "confidence": 1.0,
+      "time": 113.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "contemplando tu bella doctrina,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Contemplando",
+          "start": 120.56,
+          "end": 121.96
+        },
+        {
+          "word": "tu",
+          "start": 121.96,
+          "end": 122.62
+        },
+        {
+          "word": "bella",
+          "start": 122.62,
+          "end": 123.68
+        },
+        {
+          "word": "bocrina,",
+          "start": 123.68,
+          "end": 126.56
+        }
+      ],
+      "start": 120.56,
+      "end": 126.56,
+      "confidence": 0.97,
+      "time": 120.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "no hay males ni penas aquí.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "no",
+          "start": 127.02,
+          "end": 127.28
+        },
+        {
+          "word": "hay",
+          "start": 127.28,
+          "end": 127.78
+        },
+        {
+          "word": "males",
+          "start": 127.78,
+          "end": 128.42
+        },
+        {
+          "word": "ni",
+          "start": 128.42,
+          "end": 129.26
+        },
+        {
+          "word": "penas",
+          "start": 129.26,
+          "end": 130.6
+        },
+        {
+          "word": "aquí.",
+          "start": 130.6,
+          "end": 132.84
+        }
+      ],
+      "start": 127.02,
+      "end": 132.84,
+      "confidence": 1.0,
+      "time": 127.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Evangelio sublime, preciado!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Evangelio,",
+          "start": 134.6,
+          "end": 135.96
+        },
+        {
+          "word": "Su",
+          "start": 136.16,
+          "end": 136.6
+        },
+        {
+          "word": "preciado,",
+          "start": 137.4,
+          "end": 140.72
+        }
+      ],
+      "start": 134.6,
+      "end": 140.72,
+      "confidence": 0.98,
+      "time": 134.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Bello pacto de amor sin igual!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Bello",
+          "start": 140.72,
+          "end": 141.48
+        },
+        {
+          "word": "pacto",
+          "start": 141.48,
+          "end": 142.56
+        },
+        {
+          "word": "de",
+          "start": 142.56,
+          "end": 143.14
+        },
+        {
+          "word": "amor",
+          "start": 143.14,
+          "end": 143.64
+        },
+        {
+          "word": "sin",
+          "start": 143.64,
+          "end": 144.52
+        },
+        {
+          "word": "igual",
+          "start": 144.52,
+          "end": 146.94
+        }
+      ],
+      "start": 140.72,
+      "end": 146.94,
+      "confidence": 1.0,
+      "time": 140.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Quiero siempre tenerte a mi lado,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 146.94,
+          "end": 148.06
+        },
+        {
+          "word": "siempre",
+          "start": 148.06,
+          "end": 149.22
+        },
+        {
+          "word": "tenerte",
+          "start": 149.22,
+          "end": 150.44
+        },
+        {
+          "word": "a",
+          "start": 150.44,
+          "end": 150.88
+        },
+        {
+          "word": "mi",
+          "start": 150.88,
+          "end": 151.52
+        },
+        {
+          "word": "lado",
+          "start": 151.52,
+          "end": 153.9
+        }
+      ],
+      "start": 146.94,
+      "end": 153.9,
+      "confidence": 1.0,
+      "time": 146.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "refulgiendo cual puro fanal.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Refugiendo",
+          "start": 153.9,
+          "end": 155.68
+        },
+        {
+          "word": "cual",
+          "start": 155.68,
+          "end": 156.28
+        },
+        {
+          "word": "puro",
+          "start": 156.28,
+          "end": 157.5
+        },
+        {
+          "word": "fanar",
+          "start": 157.5,
+          "end": 160.7
+        }
+      ],
+      "start": 153.9,
+      "end": 160.7,
+      "confidence": 0.963,
+      "time": 153.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Aun en valle de muerte, oscuro,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Aún",
+          "start": 160.7,
+          "end": 161.3
+        },
+        {
+          "word": "en",
+          "start": 161.3,
+          "end": 161.78
+        },
+        {
+          "word": "valle",
+          "start": 161.78,
+          "end": 162.24
+        },
+        {
+          "word": "de",
+          "start": 162.24,
+          "end": 163.0
+        },
+        {
+          "word": "muerte",
+          "start": 163.0,
+          "end": 164.02
+        },
+        {
+          "word": "oscuro",
+          "start": 164.02,
+          "end": 167.06
+        }
+      ],
+      "start": 160.7,
+      "end": 167.06,
+      "confidence": 1.0,
+      "time": 160.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "el que acude a los pies del Señor",
+      "verse": 3,
+      "words": [
+        {
+          "word": "del",
+          "start": 167.06,
+          "end": 167.64
+        },
+        {
+          "word": "que",
+          "start": 167.64,
+          "end": 167.96
+        },
+        {
+          "word": "acude",
+          "start": 167.96,
+          "end": 168.7
+        },
+        {
+          "word": "a",
+          "start": 168.7,
+          "end": 169.26
+        },
+        {
+          "word": "los",
+          "start": 169.26,
+          "end": 169.78
+        },
+        {
+          "word": "pies",
+          "start": 169.78,
+          "end": 170.16
+        },
+        {
+          "word": "del",
+          "start": 170.16,
+          "end": 170.76
+        },
+        {
+          "word": "Señor",
+          "start": 170.76,
+          "end": 173.6
+        }
+      ],
+      "start": 167.06,
+      "end": 173.6,
+      "confidence": 0.985,
+      "time": 167.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hallará su consuelo seguro",
+      "verse": 3,
+      "words": [
+        {
+          "word": "aliará",
+          "start": 173.6,
+          "end": 175.26
+        },
+        {
+          "word": "su",
+          "start": 175.26,
+          "end": 176.0
+        },
+        {
+          "word": "consuelo",
+          "start": 176.0,
+          "end": 177.72
+        },
+        {
+          "word": "seguro",
+          "start": 177.72,
+          "end": 179.9
+        }
+      ],
+      "start": 173.6,
+      "end": 179.9,
+      "confidence": 0.965,
+      "time": 173.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en el bello evangelio de amor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 179.9,
+          "end": 181.08
+        },
+        {
+          "word": "el",
+          "start": 181.08,
+          "end": 181.52
+        },
+        {
+          "word": "bello",
+          "start": 181.52,
+          "end": 182.2
+        },
+        {
+          "word": "Evangelio",
+          "start": 182.2,
+          "end": 184.0
+        },
+        {
+          "word": "de",
+          "start": 184.0,
+          "end": 184.98
+        },
+        {
+          "word": "amor.",
+          "start": 184.98,
+          "end": 187.46
+        }
+      ],
+      "start": 179.9,
+      "end": 187.46,
+      "confidence": 1.0,
+      "time": 179.9
+    }
+  ]
+}

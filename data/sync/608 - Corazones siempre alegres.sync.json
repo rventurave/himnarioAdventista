@@ -1,0 +1,965 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.948,
+  "language": "es",
+  "model": "medium",
+  "hymn": 608,
+  "source": "608 - Corazones siempre alegres.mp3",
+  "duration": 169.85,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Corazones siempre alegres,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Corazones",
+          "start": 20.7,
+          "end": 22.1
+        },
+        {
+          "word": "Siempre",
+          "start": 22.1,
+          "end": 23.18
+        },
+        {
+          "word": "Alegres",
+          "start": 23.18,
+          "end": 24.36
+        }
+      ],
+      "start": 20.7,
+      "end": 24.36,
+      "confidence": 1.0,
+      "time": 20.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "rebosando gratitud,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Rebozando",
+          "start": 24.36,
+          "end": 26.58
+        },
+        {
+          "word": "gratito",
+          "start": 26.58,
+          "end": 28.52
+        }
+      ],
+      "start": 24.36,
+      "end": 28.52,
+      "confidence": 0.907,
+      "time": 24.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "somos los que a Dios amamos,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Somos",
+          "start": 28.52,
+          "end": 29.96
+        },
+        {
+          "word": "los",
+          "start": 29.96,
+          "end": 30.32
+        },
+        {
+          "word": "que",
+          "start": 30.32,
+          "end": 30.86
+        },
+        {
+          "word": "a",
+          "start": 30.86,
+          "end": 31.02
+        },
+        {
+          "word": "Dios",
+          "start": 31.02,
+          "end": 31.52
+        },
+        {
+          "word": "amamos,",
+          "start": 31.52,
+          "end": 33.0
+        }
+      ],
+      "start": 28.52,
+      "end": 33.4,
+      "confidence": 1.0,
+      "time": 28.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "redimida juventud.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "redimida",
+          "start": 33.4,
+          "end": 34.18
+        }
+      ],
+      "start": 33.4,
+      "end": 37.3,
+      "confidence": 0.5,
+      "time": 33.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Siempre alegres vamos todos,",
+      "words": [
+        {
+          "word": "Siempre",
+          "start": 37.54,
+          "end": 38.52
+        },
+        {
+          "word": "alegres",
+          "start": 38.52,
+          "end": 39.76
+        },
+        {
+          "word": "vamos",
+          "start": 39.76,
+          "end": 40.72
+        },
+        {
+          "word": "todos,",
+          "start": 40.72,
+          "end": 41.84
+        }
+      ],
+      "start": 37.54,
+      "end": 42.58,
+      "confidence": 1.0,
+      "time": 37.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "llenos de felicidad;",
+      "words": [
+        {
+          "word": "llenos",
+          "start": 42.58,
+          "end": 43.02
+        },
+        {
+          "word": "de",
+          "start": 43.02,
+          "end": 43.62
+        },
+        {
+          "word": "felicidad.",
+          "start": 43.62,
+          "end": 46.0
+        }
+      ],
+      "start": 42.58,
+      "end": 46.0,
+      "confidence": 1.0,
+      "time": 42.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "hermosísimo es el camino,",
+      "words": [
+        {
+          "word": "Emocísimo",
+          "start": 46.86,
+          "end": 48.12
+        },
+        {
+          "word": "es",
+          "start": 48.12,
+          "end": 48.72
+        },
+        {
+          "word": "el",
+          "start": 48.72,
+          "end": 49.2
+        },
+        {
+          "word": "camino",
+          "start": 49.2,
+          "end": 50.42
+        }
+      ],
+      "start": 46.86,
+      "end": 50.42,
+      "confidence": 0.97,
+      "time": 46.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "hacia la eternidad.",
+      "words": [
+        {
+          "word": "hacia",
+          "start": 50.42,
+          "end": 51.16
+        },
+        {
+          "word": "la",
+          "start": 51.16,
+          "end": 51.84
+        },
+        {
+          "word": "eternidad.",
+          "start": 51.84,
+          "end": 54.84
+        }
+      ],
+      "start": 50.42,
+      "end": 54.84,
+      "confidence": 1.0,
+      "time": 50.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Dios nos guía de la mano;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 54.84,
+          "end": 57.58
+        },
+        {
+          "word": "nos",
+          "start": 57.58,
+          "end": 58.3
+        },
+        {
+          "word": "guía",
+          "start": 58.3,
+          "end": 59.36
+        },
+        {
+          "word": "de",
+          "start": 59.36,
+          "end": 60.0
+        },
+        {
+          "word": "la",
+          "start": 60.0,
+          "end": 60.6
+        },
+        {
+          "word": "mano,",
+          "start": 60.6,
+          "end": 61.36
+        }
+      ],
+      "start": 54.84,
+      "end": 62.04,
+      "confidence": 1.0,
+      "time": 54.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "nos ampara su poder;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "nos",
+          "start": 62.04,
+          "end": 62.34
+        },
+        {
+          "word": "ampara",
+          "start": 62.34,
+          "end": 63.52
+        },
+        {
+          "word": "su",
+          "start": 63.78,
+          "end": 64.28
+        },
+        {
+          "word": "poder,",
+          "start": 64.28,
+          "end": 65.54
+        }
+      ],
+      "start": 62.04,
+      "end": 66.48,
+      "confidence": 1.0,
+      "time": 62.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "es su brazo poderoso",
+      "verse": 2,
+      "words": [
+        {
+          "word": "es",
+          "start": 66.48,
+          "end": 66.48
+        },
+        {
+          "word": "su",
+          "start": 66.48,
+          "end": 67.04
+        },
+        {
+          "word": "brazo",
+          "start": 67.04,
+          "end": 68.1
+        },
+        {
+          "word": "poderoso",
+          "start": 68.1,
+          "end": 70.0
+        }
+      ],
+      "start": 66.48,
+      "end": 70.0,
+      "confidence": 1.0,
+      "time": 66.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y nos quiere defender.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 70.0,
+          "end": 70.52
+        },
+        {
+          "word": "nos",
+          "start": 70.52,
+          "end": 70.84
+        },
+        {
+          "word": "quiere",
+          "start": 70.84,
+          "end": 71.32
+        },
+        {
+          "word": "defender.",
+          "start": 71.32,
+          "end": 73.54
+        }
+      ],
+      "start": 70.0,
+      "end": 73.54,
+      "confidence": 1.0,
+      "time": 70.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Siempre alegres vamos todos,",
+      "words": [
+        {
+          "word": "Siempre",
+          "start": 73.54,
+          "end": 75.56
+        },
+        {
+          "word": "alejamos",
+          "start": 75.56,
+          "end": 77.46
+        },
+        {
+          "word": "todos",
+          "start": 77.46,
+          "end": 78.86
+        }
+      ],
+      "start": 73.54,
+      "end": 78.86,
+      "confidence": 0.692,
+      "time": 73.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "llenos de felicidad;",
+      "words": [
+        {
+          "word": "llenos",
+          "start": 78.86,
+          "end": 80.1
+        },
+        {
+          "word": "de",
+          "start": 80.1,
+          "end": 81.12
+        },
+        {
+          "word": "felicidad,",
+          "start": 81.12,
+          "end": 83.16
+        }
+      ],
+      "start": 78.86,
+      "end": 84.1,
+      "confidence": 1.0,
+      "time": 78.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "hermosísimo es el camino,",
+      "words": [
+        {
+          "word": "hermosísimo",
+          "start": 84.1,
+          "end": 85.2
+        },
+        {
+          "word": "es",
+          "start": 85.2,
+          "end": 85.92
+        },
+        {
+          "word": "el",
+          "start": 85.92,
+          "end": 86.36
+        },
+        {
+          "word": "camino",
+          "start": 86.36,
+          "end": 87.5
+        }
+      ],
+      "start": 84.1,
+      "end": 87.5,
+      "confidence": 1.0,
+      "time": 84.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "hacia la eternidad.",
+      "words": [
+        {
+          "word": "hacia",
+          "start": 87.5,
+          "end": 88.24
+        },
+        {
+          "word": "la",
+          "start": 88.24,
+          "end": 88.96
+        },
+        {
+          "word": "eternidad.",
+          "start": 88.96,
+          "end": 92.18
+        }
+      ],
+      "start": 87.5,
+      "end": 92.18,
+      "confidence": 1.0,
+      "time": 87.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Si en la lucha desmayamos",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Si",
+          "start": 92.18,
+          "end": 93.38
+        },
+        {
+          "word": "en",
+          "start": 93.38,
+          "end": 93.9
+        },
+        {
+          "word": "la",
+          "start": 93.9,
+          "end": 94.24
+        },
+        {
+          "word": "lucha",
+          "start": 94.24,
+          "end": 95.1
+        },
+        {
+          "word": "desmayamos",
+          "start": 95.1,
+          "end": 97.26
+        }
+      ],
+      "start": 92.18,
+      "end": 98.18,
+      "confidence": 1.0,
+      "time": 92.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "o nos sitia la maldad,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "osiria",
+          "start": 98.18,
+          "end": 99.52
+        },
+        {
+          "word": "la",
+          "start": 99.52,
+          "end": 100.22
+        },
+        {
+          "word": "maldad,",
+          "start": 100.22,
+          "end": 101.46
+        }
+      ],
+      "start": 98.18,
+      "end": 101.98,
+      "confidence": 0.567,
+      "time": 98.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "con su gracia nos anima,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 101.98,
+          "end": 102.3
+        },
+        {
+          "word": "su",
+          "start": 102.3,
+          "end": 102.84
+        },
+        {
+          "word": "gracia",
+          "start": 102.84,
+          "end": 103.9
+        },
+        {
+          "word": "nos",
+          "start": 103.9,
+          "end": 104.6
+        },
+        {
+          "word": "anima,",
+          "start": 104.6,
+          "end": 105.98
+        }
+      ],
+      "start": 101.98,
+      "end": 106.2,
+      "confidence": 1.0,
+      "time": 101.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "nos levanta su bondad.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "nos",
+          "start": 106.2,
+          "end": 106.48
+        },
+        {
+          "word": "levanta",
+          "start": 106.48,
+          "end": 107.14
+        },
+        {
+          "word": "su",
+          "start": 107.14,
+          "end": 107.7
+        },
+        {
+          "word": "bondad.",
+          "start": 107.7,
+          "end": 110.02
+        }
+      ],
+      "start": 106.2,
+      "end": 110.02,
+      "confidence": 1.0,
+      "time": 106.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Siempre alegres vamos todos,",
+      "words": [
+        {
+          "word": "Siempre",
+          "start": 110.02,
+          "end": 111.44
+        },
+        {
+          "word": "alejamos",
+          "start": 111.44,
+          "end": 113.24
+        },
+        {
+          "word": "todos,",
+          "start": 113.24,
+          "end": 114.66
+        }
+      ],
+      "start": 110.02,
+      "end": 115.34,
+      "confidence": 0.692,
+      "time": 110.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "llenos de felicidad;",
+      "words": [
+        {
+          "word": "llenos",
+          "start": 115.34,
+          "end": 115.94
+        },
+        {
+          "word": "de",
+          "start": 115.94,
+          "end": 117.04
+        },
+        {
+          "word": "felicidad,",
+          "start": 117.04,
+          "end": 119.0
+        }
+      ],
+      "start": 115.34,
+      "end": 119.8,
+      "confidence": 1.0,
+      "time": 115.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "hermosísimo es el camino,",
+      "words": [
+        {
+          "word": "hermosísimo",
+          "start": 119.8,
+          "end": 121.1
+        },
+        {
+          "word": "es",
+          "start": 121.1,
+          "end": 121.72
+        },
+        {
+          "word": "el",
+          "start": 121.72,
+          "end": 122.18
+        },
+        {
+          "word": "camino",
+          "start": 122.18,
+          "end": 123.36
+        }
+      ],
+      "start": 119.8,
+      "end": 123.36,
+      "confidence": 1.0,
+      "time": 119.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "hacia la eternidad.",
+      "words": [
+        {
+          "word": "hacia",
+          "start": 123.36,
+          "end": 124.06
+        },
+        {
+          "word": "la",
+          "start": 124.06,
+          "end": 124.8
+        },
+        {
+          "word": "eternidad.",
+          "start": 124.8,
+          "end": 127.78
+        }
+      ],
+      "start": 123.36,
+      "end": 127.78,
+      "confidence": 1.0,
+      "time": 123.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Con sus fuerzas llevaremos",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Con",
+          "start": 127.78,
+          "end": 130.52
+        },
+        {
+          "word": "sus",
+          "start": 130.52,
+          "end": 131.2
+        },
+        {
+          "word": "fuerzas",
+          "start": 131.2,
+          "end": 132.3
+        },
+        {
+          "word": "levaremos",
+          "start": 132.3,
+          "end": 134.28
+        }
+      ],
+      "start": 127.78,
+      "end": 134.28,
+      "confidence": 0.992,
+      "time": 127.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "muy gozosos nuestra cruz;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "muy",
+          "start": 134.28,
+          "end": 135.18
+        },
+        {
+          "word": "gozosos",
+          "start": 135.18,
+          "end": 136.76
+        },
+        {
+          "word": "nuestra",
+          "start": 136.76,
+          "end": 137.58
+        },
+        {
+          "word": "cruz,",
+          "start": 137.58,
+          "end": 138.72
+        }
+      ],
+      "start": 134.28,
+      "end": 138.72,
+      "confidence": 1.0,
+      "time": 134.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "victoriosos cantaremos",
+      "verse": 4,
+      "words": [
+        {
+          "word": "victoriosos",
+          "start": 139.34,
+          "end": 140.96
+        },
+        {
+          "word": "cantaremos",
+          "start": 140.96,
+          "end": 142.84
+        }
+      ],
+      "start": 139.34,
+      "end": 142.84,
+      "confidence": 1.0,
+      "time": 139.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "en la gloria de su luz.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 142.84,
+          "end": 143.5
+        },
+        {
+          "word": "la",
+          "start": 143.5,
+          "end": 143.76
+        },
+        {
+          "word": "gloria",
+          "start": 143.76,
+          "end": 144.14
+        },
+        {
+          "word": "de",
+          "start": 144.14,
+          "end": 144.88
+        },
+        {
+          "word": "su",
+          "start": 144.88,
+          "end": 145.4
+        },
+        {
+          "word": "luz.",
+          "start": 145.4,
+          "end": 147.12
+        }
+      ],
+      "start": 142.84,
+      "end": 147.12,
+      "confidence": 1.0,
+      "time": 142.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Siempre alegres vamos todos,",
+      "words": [
+        {
+          "word": "Siempre",
+          "start": 147.48,
+          "end": 148.54
+        },
+        {
+          "word": "alegres",
+          "start": 148.54,
+          "end": 149.74
+        },
+        {
+          "word": "damos",
+          "start": 149.74,
+          "end": 150.8
+        },
+        {
+          "word": "todos",
+          "start": 150.8,
+          "end": 151.76
+        }
+      ],
+      "start": 147.48,
+      "end": 151.76,
+      "confidence": 0.97,
+      "time": 147.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "llenos de felicidad;",
+      "words": [
+        {
+          "word": "llenos",
+          "start": 151.76,
+          "end": 152.96
+        },
+        {
+          "word": "de",
+          "start": 152.96,
+          "end": 153.96
+        },
+        {
+          "word": "felicidad,",
+          "start": 153.96,
+          "end": 156.02
+        }
+      ],
+      "start": 151.76,
+      "end": 156.02,
+      "confidence": 1.0,
+      "time": 151.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "hermosísimo es el camino,",
+      "words": [
+        {
+          "word": "hermosa",
+          "start": 156.02,
+          "end": 157.52
+        },
+        {
+          "word": "es",
+          "start": 158.24,
+          "end": 158.72
+        },
+        {
+          "word": "el",
+          "start": 158.72,
+          "end": 159.06
+        },
+        {
+          "word": "camino",
+          "start": 159.06,
+          "end": 160.38
+        }
+      ],
+      "start": 156.02,
+      "end": 160.38,
+      "confidence": 0.95,
+      "time": 156.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "hacia la eternidad.",
+      "words": [
+        {
+          "word": "hacia",
+          "start": 160.38,
+          "end": 161.12
+        },
+        {
+          "word": "la",
+          "start": 161.12,
+          "end": 161.86
+        },
+        {
+          "word": "eternidad.",
+          "start": 161.86,
+          "end": 165.08
+        }
+      ],
+      "start": 160.38,
+      "end": 165.08,
+      "confidence": 1.0,
+      "time": 160.38
+    }
+  ]
+}

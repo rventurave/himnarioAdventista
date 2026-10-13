@@ -1,0 +1,263 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.985,
+  "language": "es",
+  "model": "medium",
+  "hymn": 611,
+  "source": "611 - Oh, juventud del Rey.mp3",
+  "duration": 70.71,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Oh, juventud del Rey,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "O",
+          "start": 22.86,
+          "end": 24.26
+        },
+        {
+          "word": "Judentud",
+          "start": 24.26,
+          "end": 25.66
+        },
+        {
+          "word": "del",
+          "start": 25.66,
+          "end": 26.36
+        },
+        {
+          "word": "Rey",
+          "start": 26.36,
+          "end": 28.1
+        }
+      ],
+      "start": 22.86,
+      "end": 28.1,
+      "confidence": 0.931,
+      "time": 22.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús nos llama hoy.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 28.1,
+          "end": 29.52
+        },
+        {
+          "word": "nos",
+          "start": 29.52,
+          "end": 30.42
+        },
+        {
+          "word": "llama",
+          "start": 30.42,
+          "end": 31.34
+        },
+        {
+          "word": "hoy,",
+          "start": 31.34,
+          "end": 33.42
+        }
+      ],
+      "start": 28.1,
+      "end": 33.42,
+      "confidence": 1.0,
+      "time": 28.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Digámosle de corazón:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "digámosle",
+          "start": 34.92,
+          "end": 36.32
+        },
+        {
+          "word": "de",
+          "start": 36.32,
+          "end": 37.06
+        },
+        {
+          "word": "corazón,",
+          "start": 37.06,
+          "end": 38.72
+        }
+      ],
+      "start": 34.92,
+      "end": 38.72,
+      "confidence": 1.0,
+      "time": 34.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mi vida yo te doy.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "mi",
+          "start": 39.14,
+          "end": 39.84
+        },
+        {
+          "word": "vida",
+          "start": 39.84,
+          "end": 40.92
+        },
+        {
+          "word": "yo",
+          "start": 40.92,
+          "end": 41.76
+        },
+        {
+          "word": "te",
+          "start": 41.76,
+          "end": 42.56
+        },
+        {
+          "word": "doy.",
+          "start": 42.56,
+          "end": 45.14
+        }
+      ],
+      "start": 39.14,
+      "end": 45.14,
+      "confidence": 1.0,
+      "time": 39.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Cumplamos la misión,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cumplamos",
+          "start": 45.9,
+          "end": 47.3
+        },
+        {
+          "word": "la",
+          "start": 47.3,
+          "end": 47.96
+        },
+        {
+          "word": "misión",
+          "start": 47.96,
+          "end": 50.22
+        }
+      ],
+      "start": 45.9,
+      "end": 50.22,
+      "confidence": 1.0,
+      "time": 45.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "que Cristo nos dejó,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 50.22,
+          "end": 51.26
+        },
+        {
+          "word": "Cristo",
+          "start": 51.26,
+          "end": 52.24
+        },
+        {
+          "word": "nos",
+          "start": 52.24,
+          "end": 53.54
+        },
+        {
+          "word": "dejó",
+          "start": 53.54,
+          "end": 55.7
+        }
+      ],
+      "start": 50.22,
+      "end": 55.7,
+      "confidence": 1.0,
+      "time": 50.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "de predicar su amor",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 55.7,
+          "end": 56.82
+        },
+        {
+          "word": "dedicar",
+          "start": 56.82,
+          "end": 58.52
+        },
+        {
+          "word": "su",
+          "start": 58.52,
+          "end": 59.26
+        },
+        {
+          "word": "amor",
+          "start": 59.26,
+          "end": 60.02
+        }
+      ],
+      "start": 55.7,
+      "end": 60.02,
+      "confidence": 0.97,
+      "time": 55.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "a quien Satán aprisionó.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 60.02,
+          "end": 60.6
+        },
+        {
+          "word": "Quien",
+          "start": 60.6,
+          "end": 61.22
+        },
+        {
+          "word": "Satana",
+          "start": 61.22,
+          "end": 63.3
+        },
+        {
+          "word": "aprisionó.",
+          "start": 63.3,
+          "end": 67.28
+        }
+      ],
+      "start": 60.02,
+      "end": 67.28,
+      "confidence": 0.985,
+      "time": 60.02
+    }
+  ]
+}

@@ -1,0 +1,808 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.973,
+  "language": "es",
+  "model": "medium",
+  "hymn": 289,
+  "source": "289 - Que me puede dar perdon.mp3",
+  "duration": 143.18,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Qué me puede dar perdón?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Que",
+          "start": 10.9,
+          "end": 12.3
+        },
+        {
+          "word": "me",
+          "start": 12.3,
+          "end": 13.54
+        },
+        {
+          "word": "puede",
+          "start": 13.54,
+          "end": 14.42
+        },
+        {
+          "word": "dar",
+          "start": 14.42,
+          "end": 15.3
+        },
+        {
+          "word": "perdón,",
+          "start": 15.3,
+          "end": 17.1
+        }
+      ],
+      "start": 10.9,
+      "end": 17.24,
+      "confidence": 1.0,
+      "time": 10.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Solo de Jesús la sangre.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "solo",
+          "start": 17.24,
+          "end": 17.92
+        },
+        {
+          "word": "de",
+          "start": 17.92,
+          "end": 18.3
+        },
+        {
+          "word": "Jesús",
+          "start": 18.3,
+          "end": 19.2
+        },
+        {
+          "word": "la",
+          "start": 19.2,
+          "end": 20.0
+        },
+        {
+          "word": "sangre,",
+          "start": 20.0,
+          "end": 21.58
+        }
+      ],
+      "start": 17.24,
+      "end": 21.58,
+      "confidence": 1.0,
+      "time": 17.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Y un nuevo corazón?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Y",
+          "start": 21.58,
+          "end": 23.08
+        },
+        {
+          "word": "un",
+          "start": 23.08,
+          "end": 23.78
+        },
+        {
+          "word": "nuevo",
+          "start": 23.78,
+          "end": 25.0
+        },
+        {
+          "word": "corazón",
+          "start": 25.0,
+          "end": 27.16
+        }
+      ],
+      "start": 21.58,
+      "end": 27.16,
+      "confidence": 1.0,
+      "time": 21.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Solo de Jesús la sangre.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "solo",
+          "start": 27.16,
+          "end": 28.26
+        },
+        {
+          "word": "deje",
+          "start": 28.26,
+          "end": 28.86
+        },
+        {
+          "word": "sus",
+          "start": 28.86,
+          "end": 29.58
+        },
+        {
+          "word": "la",
+          "start": 29.58,
+          "end": 30.32
+        },
+        {
+          "word": "sangre,",
+          "start": 30.32,
+          "end": 32.3
+        }
+      ],
+      "start": 27.16,
+      "end": 33.96,
+      "confidence": 0.93,
+      "time": 27.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Precioso es el raudal",
+      "words": [
+        {
+          "word": "precioso",
+          "start": 33.96,
+          "end": 35.04
+        },
+        {
+          "word": "es",
+          "start": 35.04,
+          "end": 35.76
+        },
+        {
+          "word": "el",
+          "start": 35.76,
+          "end": 36.32
+        },
+        {
+          "word": "raudal",
+          "start": 36.32,
+          "end": 37.84
+        }
+      ],
+      "start": 33.96,
+      "end": 37.84,
+      "confidence": 1.0,
+      "time": 33.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "que limpia todo mal.",
+      "words": [
+        {
+          "word": "que",
+          "start": 37.84,
+          "end": 39.32
+        },
+        {
+          "word": "limpe",
+          "start": 39.32,
+          "end": 40.28
+        },
+        {
+          "word": "todo",
+          "start": 41.0,
+          "end": 41.8
+        },
+        {
+          "word": "mal.",
+          "start": 41.8,
+          "end": 42.8
+        }
+      ],
+      "start": 37.84,
+      "end": 42.8,
+      "confidence": 0.959,
+      "time": 37.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "No hay otro manantial",
+      "words": [
+        {
+          "word": "No",
+          "start": 42.8,
+          "end": 43.8
+        },
+        {
+          "word": "hay",
+          "start": 43.8,
+          "end": 44.62
+        },
+        {
+          "word": "otro",
+          "start": 44.62,
+          "end": 45.72
+        },
+        {
+          "word": "manantial",
+          "start": 45.72,
+          "end": 47.96
+        }
+      ],
+      "start": 42.8,
+      "end": 47.96,
+      "confidence": 1.0,
+      "time": 42.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "sino de Jesús la sangre.",
+      "words": [
+        {
+          "word": "sino",
+          "start": 47.96,
+          "end": 48.82
+        },
+        {
+          "word": "de",
+          "start": 48.82,
+          "end": 49.42
+        },
+        {
+          "word": "Jesús",
+          "start": 49.42,
+          "end": 50.14
+        },
+        {
+          "word": "la",
+          "start": 50.14,
+          "end": 51.04
+        },
+        {
+          "word": "sangre.",
+          "start": 51.04,
+          "end": 53.32
+        }
+      ],
+      "start": 47.96,
+      "end": 53.32,
+      "confidence": 1.0,
+      "time": 47.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Fue rescate eficaz",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Fue",
+          "start": 53.78,
+          "end": 54.48
+        },
+        {
+          "word": "rescaté",
+          "start": 54.48,
+          "end": 57.02
+        },
+        {
+          "word": "eficaz",
+          "start": 57.02,
+          "end": 58.86
+        }
+      ],
+      "start": 53.78,
+      "end": 58.86,
+      "confidence": 1.0,
+      "time": 53.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "solo de Jesús la sangre.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "sólo",
+          "start": 58.86,
+          "end": 59.66
+        },
+        {
+          "word": "de",
+          "start": 59.66,
+          "end": 60.02
+        },
+        {
+          "word": "Jesús",
+          "start": 60.02,
+          "end": 60.92
+        },
+        {
+          "word": "la",
+          "start": 60.92,
+          "end": 62.54
+        },
+        {
+          "word": "sangre.",
+          "start": 62.54,
+          "end": 63.8
+        }
+      ],
+      "start": 58.86,
+      "end": 63.8,
+      "confidence": 1.0,
+      "time": 58.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Trajo santidad y paz",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Trajo",
+          "start": 64.16,
+          "end": 65.54
+        },
+        {
+          "word": "santidad",
+          "start": 65.54,
+          "end": 67.38
+        },
+        {
+          "word": "y",
+          "start": 67.38,
+          "end": 68.12
+        },
+        {
+          "word": "paz",
+          "start": 68.12,
+          "end": 69.04
+        }
+      ],
+      "start": 64.16,
+      "end": 69.04,
+      "confidence": 1.0,
+      "time": 64.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "solo de Jesús la sangre.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Sólo",
+          "start": 69.04,
+          "end": 70.1
+        },
+        {
+          "word": "de",
+          "start": 70.1,
+          "end": 70.38
+        },
+        {
+          "word": "Jesús",
+          "start": 70.38,
+          "end": 71.24
+        },
+        {
+          "word": "la",
+          "start": 71.24,
+          "end": 72.0
+        },
+        {
+          "word": "sangre,",
+          "start": 72.0,
+          "end": 73.82
+        }
+      ],
+      "start": 69.04,
+      "end": 73.82,
+      "confidence": 1.0,
+      "time": 69.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Precioso es el raudal",
+      "words": [
+        {
+          "word": "es",
+          "start": 76.52,
+          "end": 77.3
+        },
+        {
+          "word": "el",
+          "start": 77.3,
+          "end": 78.08
+        },
+        {
+          "word": "raudar",
+          "start": 78.08,
+          "end": 79.5
+        }
+      ],
+      "start": 76.52,
+      "end": 79.5,
+      "confidence": 0.725,
+      "time": 76.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "que limpia todo mal.",
+      "words": [
+        {
+          "word": "que",
+          "start": 79.5,
+          "end": 81.08
+        },
+        {
+          "word": "limpia",
+          "start": 81.08,
+          "end": 82.28
+        },
+        {
+          "word": "todo",
+          "start": 82.28,
+          "end": 83.28
+        },
+        {
+          "word": "mal.",
+          "start": 83.28,
+          "end": 84.68
+        }
+      ],
+      "start": 79.5,
+      "end": 84.68,
+      "confidence": 1.0,
+      "time": 79.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "No hay otro manantial",
+      "words": [
+        {
+          "word": "No",
+          "start": 85.96,
+          "end": 86.18
+        },
+        {
+          "word": "hay",
+          "start": 86.18,
+          "end": 86.78
+        },
+        {
+          "word": "otro",
+          "start": 86.78,
+          "end": 87.52
+        },
+        {
+          "word": "manantial",
+          "start": 87.52,
+          "end": 89.76
+        }
+      ],
+      "start": 85.96,
+      "end": 89.76,
+      "confidence": 1.0,
+      "time": 85.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "sino de Jesús la sangre.",
+      "words": [
+        {
+          "word": "sino",
+          "start": 89.76,
+          "end": 90.54
+        },
+        {
+          "word": "de",
+          "start": 90.54,
+          "end": 91.14
+        },
+        {
+          "word": "Jesús",
+          "start": 91.14,
+          "end": 91.96
+        },
+        {
+          "word": "la",
+          "start": 91.96,
+          "end": 92.94
+        },
+        {
+          "word": "sangre.",
+          "start": 92.94,
+          "end": 94.96
+        }
+      ],
+      "start": 89.76,
+      "end": 94.96,
+      "confidence": 1.0,
+      "time": 89.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cantaré junto a sus pies,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cantaré",
+          "start": 94.96,
+          "end": 97.62
+        },
+        {
+          "word": "junto",
+          "start": 97.62,
+          "end": 98.46
+        },
+        {
+          "word": "a",
+          "start": 98.46,
+          "end": 99.12
+        },
+        {
+          "word": "sus",
+          "start": 99.12,
+          "end": 99.62
+        },
+        {
+          "word": "pies,",
+          "start": 99.62,
+          "end": 100.66
+        }
+      ],
+      "start": 94.96,
+      "end": 101.02,
+      "confidence": 1.0,
+      "time": 94.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "solo de Jesús la sangre.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "solo",
+          "start": 101.02,
+          "end": 101.5
+        },
+        {
+          "word": "de",
+          "start": 101.5,
+          "end": 101.92
+        },
+        {
+          "word": "Jesús",
+          "start": 101.92,
+          "end": 102.7
+        },
+        {
+          "word": "la",
+          "start": 102.7,
+          "end": 103.6
+        },
+        {
+          "word": "sangre.",
+          "start": 103.6,
+          "end": 105.18
+        }
+      ],
+      "start": 101.02,
+      "end": 105.18,
+      "confidence": 1.0,
+      "time": 101.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "El Cordero digno es.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "El",
+          "start": 106.08,
+          "end": 106.78
+        },
+        {
+          "word": "cordero",
+          "start": 106.78,
+          "end": 108.62
+        },
+        {
+          "word": "digno",
+          "start": 108.62,
+          "end": 110.18
+        },
+        {
+          "word": "es,",
+          "start": 110.18,
+          "end": 110.96
+        }
+      ],
+      "start": 106.08,
+      "end": 111.2,
+      "confidence": 1.0,
+      "time": 106.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Solo de Jesús la sangre.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "solo",
+          "start": 111.2,
+          "end": 111.8
+        },
+        {
+          "word": "de",
+          "start": 111.8,
+          "end": 112.14
+        },
+        {
+          "word": "Jesús",
+          "start": 112.14,
+          "end": 113.04
+        },
+        {
+          "word": "la",
+          "start": 113.04,
+          "end": 114.22
+        },
+        {
+          "word": "sangre.",
+          "start": 114.22,
+          "end": 115.9
+        }
+      ],
+      "start": 111.2,
+      "end": 115.9,
+      "confidence": 1.0,
+      "time": 111.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Precioso es el raudal",
+      "words": [
+        {
+          "word": "Precioso",
+          "start": 115.9,
+          "end": 118.64
+        },
+        {
+          "word": "es",
+          "start": 118.64,
+          "end": 119.28
+        },
+        {
+          "word": "el",
+          "start": 119.28,
+          "end": 119.84
+        },
+        {
+          "word": "raudal",
+          "start": 119.84,
+          "end": 121.34
+        }
+      ],
+      "start": 115.9,
+      "end": 121.34,
+      "confidence": 1.0,
+      "time": 115.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "que limpia todo mal.",
+      "words": [
+        {
+          "word": "que",
+          "start": 121.34,
+          "end": 122.9
+        },
+        {
+          "word": "limpia",
+          "start": 122.9,
+          "end": 124.08
+        },
+        {
+          "word": "todo",
+          "start": 124.08,
+          "end": 125.32
+        },
+        {
+          "word": "mal,",
+          "start": 125.32,
+          "end": 126.42
+        }
+      ],
+      "start": 121.34,
+      "end": 126.8,
+      "confidence": 1.0,
+      "time": 121.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "No hay otro manantial",
+      "words": [
+        {
+          "word": "no",
+          "start": 126.8,
+          "end": 127.56
+        },
+        {
+          "word": "hay",
+          "start": 127.56,
+          "end": 128.34
+        },
+        {
+          "word": "otro",
+          "start": 128.34,
+          "end": 129.34
+        },
+        {
+          "word": "manantial",
+          "start": 129.34,
+          "end": 131.68
+        }
+      ],
+      "start": 126.8,
+      "end": 131.68,
+      "confidence": 1.0,
+      "time": 126.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "sino de Jesús la sangre.",
+      "words": [
+        {
+          "word": "si",
+          "start": 131.68,
+          "end": 132.34
+        },
+        {
+          "word": "dejes",
+          "start": 132.64,
+          "end": 133.42
+        },
+        {
+          "word": "la",
+          "start": 134.04,
+          "end": 134.84
+        },
+        {
+          "word": "sangre.",
+          "start": 134.84,
+          "end": 136.78
+        }
+      ],
+      "start": 131.68,
+      "end": 136.78,
+      "confidence": 0.74,
+      "time": 131.68
+    }
+  ]
+}

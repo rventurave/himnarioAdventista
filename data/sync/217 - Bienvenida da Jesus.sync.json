@@ -1,0 +1,753 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.967,
+  "language": "es",
+  "model": "medium",
+  "hymn": 217,
+  "source": "217 - Bienvenida da Jesus.mp3",
+  "duration": 164.31,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Bienvenida da Jesús",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Bienvenida",
+          "start": 23.98,
+          "end": 25.38
+        },
+        {
+          "word": "a",
+          "start": 25.38,
+          "end": 25.78
+        },
+        {
+          "word": "Jesús",
+          "start": 25.78,
+          "end": 27.16
+        }
+      ],
+      "start": 23.98,
+      "end": 27.16,
+      "confidence": 0.933,
+      "time": 23.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en los brazos de su amor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 27.16,
+          "end": 27.78
+        },
+        {
+          "word": "los",
+          "start": 27.78,
+          "end": 28.24
+        },
+        {
+          "word": "brazos",
+          "start": 28.24,
+          "end": 29.44
+        },
+        {
+          "word": "de",
+          "start": 29.44,
+          "end": 29.88
+        },
+        {
+          "word": "su",
+          "start": 29.88,
+          "end": 30.04
+        },
+        {
+          "word": "amor,",
+          "start": 30.04,
+          "end": 31.22
+        }
+      ],
+      "start": 27.16,
+      "end": 31.22,
+      "confidence": 1.0,
+      "time": 27.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al que en busca de la luz",
+      "verse": 1,
+      "words": [
+        {
+          "word": "busca",
+          "start": 32.3,
+          "end": 33.54
+        },
+        {
+          "word": "de",
+          "start": 33.54,
+          "end": 34.1
+        },
+        {
+          "word": "la",
+          "start": 34.1,
+          "end": 34.54
+        },
+        {
+          "word": "luz,",
+          "start": 34.54,
+          "end": 35.5
+        }
+      ],
+      "start": 32.3,
+      "end": 35.5,
+      "confidence": 0.571,
+      "time": 32.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "vague ciego y con temor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Vague",
+          "start": 36.1,
+          "end": 36.36
+        },
+        {
+          "word": "ciego",
+          "start": 36.36,
+          "end": 37.48
+        },
+        {
+          "word": "y",
+          "start": 37.48,
+          "end": 37.68
+        },
+        {
+          "word": "con",
+          "start": 37.68,
+          "end": 38.1
+        },
+        {
+          "word": "temor,",
+          "start": 38.1,
+          "end": 39.64
+        }
+      ],
+      "start": 36.1,
+      "end": 39.64,
+      "confidence": 1.0,
+      "time": 36.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Volveremos a cantar:",
+      "words": [
+        {
+          "word": "Volveremos",
+          "start": 41.58,
+          "end": 42.78
+        },
+        {
+          "word": "a",
+          "start": 42.78,
+          "end": 43.36
+        },
+        {
+          "word": "cantar,",
+          "start": 43.36,
+          "end": 45.48
+        }
+      ],
+      "start": 41.58,
+      "end": 45.48,
+      "confidence": 1.0,
+      "time": 41.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "\"Él recibe al pecador\".",
+      "words": [
+        {
+          "word": "Él",
+          "start": 45.74,
+          "end": 46.36
+        },
+        {
+          "word": "recibe",
+          "start": 46.36,
+          "end": 48.54
+        },
+        {
+          "word": "al",
+          "start": 48.54,
+          "end": 48.78
+        },
+        {
+          "word": "pecador,",
+          "start": 48.78,
+          "end": 51.4
+        }
+      ],
+      "start": 45.74,
+      "end": 51.4,
+      "confidence": 1.0,
+      "time": 45.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Claro hacedlo resonar:",
+      "words": [
+        {
+          "word": "Claro,",
+          "start": 51.4,
+          "end": 52.46
+        },
+        {
+          "word": "hacedlo",
+          "start": 52.9,
+          "end": 54.96
+        },
+        {
+          "word": "resonar,",
+          "start": 54.96,
+          "end": 57.52
+        }
+      ],
+      "start": 51.4,
+      "end": 58.12,
+      "confidence": 1.0,
+      "time": 51.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "\"Él recibe al pecador\".",
+      "words": [
+        {
+          "word": "Él",
+          "start": 58.12,
+          "end": 58.38
+        },
+        {
+          "word": "recibe",
+          "start": 58.38,
+          "end": 59.82
+        },
+        {
+          "word": "al",
+          "start": 59.82,
+          "end": 60.62
+        },
+        {
+          "word": "pecador.",
+          "start": 60.62,
+          "end": 64.0
+        }
+      ],
+      "start": 58.12,
+      "end": 64.0,
+      "confidence": 1.0,
+      "time": 58.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "A sus pies descansarás;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 65.72,
+          "end": 66.2
+        },
+        {
+          "word": "sus",
+          "start": 66.2,
+          "end": 66.5
+        },
+        {
+          "word": "pies",
+          "start": 66.5,
+          "end": 67.52
+        },
+        {
+          "word": "descansarás,",
+          "start": 67.52,
+          "end": 69.8
+        }
+      ],
+      "start": 65.72,
+      "end": 70.42,
+      "confidence": 1.0,
+      "time": 65.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ejercita en él tu fe;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ejercita",
+          "start": 70.42,
+          "end": 72.04
+        },
+        {
+          "word": "en",
+          "start": 72.04,
+          "end": 72.3
+        },
+        {
+          "word": "él",
+          "start": 72.3,
+          "end": 72.52
+        },
+        {
+          "word": "tu",
+          "start": 72.52,
+          "end": 72.78
+        },
+        {
+          "word": "fe,",
+          "start": 72.78,
+          "end": 73.76
+        }
+      ],
+      "start": 70.42,
+      "end": 73.76,
+      "confidence": 1.0,
+      "time": 70.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de tus males sanarás;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "De",
+          "start": 73.76,
+          "end": 74.58
+        },
+        {
+          "word": "tus",
+          "start": 74.58,
+          "end": 74.92
+        },
+        {
+          "word": "males",
+          "start": 74.92,
+          "end": 76.32
+        },
+        {
+          "word": "sanarás,",
+          "start": 76.32,
+          "end": 78.18
+        }
+      ],
+      "start": 73.76,
+      "end": 78.6,
+      "confidence": 1.0,
+      "time": 73.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a Jesús, tu amigo, ve.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 78.6,
+          "end": 78.98
+        },
+        {
+          "word": "Jesús",
+          "start": 78.98,
+          "end": 80.26
+        },
+        {
+          "word": "tu",
+          "start": 80.26,
+          "end": 80.58
+        },
+        {
+          "word": "amigo",
+          "start": 80.58,
+          "end": 81.32
+        },
+        {
+          "word": "ve.",
+          "start": 81.32,
+          "end": 82.62
+        }
+      ],
+      "start": 78.6,
+      "end": 82.62,
+      "confidence": 1.0,
+      "time": 78.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Volveremos a cantar:",
+      "words": [
+        {
+          "word": "Volveremos",
+          "start": 84.6,
+          "end": 86.0
+        },
+        {
+          "word": "a",
+          "start": 86.0,
+          "end": 86.52
+        },
+        {
+          "word": "cantar,",
+          "start": 86.52,
+          "end": 88.88
+        }
+      ],
+      "start": 84.6,
+      "end": 88.92,
+      "confidence": 1.0,
+      "time": 84.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "\"Él recibe al pecador\".",
+      "words": [
+        {
+          "word": "Él",
+          "start": 88.92,
+          "end": 89.56
+        },
+        {
+          "word": "recibe",
+          "start": 89.56,
+          "end": 91.56
+        },
+        {
+          "word": "al",
+          "start": 91.56,
+          "end": 91.78
+        },
+        {
+          "word": "pecador.",
+          "start": 91.78,
+          "end": 93.76
+        }
+      ],
+      "start": 88.92,
+      "end": 93.76,
+      "confidence": 1.0,
+      "time": 88.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Claro hacedlo resonar:",
+      "words": [
+        {
+          "word": "Claro,",
+          "start": 93.76,
+          "end": 95.22
+        },
+        {
+          "word": "hacedlo",
+          "start": 95.76,
+          "end": 97.68
+        },
+        {
+          "word": "resonar,",
+          "start": 97.68,
+          "end": 100.42
+        }
+      ],
+      "start": 93.76,
+      "end": 100.84,
+      "confidence": 1.0,
+      "time": 93.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "\"Él recibe al pecador\".",
+      "words": [
+        {
+          "word": "Él",
+          "start": 100.84,
+          "end": 101.08
+        },
+        {
+          "word": "recibe",
+          "start": 101.08,
+          "end": 102.64
+        },
+        {
+          "word": "al",
+          "start": 102.64,
+          "end": 102.94
+        },
+        {
+          "word": "pecador.",
+          "start": 102.94,
+          "end": 106.84
+        }
+      ],
+      "start": 100.84,
+      "end": 106.84,
+      "confidence": 1.0,
+      "time": 100.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Recibirte prometió,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Recibirte",
+          "start": 109.48,
+          "end": 110.88
+        },
+        {
+          "word": "prometió,",
+          "start": 110.88,
+          "end": 112.28
+        }
+      ],
+      "start": 109.48,
+      "end": 112.8,
+      "confidence": 1.0,
+      "time": 109.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "date prisa en acudir;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "date",
+          "start": 112.8,
+          "end": 113.12
+        },
+        {
+          "word": "prisa",
+          "start": 113.12,
+          "end": 114.58
+        },
+        {
+          "word": "en",
+          "start": 114.58,
+          "end": 115.08
+        },
+        {
+          "word": "acudir,",
+          "start": 115.08,
+          "end": 116.74
+        }
+      ],
+      "start": 112.8,
+      "end": 116.74,
+      "confidence": 1.0,
+      "time": 112.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "necesitas como yo vida",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Necesitas,",
+          "start": 116.74,
+          "end": 119.02
+        },
+        {
+          "word": "como",
+          "start": 119.02,
+          "end": 119.66
+        },
+        {
+          "word": "yo,",
+          "start": 119.66,
+          "end": 121.14
+        },
+        {
+          "word": "vida",
+          "start": 121.4,
+          "end": 121.96
+        }
+      ],
+      "start": 116.74,
+      "end": 121.96,
+      "confidence": 1.0,
+      "time": 116.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "que él te hará vivir.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 121.96,
+          "end": 123.02
+        },
+        {
+          "word": "Él",
+          "start": 123.02,
+          "end": 123.24
+        },
+        {
+          "word": "te",
+          "start": 123.24,
+          "end": 123.44
+        },
+        {
+          "word": "hará",
+          "start": 123.44,
+          "end": 123.98
+        },
+        {
+          "word": "vivir.",
+          "start": 123.98,
+          "end": 125.74
+        }
+      ],
+      "start": 121.96,
+      "end": 125.74,
+      "confidence": 1.0,
+      "time": 121.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Volveremos a cantar:",
+      "words": [
+        {
+          "word": "Volveremos",
+          "start": 127.7,
+          "end": 129.0
+        },
+        {
+          "word": "a",
+          "start": 129.0,
+          "end": 129.58
+        },
+        {
+          "word": "cantar,",
+          "start": 129.58,
+          "end": 132.02
+        }
+      ],
+      "start": 127.7,
+      "end": 132.12,
+      "confidence": 1.0,
+      "time": 127.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "\"Él recibe al pecador\".",
+      "words": [
+        {
+          "word": "Él",
+          "start": 132.12,
+          "end": 132.78
+        },
+        {
+          "word": "recibe",
+          "start": 132.78,
+          "end": 134.88
+        },
+        {
+          "word": "al",
+          "start": 134.88,
+          "end": 135.1
+        },
+        {
+          "word": "pecador.",
+          "start": 135.1,
+          "end": 137.92
+        }
+      ],
+      "start": 132.12,
+      "end": 137.92,
+      "confidence": 1.0,
+      "time": 132.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Claro hacedlo resonar:",
+      "words": [
+        {
+          "word": "Claro,",
+          "start": 137.92,
+          "end": 139.0
+        },
+        {
+          "word": "hacedlo",
+          "start": 139.7,
+          "end": 141.34
+        },
+        {
+          "word": "resonar,",
+          "start": 141.34,
+          "end": 144.28
+        }
+      ],
+      "start": 137.92,
+      "end": 144.78,
+      "confidence": 1.0,
+      "time": 137.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "\"Él recibe al pecador\".",
+      "words": [
+        {
+          "word": "el",
+          "start": 144.78,
+          "end": 145.2
+        },
+        {
+          "word": "recibe",
+          "start": 145.2,
+          "end": 146.6
+        },
+        {
+          "word": "al",
+          "start": 146.6,
+          "end": 146.88
+        },
+        {
+          "word": "pecador.",
+          "start": 146.88,
+          "end": 152.62
+        }
+      ],
+      "start": 144.78,
+      "end": 152.62,
+      "confidence": 1.0,
+      "time": 144.78
+    }
+  ]
+}

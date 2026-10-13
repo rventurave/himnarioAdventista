@@ -1,0 +1,631 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.747,
+  "language": "es",
+  "model": "medium",
+  "hymn": 513,
+  "source": "513 - Honra al hombre de valor.mp3",
+  "duration": 108.59,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Honra al hombre de valor,",
+      "verse": 1,
+      "start": 0.0,
+      "end": 29.98,
+      "confidence": 0.0,
+      "time": 0.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pronto a obedecer",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 29.98,
+          "end": 29.98
+        }
+      ],
+      "start": 29.98,
+      "end": 31.58,
+      "confidence": 0.333,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "el mandato del Señor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 31.58,
+          "end": 33.44
+        },
+        {
+          "word": "mandato",
+          "start": 33.44,
+          "end": 34.7
+        },
+        {
+          "word": "del",
+          "start": 34.7,
+          "end": 35.16
+        },
+        {
+          "word": "señor",
+          "start": 35.16,
+          "end": 35.88
+        }
+      ],
+      "start": 31.58,
+      "end": 35.88,
+      "confidence": 1.0,
+      "time": 31.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tal cual lo fue Daniel.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tal",
+          "start": 35.88,
+          "end": 36.42
+        },
+        {
+          "word": "cuando",
+          "start": 36.42,
+          "end": 37.16
+        },
+        {
+          "word": "fue",
+          "start": 37.16,
+          "end": 37.66
+        }
+      ],
+      "start": 35.88,
+      "end": 39.48,
+      "confidence": 0.552,
+      "time": 35.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "A Daniel imita;",
+      "words": [
+        {
+          "word": "a",
+          "start": 39.48,
+          "end": 40.28
+        },
+        {
+          "word": "ilimidad,",
+          "start": 41.06,
+          "end": 42.78
+        }
+      ],
+      "start": 39.48,
+      "end": 43.46,
+      "confidence": 0.59,
+      "time": 39.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "dalo a conocer;",
+      "words": [
+        {
+          "word": "a",
+          "start": 43.46,
+          "end": 44.02
+        },
+        {
+          "word": "conocer",
+          "start": 44.02,
+          "end": 45.6
+        }
+      ],
+      "start": 43.46,
+      "end": 45.6,
+      "confidence": 0.667,
+      "time": 43.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "muéstrate resuelto y firme,",
+      "words": [
+        {
+          "word": "vuestro",
+          "start": 45.6,
+          "end": 46.66
+        },
+        {
+          "word": "infirme",
+          "start": 48.3,
+          "end": 49.32
+        }
+      ],
+      "start": 45.6,
+      "end": 49.32,
+      "confidence": 0.419,
+      "time": 45.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "aunque solo estés.",
+      "words": [
+        {
+          "word": "aunque",
+          "start": 49.32,
+          "end": 49.94
+        },
+        {
+          "word": "solo",
+          "start": 49.94,
+          "end": 50.68
+        },
+        {
+          "word": "esté",
+          "start": 50.68,
+          "end": 53.04
+        }
+      ],
+      "start": 49.32,
+      "end": 53.04,
+      "confidence": 0.98,
+      "time": 49.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Muchos yacen sin valor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Muchos",
+          "start": 53.04,
+          "end": 54.18
+        },
+        {
+          "word": "hacen",
+          "start": 54.18,
+          "end": 54.66
+        },
+        {
+          "word": "sin",
+          "start": 54.66,
+          "end": 55.18
+        },
+        {
+          "word": "valor",
+          "start": 55.18,
+          "end": 56.26
+        }
+      ],
+      "start": 53.04,
+      "end": 56.26,
+      "confidence": 0.97,
+      "time": 53.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que pudieran ser",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 56.26,
+          "end": 56.92
+        },
+        {
+          "word": "pudieran",
+          "start": 56.92,
+          "end": 57.9
+        },
+        {
+          "word": "ser,",
+          "start": 57.9,
+          "end": 59.26
+        }
+      ],
+      "start": 56.26,
+      "end": 59.86,
+      "confidence": 1.0,
+      "time": 56.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "nobles héroes del Señor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "no",
+          "start": 59.86,
+          "end": 60.04
+        },
+        {
+          "word": "del",
+          "start": 61.1,
+          "end": 61.48
+        },
+        {
+          "word": "Señor",
+          "start": 61.48,
+          "end": 62.18
+        }
+      ],
+      "start": 59.86,
+      "end": 62.18,
+      "confidence": 0.735,
+      "time": 59.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tal cual lo fue Daniel.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tal",
+          "start": 62.18,
+          "end": 62.7
+        },
+        {
+          "word": "cual",
+          "start": 62.7,
+          "end": 63.22
+        },
+        {
+          "word": "lo",
+          "start": 63.22,
+          "end": 63.58
+        },
+        {
+          "word": "fue",
+          "start": 63.58,
+          "end": 63.88
+        },
+        {
+          "word": "Daniel.",
+          "start": 63.88,
+          "end": 65.28
+        }
+      ],
+      "start": 62.18,
+      "end": 65.28,
+      "confidence": 1.0,
+      "time": 62.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "A Daniel imita;",
+      "words": [
+        {
+          "word": "A",
+          "start": 65.94,
+          "end": 66.66
+        },
+        {
+          "word": "Daniel",
+          "start": 66.66,
+          "end": 67.2
+        },
+        {
+          "word": "imitada",
+          "start": 67.2,
+          "end": 69.46
+        }
+      ],
+      "start": 65.94,
+      "end": 69.96,
+      "confidence": 0.98,
+      "time": 65.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "dalo a conocer;",
+      "words": [
+        {
+          "word": "a",
+          "start": 69.96,
+          "end": 70.36
+        },
+        {
+          "word": "conocer,",
+          "start": 70.36,
+          "end": 71.86
+        }
+      ],
+      "start": 69.96,
+      "end": 72.6,
+      "confidence": 0.667,
+      "time": 69.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "muéstrate resuelto y firme,",
+      "words": [
+        {
+          "word": "vuestra",
+          "start": 72.6,
+          "end": 73.14
+        },
+        {
+          "word": "suelta",
+          "start": 74.2,
+          "end": 74.54
+        },
+        {
+          "word": "fiel",
+          "start": 75.02,
+          "end": 75.4
+        }
+      ],
+      "start": 72.6,
+      "end": 76.28,
+      "confidence": 0.62,
+      "time": 72.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "aunque solo estés.",
+      "words": [
+        {
+          "word": "que",
+          "start": 76.28,
+          "end": 76.5
+        },
+        {
+          "word": "sólo",
+          "start": 76.5,
+          "end": 77.1
+        },
+        {
+          "word": "esté.",
+          "start": 77.1,
+          "end": 78.76
+        }
+      ],
+      "start": 76.28,
+      "end": 78.76,
+      "confidence": 0.913,
+      "time": 76.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Lucha en nombre del Señor",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Lucha",
+          "start": 78.76,
+          "end": 80.16
+        },
+        {
+          "word": "en",
+          "start": 80.16,
+          "end": 80.5
+        },
+        {
+          "word": "hambre",
+          "start": 80.5,
+          "end": 81.08
+        },
+        {
+          "word": "del",
+          "start": 81.08,
+          "end": 81.56
+        },
+        {
+          "word": "Señor",
+          "start": 81.56,
+          "end": 82.64
+        }
+      ],
+      "start": 78.76,
+      "end": 83.04,
+      "confidence": 0.96,
+      "time": 78.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "sin desfallecer.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "sin",
+          "start": 83.04,
+          "end": 83.36
+        },
+        {
+          "word": "desvallecer,",
+          "start": 83.36,
+          "end": 85.72
+        }
+      ],
+      "start": 83.04,
+      "end": 85.72,
+      "confidence": 0.973,
+      "time": 83.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Sé en la lucha vencedor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 86.5,
+          "end": 86.88
+        },
+        {
+          "word": "lucha",
+          "start": 86.88,
+          "end": 87.56
+        },
+        {
+          "word": "vencedor",
+          "start": 87.56,
+          "end": 88.72
+        }
+      ],
+      "start": 86.5,
+      "end": 88.72,
+      "confidence": 0.6,
+      "time": 86.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "tal cual lo fue Daniel.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tal",
+          "start": 88.72,
+          "end": 89.12
+        },
+        {
+          "word": "cual",
+          "start": 89.12,
+          "end": 89.76
+        },
+        {
+          "word": "lo",
+          "start": 89.76,
+          "end": 90.04
+        },
+        {
+          "word": "fue",
+          "start": 90.04,
+          "end": 90.42
+        },
+        {
+          "word": "Daniel.",
+          "start": 90.42,
+          "end": 91.88
+        }
+      ],
+      "start": 88.72,
+      "end": 91.88,
+      "confidence": 1.0,
+      "time": 88.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "A Daniel imita;",
+      "words": [
+        {
+          "word": "A",
+          "start": 92.48,
+          "end": 93.1
+        },
+        {
+          "word": "Daniel",
+          "start": 93.1,
+          "end": 93.7
+        },
+        {
+          "word": "imitada",
+          "start": 93.7,
+          "end": 96.04
+        }
+      ],
+      "start": 92.48,
+      "end": 96.04,
+      "confidence": 0.98,
+      "time": 92.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "dalo a conocer;",
+      "words": [
+        {
+          "word": "lo",
+          "start": 96.04,
+          "end": 96.44
+        },
+        {
+          "word": "conocé,",
+          "start": 96.44,
+          "end": 97.76
+        }
+      ],
+      "start": 96.04,
+      "end": 97.76,
+      "confidence": 0.58,
+      "time": 96.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "muéstrate resuelto y firme,",
+      "words": [
+        {
+          "word": "suelto",
+          "start": 100.3,
+          "end": 100.86
+        },
+        {
+          "word": "y",
+          "start": 100.86,
+          "end": 101.32
+        },
+        {
+          "word": "firme,",
+          "start": 101.32,
+          "end": 102.06
+        }
+      ],
+      "start": 100.3,
+      "end": 102.38,
+      "confidence": 0.729,
+      "time": 100.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "aunque solo estés.",
+      "words": [
+        {
+          "word": "aunque",
+          "start": 102.38,
+          "end": 102.66
+        },
+        {
+          "word": "solo",
+          "start": 102.66,
+          "end": 103.42
+        },
+        {
+          "word": "estés.",
+          "start": 103.42,
+          "end": 106.22
+        }
+      ],
+      "start": 102.38,
+      "end": 106.22,
+      "confidence": 1.0,
+      "time": 102.38
+    }
+  ]
+}

@@ -1,0 +1,928 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.939,
+  "language": "es",
+  "model": "medium",
+  "hymn": 454,
+  "source": "454 - Yo quisiera andar con Cristo.mp3",
+  "duration": 174.89,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Yo quisiera andar con Cristo",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 14.08,
+          "end": 15.48
+        },
+        {
+          "word": "quisiera",
+          "start": 15.48,
+          "end": 16.88
+        },
+        {
+          "word": "andar",
+          "start": 16.88,
+          "end": 17.62
+        },
+        {
+          "word": "con",
+          "start": 17.62,
+          "end": 18.2
+        },
+        {
+          "word": "Cristo",
+          "start": 18.2,
+          "end": 20.06
+        }
+      ],
+      "start": 14.08,
+      "end": 20.06,
+      "confidence": 1.0,
+      "time": 14.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "sobre el mar de Galilea;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sobre",
+          "start": 20.06,
+          "end": 21.32
+        },
+        {
+          "word": "el",
+          "start": 21.32,
+          "end": 21.34
+        },
+        {
+          "word": "mar",
+          "start": 21.34,
+          "end": 23.32
+        },
+        {
+          "word": "de",
+          "start": 23.32,
+          "end": 23.96
+        },
+        {
+          "word": "Galilea",
+          "start": 23.96,
+          "end": 26.56
+        }
+      ],
+      "start": 20.06,
+      "end": 26.56,
+      "confidence": 1.0,
+      "time": 20.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a su lado ir por Judea,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "A",
+          "start": 26.56,
+          "end": 27.48
+        },
+        {
+          "word": "su",
+          "start": 27.48,
+          "end": 27.84
+        },
+        {
+          "word": "lado",
+          "start": 27.84,
+          "end": 29.58
+        },
+        {
+          "word": "ir",
+          "start": 29.58,
+          "end": 30.12
+        },
+        {
+          "word": "por",
+          "start": 30.12,
+          "end": 30.7
+        },
+        {
+          "word": "Judea,",
+          "start": 30.7,
+          "end": 33.32
+        }
+      ],
+      "start": 26.56,
+      "end": 34.08,
+      "confidence": 1.0,
+      "time": 26.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ayudarlo en su gran misión.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ayudarlo",
+          "start": 34.08,
+          "end": 34.86
+        },
+        {
+          "word": "en",
+          "start": 34.86,
+          "end": 35.4
+        },
+        {
+          "word": "su",
+          "start": 35.4,
+          "end": 35.8
+        },
+        {
+          "word": "gran",
+          "start": 35.8,
+          "end": 37.0
+        },
+        {
+          "word": "misión.",
+          "start": 37.0,
+          "end": 39.1
+        }
+      ],
+      "start": 34.08,
+      "end": 39.1,
+      "confidence": 1.0,
+      "time": 34.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Con Cristo estar, con Cristo andar,",
+      "words": [
+        {
+          "word": "Con",
+          "start": 39.38,
+          "end": 39.8
+        },
+        {
+          "word": "Cristo",
+          "start": 39.8,
+          "end": 40.38
+        },
+        {
+          "word": "estar,",
+          "start": 40.38,
+          "end": 42.1
+        },
+        {
+          "word": "con",
+          "start": 42.62,
+          "end": 43.04
+        },
+        {
+          "word": "Cristo",
+          "start": 43.04,
+          "end": 43.58
+        },
+        {
+          "word": "andar,",
+          "start": 43.58,
+          "end": 45.36
+        }
+      ],
+      "start": 39.38,
+      "end": 45.76,
+      "confidence": 1.0,
+      "time": 39.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "poder sentir esa emoción.",
+      "words": [
+        {
+          "word": "poder",
+          "start": 45.76,
+          "end": 46.52
+        },
+        {
+          "word": "sentir",
+          "start": 46.52,
+          "end": 48.96
+        },
+        {
+          "word": "esa",
+          "start": 48.96,
+          "end": 49.68
+        },
+        {
+          "word": "emoción,",
+          "start": 49.68,
+          "end": 52.12
+        }
+      ],
+      "start": 45.76,
+      "end": 52.12,
+      "confidence": 1.0,
+      "time": 45.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Bien sé, Señor, que un día estaré",
+      "words": [
+        {
+          "word": "Señor,",
+          "start": 53.8,
+          "end": 54.94
+        },
+        {
+          "word": "que",
+          "start": 55.52,
+          "end": 55.64
+        },
+        {
+          "word": "un",
+          "start": 55.64,
+          "end": 56.0
+        },
+        {
+          "word": "día",
+          "start": 56.0,
+          "end": 56.74
+        },
+        {
+          "word": "estaré",
+          "start": 56.74,
+          "end": 58.52
+        }
+      ],
+      "start": 53.8,
+      "end": 58.52,
+      "confidence": 0.714,
+      "time": 53.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "muy junto a ti, Jesús, en tu hogar.",
+      "words": [
+        {
+          "word": "muy",
+          "start": 58.52,
+          "end": 58.94
+        },
+        {
+          "word": "junto",
+          "start": 58.94,
+          "end": 59.5
+        },
+        {
+          "word": "a",
+          "start": 59.5,
+          "end": 59.86
+        },
+        {
+          "word": "ti,",
+          "start": 59.86,
+          "end": 60.16
+        },
+        {
+          "word": "Jesús,",
+          "start": 60.16,
+          "end": 61.36
+        },
+        {
+          "word": "en",
+          "start": 61.84,
+          "end": 62.42
+        },
+        {
+          "word": "tu",
+          "start": 62.42,
+          "end": 62.8
+        },
+        {
+          "word": "hogar.",
+          "start": 62.8,
+          "end": 65.96
+        }
+      ],
+      "start": 58.52,
+      "end": 65.96,
+      "confidence": 1.0,
+      "time": 58.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Yo quisiera andar con Cristo,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "quisieras",
+          "start": 67.26,
+          "end": 69.42
+        },
+        {
+          "word": "andar",
+          "start": 69.42,
+          "end": 70.06
+        },
+        {
+          "word": "con",
+          "start": 70.06,
+          "end": 70.56
+        },
+        {
+          "word": "Cristo,",
+          "start": 70.56,
+          "end": 72.36
+        }
+      ],
+      "start": 67.26,
+      "end": 72.36,
+      "confidence": 0.788,
+      "time": 67.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ver sus manos sanadoras,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ver",
+          "start": 73.4,
+          "end": 73.56
+        },
+        {
+          "word": "sus",
+          "start": 73.56,
+          "end": 73.88
+        },
+        {
+          "word": "manos",
+          "start": 73.88,
+          "end": 76.1
+        },
+        {
+          "word": "ganadoras,",
+          "start": 76.1,
+          "end": 79.06
+        }
+      ],
+      "start": 73.4,
+      "end": 79.06,
+      "confidence": 0.983,
+      "time": 73.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "escucharlo siempre hablando",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Escucharlo",
+          "start": 80.54,
+          "end": 81.94
+        },
+        {
+          "word": "siempre",
+          "start": 81.94,
+          "end": 82.96
+        },
+        {
+          "word": "hablando",
+          "start": 82.96,
+          "end": 85.1
+        }
+      ],
+      "start": 80.54,
+      "end": 85.1,
+      "confidence": 1.0,
+      "time": 80.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "del divino y celestial amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "del",
+          "start": 85.1,
+          "end": 86.18
+        },
+        {
+          "word": "Divino",
+          "start": 86.18,
+          "end": 87.24
+        },
+        {
+          "word": "y",
+          "start": 87.24,
+          "end": 87.5
+        },
+        {
+          "word": "Celestial",
+          "start": 87.5,
+          "end": 89.3
+        },
+        {
+          "word": "Amor.",
+          "start": 89.3,
+          "end": 91.64
+        }
+      ],
+      "start": 85.1,
+      "end": 91.64,
+      "confidence": 1.0,
+      "time": 85.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Con Cristo estar, con Cristo andar,",
+      "words": [
+        {
+          "word": "Con",
+          "start": 91.82,
+          "end": 92.2
+        },
+        {
+          "word": "Cristo",
+          "start": 92.2,
+          "end": 92.78
+        },
+        {
+          "word": "estar,",
+          "start": 92.78,
+          "end": 94.54
+        },
+        {
+          "word": "con",
+          "start": 95.28,
+          "end": 95.4
+        },
+        {
+          "word": "Cristo",
+          "start": 95.4,
+          "end": 95.98
+        },
+        {
+          "word": "andar,",
+          "start": 95.98,
+          "end": 97.82
+        }
+      ],
+      "start": 91.82,
+      "end": 98.2,
+      "confidence": 1.0,
+      "time": 91.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "poder sentir esa emoción.",
+      "words": [
+        {
+          "word": "poder",
+          "start": 98.2,
+          "end": 98.92
+        },
+        {
+          "word": "sentir",
+          "start": 98.92,
+          "end": 101.3
+        },
+        {
+          "word": "esa",
+          "start": 101.3,
+          "end": 102.1
+        },
+        {
+          "word": "emoción.",
+          "start": 102.1,
+          "end": 104.48
+        }
+      ],
+      "start": 98.2,
+      "end": 104.48,
+      "confidence": 1.0,
+      "time": 98.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Bien sé, Señor, que un día estaré",
+      "words": [
+        {
+          "word": "Señor,",
+          "start": 106.16,
+          "end": 107.34
+        },
+        {
+          "word": "que",
+          "start": 107.84,
+          "end": 108.04
+        },
+        {
+          "word": "un",
+          "start": 108.04,
+          "end": 108.4
+        },
+        {
+          "word": "día",
+          "start": 108.4,
+          "end": 109.14
+        },
+        {
+          "word": "estaré",
+          "start": 109.14,
+          "end": 110.94
+        }
+      ],
+      "start": 106.16,
+      "end": 111.34,
+      "confidence": 0.714,
+      "time": 106.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "muy junto a ti, Jesús, en tu hogar.",
+      "words": [
+        {
+          "word": "junto",
+          "start": 111.34,
+          "end": 111.9
+        },
+        {
+          "word": "a",
+          "start": 111.9,
+          "end": 112.28
+        },
+        {
+          "word": "ti,",
+          "start": 112.28,
+          "end": 112.56
+        },
+        {
+          "word": "Jesús,",
+          "start": 112.56,
+          "end": 114.16
+        },
+        {
+          "word": "en",
+          "start": 114.2,
+          "end": 114.76
+        },
+        {
+          "word": "tu",
+          "start": 114.76,
+          "end": 115.18
+        },
+        {
+          "word": "hogar.",
+          "start": 115.18,
+          "end": 118.42
+        }
+      ],
+      "start": 111.34,
+      "end": 118.42,
+      "confidence": 0.875,
+      "time": 111.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Yo quisiera estar con Cristo",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 118.92,
+          "end": 119.68
+        },
+        {
+          "word": "quisiera",
+          "start": 119.68,
+          "end": 121.58
+        },
+        {
+          "word": "estar",
+          "start": 121.58,
+          "end": 122.46
+        },
+        {
+          "word": "con",
+          "start": 122.46,
+          "end": 123.0
+        },
+        {
+          "word": "Cristo",
+          "start": 123.0,
+          "end": 124.86
+        }
+      ],
+      "start": 118.92,
+      "end": 124.86,
+      "confidence": 1.0,
+      "time": 118.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en el cielo con el Padre.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 124.86,
+          "end": 126.1
+        },
+        {
+          "word": "el",
+          "start": 126.1,
+          "end": 126.4
+        },
+        {
+          "word": "cielo",
+          "start": 126.4,
+          "end": 128.34
+        },
+        {
+          "word": "con",
+          "start": 128.34,
+          "end": 129.06
+        },
+        {
+          "word": "el",
+          "start": 129.06,
+          "end": 129.5
+        },
+        {
+          "word": "Padre",
+          "start": 129.5,
+          "end": 131.5
+        }
+      ],
+      "start": 124.86,
+      "end": 131.5,
+      "confidence": 1.0,
+      "time": 124.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Que me lleve cuando regrese,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 131.5,
+          "end": 132.22
+        },
+        {
+          "word": "me",
+          "start": 132.22,
+          "end": 132.7
+        },
+        {
+          "word": "lleve",
+          "start": 132.7,
+          "end": 134.42
+        },
+        {
+          "word": "cuando",
+          "start": 134.42,
+          "end": 135.24
+        },
+        {
+          "word": "regrese",
+          "start": 135.24,
+          "end": 138.0
+        }
+      ],
+      "start": 131.5,
+      "end": 138.0,
+      "confidence": 1.0,
+      "time": 131.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "para estar muy junto a él, allá.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "para",
+          "start": 138.0,
+          "end": 138.8
+        },
+        {
+          "word": "estar",
+          "start": 138.8,
+          "end": 139.4
+        },
+        {
+          "word": "muy",
+          "start": 139.4,
+          "end": 139.76
+        },
+        {
+          "word": "junto",
+          "start": 139.76,
+          "end": 140.38
+        },
+        {
+          "word": "a",
+          "start": 140.38,
+          "end": 140.9
+        },
+        {
+          "word": "Él",
+          "start": 140.9,
+          "end": 142.0
+        },
+        {
+          "word": "allá.",
+          "start": 142.0,
+          "end": 143.76
+        }
+      ],
+      "start": 138.0,
+      "end": 143.76,
+      "confidence": 1.0,
+      "time": 138.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Con Cristo estar, con Cristo andar,",
+      "words": [
+        {
+          "word": "Con",
+          "start": 144.14,
+          "end": 144.62
+        },
+        {
+          "word": "Cristo",
+          "start": 144.62,
+          "end": 145.2
+        },
+        {
+          "word": "estar,",
+          "start": 145.2,
+          "end": 147.22
+        },
+        {
+          "word": "con",
+          "start": 147.68,
+          "end": 147.84
+        },
+        {
+          "word": "Cristo",
+          "start": 147.84,
+          "end": 148.38
+        },
+        {
+          "word": "andar,",
+          "start": 148.38,
+          "end": 150.22
+        }
+      ],
+      "start": 144.14,
+      "end": 150.64,
+      "confidence": 1.0,
+      "time": 144.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "poder sentir esa emoción.",
+      "words": [
+        {
+          "word": "poder",
+          "start": 150.64,
+          "end": 151.3
+        },
+        {
+          "word": "sentir",
+          "start": 151.3,
+          "end": 153.74
+        },
+        {
+          "word": "esa",
+          "start": 153.74,
+          "end": 154.5
+        },
+        {
+          "word": "emoción,",
+          "start": 154.5,
+          "end": 156.94
+        }
+      ],
+      "start": 150.64,
+      "end": 156.94,
+      "confidence": 1.0,
+      "time": 150.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Bien sé, Señor, que un día estaré",
+      "words": [
+        {
+          "word": "Dese,",
+          "start": 156.94,
+          "end": 157.84
+        },
+        {
+          "word": "Señor,",
+          "start": 158.74,
+          "end": 159.68
+        },
+        {
+          "word": "que",
+          "start": 160.36,
+          "end": 160.46
+        },
+        {
+          "word": "un",
+          "start": 160.46,
+          "end": 160.82
+        },
+        {
+          "word": "día",
+          "start": 160.82,
+          "end": 161.54
+        },
+        {
+          "word": "estaré",
+          "start": 161.54,
+          "end": 163.34
+        }
+      ],
+      "start": 156.94,
+      "end": 163.74,
+      "confidence": 0.829,
+      "time": 156.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "muy junto a ti, Jesús, en tu hogar.",
+      "words": [
+        {
+          "word": "junto",
+          "start": 163.74,
+          "end": 164.28
+        },
+        {
+          "word": "a",
+          "start": 164.28,
+          "end": 164.66
+        },
+        {
+          "word": "ti,",
+          "start": 164.66,
+          "end": 164.98
+        },
+        {
+          "word": "Jesús,",
+          "start": 164.98,
+          "end": 166.14
+        },
+        {
+          "word": "en",
+          "start": 166.88,
+          "end": 167.2
+        },
+        {
+          "word": "tu",
+          "start": 167.2,
+          "end": 167.64
+        },
+        {
+          "word": "hogar.",
+          "start": 167.64,
+          "end": 171.54
+        }
+      ],
+      "start": 163.74,
+      "end": 171.54,
+      "confidence": 0.875,
+      "time": 163.74
+    }
+  ]
+}

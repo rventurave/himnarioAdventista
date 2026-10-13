@@ -1,0 +1,853 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.85,
+  "language": "es",
+  "model": "medium",
+  "hymn": 398,
+  "source": "398 - Cuando sopla airada la tempestad.mp3",
+  "duration": 156.29,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cuando sopla airada la tempestad",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 11.7,
+          "end": 13.1
+        },
+        {
+          "word": "sopla",
+          "start": 13.1,
+          "end": 14.3
+        },
+        {
+          "word": "ilada",
+          "start": 14.3,
+          "end": 15.48
+        },
+        {
+          "word": "la",
+          "start": 15.48,
+          "end": 15.96
+        },
+        {
+          "word": "tempesta,",
+          "start": 15.96,
+          "end": 17.72
+        }
+      ],
+      "start": 11.7,
+      "end": 18.24,
+      "confidence": 0.955,
+      "time": 11.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y la barca en grave peligro está,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 18.24,
+          "end": 18.54
+        },
+        {
+          "word": "la",
+          "start": 18.54,
+          "end": 19.1
+        },
+        {
+          "word": "barca",
+          "start": 19.1,
+          "end": 19.92
+        },
+        {
+          "word": "en",
+          "start": 19.92,
+          "end": 20.36
+        },
+        {
+          "word": "grave",
+          "start": 20.36,
+          "end": 21.02
+        },
+        {
+          "word": "peligro",
+          "start": 21.02,
+          "end": 22.84
+        },
+        {
+          "word": "está,",
+          "start": 22.84,
+          "end": 23.76
+        }
+      ],
+      "start": 18.24,
+      "end": 23.76,
+      "confidence": 1.0,
+      "time": 18.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "no se puede andar con seguridad",
+      "verse": 1,
+      "words": [
+        {
+          "word": "No",
+          "start": 23.76,
+          "end": 24.66
+        },
+        {
+          "word": "se",
+          "start": 24.66,
+          "end": 25.12
+        },
+        {
+          "word": "puede",
+          "start": 25.12,
+          "end": 25.92
+        },
+        {
+          "word": "andar",
+          "start": 25.92,
+          "end": 26.9
+        },
+        {
+          "word": "con",
+          "start": 26.9,
+          "end": 27.5
+        },
+        {
+          "word": "seguridad",
+          "start": 27.5,
+          "end": 29.24
+        }
+      ],
+      "start": 23.76,
+      "end": 29.24,
+      "confidence": 1.0,
+      "time": 23.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "sin tener el ancla que Dios nos da.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sin",
+          "start": 29.24,
+          "end": 30.06
+        },
+        {
+          "word": "tener",
+          "start": 30.06,
+          "end": 31.28
+        },
+        {
+          "word": "el",
+          "start": 31.28,
+          "end": 32.16
+        },
+        {
+          "word": "angla",
+          "start": 32.16,
+          "end": 32.78
+        },
+        {
+          "word": "que",
+          "start": 32.78,
+          "end": 33.26
+        },
+        {
+          "word": "Dios",
+          "start": 33.26,
+          "end": 33.96
+        },
+        {
+          "word": "nos",
+          "start": 33.96,
+          "end": 34.78
+        },
+        {
+          "word": "da.",
+          "start": 34.78,
+          "end": 35.68
+        }
+      ],
+      "start": 29.24,
+      "end": 35.68,
+      "confidence": 0.985,
+      "time": 29.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Ancla tenemos que nos dará",
+      "words": [
+        {
+          "word": "Angla",
+          "start": 36.26,
+          "end": 37.26
+        },
+        {
+          "word": "tenemos",
+          "start": 37.26,
+          "end": 38.02
+        },
+        {
+          "word": "que",
+          "start": 38.02,
+          "end": 38.84
+        },
+        {
+          "word": "nos",
+          "start": 38.84,
+          "end": 39.74
+        },
+        {
+          "word": "dará",
+          "start": 39.74,
+          "end": 41.68
+        }
+      ],
+      "start": 36.26,
+      "end": 41.68,
+      "confidence": 0.976,
+      "time": 36.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "apoyo firme en la tempestad;",
+      "words": [
+        {
+          "word": "firme",
+          "start": 43.16,
+          "end": 44.12
+        },
+        {
+          "word": "en",
+          "start": 44.12,
+          "end": 44.3
+        },
+        {
+          "word": "la",
+          "start": 44.3,
+          "end": 44.74
+        },
+        {
+          "word": "tempestad,",
+          "start": 44.74,
+          "end": 46.9
+        }
+      ],
+      "start": 43.16,
+      "end": 46.9,
+      "confidence": 0.8,
+      "time": 43.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en la Roca eterna fija está;",
+      "words": [
+        {
+          "word": "en",
+          "start": 47.16,
+          "end": 47.6
+        },
+        {
+          "word": "la",
+          "start": 47.6,
+          "end": 48.06
+        },
+        {
+          "word": "roja",
+          "start": 48.06,
+          "end": 48.52
+        },
+        {
+          "word": "eterna",
+          "start": 48.52,
+          "end": 49.84
+        },
+        {
+          "word": "Africa",
+          "start": 49.84,
+          "end": 50.96
+        },
+        {
+          "word": "está.",
+          "start": 50.96,
+          "end": 52.08
+        }
+      ],
+      "start": 47.16,
+      "end": 52.08,
+      "confidence": 0.935,
+      "time": 47.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "solo allí tendremos seguridad.",
+      "words": [
+        {
+          "word": "¡Sólo",
+          "start": 52.08,
+          "end": 53.42
+        },
+        {
+          "word": "allí",
+          "start": 53.42,
+          "end": 53.7
+        },
+        {
+          "word": "tendremos",
+          "start": 53.7,
+          "end": 55.14
+        },
+        {
+          "word": "seguridad!",
+          "start": 55.14,
+          "end": 57.0
+        }
+      ],
+      "start": 52.08,
+      "end": 57.0,
+      "confidence": 1.0,
+      "time": 52.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Arrecifes hay que marcando van",
+      "verse": 2,
+      "words": [
+        {
+          "word": "recifres",
+          "start": 60.26,
+          "end": 61.6
+        },
+        {
+          "word": "hay",
+          "start": 61.6,
+          "end": 62.24
+        },
+        {
+          "word": "que",
+          "start": 62.24,
+          "end": 62.68
+        }
+      ],
+      "start": 60.26,
+      "end": 64.08,
+      "confidence": 0.579,
+      "time": 60.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "el sendero triste de muerte cruel,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¡El",
+          "start": 65.12,
+          "end": 65.5
+        },
+        {
+          "word": "sendero",
+          "start": 65.5,
+          "end": 67.02
+        },
+        {
+          "word": "triste",
+          "start": 67.02,
+          "end": 68.04
+        },
+        {
+          "word": "de",
+          "start": 68.04,
+          "end": 68.54
+        },
+        {
+          "word": "muerte",
+          "start": 68.54,
+          "end": 69.78
+        },
+        {
+          "word": "cruel!",
+          "start": 69.78,
+          "end": 70.86
+        }
+      ],
+      "start": 65.12,
+      "end": 70.86,
+      "confidence": 1.0,
+      "time": 65.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "donde vidas mil naufragando están",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mil",
+          "start": 73.46,
+          "end": 74.1
+        },
+        {
+          "word": "cagando",
+          "start": 74.56,
+          "end": 75.88
+        },
+        {
+          "word": "están!",
+          "start": 75.88,
+          "end": 76.48
+        }
+      ],
+      "start": 73.46,
+      "end": 76.48,
+      "confidence": 0.56,
+      "time": 73.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "sin tener un ancla ni timonel.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "sin",
+          "start": 76.48,
+          "end": 77.3
+        },
+        {
+          "word": "tener",
+          "start": 77.3,
+          "end": 78.5
+        },
+        {
+          "word": "una",
+          "start": 78.5,
+          "end": 79.62
+        }
+      ],
+      "start": 76.48,
+      "end": 83.08,
+      "confidence": 0.48,
+      "time": 76.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Ancla tenemos que nos dará",
+      "words": [
+        {
+          "word": "Anta",
+          "start": 83.68,
+          "end": 84.34
+        },
+        {
+          "word": "tenemos",
+          "start": 84.34,
+          "end": 85.24
+        },
+        {
+          "word": "que",
+          "start": 85.24,
+          "end": 85.98
+        },
+        {
+          "word": "nos",
+          "start": 85.98,
+          "end": 86.9
+        },
+        {
+          "word": "dará",
+          "start": 86.9,
+          "end": 88.76
+        }
+      ],
+      "start": 83.68,
+      "end": 88.76,
+      "confidence": 0.96,
+      "time": 83.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "apoyo firme en la tempestad;",
+      "words": [
+        {
+          "word": "acoso",
+          "start": 88.76,
+          "end": 90.06
+        },
+        {
+          "word": "firme",
+          "start": 90.06,
+          "end": 91.24
+        },
+        {
+          "word": "la",
+          "start": 91.24,
+          "end": 91.54
+        },
+        {
+          "word": "tempestad",
+          "start": 91.54,
+          "end": 94.1
+        }
+      ],
+      "start": 88.76,
+      "end": 94.1,
+      "confidence": 0.752,
+      "time": 88.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en la Roca eterna fija está;",
+      "words": [
+        {
+          "word": "en",
+          "start": 94.1,
+          "end": 94.76
+        },
+        {
+          "word": "la",
+          "start": 94.76,
+          "end": 95.18
+        },
+        {
+          "word": "África",
+          "start": 96.7,
+          "end": 98.26
+        },
+        {
+          "word": "estará.",
+          "start": 98.26,
+          "end": 99.8
+        }
+      ],
+      "start": 94.1,
+      "end": 99.8,
+      "confidence": 0.617,
+      "time": 94.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "solo allí tendremos seguridad.",
+      "words": [
+        {
+          "word": "Solo",
+          "start": 99.8,
+          "end": 100.34
+        },
+        {
+          "word": "allí",
+          "start": 100.34,
+          "end": 100.8
+        },
+        {
+          "word": "tendremos",
+          "start": 100.8,
+          "end": 102.26
+        },
+        {
+          "word": "seguridad.",
+          "start": 102.26,
+          "end": 104.34
+        }
+      ],
+      "start": 99.8,
+      "end": 104.34,
+      "confidence": 1.0,
+      "time": 99.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "En las negras ondas de la ansiedad,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 104.34,
+          "end": 106.8
+        },
+        {
+          "word": "las",
+          "start": 106.8,
+          "end": 107.34
+        },
+        {
+          "word": "negras",
+          "start": 107.34,
+          "end": 108.56
+        },
+        {
+          "word": "ondas",
+          "start": 108.56,
+          "end": 109.64
+        },
+        {
+          "word": "de",
+          "start": 109.64,
+          "end": 109.96
+        },
+        {
+          "word": "la",
+          "start": 109.96,
+          "end": 110.5
+        },
+        {
+          "word": "ansiedad,",
+          "start": 110.5,
+          "end": 111.92
+        }
+      ],
+      "start": 104.34,
+      "end": 112.1,
+      "confidence": 1.0,
+      "time": 104.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "cuando soplan vientos de destrucción,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 112.1,
+          "end": 112.74
+        },
+        {
+          "word": "soplan",
+          "start": 112.74,
+          "end": 113.96
+        },
+        {
+          "word": "vientos",
+          "start": 113.96,
+          "end": 115.02
+        },
+        {
+          "word": "de",
+          "start": 115.02,
+          "end": 115.84
+        },
+        {
+          "word": "destrucción,",
+          "start": 115.84,
+          "end": 117.34
+        }
+      ],
+      "start": 112.1,
+      "end": 117.34,
+      "confidence": 1.0,
+      "time": 112.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "nuestra barca cruza la inmensidad,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "nuestra",
+          "start": 118.8,
+          "end": 118.98
+        },
+        {
+          "word": "marca",
+          "start": 118.98,
+          "end": 120.08
+        },
+        {
+          "word": "cruza",
+          "start": 120.08,
+          "end": 121.4
+        },
+        {
+          "word": "la",
+          "start": 121.4,
+          "end": 121.84
+        },
+        {
+          "word": "inmensidad",
+          "start": 121.84,
+          "end": 123.58
+        }
+      ],
+      "start": 118.8,
+      "end": 123.58,
+      "confidence": 0.976,
+      "time": 118.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "del Señor llevando la protección.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "del",
+          "start": 123.58,
+          "end": 124.26
+        },
+        {
+          "word": "Señor",
+          "start": 124.26,
+          "end": 125.26
+        },
+        {
+          "word": "levantó",
+          "start": 125.26,
+          "end": 126.94
+        },
+        {
+          "word": "la",
+          "start": 126.94,
+          "end": 127.52
+        },
+        {
+          "word": "protección.",
+          "start": 127.52,
+          "end": 129.7
+        }
+      ],
+      "start": 123.58,
+      "end": 129.7,
+      "confidence": 0.976,
+      "time": 123.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Ancla tenemos que nos dará",
+      "words": [
+        {
+          "word": "Acá",
+          "start": 129.7,
+          "end": 131.36
+        },
+        {
+          "word": "tenemos",
+          "start": 131.36,
+          "end": 132.2
+        },
+        {
+          "word": "que",
+          "start": 132.2,
+          "end": 132.84
+        },
+        {
+          "word": "nos",
+          "start": 132.84,
+          "end": 133.76
+        },
+        {
+          "word": "dará",
+          "start": 133.76,
+          "end": 135.66
+        }
+      ],
+      "start": 129.7,
+      "end": 135.66,
+      "confidence": 0.97,
+      "time": 129.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "apoyo firme en la tempestad;",
+      "words": [
+        {
+          "word": "A",
+          "start": 135.66,
+          "end": 136.5
+        },
+        {
+          "word": "la",
+          "start": 138.32,
+          "end": 138.78
+        },
+        {
+          "word": "tempestad",
+          "start": 138.78,
+          "end": 141.0
+        }
+      ],
+      "start": 135.66,
+      "end": 141.0,
+      "confidence": 0.588,
+      "time": 135.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en la Roca eterna fija está;",
+      "words": [
+        {
+          "word": "eterna",
+          "start": 142.48,
+          "end": 143.96
+        },
+        {
+          "word": "está",
+          "start": 145.0,
+          "end": 146.32
+        }
+      ],
+      "start": 142.48,
+      "end": 146.32,
+      "confidence": 0.333,
+      "time": 142.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "solo allí tendremos seguridad.",
+      "words": [
+        {
+          "word": "Solo",
+          "start": 146.32,
+          "end": 147.24
+        },
+        {
+          "word": "allí",
+          "start": 147.24,
+          "end": 147.7
+        },
+        {
+          "word": "tendremos",
+          "start": 147.7,
+          "end": 149.34
+        },
+        {
+          "word": "seguridad",
+          "start": 149.34,
+          "end": 151.76
+        }
+      ],
+      "start": 146.32,
+      "end": 151.76,
+      "confidence": 1.0,
+      "time": 146.32
+    }
+  ]
+}

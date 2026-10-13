@@ -1,0 +1,567 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.935,
+  "language": "es",
+  "model": "medium",
+  "hymn": 530,
+  "source": "530 - Somos un pequeno pueblo muy feliz.mp3",
+  "duration": 75.15,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Somos un pequeño pueblo muy feliz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Somos",
+          "start": 11.1,
+          "end": 12.1
+        },
+        {
+          "word": "un",
+          "start": 12.1,
+          "end": 12.3
+        },
+        {
+          "word": "pequeño",
+          "start": 12.3,
+          "end": 13.06
+        },
+        {
+          "word": "pueblo",
+          "start": 13.06,
+          "end": 13.54
+        },
+        {
+          "word": "muy",
+          "start": 13.54,
+          "end": 14.04
+        },
+        {
+          "word": "feliz,",
+          "start": 14.04,
+          "end": 15.56
+        }
+      ],
+      "start": 11.1,
+      "end": 15.56,
+      "confidence": 1.0,
+      "time": 11.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "somos un pequeño pueblo muy feliz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "somos",
+          "start": 15.56,
+          "end": 16.26
+        },
+        {
+          "word": "un",
+          "start": 16.26,
+          "end": 16.76
+        },
+        {
+          "word": "pequeño",
+          "start": 16.76,
+          "end": 17.4
+        },
+        {
+          "word": "pueblo",
+          "start": 17.4,
+          "end": 17.98
+        },
+        {
+          "word": "muy",
+          "start": 17.98,
+          "end": 18.46
+        },
+        {
+          "word": "feliz,",
+          "start": 18.46,
+          "end": 20.0
+        }
+      ],
+      "start": 15.56,
+      "end": 20.7,
+      "confidence": 1.0,
+      "time": 15.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo es nuestro Salvador",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 20.7,
+          "end": 20.7
+        },
+        {
+          "word": "es",
+          "start": 20.7,
+          "end": 20.98
+        },
+        {
+          "word": "nuestro",
+          "start": 20.98,
+          "end": 21.34
+        },
+        {
+          "word": "salvador",
+          "start": 21.34,
+          "end": 22.54
+        }
+      ],
+      "start": 20.7,
+      "end": 22.54,
+      "confidence": 1.0,
+      "time": 20.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y muy pronto volverá.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 22.54,
+          "end": 22.82
+        },
+        {
+          "word": "muy",
+          "start": 22.82,
+          "end": 23.04
+        },
+        {
+          "word": "pronto",
+          "start": 23.04,
+          "end": 23.5
+        },
+        {
+          "word": "volverá.",
+          "start": 23.5,
+          "end": 25.0
+        }
+      ],
+      "start": 22.54,
+      "end": 25.0,
+      "confidence": 1.0,
+      "time": 22.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Somos un pequeño pueblo muy feliz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Somos",
+          "start": 25.0,
+          "end": 26.42
+        },
+        {
+          "word": "un",
+          "start": 26.42,
+          "end": 26.74
+        },
+        {
+          "word": "pequeño",
+          "start": 26.74,
+          "end": 27.48
+        },
+        {
+          "word": "pueblo",
+          "start": 27.48,
+          "end": 27.96
+        },
+        {
+          "word": "muy",
+          "start": 27.96,
+          "end": 28.4
+        },
+        {
+          "word": "feliz.",
+          "start": 28.4,
+          "end": 30.28
+        }
+      ],
+      "start": 25.0,
+      "end": 30.28,
+      "confidence": 1.0,
+      "time": 25.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Hay señales del regreso de Jesús,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Hay",
+          "start": 31.48,
+          "end": 31.72
+        },
+        {
+          "word": "señales",
+          "start": 31.72,
+          "end": 32.48
+        },
+        {
+          "word": "del",
+          "start": 32.48,
+          "end": 32.84
+        },
+        {
+          "word": "regreso",
+          "start": 32.84,
+          "end": 33.52
+        },
+        {
+          "word": "de",
+          "start": 33.52,
+          "end": 33.98
+        },
+        {
+          "word": "Jesús,",
+          "start": 33.98,
+          "end": 35.44
+        }
+      ],
+      "start": 31.48,
+      "end": 35.44,
+      "confidence": 1.0,
+      "time": 31.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "pues hay guerras, hay temor y ansiedad;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pues",
+          "start": 35.88,
+          "end": 36.18
+        },
+        {
+          "word": "hay",
+          "start": 36.18,
+          "end": 36.4
+        },
+        {
+          "word": "guerras,",
+          "start": 36.4,
+          "end": 37.0
+        },
+        {
+          "word": "hay",
+          "start": 37.22,
+          "end": 37.32
+        },
+        {
+          "word": "temor",
+          "start": 37.32,
+          "end": 37.96
+        },
+        {
+          "word": "y",
+          "start": 37.96,
+          "end": 38.22
+        },
+        {
+          "word": "ansiedad.",
+          "start": 38.22,
+          "end": 39.98
+        }
+      ],
+      "start": 35.88,
+      "end": 39.98,
+      "confidence": 1.0,
+      "time": 35.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "pestes y hambre por doquier,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "hambre",
+          "start": 41.08,
+          "end": 41.3
+        },
+        {
+          "word": "por",
+          "start": 41.3,
+          "end": 41.68
+        },
+        {
+          "word": "doquier",
+          "start": 41.68,
+          "end": 42.54
+        }
+      ],
+      "start": 41.08,
+      "end": 42.54,
+      "confidence": 0.6,
+      "time": 41.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y aumenta la maldad;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 42.54,
+          "end": 42.96
+        },
+        {
+          "word": "aumenta",
+          "start": 42.96,
+          "end": 43.6
+        },
+        {
+          "word": "la",
+          "start": 43.6,
+          "end": 43.96
+        },
+        {
+          "word": "maldad,",
+          "start": 43.96,
+          "end": 45.0
+        }
+      ],
+      "start": 42.54,
+      "end": 45.0,
+      "confidence": 1.0,
+      "time": 42.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "pronto Cristo nos traerá liberación.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pronto",
+          "start": 46.16,
+          "end": 46.32
+        },
+        {
+          "word": "Cristo",
+          "start": 46.32,
+          "end": 46.9
+        },
+        {
+          "word": "nos",
+          "start": 46.9,
+          "end": 47.32
+        },
+        {
+          "word": "trae",
+          "start": 47.32,
+          "end": 47.7
+        },
+        {
+          "word": "liberación,",
+          "start": 48.02,
+          "end": 50.82
+        }
+      ],
+      "start": 46.16,
+      "end": 50.82,
+      "confidence": 0.988,
+      "time": 46.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Poco falta para el día del Señor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "falta",
+          "start": 51.94,
+          "end": 52.44
+        },
+        {
+          "word": "para",
+          "start": 52.44,
+          "end": 52.96
+        },
+        {
+          "word": "el",
+          "start": 52.96,
+          "end": 53.26
+        },
+        {
+          "word": "día",
+          "start": 53.26,
+          "end": 53.56
+        },
+        {
+          "word": "del",
+          "start": 53.56,
+          "end": 53.98
+        },
+        {
+          "word": "Señor,",
+          "start": 53.98,
+          "end": 55.62
+        }
+      ],
+      "start": 51.94,
+      "end": 55.62,
+      "confidence": 0.857,
+      "time": 51.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "late nuestro corazón con emoción.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "late",
+          "start": 56.06,
+          "end": 56.28
+        },
+        {
+          "word": "nuestro",
+          "start": 56.28,
+          "end": 56.84
+        },
+        {
+          "word": "corazón",
+          "start": 56.84,
+          "end": 57.72
+        },
+        {
+          "word": "con",
+          "start": 57.72,
+          "end": 58.36
+        },
+        {
+          "word": "emoción.",
+          "start": 58.36,
+          "end": 59.98
+        }
+      ],
+      "start": 56.06,
+      "end": 59.98,
+      "confidence": 1.0,
+      "time": 56.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Pronto vamos a elevar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Pronto",
+          "start": 60.46,
+          "end": 60.84
+        },
+        {
+          "word": "vamos",
+          "start": 60.84,
+          "end": 61.48
+        },
+        {
+          "word": "a",
+          "start": 61.48,
+          "end": 61.86
+        },
+        {
+          "word": "elevar",
+          "start": 61.86,
+          "end": 62.76
+        }
+      ],
+      "start": 60.46,
+      "end": 62.76,
+      "confidence": 1.0,
+      "time": 60.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la mirada para ver",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 62.76,
+          "end": 63.06
+        },
+        {
+          "word": "mirada",
+          "start": 63.06,
+          "end": 63.68
+        },
+        {
+          "word": "para",
+          "start": 63.68,
+          "end": 64.38
+        },
+        {
+          "word": "ver",
+          "start": 64.38,
+          "end": 65.88
+        }
+      ],
+      "start": 62.76,
+      "end": 65.88,
+      "confidence": 1.0,
+      "time": 62.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a Jesús viniendo en gloria y majestad.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 65.88,
+          "end": 66.54
+        },
+        {
+          "word": "Jesús",
+          "start": 66.54,
+          "end": 66.94
+        },
+        {
+          "word": "teniendo",
+          "start": 66.94,
+          "end": 67.68
+        },
+        {
+          "word": "en",
+          "start": 67.68,
+          "end": 67.96
+        },
+        {
+          "word": "majestad.",
+          "start": 68.38,
+          "end": 72.54
+        }
+      ],
+      "start": 65.88,
+      "end": 72.54,
+      "confidence": 0.693,
+      "time": 65.88
+    }
+  ]
+}

@@ -1,0 +1,1445 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.982,
+  "language": "es",
+  "model": "medium",
+  "hymn": 258,
+  "source": "258 - Tu dejaste tu trono.mp3",
+  "duration": 236.25,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tú dejaste tu trono y corona por mí",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 13.0,
+          "end": 14.4
+        },
+        {
+          "word": "dejaste",
+          "start": 14.4,
+          "end": 15.8
+        },
+        {
+          "word": "tu",
+          "start": 15.8,
+          "end": 16.28
+        },
+        {
+          "word": "trono",
+          "start": 16.28,
+          "end": 17.24
+        },
+        {
+          "word": "y",
+          "start": 17.24,
+          "end": 17.8
+        },
+        {
+          "word": "corona",
+          "start": 17.8,
+          "end": 18.78
+        },
+        {
+          "word": "por",
+          "start": 18.78,
+          "end": 19.5
+        },
+        {
+          "word": "mi",
+          "start": 19.5,
+          "end": 20.22
+        }
+      ],
+      "start": 13.0,
+      "end": 20.22,
+      "confidence": 1.0,
+      "time": 13.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al venir a Belén a nacer;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 20.22,
+          "end": 20.72
+        },
+        {
+          "word": "venir",
+          "start": 20.72,
+          "end": 21.92
+        },
+        {
+          "word": "a",
+          "start": 21.92,
+          "end": 22.48
+        },
+        {
+          "word": "Belén",
+          "start": 22.48,
+          "end": 23.68
+        },
+        {
+          "word": "a",
+          "start": 23.68,
+          "end": 24.04
+        },
+        {
+          "word": "nacer",
+          "start": 24.04,
+          "end": 26.3
+        }
+      ],
+      "start": 20.22,
+      "end": 26.3,
+      "confidence": 1.0,
+      "time": 20.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mas a ti no fue dado el entrar en mesón,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Más",
+          "start": 26.3,
+          "end": 27.06
+        },
+        {
+          "word": "a",
+          "start": 27.06,
+          "end": 27.52
+        },
+        {
+          "word": "ti",
+          "start": 27.52,
+          "end": 28.12
+        },
+        {
+          "word": "no",
+          "start": 28.12,
+          "end": 28.58
+        },
+        {
+          "word": "fue",
+          "start": 28.58,
+          "end": 28.98
+        },
+        {
+          "word": "dado",
+          "start": 28.98,
+          "end": 29.88
+        },
+        {
+          "word": "el",
+          "start": 29.88,
+          "end": 30.42
+        },
+        {
+          "word": "entrar",
+          "start": 30.42,
+          "end": 31.4
+        },
+        {
+          "word": "en",
+          "start": 31.4,
+          "end": 31.94
+        },
+        {
+          "word": "mesón,",
+          "start": 31.94,
+          "end": 32.98
+        }
+      ],
+      "start": 26.3,
+      "end": 33.1,
+      "confidence": 1.0,
+      "time": 26.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y en pesebre te hicieron nacer.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 33.1,
+          "end": 33.54
+        },
+        {
+          "word": "en",
+          "start": 33.54,
+          "end": 33.72
+        },
+        {
+          "word": "te",
+          "start": 35.02,
+          "end": 35.52
+        },
+        {
+          "word": "hicieron",
+          "start": 35.52,
+          "end": 36.86
+        },
+        {
+          "word": "yacer.",
+          "start": 36.86,
+          "end": 39.14
+        }
+      ],
+      "start": 33.1,
+      "end": 39.14,
+      "confidence": 0.813,
+      "time": 33.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Ven a mi corazón, oh Cristo,",
+      "words": [
+        {
+          "word": "Ven",
+          "start": 40.08,
+          "end": 40.44
+        },
+        {
+          "word": "a",
+          "start": 40.44,
+          "end": 40.84
+        },
+        {
+          "word": "mi",
+          "start": 40.84,
+          "end": 41.3
+        },
+        {
+          "word": "corazón,",
+          "start": 41.3,
+          "end": 42.88
+        },
+        {
+          "word": "oh",
+          "start": 43.36,
+          "end": 43.72
+        },
+        {
+          "word": "Cristo,",
+          "start": 43.72,
+          "end": 45.36
+        }
+      ],
+      "start": 40.08,
+      "end": 46.4,
+      "confidence": 1.0,
+      "time": 40.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "pues en él hay lugar para ti.",
+      "words": [
+        {
+          "word": "pues",
+          "start": 46.4,
+          "end": 46.84
+        },
+        {
+          "word": "en",
+          "start": 46.84,
+          "end": 47.46
+        },
+        {
+          "word": "él",
+          "start": 47.46,
+          "end": 47.98
+        },
+        {
+          "word": "hay",
+          "start": 47.98,
+          "end": 48.26
+        },
+        {
+          "word": "lugar",
+          "start": 48.26,
+          "end": 49.38
+        },
+        {
+          "word": "para",
+          "start": 49.38,
+          "end": 50.42
+        },
+        {
+          "word": "ti.",
+          "start": 50.42,
+          "end": 52.18
+        }
+      ],
+      "start": 46.4,
+      "end": 52.18,
+      "confidence": 1.0,
+      "time": 46.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Ven a mi corazón, oh Cristo, ven,",
+      "words": [
+        {
+          "word": "Ven",
+          "start": 52.18,
+          "end": 53.36
+        },
+        {
+          "word": "a",
+          "start": 53.36,
+          "end": 53.74
+        },
+        {
+          "word": "mi",
+          "start": 53.74,
+          "end": 54.32
+        },
+        {
+          "word": "corazón,",
+          "start": 54.32,
+          "end": 55.9
+        },
+        {
+          "word": "oh",
+          "start": 56.1,
+          "end": 56.7
+        },
+        {
+          "word": "Cristo,",
+          "start": 56.7,
+          "end": 57.86
+        },
+        {
+          "word": "ven,",
+          "start": 58.5,
+          "end": 58.96
+        }
+      ],
+      "start": 52.18,
+      "end": 59.32,
+      "confidence": 1.0,
+      "time": 52.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "pues en él hay lugar para ti.",
+      "words": [
+        {
+          "word": "pues",
+          "start": 59.32,
+          "end": 59.92
+        },
+        {
+          "word": "en",
+          "start": 59.92,
+          "end": 60.42
+        },
+        {
+          "word": "él",
+          "start": 60.42,
+          "end": 61.26
+        },
+        {
+          "word": "hay",
+          "start": 61.26,
+          "end": 61.62
+        },
+        {
+          "word": "lugar",
+          "start": 61.62,
+          "end": 62.6
+        },
+        {
+          "word": "para",
+          "start": 62.6,
+          "end": 63.74
+        },
+        {
+          "word": "ti.",
+          "start": 63.74,
+          "end": 65.46
+        }
+      ],
+      "start": 59.32,
+      "end": 65.46,
+      "confidence": 1.0,
+      "time": 59.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En el cielo las huestes gloriosas te dan",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 66.14,
+          "end": 66.9
+        },
+        {
+          "word": "el",
+          "start": 66.9,
+          "end": 67.54
+        },
+        {
+          "word": "cielo",
+          "start": 67.54,
+          "end": 68.42
+        },
+        {
+          "word": "las",
+          "start": 68.42,
+          "end": 69.2
+        },
+        {
+          "word": "oestes",
+          "start": 69.2,
+          "end": 70.36
+        },
+        {
+          "word": "gloriosas",
+          "start": 70.36,
+          "end": 71.92
+        },
+        {
+          "word": "te",
+          "start": 71.92,
+          "end": 72.52
+        },
+        {
+          "word": "dan",
+          "start": 72.52,
+          "end": 73.28
+        }
+      ],
+      "start": 66.14,
+      "end": 73.28,
+      "confidence": 0.983,
+      "time": 66.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "alabanza y seráfico honor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "alabanza",
+          "start": 73.28,
+          "end": 75.08
+        },
+        {
+          "word": "y",
+          "start": 75.08,
+          "end": 75.4
+        },
+        {
+          "word": "seráfico,",
+          "start": 75.4,
+          "end": 77.42
+        }
+      ],
+      "start": 73.28,
+      "end": 79.06,
+      "confidence": 0.75,
+      "time": 73.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mas humilde viniste a la tierra a sufrir",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Más",
+          "start": 79.06,
+          "end": 80.34
+        },
+        {
+          "word": "humilde",
+          "start": 80.34,
+          "end": 81.64
+        },
+        {
+          "word": "viniste",
+          "start": 81.64,
+          "end": 83.02
+        },
+        {
+          "word": "a",
+          "start": 83.02,
+          "end": 83.46
+        },
+        {
+          "word": "la",
+          "start": 83.46,
+          "end": 83.78
+        },
+        {
+          "word": "tierra",
+          "start": 83.78,
+          "end": 84.78
+        },
+        {
+          "word": "a",
+          "start": 84.78,
+          "end": 85.1
+        },
+        {
+          "word": "sufrir",
+          "start": 85.1,
+          "end": 86.04
+        }
+      ],
+      "start": 79.06,
+      "end": 86.04,
+      "confidence": 1.0,
+      "time": 79.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "por salvar al más vil pecador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "por",
+          "start": 86.04,
+          "end": 86.48
+        },
+        {
+          "word": "salvar",
+          "start": 86.48,
+          "end": 87.84
+        },
+        {
+          "word": "al",
+          "start": 87.84,
+          "end": 88.24
+        },
+        {
+          "word": "más",
+          "start": 88.24,
+          "end": 88.76
+        },
+        {
+          "word": "vil",
+          "start": 88.76,
+          "end": 89.4
+        },
+        {
+          "word": "pecador.",
+          "start": 89.4,
+          "end": 92.14
+        }
+      ],
+      "start": 86.04,
+      "end": 92.14,
+      "confidence": 1.0,
+      "time": 86.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Ven a mi corazón, oh Cristo,",
+      "words": [
+        {
+          "word": "Ven",
+          "start": 93.06,
+          "end": 93.34
+        },
+        {
+          "word": "a",
+          "start": 93.34,
+          "end": 93.66
+        },
+        {
+          "word": "mi",
+          "start": 93.66,
+          "end": 94.26
+        },
+        {
+          "word": "corazón,",
+          "start": 94.26,
+          "end": 95.92
+        },
+        {
+          "word": "oh",
+          "start": 96.24,
+          "end": 96.76
+        },
+        {
+          "word": "Cristo,",
+          "start": 96.76,
+          "end": 98.54
+        }
+      ],
+      "start": 93.06,
+      "end": 99.3,
+      "confidence": 1.0,
+      "time": 93.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "pues en él hay lugar para ti.",
+      "words": [
+        {
+          "word": "pues",
+          "start": 99.3,
+          "end": 99.72
+        },
+        {
+          "word": "en",
+          "start": 99.72,
+          "end": 100.2
+        },
+        {
+          "word": "él",
+          "start": 100.2,
+          "end": 100.92
+        },
+        {
+          "word": "hay",
+          "start": 100.92,
+          "end": 101.2
+        },
+        {
+          "word": "lugar",
+          "start": 101.2,
+          "end": 102.3
+        },
+        {
+          "word": "para",
+          "start": 102.3,
+          "end": 103.28
+        },
+        {
+          "word": "ti.",
+          "start": 103.28,
+          "end": 105.02
+        }
+      ],
+      "start": 99.3,
+      "end": 105.02,
+      "confidence": 1.0,
+      "time": 99.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Ven a mi corazón, oh Cristo, ven,",
+      "words": [
+        {
+          "word": "Ven",
+          "start": 105.02,
+          "end": 106.16
+        },
+        {
+          "word": "a",
+          "start": 106.16,
+          "end": 106.52
+        },
+        {
+          "word": "mi",
+          "start": 106.52,
+          "end": 107.22
+        },
+        {
+          "word": "corazón,",
+          "start": 107.22,
+          "end": 108.68
+        },
+        {
+          "word": "oh",
+          "start": 108.9,
+          "end": 109.54
+        },
+        {
+          "word": "Cristo,",
+          "start": 109.54,
+          "end": 110.72
+        },
+        {
+          "word": "ven,",
+          "start": 111.7,
+          "end": 111.96
+        }
+      ],
+      "start": 105.02,
+      "end": 112.18,
+      "confidence": 1.0,
+      "time": 105.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "pues en él hay lugar para ti.",
+      "words": [
+        {
+          "word": "pues",
+          "start": 112.18,
+          "end": 113.0
+        },
+        {
+          "word": "en",
+          "start": 113.0,
+          "end": 113.4
+        },
+        {
+          "word": "él",
+          "start": 113.4,
+          "end": 114.26
+        },
+        {
+          "word": "hay",
+          "start": 114.26,
+          "end": 114.56
+        },
+        {
+          "word": "lugar",
+          "start": 114.56,
+          "end": 115.76
+        },
+        {
+          "word": "para",
+          "start": 115.76,
+          "end": 116.88
+        },
+        {
+          "word": "ti.",
+          "start": 116.88,
+          "end": 118.7
+        }
+      ],
+      "start": 112.18,
+      "end": 118.7,
+      "confidence": 1.0,
+      "time": 112.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Tú viniste, Señor, con tu gran bendición,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 119.64,
+          "end": 120.38
+        },
+        {
+          "word": "viniste,",
+          "start": 120.38,
+          "end": 121.9
+        },
+        {
+          "word": "Señor,",
+          "start": 121.9,
+          "end": 123.02
+        },
+        {
+          "word": "con",
+          "start": 123.18,
+          "end": 123.68
+        },
+        {
+          "word": "tu",
+          "start": 123.68,
+          "end": 124.08
+        },
+        {
+          "word": "gran",
+          "start": 124.08,
+          "end": 124.88
+        },
+        {
+          "word": "bendición,",
+          "start": 124.88,
+          "end": 126.22
+        }
+      ],
+      "start": 119.64,
+      "end": 126.62,
+      "confidence": 1.0,
+      "time": 119.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "para dar libertad y salud;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "para",
+          "start": 126.62,
+          "end": 127.28
+        },
+        {
+          "word": "dar",
+          "start": 127.28,
+          "end": 128.18
+        },
+        {
+          "word": "libertad",
+          "start": 128.18,
+          "end": 129.98
+        },
+        {
+          "word": "y",
+          "start": 129.98,
+          "end": 130.5
+        },
+        {
+          "word": "salud.",
+          "start": 130.5,
+          "end": 132.66
+        }
+      ],
+      "start": 126.62,
+      "end": 132.66,
+      "confidence": 1.0,
+      "time": 126.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "mas con saña furiosa te hicieron morir",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Mas",
+          "start": 132.66,
+          "end": 133.62
+        },
+        {
+          "word": "con",
+          "start": 133.62,
+          "end": 134.3
+        },
+        {
+          "word": "soña",
+          "start": 134.3,
+          "end": 135.3
+        },
+        {
+          "word": "furiosa",
+          "start": 135.3,
+          "end": 136.72
+        },
+        {
+          "word": "te",
+          "start": 136.72,
+          "end": 137.26
+        },
+        {
+          "word": "hicieron",
+          "start": 137.26,
+          "end": 138.6
+        },
+        {
+          "word": "morir,",
+          "start": 138.6,
+          "end": 139.84
+        }
+      ],
+      "start": 132.66,
+      "end": 140.18,
+      "confidence": 0.979,
+      "time": 132.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "aunque vieron tu amor y virtud.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "aunque",
+          "start": 140.18,
+          "end": 140.52
+        },
+        {
+          "word": "vieron",
+          "start": 140.52,
+          "end": 141.88
+        },
+        {
+          "word": "tu",
+          "start": 141.88,
+          "end": 142.32
+        },
+        {
+          "word": "amor",
+          "start": 142.32,
+          "end": 143.18
+        },
+        {
+          "word": "y",
+          "start": 143.18,
+          "end": 143.62
+        },
+        {
+          "word": "virtud.",
+          "start": 143.62,
+          "end": 146.24
+        }
+      ],
+      "start": 140.18,
+      "end": 146.24,
+      "confidence": 1.0,
+      "time": 140.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Ven a mi corazón, oh Cristo,",
+      "words": [
+        {
+          "word": "Ven",
+          "start": 146.82,
+          "end": 147.1
+        },
+        {
+          "word": "a",
+          "start": 147.1,
+          "end": 147.48
+        },
+        {
+          "word": "mi",
+          "start": 147.48,
+          "end": 148.12
+        },
+        {
+          "word": "corazón,",
+          "start": 148.12,
+          "end": 149.68
+        },
+        {
+          "word": "oh",
+          "start": 150.02,
+          "end": 150.52
+        },
+        {
+          "word": "Cristo,",
+          "start": 150.52,
+          "end": 152.34
+        }
+      ],
+      "start": 146.82,
+      "end": 153.18,
+      "confidence": 1.0,
+      "time": 146.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "pues en él hay lugar para ti.",
+      "words": [
+        {
+          "word": "pues",
+          "start": 153.18,
+          "end": 153.68
+        },
+        {
+          "word": "en",
+          "start": 153.68,
+          "end": 154.16
+        },
+        {
+          "word": "él",
+          "start": 154.16,
+          "end": 154.9
+        },
+        {
+          "word": "hay",
+          "start": 154.9,
+          "end": 155.18
+        },
+        {
+          "word": "lugar",
+          "start": 155.18,
+          "end": 156.2
+        },
+        {
+          "word": "para",
+          "start": 156.2,
+          "end": 157.2
+        },
+        {
+          "word": "ti.",
+          "start": 157.2,
+          "end": 158.96
+        }
+      ],
+      "start": 153.18,
+      "end": 158.96,
+      "confidence": 1.0,
+      "time": 153.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Ven a mi corazón, oh Cristo, ven,",
+      "words": [
+        {
+          "word": "Ven",
+          "start": 158.96,
+          "end": 160.28
+        },
+        {
+          "word": "a",
+          "start": 160.28,
+          "end": 160.62
+        },
+        {
+          "word": "mi",
+          "start": 160.62,
+          "end": 161.32
+        },
+        {
+          "word": "corazón,",
+          "start": 161.32,
+          "end": 162.82
+        },
+        {
+          "word": "oh",
+          "start": 163.08,
+          "end": 163.76
+        },
+        {
+          "word": "Cristo,",
+          "start": 163.76,
+          "end": 165.46
+        },
+        {
+          "word": "ven,",
+          "start": 165.58,
+          "end": 166.06
+        }
+      ],
+      "start": 158.96,
+      "end": 166.52,
+      "confidence": 1.0,
+      "time": 158.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "pues en él hay lugar para ti.",
+      "words": [
+        {
+          "word": "pues",
+          "start": 166.52,
+          "end": 167.06
+        },
+        {
+          "word": "en",
+          "start": 167.06,
+          "end": 167.58
+        },
+        {
+          "word": "él",
+          "start": 167.58,
+          "end": 168.42
+        },
+        {
+          "word": "hay",
+          "start": 168.42,
+          "end": 168.76
+        },
+        {
+          "word": "lugar",
+          "start": 168.76,
+          "end": 170.0
+        },
+        {
+          "word": "para",
+          "start": 170.0,
+          "end": 171.16
+        },
+        {
+          "word": "ti.",
+          "start": 171.16,
+          "end": 173.02
+        }
+      ],
+      "start": 166.52,
+      "end": 173.02,
+      "confidence": 1.0,
+      "time": 166.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Alabanzas sublimes los cielos darán",
+      "verse": 4,
+      "words": [
+        {
+          "word": "A",
+          "start": 174.36,
+          "end": 174.82
+        },
+        {
+          "word": "sublime,",
+          "start": 176.4,
+          "end": 177.76
+        },
+        {
+          "word": "cielos",
+          "start": 178.34,
+          "end": 179.58
+        },
+        {
+          "word": "darán,",
+          "start": 179.58,
+          "end": 180.68
+        }
+      ],
+      "start": 174.36,
+      "end": 181.0,
+      "confidence": 0.776,
+      "time": 174.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "cuando vengas glorioso de allí,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 181.0,
+          "end": 181.62
+        },
+        {
+          "word": "vengas,",
+          "start": 181.62,
+          "end": 182.92
+        },
+        {
+          "word": "glorioso",
+          "start": 183.04,
+          "end": 184.36
+        },
+        {
+          "word": "de",
+          "start": 184.36,
+          "end": 184.86
+        },
+        {
+          "word": "alí.",
+          "start": 184.86,
+          "end": 186.66
+        }
+      ],
+      "start": 181.0,
+      "end": 186.66,
+      "confidence": 0.983,
+      "time": 181.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "y tu voz entre nubes dirá: \"Ven a mí,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Y",
+          "start": 186.66,
+          "end": 187.52
+        },
+        {
+          "word": "tu",
+          "start": 187.52,
+          "end": 188.0
+        },
+        {
+          "word": "voz",
+          "start": 188.0,
+          "end": 188.9
+        },
+        {
+          "word": "entre",
+          "start": 188.9,
+          "end": 189.64
+        },
+        {
+          "word": "noves",
+          "start": 189.64,
+          "end": 190.84
+        },
+        {
+          "word": "dirá,",
+          "start": 190.84,
+          "end": 192.08
+        },
+        {
+          "word": "ven",
+          "start": 192.24,
+          "end": 192.58
+        },
+        {
+          "word": "a",
+          "start": 192.58,
+          "end": 193.04
+        },
+        {
+          "word": "mí,",
+          "start": 193.04,
+          "end": 193.5
+        }
+      ],
+      "start": 186.66,
+      "end": 193.8,
+      "confidence": 0.973,
+      "time": 186.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "que a mi lado hay lugar para ti\".",
+      "verse": 4,
+      "words": [
+        {
+          "word": "que",
+          "start": 193.8,
+          "end": 194.14
+        },
+        {
+          "word": "a",
+          "start": 194.14,
+          "end": 194.3
+        },
+        {
+          "word": "mi",
+          "start": 194.3,
+          "end": 194.7
+        },
+        {
+          "word": "lado",
+          "start": 194.7,
+          "end": 195.52
+        },
+        {
+          "word": "hay",
+          "start": 195.52,
+          "end": 195.88
+        },
+        {
+          "word": "lugar",
+          "start": 195.88,
+          "end": 197.02
+        },
+        {
+          "word": "para",
+          "start": 197.02,
+          "end": 198.12
+        },
+        {
+          "word": "ti.",
+          "start": 198.12,
+          "end": 200.06
+        }
+      ],
+      "start": 193.8,
+      "end": 200.06,
+      "confidence": 1.0,
+      "time": 193.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Ven a mi corazón, oh Cristo,",
+      "words": [
+        {
+          "word": "Ven",
+          "start": 200.78,
+          "end": 201.06
+        },
+        {
+          "word": "a",
+          "start": 201.06,
+          "end": 201.38
+        },
+        {
+          "word": "mi",
+          "start": 201.38,
+          "end": 201.96
+        },
+        {
+          "word": "corazón,",
+          "start": 201.96,
+          "end": 203.52
+        },
+        {
+          "word": "oh",
+          "start": 203.84,
+          "end": 204.4
+        },
+        {
+          "word": "Cristo,",
+          "start": 204.4,
+          "end": 205.78
+        }
+      ],
+      "start": 200.78,
+      "end": 207.06,
+      "confidence": 1.0,
+      "time": 200.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "pues en él hay lugar para ti.",
+      "words": [
+        {
+          "word": "pues",
+          "start": 207.06,
+          "end": 207.54
+        },
+        {
+          "word": "en",
+          "start": 207.54,
+          "end": 208.16
+        },
+        {
+          "word": "él",
+          "start": 208.16,
+          "end": 208.58
+        },
+        {
+          "word": "hay",
+          "start": 208.58,
+          "end": 208.92
+        },
+        {
+          "word": "lugar",
+          "start": 208.92,
+          "end": 210.08
+        },
+        {
+          "word": "para",
+          "start": 210.08,
+          "end": 211.04
+        },
+        {
+          "word": "ti.",
+          "start": 211.04,
+          "end": 212.86
+        }
+      ],
+      "start": 207.06,
+      "end": 212.86,
+      "confidence": 1.0,
+      "time": 207.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Ven a mi corazón, oh Cristo, ven,",
+      "words": [
+        {
+          "word": "Ven",
+          "start": 212.86,
+          "end": 214.06
+        },
+        {
+          "word": "a",
+          "start": 214.06,
+          "end": 214.4
+        },
+        {
+          "word": "mi",
+          "start": 214.4,
+          "end": 214.98
+        },
+        {
+          "word": "corazón,",
+          "start": 214.98,
+          "end": 216.26
+        },
+        {
+          "word": "oh",
+          "start": 216.88,
+          "end": 217.4
+        },
+        {
+          "word": "Cristo",
+          "start": 217.4,
+          "end": 218.64
+        },
+        {
+          "word": "ven,",
+          "start": 218.64,
+          "end": 219.54
+        }
+      ],
+      "start": 212.86,
+      "end": 220.02,
+      "confidence": 1.0,
+      "time": 212.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "pues en él hay lugar para ti.",
+      "words": [
+        {
+          "word": "pues",
+          "start": 220.02,
+          "end": 220.56
+        },
+        {
+          "word": "en",
+          "start": 220.56,
+          "end": 221.22
+        },
+        {
+          "word": "él",
+          "start": 221.22,
+          "end": 221.86
+        },
+        {
+          "word": "hay",
+          "start": 221.86,
+          "end": 222.22
+        },
+        {
+          "word": "lugar",
+          "start": 222.22,
+          "end": 223.4
+        },
+        {
+          "word": "para",
+          "start": 223.4,
+          "end": 224.54
+        },
+        {
+          "word": "ti.",
+          "start": 224.54,
+          "end": 227.8
+        }
+      ],
+      "start": 220.02,
+      "end": 227.8,
+      "confidence": 1.0,
+      "time": 220.02
+    }
+  ]
+}

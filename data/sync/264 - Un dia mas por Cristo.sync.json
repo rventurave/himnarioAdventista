@@ -1,0 +1,1220 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.929,
+  "language": "es",
+  "model": "medium",
+  "hymn": 264,
+  "source": "264 - Un dia mas por Cristo.mp3",
+  "duration": 191.19,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Un día más por Cristo, y menos por vivir;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Un",
+          "start": 17.66,
+          "end": 19.06
+        },
+        {
+          "word": "día",
+          "start": 19.06,
+          "end": 20.46
+        },
+        {
+          "word": "más",
+          "start": 20.46,
+          "end": 21.02
+        },
+        {
+          "word": "por",
+          "start": 21.02,
+          "end": 21.42
+        },
+        {
+          "word": "Cristo",
+          "start": 21.42,
+          "end": 22.72
+        },
+        {
+          "word": "y",
+          "start": 22.72,
+          "end": 23.84
+        },
+        {
+          "word": "menos",
+          "start": 23.84,
+          "end": 25.14
+        },
+        {
+          "word": "por",
+          "start": 25.14,
+          "end": 25.86
+        },
+        {
+          "word": "vivir",
+          "start": 25.86,
+          "end": 26.88
+        }
+      ],
+      "start": 17.66,
+      "end": 26.88,
+      "confidence": 1.0,
+      "time": 17.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mas hoy el cielo, que tanto anhelo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 28.16,
+          "end": 28.46
+        },
+        {
+          "word": "cielo",
+          "start": 28.46,
+          "end": 29.16
+        },
+        {
+          "word": "que",
+          "start": 29.16,
+          "end": 29.8
+        },
+        {
+          "word": "tanto",
+          "start": 29.8,
+          "end": 30.28
+        },
+        {
+          "word": "anheló.",
+          "start": 30.28,
+          "end": 32.0
+        }
+      ],
+      "start": 28.16,
+      "end": 32.0,
+      "confidence": 0.714,
+      "time": 28.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "más cerca está que ayer.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "acércate",
+          "start": 34.4,
+          "end": 34.88
+        }
+      ],
+      "start": 34.4,
+      "end": 36.08,
+      "confidence": 0.172,
+      "time": 34.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Colmada mi alma está de luz y amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "colmada",
+          "start": 36.08,
+          "end": 37.28
+        },
+        {
+          "word": "mi",
+          "start": 37.28,
+          "end": 37.94
+        },
+        {
+          "word": "alma",
+          "start": 37.94,
+          "end": 38.68
+        },
+        {
+          "word": "esta",
+          "start": 38.68,
+          "end": 39.22
+        },
+        {
+          "word": "de",
+          "start": 39.22,
+          "end": 39.76
+        },
+        {
+          "word": "luz",
+          "start": 39.76,
+          "end": 40.16
+        },
+        {
+          "word": "y",
+          "start": 40.16,
+          "end": 40.36
+        },
+        {
+          "word": "amor.",
+          "start": 40.36,
+          "end": 40.98
+        }
+      ],
+      "start": 36.08,
+      "end": 40.98,
+      "confidence": 1.0,
+      "time": 36.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Un día más por Cristo,",
+      "words": [
+        {
+          "word": "Un",
+          "start": 41.14,
+          "end": 41.98
+        },
+        {
+          "word": "día",
+          "start": 41.98,
+          "end": 43.34
+        },
+        {
+          "word": "más",
+          "start": 43.34,
+          "end": 43.78
+        },
+        {
+          "word": "por",
+          "start": 43.78,
+          "end": 44.16
+        },
+        {
+          "word": "Cristo,",
+          "start": 44.16,
+          "end": 45.32
+        }
+      ],
+      "start": 41.14,
+      "end": 45.32,
+      "confidence": 1.0,
+      "time": 41.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "un día más por Cristo,",
+      "words": [
+        {
+          "word": "un",
+          "start": 45.68,
+          "end": 46.48
+        },
+        {
+          "word": "día",
+          "start": 46.48,
+          "end": 47.82
+        },
+        {
+          "word": "más",
+          "start": 47.82,
+          "end": 48.3
+        },
+        {
+          "word": "por",
+          "start": 48.3,
+          "end": 48.8
+        },
+        {
+          "word": "Cristo,",
+          "start": 48.8,
+          "end": 49.8
+        }
+      ],
+      "start": 45.68,
+      "end": 49.8,
+      "confidence": 1.0,
+      "time": 45.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "un día más por Cristo,",
+      "words": [
+        {
+          "word": "un",
+          "start": 50.52,
+          "end": 51.16
+        },
+        {
+          "word": "día",
+          "start": 51.16,
+          "end": 52.4
+        },
+        {
+          "word": "más",
+          "start": 52.4,
+          "end": 52.88
+        },
+        {
+          "word": "por",
+          "start": 52.88,
+          "end": 53.48
+        },
+        {
+          "word": "Cristo",
+          "start": 53.48,
+          "end": 54.52
+        }
+      ],
+      "start": 50.52,
+      "end": 54.52,
+      "confidence": 1.0,
+      "time": 50.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y menos por vivir.",
+      "words": [
+        {
+          "word": "y",
+          "start": 54.52,
+          "end": 55.52
+        },
+        {
+          "word": "menos",
+          "start": 55.52,
+          "end": 57.04
+        },
+        {
+          "word": "por",
+          "start": 57.04,
+          "end": 57.66
+        }
+      ],
+      "start": 54.52,
+      "end": 58.48,
+      "confidence": 0.75,
+      "time": 54.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Un día más por Cristo, por mi glorioso Rey;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Un",
+          "start": 60.26,
+          "end": 61.52
+        },
+        {
+          "word": "día",
+          "start": 61.52,
+          "end": 62.78
+        },
+        {
+          "word": "más",
+          "start": 62.78,
+          "end": 63.24
+        },
+        {
+          "word": "por",
+          "start": 63.24,
+          "end": 63.64
+        },
+        {
+          "word": "Cristo,",
+          "start": 63.64,
+          "end": 64.98
+        },
+        {
+          "word": "por",
+          "start": 65.62,
+          "end": 66.08
+        },
+        {
+          "word": "mi",
+          "start": 66.08,
+          "end": 67.12
+        },
+        {
+          "word": "glorioso",
+          "start": 67.12,
+          "end": 68.16
+        },
+        {
+          "word": "Rey,",
+          "start": 68.16,
+          "end": 69.16
+        }
+      ],
+      "start": 60.26,
+      "end": 69.16,
+      "confidence": 1.0,
+      "time": 60.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pues mis deberes ya son placeres:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pues",
+          "start": 69.4,
+          "end": 69.8
+        },
+        {
+          "word": "mis",
+          "start": 69.8,
+          "end": 70.2
+        },
+        {
+          "word": "deberes",
+          "start": 70.2,
+          "end": 71.84
+        },
+        {
+          "word": "ya",
+          "start": 71.84,
+          "end": 72.08
+        },
+        {
+          "word": "son",
+          "start": 72.08,
+          "end": 72.42
+        },
+        {
+          "word": "placeres,",
+          "start": 72.42,
+          "end": 74.06
+        }
+      ],
+      "start": 69.4,
+      "end": 74.06,
+      "confidence": 1.0,
+      "time": 69.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "su amor proclamaré.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "su",
+          "start": 74.24,
+          "end": 74.72
+        },
+        {
+          "word": "amor",
+          "start": 74.72,
+          "end": 76.14
+        },
+        {
+          "word": "hoclamaré.",
+          "start": 76.6,
+          "end": 78.12
+        }
+      ],
+      "start": 74.24,
+      "end": 78.12,
+      "confidence": 0.968,
+      "time": 74.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesús murió; mi vida así compró.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 78.78,
+          "end": 79.26
+        },
+        {
+          "word": "murió,",
+          "start": 79.26,
+          "end": 80.72
+        },
+        {
+          "word": "mi",
+          "start": 81.04,
+          "end": 81.34
+        },
+        {
+          "word": "vida",
+          "start": 81.34,
+          "end": 81.86
+        },
+        {
+          "word": "así",
+          "start": 81.86,
+          "end": 82.48
+        },
+        {
+          "word": "compró,",
+          "start": 82.48,
+          "end": 83.38
+        }
+      ],
+      "start": 78.78,
+      "end": 83.38,
+      "confidence": 1.0,
+      "time": 78.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Un día más por Cristo,",
+      "words": [
+        {
+          "word": "Un",
+          "start": 83.38,
+          "end": 84.2
+        },
+        {
+          "word": "día",
+          "start": 84.2,
+          "end": 85.56
+        },
+        {
+          "word": "más",
+          "start": 85.56,
+          "end": 86.0
+        },
+        {
+          "word": "por",
+          "start": 86.0,
+          "end": 86.3
+        },
+        {
+          "word": "Cristo,",
+          "start": 86.3,
+          "end": 87.54
+        }
+      ],
+      "start": 83.38,
+      "end": 87.86,
+      "confidence": 1.0,
+      "time": 83.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "un día más por Cristo,",
+      "words": [
+        {
+          "word": "un",
+          "start": 87.86,
+          "end": 88.58
+        },
+        {
+          "word": "día",
+          "start": 88.58,
+          "end": 90.08
+        },
+        {
+          "word": "más",
+          "start": 90.08,
+          "end": 90.56
+        },
+        {
+          "word": "por",
+          "start": 90.56,
+          "end": 91.1
+        },
+        {
+          "word": "Cristo,",
+          "start": 91.1,
+          "end": 92.08
+        }
+      ],
+      "start": 87.86,
+      "end": 92.5,
+      "confidence": 1.0,
+      "time": 87.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "un día más por Cristo,",
+      "words": [
+        {
+          "word": "un",
+          "start": 92.5,
+          "end": 93.4
+        },
+        {
+          "word": "día",
+          "start": 93.4,
+          "end": 94.64
+        },
+        {
+          "word": "más",
+          "start": 94.64,
+          "end": 95.1
+        },
+        {
+          "word": "por",
+          "start": 95.1,
+          "end": 95.5
+        },
+        {
+          "word": "Cristo,",
+          "start": 95.5,
+          "end": 96.7
+        }
+      ],
+      "start": 92.5,
+      "end": 97.3,
+      "confidence": 1.0,
+      "time": 92.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y menos por vivir.",
+      "words": [
+        {
+          "word": "y",
+          "start": 97.3,
+          "end": 98.02
+        },
+        {
+          "word": "menos",
+          "start": 98.02,
+          "end": 99.34
+        },
+        {
+          "word": "por",
+          "start": 99.34,
+          "end": 99.98
+        }
+      ],
+      "start": 97.3,
+      "end": 102.28,
+      "confidence": 0.75,
+      "time": 97.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Un día más por Cristo; cuán grato es para mí",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Un",
+          "start": 102.28,
+          "end": 103.74
+        },
+        {
+          "word": "día",
+          "start": 103.74,
+          "end": 105.1
+        },
+        {
+          "word": "más",
+          "start": 105.1,
+          "end": 105.6
+        },
+        {
+          "word": "por",
+          "start": 105.6,
+          "end": 106.02
+        },
+        {
+          "word": "Cristo,",
+          "start": 106.02,
+          "end": 107.2
+        },
+        {
+          "word": "cuán",
+          "start": 107.92,
+          "end": 108.48
+        },
+        {
+          "word": "grato",
+          "start": 108.48,
+          "end": 109.58
+        },
+        {
+          "word": "es",
+          "start": 109.58,
+          "end": 109.94
+        },
+        {
+          "word": "para",
+          "start": 109.94,
+          "end": 110.7
+        },
+        {
+          "word": "mí,",
+          "start": 110.7,
+          "end": 111.58
+        }
+      ],
+      "start": 102.28,
+      "end": 111.92,
+      "confidence": 1.0,
+      "time": 102.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "contar la historia, mostrar la gloria",
+      "verse": 3,
+      "words": [
+        {
+          "word": "contar",
+          "start": 111.92,
+          "end": 112.44
+        },
+        {
+          "word": "la",
+          "start": 112.44,
+          "end": 112.92
+        },
+        {
+          "word": "historia,",
+          "start": 112.92,
+          "end": 113.8
+        },
+        {
+          "word": "mostrar",
+          "start": 114.04,
+          "end": 114.76
+        },
+        {
+          "word": "la",
+          "start": 114.76,
+          "end": 115.28
+        },
+        {
+          "word": "gloria,",
+          "start": 115.28,
+          "end": 116.4
+        }
+      ],
+      "start": 111.92,
+      "end": 116.94,
+      "confidence": 1.0,
+      "time": 111.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "del que me salva aquí.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 116.94,
+          "end": 117.5
+        },
+        {
+          "word": "que",
+          "start": 117.5,
+          "end": 118.52
+        },
+        {
+          "word": "me",
+          "start": 118.52,
+          "end": 119.02
+        },
+        {
+          "word": "salva",
+          "start": 119.02,
+          "end": 119.64
+        },
+        {
+          "word": "aquí,",
+          "start": 119.64,
+          "end": 120.56
+        }
+      ],
+      "start": 116.94,
+      "end": 121.14,
+      "confidence": 0.976,
+      "time": 116.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Mi corazón rebosa en bendición.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mi",
+          "start": 121.14,
+          "end": 121.28
+        },
+        {
+          "word": "corazón",
+          "start": 121.28,
+          "end": 123.04
+        },
+        {
+          "word": "rebosa",
+          "start": 123.04,
+          "end": 124.0
+        },
+        {
+          "word": "en",
+          "start": 124.0,
+          "end": 124.46
+        },
+        {
+          "word": "bendición.",
+          "start": 124.46,
+          "end": 125.56
+        }
+      ],
+      "start": 121.14,
+      "end": 125.56,
+      "confidence": 1.0,
+      "time": 121.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Un día más por Cristo,",
+      "words": [
+        {
+          "word": "un",
+          "start": 125.56,
+          "end": 126.62
+        },
+        {
+          "word": "día",
+          "start": 126.62,
+          "end": 128.0
+        },
+        {
+          "word": "más",
+          "start": 128.0,
+          "end": 128.48
+        },
+        {
+          "word": "por",
+          "start": 128.48,
+          "end": 128.8
+        },
+        {
+          "word": "Cristo,",
+          "start": 128.8,
+          "end": 129.96
+        }
+      ],
+      "start": 125.56,
+      "end": 130.34,
+      "confidence": 1.0,
+      "time": 125.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "un día más por Cristo,",
+      "words": [
+        {
+          "word": "un",
+          "start": 130.34,
+          "end": 131.06
+        },
+        {
+          "word": "día",
+          "start": 131.06,
+          "end": 132.52
+        },
+        {
+          "word": "más",
+          "start": 132.52,
+          "end": 132.98
+        },
+        {
+          "word": "por",
+          "start": 132.98,
+          "end": 133.28
+        },
+        {
+          "word": "Cristo,",
+          "start": 133.28,
+          "end": 134.54
+        }
+      ],
+      "start": 130.34,
+      "end": 134.54,
+      "confidence": 1.0,
+      "time": 130.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "un día más por Cristo,",
+      "words": [
+        {
+          "word": "un",
+          "start": 134.88,
+          "end": 135.76
+        },
+        {
+          "word": "día",
+          "start": 135.76,
+          "end": 137.06
+        },
+        {
+          "word": "más",
+          "start": 137.06,
+          "end": 137.5
+        },
+        {
+          "word": "por",
+          "start": 137.5,
+          "end": 137.92
+        },
+        {
+          "word": "Cristo",
+          "start": 137.92,
+          "end": 139.18
+        }
+      ],
+      "start": 134.88,
+      "end": 139.18,
+      "confidence": 1.0,
+      "time": 134.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y menos por vivir.",
+      "words": [
+        {
+          "word": "y",
+          "start": 139.18,
+          "end": 140.26
+        },
+        {
+          "word": "menos",
+          "start": 140.26,
+          "end": 141.76
+        },
+        {
+          "word": "por",
+          "start": 141.76,
+          "end": 142.4
+        }
+      ],
+      "start": 139.18,
+      "end": 144.4,
+      "confidence": 0.75,
+      "time": 139.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "¡Oh, cuán bendita obra de Cristo mi Señor!",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 144.96,
+          "end": 145.88
+        },
+        {
+          "word": "cual",
+          "start": 146.34,
+          "end": 147.04
+        },
+        {
+          "word": "bendita",
+          "start": 147.04,
+          "end": 148.28
+        },
+        {
+          "word": "obra",
+          "start": 148.28,
+          "end": 149.54
+        },
+        {
+          "word": "de",
+          "start": 149.54,
+          "end": 150.62
+        },
+        {
+          "word": "Cristo",
+          "start": 150.62,
+          "end": 151.98
+        },
+        {
+          "word": "mi",
+          "start": 151.98,
+          "end": 152.64
+        },
+        {
+          "word": "Señor",
+          "start": 152.64,
+          "end": 153.7
+        }
+      ],
+      "start": 144.96,
+      "end": 153.7,
+      "confidence": 0.981,
+      "time": 144.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Tras prueba dura, un alma pura",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Tras",
+          "start": 153.7,
+          "end": 154.44
+        },
+        {
+          "word": "prueba",
+          "start": 154.44,
+          "end": 155.18
+        },
+        {
+          "word": "dura,",
+          "start": 155.18,
+          "end": 156.12
+        },
+        {
+          "word": "una",
+          "start": 156.64,
+          "end": 156.82
+        },
+        {
+          "word": "alma",
+          "start": 156.82,
+          "end": 157.3
+        },
+        {
+          "word": "pura",
+          "start": 157.3,
+          "end": 158.8
+        }
+      ],
+      "start": 153.7,
+      "end": 158.8,
+      "confidence": 0.98,
+      "time": 153.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "me da su santo amor.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "su",
+          "start": 160.72,
+          "end": 161.18
+        },
+        {
+          "word": "santo",
+          "start": 161.18,
+          "end": 161.74
+        },
+        {
+          "word": "amor",
+          "start": 161.74,
+          "end": 162.86
+        }
+      ],
+      "start": 160.72,
+      "end": 162.86,
+      "confidence": 0.6,
+      "time": 160.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Y esto sé: con Cristo reinaré.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Y",
+          "start": 162.86,
+          "end": 163.58
+        },
+        {
+          "word": "esto",
+          "start": 163.58,
+          "end": 164.14
+        },
+        {
+          "word": "sé,",
+          "start": 164.14,
+          "end": 165.34
+        },
+        {
+          "word": "con",
+          "start": 165.64,
+          "end": 165.8
+        },
+        {
+          "word": "tristo",
+          "start": 165.8,
+          "end": 166.4
+        },
+        {
+          "word": "reinaré",
+          "start": 166.4,
+          "end": 168.04
+        }
+      ],
+      "start": 162.86,
+      "end": 168.04,
+      "confidence": 0.983,
+      "time": 162.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Un día más por Cristo,",
+      "words": [
+        {
+          "word": "Un",
+          "start": 168.04,
+          "end": 168.9
+        },
+        {
+          "word": "día",
+          "start": 168.9,
+          "end": 170.2
+        },
+        {
+          "word": "más",
+          "start": 170.2,
+          "end": 170.62
+        },
+        {
+          "word": "por",
+          "start": 170.62,
+          "end": 171.04
+        },
+        {
+          "word": "Cristo",
+          "start": 171.04,
+          "end": 172.22
+        }
+      ],
+      "start": 168.04,
+      "end": 172.22,
+      "confidence": 1.0,
+      "time": 168.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "un día más por Cristo,",
+      "words": [
+        {
+          "word": "Un",
+          "start": 172.22,
+          "end": 173.24
+        },
+        {
+          "word": "día",
+          "start": 173.24,
+          "end": 174.68
+        },
+        {
+          "word": "más",
+          "start": 174.68,
+          "end": 175.2
+        },
+        {
+          "word": "por",
+          "start": 175.2,
+          "end": 175.56
+        },
+        {
+          "word": "Cristo",
+          "start": 175.56,
+          "end": 177.04
+        }
+      ],
+      "start": 172.22,
+      "end": 177.04,
+      "confidence": 1.0,
+      "time": 172.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "un día más por Cristo,",
+      "words": [
+        {
+          "word": "Un",
+          "start": 177.04,
+          "end": 177.9
+        },
+        {
+          "word": "día",
+          "start": 177.9,
+          "end": 179.3
+        },
+        {
+          "word": "más",
+          "start": 179.3,
+          "end": 179.74
+        },
+        {
+          "word": "por",
+          "start": 179.74,
+          "end": 180.14
+        },
+        {
+          "word": "Cristo",
+          "start": 180.14,
+          "end": 181.3
+        }
+      ],
+      "start": 177.04,
+      "end": 181.3,
+      "confidence": 1.0,
+      "time": 177.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "y menos por vivir.",
+      "words": [
+        {
+          "word": "y",
+          "start": 181.3,
+          "end": 182.62
+        },
+        {
+          "word": "menos",
+          "start": 182.62,
+          "end": 184.06
+        },
+        {
+          "word": "por",
+          "start": 184.06,
+          "end": 184.8
+        }
+      ],
+      "start": 181.3,
+      "end": 187.78,
+      "confidence": 0.75,
+      "time": 181.3
+    }
+  ]
+}

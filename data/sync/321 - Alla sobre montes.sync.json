@@ -1,0 +1,1209 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.931,
+  "language": "es",
+  "model": "medium",
+  "hymn": 321,
+  "source": "321 - Alla sobre montes.mp3",
+  "duration": 213.24,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Allá sobre montes, en feliz país,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Allá",
+          "start": 16.66,
+          "end": 18.06
+        },
+        {
+          "word": "sobre",
+          "start": 18.06,
+          "end": 18.66
+        },
+        {
+          "word": "montes,",
+          "start": 18.66,
+          "end": 19.5
+        },
+        {
+          "word": "en",
+          "start": 19.66,
+          "end": 19.86
+        },
+        {
+          "word": "feliz",
+          "start": 19.86,
+          "end": 20.68
+        },
+        {
+          "word": "país,",
+          "start": 20.68,
+          "end": 21.8
+        }
+      ],
+      "start": 16.66,
+      "end": 22.22,
+      "confidence": 1.0,
+      "time": 16.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "la ciudad divina reposando está,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 22.22,
+          "end": 22.4
+        },
+        {
+          "word": "Ciudad",
+          "start": 22.4,
+          "end": 23.92
+        },
+        {
+          "word": "Divina",
+          "start": 23.92,
+          "end": 24.72
+        },
+        {
+          "word": "reposando",
+          "start": 24.72,
+          "end": 26.56
+        },
+        {
+          "word": "está.",
+          "start": 26.56,
+          "end": 28.32
+        }
+      ],
+      "start": 22.22,
+      "end": 28.32,
+      "confidence": 1.0,
+      "time": 22.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Nuestros pies, aquí cansados, subirán:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Nuestros",
+          "start": 28.32,
+          "end": 29.58
+        },
+        {
+          "word": "pies",
+          "start": 29.58,
+          "end": 30.32
+        },
+        {
+          "word": "aquí",
+          "start": 30.32,
+          "end": 31.14
+        },
+        {
+          "word": "cansados",
+          "start": 31.14,
+          "end": 32.2
+        },
+        {
+          "word": "subirán,",
+          "start": 32.2,
+          "end": 34.14
+        }
+      ],
+      "start": 28.32,
+      "end": 34.42,
+      "confidence": 1.0,
+      "time": 28.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "la mansión eterna divisamos ya.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 34.42,
+          "end": 34.7
+        },
+        {
+          "word": "mansión",
+          "start": 34.7,
+          "end": 36.0
+        },
+        {
+          "word": "eterna",
+          "start": 36.0,
+          "end": 37.02
+        },
+        {
+          "word": "divisamos",
+          "start": 37.02,
+          "end": 39.1
+        },
+        {
+          "word": "ya.",
+          "start": 39.1,
+          "end": 40.54
+        }
+      ],
+      "start": 34.42,
+      "end": 40.54,
+      "confidence": 1.0,
+      "time": 34.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Vamos al hogar! ¡Vamos al hogar!",
+      "words": [
+        {
+          "word": "Vamos",
+          "start": 41.06,
+          "end": 41.86
+        },
+        {
+          "word": "al",
+          "start": 41.86,
+          "end": 44.04
+        },
+        {
+          "word": "hogar,",
+          "start": 44.04,
+          "end": 46.38
+        },
+        {
+          "word": "vamos",
+          "start": 46.58,
+          "end": 47.2
+        },
+        {
+          "word": "al",
+          "start": 47.2,
+          "end": 49.22
+        },
+        {
+          "word": "hogar,",
+          "start": 49.22,
+          "end": 51.32
+        }
+      ],
+      "start": 41.06,
+      "end": 51.32,
+      "confidence": 1.0,
+      "time": 41.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Ved, sus torres brillan con gran esplendor!",
+      "words": [
+        {
+          "word": "Ven",
+          "start": 51.32,
+          "end": 52.32
+        },
+        {
+          "word": "sus",
+          "start": 52.32,
+          "end": 52.72
+        },
+        {
+          "word": "torres",
+          "start": 52.72,
+          "end": 54.08
+        },
+        {
+          "word": "brillan",
+          "start": 54.08,
+          "end": 54.74
+        },
+        {
+          "word": "con",
+          "start": 54.74,
+          "end": 55.24
+        },
+        {
+          "word": "gran",
+          "start": 55.24,
+          "end": 55.9
+        },
+        {
+          "word": "esplendor,",
+          "start": 55.9,
+          "end": 57.32
+        }
+      ],
+      "start": 51.32,
+      "end": 57.74,
+      "confidence": 0.971,
+      "time": 51.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Ved la gloria cómo emana del Señor!",
+      "words": [
+        {
+          "word": "Ven",
+          "start": 57.74,
+          "end": 57.96
+        },
+        {
+          "word": "la",
+          "start": 57.96,
+          "end": 58.34
+        },
+        {
+          "word": "gloria",
+          "start": 58.34,
+          "end": 59.54
+        },
+        {
+          "word": "como",
+          "start": 59.54,
+          "end": 60.1
+        },
+        {
+          "word": "emana",
+          "start": 60.1,
+          "end": 60.92
+        },
+        {
+          "word": "del",
+          "start": 60.92,
+          "end": 61.62
+        },
+        {
+          "word": "Señor.",
+          "start": 61.62,
+          "end": 62.72
+        }
+      ],
+      "start": 57.74,
+      "end": 62.72,
+      "confidence": 0.971,
+      "time": 57.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Estaremos juntos por la eternidad",
+      "words": [
+        {
+          "word": "Estaremos",
+          "start": 63.54,
+          "end": 64.86
+        },
+        {
+          "word": "juntos",
+          "start": 64.86,
+          "end": 65.56
+        },
+        {
+          "word": "la",
+          "start": 66.02,
+          "end": 66.44
+        },
+        {
+          "word": "eternidad,",
+          "start": 66.44,
+          "end": 68.28
+        }
+      ],
+      "start": 63.54,
+      "end": 68.54,
+      "confidence": 0.8,
+      "time": 63.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "con los ángeles, cantando en la Ciudad.",
+      "words": [
+        {
+          "word": "Con",
+          "start": 68.54,
+          "end": 68.88
+        },
+        {
+          "word": "los",
+          "start": 68.88,
+          "end": 69.82
+        },
+        {
+          "word": "ángeles",
+          "start": 69.82,
+          "end": 70.84
+        },
+        {
+          "word": "cantando",
+          "start": 70.84,
+          "end": 71.72
+        },
+        {
+          "word": "en",
+          "start": 71.72,
+          "end": 72.14
+        },
+        {
+          "word": "la",
+          "start": 72.14,
+          "end": 72.66
+        },
+        {
+          "word": "ciudad,",
+          "start": 72.66,
+          "end": 73.72
+        }
+      ],
+      "start": 68.54,
+      "end": 73.72,
+      "confidence": 1.0,
+      "time": 68.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Vamos al hogar!",
+      "words": [
+        {
+          "word": "vamos",
+          "start": 73.72,
+          "end": 74.7
+        },
+        {
+          "word": "a",
+          "start": 74.7,
+          "end": 76.66
+        },
+        {
+          "word": "lograr.",
+          "start": 76.66,
+          "end": 80.76
+        }
+      ],
+      "start": 73.72,
+      "end": 80.76,
+      "confidence": 0.879,
+      "time": 73.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Los antiguos profetas nos hablaron ya",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Los",
+          "start": 81.02,
+          "end": 81.64
+        },
+        {
+          "word": "antiguos",
+          "start": 81.64,
+          "end": 82.96
+        },
+        {
+          "word": "profetas",
+          "start": 82.96,
+          "end": 83.72
+        },
+        {
+          "word": "nos",
+          "start": 83.72,
+          "end": 84.38
+        },
+        {
+          "word": "hablaron",
+          "start": 84.38,
+          "end": 85.82
+        },
+        {
+          "word": "ya",
+          "start": 85.82,
+          "end": 86.28
+        }
+      ],
+      "start": 81.02,
+      "end": 86.28,
+      "confidence": 1.0,
+      "time": 81.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de las calles de oro de esa gran ciudad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 86.28,
+          "end": 86.84
+        },
+        {
+          "word": "las",
+          "start": 86.84,
+          "end": 87.72
+        },
+        {
+          "word": "calles",
+          "start": 87.72,
+          "end": 88.58
+        },
+        {
+          "word": "de",
+          "start": 88.58,
+          "end": 88.86
+        },
+        {
+          "word": "oro",
+          "start": 88.86,
+          "end": 89.24
+        }
+      ],
+      "start": 86.28,
+      "end": 92.86,
+      "confidence": 0.556,
+      "time": 86.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Por la fe hoy la podemos contemplar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Por",
+          "start": 93.5,
+          "end": 93.82
+        },
+        {
+          "word": "la",
+          "start": 93.82,
+          "end": 94.24
+        },
+        {
+          "word": "fe",
+          "start": 94.24,
+          "end": 94.78
+        },
+        {
+          "word": "hoy",
+          "start": 94.78,
+          "end": 95.28
+        },
+        {
+          "word": "la",
+          "start": 95.28,
+          "end": 95.74
+        },
+        {
+          "word": "podemos",
+          "start": 95.74,
+          "end": 96.62
+        },
+        {
+          "word": "contemplar",
+          "start": 96.62,
+          "end": 98.68
+        }
+      ],
+      "start": 93.5,
+      "end": 98.68,
+      "confidence": 1.0,
+      "time": 93.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con sus muros de oro y jaspe, sin igual.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "con",
+          "start": 98.68,
+          "end": 99.02
+        },
+        {
+          "word": "sus",
+          "start": 99.02,
+          "end": 99.44
+        },
+        {
+          "word": "muros",
+          "start": 99.44,
+          "end": 100.76
+        },
+        {
+          "word": "de",
+          "start": 100.76,
+          "end": 101.04
+        },
+        {
+          "word": "oro",
+          "start": 101.04,
+          "end": 101.26
+        },
+        {
+          "word": "y",
+          "start": 101.26,
+          "end": 101.54
+        },
+        {
+          "word": "jaspe",
+          "start": 101.54,
+          "end": 102.08
+        },
+        {
+          "word": "sin",
+          "start": 102.08,
+          "end": 103.16
+        },
+        {
+          "word": "igual.",
+          "start": 103.16,
+          "end": 105.04
+        }
+      ],
+      "start": 98.68,
+      "end": 105.04,
+      "confidence": 1.0,
+      "time": 98.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Vamos al hogar! ¡Vamos al hogar!",
+      "words": [
+        {
+          "word": "Vamos",
+          "start": 105.9,
+          "end": 106.52
+        },
+        {
+          "word": "a",
+          "start": 106.52,
+          "end": 108.34
+        },
+        {
+          "word": "alogar,",
+          "start": 108.34,
+          "end": 110.96
+        },
+        {
+          "word": "vamos",
+          "start": 110.96,
+          "end": 111.64
+        },
+        {
+          "word": "a",
+          "start": 111.64,
+          "end": 113.42
+        },
+        {
+          "word": "alogar,",
+          "start": 113.42,
+          "end": 116.42
+        }
+      ],
+      "start": 105.9,
+      "end": 116.42,
+      "confidence": 0.879,
+      "time": 105.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Ved, sus torres brillan con gran esplendor!",
+      "words": [
+        {
+          "word": "sus",
+          "start": 116.74,
+          "end": 117.16
+        },
+        {
+          "word": "torres",
+          "start": 117.16,
+          "end": 118.48
+        },
+        {
+          "word": "brillan",
+          "start": 118.48,
+          "end": 119.14
+        },
+        {
+          "word": "con",
+          "start": 119.14,
+          "end": 119.6
+        },
+        {
+          "word": "gran",
+          "start": 119.6,
+          "end": 120.4
+        },
+        {
+          "word": "esplendor,",
+          "start": 120.4,
+          "end": 121.82
+        }
+      ],
+      "start": 116.74,
+      "end": 121.82,
+      "confidence": 0.857,
+      "time": 116.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Ved la gloria cómo emana del Señor!",
+      "words": [
+        {
+          "word": "ven",
+          "start": 122.06,
+          "end": 122.26
+        },
+        {
+          "word": "la",
+          "start": 122.26,
+          "end": 122.64
+        },
+        {
+          "word": "gloria",
+          "start": 122.64,
+          "end": 123.92
+        },
+        {
+          "word": "como",
+          "start": 123.92,
+          "end": 124.5
+        },
+        {
+          "word": "emana",
+          "start": 124.5,
+          "end": 125.28
+        },
+        {
+          "word": "del",
+          "start": 125.28,
+          "end": 126.04
+        },
+        {
+          "word": "Señor,",
+          "start": 126.04,
+          "end": 127.06
+        }
+      ],
+      "start": 122.06,
+      "end": 127.06,
+      "confidence": 0.971,
+      "time": 122.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Estaremos juntos por la eternidad",
+      "words": [
+        {
+          "word": "Estaremos",
+          "start": 127.06,
+          "end": 129.28
+        },
+        {
+          "word": "juntos",
+          "start": 129.28,
+          "end": 130.0
+        },
+        {
+          "word": "por",
+          "start": 130.0,
+          "end": 130.52
+        },
+        {
+          "word": "la",
+          "start": 130.52,
+          "end": 130.9
+        },
+        {
+          "word": "eternidad",
+          "start": 130.9,
+          "end": 132.76
+        }
+      ],
+      "start": 127.06,
+      "end": 132.76,
+      "confidence": 1.0,
+      "time": 127.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "con los ángeles, cantando en la Ciudad.",
+      "words": [
+        {
+          "word": "Con",
+          "start": 132.76,
+          "end": 133.34
+        },
+        {
+          "word": "los",
+          "start": 133.34,
+          "end": 134.16
+        },
+        {
+          "word": "ángeles",
+          "start": 134.16,
+          "end": 135.26
+        },
+        {
+          "word": "cantando",
+          "start": 135.26,
+          "end": 136.06
+        },
+        {
+          "word": "en",
+          "start": 136.06,
+          "end": 136.52
+        },
+        {
+          "word": "la",
+          "start": 136.52,
+          "end": 137.0
+        },
+        {
+          "word": "ciudad",
+          "start": 137.0,
+          "end": 138.16
+        }
+      ],
+      "start": 132.76,
+      "end": 138.16,
+      "confidence": 1.0,
+      "time": 132.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Vamos al hogar!",
+      "words": [
+        {
+          "word": "Vamos",
+          "start": 138.16,
+          "end": 139.28
+        },
+        {
+          "word": "a",
+          "start": 139.28,
+          "end": 141.18
+        },
+        {
+          "word": "lograr",
+          "start": 141.18,
+          "end": 145.5
+        }
+      ],
+      "start": 138.16,
+      "end": 145.5,
+      "confidence": 0.879,
+      "time": 138.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Hermano, hermana, ¿estarás allá,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Hermano,",
+          "start": 145.5,
+          "end": 147.34
+        },
+        {
+          "word": "hermana,",
+          "start": 147.5,
+          "end": 148.32
+        },
+        {
+          "word": "esta",
+          "start": 148.58,
+          "end": 149.1
+        }
+      ],
+      "start": 145.5,
+      "end": 150.78,
+      "confidence": 0.735,
+      "time": 145.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en aquella tierra do pesar no habrá?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 150.78,
+          "end": 151.64
+        },
+        {
+          "word": "aquella",
+          "start": 151.64,
+          "end": 153.02
+        },
+        {
+          "word": "tierra",
+          "start": 153.02,
+          "end": 153.68
+        },
+        {
+          "word": "tropezar",
+          "start": 153.68,
+          "end": 155.14
+        },
+        {
+          "word": "no",
+          "start": 155.14,
+          "end": 155.66
+        },
+        {
+          "word": "habrá",
+          "start": 155.66,
+          "end": 157.38
+        }
+      ],
+      "start": 150.78,
+      "end": 157.38,
+      "confidence": 0.824,
+      "time": 150.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "El mensaje santo hoy acepta fiel,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "El",
+          "start": 157.38,
+          "end": 158.2
+        },
+        {
+          "word": "mensaje",
+          "start": 158.2,
+          "end": 159.76
+        },
+        {
+          "word": "santo",
+          "start": 159.76,
+          "end": 160.5
+        },
+        {
+          "word": "hoy",
+          "start": 160.5,
+          "end": 161.06
+        },
+        {
+          "word": "acepta",
+          "start": 161.06,
+          "end": 162.5
+        },
+        {
+          "word": "fiel",
+          "start": 162.5,
+          "end": 162.98
+        }
+      ],
+      "start": 157.38,
+      "end": 162.98,
+      "confidence": 1.0,
+      "time": 157.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y al venir el Salvador te llamará.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 162.98,
+          "end": 163.52
+        },
+        {
+          "word": "al",
+          "start": 163.52,
+          "end": 163.76
+        },
+        {
+          "word": "venir",
+          "start": 163.76,
+          "end": 164.7
+        },
+        {
+          "word": "el",
+          "start": 164.7,
+          "end": 165.42
+        },
+        {
+          "word": "Salvador",
+          "start": 165.42,
+          "end": 166.16
+        },
+        {
+          "word": "te",
+          "start": 166.16,
+          "end": 167.12
+        },
+        {
+          "word": "llamará",
+          "start": 167.12,
+          "end": 169.54
+        }
+      ],
+      "start": 162.98,
+      "end": 169.54,
+      "confidence": 1.0,
+      "time": 162.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Vamos al hogar! ¡Vamos al hogar!",
+      "words": [
+        {
+          "word": "Vamos",
+          "start": 169.54,
+          "end": 170.9
+        },
+        {
+          "word": "al",
+          "start": 170.9,
+          "end": 172.98
+        },
+        {
+          "word": "hogar,",
+          "start": 172.98,
+          "end": 175.44
+        },
+        {
+          "word": "vamos",
+          "start": 175.48,
+          "end": 176.16
+        },
+        {
+          "word": "al",
+          "start": 176.16,
+          "end": 178.26
+        },
+        {
+          "word": "hogar",
+          "start": 178.26,
+          "end": 180.8
+        }
+      ],
+      "start": 169.54,
+      "end": 180.8,
+      "confidence": 1.0,
+      "time": 169.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Ved, sus torres brillan con gran esplendor!",
+      "words": [
+        {
+          "word": "sus",
+          "start": 181.26,
+          "end": 181.7
+        },
+        {
+          "word": "torres",
+          "start": 181.7,
+          "end": 183.02
+        },
+        {
+          "word": "brillan",
+          "start": 183.02,
+          "end": 183.72
+        },
+        {
+          "word": "con",
+          "start": 183.72,
+          "end": 184.2
+        },
+        {
+          "word": "gran",
+          "start": 184.2,
+          "end": 184.74
+        },
+        {
+          "word": "esplendor",
+          "start": 184.74,
+          "end": 186.3
+        }
+      ],
+      "start": 181.26,
+      "end": 186.3,
+      "confidence": 0.857,
+      "time": 181.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Ved la gloria cómo emana del Señor!",
+      "words": [
+        {
+          "word": "Ved",
+          "start": 186.3,
+          "end": 186.96
+        },
+        {
+          "word": "la",
+          "start": 186.96,
+          "end": 187.24
+        },
+        {
+          "word": "gloria",
+          "start": 187.24,
+          "end": 188.46
+        },
+        {
+          "word": "como",
+          "start": 188.46,
+          "end": 189.06
+        },
+        {
+          "word": "emana",
+          "start": 189.06,
+          "end": 189.86
+        },
+        {
+          "word": "del",
+          "start": 189.86,
+          "end": 190.58
+        },
+        {
+          "word": "Señor",
+          "start": 190.58,
+          "end": 191.76
+        }
+      ],
+      "start": 186.3,
+      "end": 191.76,
+      "confidence": 1.0,
+      "time": 186.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Estaremos juntos por la eternidad",
+      "words": [
+        {
+          "word": "Estaremos",
+          "start": 191.76,
+          "end": 193.76
+        },
+        {
+          "word": "juntos",
+          "start": 193.76,
+          "end": 194.5
+        },
+        {
+          "word": "por",
+          "start": 194.5,
+          "end": 194.94
+        },
+        {
+          "word": "la",
+          "start": 194.94,
+          "end": 195.28
+        },
+        {
+          "word": "eternidad",
+          "start": 195.28,
+          "end": 197.18
+        }
+      ],
+      "start": 191.76,
+      "end": 197.18,
+      "confidence": 1.0,
+      "time": 191.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "con los ángeles, cantando en la Ciudad.",
+      "words": [
+        {
+          "word": "Con",
+          "start": 197.18,
+          "end": 197.88
+        },
+        {
+          "word": "los",
+          "start": 197.88,
+          "end": 198.38
+        },
+        {
+          "word": "ángeles",
+          "start": 198.38,
+          "end": 199.74
+        },
+        {
+          "word": "cantando",
+          "start": 199.74,
+          "end": 200.58
+        },
+        {
+          "word": "en",
+          "start": 200.58,
+          "end": 201.12
+        },
+        {
+          "word": "la",
+          "start": 201.12,
+          "end": 201.54
+        },
+        {
+          "word": "ciudad",
+          "start": 201.54,
+          "end": 202.66
+        }
+      ],
+      "start": 197.18,
+      "end": 202.66,
+      "confidence": 1.0,
+      "time": 197.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Vamos al hogar!",
+      "words": [
+        {
+          "word": "¡Vamos",
+          "start": 202.66,
+          "end": 203.82
+        },
+        {
+          "word": "a",
+          "start": 203.82,
+          "end": 204.6
+        }
+      ],
+      "start": 202.66,
+      "end": 206.84,
+      "confidence": 0.6,
+      "time": 202.66
+    }
+  ]
+}

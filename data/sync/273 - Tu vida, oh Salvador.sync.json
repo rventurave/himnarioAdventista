@@ -1,0 +1,699 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.81,
+  "language": "es",
+  "model": "medium",
+  "hymn": 273,
+  "source": "273 - Tu vida, oh Salvador.mp3",
+  "duration": 212.98,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tu vida, oh Salvador, diste aquí por mí;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 14.96,
+          "end": 16.36
+        },
+        {
+          "word": "vida",
+          "start": 16.36,
+          "end": 17.76
+        },
+        {
+          "word": "o",
+          "start": 17.76,
+          "end": 18.22
+        },
+        {
+          "word": "salvador,",
+          "start": 18.22,
+          "end": 20.56
+        },
+        {
+          "word": "diste",
+          "start": 21.22,
+          "end": 22.28
+        },
+        {
+          "word": "aquí",
+          "start": 22.28,
+          "end": 23.02
+        },
+        {
+          "word": "por",
+          "start": 23.02,
+          "end": 24.02
+        },
+        {
+          "word": "mi,",
+          "start": 24.02,
+          "end": 26.12
+        }
+      ],
+      "start": 14.96,
+      "end": 26.12,
+      "confidence": 0.975,
+      "time": 14.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y nada quiero yo hoy negarte a ti.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 26.12,
+          "end": 28.02
+        },
+        {
+          "word": "nada",
+          "start": 28.02,
+          "end": 29.34
+        },
+        {
+          "word": "quiero",
+          "start": 29.34,
+          "end": 30.8
+        },
+        {
+          "word": "yo",
+          "start": 30.8,
+          "end": 32.06
+        },
+        {
+          "word": "hoy",
+          "start": 32.06,
+          "end": 33.08
+        },
+        {
+          "word": "negarte",
+          "start": 33.08,
+          "end": 34.98
+        },
+        {
+          "word": "a",
+          "start": 34.98,
+          "end": 35.58
+        },
+        {
+          "word": "ti.",
+          "start": 35.58,
+          "end": 37.72
+        }
+      ],
+      "start": 26.12,
+      "end": 37.72,
+      "confidence": 1.0,
+      "time": 26.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Rendida mi alma está, servirte ansía ya;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Rendí",
+          "start": 39.0,
+          "end": 40.4
+        },
+        {
+          "word": "alma",
+          "start": 41.0,
+          "end": 41.98
+        },
+        {
+          "word": "está,",
+          "start": 42.42,
+          "end": 43.14
+        },
+        {
+          "word": "servíte",
+          "start": 44.32,
+          "end": 46.04
+        },
+        {
+          "word": "ansía",
+          "start": 46.04,
+          "end": 47.78
+        },
+        {
+          "word": "ya,",
+          "start": 47.78,
+          "end": 48.8
+        }
+      ],
+      "start": 39.0,
+      "end": 48.8,
+      "confidence": 0.843,
+      "time": 39.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "quiero un tributo dar de amor a ti.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 48.8,
+          "end": 51.22
+        },
+        {
+          "word": "un",
+          "start": 51.22,
+          "end": 51.66
+        },
+        {
+          "word": "tributo",
+          "start": 51.66,
+          "end": 53.62
+        },
+        {
+          "word": "dar",
+          "start": 53.62,
+          "end": 54.54
+        },
+        {
+          "word": "de",
+          "start": 54.54,
+          "end": 55.74
+        },
+        {
+          "word": "amor",
+          "start": 55.74,
+          "end": 57.36
+        },
+        {
+          "word": "a",
+          "start": 57.36,
+          "end": 57.96
+        },
+        {
+          "word": "Ti.",
+          "start": 57.96,
+          "end": 60.32
+        }
+      ],
+      "start": 48.8,
+      "end": 60.32,
+      "confidence": 1.0,
+      "time": 48.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Al Padre sin cesar ruegas tú por mí;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Al",
+          "start": 62.18,
+          "end": 63.28
+        },
+        {
+          "word": "Padre",
+          "start": 63.28,
+          "end": 64.62
+        },
+        {
+          "word": "sin",
+          "start": 64.62,
+          "end": 65.66
+        },
+        {
+          "word": "cesar,",
+          "start": 65.66,
+          "end": 67.38
+        },
+        {
+          "word": "ruegas",
+          "start": 68.24,
+          "end": 68.94
+        },
+        {
+          "word": "Tú",
+          "start": 68.94,
+          "end": 69.64
+        },
+        {
+          "word": "por",
+          "start": 69.64,
+          "end": 70.44
+        },
+        {
+          "word": "mí.",
+          "start": 70.44,
+          "end": 72.74
+        }
+      ],
+      "start": 62.18,
+      "end": 72.74,
+      "confidence": 1.0,
+      "time": 62.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "en mi debilidad yo confío en ti.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 72.74,
+          "end": 74.54
+        },
+        {
+          "word": "mi",
+          "start": 74.54,
+          "end": 75.38
+        },
+        {
+          "word": "debilidad",
+          "start": 75.38,
+          "end": 78.42
+        },
+        {
+          "word": "yo",
+          "start": 78.42,
+          "end": 79.68
+        },
+        {
+          "word": "confío",
+          "start": 79.68,
+          "end": 81.38
+        },
+        {
+          "word": "en",
+          "start": 81.38,
+          "end": 82.06
+        },
+        {
+          "word": "ti.",
+          "start": 82.06,
+          "end": 84.0
+        }
+      ],
+      "start": 72.74,
+      "end": 84.0,
+      "confidence": 1.0,
+      "time": 72.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Quiero mi cruz llevar, tu nombre declarar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 85.2,
+          "end": 86.6
+        },
+        {
+          "word": "mi",
+          "start": 86.6,
+          "end": 87.4
+        },
+        {
+          "word": "cruz",
+          "start": 87.4,
+          "end": 88.48
+        },
+        {
+          "word": "llevar,",
+          "start": 88.48,
+          "end": 89.82
+        },
+        {
+          "word": "tu",
+          "start": 91.26,
+          "end": 91.58
+        },
+        {
+          "word": "nombre",
+          "start": 91.58,
+          "end": 92.8
+        },
+        {
+          "word": "declarar",
+          "start": 92.8,
+          "end": 95.62
+        }
+      ],
+      "start": 85.2,
+      "end": 95.62,
+      "confidence": 1.0,
+      "time": 85.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y un canto entonar de amor a ti.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "un",
+          "start": 96.56,
+          "end": 97.24
+        },
+        {
+          "word": "canto",
+          "start": 97.24,
+          "end": 98.82
+        },
+        {
+          "word": "entonar",
+          "start": 98.82,
+          "end": 101.3
+        },
+        {
+          "word": "de",
+          "start": 101.3,
+          "end": 102.34
+        },
+        {
+          "word": "amor",
+          "start": 102.34,
+          "end": 103.94
+        },
+        {
+          "word": "a",
+          "start": 103.94,
+          "end": 104.48
+        },
+        {
+          "word": "ti.",
+          "start": 104.48,
+          "end": 107.0
+        }
+      ],
+      "start": 96.56,
+      "end": 107.0,
+      "confidence": 0.875,
+      "time": 96.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Ven a mi corazón, vive tú en mí;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Ven",
+          "start": 110.06,
+          "end": 111.44
+        },
+        {
+          "word": "a",
+          "start": 111.44,
+          "end": 112.16
+        },
+        {
+          "word": "mi",
+          "start": 112.16,
+          "end": 112.76
+        },
+        {
+          "word": "corazón,",
+          "start": 112.76,
+          "end": 115.2
+        },
+        {
+          "word": "vive",
+          "start": 115.54,
+          "end": 116.68
+        },
+        {
+          "word": "tu",
+          "start": 116.68,
+          "end": 117.86
+        },
+        {
+          "word": "en",
+          "start": 117.86,
+          "end": 118.64
+        },
+        {
+          "word": "mí,",
+          "start": 118.64,
+          "end": 120.68
+        }
+      ],
+      "start": 110.06,
+      "end": 120.68,
+      "confidence": 1.0,
+      "time": 110.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y cada día haré algo para ti.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 120.68,
+          "end": 122.52
+        },
+        {
+          "word": "cada",
+          "start": 122.52,
+          "end": 123.64
+        },
+        {
+          "word": "día",
+          "start": 123.64,
+          "end": 125.34
+        },
+        {
+          "word": "haré",
+          "start": 125.34,
+          "end": 126.78
+        },
+        {
+          "word": "algo",
+          "start": 126.78,
+          "end": 128.04
+        },
+        {
+          "word": "para",
+          "start": 128.04,
+          "end": 129.58
+        },
+        {
+          "word": "ti.",
+          "start": 129.58,
+          "end": 131.7
+        }
+      ],
+      "start": 120.68,
+      "end": 131.7,
+      "confidence": 1.0,
+      "time": 120.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Al pobre algún favor, curar algún dolor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Al",
+          "start": 133.3,
+          "end": 133.92
+        },
+        {
+          "word": "pobre",
+          "start": 133.92,
+          "end": 134.86
+        },
+        {
+          "word": "algún",
+          "start": 134.86,
+          "end": 136.26
+        },
+        {
+          "word": "favor,",
+          "start": 136.26,
+          "end": 137.74
+        },
+        {
+          "word": "curar",
+          "start": 139.16,
+          "end": 140.66
+        },
+        {
+          "word": "algún",
+          "start": 140.66,
+          "end": 142.06
+        },
+        {
+          "word": "dolor,",
+          "start": 142.06,
+          "end": 143.34
+        }
+      ],
+      "start": 133.3,
+      "end": 143.34,
+      "confidence": 1.0,
+      "time": 133.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "salvar a un pecador, por amor a ti.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "salvará",
+          "start": 145.08,
+          "end": 146.48
+        },
+        {
+          "word": "a",
+          "start": 146.48,
+          "end": 147.38
+        },
+        {
+          "word": "un",
+          "start": 147.38,
+          "end": 147.38
+        },
+        {
+          "word": "pecador",
+          "start": 147.38,
+          "end": 149.2
+        },
+        {
+          "word": "por",
+          "start": 149.2,
+          "end": 150.32
+        },
+        {
+          "word": "amor",
+          "start": 150.32,
+          "end": 152.0
+        },
+        {
+          "word": "a",
+          "start": 152.0,
+          "end": 152.68
+        },
+        {
+          "word": "ti.",
+          "start": 152.68,
+          "end": 155.06
+        }
+      ],
+      "start": 145.08,
+      "end": 155.06,
+      "confidence": 0.993,
+      "time": 145.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Ven a mi corazón, vive tú en mí;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 166.28,
+          "end": 166.8
+        },
+        {
+          "word": "en",
+          "start": 171.18,
+          "end": 171.24
+        }
+      ],
+      "start": 166.28,
+      "end": 179.94,
+      "confidence": 0.25,
+      "time": 166.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "y cada día haré algo para ti.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 180.5,
+          "end": 181.9
+        },
+        {
+          "word": "cuando",
+          "start": 181.9,
+          "end": 182.86
+        },
+        {
+          "word": "daré",
+          "start": 190.22,
+          "end": 190.92
+        }
+      ],
+      "start": 180.5,
+      "end": 190.92,
+      "confidence": 0.373,
+      "time": 180.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Al pobre algún favor, curar algún dolor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Flor",
+          "start": 192.52,
+          "end": 193.92
+        }
+      ],
+      "start": 192.52,
+      "end": 198.26,
+      "confidence": 0.114,
+      "time": 192.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "salvar a un pecador, por amor a ti.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "por",
+          "start": 198.26,
+          "end": 198.42
+        },
+        {
+          "word": "amor",
+          "start": 198.42,
+          "end": 200.3
+        },
+        {
+          "word": "a",
+          "start": 200.3,
+          "end": 200.88
+        },
+        {
+          "word": "ti.",
+          "start": 200.88,
+          "end": 203.3
+        }
+      ],
+      "start": 198.26,
+      "end": 203.3,
+      "confidence": 0.5,
+      "time": 198.26
+    }
+  ]
+}

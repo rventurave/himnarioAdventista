@@ -1,0 +1,808 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.982,
+  "language": "es",
+  "model": "medium",
+  "hymn": 566,
+  "source": "566 - Centinelas del Maestro.mp3",
+  "duration": 169.59,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Centinelas del Maestro,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Sentinelas",
+          "start": 43.94,
+          "end": 45.2
+        },
+        {
+          "word": "del",
+          "start": 45.2,
+          "end": 45.62
+        },
+        {
+          "word": "Maestro,",
+          "start": 45.62,
+          "end": 48.16
+        }
+      ],
+      "start": 43.94,
+      "end": 49.24,
+      "confidence": 0.98,
+      "time": 43.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por doquiera pregonad",
+      "verse": 1,
+      "words": [
+        {
+          "word": "por",
+          "start": 49.24,
+          "end": 49.44
+        },
+        {
+          "word": "doquiera",
+          "start": 49.44,
+          "end": 50.26
+        },
+        {
+          "word": "pregonar,",
+          "start": 50.26,
+          "end": 53.32
+        }
+      ],
+      "start": 49.24,
+      "end": 53.78,
+      "confidence": 0.975,
+      "time": 49.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de la cruz las buenas nuevas,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 53.78,
+          "end": 54.48
+        },
+        {
+          "word": "la",
+          "start": 54.48,
+          "end": 54.86
+        },
+        {
+          "word": "cruz",
+          "start": 54.86,
+          "end": 55.14
+        },
+        {
+          "word": "las",
+          "start": 55.14,
+          "end": 55.5
+        },
+        {
+          "word": "buenas",
+          "start": 55.5,
+          "end": 56.06
+        },
+        {
+          "word": "nuevas",
+          "start": 56.06,
+          "end": 57.88
+        }
+      ],
+      "start": 53.78,
+      "end": 57.88,
+      "confidence": 1.0,
+      "time": 53.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de Jesús y su bondad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 57.88,
+          "end": 59.72
+        },
+        {
+          "word": "Jesucristo,",
+          "start": 59.72,
+          "end": 59.98
+        },
+        {
+          "word": "y",
+          "start": 59.98,
+          "end": 60.42
+        },
+        {
+          "word": "su",
+          "start": 60.42,
+          "end": 60.9
+        },
+        {
+          "word": "bondad,",
+          "start": 60.9,
+          "end": 63.7
+        }
+      ],
+      "start": 57.88,
+      "end": 64.7,
+      "confidence": 0.96,
+      "time": 57.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Centinelas del Maestro,",
+      "words": [
+        {
+          "word": "sentinelas",
+          "start": 64.7,
+          "end": 65.64
+        },
+        {
+          "word": "del",
+          "start": 65.64,
+          "end": 66.1
+        },
+        {
+          "word": "maestro,",
+          "start": 66.1,
+          "end": 68.6
+        }
+      ],
+      "start": 64.7,
+      "end": 68.92,
+      "confidence": 0.98,
+      "time": 64.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "la trompeta haced oír;",
+      "words": [
+        {
+          "word": "la",
+          "start": 68.92,
+          "end": 69.94
+        },
+        {
+          "word": "trompeta",
+          "start": 69.94,
+          "end": 70.86
+        },
+        {
+          "word": "haced",
+          "start": 70.86,
+          "end": 71.22
+        },
+        {
+          "word": "oír,",
+          "start": 71.22,
+          "end": 73.58
+        }
+      ],
+      "start": 68.92,
+      "end": 74.88,
+      "confidence": 1.0,
+      "time": 68.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y que el hombre que la escuche,",
+      "words": [
+        {
+          "word": "y",
+          "start": 74.88,
+          "end": 75.02
+        },
+        {
+          "word": "que",
+          "start": 75.02,
+          "end": 75.26
+        },
+        {
+          "word": "el",
+          "start": 75.26,
+          "end": 75.44
+        },
+        {
+          "word": "hombre",
+          "start": 75.44,
+          "end": 75.84
+        },
+        {
+          "word": "que",
+          "start": 75.84,
+          "end": 76.2
+        },
+        {
+          "word": "la",
+          "start": 76.2,
+          "end": 76.68
+        },
+        {
+          "word": "escuche,",
+          "start": 76.68,
+          "end": 78.72
+        }
+      ],
+      "start": 74.88,
+      "end": 78.72,
+      "confidence": 1.0,
+      "time": 74.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "vida pueda recibir.",
+      "words": [
+        {
+          "word": "vida",
+          "start": 78.72,
+          "end": 79.62
+        },
+        {
+          "word": "pueda",
+          "start": 79.62,
+          "end": 80.32
+        },
+        {
+          "word": "recibir.",
+          "start": 80.32,
+          "end": 83.64
+        }
+      ],
+      "start": 78.72,
+      "end": 83.64,
+      "confidence": 1.0,
+      "time": 78.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Por la cima de los montes",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Por",
+          "start": 85.0,
+          "end": 85.14
+        },
+        {
+          "word": "la",
+          "start": 85.14,
+          "end": 85.6
+        },
+        {
+          "word": "cima",
+          "start": 85.6,
+          "end": 86.06
+        },
+        {
+          "word": "de",
+          "start": 86.06,
+          "end": 86.54
+        },
+        {
+          "word": "los",
+          "start": 86.54,
+          "end": 87.52
+        },
+        {
+          "word": "montes,",
+          "start": 87.52,
+          "end": 89.1
+        }
+      ],
+      "start": 85.0,
+      "end": 89.1,
+      "confidence": 1.0,
+      "time": 85.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "por los valles, por el mar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "por",
+          "start": 89.6,
+          "end": 90.34
+        },
+        {
+          "word": "los",
+          "start": 90.34,
+          "end": 90.78
+        },
+        {
+          "word": "valles,",
+          "start": 90.78,
+          "end": 91.18
+        },
+        {
+          "word": "por",
+          "start": 91.18,
+          "end": 91.66
+        },
+        {
+          "word": "el",
+          "start": 91.66,
+          "end": 92.1
+        },
+        {
+          "word": "mar,",
+          "start": 92.1,
+          "end": 94.16
+        }
+      ],
+      "start": 89.6,
+      "end": 94.16,
+      "confidence": 1.0,
+      "time": 89.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "por doquier el evangelio",
+      "verse": 2,
+      "words": [
+        {
+          "word": "por",
+          "start": 95.24,
+          "end": 95.4
+        },
+        {
+          "word": "doquier",
+          "start": 95.4,
+          "end": 96.1
+        },
+        {
+          "word": "el",
+          "start": 96.1,
+          "end": 96.64
+        },
+        {
+          "word": "Evangelio,",
+          "start": 96.64,
+          "end": 98.72
+        }
+      ],
+      "start": 95.24,
+      "end": 98.72,
+      "confidence": 1.0,
+      "time": 95.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hoy os toca proclamar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "hoy",
+          "start": 100.24,
+          "end": 100.5
+        },
+        {
+          "word": "os",
+          "start": 100.5,
+          "end": 100.9
+        },
+        {
+          "word": "toca",
+          "start": 100.9,
+          "end": 101.38
+        },
+        {
+          "word": "proclamar.",
+          "start": 101.38,
+          "end": 103.72
+        }
+      ],
+      "start": 100.24,
+      "end": 103.72,
+      "confidence": 1.0,
+      "time": 100.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Centinelas del Maestro,",
+      "words": [
+        {
+          "word": "Sentimelas",
+          "start": 105.18,
+          "end": 106.54
+        },
+        {
+          "word": "del",
+          "start": 106.54,
+          "end": 106.94
+        },
+        {
+          "word": "Maestro,",
+          "start": 106.94,
+          "end": 109.38
+        }
+      ],
+      "start": 105.18,
+      "end": 109.78,
+      "confidence": 0.96,
+      "time": 105.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "la trompeta haced oír;",
+      "words": [
+        {
+          "word": "la",
+          "start": 109.78,
+          "end": 110.76
+        },
+        {
+          "word": "trompeta",
+          "start": 110.76,
+          "end": 111.72
+        },
+        {
+          "word": "haced",
+          "start": 111.72,
+          "end": 112.08
+        },
+        {
+          "word": "oír,",
+          "start": 112.08,
+          "end": 113.72
+        }
+      ],
+      "start": 109.78,
+      "end": 113.72,
+      "confidence": 1.0,
+      "time": 109.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y que el hombre que la escuche,",
+      "words": [
+        {
+          "word": "y",
+          "start": 115.12,
+          "end": 115.84
+        },
+        {
+          "word": "que",
+          "start": 115.84,
+          "end": 116.1
+        },
+        {
+          "word": "el",
+          "start": 116.1,
+          "end": 116.3
+        },
+        {
+          "word": "hombre",
+          "start": 116.3,
+          "end": 116.72
+        },
+        {
+          "word": "que",
+          "start": 116.72,
+          "end": 117.08
+        },
+        {
+          "word": "la",
+          "start": 117.08,
+          "end": 117.48
+        },
+        {
+          "word": "escuche,",
+          "start": 117.48,
+          "end": 119.78
+        }
+      ],
+      "start": 115.12,
+      "end": 120.18,
+      "confidence": 1.0,
+      "time": 115.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "vida pueda recibir.",
+      "words": [
+        {
+          "word": "vida",
+          "start": 120.18,
+          "end": 120.5
+        },
+        {
+          "word": "pueda",
+          "start": 120.5,
+          "end": 121.18
+        },
+        {
+          "word": "recibir.",
+          "start": 121.18,
+          "end": 123.66
+        }
+      ],
+      "start": 120.18,
+      "end": 123.66,
+      "confidence": 1.0,
+      "time": 120.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "A los antros del pecado,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "A",
+          "start": 123.66,
+          "end": 125.82
+        },
+        {
+          "word": "los",
+          "start": 125.82,
+          "end": 126.34
+        },
+        {
+          "word": "santros",
+          "start": 126.34,
+          "end": 126.92
+        },
+        {
+          "word": "del",
+          "start": 126.92,
+          "end": 127.32
+        },
+        {
+          "word": "pecado,",
+          "start": 127.32,
+          "end": 129.84
+        }
+      ],
+      "start": 123.66,
+      "end": 130.5,
+      "confidence": 0.991,
+      "time": 123.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "dondequiera haya aflicción,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "donde",
+          "start": 130.5,
+          "end": 131.3
+        },
+        {
+          "word": "haya",
+          "start": 131.96,
+          "end": 132.42
+        },
+        {
+          "word": "aflicción,",
+          "start": 132.42,
+          "end": 134.98
+        }
+      ],
+      "start": 130.5,
+      "end": 135.88,
+      "confidence": 0.98,
+      "time": 130.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "id con las alegres nuevas",
+      "verse": 3,
+      "words": [
+        {
+          "word": "id",
+          "start": 135.88,
+          "end": 136.18
+        },
+        {
+          "word": "con",
+          "start": 136.18,
+          "end": 136.6
+        },
+        {
+          "word": "las",
+          "start": 136.6,
+          "end": 137.12
+        },
+        {
+          "word": "alegres",
+          "start": 137.12,
+          "end": 137.8
+        },
+        {
+          "word": "nuevas",
+          "start": 137.8,
+          "end": 139.94
+        }
+      ],
+      "start": 135.88,
+      "end": 139.94,
+      "confidence": 1.0,
+      "time": 135.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "de la plena redención.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 139.94,
+          "end": 141.34
+        },
+        {
+          "word": "la",
+          "start": 141.34,
+          "end": 141.72
+        },
+        {
+          "word": "plena",
+          "start": 141.72,
+          "end": 142.34
+        },
+        {
+          "word": "redención.",
+          "start": 142.34,
+          "end": 145.04
+        }
+      ],
+      "start": 139.94,
+      "end": 145.04,
+      "confidence": 1.0,
+      "time": 139.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Centinelas del Maestro,",
+      "words": [
+        {
+          "word": "Sendímelas",
+          "start": 145.04,
+          "end": 147.42
+        },
+        {
+          "word": "del",
+          "start": 147.42,
+          "end": 147.76
+        },
+        {
+          "word": "maestro,",
+          "start": 147.76,
+          "end": 150.28
+        }
+      ],
+      "start": 145.04,
+      "end": 151.22,
+      "confidence": 0.94,
+      "time": 145.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "la trompeta haced oír;",
+      "words": [
+        {
+          "word": "la",
+          "start": 151.22,
+          "end": 151.54
+        },
+        {
+          "word": "trompeta",
+          "start": 151.54,
+          "end": 152.68
+        },
+        {
+          "word": "ir,",
+          "start": 154.28,
+          "end": 155.46
+        }
+      ],
+      "start": 151.22,
+      "end": 155.46,
+      "confidence": 0.72,
+      "time": 151.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y que el hombre que la escuche,",
+      "words": [
+        {
+          "word": "y",
+          "start": 156.64,
+          "end": 156.76
+        },
+        {
+          "word": "que",
+          "start": 156.76,
+          "end": 157.0
+        },
+        {
+          "word": "el",
+          "start": 157.0,
+          "end": 157.16
+        },
+        {
+          "word": "hombre",
+          "start": 157.16,
+          "end": 157.5
+        },
+        {
+          "word": "que",
+          "start": 157.5,
+          "end": 157.9
+        },
+        {
+          "word": "la",
+          "start": 157.9,
+          "end": 158.4
+        },
+        {
+          "word": "escuche,",
+          "start": 158.4,
+          "end": 160.48
+        }
+      ],
+      "start": 156.64,
+      "end": 160.8,
+      "confidence": 1.0,
+      "time": 156.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "vida pueda recibir.",
+      "words": [
+        {
+          "word": "vida",
+          "start": 160.8,
+          "end": 161.46
+        },
+        {
+          "word": "pueda",
+          "start": 161.46,
+          "end": 162.32
+        },
+        {
+          "word": "recibir.",
+          "start": 162.32,
+          "end": 164.34
+        }
+      ],
+      "start": 160.8,
+      "end": 164.34,
+      "confidence": 1.0,
+      "time": 160.8
+    }
+  ]
+}

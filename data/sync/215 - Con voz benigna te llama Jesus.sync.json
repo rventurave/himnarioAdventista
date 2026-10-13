@@ -1,0 +1,750 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.938,
+  "language": "es",
+  "model": "medium",
+  "hymn": 215,
+  "source": "215 - Con voz benigna te llama Jesus.mp3",
+  "duration": 123.04,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Con voz benigna te llama Jesús:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Con",
+          "start": 9.1,
+          "end": 10.34
+        },
+        {
+          "word": "voz",
+          "start": 10.34,
+          "end": 10.78
+        },
+        {
+          "word": "venida",
+          "start": 10.78,
+          "end": 11.7
+        },
+        {
+          "word": "te",
+          "start": 11.7,
+          "end": 12.36
+        },
+        {
+          "word": "llama",
+          "start": 12.36,
+          "end": 12.84
+        },
+        {
+          "word": "Jesús,",
+          "start": 12.84,
+          "end": 14.34
+        }
+      ],
+      "start": 9.1,
+      "end": 14.84,
+      "confidence": 0.962,
+      "time": 9.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "invitación de puro amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "imitación",
+          "start": 14.84,
+          "end": 16.74
+        },
+        {
+          "word": "de",
+          "start": 16.74,
+          "end": 17.32
+        },
+        {
+          "word": "puro",
+          "start": 17.32,
+          "end": 17.9
+        },
+        {
+          "word": "amor.",
+          "start": 17.9,
+          "end": 18.74
+        }
+      ],
+      "start": 14.84,
+      "end": 18.74,
+      "confidence": 0.976,
+      "time": 14.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Por qué le dejas en vano llamar?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "porque",
+          "start": 18.74,
+          "end": 19.58
+        },
+        {
+          "word": "le",
+          "start": 19.58,
+          "end": 20.14
+        },
+        {
+          "word": "dejas",
+          "start": 20.14,
+          "end": 20.98
+        },
+        {
+          "word": "en",
+          "start": 20.98,
+          "end": 21.42
+        },
+        {
+          "word": "mano",
+          "start": 21.42,
+          "end": 21.94
+        },
+        {
+          "word": "llamar,",
+          "start": 21.94,
+          "end": 23.4
+        }
+      ],
+      "start": 18.74,
+      "end": 23.82,
+      "confidence": 0.827,
+      "time": 18.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Sordo serás, pecador?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sordo",
+          "start": 23.82,
+          "end": 24.22
+        },
+        {
+          "word": "serás",
+          "start": 24.22,
+          "end": 25.14
+        },
+        {
+          "word": "pecador.",
+          "start": 25.14,
+          "end": 27.82
+        }
+      ],
+      "start": 23.82,
+      "end": 27.82,
+      "confidence": 1.0,
+      "time": 23.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Llámate hoy, llámate hoy,",
+      "words": [
+        {
+          "word": "Lámate",
+          "start": 29.88,
+          "end": 31.08
+        },
+        {
+          "word": "hoy,",
+          "start": 31.08,
+          "end": 32.28
+        },
+        {
+          "word": "lámate",
+          "start": 32.58,
+          "end": 34.78
+        },
+        {
+          "word": "hoy,",
+          "start": 34.78,
+          "end": 36.7
+        }
+      ],
+      "start": 29.88,
+      "end": 37.02,
+      "confidence": 0.977,
+      "time": 29.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "hoy ven a Cristo y dile:",
+      "words": [
+        {
+          "word": "hoy",
+          "start": 37.02,
+          "end": 38.54
+        },
+        {
+          "word": "ven",
+          "start": 38.54,
+          "end": 39.12
+        },
+        {
+          "word": "a",
+          "start": 39.12,
+          "end": 39.48
+        },
+        {
+          "word": "Cristo",
+          "start": 39.48,
+          "end": 41.1
+        },
+        {
+          "word": "y",
+          "start": 41.1,
+          "end": 41.84
+        },
+        {
+          "word": "de",
+          "start": 42.2,
+          "end": 42.48
+        }
+      ],
+      "start": 37.02,
+      "end": 42.48,
+      "confidence": 0.967,
+      "time": 37.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "\"Mi alma te doy\".",
+      "words": [
+        {
+          "word": "mi",
+          "start": 42.48,
+          "end": 42.96
+        },
+        {
+          "word": "alma",
+          "start": 42.96,
+          "end": 43.56
+        },
+        {
+          "word": "te",
+          "start": 43.56,
+          "end": 44.16
+        },
+        {
+          "word": "doy.",
+          "start": 44.16,
+          "end": 46.54
+        }
+      ],
+      "start": 42.48,
+      "end": 46.54,
+      "confidence": 1.0,
+      "time": 42.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "A los cansados invita Jesús;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 46.54,
+          "end": 47.46
+        },
+        {
+          "word": "los",
+          "start": 47.46,
+          "end": 47.82
+        },
+        {
+          "word": "cansados",
+          "start": 47.82,
+          "end": 48.98
+        },
+        {
+          "word": "invita",
+          "start": 48.98,
+          "end": 49.96
+        },
+        {
+          "word": "Jesús,",
+          "start": 50.18,
+          "end": 51.34
+        }
+      ],
+      "start": 46.54,
+      "end": 51.9,
+      "confidence": 1.0,
+      "time": 46.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "él ve su afán, siente el dolor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 51.9,
+          "end": 52.02
+        },
+        {
+          "word": "a",
+          "start": 52.64,
+          "end": 53.02
+        },
+        {
+          "word": "siente",
+          "start": 53.68,
+          "end": 54.42
+        },
+        {
+          "word": "el",
+          "start": 54.42,
+          "end": 54.7
+        },
+        {
+          "word": "dolor,",
+          "start": 54.7,
+          "end": 55.68
+        }
+      ],
+      "start": 51.9,
+      "end": 56.38,
+      "confidence": 0.706,
+      "time": 51.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Tráele tu carga; te la quitará,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tráele",
+          "start": 56.38,
+          "end": 56.8
+        },
+        {
+          "word": "tu",
+          "start": 56.8,
+          "end": 57.18
+        },
+        {
+          "word": "carga,",
+          "start": 57.18,
+          "end": 57.76
+        },
+        {
+          "word": "te",
+          "start": 58.14,
+          "end": 58.3
+        },
+        {
+          "word": "la",
+          "start": 58.3,
+          "end": 58.72
+        },
+        {
+          "word": "quitará,",
+          "start": 58.72,
+          "end": 60.26
+        }
+      ],
+      "start": 56.38,
+      "end": 60.48,
+      "confidence": 1.0,
+      "time": 56.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "te sostendrá tu Señor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "te",
+          "start": 60.48,
+          "end": 61.1
+        },
+        {
+          "word": "sostendrá",
+          "start": 61.1,
+          "end": 62.06
+        },
+        {
+          "word": "tu",
+          "start": 62.06,
+          "end": 62.48
+        },
+        {
+          "word": "Señor.",
+          "start": 62.48,
+          "end": 64.76
+        }
+      ],
+      "start": 60.48,
+      "end": 64.76,
+      "confidence": 1.0,
+      "time": 60.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Llámate hoy, llámate hoy,",
+      "words": [
+        {
+          "word": "Llámate",
+          "start": 64.76,
+          "end": 67.28
+        },
+        {
+          "word": "hoy,",
+          "start": 67.28,
+          "end": 69.28
+        },
+        {
+          "word": "llámate",
+          "start": 69.54,
+          "end": 71.68
+        },
+        {
+          "word": "hoy,",
+          "start": 71.68,
+          "end": 73.86
+        }
+      ],
+      "start": 64.76,
+      "end": 74.3,
+      "confidence": 1.0,
+      "time": 64.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "hoy ven a Cristo y dile:",
+      "words": [
+        {
+          "word": "hoy",
+          "start": 74.3,
+          "end": 75.58
+        },
+        {
+          "word": "ven",
+          "start": 75.58,
+          "end": 76.08
+        },
+        {
+          "word": "a",
+          "start": 76.08,
+          "end": 76.48
+        },
+        {
+          "word": "Cristo",
+          "start": 76.48,
+          "end": 78.08
+        },
+        {
+          "word": "y",
+          "start": 78.08,
+          "end": 78.78
+        },
+        {
+          "word": "dile",
+          "start": 78.78,
+          "end": 79.32
+        }
+      ],
+      "start": 74.3,
+      "end": 79.32,
+      "confidence": 1.0,
+      "time": 74.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "\"Mi alma te doy\".",
+      "words": [
+        {
+          "word": "mi",
+          "start": 79.32,
+          "end": 79.94
+        },
+        {
+          "word": "alma",
+          "start": 79.94,
+          "end": 80.82
+        },
+        {
+          "word": "te",
+          "start": 80.82,
+          "end": 81.52
+        },
+        {
+          "word": "doy.",
+          "start": 81.52,
+          "end": 83.16
+        }
+      ],
+      "start": 79.32,
+      "end": 83.16,
+      "confidence": 1.0,
+      "time": 79.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Siempre aguardándote mira Jesús.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Siempre",
+          "start": 83.92,
+          "end": 84.74
+        },
+        {
+          "word": "aguardando",
+          "start": 84.74,
+          "end": 85.96
+        },
+        {
+          "word": "mí",
+          "start": 86.44,
+          "end": 86.86
+        },
+        {
+          "word": "Jesús,",
+          "start": 87.2,
+          "end": 88.44
+        }
+      ],
+      "start": 83.92,
+      "end": 88.98,
+      "confidence": 0.97,
+      "time": 83.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Tanto esperar, con tanto amor!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tanto",
+          "start": 88.98,
+          "end": 89.22
+        },
+        {
+          "word": "esperar",
+          "start": 89.22,
+          "end": 90.76
+        },
+        {
+          "word": "con",
+          "start": 90.76,
+          "end": 91.4
+        },
+        {
+          "word": "tanto",
+          "start": 91.4,
+          "end": 91.82
+        },
+        {
+          "word": "amor,",
+          "start": 91.82,
+          "end": 92.94
+        }
+      ],
+      "start": 88.98,
+      "end": 92.94,
+      "confidence": 1.0,
+      "time": 88.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Ven, oh cargado, trayendo a sus pies",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Ven",
+          "start": 92.94,
+          "end": 93.66
+        },
+        {
+          "word": "o",
+          "start": 93.66,
+          "end": 94.04
+        },
+        {
+          "word": "cargado",
+          "start": 94.04,
+          "end": 94.92
+        },
+        {
+          "word": "trayendo",
+          "start": 94.92,
+          "end": 95.94
+        },
+        {
+          "word": "a",
+          "start": 95.94,
+          "end": 96.24
+        },
+        {
+          "word": "sus",
+          "start": 96.24,
+          "end": 96.56
+        },
+        {
+          "word": "pies",
+          "start": 96.56,
+          "end": 97.44
+        }
+      ],
+      "start": 92.94,
+      "end": 97.44,
+      "confidence": 0.971,
+      "time": 92.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "tu tentación, tu dolor!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tu",
+          "start": 97.44,
+          "end": 98.02
+        },
+        {
+          "word": "tentación,",
+          "start": 98.02,
+          "end": 99.16
+        },
+        {
+          "word": "tu",
+          "start": 99.54,
+          "end": 99.62
+        },
+        {
+          "word": "dolor.",
+          "start": 99.62,
+          "end": 101.88
+        }
+      ],
+      "start": 97.44,
+      "end": 101.88,
+      "confidence": 1.0,
+      "time": 97.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Llámate hoy, llámate hoy,",
+      "words": [
+        {
+          "word": "Llámate",
+          "start": 103.04,
+          "end": 104.44
+        },
+        {
+          "word": "hoy,",
+          "start": 104.44,
+          "end": 106.32
+        },
+        {
+          "word": "llámate",
+          "start": 106.84,
+          "end": 108.96
+        },
+        {
+          "word": "hoy.",
+          "start": 108.96,
+          "end": 110.86
+        }
+      ],
+      "start": 103.04,
+      "end": 110.86,
+      "confidence": 1.0,
+      "time": 103.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "hoy ven a Cristo y dile:",
+      "words": [
+        {
+          "word": "al",
+          "start": 113.14,
+          "end": 113.44
+        },
+        {
+          "word": "Cristo",
+          "start": 113.44,
+          "end": 115.16
+        },
+        {
+          "word": "y",
+          "start": 115.16,
+          "end": 116.02
+        },
+        {
+          "word": "dile",
+          "start": 116.02,
+          "end": 116.48
+        }
+      ],
+      "start": 113.14,
+      "end": 116.48,
+      "confidence": 0.633,
+      "time": 113.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "\"Mi alma te doy\".",
+      "words": [
+        {
+          "word": "mi",
+          "start": 116.48,
+          "end": 117.12
+        },
+        {
+          "word": "alma",
+          "start": 117.12,
+          "end": 117.96
+        },
+        {
+          "word": "te",
+          "start": 117.96,
+          "end": 118.62
+        },
+        {
+          "word": "doy.",
+          "start": 118.62,
+          "end": 120.94
+        }
+      ],
+      "start": 116.48,
+      "end": 120.94,
+      "confidence": 1.0,
+      "time": 116.48
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.996,
+  "language": "es",
+  "model": "medium",
+  "hymn": 585,
+  "source": "585 - De rodillas partimos hoy el pan.mp3",
+  "duration": 186.59,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "De rodillas partimos hoy el pan;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "De",
+          "start": 30.0,
+          "end": 30.98
+        },
+        {
+          "word": "rodillas",
+          "start": 30.98,
+          "end": 34.6
+        },
+        {
+          "word": "partimos",
+          "start": 34.6,
+          "end": 36.68
+        },
+        {
+          "word": "hoy",
+          "start": 36.68,
+          "end": 37.56
+        },
+        {
+          "word": "el",
+          "start": 37.56,
+          "end": 38.36
+        },
+        {
+          "word": "pan,",
+          "start": 38.36,
+          "end": 41.56
+        }
+      ],
+      "start": 30.0,
+      "end": 41.56,
+      "confidence": 1.0,
+      "time": 30.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de rodillas partimos hoy el pan.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 42.4,
+          "end": 43.64
+        },
+        {
+          "word": "rodillas",
+          "start": 43.64,
+          "end": 46.98
+        },
+        {
+          "word": "partimos",
+          "start": 46.98,
+          "end": 49.08
+        },
+        {
+          "word": "hoy",
+          "start": 49.08,
+          "end": 50.16
+        },
+        {
+          "word": "el",
+          "start": 50.16,
+          "end": 51.02
+        },
+        {
+          "word": "pan,",
+          "start": 51.02,
+          "end": 54.58
+        }
+      ],
+      "start": 42.4,
+      "end": 54.58,
+      "confidence": 1.0,
+      "time": 42.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Y contritos aquí,",
+      "words": [
+        {
+          "word": "Y",
+          "start": 54.58,
+          "end": 56.32
+        },
+        {
+          "word": "con",
+          "start": 56.32,
+          "end": 57.28
+        },
+        {
+          "word": "aquí",
+          "start": 59.42,
+          "end": 61.44
+        }
+      ],
+      "start": 54.58,
+      "end": 61.44,
+      "confidence": 0.98,
+      "time": 54.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "nos postramos ante ti;",
+      "words": [
+        {
+          "word": "nos",
+          "start": 61.44,
+          "end": 62.68
+        },
+        {
+          "word": "postramos",
+          "start": 62.68,
+          "end": 64.6
+        },
+        {
+          "word": "ante",
+          "start": 64.6,
+          "end": 66.06
+        },
+        {
+          "word": "ti,",
+          "start": 66.06,
+          "end": 68.18
+        }
+      ],
+      "start": 61.44,
+      "end": 68.26,
+      "confidence": 1.0,
+      "time": 61.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Señor, escucha nuestra voz.",
+      "words": [
+        {
+          "word": "Señor,",
+          "start": 68.26,
+          "end": 70.86
+        },
+        {
+          "word": "escucha",
+          "start": 72.48,
+          "end": 74.62
+        },
+        {
+          "word": "nuestra",
+          "start": 74.62,
+          "end": 75.88
+        },
+        {
+          "word": "voz.",
+          "start": 75.88,
+          "end": 79.98
+        }
+      ],
+      "start": 68.26,
+      "end": 79.98,
+      "confidence": 1.0,
+      "time": 68.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "De la copa bebemos hoy, Señor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "De",
+          "start": 79.98,
+          "end": 81.68
+        },
+        {
+          "word": "la",
+          "start": 81.68,
+          "end": 83.52
+        },
+        {
+          "word": "copa",
+          "start": 83.52,
+          "end": 85.16
+        },
+        {
+          "word": "bebemos",
+          "start": 85.16,
+          "end": 87.1
+        },
+        {
+          "word": "hoy,",
+          "start": 87.1,
+          "end": 87.86
+        },
+        {
+          "word": "Señor,",
+          "start": 92.02,
+          "end": 92.02
+        }
+      ],
+      "start": 79.98,
+      "end": 92.02,
+      "confidence": 1.0,
+      "time": 79.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de la copa bebemos hoy, Señor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "De",
+          "start": 93.36,
+          "end": 93.98
+        },
+        {
+          "word": "la",
+          "start": 93.98,
+          "end": 95.0
+        },
+        {
+          "word": "copa",
+          "start": 95.0,
+          "end": 97.74
+        },
+        {
+          "word": "bebemos",
+          "start": 97.74,
+          "end": 99.7
+        },
+        {
+          "word": "hoy,",
+          "start": 99.7,
+          "end": 100.56
+        },
+        {
+          "word": "Señor,",
+          "start": 101.08,
+          "end": 105.42
+        }
+      ],
+      "start": 93.36,
+      "end": 105.42,
+      "confidence": 1.0,
+      "time": 93.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Y contritos aquí,",
+      "words": [
+        {
+          "word": "y",
+          "start": 105.42,
+          "end": 106.9
+        },
+        {
+          "word": "con",
+          "start": 106.9,
+          "end": 107.84
+        },
+        {
+          "word": "aquí",
+          "start": 109.9,
+          "end": 111.78
+        }
+      ],
+      "start": 105.42,
+      "end": 111.78,
+      "confidence": 0.98,
+      "time": 105.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "nos postramos ante ti;",
+      "words": [
+        {
+          "word": "nos",
+          "start": 111.78,
+          "end": 113.1
+        },
+        {
+          "word": "mostramos",
+          "start": 113.1,
+          "end": 115.14
+        },
+        {
+          "word": "ante",
+          "start": 115.14,
+          "end": 116.82
+        },
+        {
+          "word": "ti,",
+          "start": 116.82,
+          "end": 118.86
+        }
+      ],
+      "start": 111.78,
+      "end": 118.88,
+      "confidence": 0.983,
+      "time": 111.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Señor, escucha nuestra voz.",
+      "words": [
+        {
+          "word": "Señor,",
+          "start": 118.88,
+          "end": 121.42
+        },
+        {
+          "word": "escucha",
+          "start": 122.96,
+          "end": 125.08
+        },
+        {
+          "word": "nuestra",
+          "start": 125.08,
+          "end": 126.34
+        },
+        {
+          "word": "voz.",
+          "start": 126.34,
+          "end": 130.36
+        }
+      ],
+      "start": 118.88,
+      "end": 130.36,
+      "confidence": 1.0,
+      "time": 118.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Te alabamos con gozo, oh Señor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Te",
+          "start": 130.36,
+          "end": 132.34
+        },
+        {
+          "word": "alabamos",
+          "start": 132.34,
+          "end": 135.52
+        },
+        {
+          "word": "con",
+          "start": 135.52,
+          "end": 136.02
+        },
+        {
+          "word": "gozo,",
+          "start": 136.02,
+          "end": 137.68
+        },
+        {
+          "word": "oh",
+          "start": 137.68,
+          "end": 138.64
+        },
+        {
+          "word": "Señor.",
+          "start": 138.64,
+          "end": 142.66
+        }
+      ],
+      "start": 130.36,
+      "end": 142.66,
+      "confidence": 1.0,
+      "time": 130.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "te alabamos con gozo, oh Señor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Te",
+          "start": 143.28,
+          "end": 144.66
+        },
+        {
+          "word": "alabamos",
+          "start": 144.66,
+          "end": 148.06
+        },
+        {
+          "word": "con",
+          "start": 148.06,
+          "end": 148.62
+        },
+        {
+          "word": "gozo,",
+          "start": 148.62,
+          "end": 150.14
+        },
+        {
+          "word": "oh",
+          "start": 150.56,
+          "end": 151.1
+        },
+        {
+          "word": "Señor.",
+          "start": 151.1,
+          "end": 154.94
+        }
+      ],
+      "start": 143.28,
+      "end": 154.94,
+      "confidence": 1.0,
+      "time": 143.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Y contritos aquí,",
+      "words": [
+        {
+          "word": "Y",
+          "start": 154.94,
+          "end": 157.4
+        },
+        {
+          "word": "con",
+          "start": 157.4,
+          "end": 158.5
+        },
+        {
+          "word": "aquí",
+          "start": 160.46,
+          "end": 162.58
+        }
+      ],
+      "start": 154.94,
+      "end": 162.58,
+      "confidence": 0.98,
+      "time": 154.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "nos postramos ante ti;",
+      "words": [
+        {
+          "word": "nos",
+          "start": 162.58,
+          "end": 163.74
+        },
+        {
+          "word": "postramos",
+          "start": 163.74,
+          "end": 165.72
+        },
+        {
+          "word": "ante",
+          "start": 165.72,
+          "end": 167.38
+        },
+        {
+          "word": "ti,",
+          "start": 167.38,
+          "end": 169.12
+        }
+      ],
+      "start": 162.58,
+      "end": 169.98,
+      "confidence": 1.0,
+      "time": 162.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Señor, escucha nuestra voz.",
+      "words": [
+        {
+          "word": "Señor,",
+          "start": 169.98,
+          "end": 171.94
+        },
+        {
+          "word": "escucha",
+          "start": 174.04,
+          "end": 175.68
+        },
+        {
+          "word": "nuestra",
+          "start": 175.68,
+          "end": 177.0
+        },
+        {
+          "word": "voz.",
+          "start": 177.0,
+          "end": 180.4
+        }
+      ],
+      "start": 169.98,
+      "end": 180.4,
+      "confidence": 1.0,
+      "time": 169.98
+    }
+  ]
+}

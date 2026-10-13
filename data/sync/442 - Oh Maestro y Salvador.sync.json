@@ -1,0 +1,583 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.702,
+  "language": "es",
+  "model": "medium",
+  "hymn": 442,
+  "source": "442 - Oh Maestro y Salvador.mp3",
+  "duration": 141.45,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh! ¡Maestro y Salvador!,",
+      "verse": 1,
+      "start": 0.0,
+      "end": 29.98,
+      "confidence": 0.0,
+      "time": 0.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "no me dejes desmayar;",
+      "verse": 1,
+      "start": 29.98,
+      "end": 30.18,
+      "confidence": 0.0,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en tu gracia y en tu amor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 29.98,
+          "end": 30.98
+        },
+        {
+          "word": "tu",
+          "start": 30.98,
+          "end": 31.7
+        },
+        {
+          "word": "gracia",
+          "start": 31.7,
+          "end": 33.18
+        },
+        {
+          "word": "y",
+          "start": 33.18,
+          "end": 33.46
+        },
+        {
+          "word": "en",
+          "start": 33.46,
+          "end": 33.84
+        },
+        {
+          "word": "tu",
+          "start": 33.84,
+          "end": 34.3
+        },
+        {
+          "word": "amor,",
+          "start": 34.3,
+          "end": 35.12
+        }
+      ],
+      "start": 30.18,
+      "end": 35.84,
+      "confidence": 1.0,
+      "time": 30.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "solo fío sin cesar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "solo",
+          "start": 35.84,
+          "end": 36.46
+        },
+        {
+          "word": "fío",
+          "start": 36.46,
+          "end": 37.66
+        },
+        {
+          "word": "sin",
+          "start": 37.66,
+          "end": 38.58
+        },
+        {
+          "word": "cesar,",
+          "start": 38.58,
+          "end": 40.06
+        }
+      ],
+      "start": 35.84,
+      "end": 40.54,
+      "confidence": 1.0,
+      "time": 35.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "solo fío sin cesar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "solo",
+          "start": 40.54,
+          "end": 41.24
+        },
+        {
+          "word": "fío",
+          "start": 41.24,
+          "end": 42.58
+        },
+        {
+          "word": "sin",
+          "start": 42.58,
+          "end": 43.48
+        },
+        {
+          "word": "cesar.",
+          "start": 43.48,
+          "end": 45.82
+        }
+      ],
+      "start": 40.54,
+      "end": 45.82,
+      "confidence": 1.0,
+      "time": 40.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Pobre y débil sé que soy,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 50.56,
+          "end": 51.24
+        },
+        {
+          "word": "soy,",
+          "start": 51.24,
+          "end": 52.18
+        }
+      ],
+      "start": 50.56,
+      "end": 53.34,
+      "confidence": 0.333,
+      "time": 50.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "lo confieso, mi Señor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "contesto",
+          "start": 53.34,
+          "end": 54.92
+        },
+        {
+          "word": "mi",
+          "start": 54.92,
+          "end": 55.56
+        },
+        {
+          "word": "Señor,",
+          "start": 55.56,
+          "end": 56.98
+        }
+      ],
+      "start": 53.34,
+      "end": 57.92,
+      "confidence": 0.712,
+      "time": 53.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "A tus pies rendido estoy,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 57.92,
+          "end": 58.1
+        },
+        {
+          "word": "tus",
+          "start": 58.1,
+          "end": 58.58
+        },
+        {
+          "word": "soy,",
+          "start": 60.92,
+          "end": 61.98
+        }
+      ],
+      "start": 57.92,
+      "end": 65.36,
+      "confidence": 0.57,
+      "time": 57.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "dame fuerzas y valor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "valor,",
+          "start": 65.36,
+          "end": 66.78
+        }
+      ],
+      "start": 65.36,
+      "end": 70.52,
+      "confidence": 0.25,
+      "time": 65.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "dame fuerzas y valor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "valor.",
+          "start": 70.52,
+          "end": 72.0
+        }
+      ],
+      "start": 70.52,
+      "end": 72.0,
+      "confidence": 0.25,
+      "time": 70.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Dime tú lo que he de ser,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Dime",
+          "start": 74.26,
+          "end": 75.66
+        },
+        {
+          "word": "tú",
+          "start": 75.66,
+          "end": 76.32
+        },
+        {
+          "word": "lo",
+          "start": 76.32,
+          "end": 77.16
+        },
+        {
+          "word": "que",
+          "start": 77.16,
+          "end": 77.86
+        },
+        {
+          "word": "dese,",
+          "start": 77.86,
+          "end": 78.74
+        }
+      ],
+      "start": 74.26,
+      "end": 79.46,
+      "confidence": 0.686,
+      "time": 74.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "las palabras que he de hablar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "las",
+          "start": 79.46,
+          "end": 80.18
+        },
+        {
+          "word": "palabras",
+          "start": 80.18,
+          "end": 81.72
+        },
+        {
+          "word": "que",
+          "start": 81.72,
+          "end": 82.52
+        },
+        {
+          "word": "de",
+          "start": 82.52,
+          "end": 83.0
+        },
+        {
+          "word": "hablar,",
+          "start": 83.0,
+          "end": 83.96
+        }
+      ],
+      "start": 79.46,
+      "end": 84.7,
+      "confidence": 0.833,
+      "time": 79.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "lo que siempre debo hacer,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "lo",
+          "start": 84.7,
+          "end": 85.04
+        },
+        {
+          "word": "que",
+          "start": 85.04,
+          "end": 85.6
+        },
+        {
+          "word": "siempre",
+          "start": 85.6,
+          "end": 86.4
+        },
+        {
+          "word": "debo",
+          "start": 86.4,
+          "end": 87.98
+        }
+      ],
+      "start": 84.7,
+      "end": 90.26,
+      "confidence": 0.8,
+      "time": 84.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mientras voy hacia el hogar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mientras",
+          "start": 90.26,
+          "end": 90.32
+        },
+        {
+          "word": "voy",
+          "start": 90.32,
+          "end": 91.52
+        },
+        {
+          "word": "hacia",
+          "start": 91.52,
+          "end": 92.26
+        },
+        {
+          "word": "el",
+          "start": 92.26,
+          "end": 92.82
+        },
+        {
+          "word": "lugar,",
+          "start": 92.82,
+          "end": 93.72
+        }
+      ],
+      "start": 90.26,
+      "end": 94.56,
+      "confidence": 0.952,
+      "time": 90.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mientras voy hacia el hogar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mientras",
+          "start": 94.56,
+          "end": 95.32
+        },
+        {
+          "word": "voy",
+          "start": 95.32,
+          "end": 96.22
+        },
+        {
+          "word": "hacia",
+          "start": 96.22,
+          "end": 97.24
+        },
+        {
+          "word": "el",
+          "start": 97.24,
+          "end": 97.72
+        },
+        {
+          "word": "lugar.",
+          "start": 97.72,
+          "end": 99.68
+        }
+      ],
+      "start": 94.56,
+      "end": 99.68,
+      "confidence": 0.952,
+      "time": 94.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Solo así feliz seré",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Solo",
+          "start": 99.68,
+          "end": 102.38
+        },
+        {
+          "word": "así",
+          "start": 102.38,
+          "end": 103.28
+        }
+      ],
+      "start": 99.68,
+      "end": 106.52,
+      "confidence": 0.5,
+      "time": 99.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "en mi vida espiritual;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 106.52,
+          "end": 107.06
+        },
+        {
+          "word": "mi",
+          "start": 107.06,
+          "end": 107.78
+        },
+        {
+          "word": "vida",
+          "start": 107.78,
+          "end": 108.44
+        },
+        {
+          "word": "espiritual,",
+          "start": 108.44,
+          "end": 110.78
+        }
+      ],
+      "start": 106.52,
+      "end": 111.62,
+      "confidence": 1.0,
+      "time": 106.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "solo así morar podré",
+      "verse": 4,
+      "words": [
+        {
+          "word": "solo",
+          "start": 111.62,
+          "end": 112.1
+        },
+        {
+          "word": "así",
+          "start": 112.1,
+          "end": 113.12
+        },
+        {
+          "word": "morar",
+          "start": 113.12,
+          "end": 114.36
+        },
+        {
+          "word": "podré",
+          "start": 114.36,
+          "end": 115.88
+        }
+      ],
+      "start": 111.62,
+      "end": 115.88,
+      "confidence": 1.0,
+      "time": 111.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "en la patria celestial,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 115.88,
+          "end": 116.82
+        },
+        {
+          "word": "la",
+          "start": 116.82,
+          "end": 117.52
+        },
+        {
+          "word": "patria",
+          "start": 117.52,
+          "end": 118.58
+        },
+        {
+          "word": "celestial,",
+          "start": 118.58,
+          "end": 120.38
+        }
+      ],
+      "start": 115.88,
+      "end": 121.02,
+      "confidence": 1.0,
+      "time": 115.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "en la patria celestial.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 121.02,
+          "end": 121.58
+        },
+        {
+          "word": "la",
+          "start": 121.58,
+          "end": 122.4
+        },
+        {
+          "word": "patria",
+          "start": 122.4,
+          "end": 123.4
+        },
+        {
+          "word": "celestial.",
+          "start": 123.4,
+          "end": 125.66
+        }
+      ],
+      "start": 121.02,
+      "end": 125.66,
+      "confidence": 1.0,
+      "time": 121.02
+    }
+  ]
+}

@@ -1,0 +1,863 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.915,
+  "language": "es",
+  "model": "medium",
+  "hymn": 522,
+  "source": "522 - Suenen las palabras.mp3",
+  "duration": 150.7,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Suenen las palabras del buen Salvador:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Suenen",
+          "start": 12.12,
+          "end": 13.52
+        },
+        {
+          "word": "las",
+          "start": 13.52,
+          "end": 14.02
+        },
+        {
+          "word": "palabras",
+          "start": 14.02,
+          "end": 14.84
+        },
+        {
+          "word": "del",
+          "start": 14.84,
+          "end": 15.32
+        },
+        {
+          "word": "buen",
+          "start": 15.32,
+          "end": 15.58
+        },
+        {
+          "word": "salvador,",
+          "start": 15.58,
+          "end": 17.96
+        }
+      ],
+      "start": 12.12,
+      "end": 18.8,
+      "confidence": 1.0,
+      "time": 12.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "\"¡Oh!, traedme el diezmo al granero\".",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Edmer",
+          "start": 18.8,
+          "end": 19.5
+        },
+        {
+          "word": "Fiesmo",
+          "start": 19.5,
+          "end": 20.22
+        },
+        {
+          "word": "al",
+          "start": 20.22,
+          "end": 20.58
+        },
+        {
+          "word": "granero,",
+          "start": 20.58,
+          "end": 23.08
+        }
+      ],
+      "start": 18.8,
+      "end": 23.82,
+      "confidence": 0.6,
+      "time": 18.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Aclamad a Cristo Dueño y Creador,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "aclamada",
+          "start": 23.82,
+          "end": 24.68
+        },
+        {
+          "word": "Cristo",
+          "start": 24.68,
+          "end": 25.26
+        },
+        {
+          "word": "dueño",
+          "start": 25.26,
+          "end": 25.88
+        },
+        {
+          "word": "y",
+          "start": 25.88,
+          "end": 26.62
+        },
+        {
+          "word": "creador.",
+          "start": 26.62,
+          "end": 28.34
+        }
+      ],
+      "start": 23.82,
+      "end": 28.34,
+      "confidence": 0.823,
+      "time": 23.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "dadle lo mejor primero.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "dadle",
+          "start": 28.34,
+          "end": 29.3
+        },
+        {
+          "word": "lo",
+          "start": 29.3,
+          "end": 29.66
+        },
+        {
+          "word": "mejor",
+          "start": 29.66,
+          "end": 30.46
+        },
+        {
+          "word": "primero.",
+          "start": 30.46,
+          "end": 34.1
+        }
+      ],
+      "start": 28.34,
+      "end": 34.1,
+      "confidence": 1.0,
+      "time": 28.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "\"Oh, traedme el diezmo al granero,",
+      "words": [
+        {
+          "word": "O",
+          "start": 34.9,
+          "end": 35.08
+        },
+        {
+          "word": "traedme",
+          "start": 35.08,
+          "end": 36.44
+        },
+        {
+          "word": "el",
+          "start": 36.44,
+          "end": 36.6
+        },
+        {
+          "word": "diezmo",
+          "start": 36.6,
+          "end": 37.18
+        },
+        {
+          "word": "al",
+          "start": 37.18,
+          "end": 37.54
+        },
+        {
+          "word": "granero,",
+          "start": 37.54,
+          "end": 39.52
+        }
+      ],
+      "start": 34.9,
+      "end": 39.52,
+      "confidence": 0.967,
+      "time": 34.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "probadme hoy\", dice Jehová;",
+      "words": [
+        {
+          "word": "probadme",
+          "start": 39.8,
+          "end": 41.72
+        },
+        {
+          "word": "hoy,",
+          "start": 41.72,
+          "end": 42.24
+        },
+        {
+          "word": "dice",
+          "start": 42.34,
+          "end": 42.86
+        },
+        {
+          "word": "Jehová,",
+          "start": 42.86,
+          "end": 44.34
+        }
+      ],
+      "start": 39.8,
+      "end": 44.34,
+      "confidence": 1.0,
+      "time": 39.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "quien sobre tierras y dinero,",
+      "words": [
+        {
+          "word": "quien",
+          "start": 45.16,
+          "end": 45.56
+        },
+        {
+          "word": "sobre",
+          "start": 45.56,
+          "end": 46.88
+        },
+        {
+          "word": "tierras",
+          "start": 46.88,
+          "end": 47.54
+        },
+        {
+          "word": "y",
+          "start": 47.54,
+          "end": 48.0
+        },
+        {
+          "word": "dinero",
+          "start": 48.0,
+          "end": 49.34
+        }
+      ],
+      "start": 45.16,
+      "end": 49.34,
+      "confidence": 1.0,
+      "time": 45.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "bendiciones abundantes pondrá.",
+      "words": [
+        {
+          "word": "visiones",
+          "start": 50.66,
+          "end": 51.84
+        },
+        {
+          "word": "abundantes",
+          "start": 51.84,
+          "end": 53.12
+        },
+        {
+          "word": "pondrá.",
+          "start": 53.12,
+          "end": 56.6
+        }
+      ],
+      "start": 50.66,
+      "end": 56.6,
+      "confidence": 0.926,
+      "time": 50.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristo nuevamente vuelve a decir:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 56.6,
+          "end": 58.4
+        },
+        {
+          "word": "nuevamente",
+          "start": 58.4,
+          "end": 59.86
+        },
+        {
+          "word": "vuelve",
+          "start": 59.86,
+          "end": 60.82
+        },
+        {
+          "word": "a",
+          "start": 60.82,
+          "end": 61.72
+        },
+        {
+          "word": "decir",
+          "start": 61.72,
+          "end": 62.92
+        }
+      ],
+      "start": 56.6,
+      "end": 62.92,
+      "confidence": 1.0,
+      "time": 56.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "\"Con el diezmo y liberal ofrenda,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "con",
+          "start": 62.92,
+          "end": 63.76
+        },
+        {
+          "word": "el",
+          "start": 63.76,
+          "end": 64.04
+        },
+        {
+          "word": "diezmo",
+          "start": 64.04,
+          "end": 64.48
+        },
+        {
+          "word": "y",
+          "start": 64.48,
+          "end": 64.78
+        },
+        {
+          "word": "liberal",
+          "start": 64.78,
+          "end": 65.52
+        },
+        {
+          "word": "ofrenda",
+          "start": 65.52,
+          "end": 67.6
+        }
+      ],
+      "start": 62.92,
+      "end": 67.6,
+      "confidence": 1.0,
+      "time": 62.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "muchos el mensaje hoy podrán oír",
+      "verse": 2,
+      "words": [
+        {
+          "word": "muchos",
+          "start": 68.4,
+          "end": 69.06
+        },
+        {
+          "word": "el",
+          "start": 69.06,
+          "end": 69.48
+        },
+        {
+          "word": "mensaje",
+          "start": 69.48,
+          "end": 70.36
+        },
+        {
+          "word": "hoy",
+          "start": 70.36,
+          "end": 70.78
+        },
+        {
+          "word": "podrán",
+          "start": 70.78,
+          "end": 71.78
+        },
+        {
+          "word": "oír",
+          "start": 71.78,
+          "end": 72.6
+        }
+      ],
+      "start": 68.4,
+      "end": 72.6,
+      "confidence": 1.0,
+      "time": 68.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y hallarán la santa senda\".",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 73.54,
+          "end": 74.1
+        },
+        {
+          "word": "hallarán",
+          "start": 74.1,
+          "end": 74.82
+        },
+        {
+          "word": "la",
+          "start": 74.82,
+          "end": 75.28
+        },
+        {
+          "word": "santa",
+          "start": 75.28,
+          "end": 76.3
+        },
+        {
+          "word": "senda",
+          "start": 76.3,
+          "end": 78.6
+        }
+      ],
+      "start": 73.54,
+      "end": 78.6,
+      "confidence": 1.0,
+      "time": 73.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "\"Oh, traedme el diezmo al granero,",
+      "words": [
+        {
+          "word": "O",
+          "start": 79.54,
+          "end": 80.2
+        },
+        {
+          "word": "traedme",
+          "start": 80.2,
+          "end": 81.48
+        },
+        {
+          "word": "el",
+          "start": 81.48,
+          "end": 81.64
+        },
+        {
+          "word": "diezmo",
+          "start": 81.64,
+          "end": 82.28
+        },
+        {
+          "word": "al",
+          "start": 82.28,
+          "end": 82.68
+        }
+      ],
+      "start": 79.54,
+      "end": 83.6,
+      "confidence": 0.8,
+      "time": 79.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "probadme hoy\", dice Jehová;",
+      "words": [
+        {
+          "word": "hoy,",
+          "start": 86.76,
+          "end": 87.34
+        },
+        {
+          "word": "dice",
+          "start": 87.42,
+          "end": 87.96
+        },
+        {
+          "word": "Jehová,",
+          "start": 87.96,
+          "end": 89.94
+        }
+      ],
+      "start": 86.76,
+      "end": 89.94,
+      "confidence": 0.75,
+      "time": 86.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "quien sobre tierras y dinero,",
+      "words": [
+        {
+          "word": "quien",
+          "start": 90.4,
+          "end": 90.66
+        },
+        {
+          "word": "sobre",
+          "start": 90.66,
+          "end": 92.0
+        },
+        {
+          "word": "tierras",
+          "start": 92.0,
+          "end": 92.66
+        },
+        {
+          "word": "y",
+          "start": 92.66,
+          "end": 93.1
+        },
+        {
+          "word": "dinero",
+          "start": 93.1,
+          "end": 95.04
+        }
+      ],
+      "start": 90.4,
+      "end": 95.04,
+      "confidence": 1.0,
+      "time": 90.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "bendiciones abundantes pondrá.",
+      "words": [
+        {
+          "word": "bendiciones",
+          "start": 95.04,
+          "end": 96.7
+        },
+        {
+          "word": "abundantes",
+          "start": 96.7,
+          "end": 98.24
+        },
+        {
+          "word": "pondrá.",
+          "start": 98.24,
+          "end": 102.02
+        }
+      ],
+      "start": 95.04,
+      "end": 102.02,
+      "confidence": 1.0,
+      "time": 95.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Dad a Dios mejor y más completo don:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Dada",
+          "start": 103.06,
+          "end": 103.5
+        },
+        {
+          "word": "Dios",
+          "start": 103.5,
+          "end": 103.96
+        },
+        {
+          "word": "mejor",
+          "start": 103.96,
+          "end": 104.6
+        },
+        {
+          "word": "y",
+          "start": 104.6,
+          "end": 104.86
+        },
+        {
+          "word": "más",
+          "start": 104.86,
+          "end": 105.34
+        },
+        {
+          "word": "completo",
+          "start": 105.34,
+          "end": 106.52
+        },
+        {
+          "word": "don",
+          "start": 106.52,
+          "end": 107.94
+        }
+      ],
+      "start": 103.06,
+      "end": 107.94,
+      "confidence": 0.868,
+      "time": 103.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "vuestra vida entera y vuestra hacienda.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "vuestra",
+          "start": 107.94,
+          "end": 108.76
+        },
+        {
+          "word": "vida",
+          "start": 108.76,
+          "end": 109.36
+        },
+        {
+          "word": "entera",
+          "start": 109.36,
+          "end": 109.9
+        },
+        {
+          "word": "y",
+          "start": 109.9,
+          "end": 110.18
+        },
+        {
+          "word": "vuestra",
+          "start": 110.18,
+          "end": 110.7
+        },
+        {
+          "word": "hacienda",
+          "start": 110.7,
+          "end": 112.78
+        }
+      ],
+      "start": 107.94,
+      "end": 112.78,
+      "confidence": 1.0,
+      "time": 107.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Entregad a Cristo hoy el corazón,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Entregada",
+          "start": 112.78,
+          "end": 114.6
+        },
+        {
+          "word": "a",
+          "start": 114.6,
+          "end": 114.84
+        },
+        {
+          "word": "Cristo",
+          "start": 114.84,
+          "end": 115.28
+        },
+        {
+          "word": "hoy",
+          "start": 115.28,
+          "end": 115.82
+        },
+        {
+          "word": "el",
+          "start": 115.82,
+          "end": 116.44
+        },
+        {
+          "word": "corazón,",
+          "start": 116.44,
+          "end": 118.24
+        }
+      ],
+      "start": 112.78,
+      "end": 118.74,
+      "confidence": 0.99,
+      "time": 112.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "que es la más preciosa ofrenda.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 118.74,
+          "end": 118.86
+        },
+        {
+          "word": "es",
+          "start": 118.86,
+          "end": 119.14
+        },
+        {
+          "word": "la",
+          "start": 119.14,
+          "end": 119.22
+        },
+        {
+          "word": "más",
+          "start": 119.22,
+          "end": 119.64
+        },
+        {
+          "word": "preciosa",
+          "start": 119.64,
+          "end": 120.88
+        },
+        {
+          "word": "ofrenda.",
+          "start": 120.88,
+          "end": 124.36
+        }
+      ],
+      "start": 118.74,
+      "end": 124.36,
+      "confidence": 1.0,
+      "time": 118.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "\"Oh, traedme el diezmo al granero,",
+      "words": [
+        {
+          "word": "el",
+          "start": 126.18,
+          "end": 126.42
+        },
+        {
+          "word": "diezmo",
+          "start": 126.42,
+          "end": 127.22
+        },
+        {
+          "word": "al",
+          "start": 127.22,
+          "end": 127.54
+        },
+        {
+          "word": "flanero,",
+          "start": 127.54,
+          "end": 129.48
+        }
+      ],
+      "start": 126.18,
+      "end": 129.9,
+      "confidence": 0.638,
+      "time": 126.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "probadme hoy\", dice Jehová;",
+      "words": [
+        {
+          "word": "tróbanme",
+          "start": 129.9,
+          "end": 131.68
+        },
+        {
+          "word": "hoy,",
+          "start": 131.68,
+          "end": 132.26
+        },
+        {
+          "word": "dice",
+          "start": 132.7,
+          "end": 132.88
+        },
+        {
+          "word": "Jehová,",
+          "start": 132.88,
+          "end": 134.72
+        }
+      ],
+      "start": 129.9,
+      "end": 134.72,
+      "confidence": 0.963,
+      "time": 129.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "quien sobre tierras y dinero,",
+      "words": [
+        {
+          "word": "quien",
+          "start": 134.72,
+          "end": 135.56
+        },
+        {
+          "word": "sobre",
+          "start": 135.56,
+          "end": 136.86
+        },
+        {
+          "word": "tierra",
+          "start": 136.86,
+          "end": 137.42
+        },
+        {
+          "word": "dinero",
+          "start": 137.94,
+          "end": 139.96
+        }
+      ],
+      "start": 134.72,
+      "end": 139.96,
+      "confidence": 0.788,
+      "time": 134.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "bendiciones abundantes pondrá.",
+      "words": [
+        {
+          "word": "bendiciones",
+          "start": 139.96,
+          "end": 141.5
+        },
+        {
+          "word": "abundantes",
+          "start": 141.5,
+          "end": 143.32
+        },
+        {
+          "word": "pondrá.",
+          "start": 143.32,
+          "end": 145.56
+        }
+      ],
+      "start": 139.96,
+      "end": 145.56,
+      "confidence": 1.0,
+      "time": 139.96
+    }
+  ]
+}

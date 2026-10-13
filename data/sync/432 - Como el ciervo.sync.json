@@ -1,0 +1,948 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.968,
+  "language": "es",
+  "model": "medium",
+  "hymn": 432,
+  "source": "432 - Como el ciervo.mp3",
+  "duration": 190.82,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Como el ciervo clama por las aguas,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "El",
+          "start": 29.98,
+          "end": 30.16
+        },
+        {
+          "word": "siervo",
+          "start": 30.16,
+          "end": 31.82
+        },
+        {
+          "word": "clama",
+          "start": 31.82,
+          "end": 33.34
+        },
+        {
+          "word": "por",
+          "start": 33.34,
+          "end": 33.9
+        },
+        {
+          "word": "las",
+          "start": 33.9,
+          "end": 34.52
+        },
+        {
+          "word": "aguas,",
+          "start": 34.52,
+          "end": 35.02
+        }
+      ],
+      "start": 29.98,
+      "end": 35.54,
+      "confidence": 0.843,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mi alma anhela a Dios.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "mi",
+          "start": 35.54,
+          "end": 35.8
+        },
+        {
+          "word": "alma",
+          "start": 35.8,
+          "end": 36.56
+        },
+        {
+          "word": "adiós.",
+          "start": 37.9,
+          "end": 41.34
+        }
+      ],
+      "start": 35.54,
+      "end": 41.34,
+      "confidence": 0.587,
+      "time": 35.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Solo tú satisfaces mi ansiedad",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Solo",
+          "start": 41.4,
+          "end": 42.54
+        },
+        {
+          "word": "tú",
+          "start": 42.54,
+          "end": 43.8
+        },
+        {
+          "word": "satisfaces",
+          "start": 43.8,
+          "end": 45.88
+        },
+        {
+          "word": "mi",
+          "start": 45.88,
+          "end": 46.3
+        },
+        {
+          "word": "ansiedad",
+          "start": 46.3,
+          "end": 47.22
+        }
+      ],
+      "start": 41.4,
+      "end": 47.22,
+      "confidence": 1.0,
+      "time": 41.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "llenándome de paz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "llenándome",
+          "start": 47.22,
+          "end": 50.02
+        },
+        {
+          "word": "de",
+          "start": 50.02,
+          "end": 51.02
+        },
+        {
+          "word": "paz.",
+          "start": 51.02,
+          "end": 53.3
+        }
+      ],
+      "start": 47.22,
+      "end": 53.3,
+      "confidence": 1.0,
+      "time": 47.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Solo tú eres mi sostén,",
+      "words": [
+        {
+          "word": "Sólo",
+          "start": 53.3,
+          "end": 55.5
+        },
+        {
+          "word": "Tú",
+          "start": 55.5,
+          "end": 56.46
+        },
+        {
+          "word": "eres",
+          "start": 56.46,
+          "end": 57.12
+        },
+        {
+          "word": "mi",
+          "start": 57.12,
+          "end": 58.08
+        },
+        {
+          "word": "sostén,",
+          "start": 58.08,
+          "end": 59.7
+        }
+      ],
+      "start": 53.3,
+      "end": 59.98,
+      "confidence": 1.0,
+      "time": 53.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¿a quién iré sino solo a ti?",
+      "words": [
+        {
+          "word": "a",
+          "start": 59.98,
+          "end": 60.48
+        },
+        {
+          "word": "quien",
+          "start": 60.48,
+          "end": 61.24
+        },
+        {
+          "word": "iré",
+          "start": 61.24,
+          "end": 62.66
+        },
+        {
+          "word": "si",
+          "start": 62.66,
+          "end": 63.04
+        },
+        {
+          "word": "sólo",
+          "start": 63.46,
+          "end": 64.38
+        },
+        {
+          "word": "a",
+          "start": 64.38,
+          "end": 65.28
+        },
+        {
+          "word": "Ti.",
+          "start": 65.28,
+          "end": 67.64
+        }
+      ],
+      "start": 59.98,
+      "end": 67.64,
+      "confidence": 0.991,
+      "time": 59.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Yo te rindo mi vida entera",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 67.88,
+          "end": 68.84
+        },
+        {
+          "word": "te",
+          "start": 68.84,
+          "end": 69.88
+        },
+        {
+          "word": "rindo",
+          "start": 69.88,
+          "end": 70.86
+        },
+        {
+          "word": "mi",
+          "start": 70.86,
+          "end": 71.36
+        },
+        {
+          "word": "vida",
+          "start": 71.36,
+          "end": 72.64
+        },
+        {
+          "word": "entera",
+          "start": 72.64,
+          "end": 73.66
+        }
+      ],
+      "start": 67.88,
+      "end": 73.66,
+      "confidence": 1.0,
+      "time": 67.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "para siempre a ti, Señor.",
+      "words": [
+        {
+          "word": "para",
+          "start": 73.66,
+          "end": 74.5
+        },
+        {
+          "word": "siempre",
+          "start": 74.5,
+          "end": 75.76
+        },
+        {
+          "word": "a",
+          "start": 75.76,
+          "end": 76.2
+        },
+        {
+          "word": "Ti,",
+          "start": 76.2,
+          "end": 77.24
+        },
+        {
+          "word": "Señor.",
+          "start": 79.64,
+          "end": 79.84
+        }
+      ],
+      "start": 73.66,
+      "end": 79.84,
+      "confidence": 1.0,
+      "time": 73.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristo, tú eres mi amigo y mi hermano,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 79.84,
+          "end": 82.18
+        },
+        {
+          "word": "Tú",
+          "start": 82.68,
+          "end": 82.98
+        },
+        {
+          "word": "eres",
+          "start": 82.98,
+          "end": 83.94
+        },
+        {
+          "word": "mi",
+          "start": 83.94,
+          "end": 84.38
+        },
+        {
+          "word": "amigo",
+          "start": 84.38,
+          "end": 85.7
+        },
+        {
+          "word": "y",
+          "start": 85.7,
+          "end": 86.36
+        },
+        {
+          "word": "mi",
+          "start": 86.36,
+          "end": 86.72
+        },
+        {
+          "word": "hermano,",
+          "start": 86.72,
+          "end": 87.74
+        }
+      ],
+      "start": 79.84,
+      "end": 87.96,
+      "confidence": 1.0,
+      "time": 79.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "aunque eres Rey también.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "aunque",
+          "start": 87.96,
+          "end": 88.5
+        },
+        {
+          "word": "eres",
+          "start": 88.5,
+          "end": 89.04
+        },
+        {
+          "word": "rey",
+          "start": 89.04,
+          "end": 90.3
+        },
+        {
+          "word": "también",
+          "start": 90.3,
+          "end": 93.26
+        }
+      ],
+      "start": 87.96,
+      "end": 93.26,
+      "confidence": 1.0,
+      "time": 87.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Yo te amo por sobre todo",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 93.26,
+          "end": 94.34
+        },
+        {
+          "word": "te",
+          "start": 94.34,
+          "end": 95.7
+        },
+        {
+          "word": "amo",
+          "start": 95.7,
+          "end": 96.48
+        },
+        {
+          "word": "por",
+          "start": 96.48,
+          "end": 97.1
+        },
+        {
+          "word": "sobre",
+          "start": 97.1,
+          "end": 98.48
+        },
+        {
+          "word": "todo",
+          "start": 98.48,
+          "end": 99.16
+        }
+      ],
+      "start": 93.26,
+      "end": 99.16,
+      "confidence": 1.0,
+      "time": 93.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y te alabo, mi Señor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 99.16,
+          "end": 99.76
+        },
+        {
+          "word": "te",
+          "start": 99.76,
+          "end": 100.16
+        },
+        {
+          "word": "alabo",
+          "start": 100.16,
+          "end": 101.7
+        },
+        {
+          "word": "mi",
+          "start": 101.7,
+          "end": 102.98
+        },
+        {
+          "word": "Señor",
+          "start": 102.98,
+          "end": 105.68
+        }
+      ],
+      "start": 99.16,
+      "end": 105.68,
+      "confidence": 1.0,
+      "time": 99.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Solo tú eres mi sostén,",
+      "words": [
+        {
+          "word": "Sólo",
+          "start": 105.68,
+          "end": 108.12
+        },
+        {
+          "word": "Tú",
+          "start": 108.12,
+          "end": 108.88
+        },
+        {
+          "word": "eres",
+          "start": 108.88,
+          "end": 109.58
+        },
+        {
+          "word": "mi",
+          "start": 109.58,
+          "end": 110.4
+        },
+        {
+          "word": "sostén,",
+          "start": 110.4,
+          "end": 112.26
+        }
+      ],
+      "start": 105.68,
+      "end": 112.78,
+      "confidence": 1.0,
+      "time": 105.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¿a quién iré sino solo a ti?",
+      "words": [
+        {
+          "word": "a",
+          "start": 112.78,
+          "end": 112.98
+        },
+        {
+          "word": "quien",
+          "start": 112.98,
+          "end": 113.76
+        },
+        {
+          "word": "iré",
+          "start": 113.76,
+          "end": 115.16
+        },
+        {
+          "word": "si",
+          "start": 115.16,
+          "end": 115.54
+        },
+        {
+          "word": "sólo",
+          "start": 115.94,
+          "end": 116.9
+        },
+        {
+          "word": "a",
+          "start": 116.9,
+          "end": 117.66
+        },
+        {
+          "word": "Ti.",
+          "start": 117.66,
+          "end": 120.14
+        }
+      ],
+      "start": 112.78,
+      "end": 120.14,
+      "confidence": 0.991,
+      "time": 112.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Yo te rindo mi vida entera",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 120.42,
+          "end": 121.36
+        },
+        {
+          "word": "te",
+          "start": 121.36,
+          "end": 122.34
+        },
+        {
+          "word": "rindo",
+          "start": 122.34,
+          "end": 123.36
+        },
+        {
+          "word": "mi",
+          "start": 123.36,
+          "end": 123.86
+        },
+        {
+          "word": "vida",
+          "start": 123.86,
+          "end": 125.22
+        },
+        {
+          "word": "entera",
+          "start": 125.22,
+          "end": 126.2
+        }
+      ],
+      "start": 120.42,
+      "end": 126.2,
+      "confidence": 1.0,
+      "time": 120.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "para siempre a ti, Señor.",
+      "words": [
+        {
+          "word": "para",
+          "start": 126.2,
+          "end": 127.04
+        },
+        {
+          "word": "siempre",
+          "start": 127.04,
+          "end": 128.32
+        },
+        {
+          "word": "a",
+          "start": 128.32,
+          "end": 128.74
+        },
+        {
+          "word": "Ti,",
+          "start": 128.74,
+          "end": 129.66
+        },
+        {
+          "word": "Señor.",
+          "start": 129.74,
+          "end": 132.72
+        }
+      ],
+      "start": 126.2,
+      "end": 132.72,
+      "confidence": 1.0,
+      "time": 126.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Más que al oro te anhelo a ti,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Más",
+          "start": 132.72,
+          "end": 134.58
+        },
+        {
+          "word": "que",
+          "start": 134.58,
+          "end": 135.1
+        },
+        {
+          "word": "al",
+          "start": 135.1,
+          "end": 135.66
+        },
+        {
+          "word": "oro",
+          "start": 135.66,
+          "end": 136.3
+        },
+        {
+          "word": "te",
+          "start": 136.3,
+          "end": 136.82
+        },
+        {
+          "word": "anhelo",
+          "start": 136.82,
+          "end": 138.16
+        },
+        {
+          "word": "a",
+          "start": 138.16,
+          "end": 138.54
+        },
+        {
+          "word": "ti,",
+          "start": 138.54,
+          "end": 138.78
+        }
+      ],
+      "start": 132.72,
+      "end": 139.06,
+      "confidence": 1.0,
+      "time": 132.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pues solo tú me podrás saciar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 139.06,
+          "end": 139.18
+        },
+        {
+          "word": "solo",
+          "start": 139.18,
+          "end": 139.98
+        },
+        {
+          "word": "tú",
+          "start": 139.98,
+          "end": 140.82
+        },
+        {
+          "word": "me",
+          "start": 140.82,
+          "end": 141.22
+        },
+        {
+          "word": "podrás",
+          "start": 141.22,
+          "end": 142.96
+        }
+      ],
+      "start": 139.06,
+      "end": 145.96,
+      "confidence": 0.833,
+      "time": 139.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Solo tú eres mi alegría,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Solo",
+          "start": 145.96,
+          "end": 147.28
+        },
+        {
+          "word": "tú",
+          "start": 147.28,
+          "end": 148.84
+        },
+        {
+          "word": "eres",
+          "start": 148.84,
+          "end": 149.46
+        },
+        {
+          "word": "mi",
+          "start": 149.46,
+          "end": 150.54
+        },
+        {
+          "word": "alegría,",
+          "start": 150.54,
+          "end": 151.8
+        }
+      ],
+      "start": 145.96,
+      "end": 152.12,
+      "confidence": 1.0,
+      "time": 145.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "la razón de mi existir.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 152.12,
+          "end": 152.3
+        },
+        {
+          "word": "razón",
+          "start": 152.3,
+          "end": 153.6
+        },
+        {
+          "word": "de",
+          "start": 153.6,
+          "end": 154.22
+        },
+        {
+          "word": "mi",
+          "start": 154.22,
+          "end": 155.36
+        },
+        {
+          "word": "existir",
+          "start": 155.36,
+          "end": 157.72
+        }
+      ],
+      "start": 152.12,
+      "end": 157.72,
+      "confidence": 1.0,
+      "time": 152.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Solo tú eres mi sostén,",
+      "words": [
+        {
+          "word": "Solo",
+          "start": 157.72,
+          "end": 160.06
+        },
+        {
+          "word": "Tú",
+          "start": 160.06,
+          "end": 161.44
+        },
+        {
+          "word": "eres",
+          "start": 161.44,
+          "end": 162.1
+        },
+        {
+          "word": "mi",
+          "start": 162.1,
+          "end": 163.0
+        },
+        {
+          "word": "sostén,",
+          "start": 163.0,
+          "end": 164.74
+        }
+      ],
+      "start": 157.72,
+      "end": 165.3,
+      "confidence": 1.0,
+      "time": 157.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¿a quién iré sino solo a ti?",
+      "words": [
+        {
+          "word": "a",
+          "start": 165.3,
+          "end": 165.5
+        },
+        {
+          "word": "quien",
+          "start": 165.5,
+          "end": 166.3
+        },
+        {
+          "word": "iré",
+          "start": 166.3,
+          "end": 167.66
+        },
+        {
+          "word": "si",
+          "start": 167.66,
+          "end": 168.02
+        },
+        {
+          "word": "solo",
+          "start": 168.4,
+          "end": 169.36
+        },
+        {
+          "word": "a",
+          "start": 169.36,
+          "end": 170.26
+        },
+        {
+          "word": "Ti.",
+          "start": 170.26,
+          "end": 171.72
+        }
+      ],
+      "start": 165.3,
+      "end": 171.72,
+      "confidence": 0.991,
+      "time": 165.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Yo te rindo mi vida entera",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 172.98,
+          "end": 173.94
+        },
+        {
+          "word": "te",
+          "start": 173.94,
+          "end": 174.92
+        },
+        {
+          "word": "rindo",
+          "start": 174.92,
+          "end": 175.86
+        },
+        {
+          "word": "mi",
+          "start": 175.86,
+          "end": 176.32
+        },
+        {
+          "word": "vida",
+          "start": 176.32,
+          "end": 177.68
+        },
+        {
+          "word": "entera",
+          "start": 177.68,
+          "end": 178.68
+        }
+      ],
+      "start": 172.98,
+      "end": 178.68,
+      "confidence": 1.0,
+      "time": 172.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "para siempre a ti, Señor.",
+      "words": [
+        {
+          "word": "para",
+          "start": 178.68,
+          "end": 179.5
+        },
+        {
+          "word": "siempre",
+          "start": 179.5,
+          "end": 180.78
+        },
+        {
+          "word": "a",
+          "start": 180.78,
+          "end": 181.2
+        },
+        {
+          "word": "Ti,",
+          "start": 181.2,
+          "end": 182.34
+        },
+        {
+          "word": "Señor.",
+          "start": 182.64,
+          "end": 184.04
+        }
+      ],
+      "start": 178.68,
+      "end": 184.04,
+      "confidence": 1.0,
+      "time": 178.68
+    }
+  ]
+}

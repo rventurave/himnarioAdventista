@@ -1,0 +1,660 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.885,
+  "language": "es",
+  "model": "medium",
+  "hymn": 310,
+  "source": "310 - Cristo, centro de mi vida.mp3",
+  "duration": 140.98,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo, centro de mi vida,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 9.58,
+          "end": 10.28
+        },
+        {
+          "word": "dentro",
+          "start": 12.32,
+          "end": 12.8
+        },
+        {
+          "word": "de",
+          "start": 12.8,
+          "end": 13.24
+        },
+        {
+          "word": "mi",
+          "start": 13.24,
+          "end": 13.52
+        },
+        {
+          "word": "vida",
+          "start": 13.52,
+          "end": 14.46
+        }
+      ],
+      "start": 9.58,
+      "end": 14.46,
+      "confidence": 0.98,
+      "time": 9.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Salvador en aflicción;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "salvador",
+          "start": 14.46,
+          "end": 16.34
+        }
+      ],
+      "start": 14.46,
+      "end": 18.66,
+      "confidence": 0.333,
+      "time": 14.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nadie viene a ti en vano,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "nadie",
+          "start": 21.36,
+          "end": 22.02
+        },
+        {
+          "word": "en",
+          "start": 22.02,
+          "end": 22.38
+        },
+        {
+          "word": "vano,",
+          "start": 22.38,
+          "end": 23.14
+        }
+      ],
+      "start": 21.36,
+      "end": 23.14,
+      "confidence": 0.5,
+      "time": 21.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tu paciencia es sin fin.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tu",
+          "start": 23.14,
+          "end": 23.66
+        },
+        {
+          "word": "paciencia",
+          "start": 23.66,
+          "end": 25.2
+        },
+        {
+          "word": "es",
+          "start": 25.2,
+          "end": 26.32
+        },
+        {
+          "word": "sin",
+          "start": 26.32,
+          "end": 26.76
+        },
+        {
+          "word": "fin",
+          "start": 26.76,
+          "end": 27.52
+        }
+      ],
+      "start": 23.14,
+      "end": 27.52,
+      "confidence": 1.0,
+      "time": 23.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Del abismo líbrame,",
+      "words": [
+        {
+          "word": "abismo",
+          "start": 28.28,
+          "end": 29.7
+        },
+        {
+          "word": "libre",
+          "start": 29.7,
+          "end": 30.62
+        }
+      ],
+      "start": 28.28,
+      "end": 32.36,
+      "confidence": 0.633,
+      "time": 28.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "a tu lado quiero estar",
+      "words": [
+        {
+          "word": "a",
+          "start": 32.36,
+          "end": 32.66
+        },
+        {
+          "word": "tu",
+          "start": 32.66,
+          "end": 32.98
+        },
+        {
+          "word": "lado",
+          "start": 32.98,
+          "end": 33.92
+        },
+        {
+          "word": "quiero",
+          "start": 33.92,
+          "end": 34.84
+        },
+        {
+          "word": "estar,",
+          "start": 34.84,
+          "end": 35.94
+        }
+      ],
+      "start": 32.36,
+      "end": 37.08,
+      "confidence": 1.0,
+      "time": 32.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y por la eternidad alabarte sin cesar.",
+      "words": [
+        {
+          "word": "y",
+          "start": 37.08,
+          "end": 37.28
+        },
+        {
+          "word": "por",
+          "start": 37.28,
+          "end": 38.36
+        },
+        {
+          "word": "la",
+          "start": 38.36,
+          "end": 38.92
+        },
+        {
+          "word": "eternidad",
+          "start": 38.92,
+          "end": 40.36
+        },
+        {
+          "word": "al",
+          "start": 40.36,
+          "end": 41.64
+        },
+        {
+          "word": "sin",
+          "start": 42.68,
+          "end": 43.34
+        },
+        {
+          "word": "cesar.",
+          "start": 43.34,
+          "end": 45.8
+        }
+      ],
+      "start": 37.08,
+      "end": 45.8,
+      "confidence": 0.991,
+      "time": 37.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristo, Redentor eterno,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 47.02,
+          "end": 48.42
+        },
+        {
+          "word": "Redentor",
+          "start": 48.9,
+          "end": 49.64
+        },
+        {
+          "word": "eterno,",
+          "start": 49.64,
+          "end": 50.74
+        }
+      ],
+      "start": 47.02,
+      "end": 50.86,
+      "confidence": 1.0,
+      "time": 47.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "limpia nuestro corazón;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "limpia",
+          "start": 50.86,
+          "end": 51.92
+        },
+        {
+          "word": "nuestro",
+          "start": 51.92,
+          "end": 52.84
+        },
+        {
+          "word": "corazón,",
+          "start": 52.84,
+          "end": 54.8
+        }
+      ],
+      "start": 50.86,
+      "end": 54.8,
+      "confidence": 1.0,
+      "time": 50.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que podamos perdonarnos,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Que",
+          "start": 54.8,
+          "end": 56.26
+        },
+        {
+          "word": "podamos",
+          "start": 56.26,
+          "end": 57.9
+        },
+        {
+          "word": "perdonarnos",
+          "start": 57.9,
+          "end": 59.24
+        }
+      ],
+      "start": 54.8,
+      "end": 59.24,
+      "confidence": 1.0,
+      "time": 54.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "las ofensas olvidar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "las",
+          "start": 59.24,
+          "end": 60.16
+        },
+        {
+          "word": "ofensas,",
+          "start": 60.16,
+          "end": 62.08
+        },
+        {
+          "word": "olvidar",
+          "start": 62.08,
+          "end": 63.92
+        }
+      ],
+      "start": 59.24,
+      "end": 63.92,
+      "confidence": 1.0,
+      "time": 59.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Del abismo líbrame,",
+      "words": [
+        {
+          "word": "Del",
+          "start": 63.92,
+          "end": 64.58
+        },
+        {
+          "word": "abismo,",
+          "start": 64.58,
+          "end": 65.94
+        },
+        {
+          "word": "líbrame,",
+          "start": 65.96,
+          "end": 67.96
+        }
+      ],
+      "start": 63.92,
+      "end": 68.32,
+      "confidence": 1.0,
+      "time": 63.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "a tu lado quiero estar",
+      "words": [
+        {
+          "word": "a",
+          "start": 68.32,
+          "end": 68.78
+        },
+        {
+          "word": "tu",
+          "start": 68.78,
+          "end": 69.18
+        },
+        {
+          "word": "lado",
+          "start": 69.18,
+          "end": 70.1
+        },
+        {
+          "word": "quiero",
+          "start": 70.1,
+          "end": 70.94
+        },
+        {
+          "word": "estar",
+          "start": 70.94,
+          "end": 72.04
+        }
+      ],
+      "start": 68.32,
+      "end": 72.04,
+      "confidence": 1.0,
+      "time": 68.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y por la eternidad alabarte sin cesar.",
+      "words": [
+        {
+          "word": "Y",
+          "start": 72.04,
+          "end": 73.38
+        },
+        {
+          "word": "por",
+          "start": 73.38,
+          "end": 74.5
+        },
+        {
+          "word": "la",
+          "start": 74.5,
+          "end": 75.04
+        },
+        {
+          "word": "eternidad,",
+          "start": 75.04,
+          "end": 76.68
+        },
+        {
+          "word": "alabarte",
+          "start": 77.2,
+          "end": 78.8
+        },
+        {
+          "word": "sin",
+          "start": 78.8,
+          "end": 79.52
+        },
+        {
+          "word": "cesar",
+          "start": 79.52,
+          "end": 82.18
+        }
+      ],
+      "start": 72.04,
+      "end": 82.18,
+      "confidence": 1.0,
+      "time": 72.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cristo, sobre todo reinas,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 82.18,
+          "end": 84.24
+        },
+        {
+          "word": "sobre",
+          "start": 84.74,
+          "end": 85.24
+        },
+        {
+          "word": "todo,",
+          "start": 85.24,
+          "end": 85.74
+        },
+        {
+          "word": "Reinas,",
+          "start": 86.34,
+          "end": 86.8
+        }
+      ],
+      "start": 82.18,
+      "end": 87.08,
+      "confidence": 1.0,
+      "time": 82.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "eternal es tu poder.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Eterna,",
+          "start": 87.08,
+          "end": 88.42
+        }
+      ],
+      "start": 87.08,
+      "end": 91.08,
+      "confidence": 0.235,
+      "time": 87.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Infinita es tu gracia",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Infinita",
+          "start": 91.94,
+          "end": 93.84
+        },
+        {
+          "word": "es",
+          "start": 93.84,
+          "end": 94.24
+        },
+        {
+          "word": "gracia",
+          "start": 94.44,
+          "end": 95.46
+        }
+      ],
+      "start": 91.94,
+      "end": 95.46,
+      "confidence": 0.75,
+      "time": 91.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "para todo pecador.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "para",
+          "start": 95.46,
+          "end": 96.44
+        },
+        {
+          "word": "todo",
+          "start": 96.44,
+          "end": 97.54
+        },
+        {
+          "word": "pecador.",
+          "start": 97.54,
+          "end": 99.62
+        }
+      ],
+      "start": 95.46,
+      "end": 99.62,
+      "confidence": 1.0,
+      "time": 95.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Del abismo líbrame,",
+      "words": [
+        {
+          "word": "Del",
+          "start": 99.62,
+          "end": 100.64
+        },
+        {
+          "word": "abismo",
+          "start": 100.64,
+          "end": 102.02
+        },
+        {
+          "word": "libre",
+          "start": 102.02,
+          "end": 102.88
+        }
+      ],
+      "start": 99.62,
+      "end": 104.66,
+      "confidence": 0.967,
+      "time": 99.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "a tu lado quiero estar",
+      "words": [
+        {
+          "word": "a",
+          "start": 104.66,
+          "end": 104.88
+        },
+        {
+          "word": "tu",
+          "start": 104.88,
+          "end": 105.28
+        },
+        {
+          "word": "lado",
+          "start": 105.28,
+          "end": 106.2
+        },
+        {
+          "word": "quiero",
+          "start": 106.2,
+          "end": 107.1
+        },
+        {
+          "word": "estar,",
+          "start": 107.1,
+          "end": 108.34
+        }
+      ],
+      "start": 104.66,
+      "end": 109.56,
+      "confidence": 1.0,
+      "time": 104.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y por la eternidad alabarte sin cesar.",
+      "words": [
+        {
+          "word": "y",
+          "start": 109.56,
+          "end": 109.8
+        },
+        {
+          "word": "por",
+          "start": 109.8,
+          "end": 110.78
+        },
+        {
+          "word": "la",
+          "start": 110.78,
+          "end": 111.3
+        },
+        {
+          "word": "eternidad",
+          "start": 111.3,
+          "end": 112.8
+        },
+        {
+          "word": "al",
+          "start": 112.8,
+          "end": 113.74
+        },
+        {
+          "word": "sin",
+          "start": 115.34,
+          "end": 115.84
+        },
+        {
+          "word": "cesar.",
+          "start": 115.84,
+          "end": 118.4
+        }
+      ],
+      "start": 109.56,
+      "end": 118.4,
+      "confidence": 0.991,
+      "time": 109.56
+    }
+  ]
+}

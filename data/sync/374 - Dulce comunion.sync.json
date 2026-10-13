@@ -1,0 +1,888 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.932,
+  "language": "es",
+  "model": "medium",
+  "hymn": 374,
+  "source": "374 - Dulce comunion.mp3",
+  "duration": 148.66,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Dulce comunión la que gozo ya",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Dulce",
+          "start": 12.36,
+          "end": 13.7
+        },
+        {
+          "word": "comunión,",
+          "start": 13.7,
+          "end": 15.04
+        },
+        {
+          "word": "la",
+          "start": 15.06,
+          "end": 15.78
+        },
+        {
+          "word": "que",
+          "start": 15.78,
+          "end": 16.42
+        },
+        {
+          "word": "gozo",
+          "start": 16.42,
+          "end": 16.98
+        },
+        {
+          "word": "ya",
+          "start": 16.98,
+          "end": 17.5
+        }
+      ],
+      "start": 12.36,
+      "end": 17.5,
+      "confidence": 1.0,
+      "time": 12.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en los brazos de mi Salvador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 17.5,
+          "end": 18.46
+        },
+        {
+          "word": "los",
+          "start": 18.46,
+          "end": 19.1
+        },
+        {
+          "word": "brazos",
+          "start": 19.1,
+          "end": 19.82
+        },
+        {
+          "word": "de",
+          "start": 19.82,
+          "end": 20.12
+        },
+        {
+          "word": "mi",
+          "start": 20.12,
+          "end": 20.38
+        },
+        {
+          "word": "Salvador",
+          "start": 20.38,
+          "end": 22.6
+        }
+      ],
+      "start": 17.5,
+      "end": 22.6,
+      "confidence": 1.0,
+      "time": 17.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Qué gran bendición en su paz me da!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Que",
+          "start": 22.6,
+          "end": 23.74
+        },
+        {
+          "word": "gran",
+          "start": 23.74,
+          "end": 24.4
+        },
+        {
+          "word": "bendición",
+          "start": 24.4,
+          "end": 25.52
+        },
+        {
+          "word": "en",
+          "start": 25.52,
+          "end": 26.4
+        },
+        {
+          "word": "su",
+          "start": 26.4,
+          "end": 27.08
+        },
+        {
+          "word": "paz",
+          "start": 27.08,
+          "end": 27.46
+        },
+        {
+          "word": "me",
+          "start": 27.46,
+          "end": 27.78
+        },
+        {
+          "word": "da",
+          "start": 27.78,
+          "end": 28.1
+        }
+      ],
+      "start": 22.6,
+      "end": 28.1,
+      "confidence": 1.0,
+      "time": 22.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh!, yo siento en mí su tierno amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "yo",
+          "start": 29.02,
+          "end": 29.74
+        },
+        {
+          "word": "siento",
+          "start": 29.74,
+          "end": 30.16
+        },
+        {
+          "word": "en",
+          "start": 30.16,
+          "end": 30.38
+        },
+        {
+          "word": "mí",
+          "start": 30.38,
+          "end": 30.76
+        },
+        {
+          "word": "su",
+          "start": 30.76,
+          "end": 31.04
+        },
+        {
+          "word": "eterno",
+          "start": 31.04,
+          "end": 32.32
+        },
+        {
+          "word": "amor",
+          "start": 32.32,
+          "end": 33.54
+        }
+      ],
+      "start": 29.02,
+      "end": 33.54,
+      "confidence": 0.862,
+      "time": 29.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Libre, salvo",
+      "words": [
+        {
+          "word": "Vibre,",
+          "start": 33.54,
+          "end": 36.3
+        },
+        {
+          "word": "salvo",
+          "start": 37.64,
+          "end": 38.66
+        }
+      ],
+      "start": 33.54,
+      "end": 38.66,
+      "confidence": 0.94,
+      "time": 33.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "de cuitas, penas y dolor;",
+      "words": [
+        {
+          "word": "cuitas",
+          "start": 39.64,
+          "end": 40.3
+        },
+        {
+          "word": "penas",
+          "start": 40.3,
+          "end": 41.84
+        },
+        {
+          "word": "y",
+          "start": 41.84,
+          "end": 42.72
+        },
+        {
+          "word": "dolor",
+          "start": 42.72,
+          "end": 44.02
+        }
+      ],
+      "start": 39.64,
+      "end": 44.02,
+      "confidence": 0.8,
+      "time": 39.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "libre, salvo,",
+      "words": [
+        {
+          "word": "Vibre,",
+          "start": 45.54,
+          "end": 46.94
+        },
+        {
+          "word": "salvo",
+          "start": 48.14,
+          "end": 49.3
+        }
+      ],
+      "start": 45.54,
+      "end": 49.3,
+      "confidence": 0.94,
+      "time": 45.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en los brazos de mi Salvador.",
+      "words": [
+        {
+          "word": "En",
+          "start": 49.3,
+          "end": 50.34
+        },
+        {
+          "word": "los",
+          "start": 50.34,
+          "end": 51.12
+        },
+        {
+          "word": "brazos",
+          "start": 51.12,
+          "end": 51.7
+        },
+        {
+          "word": "de",
+          "start": 51.7,
+          "end": 52.1
+        },
+        {
+          "word": "mi",
+          "start": 52.1,
+          "end": 52.36
+        },
+        {
+          "word": "salvador",
+          "start": 52.36,
+          "end": 55.12
+        }
+      ],
+      "start": 49.3,
+      "end": 55.12,
+      "confidence": 1.0,
+      "time": 49.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Cuán dulce es vivir, cuán dulce es gozar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¿Cuán",
+          "start": 55.12,
+          "end": 57.08
+        },
+        {
+          "word": "dulce",
+          "start": 57.08,
+          "end": 57.86
+        },
+        {
+          "word": "es",
+          "start": 57.86,
+          "end": 58.18
+        },
+        {
+          "word": "vivir?",
+          "start": 58.18,
+          "end": 58.74
+        },
+        {
+          "word": "¿Cuán",
+          "start": 59.06,
+          "end": 59.7
+        },
+        {
+          "word": "dulce",
+          "start": 59.7,
+          "end": 60.72
+        },
+        {
+          "word": "es",
+          "start": 60.72,
+          "end": 60.92
+        }
+      ],
+      "start": 55.12,
+      "end": 62.4,
+      "confidence": 0.875,
+      "time": 55.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en los brazos de mi Salvador!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 62.4,
+          "end": 62.48
+        },
+        {
+          "word": "los",
+          "start": 62.48,
+          "end": 63.18
+        },
+        {
+          "word": "brazos",
+          "start": 63.18,
+          "end": 63.72
+        },
+        {
+          "word": "de",
+          "start": 63.72,
+          "end": 64.14
+        },
+        {
+          "word": "mi",
+          "start": 64.14,
+          "end": 64.38
+        },
+        {
+          "word": "Salvador",
+          "start": 64.38,
+          "end": 66.32
+        }
+      ],
+      "start": 62.4,
+      "end": 66.32,
+      "confidence": 1.0,
+      "time": 62.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Quiero estar con él en su eterno hogar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Quieres",
+          "start": 66.32,
+          "end": 68.44
+        },
+        {
+          "word": "estar",
+          "start": 68.44,
+          "end": 68.92
+        },
+        {
+          "word": "con",
+          "start": 68.92,
+          "end": 69.2
+        },
+        {
+          "word": "Él",
+          "start": 69.2,
+          "end": 69.8
+        },
+        {
+          "word": "en",
+          "start": 69.8,
+          "end": 70.54
+        },
+        {
+          "word": "su",
+          "start": 70.54,
+          "end": 71.0
+        },
+        {
+          "word": "eterno",
+          "start": 71.0,
+          "end": 71.92
+        },
+        {
+          "word": "hogar",
+          "start": 71.92,
+          "end": 72.34
+        }
+      ],
+      "start": 66.32,
+      "end": 72.34,
+      "confidence": 0.983,
+      "time": 66.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "siendo objeto de su tierno amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Siendo",
+          "start": 72.34,
+          "end": 73.34
+        },
+        {
+          "word": "objeto",
+          "start": 73.34,
+          "end": 74.3
+        },
+        {
+          "word": "de",
+          "start": 74.3,
+          "end": 74.8
+        },
+        {
+          "word": "su",
+          "start": 74.8,
+          "end": 75.04
+        },
+        {
+          "word": "eterno",
+          "start": 75.04,
+          "end": 76.46
+        },
+        {
+          "word": "amor",
+          "start": 76.46,
+          "end": 77.54
+        }
+      ],
+      "start": 72.34,
+      "end": 77.54,
+      "confidence": 0.983,
+      "time": 72.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Libre, salvo",
+      "words": [
+        {
+          "word": "Libre",
+          "start": 77.54,
+          "end": 80.34
+        },
+        {
+          "word": "salvo",
+          "start": 80.34,
+          "end": 82.72
+        }
+      ],
+      "start": 77.54,
+      "end": 82.72,
+      "confidence": 1.0,
+      "time": 77.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "de cuitas, penas y dolor;",
+      "words": [
+        {
+          "word": "de",
+          "start": 82.72,
+          "end": 83.72
+        },
+        {
+          "word": "quitas,",
+          "start": 83.72,
+          "end": 84.6
+        },
+        {
+          "word": "penas",
+          "start": 84.96,
+          "end": 85.78
+        },
+        {
+          "word": "y",
+          "start": 85.78,
+          "end": 86.46
+        },
+        {
+          "word": "dolor",
+          "start": 86.46,
+          "end": 87.94
+        }
+      ],
+      "start": 82.72,
+      "end": 87.94,
+      "confidence": 0.98,
+      "time": 82.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "libre, salvo,",
+      "words": [
+        {
+          "word": "Libre",
+          "start": 90.7,
+          "end": 92.1
+        },
+        {
+          "word": "salvo",
+          "start": 92.1,
+          "end": 93.5
+        }
+      ],
+      "start": 90.7,
+      "end": 93.5,
+      "confidence": 1.0,
+      "time": 90.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en los brazos de mi Salvador.",
+      "words": [
+        {
+          "word": "en",
+          "start": 93.5,
+          "end": 94.44
+        },
+        {
+          "word": "los",
+          "start": 94.44,
+          "end": 95.18
+        },
+        {
+          "word": "brazos",
+          "start": 95.18,
+          "end": 95.8
+        },
+        {
+          "word": "de",
+          "start": 95.8,
+          "end": 96.14
+        },
+        {
+          "word": "mi",
+          "start": 96.14,
+          "end": 96.42
+        },
+        {
+          "word": "Salvador",
+          "start": 96.42,
+          "end": 99.52
+        }
+      ],
+      "start": 93.5,
+      "end": 99.52,
+      "confidence": 1.0,
+      "time": 93.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "No habré de temer ni aun desconfiar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "No",
+          "start": 99.52,
+          "end": 100.84
+        },
+        {
+          "word": "temer",
+          "start": 102.3,
+          "end": 103.02
+        },
+        {
+          "word": "ni",
+          "start": 103.02,
+          "end": 103.84
+        },
+        {
+          "word": "a",
+          "start": 103.84,
+          "end": 104.2
+        },
+        {
+          "word": "desconfiar",
+          "start": 104.52,
+          "end": 105.52
+        }
+      ],
+      "start": 99.52,
+      "end": 105.52,
+      "confidence": 0.706,
+      "time": 99.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en los brazos de mi Salvador.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 105.52,
+          "end": 106.42
+        },
+        {
+          "word": "los",
+          "start": 106.42,
+          "end": 107.14
+        },
+        {
+          "word": "brazos",
+          "start": 107.14,
+          "end": 107.8
+        },
+        {
+          "word": "de",
+          "start": 107.8,
+          "end": 108.14
+        },
+        {
+          "word": "mi",
+          "start": 108.14,
+          "end": 108.34
+        },
+        {
+          "word": "salvador",
+          "start": 108.34,
+          "end": 110.76
+        }
+      ],
+      "start": 105.52,
+      "end": 110.76,
+      "confidence": 1.0,
+      "time": 105.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "En él puedo yo bien seguro estar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 110.76,
+          "end": 111.92
+        },
+        {
+          "word": "el",
+          "start": 111.92,
+          "end": 112.5
+        },
+        {
+          "word": "fuego",
+          "start": 112.5,
+          "end": 112.96
+        },
+        {
+          "word": "yo",
+          "start": 112.96,
+          "end": 113.62
+        },
+        {
+          "word": "piense",
+          "start": 113.62,
+          "end": 115.08
+        }
+      ],
+      "start": 110.76,
+      "end": 116.12,
+      "confidence": 0.646,
+      "time": 110.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "de los lazos del vil tentador.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "De",
+          "start": 116.12,
+          "end": 117.1
+        },
+        {
+          "word": "los",
+          "start": 117.1,
+          "end": 117.86
+        },
+        {
+          "word": "asos",
+          "start": 117.86,
+          "end": 118.46
+        },
+        {
+          "word": "del",
+          "start": 118.46,
+          "end": 118.8
+        },
+        {
+          "word": "vil",
+          "start": 118.8,
+          "end": 119.36
+        },
+        {
+          "word": "tentador",
+          "start": 119.36,
+          "end": 121.4
+        }
+      ],
+      "start": 116.12,
+      "end": 121.4,
+      "confidence": 0.967,
+      "time": 116.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Libre, salvo",
+      "words": [
+        {
+          "word": "Libre",
+          "start": 124.02,
+          "end": 125.42
+        },
+        {
+          "word": "salvo",
+          "start": 125.42,
+          "end": 126.82
+        }
+      ],
+      "start": 124.02,
+      "end": 126.82,
+      "confidence": 1.0,
+      "time": 124.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "de cuitas, penas y dolor;",
+      "words": [
+        {
+          "word": "de",
+          "start": 126.82,
+          "end": 127.72
+        },
+        {
+          "word": "quitas,",
+          "start": 127.72,
+          "end": 128.68
+        },
+        {
+          "word": "penas",
+          "start": 128.88,
+          "end": 129.94
+        },
+        {
+          "word": "y",
+          "start": 129.94,
+          "end": 130.44
+        },
+        {
+          "word": "dolor,",
+          "start": 130.44,
+          "end": 132.04
+        }
+      ],
+      "start": 126.82,
+      "end": 132.04,
+      "confidence": 0.98,
+      "time": 126.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "libre, salvo,",
+      "words": [
+        {
+          "word": "Libre",
+          "start": 134.88,
+          "end": 136.28
+        },
+        {
+          "word": "salvo",
+          "start": 136.28,
+          "end": 137.68
+        }
+      ],
+      "start": 134.88,
+      "end": 137.68,
+      "confidence": 1.0,
+      "time": 134.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en los brazos de mi Salvador.",
+      "words": [
+        {
+          "word": "en",
+          "start": 137.68,
+          "end": 138.54
+        },
+        {
+          "word": "los",
+          "start": 138.54,
+          "end": 139.12
+        },
+        {
+          "word": "trazos",
+          "start": 139.12,
+          "end": 139.84
+        },
+        {
+          "word": "de",
+          "start": 139.84,
+          "end": 140.2
+        },
+        {
+          "word": "mi",
+          "start": 140.2,
+          "end": 140.72
+        },
+        {
+          "word": "salvador.",
+          "start": 140.72,
+          "end": 142.94
+        }
+      ],
+      "start": 137.68,
+      "end": 142.94,
+      "confidence": 0.983,
+      "time": 137.68
+    }
+  ]
+}

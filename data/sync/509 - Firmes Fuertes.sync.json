@@ -1,0 +1,723 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.631,
+  "language": "es",
+  "model": "medium",
+  "hymn": 509,
+  "source": "509 - Firmes Fuertes.mp3",
+  "duration": 149.76,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Siervos de Jesús, hombres de verdad,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cielos",
+          "start": 13.12,
+          "end": 14.4
+        },
+        {
+          "word": "de",
+          "start": 14.4,
+          "end": 14.78
+        },
+        {
+          "word": "Jesús,",
+          "start": 14.78,
+          "end": 15.42
+        },
+        {
+          "word": "hombres",
+          "start": 15.8,
+          "end": 16.98
+        },
+        {
+          "word": "de",
+          "start": 16.98,
+          "end": 17.58
+        },
+        {
+          "word": "verdad,",
+          "start": 17.58,
+          "end": 18.26
+        }
+      ],
+      "start": 13.12,
+      "end": 18.9,
+      "confidence": 0.962,
+      "time": 13.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "guardas del deber, somos, sí;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "guardas",
+          "start": 18.9,
+          "end": 20.06
+        },
+        {
+          "word": "de",
+          "start": 20.06,
+          "end": 20.38
+        },
+        {
+          "word": "somos",
+          "start": 21.56,
+          "end": 22.46
+        },
+        {
+          "word": "así.",
+          "start": 22.46,
+          "end": 23.76
+        }
+      ],
+      "start": 18.9,
+      "end": 23.76,
+      "confidence": 0.764,
+      "time": 18.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "libres de maldad, ricos en bondad,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 25.54,
+          "end": 25.88
+        },
+        {
+          "word": "maldad,",
+          "start": 25.88,
+          "end": 26.64
+        },
+        {
+          "word": "ricos",
+          "start": 26.68,
+          "end": 28.08
+        },
+        {
+          "word": "en",
+          "start": 28.08,
+          "end": 28.56
+        }
+      ],
+      "start": 25.54,
+      "end": 29.3,
+      "confidence": 0.667,
+      "time": 25.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "fieles en la lid seremos, sí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Quieres",
+          "start": 29.9,
+          "end": 31.02
+        },
+        {
+          "word": "en",
+          "start": 31.02,
+          "end": 31.4
+        },
+        {
+          "word": "la",
+          "start": 31.4,
+          "end": 31.7
+        }
+      ],
+      "start": 29.9,
+      "end": 34.58,
+      "confidence": 0.462,
+      "time": 29.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Firmes! ¡Fuertes! Alcen la bandera,",
+      "words": [
+        {
+          "word": "alma",
+          "start": 38.76,
+          "end": 39.26
+        }
+      ],
+      "start": 38.76,
+      "end": 40.38,
+      "confidence": 0.16,
+      "time": 38.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "grande, noble emblema del deber.",
+      "words": [
+        {
+          "word": "Ramne,",
+          "start": 41.04,
+          "end": 41.96
+        },
+        {
+          "word": "no",
+          "start": 42.3,
+          "end": 42.66
+        },
+        {
+          "word": "él.",
+          "start": 44.8,
+          "end": 45.38
+        }
+      ],
+      "start": 41.04,
+      "end": 45.38,
+      "confidence": 0.531,
+      "time": 41.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Prontos! ¡Bravos! Pasen la consigna,",
+      "words": [
+        {
+          "word": "bravos,",
+          "start": 47.52,
+          "end": 48.72
+        },
+        {
+          "word": "alma",
+          "start": 49.74,
+          "end": 50.08
+        },
+        {
+          "word": "sinca,",
+          "start": 50.08,
+          "end": 51.18
+        }
+      ],
+      "start": 47.52,
+      "end": 51.18,
+      "confidence": 0.514,
+      "time": 47.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "marchen todos, vamos a vencer.",
+      "words": [
+        {
+          "word": "Hacen",
+          "start": 51.18,
+          "end": 53.02
+        },
+        {
+          "word": "almas",
+          "start": 54.12,
+          "end": 54.4
+        },
+        {
+          "word": "a",
+          "start": 54.4,
+          "end": 55.34
+        },
+        {
+          "word": "vencer.",
+          "start": 55.34,
+          "end": 57.18
+        }
+      ],
+      "start": 51.18,
+      "end": 57.18,
+      "confidence": 0.712,
+      "time": 51.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cuán hermosos son los que sin temor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¿Cuán",
+          "start": 58.7,
+          "end": 59.48
+        },
+        {
+          "word": "son",
+          "start": 60.36,
+          "end": 61.1
+        },
+        {
+          "word": "los",
+          "start": 61.1,
+          "end": 61.9
+        },
+        {
+          "word": "que",
+          "start": 61.9,
+          "end": 62.52
+        },
+        {
+          "word": "sin",
+          "start": 62.52,
+          "end": 63.0
+        },
+        {
+          "word": "temor",
+          "start": 63.0,
+          "end": 63.7
+        }
+      ],
+      "start": 58.7,
+      "end": 63.7,
+      "confidence": 0.857,
+      "time": 58.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "listos, al llamar del clarín,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "llamar",
+          "start": 65.72,
+          "end": 66.74
+        },
+        {
+          "word": "del",
+          "start": 66.74,
+          "end": 67.5
+        },
+        {
+          "word": "Clarín?",
+          "start": 67.5,
+          "end": 69.26
+        }
+      ],
+      "start": 65.72,
+      "end": 69.26,
+      "confidence": 0.6,
+      "time": 65.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "luchan con valor, sufren sin cesar;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Luchan",
+          "start": 69.68,
+          "end": 70.96
+        },
+        {
+          "word": "con",
+          "start": 70.96,
+          "end": 71.36
+        },
+        {
+          "word": "valor,",
+          "start": 71.36,
+          "end": 72.02
+        },
+        {
+          "word": "sufren",
+          "start": 72.7,
+          "end": 73.62
+        },
+        {
+          "word": "sin",
+          "start": 73.62,
+          "end": 74.12
+        },
+        {
+          "word": "cesar,",
+          "start": 74.12,
+          "end": 74.82
+        }
+      ],
+      "start": 69.68,
+      "end": 74.82,
+      "confidence": 1.0,
+      "time": 69.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "guardas del deber hasta el fin.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "guardas",
+          "start": 75.36,
+          "end": 76.44
+        },
+        {
+          "word": "del",
+          "start": 76.44,
+          "end": 76.82
+        },
+        {
+          "word": "deber",
+          "start": 76.82,
+          "end": 77.48
+        },
+        {
+          "word": "hasta",
+          "start": 77.48,
+          "end": 78.52
+        },
+        {
+          "word": "el",
+          "start": 78.52,
+          "end": 79.28
+        },
+        {
+          "word": "fin.",
+          "start": 79.28,
+          "end": 80.06
+        }
+      ],
+      "start": 75.36,
+      "end": 80.06,
+      "confidence": 1.0,
+      "time": 75.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Firmes! ¡Fuertes! Alcen la bandera,",
+      "words": [
+        {
+          "word": "muertes,",
+          "start": 82.04,
+          "end": 83.3
+        },
+        {
+          "word": "la",
+          "start": 84.42,
+          "end": 84.88
+        }
+      ],
+      "start": 82.04,
+      "end": 86.5,
+      "confidence": 0.383,
+      "time": 82.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "grande, noble emblema del deber.",
+      "words": [
+        {
+          "word": "grande",
+          "start": 86.5,
+          "end": 87.36
+        },
+        {
+          "word": "él.",
+          "start": 90.66,
+          "end": 91.22
+        }
+      ],
+      "start": 86.5,
+      "end": 91.22,
+      "confidence": 0.376,
+      "time": 86.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Prontos! ¡Bravos! Pasen la consigna,",
+      "words": [
+        {
+          "word": "Pronto",
+          "start": 91.94,
+          "end": 92.5
+        },
+        {
+          "word": "dragos,",
+          "start": 93.24,
+          "end": 94.26
+        },
+        {
+          "word": "la",
+          "start": 95.14,
+          "end": 95.52
+        },
+        {
+          "word": "cocina,",
+          "start": 95.52,
+          "end": 96.7
+        }
+      ],
+      "start": 91.94,
+      "end": 97.54,
+      "confidence": 0.714,
+      "time": 91.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "marchen todos, vamos a vencer.",
+      "words": [
+        {
+          "word": "marchen",
+          "start": 97.54,
+          "end": 98.74
+        },
+        {
+          "word": "almas",
+          "start": 99.46,
+          "end": 100.04
+        },
+        {
+          "word": "a",
+          "start": 100.04,
+          "end": 100.9
+        },
+        {
+          "word": "vencer.",
+          "start": 100.9,
+          "end": 102.6
+        }
+      ],
+      "start": 97.54,
+      "end": 102.6,
+      "confidence": 0.752,
+      "time": 97.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Nuestro Capitán es ya vencedor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Nuestro",
+          "start": 102.6,
+          "end": 105.38
+        },
+        {
+          "word": "Capitán,",
+          "start": 105.38,
+          "end": 106.78
+        }
+      ],
+      "start": 102.6,
+      "end": 106.86,
+      "confidence": 0.4,
+      "time": 102.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "él nos redimió por su cruz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 106.86,
+          "end": 107.5
+        },
+        {
+          "word": "nos",
+          "start": 110.38,
+          "end": 111.08
+        },
+        {
+          "word": "redimió",
+          "start": 111.08,
+          "end": 112.18
+        },
+        {
+          "word": "su",
+          "start": 113.04,
+          "end": 113.72
+        },
+        {
+          "word": "cruz.",
+          "start": 113.72,
+          "end": 114.92
+        }
+      ],
+      "start": 106.86,
+      "end": 114.92,
+      "confidence": 0.833,
+      "time": 106.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Guardas del deber, él nos da poder,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "del",
+          "start": 116.6,
+          "end": 116.9
+        },
+        {
+          "word": "bebé,",
+          "start": 116.9,
+          "end": 117.64
+        },
+        {
+          "word": "nos",
+          "start": 118.64,
+          "end": 119.26
+        },
+        {
+          "word": "da",
+          "start": 119.26,
+          "end": 119.62
+        },
+        {
+          "word": "poder,",
+          "start": 119.62,
+          "end": 120.24
+        }
+      ],
+      "start": 116.6,
+      "end": 121.38,
+      "confidence": 0.686,
+      "time": 116.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "él nos guiará hasta la luz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "los",
+          "start": 121.38,
+          "end": 121.96
+        },
+        {
+          "word": "la",
+          "start": 123.98,
+          "end": 124.8
+        },
+        {
+          "word": "luz.",
+          "start": 124.8,
+          "end": 125.74
+        }
+      ],
+      "start": 121.38,
+      "end": 125.74,
+      "confidence": 0.467,
+      "time": 121.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Firmes! ¡Fuertes! Alcen la bandera,",
+      "words": [
+        {
+          "word": "suerte,",
+          "start": 127.4,
+          "end": 128.7
+        },
+        {
+          "word": "salse",
+          "start": 128.82,
+          "end": 129.54
+        },
+        {
+          "word": "la",
+          "start": 129.54,
+          "end": 130.02
+        },
+        {
+          "word": "batera,",
+          "start": 130.02,
+          "end": 131.54
+        }
+      ],
+      "start": 127.4,
+      "end": 131.54,
+      "confidence": 0.697,
+      "time": 127.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "grande, noble emblema del deber.",
+      "words": [
+        {
+          "word": "norte,",
+          "start": 133.28,
+          "end": 134.06
+        },
+        {
+          "word": "del",
+          "start": 135.0,
+          "end": 135.54
+        }
+      ],
+      "start": 133.28,
+      "end": 136.62,
+      "confidence": 0.352,
+      "time": 133.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Prontos! ¡Bravos! Pasen la consigna,",
+      "words": [
+        {
+          "word": "robos,",
+          "start": 138.52,
+          "end": 139.84
+        },
+        {
+          "word": "pasen",
+          "start": 140.24,
+          "end": 140.78
+        },
+        {
+          "word": "la",
+          "start": 140.78,
+          "end": 141.1
+        },
+        {
+          "word": "consigna,",
+          "start": 141.1,
+          "end": 142.46
+        }
+      ],
+      "start": 138.52,
+      "end": 142.46,
+      "confidence": 0.76,
+      "time": 138.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "marchen todos, vamos a vencer.",
+      "words": [
+        {
+          "word": "a",
+          "start": 145.08,
+          "end": 145.3
+        }
+      ],
+      "start": 145.08,
+      "end": 148.66,
+      "confidence": 0.2,
+      "time": 145.08
+    }
+  ]
+}

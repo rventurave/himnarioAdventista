@@ -1,0 +1,838 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.928,
+  "language": "es",
+  "model": "medium",
+  "hymn": 461,
+  "source": "461 - A tu lado anhelo estar.mp3",
+  "duration": 180.85,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Oh, Señor, muy débil soy;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "débil",
+          "start": 29.98,
+          "end": 30.86
+        },
+        {
+          "word": "soy.",
+          "start": 30.86,
+          "end": 33.72
+        }
+      ],
+      "start": 29.98,
+      "end": 34.74,
+      "confidence": 0.4,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "guárdame de todo mal.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Guárdame",
+          "start": 34.74,
+          "end": 35.94
+        },
+        {
+          "word": "de",
+          "start": 35.94,
+          "end": 36.46
+        },
+        {
+          "word": "todo",
+          "start": 36.46,
+          "end": 36.92
+        }
+      ],
+      "start": 34.74,
+      "end": 40.34,
+      "confidence": 0.75,
+      "time": 34.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Solo en ti seguro estoy;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Solo",
+          "start": 40.34,
+          "end": 41.34
+        },
+        {
+          "word": "en",
+          "start": 41.34,
+          "end": 41.74
+        },
+        {
+          "word": "ti",
+          "start": 41.74,
+          "end": 42.2
+        },
+        {
+          "word": "seguro",
+          "start": 42.2,
+          "end": 42.94
+        },
+        {
+          "word": "estoy.",
+          "start": 42.94,
+          "end": 45.26
+        }
+      ],
+      "start": 40.34,
+      "end": 45.56,
+      "confidence": 1.0,
+      "time": 40.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "junto a ti, mi Jesús, quiero andar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Junto",
+          "start": 45.56,
+          "end": 46.14
+        },
+        {
+          "word": "a",
+          "start": 46.14,
+          "end": 46.42
+        },
+        {
+          "word": "ti,",
+          "start": 46.42,
+          "end": 47.04
+        },
+        {
+          "word": "mi",
+          "start": 47.08,
+          "end": 47.44
+        },
+        {
+          "word": "Jesús,",
+          "start": 47.44,
+          "end": 48.54
+        },
+        {
+          "word": "quiero",
+          "start": 48.62,
+          "end": 49.18
+        }
+      ],
+      "start": 45.56,
+      "end": 49.18,
+      "confidence": 0.857,
+      "time": 45.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "A tu lado anhelo estar;",
+      "words": [
+        {
+          "word": "a",
+          "start": 51.18,
+          "end": 52.58
+        },
+        {
+          "word": "tu",
+          "start": 52.58,
+          "end": 53.92
+        },
+        {
+          "word": "lado,",
+          "start": 53.92,
+          "end": 54.62
+        },
+        {
+          "word": "onelo",
+          "start": 54.64,
+          "end": 55.4
+        },
+        {
+          "word": "estar.",
+          "start": 55.4,
+          "end": 58.06
+        }
+      ],
+      "start": 51.18,
+      "end": 59.56,
+      "confidence": 0.967,
+      "time": 51.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "es mi ruego, mi Señor.",
+      "words": [
+        {
+          "word": "Es",
+          "start": 59.56,
+          "end": 59.74
+        },
+        {
+          "word": "mi",
+          "start": 59.74,
+          "end": 60.04
+        },
+        {
+          "word": "ruego,",
+          "start": 60.04,
+          "end": 60.8
+        },
+        {
+          "word": "mi",
+          "start": 60.84,
+          "end": 61.34
+        },
+        {
+          "word": "Señor,",
+          "start": 61.34,
+          "end": 64.34
+        }
+      ],
+      "start": 59.56,
+      "end": 64.34,
+      "confidence": 1.0,
+      "time": 59.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Diariamente junto a ti,",
+      "words": [
+        {
+          "word": "Diariamente",
+          "start": 64.34,
+          "end": 66.7
+        },
+        {
+          "word": "junto",
+          "start": 66.7,
+          "end": 67.42
+        },
+        {
+          "word": "a",
+          "start": 67.42,
+          "end": 67.9
+        },
+        {
+          "word": "ti,",
+          "start": 67.9,
+          "end": 70.04
+        }
+      ],
+      "start": 64.34,
+      "end": 70.5,
+      "confidence": 1.0,
+      "time": 64.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "guíame para andar en tu amor.",
+      "words": [
+        {
+          "word": "guíame",
+          "start": 70.5,
+          "end": 71.52
+        },
+        {
+          "word": "para",
+          "start": 71.52,
+          "end": 72.2
+        },
+        {
+          "word": "andar",
+          "start": 72.2,
+          "end": 73.2
+        },
+        {
+          "word": "en",
+          "start": 73.2,
+          "end": 73.54
+        },
+        {
+          "word": "tu",
+          "start": 73.54,
+          "end": 73.86
+        },
+        {
+          "word": "amor.",
+          "start": 73.86,
+          "end": 76.48
+        }
+      ],
+      "start": 70.5,
+      "end": 76.48,
+      "confidence": 1.0,
+      "time": 70.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En las pruebas y el dolor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 77.16,
+          "end": 78.1
+        },
+        {
+          "word": "las",
+          "start": 78.1,
+          "end": 78.5
+        },
+        {
+          "word": "pruebas",
+          "start": 78.5,
+          "end": 79.2
+        },
+        {
+          "word": "y",
+          "start": 79.2,
+          "end": 79.58
+        },
+        {
+          "word": "el",
+          "start": 79.58,
+          "end": 79.8
+        },
+        {
+          "word": "dolor,",
+          "start": 79.8,
+          "end": 82.7
+        }
+      ],
+      "start": 77.16,
+      "end": 83.38,
+      "confidence": 1.0,
+      "time": 77.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "cuando acosa el tentador,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 83.38,
+          "end": 84.4
+        },
+        {
+          "word": "acosa",
+          "start": 84.4,
+          "end": 85.2
+        },
+        {
+          "word": "tentador,",
+          "start": 85.44,
+          "end": 88.8
+        }
+      ],
+      "start": 83.38,
+      "end": 88.8,
+      "confidence": 0.75,
+      "time": 83.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "solo tú, Señor Jesús,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Solo",
+          "start": 88.8,
+          "end": 90.52
+        },
+        {
+          "word": "tu",
+          "start": 90.52,
+          "end": 91.1
+        },
+        {
+          "word": "Señor",
+          "start": 91.1,
+          "end": 91.78
+        },
+        {
+          "word": "Jesús,",
+          "start": 91.78,
+          "end": 94.36
+        }
+      ],
+      "start": 88.8,
+      "end": 95.22,
+      "confidence": 1.0,
+      "time": 88.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "eres mi fortaleza y luz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "eres",
+          "start": 95.22,
+          "end": 95.5
+        },
+        {
+          "word": "mi",
+          "start": 95.5,
+          "end": 96.18
+        },
+        {
+          "word": "fortaleza",
+          "start": 96.18,
+          "end": 98.14
+        },
+        {
+          "word": "y",
+          "start": 98.14,
+          "end": 98.64
+        },
+        {
+          "word": "luz,",
+          "start": 98.64,
+          "end": 101.02
+        }
+      ],
+      "start": 95.22,
+      "end": 101.82,
+      "confidence": 1.0,
+      "time": 95.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "A tu lado anhelo estar;",
+      "words": [
+        {
+          "word": "a",
+          "start": 101.82,
+          "end": 102.82
+        },
+        {
+          "word": "tu",
+          "start": 102.82,
+          "end": 103.12
+        },
+        {
+          "word": "estar,",
+          "start": 104.66,
+          "end": 107.24
+        }
+      ],
+      "start": 101.82,
+      "end": 107.92,
+      "confidence": 0.6,
+      "time": 101.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "es mi ruego, mi Señor.",
+      "words": [
+        {
+          "word": "es",
+          "start": 107.92,
+          "end": 108.92
+        },
+        {
+          "word": "mi",
+          "start": 108.92,
+          "end": 109.22
+        },
+        {
+          "word": "ruego",
+          "start": 109.22,
+          "end": 109.98
+        },
+        {
+          "word": "mi",
+          "start": 109.98,
+          "end": 110.5
+        },
+        {
+          "word": "Señor.",
+          "start": 110.5,
+          "end": 113.42
+        }
+      ],
+      "start": 107.92,
+      "end": 113.42,
+      "confidence": 1.0,
+      "time": 107.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Diariamente junto a ti,",
+      "words": [
+        {
+          "word": "Diariamente",
+          "start": 113.42,
+          "end": 115.9
+        },
+        {
+          "word": "junto",
+          "start": 115.9,
+          "end": 116.62
+        },
+        {
+          "word": "a",
+          "start": 116.62,
+          "end": 117.1
+        },
+        {
+          "word": "ti,",
+          "start": 117.1,
+          "end": 119.24
+        }
+      ],
+      "start": 113.42,
+      "end": 119.72,
+      "confidence": 1.0,
+      "time": 113.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "guíame para andar en tu amor.",
+      "words": [
+        {
+          "word": "guíame",
+          "start": 119.72,
+          "end": 120.58
+        },
+        {
+          "word": "para",
+          "start": 120.58,
+          "end": 121.36
+        },
+        {
+          "word": "andar",
+          "start": 121.36,
+          "end": 122.44
+        },
+        {
+          "word": "en",
+          "start": 122.44,
+          "end": 122.76
+        },
+        {
+          "word": "tu",
+          "start": 122.76,
+          "end": 123.08
+        },
+        {
+          "word": "amor",
+          "start": 123.08,
+          "end": 125.7
+        }
+      ],
+      "start": 119.72,
+      "end": 125.7,
+      "confidence": 1.0,
+      "time": 119.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Junto a ti, mi Salvador,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Junto",
+          "start": 125.7,
+          "end": 127.48
+        },
+        {
+          "word": "a",
+          "start": 127.48,
+          "end": 127.74
+        },
+        {
+          "word": "ti",
+          "start": 127.74,
+          "end": 128.0
+        },
+        {
+          "word": "mi",
+          "start": 128.0,
+          "end": 128.4
+        },
+        {
+          "word": "Salvador,",
+          "start": 128.4,
+          "end": 131.1
+        }
+      ],
+      "start": 125.7,
+      "end": 133.5,
+      "confidence": 1.0,
+      "time": 125.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "para siempre quiero estar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "para",
+          "start": 133.5,
+          "end": 133.76
+        },
+        {
+          "word": "siempre",
+          "start": 133.76,
+          "end": 134.44
+        },
+        {
+          "word": "quiero",
+          "start": 134.44,
+          "end": 135.06
+        },
+        {
+          "word": "estar",
+          "start": 135.06,
+          "end": 137.96
+        }
+      ],
+      "start": 133.5,
+      "end": 137.96,
+      "confidence": 1.0,
+      "time": 133.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Oh, condúceme al final,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "o",
+          "start": 137.96,
+          "end": 139.58
+        },
+        {
+          "word": "conduceme",
+          "start": 139.58,
+          "end": 140.86
+        },
+        {
+          "word": "al",
+          "start": 140.86,
+          "end": 141.18
+        },
+        {
+          "word": "final",
+          "start": 141.18,
+          "end": 143.38
+        }
+      ],
+      "start": 137.96,
+      "end": 143.38,
+      "confidence": 0.95,
+      "time": 137.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "a tu dulce hogar celestial.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 143.38,
+          "end": 144.18
+        },
+        {
+          "word": "tu",
+          "start": 144.18,
+          "end": 144.56
+        },
+        {
+          "word": "dulce",
+          "start": 144.56,
+          "end": 145.82
+        },
+        {
+          "word": "hogar",
+          "start": 145.82,
+          "end": 146.88
+        },
+        {
+          "word": "celestial.",
+          "start": 146.88,
+          "end": 150.04
+        }
+      ],
+      "start": 143.38,
+      "end": 150.04,
+      "confidence": 1.0,
+      "time": 143.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "A tu lado anhelo estar;",
+      "words": [
+        {
+          "word": "A",
+          "start": 150.56,
+          "end": 151.88
+        },
+        {
+          "word": "tu",
+          "start": 151.88,
+          "end": 152.3
+        },
+        {
+          "word": "lado",
+          "start": 152.3,
+          "end": 152.8
+        },
+        {
+          "word": "anhelo",
+          "start": 152.8,
+          "end": 153.68
+        },
+        {
+          "word": "estar,",
+          "start": 153.68,
+          "end": 156.36
+        }
+      ],
+      "start": 150.56,
+      "end": 158.08,
+      "confidence": 1.0,
+      "time": 150.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "es mi ruego, mi Señor.",
+      "words": [
+        {
+          "word": "es",
+          "start": 158.08,
+          "end": 158.08
+        },
+        {
+          "word": "mi",
+          "start": 158.08,
+          "end": 158.38
+        },
+        {
+          "word": "ruego",
+          "start": 158.38,
+          "end": 159.1
+        },
+        {
+          "word": "mi",
+          "start": 159.1,
+          "end": 159.64
+        },
+        {
+          "word": "Señor,",
+          "start": 159.64,
+          "end": 161.96
+        }
+      ],
+      "start": 158.08,
+      "end": 161.96,
+      "confidence": 1.0,
+      "time": 158.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Diariamente junto a ti,",
+      "words": [
+        {
+          "word": "Glóriamente",
+          "start": 163.78,
+          "end": 165.18
+        },
+        {
+          "word": "junto",
+          "start": 165.18,
+          "end": 165.7
+        },
+        {
+          "word": "a",
+          "start": 165.7,
+          "end": 166.24
+        },
+        {
+          "word": "ti,",
+          "start": 166.24,
+          "end": 168.32
+        }
+      ],
+      "start": 163.78,
+      "end": 168.86,
+      "confidence": 0.959,
+      "time": 163.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "guíame para andar en tu amor.",
+      "words": [
+        {
+          "word": "guíame",
+          "start": 168.86,
+          "end": 170.0
+        },
+        {
+          "word": "para",
+          "start": 170.0,
+          "end": 170.74
+        },
+        {
+          "word": "andar",
+          "start": 170.74,
+          "end": 171.74
+        },
+        {
+          "word": "en",
+          "start": 171.74,
+          "end": 172.16
+        },
+        {
+          "word": "tu",
+          "start": 172.16,
+          "end": 172.56
+        },
+        {
+          "word": "amor.",
+          "start": 172.56,
+          "end": 174.38
+        }
+      ],
+      "start": 168.86,
+      "end": 174.38,
+      "confidence": 1.0,
+      "time": 168.86
+    }
+  ]
+}

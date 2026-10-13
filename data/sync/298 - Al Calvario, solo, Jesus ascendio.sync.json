@@ -1,0 +1,933 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.887,
+  "language": "es",
+  "model": "medium",
+  "hymn": 298,
+  "source": "298 - Al Calvario, solo, Jesus ascendio.mp3",
+  "duration": 185.91,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Al Calvario, solo, Jesús ascendió",
+      "verse": 1,
+      "words": [
+        {
+          "word": "lo",
+          "start": 30.38,
+          "end": 31.1
+        },
+        {
+          "word": "Jesús",
+          "start": 31.1,
+          "end": 32.06
+        },
+        {
+          "word": "ascendió",
+          "start": 32.06,
+          "end": 33.96
+        }
+      ],
+      "start": 30.38,
+      "end": 33.96,
+      "confidence": 0.56,
+      "time": 30.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "llevando pesada cruz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "elevando,",
+          "start": 33.96,
+          "end": 35.56
+        },
+        {
+          "word": "cruz.",
+          "start": 37.46,
+          "end": 39.38
+        }
+      ],
+      "start": 33.96,
+      "end": 39.38,
+      "confidence": 0.642,
+      "time": 33.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y al morir en ella al mortal dejó",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Al",
+          "start": 39.92,
+          "end": 40.08
+        },
+        {
+          "word": "morir",
+          "start": 40.08,
+          "end": 41.66
+        },
+        {
+          "word": "en",
+          "start": 41.66,
+          "end": 42.24
+        },
+        {
+          "word": "él",
+          "start": 42.24,
+          "end": 42.68
+        },
+        {
+          "word": "al",
+          "start": 42.94,
+          "end": 43.18
+        },
+        {
+          "word": "mortal",
+          "start": 43.18,
+          "end": 44.08
+        },
+        {
+          "word": "dejó",
+          "start": 44.08,
+          "end": 45.66
+        }
+      ],
+      "start": 39.92,
+      "end": 45.66,
+      "confidence": 0.868,
+      "time": 39.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "un fanal de gloriosa luz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "un",
+          "start": 45.66,
+          "end": 46.22
+        },
+        {
+          "word": "final",
+          "start": 46.22,
+          "end": 47.04
+        },
+        {
+          "word": "de",
+          "start": 47.04,
+          "end": 47.62
+        },
+        {
+          "word": "gloriosa",
+          "start": 47.62,
+          "end": 49.16
+        },
+        {
+          "word": "luz.",
+          "start": 49.16,
+          "end": 51.08
+        }
+      ],
+      "start": 45.66,
+      "end": 51.08,
+      "confidence": 0.976,
+      "time": 45.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "La cruz solo me guiará,",
+      "words": [
+        {
+          "word": "La",
+          "start": 51.46,
+          "end": 52.44
+        },
+        {
+          "word": "cruz",
+          "start": 52.44,
+          "end": 53.48
+        },
+        {
+          "word": "sólo",
+          "start": 53.48,
+          "end": 53.84
+        },
+        {
+          "word": "me",
+          "start": 53.84,
+          "end": 54.58
+        },
+        {
+          "word": "guiará.",
+          "start": 54.58,
+          "end": 57.22
+        }
+      ],
+      "start": 51.46,
+      "end": 57.22,
+      "confidence": 1.0,
+      "time": 51.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "la cruz solo me guiará;",
+      "words": [
+        {
+          "word": "La",
+          "start": 57.22,
+          "end": 58.36
+        },
+        {
+          "word": "cruz",
+          "start": 58.36,
+          "end": 59.12
+        },
+        {
+          "word": "solo",
+          "start": 59.12,
+          "end": 59.84
+        },
+        {
+          "word": "me",
+          "start": 59.84,
+          "end": 60.76
+        },
+        {
+          "word": "guiará",
+          "start": 60.76,
+          "end": 63.34
+        }
+      ],
+      "start": 57.22,
+      "end": 63.34,
+      "confidence": 1.0,
+      "time": 57.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "a mi hogar de paz y eterno amor,",
+      "words": [
+        {
+          "word": "A",
+          "start": 63.34,
+          "end": 64.04
+        },
+        {
+          "word": "mi",
+          "start": 64.04,
+          "end": 64.24
+        },
+        {
+          "word": "de",
+          "start": 65.5,
+          "end": 66.1
+        },
+        {
+          "word": "paz",
+          "start": 66.1,
+          "end": 66.68
+        },
+        {
+          "word": "y",
+          "start": 66.68,
+          "end": 67.34
+        },
+        {
+          "word": "eterno",
+          "start": 67.34,
+          "end": 68.96
+        },
+        {
+          "word": "amor",
+          "start": 68.96,
+          "end": 70.2
+        }
+      ],
+      "start": 63.34,
+      "end": 70.2,
+      "confidence": 0.875,
+      "time": 63.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "la cruz solo me guiará,",
+      "words": [
+        {
+          "word": "La",
+          "start": 70.2,
+          "end": 72.28
+        },
+        {
+          "word": "cruz",
+          "start": 72.28,
+          "end": 73.54
+        },
+        {
+          "word": "solo",
+          "start": 73.54,
+          "end": 73.92
+        },
+        {
+          "word": "me",
+          "start": 73.92,
+          "end": 74.76
+        },
+        {
+          "word": "guiará",
+          "start": 74.76,
+          "end": 77.86
+        }
+      ],
+      "start": 70.2,
+      "end": 77.86,
+      "confidence": 1.0,
+      "time": 70.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En la cruz tan solo el alma hallará",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 77.86,
+          "end": 79.08
+        },
+        {
+          "word": "la",
+          "start": 79.08,
+          "end": 79.54
+        },
+        {
+          "word": "cruz",
+          "start": 79.54,
+          "end": 80.54
+        },
+        {
+          "word": "tan",
+          "start": 80.54,
+          "end": 81.04
+        },
+        {
+          "word": "solo",
+          "start": 81.04,
+          "end": 82.1
+        },
+        {
+          "word": "el",
+          "start": 82.1,
+          "end": 82.6
+        },
+        {
+          "word": "alma",
+          "start": 82.6,
+          "end": 83.5
+        },
+        {
+          "word": "hará",
+          "start": 83.96,
+          "end": 85.1
+        }
+      ],
+      "start": 77.86,
+      "end": 85.1,
+      "confidence": 0.98,
+      "time": 77.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la fuente de inspiración;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 85.1,
+          "end": 85.32
+        },
+        {
+          "word": "fuente",
+          "start": 85.32,
+          "end": 86.56
+        },
+        {
+          "word": "de",
+          "start": 86.56,
+          "end": 86.92
+        },
+        {
+          "word": "inspiración.",
+          "start": 86.92,
+          "end": 90.22
+        }
+      ],
+      "start": 85.1,
+      "end": 90.22,
+      "confidence": 1.0,
+      "time": 85.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "nada grande y digno en el mundo habrá",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Nada",
+          "start": 90.36,
+          "end": 91.38
+        },
+        {
+          "word": "grande",
+          "start": 91.38,
+          "end": 92.42
+        },
+        {
+          "word": "y",
+          "start": 92.42,
+          "end": 93.34
+        },
+        {
+          "word": "digno",
+          "start": 93.34,
+          "end": 93.88
+        },
+        {
+          "word": "en",
+          "start": 93.88,
+          "end": 94.24
+        },
+        {
+          "word": "el",
+          "start": 94.24,
+          "end": 94.76
+        },
+        {
+          "word": "mundo",
+          "start": 94.76,
+          "end": 95.4
+        },
+        {
+          "word": "habrá",
+          "start": 95.4,
+          "end": 96.56
+        }
+      ],
+      "start": 90.36,
+      "end": 96.56,
+      "confidence": 1.0,
+      "time": 90.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que en la cruz no halle aprobación,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 96.56,
+          "end": 97.0
+        },
+        {
+          "word": "la",
+          "start": 97.0,
+          "end": 97.5
+        },
+        {
+          "word": "cruz",
+          "start": 97.5,
+          "end": 98.18
+        },
+        {
+          "word": "dale",
+          "start": 98.18,
+          "end": 98.72
+        },
+        {
+          "word": "aprobación.",
+          "start": 98.72,
+          "end": 102.1
+        }
+      ],
+      "start": 96.56,
+      "end": 102.1,
+      "confidence": 0.686,
+      "time": 96.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "La cruz solo me guiará,",
+      "words": [
+        {
+          "word": "La",
+          "start": 102.62,
+          "end": 103.38
+        },
+        {
+          "word": "cruz",
+          "start": 103.38,
+          "end": 104.42
+        },
+        {
+          "word": "solo",
+          "start": 104.42,
+          "end": 104.78
+        },
+        {
+          "word": "me",
+          "start": 104.78,
+          "end": 105.6
+        },
+        {
+          "word": "guiará,",
+          "start": 105.6,
+          "end": 108.28
+        }
+      ],
+      "start": 102.62,
+      "end": 108.28,
+      "confidence": 1.0,
+      "time": 102.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "la cruz solo me guiará;",
+      "words": [
+        {
+          "word": "la",
+          "start": 108.62,
+          "end": 109.42
+        },
+        {
+          "word": "cruz",
+          "start": 109.42,
+          "end": 110.48
+        },
+        {
+          "word": "solo",
+          "start": 110.48,
+          "end": 110.82
+        },
+        {
+          "word": "me",
+          "start": 110.82,
+          "end": 111.66
+        },
+        {
+          "word": "guiará",
+          "start": 111.66,
+          "end": 114.32
+        }
+      ],
+      "start": 108.62,
+      "end": 114.32,
+      "confidence": 1.0,
+      "time": 108.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "a mi hogar de paz y eterno amor,",
+      "words": [
+        {
+          "word": "A",
+          "start": 114.32,
+          "end": 114.88
+        },
+        {
+          "word": "mi",
+          "start": 114.88,
+          "end": 115.2
+        },
+        {
+          "word": "hogar",
+          "start": 115.2,
+          "end": 116.12
+        },
+        {
+          "word": "de",
+          "start": 116.12,
+          "end": 116.86
+        },
+        {
+          "word": "paz",
+          "start": 116.86,
+          "end": 117.64
+        },
+        {
+          "word": "y",
+          "start": 117.64,
+          "end": 118.52
+        },
+        {
+          "word": "eterno",
+          "start": 118.52,
+          "end": 119.98
+        },
+        {
+          "word": "amor,",
+          "start": 119.98,
+          "end": 121.34
+        }
+      ],
+      "start": 114.32,
+      "end": 121.34,
+      "confidence": 1.0,
+      "time": 114.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "la cruz solo me guiará,",
+      "words": [
+        {
+          "word": "la",
+          "start": 122.12,
+          "end": 123.04
+        },
+        {
+          "word": "cruz",
+          "start": 123.04,
+          "end": 124.08
+        },
+        {
+          "word": "sólo",
+          "start": 124.08,
+          "end": 124.46
+        },
+        {
+          "word": "me",
+          "start": 124.46,
+          "end": 125.44
+        },
+        {
+          "word": "ganará.",
+          "start": 125.44,
+          "end": 128.42
+        }
+      ],
+      "start": 122.12,
+      "end": 128.42,
+      "confidence": 0.96,
+      "time": 122.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Yo por ella voy a mi hogar celestial,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 129.18,
+          "end": 129.84
+        },
+        {
+          "word": "por",
+          "start": 129.84,
+          "end": 130.32
+        },
+        {
+          "word": "él",
+          "start": 130.32,
+          "end": 130.78
+        },
+        {
+          "word": "voy",
+          "start": 131.66,
+          "end": 132.38
+        },
+        {
+          "word": "a",
+          "start": 132.38,
+          "end": 132.68
+        },
+        {
+          "word": "mi",
+          "start": 132.68,
+          "end": 132.82
+        },
+        {
+          "word": "hogar",
+          "start": 132.82,
+          "end": 133.72
+        },
+        {
+          "word": "celestial,",
+          "start": 133.72,
+          "end": 135.36
+        }
+      ],
+      "start": 129.18,
+      "end": 135.36,
+      "confidence": 0.993,
+      "time": 129.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "el rumbo marcando está;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 135.94,
+          "end": 136.3
+        },
+        {
+          "word": "marcando",
+          "start": 137.24,
+          "end": 138.7
+        },
+        {
+          "word": "ésta.",
+          "start": 138.7,
+          "end": 140.68
+        }
+      ],
+      "start": 135.94,
+      "end": 140.68,
+      "confidence": 0.75,
+      "time": 135.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en mi oscura vida será el fanal",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 140.68,
+          "end": 141.74
+        },
+        {
+          "word": "mi",
+          "start": 141.74,
+          "end": 141.96
+        },
+        {
+          "word": "oscura",
+          "start": 141.96,
+          "end": 143.54
+        },
+        {
+          "word": "vida",
+          "start": 143.54,
+          "end": 144.74
+        },
+        {
+          "word": "se",
+          "start": 144.74,
+          "end": 145.22
+        }
+      ],
+      "start": 140.68,
+      "end": 147.32,
+      "confidence": 0.706,
+      "time": 140.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y a su luz mi alma siempre irá.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 147.32,
+          "end": 147.92
+        },
+        {
+          "word": "a",
+          "start": 147.92,
+          "end": 148.08
+        },
+        {
+          "word": "su",
+          "start": 148.08,
+          "end": 148.22
+        },
+        {
+          "word": "luz",
+          "start": 148.22,
+          "end": 148.86
+        },
+        {
+          "word": "alma",
+          "start": 149.18,
+          "end": 149.52
+        },
+        {
+          "word": "siempre",
+          "start": 149.52,
+          "end": 150.76
+        },
+        {
+          "word": "irá.",
+          "start": 150.76,
+          "end": 152.96
+        }
+      ],
+      "start": 147.32,
+      "end": 152.96,
+      "confidence": 0.875,
+      "time": 147.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "La cruz solo me guiará,",
+      "words": [
+        {
+          "word": "La",
+          "start": 153.7,
+          "end": 154.16
+        },
+        {
+          "word": "solo",
+          "start": 154.76,
+          "end": 155.5
+        },
+        {
+          "word": "me",
+          "start": 155.5,
+          "end": 156.44
+        },
+        {
+          "word": "guiará,",
+          "start": 156.44,
+          "end": 159.08
+        }
+      ],
+      "start": 153.7,
+      "end": 159.32,
+      "confidence": 0.8,
+      "time": 153.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "la cruz solo me guiará;",
+      "words": [
+        {
+          "word": "la",
+          "start": 159.32,
+          "end": 160.06
+        },
+        {
+          "word": "solo",
+          "start": 160.78,
+          "end": 161.52
+        },
+        {
+          "word": "me",
+          "start": 161.52,
+          "end": 162.32
+        },
+        {
+          "word": "guiará.",
+          "start": 162.32,
+          "end": 165.12
+        }
+      ],
+      "start": 159.32,
+      "end": 165.12,
+      "confidence": 0.8,
+      "time": 159.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "a mi hogar de paz y eterno amor,",
+      "words": [
+        {
+          "word": "A",
+          "start": 165.12,
+          "end": 165.74
+        },
+        {
+          "word": "mi",
+          "start": 165.74,
+          "end": 165.98
+        },
+        {
+          "word": "de",
+          "start": 166.84,
+          "end": 167.82
+        },
+        {
+          "word": "paz",
+          "start": 167.82,
+          "end": 168.42
+        },
+        {
+          "word": "y",
+          "start": 168.42,
+          "end": 169.34
+        },
+        {
+          "word": "eterno",
+          "start": 169.34,
+          "end": 171.1
+        },
+        {
+          "word": "amor,",
+          "start": 171.1,
+          "end": 171.94
+        }
+      ],
+      "start": 165.12,
+      "end": 171.94,
+      "confidence": 0.875,
+      "time": 165.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "la cruz solo me guiará,",
+      "words": [
+        {
+          "word": "La",
+          "start": 173.0,
+          "end": 173.78
+        },
+        {
+          "word": "solo",
+          "start": 174.48,
+          "end": 175.2
+        },
+        {
+          "word": "me",
+          "start": 175.2,
+          "end": 176.3
+        },
+        {
+          "word": "ganará.",
+          "start": 176.3,
+          "end": 179.54
+        }
+      ],
+      "start": 173.0,
+      "end": 179.54,
+      "confidence": 0.76,
+      "time": 173.0
+    }
+  ]
+}

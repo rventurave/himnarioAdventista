@@ -1,0 +1,584 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.898,
+  "language": "es",
+  "model": "medium",
+  "hymn": 245,
+  "source": "245 - Cumplase, oh Cristo, tu voluntad.mp3",
+  "duration": 130.46,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cúmplase, oh Cristo, tu voluntad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cúplase,",
+          "start": 14.04,
+          "end": 15.2
+        },
+        {
+          "word": "oh",
+          "start": 15.26,
+          "end": 15.54
+        },
+        {
+          "word": "Cristo,",
+          "start": 15.54,
+          "end": 16.98
+        },
+        {
+          "word": "tu",
+          "start": 17.7,
+          "end": 18.16
+        },
+        {
+          "word": "voluntad,",
+          "start": 18.16,
+          "end": 20.94
+        }
+      ],
+      "start": 14.04,
+      "end": 21.16,
+      "confidence": 0.992,
+      "time": 14.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Solo tú puedes mi alma salvar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "solo",
+          "start": 21.16,
+          "end": 21.86
+        },
+        {
+          "word": "tú",
+          "start": 21.86,
+          "end": 22.44
+        },
+        {
+          "word": "puedes",
+          "start": 22.44,
+          "end": 24.62
+        },
+        {
+          "word": "mi",
+          "start": 24.62,
+          "end": 24.96
+        },
+        {
+          "word": "alma",
+          "start": 24.96,
+          "end": 25.46
+        },
+        {
+          "word": "salvar.",
+          "start": 25.46,
+          "end": 27.62
+        }
+      ],
+      "start": 21.16,
+      "end": 27.62,
+      "confidence": 1.0,
+      "time": 21.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cual alfarero, para tu honor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¡Cuál",
+          "start": 27.62,
+          "end": 28.72
+        },
+        {
+          "word": "alfarero",
+          "start": 28.72,
+          "end": 31.48
+        },
+        {
+          "word": "para",
+          "start": 31.48,
+          "end": 32.42
+        },
+        {
+          "word": "tu",
+          "start": 32.42,
+          "end": 32.98
+        },
+        {
+          "word": "honor!",
+          "start": 32.98,
+          "end": 34.7
+        }
+      ],
+      "start": 27.62,
+      "end": 34.7,
+      "confidence": 1.0,
+      "time": 27.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "vasija útil hazme, Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¡Vas,",
+          "start": 35.52,
+          "end": 35.74
+        },
+        {
+          "word": "útil",
+          "start": 37.06,
+          "end": 38.82
+        },
+        {
+          "word": "hazme,",
+          "start": 38.82,
+          "end": 39.5
+        },
+        {
+          "word": "Señor!",
+          "start": 39.5,
+          "end": 41.66
+        }
+      ],
+      "start": 35.52,
+      "end": 41.66,
+      "confidence": 0.985,
+      "time": 35.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Cúmplase, oh Cristo, tu voluntad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 43.32,
+          "end": 44.96
+        },
+        {
+          "word": "tu",
+          "start": 45.68,
+          "end": 46.02
+        },
+        {
+          "word": "voluntad!",
+          "start": 46.02,
+          "end": 48.76
+        }
+      ],
+      "start": 43.32,
+      "end": 48.76,
+      "confidence": 0.6,
+      "time": 43.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Quita de mi alma toda maldad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Queda",
+          "start": 49.18,
+          "end": 49.82
+        },
+        {
+          "word": "de",
+          "start": 49.82,
+          "end": 50.3
+        },
+        {
+          "word": "mi",
+          "start": 50.3,
+          "end": 50.92
+        },
+        {
+          "word": "alma",
+          "start": 50.92,
+          "end": 52.4
+        },
+        {
+          "word": "toda",
+          "start": 52.4,
+          "end": 53.24
+        },
+        {
+          "word": "maldad",
+          "start": 53.24,
+          "end": 55.62
+        }
+      ],
+      "start": 49.18,
+      "end": 55.62,
+      "confidence": 0.96,
+      "time": 49.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Cual blanca nieve hazla fulgir,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cuál",
+          "start": 55.62,
+          "end": 56.68
+        },
+        {
+          "word": "lancha",
+          "start": 56.68,
+          "end": 57.26
+        },
+        {
+          "word": "nieve",
+          "start": 57.26,
+          "end": 59.48
+        },
+        {
+          "word": "afundir,",
+          "start": 60.48,
+          "end": 62.84
+        }
+      ],
+      "start": 55.62,
+      "end": 63.56,
+      "confidence": 0.734,
+      "time": 55.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y fiel y humilde hazme vivir.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "fiel",
+          "start": 63.56,
+          "end": 63.96
+        },
+        {
+          "word": "y",
+          "start": 63.96,
+          "end": 64.3
+        },
+        {
+          "word": "humilde",
+          "start": 64.3,
+          "end": 66.04
+        },
+        {
+          "word": "hazme",
+          "start": 66.04,
+          "end": 67.56
+        },
+        {
+          "word": "vivir.",
+          "start": 67.56,
+          "end": 69.7
+        }
+      ],
+      "start": 63.56,
+      "end": 69.7,
+      "confidence": 0.833,
+      "time": 63.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cúmplase, oh Cristo, tu voluntad.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cumplacio",
+          "start": 70.1,
+          "end": 71.04
+        },
+        {
+          "word": "Cristo,",
+          "start": 71.04,
+          "end": 72.84
+        },
+        {
+          "word": "tu",
+          "start": 73.62,
+          "end": 73.92
+        },
+        {
+          "word": "voluntad,",
+          "start": 73.92,
+          "end": 76.64
+        }
+      ],
+      "start": 70.1,
+      "end": 77.32,
+      "confidence": 0.765,
+      "time": 70.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Toda dolencia puedes sanar;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "toda",
+          "start": 77.32,
+          "end": 77.66
+        },
+        {
+          "word": "violencia",
+          "start": 77.66,
+          "end": 80.3
+        },
+        {
+          "word": "puedes",
+          "start": 80.3,
+          "end": 81.34
+        },
+        {
+          "word": "agar.",
+          "start": 81.34,
+          "end": 83.42
+        }
+      ],
+      "start": 77.32,
+      "end": 83.42,
+      "confidence": 0.924,
+      "time": 77.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "cuitas, pesares, con tu poder",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cuidas",
+          "start": 83.42,
+          "end": 84.68
+        },
+        {
+          "word": "pesares",
+          "start": 84.68,
+          "end": 87.28
+        },
+        {
+          "word": "con",
+          "start": 87.28,
+          "end": 87.74
+        },
+        {
+          "word": "tu",
+          "start": 87.74,
+          "end": 88.22
+        },
+        {
+          "word": "poder,",
+          "start": 88.22,
+          "end": 90.36
+        }
+      ],
+      "start": 83.42,
+      "end": 91.44,
+      "confidence": 0.98,
+      "time": 83.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "quieres hacerlos desvanecer.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "quieres",
+          "start": 91.44,
+          "end": 91.64
+        },
+        {
+          "word": "hacerlos",
+          "start": 91.64,
+          "end": 94.52
+        },
+        {
+          "word": "desvanecer.",
+          "start": 94.52,
+          "end": 97.8
+        }
+      ],
+      "start": 91.44,
+      "end": 97.8,
+      "confidence": 1.0,
+      "time": 91.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Cúmplase, oh Cristo, tu voluntad.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Cumplacio",
+          "start": 98.0,
+          "end": 98.9
+        },
+        {
+          "word": "Cristo,",
+          "start": 98.9,
+          "end": 100.66
+        },
+        {
+          "word": "tu",
+          "start": 101.42,
+          "end": 101.76
+        },
+        {
+          "word": "voluntad",
+          "start": 101.76,
+          "end": 104.58
+        }
+      ],
+      "start": 98.0,
+      "end": 104.58,
+      "confidence": 0.765,
+      "time": 98.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Mora en mi alma, dame tu paz,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "mora",
+          "start": 104.58,
+          "end": 105.48
+        },
+        {
+          "word": "en",
+          "start": 105.48,
+          "end": 105.8
+        },
+        {
+          "word": "mi",
+          "start": 105.8,
+          "end": 106.46
+        },
+        {
+          "word": "alma,",
+          "start": 106.46,
+          "end": 108.0
+        },
+        {
+          "word": "dame",
+          "start": 108.48,
+          "end": 109.0
+        },
+        {
+          "word": "tu",
+          "start": 109.0,
+          "end": 109.58
+        },
+        {
+          "word": "paz,",
+          "start": 109.58,
+          "end": 111.3
+        }
+      ],
+      "start": 104.58,
+      "end": 111.3,
+      "confidence": 1.0,
+      "time": 104.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "para que el mundo vea tu amor,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Para",
+          "start": 111.3,
+          "end": 112.62
+        },
+        {
+          "word": "que",
+          "start": 112.62,
+          "end": 113.02
+        },
+        {
+          "word": "el",
+          "start": 113.02,
+          "end": 113.76
+        },
+        {
+          "word": "mundo",
+          "start": 113.76,
+          "end": 115.06
+        },
+        {
+          "word": "vea",
+          "start": 115.06,
+          "end": 116.1
+        },
+        {
+          "word": "tu",
+          "start": 116.1,
+          "end": 116.36
+        },
+        {
+          "word": "amor,",
+          "start": 116.36,
+          "end": 118.54
+        }
+      ],
+      "start": 111.3,
+      "end": 118.96,
+      "confidence": 1.0,
+      "time": 111.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "tu obra perfecta, buen Salvador.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "tu",
+          "start": 118.96,
+          "end": 119.0
+        },
+        {
+          "word": "obra",
+          "start": 119.0,
+          "end": 119.58
+        },
+        {
+          "word": "perfecta,",
+          "start": 119.58,
+          "end": 122.3
+        },
+        {
+          "word": "ensalvador.",
+          "start": 122.62,
+          "end": 125.1
+        }
+      ],
+      "start": 118.96,
+      "end": 125.1,
+      "confidence": 0.787,
+      "time": 118.96
+    }
+  ]
+}

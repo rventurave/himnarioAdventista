@@ -9,6 +9,12 @@ data/audios/
 # Entorno de las herramientas de sincronización vocal
 .venv/
 __pycache__/
+*.pyc
+
+# Reportes generados por las herramientas de sincronización
+/sync-report*.json
+/sync-review*.json
+/sync-validation*.json
 
 # Salida estática para Cloudflare Pages
 dist/

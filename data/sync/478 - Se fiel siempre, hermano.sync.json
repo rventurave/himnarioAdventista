@@ -1,0 +1,800 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.695,
+  "language": "es",
+  "model": "medium",
+  "hymn": 478,
+  "source": "478 - Se fiel siempre, hermano.mp3",
+  "duration": 140.83,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Sé fiel siempre, hermano, Jesús volverá.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Este",
+          "start": 0.82,
+          "end": 1.12
+        }
+      ],
+      "start": 0.82,
+      "end": 1.12,
+      "confidence": 0.133,
+      "time": 0.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "La espera se acerca al final.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 1.12,
+          "end": 1.42
+        }
+      ],
+      "start": 1.12,
+      "end": 1.42,
+      "confidence": 0.157,
+      "time": 1.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Muy pronto estarás junto a él más allá,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 1.42,
+          "end": 1.94
+        },
+        {
+          "word": "la",
+          "start": 2.04,
+          "end": 2.16
+        }
+      ],
+      "start": 1.42,
+      "end": 29.98,
+      "confidence": 0.225,
+      "time": 1.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cantando su himno triunfal.",
+      "verse": 1,
+      "start": 29.98,
+      "end": 30.91,
+      "confidence": 0.0,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hermano, sé fiel. permanece leal",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hermanos",
+          "start": 31.84,
+          "end": 32.96
+        },
+        {
+          "word": "fiel",
+          "start": 33.38,
+          "end": 33.78
+        },
+        {
+          "word": "permanece",
+          "start": 33.78,
+          "end": 35.46
+        }
+      ],
+      "start": 30.91,
+      "end": 31.84,
+      "confidence": 0.588,
+      "time": 30.91
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al Hijo de Dios, que mostró",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 36.8,
+          "end": 37.36
+        },
+        {
+          "word": "Hijo",
+          "start": 37.36,
+          "end": 38.0
+        },
+        {
+          "word": "de",
+          "start": 38.0,
+          "end": 38.46
+        },
+        {
+          "word": "Dios",
+          "start": 38.46,
+          "end": 38.98
+        },
+        {
+          "word": "que",
+          "start": 38.98,
+          "end": 39.46
+        },
+        {
+          "word": "mostró",
+          "start": 39.46,
+          "end": 41.0
+        }
+      ],
+      "start": 36.8,
+      "end": 41.0,
+      "confidence": 1.0,
+      "time": 36.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "profundo, infinito amor, sin igual;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Profundo,",
+          "start": 41.7,
+          "end": 43.1
+        },
+        {
+          "word": "infinito,",
+          "start": 43.28,
+          "end": 44.68
+        },
+        {
+          "word": "amor",
+          "start": 44.96,
+          "end": 45.5
+        },
+        {
+          "word": "sin",
+          "start": 45.5,
+          "end": 46.02
+        },
+        {
+          "word": "igual",
+          "start": 46.02,
+          "end": 46.86
+        }
+      ],
+      "start": 41.7,
+      "end": 46.86,
+      "confidence": 1.0,
+      "time": 41.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "murió y el rescate pasó.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "murió",
+          "start": 46.86,
+          "end": 48.14
+        },
+        {
+          "word": "y",
+          "start": 48.14,
+          "end": 48.4
+        },
+        {
+          "word": "el",
+          "start": 48.4,
+          "end": 48.62
+        },
+        {
+          "word": "rescate",
+          "start": 48.62,
+          "end": 49.74
+        },
+        {
+          "word": "paró",
+          "start": 49.74,
+          "end": 52.42
+        }
+      ],
+      "start": 46.86,
+      "end": 52.42,
+      "confidence": 0.97,
+      "time": 46.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Sé fiel siempre, hermano. La Santa Ciudad",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Se",
+          "start": 52.42,
+          "end": 53.1
+        },
+        {
+          "word": "fiel",
+          "start": 53.1,
+          "end": 53.68
+        },
+        {
+          "word": "siempre,",
+          "start": 53.68,
+          "end": 54.24
+        },
+        {
+          "word": "hermano,",
+          "start": 54.52,
+          "end": 55.32
+        },
+        {
+          "word": "la",
+          "start": 55.5,
+          "end": 55.72
+        },
+        {
+          "word": "Santa",
+          "start": 55.72,
+          "end": 56.54
+        },
+        {
+          "word": "Ciudad,",
+          "start": 56.54,
+          "end": 57.72
+        }
+      ],
+      "start": 52.42,
+      "end": 58.0,
+      "confidence": 1.0,
+      "time": 52.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "que Cristo nos fue a preparar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 58.0,
+          "end": 58.3
+        },
+        {
+          "word": "Cristo",
+          "start": 58.3,
+          "end": 59.16
+        },
+        {
+          "word": "nos",
+          "start": 59.16,
+          "end": 59.76
+        },
+        {
+          "word": "a",
+          "start": 60.48,
+          "end": 60.5
+        },
+        {
+          "word": "parar,",
+          "start": 60.5,
+          "end": 62.64
+        }
+      ],
+      "start": 58.0,
+      "end": 62.64,
+      "confidence": 0.81,
+      "time": 58.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "portales de perla abrirá en brevedad,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "portales",
+          "start": 63.44,
+          "end": 64.46
+        },
+        {
+          "word": "de",
+          "start": 64.46,
+          "end": 64.96
+        },
+        {
+          "word": "perla,",
+          "start": 64.96,
+          "end": 65.8
+        },
+        {
+          "word": "brevedad,",
+          "start": 66.96,
+          "end": 68.3
+        }
+      ],
+      "start": 63.44,
+      "end": 68.56,
+      "confidence": 0.667,
+      "time": 63.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "con júbilo, de par en par.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "con",
+          "start": 68.56,
+          "end": 68.74
+        },
+        {
+          "word": "de",
+          "start": 69.98,
+          "end": 70.76
+        },
+        {
+          "word": "par",
+          "start": 70.76,
+          "end": 71.02
+        },
+        {
+          "word": "en",
+          "start": 71.02,
+          "end": 71.44
+        },
+        {
+          "word": "par.",
+          "start": 71.44,
+          "end": 72.94
+        }
+      ],
+      "start": 68.56,
+      "end": 72.94,
+      "confidence": 0.833,
+      "time": 68.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Entonces, sé fiel, poco resta aquí",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Entonces",
+          "start": 72.94,
+          "end": 74.74
+        },
+        {
+          "word": "el",
+          "start": 74.74,
+          "end": 75.4
+        },
+        {
+          "word": "resta",
+          "start": 76.16,
+          "end": 77.72
+        },
+        {
+          "word": "aquí,",
+          "start": 77.72,
+          "end": 78.56
+        }
+      ],
+      "start": 72.94,
+      "end": 79.18,
+      "confidence": 0.633,
+      "time": 72.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "de tanta amargura y dolor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 79.18,
+          "end": 79.28
+        },
+        {
+          "word": "tanta",
+          "start": 79.28,
+          "end": 80.06
+        },
+        {
+          "word": "amargura",
+          "start": 80.06,
+          "end": 81.32
+        },
+        {
+          "word": "y",
+          "start": 81.32,
+          "end": 81.6
+        },
+        {
+          "word": "dolor.",
+          "start": 81.6,
+          "end": 83.48
+        }
+      ],
+      "start": 79.18,
+      "end": 83.48,
+      "confidence": 1.0,
+      "time": 79.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "La noche oscura de penas se irá.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "La",
+          "start": 84.04,
+          "end": 84.4
+        },
+        {
+          "word": "noche",
+          "start": 84.4,
+          "end": 85.3
+        },
+        {
+          "word": "oscura",
+          "start": 85.3,
+          "end": 86.62
+        },
+        {
+          "word": "de",
+          "start": 86.62,
+          "end": 87.2
+        },
+        {
+          "word": "pena",
+          "start": 87.2,
+          "end": 87.88
+        },
+        {
+          "word": "se",
+          "start": 87.88,
+          "end": 88.32
+        },
+        {
+          "word": "irá,",
+          "start": 88.32,
+          "end": 89.3
+        }
+      ],
+      "start": 84.04,
+      "end": 90.0,
+      "confidence": 0.991,
+      "time": 84.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Vendrá la mañana de luz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "entra",
+          "start": 90.0,
+          "end": 90.02
+        },
+        {
+          "word": "la",
+          "start": 90.02,
+          "end": 90.72
+        },
+        {
+          "word": "mañana",
+          "start": 90.72,
+          "end": 91.68
+        },
+        {
+          "word": "de",
+          "start": 91.68,
+          "end": 92.48
+        },
+        {
+          "word": "luz.",
+          "start": 92.48,
+          "end": 94.22
+        }
+      ],
+      "start": 90.0,
+      "end": 94.22,
+      "confidence": 0.967,
+      "time": 90.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Sé fiel, siempre, hermano, que la eternidad",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Se",
+          "start": 94.22,
+          "end": 95.16
+        },
+        {
+          "word": "el",
+          "start": 96.46,
+          "end": 96.86
+        },
+        {
+          "word": "mano",
+          "start": 96.86,
+          "end": 97.34
+        },
+        {
+          "word": "la",
+          "start": 97.76,
+          "end": 98.38
+        },
+        {
+          "word": "eternidad,",
+          "start": 98.38,
+          "end": 99.88
+        }
+      ],
+      "start": 94.22,
+      "end": 99.88,
+      "confidence": 0.662,
+      "time": 94.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tendrás tras luchar y vencer.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "lucha",
+          "start": 101.28,
+          "end": 102.14
+        },
+        {
+          "word": "y",
+          "start": 102.14,
+          "end": 102.62
+        },
+        {
+          "word": "vencer.",
+          "start": 102.62,
+          "end": 104.7
+        }
+      ],
+      "start": 101.28,
+      "end": 104.7,
+      "confidence": 0.588,
+      "time": 101.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Entonces el gozo tu llanto echará,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Entonces",
+          "start": 105.46,
+          "end": 106.46
+        },
+        {
+          "word": "el",
+          "start": 106.46,
+          "end": 106.96
+        },
+        {
+          "word": "tu",
+          "start": 107.92,
+          "end": 108.2
+        },
+        {
+          "word": "llanto",
+          "start": 108.2,
+          "end": 108.9
+        },
+        {
+          "word": "enchará,",
+          "start": 108.9,
+          "end": 110.36
+        }
+      ],
+      "start": 105.46,
+      "end": 110.36,
+      "confidence": 0.826,
+      "time": 105.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "corona de gloria tendrás.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 111.7,
+          "end": 112.28
+        },
+        {
+          "word": "gloria",
+          "start": 112.28,
+          "end": 112.98
+        },
+        {
+          "word": "tendrás.",
+          "start": 112.98,
+          "end": 115.0
+        }
+      ],
+      "start": 111.7,
+      "end": 115.0,
+      "confidence": 0.75,
+      "time": 111.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Hermano, sé fiel! Pronto escucharás",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 117.1,
+          "end": 117.48
+        },
+        {
+          "word": "escucharás,",
+          "start": 118.86,
+          "end": 120.66
+        }
+      ],
+      "start": 117.1,
+      "end": 120.66,
+      "confidence": 0.36,
+      "time": 117.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al buen Salvador pronunciar:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "al",
+          "start": 120.66,
+          "end": 121.28
+        },
+        {
+          "word": "Buen",
+          "start": 121.28,
+          "end": 121.94
+        },
+        {
+          "word": "Salvador",
+          "start": 121.94,
+          "end": 122.9
+        },
+        {
+          "word": "pronunciar.",
+          "start": 122.9,
+          "end": 125.9
+        }
+      ],
+      "start": 120.66,
+      "end": 125.9,
+      "confidence": 1.0,
+      "time": 120.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "\"Muy bien, siervo fiel,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Muy",
+          "start": 126.16,
+          "end": 126.62
+        },
+        {
+          "word": "bien",
+          "start": 126.62,
+          "end": 127.06
+        }
+      ],
+      "start": 126.16,
+      "end": 128.9,
+      "confidence": 0.5,
+      "time": 126.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "es la hora de entrar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "es",
+          "start": 128.9,
+          "end": 129.02
+        },
+        {
+          "word": "la",
+          "start": 129.02,
+          "end": 129.52
+        },
+        {
+          "word": "hora",
+          "start": 129.52,
+          "end": 129.96
+        },
+        {
+          "word": "de",
+          "start": 129.96,
+          "end": 130.36
+        },
+        {
+          "word": "entrar",
+          "start": 130.36,
+          "end": 131.12
+        }
+      ],
+      "start": 128.9,
+      "end": 131.12,
+      "confidence": 1.0,
+      "time": 128.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al gozo eternal del Señor\".",
+      "verse": 3,
+      "words": [
+        {
+          "word": "al",
+          "start": 131.12,
+          "end": 131.84
+        },
+        {
+          "word": "Eterna,",
+          "start": 132.68,
+          "end": 133.66
+        },
+        {
+          "word": "el",
+          "start": 133.7,
+          "end": 133.84
+        },
+        {
+          "word": "Señor.",
+          "start": 134.14,
+          "end": 135.08
+        }
+      ],
+      "start": 131.12,
+      "end": 135.08,
+      "confidence": 0.764,
+      "time": 131.12
+    }
+  ]
+}

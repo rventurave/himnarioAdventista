@@ -1,0 +1,1065 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.936,
+  "language": "es",
+  "model": "medium",
+  "hymn": 373,
+  "source": "373 - Mi Redentor es Cristo.mp3",
+  "duration": 185.5,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mi Redentor es Cristo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 18.02,
+          "end": 19.42
+        },
+        {
+          "word": "Redentor",
+          "start": 19.42,
+          "end": 20.82
+        },
+        {
+          "word": "es",
+          "start": 20.82,
+          "end": 21.18
+        },
+        {
+          "word": "Cristo,",
+          "start": 21.18,
+          "end": 22.74
+        }
+      ],
+      "start": 18.02,
+      "end": 23.26,
+      "confidence": 1.0,
+      "time": 18.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mi gozo y mi canción;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "mi",
+          "start": 23.26,
+          "end": 23.68
+        },
+        {
+          "word": "gozo",
+          "start": 23.68,
+          "end": 24.56
+        },
+        {
+          "word": "y",
+          "start": 24.56,
+          "end": 25.1
+        },
+        {
+          "word": "mi",
+          "start": 25.1,
+          "end": 25.6
+        },
+        {
+          "word": "canción",
+          "start": 25.6,
+          "end": 27.58
+        }
+      ],
+      "start": 23.26,
+      "end": 27.58,
+      "confidence": 1.0,
+      "time": 23.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "me salva, y me consuela",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Me",
+          "start": 27.58,
+          "end": 28.36
+        },
+        {
+          "word": "salva",
+          "start": 28.36,
+          "end": 29.5
+        },
+        {
+          "word": "y",
+          "start": 29.5,
+          "end": 29.96
+        },
+        {
+          "word": "me",
+          "start": 29.96,
+          "end": 30.62
+        },
+        {
+          "word": "consuela",
+          "start": 30.62,
+          "end": 32.7
+        }
+      ],
+      "start": 27.58,
+      "end": 32.7,
+      "confidence": 1.0,
+      "time": 27.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en horas de aflicción.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 32.7,
+          "end": 33.7
+        },
+        {
+          "word": "horas",
+          "start": 33.7,
+          "end": 34.52
+        },
+        {
+          "word": "de",
+          "start": 34.52,
+          "end": 35.34
+        },
+        {
+          "word": "aflicción.",
+          "start": 35.34,
+          "end": 37.54
+        }
+      ],
+      "start": 32.7,
+      "end": 37.54,
+      "confidence": 1.0,
+      "time": 32.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, Salvador bendito,",
+      "words": [
+        {
+          "word": "Oh",
+          "start": 38.18,
+          "end": 38.6
+        },
+        {
+          "word": "Salvador",
+          "start": 38.6,
+          "end": 39.96
+        },
+        {
+          "word": "bendito,",
+          "start": 39.96,
+          "end": 42.58
+        }
+      ],
+      "start": 38.18,
+      "end": 43.28,
+      "confidence": 1.0,
+      "time": 38.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "mi canto elevo a ti;",
+      "words": [
+        {
+          "word": "mi",
+          "start": 43.28,
+          "end": 43.36
+        },
+        {
+          "word": "canto",
+          "start": 43.36,
+          "end": 44.44
+        },
+        {
+          "word": "eleva",
+          "start": 44.44,
+          "end": 45.66
+        },
+        {
+          "word": "a",
+          "start": 45.66,
+          "end": 46.24
+        },
+        {
+          "word": "ti,",
+          "start": 46.24,
+          "end": 47.76
+        }
+      ],
+      "start": 43.28,
+      "end": 47.76,
+      "confidence": 0.976,
+      "time": 43.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "cual tú no tengo amigo",
+      "words": [
+        {
+          "word": "cual",
+          "start": 47.76,
+          "end": 48.3
+        },
+        {
+          "word": "tú",
+          "start": 48.3,
+          "end": 49.06
+        },
+        {
+          "word": "no",
+          "start": 49.06,
+          "end": 49.64
+        },
+        {
+          "word": "tengas,",
+          "start": 49.64,
+          "end": 50.68
+        },
+        {
+          "word": "amigo,",
+          "start": 51.16,
+          "end": 52.42
+        }
+      ],
+      "start": 47.76,
+      "end": 52.88,
+      "confidence": 0.967,
+      "time": 47.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "que me ame tanto aquí!",
+      "words": [
+        {
+          "word": "que",
+          "start": 52.88,
+          "end": 53.24
+        },
+        {
+          "word": "me",
+          "start": 53.24,
+          "end": 54.0
+        },
+        {
+          "word": "ame",
+          "start": 54.0,
+          "end": 54.5
+        },
+        {
+          "word": "tanto",
+          "start": 54.5,
+          "end": 55.4
+        },
+        {
+          "word": "aquí.",
+          "start": 55.4,
+          "end": 57.64
+        }
+      ],
+      "start": 52.88,
+      "end": 57.64,
+      "confidence": 1.0,
+      "time": 52.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En todos mis afanes",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 58.5,
+          "end": 59.48
+        },
+        {
+          "word": "todos",
+          "start": 59.48,
+          "end": 60.38
+        },
+        {
+          "word": "mis",
+          "start": 60.38,
+          "end": 61.38
+        },
+        {
+          "word": "zafanes,",
+          "start": 61.38,
+          "end": 63.5
+        }
+      ],
+      "start": 58.5,
+      "end": 64.06,
+      "confidence": 0.988,
+      "time": 58.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "alivio y luz me das;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "alivio",
+          "start": 64.06,
+          "end": 65.2
+        },
+        {
+          "word": "y",
+          "start": 65.2,
+          "end": 65.44
+        },
+        {
+          "word": "luz",
+          "start": 65.44,
+          "end": 66.12
+        },
+        {
+          "word": "me",
+          "start": 66.12,
+          "end": 66.78
+        },
+        {
+          "word": "das,",
+          "start": 66.78,
+          "end": 67.76
+        }
+      ],
+      "start": 64.06,
+      "end": 67.76,
+      "confidence": 1.0,
+      "time": 64.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "aunque ande en negras sombras",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Aunque",
+          "start": 67.76,
+          "end": 69.3
+        },
+        {
+          "word": "ande",
+          "start": 69.3,
+          "end": 70.3
+        },
+        {
+          "word": "en",
+          "start": 70.3,
+          "end": 70.78
+        },
+        {
+          "word": "negras",
+          "start": 70.78,
+          "end": 72.28
+        },
+        {
+          "word": "sombras,",
+          "start": 72.28,
+          "end": 73.32
+        }
+      ],
+      "start": 67.76,
+      "end": 73.74,
+      "confidence": 1.0,
+      "time": 67.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "no dudaré jamás.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "no",
+          "start": 73.74,
+          "end": 74.08
+        },
+        {
+          "word": "dudaré",
+          "start": 74.08,
+          "end": 75.86
+        },
+        {
+          "word": "jamás.",
+          "start": 75.86,
+          "end": 78.18
+        }
+      ],
+      "start": 73.74,
+      "end": 78.18,
+      "confidence": 1.0,
+      "time": 73.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, Salvador bendito,",
+      "words": [
+        {
+          "word": "Oh",
+          "start": 78.66,
+          "end": 79.64
+        },
+        {
+          "word": "Salvador",
+          "start": 79.64,
+          "end": 80.64
+        },
+        {
+          "word": "bendito,",
+          "start": 80.64,
+          "end": 83.32
+        }
+      ],
+      "start": 78.66,
+      "end": 83.84,
+      "confidence": 1.0,
+      "time": 78.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "mi canto elevo a ti;",
+      "words": [
+        {
+          "word": "mi",
+          "start": 83.84,
+          "end": 83.96
+        },
+        {
+          "word": "canto",
+          "start": 83.96,
+          "end": 85.06
+        },
+        {
+          "word": "eleva",
+          "start": 85.06,
+          "end": 86.26
+        },
+        {
+          "word": "a",
+          "start": 86.26,
+          "end": 86.78
+        },
+        {
+          "word": "ti.",
+          "start": 86.78,
+          "end": 87.76
+        }
+      ],
+      "start": 83.84,
+      "end": 87.76,
+      "confidence": 0.976,
+      "time": 83.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "cual tú no tengo amigo",
+      "words": [
+        {
+          "word": "Cualtuno",
+          "start": 87.76,
+          "end": 90.06
+        },
+        {
+          "word": "tengo",
+          "start": 90.06,
+          "end": 91.04
+        },
+        {
+          "word": "amigo",
+          "start": 91.04,
+          "end": 92.78
+        }
+      ],
+      "start": 87.76,
+      "end": 92.78,
+      "confidence": 0.588,
+      "time": 87.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "que me ame tanto aquí!",
+      "words": [
+        {
+          "word": "que",
+          "start": 92.78,
+          "end": 93.74
+        },
+        {
+          "word": "me",
+          "start": 93.74,
+          "end": 94.56
+        },
+        {
+          "word": "ame",
+          "start": 94.56,
+          "end": 95.1
+        },
+        {
+          "word": "tanto",
+          "start": 95.1,
+          "end": 95.94
+        },
+        {
+          "word": "aquí.",
+          "start": 95.94,
+          "end": 98.52
+        }
+      ],
+      "start": 92.78,
+      "end": 98.52,
+      "confidence": 1.0,
+      "time": 92.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Jesús, en ti confío,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 99.78,
+          "end": 100.6
+        },
+        {
+          "word": "en",
+          "start": 100.6,
+          "end": 101.16
+        },
+        {
+          "word": "ti",
+          "start": 101.16,
+          "end": 101.8
+        },
+        {
+          "word": "confío,",
+          "start": 101.8,
+          "end": 104.16
+        }
+      ],
+      "start": 99.78,
+      "end": 104.48,
+      "confidence": 1.0,
+      "time": 99.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "amigo y guía fiel;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "amigo",
+          "start": 104.48,
+          "end": 105.76
+        },
+        {
+          "word": "y",
+          "start": 105.76,
+          "end": 106.88
+        },
+        {
+          "word": "afiel.",
+          "start": 106.88,
+          "end": 108.98
+        }
+      ],
+      "start": 104.48,
+      "end": 108.98,
+      "confidence": 0.733,
+      "time": 104.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "te quiero más que al mundo",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Te",
+          "start": 109.24,
+          "end": 109.82
+        },
+        {
+          "word": "quiero",
+          "start": 109.82,
+          "end": 110.74
+        },
+        {
+          "word": "más",
+          "start": 110.74,
+          "end": 111.68
+        },
+        {
+          "word": "que",
+          "start": 111.68,
+          "end": 111.94
+        },
+        {
+          "word": "al",
+          "start": 111.94,
+          "end": 112.36
+        },
+        {
+          "word": "mundo",
+          "start": 112.36,
+          "end": 113.78
+        }
+      ],
+      "start": 109.24,
+      "end": 113.78,
+      "confidence": 1.0,
+      "time": 109.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y cuanto se halla en él.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 113.78,
+          "end": 114.6
+        },
+        {
+          "word": "cuanto",
+          "start": 114.6,
+          "end": 115.82
+        },
+        {
+          "word": "sea",
+          "start": 115.82,
+          "end": 116.62
+        },
+        {
+          "word": "el",
+          "start": 116.62,
+          "end": 116.86
+        }
+      ],
+      "start": 113.78,
+      "end": 118.94,
+      "confidence": 0.647,
+      "time": 113.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, Salvador bendito,",
+      "words": [
+        {
+          "word": "Oh",
+          "start": 118.98,
+          "end": 119.64
+        },
+        {
+          "word": "Salvador",
+          "start": 119.64,
+          "end": 121.22
+        },
+        {
+          "word": "bendito,",
+          "start": 121.22,
+          "end": 123.78
+        }
+      ],
+      "start": 118.98,
+      "end": 123.78,
+      "confidence": 1.0,
+      "time": 118.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "mi canto elevo a ti;",
+      "words": [
+        {
+          "word": "mi",
+          "start": 124.54,
+          "end": 124.66
+        },
+        {
+          "word": "canto",
+          "start": 124.66,
+          "end": 125.7
+        },
+        {
+          "word": "eleva",
+          "start": 125.7,
+          "end": 126.92
+        },
+        {
+          "word": "a",
+          "start": 126.92,
+          "end": 127.38
+        },
+        {
+          "word": "ti,",
+          "start": 127.38,
+          "end": 128.9
+        }
+      ],
+      "start": 124.54,
+      "end": 128.9,
+      "confidence": 0.976,
+      "time": 124.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "cual tú no tengo amigo",
+      "words": [
+        {
+          "word": "cual",
+          "start": 129.22,
+          "end": 129.56
+        },
+        {
+          "word": "tú",
+          "start": 129.56,
+          "end": 130.32
+        },
+        {
+          "word": "no",
+          "start": 130.32,
+          "end": 130.8
+        },
+        {
+          "word": "tengo,",
+          "start": 130.8,
+          "end": 131.7
+        },
+        {
+          "word": "amigo,",
+          "start": 132.68,
+          "end": 133.46
+        }
+      ],
+      "start": 129.22,
+      "end": 133.46,
+      "confidence": 1.0,
+      "time": 129.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "que me ame tanto aquí!",
+      "words": [
+        {
+          "word": "que",
+          "start": 134.16,
+          "end": 134.5
+        },
+        {
+          "word": "me",
+          "start": 134.5,
+          "end": 135.34
+        },
+        {
+          "word": "ame",
+          "start": 135.34,
+          "end": 135.78
+        },
+        {
+          "word": "tanto",
+          "start": 135.78,
+          "end": 136.68
+        },
+        {
+          "word": "aquí.",
+          "start": 136.68,
+          "end": 138.84
+        }
+      ],
+      "start": 134.16,
+      "end": 138.84,
+      "confidence": 1.0,
+      "time": 134.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Serás de mi alma el gozo",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Serás",
+          "start": 140.3,
+          "end": 141.46
+        },
+        {
+          "word": "de",
+          "start": 141.46,
+          "end": 141.78
+        },
+        {
+          "word": "mi",
+          "start": 141.78,
+          "end": 142.24
+        },
+        {
+          "word": "alma",
+          "start": 142.24,
+          "end": 142.7
+        },
+        {
+          "word": "el",
+          "start": 142.7,
+          "end": 143.28
+        },
+        {
+          "word": "gozo,",
+          "start": 143.28,
+          "end": 144.72
+        }
+      ],
+      "start": 140.3,
+      "end": 144.84,
+      "confidence": 1.0,
+      "time": 140.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "aquí donde hay maldad;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "aquí",
+          "start": 144.84,
+          "end": 146.2
+        },
+        {
+          "word": "donde",
+          "start": 146.2,
+          "end": 146.78
+        },
+        {
+          "word": "hay",
+          "start": 146.78,
+          "end": 147.34
+        },
+        {
+          "word": "maldad.",
+          "start": 147.34,
+          "end": 149.68
+        }
+      ],
+      "start": 144.84,
+      "end": 149.68,
+      "confidence": 1.0,
+      "time": 144.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "también serás mi dicha",
+      "verse": 4,
+      "words": [
+        {
+          "word": "También",
+          "start": 149.98,
+          "end": 151.04
+        },
+        {
+          "word": "serás",
+          "start": 151.04,
+          "end": 152.44
+        },
+        {
+          "word": "mi",
+          "start": 152.44,
+          "end": 152.9
+        },
+        {
+          "word": "dicha,",
+          "start": 152.9,
+          "end": 154.92
+        }
+      ],
+      "start": 149.98,
+      "end": 155.36,
+      "confidence": 1.0,
+      "time": 149.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "allá en la eternidad.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "al",
+          "start": 155.36,
+          "end": 155.5
+        },
+        {
+          "word": "en",
+          "start": 155.98,
+          "end": 156.26
+        },
+        {
+          "word": "la",
+          "start": 156.26,
+          "end": 156.88
+        },
+        {
+          "word": "eternidad.",
+          "start": 156.88,
+          "end": 159.4
+        }
+      ],
+      "start": 155.36,
+      "end": 159.4,
+      "confidence": 0.985,
+      "time": 155.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Oh, Salvador bendito,",
+      "words": [
+        {
+          "word": "Oh",
+          "start": 159.4,
+          "end": 160.76
+        },
+        {
+          "word": "Salvador",
+          "start": 160.76,
+          "end": 161.8
+        },
+        {
+          "word": "bendito,",
+          "start": 161.8,
+          "end": 164.5
+        }
+      ],
+      "start": 159.4,
+      "end": 165.12,
+      "confidence": 1.0,
+      "time": 159.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "mi canto elevo a ti;",
+      "words": [
+        {
+          "word": "mi",
+          "start": 165.12,
+          "end": 165.14
+        },
+        {
+          "word": "canto",
+          "start": 165.14,
+          "end": 166.3
+        },
+        {
+          "word": "elévate,",
+          "start": 166.3,
+          "end": 169.24
+        }
+      ],
+      "start": 165.12,
+      "end": 169.9,
+      "confidence": 0.56,
+      "time": 165.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "cual tú no tengo amigo",
+      "words": [
+        {
+          "word": "cual",
+          "start": 169.9,
+          "end": 170.2
+        },
+        {
+          "word": "tú",
+          "start": 170.2,
+          "end": 170.94
+        },
+        {
+          "word": "no",
+          "start": 170.94,
+          "end": 171.5
+        },
+        {
+          "word": "tengas",
+          "start": 171.5,
+          "end": 172.58
+        },
+        {
+          "word": "amigo",
+          "start": 172.58,
+          "end": 174.32
+        }
+      ],
+      "start": 169.9,
+      "end": 174.32,
+      "confidence": 0.967,
+      "time": 169.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "que me ame tanto aquí!",
+      "words": [
+        {
+          "word": "que",
+          "start": 174.32,
+          "end": 175.2
+        },
+        {
+          "word": "me",
+          "start": 175.2,
+          "end": 176.08
+        },
+        {
+          "word": "tanto",
+          "start": 176.6,
+          "end": 177.86
+        },
+        {
+          "word": "aquí.",
+          "start": 177.86,
+          "end": 179.4
+        }
+      ],
+      "start": 174.32,
+      "end": 179.4,
+      "confidence": 0.8,
+      "time": 174.32
+    }
+  ]
+}

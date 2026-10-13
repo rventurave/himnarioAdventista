@@ -1,0 +1,938 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.892,
+  "language": "es",
+  "model": "medium",
+  "hymn": 551,
+  "source": "551 - Embajador soy de mi Rey.mp3",
+  "duration": 168.12,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Soy peregrino aquí; no hallo do morar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Soy",
+          "start": 13.52,
+          "end": 14.64
+        },
+        {
+          "word": "peremino",
+          "start": 14.64,
+          "end": 15.76
+        },
+        {
+          "word": "aquí,",
+          "start": 15.76,
+          "end": 16.88
+        },
+        {
+          "word": "no",
+          "start": 17.2,
+          "end": 17.5
+        },
+        {
+          "word": "morar,",
+          "start": 19.0,
+          "end": 19.72
+        }
+      ],
+      "start": 13.52,
+      "end": 20.18,
+      "confidence": 0.699,
+      "time": 13.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en áurea playa está mi muy lejano hogar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 20.18,
+          "end": 20.42
+        },
+        {
+          "word": "playa",
+          "start": 20.98,
+          "end": 21.86
+        },
+        {
+          "word": "está",
+          "start": 21.86,
+          "end": 22.74
+        },
+        {
+          "word": "mi",
+          "start": 22.74,
+          "end": 23.3
+        },
+        {
+          "word": "muy",
+          "start": 23.3,
+          "end": 23.7
+        },
+        {
+          "word": "lejano",
+          "start": 23.7,
+          "end": 24.7
+        },
+        {
+          "word": "hogar.",
+          "start": 24.7,
+          "end": 25.72
+        }
+      ],
+      "start": 20.18,
+      "end": 25.72,
+      "confidence": 0.875,
+      "time": 20.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "yo soy embajador del reino allende el mar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 25.72,
+          "end": 26.22
+        },
+        {
+          "word": "soy",
+          "start": 26.22,
+          "end": 26.84
+        },
+        {
+          "word": "embajador",
+          "start": 26.84,
+          "end": 28.86
+        },
+        {
+          "word": "del",
+          "start": 28.86,
+          "end": 29.36
+        },
+        {
+          "word": "reino",
+          "start": 29.36,
+          "end": 29.94
+        },
+        {
+          "word": "del",
+          "start": 30.34,
+          "end": 30.68
+        },
+        {
+          "word": "mar,",
+          "start": 30.68,
+          "end": 31.72
+        }
+      ],
+      "start": 25.72,
+      "end": 32.76,
+      "confidence": 0.86,
+      "time": 25.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "embajador soy de mi Rey.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "embajador",
+          "start": 32.76,
+          "end": 33.56
+        },
+        {
+          "word": "soy",
+          "start": 33.56,
+          "end": 33.98
+        },
+        {
+          "word": "de",
+          "start": 33.98,
+          "end": 35.62
+        },
+        {
+          "word": "mi",
+          "start": 35.62,
+          "end": 36.42
+        },
+        {
+          "word": "rey.",
+          "start": 36.42,
+          "end": 38.12
+        }
+      ],
+      "start": 32.76,
+      "end": 38.12,
+      "confidence": 1.0,
+      "time": 32.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Mensaje traigo que anunciar,",
+      "words": [
+        {
+          "word": "Mensaje",
+          "start": 38.76,
+          "end": 39.36
+        },
+        {
+          "word": "traigo",
+          "start": 39.36,
+          "end": 41.48
+        },
+        {
+          "word": "que",
+          "start": 41.48,
+          "end": 41.94
+        },
+        {
+          "word": "anuncio,",
+          "start": 41.94,
+          "end": 43.78
+        }
+      ],
+      "start": 38.76,
+      "end": 44.24,
+      "confidence": 0.97,
+      "time": 38.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "que aun ángeles quisieran dar.",
+      "words": [
+        {
+          "word": "que",
+          "start": 44.24,
+          "end": 44.52
+        },
+        {
+          "word": "a",
+          "start": 44.52,
+          "end": 44.64
+        },
+        {
+          "word": "ángeles",
+          "start": 44.82,
+          "end": 45.7
+        },
+        {
+          "word": "quisiera",
+          "start": 45.7,
+          "end": 48.08
+        },
+        {
+          "word": "andar.",
+          "start": 48.08,
+          "end": 49.9
+        }
+      ],
+      "start": 44.24,
+      "end": 49.9,
+      "confidence": 0.946,
+      "time": 44.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "\"Reconciliaos hoy\", es la divina voz,",
+      "words": [
+        {
+          "word": "Reconciliado",
+          "start": 49.9,
+          "end": 52.24
+        },
+        {
+          "word": "soy,",
+          "start": 52.24,
+          "end": 53.12
+        },
+        {
+          "word": "es",
+          "start": 53.56,
+          "end": 53.84
+        },
+        {
+          "word": "la",
+          "start": 53.84,
+          "end": 54.28
+        },
+        {
+          "word": "Divina",
+          "start": 54.28,
+          "end": 55.38
+        },
+        {
+          "word": "Voz,",
+          "start": 55.38,
+          "end": 56.36
+        }
+      ],
+      "start": 49.9,
+      "end": 56.8,
+      "confidence": 0.958,
+      "time": 49.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "\"reconciliaos hoy con Dios\".",
+      "words": [
+        {
+          "word": "Reconciliado",
+          "start": 56.8,
+          "end": 58.28
+        },
+        {
+          "word": "soy",
+          "start": 58.28,
+          "end": 59.72
+        },
+        {
+          "word": "con",
+          "start": 59.72,
+          "end": 60.58
+        },
+        {
+          "word": "Dios.",
+          "start": 60.58,
+          "end": 62.66
+        }
+      ],
+      "start": 56.8,
+      "end": 62.66,
+      "confidence": 0.938,
+      "time": 56.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mi Rey implora a los de senda mundanal",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Mire",
+          "start": 64.1,
+          "end": 64.6
+        },
+        {
+          "word": "implora",
+          "start": 65.14,
+          "end": 65.84
+        },
+        {
+          "word": "los",
+          "start": 65.84,
+          "end": 67.0
+        },
+        {
+          "word": "de",
+          "start": 67.0,
+          "end": 67.56
+        },
+        {
+          "word": "senda",
+          "start": 67.56,
+          "end": 68.22
+        },
+        {
+          "word": "mundial,",
+          "start": 68.22,
+          "end": 69.16
+        }
+      ],
+      "start": 64.1,
+      "end": 70.12,
+      "confidence": 0.71,
+      "time": 64.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que se arrepientan del pecado tan fatal;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Que",
+          "start": 70.12,
+          "end": 70.34
+        },
+        {
+          "word": "se",
+          "start": 70.34,
+          "end": 70.84
+        },
+        {
+          "word": "arrepientan",
+          "start": 70.84,
+          "end": 72.1
+        },
+        {
+          "word": "del",
+          "start": 72.1,
+          "end": 73.06
+        },
+        {
+          "word": "regado",
+          "start": 73.06,
+          "end": 74.12
+        },
+        {
+          "word": "tan",
+          "start": 74.12,
+          "end": 74.78
+        },
+        {
+          "word": "fatal,",
+          "start": 74.78,
+          "end": 75.66
+        }
+      ],
+      "start": 70.12,
+      "end": 75.66,
+      "confidence": 0.971,
+      "time": 70.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que presten atención al ruego celestial;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Que",
+          "start": 75.66,
+          "end": 76.56
+        },
+        {
+          "word": "presten",
+          "start": 76.56,
+          "end": 77.32
+        },
+        {
+          "word": "atención",
+          "start": 77.32,
+          "end": 78.92
+        },
+        {
+          "word": "al",
+          "start": 78.92,
+          "end": 79.54
+        },
+        {
+          "word": "ruego",
+          "start": 79.54,
+          "end": 80.26
+        },
+        {
+          "word": "celestial,",
+          "start": 80.26,
+          "end": 81.8
+        }
+      ],
+      "start": 75.66,
+      "end": 82.52,
+      "confidence": 1.0,
+      "time": 75.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "embajador soy de mi Rey.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "embajador",
+          "start": 82.52,
+          "end": 83.64
+        },
+        {
+          "word": "soy",
+          "start": 83.64,
+          "end": 84.1
+        },
+        {
+          "word": "de",
+          "start": 84.1,
+          "end": 85.54
+        },
+        {
+          "word": "mi",
+          "start": 85.54,
+          "end": 86.46
+        },
+        {
+          "word": "rey.",
+          "start": 86.46,
+          "end": 87.66
+        }
+      ],
+      "start": 82.52,
+      "end": 87.66,
+      "confidence": 1.0,
+      "time": 82.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Mensaje traigo que anunciar,",
+      "words": [
+        {
+          "word": "Mensajes",
+          "start": 88.92,
+          "end": 89.5
+        },
+        {
+          "word": "algo",
+          "start": 89.5,
+          "end": 91.34
+        },
+        {
+          "word": "que",
+          "start": 91.34,
+          "end": 92.08
+        },
+        {
+          "word": "anunciar,",
+          "start": 92.08,
+          "end": 94.14
+        }
+      ],
+      "start": 88.92,
+      "end": 94.5,
+      "confidence": 0.925,
+      "time": 88.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "que aun ángeles quisieran dar.",
+      "words": [
+        {
+          "word": "que",
+          "start": 94.5,
+          "end": 94.68
+        },
+        {
+          "word": "aun",
+          "start": 94.68,
+          "end": 94.96
+        },
+        {
+          "word": "les",
+          "start": 95.46,
+          "end": 95.98
+        },
+        {
+          "word": "quisiera",
+          "start": 95.98,
+          "end": 98.16
+        },
+        {
+          "word": "andar,",
+          "start": 98.16,
+          "end": 100.02
+        }
+      ],
+      "start": 94.5,
+      "end": 100.02,
+      "confidence": 0.91,
+      "time": 94.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "\"Reconciliaos hoy\", es la divina voz,",
+      "words": [
+        {
+          "word": "Reconciliao,",
+          "start": 100.02,
+          "end": 102.28
+        },
+        {
+          "word": "soy,",
+          "start": 102.3,
+          "end": 103.22
+        },
+        {
+          "word": "eres",
+          "start": 103.5,
+          "end": 103.94
+        },
+        {
+          "word": "la",
+          "start": 103.94,
+          "end": 104.58
+        },
+        {
+          "word": "divina",
+          "start": 104.58,
+          "end": 105.4
+        },
+        {
+          "word": "voz,",
+          "start": 105.4,
+          "end": 106.34
+        }
+      ],
+      "start": 100.02,
+      "end": 106.34,
+      "confidence": 0.923,
+      "time": 100.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "\"reconciliaos hoy con Dios\".",
+      "words": [
+        {
+          "word": "Reconciliao,",
+          "start": 106.94,
+          "end": 108.4
+        },
+        {
+          "word": "soy,",
+          "start": 109.22,
+          "end": 109.88
+        },
+        {
+          "word": "con",
+          "start": 110.14,
+          "end": 110.84
+        }
+      ],
+      "start": 106.94,
+      "end": 112.7,
+      "confidence": 0.685,
+      "time": 106.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Más bello es mi hogar que el valle de Sarón;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Más",
+          "start": 114.12,
+          "end": 114.66
+        },
+        {
+          "word": "bello",
+          "start": 114.66,
+          "end": 115.26
+        },
+        {
+          "word": "es",
+          "start": 115.26,
+          "end": 115.5
+        },
+        {
+          "word": "mi",
+          "start": 115.5,
+          "end": 115.9
+        },
+        {
+          "word": "hogar",
+          "start": 115.9,
+          "end": 117.12
+        },
+        {
+          "word": "que",
+          "start": 117.12,
+          "end": 117.42
+        },
+        {
+          "word": "el",
+          "start": 117.42,
+          "end": 117.74
+        },
+        {
+          "word": "valle",
+          "start": 117.74,
+          "end": 118.2
+        },
+        {
+          "word": "de",
+          "start": 118.2,
+          "end": 118.92
+        },
+        {
+          "word": "Sarón,",
+          "start": 118.92,
+          "end": 119.9
+        }
+      ],
+      "start": 114.12,
+      "end": 119.9,
+      "confidence": 1.0,
+      "time": 114.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "hay plena paz y amor en toda su extensión;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "hay",
+          "start": 120.24,
+          "end": 120.58
+        },
+        {
+          "word": "plena",
+          "start": 120.58,
+          "end": 121.3
+        },
+        {
+          "word": "paz",
+          "start": 121.3,
+          "end": 121.96
+        },
+        {
+          "word": "y",
+          "start": 121.96,
+          "end": 122.06
+        },
+        {
+          "word": "en",
+          "start": 123.48,
+          "end": 123.8
+        },
+        {
+          "word": "toda",
+          "start": 123.8,
+          "end": 124.28
+        },
+        {
+          "word": "su",
+          "start": 124.28,
+          "end": 124.7
+        },
+        {
+          "word": "extensión,",
+          "start": 124.7,
+          "end": 125.78
+        }
+      ],
+      "start": 120.24,
+      "end": 125.78,
+      "confidence": 0.889,
+      "time": 120.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y porque allí tengáis eterna posesión,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 125.78,
+          "end": 126.54
+        },
+        {
+          "word": "por",
+          "start": 126.54,
+          "end": 127.0
+        },
+        {
+          "word": "allí",
+          "start": 127.32,
+          "end": 127.88
+        },
+        {
+          "word": "llegáis,",
+          "start": 127.88,
+          "end": 129.28
+        },
+        {
+          "word": "eterna",
+          "start": 129.66,
+          "end": 130.36
+        },
+        {
+          "word": "posesión,",
+          "start": 130.36,
+          "end": 132.16
+        }
+      ],
+      "start": 125.78,
+      "end": 132.68,
+      "confidence": 0.961,
+      "time": 125.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "embajador soy de mi Rey.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "embajados",
+          "start": 132.68,
+          "end": 133.84
+        },
+        {
+          "word": "hoy",
+          "start": 133.84,
+          "end": 134.34
+        },
+        {
+          "word": "miré.",
+          "start": 135.88,
+          "end": 138.12
+        }
+      ],
+      "start": 132.68,
+      "end": 138.12,
+      "confidence": 0.507,
+      "time": 132.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Mensaje traigo que anunciar,",
+      "words": [
+        {
+          "word": "Mensaje",
+          "start": 138.54,
+          "end": 139.48
+        },
+        {
+          "word": "que",
+          "start": 141.7,
+          "end": 142.08
+        },
+        {
+          "word": "anunzar,",
+          "start": 142.08,
+          "end": 143.92
+        }
+      ],
+      "start": 138.54,
+      "end": 144.46,
+      "confidence": 0.72,
+      "time": 138.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "que aun ángeles quisieran dar.",
+      "words": [
+        {
+          "word": "que",
+          "start": 144.46,
+          "end": 144.7
+        },
+        {
+          "word": "a",
+          "start": 144.7,
+          "end": 144.82
+        },
+        {
+          "word": "ángeles",
+          "start": 145.02,
+          "end": 145.92
+        },
+        {
+          "word": "quisiera",
+          "start": 145.92,
+          "end": 148.24
+        },
+        {
+          "word": "andar.",
+          "start": 148.24,
+          "end": 150.08
+        }
+      ],
+      "start": 144.46,
+      "end": 150.08,
+      "confidence": 0.946,
+      "time": 144.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "\"Reconciliaos hoy\", es la divina voz,",
+      "words": [
+        {
+          "word": "Reconciliamos",
+          "start": 150.08,
+          "end": 152.56
+        },
+        {
+          "word": "hoy,",
+          "start": 152.56,
+          "end": 153.34
+        },
+        {
+          "word": "es",
+          "start": 153.88,
+          "end": 154.12
+        },
+        {
+          "word": "la",
+          "start": 154.12,
+          "end": 154.58
+        },
+        {
+          "word": "Divina",
+          "start": 154.58,
+          "end": 155.56
+        },
+        {
+          "word": "Voz,",
+          "start": 155.56,
+          "end": 156.5
+        }
+      ],
+      "start": 150.08,
+      "end": 157.02,
+      "confidence": 0.996,
+      "time": 150.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "\"reconciliaos hoy con Dios\".",
+      "words": [
+        {
+          "word": "Reconciliamos",
+          "start": 157.02,
+          "end": 158.68
+        },
+        {
+          "word": "hoy",
+          "start": 158.68,
+          "end": 159.98
+        },
+        {
+          "word": "con",
+          "start": 159.98,
+          "end": 160.96
+        },
+        {
+          "word": "Dios.",
+          "start": 160.96,
+          "end": 162.56
+        }
+      ],
+      "start": 157.02,
+      "end": 162.56,
+      "confidence": 0.994,
+      "time": 157.02
+    }
+  ]
+}

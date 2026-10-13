@@ -1,0 +1,893 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.991,
+  "language": "es",
+  "model": "medium",
+  "hymn": 355,
+  "source": "355 - Yo voy feliz.mp3",
+  "duration": 132.54,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Aquel en cuyo corazón",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Aquel",
+          "start": 18.5,
+          "end": 19.9
+        },
+        {
+          "word": "en",
+          "start": 19.9,
+          "end": 20.3
+        },
+        {
+          "word": "cuyo",
+          "start": 20.3,
+          "end": 21.22
+        },
+        {
+          "word": "corazón",
+          "start": 21.22,
+          "end": 23.04
+        }
+      ],
+      "start": 18.5,
+      "end": 23.04,
+      "confidence": 1.0,
+      "time": 18.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "reside el santo amor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "reside",
+          "start": 23.04,
+          "end": 24.24
+        },
+        {
+          "word": "el",
+          "start": 24.24,
+          "end": 24.6
+        },
+        {
+          "word": "Santo",
+          "start": 24.6,
+          "end": 25.48
+        },
+        {
+          "word": "Amor",
+          "start": 25.48,
+          "end": 27.32
+        }
+      ],
+      "start": 23.04,
+      "end": 27.32,
+      "confidence": 1.0,
+      "time": 23.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de gozo siempre la canción",
+      "verse": 1,
+      "words": [
+        {
+          "word": "De",
+          "start": 27.32,
+          "end": 28.04
+        },
+        {
+          "word": "gozo",
+          "start": 28.04,
+          "end": 28.96
+        },
+        {
+          "word": "siempre",
+          "start": 28.96,
+          "end": 29.96
+        },
+        {
+          "word": "la",
+          "start": 29.96,
+          "end": 30.9
+        },
+        {
+          "word": "canción,",
+          "start": 30.9,
+          "end": 31.82
+        }
+      ],
+      "start": 27.32,
+      "end": 32.06,
+      "confidence": 1.0,
+      "time": 27.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "eleva al Salvador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Eleva",
+          "start": 32.06,
+          "end": 33.26
+        },
+        {
+          "word": "Salvador.",
+          "start": 33.92,
+          "end": 35.44
+        }
+      ],
+      "start": 32.06,
+      "end": 35.44,
+      "confidence": 0.667,
+      "time": 32.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Yo voy feliz con Cristo, el Rey,",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 36.88,
+          "end": 37.14
+        },
+        {
+          "word": "voy",
+          "start": 37.14,
+          "end": 37.5
+        },
+        {
+          "word": "feliz",
+          "start": 37.5,
+          "end": 38.56
+        },
+        {
+          "word": "con",
+          "start": 38.56,
+          "end": 39.04
+        },
+        {
+          "word": "Cristo",
+          "start": 39.04,
+          "end": 39.82
+        },
+        {
+          "word": "el",
+          "start": 39.82,
+          "end": 40.26
+        },
+        {
+          "word": "Rey,",
+          "start": 40.26,
+          "end": 40.9
+        }
+      ],
+      "start": 36.88,
+      "end": 41.32,
+      "confidence": 1.0,
+      "time": 36.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "mi Salvador, mi Protector.",
+      "words": [
+        {
+          "word": "Mi",
+          "start": 41.32,
+          "end": 41.56
+        },
+        {
+          "word": "Salvador,",
+          "start": 41.56,
+          "end": 42.84
+        },
+        {
+          "word": "mi",
+          "start": 43.52,
+          "end": 43.8
+        },
+        {
+          "word": "Protector.",
+          "start": 43.8,
+          "end": 45.4
+        }
+      ],
+      "start": 41.32,
+      "end": 45.4,
+      "confidence": 1.0,
+      "time": 41.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Yo voy feliz con Cristo, el Rey;",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 45.84,
+          "end": 45.94
+        },
+        {
+          "word": "voy",
+          "start": 45.94,
+          "end": 46.3
+        },
+        {
+          "word": "feliz",
+          "start": 46.3,
+          "end": 47.42
+        },
+        {
+          "word": "con",
+          "start": 47.42,
+          "end": 47.9
+        },
+        {
+          "word": "Cristo",
+          "start": 47.9,
+          "end": 48.7
+        },
+        {
+          "word": "el",
+          "start": 48.7,
+          "end": 49.14
+        },
+        {
+          "word": "Rey,",
+          "start": 49.14,
+          "end": 49.58
+        }
+      ],
+      "start": 45.84,
+      "end": 49.84,
+      "confidence": 1.0,
+      "time": 45.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "mis cargas Jesús me quitó.",
+      "words": [
+        {
+          "word": "Mis",
+          "start": 49.84,
+          "end": 50.1
+        },
+        {
+          "word": "cargas",
+          "start": 50.1,
+          "end": 50.8
+        },
+        {
+          "word": "Jesús",
+          "start": 50.8,
+          "end": 51.48
+        },
+        {
+          "word": "me",
+          "start": 51.48,
+          "end": 52.04
+        },
+        {
+          "word": "quitó.",
+          "start": 52.04,
+          "end": 54.36
+        }
+      ],
+      "start": 49.84,
+      "end": 54.36,
+      "confidence": 1.0,
+      "time": 49.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesús me ama, bien lo sé,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 54.36,
+          "end": 56.22
+        },
+        {
+          "word": "me",
+          "start": 56.22,
+          "end": 57.32
+        },
+        {
+          "word": "ama",
+          "start": 57.32,
+          "end": 57.7
+        },
+        {
+          "word": "bien,",
+          "start": 57.7,
+          "end": 58.48
+        },
+        {
+          "word": "lo",
+          "start": 58.48,
+          "end": 59.08
+        },
+        {
+          "word": "sé,",
+          "start": 59.08,
+          "end": 59.52
+        }
+      ],
+      "start": 54.36,
+      "end": 59.88,
+      "confidence": 1.0,
+      "time": 54.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pues oye mi clamor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pues",
+          "start": 59.88,
+          "end": 60.52
+        },
+        {
+          "word": "oye",
+          "start": 60.52,
+          "end": 61.24
+        },
+        {
+          "word": "mi",
+          "start": 61.24,
+          "end": 61.96
+        },
+        {
+          "word": "clamor,",
+          "start": 61.96,
+          "end": 63.84
+        }
+      ],
+      "start": 59.88,
+      "end": 64.2,
+      "confidence": 1.0,
+      "time": 59.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y si lo sigo por la fe",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 64.2,
+          "end": 64.56
+        },
+        {
+          "word": "si",
+          "start": 64.56,
+          "end": 65.24
+        },
+        {
+          "word": "lo",
+          "start": 65.24,
+          "end": 65.72
+        },
+        {
+          "word": "sigo",
+          "start": 65.72,
+          "end": 66.78
+        },
+        {
+          "word": "por",
+          "start": 66.78,
+          "end": 67.52
+        },
+        {
+          "word": "la",
+          "start": 67.52,
+          "end": 67.98
+        },
+        {
+          "word": "fe,",
+          "start": 67.98,
+          "end": 68.36
+        }
+      ],
+      "start": 64.2,
+      "end": 69.1,
+      "confidence": 1.0,
+      "time": 64.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "será mi Redentor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "será",
+          "start": 69.1,
+          "end": 69.46
+        },
+        {
+          "word": "mi",
+          "start": 69.46,
+          "end": 70.76
+        },
+        {
+          "word": "Redentor.",
+          "start": 70.76,
+          "end": 72.98
+        }
+      ],
+      "start": 69.1,
+      "end": 72.98,
+      "confidence": 1.0,
+      "time": 69.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Yo voy feliz con Cristo, el Rey,",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 72.98,
+          "end": 73.72
+        },
+        {
+          "word": "voy",
+          "start": 73.72,
+          "end": 74.1
+        },
+        {
+          "word": "feliz",
+          "start": 74.1,
+          "end": 75.18
+        },
+        {
+          "word": "con",
+          "start": 75.18,
+          "end": 75.68
+        },
+        {
+          "word": "Cristo",
+          "start": 75.68,
+          "end": 76.46
+        },
+        {
+          "word": "el",
+          "start": 76.46,
+          "end": 76.96
+        },
+        {
+          "word": "Rey,",
+          "start": 76.96,
+          "end": 77.58
+        }
+      ],
+      "start": 72.98,
+      "end": 78.1,
+      "confidence": 1.0,
+      "time": 72.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "mi Salvador, mi Protector.",
+      "words": [
+        {
+          "word": "mi",
+          "start": 78.1,
+          "end": 78.28
+        },
+        {
+          "word": "Salvador,",
+          "start": 78.28,
+          "end": 79.36
+        },
+        {
+          "word": "mi",
+          "start": 80.32,
+          "end": 80.56
+        },
+        {
+          "word": "Protector.",
+          "start": 80.56,
+          "end": 82.1
+        }
+      ],
+      "start": 78.1,
+      "end": 82.1,
+      "confidence": 1.0,
+      "time": 78.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Yo voy feliz con Cristo, el Rey;",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 82.46,
+          "end": 82.62
+        },
+        {
+          "word": "voy",
+          "start": 82.62,
+          "end": 83.0
+        },
+        {
+          "word": "feliz",
+          "start": 83.0,
+          "end": 84.12
+        },
+        {
+          "word": "con",
+          "start": 84.12,
+          "end": 84.56
+        },
+        {
+          "word": "Cristo",
+          "start": 84.56,
+          "end": 85.4
+        },
+        {
+          "word": "el",
+          "start": 85.4,
+          "end": 85.82
+        },
+        {
+          "word": "Rey,",
+          "start": 85.82,
+          "end": 86.22
+        }
+      ],
+      "start": 82.46,
+      "end": 86.56,
+      "confidence": 1.0,
+      "time": 82.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "mis cargas Jesús me quitó.",
+      "words": [
+        {
+          "word": "mis",
+          "start": 86.56,
+          "end": 86.82
+        },
+        {
+          "word": "cargas",
+          "start": 86.82,
+          "end": 87.5
+        },
+        {
+          "word": "Jesús",
+          "start": 87.5,
+          "end": 88.16
+        },
+        {
+          "word": "me",
+          "start": 88.16,
+          "end": 88.74
+        },
+        {
+          "word": "quitó.",
+          "start": 88.74,
+          "end": 91.08
+        }
+      ],
+      "start": 86.56,
+      "end": 91.08,
+      "confidence": 1.0,
+      "time": 86.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "La vida aquí terminará,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "La",
+          "start": 91.78,
+          "end": 92.4
+        },
+        {
+          "word": "vida",
+          "start": 92.4,
+          "end": 93.26
+        },
+        {
+          "word": "aquí",
+          "start": 93.26,
+          "end": 94.18
+        },
+        {
+          "word": "terminará,",
+          "start": 94.18,
+          "end": 96.44
+        }
+      ],
+      "start": 91.78,
+      "end": 96.46,
+      "confidence": 1.0,
+      "time": 91.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "el fin ha de llegar;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 96.46,
+          "end": 96.96
+        },
+        {
+          "word": "fin",
+          "start": 96.96,
+          "end": 97.68
+        },
+        {
+          "word": "ha",
+          "start": 97.68,
+          "end": 98.06
+        },
+        {
+          "word": "de",
+          "start": 98.06,
+          "end": 98.62
+        },
+        {
+          "word": "llegar.",
+          "start": 98.62,
+          "end": 100.48
+        }
+      ],
+      "start": 96.46,
+      "end": 100.48,
+      "confidence": 1.0,
+      "time": 96.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "mas la promesa fiel será:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Mas",
+          "start": 100.48,
+          "end": 101.28
+        },
+        {
+          "word": "la",
+          "start": 101.28,
+          "end": 102.2
+        },
+        {
+          "word": "promesa",
+          "start": 102.2,
+          "end": 103.36
+        },
+        {
+          "word": "fiel",
+          "start": 103.36,
+          "end": 104.14
+        },
+        {
+          "word": "será,",
+          "start": 104.14,
+          "end": 104.96
+        }
+      ],
+      "start": 100.48,
+      "end": 105.6,
+      "confidence": 1.0,
+      "time": 100.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Jesús me salvará.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 105.6,
+          "end": 106.32
+        },
+        {
+          "word": "me",
+          "start": 106.32,
+          "end": 107.26
+        },
+        {
+          "word": "salvador",
+          "start": 107.26,
+          "end": 109.5
+        }
+      ],
+      "start": 105.6,
+      "end": 109.5,
+      "confidence": 0.96,
+      "time": 105.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Yo voy feliz con Cristo, el Rey,",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 109.5,
+          "end": 110.42
+        },
+        {
+          "word": "voy",
+          "start": 110.42,
+          "end": 110.78
+        },
+        {
+          "word": "feliz",
+          "start": 110.78,
+          "end": 111.9
+        },
+        {
+          "word": "con",
+          "start": 111.9,
+          "end": 112.38
+        },
+        {
+          "word": "Cristo",
+          "start": 112.38,
+          "end": 113.18
+        },
+        {
+          "word": "el",
+          "start": 113.18,
+          "end": 113.66
+        },
+        {
+          "word": "Rey,",
+          "start": 113.66,
+          "end": 114.34
+        }
+      ],
+      "start": 109.5,
+      "end": 114.8,
+      "confidence": 1.0,
+      "time": 109.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "mi Salvador, mi Protector.",
+      "words": [
+        {
+          "word": "mi",
+          "start": 114.8,
+          "end": 114.96
+        },
+        {
+          "word": "salvador,",
+          "start": 114.96,
+          "end": 116.62
+        },
+        {
+          "word": "mi",
+          "start": 117.0,
+          "end": 117.18
+        },
+        {
+          "word": "protector",
+          "start": 117.18,
+          "end": 118.64
+        }
+      ],
+      "start": 114.8,
+      "end": 118.64,
+      "confidence": 1.0,
+      "time": 114.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Yo voy feliz con Cristo, el Rey;",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 118.64,
+          "end": 119.34
+        },
+        {
+          "word": "voy",
+          "start": 119.34,
+          "end": 119.66
+        },
+        {
+          "word": "feliz",
+          "start": 119.66,
+          "end": 120.82
+        },
+        {
+          "word": "con",
+          "start": 120.82,
+          "end": 121.26
+        },
+        {
+          "word": "Cristo",
+          "start": 121.26,
+          "end": 122.08
+        },
+        {
+          "word": "el",
+          "start": 122.08,
+          "end": 122.56
+        },
+        {
+          "word": "Rey,",
+          "start": 122.56,
+          "end": 122.96
+        }
+      ],
+      "start": 118.64,
+      "end": 123.28,
+      "confidence": 1.0,
+      "time": 118.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "mis cargas Jesús me quitó.",
+      "words": [
+        {
+          "word": "mis",
+          "start": 123.28,
+          "end": 123.46
+        },
+        {
+          "word": "cargas",
+          "start": 123.46,
+          "end": 124.18
+        },
+        {
+          "word": "Jesús",
+          "start": 124.18,
+          "end": 124.9
+        },
+        {
+          "word": "me",
+          "start": 124.9,
+          "end": 125.46
+        },
+        {
+          "word": "quitó",
+          "start": 125.46,
+          "end": 127.78
+        }
+      ],
+      "start": 123.28,
+      "end": 127.78,
+      "confidence": 1.0,
+      "time": 123.28
+    }
+  ]
+}

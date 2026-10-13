@@ -1,0 +1,496 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.838,
+  "language": "es",
+  "model": "medium",
+  "hymn": 588,
+  "source": "588 - Ven, alma que lloras.mp3",
+  "duration": 163.42,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ven, alma que lloras, ven al Salvador;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Venga",
+          "start": 12.98,
+          "end": 14.38
+        },
+        {
+          "word": "Lloras,",
+          "start": 15.84,
+          "end": 18.34
+        },
+        {
+          "word": "venga",
+          "start": 19.34,
+          "end": 20.42
+        },
+        {
+          "word": "Salvador,",
+          "start": 20.84,
+          "end": 22.5
+        }
+      ],
+      "start": 12.98,
+      "end": 22.5,
+      "confidence": 0.554,
+      "time": 12.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en tus tristes horas dile tu dolor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ven",
+          "start": 24.66,
+          "end": 26.06
+        },
+        {
+          "word": "tus",
+          "start": 26.06,
+          "end": 26.6
+        },
+        {
+          "word": "tristes",
+          "start": 26.6,
+          "end": 27.6
+        },
+        {
+          "word": "horas,",
+          "start": 27.6,
+          "end": 30.16
+        },
+        {
+          "word": "dile",
+          "start": 31.76,
+          "end": 32.42
+        },
+        {
+          "word": "tu",
+          "start": 32.42,
+          "end": 33.14
+        },
+        {
+          "word": "dolor,",
+          "start": 33.14,
+          "end": 36.16
+        }
+      ],
+      "start": 24.66,
+      "end": 37.1,
+      "confidence": 0.983,
+      "time": 24.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Sí, dile tu duelo; ven tal como estás;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sí,",
+          "start": 37.1,
+          "end": 38.4
+        },
+        {
+          "word": "dile",
+          "start": 38.66,
+          "end": 39.0
+        },
+        {
+          "word": "tu",
+          "start": 39.0,
+          "end": 39.66
+        },
+        {
+          "word": "duelo,",
+          "start": 39.66,
+          "end": 42.3
+        },
+        {
+          "word": "ventalo",
+          "start": 43.24,
+          "end": 45.1
+        },
+        {
+          "word": "como",
+          "start": 45.1,
+          "end": 45.76
+        },
+        {
+          "word": "estás.",
+          "start": 45.76,
+          "end": 48.3
+        }
+      ],
+      "start": 37.1,
+      "end": 48.3,
+      "confidence": 0.868,
+      "time": 37.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "habla sin recelo, y no llores más.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hablas",
+          "start": 48.3,
+          "end": 50.72
+        },
+        {
+          "word": "recelo,",
+          "start": 51.42,
+          "end": 54.34
+        },
+        {
+          "word": "y",
+          "start": 54.9,
+          "end": 56.34
+        },
+        {
+          "word": "llores",
+          "start": 56.78,
+          "end": 57.8
+        },
+        {
+          "word": "más.",
+          "start": 57.8,
+          "end": 60.18
+        }
+      ],
+      "start": 48.3,
+      "end": 60.18,
+      "confidence": 0.706,
+      "time": 48.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Penas y tristezas, dilas al Señor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Penas",
+          "start": 61.64,
+          "end": 62.7
+        },
+        {
+          "word": "y",
+          "start": 62.7,
+          "end": 63.12
+        },
+        {
+          "word": "tristezas,",
+          "start": 63.12,
+          "end": 66.62
+        },
+        {
+          "word": "dilas",
+          "start": 66.76,
+          "end": 68.72
+        },
+        {
+          "word": "al",
+          "start": 68.72,
+          "end": 69.08
+        },
+        {
+          "word": "Señor.",
+          "start": 69.08,
+          "end": 71.98
+        }
+      ],
+      "start": 61.64,
+      "end": 71.98,
+      "confidence": 1.0,
+      "time": 61.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "crueles desventuras, lágrimas y error;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cuéllese",
+          "start": 75.56,
+          "end": 76.96
+        },
+        {
+          "word": "desventuras,",
+          "start": 76.96,
+          "end": 78.36
+        },
+        {
+          "word": "lágrimas",
+          "start": 78.74,
+          "end": 81.1
+        },
+        {
+          "word": "y",
+          "start": 81.1,
+          "end": 81.66
+        },
+        {
+          "word": "error,",
+          "start": 81.66,
+          "end": 84.12
+        }
+      ],
+      "start": 75.56,
+      "end": 84.12,
+      "confidence": 0.976,
+      "time": 75.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "en su tierno seno tú descansarás;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 84.8,
+          "end": 86.2
+        },
+        {
+          "word": "su",
+          "start": 86.2,
+          "end": 86.68
+        },
+        {
+          "word": "tierno",
+          "start": 86.68,
+          "end": 87.84
+        },
+        {
+          "word": "seno",
+          "start": 87.84,
+          "end": 90.52
+        },
+        {
+          "word": "tú",
+          "start": 90.52,
+          "end": 92.14
+        },
+        {
+          "word": "descansarás.",
+          "start": 92.14,
+          "end": 96.34
+        }
+      ],
+      "start": 84.8,
+      "end": 96.34,
+      "confidence": 1.0,
+      "time": 84.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "ven, Cristo es bueno, y no llores más.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Ven,",
+          "start": 96.34,
+          "end": 98.12
+        },
+        {
+          "word": "Cristo",
+          "start": 98.28,
+          "end": 98.94
+        },
+        {
+          "word": "es",
+          "start": 98.94,
+          "end": 99.8
+        },
+        {
+          "word": "bueno",
+          "start": 99.8,
+          "end": 102.3
+        },
+        {
+          "word": "y",
+          "start": 102.3,
+          "end": 104.26
+        },
+        {
+          "word": "no",
+          "start": 104.26,
+          "end": 104.82
+        },
+        {
+          "word": "llores",
+          "start": 104.82,
+          "end": 105.78
+        },
+        {
+          "word": "más",
+          "start": 105.78,
+          "end": 108.28
+        }
+      ],
+      "start": 96.34,
+      "end": 110.32,
+      "confidence": 1.0,
+      "time": 96.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Guía al extraviado, muéstrale tu luz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "al",
+          "start": 110.32,
+          "end": 110.82
+        },
+        {
+          "word": "extraviado",
+          "start": 110.82,
+          "end": 114.62
+        },
+        {
+          "word": "muéstrale",
+          "start": 114.62,
+          "end": 117.04
+        },
+        {
+          "word": "tu",
+          "start": 117.04,
+          "end": 117.76
+        },
+        {
+          "word": "luz.",
+          "start": 117.76,
+          "end": 120.3
+        }
+      ],
+      "start": 110.32,
+      "end": 120.3,
+      "confidence": 0.833,
+      "time": 110.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Lleva al angustiado al manso Jesús.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Lleva",
+          "start": 120.3,
+          "end": 122.64
+        },
+        {
+          "word": "angustiado",
+          "start": 123.08,
+          "end": 126.6
+        },
+        {
+          "word": "al",
+          "start": 126.6,
+          "end": 128.18
+        },
+        {
+          "word": "macho",
+          "start": 128.18,
+          "end": 129.44
+        },
+        {
+          "word": "Jesús",
+          "start": 129.44,
+          "end": 132.2
+        }
+      ],
+      "start": 120.3,
+      "end": 132.2,
+      "confidence": 0.793,
+      "time": 120.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "La bendita nueva de celeste paz",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 132.2,
+          "end": 134.14
+        },
+        {
+          "word": "bendita",
+          "start": 134.14,
+          "end": 135.54
+        },
+        {
+          "word": "nueva",
+          "start": 135.54,
+          "end": 138.26
+        },
+        {
+          "word": "de",
+          "start": 141.32,
+          "end": 142.08
+        },
+        {
+          "word": "paz",
+          "start": 142.08,
+          "end": 144.46
+        }
+      ],
+      "start": 132.2,
+      "end": 144.46,
+      "confidence": 0.833,
+      "time": 132.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al triste, pues, lleva, y no llores más.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 147.34,
+          "end": 147.82
+        },
+        {
+          "word": "lleva,",
+          "start": 147.82,
+          "end": 150.32
+        },
+        {
+          "word": "y",
+          "start": 151.24,
+          "end": 152.32
+        },
+        {
+          "word": "no",
+          "start": 152.32,
+          "end": 152.84
+        },
+        {
+          "word": "desmas.",
+          "start": 153.56,
+          "end": 158.76
+        }
+      ],
+      "start": 147.34,
+      "end": 158.76,
+      "confidence": 0.6,
+      "time": 147.34
+    }
+  ]
+}

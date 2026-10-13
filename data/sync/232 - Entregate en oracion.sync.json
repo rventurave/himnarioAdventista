@@ -1,0 +1,155 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.89,
+  "language": "es",
+  "model": "medium",
+  "hymn": 232,
+  "source": "232 - Entregate en oracion.mp3",
+  "duration": 49.29,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Puedes hoy con Cristo a solas conversar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 14.0,
+          "end": 14.76
+        },
+        {
+          "word": "con",
+          "start": 16.72,
+          "end": 17.3
+        },
+        {
+          "word": "Cristo",
+          "start": 17.3,
+          "end": 17.92
+        },
+        {
+          "word": "a",
+          "start": 17.92,
+          "end": 18.32
+        },
+        {
+          "word": "solas",
+          "start": 18.32,
+          "end": 19.92
+        },
+        {
+          "word": "conversar,",
+          "start": 19.92,
+          "end": 21.0
+        }
+      ],
+      "start": 14.0,
+      "end": 21.0,
+      "confidence": 0.857,
+      "time": 14.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "él te espera con sincero amor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Él",
+          "start": 22.18,
+          "end": 22.38
+        },
+        {
+          "word": "te",
+          "start": 22.38,
+          "end": 22.84
+        },
+        {
+          "word": "espera",
+          "start": 22.84,
+          "end": 24.22
+        },
+        {
+          "word": "con",
+          "start": 24.22,
+          "end": 24.78
+        },
+        {
+          "word": "sincero",
+          "start": 24.78,
+          "end": 26.04
+        },
+        {
+          "word": "amor.",
+          "start": 26.04,
+          "end": 27.9
+        }
+      ],
+      "start": 22.18,
+      "end": 27.9,
+      "confidence": 1.0,
+      "time": 22.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "todas tus lágrimas puede consolar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "todas",
+          "start": 27.9,
+          "end": 29.1
+        },
+        {
+          "word": "tus",
+          "start": 29.1,
+          "end": 29.7
+        },
+        {
+          "word": "lágrimas",
+          "start": 29.7,
+          "end": 32.1
+        },
+        {
+          "word": "puede",
+          "start": 32.1,
+          "end": 33.16
+        },
+        {
+          "word": "consolar",
+          "start": 33.16,
+          "end": 37.32
+        }
+      ],
+      "start": 27.9,
+      "end": 37.32,
+      "confidence": 1.0,
+      "time": 27.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Entrégate en oración.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "entera",
+          "start": 37.32,
+          "end": 39.7
+        },
+        {
+          "word": "enobración.",
+          "start": 40.32,
+          "end": 42.98
+        }
+      ],
+      "start": 37.32,
+      "end": 42.98,
+      "confidence": 0.565,
+      "time": 37.32
+    }
+  ]
+}

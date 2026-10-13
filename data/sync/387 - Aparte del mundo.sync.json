@@ -1,0 +1,754 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.951,
+  "language": "es",
+  "model": "medium",
+  "hymn": 387,
+  "source": "387 - Aparte del mundo.mp3",
+  "duration": 149.45,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Aparte del mundo, Señor, me retiro,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Aparte",
+          "start": 16.1,
+          "end": 17.5
+        },
+        {
+          "word": "del",
+          "start": 17.5,
+          "end": 18.08
+        },
+        {
+          "word": "mundo,",
+          "start": 18.08,
+          "end": 19.1
+        },
+        {
+          "word": "Señor",
+          "start": 19.74,
+          "end": 20.28
+        },
+        {
+          "word": "me",
+          "start": 20.28,
+          "end": 21.04
+        },
+        {
+          "word": "retiro",
+          "start": 21.04,
+          "end": 22.7
+        }
+      ],
+      "start": 16.1,
+      "end": 22.7,
+      "confidence": 1.0,
+      "time": 16.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de lucha y tumultos ansioso de huir;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "De",
+          "start": 22.7,
+          "end": 23.68
+        },
+        {
+          "word": "lucha",
+          "start": 23.68,
+          "end": 24.6
+        },
+        {
+          "word": "y",
+          "start": 24.6,
+          "end": 25.16
+        },
+        {
+          "word": "tumultos,",
+          "start": 25.16,
+          "end": 26.88
+        },
+        {
+          "word": "ansioso",
+          "start": 27.32,
+          "end": 28.64
+        },
+        {
+          "word": "de",
+          "start": 28.64,
+          "end": 29.38
+        },
+        {
+          "word": "huir",
+          "start": 29.38,
+          "end": 29.98
+        }
+      ],
+      "start": 22.7,
+      "end": 29.98,
+      "confidence": 1.0,
+      "time": 22.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de escenas horribles do el mal victorioso",
+      "verse": 1,
+      "words": [
+        {
+          "word": "De",
+          "start": 29.98,
+          "end": 31.44
+        },
+        {
+          "word": "cenas",
+          "start": 31.44,
+          "end": 32.48
+        },
+        {
+          "word": "horribles",
+          "start": 32.48,
+          "end": 34.4
+        },
+        {
+          "word": "el",
+          "start": 34.86,
+          "end": 35.16
+        },
+        {
+          "word": "mal",
+          "start": 35.16,
+          "end": 35.72
+        },
+        {
+          "word": "victorioso",
+          "start": 35.72,
+          "end": 38.0
+        }
+      ],
+      "start": 29.98,
+      "end": 38.0,
+      "confidence": 0.843,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "extiende sus redes y se hace servir.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Extiende",
+          "start": 38.0,
+          "end": 40.0
+        },
+        {
+          "word": "sus",
+          "start": 40.0,
+          "end": 40.78
+        },
+        {
+          "word": "redes",
+          "start": 40.78,
+          "end": 41.84
+        },
+        {
+          "word": "y",
+          "start": 41.84,
+          "end": 42.64
+        },
+        {
+          "word": "se",
+          "start": 42.64,
+          "end": 43.3
+        },
+        {
+          "word": "hace",
+          "start": 43.3,
+          "end": 43.92
+        },
+        {
+          "word": "servir",
+          "start": 43.92,
+          "end": 45.64
+        }
+      ],
+      "start": 38.0,
+      "end": 45.64,
+      "confidence": 1.0,
+      "time": 38.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "El sitio apartado, la sombra tranquila,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "El",
+          "start": 45.64,
+          "end": 47.24
+        },
+        {
+          "word": "sitio",
+          "start": 47.24,
+          "end": 48.06
+        },
+        {
+          "word": "apartado,",
+          "start": 48.06,
+          "end": 50.26
+        },
+        {
+          "word": "la",
+          "start": 50.66,
+          "end": 51.0
+        },
+        {
+          "word": "sombra",
+          "start": 51.0,
+          "end": 52.22
+        },
+        {
+          "word": "tranquila",
+          "start": 52.22,
+          "end": 54.08
+        }
+      ],
+      "start": 45.64,
+      "end": 54.08,
+      "confidence": 1.0,
+      "time": 45.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "convienen al culto de ruego y loor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "conviene",
+          "start": 54.08,
+          "end": 56.04
+        },
+        {
+          "word": "culto",
+          "start": 56.84,
+          "end": 57.98
+        },
+        {
+          "word": "de",
+          "start": 57.98,
+          "end": 58.7
+        },
+        {
+          "word": "ruego",
+          "start": 58.7,
+          "end": 59.6
+        },
+        {
+          "word": "y",
+          "start": 59.6,
+          "end": 60.3
+        }
+      ],
+      "start": 54.08,
+      "end": 61.5,
+      "confidence": 0.706,
+      "time": 54.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "tu mano divina los hizo, sin duda,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 61.76,
+          "end": 62.44
+        },
+        {
+          "word": "mano",
+          "start": 62.44,
+          "end": 63.82
+        },
+        {
+          "word": "divina",
+          "start": 63.82,
+          "end": 65.56
+        },
+        {
+          "word": "los",
+          "start": 65.56,
+          "end": 66.66
+        },
+        {
+          "word": "hizo",
+          "start": 66.66,
+          "end": 67.48
+        },
+        {
+          "word": "sin",
+          "start": 67.48,
+          "end": 68.26
+        },
+        {
+          "word": "duda",
+          "start": 68.26,
+          "end": 69.28
+        }
+      ],
+      "start": 61.76,
+      "end": 69.28,
+      "confidence": 1.0,
+      "time": 61.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "en bien del que humilde te sigue, Señor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 69.28,
+          "end": 70.48
+        },
+        {
+          "word": "bien",
+          "start": 70.48,
+          "end": 71.14
+        },
+        {
+          "word": "del",
+          "start": 71.14,
+          "end": 71.6
+        },
+        {
+          "word": "que",
+          "start": 71.6,
+          "end": 72.12
+        },
+        {
+          "word": "humilde",
+          "start": 72.12,
+          "end": 73.44
+        },
+        {
+          "word": "te",
+          "start": 73.44,
+          "end": 74.48
+        },
+        {
+          "word": "siguié",
+          "start": 74.48,
+          "end": 75.9
+        },
+        {
+          "word": "celor.",
+          "start": 75.9,
+          "end": 77.84
+        }
+      ],
+      "start": 69.28,
+      "end": 77.84,
+      "confidence": 0.963,
+      "time": 69.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Allí, si tu aliento inspira a mi alma,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Allí",
+          "start": 77.84,
+          "end": 79.76
+        },
+        {
+          "word": "si",
+          "start": 79.76,
+          "end": 80.22
+        },
+        {
+          "word": "tu",
+          "start": 80.22,
+          "end": 80.74
+        },
+        {
+          "word": "aliento",
+          "start": 80.74,
+          "end": 81.84
+        },
+        {
+          "word": "inspira",
+          "start": 81.84,
+          "end": 83.9
+        },
+        {
+          "word": "mi",
+          "start": 83.9,
+          "end": 84.7
+        },
+        {
+          "word": "alma",
+          "start": 84.7,
+          "end": 85.66
+        }
+      ],
+      "start": 77.84,
+      "end": 85.66,
+      "confidence": 0.875,
+      "time": 77.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y llega la gracia mi pecho a tocar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 85.66,
+          "end": 86.66
+        },
+        {
+          "word": "llega",
+          "start": 86.66,
+          "end": 87.82
+        },
+        {
+          "word": "la",
+          "start": 87.82,
+          "end": 88.62
+        },
+        {
+          "word": "gracia",
+          "start": 88.62,
+          "end": 89.62
+        },
+        {
+          "word": "mi",
+          "start": 89.62,
+          "end": 90.46
+        },
+        {
+          "word": "pecho",
+          "start": 90.46,
+          "end": 91.6
+        },
+        {
+          "word": "a",
+          "start": 91.6,
+          "end": 92.08
+        },
+        {
+          "word": "tocar",
+          "start": 92.08,
+          "end": 93.42
+        }
+      ],
+      "start": 85.66,
+      "end": 93.42,
+      "confidence": 1.0,
+      "time": 85.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mis labios podrán, en tu altar encendidos,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mis",
+          "start": 93.42,
+          "end": 94.38
+        },
+        {
+          "word": "labios",
+          "start": 94.38,
+          "end": 95.68
+        },
+        {
+          "word": "podrán",
+          "start": 95.68,
+          "end": 97.3
+        },
+        {
+          "word": "en",
+          "start": 97.3,
+          "end": 97.66
+        },
+        {
+          "word": "tu",
+          "start": 97.66,
+          "end": 98.02
+        },
+        {
+          "word": "altar",
+          "start": 98.02,
+          "end": 98.98
+        },
+        {
+          "word": "encendidos",
+          "start": 98.98,
+          "end": 101.58
+        }
+      ],
+      "start": 93.42,
+      "end": 101.58,
+      "confidence": 1.0,
+      "time": 93.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "cantar alabanza a tu gloria sin par.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cantora,",
+          "start": 101.58,
+          "end": 103.6
+        },
+        {
+          "word": "alabanza",
+          "start": 103.86,
+          "end": 105.62
+        },
+        {
+          "word": "tu",
+          "start": 105.62,
+          "end": 106.3
+        },
+        {
+          "word": "gloria",
+          "start": 106.3,
+          "end": 107.7
+        },
+        {
+          "word": "sin",
+          "start": 107.7,
+          "end": 108.72
+        },
+        {
+          "word": "par.",
+          "start": 108.72,
+          "end": 109.86
+        }
+      ],
+      "start": 101.58,
+      "end": 109.86,
+      "confidence": 0.837,
+      "time": 101.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Te debo tributos de amor y de gracias",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Te",
+          "start": 110.38,
+          "end": 111.14
+        },
+        {
+          "word": "debo",
+          "start": 111.14,
+          "end": 112.36
+        },
+        {
+          "word": "tributos",
+          "start": 112.36,
+          "end": 114.22
+        },
+        {
+          "word": "de",
+          "start": 114.22,
+          "end": 114.96
+        },
+        {
+          "word": "amor",
+          "start": 114.96,
+          "end": 115.64
+        },
+        {
+          "word": "y",
+          "start": 115.64,
+          "end": 116.38
+        },
+        {
+          "word": "de",
+          "start": 116.38,
+          "end": 116.92
+        },
+        {
+          "word": "gracias",
+          "start": 116.92,
+          "end": 117.84
+        }
+      ],
+      "start": 110.38,
+      "end": 117.84,
+      "confidence": 1.0,
+      "time": 110.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "por este abundante y glorioso festín,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "por",
+          "start": 117.84,
+          "end": 119.12
+        },
+        {
+          "word": "este",
+          "start": 119.12,
+          "end": 120.0
+        },
+        {
+          "word": "abundante",
+          "start": 120.0,
+          "end": 121.94
+        },
+        {
+          "word": "y",
+          "start": 121.94,
+          "end": 122.62
+        },
+        {
+          "word": "glorioso",
+          "start": 122.62,
+          "end": 124.2
+        },
+        {
+          "word": "festín",
+          "start": 124.2,
+          "end": 126.1
+        }
+      ],
+      "start": 117.84,
+      "end": 126.1,
+      "confidence": 1.0,
+      "time": 117.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "y cantos que puedan oírse en los cielos",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 126.1,
+          "end": 127.02
+        },
+        {
+          "word": "cantos",
+          "start": 127.02,
+          "end": 128.32
+        },
+        {
+          "word": "que",
+          "start": 128.32,
+          "end": 129.0
+        },
+        {
+          "word": "puedan",
+          "start": 129.0,
+          "end": 130.32
+        },
+        {
+          "word": "oírse",
+          "start": 130.32,
+          "end": 132.24
+        },
+        {
+          "word": "en",
+          "start": 132.24,
+          "end": 132.88
+        },
+        {
+          "word": "los",
+          "start": 132.88,
+          "end": 133.18
+        },
+        {
+          "word": "cielos",
+          "start": 133.18,
+          "end": 134.38
+        }
+      ],
+      "start": 126.1,
+      "end": 134.38,
+      "confidence": 1.0,
+      "time": 126.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "por años sin cuento, por siglos sin fin.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "por",
+          "start": 134.38,
+          "end": 135.38
+        },
+        {
+          "word": "años",
+          "start": 135.38,
+          "end": 136.46
+        },
+        {
+          "word": "sin",
+          "start": 136.46,
+          "end": 137.12
+        },
+        {
+          "word": "cuento,",
+          "start": 137.12,
+          "end": 138.38
+        },
+        {
+          "word": "por",
+          "start": 139.22,
+          "end": 139.4
+        },
+        {
+          "word": "siglos",
+          "start": 139.4,
+          "end": 140.86
+        },
+        {
+          "word": "sin",
+          "start": 140.86,
+          "end": 142.08
+        },
+        {
+          "word": "fin.",
+          "start": 142.08,
+          "end": 143.56
+        }
+      ],
+      "start": 134.38,
+      "end": 143.56,
+      "confidence": 1.0,
+      "time": 134.38
+    }
+  ]
+}

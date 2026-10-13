@@ -1,0 +1,741 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.752,
+  "language": "es",
+  "model": "medium",
+  "hymn": 299,
+  "source": "299 - Hay vida en mirar.mp3",
+  "duration": 159.71,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hay vida en mirar a la santa cruz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hay",
+          "start": 11.56,
+          "end": 12.96
+        },
+        {
+          "word": "vida",
+          "start": 12.96,
+          "end": 14.0
+        },
+        {
+          "word": "en",
+          "start": 14.0,
+          "end": 14.38
+        },
+        {
+          "word": "mirar",
+          "start": 14.38,
+          "end": 15.3
+        },
+        {
+          "word": "a",
+          "start": 15.3,
+          "end": 15.7
+        },
+        {
+          "word": "la",
+          "start": 15.7,
+          "end": 15.98
+        },
+        {
+          "word": "Santa",
+          "start": 15.98,
+          "end": 17.24
+        },
+        {
+          "word": "Cruz,",
+          "start": 17.24,
+          "end": 18.42
+        }
+      ],
+      "start": 11.56,
+      "end": 19.32,
+      "confidence": 1.0,
+      "time": 11.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Dice Jesús: \"Miradme a mí\".",
+      "verse": 1,
+      "words": [
+        {
+          "word": "dice",
+          "start": 19.32,
+          "end": 19.72
+        },
+        {
+          "word": "Jesús,",
+          "start": 19.72,
+          "end": 20.72
+        },
+        {
+          "word": "mírate",
+          "start": 21.56,
+          "end": 22.4
+        },
+        {
+          "word": "a",
+          "start": 22.4,
+          "end": 23.24
+        },
+        {
+          "word": "mí,",
+          "start": 23.24,
+          "end": 24.04
+        }
+      ],
+      "start": 19.32,
+      "end": 24.64,
+      "confidence": 0.972,
+      "time": 19.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Nada el mundo y sus glorias son;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "nada",
+          "start": 24.64,
+          "end": 25.36
+        },
+        {
+          "word": "el",
+          "start": 25.36,
+          "end": 25.96
+        },
+        {
+          "word": "mundo",
+          "start": 25.96,
+          "end": 26.6
+        },
+        {
+          "word": "y",
+          "start": 26.6,
+          "end": 26.96
+        },
+        {
+          "word": "sus",
+          "start": 26.96,
+          "end": 27.22
+        },
+        {
+          "word": "glorias",
+          "start": 27.22,
+          "end": 28.66
+        },
+        {
+          "word": "son",
+          "start": 28.66,
+          "end": 29.16
+        }
+      ],
+      "start": 24.64,
+      "end": 29.16,
+      "confidence": 1.0,
+      "time": 24.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tesoros brillantes se ven allí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "solos",
+          "start": 30.14,
+          "end": 31.3
+        },
+        {
+          "word": "brillantes",
+          "start": 31.3,
+          "end": 32.52
+        },
+        {
+          "word": "se",
+          "start": 32.52,
+          "end": 33.04
+        },
+        {
+          "word": "ven",
+          "start": 33.04,
+          "end": 33.72
+        },
+        {
+          "word": "a",
+          "start": 33.72,
+          "end": 34.46
+        }
+      ],
+      "start": 30.14,
+      "end": 36.06,
+      "confidence": 0.948,
+      "time": 30.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, mirad, pues hallaréis",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 36.26,
+          "end": 36.92
+        },
+        {
+          "word": "mirad,",
+          "start": 37.88,
+          "end": 39.04
+        }
+      ],
+      "start": 36.26,
+      "end": 39.44,
+      "confidence": 0.5,
+      "time": 36.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "vida eterna allá en la cruz!",
+      "words": [
+        {
+          "word": "salga",
+          "start": 39.44,
+          "end": 40.42
+        },
+        {
+          "word": "en",
+          "start": 42.52,
+          "end": 42.9
+        },
+        {
+          "word": "alba",
+          "start": 44.84,
+          "end": 45.46
+        }
+      ],
+      "start": 39.44,
+      "end": 47.3,
+      "confidence": 0.433,
+      "time": 39.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Salvación recibiréis",
+      "words": [
+        {
+          "word": "salvo",
+          "start": 48.08,
+          "end": 49.58
+        }
+      ],
+      "start": 48.08,
+      "end": 51.78,
+      "confidence": 0.414,
+      "time": 48.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en el Redentor, Jesús,",
+      "start": 51.78,
+      "end": 55.43,
+      "confidence": 0.0,
+      "time": 51.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Y cuando miré a mi Salvador,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Y",
+          "start": 59.08,
+          "end": 60.48
+        },
+        {
+          "word": "cuando",
+          "start": 60.48,
+          "end": 61.58
+        },
+        {
+          "word": "miré",
+          "start": 61.58,
+          "end": 62.92
+        },
+        {
+          "word": "a",
+          "start": 62.92,
+          "end": 63.26
+        },
+        {
+          "word": "mi",
+          "start": 63.26,
+          "end": 63.52
+        },
+        {
+          "word": "salvador,",
+          "start": 63.52,
+          "end": 66.06
+        }
+      ],
+      "start": 55.43,
+      "end": 59.08,
+      "confidence": 1.0,
+      "time": 55.43
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "dulces sonrisas él me dio;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "dulce",
+          "start": 66.7,
+          "end": 67.38
+        },
+        {
+          "word": "risa",
+          "start": 67.78,
+          "end": 68.98
+        },
+        {
+          "word": "me",
+          "start": 69.82,
+          "end": 70.64
+        },
+        {
+          "word": "dio.",
+          "start": 70.64,
+          "end": 71.64
+        }
+      ],
+      "start": 66.7,
+      "end": 71.64,
+      "confidence": 0.748,
+      "time": 66.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hoy del maligno soy vencedor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 71.64,
+          "end": 72.62
+        },
+        {
+          "word": "del",
+          "start": 72.62,
+          "end": 73.14
+        },
+        {
+          "word": "maligno",
+          "start": 73.14,
+          "end": 74.44
+        },
+        {
+          "word": "soy",
+          "start": 74.44,
+          "end": 74.82
+        },
+        {
+          "word": "príncedor,",
+          "start": 74.82,
+          "end": 76.76
+        }
+      ],
+      "start": 71.64,
+      "end": 77.32,
+      "confidence": 0.965,
+      "time": 71.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mirando a la cruz do Jesús murió.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mirando",
+          "start": 77.32,
+          "end": 78.74
+        },
+        {
+          "word": "la",
+          "start": 78.74,
+          "end": 79.1
+        },
+        {
+          "word": "cruz",
+          "start": 79.1,
+          "end": 79.86
+        },
+        {
+          "word": "Jesús",
+          "start": 80.2,
+          "end": 81.14
+        },
+        {
+          "word": "murió.",
+          "start": 81.14,
+          "end": 83.5
+        }
+      ],
+      "start": 77.32,
+      "end": 83.5,
+      "confidence": 0.714,
+      "time": 77.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, mirad, pues hallaréis",
+      "words": [
+        {
+          "word": "mi",
+          "start": 84.48,
+          "end": 85.14
+        }
+      ],
+      "start": 84.48,
+      "end": 88.6,
+      "confidence": 0.235,
+      "time": 84.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "vida eterna allá en la cruz!",
+      "words": [
+        {
+          "word": "a",
+          "start": 88.6,
+          "end": 88.6
+        },
+        {
+          "word": "la",
+          "start": 93.08,
+          "end": 93.56
+        }
+      ],
+      "start": 88.6,
+      "end": 94.78,
+      "confidence": 0.323,
+      "time": 88.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Salvación recibiréis",
+      "words": [
+        {
+          "word": "Salvación",
+          "start": 97.96,
+          "end": 99.36
+        },
+        {
+          "word": "recibe",
+          "start": 99.36,
+          "end": 100.76
+        }
+      ],
+      "start": 97.96,
+      "end": 100.76,
+      "confidence": 0.925,
+      "time": 97.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en el Redentor, Jesús,",
+      "words": [
+        {
+          "word": "en",
+          "start": 100.76,
+          "end": 101.48
+        },
+        {
+          "word": "el",
+          "start": 101.48,
+          "end": 101.92
+        },
+        {
+          "word": "Jesucristo.",
+          "start": 104.3,
+          "end": 107.42
+        }
+      ],
+      "start": 100.76,
+      "end": 107.42,
+      "confidence": 0.7,
+      "time": 100.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Mirando a Jesús, siempre confiaré",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Mirando",
+          "start": 107.84,
+          "end": 109.24
+        },
+        {
+          "word": "al",
+          "start": 109.24,
+          "end": 109.52
+        },
+        {
+          "word": "Jesús",
+          "start": 109.52,
+          "end": 110.28
+        },
+        {
+          "word": "siempre",
+          "start": 110.28,
+          "end": 111.06
+        },
+        {
+          "word": "confiaré",
+          "start": 111.06,
+          "end": 113.66
+        }
+      ],
+      "start": 107.84,
+      "end": 113.66,
+      "confidence": 0.96,
+      "time": 107.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en sus promesas y poder;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 113.66,
+          "end": 114.72
+        },
+        {
+          "word": "sus",
+          "start": 114.72,
+          "end": 115.12
+        },
+        {
+          "word": "promesas",
+          "start": 115.12,
+          "end": 117.18
+        },
+        {
+          "word": "y",
+          "start": 117.18,
+          "end": 117.62
+        },
+        {
+          "word": "poder,",
+          "start": 117.62,
+          "end": 119.04
+        }
+      ],
+      "start": 113.66,
+      "end": 119.04,
+      "confidence": 1.0,
+      "time": 113.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "nunca vencido del mal seré;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Nunca",
+          "start": 119.04,
+          "end": 120.82
+        },
+        {
+          "word": "vencida",
+          "start": 120.82,
+          "end": 122.1
+        },
+        {
+          "word": "del",
+          "start": 122.1,
+          "end": 122.58
+        },
+        {
+          "word": "mar",
+          "start": 122.58,
+          "end": 123.28
+        },
+        {
+          "word": "se",
+          "start": 123.28,
+          "end": 124.0
+        }
+      ],
+      "start": 119.04,
+      "end": 125.04,
+      "confidence": 0.931,
+      "time": 119.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "el Cielo me ayuda a obedecer.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 125.04,
+          "end": 125.42
+        },
+        {
+          "word": "cielo",
+          "start": 125.42,
+          "end": 126.2
+        },
+        {
+          "word": "me",
+          "start": 126.2,
+          "end": 126.74
+        },
+        {
+          "word": "ayuda",
+          "start": 126.74,
+          "end": 127.78
+        },
+        {
+          "word": "a",
+          "start": 127.78,
+          "end": 128.04
+        },
+        {
+          "word": "obedecer.",
+          "start": 128.04,
+          "end": 131.34
+        }
+      ],
+      "start": 125.04,
+      "end": 131.34,
+      "confidence": 1.0,
+      "time": 125.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, mirad, pues hallaréis",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 131.34,
+          "end": 132.22
+        },
+        {
+          "word": "mirad",
+          "start": 132.22,
+          "end": 134.28
+        },
+        {
+          "word": "es,",
+          "start": 136.16,
+          "end": 136.94
+        }
+      ],
+      "start": 131.34,
+      "end": 137.8,
+      "confidence": 0.7,
+      "time": 131.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "vida eterna allá en la cruz!",
+      "words": [
+        {
+          "word": "en",
+          "start": 137.8,
+          "end": 138.24
+        },
+        {
+          "word": "la",
+          "start": 140.68,
+          "end": 141.18
+        }
+      ],
+      "start": 137.8,
+      "end": 143.32,
+      "confidence": 0.333,
+      "time": 137.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Salvación recibiréis",
+      "words": [
+        {
+          "word": "salvación",
+          "start": 143.32,
+          "end": 145.54
+        },
+        {
+          "word": "recibe",
+          "start": 145.54,
+          "end": 146.82
+        }
+      ],
+      "start": 143.32,
+      "end": 149.12,
+      "confidence": 0.925,
+      "time": 143.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en el Redentor, Jesús,",
+      "words": [
+        {
+          "word": "en",
+          "start": 149.12,
+          "end": 149.46
+        },
+        {
+          "word": "el",
+          "start": 151.26,
+          "end": 151.46
+        },
+        {
+          "word": "benditor",
+          "start": 151.46,
+          "end": 152.38
+        },
+        {
+          "word": "Jesús.",
+          "start": 154.32,
+          "end": 155.16
+        }
+      ],
+      "start": 149.12,
+      "end": 155.16,
+      "confidence": 0.944,
+      "time": 149.12
+    }
+  ]
+}

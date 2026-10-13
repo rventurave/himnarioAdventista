@@ -1,0 +1,787 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.826,
+  "language": "es",
+  "model": "medium",
+  "hymn": 451,
+  "source": "451 - Cerca, mas cerca.mp3",
+  "duration": 275.59,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cerca, más cerca, Cristo, de ti,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Verga",
+          "start": 30.0,
+          "end": 32.26
+        },
+        {
+          "word": "listo",
+          "start": 32.26,
+          "end": 34.6
+        },
+        {
+          "word": "de",
+          "start": 34.6,
+          "end": 35.44
+        },
+        {
+          "word": "ti,",
+          "start": 35.44,
+          "end": 37.64
+        }
+      ],
+      "start": 30.0,
+      "end": 39.36,
+      "confidence": 0.599,
+      "time": 30.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "fiel Salvador y mi eterno solaz;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Salvador",
+          "start": 39.36,
+          "end": 41.22
+        },
+        {
+          "word": "y",
+          "start": 41.22,
+          "end": 42.9
+        },
+        {
+          "word": "eterno",
+          "start": 42.9,
+          "end": 46.04
+        },
+        {
+          "word": "solas.",
+          "start": 46.04,
+          "end": 48.9
+        }
+      ],
+      "start": 39.36,
+      "end": 48.9,
+      "confidence": 0.647,
+      "time": 39.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "guárdame junto a tu corazón;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Guárdame",
+          "start": 51.6,
+          "end": 53.0
+        },
+        {
+          "word": "punta",
+          "start": 53.0,
+          "end": 54.4
+        },
+        {
+          "word": "tu",
+          "start": 54.4,
+          "end": 55.92
+        },
+        {
+          "word": "corazón",
+          "start": 55.92,
+          "end": 59.56
+        }
+      ],
+      "start": 51.6,
+      "end": 59.56,
+      "confidence": 0.752,
+      "time": 51.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "siempre me abrigue ese Puerto de paz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Siempre",
+          "start": 59.56,
+          "end": 62.2
+        },
+        {
+          "word": "me",
+          "start": 62.2,
+          "end": 63.02
+        },
+        {
+          "word": "abriré",
+          "start": 63.02,
+          "end": 65.4
+        },
+        {
+          "word": "ese",
+          "start": 65.4,
+          "end": 65.82
+        },
+        {
+          "word": "puerto",
+          "start": 65.82,
+          "end": 68.14
+        },
+        {
+          "word": "de",
+          "start": 68.14,
+          "end": 68.94
+        },
+        {
+          "word": "paz",
+          "start": 68.94,
+          "end": 70.86
+        }
+      ],
+      "start": 59.56,
+      "end": 70.86,
+      "confidence": 0.98,
+      "time": 59.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "siempre me abrigue ese Puerto de paz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Siénteme",
+          "start": 72.86,
+          "end": 74.26
+        },
+        {
+          "word": "abrir",
+          "start": 74.26,
+          "end": 75.66
+        },
+        {
+          "word": "este",
+          "start": 75.66,
+          "end": 77.0
+        },
+        {
+          "word": "puerto",
+          "start": 77.0,
+          "end": 79.22
+        },
+        {
+          "word": "de",
+          "start": 79.22,
+          "end": 80.28
+        },
+        {
+          "word": "paz.",
+          "start": 80.28,
+          "end": 82.84
+        }
+      ],
+      "start": 72.86,
+      "end": 82.84,
+      "confidence": 0.788,
+      "time": 72.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Cerca, más cerca; nada traeré,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cierca",
+          "start": 86.02,
+          "end": 87.42
+        },
+        {
+          "word": "más",
+          "start": 87.42,
+          "end": 88.18
+        },
+        {
+          "word": "cerca",
+          "start": 88.18,
+          "end": 90.52
+        },
+        {
+          "word": "nada",
+          "start": 90.52,
+          "end": 92.9
+        },
+        {
+          "word": "traeré,",
+          "start": 92.9,
+          "end": 96.24
+        }
+      ],
+      "start": 86.02,
+      "end": 96.24,
+      "confidence": 0.989,
+      "time": 86.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "nada de mérito, al pie de tu cruz;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "nada",
+          "start": 96.24,
+          "end": 98.24
+        },
+        {
+          "word": "de",
+          "start": 98.24,
+          "end": 99.46
+        },
+        {
+          "word": "mérito",
+          "start": 99.46,
+          "end": 101.7
+        },
+        {
+          "word": "al",
+          "start": 101.7,
+          "end": 102.24
+        },
+        {
+          "word": "de",
+          "start": 103.46,
+          "end": 104.2
+        },
+        {
+          "word": "tu",
+          "start": 104.2,
+          "end": 104.84
+        },
+        {
+          "word": "cruz.",
+          "start": 104.84,
+          "end": 107.44
+        }
+      ],
+      "start": 96.24,
+      "end": 107.44,
+      "confidence": 0.875,
+      "time": 96.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "solo mi herido y vil corazón,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Solo",
+          "start": 108.2,
+          "end": 109.6
+        },
+        {
+          "word": "mi",
+          "start": 113.56,
+          "end": 114.56
+        },
+        {
+          "word": "corazón,",
+          "start": 114.56,
+          "end": 118.14
+        }
+      ],
+      "start": 108.2,
+      "end": 118.14,
+      "confidence": 0.5,
+      "time": 108.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "porque en tu sangre lo limpies, Jesús,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Porque",
+          "start": 118.14,
+          "end": 120.64
+        },
+        {
+          "word": "en",
+          "start": 120.64,
+          "end": 121.02
+        },
+        {
+          "word": "tu",
+          "start": 121.02,
+          "end": 121.52
+        },
+        {
+          "word": "sangre",
+          "start": 121.52,
+          "end": 123.34
+        },
+        {
+          "word": "lo",
+          "start": 123.34,
+          "end": 124.6
+        },
+        {
+          "word": "limpias,",
+          "start": 124.6,
+          "end": 126.8
+        },
+        {
+          "word": "Jesús.",
+          "start": 126.8,
+          "end": 129.38
+        }
+      ],
+      "start": 118.14,
+      "end": 129.38,
+      "confidence": 0.988,
+      "time": 118.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "porque en tu sangre lo limpies, Jesús.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Porque",
+          "start": 130.26,
+          "end": 131.66
+        },
+        {
+          "word": "en",
+          "start": 131.66,
+          "end": 131.96
+        },
+        {
+          "word": "tu",
+          "start": 131.96,
+          "end": 132.74
+        },
+        {
+          "word": "sangre",
+          "start": 132.74,
+          "end": 134.7
+        },
+        {
+          "word": "lo",
+          "start": 134.7,
+          "end": 135.6
+        },
+        {
+          "word": "limpias,",
+          "start": 135.6,
+          "end": 138.2
+        },
+        {
+          "word": "Jesús.",
+          "start": 138.32,
+          "end": 141.28
+        }
+      ],
+      "start": 130.26,
+      "end": 141.28,
+      "confidence": 0.988,
+      "time": 130.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cerca, más cerca: tuyo seré;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cerca,",
+          "start": 144.6,
+          "end": 146.0
+        },
+        {
+          "word": "más",
+          "start": 146.5,
+          "end": 146.86
+        },
+        {
+          "word": "cerca,",
+          "start": 146.86,
+          "end": 149.2
+        },
+        {
+          "word": "tu",
+          "start": 150.06,
+          "end": 150.76
+        },
+        {
+          "word": "seré,",
+          "start": 151.52,
+          "end": 154.82
+        }
+      ],
+      "start": 144.6,
+      "end": 155.66,
+      "confidence": 0.988,
+      "time": 144.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "dejo con gozo el pecado falaz,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "dejo",
+          "start": 155.66,
+          "end": 157.1
+        },
+        {
+          "word": "con",
+          "start": 157.1,
+          "end": 157.92
+        },
+        {
+          "word": "pecado",
+          "start": 159.76,
+          "end": 162.54
+        },
+        {
+          "word": "falaz,",
+          "start": 162.54,
+          "end": 165.9
+        }
+      ],
+      "start": 155.66,
+      "end": 165.9,
+      "confidence": 0.667,
+      "time": 155.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "todo su orgullo, pompa y placer;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Togo",
+          "start": 165.9,
+          "end": 168.26
+        },
+        {
+          "word": "su",
+          "start": 168.26,
+          "end": 168.9
+        },
+        {
+          "word": "orgullo,",
+          "start": 168.9,
+          "end": 171.76
+        },
+        {
+          "word": "compa",
+          "start": 171.76,
+          "end": 173.86
+        },
+        {
+          "word": "nacer,",
+          "start": 174.28,
+          "end": 177.08
+        }
+      ],
+      "start": 165.9,
+      "end": 179.0,
+      "confidence": 0.761,
+      "time": 165.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristo inmolado es mi eterno solaz,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 179.0,
+          "end": 179.24
+        },
+        {
+          "word": "inmola,",
+          "start": 179.24,
+          "end": 181.5
+        },
+        {
+          "word": "pues",
+          "start": 181.9,
+          "end": 182.32
+        },
+        {
+          "word": "eterno",
+          "start": 183.0,
+          "end": 185.62
+        },
+        {
+          "word": "solas.",
+          "start": 185.62,
+          "end": 188.04
+        }
+      ],
+      "start": 179.0,
+      "end": 188.04,
+      "confidence": 0.77,
+      "time": 179.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristo inmolado es mi eterno solaz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "listo",
+          "start": 188.04,
+          "end": 190.48
+        },
+        {
+          "word": "pues",
+          "start": 193.1,
+          "end": 193.44
+        },
+        {
+          "word": "mi",
+          "start": 193.44,
+          "end": 194.14
+        },
+        {
+          "word": "eterno",
+          "start": 194.14,
+          "end": 196.9
+        },
+        {
+          "word": "solas.",
+          "start": 196.9,
+          "end": 200.04
+        }
+      ],
+      "start": 188.04,
+      "end": 200.04,
+      "confidence": 0.753,
+      "time": 188.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Cerca, más cerca hasta el fin,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Certa",
+          "start": 203.12,
+          "end": 204.52
+        },
+        {
+          "word": "más",
+          "start": 204.52,
+          "end": 205.32
+        },
+        {
+          "word": "cerca,",
+          "start": 205.32,
+          "end": 207.82
+        },
+        {
+          "word": "basta",
+          "start": 209.08,
+          "end": 210.04
+        },
+        {
+          "word": "el",
+          "start": 210.04,
+          "end": 211.22
+        },
+        {
+          "word": "fin,",
+          "start": 211.22,
+          "end": 213.26
+        }
+      ],
+      "start": 203.12,
+      "end": 213.26,
+      "confidence": 0.96,
+      "time": 203.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "hasta que ancle en el Puerto de amor,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Pasto",
+          "start": 214.86,
+          "end": 216.26
+        },
+        {
+          "word": "ángel",
+          "start": 217.22,
+          "end": 218.62
+        },
+        {
+          "word": "en",
+          "start": 218.62,
+          "end": 219.24
+        },
+        {
+          "word": "el",
+          "start": 219.24,
+          "end": 220.04
+        },
+        {
+          "word": "puerto",
+          "start": 220.04,
+          "end": 221.12
+        },
+        {
+          "word": "de",
+          "start": 221.12,
+          "end": 222.14
+        },
+        {
+          "word": "amor,",
+          "start": 222.14,
+          "end": 224.38
+        }
+      ],
+      "start": 214.86,
+      "end": 224.38,
+      "confidence": 0.815,
+      "time": 214.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "do por los siglos viva feliz,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "por",
+          "start": 226.32,
+          "end": 227.0
+        },
+        {
+          "word": "los",
+          "start": 227.0,
+          "end": 228.34
+        },
+        {
+          "word": "sigo",
+          "start": 230.24,
+          "end": 232.52
+        },
+        {
+          "word": "feliz.",
+          "start": 232.52,
+          "end": 235.52
+        }
+      ],
+      "start": 226.32,
+      "end": 235.52,
+      "confidence": 0.647,
+      "time": 226.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "cerca, más cerca, de mi Salvador,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "cerca,",
+          "start": 235.52,
+          "end": 238.02
+        },
+        {
+          "word": "más",
+          "start": 238.36,
+          "end": 239.02
+        },
+        {
+          "word": "cerca",
+          "start": 239.02,
+          "end": 240.7
+        },
+        {
+          "word": "de",
+          "start": 240.7,
+          "end": 241.76
+        },
+        {
+          "word": "mi",
+          "start": 241.76,
+          "end": 242.96
+        },
+        {
+          "word": "Salvador.",
+          "start": 242.96,
+          "end": 245.16
+        }
+      ],
+      "start": 235.52,
+      "end": 245.16,
+      "confidence": 1.0,
+      "time": 235.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "cerca, más cerca, de mi Salvador.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "cerca,",
+          "start": 247.42,
+          "end": 248.82
+        },
+        {
+          "word": "más",
+          "start": 249.5,
+          "end": 250.2
+        },
+        {
+          "word": "cerca",
+          "start": 250.2,
+          "end": 251.82
+        },
+        {
+          "word": "de",
+          "start": 251.82,
+          "end": 252.96
+        },
+        {
+          "word": "mi",
+          "start": 252.96,
+          "end": 254.24
+        },
+        {
+          "word": "Salvador.",
+          "start": 254.24,
+          "end": 256.72
+        }
+      ],
+      "start": 247.42,
+      "end": 256.72,
+      "confidence": 1.0,
+      "time": 247.42
+    }
+  ]
+}

@@ -1,0 +1,1285 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.937,
+  "language": "es",
+  "model": "medium",
+  "hymn": 291,
+  "source": "291 - Perdido, fui a mi Jesus.mp3",
+  "duration": 194.98,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Perdido, fui a mi Jesús.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Perdido",
+          "start": 12.04,
+          "end": 13.44
+        },
+        {
+          "word": "fui",
+          "start": 13.44,
+          "end": 14.28
+        },
+        {
+          "word": "a",
+          "start": 14.28,
+          "end": 15.04
+        },
+        {
+          "word": "mí,",
+          "start": 15.04,
+          "end": 15.86
+        },
+        {
+          "word": "Jesús,",
+          "start": 16.14,
+          "end": 16.72
+        }
+      ],
+      "start": 12.04,
+      "end": 17.14,
+      "confidence": 1.0,
+      "time": 12.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Él vio mi condición;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Él",
+          "start": 17.14,
+          "end": 17.72
+        },
+        {
+          "word": "vio",
+          "start": 17.72,
+          "end": 18.36
+        },
+        {
+          "word": "mi",
+          "start": 18.36,
+          "end": 19.12
+        },
+        {
+          "word": "condición.",
+          "start": 19.12,
+          "end": 22.18
+        }
+      ],
+      "start": 17.14,
+      "end": 22.18,
+      "confidence": 1.0,
+      "time": 17.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en mi alma derramó su luz;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 22.18,
+          "end": 23.08
+        },
+        {
+          "word": "mi",
+          "start": 23.08,
+          "end": 23.68
+        },
+        {
+          "word": "alma",
+          "start": 23.68,
+          "end": 24.58
+        },
+        {
+          "word": "derramó",
+          "start": 24.58,
+          "end": 26.96
+        },
+        {
+          "word": "su",
+          "start": 26.96,
+          "end": 27.36
+        },
+        {
+          "word": "luz,",
+          "start": 27.36,
+          "end": 27.82
+        }
+      ],
+      "start": 22.18,
+      "end": 28.12,
+      "confidence": 1.0,
+      "time": 22.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "su amor me dio perdón.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "su",
+          "start": 28.12,
+          "end": 28.46
+        },
+        {
+          "word": "amor",
+          "start": 28.46,
+          "end": 29.38
+        },
+        {
+          "word": "me",
+          "start": 29.38,
+          "end": 30.28
+        },
+        {
+          "word": "dio",
+          "start": 30.28,
+          "end": 30.84
+        },
+        {
+          "word": "perdón.",
+          "start": 30.84,
+          "end": 33.34
+        }
+      ],
+      "start": 28.12,
+      "end": 33.34,
+      "confidence": 1.0,
+      "time": 28.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Fue primero en la cruz donde yo vi la luz,",
+      "words": [
+        {
+          "word": "Fue",
+          "start": 33.72,
+          "end": 34.04
+        },
+        {
+          "word": "primero",
+          "start": 34.04,
+          "end": 35.12
+        },
+        {
+          "word": "en",
+          "start": 35.12,
+          "end": 35.6
+        },
+        {
+          "word": "la",
+          "start": 35.6,
+          "end": 35.9
+        },
+        {
+          "word": "cruz",
+          "start": 35.9,
+          "end": 36.46
+        },
+        {
+          "word": "donde",
+          "start": 36.46,
+          "end": 36.96
+        },
+        {
+          "word": "yo",
+          "start": 36.96,
+          "end": 37.82
+        },
+        {
+          "word": "vi",
+          "start": 37.82,
+          "end": 38.22
+        },
+        {
+          "word": "la",
+          "start": 38.22,
+          "end": 38.56
+        },
+        {
+          "word": "luz",
+          "start": 38.56,
+          "end": 38.9
+        }
+      ],
+      "start": 33.72,
+      "end": 38.9,
+      "confidence": 1.0,
+      "time": 33.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y mi carga de pecado dejé;",
+      "words": [
+        {
+          "word": "y",
+          "start": 38.9,
+          "end": 39.5
+        },
+        {
+          "word": "mi",
+          "start": 39.5,
+          "end": 39.86
+        },
+        {
+          "word": "carga",
+          "start": 39.86,
+          "end": 40.52
+        },
+        {
+          "word": "de",
+          "start": 40.52,
+          "end": 41.16
+        },
+        {
+          "word": "pecado",
+          "start": 41.16,
+          "end": 42.44
+        },
+        {
+          "word": "dejé.",
+          "start": 42.44,
+          "end": 44.46
+        }
+      ],
+      "start": 38.9,
+      "end": 44.46,
+      "confidence": 1.0,
+      "time": 38.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "fue allí por fe do vi a Jesús,",
+      "words": [
+        {
+          "word": "Fue",
+          "start": 44.46,
+          "end": 45.18
+        },
+        {
+          "word": "allí",
+          "start": 45.18,
+          "end": 46.04
+        },
+        {
+          "word": "por",
+          "start": 46.04,
+          "end": 46.8
+        },
+        {
+          "word": "vía",
+          "start": 48.18,
+          "end": 49.1
+        },
+        {
+          "word": "Jesús,",
+          "start": 49.1,
+          "end": 49.94
+        }
+      ],
+      "start": 44.46,
+      "end": 50.46,
+      "confidence": 0.61,
+      "time": 44.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y siempre con él feliz seré.",
+      "words": [
+        {
+          "word": "y",
+          "start": 50.46,
+          "end": 51.0
+        },
+        {
+          "word": "siempre",
+          "start": 51.0,
+          "end": 51.92
+        },
+        {
+          "word": "con",
+          "start": 51.92,
+          "end": 52.5
+        },
+        {
+          "word": "él",
+          "start": 52.5,
+          "end": 53.0
+        },
+        {
+          "word": "feliz",
+          "start": 53.0,
+          "end": 53.78
+        },
+        {
+          "word": "seré.",
+          "start": 53.78,
+          "end": 56.1
+        }
+      ],
+      "start": 50.46,
+      "end": 56.1,
+      "confidence": 1.0,
+      "time": 50.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En cruenta cruz mi Salvador",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 56.48,
+          "end": 57.5
+        },
+        {
+          "word": "cruentacruz",
+          "start": 57.5,
+          "end": 59.52
+        },
+        {
+          "word": "mi",
+          "start": 59.52,
+          "end": 60.18
+        },
+        {
+          "word": "Salvador",
+          "start": 60.18,
+          "end": 61.86
+        }
+      ],
+      "start": 56.48,
+      "end": 61.86,
+      "confidence": 0.788,
+      "time": 56.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "su sangre derramó",
+      "verse": 2,
+      "words": [
+        {
+          "word": "su",
+          "start": 61.86,
+          "end": 62.98
+        },
+        {
+          "word": "sangre",
+          "start": 62.98,
+          "end": 64.34
+        },
+        {
+          "word": "derramó,",
+          "start": 64.34,
+          "end": 67.66
+        }
+      ],
+      "start": 61.86,
+      "end": 67.66,
+      "confidence": 1.0,
+      "time": 61.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "por este pobre pecador",
+      "verse": 2,
+      "words": [
+        {
+          "word": "por",
+          "start": 67.66,
+          "end": 68.62
+        },
+        {
+          "word": "este",
+          "start": 68.62,
+          "end": 69.86
+        },
+        {
+          "word": "pobre",
+          "start": 69.86,
+          "end": 71.26
+        },
+        {
+          "word": "pecador",
+          "start": 71.26,
+          "end": 73.2
+        }
+      ],
+      "start": 67.66,
+      "end": 73.2,
+      "confidence": 1.0,
+      "time": 67.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a quien así salvó.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 73.2,
+          "end": 74.18
+        },
+        {
+          "word": "quien",
+          "start": 74.18,
+          "end": 75.0
+        },
+        {
+          "word": "así",
+          "start": 75.0,
+          "end": 76.02
+        },
+        {
+          "word": "salvó.",
+          "start": 76.02,
+          "end": 78.62
+        }
+      ],
+      "start": 73.2,
+      "end": 78.62,
+      "confidence": 1.0,
+      "time": 73.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Fue primero en la cruz donde yo vi la luz,",
+      "words": [
+        {
+          "word": "Fue",
+          "start": 78.98,
+          "end": 79.34
+        },
+        {
+          "word": "primero",
+          "start": 79.34,
+          "end": 80.5
+        },
+        {
+          "word": "en",
+          "start": 80.5,
+          "end": 80.94
+        },
+        {
+          "word": "la",
+          "start": 80.94,
+          "end": 81.26
+        },
+        {
+          "word": "cruz",
+          "start": 81.26,
+          "end": 81.78
+        },
+        {
+          "word": "donde",
+          "start": 81.78,
+          "end": 82.3
+        },
+        {
+          "word": "yo",
+          "start": 82.3,
+          "end": 83.18
+        },
+        {
+          "word": "vi",
+          "start": 83.18,
+          "end": 83.62
+        },
+        {
+          "word": "la",
+          "start": 83.62,
+          "end": 83.96
+        },
+        {
+          "word": "luz",
+          "start": 83.96,
+          "end": 84.24
+        }
+      ],
+      "start": 78.98,
+      "end": 84.24,
+      "confidence": 1.0,
+      "time": 78.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y mi carga de pecado dejé;",
+      "words": [
+        {
+          "word": "y",
+          "start": 84.24,
+          "end": 84.84
+        },
+        {
+          "word": "mi",
+          "start": 84.84,
+          "end": 85.26
+        },
+        {
+          "word": "carga",
+          "start": 85.26,
+          "end": 85.84
+        },
+        {
+          "word": "de",
+          "start": 85.84,
+          "end": 86.5
+        },
+        {
+          "word": "pecado",
+          "start": 86.5,
+          "end": 87.74
+        },
+        {
+          "word": "dejé.",
+          "start": 87.74,
+          "end": 89.86
+        }
+      ],
+      "start": 84.24,
+      "end": 89.86,
+      "confidence": 1.0,
+      "time": 84.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "fue allí por fe do vi a Jesús,",
+      "words": [
+        {
+          "word": "Fue",
+          "start": 90.1,
+          "end": 90.54
+        },
+        {
+          "word": "allí",
+          "start": 90.54,
+          "end": 91.38
+        },
+        {
+          "word": "por",
+          "start": 91.38,
+          "end": 92.08
+        },
+        {
+          "word": "vi",
+          "start": 93.46,
+          "end": 94.28
+        },
+        {
+          "word": "a",
+          "start": 94.28,
+          "end": 94.62
+        },
+        {
+          "word": "Jesús",
+          "start": 94.62,
+          "end": 95.22
+        }
+      ],
+      "start": 90.1,
+      "end": 95.22,
+      "confidence": 0.75,
+      "time": 90.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y siempre con él feliz seré.",
+      "words": [
+        {
+          "word": "y",
+          "start": 95.22,
+          "end": 96.12
+        },
+        {
+          "word": "siempre",
+          "start": 96.12,
+          "end": 97.24
+        },
+        {
+          "word": "con",
+          "start": 97.24,
+          "end": 97.84
+        },
+        {
+          "word": "él",
+          "start": 97.84,
+          "end": 98.24
+        },
+        {
+          "word": "feliz",
+          "start": 98.24,
+          "end": 99.18
+        },
+        {
+          "word": "seré.",
+          "start": 99.18,
+          "end": 101.92
+        }
+      ],
+      "start": 95.22,
+      "end": 101.92,
+      "confidence": 1.0,
+      "time": 95.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Venció la muerte, ¡qué poder!,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Venció",
+          "start": 102.32,
+          "end": 103.66
+        },
+        {
+          "word": "la",
+          "start": 103.66,
+          "end": 104.14
+        },
+        {
+          "word": "muerte,",
+          "start": 104.14,
+          "end": 105.16
+        },
+        {
+          "word": "¡qué",
+          "start": 105.46,
+          "end": 106.46
+        },
+        {
+          "word": "poder!",
+          "start": 106.46,
+          "end": 107.18
+        }
+      ],
+      "start": 102.32,
+      "end": 107.18,
+      "confidence": 1.0,
+      "time": 102.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y el Padre le exaltó",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 107.5,
+          "end": 108.02
+        },
+        {
+          "word": "el",
+          "start": 108.02,
+          "end": 108.44
+        },
+        {
+          "word": "Padre",
+          "start": 108.44,
+          "end": 109.5
+        },
+        {
+          "word": "le",
+          "start": 109.5,
+          "end": 110.24
+        },
+        {
+          "word": "exaltó",
+          "start": 110.24,
+          "end": 112.94
+        }
+      ],
+      "start": 107.5,
+      "end": 112.94,
+      "confidence": 1.0,
+      "time": 107.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "al trono, para interceder",
+      "verse": 3,
+      "words": [
+        {
+          "word": "al",
+          "start": 112.94,
+          "end": 113.8
+        },
+        {
+          "word": "trono",
+          "start": 113.8,
+          "end": 115.04
+        },
+        {
+          "word": "para",
+          "start": 115.04,
+          "end": 116.28
+        },
+        {
+          "word": "interceder",
+          "start": 116.28,
+          "end": 118.6
+        }
+      ],
+      "start": 112.94,
+      "end": 118.6,
+      "confidence": 1.0,
+      "time": 112.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "por tales cual soy yo.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "por",
+          "start": 118.6,
+          "end": 119.42
+        },
+        {
+          "word": "tales",
+          "start": 119.42,
+          "end": 120.62
+        },
+        {
+          "word": "cual",
+          "start": 120.62,
+          "end": 121.32
+        },
+        {
+          "word": "soy",
+          "start": 121.32,
+          "end": 122.08
+        },
+        {
+          "word": "yo.",
+          "start": 122.08,
+          "end": 123.66
+        }
+      ],
+      "start": 118.6,
+      "end": 123.66,
+      "confidence": 1.0,
+      "time": 118.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Fue primero en la cruz donde yo vi la luz,",
+      "words": [
+        {
+          "word": "Fue",
+          "start": 123.66,
+          "end": 124.56
+        },
+        {
+          "word": "primero",
+          "start": 124.56,
+          "end": 125.7
+        },
+        {
+          "word": "en",
+          "start": 125.7,
+          "end": 126.12
+        },
+        {
+          "word": "la",
+          "start": 126.12,
+          "end": 126.42
+        },
+        {
+          "word": "cruz",
+          "start": 126.42,
+          "end": 126.94
+        },
+        {
+          "word": "donde",
+          "start": 126.94,
+          "end": 127.46
+        },
+        {
+          "word": "yo",
+          "start": 127.46,
+          "end": 128.28
+        },
+        {
+          "word": "vi",
+          "start": 128.28,
+          "end": 128.74
+        },
+        {
+          "word": "la",
+          "start": 128.74,
+          "end": 129.08
+        },
+        {
+          "word": "luz",
+          "start": 129.08,
+          "end": 129.4
+        }
+      ],
+      "start": 123.66,
+      "end": 129.4,
+      "confidence": 1.0,
+      "time": 123.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y mi carga de pecado dejé;",
+      "words": [
+        {
+          "word": "y",
+          "start": 129.4,
+          "end": 130.08
+        },
+        {
+          "word": "mi",
+          "start": 130.08,
+          "end": 130.36
+        },
+        {
+          "word": "carga",
+          "start": 130.36,
+          "end": 131.06
+        },
+        {
+          "word": "de",
+          "start": 131.06,
+          "end": 131.68
+        },
+        {
+          "word": "pecado",
+          "start": 131.68,
+          "end": 132.98
+        },
+        {
+          "word": "dejé.",
+          "start": 132.98,
+          "end": 135.1
+        }
+      ],
+      "start": 129.4,
+      "end": 135.1,
+      "confidence": 1.0,
+      "time": 129.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "fue allí por fe do vi a Jesús,",
+      "words": [
+        {
+          "word": "Fue",
+          "start": 135.34,
+          "end": 135.72
+        },
+        {
+          "word": "allí",
+          "start": 135.72,
+          "end": 136.62
+        },
+        {
+          "word": "por",
+          "start": 136.62,
+          "end": 137.38
+        },
+        {
+          "word": "vi",
+          "start": 138.84,
+          "end": 139.52
+        },
+        {
+          "word": "a",
+          "start": 139.52,
+          "end": 139.94
+        },
+        {
+          "word": "Jesús",
+          "start": 139.94,
+          "end": 140.52
+        }
+      ],
+      "start": 135.34,
+      "end": 140.52,
+      "confidence": 0.75,
+      "time": 135.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y siempre con él feliz seré.",
+      "words": [
+        {
+          "word": "y",
+          "start": 140.52,
+          "end": 141.44
+        },
+        {
+          "word": "siempre",
+          "start": 141.44,
+          "end": 142.44
+        },
+        {
+          "word": "con",
+          "start": 142.44,
+          "end": 143.04
+        },
+        {
+          "word": "él",
+          "start": 143.04,
+          "end": 143.52
+        },
+        {
+          "word": "feliz",
+          "start": 143.52,
+          "end": 144.12
+        },
+        {
+          "word": "seré.",
+          "start": 144.12,
+          "end": 146.28
+        }
+      ],
+      "start": 140.52,
+      "end": 146.28,
+      "confidence": 1.0,
+      "time": 140.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Aunque él se fue, conmigo está",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Aunque",
+          "start": 146.28,
+          "end": 148.26
+        },
+        {
+          "word": "se",
+          "start": 148.26,
+          "end": 149.44
+        },
+        {
+          "word": "fue",
+          "start": 149.44,
+          "end": 150.08
+        },
+        {
+          "word": "conmigo",
+          "start": 150.08,
+          "end": 152.04
+        },
+        {
+          "word": "está",
+          "start": 152.04,
+          "end": 152.6
+        }
+      ],
+      "start": 146.28,
+      "end": 152.6,
+      "confidence": 0.833,
+      "time": 146.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "el fiel Consolador,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "el",
+          "start": 152.6,
+          "end": 153.6
+        },
+        {
+          "word": "fiel",
+          "start": 153.6,
+          "end": 154.3
+        },
+        {
+          "word": "Consolador,",
+          "start": 154.3,
+          "end": 157.88
+        }
+      ],
+      "start": 152.6,
+      "end": 158.44,
+      "confidence": 1.0,
+      "time": 152.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "el guía que me llevará",
+      "verse": 4,
+      "words": [
+        {
+          "word": "el",
+          "start": 158.44,
+          "end": 159.1
+        },
+        {
+          "word": "guía",
+          "start": 159.1,
+          "end": 160.36
+        },
+        {
+          "word": "que",
+          "start": 160.36,
+          "end": 161.1
+        },
+        {
+          "word": "me",
+          "start": 161.1,
+          "end": 161.92
+        },
+        {
+          "word": "llevará",
+          "start": 161.92,
+          "end": 164.02
+        }
+      ],
+      "start": 158.44,
+      "end": 164.02,
+      "confidence": 1.0,
+      "time": 158.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "al reino del Señor.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "al",
+          "start": 164.02,
+          "end": 164.76
+        },
+        {
+          "word": "reino",
+          "start": 164.76,
+          "end": 165.92
+        },
+        {
+          "word": "del",
+          "start": 165.92,
+          "end": 166.76
+        },
+        {
+          "word": "Señor.",
+          "start": 166.76,
+          "end": 168.8
+        }
+      ],
+      "start": 164.02,
+      "end": 168.8,
+      "confidence": 1.0,
+      "time": 164.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Fue primero en la cruz donde yo vi la luz,",
+      "words": [
+        {
+          "word": "Fue",
+          "start": 168.8,
+          "end": 169.92
+        },
+        {
+          "word": "primero",
+          "start": 169.92,
+          "end": 171.02
+        },
+        {
+          "word": "en",
+          "start": 171.02,
+          "end": 171.48
+        },
+        {
+          "word": "la",
+          "start": 171.48,
+          "end": 171.8
+        },
+        {
+          "word": "cruz",
+          "start": 171.8,
+          "end": 172.26
+        },
+        {
+          "word": "donde",
+          "start": 172.26,
+          "end": 172.82
+        },
+        {
+          "word": "yo",
+          "start": 172.82,
+          "end": 173.7
+        },
+        {
+          "word": "vi",
+          "start": 173.7,
+          "end": 174.1
+        },
+        {
+          "word": "la",
+          "start": 174.1,
+          "end": 174.44
+        },
+        {
+          "word": "luz",
+          "start": 174.44,
+          "end": 174.74
+        }
+      ],
+      "start": 168.8,
+      "end": 174.74,
+      "confidence": 1.0,
+      "time": 168.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "y mi carga de pecado dejé;",
+      "words": [
+        {
+          "word": "y",
+          "start": 174.74,
+          "end": 175.32
+        },
+        {
+          "word": "mi",
+          "start": 175.32,
+          "end": 175.66
+        },
+        {
+          "word": "carga",
+          "start": 175.66,
+          "end": 176.34
+        },
+        {
+          "word": "de",
+          "start": 176.34,
+          "end": 176.98
+        },
+        {
+          "word": "pecado",
+          "start": 176.98,
+          "end": 178.22
+        },
+        {
+          "word": "dejé.",
+          "start": 178.22,
+          "end": 179.8
+        }
+      ],
+      "start": 174.74,
+      "end": 179.8,
+      "confidence": 1.0,
+      "time": 174.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "fue allí por fe do vi a Jesús,",
+      "words": [
+        {
+          "word": "Fue",
+          "start": 180.68,
+          "end": 181.06
+        },
+        {
+          "word": "allí",
+          "start": 181.06,
+          "end": 181.94
+        },
+        {
+          "word": "por",
+          "start": 181.94,
+          "end": 182.7
+        },
+        {
+          "word": "a",
+          "start": 184.84,
+          "end": 185.18
+        },
+        {
+          "word": "Jesús",
+          "start": 185.18,
+          "end": 185.76
+        }
+      ],
+      "start": 180.68,
+      "end": 185.76,
+      "confidence": 0.625,
+      "time": 180.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "y siempre con él feliz seré.",
+      "words": [
+        {
+          "word": "y",
+          "start": 185.76,
+          "end": 186.8
+        },
+        {
+          "word": "siempre",
+          "start": 186.8,
+          "end": 187.84
+        },
+        {
+          "word": "con",
+          "start": 187.84,
+          "end": 188.48
+        },
+        {
+          "word": "él",
+          "start": 188.48,
+          "end": 188.9
+        },
+        {
+          "word": "feliz",
+          "start": 188.9,
+          "end": 189.74
+        },
+        {
+          "word": "seré.",
+          "start": 189.74,
+          "end": 192.46
+        }
+      ],
+      "start": 185.76,
+      "end": 192.46,
+      "confidence": 1.0,
+      "time": 185.76
+    }
+  ]
+}

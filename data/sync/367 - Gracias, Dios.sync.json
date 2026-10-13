@@ -1,0 +1,150 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.737,
+  "language": "es",
+  "model": "medium",
+  "hymn": 367,
+  "source": "367 - Gracias, Dios.mp3",
+  "duration": 38.95,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Gracias, Dios, por la salvación;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¡Gracias",
+          "start": 8.62,
+          "end": 9.98
+        },
+        {
+          "word": "Dios",
+          "start": 9.98,
+          "end": 10.9
+        },
+        {
+          "word": "por",
+          "start": 10.9,
+          "end": 11.52
+        },
+        {
+          "word": "la",
+          "start": 11.52,
+          "end": 12.14
+        },
+        {
+          "word": "salvación!",
+          "start": 12.14,
+          "end": 14.6
+        }
+      ],
+      "start": 8.62,
+      "end": 15.44,
+      "confidence": 1.0,
+      "time": 8.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "gracias, Dios, por tu gran perdón.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¡Gracias",
+          "start": 15.44,
+          "end": 16.8
+        },
+        {
+          "word": "Dios",
+          "start": 16.8,
+          "end": 17.8
+        },
+        {
+          "word": "por",
+          "start": 17.8,
+          "end": 18.44
+        },
+        {
+          "word": "tu",
+          "start": 18.44,
+          "end": 18.98
+        },
+        {
+          "word": "gran",
+          "start": 18.98,
+          "end": 19.66
+        },
+        {
+          "word": "perdón!",
+          "start": 19.66,
+          "end": 21.42
+        }
+      ],
+      "start": 15.44,
+      "end": 21.42,
+      "confidence": 1.0,
+      "time": 15.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Gracias, Dios, por darme a mí",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Gracias,",
+          "start": 21.42,
+          "end": 23.54
+        },
+        {
+          "word": "darme",
+          "start": 25.8,
+          "end": 26.66
+        },
+        {
+          "word": "ami,",
+          "start": 26.66,
+          "end": 28.5
+        }
+      ],
+      "start": 21.42,
+      "end": 28.5,
+      "confidence": 0.48,
+      "time": 21.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "la vida eterna, oh ¡gloria a ti!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 29.36,
+          "end": 29.4
+        },
+        {
+          "word": "vida",
+          "start": 29.4,
+          "end": 30.16
+        },
+        {
+          "word": "va",
+          "start": 31.24,
+          "end": 31.76
+        },
+        {
+          "word": "ti.",
+          "start": 34.52,
+          "end": 35.84
+        }
+      ],
+      "start": 29.36,
+      "end": 35.84,
+      "confidence": 0.543,
+      "time": 29.36
+    }
+  ]
+}

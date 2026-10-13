@@ -1,0 +1,708 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.719,
+  "language": "es",
+  "model": "medium",
+  "hymn": 268,
+  "source": "268 - Puedo oir tu voz llamando.mp3",
+  "duration": 210.36,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Puedo oír tu voz llamando,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Puedo",
+          "start": 17.04,
+          "end": 18.44
+        },
+        {
+          "word": "oír",
+          "start": 18.44,
+          "end": 19.72
+        },
+        {
+          "word": "tu",
+          "start": 19.72,
+          "end": 20.28
+        },
+        {
+          "word": "voz",
+          "start": 20.28,
+          "end": 21.66
+        },
+        {
+          "word": "amando",
+          "start": 22.24,
+          "end": 24.38
+        }
+      ],
+      "start": 17.04,
+      "end": 24.38,
+      "confidence": 0.983,
+      "time": 17.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "suavemente susurrando,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Suavemente",
+          "start": 28.64,
+          "end": 30.04
+        },
+        {
+          "word": "susurrando",
+          "start": 30.04,
+          "end": 31.44
+        }
+      ],
+      "start": 28.64,
+      "end": 31.44,
+      "confidence": 1.0,
+      "time": 28.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que a mi alma está hablando:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Que",
+          "start": 31.44,
+          "end": 32.7
+        },
+        {
+          "word": "a",
+          "start": 32.7,
+          "end": 33.02
+        },
+        {
+          "word": "mi",
+          "start": 33.02,
+          "end": 33.9
+        },
+        {
+          "word": "alma",
+          "start": 33.9,
+          "end": 34.98
+        },
+        {
+          "word": "está",
+          "start": 34.98,
+          "end": 36.92
+        },
+        {
+          "word": "hablando",
+          "start": 36.92,
+          "end": 39.4
+        }
+      ],
+      "start": 31.44,
+      "end": 39.4,
+      "confidence": 1.0,
+      "time": 31.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "\"Trae tu cruz y ven en pos de mí\".",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Trae",
+          "start": 39.4,
+          "end": 40.76
+        },
+        {
+          "word": "tu",
+          "start": 40.76,
+          "end": 41.1
+        },
+        {
+          "word": "cruz",
+          "start": 41.1,
+          "end": 42.02
+        },
+        {
+          "word": "y",
+          "start": 42.02,
+          "end": 42.3
+        },
+        {
+          "word": "ven",
+          "start": 42.3,
+          "end": 43.02
+        },
+        {
+          "word": "en",
+          "start": 43.02,
+          "end": 43.56
+        },
+        {
+          "word": "pos",
+          "start": 43.56,
+          "end": 44.94
+        },
+        {
+          "word": "de",
+          "start": 44.94,
+          "end": 45.52
+        },
+        {
+          "word": "mi",
+          "start": 45.52,
+          "end": 47.82
+        }
+      ],
+      "start": 39.4,
+      "end": 47.82,
+      "confidence": 1.0,
+      "time": 39.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Seguiré do tú me guíes,",
+      "words": [
+        {
+          "word": "Seguiré",
+          "start": 49.4,
+          "end": 50.8
+        }
+      ],
+      "start": 49.4,
+      "end": 70.78,
+      "confidence": 0.2,
+      "time": 49.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "seguiré do tú me guíes,",
+      "start": 70.78,
+      "end": 70.98,
+      "confidence": 0.0,
+      "time": 70.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "seguiré do tú me guíes;",
+      "words": [
+        {
+          "word": "tú",
+          "start": 51.28,
+          "end": 52.7
+        },
+        {
+          "word": "me",
+          "start": 52.7,
+          "end": 53.4
+        },
+        {
+          "word": "guies,",
+          "start": 53.4,
+          "end": 70.78
+        }
+      ],
+      "start": 70.98,
+      "end": 71.18,
+      "confidence": 0.6,
+      "time": 70.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "dondequiera, fiel, te seguiré.",
+      "words": [
+        {
+          "word": "donde",
+          "start": 70.78,
+          "end": 72.28
+        },
+        {
+          "word": "fiel",
+          "start": 73.56,
+          "end": 74.44
+        },
+        {
+          "word": "te",
+          "start": 74.44,
+          "end": 74.94
+        },
+        {
+          "word": "seguiré.",
+          "start": 74.94,
+          "end": 80.14
+        }
+      ],
+      "start": 71.18,
+      "end": 80.14,
+      "confidence": 0.985,
+      "time": 71.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Sufriré por ti, Maestro.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Sufriré",
+          "start": 81.88,
+          "end": 83.28
+        },
+        {
+          "word": "por",
+          "start": 83.28,
+          "end": 83.92
+        },
+        {
+          "word": "ti,",
+          "start": 83.92,
+          "end": 85.2
+        },
+        {
+          "word": "Maestro,",
+          "start": 85.92,
+          "end": 87.74
+        }
+      ],
+      "start": 81.88,
+      "end": 87.74,
+      "confidence": 1.0,
+      "time": 81.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si el camino es siniestro",
+      "verse": 2,
+      "words": [
+        {
+          "word": "si",
+          "start": 88.3,
+          "end": 88.62
+        },
+        {
+          "word": "el",
+          "start": 88.62,
+          "end": 89.02
+        },
+        {
+          "word": "camino",
+          "start": 89.02,
+          "end": 90.96
+        },
+        {
+          "word": "es",
+          "start": 90.96,
+          "end": 92.98
+        },
+        {
+          "word": "siniestro.",
+          "start": 92.98,
+          "end": 94.78
+        }
+      ],
+      "start": 88.3,
+      "end": 94.78,
+      "confidence": 1.0,
+      "time": 88.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tú serás refugio nuestro;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 94.78,
+          "end": 96.36
+        },
+        {
+          "word": "serás",
+          "start": 96.36,
+          "end": 98.36
+        },
+        {
+          "word": "refugio",
+          "start": 98.36,
+          "end": 100.88
+        },
+        {
+          "word": "nuestro.",
+          "start": 100.88,
+          "end": 102.84
+        }
+      ],
+      "start": 94.78,
+      "end": 102.84,
+      "confidence": 1.0,
+      "time": 94.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "moriré contigo, mi Jesús.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Moriré",
+          "start": 104.16,
+          "end": 105.44
+        },
+        {
+          "word": "contigo",
+          "start": 105.44,
+          "end": 106.92
+        },
+        {
+          "word": "mi",
+          "start": 106.92,
+          "end": 108.28
+        },
+        {
+          "word": "Jesús.",
+          "start": 108.28,
+          "end": 111.22
+        }
+      ],
+      "start": 104.16,
+      "end": 111.22,
+      "confidence": 1.0,
+      "time": 104.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Seguiré do tú me guíes,",
+      "start": 111.22,
+      "end": 111.97,
+      "confidence": 0.0,
+      "time": 111.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "seguiré do tú me guíes,",
+      "start": 111.97,
+      "end": 112.73,
+      "confidence": 0.0,
+      "time": 111.97
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "seguiré do tú me guíes;",
+      "words": [
+        {
+          "word": "Seguiremos",
+          "start": 113.48,
+          "end": 114.88
+        },
+        {
+          "word": "tú,",
+          "start": 114.88,
+          "end": 116.28
+        },
+        {
+          "word": "me",
+          "start": 116.28,
+          "end": 116.96
+        },
+        {
+          "word": "guíes.",
+          "start": 116.96,
+          "end": 134.34
+        }
+      ],
+      "start": 112.73,
+      "end": 113.48,
+      "confidence": 0.788,
+      "time": 112.73
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "dondequiera, fiel, te seguiré.",
+      "words": [
+        {
+          "word": "donde",
+          "start": 134.34,
+          "end": 135.7
+        },
+        {
+          "word": "fiel",
+          "start": 137.0,
+          "end": 137.98
+        },
+        {
+          "word": "te",
+          "start": 137.98,
+          "end": 138.72
+        },
+        {
+          "word": "seguiré.",
+          "start": 138.72,
+          "end": 142.9
+        }
+      ],
+      "start": 134.34,
+      "end": 142.9,
+      "confidence": 0.985,
+      "time": 134.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Me darás la gracia y gloria",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Me",
+          "start": 143.76,
+          "end": 144.78
+        },
+        {
+          "word": "darás",
+          "start": 144.78,
+          "end": 146.84
+        },
+        {
+          "word": "la",
+          "start": 146.84,
+          "end": 147.58
+        },
+        {
+          "word": "gracia",
+          "start": 147.58,
+          "end": 149.12
+        },
+        {
+          "word": "y",
+          "start": 149.12,
+          "end": 149.38
+        },
+        {
+          "word": "gloria",
+          "start": 149.38,
+          "end": 151.16
+        }
+      ],
+      "start": 143.76,
+      "end": 151.16,
+      "confidence": 1.0,
+      "time": 143.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "de obtener la gran victoria,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 151.16,
+          "end": 152.28
+        },
+        {
+          "word": "obtener",
+          "start": 152.28,
+          "end": 154.38
+        },
+        {
+          "word": "la",
+          "start": 154.38,
+          "end": 154.88
+        },
+        {
+          "word": "gran",
+          "start": 154.88,
+          "end": 156.1
+        },
+        {
+          "word": "victoria",
+          "start": 156.1,
+          "end": 158.62
+        }
+      ],
+      "start": 151.16,
+      "end": 158.62,
+      "confidence": 1.0,
+      "time": 151.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y contar la dulce historia:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 158.62,
+          "end": 159.86
+        },
+        {
+          "word": "contar",
+          "start": 159.86,
+          "end": 161.74
+        },
+        {
+          "word": "la",
+          "start": 161.74,
+          "end": 162.48
+        },
+        {
+          "word": "dulce",
+          "start": 162.48,
+          "end": 164.22
+        },
+        {
+          "word": "historia",
+          "start": 164.22,
+          "end": 166.3
+        }
+      ],
+      "start": 158.62,
+      "end": 166.3,
+      "confidence": 1.0,
+      "time": 158.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "que por mí Jesús su vida dio.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 166.3,
+          "end": 167.62
+        },
+        {
+          "word": "por",
+          "start": 167.62,
+          "end": 168.12
+        },
+        {
+          "word": "mi",
+          "start": 168.12,
+          "end": 168.8
+        },
+        {
+          "word": "Jesús",
+          "start": 168.8,
+          "end": 169.92
+        },
+        {
+          "word": "Su",
+          "start": 169.92,
+          "end": 170.32
+        },
+        {
+          "word": "vida",
+          "start": 170.32,
+          "end": 172.18
+        },
+        {
+          "word": "dio.",
+          "start": 172.18,
+          "end": 174.76
+        }
+      ],
+      "start": 166.3,
+      "end": 174.76,
+      "confidence": 1.0,
+      "time": 166.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Seguiré do tú me guíes,",
+      "start": 174.76,
+      "end": 175.47,
+      "confidence": 0.0,
+      "time": 174.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "seguiré do tú me guíes,",
+      "start": 175.47,
+      "end": 176.19,
+      "confidence": 0.0,
+      "time": 175.47
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "seguiré do tú me guíes;",
+      "words": [
+        {
+          "word": "Seguiremos",
+          "start": 176.9,
+          "end": 178.3
+        },
+        {
+          "word": "tú",
+          "start": 178.3,
+          "end": 179.68
+        },
+        {
+          "word": "me",
+          "start": 179.68,
+          "end": 180.58
+        },
+        {
+          "word": "guíes,",
+          "start": 180.58,
+          "end": 198.0
+        }
+      ],
+      "start": 176.19,
+      "end": 176.9,
+      "confidence": 0.788,
+      "time": 176.19
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "dondequiera, fiel, te seguiré.",
+      "words": [
+        {
+          "word": "¿Dónde",
+          "start": 198.0,
+          "end": 199.66
+        },
+        {
+          "word": "fiel",
+          "start": 200.88,
+          "end": 201.48
+        },
+        {
+          "word": "te",
+          "start": 201.48,
+          "end": 201.96
+        },
+        {
+          "word": "seguiré?",
+          "start": 201.96,
+          "end": 207.42
+        }
+      ],
+      "start": 198.0,
+      "end": 207.42,
+      "confidence": 0.985,
+      "time": 198.0
+    }
+  ]
+}

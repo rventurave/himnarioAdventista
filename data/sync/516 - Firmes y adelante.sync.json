@@ -1,0 +1,932 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.739,
+  "language": "es",
+  "model": "medium",
+  "hymn": 516,
+  "source": "516 - Firmes y adelante.mp3",
+  "duration": 276.85,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Firmes y adelante, huestes de la fe,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Este",
+          "start": 0.0,
+          "end": 1.42
+        },
+        {
+          "word": "de",
+          "start": 25.94,
+          "end": 25.94
+        },
+        {
+          "word": "la",
+          "start": 25.94,
+          "end": 25.94
+        }
+      ],
+      "start": 0.0,
+      "end": 29.98,
+      "confidence": 0.405,
+      "time": 0.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "sin temor alguno, que Jesús nos ve!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 30.0,
+          "end": 30.82
+        },
+        {
+          "word": "que",
+          "start": 33.1,
+          "end": 34.18
+        },
+        {
+          "word": "Jesús",
+          "start": 34.18,
+          "end": 35.36
+        },
+        {
+          "word": "nos",
+          "start": 35.36,
+          "end": 36.36
+        },
+        {
+          "word": "ve.",
+          "start": 36.36,
+          "end": 38.04
+        }
+      ],
+      "start": 30.0,
+      "end": 38.04,
+      "confidence": 0.706,
+      "time": 30.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jefe soberano, Cristo al frente va",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sobraron,",
+          "start": 40.02,
+          "end": 43.48
+        },
+        {
+          "word": "Cristo",
+          "start": 44.0,
+          "end": 44.58
+        },
+        {
+          "word": "al",
+          "start": 44.58,
+          "end": 45.04
+        },
+        {
+          "word": "frente",
+          "start": 45.04,
+          "end": 46.04
+        },
+        {
+          "word": "va,",
+          "start": 46.04,
+          "end": 48.26
+        }
+      ],
+      "start": 40.02,
+      "end": 48.26,
+      "confidence": 0.808,
+      "time": 40.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y la regia enseña tremolando está.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 48.96,
+          "end": 49.56
+        },
+        {
+          "word": "la",
+          "start": 49.56,
+          "end": 50.34
+        },
+        {
+          "word": "regia",
+          "start": 50.34,
+          "end": 51.18
+        },
+        {
+          "word": "enseña",
+          "start": 51.18,
+          "end": 53.72
+        },
+        {
+          "word": "nuestra.",
+          "start": 55.8,
+          "end": 57.46
+        }
+      ],
+      "start": 48.96,
+      "end": 57.46,
+      "confidence": 0.806,
+      "time": 48.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Firmes y adelante, huestes de la fe,",
+      "words": [
+        {
+          "word": "mes",
+          "start": 59.62,
+          "end": 60.3
+        },
+        {
+          "word": "y",
+          "start": 60.3,
+          "end": 60.92
+        },
+        {
+          "word": "adelante,",
+          "start": 60.92,
+          "end": 63.72
+        },
+        {
+          "word": "huestes",
+          "start": 64.16,
+          "end": 65.46
+        },
+        {
+          "word": "de",
+          "start": 65.46,
+          "end": 66.26
+        },
+        {
+          "word": "la",
+          "start": 66.26,
+          "end": 66.92
+        },
+        {
+          "word": "fe,",
+          "start": 66.92,
+          "end": 68.76
+        }
+      ],
+      "start": 59.62,
+      "end": 69.44,
+      "confidence": 0.971,
+      "time": 59.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "sin temor alguno, que Jesús nos ve!",
+      "words": [
+        {
+          "word": "sin",
+          "start": 69.44,
+          "end": 70.14
+        },
+        {
+          "word": "temor",
+          "start": 70.14,
+          "end": 71.46
+        },
+        {
+          "word": "al",
+          "start": 71.46,
+          "end": 72.12
+        },
+        {
+          "word": "que",
+          "start": 74.04,
+          "end": 75.16
+        },
+        {
+          "word": "Jesús",
+          "start": 75.16,
+          "end": 76.98
+        },
+        {
+          "word": "ve.",
+          "start": 76.98,
+          "end": 79.28
+        }
+      ],
+      "start": 69.44,
+      "end": 79.28,
+      "confidence": 0.849,
+      "time": 69.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Al sagrado nombre de nuestro Adalid,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¡Al",
+          "start": 81.7,
+          "end": 83.1
+        },
+        {
+          "word": "sagrado",
+          "start": 83.1,
+          "end": 84.5
+        },
+        {
+          "word": "nombre",
+          "start": 84.5,
+          "end": 86.24
+        },
+        {
+          "word": "de",
+          "start": 86.24,
+          "end": 87.78
+        },
+        {
+          "word": "nuestro",
+          "start": 87.78,
+          "end": 88.8
+        },
+        {
+          "word": "Adadí!",
+          "start": 88.8,
+          "end": 91.5
+        }
+      ],
+      "start": 81.7,
+      "end": 91.5,
+      "confidence": 0.973,
+      "time": 81.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tiembla el enemigo, y huye de la lid.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 93.32,
+          "end": 93.96
+        },
+        {
+          "word": "enemigo,",
+          "start": 93.96,
+          "end": 97.08
+        },
+        {
+          "word": "de",
+          "start": 98.58,
+          "end": 99.38
+        },
+        {
+          "word": "la",
+          "start": 99.38,
+          "end": 100.12
+        }
+      ],
+      "start": 93.32,
+      "end": 102.08,
+      "confidence": 0.5,
+      "time": 93.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Nuestra es la victoria; dad a Dios loor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Nuestra",
+          "start": 102.08,
+          "end": 103.48
+        },
+        {
+          "word": "es",
+          "start": 103.48,
+          "end": 103.98
+        },
+        {
+          "word": "la",
+          "start": 103.98,
+          "end": 104.46
+        },
+        {
+          "word": "victoria,",
+          "start": 104.46,
+          "end": 107.28
+        },
+        {
+          "word": "Dios",
+          "start": 108.46,
+          "end": 109.4
+        },
+        {
+          "word": "Lo",
+          "start": 112.84,
+          "end": 113.24
+        }
+      ],
+      "start": 102.08,
+      "end": 113.24,
+      "confidence": 0.742,
+      "time": 102.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y óigalo el maligno lleno de pavor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 113.24,
+          "end": 113.6
+        },
+        {
+          "word": "el",
+          "start": 114.38,
+          "end": 114.9
+        },
+        {
+          "word": "lleno",
+          "start": 118.04,
+          "end": 118.86
+        },
+        {
+          "word": "de",
+          "start": 118.86,
+          "end": 119.74
+        },
+        {
+          "word": "pavón.",
+          "start": 119.74,
+          "end": 122.36
+        }
+      ],
+      "start": 113.24,
+      "end": 122.36,
+      "confidence": 0.697,
+      "time": 113.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Firmes y adelante, huestes de la fe,",
+      "words": [
+        {
+          "word": "Fíjense",
+          "start": 122.36,
+          "end": 124.2
+        },
+        {
+          "word": "adelante,",
+          "start": 124.2,
+          "end": 127.58
+        },
+        {
+          "word": "la",
+          "start": 129.86,
+          "end": 130.52
+        },
+        {
+          "word": "fe",
+          "start": 130.52,
+          "end": 132.52
+        }
+      ],
+      "start": 122.36,
+      "end": 132.52,
+      "confidence": 0.538,
+      "time": 122.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "sin temor alguno, que Jesús nos ve!",
+      "words": [
+        {
+          "word": "sin",
+          "start": 132.52,
+          "end": 133.68
+        },
+        {
+          "word": "temor",
+          "start": 133.68,
+          "end": 135.22
+        },
+        {
+          "word": "al",
+          "start": 135.22,
+          "end": 135.9
+        },
+        {
+          "word": "que",
+          "start": 137.92,
+          "end": 139.34
+        },
+        {
+          "word": "Jesús",
+          "start": 139.34,
+          "end": 140.38
+        },
+        {
+          "word": "nos",
+          "start": 140.38,
+          "end": 141.1
+        },
+        {
+          "word": "ve.",
+          "start": 141.1,
+          "end": 142.76
+        }
+      ],
+      "start": 132.52,
+      "end": 142.76,
+      "confidence": 0.991,
+      "time": 132.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cual potente hueste va la grey de Dios,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Al",
+          "start": 145.7,
+          "end": 147.1
+        },
+        {
+          "word": "potente",
+          "start": 147.1,
+          "end": 148.5
+        },
+        {
+          "word": "pueste,",
+          "start": 149.08,
+          "end": 150.92
+        },
+        {
+          "word": "de",
+          "start": 153.38,
+          "end": 153.76
+        },
+        {
+          "word": "Dios,",
+          "start": 153.76,
+          "end": 155.8
+        }
+      ],
+      "start": 145.7,
+      "end": 155.8,
+      "confidence": 0.588,
+      "time": 145.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pues de su gran Jefe marcha siempre en pos.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 156.34,
+          "end": 156.84
+        },
+        {
+          "word": "de",
+          "start": 156.84,
+          "end": 157.46
+        },
+        {
+          "word": "su",
+          "start": 157.46,
+          "end": 158.08
+        },
+        {
+          "word": "gran",
+          "start": 158.08,
+          "end": 158.9
+        },
+        {
+          "word": "jefe,",
+          "start": 158.9,
+          "end": 161.06
+        },
+        {
+          "word": "marcha",
+          "start": 161.74,
+          "end": 162.64
+        },
+        {
+          "word": "siempre",
+          "start": 162.64,
+          "end": 163.58
+        },
+        {
+          "word": "en",
+          "start": 163.58,
+          "end": 164.16
+        }
+      ],
+      "start": 156.34,
+      "end": 166.02,
+      "confidence": 0.889,
+      "time": 156.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Es un solo cuerpo y uno es el Señor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Es",
+          "start": 166.02,
+          "end": 167.16
+        },
+        {
+          "word": "un",
+          "start": 167.16,
+          "end": 167.8
+        },
+        {
+          "word": "solo",
+          "start": 167.8,
+          "end": 168.82
+        },
+        {
+          "word": "cuerpo",
+          "start": 168.82,
+          "end": 171.22
+        },
+        {
+          "word": "y",
+          "start": 171.22,
+          "end": 171.8
+        },
+        {
+          "word": "uno",
+          "start": 171.8,
+          "end": 172.46
+        },
+        {
+          "word": "es",
+          "start": 172.46,
+          "end": 173.16
+        },
+        {
+          "word": "el",
+          "start": 173.16,
+          "end": 173.62
+        },
+        {
+          "word": "Señor.",
+          "start": 173.62,
+          "end": 176.28
+        }
+      ],
+      "start": 166.02,
+      "end": 176.28,
+      "confidence": 1.0,
+      "time": 166.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "una la esperanza y uno es el amor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Una",
+          "start": 176.66,
+          "end": 177.86
+        },
+        {
+          "word": "la",
+          "start": 178.6,
+          "end": 179.22
+        },
+        {
+          "word": "esperanza",
+          "start": 179.22,
+          "end": 181.46
+        },
+        {
+          "word": "y",
+          "start": 181.46,
+          "end": 182.22
+        },
+        {
+          "word": "uno",
+          "start": 182.22,
+          "end": 182.76
+        },
+        {
+          "word": "es",
+          "start": 182.76,
+          "end": 183.5
+        },
+        {
+          "word": "el",
+          "start": 183.5,
+          "end": 184.12
+        },
+        {
+          "word": "amor.",
+          "start": 184.12,
+          "end": 186.4
+        }
+      ],
+      "start": 176.66,
+      "end": 186.4,
+      "confidence": 1.0,
+      "time": 176.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Firmes y adelante, huestes de la fe,",
+      "words": [
+        {
+          "word": "Dirme",
+          "start": 186.4,
+          "end": 188.08
+        },
+        {
+          "word": "adelante,",
+          "start": 188.84,
+          "end": 191.52
+        },
+        {
+          "word": "la",
+          "start": 193.78,
+          "end": 194.78
+        },
+        {
+          "word": "fe",
+          "start": 194.78,
+          "end": 196.64
+        }
+      ],
+      "start": 186.4,
+      "end": 196.64,
+      "confidence": 0.548,
+      "time": 186.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "sin temor alguno, que Jesús nos ve!",
+      "words": [
+        {
+          "word": "Sin",
+          "start": 196.64,
+          "end": 197.68
+        },
+        {
+          "word": "temor",
+          "start": 197.68,
+          "end": 199.24
+        },
+        {
+          "word": "al",
+          "start": 199.24,
+          "end": 200.06
+        },
+        {
+          "word": "que",
+          "start": 202.66,
+          "end": 202.9
+        },
+        {
+          "word": "Jesús",
+          "start": 202.9,
+          "end": 204.3
+        },
+        {
+          "word": "nos",
+          "start": 204.3,
+          "end": 205.36
+        },
+        {
+          "word": "ve",
+          "start": 205.36,
+          "end": 207.36
+        }
+      ],
+      "start": 196.64,
+      "end": 207.36,
+      "confidence": 0.991,
+      "time": 196.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Tronos y coronas pueden perecer;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Todo",
+          "start": 210.02,
+          "end": 211.42
+        },
+        {
+          "word": "y",
+          "start": 215.08,
+          "end": 215.96
+        },
+        {
+          "word": "perecer,",
+          "start": 216.84,
+          "end": 219.72
+        }
+      ],
+      "start": 210.02,
+      "end": 224.0,
+      "confidence": 0.552,
+      "time": 210.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "de Jesús la iglesia firme ha de ser.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Jesucristo",
+          "start": 224.0,
+          "end": 225.24
+        },
+        {
+          "word": "irme",
+          "start": 225.24,
+          "end": 227.14
+        },
+        {
+          "word": "a",
+          "start": 227.14,
+          "end": 227.5
+        },
+        {
+          "word": "deser.",
+          "start": 227.5,
+          "end": 230.1
+        }
+      ],
+      "start": 224.0,
+      "end": 230.1,
+      "confidence": 0.423,
+      "time": 224.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Nada en contra de ella prevalecerá,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 231.72,
+          "end": 232.12
+        },
+        {
+          "word": "contra",
+          "start": 232.12,
+          "end": 233.16
+        },
+        {
+          "word": "de",
+          "start": 233.16,
+          "end": 234.48
+        },
+        {
+          "word": "ella",
+          "start": 234.48,
+          "end": 235.5
+        },
+        {
+          "word": "permanecerá,",
+          "start": 235.5,
+          "end": 240.44
+        }
+      ],
+      "start": 231.72,
+      "end": 240.86,
+      "confidence": 0.806,
+      "time": 231.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "porque la promesa nunca faltará.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "porque",
+          "start": 240.86,
+          "end": 241.76
+        },
+        {
+          "word": "la",
+          "start": 241.76,
+          "end": 242.76
+        },
+        {
+          "word": "propuesta",
+          "start": 242.76,
+          "end": 245.56
+        },
+        {
+          "word": "nunca",
+          "start": 245.56,
+          "end": 246.96
+        },
+        {
+          "word": "faltará.",
+          "start": 246.96,
+          "end": 250.32
+        }
+      ],
+      "start": 240.86,
+      "end": 250.32,
+      "confidence": 0.97,
+      "time": 240.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Firmes y adelante, huestes de la fe,",
+      "words": [
+        {
+          "word": "adelante,",
+          "start": 252.78,
+          "end": 255.42
+        },
+        {
+          "word": "la",
+          "start": 257.64,
+          "end": 258.84
+        },
+        {
+          "word": "fe",
+          "start": 258.84,
+          "end": 260.74
+        }
+      ],
+      "start": 252.78,
+      "end": 260.74,
+      "confidence": 0.429,
+      "time": 252.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "sin temor alguno, que Jesús nos ve!",
+      "words": [
+        {
+          "word": "sin",
+          "start": 260.74,
+          "end": 261.9
+        },
+        {
+          "word": "temor",
+          "start": 261.9,
+          "end": 263.44
+        },
+        {
+          "word": "al",
+          "start": 263.44,
+          "end": 264.08
+        },
+        {
+          "word": "Jesús",
+          "start": 267.32,
+          "end": 269.0
+        }
+      ],
+      "start": 260.74,
+      "end": 270.46,
+      "confidence": 0.563,
+      "time": 260.74
+    }
+  ]
+}

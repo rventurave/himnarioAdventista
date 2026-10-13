@@ -1,0 +1,868 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.977,
+  "language": "es",
+  "model": "medium",
+  "hymn": 220,
+  "source": "220 - Alla la puerta abierta esta.mp3",
+  "duration": 154.15,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Allá la puerta abierta está,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Alía,",
+          "start": 12.4,
+          "end": 13.8
+        },
+        {
+          "word": "la",
+          "start": 14.24,
+          "end": 14.32
+        },
+        {
+          "word": "puerta",
+          "start": 14.32,
+          "end": 15.34
+        },
+        {
+          "word": "abierta",
+          "start": 15.34,
+          "end": 16.68
+        },
+        {
+          "word": "está,",
+          "start": 16.68,
+          "end": 17.32
+        }
+      ],
+      "start": 12.4,
+      "end": 17.82,
+      "confidence": 0.97,
+      "time": 12.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "su luz es refulgente.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "su",
+          "start": 17.82,
+          "end": 18.2
+        },
+        {
+          "word": "luz",
+          "start": 18.2,
+          "end": 19.12
+        },
+        {
+          "word": "es",
+          "start": 19.12,
+          "end": 20.18
+        },
+        {
+          "word": "refulgente,",
+          "start": 20.18,
+          "end": 22.82
+        }
+      ],
+      "start": 17.82,
+      "end": 22.82,
+      "confidence": 1.0,
+      "time": 17.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "La cruz se mira más allá,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "La",
+          "start": 22.82,
+          "end": 23.68
+        },
+        {
+          "word": "cruce",
+          "start": 23.68,
+          "end": 24.86
+        },
+        {
+          "word": "mira",
+          "start": 24.86,
+          "end": 26.08
+        },
+        {
+          "word": "más",
+          "start": 26.08,
+          "end": 27.18
+        },
+        {
+          "word": "allá,",
+          "start": 27.18,
+          "end": 28.02
+        }
+      ],
+      "start": 22.82,
+      "end": 28.02,
+      "confidence": 0.8,
+      "time": 22.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "señal de amor ferviente.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "señal",
+          "start": 28.66,
+          "end": 29.68
+        },
+        {
+          "word": "de",
+          "start": 29.68,
+          "end": 30.12
+        },
+        {
+          "word": "amor",
+          "start": 30.12,
+          "end": 30.94
+        },
+        {
+          "word": "ferviente.",
+          "start": 30.94,
+          "end": 33.44
+        }
+      ],
+      "start": 28.66,
+      "end": 33.44,
+      "confidence": 1.0,
+      "time": 28.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, cuánto me ama Dios a mí!",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 34.44,
+          "end": 34.56
+        },
+        {
+          "word": "cuánto",
+          "start": 35.3,
+          "end": 35.8
+        },
+        {
+          "word": "me",
+          "start": 35.8,
+          "end": 36.46
+        },
+        {
+          "word": "ama",
+          "start": 36.46,
+          "end": 36.88
+        },
+        {
+          "word": "Dios",
+          "start": 36.88,
+          "end": 37.94
+        },
+        {
+          "word": "a",
+          "start": 37.94,
+          "end": 38.58
+        },
+        {
+          "word": "mí,",
+          "start": 38.58,
+          "end": 39.04
+        }
+      ],
+      "start": 34.44,
+      "end": 39.04,
+      "confidence": 1.0,
+      "time": 34.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "La puerta abierta está por mí,",
+      "words": [
+        {
+          "word": "la",
+          "start": 39.48,
+          "end": 39.84
+        },
+        {
+          "word": "puerta",
+          "start": 39.84,
+          "end": 41.08
+        },
+        {
+          "word": "abierta",
+          "start": 41.08,
+          "end": 42.36
+        },
+        {
+          "word": "está",
+          "start": 42.36,
+          "end": 43.26
+        },
+        {
+          "word": "por",
+          "start": 43.26,
+          "end": 44.0
+        },
+        {
+          "word": "mí,",
+          "start": 44.0,
+          "end": 45.36
+        }
+      ],
+      "start": 39.48,
+      "end": 45.36,
+      "confidence": 1.0,
+      "time": 39.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "por mí, por mí.",
+      "words": [
+        {
+          "word": "por",
+          "start": 46.04,
+          "end": 46.64
+        },
+        {
+          "word": "mí,",
+          "start": 46.64,
+          "end": 48.4
+        },
+        {
+          "word": "por",
+          "start": 48.78,
+          "end": 49.32
+        },
+        {
+          "word": "mí.",
+          "start": 49.32,
+          "end": 51.62
+        }
+      ],
+      "start": 46.04,
+      "end": 51.62,
+      "confidence": 1.0,
+      "time": 46.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Sí, quiero entrar allí.",
+      "words": [
+        {
+          "word": "si",
+          "start": 51.62,
+          "end": 52.58
+        },
+        {
+          "word": "quiero",
+          "start": 52.58,
+          "end": 53.66
+        },
+        {
+          "word": "entrar",
+          "start": 53.66,
+          "end": 55.0
+        },
+        {
+          "word": "allí.",
+          "start": 55.0,
+          "end": 57.68
+        }
+      ],
+      "start": 51.62,
+      "end": 57.68,
+      "confidence": 1.0,
+      "time": 51.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si tienes fe avanza tú;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 59.04,
+          "end": 59.44
+        },
+        {
+          "word": "tienes",
+          "start": 59.44,
+          "end": 60.8
+        },
+        {
+          "word": "fe,",
+          "start": 60.8,
+          "end": 61.72
+        },
+        {
+          "word": "avanza",
+          "start": 62.34,
+          "end": 63.26
+        },
+        {
+          "word": "tú,",
+          "start": 63.26,
+          "end": 64.06
+        }
+      ],
+      "start": 59.04,
+      "end": 64.06,
+      "confidence": 1.0,
+      "time": 59.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la puerta es franca ahora.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 64.36,
+          "end": 64.96
+        },
+        {
+          "word": "puerta",
+          "start": 64.96,
+          "end": 65.88
+        },
+        {
+          "word": "es",
+          "start": 65.88,
+          "end": 66.36
+        },
+        {
+          "word": "franca",
+          "start": 66.36,
+          "end": 67.34
+        },
+        {
+          "word": "ahora.",
+          "start": 67.34,
+          "end": 69.36
+        }
+      ],
+      "start": 64.36,
+      "end": 69.36,
+      "confidence": 1.0,
+      "time": 64.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si quieres palma, ten la cruz,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 69.72,
+          "end": 70.18
+        },
+        {
+          "word": "quieres,",
+          "start": 70.18,
+          "end": 71.4
+        },
+        {
+          "word": "pálmate",
+          "start": 72.12,
+          "end": 72.98
+        },
+        {
+          "word": "en",
+          "start": 72.98,
+          "end": 73.7
+        },
+        {
+          "word": "la",
+          "start": 73.7,
+          "end": 74.16
+        },
+        {
+          "word": "cruz,",
+          "start": 74.16,
+          "end": 74.9
+        }
+      ],
+      "start": 69.72,
+      "end": 74.9,
+      "confidence": 0.97,
+      "time": 69.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "señal de eterna gloria.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "señal",
+          "start": 75.38,
+          "end": 76.22
+        },
+        {
+          "word": "de",
+          "start": 76.22,
+          "end": 76.72
+        },
+        {
+          "word": "eterna",
+          "start": 76.72,
+          "end": 77.94
+        },
+        {
+          "word": "gloria,",
+          "start": 77.94,
+          "end": 79.88
+        }
+      ],
+      "start": 75.38,
+      "end": 79.88,
+      "confidence": 1.0,
+      "time": 75.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, cuánto me ama Dios a mí!",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 79.88,
+          "end": 80.88
+        },
+        {
+          "word": "cuanto",
+          "start": 82.12,
+          "end": 82.12
+        },
+        {
+          "word": "me",
+          "start": 82.12,
+          "end": 82.9
+        },
+        {
+          "word": "ama",
+          "start": 82.9,
+          "end": 83.44
+        },
+        {
+          "word": "Dios",
+          "start": 83.44,
+          "end": 84.52
+        },
+        {
+          "word": "a",
+          "start": 84.52,
+          "end": 85.1
+        },
+        {
+          "word": "mí,",
+          "start": 85.1,
+          "end": 85.62
+        }
+      ],
+      "start": 79.88,
+      "end": 86.0,
+      "confidence": 1.0,
+      "time": 79.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "La puerta abierta está por mí,",
+      "words": [
+        {
+          "word": "la",
+          "start": 86.0,
+          "end": 86.36
+        },
+        {
+          "word": "puerta",
+          "start": 86.36,
+          "end": 87.58
+        },
+        {
+          "word": "abierta",
+          "start": 87.58,
+          "end": 88.86
+        },
+        {
+          "word": "está",
+          "start": 88.86,
+          "end": 89.82
+        },
+        {
+          "word": "por",
+          "start": 89.82,
+          "end": 90.46
+        },
+        {
+          "word": "mí,",
+          "start": 90.46,
+          "end": 92.02
+        }
+      ],
+      "start": 86.0,
+      "end": 92.02,
+      "confidence": 1.0,
+      "time": 86.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "por mí, por mí.",
+      "words": [
+        {
+          "word": "por",
+          "start": 92.54,
+          "end": 93.14
+        },
+        {
+          "word": "mí,",
+          "start": 93.14,
+          "end": 94.9
+        },
+        {
+          "word": "por",
+          "start": 95.16,
+          "end": 95.8
+        },
+        {
+          "word": "mí,",
+          "start": 95.8,
+          "end": 98.22
+        }
+      ],
+      "start": 92.54,
+      "end": 98.56,
+      "confidence": 1.0,
+      "time": 92.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Sí, quiero entrar allí.",
+      "words": [
+        {
+          "word": "si",
+          "start": 98.56,
+          "end": 99.16
+        },
+        {
+          "word": "quiero",
+          "start": 99.16,
+          "end": 100.26
+        },
+        {
+          "word": "entrar",
+          "start": 100.26,
+          "end": 101.68
+        },
+        {
+          "word": "allí.",
+          "start": 101.68,
+          "end": 104.34
+        }
+      ],
+      "start": 98.56,
+      "end": 104.34,
+      "confidence": 1.0,
+      "time": 98.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Pasando el río, más allá,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Pasando",
+          "start": 105.8,
+          "end": 107.2
+        },
+        {
+          "word": "el",
+          "start": 107.2,
+          "end": 107.48
+        },
+        {
+          "word": "río",
+          "start": 107.48,
+          "end": 108.72
+        },
+        {
+          "word": "más",
+          "start": 108.72,
+          "end": 109.82
+        },
+        {
+          "word": "allá,",
+          "start": 109.82,
+          "end": 110.62
+        }
+      ],
+      "start": 105.8,
+      "end": 111.14,
+      "confidence": 1.0,
+      "time": 105.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en celestial pradera,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 111.14,
+          "end": 111.96
+        },
+        {
+          "word": "celestial",
+          "start": 111.96,
+          "end": 113.36
+        },
+        {
+          "word": "pradera,",
+          "start": 113.36,
+          "end": 115.34
+        }
+      ],
+      "start": 111.14,
+      "end": 115.34,
+      "confidence": 1.0,
+      "time": 111.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "con Cristo gozo y paz habrá,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 116.56,
+          "end": 116.82
+        },
+        {
+          "word": "Cristo",
+          "start": 116.82,
+          "end": 117.96
+        },
+        {
+          "word": "gozo",
+          "start": 117.96,
+          "end": 119.0
+        },
+        {
+          "word": "y",
+          "start": 119.0,
+          "end": 119.44
+        },
+        {
+          "word": "pasabra,",
+          "start": 119.44,
+          "end": 121.42
+        }
+      ],
+      "start": 116.56,
+      "end": 122.02,
+      "confidence": 0.8,
+      "time": 116.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡eterna primavera!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "eterna",
+          "start": 122.02,
+          "end": 123.36
+        },
+        {
+          "word": "primavera.",
+          "start": 123.36,
+          "end": 126.76
+        }
+      ],
+      "start": 122.02,
+      "end": 126.76,
+      "confidence": 1.0,
+      "time": 122.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, cuánto me ama Dios a mí!",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 126.76,
+          "end": 127.7
+        },
+        {
+          "word": "cuánto",
+          "start": 128.52,
+          "end": 128.98
+        },
+        {
+          "word": "me",
+          "start": 128.98,
+          "end": 129.68
+        },
+        {
+          "word": "ama",
+          "start": 129.68,
+          "end": 130.06
+        },
+        {
+          "word": "Dios",
+          "start": 130.06,
+          "end": 131.16
+        },
+        {
+          "word": "a",
+          "start": 131.16,
+          "end": 131.76
+        },
+        {
+          "word": "mí,",
+          "start": 131.76,
+          "end": 132.26
+        }
+      ],
+      "start": 126.76,
+      "end": 132.62,
+      "confidence": 1.0,
+      "time": 126.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "La puerta abierta está por mí,",
+      "words": [
+        {
+          "word": "la",
+          "start": 132.62,
+          "end": 133.0
+        },
+        {
+          "word": "puerta",
+          "start": 133.0,
+          "end": 134.2
+        },
+        {
+          "word": "abierta",
+          "start": 134.2,
+          "end": 135.5
+        },
+        {
+          "word": "está",
+          "start": 135.5,
+          "end": 136.48
+        },
+        {
+          "word": "por",
+          "start": 136.48,
+          "end": 137.08
+        },
+        {
+          "word": "mí,",
+          "start": 137.08,
+          "end": 138.72
+        }
+      ],
+      "start": 132.62,
+      "end": 138.72,
+      "confidence": 1.0,
+      "time": 132.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "por mí, por mí.",
+      "words": [
+        {
+          "word": "por",
+          "start": 139.3,
+          "end": 139.8
+        },
+        {
+          "word": "mí,",
+          "start": 139.8,
+          "end": 141.64
+        },
+        {
+          "word": "por",
+          "start": 141.8,
+          "end": 142.44
+        },
+        {
+          "word": "mí,",
+          "start": 142.44,
+          "end": 144.76
+        }
+      ],
+      "start": 139.3,
+      "end": 145.36,
+      "confidence": 1.0,
+      "time": 139.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Sí, quiero entrar allí.",
+      "words": [
+        {
+          "word": "si",
+          "start": 145.36,
+          "end": 145.82
+        },
+        {
+          "word": "quiero",
+          "start": 145.82,
+          "end": 146.86
+        },
+        {
+          "word": "entrar",
+          "start": 146.86,
+          "end": 148.28
+        },
+        {
+          "word": "allí.",
+          "start": 148.28,
+          "end": 149.68
+        }
+      ],
+      "start": 145.36,
+      "end": 149.68,
+      "confidence": 1.0,
+      "time": 145.36
+    }
+  ]
+}

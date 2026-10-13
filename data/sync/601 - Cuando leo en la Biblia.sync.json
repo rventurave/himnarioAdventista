@@ -1,0 +1,736 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.895,
+  "language": "es",
+  "model": "medium",
+  "hymn": 601,
+  "source": "601 - Cuando leo en la Biblia.mp3",
+  "duration": 121.03,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cuando leo en la Biblia cómo llama Jesús",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 14.0,
+          "end": 14.84
+        },
+        {
+          "word": "leo",
+          "start": 14.84,
+          "end": 16.06
+        },
+        {
+          "word": "en",
+          "start": 16.06,
+          "end": 16.48
+        },
+        {
+          "word": "la",
+          "start": 16.48,
+          "end": 16.8
+        },
+        {
+          "word": "como",
+          "start": 17.22,
+          "end": 18.16
+        },
+        {
+          "word": "llama",
+          "start": 18.16,
+          "end": 19.3
+        },
+        {
+          "word": "Jesús",
+          "start": 19.3,
+          "end": 20.26
+        }
+      ],
+      "start": 14.0,
+      "end": 20.26,
+      "confidence": 0.875,
+      "time": 14.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y bendice a los niños con amor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 20.26,
+          "end": 21.22
+        },
+        {
+          "word": "bendice",
+          "start": 21.22,
+          "end": 22.44
+        },
+        {
+          "word": "a",
+          "start": 22.44,
+          "end": 22.9
+        },
+        {
+          "word": "los",
+          "start": 22.9,
+          "end": 23.24
+        },
+        {
+          "word": "niños",
+          "start": 23.24,
+          "end": 23.82
+        },
+        {
+          "word": "con",
+          "start": 23.82,
+          "end": 24.42
+        },
+        {
+          "word": "amor,",
+          "start": 24.42,
+          "end": 26.5
+        }
+      ],
+      "start": 20.26,
+      "end": 26.5,
+      "confidence": 1.0,
+      "time": 20.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "yo también quisiera estar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 26.5,
+          "end": 27.56
+        },
+        {
+          "word": "también",
+          "start": 27.56,
+          "end": 28.22
+        },
+        {
+          "word": "quisiera",
+          "start": 28.22,
+          "end": 29.32
+        },
+        {
+          "word": "estar",
+          "start": 29.32,
+          "end": 30.14
+        }
+      ],
+      "start": 26.5,
+      "end": 30.14,
+      "confidence": 1.0,
+      "time": 26.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y con ellos descansar en los brazos del tierno Salvador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 30.14,
+          "end": 30.86
+        },
+        {
+          "word": "con",
+          "start": 30.86,
+          "end": 31.3
+        },
+        {
+          "word": "ellos",
+          "start": 31.3,
+          "end": 31.84
+        },
+        {
+          "word": "descansar,",
+          "start": 31.84,
+          "end": 33.44
+        },
+        {
+          "word": "en",
+          "start": 33.86,
+          "end": 34.12
+        },
+        {
+          "word": "los",
+          "start": 34.12,
+          "end": 34.72
+        },
+        {
+          "word": "brazos",
+          "start": 34.72,
+          "end": 35.48
+        },
+        {
+          "word": "del",
+          "start": 35.48,
+          "end": 35.98
+        },
+        {
+          "word": "tiemblo",
+          "start": 35.98,
+          "end": 36.7
+        },
+        {
+          "word": "salvador.",
+          "start": 36.7,
+          "end": 39.44
+        }
+      ],
+      "start": 30.14,
+      "end": 39.44,
+      "confidence": 0.977,
+      "time": 30.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Ver quisiera sus manos sobre mí reposar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "quisiera",
+          "start": 40.9,
+          "end": 42.3
+        },
+        {
+          "word": "sus",
+          "start": 42.3,
+          "end": 42.7
+        },
+        {
+          "word": "manos",
+          "start": 42.7,
+          "end": 43.4
+        },
+        {
+          "word": "sobre",
+          "start": 43.4,
+          "end": 44.18
+        },
+        {
+          "word": "mí",
+          "start": 44.18,
+          "end": 45.04
+        },
+        {
+          "word": "reposar,",
+          "start": 45.04,
+          "end": 46.52
+        }
+      ],
+      "start": 40.9,
+      "end": 47.18,
+      "confidence": 0.857,
+      "time": 40.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "cariñosos abrazos de él sentir;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cariñosos",
+          "start": 47.18,
+          "end": 48.88
+        },
+        {
+          "word": "abrazos",
+          "start": 48.88,
+          "end": 49.88
+        },
+        {
+          "word": "de",
+          "start": 49.88,
+          "end": 50.36
+        },
+        {
+          "word": "sentir,",
+          "start": 50.36,
+          "end": 51.98
+        }
+      ],
+      "start": 47.18,
+      "end": 51.98,
+      "confidence": 0.8,
+      "time": 47.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "su mirada disfrutar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Su",
+          "start": 51.98,
+          "end": 53.6
+        },
+        {
+          "word": "mirada",
+          "start": 53.6,
+          "end": 54.62
+        },
+        {
+          "word": "disfrutar,",
+          "start": 54.62,
+          "end": 56.1
+        }
+      ],
+      "start": 51.98,
+      "end": 56.6,
+      "confidence": 1.0,
+      "time": 51.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "las palabras escuchar: \"A los niños dejad a mí venir\".",
+      "verse": 2,
+      "words": [
+        {
+          "word": "las",
+          "start": 56.6,
+          "end": 56.88
+        },
+        {
+          "word": "palabras",
+          "start": 56.88,
+          "end": 57.8
+        },
+        {
+          "word": "escuchar,",
+          "start": 57.8,
+          "end": 59.36
+        },
+        {
+          "word": "pa'",
+          "start": 59.88,
+          "end": 60.12
+        },
+        {
+          "word": "los",
+          "start": 60.16,
+          "end": 60.52
+        },
+        {
+          "word": "de",
+          "start": 61.4,
+          "end": 62.08
+        },
+        {
+          "word": "mi",
+          "start": 62.66,
+          "end": 63.22
+        },
+        {
+          "word": "venir.",
+          "start": 63.22,
+          "end": 64.8
+        }
+      ],
+      "start": 56.6,
+      "end": 64.8,
+      "confidence": 0.774,
+      "time": 56.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Cuántos hay que no saben de la bella mansión,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cuantos",
+          "start": 66.22,
+          "end": 67.26
+        },
+        {
+          "word": "hay",
+          "start": 67.26,
+          "end": 67.86
+        },
+        {
+          "word": "que",
+          "start": 67.86,
+          "end": 68.32
+        },
+        {
+          "word": "no",
+          "start": 68.32,
+          "end": 68.8
+        },
+        {
+          "word": "saben",
+          "start": 68.8,
+          "end": 69.36
+        },
+        {
+          "word": "de",
+          "start": 69.36,
+          "end": 69.92
+        },
+        {
+          "word": "la",
+          "start": 69.92,
+          "end": 70.5
+        },
+        {
+          "word": "bella",
+          "start": 70.5,
+          "end": 71.56
+        },
+        {
+          "word": "pasión,",
+          "start": 71.56,
+          "end": 72.46
+        }
+      ],
+      "start": 66.22,
+      "end": 73.06,
+      "confidence": 0.985,
+      "time": 66.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y no quieren a Cristo recibir!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 73.06,
+          "end": 73.2
+        },
+        {
+          "word": "no",
+          "start": 73.2,
+          "end": 73.48
+        },
+        {
+          "word": "quieren",
+          "start": 73.48,
+          "end": 74.64
+        },
+        {
+          "word": "al",
+          "start": 74.64,
+          "end": 75.08
+        },
+        {
+          "word": "Cristo",
+          "start": 75.08,
+          "end": 75.74
+        },
+        {
+          "word": "recibir.",
+          "start": 75.74,
+          "end": 77.5
+        }
+      ],
+      "start": 73.06,
+      "end": 77.5,
+      "confidence": 0.967,
+      "time": 73.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Les quisiera yo mostrar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Les",
+          "start": 77.5,
+          "end": 79.62
+        },
+        {
+          "word": "quisiera",
+          "start": 79.62,
+          "end": 80.6
+        },
+        {
+          "word": "yo",
+          "start": 80.6,
+          "end": 81.22
+        },
+        {
+          "word": "mostrarte,",
+          "start": 81.22,
+          "end": 82.72
+        }
+      ],
+      "start": 77.5,
+      "end": 83.16,
+      "confidence": 0.985,
+      "time": 77.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que para ellos hay lugar en el cielo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "para",
+          "start": 83.16,
+          "end": 83.42
+        },
+        {
+          "word": "ellos",
+          "start": 83.42,
+          "end": 83.94
+        },
+        {
+          "word": "hay",
+          "start": 83.94,
+          "end": 84.36
+        },
+        {
+          "word": "lugar,",
+          "start": 84.54,
+          "end": 85.3
+        },
+        {
+          "word": "el",
+          "start": 85.9,
+          "end": 86.22
+        },
+        {
+          "word": "cielo",
+          "start": 86.22,
+          "end": 87.32
+        }
+      ],
+      "start": 83.16,
+      "end": 88.12,
+      "confidence": 0.75,
+      "time": 83.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "do los convida a ir.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "los",
+          "start": 88.12,
+          "end": 88.58
+        },
+        {
+          "word": "convida",
+          "start": 88.58,
+          "end": 89.44
+        },
+        {
+          "word": "a",
+          "start": 89.44,
+          "end": 90.0
+        },
+        {
+          "word": "ir.",
+          "start": 90.0,
+          "end": 91.06
+        }
+      ],
+      "start": 88.12,
+      "end": 91.06,
+      "confidence": 0.8,
+      "time": 88.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Yo espero aquel día venturoso, sin fin,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 92.24,
+          "end": 92.96
+        },
+        {
+          "word": "espero",
+          "start": 92.96,
+          "end": 94.06
+        },
+        {
+          "word": "aquel",
+          "start": 94.06,
+          "end": 94.68
+        },
+        {
+          "word": "día",
+          "start": 94.68,
+          "end": 95.44
+        },
+        {
+          "word": "aventuroso",
+          "start": 95.44,
+          "end": 97.64
+        },
+        {
+          "word": "sin",
+          "start": 97.64,
+          "end": 97.96
+        },
+        {
+          "word": "fin,",
+          "start": 97.96,
+          "end": 98.42
+        }
+      ],
+      "start": 92.24,
+      "end": 98.82,
+      "confidence": 0.995,
+      "time": 92.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "el más grande, el más lúcido, el mejor,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "el",
+          "start": 98.82,
+          "end": 99.22
+        },
+        {
+          "word": "más",
+          "start": 99.22,
+          "end": 99.6
+        },
+        {
+          "word": "grande,",
+          "start": 99.6,
+          "end": 100.52
+        },
+        {
+          "word": "más",
+          "start": 100.88,
+          "end": 101.12
+        },
+        {
+          "word": "lucido",
+          "start": 101.12,
+          "end": 102.06
+        },
+        {
+          "word": "mejor,",
+          "start": 102.4,
+          "end": 104.4
+        }
+      ],
+      "start": 98.82,
+      "end": 104.4,
+      "confidence": 0.75,
+      "time": 98.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "cuando de toda nación,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 104.4,
+          "end": 105.8
+        },
+        {
+          "word": "de",
+          "start": 105.8,
+          "end": 106.46
+        },
+        {
+          "word": "toda",
+          "start": 106.46,
+          "end": 106.98
+        },
+        {
+          "word": "nación,",
+          "start": 106.98,
+          "end": 108.24
+        }
+      ],
+      "start": 104.4,
+      "end": 108.82,
+      "confidence": 1.0,
+      "time": 104.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "niños mil sin distinción a los brazos acudan del Señor.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "niños",
+          "start": 108.82,
+          "end": 109.02
+        },
+        {
+          "word": "sin",
+          "start": 109.46,
+          "end": 109.96
+        },
+        {
+          "word": "distinción,",
+          "start": 109.96,
+          "end": 111.18
+        },
+        {
+          "word": "a",
+          "start": 111.9,
+          "end": 112.12
+        },
+        {
+          "word": "los",
+          "start": 112.12,
+          "end": 112.42
+        },
+        {
+          "word": "brazos",
+          "start": 112.42,
+          "end": 113.72
+        },
+        {
+          "word": "saludan",
+          "start": 113.72,
+          "end": 114.84
+        },
+        {
+          "word": "del",
+          "start": 114.84,
+          "end": 115.28
+        },
+        {
+          "word": "Señor.",
+          "start": 115.28,
+          "end": 116.36
+        }
+      ],
+      "start": 108.82,
+      "end": 116.36,
+      "confidence": 0.886,
+      "time": 108.82
+    }
+  ]
+}

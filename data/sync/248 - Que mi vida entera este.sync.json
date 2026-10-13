@@ -1,0 +1,1185 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.98,
+  "language": "es",
+  "model": "medium",
+  "hymn": 248,
+  "source": "248 - Que mi vida entera este.mp3",
+  "duration": 221.02,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Que mi vida entera esté",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Que",
+          "start": 18.42,
+          "end": 19.82
+        },
+        {
+          "word": "mi",
+          "start": 19.82,
+          "end": 21.02
+        },
+        {
+          "word": "vida",
+          "start": 21.02,
+          "end": 21.58
+        },
+        {
+          "word": "entera",
+          "start": 21.58,
+          "end": 22.44
+        },
+        {
+          "word": "esté",
+          "start": 22.44,
+          "end": 25.18
+        }
+      ],
+      "start": 18.42,
+      "end": 25.18,
+      "confidence": 1.0,
+      "time": 18.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "consagrada a ti, Señor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Consagrada",
+          "start": 25.18,
+          "end": 27.68
+        },
+        {
+          "word": "a",
+          "start": 27.68,
+          "end": 28.02
+        },
+        {
+          "word": "ti,",
+          "start": 28.02,
+          "end": 28.3
+        },
+        {
+          "word": "Señor,",
+          "start": 28.32,
+          "end": 31.12
+        }
+      ],
+      "start": 25.18,
+      "end": 31.74,
+      "confidence": 1.0,
+      "time": 25.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que a mis manos pueda guiar",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 31.74,
+          "end": 32.0
+        },
+        {
+          "word": "a",
+          "start": 32.0,
+          "end": 32.66
+        },
+        {
+          "word": "mis",
+          "start": 32.66,
+          "end": 33.32
+        },
+        {
+          "word": "manos",
+          "start": 33.32,
+          "end": 33.94
+        },
+        {
+          "word": "pueda",
+          "start": 33.94,
+          "end": 34.64
+        },
+        {
+          "word": "guiar",
+          "start": 34.64,
+          "end": 37.7
+        }
+      ],
+      "start": 31.74,
+      "end": 37.7,
+      "confidence": 1.0,
+      "time": 31.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "el impulso de tu amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 37.7,
+          "end": 38.92
+        },
+        {
+          "word": "impulso",
+          "start": 38.92,
+          "end": 40.12
+        },
+        {
+          "word": "de",
+          "start": 40.12,
+          "end": 40.56
+        },
+        {
+          "word": "tu",
+          "start": 40.56,
+          "end": 40.74
+        },
+        {
+          "word": "amor,",
+          "start": 40.74,
+          "end": 43.56
+        }
+      ],
+      "start": 37.7,
+      "end": 44.56,
+      "confidence": 1.0,
+      "time": 37.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Lávame en la sangre del Señor,",
+      "words": [
+        {
+          "word": "lávame",
+          "start": 44.56,
+          "end": 45.18
+        },
+        {
+          "word": "la",
+          "start": 45.18,
+          "end": 45.58
+        },
+        {
+          "word": "sangre",
+          "start": 45.58,
+          "end": 46.28
+        },
+        {
+          "word": "del",
+          "start": 46.28,
+          "end": 46.86
+        },
+        {
+          "word": "Señor",
+          "start": 46.86,
+          "end": 49.76
+        }
+      ],
+      "start": 44.56,
+      "end": 49.76,
+      "confidence": 0.833,
+      "time": 44.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "límpiame de toda mi maldad;",
+      "words": [
+        {
+          "word": "Límpiamé",
+          "start": 49.76,
+          "end": 51.48
+        },
+        {
+          "word": "de",
+          "start": 51.48,
+          "end": 52.02
+        },
+        {
+          "word": "toda",
+          "start": 52.02,
+          "end": 52.46
+        },
+        {
+          "word": "mi",
+          "start": 52.46,
+          "end": 53.0
+        },
+        {
+          "word": "maldad,",
+          "start": 53.0,
+          "end": 56.04
+        }
+      ],
+      "start": 49.76,
+      "end": 56.6,
+      "confidence": 1.0,
+      "time": 49.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "ríndote mi vida; hazla pues, Señor,",
+      "words": [
+        {
+          "word": "ríndote",
+          "start": 56.6,
+          "end": 57.64
+        },
+        {
+          "word": "mi",
+          "start": 57.64,
+          "end": 57.98
+        },
+        {
+          "word": "vida,",
+          "start": 57.98,
+          "end": 59.2
+        },
+        {
+          "word": "hazla",
+          "start": 60.02,
+          "end": 60.26
+        },
+        {
+          "word": "pues",
+          "start": 60.26,
+          "end": 60.72
+        },
+        {
+          "word": "Señor,",
+          "start": 60.72,
+          "end": 62.26
+        }
+      ],
+      "start": 56.6,
+      "end": 62.94,
+      "confidence": 1.0,
+      "time": 56.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "tuya por la eternidad.",
+      "words": [
+        {
+          "word": "tuya",
+          "start": 62.94,
+          "end": 63.96
+        },
+        {
+          "word": "por",
+          "start": 63.96,
+          "end": 64.58
+        },
+        {
+          "word": "la",
+          "start": 64.58,
+          "end": 65.06
+        },
+        {
+          "word": "eternidad.",
+          "start": 65.06,
+          "end": 67.86
+        }
+      ],
+      "start": 62.94,
+      "end": 67.86,
+      "confidence": 1.0,
+      "time": 62.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Que mis labios, al hablar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Que",
+          "start": 67.86,
+          "end": 69.38
+        },
+        {
+          "word": "mis",
+          "start": 69.38,
+          "end": 70.18
+        },
+        {
+          "word": "labios",
+          "start": 70.18,
+          "end": 71.08
+        },
+        {
+          "word": "al",
+          "start": 71.08,
+          "end": 71.5
+        },
+        {
+          "word": "hablar,",
+          "start": 71.5,
+          "end": 73.96
+        }
+      ],
+      "start": 67.86,
+      "end": 75.64,
+      "confidence": 1.0,
+      "time": 67.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hablen solo de tu amor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "hablen",
+          "start": 75.64,
+          "end": 76.14
+        },
+        {
+          "word": "solo",
+          "start": 76.14,
+          "end": 76.9
+        },
+        {
+          "word": "de",
+          "start": 76.9,
+          "end": 77.46
+        },
+        {
+          "word": "tu",
+          "start": 77.46,
+          "end": 77.64
+        },
+        {
+          "word": "amor,",
+          "start": 77.64,
+          "end": 80.2
+        }
+      ],
+      "start": 75.64,
+      "end": 80.2,
+      "confidence": 1.0,
+      "time": 75.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que mis bienes ocultar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 80.88,
+          "end": 81.66
+        },
+        {
+          "word": "mis",
+          "start": 81.66,
+          "end": 82.42
+        },
+        {
+          "word": "bienes",
+          "start": 82.42,
+          "end": 83.38
+        },
+        {
+          "word": "ocultar,",
+          "start": 83.38,
+          "end": 86.6
+        }
+      ],
+      "start": 80.88,
+      "end": 87.26,
+      "confidence": 1.0,
+      "time": 80.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "no los pueda a ti, Señor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "no",
+          "start": 87.26,
+          "end": 87.88
+        },
+        {
+          "word": "los",
+          "start": 87.88,
+          "end": 88.66
+        },
+        {
+          "word": "pueda",
+          "start": 88.66,
+          "end": 89.2
+        },
+        {
+          "word": "a",
+          "start": 89.2,
+          "end": 89.6
+        },
+        {
+          "word": "ti",
+          "start": 89.6,
+          "end": 89.84
+        },
+        {
+          "word": "Señor,",
+          "start": 89.84,
+          "end": 92.74
+        }
+      ],
+      "start": 87.26,
+      "end": 92.74,
+      "confidence": 1.0,
+      "time": 87.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Lávame en la sangre del Señor,",
+      "words": [
+        {
+          "word": "Lávame",
+          "start": 92.74,
+          "end": 94.38
+        },
+        {
+          "word": "en",
+          "start": 94.38,
+          "end": 94.64
+        },
+        {
+          "word": "la",
+          "start": 94.64,
+          "end": 94.98
+        },
+        {
+          "word": "sangre",
+          "start": 94.98,
+          "end": 95.48
+        },
+        {
+          "word": "del",
+          "start": 95.48,
+          "end": 96.04
+        },
+        {
+          "word": "Señor,",
+          "start": 96.04,
+          "end": 99.0
+        }
+      ],
+      "start": 92.74,
+      "end": 99.0,
+      "confidence": 1.0,
+      "time": 92.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "límpiame de toda mi maldad;",
+      "words": [
+        {
+          "word": "Límpiamé",
+          "start": 99.68,
+          "end": 100.64
+        },
+        {
+          "word": "de",
+          "start": 100.64,
+          "end": 101.1
+        },
+        {
+          "word": "toda",
+          "start": 101.1,
+          "end": 101.62
+        },
+        {
+          "word": "mi",
+          "start": 101.62,
+          "end": 102.16
+        },
+        {
+          "word": "maldad.",
+          "start": 102.16,
+          "end": 105.08
+        }
+      ],
+      "start": 99.68,
+      "end": 105.08,
+      "confidence": 1.0,
+      "time": 99.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "ríndote mi vida; hazla pues, Señor,",
+      "words": [
+        {
+          "word": "Ríndote,",
+          "start": 105.64,
+          "end": 106.8
+        },
+        {
+          "word": "mi",
+          "start": 106.9,
+          "end": 107.16
+        },
+        {
+          "word": "vida,",
+          "start": 107.16,
+          "end": 108.52
+        },
+        {
+          "word": "Hazla",
+          "start": 109.18,
+          "end": 109.48
+        },
+        {
+          "word": "pues,",
+          "start": 109.48,
+          "end": 109.92
+        },
+        {
+          "word": "Señor,",
+          "start": 109.92,
+          "end": 111.6
+        }
+      ],
+      "start": 105.64,
+      "end": 111.6,
+      "confidence": 1.0,
+      "time": 105.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "tuya por la eternidad.",
+      "words": [
+        {
+          "word": "Tuya",
+          "start": 112.32,
+          "end": 113.24
+        },
+        {
+          "word": "por",
+          "start": 113.24,
+          "end": 113.84
+        },
+        {
+          "word": "la",
+          "start": 113.84,
+          "end": 114.36
+        },
+        {
+          "word": "eternidad.",
+          "start": 114.36,
+          "end": 117.22
+        }
+      ],
+      "start": 112.32,
+      "end": 117.22,
+      "confidence": 1.0,
+      "time": 112.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Que mi tiempo todo esté",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Que",
+          "start": 117.22,
+          "end": 118.56
+        },
+        {
+          "word": "mi",
+          "start": 118.56,
+          "end": 119.44
+        },
+        {
+          "word": "tiempo",
+          "start": 119.44,
+          "end": 120.1
+        },
+        {
+          "word": "todo",
+          "start": 120.1,
+          "end": 120.78
+        },
+        {
+          "word": "esté",
+          "start": 120.78,
+          "end": 123.64
+        }
+      ],
+      "start": 117.22,
+      "end": 123.64,
+      "confidence": 1.0,
+      "time": 117.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "consagrado a tu loor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "consagrado",
+          "start": 123.64,
+          "end": 126.02
+        },
+        {
+          "word": "a",
+          "start": 126.02,
+          "end": 126.4
+        },
+        {
+          "word": "Tu",
+          "start": 126.4,
+          "end": 126.78
+        },
+        {
+          "word": "olor",
+          "start": 126.78,
+          "end": 129.72
+        }
+      ],
+      "start": 123.64,
+      "end": 129.72,
+      "confidence": 0.963,
+      "time": 123.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y mi mente y su poder",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 129.72,
+          "end": 130.9
+        },
+        {
+          "word": "mi",
+          "start": 130.9,
+          "end": 131.64
+        },
+        {
+          "word": "mente",
+          "start": 131.64,
+          "end": 132.18
+        },
+        {
+          "word": "y",
+          "start": 132.18,
+          "end": 132.52
+        },
+        {
+          "word": "su",
+          "start": 132.52,
+          "end": 132.9
+        },
+        {
+          "word": "poder",
+          "start": 132.9,
+          "end": 135.92
+        }
+      ],
+      "start": 129.72,
+      "end": 135.92,
+      "confidence": 1.0,
+      "time": 129.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pueda emplearlos en tu honor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pueda",
+          "start": 135.92,
+          "end": 137.5
+        },
+        {
+          "word": "emplearnos",
+          "start": 137.5,
+          "end": 138.6
+        },
+        {
+          "word": "en",
+          "start": 138.6,
+          "end": 139.08
+        },
+        {
+          "word": "Tu",
+          "start": 139.08,
+          "end": 139.28
+        },
+        {
+          "word": "honor",
+          "start": 139.28,
+          "end": 141.22
+        }
+      ],
+      "start": 135.92,
+      "end": 141.22,
+      "confidence": 0.988,
+      "time": 135.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Lávame en la sangre del Señor,",
+      "words": [
+        {
+          "word": "Lávame",
+          "start": 141.22,
+          "end": 143.62
+        },
+        {
+          "word": "la",
+          "start": 143.62,
+          "end": 143.94
+        },
+        {
+          "word": "sangre",
+          "start": 143.94,
+          "end": 144.64
+        },
+        {
+          "word": "del",
+          "start": 144.64,
+          "end": 145.18
+        },
+        {
+          "word": "Señor,",
+          "start": 145.18,
+          "end": 147.22
+        }
+      ],
+      "start": 141.22,
+      "end": 147.22,
+      "confidence": 0.833,
+      "time": 141.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "límpiame de toda mi maldad;",
+      "words": [
+        {
+          "word": "Límpiamé",
+          "start": 148.84,
+          "end": 149.8
+        },
+        {
+          "word": "de",
+          "start": 149.8,
+          "end": 150.22
+        },
+        {
+          "word": "toda",
+          "start": 150.22,
+          "end": 150.76
+        },
+        {
+          "word": "mi",
+          "start": 150.76,
+          "end": 151.3
+        },
+        {
+          "word": "maldad.",
+          "start": 151.3,
+          "end": 153.22
+        }
+      ],
+      "start": 148.84,
+      "end": 153.22,
+      "confidence": 1.0,
+      "time": 148.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "ríndote mi vida; hazla pues, Señor,",
+      "words": [
+        {
+          "word": "Ríndote",
+          "start": 154.82,
+          "end": 156.0
+        },
+        {
+          "word": "mi",
+          "start": 156.0,
+          "end": 156.4
+        },
+        {
+          "word": "vida,",
+          "start": 156.4,
+          "end": 157.82
+        },
+        {
+          "word": "hazla",
+          "start": 158.38,
+          "end": 158.72
+        },
+        {
+          "word": "pues",
+          "start": 158.72,
+          "end": 159.18
+        },
+        {
+          "word": "Señor,",
+          "start": 159.18,
+          "end": 160.22
+        }
+      ],
+      "start": 154.82,
+      "end": 160.22,
+      "confidence": 1.0,
+      "time": 154.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "tuya por la eternidad.",
+      "words": [
+        {
+          "word": "Tuya",
+          "start": 161.46,
+          "end": 162.38
+        },
+        {
+          "word": "por",
+          "start": 162.38,
+          "end": 163.02
+        },
+        {
+          "word": "la",
+          "start": 163.02,
+          "end": 163.54
+        },
+        {
+          "word": "eternidad.",
+          "start": 163.54,
+          "end": 166.56
+        }
+      ],
+      "start": 161.46,
+      "end": 166.56,
+      "confidence": 1.0,
+      "time": 161.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Toma, oh Dios, mi voluntad,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Toma,",
+          "start": 166.56,
+          "end": 168.46
+        },
+        {
+          "word": "oh",
+          "start": 168.46,
+          "end": 168.74
+        },
+        {
+          "word": "Dios,",
+          "start": 168.74,
+          "end": 169.06
+        },
+        {
+          "word": "mi",
+          "start": 169.26,
+          "end": 169.48
+        },
+        {
+          "word": "voluntad",
+          "start": 169.48,
+          "end": 172.5
+        }
+      ],
+      "start": 166.56,
+      "end": 172.5,
+      "confidence": 1.0,
+      "time": 166.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "y hazla tuya, nada más,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 172.5,
+          "end": 173.5
+        },
+        {
+          "word": "hazla",
+          "start": 173.5,
+          "end": 174.94
+        },
+        {
+          "word": "tuya",
+          "start": 174.94,
+          "end": 175.52
+        },
+        {
+          "word": "nada",
+          "start": 175.52,
+          "end": 176.4
+        },
+        {
+          "word": "más.",
+          "start": 176.4,
+          "end": 178.9
+        }
+      ],
+      "start": 172.5,
+      "end": 178.9,
+      "confidence": 1.0,
+      "time": 172.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "y este pobre corazón;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Y",
+          "start": 179.14,
+          "end": 180.12
+        },
+        {
+          "word": "este",
+          "start": 180.12,
+          "end": 180.82
+        },
+        {
+          "word": "pobre",
+          "start": 180.82,
+          "end": 181.66
+        },
+        {
+          "word": "corazón",
+          "start": 181.66,
+          "end": 184.44
+        }
+      ],
+      "start": 179.14,
+      "end": 184.44,
+      "confidence": 1.0,
+      "time": 179.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "y tu trono en él tendrás.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 184.44,
+          "end": 186.3
+        },
+        {
+          "word": "tu",
+          "start": 186.3,
+          "end": 186.98
+        },
+        {
+          "word": "trono",
+          "start": 186.98,
+          "end": 187.6
+        },
+        {
+          "word": "en",
+          "start": 187.6,
+          "end": 187.92
+        },
+        {
+          "word": "él",
+          "start": 187.92,
+          "end": 188.22
+        },
+        {
+          "word": "tendrás,",
+          "start": 188.22,
+          "end": 190.56
+        }
+      ],
+      "start": 184.44,
+      "end": 190.56,
+      "confidence": 1.0,
+      "time": 184.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Lávame en la sangre del Señor,",
+      "words": [
+        {
+          "word": "Lávame",
+          "start": 190.56,
+          "end": 192.96
+        },
+        {
+          "word": "la",
+          "start": 192.96,
+          "end": 193.26
+        },
+        {
+          "word": "sangre",
+          "start": 193.26,
+          "end": 193.94
+        },
+        {
+          "word": "del",
+          "start": 193.94,
+          "end": 194.5
+        },
+        {
+          "word": "Señor,",
+          "start": 194.5,
+          "end": 196.56
+        }
+      ],
+      "start": 190.56,
+      "end": 196.56,
+      "confidence": 0.833,
+      "time": 190.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "límpiame de toda mi maldad;",
+      "words": [
+        {
+          "word": "Límpiamé",
+          "start": 198.32,
+          "end": 199.1
+        },
+        {
+          "word": "de",
+          "start": 199.1,
+          "end": 199.56
+        },
+        {
+          "word": "toda",
+          "start": 199.56,
+          "end": 200.1
+        },
+        {
+          "word": "mi",
+          "start": 200.1,
+          "end": 200.6
+        },
+        {
+          "word": "maldad,",
+          "start": 200.6,
+          "end": 202.56
+        }
+      ],
+      "start": 198.32,
+      "end": 202.56,
+      "confidence": 1.0,
+      "time": 198.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "ríndote mi vida; hazla pues, Señor,",
+      "words": [
+        {
+          "word": "Ríndote",
+          "start": 203.98,
+          "end": 205.14
+        },
+        {
+          "word": "mi",
+          "start": 205.14,
+          "end": 205.54
+        },
+        {
+          "word": "vida,",
+          "start": 205.54,
+          "end": 206.86
+        },
+        {
+          "word": "hazla",
+          "start": 207.54,
+          "end": 207.86
+        },
+        {
+          "word": "pues",
+          "start": 207.86,
+          "end": 208.32
+        },
+        {
+          "word": "Señor,",
+          "start": 208.32,
+          "end": 210.04
+        }
+      ],
+      "start": 203.98,
+      "end": 210.04,
+      "confidence": 1.0,
+      "time": 203.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "tuya por la eternidad.",
+      "words": [
+        {
+          "word": "Tuya",
+          "start": 210.72,
+          "end": 211.78
+        },
+        {
+          "word": "por",
+          "start": 211.78,
+          "end": 212.46
+        },
+        {
+          "word": "la",
+          "start": 212.46,
+          "end": 213.2
+        },
+        {
+          "word": "eternidad.",
+          "start": 213.2,
+          "end": 216.44
+        }
+      ],
+      "start": 210.72,
+      "end": 216.44,
+      "confidence": 1.0,
+      "time": 210.72
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.835,
+  "language": "es",
+  "model": "medium",
+  "hymn": 307,
+  "source": "307 - Roca de la eternidad.mp3",
+  "duration": 97.33,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Roca de la eternidad,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 10.78,
+          "end": 10.78
+        },
+        {
+          "word": "la",
+          "start": 10.78,
+          "end": 11.28
+        },
+        {
+          "word": "eternidad",
+          "start": 11.28,
+          "end": 13.0
+        }
+      ],
+      "start": 10.78,
+      "end": 13.0,
+      "confidence": 0.75,
+      "time": 10.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "fuiste abierta para mí;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Fuiste",
+          "start": 13.52,
+          "end": 14.32
+        },
+        {
+          "word": "abierta",
+          "start": 14.32,
+          "end": 15.92
+        },
+        {
+          "word": "para",
+          "start": 15.92,
+          "end": 16.58
+        },
+        {
+          "word": "mí",
+          "start": 16.58,
+          "end": 17.94
+        }
+      ],
+      "start": 13.52,
+      "end": 17.94,
+      "confidence": 1.0,
+      "time": 13.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "sé mi escondedero fiel;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Se",
+          "start": 17.94,
+          "end": 18.68
+        },
+        {
+          "word": "esconde",
+          "start": 19.06,
+          "end": 20.5
+        },
+        {
+          "word": "fiel",
+          "start": 21.44,
+          "end": 22.14
+        }
+      ],
+      "start": 17.94,
+      "end": 22.14,
+      "confidence": 0.735,
+      "time": 17.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "solo encuentro paz en ti,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Solo",
+          "start": 22.58,
+          "end": 23.34
+        },
+        {
+          "word": "encuentro",
+          "start": 23.34,
+          "end": 24.94
+        },
+        {
+          "word": "paz",
+          "start": 24.94,
+          "end": 25.36
+        },
+        {
+          "word": "en",
+          "start": 25.36,
+          "end": 25.96
+        },
+        {
+          "word": "ti",
+          "start": 25.96,
+          "end": 27.08
+        }
+      ],
+      "start": 22.58,
+      "end": 27.08,
+      "confidence": 1.0,
+      "time": 22.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "rico, limpio manantial",
+      "verse": 1,
+      "words": [
+        {
+          "word": "rico,",
+          "start": 27.08,
+          "end": 27.96
+        },
+        {
+          "word": "limpio,",
+          "start": 28.6,
+          "end": 29.46
+        }
+      ],
+      "start": 27.08,
+      "end": 32.08,
+      "confidence": 0.667,
+      "time": 27.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en el cual lavado fui.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 32.08,
+          "end": 32.32
+        },
+        {
+          "word": "el",
+          "start": 32.32,
+          "end": 32.86
+        },
+        {
+          "word": "cual",
+          "start": 32.86,
+          "end": 33.7
+        },
+        {
+          "word": "la",
+          "start": 33.7,
+          "end": 34.18
+        },
+        {
+          "word": "fui.",
+          "start": 34.78,
+          "end": 36.34
+        }
+      ],
+      "start": 32.08,
+      "end": 36.34,
+      "confidence": 0.988,
+      "time": 32.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Aunque fuese siempre fiel,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Aunque",
+          "start": 37.42,
+          "end": 37.96
+        },
+        {
+          "word": "fuese",
+          "start": 37.96,
+          "end": 39.38
+        },
+        {
+          "word": "siempre",
+          "start": 39.38,
+          "end": 40.26
+        },
+        {
+          "word": "fiel,",
+          "start": 40.26,
+          "end": 41.42
+        }
+      ],
+      "start": 37.42,
+      "end": 41.96,
+      "confidence": 1.0,
+      "time": 37.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "aunque llore sin cesar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "aunque",
+          "start": 41.96,
+          "end": 42.28
+        },
+        {
+          "word": "llore",
+          "start": 42.28,
+          "end": 43.8
+        },
+        {
+          "word": "sin",
+          "start": 43.8,
+          "end": 44.28
+        },
+        {
+          "word": "cesar,",
+          "start": 44.28,
+          "end": 45.88
+        }
+      ],
+      "start": 41.96,
+      "end": 45.88,
+      "confidence": 1.0,
+      "time": 41.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "del pecado no podré",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 46.48,
+          "end": 46.56
+        },
+        {
+          "word": "pecado",
+          "start": 46.56,
+          "end": 48.3
+        },
+        {
+          "word": "podré,",
+          "start": 48.92,
+          "end": 50.56
+        }
+      ],
+      "start": 46.48,
+      "end": 50.84,
+      "confidence": 0.735,
+      "time": 46.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "justificación lograr;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "justificación",
+          "start": 50.84,
+          "end": 52.98
+        },
+        {
+          "word": "lograr,",
+          "start": 52.98,
+          "end": 55.08
+        }
+      ],
+      "start": 50.84,
+      "end": 55.08,
+      "confidence": 1.0,
+      "time": 50.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "solo en ti teniendo fe,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Solo",
+          "start": 55.08,
+          "end": 55.88
+        },
+        {
+          "word": "en",
+          "start": 55.88,
+          "end": 56.22
+        },
+        {
+          "word": "ti,",
+          "start": 56.22,
+          "end": 56.72
+        },
+        {
+          "word": "teniendo",
+          "start": 56.72,
+          "end": 58.04
+        },
+        {
+          "word": "fe,",
+          "start": 58.04,
+          "end": 59.34
+        }
+      ],
+      "start": 55.08,
+      "end": 61.6,
+      "confidence": 1.0,
+      "time": 55.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "salvación podré gozar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "podré",
+          "start": 61.6,
+          "end": 62.48
+        },
+        {
+          "word": "gozar.",
+          "start": 62.48,
+          "end": 64.46
+        }
+      ],
+      "start": 61.6,
+      "end": 64.46,
+      "confidence": 0.667,
+      "time": 61.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mientras tenga que vivir",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Mientras",
+          "start": 65.36,
+          "end": 66.0
+        },
+        {
+          "word": "venga",
+          "start": 66.0,
+          "end": 67.2
+        },
+        {
+          "word": "que",
+          "start": 69.76,
+          "end": 69.92
+        }
+      ],
+      "start": 65.36,
+      "end": 69.92,
+      "confidence": 0.72,
+      "time": 65.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en el mundo de maldad;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 69.92,
+          "end": 70.16
+        },
+        {
+          "word": "el",
+          "start": 70.16,
+          "end": 70.72
+        },
+        {
+          "word": "mundo",
+          "start": 70.72,
+          "end": 71.72
+        }
+      ],
+      "start": 69.92,
+      "end": 73.68,
+      "confidence": 0.6,
+      "time": 69.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "cuando vaya a responder",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 73.68,
+          "end": 74.84
+        },
+        {
+          "word": "vaya",
+          "start": 74.84,
+          "end": 76.36
+        },
+        {
+          "word": "a",
+          "start": 76.36,
+          "end": 76.88
+        },
+        {
+          "word": "responder,",
+          "start": 76.88,
+          "end": 78.28
+        }
+      ],
+      "start": 73.68,
+      "end": 79.1,
+      "confidence": 1.0,
+      "time": 73.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en tu augusto tribunal,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 79.1,
+          "end": 79.28
+        },
+        {
+          "word": "tu",
+          "start": 79.28,
+          "end": 79.52
+        },
+        {
+          "word": "agosto",
+          "start": 79.52,
+          "end": 80.98
+        },
+        {
+          "word": "triunfar,",
+          "start": 80.98,
+          "end": 83.36
+        }
+      ],
+      "start": 79.1,
+      "end": 83.82,
+      "confidence": 0.928,
+      "time": 79.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "sé mi escondedero fiel,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "se",
+          "start": 83.82,
+          "end": 84.02
+        },
+        {
+          "word": "esconde",
+          "start": 84.34,
+          "end": 85.6
+        },
+        {
+          "word": "el",
+          "start": 85.6,
+          "end": 86.14
+        }
+      ],
+      "start": 83.82,
+      "end": 90.16,
+      "confidence": 0.685,
+      "time": 83.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Roca de la eternidad.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 90.16,
+          "end": 90.52
+        },
+        {
+          "word": "eternidad.",
+          "start": 90.52,
+          "end": 92.8
+        }
+      ],
+      "start": 90.16,
+      "end": 92.8,
+      "confidence": 0.5,
+      "time": 90.16
+    }
+  ]
+}

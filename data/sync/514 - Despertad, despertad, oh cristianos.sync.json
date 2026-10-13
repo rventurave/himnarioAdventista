@@ -1,0 +1,1190 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.948,
+  "language": "es",
+  "model": "medium",
+  "hymn": 514,
+  "source": "514 - Despertad, despertad, oh cristianos.mp3",
+  "duration": 190.46,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Despertad, despertad, oh cristianos!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Despertad,",
+          "start": 11.22,
+          "end": 12.62
+        },
+        {
+          "word": "despertado",
+          "start": 12.62,
+          "end": 14.02
+        },
+        {
+          "word": "cristianos,",
+          "start": 14.02,
+          "end": 16.24
+        }
+      ],
+      "start": 11.22,
+      "end": 16.42,
+      "confidence": 0.735,
+      "time": 11.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Vuestro sueño funesto dejad;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "vuestros",
+          "start": 16.42,
+          "end": 17.0
+        },
+        {
+          "word": "sueños",
+          "start": 17.0,
+          "end": 18.06
+        },
+        {
+          "word": "funestos",
+          "start": 18.06,
+          "end": 19.44
+        },
+        {
+          "word": "dejad.",
+          "start": 19.44,
+          "end": 22.34
+        }
+      ],
+      "start": 16.42,
+      "end": 22.34,
+      "confidence": 0.955,
+      "time": 16.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que el cruel enemigo os acecha,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "El",
+          "start": 22.34,
+          "end": 23.18
+        },
+        {
+          "word": "cruel",
+          "start": 23.18,
+          "end": 23.96
+        },
+        {
+          "word": "enemigo",
+          "start": 23.96,
+          "end": 25.58
+        },
+        {
+          "word": "acecha",
+          "start": 25.9,
+          "end": 27.52
+        }
+      ],
+      "start": 22.34,
+      "end": 27.52,
+      "confidence": 0.667,
+      "time": 22.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y cautivos os quiere llevar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Y",
+          "start": 27.52,
+          "end": 28.28
+        },
+        {
+          "word": "cautivos",
+          "start": 28.28,
+          "end": 29.56
+        },
+        {
+          "word": "os",
+          "start": 29.56,
+          "end": 29.82
+        },
+        {
+          "word": "quiere",
+          "start": 29.82,
+          "end": 30.86
+        },
+        {
+          "word": "llamar",
+          "start": 30.86,
+          "end": 32.92
+        }
+      ],
+      "start": 27.52,
+      "end": 32.92,
+      "confidence": 0.96,
+      "time": 27.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Despertad!, las tinieblas pasaron;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Despertad,",
+          "start": 32.92,
+          "end": 34.44
+        },
+        {
+          "word": "las",
+          "start": 34.72,
+          "end": 34.94
+        },
+        {
+          "word": "tinieblas",
+          "start": 34.94,
+          "end": 36.14
+        },
+        {
+          "word": "pasaron",
+          "start": 36.14,
+          "end": 38.1
+        }
+      ],
+      "start": 32.92,
+      "end": 38.1,
+      "confidence": 1.0,
+      "time": 32.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de la noche no sois hijos ya,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "De",
+          "start": 38.1,
+          "end": 38.88
+        },
+        {
+          "word": "la",
+          "start": 38.88,
+          "end": 39.44
+        },
+        {
+          "word": "noche",
+          "start": 39.44,
+          "end": 40.06
+        },
+        {
+          "word": "no",
+          "start": 40.06,
+          "end": 40.6
+        },
+        {
+          "word": "sois",
+          "start": 40.6,
+          "end": 41.2
+        },
+        {
+          "word": "hijos",
+          "start": 41.2,
+          "end": 41.62
+        },
+        {
+          "word": "ya",
+          "start": 41.62,
+          "end": 43.2
+        }
+      ],
+      "start": 38.1,
+      "end": 43.2,
+      "confidence": 1.0,
+      "time": 38.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mas lo sois de la luz y del día,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mas",
+          "start": 43.2,
+          "end": 44.02
+        },
+        {
+          "word": "lo",
+          "start": 44.02,
+          "end": 44.5
+        },
+        {
+          "word": "sois",
+          "start": 44.5,
+          "end": 44.98
+        },
+        {
+          "word": "de",
+          "start": 44.98,
+          "end": 45.44
+        },
+        {
+          "word": "la",
+          "start": 45.44,
+          "end": 45.76
+        },
+        {
+          "word": "luz",
+          "start": 45.76,
+          "end": 46.44
+        },
+        {
+          "word": "y",
+          "start": 46.44,
+          "end": 46.74
+        },
+        {
+          "word": "del",
+          "start": 46.74,
+          "end": 46.98
+        },
+        {
+          "word": "día",
+          "start": 46.98,
+          "end": 48.68
+        }
+      ],
+      "start": 43.2,
+      "end": 48.68,
+      "confidence": 1.0,
+      "time": 43.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y tenéis el deber de luchar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Y",
+          "start": 48.68,
+          "end": 49.4
+        },
+        {
+          "word": "tenéis",
+          "start": 49.4,
+          "end": 50.42
+        },
+        {
+          "word": "el",
+          "start": 50.42,
+          "end": 50.84
+        },
+        {
+          "word": "deber",
+          "start": 50.84,
+          "end": 51.54
+        },
+        {
+          "word": "de",
+          "start": 51.54,
+          "end": 52.1
+        },
+        {
+          "word": "luchar",
+          "start": 52.1,
+          "end": 54.06
+        }
+      ],
+      "start": 48.68,
+      "end": 54.06,
+      "confidence": 1.0,
+      "time": 48.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Despertad, preparad vuestras armas,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Despertad,",
+          "start": 54.06,
+          "end": 56.52
+        },
+        {
+          "word": "preparad",
+          "start": 56.86,
+          "end": 57.76
+        },
+        {
+          "word": "vuestras",
+          "start": 57.76,
+          "end": 58.8
+        },
+        {
+          "word": "armas",
+          "start": 58.8,
+          "end": 60.02
+        }
+      ],
+      "start": 54.06,
+      "end": 60.02,
+      "confidence": 1.0,
+      "time": 54.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "vuestros lomos ceñid de verdad,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Vuestros",
+          "start": 60.02,
+          "end": 61.2
+        },
+        {
+          "word": "robos",
+          "start": 61.2,
+          "end": 62.22
+        },
+        {
+          "word": "de",
+          "start": 62.96,
+          "end": 63.58
+        },
+        {
+          "word": "verdad",
+          "start": 63.58,
+          "end": 65.82
+        }
+      ],
+      "start": 60.02,
+      "end": 65.82,
+      "confidence": 0.752,
+      "time": 60.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y calzad vuestros pies, aprestados con el grato evangelio de paz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 65.82,
+          "end": 67.0
+        },
+        {
+          "word": "calzad",
+          "start": 67.0,
+          "end": 68.08
+        },
+        {
+          "word": "vuestros",
+          "start": 68.08,
+          "end": 68.64
+        },
+        {
+          "word": "pies",
+          "start": 68.64,
+          "end": 69.36
+        },
+        {
+          "word": "aprestados",
+          "start": 69.36,
+          "end": 71.7
+        },
+        {
+          "word": "con",
+          "start": 71.7,
+          "end": 72.42
+        },
+        {
+          "word": "el",
+          "start": 72.42,
+          "end": 72.74
+        },
+        {
+          "word": "grato",
+          "start": 72.74,
+          "end": 73.5
+        },
+        {
+          "word": "Evangelio",
+          "start": 73.5,
+          "end": 75.06
+        },
+        {
+          "word": "de",
+          "start": 75.06,
+          "end": 75.42
+        },
+        {
+          "word": "paz.",
+          "start": 75.42,
+          "end": 76.98
+        }
+      ],
+      "start": 65.82,
+      "end": 76.98,
+      "confidence": 1.0,
+      "time": 65.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Basta ya de profundas tinieblas,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Hasta",
+          "start": 77.02,
+          "end": 77.78
+        },
+        {
+          "word": "de",
+          "start": 78.54,
+          "end": 79.06
+        },
+        {
+          "word": "profundas",
+          "start": 79.06,
+          "end": 80.38
+        },
+        {
+          "word": "tinieblas,",
+          "start": 80.38,
+          "end": 82.38
+        }
+      ],
+      "start": 77.02,
+      "end": 82.62,
+      "confidence": 0.776,
+      "time": 77.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "basta ya de pereza mortal;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "hasta",
+          "start": 82.62,
+          "end": 83.08
+        },
+        {
+          "word": "de",
+          "start": 83.88,
+          "end": 84.36
+        },
+        {
+          "word": "pereza",
+          "start": 84.36,
+          "end": 85.48
+        },
+        {
+          "word": "mortal,",
+          "start": 85.48,
+          "end": 87.22
+        }
+      ],
+      "start": 82.62,
+      "end": 87.22,
+      "confidence": 0.776,
+      "time": 82.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡revestid, revestid vuestro pecho con la cota de fe y caridad!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Revestid,",
+          "start": 87.22,
+          "end": 89.06
+        },
+        {
+          "word": "revestid",
+          "start": 89.12,
+          "end": 90.32
+        },
+        {
+          "word": "vuestro",
+          "start": 90.32,
+          "end": 90.96
+        },
+        {
+          "word": "pecho",
+          "start": 90.96,
+          "end": 92.74
+        },
+        {
+          "word": "con",
+          "start": 92.74,
+          "end": 93.5
+        },
+        {
+          "word": "la",
+          "start": 93.5,
+          "end": 94.16
+        },
+        {
+          "word": "cota",
+          "start": 94.16,
+          "end": 94.8
+        },
+        {
+          "word": "de",
+          "start": 94.8,
+          "end": 95.4
+        },
+        {
+          "word": "fe",
+          "start": 95.4,
+          "end": 95.72
+        },
+        {
+          "word": "y",
+          "start": 95.72,
+          "end": 96.14
+        },
+        {
+          "word": "caridad.",
+          "start": 96.14,
+          "end": 98.36
+        }
+      ],
+      "start": 87.22,
+      "end": 98.36,
+      "confidence": 1.0,
+      "time": 87.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "La gloriosa armadura de Cristo",
+      "verse": 3,
+      "words": [
+        {
+          "word": "La",
+          "start": 99.0,
+          "end": 100.06
+        },
+        {
+          "word": "gloriosa",
+          "start": 100.06,
+          "end": 101.04
+        },
+        {
+          "word": "armadura",
+          "start": 101.04,
+          "end": 102.36
+        },
+        {
+          "word": "de",
+          "start": 102.36,
+          "end": 102.88
+        },
+        {
+          "word": "Cristo",
+          "start": 102.88,
+          "end": 104.44
+        }
+      ],
+      "start": 99.0,
+      "end": 104.44,
+      "confidence": 1.0,
+      "time": 99.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "acudid con valor a tomar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "acudid",
+          "start": 104.44,
+          "end": 106.02
+        },
+        {
+          "word": "con",
+          "start": 106.02,
+          "end": 106.5
+        },
+        {
+          "word": "valor",
+          "start": 106.5,
+          "end": 107.5
+        },
+        {
+          "word": "a",
+          "start": 107.5,
+          "end": 107.92
+        },
+        {
+          "word": "tomar.",
+          "start": 107.92,
+          "end": 110.58
+        }
+      ],
+      "start": 104.44,
+      "end": 110.58,
+      "confidence": 1.0,
+      "time": 104.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "confiando en que el dardo enemigo impotente se ha de quebrar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Confiado",
+          "start": 110.58,
+          "end": 112.58
+        },
+        {
+          "word": "en",
+          "start": 112.58,
+          "end": 112.86
+        },
+        {
+          "word": "que",
+          "start": 112.86,
+          "end": 113.32
+        },
+        {
+          "word": "el",
+          "start": 113.32,
+          "end": 113.36
+        },
+        {
+          "word": "dardo",
+          "start": 113.36,
+          "end": 113.9
+        },
+        {
+          "word": "enemigo",
+          "start": 113.9,
+          "end": 116.28
+        },
+        {
+          "word": "impotente",
+          "start": 116.28,
+          "end": 118.0
+        },
+        {
+          "word": "se",
+          "start": 118.0,
+          "end": 118.46
+        },
+        {
+          "word": "ha",
+          "start": 118.46,
+          "end": 119.06
+        },
+        {
+          "word": "de",
+          "start": 119.06,
+          "end": 119.38
+        },
+        {
+          "word": "quebrar.",
+          "start": 119.38,
+          "end": 121.16
+        }
+      ],
+      "start": 110.58,
+      "end": 121.16,
+      "confidence": 0.997,
+      "time": 110.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Oh cristianos, antorchas del mundo!,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Oh",
+          "start": 121.44,
+          "end": 122.02
+        },
+        {
+          "word": "cristianos,",
+          "start": 122.02,
+          "end": 123.34
+        },
+        {
+          "word": "antorchas",
+          "start": 123.54,
+          "end": 124.66
+        },
+        {
+          "word": "del",
+          "start": 124.66,
+          "end": 125.02
+        },
+        {
+          "word": "dundo,",
+          "start": 125.02,
+          "end": 126.68
+        }
+      ],
+      "start": 121.44,
+      "end": 126.86,
+      "confidence": 0.976,
+      "time": 121.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de esperanza el yelmo tomad,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 126.86,
+          "end": 127.3
+        },
+        {
+          "word": "esperanza",
+          "start": 127.3,
+          "end": 128.6
+        },
+        {
+          "word": "el",
+          "start": 128.6,
+          "end": 129.0
+        },
+        {
+          "word": "yermo",
+          "start": 129.0,
+          "end": 129.92
+        },
+        {
+          "word": "tromar,",
+          "start": 129.92,
+          "end": 131.94
+        }
+      ],
+      "start": 126.86,
+      "end": 131.94,
+      "confidence": 0.943,
+      "time": 126.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "levantad de la fe el escudo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "levantan",
+          "start": 131.94,
+          "end": 133.62
+        },
+        {
+          "word": "de",
+          "start": 133.62,
+          "end": 133.96
+        },
+        {
+          "word": "la",
+          "start": 133.96,
+          "end": 134.24
+        },
+        {
+          "word": "fe",
+          "start": 134.24,
+          "end": 135.18
+        },
+        {
+          "word": "escuda",
+          "start": 135.38,
+          "end": 137.28
+        }
+      ],
+      "start": 131.94,
+      "end": 137.28,
+      "confidence": 0.804,
+      "time": 131.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y sin miedo corred a luchar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 137.28,
+          "end": 137.86
+        },
+        {
+          "word": "sin",
+          "start": 137.86,
+          "end": 138.1
+        },
+        {
+          "word": "miedo",
+          "start": 138.1,
+          "end": 139.12
+        },
+        {
+          "word": "corred",
+          "start": 139.12,
+          "end": 140.18
+        },
+        {
+          "word": "a",
+          "start": 140.18,
+          "end": 140.52
+        },
+        {
+          "word": "luchar.",
+          "start": 140.52,
+          "end": 142.56
+        }
+      ],
+      "start": 137.28,
+      "end": 142.56,
+      "confidence": 1.0,
+      "time": 137.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "No temáis, pues de Dios revestidos,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "No",
+          "start": 143.96,
+          "end": 144.26
+        },
+        {
+          "word": "temáis",
+          "start": 144.26,
+          "end": 145.0
+        },
+        {
+          "word": "pues",
+          "start": 145.0,
+          "end": 145.46
+        },
+        {
+          "word": "de",
+          "start": 145.46,
+          "end": 145.8
+        },
+        {
+          "word": "Dios",
+          "start": 145.8,
+          "end": 146.32
+        },
+        {
+          "word": "revestidos",
+          "start": 146.32,
+          "end": 148.76
+        }
+      ],
+      "start": 143.96,
+      "end": 148.76,
+      "confidence": 1.0,
+      "time": 143.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "¿qué enemigo venceros podrá,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "que",
+          "start": 148.76,
+          "end": 149.46
+        },
+        {
+          "word": "enemigo",
+          "start": 149.46,
+          "end": 150.68
+        },
+        {
+          "word": "venceros",
+          "start": 150.68,
+          "end": 152.0
+        },
+        {
+          "word": "podrá.",
+          "start": 152.0,
+          "end": 154.8
+        }
+      ],
+      "start": 148.76,
+      "end": 154.8,
+      "confidence": 1.0,
+      "time": 148.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "si tomáis por espada la Biblia,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Si",
+          "start": 154.98,
+          "end": 155.78
+        },
+        {
+          "word": "tomáis",
+          "start": 155.78,
+          "end": 156.54
+        },
+        {
+          "word": "por",
+          "start": 156.54,
+          "end": 157.06
+        },
+        {
+          "word": "espada",
+          "start": 157.06,
+          "end": 158.22
+        },
+        {
+          "word": "la",
+          "start": 158.22,
+          "end": 158.66
+        },
+        {
+          "word": "Biblia",
+          "start": 158.66,
+          "end": 160.26
+        }
+      ],
+      "start": 154.98,
+      "end": 160.26,
+      "confidence": 1.0,
+      "time": 154.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "la Palabra del Dios de verdad?",
+      "verse": 4,
+      "words": [
+        {
+          "word": "la",
+          "start": 160.26,
+          "end": 160.9
+        },
+        {
+          "word": "Palabra",
+          "start": 160.9,
+          "end": 162.22
+        },
+        {
+          "word": "de",
+          "start": 162.22,
+          "end": 162.48
+        },
+        {
+          "word": "Dios",
+          "start": 162.48,
+          "end": 163.06
+        },
+        {
+          "word": "de",
+          "start": 163.06,
+          "end": 163.6
+        },
+        {
+          "word": "verdad.",
+          "start": 163.6,
+          "end": 165.28
+        }
+      ],
+      "start": 160.26,
+      "end": 165.28,
+      "confidence": 0.99,
+      "time": 160.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "En la cruz hallaréis la bandera,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "En",
+          "start": 165.82,
+          "end": 166.18
+        },
+        {
+          "word": "la",
+          "start": 166.18,
+          "end": 166.56
+        },
+        {
+          "word": "cruz",
+          "start": 166.56,
+          "end": 167.38
+        },
+        {
+          "word": "salearéis",
+          "start": 167.38,
+          "end": 168.32
+        },
+        {
+          "word": "la",
+          "start": 168.32,
+          "end": 168.8
+        },
+        {
+          "word": "bandera,",
+          "start": 168.8,
+          "end": 170.72
+        }
+      ],
+      "start": 165.82,
+      "end": 170.72,
+      "confidence": 0.978,
+      "time": 165.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "en Jesús hallaréis Capitán;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 171.14,
+          "end": 171.52
+        },
+        {
+          "word": "Jesús",
+          "start": 171.52,
+          "end": 172.34
+        },
+        {
+          "word": "salearéis,",
+          "start": 172.34,
+          "end": 173.68
+        },
+        {
+          "word": "Capitán.",
+          "start": 173.72,
+          "end": 175.96
+        }
+      ],
+      "start": 171.14,
+      "end": 175.96,
+      "confidence": 0.967,
+      "time": 171.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "en el cielo obtendréis la corona:",
+      "verse": 4,
+      "words": [
+        {
+          "word": "En",
+          "start": 176.42,
+          "end": 176.86
+        },
+        {
+          "word": "el",
+          "start": 176.86,
+          "end": 177.16
+        },
+        {
+          "word": "cielo",
+          "start": 177.16,
+          "end": 177.92
+        },
+        {
+          "word": "tendréis",
+          "start": 177.92,
+          "end": 179.02
+        },
+        {
+          "word": "la",
+          "start": 179.02,
+          "end": 179.62
+        },
+        {
+          "word": "corona",
+          "start": 179.62,
+          "end": 181.08
+        }
+      ],
+      "start": 176.42,
+      "end": 181.08,
+      "confidence": 0.989,
+      "time": 176.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "¡A luchar! ¡A luchar! ¡A luchar!",
+      "verse": 4,
+      "words": [
+        {
+          "word": "a",
+          "start": 181.08,
+          "end": 182.06
+        },
+        {
+          "word": "luchar,",
+          "start": 182.06,
+          "end": 182.84
+        },
+        {
+          "word": "a",
+          "start": 183.14,
+          "end": 183.44
+        },
+        {
+          "word": "luchar,",
+          "start": 183.44,
+          "end": 184.2
+        },
+        {
+          "word": "a",
+          "start": 184.64,
+          "end": 184.94
+        },
+        {
+          "word": "luchar.",
+          "start": 184.94,
+          "end": 186.26
+        }
+      ],
+      "start": 181.08,
+      "end": 186.26,
+      "confidence": 1.0,
+      "time": 181.08
+    }
+  ]
+}

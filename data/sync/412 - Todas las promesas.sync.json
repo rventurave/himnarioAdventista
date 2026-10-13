@@ -1,0 +1,854 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.866,
+  "language": "es",
+  "model": "medium",
+  "hymn": 412,
+  "source": "412 - Todas las promesas.mp3",
+  "duration": 126.07,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Todas la promesas del Señor Jesús",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Todas",
+          "start": 8.82,
+          "end": 9.52
+        },
+        {
+          "word": "las",
+          "start": 9.52,
+          "end": 9.9
+        },
+        {
+          "word": "promesas",
+          "start": 9.9,
+          "end": 10.64
+        },
+        {
+          "word": "del",
+          "start": 10.64,
+          "end": 10.96
+        },
+        {
+          "word": "Señor",
+          "start": 10.96,
+          "end": 11.64
+        },
+        {
+          "word": "Jesús",
+          "start": 11.64,
+          "end": 13.06
+        }
+      ],
+      "start": 8.82,
+      "end": 13.06,
+      "confidence": 0.98,
+      "time": 8.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "son apoyo poderoso de mi fe.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Son",
+          "start": 13.06,
+          "end": 13.8
+        },
+        {
+          "word": "apoyo",
+          "start": 13.8,
+          "end": 14.42
+        },
+        {
+          "word": "poderoso",
+          "start": 14.42,
+          "end": 15.56
+        },
+        {
+          "word": "de",
+          "start": 15.56,
+          "end": 16.18
+        },
+        {
+          "word": "mi",
+          "start": 16.18,
+          "end": 16.76
+        },
+        {
+          "word": "fe",
+          "start": 16.76,
+          "end": 17.46
+        }
+      ],
+      "start": 13.06,
+      "end": 17.46,
+      "confidence": 1.0,
+      "time": 13.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mientras luche aquí buscando yo su luz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mientras",
+          "start": 17.54,
+          "end": 18.28
+        },
+        {
+          "word": "luche",
+          "start": 18.28,
+          "end": 18.72
+        },
+        {
+          "word": "aquí",
+          "start": 18.72,
+          "end": 19.12
+        },
+        {
+          "word": "buscando",
+          "start": 19.12,
+          "end": 19.82
+        },
+        {
+          "word": "yo",
+          "start": 19.82,
+          "end": 20.5
+        },
+        {
+          "word": "su",
+          "start": 20.5,
+          "end": 21.04
+        },
+        {
+          "word": "luz",
+          "start": 21.04,
+          "end": 21.86
+        }
+      ],
+      "start": 17.54,
+      "end": 21.86,
+      "confidence": 1.0,
+      "time": 17.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "siempre en sus promesas confiaré.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Siempre",
+          "start": 21.86,
+          "end": 22.6
+        },
+        {
+          "word": "sus",
+          "start": 22.6,
+          "end": 22.96
+        },
+        {
+          "word": "promesas",
+          "start": 22.96,
+          "end": 23.82
+        },
+        {
+          "word": "confiaré",
+          "start": 23.82,
+          "end": 26.06
+        }
+      ],
+      "start": 21.86,
+      "end": 26.06,
+      "confidence": 0.8,
+      "time": 21.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Grandes, fieles,",
+      "words": [
+        {
+          "word": "fieles",
+          "start": 29.0,
+          "end": 29.3
+        }
+      ],
+      "start": 29.0,
+      "end": 31.14,
+      "confidence": 0.5,
+      "time": 29.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "todas las promesas que el Señor ha dado;",
+      "words": [
+        {
+          "word": "todas",
+          "start": 31.14,
+          "end": 31.36
+        },
+        {
+          "word": "las",
+          "start": 31.36,
+          "end": 31.86
+        },
+        {
+          "word": "promesas",
+          "start": 31.86,
+          "end": 32.5
+        },
+        {
+          "word": "que",
+          "start": 32.5,
+          "end": 32.7
+        },
+        {
+          "word": "el",
+          "start": 32.7,
+          "end": 32.88
+        },
+        {
+          "word": "Señor",
+          "start": 32.88,
+          "end": 33.56
+        },
+        {
+          "word": "ha",
+          "start": 33.56,
+          "end": 34.26
+        },
+        {
+          "word": "dado.",
+          "start": 34.26,
+          "end": 34.9
+        }
+      ],
+      "start": 31.14,
+      "end": 34.9,
+      "confidence": 1.0,
+      "time": 31.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "grandes, fieles,",
+      "words": [
+        {
+          "word": "fieles",
+          "start": 37.64,
+          "end": 38.0
+        }
+      ],
+      "start": 37.64,
+      "end": 40.7,
+      "confidence": 0.5,
+      "time": 37.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en ellas yo por siempre confiaré.",
+      "words": [
+        {
+          "word": "en",
+          "start": 40.7,
+          "end": 40.9
+        },
+        {
+          "word": "ellas",
+          "start": 40.9,
+          "end": 41.2
+        },
+        {
+          "word": "yo",
+          "start": 41.2,
+          "end": 41.52
+        },
+        {
+          "word": "por",
+          "start": 41.52,
+          "end": 41.84
+        },
+        {
+          "word": "siempre",
+          "start": 41.84,
+          "end": 42.24
+        },
+        {
+          "word": "confiaré.",
+          "start": 42.24,
+          "end": 44.64
+        }
+      ],
+      "start": 40.7,
+      "end": 44.64,
+      "confidence": 1.0,
+      "time": 40.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Todas sus promesas para el hombre fiel,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Todas",
+          "start": 45.06,
+          "end": 45.64
+        },
+        {
+          "word": "sus",
+          "start": 45.64,
+          "end": 45.94
+        },
+        {
+          "word": "promesas",
+          "start": 45.94,
+          "end": 46.62
+        },
+        {
+          "word": "para",
+          "start": 46.62,
+          "end": 47.14
+        },
+        {
+          "word": "el",
+          "start": 47.14,
+          "end": 47.48
+        },
+        {
+          "word": "hombre",
+          "start": 47.48,
+          "end": 48.22
+        },
+        {
+          "word": "fiel,",
+          "start": 48.22,
+          "end": 49.14
+        }
+      ],
+      "start": 45.06,
+      "end": 49.58,
+      "confidence": 1.0,
+      "time": 45.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "el Señor, por su Palabra, cumplirá;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 49.58,
+          "end": 49.76
+        },
+        {
+          "word": "Señor",
+          "start": 49.76,
+          "end": 50.22
+        },
+        {
+          "word": "por",
+          "start": 50.22,
+          "end": 50.54
+        },
+        {
+          "word": "su",
+          "start": 50.54,
+          "end": 50.84
+        },
+        {
+          "word": "palabra",
+          "start": 50.84,
+          "end": 51.5
+        },
+        {
+          "word": "cumplirá.",
+          "start": 51.5,
+          "end": 53.46
+        }
+      ],
+      "start": 49.58,
+      "end": 53.46,
+      "confidence": 1.0,
+      "time": 49.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y confiado sé que para siempre en él",
+      "verse": 2,
+      "words": [
+        {
+          "word": "confiado",
+          "start": 54.1,
+          "end": 54.84
+        },
+        {
+          "word": "sé",
+          "start": 54.84,
+          "end": 55.16
+        },
+        {
+          "word": "que",
+          "start": 55.16,
+          "end": 55.44
+        },
+        {
+          "word": "para",
+          "start": 55.44,
+          "end": 55.98
+        },
+        {
+          "word": "siempre",
+          "start": 55.98,
+          "end": 56.78
+        },
+        {
+          "word": "en",
+          "start": 56.78,
+          "end": 57.7
+        },
+        {
+          "word": "él,",
+          "start": 57.7,
+          "end": 58.1
+        }
+      ],
+      "start": 54.1,
+      "end": 58.12,
+      "confidence": 0.875,
+      "time": 54.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "dulce paz mi vida gozará.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "dulce",
+          "start": 58.12,
+          "end": 58.62
+        },
+        {
+          "word": "paz",
+          "start": 58.62,
+          "end": 58.94
+        },
+        {
+          "word": "mi",
+          "start": 58.94,
+          "end": 59.28
+        },
+        {
+          "word": "vida",
+          "start": 59.28,
+          "end": 59.68
+        },
+        {
+          "word": "gozará.",
+          "start": 59.68,
+          "end": 61.98
+        }
+      ],
+      "start": 58.12,
+      "end": 61.98,
+      "confidence": 1.0,
+      "time": 58.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Grandes, fieles,",
+      "words": [
+        {
+          "word": "eres",
+          "start": 65.1,
+          "end": 65.26
+        }
+      ],
+      "start": 65.1,
+      "end": 67.12,
+      "confidence": 0.38,
+      "time": 65.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "todas las promesas que el Señor ha dado;",
+      "words": [
+        {
+          "word": "todas",
+          "start": 67.12,
+          "end": 67.38
+        },
+        {
+          "word": "las",
+          "start": 67.38,
+          "end": 67.84
+        },
+        {
+          "word": "promesas",
+          "start": 67.84,
+          "end": 68.44
+        },
+        {
+          "word": "que",
+          "start": 68.44,
+          "end": 68.68
+        },
+        {
+          "word": "el",
+          "start": 68.68,
+          "end": 68.84
+        },
+        {
+          "word": "Señor",
+          "start": 68.84,
+          "end": 69.52
+        },
+        {
+          "word": "ha",
+          "start": 69.52,
+          "end": 70.3
+        },
+        {
+          "word": "dado.",
+          "start": 70.3,
+          "end": 70.88
+        }
+      ],
+      "start": 67.12,
+      "end": 70.88,
+      "confidence": 1.0,
+      "time": 67.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "grandes, fieles,",
+      "words": [
+        {
+          "word": "eres",
+          "start": 73.76,
+          "end": 73.9
+        }
+      ],
+      "start": 73.76,
+      "end": 76.48,
+      "confidence": 0.38,
+      "time": 73.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en ellas yo por siempre confiaré.",
+      "words": [
+        {
+          "word": "en",
+          "start": 76.48,
+          "end": 76.84
+        },
+        {
+          "word": "ella",
+          "start": 76.84,
+          "end": 77.16
+        },
+        {
+          "word": "yo",
+          "start": 77.16,
+          "end": 77.5
+        },
+        {
+          "word": "por",
+          "start": 77.5,
+          "end": 77.8
+        },
+        {
+          "word": "siempre",
+          "start": 77.8,
+          "end": 78.24
+        },
+        {
+          "word": "confiaré.",
+          "start": 78.24,
+          "end": 80.52
+        }
+      ],
+      "start": 76.48,
+      "end": 80.52,
+      "confidence": 0.99,
+      "time": 76.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Todas las promesas del Señor serán",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Todas",
+          "start": 80.52,
+          "end": 81.66
+        },
+        {
+          "word": "las",
+          "start": 81.66,
+          "end": 82.0
+        },
+        {
+          "word": "promesas",
+          "start": 82.0,
+          "end": 82.64
+        },
+        {
+          "word": "del",
+          "start": 82.64,
+          "end": 82.96
+        },
+        {
+          "word": "Señor",
+          "start": 82.96,
+          "end": 83.64
+        },
+        {
+          "word": "serán",
+          "start": 83.64,
+          "end": 85.36
+        }
+      ],
+      "start": 80.52,
+      "end": 85.36,
+      "confidence": 1.0,
+      "time": 80.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "gozo y fuerza en nuestra vida terrenal;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 86.36,
+          "end": 86.4
+        },
+        {
+          "word": "fuerza",
+          "start": 86.4,
+          "end": 86.4
+        },
+        {
+          "word": "en",
+          "start": 86.4,
+          "end": 86.7
+        },
+        {
+          "word": "nuestra",
+          "start": 86.7,
+          "end": 87.06
+        },
+        {
+          "word": "vida",
+          "start": 87.06,
+          "end": 87.5
+        }
+      ],
+      "start": 86.36,
+      "end": 89.54,
+      "confidence": 0.714,
+      "time": 86.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "ellas en la dura lid nos sostendrán,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Él",
+          "start": 89.54,
+          "end": 90.14
+        },
+        {
+          "word": "en",
+          "start": 90.5,
+          "end": 90.7
+        },
+        {
+          "word": "la",
+          "start": 90.7,
+          "end": 90.94
+        },
+        {
+          "word": "dura,",
+          "start": 90.94,
+          "end": 91.3
+        },
+        {
+          "word": "nos",
+          "start": 91.64,
+          "end": 92.12
+        },
+        {
+          "word": "sostendrá",
+          "start": 92.12,
+          "end": 93.8
+        }
+      ],
+      "start": 89.54,
+      "end": 93.8,
+      "confidence": 0.84,
+      "time": 89.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y triunfar podremos sobre el mal.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 93.8,
+          "end": 94.42
+        },
+        {
+          "word": "triunfar",
+          "start": 94.42,
+          "end": 94.96
+        },
+        {
+          "word": "podremos",
+          "start": 94.96,
+          "end": 95.74
+        },
+        {
+          "word": "obretar",
+          "start": 95.74,
+          "end": 98.18
+        }
+      ],
+      "start": 93.8,
+      "end": 98.18,
+      "confidence": 0.633,
+      "time": 93.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Grandes, fieles,",
+      "start": 98.18,
+      "end": 100.46,
+      "confidence": 0.0,
+      "time": 98.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "todas las promesas que el Señor ha dado;",
+      "words": [
+        {
+          "word": "Todas",
+          "start": 102.74,
+          "end": 103.4
+        },
+        {
+          "word": "las",
+          "start": 103.4,
+          "end": 103.8
+        },
+        {
+          "word": "promesas",
+          "start": 103.8,
+          "end": 104.44
+        },
+        {
+          "word": "que",
+          "start": 104.44,
+          "end": 104.68
+        },
+        {
+          "word": "el",
+          "start": 104.68,
+          "end": 104.86
+        },
+        {
+          "word": "Señor",
+          "start": 104.86,
+          "end": 105.58
+        },
+        {
+          "word": "ha",
+          "start": 105.58,
+          "end": 106.14
+        },
+        {
+          "word": "dado",
+          "start": 106.14,
+          "end": 106.82
+        }
+      ],
+      "start": 100.46,
+      "end": 102.74,
+      "confidence": 1.0,
+      "time": 100.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "grandes, fieles,",
+      "start": 102.74,
+      "end": 106.08,
+      "confidence": 0.0,
+      "time": 102.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en ellas yo por siempre confiaré.",
+      "words": [
+        {
+          "word": "las",
+          "start": 109.42,
+          "end": 109.86
+        },
+        {
+          "word": "y",
+          "start": 112.5,
+          "end": 112.86
+        },
+        {
+          "word": "por",
+          "start": 113.46,
+          "end": 113.74
+        },
+        {
+          "word": "siempre",
+          "start": 113.74,
+          "end": 114.24
+        },
+        {
+          "word": "confiarés.",
+          "start": 114.24,
+          "end": 117.08
+        }
+      ],
+      "start": 106.08,
+      "end": 109.42,
+      "confidence": 0.765,
+      "time": 106.08
+    }
+  ]
+}

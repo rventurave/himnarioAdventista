@@ -1,0 +1,645 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.865,
+  "language": "es",
+  "model": "medium",
+  "hymn": 578,
+  "source": "578 - El pueblo que conoce a su Dios.mp3",
+  "duration": 134.74,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Atardece en el mundo:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 25.94,
+          "end": 26.22
+        },
+        {
+          "word": "el",
+          "start": 26.22,
+          "end": 26.54
+        },
+        {
+          "word": "mundo",
+          "start": 26.54,
+          "end": 27.82
+        }
+      ],
+      "start": 25.94,
+      "end": 27.82,
+      "confidence": 0.75,
+      "time": 25.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "hay violencia y maldad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "hay",
+          "start": 27.82,
+          "end": 28.6
+        },
+        {
+          "word": "violencia",
+          "start": 28.6,
+          "end": 30.22
+        },
+        {
+          "word": "y",
+          "start": 30.22,
+          "end": 31.06
+        },
+        {
+          "word": "maldad",
+          "start": 31.06,
+          "end": 33.14
+        }
+      ],
+      "start": 27.82,
+      "end": 33.14,
+      "confidence": 1.0,
+      "time": 27.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Desafiantes las tinieblas",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Desafiándoles",
+          "start": 34.9,
+          "end": 36.3
+        },
+        {
+          "word": "las",
+          "start": 36.3,
+          "end": 36.72
+        },
+        {
+          "word": "tinieblas,",
+          "start": 36.72,
+          "end": 38.82
+        }
+      ],
+      "start": 34.9,
+      "end": 38.82,
+      "confidence": 0.967,
+      "time": 34.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "hoy ocultan la verdad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 40.78,
+          "end": 41.74
+        },
+        {
+          "word": "verdad.",
+          "start": 41.74,
+          "end": 43.86
+        }
+      ],
+      "start": 40.78,
+      "end": 43.86,
+      "confidence": 0.5,
+      "time": 40.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "\"Mas el pueblo que a su Dios conoce,",
+      "words": [
+        {
+          "word": "Mas",
+          "start": 44.34,
+          "end": 44.78
+        },
+        {
+          "word": "el",
+          "start": 44.78,
+          "end": 45.14
+        },
+        {
+          "word": "pueblo",
+          "start": 45.14,
+          "end": 46.08
+        },
+        {
+          "word": "que",
+          "start": 46.08,
+          "end": 46.62
+        },
+        {
+          "word": "a",
+          "start": 46.62,
+          "end": 46.8
+        },
+        {
+          "word": "su",
+          "start": 46.8,
+          "end": 46.98
+        },
+        {
+          "word": "dios",
+          "start": 46.98,
+          "end": 47.36
+        },
+        {
+          "word": "conoce,",
+          "start": 47.36,
+          "end": 49.2
+        }
+      ],
+      "start": 44.34,
+      "end": 49.2,
+      "confidence": 1.0,
+      "time": 44.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "se esforzará y hará\".",
+      "words": [
+        {
+          "word": "Se",
+          "start": 49.92,
+          "end": 50.24
+        },
+        {
+          "word": "esforzará",
+          "start": 50.24,
+          "end": 52.16
+        },
+        {
+          "word": "y",
+          "start": 52.16,
+          "end": 52.88
+        },
+        {
+          "word": "hará.",
+          "start": 52.88,
+          "end": 54.42
+        }
+      ],
+      "start": 49.92,
+      "end": 54.42,
+      "confidence": 1.0,
+      "time": 49.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡De pie, de pie, oh pueblo!",
+      "words": [
+        {
+          "word": "de",
+          "start": 56.68,
+          "end": 57.1
+        },
+        {
+          "word": "pie,",
+          "start": 57.1,
+          "end": 57.72
+        },
+        {
+          "word": "oh",
+          "start": 57.94,
+          "end": 58.22
+        },
+        {
+          "word": "pueblo,",
+          "start": 58.22,
+          "end": 59.44
+        }
+      ],
+      "start": 56.68,
+      "end": 59.44,
+      "confidence": 0.667,
+      "time": 56.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Conoces a tu Dios!",
+      "words": [
+        {
+          "word": "Conoces",
+          "start": 61.12,
+          "end": 62.52
+        },
+        {
+          "word": "a",
+          "start": 62.52,
+          "end": 63.1
+        },
+        {
+          "word": "tu",
+          "start": 63.1,
+          "end": 63.58
+        },
+        {
+          "word": "Dios,",
+          "start": 63.58,
+          "end": 65.16
+        }
+      ],
+      "start": 61.12,
+      "end": 65.16,
+      "confidence": 1.0,
+      "time": 61.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Levántate y concluye",
+      "words": [
+        {
+          "word": "levantate",
+          "start": 66.82,
+          "end": 68.22
+        },
+        {
+          "word": "y",
+          "start": 68.22,
+          "end": 68.88
+        },
+        {
+          "word": "concluye,",
+          "start": 68.88,
+          "end": 70.68
+        }
+      ],
+      "start": 66.82,
+      "end": 70.68,
+      "confidence": 1.0,
+      "time": 66.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "la obra que él te dio!",
+      "words": [
+        {
+          "word": "la",
+          "start": 71.4,
+          "end": 71.9
+        },
+        {
+          "word": "obra",
+          "start": 71.9,
+          "end": 72.92
+        },
+        {
+          "word": "que",
+          "start": 72.92,
+          "end": 73.88
+        },
+        {
+          "word": "él",
+          "start": 73.88,
+          "end": 74.68
+        },
+        {
+          "word": "te",
+          "start": 74.68,
+          "end": 74.68
+        },
+        {
+          "word": "dio.",
+          "start": 74.68,
+          "end": 76.58
+        }
+      ],
+      "start": 71.4,
+      "end": 76.58,
+      "confidence": 1.0,
+      "time": 71.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Atardece en el cielo:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 80.66,
+          "end": 80.9
+        },
+        {
+          "word": "el",
+          "start": 80.9,
+          "end": 81.2
+        },
+        {
+          "word": "cielo",
+          "start": 81.2,
+          "end": 82.54
+        }
+      ],
+      "start": 80.66,
+      "end": 82.54,
+      "confidence": 0.75,
+      "time": 80.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ya la gracia cesará.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ya",
+          "start": 82.54,
+          "end": 83.38
+        },
+        {
+          "word": "la",
+          "start": 83.38,
+          "end": 83.74
+        },
+        {
+          "word": "gracia",
+          "start": 83.74,
+          "end": 84.86
+        },
+        {
+          "word": "estará,",
+          "start": 85.52,
+          "end": 87.92
+        }
+      ],
+      "start": 82.54,
+      "end": 87.92,
+      "confidence": 0.975,
+      "time": 82.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Lanza Dios el desafío:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Lanza",
+          "start": 87.92,
+          "end": 88.92
+        },
+        {
+          "word": "dios",
+          "start": 89.14,
+          "end": 90.08
+        },
+        {
+          "word": "del",
+          "start": 90.08,
+          "end": 90.96
+        },
+        {
+          "word": "desafío,",
+          "start": 90.96,
+          "end": 93.32
+        }
+      ],
+      "start": 87.92,
+      "end": 93.84,
+      "confidence": 0.97,
+      "time": 87.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Quién mi obra acabará?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 93.84,
+          "end": 94.12
+        },
+        {
+          "word": "obra",
+          "start": 94.76,
+          "end": 95.48
+        },
+        {
+          "word": "acabará.",
+          "start": 95.48,
+          "end": 98.54
+        }
+      ],
+      "start": 93.84,
+      "end": 98.54,
+      "confidence": 0.712,
+      "time": 93.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "\"Mas el pueblo que a su Dios conoce,",
+      "words": [
+        {
+          "word": "Mas",
+          "start": 98.86,
+          "end": 99.38
+        },
+        {
+          "word": "el",
+          "start": 99.38,
+          "end": 99.68
+        },
+        {
+          "word": "pueblo,",
+          "start": 99.68,
+          "end": 100.68
+        },
+        {
+          "word": "que",
+          "start": 101.08,
+          "end": 101.22
+        },
+        {
+          "word": "a",
+          "start": 101.22,
+          "end": 101.44
+        },
+        {
+          "word": "su",
+          "start": 101.44,
+          "end": 101.64
+        },
+        {
+          "word": "dios",
+          "start": 101.64,
+          "end": 102.06
+        },
+        {
+          "word": "conoce,",
+          "start": 102.06,
+          "end": 103.82
+        }
+      ],
+      "start": 98.86,
+      "end": 104.44,
+      "confidence": 1.0,
+      "time": 98.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "se esforzará y hará\".",
+      "words": [
+        {
+          "word": "se",
+          "start": 104.44,
+          "end": 105.0
+        },
+        {
+          "word": "esforzará",
+          "start": 105.0,
+          "end": 106.82
+        },
+        {
+          "word": "y",
+          "start": 106.82,
+          "end": 107.54
+        },
+        {
+          "word": "hará.",
+          "start": 107.54,
+          "end": 109.2
+        }
+      ],
+      "start": 104.44,
+      "end": 109.2,
+      "confidence": 1.0,
+      "time": 104.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡De pie, de pie, oh pueblo!",
+      "words": [
+        {
+          "word": "de",
+          "start": 111.24,
+          "end": 111.7
+        },
+        {
+          "word": "pie,",
+          "start": 111.7,
+          "end": 112.38
+        },
+        {
+          "word": "oh",
+          "start": 112.54,
+          "end": 112.92
+        },
+        {
+          "word": "Pueblo,",
+          "start": 112.92,
+          "end": 114.64
+        }
+      ],
+      "start": 111.24,
+      "end": 115.7,
+      "confidence": 0.667,
+      "time": 111.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Conoces a tu Dios!",
+      "words": [
+        {
+          "word": "conoces",
+          "start": 115.7,
+          "end": 117.26
+        },
+        {
+          "word": "a",
+          "start": 117.26,
+          "end": 117.92
+        },
+        {
+          "word": "tu",
+          "start": 117.92,
+          "end": 118.36
+        },
+        {
+          "word": "Dios,",
+          "start": 118.36,
+          "end": 119.8
+        }
+      ],
+      "start": 115.7,
+      "end": 119.8,
+      "confidence": 1.0,
+      "time": 115.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Levántate y concluye",
+      "words": [
+        {
+          "word": "levántate",
+          "start": 121.5,
+          "end": 122.9
+        },
+        {
+          "word": "y",
+          "start": 122.9,
+          "end": 123.78
+        },
+        {
+          "word": "concluye",
+          "start": 123.78,
+          "end": 125.3
+        }
+      ],
+      "start": 121.5,
+      "end": 125.3,
+      "confidence": 1.0,
+      "time": 121.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "la obra que él te dio!",
+      "words": [
+        {
+          "word": "la",
+          "start": 125.3,
+          "end": 126.48
+        },
+        {
+          "word": "obra",
+          "start": 126.48,
+          "end": 127.64
+        },
+        {
+          "word": "del",
+          "start": 127.64,
+          "end": 128.7
+        }
+      ],
+      "start": 125.3,
+      "end": 130.16,
+      "confidence": 0.48,
+      "time": 125.3
+    }
+  ]
+}

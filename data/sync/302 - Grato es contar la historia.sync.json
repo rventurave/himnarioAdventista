@@ -1,0 +1,1346 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.927,
+  "language": "es",
+  "model": "medium",
+  "hymn": 302,
+  "source": "302 - Grato es contar la historia.mp3",
+  "duration": 278.52,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Grato es contar la historia de celestial favor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 29.98,
+          "end": 30.8
+        },
+        {
+          "word": "historia",
+          "start": 30.8,
+          "end": 32.82
+        },
+        {
+          "word": "de",
+          "start": 32.82,
+          "end": 33.82
+        },
+        {
+          "word": "favor",
+          "start": 35.96,
+          "end": 37.52
+        }
+      ],
+      "start": 29.98,
+      "end": 37.52,
+      "confidence": 0.5,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de Cristo y de su gloria, de Cristo y de su amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 37.52,
+          "end": 38.74
+        },
+        {
+          "word": "Cristo",
+          "start": 38.74,
+          "end": 39.8
+        },
+        {
+          "word": "y",
+          "start": 39.8,
+          "end": 40.32
+        },
+        {
+          "word": "de",
+          "start": 40.32,
+          "end": 40.66
+        },
+        {
+          "word": "su",
+          "start": 40.66,
+          "end": 41.3
+        },
+        {
+          "word": "gloria,",
+          "start": 41.3,
+          "end": 42.9
+        },
+        {
+          "word": "de",
+          "start": 43.52,
+          "end": 43.8
+        },
+        {
+          "word": "Cristo",
+          "start": 43.8,
+          "end": 44.84
+        },
+        {
+          "word": "y",
+          "start": 44.84,
+          "end": 45.38
+        },
+        {
+          "word": "de",
+          "start": 45.38,
+          "end": 45.72
+        },
+        {
+          "word": "su",
+          "start": 45.72,
+          "end": 46.28
+        },
+        {
+          "word": "amor.",
+          "start": 46.28,
+          "end": 47.9
+        }
+      ],
+      "start": 37.52,
+      "end": 47.9,
+      "confidence": 1.0,
+      "time": 37.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Me agrada referirla, pues sé que es la verdad;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Me",
+          "start": 47.9,
+          "end": 48.88
+        },
+        {
+          "word": "agrada",
+          "start": 48.88,
+          "end": 50.1
+        },
+        {
+          "word": "referirla,",
+          "start": 50.1,
+          "end": 53.12
+        },
+        {
+          "word": "pues",
+          "start": 53.4,
+          "end": 53.86
+        },
+        {
+          "word": "sé",
+          "start": 53.86,
+          "end": 54.8
+        },
+        {
+          "word": "que",
+          "start": 54.8,
+          "end": 55.12
+        },
+        {
+          "word": "es",
+          "start": 55.12,
+          "end": 55.66
+        },
+        {
+          "word": "la",
+          "start": 55.66,
+          "end": 56.02
+        },
+        {
+          "word": "verdad,",
+          "start": 56.02,
+          "end": 57.88
+        }
+      ],
+      "start": 47.9,
+      "end": 57.88,
+      "confidence": 1.0,
+      "time": 47.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y nada satisface cual ella mi ansiedad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 58.28,
+          "end": 59.1
+        },
+        {
+          "word": "nada",
+          "start": 59.1,
+          "end": 60.18
+        },
+        {
+          "word": "satisfazé",
+          "start": 60.18,
+          "end": 63.26
+        },
+        {
+          "word": "cual",
+          "start": 63.26,
+          "end": 64.26
+        },
+        {
+          "word": "ella",
+          "start": 64.26,
+          "end": 65.2
+        },
+        {
+          "word": "mi",
+          "start": 65.2,
+          "end": 65.96
+        },
+        {
+          "word": "ansiedad.",
+          "start": 65.96,
+          "end": 68.3
+        }
+      ],
+      "start": 58.28,
+      "end": 68.3,
+      "confidence": 0.99,
+      "time": 58.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Cuán bella es esta historia!",
+      "words": [
+        {
+          "word": "¡Cuán",
+          "start": 68.3,
+          "end": 69.38
+        },
+        {
+          "word": "bellas",
+          "start": 69.38,
+          "end": 70.36
+        },
+        {
+          "word": "esta",
+          "start": 70.36,
+          "end": 71.38
+        },
+        {
+          "word": "historia,",
+          "start": 71.38,
+          "end": 72.9
+        }
+      ],
+      "start": 68.3,
+      "end": 73.66,
+      "confidence": 0.788,
+      "time": 68.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Mi tema allá en la gloria",
+      "words": [
+        {
+          "word": "mi",
+          "start": 73.66,
+          "end": 74.1
+        },
+        {
+          "word": "tema",
+          "start": 74.1,
+          "end": 75.26
+        },
+        {
+          "word": "en",
+          "start": 75.96,
+          "end": 76.4
+        },
+        {
+          "word": "la",
+          "start": 76.4,
+          "end": 76.76
+        },
+        {
+          "word": "gloria!",
+          "start": 76.76,
+          "end": 78.16
+        }
+      ],
+      "start": 73.66,
+      "end": 78.16,
+      "confidence": 0.833,
+      "time": 73.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "será ensalzar la historia de Cristo y de su amor.",
+      "words": [
+        {
+          "word": "Se",
+          "start": 78.78,
+          "end": 79.26
+        },
+        {
+          "word": "alzar",
+          "start": 80.38,
+          "end": 81.04
+        },
+        {
+          "word": "la",
+          "start": 81.04,
+          "end": 81.76
+        },
+        {
+          "word": "historia",
+          "start": 81.76,
+          "end": 83.18
+        },
+        {
+          "word": "de",
+          "start": 83.18,
+          "end": 84.22
+        },
+        {
+          "word": "Cristo",
+          "start": 84.22,
+          "end": 85.12
+        },
+        {
+          "word": "y",
+          "start": 85.12,
+          "end": 85.78
+        },
+        {
+          "word": "de",
+          "start": 85.78,
+          "end": 86.48
+        },
+        {
+          "word": "su",
+          "start": 86.48,
+          "end": 86.8
+        },
+        {
+          "word": "amor.",
+          "start": 86.8,
+          "end": 88.68
+        }
+      ],
+      "start": 78.78,
+      "end": 88.68,
+      "confidence": 0.98,
+      "time": 78.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Grato es contar la historia más bella que escuché,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Grato",
+          "start": 88.68,
+          "end": 90.9
+        },
+        {
+          "word": "es",
+          "start": 90.9,
+          "end": 91.6
+        },
+        {
+          "word": "contar",
+          "start": 91.6,
+          "end": 92.44
+        },
+        {
+          "word": "la",
+          "start": 92.44,
+          "end": 93.06
+        },
+        {
+          "word": "historia",
+          "start": 93.06,
+          "end": 94.58
+        },
+        {
+          "word": "más",
+          "start": 94.58,
+          "end": 95.62
+        },
+        {
+          "word": "bella",
+          "start": 95.62,
+          "end": 96.8
+        },
+        {
+          "word": "que",
+          "start": 96.8,
+          "end": 97.56
+        },
+        {
+          "word": "escuché,",
+          "start": 97.56,
+          "end": 99.56
+        }
+      ],
+      "start": 88.68,
+      "end": 99.56,
+      "confidence": 1.0,
+      "time": 88.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "más áurea, más hermosa que cuanto yo soñé.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "más",
+          "start": 100.06,
+          "end": 100.96
+        },
+        {
+          "word": "más",
+          "start": 101.96,
+          "end": 102.88
+        },
+        {
+          "word": "hermosa",
+          "start": 102.88,
+          "end": 105.04
+        },
+        {
+          "word": "cuanto",
+          "start": 105.72,
+          "end": 106.88
+        },
+        {
+          "word": "yo",
+          "start": 106.88,
+          "end": 107.76
+        },
+        {
+          "word": "soñé.",
+          "start": 107.76,
+          "end": 109.72
+        }
+      ],
+      "start": 100.06,
+      "end": 109.72,
+      "confidence": 0.75,
+      "time": 100.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Contarla siempre anhelo, pues hay quien nunca oyó",
+      "verse": 2,
+      "words": [
+        {
+          "word": "contarla",
+          "start": 109.72,
+          "end": 111.86
+        },
+        {
+          "word": "siempre",
+          "start": 111.86,
+          "end": 112.98
+        },
+        {
+          "word": "a",
+          "start": 112.98,
+          "end": 113.54
+        },
+        {
+          "word": "pues",
+          "start": 115.34,
+          "end": 116.0
+        },
+        {
+          "word": "hay",
+          "start": 116.0,
+          "end": 116.82
+        },
+        {
+          "word": "que",
+          "start": 116.82,
+          "end": 117.1
+        },
+        {
+          "word": "nunca",
+          "start": 117.1,
+          "end": 118.22
+        },
+        {
+          "word": "oyó",
+          "start": 118.22,
+          "end": 119.9
+        }
+      ],
+      "start": 109.72,
+      "end": 119.9,
+      "confidence": 0.974,
+      "time": 109.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que, para redimirle, el buen Jesús murió.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 119.9,
+          "end": 120.9
+        },
+        {
+          "word": "para",
+          "start": 120.9,
+          "end": 122.16
+        },
+        {
+          "word": "redivirle",
+          "start": 122.16,
+          "end": 125.26
+        },
+        {
+          "word": "el",
+          "start": 125.26,
+          "end": 125.96
+        },
+        {
+          "word": "buen",
+          "start": 125.96,
+          "end": 126.86
+        },
+        {
+          "word": "Jesús",
+          "start": 126.86,
+          "end": 128.14
+        },
+        {
+          "word": "murió.",
+          "start": 128.14,
+          "end": 130.1
+        }
+      ],
+      "start": 119.9,
+      "end": 130.1,
+      "confidence": 0.99,
+      "time": 119.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Cuán bella es esta historia!",
+      "words": [
+        {
+          "word": "¡Cuán",
+          "start": 130.1,
+          "end": 131.22
+        },
+        {
+          "word": "bella",
+          "start": 131.22,
+          "end": 132.06
+        },
+        {
+          "word": "es",
+          "start": 132.06,
+          "end": 132.82
+        },
+        {
+          "word": "esta",
+          "start": 132.82,
+          "end": 133.38
+        },
+        {
+          "word": "historia!",
+          "start": 133.38,
+          "end": 134.78
+        }
+      ],
+      "start": 130.1,
+      "end": 135.68,
+      "confidence": 1.0,
+      "time": 130.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Mi tema allá en la gloria",
+      "words": [
+        {
+          "word": "Mi",
+          "start": 135.68,
+          "end": 136.08
+        },
+        {
+          "word": "tema",
+          "start": 136.08,
+          "end": 137.24
+        },
+        {
+          "word": "en",
+          "start": 137.8,
+          "end": 138.34
+        },
+        {
+          "word": "la",
+          "start": 138.34,
+          "end": 138.7
+        },
+        {
+          "word": "gloria",
+          "start": 138.7,
+          "end": 140.22
+        }
+      ],
+      "start": 135.68,
+      "end": 140.22,
+      "confidence": 0.833,
+      "time": 135.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "será ensalzar la historia de Cristo y de su amor.",
+      "words": [
+        {
+          "word": "será",
+          "start": 140.22,
+          "end": 141.9
+        },
+        {
+          "word": "ensalzar",
+          "start": 141.9,
+          "end": 142.96
+        },
+        {
+          "word": "la",
+          "start": 142.96,
+          "end": 143.58
+        },
+        {
+          "word": "historia",
+          "start": 143.58,
+          "end": 145.22
+        },
+        {
+          "word": "de",
+          "start": 145.22,
+          "end": 146.16
+        },
+        {
+          "word": "Cristo",
+          "start": 146.16,
+          "end": 146.96
+        },
+        {
+          "word": "y",
+          "start": 146.96,
+          "end": 147.58
+        },
+        {
+          "word": "de",
+          "start": 147.58,
+          "end": 148.38
+        },
+        {
+          "word": "su",
+          "start": 148.38,
+          "end": 148.68
+        },
+        {
+          "word": "amor.",
+          "start": 148.68,
+          "end": 150.68
+        }
+      ],
+      "start": 140.22,
+      "end": 150.68,
+      "confidence": 1.0,
+      "time": 140.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Grato es contar la historia que placentera es",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Grato",
+          "start": 150.68,
+          "end": 153.48
+        },
+        {
+          "word": "es",
+          "start": 153.48,
+          "end": 154.14
+        },
+        {
+          "word": "contar",
+          "start": 154.14,
+          "end": 155.0
+        },
+        {
+          "word": "la",
+          "start": 155.0,
+          "end": 155.66
+        },
+        {
+          "word": "historia",
+          "start": 155.66,
+          "end": 157.24
+        },
+        {
+          "word": "que",
+          "start": 157.24,
+          "end": 158.24
+        },
+        {
+          "word": "placentera",
+          "start": 158.24,
+          "end": 160.62
+        },
+        {
+          "word": "es",
+          "start": 160.62,
+          "end": 162.18
+        }
+      ],
+      "start": 150.68,
+      "end": 162.18,
+      "confidence": 1.0,
+      "time": 150.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y es más, al repetirla, preciosa cada vez.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 162.18,
+          "end": 163.02
+        },
+        {
+          "word": "es",
+          "start": 163.02,
+          "end": 163.88
+        },
+        {
+          "word": "más",
+          "start": 163.88,
+          "end": 164.24
+        },
+        {
+          "word": "al",
+          "start": 164.24,
+          "end": 164.88
+        },
+        {
+          "word": "repetirla",
+          "start": 164.88,
+          "end": 167.6
+        },
+        {
+          "word": "preciosa",
+          "start": 167.6,
+          "end": 169.56
+        },
+        {
+          "word": "cada",
+          "start": 169.56,
+          "end": 170.94
+        },
+        {
+          "word": "vez.",
+          "start": 170.94,
+          "end": 171.68
+        }
+      ],
+      "start": 162.18,
+      "end": 171.68,
+      "confidence": 1.0,
+      "time": 162.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "La historia, pues, que canto, oíd con atención,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "La",
+          "start": 171.68,
+          "end": 173.02
+        },
+        {
+          "word": "historia",
+          "start": 173.02,
+          "end": 174.56
+        },
+        {
+          "word": "pues",
+          "start": 174.56,
+          "end": 175.38
+        },
+        {
+          "word": "que",
+          "start": 175.38,
+          "end": 176.04
+        },
+        {
+          "word": "cantó,",
+          "start": 176.04,
+          "end": 177.84
+        },
+        {
+          "word": "oíd",
+          "start": 178.2,
+          "end": 179.3
+        },
+        {
+          "word": "con",
+          "start": 179.3,
+          "end": 179.9
+        },
+        {
+          "word": "atención,",
+          "start": 179.9,
+          "end": 181.68
+        }
+      ],
+      "start": 171.68,
+      "end": 181.68,
+      "confidence": 1.0,
+      "time": 171.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "porque es mensaje santo de eterna salvación.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "porque",
+          "start": 183.46,
+          "end": 184.02
+        },
+        {
+          "word": "es",
+          "start": 184.02,
+          "end": 184.64
+        },
+        {
+          "word": "mensaje",
+          "start": 184.64,
+          "end": 185.9
+        },
+        {
+          "word": "santo",
+          "start": 185.9,
+          "end": 187.7
+        },
+        {
+          "word": "de",
+          "start": 187.7,
+          "end": 188.48
+        },
+        {
+          "word": "eterna",
+          "start": 188.48,
+          "end": 189.76
+        },
+        {
+          "word": "salvación.",
+          "start": 189.76,
+          "end": 191.68
+        }
+      ],
+      "start": 183.46,
+      "end": 191.68,
+      "confidence": 1.0,
+      "time": 183.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Cuán bella es esta historia!",
+      "words": [
+        {
+          "word": "Cuán",
+          "start": 191.68,
+          "end": 193.74
+        },
+        {
+          "word": "bella",
+          "start": 193.74,
+          "end": 194.62
+        },
+        {
+          "word": "es",
+          "start": 194.62,
+          "end": 195.4
+        },
+        {
+          "word": "esta",
+          "start": 195.4,
+          "end": 195.9
+        },
+        {
+          "word": "historia,",
+          "start": 195.9,
+          "end": 197.62
+        }
+      ],
+      "start": 191.68,
+      "end": 198.38,
+      "confidence": 1.0,
+      "time": 191.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Mi tema allá en la gloria",
+      "words": [
+        {
+          "word": "mi",
+          "start": 198.38,
+          "end": 198.62
+        },
+        {
+          "word": "tema",
+          "start": 198.62,
+          "end": 199.78
+        },
+        {
+          "word": "en",
+          "start": 200.36,
+          "end": 200.78
+        },
+        {
+          "word": "la",
+          "start": 200.78,
+          "end": 201.34
+        },
+        {
+          "word": "gloria,",
+          "start": 201.34,
+          "end": 202.68
+        }
+      ],
+      "start": 198.38,
+      "end": 203.28,
+      "confidence": 0.833,
+      "time": 198.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "será ensalzar la historia de Cristo y de su amor.",
+      "words": [
+        {
+          "word": "será",
+          "start": 203.28,
+          "end": 204.4
+        },
+        {
+          "word": "ensalzar",
+          "start": 204.4,
+          "end": 205.48
+        },
+        {
+          "word": "la",
+          "start": 205.48,
+          "end": 206.1
+        },
+        {
+          "word": "historia",
+          "start": 206.1,
+          "end": 207.58
+        },
+        {
+          "word": "de",
+          "start": 207.58,
+          "end": 208.68
+        },
+        {
+          "word": "Cristo",
+          "start": 208.68,
+          "end": 209.52
+        },
+        {
+          "word": "y",
+          "start": 209.52,
+          "end": 210.28
+        },
+        {
+          "word": "de",
+          "start": 210.28,
+          "end": 210.9
+        },
+        {
+          "word": "su",
+          "start": 210.9,
+          "end": 211.28
+        },
+        {
+          "word": "amor.",
+          "start": 211.28,
+          "end": 213.16
+        }
+      ],
+      "start": 203.28,
+      "end": 213.16,
+      "confidence": 1.0,
+      "time": 203.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Grato es contar la historia de todas la mejor,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Grato",
+          "start": 213.16,
+          "end": 215.22
+        },
+        {
+          "word": "es",
+          "start": 215.22,
+          "end": 215.96
+        },
+        {
+          "word": "contar",
+          "start": 215.96,
+          "end": 216.8
+        },
+        {
+          "word": "la",
+          "start": 216.8,
+          "end": 217.46
+        },
+        {
+          "word": "historia",
+          "start": 217.46,
+          "end": 219.06
+        },
+        {
+          "word": "de",
+          "start": 219.06,
+          "end": 220.1
+        },
+        {
+          "word": "todas",
+          "start": 220.1,
+          "end": 221.2
+        },
+        {
+          "word": "la",
+          "start": 221.2,
+          "end": 222.06
+        },
+        {
+          "word": "mejor,",
+          "start": 222.06,
+          "end": 223.9
+        }
+      ],
+      "start": 213.16,
+      "end": 225.08,
+      "confidence": 1.0,
+      "time": 213.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "que cuanto más se escucha, infunde más amor.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "cuanto",
+          "start": 225.08,
+          "end": 226.2
+        },
+        {
+          "word": "más",
+          "start": 226.2,
+          "end": 227.12
+        },
+        {
+          "word": "se",
+          "start": 227.12,
+          "end": 227.68
+        },
+        {
+          "word": "escucha,",
+          "start": 227.68,
+          "end": 229.4
+        },
+        {
+          "word": "infunde",
+          "start": 230.1,
+          "end": 231.26
+        },
+        {
+          "word": "más",
+          "start": 231.26,
+          "end": 232.14
+        },
+        {
+          "word": "amor,",
+          "start": 232.14,
+          "end": 233.94
+        }
+      ],
+      "start": 225.08,
+      "end": 233.94,
+      "confidence": 0.875,
+      "time": 225.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Y cuando allá en la gloria entone mi cantar,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 233.94,
+          "end": 235.06
+        },
+        {
+          "word": "cuando",
+          "start": 235.06,
+          "end": 236.26
+        },
+        {
+          "word": "la",
+          "start": 236.96,
+          "end": 237.84
+        },
+        {
+          "word": "gloria",
+          "start": 237.84,
+          "end": 239.36
+        },
+        {
+          "word": "dentro",
+          "start": 239.36,
+          "end": 241.18
+        },
+        {
+          "word": "mí",
+          "start": 241.54,
+          "end": 242.06
+        },
+        {
+          "word": "cantar",
+          "start": 242.06,
+          "end": 244.32
+        }
+      ],
+      "start": 233.94,
+      "end": 244.32,
+      "confidence": 0.756,
+      "time": 233.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "será la misma historia que tanto supe amar.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "será",
+          "start": 244.32,
+          "end": 245.84
+        },
+        {
+          "word": "la",
+          "start": 245.84,
+          "end": 246.68
+        },
+        {
+          "word": "misma",
+          "start": 246.68,
+          "end": 247.46
+        },
+        {
+          "word": "historia",
+          "start": 247.46,
+          "end": 248.96
+        },
+        {
+          "word": "que",
+          "start": 248.96,
+          "end": 250.32
+        },
+        {
+          "word": "tanto",
+          "start": 250.32,
+          "end": 251.52
+        },
+        {
+          "word": "supe",
+          "start": 251.52,
+          "end": 252.88
+        },
+        {
+          "word": "amar",
+          "start": 252.88,
+          "end": 253.94
+        }
+      ],
+      "start": 244.32,
+      "end": 253.94,
+      "confidence": 1.0,
+      "time": 244.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Cuán bella es esta historia!",
+      "words": [
+        {
+          "word": "¡Cuán",
+          "start": 253.94,
+          "end": 255.84
+        },
+        {
+          "word": "bella",
+          "start": 255.84,
+          "end": 256.54
+        },
+        {
+          "word": "es",
+          "start": 256.54,
+          "end": 257.14
+        },
+        {
+          "word": "esta",
+          "start": 257.14,
+          "end": 257.78
+        },
+        {
+          "word": "historia!",
+          "start": 257.78,
+          "end": 258.84
+        }
+      ],
+      "start": 253.94,
+      "end": 258.84,
+      "confidence": 1.0,
+      "time": 253.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Mi tema allá en la gloria",
+      "words": [
+        {
+          "word": "Mi",
+          "start": 260.08,
+          "end": 260.44
+        },
+        {
+          "word": "tema",
+          "start": 260.44,
+          "end": 261.6
+        },
+        {
+          "word": "la",
+          "start": 262.18,
+          "end": 262.78
+        },
+        {
+          "word": "gloria",
+          "start": 262.78,
+          "end": 263.94
+        }
+      ],
+      "start": 260.08,
+      "end": 263.94,
+      "confidence": 0.667,
+      "time": 260.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "será ensalzar la historia de Cristo y de su amor.",
+      "words": [
+        {
+          "word": "será",
+          "start": 264.5,
+          "end": 266.26
+        },
+        {
+          "word": "ensalzar",
+          "start": 266.26,
+          "end": 267.42
+        },
+        {
+          "word": "la",
+          "start": 267.42,
+          "end": 267.92
+        },
+        {
+          "word": "historia",
+          "start": 267.92,
+          "end": 268.94
+        },
+        {
+          "word": "de",
+          "start": 269.46,
+          "end": 270.52
+        },
+        {
+          "word": "Cristo",
+          "start": 270.52,
+          "end": 271.62
+        },
+        {
+          "word": "y",
+          "start": 271.62,
+          "end": 272.32
+        },
+        {
+          "word": "de",
+          "start": 272.32,
+          "end": 272.84
+        },
+        {
+          "word": "su",
+          "start": 272.84,
+          "end": 273.2
+        },
+        {
+          "word": "amor.",
+          "start": 273.2,
+          "end": 274.88
+        }
+      ],
+      "start": 264.5,
+      "end": 274.88,
+      "confidence": 1.0,
+      "time": 264.5
+    }
+  ]
+}

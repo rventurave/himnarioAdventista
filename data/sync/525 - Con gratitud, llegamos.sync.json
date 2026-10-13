@@ -1,0 +1,366 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.999,
+  "language": "es",
+  "model": "medium",
+  "hymn": 525,
+  "source": "525 - Con gratitud, llegamos.mp3",
+  "duration": 79.23,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Con gratitud, llegamos",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Con",
+          "start": 9.38,
+          "end": 10.78
+        },
+        {
+          "word": "gratitud",
+          "start": 10.78,
+          "end": 12.18
+        },
+        {
+          "word": "llegamos",
+          "start": 12.18,
+          "end": 14.68
+        }
+      ],
+      "start": 9.38,
+      "end": 14.68,
+      "confidence": 1.0,
+      "time": 9.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a tu altar, Señor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 14.68,
+          "end": 15.7
+        },
+        {
+          "word": "tu",
+          "start": 15.7,
+          "end": 16.22
+        },
+        {
+          "word": "altar,",
+          "start": 16.22,
+          "end": 17.52
+        },
+        {
+          "word": "Señor,",
+          "start": 17.54,
+          "end": 19.86
+        }
+      ],
+      "start": 14.68,
+      "end": 20.78,
+      "confidence": 1.0,
+      "time": 14.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "gozosos te adoramos,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "gozosos",
+          "start": 20.78,
+          "end": 22.32
+        },
+        {
+          "word": "te",
+          "start": 22.32,
+          "end": 23.02
+        },
+        {
+          "word": "adoramos,",
+          "start": 23.02,
+          "end": 25.56
+        }
+      ],
+      "start": 20.78,
+      "end": 26.04,
+      "confidence": 1.0,
+      "time": 20.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cantamos con fervor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cantamos",
+          "start": 26.04,
+          "end": 27.74
+        },
+        {
+          "word": "con",
+          "start": 27.74,
+          "end": 28.64
+        },
+        {
+          "word": "fervor.",
+          "start": 28.64,
+          "end": 29.98
+        }
+      ],
+      "start": 26.04,
+      "end": 29.98,
+      "confidence": 1.0,
+      "time": 26.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Queremos devolverte",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Queremos",
+          "start": 34.02,
+          "end": 35.42
+        },
+        {
+          "word": "devolverte",
+          "start": 35.42,
+          "end": 36.82
+        }
+      ],
+      "start": 34.02,
+      "end": 36.82,
+      "confidence": 1.0,
+      "time": 34.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "el diezmo sin tardar;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 36.82,
+          "end": 37.4
+        },
+        {
+          "word": "diezmo",
+          "start": 37.4,
+          "end": 38.6
+        },
+        {
+          "word": "sin",
+          "start": 38.6,
+          "end": 39.38
+        },
+        {
+          "word": "tardar,",
+          "start": 39.38,
+          "end": 41.0
+        }
+      ],
+      "start": 36.82,
+      "end": 41.0,
+      "confidence": 1.0,
+      "time": 36.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "por eso hoy, fielmente,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "por",
+          "start": 42.56,
+          "end": 43.18
+        },
+        {
+          "word": "eso",
+          "start": 43.18,
+          "end": 44.16
+        },
+        {
+          "word": "hoy",
+          "start": 44.16,
+          "end": 44.82
+        },
+        {
+          "word": "fielmente",
+          "start": 44.82,
+          "end": 47.26
+        }
+      ],
+      "start": 42.56,
+      "end": 47.26,
+      "confidence": 1.0,
+      "time": 42.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "lo vamos a entregar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "lo",
+          "start": 47.26,
+          "end": 48.16
+        },
+        {
+          "word": "vamos",
+          "start": 48.16,
+          "end": 49.5
+        },
+        {
+          "word": "a",
+          "start": 49.5,
+          "end": 50.38
+        },
+        {
+          "word": "entregar.",
+          "start": 50.38,
+          "end": 52.0
+        }
+      ],
+      "start": 47.26,
+      "end": 52.0,
+      "confidence": 1.0,
+      "time": 47.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Con gozo, nuestra ofrenda",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Con",
+          "start": 52.0,
+          "end": 53.9
+        },
+        {
+          "word": "gozo",
+          "start": 53.9,
+          "end": 55.1
+        },
+        {
+          "word": "nuestra",
+          "start": 55.1,
+          "end": 56.1
+        },
+        {
+          "word": "ofrenda",
+          "start": 56.1,
+          "end": 58.54
+        }
+      ],
+      "start": 52.0,
+      "end": 58.54,
+      "confidence": 1.0,
+      "time": 52.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "te damos, oh Señor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "te",
+          "start": 58.54,
+          "end": 59.32
+        },
+        {
+          "word": "damos,",
+          "start": 59.32,
+          "end": 60.58
+        },
+        {
+          "word": "oh",
+          "start": 60.62,
+          "end": 61.5
+        },
+        {
+          "word": "Señor,",
+          "start": 61.5,
+          "end": 63.44
+        }
+      ],
+      "start": 58.54,
+      "end": 64.78,
+      "confidence": 1.0,
+      "time": 58.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "acéptala cual prenda",
+      "verse": 3,
+      "words": [
+        {
+          "word": "acepta",
+          "start": 64.78,
+          "end": 66.28
+        },
+        {
+          "word": "cual",
+          "start": 66.8,
+          "end": 67.4
+        },
+        {
+          "word": "prenda",
+          "start": 67.4,
+          "end": 69.52
+        }
+      ],
+      "start": 64.78,
+      "end": 69.52,
+      "confidence": 0.98,
+      "time": 64.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de todo nuestro amor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 69.52,
+          "end": 70.38
+        },
+        {
+          "word": "todo",
+          "start": 70.38,
+          "end": 71.6
+        },
+        {
+          "word": "nuestro",
+          "start": 71.6,
+          "end": 72.6
+        },
+        {
+          "word": "amor.",
+          "start": 72.6,
+          "end": 75.14
+        }
+      ],
+      "start": 69.52,
+      "end": 75.14,
+      "confidence": 1.0,
+      "time": 69.52
+    }
+  ]
+}

@@ -1,0 +1,729 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.73,
+  "language": "es",
+  "model": "medium",
+  "hymn": 218,
+  "source": "218 - A Jesucristo ven sin tardar.mp3",
+  "duration": 142.03,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "A Jesucristo ven sin tardar,",
+      "verse": 1,
+      "start": 0.0,
+      "end": 10.72,
+      "confidence": 0.0,
+      "time": 0.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que entre nosotros hoy él está;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Este",
+          "start": 10.72,
+          "end": 12.12
+        },
+        {
+          "word": "el",
+          "start": 12.12,
+          "end": 12.12
+        }
+      ],
+      "start": 10.72,
+      "end": 29.98,
+      "confidence": 0.3,
+      "time": 10.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y te convida con dulce afán,",
+      "verse": 1,
+      "start": 29.98,
+      "end": 30.18,
+      "confidence": 0.0,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tierno diciendo: \"Ven\".",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 12.12,
+          "end": 12.12
+        }
+      ],
+      "start": 30.18,
+      "end": 30.38,
+      "confidence": 0.293,
+      "time": 30.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, cuán grata nuestra reunión,",
+      "words": [
+        {
+          "word": "O",
+          "start": 32.44,
+          "end": 33.72
+        },
+        {
+          "word": "contrata",
+          "start": 33.72,
+          "end": 35.0
+        },
+        {
+          "word": "nuestra",
+          "start": 35.0,
+          "end": 35.64
+        },
+        {
+          "word": "reunión,",
+          "start": 35.64,
+          "end": 37.54
+        }
+      ],
+      "start": 32.44,
+      "end": 38.06,
+      "confidence": 0.714,
+      "time": 32.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "cuando allá, Señor, en tu mansión,",
+      "words": [
+        {
+          "word": "cuando",
+          "start": 38.06,
+          "end": 38.7
+        },
+        {
+          "word": "Señor,",
+          "start": 40.38,
+          "end": 40.78
+        },
+        {
+          "word": "en",
+          "start": 41.08,
+          "end": 41.2
+        },
+        {
+          "word": "tu",
+          "start": 41.2,
+          "end": 41.46
+        },
+        {
+          "word": "mansión,",
+          "start": 41.46,
+          "end": 42.96
+        }
+      ],
+      "start": 38.06,
+      "end": 43.66,
+      "confidence": 0.833,
+      "time": 38.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "contigo estemos en comunión",
+      "words": [
+        {
+          "word": "contigo",
+          "start": 43.66,
+          "end": 44.3
+        },
+        {
+          "word": "estemos",
+          "start": 44.3,
+          "end": 45.74
+        },
+        {
+          "word": "en",
+          "start": 45.74,
+          "end": 46.54
+        },
+        {
+          "word": "comunión,",
+          "start": 46.54,
+          "end": 48.34
+        }
+      ],
+      "start": 43.66,
+      "end": 48.34,
+      "confidence": 1.0,
+      "time": 43.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "gozando eterno bien!",
+      "words": [
+        {
+          "word": "eterno",
+          "start": 49.88,
+          "end": 52.58
+        },
+        {
+          "word": "bien.",
+          "start": 52.58,
+          "end": 53.4
+        }
+      ],
+      "start": 49.88,
+      "end": 53.4,
+      "confidence": 0.667,
+      "time": 49.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Piensa que él solo puede colmar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Piensa",
+          "start": 54.04,
+          "end": 55.0
+        },
+        {
+          "word": "que",
+          "start": 55.0,
+          "end": 55.22
+        },
+        {
+          "word": "el",
+          "start": 55.22,
+          "end": 55.52
+        },
+        {
+          "word": "sol",
+          "start": 55.52,
+          "end": 56.14
+        },
+        {
+          "word": "puede",
+          "start": 56.76,
+          "end": 57.6
+        },
+        {
+          "word": "colmar",
+          "start": 57.6,
+          "end": 59.08
+        }
+      ],
+      "start": 54.04,
+      "end": 59.08,
+      "confidence": 0.99,
+      "time": 54.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu triste pecho de gozo y paz;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tu",
+          "start": 59.08,
+          "end": 59.88
+        },
+        {
+          "word": "triste",
+          "start": 59.88,
+          "end": 60.5
+        },
+        {
+          "word": "pecho",
+          "start": 60.5,
+          "end": 61.92
+        },
+        {
+          "word": "de",
+          "start": 61.92,
+          "end": 62.66
+        },
+        {
+          "word": "gozo",
+          "start": 62.66,
+          "end": 63.22
+        },
+        {
+          "word": "y",
+          "start": 63.22,
+          "end": 63.48
+        },
+        {
+          "word": "paz",
+          "start": 63.48,
+          "end": 64.32
+        }
+      ],
+      "start": 59.08,
+      "end": 64.32,
+      "confidence": 1.0,
+      "time": 59.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y porque anhela tu bienestar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 64.32,
+          "end": 65.4
+        },
+        {
+          "word": "por",
+          "start": 65.4,
+          "end": 65.76
+        },
+        {
+          "word": "tu",
+          "start": 67.3,
+          "end": 67.98
+        },
+        {
+          "word": "bienestar",
+          "start": 67.98,
+          "end": 69.78
+        }
+      ],
+      "start": 64.32,
+      "end": 69.78,
+      "confidence": 0.788,
+      "time": 64.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "vuelve a decirte: \"Ven\".",
+      "verse": 2,
+      "words": [
+        {
+          "word": "vuelve",
+          "start": 69.78,
+          "end": 71.0
+        },
+        {
+          "word": "a",
+          "start": 71.0,
+          "end": 71.26
+        },
+        {
+          "word": "decirte",
+          "start": 71.26,
+          "end": 72.86
+        }
+      ],
+      "start": 69.78,
+      "end": 74.7,
+      "confidence": 0.75,
+      "time": 69.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, cuán grata nuestra reunión,",
+      "words": [
+        {
+          "word": "O",
+          "start": 74.7,
+          "end": 76.14
+        },
+        {
+          "word": "congrato",
+          "start": 76.14,
+          "end": 77.88
+        },
+        {
+          "word": "nuestra",
+          "start": 78.16,
+          "end": 78.66
+        },
+        {
+          "word": "reunión,",
+          "start": 78.66,
+          "end": 80.62
+        }
+      ],
+      "start": 74.7,
+      "end": 82.9,
+      "confidence": 0.714,
+      "time": 74.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "cuando allá, Señor, en tu mansión,",
+      "words": [
+        {
+          "word": "Señor",
+          "start": 82.9,
+          "end": 83.74
+        },
+        {
+          "word": "en",
+          "start": 83.74,
+          "end": 84.12
+        },
+        {
+          "word": "tu",
+          "start": 84.12,
+          "end": 84.38
+        },
+        {
+          "word": "marción,",
+          "start": 84.38,
+          "end": 85.78
+        }
+      ],
+      "start": 82.9,
+      "end": 86.6,
+      "confidence": 0.638,
+      "time": 82.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "contigo estemos en comunión",
+      "words": [
+        {
+          "word": "contigo",
+          "start": 86.6,
+          "end": 87.24
+        },
+        {
+          "word": "estemos",
+          "start": 87.24,
+          "end": 88.58
+        },
+        {
+          "word": "en",
+          "start": 88.58,
+          "end": 89.56
+        },
+        {
+          "word": "comunión,",
+          "start": 89.56,
+          "end": 91.08
+        }
+      ],
+      "start": 86.6,
+      "end": 91.78,
+      "confidence": 1.0,
+      "time": 86.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "gozando eterno bien!",
+      "words": [
+        {
+          "word": "gusando",
+          "start": 91.78,
+          "end": 92.54
+        },
+        {
+          "word": "eterno",
+          "start": 92.54,
+          "end": 95.06
+        },
+        {
+          "word": "bien.",
+          "start": 95.06,
+          "end": 96.02
+        }
+      ],
+      "start": 91.78,
+      "end": 96.02,
+      "confidence": 0.943,
+      "time": 91.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Su voz escucha sin vacilar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Su",
+          "start": 96.02,
+          "end": 97.64
+        },
+        {
+          "word": "voz",
+          "start": 97.64,
+          "end": 98.22
+        },
+        {
+          "word": "escucha",
+          "start": 98.48,
+          "end": 99.58
+        },
+        {
+          "word": "sin",
+          "start": 99.58,
+          "end": 100.36
+        },
+        {
+          "word": "vacilar,",
+          "start": 100.36,
+          "end": 102.0
+        }
+      ],
+      "start": 96.02,
+      "end": 102.9,
+      "confidence": 1.0,
+      "time": 96.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y grato acepta lo que hoy te da.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 102.9,
+          "end": 103.22
+        },
+        {
+          "word": "grato",
+          "start": 103.22,
+          "end": 103.6
+        },
+        {
+          "word": "acepta",
+          "start": 103.6,
+          "end": 105.0
+        },
+        {
+          "word": "lo",
+          "start": 105.0,
+          "end": 105.64
+        },
+        {
+          "word": "que",
+          "start": 105.64,
+          "end": 105.92
+        },
+        {
+          "word": "hoy",
+          "start": 105.92,
+          "end": 106.14
+        },
+        {
+          "word": "te",
+          "start": 106.14,
+          "end": 106.56
+        },
+        {
+          "word": "da.",
+          "start": 106.56,
+          "end": 107.26
+        }
+      ],
+      "start": 102.9,
+      "end": 107.26,
+      "confidence": 1.0,
+      "time": 102.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Tal vez mañana no habrá lugar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tal",
+          "start": 107.76,
+          "end": 108.44
+        },
+        {
+          "word": "vez",
+          "start": 108.44,
+          "end": 108.86
+        },
+        {
+          "word": "mañana",
+          "start": 108.86,
+          "end": 110.12
+        },
+        {
+          "word": "no",
+          "start": 110.12,
+          "end": 110.96
+        },
+        {
+          "word": "habrá",
+          "start": 110.96,
+          "end": 111.42
+        },
+        {
+          "word": "lugar,",
+          "start": 111.42,
+          "end": 112.56
+        }
+      ],
+      "start": 107.76,
+      "end": 113.3,
+      "confidence": 1.0,
+      "time": 107.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "No te detengas; ven.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "no",
+          "start": 113.3,
+          "end": 113.64
+        },
+        {
+          "word": "te",
+          "start": 113.64,
+          "end": 114.22
+        },
+        {
+          "word": "detengas",
+          "start": 114.22,
+          "end": 115.86
+        }
+      ],
+      "start": 113.3,
+      "end": 117.94,
+      "confidence": 0.75,
+      "time": 113.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, cuán grata nuestra reunión,",
+      "words": [
+        {
+          "word": "nuestra",
+          "start": 121.16,
+          "end": 121.62
+        },
+        {
+          "word": "reunión",
+          "start": 121.62,
+          "end": 123.5
+        }
+      ],
+      "start": 121.16,
+      "end": 123.5,
+      "confidence": 0.4,
+      "time": 121.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "cuando allá, Señor, en tu mansión,",
+      "words": [
+        {
+          "word": "Maldalya,",
+          "start": 123.5,
+          "end": 126.0
+        },
+        {
+          "word": "Señor,",
+          "start": 126.12,
+          "end": 126.74
+        },
+        {
+          "word": "en",
+          "start": 126.98,
+          "end": 127.24
+        },
+        {
+          "word": "Tu",
+          "start": 127.24,
+          "end": 127.38
+        },
+        {
+          "word": "pasión",
+          "start": 127.38,
+          "end": 128.98
+        }
+      ],
+      "start": 123.5,
+      "end": 128.98,
+      "confidence": 0.777,
+      "time": 123.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "contigo estemos en comunión",
+      "words": [
+        {
+          "word": "Contigo",
+          "start": 128.98,
+          "end": 130.32
+        },
+        {
+          "word": "estemos",
+          "start": 130.32,
+          "end": 131.7
+        },
+        {
+          "word": "en",
+          "start": 131.7,
+          "end": 132.6
+        },
+        {
+          "word": "comunión",
+          "start": 132.6,
+          "end": 134.16
+        }
+      ],
+      "start": 128.98,
+      "end": 134.16,
+      "confidence": 1.0,
+      "time": 128.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "gozando eterno bien!",
+      "words": [
+        {
+          "word": "Luzando",
+          "start": 134.16,
+          "end": 135.62
+        },
+        {
+          "word": "eterno",
+          "start": 135.62,
+          "end": 138.02
+        },
+        {
+          "word": "bien",
+          "start": 138.02,
+          "end": 139.86
+        }
+      ],
+      "start": 134.16,
+      "end": 139.86,
+      "confidence": 0.943,
+      "time": 134.16
+    }
+  ]
+}

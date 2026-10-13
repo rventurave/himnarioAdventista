@@ -1,0 +1,763 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.783,
+  "language": "es",
+  "model": "medium",
+  "hymn": 335,
+  "source": "335 - Mi hogar celestial.mp3",
+  "duration": 188.58,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hay en el cielo un dulce hogar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 29.98,
+          "end": 30.2
+        },
+        {
+          "word": "un",
+          "start": 30.2,
+          "end": 30.96
+        },
+        {
+          "word": "dulce",
+          "start": 30.96,
+          "end": 32.4
+        },
+        {
+          "word": "hogar,",
+          "start": 32.4,
+          "end": 33.9
+        }
+      ],
+      "start": 29.98,
+      "end": 34.4,
+      "confidence": 0.571,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "donde prefiero yo morar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "donde",
+          "start": 34.4,
+          "end": 34.94
+        },
+        {
+          "word": "prefiere",
+          "start": 34.94,
+          "end": 37.16
+        }
+      ],
+      "start": 34.4,
+      "end": 40.16,
+      "confidence": 0.481,
+      "time": 34.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús, mi Señor, me prepara allí",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 40.78,
+          "end": 41.3
+        },
+        {
+          "word": "mi",
+          "start": 41.3,
+          "end": 41.82
+        },
+        {
+          "word": "Señor",
+          "start": 41.82,
+          "end": 43.24
+        },
+        {
+          "word": "me",
+          "start": 43.24,
+          "end": 43.84
+        },
+        {
+          "word": "prepara",
+          "start": 43.84,
+          "end": 45.64
+        },
+        {
+          "word": "allí,",
+          "start": 45.64,
+          "end": 46.36
+        }
+      ],
+      "start": 40.78,
+      "end": 46.98,
+      "confidence": 1.0,
+      "time": 40.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "un hogar, un bellísimo hogar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "un",
+          "start": 46.98,
+          "end": 47.18
+        },
+        {
+          "word": "hogar,",
+          "start": 47.18,
+          "end": 48.38
+        },
+        {
+          "word": "un",
+          "start": 48.66,
+          "end": 48.74
+        },
+        {
+          "word": "bendísimo",
+          "start": 48.74,
+          "end": 50.48
+        },
+        {
+          "word": "hogar.",
+          "start": 50.48,
+          "end": 53.72
+        }
+      ],
+      "start": 46.98,
+      "end": 53.72,
+      "confidence": 0.973,
+      "time": 46.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Bello hogar, dulce hogar,",
+      "words": [
+        {
+          "word": "lograr",
+          "start": 55.12,
+          "end": 57.48
+        }
+      ],
+      "start": 55.12,
+      "end": 60.46,
+      "confidence": 0.209,
+      "time": 55.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "donde anhelo estar.",
+      "words": [
+        {
+          "word": "donde",
+          "start": 60.46,
+          "end": 61.76
+        },
+        {
+          "word": "ángel",
+          "start": 61.76,
+          "end": 62.68
+        },
+        {
+          "word": "está,",
+          "start": 63.78,
+          "end": 66.58
+        }
+      ],
+      "start": 60.46,
+      "end": 66.58,
+      "confidence": 0.925,
+      "time": 60.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Miro al fulgor de la patria de luz:",
+      "words": [
+        {
+          "word": "al",
+          "start": 67.68,
+          "end": 68.06
+        },
+        {
+          "word": "fulgor",
+          "start": 68.06,
+          "end": 69.58
+        },
+        {
+          "word": "de",
+          "start": 69.58,
+          "end": 69.92
+        },
+        {
+          "word": "la",
+          "start": 69.92,
+          "end": 70.28
+        },
+        {
+          "word": "patria",
+          "start": 70.28,
+          "end": 71.3
+        },
+        {
+          "word": "de",
+          "start": 71.3,
+          "end": 71.98
+        },
+        {
+          "word": "luz",
+          "start": 71.98,
+          "end": 72.84
+        }
+      ],
+      "start": 67.68,
+      "end": 72.84,
+      "confidence": 0.875,
+      "time": 67.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "mi dulce hogar.",
+      "words": [
+        {
+          "word": "mi",
+          "start": 72.84,
+          "end": 73.68
+        },
+        {
+          "word": "dulce",
+          "start": 73.68,
+          "end": 76.68
+        },
+        {
+          "word": "hogar.",
+          "start": 76.68,
+          "end": 79.62
+        }
+      ],
+      "start": 72.84,
+      "end": 79.62,
+      "confidence": 1.0,
+      "time": 72.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Con mis amados me veré;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Con",
+          "start": 79.62,
+          "end": 81.4
+        },
+        {
+          "word": "mis",
+          "start": 81.4,
+          "end": 81.92
+        },
+        {
+          "word": "amadas",
+          "start": 81.92,
+          "end": 83.8
+        },
+        {
+          "word": "veré,",
+          "start": 83.8,
+          "end": 87.0
+        }
+      ],
+      "start": 79.62,
+      "end": 87.64,
+      "confidence": 0.78,
+      "time": 79.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a Cristo allí coronaré;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 87.64,
+          "end": 87.94
+        },
+        {
+          "word": "Cristo",
+          "start": 87.94,
+          "end": 88.66
+        },
+        {
+          "word": "allí",
+          "start": 88.66,
+          "end": 89.76
+        },
+        {
+          "word": "colonaré,",
+          "start": 89.76,
+          "end": 92.84
+        }
+      ],
+      "start": 87.64,
+      "end": 93.6,
+      "confidence": 0.981,
+      "time": 87.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "loor le daré por la eternidad",
+      "verse": 2,
+      "words": [
+        {
+          "word": "lo",
+          "start": 93.6,
+          "end": 94.14
+        },
+        {
+          "word": "ordenaré",
+          "start": 94.14,
+          "end": 96.2
+        },
+        {
+          "word": "por",
+          "start": 96.2,
+          "end": 96.68
+        },
+        {
+          "word": "la",
+          "start": 96.68,
+          "end": 96.96
+        },
+        {
+          "word": "eternidad,",
+          "start": 96.96,
+          "end": 99.58
+        }
+      ],
+      "start": 93.6,
+      "end": 99.58,
+      "confidence": 0.79,
+      "time": 93.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en mi hogar, mi bellísimo hogar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 99.58,
+          "end": 100.08
+        },
+        {
+          "word": "mi",
+          "start": 100.08,
+          "end": 100.34
+        },
+        {
+          "word": "hogar,",
+          "start": 100.34,
+          "end": 101.22
+        },
+        {
+          "word": "mi",
+          "start": 101.42,
+          "end": 101.74
+        },
+        {
+          "word": "bellísimo",
+          "start": 101.74,
+          "end": 103.38
+        },
+        {
+          "word": "hogar.",
+          "start": 103.38,
+          "end": 106.62
+        }
+      ],
+      "start": 99.58,
+      "end": 106.62,
+      "confidence": 1.0,
+      "time": 99.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Bello hogar, dulce hogar,",
+      "words": [
+        {
+          "word": "lugar,",
+          "start": 108.06,
+          "end": 110.06
+        },
+        {
+          "word": "dulce",
+          "start": 110.58,
+          "end": 111.58
+        },
+        {
+          "word": "hogar,",
+          "start": 111.58,
+          "end": 113.16
+        }
+      ],
+      "start": 108.06,
+      "end": 113.16,
+      "confidence": 0.69,
+      "time": 108.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "donde anhelo estar.",
+      "words": [
+        {
+          "word": "Donde",
+          "start": 114.2,
+          "end": 114.66
+        },
+        {
+          "word": "estar,",
+          "start": 115.5,
+          "end": 119.3
+        }
+      ],
+      "start": 114.2,
+      "end": 119.3,
+      "confidence": 0.667,
+      "time": 114.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Miro al fulgor de la patria de luz:",
+      "words": [
+        {
+          "word": "al",
+          "start": 120.72,
+          "end": 121.06
+        },
+        {
+          "word": "fulgor",
+          "start": 121.06,
+          "end": 122.56
+        },
+        {
+          "word": "de",
+          "start": 122.56,
+          "end": 122.9
+        },
+        {
+          "word": "la",
+          "start": 122.9,
+          "end": 123.22
+        },
+        {
+          "word": "patria",
+          "start": 123.22,
+          "end": 124.26
+        },
+        {
+          "word": "de",
+          "start": 124.26,
+          "end": 125.02
+        },
+        {
+          "word": "luz,",
+          "start": 125.02,
+          "end": 125.66
+        }
+      ],
+      "start": 120.72,
+      "end": 125.66,
+      "confidence": 0.875,
+      "time": 120.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "mi dulce hogar.",
+      "words": [
+        {
+          "word": "mi",
+          "start": 125.66,
+          "end": 126.52
+        },
+        {
+          "word": "dulce",
+          "start": 126.52,
+          "end": 129.32
+        },
+        {
+          "word": "hogar.",
+          "start": 129.32,
+          "end": 133.18
+        }
+      ],
+      "start": 125.66,
+      "end": 133.18,
+      "confidence": 1.0,
+      "time": 125.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "La vida es breve, pronto iré",
+      "verse": 3,
+      "words": [
+        {
+          "word": "La",
+          "start": 133.4,
+          "end": 134.26
+        },
+        {
+          "word": "verdad",
+          "start": 134.26,
+          "end": 135.0
+        },
+        {
+          "word": "es",
+          "start": 135.0,
+          "end": 135.54
+        },
+        {
+          "word": "pronto",
+          "start": 136.76,
+          "end": 137.8
+        },
+        {
+          "word": "iré",
+          "start": 137.8,
+          "end": 140.1
+        }
+      ],
+      "start": 133.4,
+      "end": 140.1,
+      "confidence": 0.793,
+      "time": 133.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "a estar con mi glorioso Rey;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 140.1,
+          "end": 140.38
+        },
+        {
+          "word": "estar",
+          "start": 140.38,
+          "end": 140.9
+        },
+        {
+          "word": "con",
+          "start": 140.9,
+          "end": 141.78
+        },
+        {
+          "word": "mi",
+          "start": 141.78,
+          "end": 142.56
+        },
+        {
+          "word": "glorioso",
+          "start": 142.56,
+          "end": 144.72
+        },
+        {
+          "word": "rey.",
+          "start": 144.72,
+          "end": 145.82
+        }
+      ],
+      "start": 140.1,
+      "end": 145.82,
+      "confidence": 1.0,
+      "time": 140.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "con clara visión puedo contemplar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Con",
+          "start": 146.16,
+          "end": 146.64
+        },
+        {
+          "word": "car",
+          "start": 146.64,
+          "end": 147.24
+        },
+        {
+          "word": "puedo",
+          "start": 148.78,
+          "end": 149.56
+        },
+        {
+          "word": "contemplar",
+          "start": 149.56,
+          "end": 152.28
+        }
+      ],
+      "start": 146.16,
+      "end": 152.28,
+      "confidence": 0.77,
+      "time": 146.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "mi hogar, mi bellísimo hogar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mi",
+          "start": 152.28,
+          "end": 152.68
+        },
+        {
+          "word": "hogar",
+          "start": 152.68,
+          "end": 153.96
+        },
+        {
+          "word": "bellísima",
+          "start": 154.48,
+          "end": 156.22
+        }
+      ],
+      "start": 152.28,
+      "end": 159.4,
+      "confidence": 0.587,
+      "time": 152.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Bello hogar, dulce hogar,",
+      "words": [
+        {
+          "word": "dulce",
+          "start": 163.08,
+          "end": 164.28
+        },
+        {
+          "word": "hogar!",
+          "start": 164.28,
+          "end": 165.78
+        }
+      ],
+      "start": 163.08,
+      "end": 165.78,
+      "confidence": 0.5,
+      "time": 163.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "donde anhelo estar.",
+      "words": [
+        {
+          "word": "¡Donde",
+          "start": 166.54,
+          "end": 167.4
+        },
+        {
+          "word": "está!",
+          "start": 169.32,
+          "end": 172.02
+        }
+      ],
+      "start": 166.54,
+      "end": 172.02,
+      "confidence": 0.647,
+      "time": 166.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Miro al fulgor de la patria de luz:",
+      "words": [
+        {
+          "word": "¡Miro",
+          "start": 172.86,
+          "end": 173.48
+        },
+        {
+          "word": "al",
+          "start": 173.48,
+          "end": 173.94
+        },
+        {
+          "word": "de",
+          "start": 175.34,
+          "end": 175.68
+        },
+        {
+          "word": "la",
+          "start": 175.68,
+          "end": 175.96
+        },
+        {
+          "word": "patria",
+          "start": 175.96,
+          "end": 177.0
+        },
+        {
+          "word": "de",
+          "start": 177.0,
+          "end": 177.74
+        },
+        {
+          "word": "luz,",
+          "start": 177.74,
+          "end": 178.36
+        }
+      ],
+      "start": 172.86,
+      "end": 178.36,
+      "confidence": 0.875,
+      "time": 172.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "mi dulce hogar.",
+      "words": [
+        {
+          "word": "mi",
+          "start": 183.28,
+          "end": 183.28
+        }
+      ],
+      "start": 183.28,
+      "end": 183.48,
+      "confidence": 0.333,
+      "time": 183.28
+    }
+  ]
+}

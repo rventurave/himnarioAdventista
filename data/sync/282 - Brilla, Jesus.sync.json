@@ -1,0 +1,754 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.817,
+  "language": "es",
+  "model": "medium",
+  "hymn": 282,
+  "source": "282 - Brilla, Jesus.mp3",
+  "duration": 160.76,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo, tu gran amor me inspira;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 11.9,
+          "end": 13.02
+        },
+        {
+          "word": "tu",
+          "start": 13.68,
+          "end": 13.78
+        },
+        {
+          "word": "gran",
+          "start": 13.78,
+          "end": 14.3
+        },
+        {
+          "word": "amor",
+          "start": 14.3,
+          "end": 15.36
+        },
+        {
+          "word": "me",
+          "start": 15.36,
+          "end": 15.72
+        },
+        {
+          "word": "inspira,",
+          "start": 15.72,
+          "end": 16.76
+        }
+      ],
+      "start": 11.9,
+      "end": 17.06,
+      "confidence": 1.0,
+      "time": 11.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo, tu gran amor me anima;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 17.06,
+          "end": 18.06
+        },
+        {
+          "word": "tu",
+          "start": 18.66,
+          "end": 18.82
+        },
+        {
+          "word": "gran",
+          "start": 18.82,
+          "end": 19.28
+        },
+        {
+          "word": "amor",
+          "start": 19.28,
+          "end": 20.28
+        },
+        {
+          "word": "me",
+          "start": 20.28,
+          "end": 20.76
+        },
+        {
+          "word": "anima,",
+          "start": 20.76,
+          "end": 21.8
+        }
+      ],
+      "start": 17.06,
+      "end": 21.8,
+      "confidence": 1.0,
+      "time": 17.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues tu luz ilumina la oscuridad,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Pues",
+          "start": 21.8,
+          "end": 22.86
+        },
+        {
+          "word": "tu",
+          "start": 22.86,
+          "end": 23.22
+        },
+        {
+          "word": "luz",
+          "start": 23.22,
+          "end": 23.94
+        },
+        {
+          "word": "ilumina",
+          "start": 23.94,
+          "end": 25.24
+        },
+        {
+          "word": "la",
+          "start": 25.24,
+          "end": 25.6
+        },
+        {
+          "word": "oscuridad",
+          "start": 25.6,
+          "end": 26.62
+        }
+      ],
+      "start": 21.8,
+      "end": 26.62,
+      "confidence": 1.0,
+      "time": 21.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tu verdad me conduce a la libertad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 26.62,
+          "end": 27.8
+        },
+        {
+          "word": "verdad",
+          "start": 27.8,
+          "end": 28.68
+        },
+        {
+          "word": "me",
+          "start": 28.68,
+          "end": 29.36
+        },
+        {
+          "word": "conduce",
+          "start": 29.36,
+          "end": 30.16
+        },
+        {
+          "word": "a",
+          "start": 30.16,
+          "end": 30.52
+        },
+        {
+          "word": "la",
+          "start": 30.52,
+          "end": 30.92
+        },
+        {
+          "word": "libertad",
+          "start": 30.92,
+          "end": 31.98
+        }
+      ],
+      "start": 26.62,
+      "end": 31.98,
+      "confidence": 1.0,
+      "time": 26.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Brilla en mí, brilla en mí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Brilla",
+          "start": 31.98,
+          "end": 33.76
+        },
+        {
+          "word": "en",
+          "start": 33.76,
+          "end": 34.68
+        },
+        {
+          "word": "mi,",
+          "start": 34.68,
+          "end": 36.84
+        },
+        {
+          "word": "brilla",
+          "start": 38.08,
+          "end": 38.78
+        },
+        {
+          "word": "en",
+          "start": 38.78,
+          "end": 39.7
+        },
+        {
+          "word": "mi",
+          "start": 39.7,
+          "end": 41.72
+        }
+      ],
+      "start": 31.98,
+      "end": 41.72,
+      "confidence": 1.0,
+      "time": 31.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Brilla, Jesús!",
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 44.08,
+          "end": 45.42
+        }
+      ],
+      "start": 44.08,
+      "end": 45.42,
+      "confidence": 0.5,
+      "time": 44.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Danos hoy la luz que da tu gloria,",
+      "words": [
+        {
+          "word": "da",
+          "start": 45.42,
+          "end": 46.58
+        },
+        {
+          "word": "la",
+          "start": 48.02,
+          "end": 48.62
+        },
+        {
+          "word": "luz",
+          "start": 48.62,
+          "end": 49.32
+        }
+      ],
+      "start": 45.42,
+      "end": 51.62,
+      "confidence": 0.367,
+      "time": 45.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "pues tu calor trae paz y amor.",
+      "words": [
+        {
+          "word": "pues",
+          "start": 52.18,
+          "end": 53.08
+        },
+        {
+          "word": "tu",
+          "start": 53.08,
+          "end": 53.7
+        },
+        {
+          "word": "calor",
+          "start": 53.7,
+          "end": 55.18
+        },
+        {
+          "word": "trae",
+          "start": 55.18,
+          "end": 56.72
+        },
+        {
+          "word": "paz",
+          "start": 56.72,
+          "end": 58.16
+        },
+        {
+          "word": "y",
+          "start": 58.16,
+          "end": 59.18
+        },
+        {
+          "word": "amor.",
+          "start": 59.18,
+          "end": 61.34
+        }
+      ],
+      "start": 52.18,
+      "end": 61.34,
+      "confidence": 1.0,
+      "time": 52.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Ven como el Sol",
+      "words": [
+        {
+          "word": "Vento",
+          "start": 62.26,
+          "end": 63.66
+        },
+        {
+          "word": "del",
+          "start": 63.66,
+          "end": 64.0
+        },
+        {
+          "word": "sol,",
+          "start": 64.0,
+          "end": 65.18
+        }
+      ],
+      "start": 62.26,
+      "end": 65.96,
+      "confidence": 0.705,
+      "time": 62.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "de justicia y misericordia.",
+      "words": [
+        {
+          "word": "de",
+          "start": 65.96,
+          "end": 66.26
+        },
+        {
+          "word": "justicia",
+          "start": 66.26,
+          "end": 68.04
+        },
+        {
+          "word": "y",
+          "start": 68.04,
+          "end": 68.98
+        },
+        {
+          "word": "misericordia,",
+          "start": 68.98,
+          "end": 70.72
+        }
+      ],
+      "start": 65.96,
+      "end": 70.72,
+      "confidence": 1.0,
+      "time": 65.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Brilla, Jesús! Danos hoy tu luz.",
+      "words": [
+        {
+          "word": "Jesús!",
+          "start": 73.62,
+          "end": 75.04
+        },
+        {
+          "word": "¡Dados",
+          "start": 75.72,
+          "end": 76.72
+        },
+        {
+          "word": "tu",
+          "start": 77.98,
+          "end": 79.42
+        },
+        {
+          "word": "luz!",
+          "start": 79.42,
+          "end": 80.06
+        }
+      ],
+      "start": 73.62,
+      "end": 80.06,
+      "confidence": 0.647,
+      "time": 73.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristo, vengo a tu presencia,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 84.26,
+          "end": 85.6
+        },
+        {
+          "word": "vengo",
+          "start": 85.6,
+          "end": 86.6
+        },
+        {
+          "word": "a",
+          "start": 86.6,
+          "end": 87.06
+        },
+        {
+          "word": "tu",
+          "start": 87.06,
+          "end": 87.9
+        },
+        {
+          "word": "presencia,",
+          "start": 87.9,
+          "end": 89.28
+        }
+      ],
+      "start": 84.26,
+      "end": 90.44,
+      "confidence": 1.0,
+      "time": 84.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "atraído por tu pureza.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "atraído",
+          "start": 90.44,
+          "end": 91.58
+        },
+        {
+          "word": "por",
+          "start": 91.58,
+          "end": 92.08
+        },
+        {
+          "word": "tu",
+          "start": 92.08,
+          "end": 93.04
+        },
+        {
+          "word": "pureza.",
+          "start": 93.04,
+          "end": 93.74
+        }
+      ],
+      "start": 90.44,
+      "end": 93.74,
+      "confidence": 1.0,
+      "time": 90.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Examina mi vida y pruébame;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "examina",
+          "start": 95.26,
+          "end": 96.66
+        },
+        {
+          "word": "mi",
+          "start": 96.66,
+          "end": 97.14
+        },
+        {
+          "word": "vida",
+          "start": 97.14,
+          "end": 97.94
+        },
+        {
+          "word": "y",
+          "start": 97.94,
+          "end": 98.36
+        },
+        {
+          "word": "pruébame,",
+          "start": 98.36,
+          "end": 99.06
+        }
+      ],
+      "start": 95.26,
+      "end": 99.06,
+      "confidence": 1.0,
+      "time": 95.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "limpia toda maldad con tu sangre.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "limpia",
+          "start": 100.1,
+          "end": 100.8
+        },
+        {
+          "word": "toda",
+          "start": 100.8,
+          "end": 101.58
+        },
+        {
+          "word": "maldad",
+          "start": 101.58,
+          "end": 102.52
+        },
+        {
+          "word": "con",
+          "start": 102.52,
+          "end": 102.94
+        },
+        {
+          "word": "tu",
+          "start": 102.94,
+          "end": 103.18
+        },
+        {
+          "word": "sangre,",
+          "start": 103.18,
+          "end": 104.16
+        }
+      ],
+      "start": 100.1,
+      "end": 104.16,
+      "confidence": 1.0,
+      "time": 100.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Brilla en mí, brilla en mí.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "brilla",
+          "start": 105.74,
+          "end": 106.22
+        },
+        {
+          "word": "en",
+          "start": 106.22,
+          "end": 107.46
+        },
+        {
+          "word": "brilla",
+          "start": 109.48,
+          "end": 111.32
+        },
+        {
+          "word": "en",
+          "start": 111.32,
+          "end": 112.18
+        }
+      ],
+      "start": 105.74,
+      "end": 114.24,
+      "confidence": 0.667,
+      "time": 105.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Brilla, Jesús!",
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 116.84,
+          "end": 118.06
+        }
+      ],
+      "start": 116.84,
+      "end": 119.56,
+      "confidence": 0.5,
+      "time": 116.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Danos hoy la luz que da tu gloria,",
+      "words": [
+        {
+          "word": "soy,",
+          "start": 119.56,
+          "end": 120.44
+        },
+        {
+          "word": "la",
+          "start": 120.52,
+          "end": 121.08
+        },
+        {
+          "word": "luz",
+          "start": 121.08,
+          "end": 121.66
+        },
+        {
+          "word": "que",
+          "start": 121.66,
+          "end": 122.3
+        },
+        {
+          "word": "da",
+          "start": 122.3,
+          "end": 122.66
+        },
+        {
+          "word": "tu",
+          "start": 122.66,
+          "end": 123.26
+        },
+        {
+          "word": "gloria",
+          "start": 123.26,
+          "end": 124.38
+        }
+      ],
+      "start": 119.56,
+      "end": 126.32,
+      "confidence": 0.85,
+      "time": 119.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "pues tu calor trae paz y amor.",
+      "words": [
+        {
+          "word": "calor",
+          "start": 126.32,
+          "end": 127.84
+        },
+        {
+          "word": "trae",
+          "start": 127.84,
+          "end": 129.4
+        },
+        {
+          "word": "paz",
+          "start": 129.4,
+          "end": 130.78
+        },
+        {
+          "word": "y",
+          "start": 130.78,
+          "end": 131.98
+        },
+        {
+          "word": "amor.",
+          "start": 131.98,
+          "end": 134.14
+        }
+      ],
+      "start": 126.32,
+      "end": 134.14,
+      "confidence": 0.714,
+      "time": 126.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Ven como el Sol",
+      "words": [
+        {
+          "word": "Ven",
+          "start": 134.14,
+          "end": 135.78
+        },
+        {
+          "word": "como",
+          "start": 135.78,
+          "end": 136.52
+        },
+        {
+          "word": "el",
+          "start": 136.52,
+          "end": 137.1
+        },
+        {
+          "word": "sol,",
+          "start": 137.1,
+          "end": 137.92
+        }
+      ],
+      "start": 134.14,
+      "end": 143.36,
+      "confidence": 1.0,
+      "time": 134.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "de justicia y misericordia.",
+      "words": [
+        {
+          "word": "y",
+          "start": 143.36,
+          "end": 143.58
+        }
+      ],
+      "start": 143.36,
+      "end": 144.36,
+      "confidence": 0.25,
+      "time": 143.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Brilla, Jesús! Danos hoy tu luz.",
+      "words": [
+        {
+          "word": "silla",
+          "start": 145.6,
+          "end": 146.14
+        },
+        {
+          "word": "Jesús,",
+          "start": 146.6,
+          "end": 147.86
+        },
+        {
+          "word": "da",
+          "start": 148.54,
+          "end": 148.96
+        }
+      ],
+      "start": 145.6,
+      "end": 152.18,
+      "confidence": 0.463,
+      "time": 145.6
+    }
+  ]
+}

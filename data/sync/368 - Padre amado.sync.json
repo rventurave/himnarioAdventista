@@ -1,0 +1,690 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.782,
+  "language": "es",
+  "model": "medium",
+  "hymn": 368,
+  "source": "368 - Padre amado.mp3",
+  "duration": 156.66,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Yo te amo más que a todo;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 49.3,
+          "end": 50.8
+        },
+        {
+          "word": "te",
+          "start": 50.8,
+          "end": 52.04
+        },
+        {
+          "word": "amo",
+          "start": 52.04,
+          "end": 53.46
+        },
+        {
+          "word": "más",
+          "start": 53.46,
+          "end": 54.9
+        },
+        {
+          "word": "que",
+          "start": 54.9,
+          "end": 55.34
+        },
+        {
+          "word": "a",
+          "start": 55.34,
+          "end": 55.94
+        },
+        {
+          "word": "todo",
+          "start": 55.94,
+          "end": 56.96
+        }
+      ],
+      "start": 49.3,
+      "end": 56.96,
+      "confidence": 1.0,
+      "time": 49.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "si estoy débil, tú eres fuerte",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Si",
+          "start": 56.96,
+          "end": 57.76
+        },
+        {
+          "word": "estoy",
+          "start": 57.76,
+          "end": 58.2
+        },
+        {
+          "word": "débil",
+          "start": 58.2,
+          "end": 58.74
+        },
+        {
+          "word": "tú",
+          "start": 58.74,
+          "end": 59.04
+        },
+        {
+          "word": "eres",
+          "start": 59.04,
+          "end": 59.46
+        },
+        {
+          "word": "fuerte",
+          "start": 59.46,
+          "end": 60.92
+        }
+      ],
+      "start": 56.96,
+      "end": 60.92,
+      "confidence": 1.0,
+      "time": 56.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y a mi lado estás.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 60.92,
+          "end": 61.64
+        },
+        {
+          "word": "a",
+          "start": 61.64,
+          "end": 61.88
+        },
+        {
+          "word": "mi",
+          "start": 61.88,
+          "end": 62.12
+        },
+        {
+          "word": "lado",
+          "start": 62.12,
+          "end": 62.98
+        },
+        {
+          "word": "estás",
+          "start": 62.98,
+          "end": 64.9
+        }
+      ],
+      "start": 60.92,
+      "end": 64.9,
+      "confidence": 1.0,
+      "time": 60.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Te agradezco, Padre amado,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Padre",
+          "start": 69.16,
+          "end": 70.9
+        },
+        {
+          "word": "amado",
+          "start": 70.9,
+          "end": 72.52
+        }
+      ],
+      "start": 69.16,
+      "end": 72.52,
+      "confidence": 0.5,
+      "time": 69.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "porque unes nuestras vidas",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Porque",
+          "start": 72.52,
+          "end": 73.84
+        },
+        {
+          "word": "unes",
+          "start": 73.84,
+          "end": 74.64
+        },
+        {
+          "word": "nuestras",
+          "start": 74.64,
+          "end": 75.16
+        },
+        {
+          "word": "vidas",
+          "start": 75.16,
+          "end": 77.2
+        }
+      ],
+      "start": 72.52,
+      "end": 77.2,
+      "confidence": 1.0,
+      "time": 72.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a tu corazón.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 77.2,
+          "end": 77.74
+        },
+        {
+          "word": "tu",
+          "start": 77.74,
+          "end": 78.14
+        },
+        {
+          "word": "corazón",
+          "start": 78.14,
+          "end": 81.02
+        }
+      ],
+      "start": 77.2,
+      "end": 81.02,
+      "confidence": 1.0,
+      "time": 77.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Padre amado,",
+      "words": [
+        {
+          "word": "Padre",
+          "start": 84.78,
+          "end": 86.18
+        },
+        {
+          "word": "Agado,",
+          "start": 86.18,
+          "end": 87.58
+        }
+      ],
+      "start": 84.78,
+      "end": 88.12,
+      "confidence": 0.94,
+      "time": 84.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "te agradezco por tus planes,",
+      "words": [
+        {
+          "word": "te",
+          "start": 88.12,
+          "end": 88.34
+        },
+        {
+          "word": "agradezco",
+          "start": 88.34,
+          "end": 89.2
+        },
+        {
+          "word": "por",
+          "start": 89.2,
+          "end": 89.56
+        },
+        {
+          "word": "tus",
+          "start": 89.56,
+          "end": 89.9
+        },
+        {
+          "word": "planes,",
+          "start": 89.9,
+          "end": 91.42
+        }
+      ],
+      "start": 88.12,
+      "end": 92.46,
+      "confidence": 1.0,
+      "time": 88.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "grandes sueños tienes para mí.",
+      "words": [
+        {
+          "word": "grandes",
+          "start": 92.46,
+          "end": 93.6
+        },
+        {
+          "word": "sueños",
+          "start": 93.6,
+          "end": 95.3
+        },
+        {
+          "word": "tienes",
+          "start": 95.3,
+          "end": 96.1
+        },
+        {
+          "word": "para",
+          "start": 96.1,
+          "end": 97.42
+        },
+        {
+          "word": "mí.",
+          "start": 97.42,
+          "end": 98.12
+        }
+      ],
+      "start": 92.46,
+      "end": 98.12,
+      "confidence": 1.0,
+      "time": 92.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Tú me guías por las sendas de esta vida,",
+      "words": [
+        {
+          "word": "Tú",
+          "start": 98.12,
+          "end": 100.56
+        },
+        {
+          "word": "me",
+          "start": 100.56,
+          "end": 101.48
+        },
+        {
+          "word": "guías",
+          "start": 101.48,
+          "end": 103.1
+        },
+        {
+          "word": "por",
+          "start": 103.1,
+          "end": 103.64
+        },
+        {
+          "word": "las",
+          "start": 103.64,
+          "end": 104.02
+        },
+        {
+          "word": "sendas",
+          "start": 104.02,
+          "end": 104.62
+        },
+        {
+          "word": "de",
+          "start": 104.62,
+          "end": 104.8
+        },
+        {
+          "word": "esa",
+          "start": 104.8,
+          "end": 105.24
+        },
+        {
+          "word": "vida",
+          "start": 105.24,
+          "end": 106.12
+        }
+      ],
+      "start": 98.12,
+      "end": 106.12,
+      "confidence": 0.99,
+      "time": 98.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "a tu lado nada faltará.",
+      "words": [
+        {
+          "word": "A",
+          "start": 106.66,
+          "end": 108.38
+        },
+        {
+          "word": "tu",
+          "start": 108.38,
+          "end": 108.94
+        },
+        {
+          "word": "lado",
+          "start": 108.94,
+          "end": 110.52
+        },
+        {
+          "word": "nada",
+          "start": 110.52,
+          "end": 111.44
+        },
+        {
+          "word": "faltará",
+          "start": 111.44,
+          "end": 114.12
+        }
+      ],
+      "start": 106.66,
+      "end": 114.12,
+      "confidence": 1.0,
+      "time": 106.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Yo te amo más que a todo;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 114.76,
+          "end": 115.9
+        },
+        {
+          "word": "te",
+          "start": 115.9,
+          "end": 117.4
+        },
+        {
+          "word": "amo",
+          "start": 117.4,
+          "end": 118.72
+        },
+        {
+          "word": "más",
+          "start": 118.72,
+          "end": 120.2
+        },
+        {
+          "word": "que",
+          "start": 120.2,
+          "end": 120.64
+        },
+        {
+          "word": "a",
+          "start": 120.64,
+          "end": 121.14
+        },
+        {
+          "word": "todo",
+          "start": 121.14,
+          "end": 122.42
+        }
+      ],
+      "start": 114.76,
+      "end": 122.42,
+      "confidence": 1.0,
+      "time": 114.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "si estoy débil, tu gran fuerza",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 122.42,
+          "end": 123.18
+        },
+        {
+          "word": "estoy",
+          "start": 123.18,
+          "end": 123.6
+        },
+        {
+          "word": "debil",
+          "start": 123.6,
+          "end": 124.24
+        },
+        {
+          "word": "tu",
+          "start": 124.24,
+          "end": 124.5
+        },
+        {
+          "word": "gran",
+          "start": 124.5,
+          "end": 124.82
+        },
+        {
+          "word": "fuerza",
+          "start": 124.82,
+          "end": 126.32
+        }
+      ],
+      "start": 122.42,
+      "end": 126.32,
+      "confidence": 1.0,
+      "time": 122.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "nunca fallará.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Nunca",
+          "start": 126.32,
+          "end": 127.5
+        },
+        {
+          "word": "fallarás",
+          "start": 127.5,
+          "end": 130.7
+        }
+      ],
+      "start": 126.32,
+      "end": 130.7,
+      "confidence": 0.97,
+      "time": 126.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Por tu gracia, te imploro",
+      "verse": 2,
+      "words": [
+        {
+          "word": "por",
+          "start": 130.7,
+          "end": 132.14
+        },
+        {
+          "word": "tu",
+          "start": 132.14,
+          "end": 132.72
+        },
+        {
+          "word": "gracia",
+          "start": 132.72,
+          "end": 134.5
+        },
+        {
+          "word": "Te",
+          "start": 134.5,
+          "end": 136.16
+        },
+        {
+          "word": "imploro",
+          "start": 136.16,
+          "end": 138.1
+        }
+      ],
+      "start": 130.7,
+      "end": 138.1,
+      "confidence": 1.0,
+      "time": 130.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que transformes hoy mi vida",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 138.1,
+          "end": 138.9
+        },
+        {
+          "word": "transformes",
+          "start": 138.9,
+          "end": 139.98
+        },
+        {
+          "word": "hoy",
+          "start": 139.98,
+          "end": 140.26
+        },
+        {
+          "word": "mi",
+          "start": 140.26,
+          "end": 141.0
+        },
+        {
+          "word": "vida",
+          "start": 141.0,
+          "end": 142.38
+        }
+      ],
+      "start": 138.1,
+      "end": 142.38,
+      "confidence": 1.0,
+      "time": 138.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con tu bendición.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Con",
+          "start": 142.38,
+          "end": 143.34
+        },
+        {
+          "word": "tu",
+          "start": 143.34,
+          "end": 143.76
+        },
+        {
+          "word": "bendición",
+          "start": 143.76,
+          "end": 147.82
+        }
+      ],
+      "start": 142.38,
+      "end": 147.82,
+      "confidence": 1.0,
+      "time": 142.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Padre amado,",
+      "start": 147.82,
+      "end": 149.94,
+      "confidence": 0.0,
+      "time": 147.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "te agradezco por tus planes,",
+      "start": 149.94,
+      "end": 152.07,
+      "confidence": 0.0,
+      "time": 149.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "grandes sueños tienes para mí.",
+      "start": 152.07,
+      "end": 154.19,
+      "confidence": 0.0,
+      "time": 152.07
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Tú me guías por las sendas de esta vida,",
+      "words": [
+        {
+          "word": "Gracias",
+          "start": 156.32,
+          "end": 156.34
+        },
+        {
+          "word": "por",
+          "start": 156.34,
+          "end": 156.36
+        },
+        {
+          "word": "video,",
+          "start": 156.62,
+          "end": 156.62
+        }
+      ],
+      "start": 154.19,
+      "end": 156.32,
+      "confidence": 0.289,
+      "time": 154.19
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "a tu lado nada faltará.",
+      "words": [
+        {
+          "word": "a",
+          "start": 156.62,
+          "end": 156.62
+        },
+        {
+          "word": "la",
+          "start": 156.62,
+          "end": 156.62
+        }
+      ],
+      "start": 156.62,
+      "end": 156.66,
+      "confidence": 0.388,
+      "time": 156.62
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.997,
+  "language": "es",
+  "model": "medium",
+  "hymn": 594,
+  "source": "594 - Senor, gracias por mi hogar.mp3",
+  "duration": 91.22,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Horas alegres hay",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Oras",
+          "start": 17.54,
+          "end": 18.94
+        },
+        {
+          "word": "alegres",
+          "start": 18.94,
+          "end": 20.34
+        },
+        {
+          "word": "hay",
+          "start": 20.34,
+          "end": 21.36
+        }
+      ],
+      "start": 17.54,
+      "end": 21.36,
+      "confidence": 0.978,
+      "time": 17.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en la niñez feliz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 21.36,
+          "end": 22.34
+        },
+        {
+          "word": "la",
+          "start": 22.34,
+          "end": 22.9
+        },
+        {
+          "word": "niñez",
+          "start": 22.9,
+          "end": 24.44
+        },
+        {
+          "word": "feliz",
+          "start": 24.44,
+          "end": 26.3
+        }
+      ],
+      "start": 21.36,
+      "end": 26.3,
+      "confidence": 1.0,
+      "time": 21.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mientras mamá vigila fiel.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mientras",
+          "start": 26.3,
+          "end": 27.5
+        },
+        {
+          "word": "mamá",
+          "start": 27.5,
+          "end": 29.06
+        },
+        {
+          "word": "vigí",
+          "start": 29.06,
+          "end": 30.76
+        },
+        {
+          "word": "fiel,",
+          "start": 31.14,
+          "end": 32.02
+        }
+      ],
+      "start": 26.3,
+      "end": 32.48,
+      "confidence": 0.985,
+      "time": 26.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Señor gracias, por mi hogar",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Señor,",
+          "start": 32.48,
+          "end": 33.16
+        },
+        {
+          "word": "gracias",
+          "start": 33.24,
+          "end": 34.12
+        },
+        {
+          "word": "por",
+          "start": 34.12,
+          "end": 35.24
+        },
+        {
+          "word": "mi",
+          "start": 35.24,
+          "end": 35.6
+        },
+        {
+          "word": "hogar.",
+          "start": 35.6,
+          "end": 37.82
+        }
+      ],
+      "start": 32.48,
+      "end": 37.82,
+      "confidence": 1.0,
+      "time": 32.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Horas inquietas hay",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Horas",
+          "start": 39.12,
+          "end": 40.3
+        },
+        {
+          "word": "inquietas",
+          "start": 40.3,
+          "end": 42.38
+        },
+        {
+          "word": "hay",
+          "start": 42.38,
+          "end": 43.24
+        }
+      ],
+      "start": 39.12,
+      "end": 43.24,
+      "confidence": 1.0,
+      "time": 39.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "cuando hay que decidir:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 43.24,
+          "end": 44.14
+        },
+        {
+          "word": "hay",
+          "start": 44.14,
+          "end": 44.62
+        },
+        {
+          "word": "que",
+          "start": 44.62,
+          "end": 45.7
+        },
+        {
+          "word": "decidir,",
+          "start": 45.7,
+          "end": 48.14
+        }
+      ],
+      "start": 43.24,
+      "end": 48.14,
+      "confidence": 1.0,
+      "time": 43.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "sabios consejos recibir,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "sabios",
+          "start": 48.14,
+          "end": 49.38
+        },
+        {
+          "word": "consejos",
+          "start": 49.38,
+          "end": 51.36
+        },
+        {
+          "word": "recibir,",
+          "start": 51.36,
+          "end": 53.58
+        }
+      ],
+      "start": 48.14,
+      "end": 54.4,
+      "confidence": 1.0,
+      "time": 48.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Señor, gracias por mi hogar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Señor,",
+          "start": 54.4,
+          "end": 54.96
+        },
+        {
+          "word": "gracias",
+          "start": 55.06,
+          "end": 55.94
+        },
+        {
+          "word": "por",
+          "start": 55.94,
+          "end": 57.06
+        },
+        {
+          "word": "mi",
+          "start": 57.06,
+          "end": 57.5
+        },
+        {
+          "word": "hogar.",
+          "start": 57.5,
+          "end": 60.24
+        }
+      ],
+      "start": 54.4,
+      "end": 60.24,
+      "confidence": 1.0,
+      "time": 54.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Horas serenas hay",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Horas",
+          "start": 60.98,
+          "end": 62.06
+        },
+        {
+          "word": "serenas",
+          "start": 62.06,
+          "end": 63.9
+        },
+        {
+          "word": "hay",
+          "start": 63.9,
+          "end": 65.12
+        }
+      ],
+      "start": 60.98,
+      "end": 65.12,
+      "confidence": 1.0,
+      "time": 60.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "para reflexionar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "para",
+          "start": 65.12,
+          "end": 66.24
+        },
+        {
+          "word": "reflexionar,",
+          "start": 66.24,
+          "end": 69.46
+        }
+      ],
+      "start": 65.12,
+      "end": 69.98,
+      "confidence": 1.0,
+      "time": 65.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y agradecidos hoy decir:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 69.98,
+          "end": 70.56
+        },
+        {
+          "word": "agradecidos",
+          "start": 70.56,
+          "end": 72.94
+        },
+        {
+          "word": "hoy",
+          "start": 72.94,
+          "end": 74.02
+        },
+        {
+          "word": "decir,",
+          "start": 74.02,
+          "end": 75.26
+        }
+      ],
+      "start": 69.98,
+      "end": 75.26,
+      "confidence": 1.0,
+      "time": 69.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Señor, gracias por mi hogar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Señor,",
+          "start": 75.26,
+          "end": 76.68
+        },
+        {
+          "word": "gracias",
+          "start": 76.8,
+          "end": 77.62
+        },
+        {
+          "word": "por",
+          "start": 77.62,
+          "end": 78.88
+        },
+        {
+          "word": "mi",
+          "start": 78.88,
+          "end": 79.24
+        },
+        {
+          "word": "hogar.",
+          "start": 79.24,
+          "end": 81.98
+        }
+      ],
+      "start": 75.26,
+      "end": 81.98,
+      "confidence": 1.0,
+      "time": 75.26
+    }
+  ]
+}

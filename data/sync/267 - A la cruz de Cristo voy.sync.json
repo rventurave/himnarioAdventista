@@ -1,0 +1,564 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.993,
+  "language": "es",
+  "model": "medium",
+  "hymn": 267,
+  "source": "267 - A la cruz de Cristo voy.mp3",
+  "duration": 118.2,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "A la cruz de Cristo voy.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "A",
+          "start": 22.16,
+          "end": 23.56
+        },
+        {
+          "word": "la",
+          "start": 23.56,
+          "end": 24.32
+        },
+        {
+          "word": "cruz",
+          "start": 24.32,
+          "end": 25.52
+        },
+        {
+          "word": "de",
+          "start": 25.52,
+          "end": 26.02
+        },
+        {
+          "word": "Cristo",
+          "start": 26.02,
+          "end": 26.78
+        },
+        {
+          "word": "voy,",
+          "start": 26.78,
+          "end": 28.0
+        }
+      ],
+      "start": 22.16,
+      "end": 28.0,
+      "confidence": 1.0,
+      "time": 22.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Débil, pobre y ciego soy.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Débil,",
+          "start": 28.0,
+          "end": 29.24
+        },
+        {
+          "word": "pobre",
+          "start": 30.22,
+          "end": 30.76
+        },
+        {
+          "word": "y",
+          "start": 30.76,
+          "end": 31.02
+        },
+        {
+          "word": "ciego",
+          "start": 31.02,
+          "end": 31.84
+        },
+        {
+          "word": "soy,",
+          "start": 31.84,
+          "end": 33.2
+        }
+      ],
+      "start": 28.0,
+      "end": 33.66,
+      "confidence": 1.0,
+      "time": 28.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mis riquezas nada son.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "mis",
+          "start": 33.66,
+          "end": 34.14
+        },
+        {
+          "word": "riquezas",
+          "start": 34.14,
+          "end": 36.1
+        },
+        {
+          "word": "nada",
+          "start": 36.1,
+          "end": 36.94
+        },
+        {
+          "word": "son,",
+          "start": 36.94,
+          "end": 38.34
+        }
+      ],
+      "start": 33.66,
+      "end": 39.16,
+      "confidence": 1.0,
+      "time": 33.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Necesito salvación.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "necesito",
+          "start": 39.16,
+          "end": 41.34
+        },
+        {
+          "word": "salvación.",
+          "start": 41.34,
+          "end": 44.04
+        }
+      ],
+      "start": 39.16,
+      "end": 44.04,
+      "confidence": 1.0,
+      "time": 39.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Cristo, a ti mi todo doy.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 45.6,
+          "end": 47.0
+        },
+        {
+          "word": "a",
+          "start": 47.0,
+          "end": 47.56
+        },
+        {
+          "word": "ti",
+          "start": 47.56,
+          "end": 48.6
+        },
+        {
+          "word": "mi",
+          "start": 48.6,
+          "end": 49.04
+        },
+        {
+          "word": "todo",
+          "start": 49.04,
+          "end": 49.84
+        },
+        {
+          "word": "doy,",
+          "start": 49.84,
+          "end": 51.52
+        }
+      ],
+      "start": 45.6,
+      "end": 51.86,
+      "confidence": 1.0,
+      "time": 45.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Tiempo, amigos, cuanto soy,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tiempo",
+          "start": 51.86,
+          "end": 52.28
+        },
+        {
+          "word": "amigos",
+          "start": 52.28,
+          "end": 54.06
+        },
+        {
+          "word": "cuanto",
+          "start": 54.06,
+          "end": 54.98
+        },
+        {
+          "word": "soy,",
+          "start": 54.98,
+          "end": 56.48
+        }
+      ],
+      "start": 51.86,
+      "end": 56.7,
+      "confidence": 1.0,
+      "time": 51.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "cuerpo y mente, tuyos son,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cuerpo",
+          "start": 56.7,
+          "end": 57.4
+        },
+        {
+          "word": "y",
+          "start": 57.4,
+          "end": 58.48
+        },
+        {
+          "word": "mente",
+          "start": 58.48,
+          "end": 59.26
+        },
+        {
+          "word": "tuyo",
+          "start": 59.26,
+          "end": 60.24
+        },
+        {
+          "word": "son,",
+          "start": 60.24,
+          "end": 61.42
+        }
+      ],
+      "start": 56.7,
+      "end": 62.08,
+      "confidence": 0.988,
+      "time": 56.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "en eterna posesión.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 62.08,
+          "end": 62.64
+        },
+        {
+          "word": "eterna",
+          "start": 62.64,
+          "end": 64.44
+        },
+        {
+          "word": "posesión.",
+          "start": 64.44,
+          "end": 67.06
+        }
+      ],
+      "start": 62.08,
+      "end": 67.06,
+      "confidence": 1.0,
+      "time": 62.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Tu promesa es mi salud.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 69.14,
+          "end": 70.54
+        },
+        {
+          "word": "promesa",
+          "start": 70.54,
+          "end": 71.94
+        },
+        {
+          "word": "es",
+          "start": 71.94,
+          "end": 72.38
+        },
+        {
+          "word": "mi",
+          "start": 72.38,
+          "end": 72.82
+        },
+        {
+          "word": "salud,",
+          "start": 72.82,
+          "end": 74.36
+        }
+      ],
+      "start": 69.14,
+      "end": 75.02,
+      "confidence": 1.0,
+      "time": 69.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En tu sangre hallé virtud.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 75.02,
+          "end": 75.28
+        },
+        {
+          "word": "tu",
+          "start": 75.28,
+          "end": 75.64
+        },
+        {
+          "word": "sangre",
+          "start": 75.64,
+          "end": 77.12
+        },
+        {
+          "word": "allí",
+          "start": 77.12,
+          "end": 77.64
+        },
+        {
+          "word": "virtud,",
+          "start": 77.8,
+          "end": 79.72
+        }
+      ],
+      "start": 75.02,
+      "end": 79.72,
+      "confidence": 0.96,
+      "time": 75.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Pecador me siento hoy,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pecador",
+          "start": 80.26,
+          "end": 81.92
+        },
+        {
+          "word": "me",
+          "start": 81.92,
+          "end": 82.5
+        },
+        {
+          "word": "siento",
+          "start": 82.5,
+          "end": 83.26
+        },
+        {
+          "word": "hoy,",
+          "start": 83.26,
+          "end": 84.64
+        }
+      ],
+      "start": 80.26,
+      "end": 84.98,
+      "confidence": 1.0,
+      "time": 80.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pero en Cristo salvo soy.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pero",
+          "start": 84.98,
+          "end": 85.58
+        },
+        {
+          "word": "en",
+          "start": 85.58,
+          "end": 85.94
+        },
+        {
+          "word": "Cristo",
+          "start": 85.94,
+          "end": 87.52
+        },
+        {
+          "word": "salvo",
+          "start": 87.52,
+          "end": 88.56
+        },
+        {
+          "word": "soy.",
+          "start": 88.56,
+          "end": 90.34
+        }
+      ],
+      "start": 84.98,
+      "end": 90.34,
+      "confidence": 1.0,
+      "time": 84.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Yo confío en ti, Señor,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 92.16,
+          "end": 93.56
+        },
+        {
+          "word": "confío",
+          "start": 93.56,
+          "end": 94.96
+        },
+        {
+          "word": "en",
+          "start": 94.96,
+          "end": 95.42
+        },
+        {
+          "word": "ti,",
+          "start": 95.42,
+          "end": 96.0
+        },
+        {
+          "word": "Señor,",
+          "start": 96.0,
+          "end": 97.44
+        }
+      ],
+      "start": 92.16,
+      "end": 98.1,
+      "confidence": 1.0,
+      "time": 92.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "mi bendito Salvador,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "mi",
+          "start": 98.1,
+          "end": 98.34
+        },
+        {
+          "word": "bendito",
+          "start": 98.34,
+          "end": 100.48
+        },
+        {
+          "word": "Salvador,",
+          "start": 100.48,
+          "end": 101.82
+        }
+      ],
+      "start": 98.1,
+      "end": 103.28,
+      "confidence": 1.0,
+      "time": 98.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "y me postro ante tu cruz.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 103.28,
+          "end": 103.54
+        },
+        {
+          "word": "me",
+          "start": 103.54,
+          "end": 104.62
+        },
+        {
+          "word": "posto",
+          "start": 104.62,
+          "end": 105.46
+        },
+        {
+          "word": "ante",
+          "start": 105.46,
+          "end": 106.14
+        },
+        {
+          "word": "tu",
+          "start": 106.14,
+          "end": 106.54
+        },
+        {
+          "word": "cruz,",
+          "start": 106.54,
+          "end": 108.04
+        }
+      ],
+      "start": 103.28,
+      "end": 108.46,
+      "confidence": 0.991,
+      "time": 103.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "¡Salva, oh sálvame, Jesús!",
+      "verse": 4,
+      "words": [
+        {
+          "word": "salva",
+          "start": 108.46,
+          "end": 108.86
+        },
+        {
+          "word": "o",
+          "start": 108.86,
+          "end": 109.56
+        },
+        {
+          "word": "sálvame",
+          "start": 109.56,
+          "end": 111.34
+        },
+        {
+          "word": "Jesús.",
+          "start": 111.34,
+          "end": 112.94
+        }
+      ],
+      "start": 108.46,
+      "end": 112.94,
+      "confidence": 0.95,
+      "time": 108.46
+    }
+  ]
+}

@@ -1,0 +1,919 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.939,
+  "language": "es",
+  "model": "medium",
+  "hymn": 234,
+  "source": "234 - Temes que en la lucha.mp3",
+  "duration": 145.27,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Temes que en la lucha no podrás vencer?,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Te",
+          "start": 9.84,
+          "end": 10.88
+        },
+        {
+          "word": "que",
+          "start": 11.74,
+          "end": 12.14
+        },
+        {
+          "word": "en",
+          "start": 12.14,
+          "end": 12.36
+        },
+        {
+          "word": "la",
+          "start": 12.36,
+          "end": 12.62
+        },
+        {
+          "word": "lucha",
+          "start": 12.62,
+          "end": 13.04
+        },
+        {
+          "word": "no",
+          "start": 13.04,
+          "end": 13.58
+        },
+        {
+          "word": "podrás",
+          "start": 13.58,
+          "end": 14.54
+        },
+        {
+          "word": "vencer,",
+          "start": 14.54,
+          "end": 16.14
+        }
+      ],
+      "start": 9.84,
+      "end": 16.14,
+      "confidence": 0.993,
+      "time": 9.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿que con las tinieblas has de contender?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 16.66,
+          "end": 16.86
+        },
+        {
+          "word": "con",
+          "start": 16.86,
+          "end": 17.26
+        },
+        {
+          "word": "las",
+          "start": 17.26,
+          "end": 17.68
+        },
+        {
+          "word": "tinieblas",
+          "start": 17.68,
+          "end": 18.62
+        },
+        {
+          "word": "has",
+          "start": 18.62,
+          "end": 18.98
+        },
+        {
+          "word": "de",
+          "start": 18.98,
+          "end": 19.44
+        },
+        {
+          "word": "contender.",
+          "start": 19.44,
+          "end": 21.64
+        }
+      ],
+      "start": 16.66,
+      "end": 21.64,
+      "confidence": 1.0,
+      "time": 16.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Abre, pues, la puerta de tu corazón,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Abre",
+          "start": 21.84,
+          "end": 22.68
+        },
+        {
+          "word": "pues",
+          "start": 22.68,
+          "end": 23.12
+        },
+        {
+          "word": "la",
+          "start": 23.12,
+          "end": 23.36
+        },
+        {
+          "word": "puerta",
+          "start": 23.36,
+          "end": 23.96
+        },
+        {
+          "word": "de",
+          "start": 23.96,
+          "end": 24.5
+        },
+        {
+          "word": "tu",
+          "start": 24.5,
+          "end": 24.9
+        },
+        {
+          "word": "corazón,",
+          "start": 24.9,
+          "end": 26.9
+        }
+      ],
+      "start": 21.84,
+      "end": 26.9,
+      "confidence": 1.0,
+      "time": 21.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "deja al Salvador entrar.",
+      "verse": 1,
+      "start": 26.9,
+      "end": 27.1,
+      "confidence": 0.0,
+      "time": 26.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Deja al Salvador entrar,",
+      "start": 27.1,
+      "end": 27.3,
+      "confidence": 0.0,
+      "time": 27.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "deja al Salvador entrar;",
+      "words": [
+        {
+          "word": "Deja",
+          "start": 26.9,
+          "end": 27.96
+        },
+        {
+          "word": "al",
+          "start": 27.96,
+          "end": 28.2
+        },
+        {
+          "word": "Salvador",
+          "start": 28.2,
+          "end": 29.46
+        },
+        {
+          "word": "entrar,",
+          "start": 29.46,
+          "end": 43.08
+        }
+      ],
+      "start": 27.3,
+      "end": 27.5,
+      "confidence": 1.0,
+      "time": 27.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "abre, pues, la puerta de tu corazón,",
+      "words": [
+        {
+          "word": "Abre",
+          "start": 44.14,
+          "end": 44.42
+        },
+        {
+          "word": "pues",
+          "start": 44.42,
+          "end": 44.86
+        },
+        {
+          "word": "la",
+          "start": 44.86,
+          "end": 45.14
+        },
+        {
+          "word": "puerta",
+          "start": 45.14,
+          "end": 45.7
+        },
+        {
+          "word": "de",
+          "start": 45.7,
+          "end": 46.26
+        },
+        {
+          "word": "tu",
+          "start": 46.26,
+          "end": 46.96
+        },
+        {
+          "word": "corazón,",
+          "start": 46.96,
+          "end": 48.82
+        }
+      ],
+      "start": 44.14,
+      "end": 48.82,
+      "confidence": 1.0,
+      "time": 44.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y entrará el Salvador.",
+      "words": [
+        {
+          "word": "Y",
+          "start": 49.52,
+          "end": 49.7
+        },
+        {
+          "word": "entrará",
+          "start": 49.7,
+          "end": 50.46
+        },
+        {
+          "word": "el",
+          "start": 50.46,
+          "end": 51.06
+        },
+        {
+          "word": "Salvador.",
+          "start": 51.06,
+          "end": 52.54
+        }
+      ],
+      "start": 49.52,
+      "end": 52.54,
+      "confidence": 1.0,
+      "time": 49.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Es tu fe muy débil en la oscuridad?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Es",
+          "start": 54.04,
+          "end": 55.1
+        },
+        {
+          "word": "tu",
+          "start": 55.1,
+          "end": 55.28
+        },
+        {
+          "word": "fe",
+          "start": 55.28,
+          "end": 55.74
+        },
+        {
+          "word": "muy",
+          "start": 55.74,
+          "end": 56.1
+        },
+        {
+          "word": "débil",
+          "start": 56.1,
+          "end": 56.86
+        },
+        {
+          "word": "en",
+          "start": 56.86,
+          "end": 57.18
+        },
+        {
+          "word": "la",
+          "start": 57.18,
+          "end": 57.44
+        },
+        {
+          "word": "oscuridad,",
+          "start": 57.44,
+          "end": 59.84
+        }
+      ],
+      "start": 54.04,
+      "end": 60.34,
+      "confidence": 1.0,
+      "time": 54.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Son tus fuerzas pocas contra la maldad?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "son",
+          "start": 60.34,
+          "end": 60.5
+        },
+        {
+          "word": "tus",
+          "start": 60.5,
+          "end": 60.9
+        },
+        {
+          "word": "fuerzas",
+          "start": 60.9,
+          "end": 61.42
+        },
+        {
+          "word": "bocas",
+          "start": 61.42,
+          "end": 62.12
+        },
+        {
+          "word": "contra",
+          "start": 62.12,
+          "end": 62.76
+        },
+        {
+          "word": "la",
+          "start": 62.76,
+          "end": 63.64
+        },
+        {
+          "word": "amaldad.",
+          "start": 63.64,
+          "end": 64.54
+        }
+      ],
+      "start": 60.34,
+      "end": 64.54,
+      "confidence": 0.976,
+      "time": 60.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Abre, pues, la puerta de tu corazón,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Abre",
+          "start": 65.58,
+          "end": 66.3
+        },
+        {
+          "word": "pues",
+          "start": 66.3,
+          "end": 66.72
+        },
+        {
+          "word": "la",
+          "start": 66.72,
+          "end": 67.02
+        },
+        {
+          "word": "puerta",
+          "start": 67.02,
+          "end": 67.54
+        },
+        {
+          "word": "de",
+          "start": 67.54,
+          "end": 68.12
+        },
+        {
+          "word": "tu",
+          "start": 68.12,
+          "end": 68.38
+        },
+        {
+          "word": "corazón,",
+          "start": 68.38,
+          "end": 70.48
+        }
+      ],
+      "start": 65.58,
+      "end": 71.3,
+      "confidence": 1.0,
+      "time": 65.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "deja al Salvador entrar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "deja",
+          "start": 71.3,
+          "end": 71.56
+        },
+        {
+          "word": "al",
+          "start": 71.56,
+          "end": 72.1
+        },
+        {
+          "word": "Salvador",
+          "start": 72.1,
+          "end": 73.12
+        },
+        {
+          "word": "entrar.",
+          "start": 73.12,
+          "end": 75.8
+        }
+      ],
+      "start": 71.3,
+      "end": 75.8,
+      "confidence": 1.0,
+      "time": 71.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Deja al Salvador entrar,",
+      "words": [
+        {
+          "word": "Deja",
+          "start": 75.8,
+          "end": 77.06
+        },
+        {
+          "word": "al",
+          "start": 77.06,
+          "end": 77.52
+        },
+        {
+          "word": "Salvador",
+          "start": 77.52,
+          "end": 78.52
+        },
+        {
+          "word": "entrar,",
+          "start": 78.52,
+          "end": 81.48
+        }
+      ],
+      "start": 75.8,
+      "end": 82.24,
+      "confidence": 1.0,
+      "time": 75.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "deja al Salvador entrar;",
+      "words": [
+        {
+          "word": "deja",
+          "start": 82.24,
+          "end": 82.42
+        },
+        {
+          "word": "al",
+          "start": 82.42,
+          "end": 83.88
+        },
+        {
+          "word": "Salvador",
+          "start": 83.88,
+          "end": 83.98
+        },
+        {
+          "word": "entrar,",
+          "start": 83.98,
+          "end": 87.04
+        }
+      ],
+      "start": 82.24,
+      "end": 87.86,
+      "confidence": 1.0,
+      "time": 82.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "abre, pues, la puerta de tu corazón,",
+      "words": [
+        {
+          "word": "abre",
+          "start": 87.86,
+          "end": 87.98
+        },
+        {
+          "word": "pues",
+          "start": 87.98,
+          "end": 88.54
+        },
+        {
+          "word": "la",
+          "start": 88.54,
+          "end": 88.82
+        },
+        {
+          "word": "puerta",
+          "start": 88.82,
+          "end": 89.34
+        },
+        {
+          "word": "de",
+          "start": 89.34,
+          "end": 89.84
+        },
+        {
+          "word": "tu",
+          "start": 89.84,
+          "end": 90.66
+        },
+        {
+          "word": "corazón",
+          "start": 90.66,
+          "end": 92.36
+        }
+      ],
+      "start": 87.86,
+      "end": 92.36,
+      "confidence": 1.0,
+      "time": 87.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y entrará el Salvador.",
+      "words": [
+        {
+          "word": "y",
+          "start": 92.36,
+          "end": 93.24
+        },
+        {
+          "word": "entrará",
+          "start": 93.24,
+          "end": 94.18
+        },
+        {
+          "word": "el",
+          "start": 94.18,
+          "end": 94.92
+        },
+        {
+          "word": "Salvador.",
+          "start": 94.92,
+          "end": 96.0
+        }
+      ],
+      "start": 92.36,
+      "end": 96.0,
+      "confidence": 1.0,
+      "time": 92.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¿Quieres ir gozándote en la senda aquí?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "¿Quieres",
+          "start": 97.94,
+          "end": 99.1
+        },
+        {
+          "word": "ir",
+          "start": 99.1,
+          "end": 99.4
+        },
+        {
+          "word": "gozándote",
+          "start": 99.4,
+          "end": 100.56
+        },
+        {
+          "word": "en",
+          "start": 100.56,
+          "end": 100.86
+        },
+        {
+          "word": "la",
+          "start": 100.86,
+          "end": 101.18
+        },
+        {
+          "word": "senda",
+          "start": 101.18,
+          "end": 102.32
+        },
+        {
+          "word": "aquí?",
+          "start": 102.32,
+          "end": 103.34
+        }
+      ],
+      "start": 97.94,
+      "end": 103.34,
+      "confidence": 1.0,
+      "time": 97.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¿Quieres que el Señor te utilice a ti?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "¿Quieres",
+          "start": 103.76,
+          "end": 104.4
+        },
+        {
+          "word": "que",
+          "start": 104.4,
+          "end": 104.68
+        },
+        {
+          "word": "el",
+          "start": 104.68,
+          "end": 104.92
+        },
+        {
+          "word": "Señor",
+          "start": 104.92,
+          "end": 105.42
+        },
+        {
+          "word": "te",
+          "start": 105.42,
+          "end": 106.24
+        },
+        {
+          "word": "utilice",
+          "start": 106.24,
+          "end": 107.5
+        },
+        {
+          "word": "a",
+          "start": 107.5,
+          "end": 107.96
+        },
+        {
+          "word": "ti?",
+          "start": 107.96,
+          "end": 108.54
+        }
+      ],
+      "start": 103.76,
+      "end": 108.54,
+      "confidence": 1.0,
+      "time": 103.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Abre, pues, la puerta de tu corazón,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Abre",
+          "start": 109.58,
+          "end": 109.94
+        },
+        {
+          "word": "pues",
+          "start": 109.94,
+          "end": 110.38
+        },
+        {
+          "word": "la",
+          "start": 110.38,
+          "end": 110.68
+        },
+        {
+          "word": "puerta",
+          "start": 110.68,
+          "end": 111.26
+        },
+        {
+          "word": "de",
+          "start": 111.26,
+          "end": 111.84
+        },
+        {
+          "word": "tu",
+          "start": 111.84,
+          "end": 112.56
+        },
+        {
+          "word": "corazón,",
+          "start": 112.56,
+          "end": 114.26
+        }
+      ],
+      "start": 109.58,
+      "end": 114.26,
+      "confidence": 1.0,
+      "time": 109.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "deja al Salvador entrar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Deja",
+          "start": 114.26,
+          "end": 115.24
+        },
+        {
+          "word": "al",
+          "start": 115.24,
+          "end": 115.54
+        },
+        {
+          "word": "Salvador",
+          "start": 115.54,
+          "end": 116.72
+        },
+        {
+          "word": "entrar,",
+          "start": 116.72,
+          "end": 119.72
+        }
+      ],
+      "start": 114.26,
+      "end": 120.38,
+      "confidence": 1.0,
+      "time": 114.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Deja al Salvador entrar,",
+      "words": [
+        {
+          "word": "Deja",
+          "start": 120.38,
+          "end": 120.68
+        },
+        {
+          "word": "al",
+          "start": 120.68,
+          "end": 120.78
+        },
+        {
+          "word": "Salvador",
+          "start": 120.78,
+          "end": 122.18
+        },
+        {
+          "word": "entrar,",
+          "start": 122.18,
+          "end": 125.14
+        }
+      ],
+      "start": 120.38,
+      "end": 125.66,
+      "confidence": 1.0,
+      "time": 120.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "deja al Salvador entrar;",
+      "words": [
+        {
+          "word": "Deja",
+          "start": 125.66,
+          "end": 126.1
+        },
+        {
+          "word": "al",
+          "start": 126.1,
+          "end": 126.6
+        },
+        {
+          "word": "Salvador",
+          "start": 126.6,
+          "end": 127.62
+        },
+        {
+          "word": "entrar.",
+          "start": 127.62,
+          "end": 130.46
+        }
+      ],
+      "start": 125.66,
+      "end": 130.46,
+      "confidence": 1.0,
+      "time": 125.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "abre, pues, la puerta de tu corazón,",
+      "words": [
+        {
+          "word": "Abre",
+          "start": 131.42,
+          "end": 131.74
+        },
+        {
+          "word": "pues",
+          "start": 131.74,
+          "end": 132.12
+        },
+        {
+          "word": "la",
+          "start": 132.12,
+          "end": 132.44
+        },
+        {
+          "word": "puerta",
+          "start": 132.44,
+          "end": 133.0
+        },
+        {
+          "word": "de",
+          "start": 133.0,
+          "end": 133.58
+        },
+        {
+          "word": "tu",
+          "start": 133.58,
+          "end": 134.34
+        },
+        {
+          "word": "corazón,",
+          "start": 134.34,
+          "end": 136.04
+        }
+      ],
+      "start": 131.42,
+      "end": 136.56,
+      "confidence": 1.0,
+      "time": 131.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y entrará el Salvador.",
+      "words": [
+        {
+          "word": "y",
+          "start": 136.56,
+          "end": 136.92
+        },
+        {
+          "word": "entrará",
+          "start": 136.92,
+          "end": 137.82
+        },
+        {
+          "word": "el",
+          "start": 137.82,
+          "end": 138.76
+        },
+        {
+          "word": "Salvador.",
+          "start": 138.76,
+          "end": 139.98
+        }
+      ],
+      "start": 136.56,
+      "end": 139.98,
+      "confidence": 1.0,
+      "time": 136.56
+    }
+  ]
+}

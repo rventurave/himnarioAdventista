@@ -1,0 +1,831 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.774,
+  "language": "es",
+  "model": "medium",
+  "hymn": 244,
+  "source": "244 - Padre, Dios.mp3",
+  "duration": 160.86,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Padre, Dios, estoy pensando en ti.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 0.92,
+          "end": 1.84
+        },
+        {
+          "word": "en",
+          "start": 2.16,
+          "end": 2.16
+        }
+      ],
+      "start": 0.92,
+      "end": 2.16,
+      "confidence": 0.323,
+      "time": 0.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ya no soy el mismo de ayer.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 2.16,
+          "end": 2.16
+        }
+      ],
+      "start": 2.16,
+      "end": 29.98,
+      "confidence": 0.143,
+      "time": 2.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Pero sé, me reconocerás.",
+      "verse": 1,
+      "start": 29.98,
+      "end": 30.18,
+      "confidence": 0.0,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Padre, Dios, hoy me acordé de ti.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Padre",
+          "start": 30.0,
+          "end": 30.98
+        },
+        {
+          "word": "Dios,",
+          "start": 30.98,
+          "end": 32.12
+        },
+        {
+          "word": "hoy",
+          "start": 32.4,
+          "end": 32.46
+        },
+        {
+          "word": "me",
+          "start": 32.46,
+          "end": 32.92
+        },
+        {
+          "word": "acordé",
+          "start": 32.92,
+          "end": 33.76
+        },
+        {
+          "word": "de",
+          "start": 33.76,
+          "end": 34.06
+        },
+        {
+          "word": "ti,",
+          "start": 34.06,
+          "end": 35.92
+        }
+      ],
+      "start": 30.18,
+      "end": 30.38,
+      "confidence": 1.0,
+      "time": 30.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Buen Señor, decido regresar,",
+      "words": [
+        {
+          "word": "buen",
+          "start": 36.34,
+          "end": 36.58
+        },
+        {
+          "word": "Señor,",
+          "start": 36.58,
+          "end": 38.06
+        },
+        {
+          "word": "decido",
+          "start": 38.38,
+          "end": 39.26
+        },
+        {
+          "word": "regresar",
+          "start": 39.26,
+          "end": 41.92
+        }
+      ],
+      "start": 36.34,
+      "end": 41.92,
+      "confidence": 1.0,
+      "time": 36.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "porque sé que tú estarás allí.",
+      "words": [
+        {
+          "word": "porque",
+          "start": 41.92,
+          "end": 42.76
+        },
+        {
+          "word": "sé",
+          "start": 42.76,
+          "end": 44.0
+        },
+        {
+          "word": "que",
+          "start": 44.0,
+          "end": 44.4
+        },
+        {
+          "word": "tú",
+          "start": 44.4,
+          "end": 44.82
+        },
+        {
+          "word": "estarás",
+          "start": 44.82,
+          "end": 45.8
+        },
+        {
+          "word": "allí,",
+          "start": 45.8,
+          "end": 47.7
+        }
+      ],
+      "start": 41.92,
+      "end": 47.7,
+      "confidence": 1.0,
+      "time": 41.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Veo hoy lo que antes no entendí;",
+      "words": [
+        {
+          "word": "lo",
+          "start": 49.08,
+          "end": 50.32
+        },
+        {
+          "word": "que",
+          "start": 50.32,
+          "end": 50.8
+        },
+        {
+          "word": "antes",
+          "start": 50.8,
+          "end": 51.16
+        },
+        {
+          "word": "no",
+          "start": 51.16,
+          "end": 51.64
+        },
+        {
+          "word": "entendí",
+          "start": 51.64,
+          "end": 53.94
+        }
+      ],
+      "start": 49.08,
+      "end": 53.94,
+      "confidence": 0.714,
+      "time": 49.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "no estaré más lejos del hogar.",
+      "words": [
+        {
+          "word": "no",
+          "start": 53.94,
+          "end": 54.56
+        },
+        {
+          "word": "estaré",
+          "start": 54.56,
+          "end": 56.04
+        },
+        {
+          "word": "más",
+          "start": 56.04,
+          "end": 56.52
+        },
+        {
+          "word": "lejos",
+          "start": 56.52,
+          "end": 57.24
+        },
+        {
+          "word": "de",
+          "start": 57.24,
+          "end": 57.88
+        },
+        {
+          "word": "lugar.",
+          "start": 57.88,
+          "end": 59.74
+        }
+      ],
+      "start": 53.94,
+      "end": 59.74,
+      "confidence": 0.95,
+      "time": 53.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Padre, Dios, estoy volviendo a ti;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Padre",
+          "start": 60.66,
+          "end": 61.1
+        },
+        {
+          "word": "Dios,",
+          "start": 61.1,
+          "end": 62.02
+        },
+        {
+          "word": "estoy",
+          "start": 62.36,
+          "end": 62.76
+        },
+        {
+          "word": "volviendo",
+          "start": 62.76,
+          "end": 63.66
+        },
+        {
+          "word": "a",
+          "start": 63.66,
+          "end": 64.12
+        },
+        {
+          "word": "ti,",
+          "start": 64.12,
+          "end": 65.72
+        }
+      ],
+      "start": 60.66,
+      "end": 65.72,
+      "confidence": 1.0,
+      "time": 60.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "siento que tú me recibirás.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "siento",
+          "start": 66.2,
+          "end": 66.74
+        },
+        {
+          "word": "que",
+          "start": 66.74,
+          "end": 68.0
+        },
+        {
+          "word": "tú",
+          "start": 68.0,
+          "end": 68.38
+        },
+        {
+          "word": "me",
+          "start": 68.38,
+          "end": 69.0
+        },
+        {
+          "word": "recibirás,",
+          "start": 69.0,
+          "end": 71.82
+        }
+      ],
+      "start": 66.2,
+      "end": 71.82,
+      "confidence": 1.0,
+      "time": 66.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Creo que aún me perdonarás.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "creo",
+          "start": 72.22,
+          "end": 72.88
+        },
+        {
+          "word": "que",
+          "start": 72.88,
+          "end": 74.18
+        },
+        {
+          "word": "aún",
+          "start": 74.18,
+          "end": 74.54
+        },
+        {
+          "word": "me",
+          "start": 74.54,
+          "end": 75.1
+        },
+        {
+          "word": "perdonarás.",
+          "start": 75.1,
+          "end": 77.7
+        }
+      ],
+      "start": 72.22,
+      "end": 77.7,
+      "confidence": 1.0,
+      "time": 72.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Padre, Dios, mi senda va hacia ti.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Padre",
+          "start": 77.7,
+          "end": 79.0
+        },
+        {
+          "word": "Dios,",
+          "start": 79.0,
+          "end": 80.1
+        },
+        {
+          "word": "mi",
+          "start": 80.4,
+          "end": 80.52
+        },
+        {
+          "word": "a",
+          "start": 81.84,
+          "end": 82.26
+        },
+        {
+          "word": "ti,",
+          "start": 82.26,
+          "end": 83.96
+        }
+      ],
+      "start": 77.7,
+      "end": 84.36,
+      "confidence": 0.686,
+      "time": 77.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Buen Señor, decido regresar,",
+      "words": [
+        {
+          "word": "buen",
+          "start": 84.36,
+          "end": 84.58
+        },
+        {
+          "word": "Señor",
+          "start": 84.58,
+          "end": 86.04
+        }
+      ],
+      "start": 84.36,
+      "end": 89.72,
+      "confidence": 0.5,
+      "time": 84.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "porque sé que tú estarás allí.",
+      "words": [
+        {
+          "word": "porque",
+          "start": 90.38,
+          "end": 90.92
+        },
+        {
+          "word": "sé",
+          "start": 90.92,
+          "end": 91.98
+        },
+        {
+          "word": "que",
+          "start": 91.98,
+          "end": 92.4
+        },
+        {
+          "word": "tú",
+          "start": 92.4,
+          "end": 92.84
+        },
+        {
+          "word": "estarás",
+          "start": 92.84,
+          "end": 93.82
+        },
+        {
+          "word": "allí,",
+          "start": 93.82,
+          "end": 95.6
+        }
+      ],
+      "start": 90.38,
+      "end": 96.44,
+      "confidence": 1.0,
+      "time": 90.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Veo hoy lo que antes no entendí;",
+      "words": [
+        {
+          "word": "veo",
+          "start": 96.44,
+          "end": 97.12
+        },
+        {
+          "word": "lo",
+          "start": 97.12,
+          "end": 98.3
+        },
+        {
+          "word": "que",
+          "start": 98.3,
+          "end": 98.78
+        },
+        {
+          "word": "antes",
+          "start": 98.78,
+          "end": 99.16
+        },
+        {
+          "word": "no",
+          "start": 99.16,
+          "end": 99.64
+        },
+        {
+          "word": "entendí,",
+          "start": 99.64,
+          "end": 101.92
+        }
+      ],
+      "start": 96.44,
+      "end": 101.92,
+      "confidence": 0.857,
+      "time": 96.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "no estaré más lejos del hogar.",
+      "words": [
+        {
+          "word": "No",
+          "start": 101.92,
+          "end": 102.6
+        },
+        {
+          "word": "estaré",
+          "start": 102.6,
+          "end": 104.08
+        },
+        {
+          "word": "más",
+          "start": 104.08,
+          "end": 104.62
+        },
+        {
+          "word": "lejos",
+          "start": 104.62,
+          "end": 105.46
+        },
+        {
+          "word": "del",
+          "start": 105.46,
+          "end": 105.94
+        }
+      ],
+      "start": 101.92,
+      "end": 107.78,
+      "confidence": 0.833,
+      "time": 101.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Padre, Dios, mis bienes los perdí;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Padre",
+          "start": 108.64,
+          "end": 109.08
+        },
+        {
+          "word": "Dios,",
+          "start": 109.08,
+          "end": 109.96
+        },
+        {
+          "word": "mis",
+          "start": 110.02,
+          "end": 110.38
+        },
+        {
+          "word": "bienes",
+          "start": 110.38,
+          "end": 111.12
+        },
+        {
+          "word": "los",
+          "start": 111.12,
+          "end": 111.66
+        },
+        {
+          "word": "perdí.",
+          "start": 111.66,
+          "end": 113.84
+        }
+      ],
+      "start": 108.64,
+      "end": 113.84,
+      "confidence": 1.0,
+      "time": 108.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "mírame como un siervo más.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Mírame",
+          "start": 114.52,
+          "end": 115.92
+        },
+        {
+          "word": "como",
+          "start": 115.92,
+          "end": 116.64
+        },
+        {
+          "word": "un",
+          "start": 116.64,
+          "end": 117.18
+        },
+        {
+          "word": "siervo",
+          "start": 117.18,
+          "end": 117.96
+        },
+        {
+          "word": "más,",
+          "start": 117.96,
+          "end": 119.7
+        }
+      ],
+      "start": 114.52,
+      "end": 119.7,
+      "confidence": 1.0,
+      "time": 114.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Lleno estoy de indignidad y mal.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 120.4,
+          "end": 120.56
+        },
+        {
+          "word": "indignidad",
+          "start": 121.82,
+          "end": 123.5
+        },
+        {
+          "word": "y",
+          "start": 123.5,
+          "end": 124.04
+        },
+        {
+          "word": "mal.",
+          "start": 124.04,
+          "end": 125.52
+        }
+      ],
+      "start": 120.4,
+      "end": 125.52,
+      "confidence": 0.667,
+      "time": 120.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Padre, Dios, estás viniendo a mí.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Padre",
+          "start": 125.52,
+          "end": 126.98
+        },
+        {
+          "word": "Dios,",
+          "start": 126.98,
+          "end": 128.06
+        },
+        {
+          "word": "estás",
+          "start": 128.32,
+          "end": 128.84
+        },
+        {
+          "word": "viniendo",
+          "start": 128.84,
+          "end": 129.82
+        },
+        {
+          "word": "a",
+          "start": 129.82,
+          "end": 130.36
+        },
+        {
+          "word": "mí.",
+          "start": 130.36,
+          "end": 132.0
+        }
+      ],
+      "start": 125.52,
+      "end": 132.0,
+      "confidence": 1.0,
+      "time": 125.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Buen Señor, decido regresar,",
+      "words": [
+        {
+          "word": "Buen",
+          "start": 132.36,
+          "end": 132.84
+        },
+        {
+          "word": "Señor,",
+          "start": 132.84,
+          "end": 134.08
+        },
+        {
+          "word": "decido",
+          "start": 134.4,
+          "end": 135.2
+        },
+        {
+          "word": "regresar,",
+          "start": 135.2,
+          "end": 137.88
+        }
+      ],
+      "start": 132.36,
+      "end": 137.88,
+      "confidence": 1.0,
+      "time": 132.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "porque sé que tú estarás allí.",
+      "words": [
+        {
+          "word": "porque",
+          "start": 138.54,
+          "end": 138.92
+        },
+        {
+          "word": "sé",
+          "start": 138.92,
+          "end": 139.62
+        },
+        {
+          "word": "que",
+          "start": 139.62,
+          "end": 140.38
+        },
+        {
+          "word": "tú",
+          "start": 140.38,
+          "end": 140.84
+        },
+        {
+          "word": "estarás",
+          "start": 140.84,
+          "end": 141.72
+        },
+        {
+          "word": "a",
+          "start": 141.72,
+          "end": 142.2
+        }
+      ],
+      "start": 138.54,
+      "end": 143.86,
+      "confidence": 0.99,
+      "time": 138.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Veo hoy lo que antes no entendí;",
+      "words": [
+        {
+          "word": "eso",
+          "start": 147.22,
+          "end": 147.5
+        },
+        {
+          "word": "entendí,",
+          "start": 147.5,
+          "end": 149.86
+        }
+      ],
+      "start": 147.22,
+      "end": 149.86,
+      "confidence": 0.257,
+      "time": 147.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "no estaré más lejos del hogar.",
+      "words": [
+        {
+          "word": "haré",
+          "start": 150.8,
+          "end": 152.08
+        },
+        {
+          "word": "más",
+          "start": 152.08,
+          "end": 152.6
+        },
+        {
+          "word": "lejos",
+          "start": 152.6,
+          "end": 153.7
+        },
+        {
+          "word": "de",
+          "start": 153.7,
+          "end": 154.28
+        },
+        {
+          "word": "lugar.",
+          "start": 154.28,
+          "end": 156.26
+        }
+      ],
+      "start": 150.8,
+      "end": 156.26,
+      "confidence": 0.743,
+      "time": 150.8
+    }
+  ]
+}

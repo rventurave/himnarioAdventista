@@ -1,0 +1,830 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.897,
+  "language": "es",
+  "model": "medium",
+  "hymn": 377,
+  "source": "377 - A los pies de Jesucristo.mp3",
+  "duration": 175.73,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "A los pies de Jesucristo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "A",
+          "start": 14.02,
+          "end": 15.3
+        },
+        {
+          "word": "los",
+          "start": 15.3,
+          "end": 16.58
+        },
+        {
+          "word": "pies",
+          "start": 16.58,
+          "end": 16.98
+        },
+        {
+          "word": "de",
+          "start": 16.98,
+          "end": 17.44
+        },
+        {
+          "word": "Jesucristo,",
+          "start": 17.44,
+          "end": 21.06
+        }
+      ],
+      "start": 14.02,
+      "end": 21.5,
+      "confidence": 1.0,
+      "time": 14.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡qué palabras me habla a mí!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "qué",
+          "start": 21.5,
+          "end": 22.62
+        },
+        {
+          "word": "palabras",
+          "start": 22.62,
+          "end": 23.8
+        },
+        {
+          "word": "me",
+          "start": 23.8,
+          "end": 24.26
+        },
+        {
+          "word": "habla",
+          "start": 24.26,
+          "end": 24.66
+        },
+        {
+          "word": "a",
+          "start": 24.66,
+          "end": 25.3
+        },
+        {
+          "word": "mí.",
+          "start": 25.3,
+          "end": 27.14
+        }
+      ],
+      "start": 21.5,
+      "end": 27.14,
+      "confidence": 1.0,
+      "time": 21.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Sitio tan feliz, precioso,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sitio",
+          "start": 27.14,
+          "end": 29.38
+        },
+        {
+          "word": "tan",
+          "start": 29.38,
+          "end": 30.02
+        },
+        {
+          "word": "feliz,",
+          "start": 30.02,
+          "end": 30.82
+        },
+        {
+          "word": "precioso,",
+          "start": 31.18,
+          "end": 34.16
+        }
+      ],
+      "start": 27.14,
+      "end": 34.16,
+      "confidence": 1.0,
+      "time": 27.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cada día encuentro aquí!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cada",
+          "start": 34.54,
+          "end": 35.88
+        },
+        {
+          "word": "día",
+          "start": 35.88,
+          "end": 36.68
+        },
+        {
+          "word": "encuentro",
+          "start": 36.68,
+          "end": 37.58
+        },
+        {
+          "word": "a",
+          "start": 37.58,
+          "end": 38.22
+        }
+      ],
+      "start": 34.54,
+      "end": 40.14,
+      "confidence": 0.985,
+      "time": 34.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Contemplando lo pasado,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Contemplando",
+          "start": 41.9,
+          "end": 43.3
+        },
+        {
+          "word": "lo",
+          "start": 43.3,
+          "end": 43.74
+        },
+        {
+          "word": "pasado,",
+          "start": 43.74,
+          "end": 46.8
+        }
+      ],
+      "start": 41.9,
+      "end": 46.8,
+      "confidence": 1.0,
+      "time": 41.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "vuelvo a ver hoy la visión",
+      "verse": 1,
+      "words": [
+        {
+          "word": "vuelvo",
+          "start": 47.84,
+          "end": 48.96
+        },
+        {
+          "word": "a",
+          "start": 48.96,
+          "end": 49.46
+        },
+        {
+          "word": "ver",
+          "start": 49.46,
+          "end": 49.52
+        },
+        {
+          "word": "hoy",
+          "start": 49.52,
+          "end": 49.84
+        },
+        {
+          "word": "la",
+          "start": 49.84,
+          "end": 50.42
+        },
+        {
+          "word": "visión,",
+          "start": 50.42,
+          "end": 53.44
+        }
+      ],
+      "start": 47.84,
+      "end": 53.44,
+      "confidence": 1.0,
+      "time": 47.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "del amor tan puro y santo",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Del",
+          "start": 53.44,
+          "end": 55.12
+        },
+        {
+          "word": "amor",
+          "start": 55.12,
+          "end": 55.9
+        },
+        {
+          "word": "tan",
+          "start": 55.9,
+          "end": 56.34
+        },
+        {
+          "word": "puro",
+          "start": 56.34,
+          "end": 56.96
+        },
+        {
+          "word": "y",
+          "start": 56.96,
+          "end": 57.34
+        },
+        {
+          "word": "santo,",
+          "start": 57.34,
+          "end": 59.86
+        }
+      ],
+      "start": 53.44,
+      "end": 61.78,
+      "confidence": 1.0,
+      "time": 53.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que ganó mi corazón.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ganó",
+          "start": 61.78,
+          "end": 62.44
+        },
+        {
+          "word": "mi",
+          "start": 62.44,
+          "end": 62.92
+        },
+        {
+          "word": "corazón.",
+          "start": 62.92,
+          "end": 66.0
+        }
+      ],
+      "start": 61.78,
+      "end": 66.0,
+      "confidence": 0.75,
+      "time": 61.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "A los pies de Jesucristo,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 67.58,
+          "end": 68.98
+        },
+        {
+          "word": "los",
+          "start": 68.98,
+          "end": 69.48
+        },
+        {
+          "word": "pies",
+          "start": 69.48,
+          "end": 69.9
+        },
+        {
+          "word": "de",
+          "start": 69.9,
+          "end": 70.36
+        },
+        {
+          "word": "Jesucristo,",
+          "start": 70.36,
+          "end": 73.72
+        }
+      ],
+      "start": 67.58,
+      "end": 74.76,
+      "confidence": 1.0,
+      "time": 67.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡cuánto bien se puede hallar!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cuanto",
+          "start": 74.76,
+          "end": 75.64
+        },
+        {
+          "word": "bien",
+          "start": 75.64,
+          "end": 76.2
+        },
+        {
+          "word": "se",
+          "start": 76.2,
+          "end": 76.74
+        },
+        {
+          "word": "puede",
+          "start": 76.74,
+          "end": 77.3
+        },
+        {
+          "word": "hallar,",
+          "start": 77.3,
+          "end": 79.44
+        }
+      ],
+      "start": 74.76,
+      "end": 79.44,
+      "confidence": 1.0,
+      "time": 74.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Dejo aquí mi mal, mis penas,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Dejo",
+          "start": 79.44,
+          "end": 82.18
+        },
+        {
+          "word": "aquí",
+          "start": 82.18,
+          "end": 82.76
+        },
+        {
+          "word": "mi",
+          "start": 82.76,
+          "end": 83.22
+        },
+        {
+          "word": "mal,",
+          "start": 83.22,
+          "end": 83.46
+        },
+        {
+          "word": "mis",
+          "start": 84.14,
+          "end": 84.14
+        },
+        {
+          "word": "penas,",
+          "start": 84.14,
+          "end": 86.8
+        }
+      ],
+      "start": 79.44,
+      "end": 87.32,
+      "confidence": 1.0,
+      "time": 79.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y hallo grato descansar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 87.32,
+          "end": 88.28
+        },
+        {
+          "word": "nograto",
+          "start": 88.52,
+          "end": 89.58
+        },
+        {
+          "word": "descansar.",
+          "start": 89.58,
+          "end": 92.86
+        }
+      ],
+      "start": 87.32,
+      "end": 92.86,
+      "confidence": 0.725,
+      "time": 87.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "A los pies de Cristo, humilde,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 93.58,
+          "end": 94.96
+        },
+        {
+          "word": "los",
+          "start": 94.96,
+          "end": 95.28
+        }
+      ],
+      "start": 93.58,
+      "end": 100.22,
+      "confidence": 0.333,
+      "time": 93.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "lloro y gozo al orar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "lloro",
+          "start": 100.22,
+          "end": 101.56
+        },
+        {
+          "word": "y",
+          "start": 101.56,
+          "end": 101.98
+        },
+        {
+          "word": "gozo",
+          "start": 101.98,
+          "end": 102.78
+        },
+        {
+          "word": "al",
+          "start": 102.78,
+          "end": 103.18
+        },
+        {
+          "word": "orar.",
+          "start": 103.18,
+          "end": 105.44
+        }
+      ],
+      "start": 100.22,
+      "end": 105.44,
+      "confidence": 1.0,
+      "time": 100.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y anhelo gracia diaria",
+      "verse": 2,
+      "words": [
+        {
+          "word": "adiarla,",
+          "start": 109.76,
+          "end": 113.12
+        }
+      ],
+      "start": 109.76,
+      "end": 113.14,
+      "confidence": 0.215,
+      "time": 109.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "de su plenitud sacar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 113.14,
+          "end": 114.36
+        },
+        {
+          "word": "su",
+          "start": 114.36,
+          "end": 114.82
+        },
+        {
+          "word": "plenito",
+          "start": 114.82,
+          "end": 116.04
+        },
+        {
+          "word": "sacá.",
+          "start": 116.04,
+          "end": 119.32
+        }
+      ],
+      "start": 113.14,
+      "end": 119.32,
+      "confidence": 0.955,
+      "time": 113.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Oh, Señor bendito, dame",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Oh",
+          "start": 120.36,
+          "end": 121.62
+        },
+        {
+          "word": "Señor,",
+          "start": 121.62,
+          "end": 122.5
+        },
+        {
+          "word": "bendito",
+          "start": 122.72,
+          "end": 123.74
+        },
+        {
+          "word": "dante,",
+          "start": 123.74,
+          "end": 126.2
+        }
+      ],
+      "start": 120.36,
+      "end": 127.18,
+      "confidence": 0.95,
+      "time": 120.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu divina y santa paz!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tu",
+          "start": 127.18,
+          "end": 128.18
+        },
+        {
+          "word": "divina",
+          "start": 128.18,
+          "end": 129.26
+        },
+        {
+          "word": "y",
+          "start": 129.26,
+          "end": 129.48
+        },
+        {
+          "word": "santa",
+          "start": 129.48,
+          "end": 130.18
+        },
+        {
+          "word": "paz,",
+          "start": 130.18,
+          "end": 132.82
+        }
+      ],
+      "start": 127.18,
+      "end": 132.82,
+      "confidence": 1.0,
+      "time": 127.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mira con amor a tu hijo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Mira",
+          "start": 132.82,
+          "end": 134.88
+        },
+        {
+          "word": "con",
+          "start": 134.88,
+          "end": 135.58
+        },
+        {
+          "word": "amor",
+          "start": 135.58,
+          "end": 136.34
+        },
+        {
+          "word": "a",
+          "start": 136.34,
+          "end": 136.96
+        },
+        {
+          "word": "tu",
+          "start": 136.96,
+          "end": 137.52
+        },
+        {
+          "word": "hijo,",
+          "start": 137.52,
+          "end": 139.36
+        }
+      ],
+      "start": 132.82,
+      "end": 140.54,
+      "confidence": 1.0,
+      "time": 132.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "vea yo tu dulce faz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "vea",
+          "start": 140.54,
+          "end": 141.58
+        },
+        {
+          "word": "yo",
+          "start": 141.58,
+          "end": 141.96
+        },
+        {
+          "word": "tu",
+          "start": 141.96,
+          "end": 142.36
+        },
+        {
+          "word": "dulce",
+          "start": 142.36,
+          "end": 143.24
+        },
+        {
+          "word": "paz.",
+          "start": 143.24,
+          "end": 145.84
+        }
+      ],
+      "start": 140.54,
+      "end": 145.84,
+      "confidence": 0.96,
+      "time": 140.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Dame el ánimo de Cristo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Dame",
+          "start": 147.06,
+          "end": 147.72
+        },
+        {
+          "word": "el",
+          "start": 147.72,
+          "end": 148.36
+        },
+        {
+          "word": "ánimo",
+          "start": 148.36,
+          "end": 149.2
+        },
+        {
+          "word": "de",
+          "start": 149.2,
+          "end": 149.86
+        },
+        {
+          "word": "Cristo,",
+          "start": 149.86,
+          "end": 152.32
+        }
+      ],
+      "start": 147.06,
+      "end": 154.0,
+      "confidence": 1.0,
+      "time": 147.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hazme santo, justo y fiel;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "hazme",
+          "start": 154.0,
+          "end": 154.58
+        },
+        {
+          "word": "santo",
+          "start": 154.58,
+          "end": 155.24
+        },
+        {
+          "word": "justo",
+          "start": 155.24,
+          "end": 155.82
+        },
+        {
+          "word": "y",
+          "start": 155.82,
+          "end": 156.74
+        },
+        {
+          "word": "fiel.",
+          "start": 156.74,
+          "end": 158.92
+        }
+      ],
+      "start": 154.0,
+      "end": 158.92,
+      "confidence": 1.0,
+      "time": 154.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ande yo con Cristo siempre,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Andes",
+          "start": 158.92,
+          "end": 161.12
+        },
+        {
+          "word": "contristo",
+          "start": 161.44,
+          "end": 162.56
+        },
+        {
+          "word": "siempre,",
+          "start": 162.56,
+          "end": 165.18
+        }
+      ],
+      "start": 158.92,
+      "end": 166.24,
+      "confidence": 0.576,
+      "time": 158.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "porque mi justicia es él.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "porque",
+          "start": 166.24,
+          "end": 167.52
+        },
+        {
+          "word": "mi",
+          "start": 167.52,
+          "end": 168.06
+        },
+        {
+          "word": "justicia",
+          "start": 168.06,
+          "end": 169.52
+        },
+        {
+          "word": "es",
+          "start": 169.52,
+          "end": 170.18
+        },
+        {
+          "word": "él.",
+          "start": 170.18,
+          "end": 173.12
+        }
+      ],
+      "start": 166.24,
+      "end": 173.12,
+      "confidence": 1.0,
+      "time": 166.24
+    }
+  ]
+}

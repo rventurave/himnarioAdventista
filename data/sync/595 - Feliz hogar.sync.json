@@ -1,0 +1,526 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.997,
+  "language": "es",
+  "model": "medium",
+  "hymn": 595,
+  "source": "595 - Feliz hogar.mp3",
+  "duration": 176.93,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Feliz hogar, el que a ti recibe,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Feliz",
+          "start": 29.82,
+          "end": 31.22
+        },
+        {
+          "word": "hogar,",
+          "start": 31.22,
+          "end": 32.62
+        },
+        {
+          "word": "el",
+          "start": 32.72,
+          "end": 33.34
+        },
+        {
+          "word": "que",
+          "start": 33.34,
+          "end": 33.98
+        },
+        {
+          "word": "a",
+          "start": 33.98,
+          "end": 34.88
+        },
+        {
+          "word": "ti",
+          "start": 34.88,
+          "end": 35.5
+        },
+        {
+          "word": "recibe,",
+          "start": 35.5,
+          "end": 38.98
+        }
+      ],
+      "start": 29.82,
+      "end": 39.32,
+      "confidence": 1.0,
+      "time": 29.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Señor Jesús, el huésped de honor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Señor",
+          "start": 39.32,
+          "end": 41.06
+        },
+        {
+          "word": "Jesús,",
+          "start": 41.06,
+          "end": 43.44
+        },
+        {
+          "word": "el",
+          "start": 44.5,
+          "end": 44.84
+        },
+        {
+          "word": "huésped",
+          "start": 44.84,
+          "end": 46.1
+        },
+        {
+          "word": "de",
+          "start": 46.1,
+          "end": 47.3
+        },
+        {
+          "word": "honor.",
+          "start": 47.3,
+          "end": 49.96
+        }
+      ],
+      "start": 39.32,
+      "end": 49.96,
+      "confidence": 1.0,
+      "time": 39.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Feliz hogar, el que con alegría",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Feliz",
+          "start": 52.88,
+          "end": 54.28
+        },
+        {
+          "word": "hogar,",
+          "start": 54.28,
+          "end": 55.68
+        },
+        {
+          "word": "el",
+          "start": 55.68,
+          "end": 56.28
+        },
+        {
+          "word": "que",
+          "start": 56.28,
+          "end": 56.86
+        },
+        {
+          "word": "con",
+          "start": 56.86,
+          "end": 58.06
+        },
+        {
+          "word": "alegría",
+          "start": 58.06,
+          "end": 61.86
+        }
+      ],
+      "start": 52.88,
+      "end": 61.86,
+      "confidence": 1.0,
+      "time": 52.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "busca servirte siempre con amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Busca",
+          "start": 61.86,
+          "end": 64.06
+        },
+        {
+          "word": "servirte",
+          "start": 64.06,
+          "end": 67.72
+        },
+        {
+          "word": "siempre",
+          "start": 67.72,
+          "end": 68.74
+        },
+        {
+          "word": "con",
+          "start": 68.74,
+          "end": 70.14
+        },
+        {
+          "word": "amor",
+          "start": 70.14,
+          "end": 72.86
+        }
+      ],
+      "start": 61.86,
+      "end": 72.86,
+      "confidence": 1.0,
+      "time": 61.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Feliz hogar, dichosos los esposos",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Feliz",
+          "start": 78.24,
+          "end": 79.64
+        },
+        {
+          "word": "hogar,",
+          "start": 79.64,
+          "end": 81.04
+        },
+        {
+          "word": "dichosos",
+          "start": 81.74,
+          "end": 83.16
+        },
+        {
+          "word": "los",
+          "start": 83.16,
+          "end": 84.36
+        },
+        {
+          "word": "esposos,",
+          "start": 84.36,
+          "end": 87.08
+        }
+      ],
+      "start": 78.24,
+      "end": 87.54,
+      "confidence": 1.0,
+      "time": 78.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "que en unidad te buscan, oh Señor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 87.54,
+          "end": 88.94
+        },
+        {
+          "word": "en",
+          "start": 88.94,
+          "end": 89.72
+        },
+        {
+          "word": "unidad",
+          "start": 89.72,
+          "end": 92.16
+        },
+        {
+          "word": "te",
+          "start": 92.16,
+          "end": 93.3
+        },
+        {
+          "word": "buscan,",
+          "start": 93.3,
+          "end": 94.76
+        },
+        {
+          "word": "oh",
+          "start": 94.8,
+          "end": 95.7
+        },
+        {
+          "word": "Señor,",
+          "start": 95.7,
+          "end": 98.46
+        }
+      ],
+      "start": 87.54,
+      "end": 98.46,
+      "confidence": 1.0,
+      "time": 87.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Tu mano pueda, en toda circunstancia,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 98.46,
+          "end": 100.26
+        },
+        {
+          "word": "mano",
+          "start": 100.26,
+          "end": 101.84
+        },
+        {
+          "word": "pueda,",
+          "start": 101.84,
+          "end": 104.22
+        },
+        {
+          "word": "en",
+          "start": 104.28,
+          "end": 105.22
+        },
+        {
+          "word": "toda",
+          "start": 105.22,
+          "end": 106.08
+        },
+        {
+          "word": "circunstancia,",
+          "start": 106.08,
+          "end": 110.36
+        }
+      ],
+      "start": 98.46,
+      "end": 111.56,
+      "confidence": 1.0,
+      "time": 98.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "rodearlos de un muro protector.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "rodearlos",
+          "start": 111.56,
+          "end": 113.24
+        },
+        {
+          "word": "de",
+          "start": 113.24,
+          "end": 115.32
+        },
+        {
+          "word": "un",
+          "start": 115.32,
+          "end": 116.22
+        },
+        {
+          "word": "muro",
+          "start": 116.22,
+          "end": 118.22
+        },
+        {
+          "word": "protector.",
+          "start": 118.22,
+          "end": 121.7
+        }
+      ],
+      "start": 111.56,
+      "end": 121.7,
+      "confidence": 1.0,
+      "time": 111.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Feliz hogar, en el que te entregan",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Feliz",
+          "start": 126.78,
+          "end": 128.18
+        },
+        {
+          "word": "hogar",
+          "start": 128.18,
+          "end": 129.58
+        },
+        {
+          "word": "en",
+          "start": 129.58,
+          "end": 130.66
+        },
+        {
+          "word": "el",
+          "start": 130.66,
+          "end": 131.32
+        },
+        {
+          "word": "que",
+          "start": 131.32,
+          "end": 131.82
+        },
+        {
+          "word": "te",
+          "start": 131.82,
+          "end": 133.28
+        },
+        {
+          "word": "entregan",
+          "start": 133.28,
+          "end": 136.04
+        }
+      ],
+      "start": 126.78,
+      "end": 136.04,
+      "confidence": 1.0,
+      "time": 126.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "los hijos, Dios, en oración de fe.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "los",
+          "start": 136.04,
+          "end": 137.74
+        },
+        {
+          "word": "hijos",
+          "start": 137.74,
+          "end": 138.9
+        },
+        {
+          "word": "Dios",
+          "start": 138.9,
+          "end": 140.82
+        },
+        {
+          "word": "en",
+          "start": 140.82,
+          "end": 142.08
+        },
+        {
+          "word": "oración",
+          "start": 142.08,
+          "end": 143.94
+        },
+        {
+          "word": "de",
+          "start": 143.94,
+          "end": 145.0
+        },
+        {
+          "word": "fe",
+          "start": 145.0,
+          "end": 147.52
+        }
+      ],
+      "start": 136.04,
+      "end": 147.52,
+      "confidence": 1.0,
+      "time": 136.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Tiernos aún, aprenden a amarte,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tiernos",
+          "start": 147.52,
+          "end": 150.0
+        },
+        {
+          "word": "aún",
+          "start": 150.0,
+          "end": 152.44
+        },
+        {
+          "word": "aprenden",
+          "start": 152.44,
+          "end": 155.36
+        },
+        {
+          "word": "a",
+          "start": 155.36,
+          "end": 156.34
+        },
+        {
+          "word": "amarte.",
+          "start": 156.34,
+          "end": 158.64
+        }
+      ],
+      "start": 147.52,
+      "end": 158.64,
+      "confidence": 1.0,
+      "time": 147.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "oyen tu voz, se sientan a tus pies.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 160.68,
+          "end": 161.38
+        },
+        {
+          "word": "tu",
+          "start": 161.38,
+          "end": 161.94
+        },
+        {
+          "word": "voz",
+          "start": 161.94,
+          "end": 163.88
+        },
+        {
+          "word": "se",
+          "start": 163.88,
+          "end": 164.9
+        },
+        {
+          "word": "sientan",
+          "start": 164.9,
+          "end": 166.9
+        },
+        {
+          "word": "a",
+          "start": 166.9,
+          "end": 167.8
+        },
+        {
+          "word": "tus",
+          "start": 167.8,
+          "end": 168.48
+        },
+        {
+          "word": "pies.",
+          "start": 168.48,
+          "end": 170.06
+        }
+      ],
+      "start": 160.68,
+      "end": 170.06,
+      "confidence": 0.975,
+      "time": 160.68
+    }
+  ]
+}

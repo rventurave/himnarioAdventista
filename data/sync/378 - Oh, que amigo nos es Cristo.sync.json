@@ -1,0 +1,745 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.822,
+  "language": "es",
+  "model": "medium",
+  "hymn": 378,
+  "source": "378 - Oh, que amigo nos es Cristo.mp3",
+  "duration": 172.2,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh, qué amigo nos es Cristo!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 1.38,
+          "end": 1.62
+        }
+      ],
+      "start": 1.38,
+      "end": 1.62,
+      "confidence": 0.167,
+      "time": 1.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Él sintió nuestra aflicción",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 1.62,
+          "end": 2.96
+        },
+        {
+          "word": "Santos",
+          "start": 3.1,
+          "end": 3.1
+        }
+      ],
+      "start": 1.62,
+      "end": 3.1,
+      "confidence": 0.45,
+      "time": 1.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y nos manda que llevemos",
+      "verse": 1,
+      "words": [
+        {
+          "word": "los",
+          "start": 3.1,
+          "end": 3.22
+        }
+      ],
+      "start": 3.1,
+      "end": 29.98,
+      "confidence": 0.16,
+      "time": 3.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "todo a Dios en oración.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Todo",
+          "start": 31.64,
+          "end": 33.04
+        },
+        {
+          "word": "a",
+          "start": 33.04,
+          "end": 33.88
+        },
+        {
+          "word": "Dios",
+          "start": 33.88,
+          "end": 34.28
+        },
+        {
+          "word": "en",
+          "start": 34.28,
+          "end": 34.8
+        },
+        {
+          "word": "oración,",
+          "start": 34.8,
+          "end": 38.26
+        }
+      ],
+      "start": 31.64,
+      "end": 38.74,
+      "confidence": 1.0,
+      "time": 31.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Vive el hombre desprovisto",
+      "verse": 1,
+      "words": [
+        {
+          "word": "vive",
+          "start": 38.74,
+          "end": 39.96
+        },
+        {
+          "word": "el",
+          "start": 39.96,
+          "end": 40.34
+        },
+        {
+          "word": "hombre",
+          "start": 40.34,
+          "end": 40.9
+        },
+        {
+          "word": "desprovisto,",
+          "start": 40.9,
+          "end": 44.46
+        }
+      ],
+      "start": 38.74,
+      "end": 44.94,
+      "confidence": 1.0,
+      "time": 38.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de consuelo y protección?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 44.94,
+          "end": 46.24
+        },
+        {
+          "word": "consuelo",
+          "start": 46.24,
+          "end": 47.26
+        },
+        {
+          "word": "y",
+          "start": 47.26,
+          "end": 47.62
+        },
+        {
+          "word": "protección.",
+          "start": 47.62,
+          "end": 50.78
+        }
+      ],
+      "start": 44.94,
+      "end": 50.78,
+      "confidence": 1.0,
+      "time": 44.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Es porque no tiene dicho",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Es",
+          "start": 50.78,
+          "end": 52.56
+        },
+        {
+          "word": "porque",
+          "start": 52.56,
+          "end": 53.3
+        },
+        {
+          "word": "no",
+          "start": 53.3,
+          "end": 53.88
+        },
+        {
+          "word": "tiene",
+          "start": 53.88,
+          "end": 54.5
+        },
+        {
+          "word": "dicho",
+          "start": 54.5,
+          "end": 57.54
+        }
+      ],
+      "start": 50.78,
+      "end": 57.54,
+      "confidence": 1.0,
+      "time": 50.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "todo a Dios en oración.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Todo",
+          "start": 57.54,
+          "end": 59.22
+        },
+        {
+          "word": "adiós",
+          "start": 59.22,
+          "end": 60.12
+        },
+        {
+          "word": "en",
+          "start": 60.12,
+          "end": 60.36
+        },
+        {
+          "word": "duración.",
+          "start": 60.36,
+          "end": 64.08
+        }
+      ],
+      "start": 57.54,
+      "end": 64.08,
+      "confidence": 0.763,
+      "time": 57.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¿Vives débil y cargado",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Libes,",
+          "start": 64.5,
+          "end": 65.9
+        },
+        {
+          "word": "debil",
+          "start": 66.36,
+          "end": 66.84
+        },
+        {
+          "word": "y",
+          "start": 66.84,
+          "end": 67.14
+        },
+        {
+          "word": "cargado,",
+          "start": 67.14,
+          "end": 70.18
+        }
+      ],
+      "start": 64.5,
+      "end": 70.18,
+      "confidence": 0.94,
+      "time": 64.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "de temor y tentación?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "De",
+          "start": 71.32,
+          "end": 71.82
+        },
+        {
+          "word": "temor",
+          "start": 71.82,
+          "end": 72.72
+        },
+        {
+          "word": "y",
+          "start": 72.72,
+          "end": 72.94
+        },
+        {
+          "word": "tentación.",
+          "start": 72.94,
+          "end": 76.44
+        }
+      ],
+      "start": 71.32,
+      "end": 76.44,
+      "confidence": 1.0,
+      "time": 71.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "A Jesús, tu amigo eterno,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 76.44,
+          "end": 78.18
+        },
+        {
+          "word": "Jesucristo,",
+          "start": 78.18,
+          "end": 79.32
+        },
+        {
+          "word": "amigo",
+          "start": 79.32,
+          "end": 79.88
+        },
+        {
+          "word": "eterno,",
+          "start": 79.88,
+          "end": 83.16
+        }
+      ],
+      "start": 76.44,
+      "end": 83.68,
+      "confidence": 0.76,
+      "time": 76.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "cuenta todo en oración.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cuenta",
+          "start": 83.68,
+          "end": 84.84
+        },
+        {
+          "word": "todo",
+          "start": 84.84,
+          "end": 85.6
+        },
+        {
+          "word": "en",
+          "start": 85.6,
+          "end": 86.06
+        },
+        {
+          "word": "oración.",
+          "start": 86.06,
+          "end": 89.24
+        }
+      ],
+      "start": 83.68,
+      "end": 89.24,
+      "confidence": 1.0,
+      "time": 83.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¿Te desprecian tus amigos?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Te",
+          "start": 89.78,
+          "end": 91.02
+        },
+        {
+          "word": "desprecian",
+          "start": 91.02,
+          "end": 92.16
+        },
+        {
+          "word": "tus",
+          "start": 92.16,
+          "end": 92.58
+        },
+        {
+          "word": "amigos,",
+          "start": 92.58,
+          "end": 95.66
+        }
+      ],
+      "start": 89.78,
+      "end": 96.82,
+      "confidence": 1.0,
+      "time": 89.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Dilo a él en oración:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "divino",
+          "start": 96.82,
+          "end": 97.68
+        },
+        {
+          "word": "a",
+          "start": 97.68,
+          "end": 98.12
+        },
+        {
+          "word": "él",
+          "start": 98.12,
+          "end": 98.3
+        },
+        {
+          "word": "en",
+          "start": 98.3,
+          "end": 98.92
+        },
+        {
+          "word": "oración.",
+          "start": 98.92,
+          "end": 102.06
+        }
+      ],
+      "start": 96.82,
+      "end": 102.06,
+      "confidence": 0.952,
+      "time": 96.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "en sus brazos cariñosos",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 102.06,
+          "end": 103.68
+        },
+        {
+          "word": "sus",
+          "start": 103.68,
+          "end": 104.16
+        },
+        {
+          "word": "brazos",
+          "start": 104.16,
+          "end": 104.96
+        },
+        {
+          "word": "cariñosos,",
+          "start": 104.96,
+          "end": 108.82
+        }
+      ],
+      "start": 102.06,
+      "end": 110.18,
+      "confidence": 1.0,
+      "time": 102.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "paz tendrá tu corazón.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tendrá",
+          "start": 110.18,
+          "end": 111.0
+        },
+        {
+          "word": "tu",
+          "start": 111.0,
+          "end": 111.44
+        },
+        {
+          "word": "corazón.",
+          "start": 111.44,
+          "end": 114.68
+        }
+      ],
+      "start": 110.18,
+      "end": 114.68,
+      "confidence": 0.75,
+      "time": 110.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesucristo es nuestro amigo;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jesucristo",
+          "start": 116.24,
+          "end": 117.56
+        },
+        {
+          "word": "es",
+          "start": 117.56,
+          "end": 118.02
+        },
+        {
+          "word": "nuestro",
+          "start": 118.02,
+          "end": 118.42
+        },
+        {
+          "word": "amigo,",
+          "start": 118.42,
+          "end": 121.12
+        }
+      ],
+      "start": 116.24,
+      "end": 122.52,
+      "confidence": 1.0,
+      "time": 116.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de esto pruebas mil mostró",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 122.52,
+          "end": 122.88
+        },
+        {
+          "word": "esto",
+          "start": 122.88,
+          "end": 123.26
+        },
+        {
+          "word": "pruebas",
+          "start": 123.26,
+          "end": 124.18
+        },
+        {
+          "word": "mi",
+          "start": 124.18,
+          "end": 124.58
+        },
+        {
+          "word": "mostrón.",
+          "start": 124.58,
+          "end": 127.8
+        }
+      ],
+      "start": 122.52,
+      "end": 127.8,
+      "confidence": 0.976,
+      "time": 122.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al sufrir el cruel castigo",
+      "verse": 3,
+      "words": [
+        {
+          "word": "al",
+          "start": 127.8,
+          "end": 129.36
+        },
+        {
+          "word": "sufrir",
+          "start": 129.36,
+          "end": 130.46
+        },
+        {
+          "word": "el",
+          "start": 130.46,
+          "end": 130.72
+        },
+        {
+          "word": "trueltas",
+          "start": 130.72,
+          "end": 132.16
+        }
+      ],
+      "start": 127.8,
+      "end": 133.68,
+      "confidence": 0.754,
+      "time": 127.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que el culpable mereció.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 133.68,
+          "end": 135.64
+        },
+        {
+          "word": "el",
+          "start": 135.64,
+          "end": 136.06
+        },
+        {
+          "word": "culpable",
+          "start": 136.06,
+          "end": 136.84
+        },
+        {
+          "word": "mereció.",
+          "start": 136.84,
+          "end": 140.36
+        }
+      ],
+      "start": 133.68,
+      "end": 140.36,
+      "confidence": 1.0,
+      "time": 133.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Y su pueblo redimido",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 140.76,
+          "end": 142.16
+        },
+        {
+          "word": "su",
+          "start": 142.16,
+          "end": 142.52
+        },
+        {
+          "word": "pueblo",
+          "start": 142.52,
+          "end": 143.26
+        },
+        {
+          "word": "redimido",
+          "start": 143.26,
+          "end": 147.0
+        }
+      ],
+      "start": 140.76,
+      "end": 147.0,
+      "confidence": 1.0,
+      "time": 140.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hallará seguridad",
+      "verse": 3,
+      "words": [
+        {
+          "word": "hallará",
+          "start": 147.0,
+          "end": 149.42
+        },
+        {
+          "word": "seguridad",
+          "start": 149.42,
+          "end": 153.08
+        }
+      ],
+      "start": 147.0,
+      "end": 153.08,
+      "confidence": 1.0,
+      "time": 147.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "fiando en este amigo eterno",
+      "verse": 3,
+      "words": [
+        {
+          "word": "creando",
+          "start": 153.08,
+          "end": 155.26
+        },
+        {
+          "word": "en",
+          "start": 155.26,
+          "end": 155.58
+        },
+        {
+          "word": "este",
+          "start": 155.58,
+          "end": 156.08
+        },
+        {
+          "word": "amigo",
+          "start": 156.08,
+          "end": 156.8
+        },
+        {
+          "word": "eterno",
+          "start": 156.8,
+          "end": 160.08
+        }
+      ],
+      "start": 153.08,
+      "end": 160.08,
+      "confidence": 0.954,
+      "time": 153.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y esperando en su bondad.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 160.08,
+          "end": 161.4
+        },
+        {
+          "word": "esperando",
+          "start": 161.4,
+          "end": 162.58
+        },
+        {
+          "word": "su",
+          "start": 162.82,
+          "end": 163.7
+        }
+      ],
+      "start": 160.08,
+      "end": 166.14,
+      "confidence": 0.6,
+      "time": 160.08
+    }
+  ]
+}

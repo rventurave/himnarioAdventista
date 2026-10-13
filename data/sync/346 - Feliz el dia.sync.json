@@ -1,0 +1,1104 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.925,
+  "language": "es",
+  "model": "medium",
+  "hymn": 346,
+  "source": "346 - Feliz el dia.mp3",
+  "duration": 173.82,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Feliz el día en que escogí",
+      "verse": 1,
+      "words": [
+        {
+          "word": "FELIZ",
+          "start": 11.48,
+          "end": 12.88
+        },
+        {
+          "word": "EL",
+          "start": 12.88,
+          "end": 13.18
+        },
+        {
+          "word": "DÍA",
+          "start": 13.18,
+          "end": 14.54
+        },
+        {
+          "word": "EN",
+          "start": 14.54,
+          "end": 14.92
+        },
+        {
+          "word": "QUE",
+          "start": 14.92,
+          "end": 15.14
+        },
+        {
+          "word": "ESCOGÍ",
+          "start": 15.14,
+          "end": 16.74
+        }
+      ],
+      "start": 11.48,
+      "end": 16.74,
+      "confidence": 1.0,
+      "time": 11.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "servirte, mi Señor y Dios!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "SERVIRTE",
+          "start": 16.74,
+          "end": 18.24
+        },
+        {
+          "word": "MI",
+          "start": 18.24,
+          "end": 19.48
+        },
+        {
+          "word": "SEÑOR",
+          "start": 19.48,
+          "end": 20.62
+        },
+        {
+          "word": "Y",
+          "start": 20.62,
+          "end": 20.8
+        },
+        {
+          "word": "DIOS",
+          "start": 20.8,
+          "end": 22.0
+        }
+      ],
+      "start": 16.74,
+      "end": 22.0,
+      "confidence": 1.0,
+      "time": 16.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Preciso es que mi gozo en ti",
+      "verse": 1,
+      "words": [
+        {
+          "word": "preciso",
+          "start": 22.0,
+          "end": 23.04
+        },
+        {
+          "word": "es",
+          "start": 23.04,
+          "end": 23.62
+        },
+        {
+          "word": "que",
+          "start": 23.62,
+          "end": 24.68
+        },
+        {
+          "word": "mi",
+          "start": 24.68,
+          "end": 25.14
+        },
+        {
+          "word": "gozo",
+          "start": 25.14,
+          "end": 25.62
+        },
+        {
+          "word": "en",
+          "start": 25.62,
+          "end": 26.28
+        },
+        {
+          "word": "ti",
+          "start": 26.28,
+          "end": 27.08
+        }
+      ],
+      "start": 22.0,
+      "end": 27.08,
+      "confidence": 1.0,
+      "time": 22.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "lo muestre hoy con obra y voz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "lo",
+          "start": 27.08,
+          "end": 27.78
+        },
+        {
+          "word": "muese",
+          "start": 27.78,
+          "end": 28.56
+        },
+        {
+          "word": "hoy",
+          "start": 28.56,
+          "end": 29.8
+        },
+        {
+          "word": "con",
+          "start": 29.8,
+          "end": 30.4
+        },
+        {
+          "word": "obra",
+          "start": 30.4,
+          "end": 30.9
+        },
+        {
+          "word": "y",
+          "start": 30.9,
+          "end": 31.72
+        },
+        {
+          "word": "voz",
+          "start": 31.72,
+          "end": 32.58
+        }
+      ],
+      "start": 27.08,
+      "end": 32.58,
+      "confidence": 0.986,
+      "time": 27.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Soy feliz! ¡Soy feliz!",
+      "words": [
+        {
+          "word": "soy",
+          "start": 32.58,
+          "end": 33.36
+        },
+        {
+          "word": "feliz,",
+          "start": 33.36,
+          "end": 35.22
+        },
+        {
+          "word": "soy",
+          "start": 35.64,
+          "end": 35.9
+        },
+        {
+          "word": "feliz",
+          "start": 35.9,
+          "end": 37.24
+        }
+      ],
+      "start": 32.58,
+      "end": 37.24,
+      "confidence": 1.0,
+      "time": 32.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Y en su favor me gozaré.",
+      "words": [
+        {
+          "word": "y",
+          "start": 37.24,
+          "end": 37.8
+        },
+        {
+          "word": "en",
+          "start": 37.8,
+          "end": 38.1
+        },
+        {
+          "word": "su",
+          "start": 38.1,
+          "end": 38.36
+        },
+        {
+          "word": "favor",
+          "start": 38.36,
+          "end": 40.02
+        },
+        {
+          "word": "me",
+          "start": 40.02,
+          "end": 40.66
+        },
+        {
+          "word": "gozaré",
+          "start": 40.66,
+          "end": 42.6
+        }
+      ],
+      "start": 37.24,
+      "end": 42.6,
+      "confidence": 1.0,
+      "time": 37.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "En libertad y luz me vi",
+      "words": [
+        {
+          "word": "libertad",
+          "start": 43.06,
+          "end": 45.46
+        },
+        {
+          "word": "y",
+          "start": 45.46,
+          "end": 45.72
+        },
+        {
+          "word": "luz",
+          "start": 45.72,
+          "end": 46.28
+        }
+      ],
+      "start": 43.06,
+      "end": 47.56,
+      "confidence": 0.5,
+      "time": 43.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "cuando triunfó en mí la fe,",
+      "words": [
+        {
+          "word": "cuando",
+          "start": 47.56,
+          "end": 48.46
+        },
+        {
+          "word": "triunfó",
+          "start": 48.46,
+          "end": 50.38
+        },
+        {
+          "word": "en",
+          "start": 50.38,
+          "end": 50.96
+        },
+        {
+          "word": "mi",
+          "start": 50.96,
+          "end": 51.36
+        },
+        {
+          "word": "lafé",
+          "start": 51.36,
+          "end": 52.98
+        }
+      ],
+      "start": 47.56,
+      "end": 52.98,
+      "confidence": 0.8,
+      "time": 47.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y el raudal carmesí,",
+      "words": [
+        {
+          "word": "y",
+          "start": 52.98,
+          "end": 53.76
+        },
+        {
+          "word": "el",
+          "start": 53.76,
+          "end": 54.12
+        },
+        {
+          "word": "raudal",
+          "start": 54.12,
+          "end": 55.96
+        },
+        {
+          "word": "carmesí",
+          "start": 55.96,
+          "end": 58.0
+        }
+      ],
+      "start": 52.98,
+      "end": 58.0,
+      "confidence": 1.0,
+      "time": 52.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "salud de mi alma enferma fue.",
+      "words": [
+        {
+          "word": "salió",
+          "start": 58.0,
+          "end": 58.9
+        },
+        {
+          "word": "de",
+          "start": 58.9,
+          "end": 59.36
+        },
+        {
+          "word": "mi",
+          "start": 59.36,
+          "end": 60.36
+        },
+        {
+          "word": "alma",
+          "start": 60.36,
+          "end": 60.94
+        },
+        {
+          "word": "enferma",
+          "start": 60.94,
+          "end": 62.02
+        },
+        {
+          "word": "fue.",
+          "start": 62.02,
+          "end": 63.58
+        }
+      ],
+      "start": 58.0,
+      "end": 63.58,
+      "confidence": 0.96,
+      "time": 58.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Del mundo oscuro ya salí:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Del",
+          "start": 65.1,
+          "end": 65.8
+        },
+        {
+          "word": "mundo",
+          "start": 65.8,
+          "end": 66.6
+        },
+        {
+          "word": "oscuro",
+          "start": 66.6,
+          "end": 68.4
+        },
+        {
+          "word": "ya",
+          "start": 68.4,
+          "end": 68.88
+        },
+        {
+          "word": "salí",
+          "start": 68.88,
+          "end": 70.3
+        }
+      ],
+      "start": 65.1,
+      "end": 70.3,
+      "confidence": 1.0,
+      "time": 65.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de Cristo soy y mío es él;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "De",
+          "start": 70.3,
+          "end": 70.9
+        },
+        {
+          "word": "Cristo",
+          "start": 70.9,
+          "end": 71.7
+        },
+        {
+          "word": "soy",
+          "start": 71.7,
+          "end": 73.2
+        },
+        {
+          "word": "y",
+          "start": 73.2,
+          "end": 73.8
+        },
+        {
+          "word": "mío",
+          "start": 73.8,
+          "end": 74.32
+        },
+        {
+          "word": "es",
+          "start": 74.32,
+          "end": 74.72
+        },
+        {
+          "word": "Él,",
+          "start": 74.72,
+          "end": 75.52
+        }
+      ],
+      "start": 70.3,
+      "end": 75.96,
+      "confidence": 1.0,
+      "time": 70.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "su senda con placer seguí,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "su",
+          "start": 75.96,
+          "end": 76.08
+        },
+        {
+          "word": "senda",
+          "start": 76.08,
+          "end": 76.98
+        },
+        {
+          "word": "con",
+          "start": 76.98,
+          "end": 78.26
+        },
+        {
+          "word": "placer",
+          "start": 78.26,
+          "end": 79.04
+        },
+        {
+          "word": "seguí,",
+          "start": 79.04,
+          "end": 80.62
+        }
+      ],
+      "start": 75.96,
+      "end": 81.18,
+      "confidence": 1.0,
+      "time": 75.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "resuelto a serie siempre fiel.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "resuelto",
+          "start": 81.18,
+          "end": 81.98
+        },
+        {
+          "word": "siempre",
+          "start": 83.82,
+          "end": 84.68
+        },
+        {
+          "word": "fe.",
+          "start": 84.68,
+          "end": 85.7
+        }
+      ],
+      "start": 81.18,
+      "end": 85.7,
+      "confidence": 0.56,
+      "time": 81.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Soy feliz! ¡Soy feliz!",
+      "words": [
+        {
+          "word": "Soy",
+          "start": 85.7,
+          "end": 86.94
+        },
+        {
+          "word": "feliz,",
+          "start": 86.94,
+          "end": 88.82
+        },
+        {
+          "word": "soy",
+          "start": 88.92,
+          "end": 89.52
+        },
+        {
+          "word": "feliz,",
+          "start": 89.52,
+          "end": 90.78
+        }
+      ],
+      "start": 85.7,
+      "end": 91.14,
+      "confidence": 1.0,
+      "time": 85.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Y en su favor me gozaré.",
+      "words": [
+        {
+          "word": "en",
+          "start": 91.14,
+          "end": 91.54
+        },
+        {
+          "word": "su",
+          "start": 91.54,
+          "end": 91.96
+        },
+        {
+          "word": "favor",
+          "start": 91.96,
+          "end": 93.62
+        },
+        {
+          "word": "me",
+          "start": 93.62,
+          "end": 94.26
+        },
+        {
+          "word": "gozaré.",
+          "start": 94.26,
+          "end": 95.98
+        }
+      ],
+      "start": 91.14,
+      "end": 95.98,
+      "confidence": 0.833,
+      "time": 91.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "En libertad y luz me vi",
+      "words": [
+        {
+          "word": "En",
+          "start": 96.68,
+          "end": 96.68
+        },
+        {
+          "word": "libertad",
+          "start": 96.68,
+          "end": 99.0
+        },
+        {
+          "word": "y",
+          "start": 99.0,
+          "end": 99.24
+        },
+        {
+          "word": "luz",
+          "start": 99.24,
+          "end": 99.66
+        },
+        {
+          "word": "me",
+          "start": 99.66,
+          "end": 100.24
+        },
+        {
+          "word": "vi,",
+          "start": 100.24,
+          "end": 101.06
+        }
+      ],
+      "start": 96.68,
+      "end": 101.62,
+      "confidence": 1.0,
+      "time": 96.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "cuando triunfó en mí la fe,",
+      "words": [
+        {
+          "word": "cuando",
+          "start": 101.62,
+          "end": 102.12
+        },
+        {
+          "word": "triunfó",
+          "start": 102.12,
+          "end": 104.08
+        },
+        {
+          "word": "en",
+          "start": 104.08,
+          "end": 104.56
+        },
+        {
+          "word": "mila",
+          "start": 104.56,
+          "end": 105.52
+        },
+        {
+          "word": "fe.",
+          "start": 105.52,
+          "end": 106.14
+        }
+      ],
+      "start": 101.62,
+      "end": 106.14,
+      "confidence": 0.8,
+      "time": 101.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y el raudal carmesí,",
+      "words": [
+        {
+          "word": "y",
+          "start": 106.14,
+          "end": 107.26
+        },
+        {
+          "word": "el",
+          "start": 107.26,
+          "end": 107.68
+        },
+        {
+          "word": "raudal",
+          "start": 107.68,
+          "end": 109.56
+        },
+        {
+          "word": "carmesí,",
+          "start": 109.56,
+          "end": 111.44
+        }
+      ],
+      "start": 106.14,
+      "end": 111.66,
+      "confidence": 1.0,
+      "time": 106.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "salud de mi alma enferma fue.",
+      "words": [
+        {
+          "word": "salude",
+          "start": 111.66,
+          "end": 112.8
+        },
+        {
+          "word": "mi",
+          "start": 112.8,
+          "end": 113.82
+        },
+        {
+          "word": "alma",
+          "start": 113.82,
+          "end": 114.5
+        },
+        {
+          "word": "enferma",
+          "start": 114.5,
+          "end": 115.52
+        },
+        {
+          "word": "Fuer.",
+          "start": 115.88,
+          "end": 117.42
+        }
+      ],
+      "start": 111.66,
+      "end": 117.42,
+      "confidence": 0.813,
+      "time": 111.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Reposa, débil corazón,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Reposa",
+          "start": 118.46,
+          "end": 119.44
+        },
+        {
+          "word": "débil",
+          "start": 119.44,
+          "end": 121.14
+        },
+        {
+          "word": "corazón,",
+          "start": 121.14,
+          "end": 122.94
+        }
+      ],
+      "start": 118.46,
+      "end": 123.48,
+      "confidence": 1.0,
+      "time": 118.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "a tus contiendas pon ya fin;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 123.48,
+          "end": 123.76
+        },
+        {
+          "word": "tus",
+          "start": 123.76,
+          "end": 124.14
+        },
+        {
+          "word": "contiendas",
+          "start": 124.14,
+          "end": 126.28
+        },
+        {
+          "word": "pon",
+          "start": 126.28,
+          "end": 126.7
+        },
+        {
+          "word": "ya",
+          "start": 126.7,
+          "end": 127.2
+        },
+        {
+          "word": "fin,",
+          "start": 127.2,
+          "end": 127.96
+        }
+      ],
+      "start": 123.48,
+      "end": 127.96,
+      "confidence": 1.0,
+      "time": 123.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "tendrás más noble posesión",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tendrás",
+          "start": 127.96,
+          "end": 129.24
+        },
+        {
+          "word": "más",
+          "start": 129.24,
+          "end": 129.86
+        },
+        {
+          "word": "noble",
+          "start": 129.86,
+          "end": 131.22
+        },
+        {
+          "word": "posesión",
+          "start": 131.22,
+          "end": 133.32
+        }
+      ],
+      "start": 127.96,
+      "end": 133.32,
+      "confidence": 1.0,
+      "time": 127.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y parte en superior festín.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 133.32,
+          "end": 134.1
+        },
+        {
+          "word": "parte",
+          "start": 134.1,
+          "end": 134.6
+        },
+        {
+          "word": "en",
+          "start": 134.6,
+          "end": 135.7
+        },
+        {
+          "word": "superior",
+          "start": 135.7,
+          "end": 136.94
+        },
+        {
+          "word": "festín.",
+          "start": 136.94,
+          "end": 138.88
+        }
+      ],
+      "start": 133.32,
+      "end": 138.88,
+      "confidence": 1.0,
+      "time": 133.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Soy feliz! ¡Soy feliz!",
+      "words": [
+        {
+          "word": "Soy",
+          "start": 139.42,
+          "end": 139.66
+        },
+        {
+          "word": "feliz,",
+          "start": 139.66,
+          "end": 141.52
+        },
+        {
+          "word": "soy",
+          "start": 141.6,
+          "end": 142.24
+        },
+        {
+          "word": "feliz",
+          "start": 142.24,
+          "end": 143.5
+        }
+      ],
+      "start": 139.42,
+      "end": 143.5,
+      "confidence": 1.0,
+      "time": 139.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Y en su favor me gozaré.",
+      "words": [
+        {
+          "word": "Y",
+          "start": 143.5,
+          "end": 144.1
+        },
+        {
+          "word": "en",
+          "start": 144.1,
+          "end": 144.44
+        },
+        {
+          "word": "su",
+          "start": 144.44,
+          "end": 144.64
+        },
+        {
+          "word": "favor",
+          "start": 144.64,
+          "end": 146.3
+        },
+        {
+          "word": "me",
+          "start": 146.3,
+          "end": 146.98
+        },
+        {
+          "word": "gozaré.",
+          "start": 146.98,
+          "end": 148.72
+        }
+      ],
+      "start": 143.5,
+      "end": 148.72,
+      "confidence": 1.0,
+      "time": 143.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "En libertad y luz me vi",
+      "words": [
+        {
+          "word": "en",
+          "start": 148.72,
+          "end": 149.46
+        },
+        {
+          "word": "libertad",
+          "start": 149.46,
+          "end": 151.74
+        },
+        {
+          "word": "y",
+          "start": 151.74,
+          "end": 151.98
+        },
+        {
+          "word": "luz",
+          "start": 151.98,
+          "end": 152.44
+        },
+        {
+          "word": "me",
+          "start": 152.44,
+          "end": 152.98
+        },
+        {
+          "word": "vi",
+          "start": 152.98,
+          "end": 153.8
+        }
+      ],
+      "start": 148.72,
+      "end": 153.8,
+      "confidence": 1.0,
+      "time": 148.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "cuando triunfó en mí la fe,",
+      "words": [
+        {
+          "word": "cuando",
+          "start": 153.8,
+          "end": 154.8
+        },
+        {
+          "word": "triunfó",
+          "start": 154.8,
+          "end": 156.86
+        },
+        {
+          "word": "en",
+          "start": 156.86,
+          "end": 157.26
+        },
+        {
+          "word": "mi",
+          "start": 157.26,
+          "end": 157.56
+        },
+        {
+          "word": "la",
+          "start": 157.56,
+          "end": 158.08
+        },
+        {
+          "word": "fe",
+          "start": 158.08,
+          "end": 159.0
+        }
+      ],
+      "start": 153.8,
+      "end": 159.0,
+      "confidence": 1.0,
+      "time": 153.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y el raudal carmesí,",
+      "words": [
+        {
+          "word": "y",
+          "start": 159.0,
+          "end": 160.16
+        },
+        {
+          "word": "el",
+          "start": 160.16,
+          "end": 160.4
+        },
+        {
+          "word": "carmesí",
+          "start": 162.22,
+          "end": 164.2
+        }
+      ],
+      "start": 159.0,
+      "end": 164.2,
+      "confidence": 0.75,
+      "time": 159.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "salud de mi alma enferma fue.",
+      "words": [
+        {
+          "word": "salude",
+          "start": 164.2,
+          "end": 165.54
+        },
+        {
+          "word": "mi",
+          "start": 165.54,
+          "end": 166.68
+        },
+        {
+          "word": "alma",
+          "start": 166.68,
+          "end": 167.34
+        },
+        {
+          "word": "enferma",
+          "start": 167.34,
+          "end": 168.62
+        },
+        {
+          "word": "fue.",
+          "start": 168.62,
+          "end": 169.64
+        }
+      ],
+      "start": 164.2,
+      "end": 169.64,
+      "confidence": 0.823,
+      "time": 164.2
+    }
+  ]
+}

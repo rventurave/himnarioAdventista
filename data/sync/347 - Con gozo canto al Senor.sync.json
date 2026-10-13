@@ -1,0 +1,1146 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.979,
+  "language": "es",
+  "model": "medium",
+  "hymn": 347,
+  "source": "347 - Con gozo canto al Senor.mp3",
+  "duration": 201.61,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Con gozo canto al Señor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Con",
+          "start": 11.96,
+          "end": 13.36
+        },
+        {
+          "word": "gozo",
+          "start": 13.36,
+          "end": 14.76
+        },
+        {
+          "word": "canto",
+          "start": 14.76,
+          "end": 16.2
+        },
+        {
+          "word": "al",
+          "start": 16.2,
+          "end": 16.9
+        },
+        {
+          "word": "Señor",
+          "start": 16.9,
+          "end": 18.1
+        }
+      ],
+      "start": 11.96,
+      "end": 18.1,
+      "confidence": 1.0,
+      "time": 11.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "desde que salvo soy,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "desde",
+          "start": 18.1,
+          "end": 19.24
+        },
+        {
+          "word": "que",
+          "start": 19.24,
+          "end": 20.5
+        },
+        {
+          "word": "salvo",
+          "start": 20.5,
+          "end": 21.8
+        },
+        {
+          "word": "soy,",
+          "start": 21.8,
+          "end": 23.54
+        }
+      ],
+      "start": 18.1,
+      "end": 23.54,
+      "confidence": 1.0,
+      "time": 18.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues es mi Rey, mi Salvador,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "pues",
+          "start": 23.54,
+          "end": 24.56
+        },
+        {
+          "word": "es",
+          "start": 24.56,
+          "end": 25.78
+        },
+        {
+          "word": "mi",
+          "start": 25.78,
+          "end": 26.16
+        },
+        {
+          "word": "rey,",
+          "start": 26.16,
+          "end": 26.84
+        },
+        {
+          "word": "mi",
+          "start": 27.52,
+          "end": 27.52
+        },
+        {
+          "word": "salvador",
+          "start": 27.52,
+          "end": 29.42
+        }
+      ],
+      "start": 23.54,
+      "end": 29.42,
+      "confidence": 1.0,
+      "time": 23.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "desde que salvo soy.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "desde",
+          "start": 29.42,
+          "end": 30.54
+        },
+        {
+          "word": "que",
+          "start": 30.54,
+          "end": 32.04
+        },
+        {
+          "word": "salvo",
+          "start": 32.04,
+          "end": 33.16
+        },
+        {
+          "word": "soy",
+          "start": 33.16,
+          "end": 34.74
+        }
+      ],
+      "start": 29.42,
+      "end": 34.74,
+      "confidence": 1.0,
+      "time": 29.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Desde que salvo soy, desde que salvo soy",
+      "words": [
+        {
+          "word": "desde",
+          "start": 34.74,
+          "end": 36.24
+        },
+        {
+          "word": "que",
+          "start": 36.24,
+          "end": 38.24
+        },
+        {
+          "word": "salvo",
+          "start": 38.24,
+          "end": 38.86
+        },
+        {
+          "word": "soy",
+          "start": 38.86,
+          "end": 40.66
+        },
+        {
+          "word": "desde",
+          "start": 40.66,
+          "end": 41.74
+        },
+        {
+          "word": "que",
+          "start": 41.74,
+          "end": 42.44
+        },
+        {
+          "word": "salvo",
+          "start": 42.44,
+          "end": 43.02
+        },
+        {
+          "word": "soy",
+          "start": 43.02,
+          "end": 43.66
+        }
+      ],
+      "start": 34.74,
+      "end": 43.66,
+      "confidence": 1.0,
+      "time": 34.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "solo en él me gloriaré; desde que salvo soy",
+      "words": [
+        {
+          "word": "solo",
+          "start": 43.66,
+          "end": 44.3
+        },
+        {
+          "word": "en",
+          "start": 44.3,
+          "end": 44.66
+        },
+        {
+          "word": "él",
+          "start": 44.66,
+          "end": 44.84
+        },
+        {
+          "word": "me",
+          "start": 44.84,
+          "end": 45.24
+        },
+        {
+          "word": "gloriare",
+          "start": 45.24,
+          "end": 46.28
+        },
+        {
+          "word": "desde",
+          "start": 46.28,
+          "end": 47.54
+        },
+        {
+          "word": "que",
+          "start": 47.54,
+          "end": 49.54
+        },
+        {
+          "word": "salvo",
+          "start": 49.54,
+          "end": 50.14
+        },
+        {
+          "word": "soy",
+          "start": 50.14,
+          "end": 51.8
+        }
+      ],
+      "start": 43.66,
+      "end": 51.8,
+      "confidence": 1.0,
+      "time": 43.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en mi Redentor me gloriaré.",
+      "words": [
+        {
+          "word": "En",
+          "start": 51.8,
+          "end": 52.56
+        },
+        {
+          "word": "mi",
+          "start": 52.56,
+          "end": 52.98
+        },
+        {
+          "word": "Redentor",
+          "start": 52.98,
+          "end": 54.0
+        },
+        {
+          "word": "me",
+          "start": 54.0,
+          "end": 54.52
+        },
+        {
+          "word": "gloriaré.",
+          "start": 54.52,
+          "end": 57.78
+        }
+      ],
+      "start": 51.8,
+      "end": 57.78,
+      "confidence": 1.0,
+      "time": 51.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Yo amo a Dios por su bondad,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 59.22,
+          "end": 59.8
+        },
+        {
+          "word": "amo",
+          "start": 59.8,
+          "end": 60.86
+        },
+        {
+          "word": "a",
+          "start": 60.86,
+          "end": 61.18
+        },
+        {
+          "word": "Dios",
+          "start": 61.18,
+          "end": 61.66
+        },
+        {
+          "word": "por",
+          "start": 61.66,
+          "end": 62.44
+        },
+        {
+          "word": "su",
+          "start": 62.44,
+          "end": 63.16
+        },
+        {
+          "word": "bondad",
+          "start": 63.16,
+          "end": 63.86
+        }
+      ],
+      "start": 59.22,
+      "end": 63.86,
+      "confidence": 1.0,
+      "time": 59.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "desde que salvo soy,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Desde",
+          "start": 64.64,
+          "end": 65.56
+        },
+        {
+          "word": "que",
+          "start": 65.56,
+          "end": 66.74
+        },
+        {
+          "word": "salvo",
+          "start": 66.74,
+          "end": 68.04
+        },
+        {
+          "word": "soy",
+          "start": 68.04,
+          "end": 69.78
+        }
+      ],
+      "start": 64.64,
+      "end": 69.78,
+      "confidence": 1.0,
+      "time": 64.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y quiero hacer su voluntad,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Y",
+          "start": 69.78,
+          "end": 70.94
+        },
+        {
+          "word": "quiero",
+          "start": 70.94,
+          "end": 72.1
+        },
+        {
+          "word": "hacer",
+          "start": 72.1,
+          "end": 72.94
+        },
+        {
+          "word": "su",
+          "start": 72.94,
+          "end": 74.14
+        },
+        {
+          "word": "voluntad",
+          "start": 74.14,
+          "end": 74.84
+        }
+      ],
+      "start": 69.78,
+      "end": 74.84,
+      "confidence": 1.0,
+      "time": 69.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "desde que salvo soy.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Desde",
+          "start": 75.84,
+          "end": 76.82
+        },
+        {
+          "word": "que",
+          "start": 76.82,
+          "end": 78.18
+        },
+        {
+          "word": "salvo",
+          "start": 78.18,
+          "end": 79.38
+        },
+        {
+          "word": "soy",
+          "start": 79.38,
+          "end": 81.04
+        }
+      ],
+      "start": 75.84,
+      "end": 81.04,
+      "confidence": 1.0,
+      "time": 75.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Desde que salvo soy, desde que salvo soy",
+      "words": [
+        {
+          "word": "Desde",
+          "start": 81.04,
+          "end": 82.5
+        },
+        {
+          "word": "que",
+          "start": 82.5,
+          "end": 84.42
+        },
+        {
+          "word": "salvo",
+          "start": 84.42,
+          "end": 85.12
+        },
+        {
+          "word": "soy,",
+          "start": 85.12,
+          "end": 86.76
+        },
+        {
+          "word": "desde",
+          "start": 87.22,
+          "end": 88.0
+        },
+        {
+          "word": "que",
+          "start": 88.0,
+          "end": 88.72
+        },
+        {
+          "word": "salvo",
+          "start": 88.72,
+          "end": 89.32
+        },
+        {
+          "word": "soy,",
+          "start": 89.32,
+          "end": 89.9
+        }
+      ],
+      "start": 81.04,
+      "end": 89.9,
+      "confidence": 1.0,
+      "time": 81.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "solo en él me gloriaré; desde que salvo soy",
+      "words": [
+        {
+          "word": "solo",
+          "start": 89.9,
+          "end": 90.54
+        },
+        {
+          "word": "en",
+          "start": 90.54,
+          "end": 90.94
+        },
+        {
+          "word": "él",
+          "start": 90.94,
+          "end": 91.1
+        },
+        {
+          "word": "me",
+          "start": 91.1,
+          "end": 91.52
+        },
+        {
+          "word": "gloriaré,",
+          "start": 91.52,
+          "end": 92.54
+        },
+        {
+          "word": "desde",
+          "start": 92.72,
+          "end": 93.88
+        },
+        {
+          "word": "que",
+          "start": 93.88,
+          "end": 95.8
+        },
+        {
+          "word": "salvo",
+          "start": 95.8,
+          "end": 96.4
+        },
+        {
+          "word": "soy,",
+          "start": 96.4,
+          "end": 98.14
+        }
+      ],
+      "start": 89.9,
+      "end": 98.8,
+      "confidence": 1.0,
+      "time": 89.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en mi Redentor me gloriaré.",
+      "words": [
+        {
+          "word": "en",
+          "start": 98.8,
+          "end": 98.92
+        },
+        {
+          "word": "mi",
+          "start": 98.92,
+          "end": 99.28
+        },
+        {
+          "word": "Redentor",
+          "start": 99.28,
+          "end": 100.24
+        },
+        {
+          "word": "me",
+          "start": 100.24,
+          "end": 100.68
+        },
+        {
+          "word": "gloriaré.",
+          "start": 100.68,
+          "end": 104.28
+        }
+      ],
+      "start": 98.8,
+      "end": 104.28,
+      "confidence": 1.0,
+      "time": 98.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Un gozo tengo que es sin par",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Un",
+          "start": 104.28,
+          "end": 105.92
+        },
+        {
+          "word": "gozo",
+          "start": 105.92,
+          "end": 107.24
+        },
+        {
+          "word": "tengo",
+          "start": 107.24,
+          "end": 108.24
+        },
+        {
+          "word": "que",
+          "start": 108.24,
+          "end": 109.38
+        },
+        {
+          "word": "simpar",
+          "start": 109.38,
+          "end": 110.64
+        }
+      ],
+      "start": 104.28,
+      "end": 110.64,
+      "confidence": 0.686,
+      "time": 104.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "desde que salvo soy;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "desde",
+          "start": 110.64,
+          "end": 111.7
+        },
+        {
+          "word": "que",
+          "start": 111.7,
+          "end": 113.02
+        },
+        {
+          "word": "salvo",
+          "start": 113.02,
+          "end": 114.32
+        },
+        {
+          "word": "soy",
+          "start": 114.32,
+          "end": 116.0
+        }
+      ],
+      "start": 110.64,
+      "end": 116.0,
+      "confidence": 1.0,
+      "time": 110.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "a Cristo alabo sin cesar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "A",
+          "start": 116.0,
+          "end": 117.2
+        },
+        {
+          "word": "Cristo",
+          "start": 117.2,
+          "end": 118.38
+        },
+        {
+          "word": "alabo",
+          "start": 118.38,
+          "end": 119.84
+        },
+        {
+          "word": "sin",
+          "start": 119.84,
+          "end": 120.64
+        },
+        {
+          "word": "cesar",
+          "start": 120.64,
+          "end": 122.1
+        }
+      ],
+      "start": 116.0,
+      "end": 122.1,
+      "confidence": 1.0,
+      "time": 116.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "desde que salvo soy.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "desde",
+          "start": 122.1,
+          "end": 122.98
+        },
+        {
+          "word": "que",
+          "start": 122.98,
+          "end": 124.38
+        },
+        {
+          "word": "salvo",
+          "start": 124.38,
+          "end": 125.66
+        },
+        {
+          "word": "soy",
+          "start": 125.66,
+          "end": 127.34
+        }
+      ],
+      "start": 122.1,
+      "end": 127.34,
+      "confidence": 1.0,
+      "time": 122.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Desde que salvo soy, desde que salvo soy",
+      "words": [
+        {
+          "word": "Desde",
+          "start": 127.34,
+          "end": 128.7
+        },
+        {
+          "word": "que",
+          "start": 128.7,
+          "end": 130.6
+        },
+        {
+          "word": "salvo",
+          "start": 130.6,
+          "end": 131.32
+        },
+        {
+          "word": "soy,",
+          "start": 131.32,
+          "end": 133.06
+        },
+        {
+          "word": "desde",
+          "start": 133.78,
+          "end": 134.2
+        },
+        {
+          "word": "que",
+          "start": 134.2,
+          "end": 134.88
+        },
+        {
+          "word": "salvo",
+          "start": 134.88,
+          "end": 135.46
+        },
+        {
+          "word": "soy,",
+          "start": 135.46,
+          "end": 136.06
+        }
+      ],
+      "start": 127.34,
+      "end": 136.4,
+      "confidence": 1.0,
+      "time": 127.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "solo en él me gloriaré; desde que salvo soy",
+      "words": [
+        {
+          "word": "solo",
+          "start": 136.4,
+          "end": 136.72
+        },
+        {
+          "word": "en",
+          "start": 136.72,
+          "end": 137.12
+        },
+        {
+          "word": "él",
+          "start": 137.12,
+          "end": 137.28
+        },
+        {
+          "word": "me",
+          "start": 137.28,
+          "end": 137.68
+        },
+        {
+          "word": "gloriaré,",
+          "start": 137.68,
+          "end": 138.74
+        },
+        {
+          "word": "desde",
+          "start": 139.14,
+          "end": 140.1
+        },
+        {
+          "word": "que",
+          "start": 140.1,
+          "end": 142.02
+        },
+        {
+          "word": "salvo",
+          "start": 142.02,
+          "end": 142.6
+        },
+        {
+          "word": "soy,",
+          "start": 142.6,
+          "end": 144.36
+        }
+      ],
+      "start": 136.4,
+      "end": 144.98,
+      "confidence": 1.0,
+      "time": 136.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en mi Redentor me gloriaré.",
+      "words": [
+        {
+          "word": "en",
+          "start": 144.98,
+          "end": 145.12
+        },
+        {
+          "word": "mi",
+          "start": 145.12,
+          "end": 145.46
+        },
+        {
+          "word": "reventor",
+          "start": 145.46,
+          "end": 146.46
+        },
+        {
+          "word": "me",
+          "start": 146.46,
+          "end": 147.0
+        },
+        {
+          "word": "gloriaré.",
+          "start": 147.0,
+          "end": 150.2
+        }
+      ],
+      "start": 144.98,
+      "end": 150.2,
+      "confidence": 0.985,
+      "time": 144.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Yo tengo hogar, al cual iré,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 150.2,
+          "end": 152.02
+        },
+        {
+          "word": "tengo",
+          "start": 152.02,
+          "end": 153.48
+        },
+        {
+          "word": "garal",
+          "start": 153.48,
+          "end": 155.02
+        },
+        {
+          "word": "cual",
+          "start": 155.02,
+          "end": 155.56
+        },
+        {
+          "word": "iré",
+          "start": 155.56,
+          "end": 157.08
+        }
+      ],
+      "start": 150.2,
+      "end": 157.08,
+      "confidence": 0.793,
+      "time": 150.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "desde que salvo soy;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "desde",
+          "start": 157.08,
+          "end": 157.94
+        },
+        {
+          "word": "que",
+          "start": 157.94,
+          "end": 159.32
+        },
+        {
+          "word": "salvo",
+          "start": 159.32,
+          "end": 160.48
+        },
+        {
+          "word": "soy",
+          "start": 160.48,
+          "end": 162.2
+        }
+      ],
+      "start": 157.08,
+      "end": 162.2,
+      "confidence": 1.0,
+      "time": 157.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "y allí seguro viviré,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 162.2,
+          "end": 163.3
+        },
+        {
+          "word": "allí",
+          "start": 163.3,
+          "end": 164.44
+        },
+        {
+          "word": "seguro",
+          "start": 164.44,
+          "end": 166.02
+        },
+        {
+          "word": "viviré",
+          "start": 166.02,
+          "end": 168.4
+        }
+      ],
+      "start": 162.2,
+      "end": 168.4,
+      "confidence": 1.0,
+      "time": 162.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "desde que salvo soy.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "desde",
+          "start": 168.4,
+          "end": 169.26
+        },
+        {
+          "word": "que",
+          "start": 169.26,
+          "end": 170.82
+        },
+        {
+          "word": "salvo",
+          "start": 170.82,
+          "end": 171.88
+        },
+        {
+          "word": "soy",
+          "start": 171.88,
+          "end": 173.54
+        }
+      ],
+      "start": 168.4,
+      "end": 173.54,
+      "confidence": 1.0,
+      "time": 168.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Desde que salvo soy, desde que salvo soy",
+      "words": [
+        {
+          "word": "Desde",
+          "start": 173.54,
+          "end": 175.62
+        },
+        {
+          "word": "que",
+          "start": 175.62,
+          "end": 176.88
+        },
+        {
+          "word": "salvo",
+          "start": 176.88,
+          "end": 177.58
+        },
+        {
+          "word": "soy,",
+          "start": 177.58,
+          "end": 179.3
+        },
+        {
+          "word": "desde",
+          "start": 179.96,
+          "end": 180.5
+        },
+        {
+          "word": "que",
+          "start": 180.5,
+          "end": 181.18
+        },
+        {
+          "word": "salvo",
+          "start": 181.18,
+          "end": 181.78
+        },
+        {
+          "word": "soy,",
+          "start": 181.78,
+          "end": 182.44
+        }
+      ],
+      "start": 173.54,
+      "end": 182.58,
+      "confidence": 1.0,
+      "time": 173.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "solo en él me gloriaré; desde que salvo soy",
+      "words": [
+        {
+          "word": "solo",
+          "start": 182.58,
+          "end": 182.98
+        },
+        {
+          "word": "en",
+          "start": 182.98,
+          "end": 183.4
+        },
+        {
+          "word": "él",
+          "start": 183.4,
+          "end": 183.54
+        },
+        {
+          "word": "me",
+          "start": 183.54,
+          "end": 184.02
+        },
+        {
+          "word": "gloriaré,",
+          "start": 184.02,
+          "end": 185.02
+        },
+        {
+          "word": "desde",
+          "start": 185.18,
+          "end": 186.36
+        },
+        {
+          "word": "que",
+          "start": 186.36,
+          "end": 188.28
+        },
+        {
+          "word": "salvo",
+          "start": 188.28,
+          "end": 188.86
+        },
+        {
+          "word": "soy,",
+          "start": 188.86,
+          "end": 190.62
+        }
+      ],
+      "start": 182.58,
+      "end": 191.16,
+      "confidence": 1.0,
+      "time": 182.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "en mi Redentor me gloriaré.",
+      "words": [
+        {
+          "word": "en",
+          "start": 191.16,
+          "end": 191.42
+        },
+        {
+          "word": "mi",
+          "start": 191.42,
+          "end": 191.76
+        },
+        {
+          "word": "Redentor",
+          "start": 191.76,
+          "end": 192.86
+        },
+        {
+          "word": "me",
+          "start": 192.86,
+          "end": 193.42
+        },
+        {
+          "word": "gloriaré.",
+          "start": 193.42,
+          "end": 196.1
+        }
+      ],
+      "start": 191.16,
+      "end": 196.1,
+      "confidence": 1.0,
+      "time": 191.16
+    }
+  ]
+}

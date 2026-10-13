@@ -1,0 +1,607 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.965,
+  "language": "es",
+  "model": "medium",
+  "hymn": 393,
+  "source": "393 - Mi fe contempla a ti.mp3",
+  "duration": 131.24,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mi fe contempla a ti,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 10.72,
+          "end": 12.12
+        },
+        {
+          "word": "fe",
+          "start": 12.12,
+          "end": 13.44
+        },
+        {
+          "word": "contempla",
+          "start": 13.44,
+          "end": 15.9
+        },
+        {
+          "word": "a",
+          "start": 15.9,
+          "end": 15.92
+        },
+        {
+          "word": "ti,",
+          "start": 15.92,
+          "end": 16.82
+        }
+      ],
+      "start": 10.72,
+      "end": 16.92,
+      "confidence": 1.0,
+      "time": 10.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cordero celestial,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cordero",
+          "start": 16.92,
+          "end": 19.42
+        },
+        {
+          "word": "celestial,",
+          "start": 19.42,
+          "end": 21.62
+        }
+      ],
+      "start": 16.92,
+      "end": 22.26,
+      "confidence": 1.0,
+      "time": 16.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mi Salvador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "mi",
+          "start": 22.26,
+          "end": 23.3
+        },
+        {
+          "word": "salvador.",
+          "start": 23.3,
+          "end": 26.9
+        }
+      ],
+      "start": 22.26,
+      "end": 26.9,
+      "confidence": 1.0,
+      "time": 22.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Oye mi petición,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "mi",
+          "start": 28.88,
+          "end": 29.66
+        },
+        {
+          "word": "petición,",
+          "start": 29.66,
+          "end": 32.02
+        }
+      ],
+      "start": 28.88,
+      "end": 33.08,
+      "confidence": 0.667,
+      "time": 28.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "quita mi transgresión,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "quita",
+          "start": 33.08,
+          "end": 34.18
+        },
+        {
+          "word": "mi",
+          "start": 34.18,
+          "end": 34.9
+        },
+        {
+          "word": "transgresión,",
+          "start": 34.9,
+          "end": 37.16
+        }
+      ],
+      "start": 33.08,
+      "end": 37.6,
+      "confidence": 1.0,
+      "time": 33.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "sea tu posesión",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sea",
+          "start": 37.6,
+          "end": 39.14
+        },
+        {
+          "word": "tu",
+          "start": 39.14,
+          "end": 39.88
+        },
+        {
+          "word": "posesión",
+          "start": 39.88,
+          "end": 41.86
+        }
+      ],
+      "start": 37.6,
+      "end": 41.86,
+      "confidence": 1.0,
+      "time": 37.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "desde hoy, Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "desde",
+          "start": 41.86,
+          "end": 42.68
+        },
+        {
+          "word": "hoy,",
+          "start": 42.68,
+          "end": 43.94
+        },
+        {
+          "word": "Señor.",
+          "start": 45.38,
+          "end": 47.76
+        }
+      ],
+      "start": 41.86,
+      "end": 47.76,
+      "confidence": 1.0,
+      "time": 41.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Al débil corazón",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Al",
+          "start": 47.76,
+          "end": 49.58
+        },
+        {
+          "word": "débil",
+          "start": 49.58,
+          "end": 50.8
+        },
+        {
+          "word": "corazón",
+          "start": 50.8,
+          "end": 53.24
+        }
+      ],
+      "start": 47.76,
+      "end": 53.24,
+      "confidence": 1.0,
+      "time": 47.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "tu gracia pueda dar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tu",
+          "start": 53.24,
+          "end": 54.78
+        },
+        {
+          "word": "gracia",
+          "start": 54.78,
+          "end": 56.12
+        },
+        {
+          "word": "pueda",
+          "start": 56.12,
+          "end": 57.36
+        },
+        {
+          "word": "dar",
+          "start": 57.36,
+          "end": 58.54
+        }
+      ],
+      "start": 53.24,
+      "end": 58.54,
+      "confidence": 1.0,
+      "time": 53.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "fe y valor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "fe",
+          "start": 58.54,
+          "end": 59.48
+        },
+        {
+          "word": "y",
+          "start": 59.48,
+          "end": 60.66
+        },
+        {
+          "word": "valor.",
+          "start": 60.66,
+          "end": 63.4
+        }
+      ],
+      "start": 58.54,
+      "end": 63.4,
+      "confidence": 1.0,
+      "time": 58.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Moriste tú por mí,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Moriste",
+          "start": 64.64,
+          "end": 66.04
+        },
+        {
+          "word": "tú",
+          "start": 66.04,
+          "end": 67.34
+        },
+        {
+          "word": "por",
+          "start": 67.34,
+          "end": 67.8
+        },
+        {
+          "word": "mí,",
+          "start": 67.8,
+          "end": 68.88
+        }
+      ],
+      "start": 64.64,
+      "end": 69.56,
+      "confidence": 1.0,
+      "time": 64.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "sea mi amor a ti",
+      "verse": 2,
+      "words": [
+        {
+          "word": "sea",
+          "start": 69.56,
+          "end": 70.7
+        },
+        {
+          "word": "mi",
+          "start": 70.7,
+          "end": 71.6
+        },
+        {
+          "word": "amor",
+          "start": 71.6,
+          "end": 72.94
+        },
+        {
+          "word": "a",
+          "start": 72.94,
+          "end": 73.44
+        },
+        {
+          "word": "ti.",
+          "start": 73.44,
+          "end": 74.12
+        }
+      ],
+      "start": 69.56,
+      "end": 74.12,
+      "confidence": 1.0,
+      "time": 69.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "puro y ferviente así,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "puro",
+          "start": 74.12,
+          "end": 76.3
+        },
+        {
+          "word": "y",
+          "start": 76.3,
+          "end": 76.68
+        },
+        {
+          "word": "ferviente,",
+          "start": 76.68,
+          "end": 78.34
+        },
+        {
+          "word": "así",
+          "start": 78.74,
+          "end": 79.24
+        }
+      ],
+      "start": 74.12,
+      "end": 79.24,
+      "confidence": 1.0,
+      "time": 74.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "cual vivo ardor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cual",
+          "start": 79.24,
+          "end": 79.84
+        },
+        {
+          "word": "vivo",
+          "start": 79.84,
+          "end": 81.66
+        },
+        {
+          "word": "ardor.",
+          "start": 81.66,
+          "end": 85.12
+        }
+      ],
+      "start": 79.24,
+      "end": 85.12,
+      "confidence": 1.0,
+      "time": 79.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Por senda oscura voy,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Por",
+          "start": 86.1,
+          "end": 87.48
+        },
+        {
+          "word": "centa",
+          "start": 87.48,
+          "end": 88.78
+        },
+        {
+          "word": "oscura",
+          "start": 88.78,
+          "end": 90.14
+        },
+        {
+          "word": "voy,",
+          "start": 90.14,
+          "end": 91.18
+        }
+      ],
+      "start": 86.1,
+      "end": 91.48,
+      "confidence": 0.94,
+      "time": 86.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "no veo en derredor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "no",
+          "start": 91.48,
+          "end": 92.9
+        },
+        {
+          "word": "veo",
+          "start": 92.9,
+          "end": 93.56
+        },
+        {
+          "word": "en",
+          "start": 93.56,
+          "end": 94.4
+        },
+        {
+          "word": "derredor,",
+          "start": 94.4,
+          "end": 96.12
+        }
+      ],
+      "start": 91.48,
+      "end": 96.12,
+      "confidence": 1.0,
+      "time": 91.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mas me guiarás. Enjuga mi llorar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "más",
+          "start": 96.12,
+          "end": 98.1
+        },
+        {
+          "word": "me",
+          "start": 98.1,
+          "end": 98.74
+        },
+        {
+          "word": "guiarás",
+          "start": 98.74,
+          "end": 101.76
+        },
+        {
+          "word": "en",
+          "start": 101.76,
+          "end": 103.46
+        },
+        {
+          "word": "llorar,",
+          "start": 105.1,
+          "end": 107.06
+        }
+      ],
+      "start": 96.12,
+      "end": 108.5,
+      "confidence": 0.823,
+      "time": 96.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mi noche haz brillar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mi",
+          "start": 108.5,
+          "end": 108.68
+        },
+        {
+          "word": "noche",
+          "start": 108.68,
+          "end": 109.68
+        },
+        {
+          "word": "haz",
+          "start": 109.68,
+          "end": 110.88
+        },
+        {
+          "word": "brillar",
+          "start": 110.88,
+          "end": 112.28
+        }
+      ],
+      "start": 108.5,
+      "end": 112.28,
+      "confidence": 1.0,
+      "time": 108.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y así no pueda errar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 112.28,
+          "end": 113.26
+        },
+        {
+          "word": "así",
+          "start": 113.26,
+          "end": 114.46
+        },
+        {
+          "word": "no",
+          "start": 114.46,
+          "end": 115.44
+        },
+        {
+          "word": "puede",
+          "start": 115.44,
+          "end": 116.44
+        },
+        {
+          "word": "arrar",
+          "start": 116.44,
+          "end": 117.48
+        }
+      ],
+      "start": 112.28,
+      "end": 117.48,
+      "confidence": 0.952,
+      "time": 112.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de ti jamás.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 117.48,
+          "end": 118.16
+        },
+        {
+          "word": "ti",
+          "start": 118.16,
+          "end": 119.38
+        },
+        {
+          "word": "jamás.",
+          "start": 119.38,
+          "end": 122.7
+        }
+      ],
+      "start": 117.48,
+      "end": 122.7,
+      "confidence": 1.0,
+      "time": 117.48
+    }
+  ]
+}

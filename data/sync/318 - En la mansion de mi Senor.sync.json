@@ -1,0 +1,1075 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.983,
+  "language": "es",
+  "model": "medium",
+  "hymn": 318,
+  "source": "318 - En la mansion de mi Senor.mp3",
+  "duration": 184.61,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "En la mansión de mi Señor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 11.86,
+          "end": 13.04
+        },
+        {
+          "word": "la",
+          "start": 13.04,
+          "end": 13.52
+        },
+        {
+          "word": "mansión",
+          "start": 13.52,
+          "end": 15.12
+        },
+        {
+          "word": "de",
+          "start": 15.12,
+          "end": 15.7
+        },
+        {
+          "word": "mi",
+          "start": 15.7,
+          "end": 16.08
+        },
+        {
+          "word": "Señor",
+          "start": 16.08,
+          "end": 17.44
+        }
+      ],
+      "start": 11.86,
+      "end": 17.44,
+      "confidence": 1.0,
+      "time": 11.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "no habrá ya más tribulación,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "no",
+          "start": 17.44,
+          "end": 18.04
+        },
+        {
+          "word": "habrá",
+          "start": 18.04,
+          "end": 18.54
+        },
+        {
+          "word": "llamas,",
+          "start": 18.54,
+          "end": 20.24
+        },
+        {
+          "word": "tribulación,",
+          "start": 20.54,
+          "end": 22.46
+        }
+      ],
+      "start": 17.44,
+      "end": 22.78,
+      "confidence": 0.76,
+      "time": 17.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "no habrá pesar, ningún dolor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "no",
+          "start": 22.78,
+          "end": 23.06
+        },
+        {
+          "word": "habrá",
+          "start": 23.06,
+          "end": 23.54
+        },
+        {
+          "word": "pesar,",
+          "start": 23.54,
+          "end": 24.92
+        },
+        {
+          "word": "ningún",
+          "start": 25.68,
+          "end": 26.02
+        },
+        {
+          "word": "dolor",
+          "start": 26.02,
+          "end": 27.28
+        }
+      ],
+      "start": 22.78,
+      "end": 27.28,
+      "confidence": 1.0,
+      "time": 22.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que me quebrante el corazón.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 27.28,
+          "end": 27.98
+        },
+        {
+          "word": "me",
+          "start": 27.98,
+          "end": 28.5
+        },
+        {
+          "word": "quebrante",
+          "start": 28.5,
+          "end": 29.46
+        },
+        {
+          "word": "el",
+          "start": 29.46,
+          "end": 30.38
+        },
+        {
+          "word": "corazón.",
+          "start": 30.38,
+          "end": 32.44
+        }
+      ],
+      "start": 27.28,
+      "end": 32.44,
+      "confidence": 1.0,
+      "time": 27.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Allá no habrá tribulación,",
+      "words": [
+        {
+          "word": "Allá",
+          "start": 33.04,
+          "end": 33.66
+        },
+        {
+          "word": "no",
+          "start": 33.66,
+          "end": 33.94
+        },
+        {
+          "word": "habrá",
+          "start": 33.94,
+          "end": 35.18
+        },
+        {
+          "word": "tribulación,",
+          "start": 35.18,
+          "end": 37.54
+        }
+      ],
+      "start": 33.04,
+      "end": 37.54,
+      "confidence": 1.0,
+      "time": 33.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "ningún pesar, ningún dolor;",
+      "words": [
+        {
+          "word": "ningún",
+          "start": 38.18,
+          "end": 38.4
+        },
+        {
+          "word": "pesar,",
+          "start": 38.4,
+          "end": 40.06
+        },
+        {
+          "word": "ningún",
+          "start": 40.72,
+          "end": 40.94
+        },
+        {
+          "word": "dolor,",
+          "start": 40.94,
+          "end": 42.34
+        }
+      ],
+      "start": 38.18,
+      "end": 42.34,
+      "confidence": 1.0,
+      "time": 38.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y entonaré feliz canción",
+      "words": [
+        {
+          "word": "y",
+          "start": 42.92,
+          "end": 43.18
+        },
+        {
+          "word": "en",
+          "start": 43.18,
+          "end": 43.38
+        },
+        {
+          "word": "feliz",
+          "start": 45.22,
+          "end": 45.98
+        },
+        {
+          "word": "canción",
+          "start": 45.98,
+          "end": 47.32
+        }
+      ],
+      "start": 42.92,
+      "end": 47.32,
+      "confidence": 0.985,
+      "time": 42.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "de alabanza al Señor.",
+      "words": [
+        {
+          "word": "de",
+          "start": 47.32,
+          "end": 48.48
+        },
+        {
+          "word": "alabanza",
+          "start": 48.48,
+          "end": 49.9
+        },
+        {
+          "word": "al",
+          "start": 49.9,
+          "end": 50.66
+        },
+        {
+          "word": "Señor.",
+          "start": 50.66,
+          "end": 53.02
+        }
+      ],
+      "start": 47.32,
+      "end": 53.02,
+      "confidence": 1.0,
+      "time": 47.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Resulta triste estar aquí",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Resulta",
+          "start": 55.14,
+          "end": 56.54
+        },
+        {
+          "word": "triste",
+          "start": 56.54,
+          "end": 57.92
+        },
+        {
+          "word": "estar",
+          "start": 57.92,
+          "end": 58.7
+        },
+        {
+          "word": "aquí,",
+          "start": 58.7,
+          "end": 60.0
+        }
+      ],
+      "start": 55.14,
+      "end": 60.24,
+      "confidence": 1.0,
+      "time": 55.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "muy lejos de mi Redentor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "muy",
+          "start": 60.24,
+          "end": 60.68
+        },
+        {
+          "word": "lejos",
+          "start": 60.68,
+          "end": 61.52
+        },
+        {
+          "word": "de",
+          "start": 61.52,
+          "end": 62.82
+        },
+        {
+          "word": "mi",
+          "start": 62.82,
+          "end": 63.18
+        },
+        {
+          "word": "redentor.",
+          "start": 63.18,
+          "end": 65.06
+        }
+      ],
+      "start": 60.24,
+      "end": 65.06,
+      "confidence": 1.0,
+      "time": 60.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mas morarán con él allí",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Mas",
+          "start": 65.26,
+          "end": 65.74
+        },
+        {
+          "word": "morarán",
+          "start": 65.74,
+          "end": 67.7
+        },
+        {
+          "word": "con",
+          "start": 67.7,
+          "end": 68.3
+        },
+        {
+          "word": "él",
+          "start": 68.3,
+          "end": 68.86
+        },
+        {
+          "word": "allí,",
+          "start": 68.86,
+          "end": 69.76
+        }
+      ],
+      "start": 65.26,
+      "end": 70.34,
+      "confidence": 1.0,
+      "time": 65.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "los redimidos por su amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "los",
+          "start": 70.34,
+          "end": 70.82
+        },
+        {
+          "word": "redemidos",
+          "start": 70.82,
+          "end": 72.24
+        },
+        {
+          "word": "por",
+          "start": 72.24,
+          "end": 73.28
+        },
+        {
+          "word": "su",
+          "start": 73.28,
+          "end": 74.12
+        },
+        {
+          "word": "amor.",
+          "start": 74.12,
+          "end": 75.0
+        }
+      ],
+      "start": 70.34,
+      "end": 75.0,
+      "confidence": 0.987,
+      "time": 70.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Allá no habrá tribulación,",
+      "words": [
+        {
+          "word": "Allá",
+          "start": 75.0,
+          "end": 76.14
+        },
+        {
+          "word": "no",
+          "start": 76.14,
+          "end": 76.5
+        },
+        {
+          "word": "habrá",
+          "start": 76.5,
+          "end": 77.74
+        },
+        {
+          "word": "tribulación,",
+          "start": 77.74,
+          "end": 80.04
+        }
+      ],
+      "start": 75.0,
+      "end": 80.72,
+      "confidence": 1.0,
+      "time": 75.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "ningún pesar, ningún dolor;",
+      "words": [
+        {
+          "word": "ningún",
+          "start": 80.72,
+          "end": 80.94
+        },
+        {
+          "word": "pesar,",
+          "start": 80.94,
+          "end": 82.32
+        },
+        {
+          "word": "ningún",
+          "start": 83.22,
+          "end": 83.54
+        },
+        {
+          "word": "dolor,",
+          "start": 83.54,
+          "end": 84.92
+        }
+      ],
+      "start": 80.72,
+      "end": 84.92,
+      "confidence": 1.0,
+      "time": 80.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y entonaré feliz canción",
+      "words": [
+        {
+          "word": "y",
+          "start": 85.58,
+          "end": 85.78
+        },
+        {
+          "word": "entonaré",
+          "start": 85.78,
+          "end": 87.66
+        },
+        {
+          "word": "feliz",
+          "start": 87.66,
+          "end": 88.5
+        },
+        {
+          "word": "canción",
+          "start": 88.5,
+          "end": 89.8
+        }
+      ],
+      "start": 85.58,
+      "end": 89.8,
+      "confidence": 1.0,
+      "time": 85.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "de alabanza al Señor.",
+      "words": [
+        {
+          "word": "de",
+          "start": 89.8,
+          "end": 90.9
+        },
+        {
+          "word": "alabanza",
+          "start": 90.9,
+          "end": 92.42
+        },
+        {
+          "word": "al",
+          "start": 92.42,
+          "end": 93.3
+        },
+        {
+          "word": "Señor.",
+          "start": 93.3,
+          "end": 95.94
+        }
+      ],
+      "start": 89.8,
+      "end": 95.94,
+      "confidence": 1.0,
+      "time": 89.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Perfecto amor encontraré",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Perfecto",
+          "start": 97.7,
+          "end": 99.0
+        },
+        {
+          "word": "amor",
+          "start": 99.0,
+          "end": 100.3
+        },
+        {
+          "word": "encontraré",
+          "start": 100.3,
+          "end": 102.82
+        }
+      ],
+      "start": 97.7,
+      "end": 102.82,
+      "confidence": 1.0,
+      "time": 97.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en la mansión do Cristo está;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 102.82,
+          "end": 103.28
+        },
+        {
+          "word": "la",
+          "start": 103.28,
+          "end": 103.7
+        },
+        {
+          "word": "mansión",
+          "start": 103.7,
+          "end": 105.18
+        },
+        {
+          "word": "Cristo",
+          "start": 105.58,
+          "end": 106.22
+        },
+        {
+          "word": "está",
+          "start": 106.22,
+          "end": 107.52
+        }
+      ],
+      "start": 102.82,
+      "end": 107.52,
+      "confidence": 0.833,
+      "time": 102.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "perfecta calma allí tendré,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Perfecta",
+          "start": 107.52,
+          "end": 108.96
+        },
+        {
+          "word": "calma",
+          "start": 108.96,
+          "end": 110.56
+        },
+        {
+          "word": "al",
+          "start": 110.56,
+          "end": 110.82
+        },
+        {
+          "word": "tendré",
+          "start": 111.02,
+          "end": 112.46
+        }
+      ],
+      "start": 107.52,
+      "end": 112.46,
+      "confidence": 0.985,
+      "time": 107.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y mi alma al fin descansará.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 112.46,
+          "end": 113.12
+        },
+        {
+          "word": "mi",
+          "start": 113.12,
+          "end": 113.32
+        },
+        {
+          "word": "alma",
+          "start": 113.32,
+          "end": 113.68
+        },
+        {
+          "word": "al",
+          "start": 113.68,
+          "end": 113.96
+        },
+        {
+          "word": "fin",
+          "start": 113.96,
+          "end": 114.34
+        },
+        {
+          "word": "descansará",
+          "start": 114.34,
+          "end": 117.46
+        }
+      ],
+      "start": 112.46,
+      "end": 117.46,
+      "confidence": 1.0,
+      "time": 112.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Allá no habrá tribulación,",
+      "words": [
+        {
+          "word": "Allá",
+          "start": 117.46,
+          "end": 118.7
+        },
+        {
+          "word": "no",
+          "start": 118.7,
+          "end": 118.96
+        },
+        {
+          "word": "habrá",
+          "start": 118.96,
+          "end": 120.16
+        },
+        {
+          "word": "tribulación,",
+          "start": 120.16,
+          "end": 122.48
+        }
+      ],
+      "start": 117.46,
+      "end": 123.14,
+      "confidence": 1.0,
+      "time": 117.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "ningún pesar, ningún dolor;",
+      "words": [
+        {
+          "word": "ningún",
+          "start": 123.14,
+          "end": 123.38
+        },
+        {
+          "word": "pesar,",
+          "start": 123.38,
+          "end": 124.92
+        },
+        {
+          "word": "ningún",
+          "start": 125.66,
+          "end": 125.98
+        },
+        {
+          "word": "dolor,",
+          "start": 125.98,
+          "end": 127.3
+        }
+      ],
+      "start": 123.14,
+      "end": 127.3,
+      "confidence": 1.0,
+      "time": 123.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y entonaré feliz canción",
+      "words": [
+        {
+          "word": "y",
+          "start": 127.98,
+          "end": 128.18
+        },
+        {
+          "word": "entonaré",
+          "start": 128.18,
+          "end": 130.08
+        },
+        {
+          "word": "feliz",
+          "start": 130.08,
+          "end": 130.92
+        },
+        {
+          "word": "canción",
+          "start": 130.92,
+          "end": 132.34
+        }
+      ],
+      "start": 127.98,
+      "end": 132.34,
+      "confidence": 1.0,
+      "time": 127.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "de alabanza al Señor.",
+      "words": [
+        {
+          "word": "de",
+          "start": 132.34,
+          "end": 133.48
+        },
+        {
+          "word": "alabanza",
+          "start": 133.48,
+          "end": 134.86
+        },
+        {
+          "word": "al",
+          "start": 134.86,
+          "end": 135.7
+        },
+        {
+          "word": "Señor.",
+          "start": 135.7,
+          "end": 137.0
+        }
+      ],
+      "start": 132.34,
+      "end": 137.0,
+      "confidence": 1.0,
+      "time": 132.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "En su presencia gozaré",
+      "verse": 4,
+      "words": [
+        {
+          "word": "En",
+          "start": 137.0,
+          "end": 139.72
+        },
+        {
+          "word": "su",
+          "start": 139.72,
+          "end": 140.36
+        },
+        {
+          "word": "presencia",
+          "start": 140.36,
+          "end": 142.18
+        },
+        {
+          "word": "gozaré",
+          "start": 142.18,
+          "end": 144.32
+        }
+      ],
+      "start": 137.0,
+      "end": 144.32,
+      "confidence": 1.0,
+      "time": 137.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "su inmenso amor, su gran bondad;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "su",
+          "start": 144.32,
+          "end": 144.78
+        },
+        {
+          "word": "inmenso",
+          "start": 144.78,
+          "end": 145.76
+        },
+        {
+          "word": "amor,",
+          "start": 145.76,
+          "end": 146.72
+        },
+        {
+          "word": "su",
+          "start": 146.82,
+          "end": 147.2
+        },
+        {
+          "word": "gran",
+          "start": 147.2,
+          "end": 147.7
+        },
+        {
+          "word": "bondad,",
+          "start": 147.7,
+          "end": 149.26
+        }
+      ],
+      "start": 144.32,
+      "end": 149.4,
+      "confidence": 1.0,
+      "time": 144.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "feliz con Cristo reinaré",
+      "verse": 4,
+      "words": [
+        {
+          "word": "feliz",
+          "start": 149.4,
+          "end": 150.08
+        },
+        {
+          "word": "con",
+          "start": 150.08,
+          "end": 150.62
+        },
+        {
+          "word": "Cristo",
+          "start": 150.62,
+          "end": 152.22
+        },
+        {
+          "word": "reinaré",
+          "start": 152.22,
+          "end": 154.22
+        }
+      ],
+      "start": 149.4,
+      "end": 154.22,
+      "confidence": 1.0,
+      "time": 149.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "por toda la eternidad.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "por",
+          "start": 154.22,
+          "end": 154.88
+        },
+        {
+          "word": "toda",
+          "start": 154.88,
+          "end": 155.6
+        },
+        {
+          "word": "la",
+          "start": 155.6,
+          "end": 156.5
+        },
+        {
+          "word": "eternidad.",
+          "start": 156.5,
+          "end": 159.12
+        }
+      ],
+      "start": 154.22,
+      "end": 159.12,
+      "confidence": 1.0,
+      "time": 154.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Allá no habrá tribulación,",
+      "words": [
+        {
+          "word": "Allá",
+          "start": 159.12,
+          "end": 160.36
+        },
+        {
+          "word": "no",
+          "start": 160.36,
+          "end": 160.72
+        },
+        {
+          "word": "habrá",
+          "start": 160.72,
+          "end": 161.92
+        },
+        {
+          "word": "tribulación,",
+          "start": 161.92,
+          "end": 164.24
+        }
+      ],
+      "start": 159.12,
+      "end": 164.24,
+      "confidence": 1.0,
+      "time": 159.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "ningún pesar, ningún dolor;",
+      "words": [
+        {
+          "word": "Ningún",
+          "start": 164.94,
+          "end": 165.2
+        },
+        {
+          "word": "pesar,",
+          "start": 165.2,
+          "end": 166.66
+        },
+        {
+          "word": "ningún",
+          "start": 167.34,
+          "end": 167.68
+        },
+        {
+          "word": "dolor,",
+          "start": 167.68,
+          "end": 169.12
+        }
+      ],
+      "start": 164.94,
+      "end": 169.12,
+      "confidence": 1.0,
+      "time": 164.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "y entonaré feliz canción",
+      "words": [
+        {
+          "word": "Y",
+          "start": 169.66,
+          "end": 169.88
+        },
+        {
+          "word": "en",
+          "start": 169.88,
+          "end": 170.12
+        },
+        {
+          "word": "feliz",
+          "start": 172.26,
+          "end": 172.74
+        },
+        {
+          "word": "canción,",
+          "start": 172.74,
+          "end": 174.06
+        }
+      ],
+      "start": 169.66,
+      "end": 174.06,
+      "confidence": 0.985,
+      "time": 169.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "de alabanza al Señor.",
+      "words": [
+        {
+          "word": "De",
+          "start": 174.82,
+          "end": 175.26
+        },
+        {
+          "word": "alabanza",
+          "start": 175.26,
+          "end": 176.88
+        },
+        {
+          "word": "al",
+          "start": 176.88,
+          "end": 177.88
+        },
+        {
+          "word": "Señor.",
+          "start": 177.88,
+          "end": 179.26
+        }
+      ],
+      "start": 174.82,
+      "end": 179.26,
+      "confidence": 1.0,
+      "time": 174.82
+    }
+  ]
+}

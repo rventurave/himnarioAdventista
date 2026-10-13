@@ -1,0 +1,872 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.979,
+  "language": "es",
+  "model": "medium",
+  "hymn": 444,
+  "source": "444 - No me pases.mp3",
+  "duration": 168.8,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "No me pases, no me olvides,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "No",
+          "start": 10.1,
+          "end": 11.3
+        },
+        {
+          "word": "me",
+          "start": 11.3,
+          "end": 12.1
+        },
+        {
+          "word": "pases,",
+          "start": 12.1,
+          "end": 12.64
+        },
+        {
+          "word": "no",
+          "start": 12.68,
+          "end": 12.96
+        },
+        {
+          "word": "me",
+          "start": 12.96,
+          "end": 13.24
+        },
+        {
+          "word": "olvides,",
+          "start": 13.24,
+          "end": 15.42
+        }
+      ],
+      "start": 10.1,
+      "end": 16.48,
+      "confidence": 1.0,
+      "time": 10.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tierno Salvador;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "eterno",
+          "start": 16.48,
+          "end": 17.3
+        },
+        {
+          "word": "salvador,",
+          "start": 17.3,
+          "end": 19.98
+        }
+      ],
+      "start": 16.48,
+      "end": 21.0,
+      "confidence": 0.95,
+      "time": 16.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "muchos gozan tus mercedes,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "muchos",
+          "start": 21.0,
+          "end": 21.6
+        },
+        {
+          "word": "gozos",
+          "start": 21.6,
+          "end": 22.14
+        },
+        {
+          "word": "tus",
+          "start": 22.42,
+          "end": 22.7
+        },
+        {
+          "word": "mercedes,",
+          "start": 22.7,
+          "end": 24.82
+        }
+      ],
+      "start": 21.0,
+      "end": 26.1,
+      "confidence": 0.94,
+      "time": 21.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "oye mi clamor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "oye",
+          "start": 26.1,
+          "end": 26.58
+        },
+        {
+          "word": "mi",
+          "start": 26.58,
+          "end": 27.06
+        },
+        {
+          "word": "clamor,",
+          "start": 27.06,
+          "end": 29.56
+        }
+      ],
+      "start": 26.1,
+      "end": 29.56,
+      "confidence": 1.0,
+      "time": 26.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cristo, Cristo, oye tú mi voz;",
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 29.56,
+          "end": 31.46
+        },
+        {
+          "word": "Cristo,",
+          "start": 32.46,
+          "end": 34.6
+        },
+        {
+          "word": "oye",
+          "start": 35.42,
+          "end": 36.0
+        },
+        {
+          "word": "tú",
+          "start": 36.0,
+          "end": 36.66
+        },
+        {
+          "word": "mi",
+          "start": 36.66,
+          "end": 37.36
+        },
+        {
+          "word": "voz,",
+          "start": 37.36,
+          "end": 39.26
+        }
+      ],
+      "start": 29.56,
+      "end": 40.5,
+      "confidence": 1.0,
+      "time": 29.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Salvador, tu gracia dame, oye mi clamor.",
+      "words": [
+        {
+          "word": "Salvador",
+          "start": 40.5,
+          "end": 41.02
+        },
+        {
+          "word": "tu",
+          "start": 41.02,
+          "end": 41.44
+        },
+        {
+          "word": "gracia",
+          "start": 41.44,
+          "end": 42.18
+        },
+        {
+          "word": "dame,",
+          "start": 42.18,
+          "end": 44.22
+        },
+        {
+          "word": "oye",
+          "start": 45.08,
+          "end": 45.64
+        },
+        {
+          "word": "mi",
+          "start": 45.64,
+          "end": 46.2
+        },
+        {
+          "word": "clamor.",
+          "start": 46.2,
+          "end": 48.94
+        }
+      ],
+      "start": 40.5,
+      "end": 48.94,
+      "confidence": 1.0,
+      "time": 40.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Ante el trono de tu gracia",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Ante",
+          "start": 48.94,
+          "end": 50.28
+        },
+        {
+          "word": "el",
+          "start": 50.28,
+          "end": 50.44
+        },
+        {
+          "word": "trono",
+          "start": 50.44,
+          "end": 50.98
+        },
+        {
+          "word": "de",
+          "start": 50.98,
+          "end": 51.42
+        },
+        {
+          "word": "Tu",
+          "start": 51.42,
+          "end": 51.7
+        },
+        {
+          "word": "gracia,",
+          "start": 51.7,
+          "end": 54.02
+        }
+      ],
+      "start": 48.94,
+      "end": 55.12,
+      "confidence": 1.0,
+      "time": 48.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hallo dulce paz;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "dulce",
+          "start": 55.12,
+          "end": 56.42
+        },
+        {
+          "word": "paz,",
+          "start": 56.42,
+          "end": 58.34
+        }
+      ],
+      "start": 55.12,
+      "end": 58.34,
+      "confidence": 0.667,
+      "time": 55.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "nada aquí mi alma sacia,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "nada",
+          "start": 59.38,
+          "end": 59.9
+        },
+        {
+          "word": "mi",
+          "start": 60.42,
+          "end": 60.76
+        },
+        {
+          "word": "alma",
+          "start": 60.76,
+          "end": 61.22
+        },
+        {
+          "word": "sacia,",
+          "start": 61.22,
+          "end": 63.38
+        }
+      ],
+      "start": 59.38,
+      "end": 63.84,
+      "confidence": 0.8,
+      "time": 59.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tú eres mi solaz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tú",
+          "start": 63.84,
+          "end": 64.04
+        },
+        {
+          "word": "eres",
+          "start": 64.04,
+          "end": 64.9
+        },
+        {
+          "word": "mi",
+          "start": 64.9,
+          "end": 65.48
+        },
+        {
+          "word": "solas.",
+          "start": 65.48,
+          "end": 68.0
+        }
+      ],
+      "start": 63.84,
+      "end": 68.0,
+      "confidence": 0.97,
+      "time": 63.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cristo, Cristo, oye tú mi voz;",
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 68.0,
+          "end": 69.86
+        },
+        {
+          "word": "Cristo,",
+          "start": 70.8,
+          "end": 72.94
+        },
+        {
+          "word": "oye",
+          "start": 73.76,
+          "end": 74.4
+        },
+        {
+          "word": "tú",
+          "start": 74.4,
+          "end": 75.06
+        },
+        {
+          "word": "mi",
+          "start": 75.06,
+          "end": 75.74
+        },
+        {
+          "word": "voz,",
+          "start": 75.74,
+          "end": 77.64
+        }
+      ],
+      "start": 68.0,
+      "end": 78.92,
+      "confidence": 1.0,
+      "time": 68.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Salvador, tu gracia dame, oye mi clamor.",
+      "words": [
+        {
+          "word": "salvador",
+          "start": 78.92,
+          "end": 79.54
+        },
+        {
+          "word": "tu",
+          "start": 79.54,
+          "end": 79.82
+        },
+        {
+          "word": "gracia",
+          "start": 79.82,
+          "end": 80.62
+        },
+        {
+          "word": "dame,",
+          "start": 80.62,
+          "end": 82.68
+        },
+        {
+          "word": "oye",
+          "start": 83.46,
+          "end": 84.06
+        },
+        {
+          "word": "mi",
+          "start": 84.06,
+          "end": 84.68
+        },
+        {
+          "word": "clamor.",
+          "start": 84.68,
+          "end": 87.44
+        }
+      ],
+      "start": 78.92,
+      "end": 87.44,
+      "confidence": 1.0,
+      "time": 78.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Solo fío en tus bondades,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Sólo",
+          "start": 87.44,
+          "end": 88.88
+        },
+        {
+          "word": "fío",
+          "start": 88.88,
+          "end": 89.24
+        },
+        {
+          "word": "en",
+          "start": 89.24,
+          "end": 89.5
+        },
+        {
+          "word": "tus",
+          "start": 89.5,
+          "end": 89.78
+        },
+        {
+          "word": "bondades,",
+          "start": 89.78,
+          "end": 92.24
+        }
+      ],
+      "start": 87.44,
+      "end": 93.12,
+      "confidence": 1.0,
+      "time": 87.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "guíame en tu luz,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "guíame",
+          "start": 93.12,
+          "end": 93.86
+        },
+        {
+          "word": "en",
+          "start": 93.86,
+          "end": 94.44
+        },
+        {
+          "word": "tu",
+          "start": 94.44,
+          "end": 94.8
+        },
+        {
+          "word": "luz,",
+          "start": 94.8,
+          "end": 96.74
+        }
+      ],
+      "start": 93.12,
+      "end": 97.36,
+      "confidence": 1.0,
+      "time": 93.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y mi alma no deseches,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 97.36,
+          "end": 98.16
+        },
+        {
+          "word": "mi",
+          "start": 98.16,
+          "end": 98.56
+        },
+        {
+          "word": "alma",
+          "start": 98.56,
+          "end": 98.9
+        },
+        {
+          "word": "no",
+          "start": 98.9,
+          "end": 99.42
+        },
+        {
+          "word": "desheches,",
+          "start": 99.42,
+          "end": 101.64
+        }
+      ],
+      "start": 97.36,
+      "end": 102.42,
+      "confidence": 0.993,
+      "time": 97.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "sálvame, Jesús.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "sálvame",
+          "start": 102.42,
+          "end": 103.72
+        },
+        {
+          "word": "Jesús.",
+          "start": 103.72,
+          "end": 105.62
+        }
+      ],
+      "start": 102.42,
+      "end": 105.62,
+      "confidence": 1.0,
+      "time": 102.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cristo, Cristo, oye tú mi voz;",
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 105.62,
+          "end": 108.2
+        },
+        {
+          "word": "Cristo,",
+          "start": 111.46,
+          "end": 111.46
+        },
+        {
+          "word": "oye",
+          "start": 112.04,
+          "end": 112.82
+        },
+        {
+          "word": "tú",
+          "start": 112.82,
+          "end": 113.52
+        },
+        {
+          "word": "mi",
+          "start": 113.52,
+          "end": 114.2
+        },
+        {
+          "word": "voz,",
+          "start": 114.2,
+          "end": 116.08
+        }
+      ],
+      "start": 105.62,
+      "end": 117.38,
+      "confidence": 1.0,
+      "time": 105.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Salvador, tu gracia dame, oye mi clamor.",
+      "words": [
+        {
+          "word": "salvador",
+          "start": 117.38,
+          "end": 117.98
+        },
+        {
+          "word": "tu",
+          "start": 117.98,
+          "end": 118.26
+        },
+        {
+          "word": "gracia",
+          "start": 118.26,
+          "end": 118.96
+        },
+        {
+          "word": "dame,",
+          "start": 118.96,
+          "end": 120.7
+        },
+        {
+          "word": "oye",
+          "start": 121.82,
+          "end": 122.44
+        },
+        {
+          "word": "mi",
+          "start": 122.44,
+          "end": 123.04
+        },
+        {
+          "word": "clamor.",
+          "start": 123.04,
+          "end": 125.62
+        }
+      ],
+      "start": 117.38,
+      "end": 125.62,
+      "confidence": 1.0,
+      "time": 117.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Fuente viva de consuelo",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Fuente",
+          "start": 125.62,
+          "end": 128.34
+        },
+        {
+          "word": "viva",
+          "start": 128.34,
+          "end": 128.92
+        },
+        {
+          "word": "de",
+          "start": 128.92,
+          "end": 129.44
+        },
+        {
+          "word": "consuelo,",
+          "start": 129.44,
+          "end": 131.78
+        }
+      ],
+      "start": 125.62,
+      "end": 132.04,
+      "confidence": 1.0,
+      "time": 125.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "eres para mí;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "eres",
+          "start": 132.04,
+          "end": 133.2
+        },
+        {
+          "word": "para",
+          "start": 133.2,
+          "end": 134.42
+        },
+        {
+          "word": "mí,",
+          "start": 134.42,
+          "end": 136.36
+        }
+      ],
+      "start": 132.04,
+      "end": 136.8,
+      "confidence": 1.0,
+      "time": 132.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "mi alma pone en ti su anhelo,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "mi",
+          "start": 136.8,
+          "end": 137.26
+        },
+        {
+          "word": "alma",
+          "start": 137.26,
+          "end": 137.94
+        },
+        {
+          "word": "pone",
+          "start": 137.94,
+          "end": 138.46
+        },
+        {
+          "word": "en",
+          "start": 138.46,
+          "end": 138.74
+        },
+        {
+          "word": "ti",
+          "start": 138.74,
+          "end": 138.92
+        },
+        {
+          "word": "su",
+          "start": 138.92,
+          "end": 139.14
+        },
+        {
+          "word": "anhelo",
+          "start": 139.14,
+          "end": 141.32
+        }
+      ],
+      "start": 136.8,
+      "end": 141.32,
+      "confidence": 1.0,
+      "time": 136.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "solamente en ti.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "solamente",
+          "start": 141.32,
+          "end": 142.92
+        },
+        {
+          "word": "en",
+          "start": 142.92,
+          "end": 144.38
+        },
+        {
+          "word": "ti.",
+          "start": 144.38,
+          "end": 145.62
+        }
+      ],
+      "start": 141.32,
+      "end": 145.62,
+      "confidence": 1.0,
+      "time": 141.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Cristo, Cristo, oye tú mi voz;",
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 145.62,
+          "end": 147.86
+        },
+        {
+          "word": "Cristo,",
+          "start": 148.76,
+          "end": 151.02
+        },
+        {
+          "word": "oye",
+          "start": 151.78,
+          "end": 152.44
+        },
+        {
+          "word": "tu",
+          "start": 152.44,
+          "end": 153.08
+        },
+        {
+          "word": "mi",
+          "start": 153.08,
+          "end": 153.74
+        },
+        {
+          "word": "voz,",
+          "start": 153.74,
+          "end": 155.68
+        }
+      ],
+      "start": 145.62,
+      "end": 156.98,
+      "confidence": 1.0,
+      "time": 145.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Salvador, tu gracia dame, oye mi clamor.",
+      "words": [
+        {
+          "word": "salvador",
+          "start": 156.98,
+          "end": 157.6
+        },
+        {
+          "word": "tu",
+          "start": 157.6,
+          "end": 157.88
+        },
+        {
+          "word": "gracia",
+          "start": 157.88,
+          "end": 158.66
+        },
+        {
+          "word": "dame,",
+          "start": 158.66,
+          "end": 160.42
+        },
+        {
+          "word": "oye",
+          "start": 161.5,
+          "end": 162.08
+        },
+        {
+          "word": "mi",
+          "start": 162.08,
+          "end": 162.7
+        },
+        {
+          "word": "clamor.",
+          "start": 162.7,
+          "end": 166.84
+        }
+      ],
+      "start": 156.98,
+      "end": 166.84,
+      "confidence": 1.0,
+      "time": 156.98
+    }
+  ]
+}

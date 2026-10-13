@@ -1,0 +1,1580 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.929,
+  "language": "es",
+  "model": "medium",
+  "hymn": 567,
+  "source": "567 - Si en valles de peligros.mp3",
+  "duration": 344.4,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Si en valles de peligros yo tengo que pasar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cien",
+          "start": 18.92,
+          "end": 20.32
+        },
+        {
+          "word": "valles",
+          "start": 20.32,
+          "end": 21.52
+        },
+        {
+          "word": "de",
+          "start": 21.52,
+          "end": 22.5
+        },
+        {
+          "word": "peligros",
+          "start": 22.5,
+          "end": 24.84
+        },
+        {
+          "word": "yo",
+          "start": 24.84,
+          "end": 25.3
+        },
+        {
+          "word": "tengo",
+          "start": 25.3,
+          "end": 26.38
+        },
+        {
+          "word": "que",
+          "start": 26.38,
+          "end": 27.32
+        },
+        {
+          "word": "pasar",
+          "start": 27.32,
+          "end": 29.28
+        }
+      ],
+      "start": 18.92,
+      "end": 29.28,
+      "confidence": 0.867,
+      "time": 18.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "o si por altas cumbres en paz me toca andar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "O",
+          "start": 29.28,
+          "end": 30.36
+        },
+        {
+          "word": "si",
+          "start": 30.36,
+          "end": 31.0
+        },
+        {
+          "word": "por",
+          "start": 31.0,
+          "end": 32.02
+        },
+        {
+          "word": "altas",
+          "start": 32.02,
+          "end": 33.32
+        },
+        {
+          "word": "cumbres",
+          "start": 33.32,
+          "end": 34.76
+        },
+        {
+          "word": "en",
+          "start": 34.76,
+          "end": 35.34
+        },
+        {
+          "word": "paz",
+          "start": 35.34,
+          "end": 35.9
+        },
+        {
+          "word": "me",
+          "start": 35.9,
+          "end": 36.56
+        },
+        {
+          "word": "toca",
+          "start": 36.56,
+          "end": 37.18
+        },
+        {
+          "word": "andar,",
+          "start": 37.18,
+          "end": 39.1
+        }
+      ],
+      "start": 29.28,
+      "end": 39.1,
+      "confidence": 1.0,
+      "time": 29.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ya que seguro estoy si en sol o sombra voy,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ya",
+          "start": 39.76,
+          "end": 40.0
+        },
+        {
+          "word": "que",
+          "start": 40.0,
+          "end": 40.94
+        },
+        {
+          "word": "seguro",
+          "start": 40.94,
+          "end": 42.3
+        },
+        {
+          "word": "estoy,",
+          "start": 42.3,
+          "end": 44.24
+        },
+        {
+          "word": "si",
+          "start": 44.66,
+          "end": 44.94
+        },
+        {
+          "word": "en",
+          "start": 44.94,
+          "end": 45.18
+        },
+        {
+          "word": "solo",
+          "start": 45.18,
+          "end": 46.18
+        },
+        {
+          "word": "sombra",
+          "start": 46.18,
+          "end": 47.38
+        },
+        {
+          "word": "voy,",
+          "start": 47.38,
+          "end": 49.08
+        }
+      ],
+      "start": 39.76,
+      "end": 49.08,
+      "confidence": 0.894,
+      "time": 39.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a cualquiera parte, iré con Jesús.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "A",
+          "start": 49.08,
+          "end": 50.12
+        },
+        {
+          "word": "cualquiera",
+          "start": 50.12,
+          "end": 52.32
+        },
+        {
+          "word": "parte",
+          "start": 52.32,
+          "end": 54.06
+        },
+        {
+          "word": "iré",
+          "start": 54.06,
+          "end": 56.02
+        },
+        {
+          "word": "con",
+          "start": 56.02,
+          "end": 56.9
+        },
+        {
+          "word": "Jesús,",
+          "start": 56.9,
+          "end": 58.92
+        }
+      ],
+      "start": 49.08,
+      "end": 59.02,
+      "confidence": 1.0,
+      "time": 49.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "A cualquiera parte, iré con Jesús;",
+      "words": [
+        {
+          "word": "a",
+          "start": 59.02,
+          "end": 59.9
+        },
+        {
+          "word": "cualquiera",
+          "start": 59.9,
+          "end": 60.98
+        },
+        {
+          "word": "parte",
+          "start": 60.98,
+          "end": 61.88
+        },
+        {
+          "word": "iré",
+          "start": 61.88,
+          "end": 64.52
+        },
+        {
+          "word": "con",
+          "start": 64.52,
+          "end": 66.02
+        },
+        {
+          "word": "Jesús.",
+          "start": 66.02,
+          "end": 68.92
+        }
+      ],
+      "start": 59.02,
+      "end": 68.92,
+      "confidence": 1.0,
+      "time": 59.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "doquiera que esté, del Cielo tendré la santa luz.",
+      "words": [
+        {
+          "word": "quiero",
+          "start": 69.8,
+          "end": 70.32
+        },
+        {
+          "word": "que",
+          "start": 70.32,
+          "end": 70.9
+        },
+        {
+          "word": "esté",
+          "start": 70.9,
+          "end": 71.58
+        },
+        {
+          "word": "del",
+          "start": 71.58,
+          "end": 72.1
+        },
+        {
+          "word": "cielo,",
+          "start": 72.1,
+          "end": 72.82
+        },
+        {
+          "word": "la",
+          "start": 73.62,
+          "end": 74.64
+        },
+        {
+          "word": "Santa",
+          "start": 74.64,
+          "end": 76.18
+        },
+        {
+          "word": "Luz.",
+          "start": 76.18,
+          "end": 78.7
+        }
+      ],
+      "start": 69.8,
+      "end": 78.7,
+      "confidence": 0.87,
+      "time": 69.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Es mi privilegio aquí llevar su cruz;",
+      "words": [
+        {
+          "word": "Es",
+          "start": 79.4,
+          "end": 79.62
+        },
+        {
+          "word": "mi",
+          "start": 79.62,
+          "end": 80.24
+        },
+        {
+          "word": "privilegio",
+          "start": 80.24,
+          "end": 81.64
+        },
+        {
+          "word": "aquí",
+          "start": 81.64,
+          "end": 83.8
+        },
+        {
+          "word": "llevar",
+          "start": 83.8,
+          "end": 85.56
+        },
+        {
+          "word": "Su",
+          "start": 85.56,
+          "end": 86.86
+        },
+        {
+          "word": "cruz",
+          "start": 86.86,
+          "end": 88.64
+        }
+      ],
+      "start": 79.4,
+      "end": 88.64,
+      "confidence": 1.0,
+      "time": 79.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "iré, pues, a cualquiera parte con Jesús.",
+      "words": [
+        {
+          "word": "Iré",
+          "start": 88.64,
+          "end": 90.06
+        },
+        {
+          "word": "pues",
+          "start": 90.06,
+          "end": 90.4
+        },
+        {
+          "word": "a",
+          "start": 90.4,
+          "end": 90.88
+        },
+        {
+          "word": "cualquier",
+          "start": 90.88,
+          "end": 91.46
+        },
+        {
+          "word": "aparte",
+          "start": 91.46,
+          "end": 94.1
+        },
+        {
+          "word": "con",
+          "start": 94.1,
+          "end": 95.62
+        },
+        {
+          "word": "Jesús.",
+          "start": 95.62,
+          "end": 98.9
+        }
+      ],
+      "start": 88.64,
+      "end": 98.9,
+      "confidence": 0.984,
+      "time": 88.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si el agua de la vida es mi deber llevar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 100.26,
+          "end": 100.8
+        },
+        {
+          "word": "el",
+          "start": 100.8,
+          "end": 101.48
+        },
+        {
+          "word": "agua",
+          "start": 101.48,
+          "end": 102.08
+        },
+        {
+          "word": "de",
+          "start": 102.08,
+          "end": 102.9
+        },
+        {
+          "word": "la",
+          "start": 102.9,
+          "end": 103.58
+        },
+        {
+          "word": "vida",
+          "start": 103.58,
+          "end": 105.2
+        },
+        {
+          "word": "es",
+          "start": 105.2,
+          "end": 105.86
+        },
+        {
+          "word": "mi",
+          "start": 105.86,
+          "end": 106.6
+        },
+        {
+          "word": "deber",
+          "start": 106.6,
+          "end": 107.78
+        },
+        {
+          "word": "llevar",
+          "start": 107.78,
+          "end": 109.92
+        }
+      ],
+      "start": 100.26,
+      "end": 109.92,
+      "confidence": 1.0,
+      "time": 100.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al pecador rendido por yermo al transitar;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 109.92,
+          "end": 110.9
+        },
+        {
+          "word": "pecador",
+          "start": 110.9,
+          "end": 112.8
+        },
+        {
+          "word": "rendido",
+          "start": 112.8,
+          "end": 115.1
+        },
+        {
+          "word": "por",
+          "start": 115.1,
+          "end": 115.84
+        },
+        {
+          "word": "yermo",
+          "start": 115.84,
+          "end": 116.64
+        },
+        {
+          "word": "al",
+          "start": 116.64,
+          "end": 117.06
+        },
+        {
+          "word": "transitar.",
+          "start": 117.06,
+          "end": 119.76
+        }
+      ],
+      "start": 109.92,
+      "end": 119.76,
+      "confidence": 1.0,
+      "time": 109.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "si es que me toca a mí llevar su amor allí,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 119.98,
+          "end": 120.52
+        },
+        {
+          "word": "es",
+          "start": 120.52,
+          "end": 120.84
+        },
+        {
+          "word": "que",
+          "start": 120.84,
+          "end": 121.4
+        },
+        {
+          "word": "me",
+          "start": 121.4,
+          "end": 122.04
+        },
+        {
+          "word": "toca",
+          "start": 122.04,
+          "end": 122.9
+        },
+        {
+          "word": "a",
+          "start": 122.9,
+          "end": 123.46
+        },
+        {
+          "word": "mí",
+          "start": 123.46,
+          "end": 124.8
+        },
+        {
+          "word": "llevar",
+          "start": 124.8,
+          "end": 126.14
+        },
+        {
+          "word": "su",
+          "start": 126.14,
+          "end": 126.8
+        },
+        {
+          "word": "amor",
+          "start": 126.8,
+          "end": 127.68
+        },
+        {
+          "word": "allí",
+          "start": 127.68,
+          "end": 129.74
+        }
+      ],
+      "start": 119.98,
+      "end": 129.74,
+      "confidence": 1.0,
+      "time": 119.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con tal que él me guíe, iré con Jesús.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "con",
+          "start": 129.74,
+          "end": 130.62
+        },
+        {
+          "word": "tal",
+          "start": 130.62,
+          "end": 131.74
+        },
+        {
+          "word": "que",
+          "start": 131.74,
+          "end": 132.5
+        },
+        {
+          "word": "me",
+          "start": 132.5,
+          "end": 133.16
+        },
+        {
+          "word": "iré",
+          "start": 134.92,
+          "end": 136.74
+        },
+        {
+          "word": "con",
+          "start": 136.74,
+          "end": 137.34
+        },
+        {
+          "word": "Jesús.",
+          "start": 137.34,
+          "end": 139.4
+        }
+      ],
+      "start": 129.74,
+      "end": 139.4,
+      "confidence": 0.778,
+      "time": 129.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "A cualquiera parte, iré con Jesús;",
+      "words": [
+        {
+          "word": "A",
+          "start": 139.4,
+          "end": 140.5
+        },
+        {
+          "word": "cualquiera",
+          "start": 140.5,
+          "end": 141.58
+        },
+        {
+          "word": "parte",
+          "start": 141.58,
+          "end": 142.32
+        },
+        {
+          "word": "iré",
+          "start": 142.32,
+          "end": 145.06
+        },
+        {
+          "word": "con",
+          "start": 145.06,
+          "end": 146.44
+        },
+        {
+          "word": "Jesús.",
+          "start": 146.44,
+          "end": 149.48
+        }
+      ],
+      "start": 139.4,
+      "end": 149.48,
+      "confidence": 1.0,
+      "time": 139.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "doquiera que esté, del Cielo tendré la santa luz.",
+      "words": [
+        {
+          "word": "Doquiera",
+          "start": 149.76,
+          "end": 150.84
+        },
+        {
+          "word": "que",
+          "start": 150.84,
+          "end": 151.38
+        },
+        {
+          "word": "esté",
+          "start": 151.38,
+          "end": 152.1
+        },
+        {
+          "word": "del",
+          "start": 152.1,
+          "end": 152.74
+        },
+        {
+          "word": "cielo",
+          "start": 152.74,
+          "end": 153.22
+        },
+        {
+          "word": "obtendré",
+          "start": 153.22,
+          "end": 154.64
+        },
+        {
+          "word": "la",
+          "start": 154.64,
+          "end": 155.52
+        },
+        {
+          "word": "Santa",
+          "start": 155.52,
+          "end": 156.82
+        },
+        {
+          "word": "Luz.",
+          "start": 156.82,
+          "end": 159.14
+        }
+      ],
+      "start": 149.76,
+      "end": 159.14,
+      "confidence": 0.99,
+      "time": 149.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Es mi privilegio aquí llevar su cruz;",
+      "words": [
+        {
+          "word": "Es",
+          "start": 159.9,
+          "end": 160.12
+        },
+        {
+          "word": "mi",
+          "start": 160.12,
+          "end": 160.78
+        },
+        {
+          "word": "privilegio",
+          "start": 160.78,
+          "end": 162.22
+        },
+        {
+          "word": "aquí",
+          "start": 162.22,
+          "end": 164.24
+        },
+        {
+          "word": "llevarse",
+          "start": 164.24,
+          "end": 167.32
+        },
+        {
+          "word": "cruz.",
+          "start": 167.68,
+          "end": 168.4
+        }
+      ],
+      "start": 159.9,
+      "end": 168.4,
+      "confidence": 0.849,
+      "time": 159.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "iré, pues, a cualquiera parte con Jesús.",
+      "words": [
+        {
+          "word": "Iré",
+          "start": 168.4,
+          "end": 170.62
+        },
+        {
+          "word": "pues",
+          "start": 170.62,
+          "end": 170.94
+        },
+        {
+          "word": "a",
+          "start": 170.94,
+          "end": 171.34
+        },
+        {
+          "word": "cualquiera",
+          "start": 171.34,
+          "end": 172.26
+        },
+        {
+          "word": "aparte",
+          "start": 172.26,
+          "end": 174.7
+        },
+        {
+          "word": "con",
+          "start": 174.7,
+          "end": 176.2
+        },
+        {
+          "word": "Jesús.",
+          "start": 176.2,
+          "end": 179.74
+        }
+      ],
+      "start": 168.4,
+      "end": 179.74,
+      "confidence": 0.992,
+      "time": 168.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Mas si es mi suerte en casa la santa cruz llevar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Mas",
+          "start": 182.06,
+          "end": 182.38
+        },
+        {
+          "word": "si",
+          "start": 182.38,
+          "end": 182.96
+        },
+        {
+          "word": "es",
+          "start": 182.96,
+          "end": 183.16
+        },
+        {
+          "word": "mi",
+          "start": 183.16,
+          "end": 183.46
+        },
+        {
+          "word": "suerte",
+          "start": 183.46,
+          "end": 184.44
+        },
+        {
+          "word": "en",
+          "start": 184.44,
+          "end": 185.14
+        },
+        {
+          "word": "casa",
+          "start": 185.14,
+          "end": 186.5
+        },
+        {
+          "word": "la",
+          "start": 186.5,
+          "end": 187.24
+        },
+        {
+          "word": "Santa",
+          "start": 187.24,
+          "end": 188.4
+        },
+        {
+          "word": "Cruz",
+          "start": 188.4,
+          "end": 189.2
+        },
+        {
+          "word": "llevar",
+          "start": 189.2,
+          "end": 191.12
+        }
+      ],
+      "start": 182.06,
+      "end": 191.12,
+      "confidence": 1.0,
+      "time": 182.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "cuando otros la pregonan allende el ancho mar;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 191.12,
+          "end": 192.46
+        },
+        {
+          "word": "otros",
+          "start": 192.46,
+          "end": 193.34
+        },
+        {
+          "word": "la",
+          "start": 193.34,
+          "end": 194.24
+        },
+        {
+          "word": "pregonan",
+          "start": 194.24,
+          "end": 196.8
+        },
+        {
+          "word": "del",
+          "start": 197.8,
+          "end": 198.9
+        },
+        {
+          "word": "ancho",
+          "start": 198.9,
+          "end": 199.56
+        },
+        {
+          "word": "mar.",
+          "start": 199.56,
+          "end": 201.12
+        }
+      ],
+      "start": 191.12,
+      "end": 201.12,
+      "confidence": 0.86,
+      "time": 191.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "por prueba de mi fe, su fallo aceptaré,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Por",
+          "start": 201.6,
+          "end": 202.1
+        },
+        {
+          "word": "prueba",
+          "start": 202.1,
+          "end": 203.12
+        },
+        {
+          "word": "de",
+          "start": 203.12,
+          "end": 204.1
+        },
+        {
+          "word": "mi",
+          "start": 204.1,
+          "end": 204.58
+        },
+        {
+          "word": "fe",
+          "start": 204.58,
+          "end": 206.24
+        },
+        {
+          "word": "sufa",
+          "start": 206.24,
+          "end": 207.74
+        },
+        {
+          "word": "aceptaré,",
+          "start": 208.22,
+          "end": 211.04
+        }
+      ],
+      "start": 201.6,
+      "end": 211.04,
+      "confidence": 0.85,
+      "time": 201.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y adonde él me lleve, iré con Jesús.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 211.42,
+          "end": 211.92
+        },
+        {
+          "word": "donde",
+          "start": 212.12,
+          "end": 213.38
+        },
+        {
+          "word": "me",
+          "start": 213.38,
+          "end": 214.3
+        },
+        {
+          "word": "llevé",
+          "start": 214.3,
+          "end": 216.12
+        },
+        {
+          "word": "iré",
+          "start": 216.12,
+          "end": 218.14
+        },
+        {
+          "word": "con",
+          "start": 218.14,
+          "end": 218.76
+        },
+        {
+          "word": "Jesús.",
+          "start": 218.76,
+          "end": 220.44
+        }
+      ],
+      "start": 211.42,
+      "end": 220.44,
+      "confidence": 0.868,
+      "time": 211.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "A cualquiera parte, iré con Jesús;",
+      "words": [
+        {
+          "word": "A",
+          "start": 220.44,
+          "end": 221.86
+        },
+        {
+          "word": "cualquiera",
+          "start": 221.86,
+          "end": 222.92
+        },
+        {
+          "word": "parte",
+          "start": 222.92,
+          "end": 223.72
+        },
+        {
+          "word": "iré",
+          "start": 223.72,
+          "end": 226.48
+        },
+        {
+          "word": "con",
+          "start": 226.48,
+          "end": 227.86
+        },
+        {
+          "word": "Jesús",
+          "start": 227.86,
+          "end": 230.78
+        }
+      ],
+      "start": 220.44,
+      "end": 230.78,
+      "confidence": 1.0,
+      "time": 220.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "doquiera que esté, del Cielo tendré la santa luz.",
+      "words": [
+        {
+          "word": "quiera",
+          "start": 231.74,
+          "end": 232.42
+        },
+        {
+          "word": "que",
+          "start": 232.42,
+          "end": 232.86
+        },
+        {
+          "word": "esté",
+          "start": 232.86,
+          "end": 233.56
+        },
+        {
+          "word": "del",
+          "start": 233.56,
+          "end": 234.0
+        },
+        {
+          "word": "cielo",
+          "start": 234.0,
+          "end": 234.6
+        },
+        {
+          "word": "entre",
+          "start": 234.6,
+          "end": 235.54
+        },
+        {
+          "word": "la",
+          "start": 235.54,
+          "end": 236.76
+        },
+        {
+          "word": "Santa",
+          "start": 236.76,
+          "end": 238.18
+        },
+        {
+          "word": "Luz",
+          "start": 238.18,
+          "end": 240.52
+        }
+      ],
+      "start": 231.74,
+      "end": 240.52,
+      "confidence": 0.972,
+      "time": 231.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Es mi privilegio aquí llevar su cruz;",
+      "words": [
+        {
+          "word": "Es",
+          "start": 240.52,
+          "end": 241.4
+        },
+        {
+          "word": "mi",
+          "start": 241.4,
+          "end": 242.12
+        },
+        {
+          "word": "privilegio",
+          "start": 242.12,
+          "end": 243.56
+        },
+        {
+          "word": "aquí,",
+          "start": 243.56,
+          "end": 245.66
+        },
+        {
+          "word": "llevar",
+          "start": 246.34,
+          "end": 247.4
+        },
+        {
+          "word": "Su",
+          "start": 247.4,
+          "end": 248.8
+        },
+        {
+          "word": "cruz,",
+          "start": 248.8,
+          "end": 250.84
+        }
+      ],
+      "start": 240.52,
+      "end": 250.84,
+      "confidence": 1.0,
+      "time": 240.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "iré, pues, a cualquiera parte con Jesús.",
+      "words": [
+        {
+          "word": "pues,",
+          "start": 252.1,
+          "end": 252.48
+        },
+        {
+          "word": "a",
+          "start": 252.54,
+          "end": 252.86
+        },
+        {
+          "word": "cualquiera",
+          "start": 252.86,
+          "end": 253.62
+        },
+        {
+          "word": "parte,",
+          "start": 253.62,
+          "end": 255.46
+        },
+        {
+          "word": "con",
+          "start": 256.5,
+          "end": 257.56
+        },
+        {
+          "word": "Jesús.",
+          "start": 257.56,
+          "end": 260.92
+        }
+      ],
+      "start": 252.1,
+      "end": 260.92,
+      "confidence": 0.857,
+      "time": 252.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "De cuanto manda Cristo no debo yo dudar;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "De",
+          "start": 260.92,
+          "end": 262.86
+        },
+        {
+          "word": "cuanto",
+          "start": 262.86,
+          "end": 263.9
+        },
+        {
+          "word": "manda",
+          "start": 263.9,
+          "end": 265.26
+        },
+        {
+          "word": "Cristo",
+          "start": 265.26,
+          "end": 266.96
+        },
+        {
+          "word": "no",
+          "start": 266.96,
+          "end": 267.84
+        },
+        {
+          "word": "debo",
+          "start": 267.84,
+          "end": 268.98
+        },
+        {
+          "word": "yo",
+          "start": 268.98,
+          "end": 269.82
+        },
+        {
+          "word": "dudar,",
+          "start": 269.82,
+          "end": 271.98
+        }
+      ],
+      "start": 260.92,
+      "end": 271.98,
+      "confidence": 1.0,
+      "time": 260.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "más bien seguir fielmente la voz que me ha de guiar.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "mas",
+          "start": 272.44,
+          "end": 272.84
+        },
+        {
+          "word": "bien",
+          "start": 272.84,
+          "end": 273.4
+        },
+        {
+          "word": "seguir",
+          "start": 273.4,
+          "end": 274.6
+        },
+        {
+          "word": "fielmente",
+          "start": 274.6,
+          "end": 276.64
+        },
+        {
+          "word": "la",
+          "start": 277.42,
+          "end": 278.04
+        },
+        {
+          "word": "bosque",
+          "start": 278.04,
+          "end": 278.72
+        },
+        {
+          "word": "de",
+          "start": 279.66,
+          "end": 280.18
+        }
+      ],
+      "start": 272.44,
+      "end": 281.46,
+      "confidence": 0.618,
+      "time": 272.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Si quedo, pues, o voy, contento siempre estoy,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Si",
+          "start": 281.46,
+          "end": 282.58
+        },
+        {
+          "word": "quedo,",
+          "start": 282.58,
+          "end": 283.86
+        },
+        {
+          "word": "pues",
+          "start": 284.12,
+          "end": 284.54
+        },
+        {
+          "word": "yo",
+          "start": 284.54,
+          "end": 285.24
+        },
+        {
+          "word": "voy,",
+          "start": 285.24,
+          "end": 286.76
+        },
+        {
+          "word": "contento",
+          "start": 287.56,
+          "end": 288.68
+        },
+        {
+          "word": "siempre",
+          "start": 288.68,
+          "end": 289.8
+        },
+        {
+          "word": "estoy,",
+          "start": 289.8,
+          "end": 291.58
+        }
+      ],
+      "start": 281.46,
+      "end": 292.08,
+      "confidence": 0.975,
+      "time": 281.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "pues doquiera tengo conmigo a Jesús.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "pues",
+          "start": 292.08,
+          "end": 292.48
+        },
+        {
+          "word": "quiera",
+          "start": 293.76,
+          "end": 294.84
+        },
+        {
+          "word": "tener",
+          "start": 294.84,
+          "end": 296.56
+        },
+        {
+          "word": "conmigo",
+          "start": 296.56,
+          "end": 298.96
+        },
+        {
+          "word": "a",
+          "start": 298.96,
+          "end": 299.46
+        },
+        {
+          "word": "Jesús,",
+          "start": 299.46,
+          "end": 301.46
+        }
+      ],
+      "start": 292.08,
+      "end": 301.92,
+      "confidence": 0.946,
+      "time": 292.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "A cualquiera parte, iré con Jesús;",
+      "words": [
+        {
+          "word": "a",
+          "start": 301.92,
+          "end": 302.64
+        },
+        {
+          "word": "cualquiera",
+          "start": 302.64,
+          "end": 303.46
+        },
+        {
+          "word": "parte",
+          "start": 303.46,
+          "end": 304.28
+        },
+        {
+          "word": "iré.",
+          "start": 304.28,
+          "end": 306.94
+        },
+        {
+          "word": "Jesús,",
+          "start": 308.46,
+          "end": 311.22
+        }
+      ],
+      "start": 301.92,
+      "end": 312.18,
+      "confidence": 0.833,
+      "time": 301.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "doquiera que esté, del Cielo tendré la santa luz.",
+      "words": [
+        {
+          "word": "quiera",
+          "start": 312.18,
+          "end": 312.86
+        },
+        {
+          "word": "que",
+          "start": 312.86,
+          "end": 313.28
+        },
+        {
+          "word": "esté,",
+          "start": 313.28,
+          "end": 314.08
+        },
+        {
+          "word": "del",
+          "start": 314.42,
+          "end": 314.56
+        },
+        {
+          "word": "cielo",
+          "start": 314.56,
+          "end": 315.1
+        },
+        {
+          "word": "tendré,",
+          "start": 315.1,
+          "end": 316.46
+        },
+        {
+          "word": "la",
+          "start": 316.68,
+          "end": 316.88
+        },
+        {
+          "word": "Santa",
+          "start": 316.88,
+          "end": 318.4
+        },
+        {
+          "word": "luz.",
+          "start": 318.4,
+          "end": 321.08
+        }
+      ],
+      "start": 312.18,
+      "end": 321.08,
+      "confidence": 0.99,
+      "time": 312.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Es mi privilegio aquí llevar su cruz;",
+      "words": [
+        {
+          "word": "Es",
+          "start": 321.6,
+          "end": 321.98
+        },
+        {
+          "word": "mi",
+          "start": 321.98,
+          "end": 322.72
+        },
+        {
+          "word": "privilegio",
+          "start": 322.72,
+          "end": 324.16
+        },
+        {
+          "word": "aquí,",
+          "start": 324.16,
+          "end": 326.22
+        },
+        {
+          "word": "llevar",
+          "start": 326.6,
+          "end": 328.02
+        },
+        {
+          "word": "su",
+          "start": 328.02,
+          "end": 329.36
+        },
+        {
+          "word": "cruz,",
+          "start": 329.36,
+          "end": 331.38
+        }
+      ],
+      "start": 321.6,
+      "end": 331.38,
+      "confidence": 1.0,
+      "time": 321.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "iré, pues, a cualquiera parte con Jesús.",
+      "words": [
+        {
+          "word": "pues,",
+          "start": 332.7,
+          "end": 332.86
+        },
+        {
+          "word": "a",
+          "start": 333.4,
+          "end": 333.4
+        },
+        {
+          "word": "cualquier",
+          "start": 333.4,
+          "end": 334.04
+        },
+        {
+          "word": "parte,",
+          "start": 334.04,
+          "end": 335.94
+        },
+        {
+          "word": "con",
+          "start": 337.32,
+          "end": 338.08
+        },
+        {
+          "word": "Jesús",
+          "start": 338.08,
+          "end": 339.98
+        }
+      ],
+      "start": 332.7,
+      "end": 339.98,
+      "confidence": 0.849,
+      "time": 332.7
+    }
+  ]
+}

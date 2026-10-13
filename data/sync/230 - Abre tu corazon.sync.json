@@ -1,0 +1,244 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.968,
+  "language": "es",
+  "model": "medium",
+  "hymn": 230,
+  "source": "230 - Abre tu corazon.mp3",
+  "duration": 80.12,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Abre tu corazón, abre tu corazón.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Abre",
+          "start": 17.12,
+          "end": 18.52
+        },
+        {
+          "word": "tu",
+          "start": 18.52,
+          "end": 19.08
+        },
+        {
+          "word": "corazón,",
+          "start": 19.08,
+          "end": 22.58
+        },
+        {
+          "word": "abre",
+          "start": 24.38,
+          "end": 25.58
+        },
+        {
+          "word": "tu",
+          "start": 25.58,
+          "end": 26.42
+        },
+        {
+          "word": "corazón,",
+          "start": 26.42,
+          "end": 28.64
+        }
+      ],
+      "start": 17.12,
+      "end": 28.64,
+      "confidence": 1.0,
+      "time": 17.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús entrará, y él te salvará",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 30.0,
+          "end": 31.42
+        },
+        {
+          "word": "entrará",
+          "start": 31.42,
+          "end": 33.1
+        },
+        {
+          "word": "y",
+          "start": 33.1,
+          "end": 33.42
+        },
+        {
+          "word": "Él",
+          "start": 33.42,
+          "end": 33.72
+        },
+        {
+          "word": "te",
+          "start": 33.72,
+          "end": 34.52
+        },
+        {
+          "word": "salvará,",
+          "start": 34.52,
+          "end": 36.96
+        }
+      ],
+      "start": 30.0,
+      "end": 37.22,
+      "confidence": 1.0,
+      "time": 30.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "si abres tu corazón.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "si",
+          "start": 37.22,
+          "end": 38.14
+        },
+        {
+          "word": "abres",
+          "start": 38.14,
+          "end": 39.58
+        },
+        {
+          "word": "tu",
+          "start": 39.58,
+          "end": 40.36
+        },
+        {
+          "word": "corazón.",
+          "start": 40.36,
+          "end": 43.48
+        }
+      ],
+      "start": 37.22,
+      "end": 43.48,
+      "confidence": 1.0,
+      "time": 37.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Abro mi corazón, abro mi corazón.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Abro",
+          "start": 46.2,
+          "end": 47.6
+        },
+        {
+          "word": "mi",
+          "start": 47.6,
+          "end": 48.38
+        },
+        {
+          "word": "corazón,",
+          "start": 48.38,
+          "end": 52.36
+        },
+        {
+          "word": "abro",
+          "start": 54.36,
+          "end": 54.92
+        },
+        {
+          "word": "mi",
+          "start": 54.92,
+          "end": 56.0
+        },
+        {
+          "word": "corazón,",
+          "start": 56.0,
+          "end": 59.42
+        }
+      ],
+      "start": 46.2,
+      "end": 59.42,
+      "confidence": 1.0,
+      "time": 46.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Ven, entra, Jesús; dame gozo y luz,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Veniendo",
+          "start": 59.42,
+          "end": 61.46
+        },
+        {
+          "word": "Jesús,",
+          "start": 61.76,
+          "end": 62.64
+        },
+        {
+          "word": "dame",
+          "start": 63.42,
+          "end": 63.88
+        },
+        {
+          "word": "gozo",
+          "start": 63.88,
+          "end": 65.32
+        },
+        {
+          "word": "y",
+          "start": 65.32,
+          "end": 65.96
+        },
+        {
+          "word": "luz,",
+          "start": 65.96,
+          "end": 66.76
+        }
+      ],
+      "start": 59.42,
+      "end": 67.84,
+      "confidence": 0.849,
+      "time": 59.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "te abro mi corazón.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "te",
+          "start": 67.84,
+          "end": 68.82
+        },
+        {
+          "word": "abro",
+          "start": 68.82,
+          "end": 69.56
+        },
+        {
+          "word": "mi",
+          "start": 69.56,
+          "end": 70.34
+        },
+        {
+          "word": "corazón.",
+          "start": 70.34,
+          "end": 72.62
+        }
+      ],
+      "start": 67.84,
+      "end": 72.62,
+      "confidence": 1.0,
+      "time": 67.84
+    }
+  ]
+}

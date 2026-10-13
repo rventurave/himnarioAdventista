@@ -1,0 +1,990 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.883,
+  "language": "es",
+  "model": "medium",
+  "hymn": 363,
+  "source": "363 - Hay un canto nuevo en mi ser.mp3",
+  "duration": 175.52,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hay un canto nuevo en mi ser,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "un",
+          "start": 11.22,
+          "end": 11.36
+        },
+        {
+          "word": "canto",
+          "start": 11.36,
+          "end": 12.08
+        },
+        {
+          "word": "nuevo",
+          "start": 12.08,
+          "end": 13.22
+        },
+        {
+          "word": "en",
+          "start": 13.22,
+          "end": 14.14
+        },
+        {
+          "word": "mi",
+          "start": 14.14,
+          "end": 14.8
+        },
+        {
+          "word": "ser,",
+          "start": 14.8,
+          "end": 15.7
+        }
+      ],
+      "start": 11.22,
+      "end": 16.16,
+      "confidence": 0.857,
+      "time": 11.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "es la voz de mi Jesús;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 16.16,
+          "end": 16.4
+        },
+        {
+          "word": "la",
+          "start": 16.4,
+          "end": 16.66
+        },
+        {
+          "word": "voz",
+          "start": 16.66,
+          "end": 16.82
+        },
+        {
+          "word": "de",
+          "start": 16.82,
+          "end": 17.24
+        },
+        {
+          "word": "mi",
+          "start": 17.24,
+          "end": 17.8
+        },
+        {
+          "word": "Jesús",
+          "start": 17.8,
+          "end": 20.58
+        }
+      ],
+      "start": 16.16,
+      "end": 20.58,
+      "confidence": 1.0,
+      "time": 16.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que me infunde dulce paz y amor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 20.58,
+          "end": 21.4
+        },
+        {
+          "word": "dulce",
+          "start": 22.38,
+          "end": 23.44
+        },
+        {
+          "word": "paz",
+          "start": 23.44,
+          "end": 24.08
+        },
+        {
+          "word": "amor",
+          "start": 24.76,
+          "end": 25.86
+        }
+      ],
+      "start": 20.58,
+      "end": 25.86,
+      "confidence": 0.571,
+      "time": 20.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al andar yo en su luz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 25.86,
+          "end": 26.56
+        },
+        {
+          "word": "andalso",
+          "start": 26.56,
+          "end": 27.34
+        },
+        {
+          "word": "en",
+          "start": 27.34,
+          "end": 28.0
+        },
+        {
+          "word": "su",
+          "start": 28.0,
+          "end": 28.74
+        },
+        {
+          "word": "luz.",
+          "start": 28.74,
+          "end": 30.68
+        }
+      ],
+      "start": 25.86,
+      "end": 30.68,
+      "confidence": 0.8,
+      "time": 25.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cristo, Cristo, Cristo,",
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 31.54,
+          "end": 32.0
+        },
+        {
+          "word": "Cristo,",
+          "start": 32.38,
+          "end": 33.46
+        },
+        {
+          "word": "Cristo,",
+          "start": 33.7,
+          "end": 35.96
+        }
+      ],
+      "start": 31.54,
+      "end": 36.36,
+      "confidence": 1.0,
+      "time": 31.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "nombre sin igual;",
+      "words": [
+        {
+          "word": "nombre",
+          "start": 36.36,
+          "end": 37.38
+        },
+        {
+          "word": "sin",
+          "start": 37.38,
+          "end": 38.16
+        },
+        {
+          "word": "igual,",
+          "start": 38.16,
+          "end": 40.78
+        }
+      ],
+      "start": 36.36,
+      "end": 40.78,
+      "confidence": 1.0,
+      "time": 36.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "llene siempre mi alma",
+      "words": [
+        {
+          "word": "siempre",
+          "start": 42.5,
+          "end": 43.58
+        },
+        {
+          "word": "mi",
+          "start": 43.58,
+          "end": 44.56
+        },
+        {
+          "word": "alma",
+          "start": 44.56,
+          "end": 46.04
+        }
+      ],
+      "start": 42.5,
+      "end": 46.04,
+      "confidence": 0.75,
+      "time": 42.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "esa nota celestial.",
+      "words": [
+        {
+          "word": "Es",
+          "start": 46.04,
+          "end": 46.8
+        },
+        {
+          "word": "nota",
+          "start": 47.1,
+          "end": 47.54
+        },
+        {
+          "word": "celestial",
+          "start": 47.54,
+          "end": 50.78
+        }
+      ],
+      "start": 46.04,
+      "end": 50.78,
+      "confidence": 0.98,
+      "time": 46.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Él me da su gracia celestial,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "su",
+          "start": 52.3,
+          "end": 52.62
+        },
+        {
+          "word": "gracia",
+          "start": 52.62,
+          "end": 53.92
+        },
+        {
+          "word": "celestial",
+          "start": 53.92,
+          "end": 56.04
+        }
+      ],
+      "start": 52.3,
+      "end": 56.04,
+      "confidence": 0.5,
+      "time": 52.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al cumplir su voluntad;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Al",
+          "start": 56.04,
+          "end": 56.78
+        },
+        {
+          "word": "cumplir",
+          "start": 56.78,
+          "end": 57.4
+        },
+        {
+          "word": "su",
+          "start": 57.4,
+          "end": 57.78
+        },
+        {
+          "word": "voluntad",
+          "start": 57.78,
+          "end": 60.78
+        }
+      ],
+      "start": 56.04,
+      "end": 60.78,
+      "confidence": 1.0,
+      "time": 56.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de su trono fluyen cual raudal,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "De",
+          "start": 60.78,
+          "end": 61.8
+        },
+        {
+          "word": "su",
+          "start": 61.8,
+          "end": 62.16
+        },
+        {
+          "word": "trono",
+          "start": 62.16,
+          "end": 62.78
+        },
+        {
+          "word": "fluyen",
+          "start": 62.78,
+          "end": 63.98
+        },
+        {
+          "word": "cual",
+          "start": 63.98,
+          "end": 64.7
+        },
+        {
+          "word": "raudal",
+          "start": 64.7,
+          "end": 66.4
+        }
+      ],
+      "start": 60.78,
+      "end": 66.4,
+      "confidence": 1.0,
+      "time": 60.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "las riquezas de bondad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "las",
+          "start": 66.4,
+          "end": 67.06
+        },
+        {
+          "word": "riquezas",
+          "start": 67.06,
+          "end": 67.94
+        },
+        {
+          "word": "de",
+          "start": 67.94,
+          "end": 68.8
+        },
+        {
+          "word": "bondad",
+          "start": 68.8,
+          "end": 70.78
+        }
+      ],
+      "start": 66.4,
+      "end": 70.78,
+      "confidence": 1.0,
+      "time": 66.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cristo, Cristo, Cristo,",
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 71.32,
+          "end": 72.6
+        },
+        {
+          "word": "Cristo,",
+          "start": 72.92,
+          "end": 74.06
+        },
+        {
+          "word": "Cristo,",
+          "start": 74.18,
+          "end": 76.62
+        }
+      ],
+      "start": 71.32,
+      "end": 77.16,
+      "confidence": 1.0,
+      "time": 71.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "nombre sin igual;",
+      "words": [
+        {
+          "word": "nombre",
+          "start": 77.16,
+          "end": 77.96
+        },
+        {
+          "word": "sin",
+          "start": 77.96,
+          "end": 79.06
+        },
+        {
+          "word": "igual",
+          "start": 79.06,
+          "end": 80.78
+        }
+      ],
+      "start": 77.16,
+      "end": 80.78,
+      "confidence": 1.0,
+      "time": 77.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "llene siempre mi alma",
+      "words": [
+        {
+          "word": "siempre",
+          "start": 82.78,
+          "end": 84.16
+        },
+        {
+          "word": "mi",
+          "start": 84.16,
+          "end": 85.44
+        },
+        {
+          "word": "alma,",
+          "start": 85.44,
+          "end": 86.5
+        }
+      ],
+      "start": 82.78,
+      "end": 87.44,
+      "confidence": 0.75,
+      "time": 82.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "esa nota celestial.",
+      "words": [
+        {
+          "word": "anotas",
+          "start": 87.44,
+          "end": 88.74
+        },
+        {
+          "word": "celestial",
+          "start": 88.74,
+          "end": 90.64
+        }
+      ],
+      "start": 87.44,
+      "end": 90.64,
+      "confidence": 0.627,
+      "time": 87.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Muchas pruebas debo soportar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Muchas",
+          "start": 90.64,
+          "end": 92.54
+        },
+        {
+          "word": "pruebas",
+          "start": 92.54,
+          "end": 93.6
+        },
+        {
+          "word": "de",
+          "start": 93.6,
+          "end": 93.9
+        },
+        {
+          "word": "soportar,",
+          "start": 94.52,
+          "end": 96.68
+        }
+      ],
+      "start": 90.64,
+      "end": 97.08,
+      "confidence": 0.985,
+      "time": 90.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pero Cristo me guiará;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pero",
+          "start": 97.08,
+          "end": 97.6
+        },
+        {
+          "word": "Cristo",
+          "start": 97.6,
+          "end": 98.24
+        },
+        {
+          "word": "me",
+          "start": 98.24,
+          "end": 99.0
+        },
+        {
+          "word": "guiará",
+          "start": 99.0,
+          "end": 100.78
+        }
+      ],
+      "start": 97.08,
+      "end": 100.78,
+      "confidence": 1.0,
+      "time": 97.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y a mí por fe me toca andar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 100.78,
+          "end": 102.44
+        },
+        {
+          "word": "a",
+          "start": 102.44,
+          "end": 102.88
+        },
+        {
+          "word": "mí",
+          "start": 102.88,
+          "end": 103.04
+        },
+        {
+          "word": "por",
+          "start": 103.04,
+          "end": 103.48
+        },
+        {
+          "word": "me",
+          "start": 103.98,
+          "end": 104.88
+        },
+        {
+          "word": "toca",
+          "start": 104.88,
+          "end": 105.62
+        },
+        {
+          "word": "andar,",
+          "start": 105.62,
+          "end": 106.84
+        }
+      ],
+      "start": 100.78,
+      "end": 107.18,
+      "confidence": 0.875,
+      "time": 100.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "su amor me sostendrá.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "su",
+          "start": 107.18,
+          "end": 107.52
+        },
+        {
+          "word": "amor",
+          "start": 107.52,
+          "end": 108.16
+        },
+        {
+          "word": "me",
+          "start": 108.16,
+          "end": 108.72
+        },
+        {
+          "word": "sostendrá",
+          "start": 108.72,
+          "end": 111.62
+        }
+      ],
+      "start": 107.18,
+      "end": 111.62,
+      "confidence": 1.0,
+      "time": 107.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cristo, Cristo, Cristo,",
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 111.62,
+          "end": 113.18
+        },
+        {
+          "word": "Cristo,",
+          "start": 113.56,
+          "end": 114.62
+        },
+        {
+          "word": "Cristo,",
+          "start": 114.74,
+          "end": 117.14
+        }
+      ],
+      "start": 111.62,
+      "end": 117.68,
+      "confidence": 1.0,
+      "time": 111.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "nombre sin igual;",
+      "words": [
+        {
+          "word": "nombre",
+          "start": 117.68,
+          "end": 118.5
+        },
+        {
+          "word": "sin",
+          "start": 118.5,
+          "end": 119.38
+        },
+        {
+          "word": "igual",
+          "start": 119.38,
+          "end": 122.0
+        }
+      ],
+      "start": 117.68,
+      "end": 122.0,
+      "confidence": 1.0,
+      "time": 117.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "llene siempre mi alma",
+      "words": [
+        {
+          "word": "lleve",
+          "start": 122.0,
+          "end": 123.64
+        },
+        {
+          "word": "siempre",
+          "start": 123.64,
+          "end": 124.76
+        },
+        {
+          "word": "mi",
+          "start": 124.76,
+          "end": 125.78
+        },
+        {
+          "word": "alma",
+          "start": 125.78,
+          "end": 127.28
+        }
+      ],
+      "start": 122.0,
+      "end": 127.28,
+      "confidence": 0.97,
+      "time": 122.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "esa nota celestial.",
+      "words": [
+        {
+          "word": "esa",
+          "start": 127.28,
+          "end": 128.12
+        },
+        {
+          "word": "nota",
+          "start": 128.12,
+          "end": 128.78
+        },
+        {
+          "word": "celestial.",
+          "start": 128.78,
+          "end": 131.96
+        }
+      ],
+      "start": 127.28,
+      "end": 131.96,
+      "confidence": 1.0,
+      "time": 127.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Cristo en las nubes volverá,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 132.86,
+          "end": 133.14
+        },
+        {
+          "word": "en",
+          "start": 133.14,
+          "end": 133.64
+        },
+        {
+          "word": "las",
+          "start": 133.64,
+          "end": 134.16
+        },
+        {
+          "word": "nubes",
+          "start": 134.16,
+          "end": 135.12
+        },
+        {
+          "word": "volverá",
+          "start": 135.12,
+          "end": 137.46
+        }
+      ],
+      "start": 132.86,
+      "end": 137.46,
+      "confidence": 1.0,
+      "time": 132.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "a llevarme al hogar;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "a",
+          "start": 137.46,
+          "end": 138.06
+        },
+        {
+          "word": "llevarme",
+          "start": 138.06,
+          "end": 139.24
+        },
+        {
+          "word": "al",
+          "start": 139.24,
+          "end": 139.86
+        },
+        {
+          "word": "lugar,",
+          "start": 139.86,
+          "end": 142.3
+        }
+      ],
+      "start": 137.46,
+      "end": 142.3,
+      "confidence": 0.94,
+      "time": 137.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "para siempre mi alma gozará,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Para",
+          "start": 142.3,
+          "end": 143.32
+        },
+        {
+          "word": "siempre",
+          "start": 143.32,
+          "end": 143.88
+        },
+        {
+          "word": "mi",
+          "start": 143.88,
+          "end": 144.32
+        },
+        {
+          "word": "alma",
+          "start": 144.32,
+          "end": 145.18
+        },
+        {
+          "word": "gozará,",
+          "start": 145.18,
+          "end": 147.58
+        }
+      ],
+      "start": 142.3,
+      "end": 147.88,
+      "confidence": 1.0,
+      "time": 142.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "porque en Cristo supe fiar.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "porque",
+          "start": 147.88,
+          "end": 148.3
+        },
+        {
+          "word": "en",
+          "start": 148.3,
+          "end": 148.52
+        },
+        {
+          "word": "Cristo",
+          "start": 148.52,
+          "end": 148.96
+        },
+        {
+          "word": "supe",
+          "start": 148.96,
+          "end": 150.54
+        },
+        {
+          "word": "fear.",
+          "start": 150.54,
+          "end": 152.48
+        }
+      ],
+      "start": 147.88,
+      "end": 152.48,
+      "confidence": 0.97,
+      "time": 147.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Cristo, Cristo, Cristo,",
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 153.32,
+          "end": 153.86
+        },
+        {
+          "word": "Cristo,",
+          "start": 154.12,
+          "end": 155.18
+        },
+        {
+          "word": "Cristo,",
+          "start": 155.46,
+          "end": 157.48
+        }
+      ],
+      "start": 153.32,
+      "end": 158.32,
+      "confidence": 1.0,
+      "time": 153.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "nombre sin igual;",
+      "words": [
+        {
+          "word": "nombre",
+          "start": 158.32,
+          "end": 159.12
+        },
+        {
+          "word": "sin",
+          "start": 159.12,
+          "end": 160.2
+        },
+        {
+          "word": "igual,",
+          "start": 160.2,
+          "end": 162.5
+        }
+      ],
+      "start": 158.32,
+      "end": 162.5,
+      "confidence": 1.0,
+      "time": 158.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "llene siempre mi alma",
+      "words": [
+        {
+          "word": "siempre",
+          "start": 164.48,
+          "end": 165.52
+        },
+        {
+          "word": "mi",
+          "start": 165.52,
+          "end": 166.46
+        },
+        {
+          "word": "alma,",
+          "start": 166.46,
+          "end": 167.7
+        }
+      ],
+      "start": 164.48,
+      "end": 168.66,
+      "confidence": 0.75,
+      "time": 164.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "esa nota celestial.",
+      "words": [
+        {
+          "word": "anotas",
+          "start": 168.66,
+          "end": 169.82
+        }
+      ],
+      "start": 168.66,
+      "end": 172.94,
+      "confidence": 0.293,
+      "time": 168.66
+    }
+  ]
+}

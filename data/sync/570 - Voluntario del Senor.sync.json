@@ -1,0 +1,935 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.952,
+  "language": "es",
+  "model": "medium",
+  "hymn": 570,
+  "source": "570 - Voluntario del Senor.mp3",
+  "duration": 125.6,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Voluntario del Señor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Voluntario",
+          "start": 7.02,
+          "end": 8.42
+        },
+        {
+          "word": "del",
+          "start": 8.42,
+          "end": 8.86
+        },
+        {
+          "word": "Señor,",
+          "start": 8.86,
+          "end": 9.94
+        }
+      ],
+      "start": 7.02,
+      "end": 9.98,
+      "confidence": 1.0,
+      "time": 7.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "listo a servir,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "listo",
+          "start": 9.98,
+          "end": 10.96
+        },
+        {
+          "word": "a",
+          "start": 10.96,
+          "end": 11.24
+        },
+        {
+          "word": "servir,",
+          "start": 11.24,
+          "end": 12.72
+        }
+      ],
+      "start": 9.98,
+      "end": 13.4,
+      "confidence": 1.0,
+      "time": 9.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a llevar el evangelio",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 13.4,
+          "end": 13.6
+        },
+        {
+          "word": "llevar",
+          "start": 13.6,
+          "end": 14.42
+        },
+        {
+          "word": "el",
+          "start": 14.42,
+          "end": 15.08
+        },
+        {
+          "word": "Evangelio,",
+          "start": 15.08,
+          "end": 16.34
+        }
+      ],
+      "start": 13.4,
+      "end": 16.84,
+      "confidence": 1.0,
+      "time": 13.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "do me toque ir.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "me",
+          "start": 16.84,
+          "end": 17.24
+        },
+        {
+          "word": "toque",
+          "start": 17.24,
+          "end": 18.36
+        },
+        {
+          "word": "ir.",
+          "start": 18.36,
+          "end": 19.18
+        }
+      ],
+      "start": 16.84,
+      "end": 19.18,
+      "confidence": 0.75,
+      "time": 16.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Voluntad, voluntad,",
+      "words": [
+        {
+          "word": "Voluntad,",
+          "start": 19.18,
+          "end": 21.08
+        },
+        {
+          "word": "voluntad,",
+          "start": 21.26,
+          "end": 22.56
+        }
+      ],
+      "start": 19.18,
+      "end": 22.68,
+      "confidence": 1.0,
+      "time": 19.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cristo me pidió.",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 22.68,
+          "end": 23.28
+        },
+        {
+          "word": "me",
+          "start": 23.28,
+          "end": 24.0
+        },
+        {
+          "word": "pidió.",
+          "start": 24.0,
+          "end": 25.58
+        }
+      ],
+      "start": 22.68,
+      "end": 26.18,
+      "confidence": 1.0,
+      "time": 22.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Voluntad, voluntad,",
+      "words": [
+        {
+          "word": "Voluntad,",
+          "start": 26.18,
+          "end": 27.4
+        },
+        {
+          "word": "voluntad,",
+          "start": 27.72,
+          "end": 28.86
+        }
+      ],
+      "start": 26.18,
+      "end": 29.24,
+      "confidence": 1.0,
+      "time": 26.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "eso ofrezco yo;",
+      "words": [
+        {
+          "word": "eso",
+          "start": 29.24,
+          "end": 29.68
+        },
+        {
+          "word": "ofrezco",
+          "start": 29.68,
+          "end": 30.56
+        },
+        {
+          "word": "yo.",
+          "start": 30.56,
+          "end": 31.8
+        }
+      ],
+      "start": 29.24,
+      "end": 31.8,
+      "confidence": 1.0,
+      "time": 29.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "para Cristo quiero ser",
+      "words": [
+        {
+          "word": "Para",
+          "start": 32.14,
+          "end": 32.96
+        },
+        {
+          "word": "Cristo",
+          "start": 32.96,
+          "end": 33.62
+        },
+        {
+          "word": "quiero",
+          "start": 33.62,
+          "end": 34.36
+        },
+        {
+          "word": "ser",
+          "start": 34.36,
+          "end": 35.34
+        }
+      ],
+      "start": 32.14,
+      "end": 35.34,
+      "confidence": 1.0,
+      "time": 32.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "fiel trabajador,",
+      "words": [
+        {
+          "word": "fiel",
+          "start": 35.34,
+          "end": 36.02
+        },
+        {
+          "word": "trabajador,",
+          "start": 36.02,
+          "end": 38.12
+        }
+      ],
+      "start": 35.34,
+      "end": 38.9,
+      "confidence": 1.0,
+      "time": 35.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "misionero voluntario",
+      "words": [
+        {
+          "word": "misionero",
+          "start": 38.9,
+          "end": 40.16
+        },
+        {
+          "word": "voluntario",
+          "start": 40.16,
+          "end": 41.52
+        }
+      ],
+      "start": 38.9,
+      "end": 41.52,
+      "confidence": 1.0,
+      "time": 38.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "para el Salvador.",
+      "words": [
+        {
+          "word": "para",
+          "start": 41.52,
+          "end": 42.34
+        },
+        {
+          "word": "el",
+          "start": 42.34,
+          "end": 42.6
+        },
+        {
+          "word": "Salvador.",
+          "start": 42.6,
+          "end": 43.7
+        }
+      ],
+      "start": 41.52,
+      "end": 43.7,
+      "confidence": 1.0,
+      "time": 41.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En su viña quiero obrar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 43.7,
+          "end": 45.86
+        },
+        {
+          "word": "su",
+          "start": 45.86,
+          "end": 46.4
+        },
+        {
+          "word": "viña",
+          "start": 46.4,
+          "end": 47.08
+        },
+        {
+          "word": "quiero",
+          "start": 47.08,
+          "end": 47.84
+        },
+        {
+          "word": "bravo",
+          "start": 47.84,
+          "end": 48.92
+        }
+      ],
+      "start": 43.7,
+      "end": 48.92,
+      "confidence": 0.952,
+      "time": 43.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y ocupado estar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 48.92,
+          "end": 49.16
+        },
+        {
+          "word": "ocupado",
+          "start": 49.16,
+          "end": 50.14
+        },
+        {
+          "word": "estar",
+          "start": 50.14,
+          "end": 51.38
+        }
+      ],
+      "start": 48.92,
+      "end": 51.38,
+      "confidence": 1.0,
+      "time": 48.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mientras intercede",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Mientras",
+          "start": 51.38,
+          "end": 52.64
+        },
+        {
+          "word": "interse",
+          "start": 52.64,
+          "end": 53.74
+        }
+      ],
+      "start": 51.38,
+      "end": 54.26,
+      "confidence": 0.925,
+      "time": 51.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristo presto a salvar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 54.26,
+          "end": 54.96
+        },
+        {
+          "word": "fresco",
+          "start": 54.96,
+          "end": 55.7
+        },
+        {
+          "word": "a",
+          "start": 55.7,
+          "end": 56.24
+        },
+        {
+          "word": "salvar",
+          "start": 56.24,
+          "end": 57.92
+        }
+      ],
+      "start": 54.26,
+      "end": 57.92,
+      "confidence": 0.95,
+      "time": 54.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Voluntad, voluntad,",
+      "words": [
+        {
+          "word": "Voluntad,",
+          "start": 57.92,
+          "end": 59.72
+        },
+        {
+          "word": "voluntad,",
+          "start": 59.98,
+          "end": 61.22
+        }
+      ],
+      "start": 57.92,
+      "end": 61.38,
+      "confidence": 1.0,
+      "time": 57.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cristo me pidió.",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 61.38,
+          "end": 61.96
+        },
+        {
+          "word": "me",
+          "start": 61.96,
+          "end": 62.64
+        },
+        {
+          "word": "pidió",
+          "start": 62.64,
+          "end": 64.36
+        }
+      ],
+      "start": 61.38,
+      "end": 64.36,
+      "confidence": 1.0,
+      "time": 61.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Voluntad, voluntad,",
+      "words": [
+        {
+          "word": "Voluntad,",
+          "start": 64.36,
+          "end": 66.0
+        },
+        {
+          "word": "voluntad,",
+          "start": 66.38,
+          "end": 67.58
+        }
+      ],
+      "start": 64.36,
+      "end": 67.96,
+      "confidence": 1.0,
+      "time": 64.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "eso ofrezco yo;",
+      "words": [
+        {
+          "word": "es",
+          "start": 67.96,
+          "end": 68.24
+        },
+        {
+          "word": "fresco",
+          "start": 68.5,
+          "end": 69.24
+        },
+        {
+          "word": "yo",
+          "start": 69.24,
+          "end": 69.94
+        }
+      ],
+      "start": 67.96,
+      "end": 69.94,
+      "confidence": 0.934,
+      "time": 67.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "para Cristo quiero ser",
+      "words": [
+        {
+          "word": "Para",
+          "start": 69.94,
+          "end": 71.6
+        },
+        {
+          "word": "Cristo",
+          "start": 71.6,
+          "end": 72.32
+        },
+        {
+          "word": "quiero",
+          "start": 72.32,
+          "end": 73.14
+        },
+        {
+          "word": "ser",
+          "start": 73.14,
+          "end": 73.98
+        }
+      ],
+      "start": 69.94,
+      "end": 73.98,
+      "confidence": 1.0,
+      "time": 69.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "fiel trabajador,",
+      "words": [
+        {
+          "word": "fiel",
+          "start": 73.98,
+          "end": 74.44
+        },
+        {
+          "word": "trabajador,",
+          "start": 74.44,
+          "end": 76.86
+        }
+      ],
+      "start": 73.98,
+      "end": 77.56,
+      "confidence": 1.0,
+      "time": 73.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "misionero voluntario",
+      "words": [
+        {
+          "word": "misionero",
+          "start": 77.56,
+          "end": 78.74
+        },
+        {
+          "word": "voluntario",
+          "start": 78.74,
+          "end": 80.22
+        }
+      ],
+      "start": 77.56,
+      "end": 80.22,
+      "confidence": 1.0,
+      "time": 77.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "para el Salvador.",
+      "words": [
+        {
+          "word": "para",
+          "start": 80.22,
+          "end": 80.92
+        },
+        {
+          "word": "el",
+          "start": 80.92,
+          "end": 81.24
+        },
+        {
+          "word": "Salvador.",
+          "start": 81.24,
+          "end": 82.66
+        }
+      ],
+      "start": 80.22,
+      "end": 82.66,
+      "confidence": 1.0,
+      "time": 80.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cuando venga el Señor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 84.26,
+          "end": 84.94
+        },
+        {
+          "word": "venga",
+          "start": 84.94,
+          "end": 85.78
+        },
+        {
+          "word": "el",
+          "start": 85.78,
+          "end": 86.16
+        },
+        {
+          "word": "Señor,",
+          "start": 86.16,
+          "end": 87.34
+        }
+      ],
+      "start": 84.26,
+      "end": 87.36,
+      "confidence": 1.0,
+      "time": 84.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "él me premiará,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Él",
+          "start": 87.36,
+          "end": 87.88
+        },
+        {
+          "word": "me",
+          "start": 87.88,
+          "end": 88.28
+        },
+        {
+          "word": "premiará",
+          "start": 88.28,
+          "end": 89.94
+        }
+      ],
+      "start": 87.36,
+      "end": 89.94,
+      "confidence": 1.0,
+      "time": 87.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y su tierna voz:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 89.94,
+          "end": 90.88
+        },
+        {
+          "word": "su",
+          "start": 90.88,
+          "end": 91.22
+        },
+        {
+          "word": "tienda,",
+          "start": 91.22,
+          "end": 92.0
+        }
+      ],
+      "start": 89.94,
+      "end": 92.6,
+      "confidence": 0.725,
+      "time": 89.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "\"Bien hecho siervo fiel\", dirá.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "bien",
+          "start": 92.6,
+          "end": 93.08
+        },
+        {
+          "word": "hecho,",
+          "start": 93.08,
+          "end": 93.54
+        },
+        {
+          "word": "ciervo,",
+          "start": 93.84,
+          "end": 94.38
+        },
+        {
+          "word": "perdirá.",
+          "start": 94.64,
+          "end": 95.94
+        }
+      ],
+      "start": 92.6,
+      "end": 95.94,
+      "confidence": 0.747,
+      "time": 92.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Voluntad, voluntad,",
+      "words": [
+        {
+          "word": "Voluntad,",
+          "start": 95.94,
+          "end": 98.38
+        },
+        {
+          "word": "voluntad,",
+          "start": 98.5,
+          "end": 99.84
+        }
+      ],
+      "start": 95.94,
+      "end": 100.02,
+      "confidence": 1.0,
+      "time": 95.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cristo me pidió.",
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 100.02,
+          "end": 100.56
+        },
+        {
+          "word": "me",
+          "start": 100.56,
+          "end": 101.32
+        },
+        {
+          "word": "pidió.",
+          "start": 101.32,
+          "end": 102.8
+        }
+      ],
+      "start": 100.02,
+      "end": 103.3,
+      "confidence": 1.0,
+      "time": 100.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Voluntad, voluntad,",
+      "words": [
+        {
+          "word": "Voluntad,",
+          "start": 103.3,
+          "end": 104.7
+        },
+        {
+          "word": "voluntad,",
+          "start": 104.76,
+          "end": 106.2
+        }
+      ],
+      "start": 103.3,
+      "end": 106.94,
+      "confidence": 1.0,
+      "time": 103.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "eso ofrezco yo;",
+      "words": [
+        {
+          "word": "ofrezco",
+          "start": 106.94,
+          "end": 107.84
+        },
+        {
+          "word": "yo.",
+          "start": 107.84,
+          "end": 109.02
+        }
+      ],
+      "start": 106.94,
+      "end": 109.02,
+      "confidence": 0.667,
+      "time": 106.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "para Cristo quiero ser",
+      "words": [
+        {
+          "word": "Para",
+          "start": 109.46,
+          "end": 110.22
+        },
+        {
+          "word": "Cristo",
+          "start": 110.22,
+          "end": 110.96
+        },
+        {
+          "word": "quiero",
+          "start": 110.96,
+          "end": 111.62
+        },
+        {
+          "word": "ser",
+          "start": 111.62,
+          "end": 112.6
+        }
+      ],
+      "start": 109.46,
+      "end": 112.6,
+      "confidence": 1.0,
+      "time": 109.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "fiel trabajador,",
+      "words": [
+        {
+          "word": "fiel",
+          "start": 112.6,
+          "end": 113.06
+        },
+        {
+          "word": "trabajador,",
+          "start": 113.06,
+          "end": 115.44
+        }
+      ],
+      "start": 112.6,
+      "end": 116.18,
+      "confidence": 1.0,
+      "time": 112.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "misionero voluntario",
+      "words": [
+        {
+          "word": "misionero",
+          "start": 116.18,
+          "end": 117.4
+        },
+        {
+          "word": "voluntario",
+          "start": 117.4,
+          "end": 118.82
+        }
+      ],
+      "start": 116.18,
+      "end": 118.82,
+      "confidence": 1.0,
+      "time": 116.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "para el Salvador.",
+      "words": [
+        {
+          "word": "para",
+          "start": 118.82,
+          "end": 119.62
+        },
+        {
+          "word": "el",
+          "start": 119.62,
+          "end": 119.96
+        },
+        {
+          "word": "Salvador.",
+          "start": 119.96,
+          "end": 121.06
+        }
+      ],
+      "start": 118.82,
+      "end": 121.06,
+      "confidence": 1.0,
+      "time": 118.82
+    }
+  ]
+}

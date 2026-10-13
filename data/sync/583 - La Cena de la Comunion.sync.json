@@ -1,0 +1,649 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.997,
+  "language": "es",
+  "model": "medium",
+  "hymn": 583,
+  "source": "583 - La Cena de la Comunion.mp3",
+  "duration": 142.65,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Con gran amor Cristo preparó",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Con",
+          "start": 24.82,
+          "end": 26.22
+        },
+        {
+          "word": "gran",
+          "start": 26.22,
+          "end": 26.88
+        },
+        {
+          "word": "amor",
+          "start": 26.88,
+          "end": 28.18
+        },
+        {
+          "word": "Cristo",
+          "start": 28.18,
+          "end": 28.96
+        },
+        {
+          "word": "preparó",
+          "start": 28.96,
+          "end": 31.38
+        }
+      ],
+      "start": 24.82,
+      "end": 31.38,
+      "confidence": 1.0,
+      "time": 24.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "la Cena de la Comunión.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "La",
+          "start": 31.38,
+          "end": 32.16
+        },
+        {
+          "word": "cena",
+          "start": 32.16,
+          "end": 33.12
+        },
+        {
+          "word": "de",
+          "start": 33.12,
+          "end": 34.76
+        },
+        {
+          "word": "la",
+          "start": 34.76,
+          "end": 35.6
+        },
+        {
+          "word": "Comunión",
+          "start": 35.6,
+          "end": 37.58
+        }
+      ],
+      "start": 31.38,
+      "end": 37.58,
+      "confidence": 1.0,
+      "time": 31.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Con devoción celebramos hoy",
+      "verse": 1,
+      "words": [
+        {
+          "word": "con",
+          "start": 37.58,
+          "end": 38.28
+        },
+        {
+          "word": "devoción",
+          "start": 38.28,
+          "end": 40.26
+        },
+        {
+          "word": "celebramos",
+          "start": 40.26,
+          "end": 42.2
+        },
+        {
+          "word": "hoy",
+          "start": 42.2,
+          "end": 43.52
+        }
+      ],
+      "start": 37.58,
+      "end": 43.52,
+      "confidence": 1.0,
+      "time": 37.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "su muerte y resurrección.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "su",
+          "start": 43.52,
+          "end": 44.24
+        },
+        {
+          "word": "muerte",
+          "start": 44.24,
+          "end": 45.14
+        },
+        {
+          "word": "y",
+          "start": 45.14,
+          "end": 46.86
+        },
+        {
+          "word": "resurrección.",
+          "start": 46.86,
+          "end": 49.64
+        }
+      ],
+      "start": 43.52,
+      "end": 49.64,
+      "confidence": 1.0,
+      "time": 43.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Con humildad les lavó los pies,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Con",
+          "start": 49.64,
+          "end": 50.88
+        },
+        {
+          "word": "humildad",
+          "start": 50.88,
+          "end": 52.76
+        },
+        {
+          "word": "les",
+          "start": 52.76,
+          "end": 53.28
+        },
+        {
+          "word": "lavó",
+          "start": 53.28,
+          "end": 54.18
+        },
+        {
+          "word": "los",
+          "start": 54.18,
+          "end": 54.64
+        },
+        {
+          "word": "pies,",
+          "start": 54.64,
+          "end": 56.02
+        }
+      ],
+      "start": 49.64,
+      "end": 56.84,
+      "confidence": 1.0,
+      "time": 49.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "ejemplo dio de amor sin par.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ejemplo",
+          "start": 56.84,
+          "end": 57.6
+        },
+        {
+          "word": "dio",
+          "start": 57.6,
+          "end": 58.96
+        },
+        {
+          "word": "de",
+          "start": 58.96,
+          "end": 59.76
+        },
+        {
+          "word": "amor",
+          "start": 59.76,
+          "end": 60.2
+        },
+        {
+          "word": "sin",
+          "start": 60.2,
+          "end": 60.92
+        },
+        {
+          "word": "par,",
+          "start": 60.92,
+          "end": 61.98
+        }
+      ],
+      "start": 56.84,
+      "end": 61.98,
+      "confidence": 1.0,
+      "time": 56.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Nos llama hoy a servir también,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "nos",
+          "start": 62.58,
+          "end": 62.88
+        },
+        {
+          "word": "llama",
+          "start": 62.88,
+          "end": 63.76
+        },
+        {
+          "word": "hoy",
+          "start": 63.76,
+          "end": 64.76
+        },
+        {
+          "word": "a",
+          "start": 64.76,
+          "end": 65.44
+        },
+        {
+          "word": "servir",
+          "start": 65.44,
+          "end": 66.1
+        },
+        {
+          "word": "también,",
+          "start": 66.1,
+          "end": 67.88
+        }
+      ],
+      "start": 62.58,
+      "end": 68.7,
+      "confidence": 1.0,
+      "time": 62.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "a compartir su inmenso amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 68.7,
+          "end": 69.26
+        },
+        {
+          "word": "compartir",
+          "start": 69.26,
+          "end": 70.64
+        },
+        {
+          "word": "su",
+          "start": 70.64,
+          "end": 71.44
+        },
+        {
+          "word": "inmenso",
+          "start": 71.44,
+          "end": 72.62
+        },
+        {
+          "word": "amor.",
+          "start": 72.62,
+          "end": 74.3
+        }
+      ],
+      "start": 68.7,
+      "end": 74.3,
+      "confidence": 1.0,
+      "time": 68.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Partió el pan y la copa dio;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Partió",
+          "start": 74.3,
+          "end": 76.22
+        },
+        {
+          "word": "el",
+          "start": 76.22,
+          "end": 76.7
+        },
+        {
+          "word": "pan",
+          "start": 76.7,
+          "end": 77.76
+        },
+        {
+          "word": "y",
+          "start": 77.76,
+          "end": 78.34
+        },
+        {
+          "word": "la",
+          "start": 78.34,
+          "end": 78.92
+        },
+        {
+          "word": "copa",
+          "start": 78.92,
+          "end": 79.78
+        },
+        {
+          "word": "dio,",
+          "start": 79.78,
+          "end": 80.7
+        }
+      ],
+      "start": 74.3,
+      "end": 81.52,
+      "confidence": 1.0,
+      "time": 74.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "sublime don, pues nos amó.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "su",
+          "start": 81.52,
+          "end": 81.72
+        },
+        {
+          "word": "don",
+          "start": 82.68,
+          "end": 84.06
+        },
+        {
+          "word": "pues",
+          "start": 84.06,
+          "end": 84.7
+        },
+        {
+          "word": "nos",
+          "start": 84.7,
+          "end": 85.66
+        },
+        {
+          "word": "amó",
+          "start": 85.66,
+          "end": 87.14
+        }
+      ],
+      "start": 81.52,
+      "end": 87.14,
+      "confidence": 0.988,
+      "time": 81.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cualquiera carga que tengas hoy,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cualquiera",
+          "start": 87.14,
+          "end": 88.54
+        },
+        {
+          "word": "carga",
+          "start": 88.54,
+          "end": 90.0
+        },
+        {
+          "word": "que",
+          "start": 90.0,
+          "end": 90.8
+        },
+        {
+          "word": "tengas",
+          "start": 90.8,
+          "end": 91.9
+        },
+        {
+          "word": "hoy,",
+          "start": 91.9,
+          "end": 93.02
+        }
+      ],
+      "start": 87.14,
+      "end": 93.62,
+      "confidence": 1.0,
+      "time": 87.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "él por su cruz la quitará.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "él",
+          "start": 93.62,
+          "end": 93.82
+        },
+        {
+          "word": "por",
+          "start": 93.82,
+          "end": 94.32
+        },
+        {
+          "word": "su",
+          "start": 94.32,
+          "end": 94.88
+        },
+        {
+          "word": "cruz",
+          "start": 94.88,
+          "end": 95.8
+        },
+        {
+          "word": "la",
+          "start": 95.8,
+          "end": 96.7
+        },
+        {
+          "word": "quitará",
+          "start": 96.7,
+          "end": 99.16
+        }
+      ],
+      "start": 93.62,
+      "end": 99.16,
+      "confidence": 1.0,
+      "time": 93.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Nos llenarán, al salir de aquí,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Nos",
+          "start": 99.16,
+          "end": 100.4
+        },
+        {
+          "word": "llenarán",
+          "start": 100.4,
+          "end": 102.52
+        },
+        {
+          "word": "al",
+          "start": 102.52,
+          "end": 102.94
+        },
+        {
+          "word": "salir",
+          "start": 102.94,
+          "end": 103.8
+        },
+        {
+          "word": "de",
+          "start": 103.8,
+          "end": 104.32
+        },
+        {
+          "word": "aquí",
+          "start": 104.32,
+          "end": 105.54
+        }
+      ],
+      "start": 99.16,
+      "end": 105.54,
+      "confidence": 1.0,
+      "time": 99.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "su gracia y paz, su gozo y luz.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Su",
+          "start": 105.54,
+          "end": 106.32
+        },
+        {
+          "word": "gracia",
+          "start": 106.32,
+          "end": 107.22
+        },
+        {
+          "word": "y",
+          "start": 107.22,
+          "end": 107.94
+        },
+        {
+          "word": "paz,",
+          "start": 107.94,
+          "end": 108.86
+        },
+        {
+          "word": "Su",
+          "start": 109.18,
+          "end": 109.54
+        },
+        {
+          "word": "gozo",
+          "start": 109.54,
+          "end": 110.18
+        },
+        {
+          "word": "y",
+          "start": 110.18,
+          "end": 110.56
+        },
+        {
+          "word": "luz",
+          "start": 110.56,
+          "end": 111.64
+        }
+      ],
+      "start": 105.54,
+      "end": 111.64,
+      "confidence": 1.0,
+      "time": 105.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "En su mansión siempre viviré.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "En",
+          "start": 111.64,
+          "end": 112.34
+        },
+        {
+          "word": "Su",
+          "start": 112.34,
+          "end": 112.86
+        },
+        {
+          "word": "mansión",
+          "start": 112.86,
+          "end": 114.38
+        },
+        {
+          "word": "siempre",
+          "start": 114.38,
+          "end": 115.4
+        },
+        {
+          "word": "viviré",
+          "start": 115.4,
+          "end": 117.68
+        }
+      ],
+      "start": 111.64,
+      "end": 117.68,
+      "confidence": 1.0,
+      "time": 111.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "¡Oh, qué será ver al Señor!",
+      "verse": 4,
+      "words": [
+        {
+          "word": "O",
+          "start": 117.68,
+          "end": 118.5
+        },
+        {
+          "word": "que",
+          "start": 118.5,
+          "end": 119.0
+        },
+        {
+          "word": "será",
+          "start": 119.0,
+          "end": 120.38
+        },
+        {
+          "word": "ver",
+          "start": 120.38,
+          "end": 121.42
+        },
+        {
+          "word": "al",
+          "start": 121.42,
+          "end": 121.96
+        },
+        {
+          "word": "Señor",
+          "start": 121.96,
+          "end": 124.58
+        }
+      ],
+      "start": 117.68,
+      "end": 124.58,
+      "confidence": 0.967,
+      "time": 117.68
+    }
+  ]
+}

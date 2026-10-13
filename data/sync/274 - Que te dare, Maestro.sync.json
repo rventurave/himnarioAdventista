@@ -1,0 +1,1113 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.888,
+  "language": "es",
+  "model": "medium",
+  "hymn": 274,
+  "source": "274 - Que te dare, Maestro.mp3",
+  "duration": 280.84,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Qué te daré, Maestro?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Daré,",
+          "start": 29.98,
+          "end": 32.06
+        },
+        {
+          "word": "Maestro,",
+          "start": 32.56,
+          "end": 35.3
+        }
+      ],
+      "start": 29.98,
+      "end": 42.2,
+      "confidence": 0.5,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Moriste tú por mí.",
+      "verse": 1,
+      "start": 42.2,
+      "end": 42.43,
+      "confidence": 0.0,
+      "time": 42.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Menos daré de lo que me das",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Me",
+          "start": 42.66,
+          "end": 43.08
+        },
+        {
+          "word": "de",
+          "start": 45.3,
+          "end": 46.02
+        },
+        {
+          "word": "lo",
+          "start": 46.02,
+          "end": 46.62
+        },
+        {
+          "word": "que",
+          "start": 46.62,
+          "end": 47.14
+        }
+      ],
+      "start": 42.43,
+      "end": 42.66,
+      "confidence": 0.563,
+      "time": 42.43
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "o todo te entregaré?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "o",
+          "start": 48.62,
+          "end": 49.32
+        },
+        {
+          "word": "todo",
+          "start": 49.32,
+          "end": 50.3
+        },
+        {
+          "word": "te",
+          "start": 50.3,
+          "end": 51.12
+        },
+        {
+          "word": "entregaré.",
+          "start": 51.12,
+          "end": 55.7
+        }
+      ],
+      "start": 48.62,
+      "end": 55.7,
+      "confidence": 1.0,
+      "time": 48.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Mi Salvador Jesús,",
+      "words": [
+        {
+          "word": "mi",
+          "start": 55.7,
+          "end": 56.86
+        },
+        {
+          "word": "salvador",
+          "start": 56.86,
+          "end": 59.26
+        },
+        {
+          "word": "Jesucristo",
+          "start": 59.26,
+          "end": 62.76
+        }
+      ],
+      "start": 55.7,
+      "end": 62.76,
+      "confidence": 0.933,
+      "time": 55.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "te diste tú por mí.",
+      "words": [
+        {
+          "word": "desde",
+          "start": 63.72,
+          "end": 64.64
+        },
+        {
+          "word": "tu",
+          "start": 64.64,
+          "end": 66.0
+        },
+        {
+          "word": "por",
+          "start": 66.0,
+          "end": 66.78
+        },
+        {
+          "word": "mí",
+          "start": 66.78,
+          "end": 69.86
+        }
+      ],
+      "start": 63.72,
+      "end": 69.86,
+      "confidence": 0.752,
+      "time": 63.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Tu hogar dejaste allá",
+      "words": [
+        {
+          "word": "tu",
+          "start": 69.86,
+          "end": 71.24
+        },
+        {
+          "word": "hogar",
+          "start": 71.24,
+          "end": 73.26
+        },
+        {
+          "word": "gasté",
+          "start": 73.74,
+          "end": 75.2
+        },
+        {
+          "word": "al",
+          "start": 75.2,
+          "end": 75.76
+        }
+      ],
+      "start": 69.86,
+      "end": 76.4,
+      "confidence": 0.935,
+      "time": 69.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "para morir aquí.",
+      "words": [
+        {
+          "word": "para",
+          "start": 76.4,
+          "end": 78.14
+        },
+        {
+          "word": "morir",
+          "start": 78.14,
+          "end": 80.24
+        },
+        {
+          "word": "aquí",
+          "start": 80.24,
+          "end": 82.1
+        }
+      ],
+      "start": 76.4,
+      "end": 82.1,
+      "confidence": 1.0,
+      "time": 76.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¿Qué te daré, Maestro?",
+      "words": [
+        {
+          "word": "Que",
+          "start": 82.1,
+          "end": 84.28
+        },
+        {
+          "word": "te",
+          "start": 84.28,
+          "end": 85.1
+        },
+        {
+          "word": "daré,",
+          "start": 85.1,
+          "end": 87.36
+        },
+        {
+          "word": "Maestro,",
+          "start": 87.66,
+          "end": 90.18
+        }
+      ],
+      "start": 82.1,
+      "end": 91.3,
+      "confidence": 1.0,
+      "time": 82.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "te diste tú por mí.",
+      "words": [
+        {
+          "word": "te",
+          "start": 91.3,
+          "end": 91.56
+        },
+        {
+          "word": "deseo",
+          "start": 91.56,
+          "end": 93.42
+        },
+        {
+          "word": "por",
+          "start": 93.42,
+          "end": 94.34
+        },
+        {
+          "word": "mí",
+          "start": 94.34,
+          "end": 97.38
+        }
+      ],
+      "start": 91.3,
+      "end": 97.38,
+      "confidence": 0.752,
+      "time": 91.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "No la mitad, mas todo mi ser,",
+      "words": [
+        {
+          "word": "No",
+          "start": 97.38,
+          "end": 98.38
+        },
+        {
+          "word": "la",
+          "start": 98.38,
+          "end": 99.12
+        },
+        {
+          "word": "mitad,",
+          "start": 99.12,
+          "end": 100.36
+        },
+        {
+          "word": "más",
+          "start": 100.66,
+          "end": 101.48
+        },
+        {
+          "word": "todo",
+          "start": 101.48,
+          "end": 102.16
+        },
+        {
+          "word": "mi",
+          "start": 102.16,
+          "end": 103.08
+        },
+        {
+          "word": "ser",
+          "start": 103.08,
+          "end": 104.3
+        }
+      ],
+      "start": 97.38,
+      "end": 105.7,
+      "confidence": 1.0,
+      "time": 97.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "entregaré a ti.",
+      "words": [
+        {
+          "word": "entregaré",
+          "start": 105.7,
+          "end": 107.8
+        },
+        {
+          "word": "a",
+          "start": 107.8,
+          "end": 108.46
+        },
+        {
+          "word": "ti",
+          "start": 108.46,
+          "end": 110.18
+        }
+      ],
+      "start": 105.7,
+      "end": 110.18,
+      "confidence": 1.0,
+      "time": 105.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Qué te daré, Maestro?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Que",
+          "start": 110.18,
+          "end": 112.36
+        },
+        {
+          "word": "te",
+          "start": 112.36,
+          "end": 113.34
+        },
+        {
+          "word": "daré,",
+          "start": 113.34,
+          "end": 115.32
+        },
+        {
+          "word": "Maestro,",
+          "start": 115.32,
+          "end": 118.1
+        }
+      ],
+      "start": 110.18,
+      "end": 119.8,
+      "confidence": 1.0,
+      "time": 110.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Me redimiste tú.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "redimiste",
+          "start": 119.8,
+          "end": 122.2
+        },
+        {
+          "word": "tu",
+          "start": 122.2,
+          "end": 124.12
+        }
+      ],
+      "start": 119.8,
+      "end": 125.48,
+      "confidence": 0.667,
+      "time": 119.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Poco es mi don, mas lo entregaré,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Poco",
+          "start": 126.16,
+          "end": 126.52
+        },
+        {
+          "word": "es",
+          "start": 126.52,
+          "end": 127.12
+        },
+        {
+          "word": "mi",
+          "start": 127.12,
+          "end": 127.64
+        },
+        {
+          "word": "don,",
+          "start": 127.64,
+          "end": 128.6
+        },
+        {
+          "word": "mas",
+          "start": 128.64,
+          "end": 129.2
+        },
+        {
+          "word": "entregaré,",
+          "start": 129.78,
+          "end": 132.12
+        }
+      ],
+      "start": 126.16,
+      "end": 132.52,
+      "confidence": 0.857,
+      "time": 126.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Señor, bajo tu control.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Señor",
+          "start": 132.52,
+          "end": 133.22
+        },
+        {
+          "word": "tu",
+          "start": 135.56,
+          "end": 135.56
+        },
+        {
+          "word": "control.",
+          "start": 135.56,
+          "end": 137.46
+        }
+      ],
+      "start": 132.52,
+      "end": 137.46,
+      "confidence": 0.75,
+      "time": 132.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Mi Salvador Jesús,",
+      "words": [
+        {
+          "word": "Mi",
+          "start": 137.46,
+          "end": 140.16
+        },
+        {
+          "word": "Salvador",
+          "start": 140.16,
+          "end": 141.88
+        },
+        {
+          "word": "Jesús,",
+          "start": 141.88,
+          "end": 146.08
+        }
+      ],
+      "start": 137.46,
+      "end": 147.16,
+      "confidence": 1.0,
+      "time": 137.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "te diste tú por mí.",
+      "words": [
+        {
+          "word": "te",
+          "start": 147.16,
+          "end": 147.22
+        },
+        {
+          "word": "diste",
+          "start": 147.22,
+          "end": 148.22
+        },
+        {
+          "word": "tú",
+          "start": 148.22,
+          "end": 149.28
+        },
+        {
+          "word": "por",
+          "start": 149.28,
+          "end": 150.02
+        },
+        {
+          "word": "mí",
+          "start": 150.02,
+          "end": 152.46
+        }
+      ],
+      "start": 147.16,
+      "end": 152.46,
+      "confidence": 1.0,
+      "time": 147.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Tu hogar dejaste allá",
+      "words": [
+        {
+          "word": "Tu",
+          "start": 153.08,
+          "end": 154.68
+        },
+        {
+          "word": "hogar",
+          "start": 154.68,
+          "end": 156.36
+        },
+        {
+          "word": "dejaste",
+          "start": 156.36,
+          "end": 158.28
+        },
+        {
+          "word": "allá",
+          "start": 158.28,
+          "end": 159.52
+        }
+      ],
+      "start": 153.08,
+      "end": 159.52,
+      "confidence": 1.0,
+      "time": 153.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "para morir aquí.",
+      "words": [
+        {
+          "word": "para",
+          "start": 159.52,
+          "end": 161.36
+        },
+        {
+          "word": "morir",
+          "start": 161.36,
+          "end": 163.54
+        },
+        {
+          "word": "aquí",
+          "start": 163.54,
+          "end": 164.72
+        }
+      ],
+      "start": 159.52,
+      "end": 164.72,
+      "confidence": 1.0,
+      "time": 159.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¿Qué te daré, Maestro?",
+      "words": [
+        {
+          "word": "Que",
+          "start": 166.18,
+          "end": 167.58
+        },
+        {
+          "word": "te",
+          "start": 167.58,
+          "end": 168.52
+        },
+        {
+          "word": "daré,",
+          "start": 168.52,
+          "end": 170.18
+        },
+        {
+          "word": "maestra",
+          "start": 170.48,
+          "end": 173.68
+        }
+      ],
+      "start": 166.18,
+      "end": 173.68,
+      "confidence": 0.979,
+      "time": 166.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "te diste tú por mí.",
+      "words": [
+        {
+          "word": "Te",
+          "start": 173.68,
+          "end": 174.72
+        },
+        {
+          "word": "diste",
+          "start": 174.72,
+          "end": 175.82
+        },
+        {
+          "word": "tú",
+          "start": 175.82,
+          "end": 176.9
+        },
+        {
+          "word": "por",
+          "start": 176.9,
+          "end": 177.7
+        },
+        {
+          "word": "mí",
+          "start": 177.7,
+          "end": 180.8
+        }
+      ],
+      "start": 173.68,
+      "end": 180.8,
+      "confidence": 1.0,
+      "time": 173.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "No la mitad, mas todo mi ser,",
+      "words": [
+        {
+          "word": "No",
+          "start": 180.8,
+          "end": 181.7
+        },
+        {
+          "word": "la",
+          "start": 181.7,
+          "end": 182.34
+        },
+        {
+          "word": "mitad,",
+          "start": 182.34,
+          "end": 183.7
+        },
+        {
+          "word": "más",
+          "start": 183.92,
+          "end": 184.76
+        },
+        {
+          "word": "todo",
+          "start": 184.76,
+          "end": 185.68
+        },
+        {
+          "word": "mi",
+          "start": 185.68,
+          "end": 186.38
+        },
+        {
+          "word": "ser",
+          "start": 186.38,
+          "end": 187.6
+        }
+      ],
+      "start": 180.8,
+      "end": 187.6,
+      "confidence": 1.0,
+      "time": 180.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "entregaré a ti.",
+      "words": [
+        {
+          "word": "entregaré",
+          "start": 188.62,
+          "end": 191.2
+        },
+        {
+          "word": "a",
+          "start": 191.2,
+          "end": 191.86
+        },
+        {
+          "word": "ti",
+          "start": 191.86,
+          "end": 194.56
+        }
+      ],
+      "start": 188.62,
+      "end": 194.56,
+      "confidence": 1.0,
+      "time": 188.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¿Qué te daré, Maestro?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 194.56,
+          "end": 195.84
+        },
+        {
+          "word": "te",
+          "start": 195.84,
+          "end": 196.94
+        },
+        {
+          "word": "daremos",
+          "start": 196.94,
+          "end": 198.9
+        },
+        {
+          "word": "estar",
+          "start": 200.5,
+          "end": 201.94
+        }
+      ],
+      "start": 194.56,
+      "end": 201.94,
+      "confidence": 0.935,
+      "time": 194.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Mi gran benefactor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mi",
+          "start": 201.94,
+          "end": 202.84
+        },
+        {
+          "word": "gran",
+          "start": 202.84,
+          "end": 203.8
+        },
+        {
+          "word": "benefactor",
+          "start": 203.8,
+          "end": 208.46
+        }
+      ],
+      "start": 201.94,
+      "end": 208.46,
+      "confidence": 1.0,
+      "time": 201.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Todo mi tiempo y bienes daré,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "todo",
+          "start": 208.46,
+          "end": 210.18
+        },
+        {
+          "word": "mi",
+          "start": 210.18,
+          "end": 210.82
+        },
+        {
+          "word": "tiempo",
+          "start": 210.82,
+          "end": 212.12
+        },
+        {
+          "word": "y",
+          "start": 212.12,
+          "end": 212.72
+        },
+        {
+          "word": "bienestar",
+          "start": 212.72,
+          "end": 214.54
+        }
+      ],
+      "start": 208.46,
+      "end": 214.54,
+      "confidence": 0.823,
+      "time": 208.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "a ti pertenecerán.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 214.54,
+          "end": 215.94
+        },
+        {
+          "word": "ti",
+          "start": 215.94,
+          "end": 216.54
+        },
+        {
+          "word": "pertenecerán.",
+          "start": 216.54,
+          "end": 223.02
+        }
+      ],
+      "start": 214.54,
+      "end": 223.02,
+      "confidence": 1.0,
+      "time": 214.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Mi Salvador Jesús,",
+      "words": [
+        {
+          "word": "Mi",
+          "start": 223.52,
+          "end": 223.6
+        },
+        {
+          "word": "Salvador",
+          "start": 223.6,
+          "end": 225.22
+        },
+        {
+          "word": "Jesús,",
+          "start": 225.22,
+          "end": 229.4
+        }
+      ],
+      "start": 223.52,
+      "end": 229.4,
+      "confidence": 1.0,
+      "time": 223.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "te diste tú por mí.",
+      "words": [
+        {
+          "word": "te",
+          "start": 230.32,
+          "end": 230.58
+        },
+        {
+          "word": "diste",
+          "start": 230.58,
+          "end": 231.52
+        },
+        {
+          "word": "tú",
+          "start": 231.52,
+          "end": 232.7
+        },
+        {
+          "word": "por",
+          "start": 232.7,
+          "end": 233.54
+        },
+        {
+          "word": "mí,",
+          "start": 233.54,
+          "end": 236.38
+        }
+      ],
+      "start": 230.32,
+      "end": 236.38,
+      "confidence": 1.0,
+      "time": 230.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Tu hogar dejaste allá",
+      "words": [
+        {
+          "word": "tu",
+          "start": 236.86,
+          "end": 237.4
+        },
+        {
+          "word": "hogar",
+          "start": 237.4,
+          "end": 239.72
+        },
+        {
+          "word": "dejaste",
+          "start": 239.72,
+          "end": 241.62
+        },
+        {
+          "word": "allá",
+          "start": 241.62,
+          "end": 242.8
+        }
+      ],
+      "start": 236.86,
+      "end": 242.8,
+      "confidence": 1.0,
+      "time": 236.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "para morir aquí.",
+      "words": [
+        {
+          "word": "para",
+          "start": 242.8,
+          "end": 244.48
+        },
+        {
+          "word": "morir",
+          "start": 244.48,
+          "end": 246.92
+        },
+        {
+          "word": "aquí",
+          "start": 246.92,
+          "end": 249.92
+        }
+      ],
+      "start": 242.8,
+      "end": 249.92,
+      "confidence": 1.0,
+      "time": 242.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¿Qué te daré, Maestro?",
+      "words": [
+        {
+          "word": "que",
+          "start": 249.92,
+          "end": 251.04
+        },
+        {
+          "word": "te",
+          "start": 251.04,
+          "end": 251.92
+        },
+        {
+          "word": "daré,",
+          "start": 251.92,
+          "end": 253.5
+        },
+        {
+          "word": "Maestro",
+          "start": 254.54,
+          "end": 257.14
+        }
+      ],
+      "start": 249.92,
+      "end": 257.14,
+      "confidence": 1.0,
+      "time": 249.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "te diste tú por mí.",
+      "words": [
+        {
+          "word": "te",
+          "start": 257.14,
+          "end": 258.22
+        },
+        {
+          "word": "diste",
+          "start": 258.22,
+          "end": 259.18
+        },
+        {
+          "word": "por",
+          "start": 260.42,
+          "end": 261.12
+        },
+        {
+          "word": "mí",
+          "start": 261.12,
+          "end": 264.16
+        }
+      ],
+      "start": 257.14,
+      "end": 264.16,
+      "confidence": 0.8,
+      "time": 257.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "No la mitad, mas todo mi ser,",
+      "words": [
+        {
+          "word": "no",
+          "start": 264.16,
+          "end": 265.06
+        },
+        {
+          "word": "la",
+          "start": 265.06,
+          "end": 265.74
+        },
+        {
+          "word": "mitad,",
+          "start": 265.74,
+          "end": 267.1
+        },
+        {
+          "word": "más",
+          "start": 267.3,
+          "end": 268.08
+        },
+        {
+          "word": "todo",
+          "start": 268.08,
+          "end": 269.14
+        },
+        {
+          "word": "mi",
+          "start": 269.14,
+          "end": 270.1
+        },
+        {
+          "word": "ser",
+          "start": 270.1,
+          "end": 270.88
+        }
+      ],
+      "start": 264.16,
+      "end": 270.88,
+      "confidence": 1.0,
+      "time": 264.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "entregaré a ti.",
+      "words": [
+        {
+          "word": "entregaré",
+          "start": 271.96,
+          "end": 274.6
+        },
+        {
+          "word": "a",
+          "start": 274.6,
+          "end": 275.32
+        },
+        {
+          "word": "ti",
+          "start": 275.32,
+          "end": 276.96
+        }
+      ],
+      "start": 271.96,
+      "end": 276.96,
+      "confidence": 1.0,
+      "time": 271.96
+    }
+  ]
+}

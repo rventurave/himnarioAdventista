@@ -1,0 +1,771 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.849,
+  "language": "es",
+  "model": "medium",
+  "hymn": 287,
+  "source": "287 - Rey de mi vida.mp3",
+  "duration": 168.28,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Rey de mi vida tú eres hoy;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 3.08,
+          "end": 3.08
+        }
+      ],
+      "start": 3.08,
+      "end": 3.28,
+      "confidence": 0.143,
+      "time": 3.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en ti me gloriaré;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 3.1,
+          "end": 3.1
+        }
+      ],
+      "start": 3.28,
+      "end": 29.98,
+      "confidence": 0.25,
+      "time": 3.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "yo por tu cruz salvado soy:",
+      "verse": 1,
+      "start": 29.98,
+      "end": 30.18,
+      "confidence": 0.0,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "no te olvidaré.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "No",
+          "start": 30.0,
+          "end": 32.2
+        },
+        {
+          "word": "te",
+          "start": 32.2,
+          "end": 32.96
+        },
+        {
+          "word": "olvidaré",
+          "start": 32.96,
+          "end": 37.4
+        }
+      ],
+      "start": 30.18,
+      "end": 30.38,
+      "confidence": 1.0,
+      "time": 30.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Después de tu Getsemaní,",
+      "words": [
+        {
+          "word": "Después",
+          "start": 37.4,
+          "end": 39.12
+        },
+        {
+          "word": "de",
+          "start": 39.12,
+          "end": 39.5
+        },
+        {
+          "word": "tu",
+          "start": 39.5,
+          "end": 40.22
+        }
+      ],
+      "start": 37.4,
+      "end": 43.0,
+      "confidence": 0.75,
+      "time": 37.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "subiste a la cruz más cruel;",
+      "words": [
+        {
+          "word": "Subiste",
+          "start": 44.0,
+          "end": 45.74
+        },
+        {
+          "word": "a",
+          "start": 45.74,
+          "end": 46.74
+        },
+        {
+          "word": "la",
+          "start": 46.74,
+          "end": 47.4
+        },
+        {
+          "word": "cruz",
+          "start": 47.4,
+          "end": 48.36
+        },
+        {
+          "word": "más",
+          "start": 48.36,
+          "end": 48.84
+        },
+        {
+          "word": "cruel",
+          "start": 48.84,
+          "end": 49.98
+        }
+      ],
+      "start": 44.0,
+      "end": 49.98,
+      "confidence": 1.0,
+      "time": 44.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "todo sufrió tu amor por mí:",
+      "words": [
+        {
+          "word": "Todo",
+          "start": 49.98,
+          "end": 51.62
+        },
+        {
+          "word": "sufrió",
+          "start": 51.62,
+          "end": 52.66
+        },
+        {
+          "word": "tu",
+          "start": 52.66,
+          "end": 53.16
+        },
+        {
+          "word": "amor",
+          "start": 53.16,
+          "end": 54.18
+        },
+        {
+          "word": "por",
+          "start": 54.18,
+          "end": 55.04
+        },
+        {
+          "word": "mí",
+          "start": 55.04,
+          "end": 56.26
+        }
+      ],
+      "start": 49.98,
+      "end": 56.26,
+      "confidence": 1.0,
+      "time": 49.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "yo quiero serte fiel.",
+      "words": [
+        {
+          "word": "yo",
+          "start": 56.26,
+          "end": 57.3
+        },
+        {
+          "word": "quiero",
+          "start": 57.3,
+          "end": 58.18
+        },
+        {
+          "word": "serte",
+          "start": 58.18,
+          "end": 60.46
+        },
+        {
+          "word": "fiel.",
+          "start": 60.46,
+          "end": 62.26
+        }
+      ],
+      "start": 56.26,
+      "end": 62.26,
+      "confidence": 1.0,
+      "time": 56.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mas vi la luz amanecer",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Mas",
+          "start": 63.84,
+          "end": 64.48
+        },
+        {
+          "word": "vi",
+          "start": 64.48,
+          "end": 65.06
+        },
+        {
+          "word": "la",
+          "start": 65.06,
+          "end": 65.34
+        },
+        {
+          "word": "luz",
+          "start": 65.34,
+          "end": 66.26
+        },
+        {
+          "word": "amanecer",
+          "start": 66.26,
+          "end": 69.7
+        }
+      ],
+      "start": 63.84,
+      "end": 69.7,
+      "confidence": 1.0,
+      "time": 63.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de la eternidad;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 69.7,
+          "end": 70.76
+        },
+        {
+          "word": "la",
+          "start": 70.76,
+          "end": 71.52
+        },
+        {
+          "word": "eternidad.",
+          "start": 71.52,
+          "end": 75.7
+        }
+      ],
+      "start": 69.7,
+      "end": 75.7,
+      "confidence": 1.0,
+      "time": 69.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "te vi, Señor, aparecer",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Te",
+          "start": 76.26,
+          "end": 76.92
+        },
+        {
+          "word": "vi,",
+          "start": 76.92,
+          "end": 77.42
+        },
+        {
+          "word": "Señor,",
+          "start": 77.42,
+          "end": 78.56
+        },
+        {
+          "word": "aparecer",
+          "start": 79.2,
+          "end": 81.74
+        }
+      ],
+      "start": 76.26,
+      "end": 81.74,
+      "confidence": 1.0,
+      "time": 76.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con inmortalidad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "con",
+          "start": 81.74,
+          "end": 83.28
+        },
+        {
+          "word": "inmortalidad.",
+          "start": 83.28,
+          "end": 88.02
+        }
+      ],
+      "start": 81.74,
+      "end": 88.02,
+      "confidence": 1.0,
+      "time": 81.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Después de tu Getsemaní,",
+      "words": [
+        {
+          "word": "Después",
+          "start": 88.42,
+          "end": 89.8
+        },
+        {
+          "word": "de",
+          "start": 89.8,
+          "end": 90.14
+        },
+        {
+          "word": "tu",
+          "start": 90.14,
+          "end": 90.96
+        },
+        {
+          "word": "hechemaní,",
+          "start": 90.96,
+          "end": 94.72
+        }
+      ],
+      "start": 88.42,
+      "end": 94.72,
+      "confidence": 0.95,
+      "time": 88.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "subiste a la cruz más cruel;",
+      "words": [
+        {
+          "word": "subiste",
+          "start": 95.16,
+          "end": 96.38
+        },
+        {
+          "word": "a",
+          "start": 96.38,
+          "end": 97.24
+        },
+        {
+          "word": "la",
+          "start": 97.24,
+          "end": 98.02
+        },
+        {
+          "word": "cruz",
+          "start": 98.02,
+          "end": 99.0
+        },
+        {
+          "word": "más",
+          "start": 99.0,
+          "end": 99.5
+        },
+        {
+          "word": "cruel.",
+          "start": 99.5,
+          "end": 100.58
+        }
+      ],
+      "start": 95.16,
+      "end": 100.58,
+      "confidence": 1.0,
+      "time": 95.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "todo sufrió tu amor por mí:",
+      "words": [
+        {
+          "word": "Todo",
+          "start": 101.12,
+          "end": 102.3
+        },
+        {
+          "word": "sufrió",
+          "start": 102.3,
+          "end": 103.3
+        },
+        {
+          "word": "tu",
+          "start": 103.3,
+          "end": 103.86
+        },
+        {
+          "word": "amor",
+          "start": 103.86,
+          "end": 104.84
+        },
+        {
+          "word": "por",
+          "start": 104.84,
+          "end": 105.72
+        },
+        {
+          "word": "mí,",
+          "start": 105.72,
+          "end": 106.74
+        }
+      ],
+      "start": 101.12,
+      "end": 106.74,
+      "confidence": 1.0,
+      "time": 101.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "yo quiero serte fiel.",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 106.74,
+          "end": 108.0
+        },
+        {
+          "word": "quiero",
+          "start": 108.0,
+          "end": 108.8
+        },
+        {
+          "word": "ser",
+          "start": 108.8,
+          "end": 109.7
+        },
+        {
+          "word": "fiel.",
+          "start": 110.66,
+          "end": 112.74
+        }
+      ],
+      "start": 106.74,
+      "end": 112.74,
+      "confidence": 0.985,
+      "time": 106.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Rey de mi vida, Rey de luz,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Rey",
+          "start": 114.74,
+          "end": 114.98
+        },
+        {
+          "word": "de",
+          "start": 114.98,
+          "end": 115.62
+        },
+        {
+          "word": "mi",
+          "start": 115.62,
+          "end": 116.02
+        },
+        {
+          "word": "vida,",
+          "start": 116.02,
+          "end": 117.1
+        },
+        {
+          "word": "Rey",
+          "start": 117.36,
+          "end": 118.1
+        },
+        {
+          "word": "de",
+          "start": 118.1,
+          "end": 118.98
+        },
+        {
+          "word": "luz,",
+          "start": 118.98,
+          "end": 120.08
+        }
+      ],
+      "start": 114.74,
+      "end": 120.08,
+      "confidence": 1.0,
+      "time": 114.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en ti me gloriaré;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 121.06,
+          "end": 121.34
+        },
+        {
+          "word": "Ti",
+          "start": 121.34,
+          "end": 121.74
+        },
+        {
+          "word": "me",
+          "start": 121.74,
+          "end": 122.16
+        },
+        {
+          "word": "gloriaré.",
+          "start": 122.16,
+          "end": 125.5
+        }
+      ],
+      "start": 121.06,
+      "end": 125.5,
+      "confidence": 1.0,
+      "time": 121.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "por mí moriste en la cruz:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Por",
+          "start": 127.14,
+          "end": 127.52
+        },
+        {
+          "word": "mí",
+          "start": 127.52,
+          "end": 128.0
+        },
+        {
+          "word": "moriste",
+          "start": 128.0,
+          "end": 129.78
+        },
+        {
+          "word": "en",
+          "start": 129.78,
+          "end": 130.82
+        },
+        {
+          "word": "la",
+          "start": 130.82,
+          "end": 131.62
+        },
+        {
+          "word": "cruz,",
+          "start": 131.62,
+          "end": 132.84
+        }
+      ],
+      "start": 127.14,
+      "end": 132.84,
+      "confidence": 1.0,
+      "time": 127.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "no te olvidaré.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "No",
+          "start": 132.84,
+          "end": 133.76
+        },
+        {
+          "word": "te",
+          "start": 133.76,
+          "end": 134.4
+        },
+        {
+          "word": "olvidaré",
+          "start": 134.4,
+          "end": 138.7
+        }
+      ],
+      "start": 132.84,
+      "end": 138.7,
+      "confidence": 1.0,
+      "time": 132.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Después de tu Getsemaní,",
+      "words": [
+        {
+          "word": "Después",
+          "start": 138.7,
+          "end": 140.4
+        },
+        {
+          "word": "de",
+          "start": 140.4,
+          "end": 140.8
+        },
+        {
+          "word": "tu",
+          "start": 140.8,
+          "end": 141.52
+        }
+      ],
+      "start": 138.7,
+      "end": 145.24,
+      "confidence": 0.75,
+      "time": 138.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "subiste a la cruz más cruel;",
+      "words": [
+        {
+          "word": "Subiste",
+          "start": 145.24,
+          "end": 147.04
+        },
+        {
+          "word": "a",
+          "start": 147.04,
+          "end": 147.92
+        },
+        {
+          "word": "la",
+          "start": 147.92,
+          "end": 148.66
+        },
+        {
+          "word": "cruz",
+          "start": 148.66,
+          "end": 149.66
+        },
+        {
+          "word": "más",
+          "start": 149.66,
+          "end": 150.14
+        },
+        {
+          "word": "cruel",
+          "start": 150.14,
+          "end": 151.26
+        }
+      ],
+      "start": 145.24,
+      "end": 151.26,
+      "confidence": 1.0,
+      "time": 145.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "todo sufrió tu amor por mí:",
+      "words": [
+        {
+          "word": "Todo",
+          "start": 151.26,
+          "end": 152.92
+        },
+        {
+          "word": "sufrió",
+          "start": 152.92,
+          "end": 153.92
+        },
+        {
+          "word": "tu",
+          "start": 153.92,
+          "end": 154.48
+        },
+        {
+          "word": "amor",
+          "start": 154.48,
+          "end": 155.48
+        },
+        {
+          "word": "por",
+          "start": 155.48,
+          "end": 156.38
+        },
+        {
+          "word": "mí",
+          "start": 156.38,
+          "end": 157.62
+        }
+      ],
+      "start": 151.26,
+      "end": 157.62,
+      "confidence": 1.0,
+      "time": 151.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "yo quiero serte fiel.",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 157.62,
+          "end": 158.76
+        },
+        {
+          "word": "quiero",
+          "start": 158.76,
+          "end": 159.46
+        },
+        {
+          "word": "serte",
+          "start": 159.46,
+          "end": 161.6
+        },
+        {
+          "word": "fiel.",
+          "start": 161.6,
+          "end": 165.28
+        }
+      ],
+      "start": 157.62,
+      "end": 165.28,
+      "confidence": 1.0,
+      "time": 157.62
+    }
+  ]
+}

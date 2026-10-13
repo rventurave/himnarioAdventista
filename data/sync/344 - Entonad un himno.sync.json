@@ -1,0 +1,1345 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.952,
+  "language": "es",
+  "model": "medium",
+  "hymn": 344,
+  "source": "344 - Entonad un himno.mp3",
+  "duration": 211.2,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Entonad un himno que alegre el corazón,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 13.5,
+          "end": 14.58
+        },
+        {
+          "word": "un",
+          "start": 15.66,
+          "end": 16.28
+        },
+        {
+          "word": "himno",
+          "start": 16.28,
+          "end": 16.92
+        },
+        {
+          "word": "que",
+          "start": 16.92,
+          "end": 17.4
+        },
+        {
+          "word": "aleje",
+          "start": 17.4,
+          "end": 17.88
+        },
+        {
+          "word": "el",
+          "start": 17.88,
+          "end": 18.32
+        },
+        {
+          "word": "corazón,",
+          "start": 18.32,
+          "end": 19.26
+        }
+      ],
+      "start": 13.5,
+      "end": 19.36,
+      "confidence": 0.968,
+      "time": 13.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "vamos pronto a nuestro eterno hogar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "vamos",
+          "start": 19.36,
+          "end": 20.18
+        },
+        {
+          "word": "pronto",
+          "start": 20.18,
+          "end": 20.72
+        },
+        {
+          "word": "a",
+          "start": 20.72,
+          "end": 21.1
+        },
+        {
+          "word": "nuestra",
+          "start": 21.1,
+          "end": 21.6
+        },
+        {
+          "word": "eternidad.",
+          "start": 21.6,
+          "end": 24.62
+        }
+      ],
+      "start": 19.36,
+      "end": 24.62,
+      "confidence": 0.786,
+      "time": 19.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "porque pasará esta noche de aflicción,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Porque",
+          "start": 24.62,
+          "end": 25.88
+        },
+        {
+          "word": "pasará",
+          "start": 25.88,
+          "end": 28.2
+        },
+        {
+          "word": "esta",
+          "start": 28.2,
+          "end": 28.82
+        },
+        {
+          "word": "noche",
+          "start": 28.82,
+          "end": 29.44
+        },
+        {
+          "word": "de",
+          "start": 29.44,
+          "end": 29.86
+        },
+        {
+          "word": "aflicción,",
+          "start": 29.86,
+          "end": 30.86
+        }
+      ],
+      "start": 24.62,
+      "end": 31.44,
+      "confidence": 1.0,
+      "time": 24.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "vamos pronto a nuestro eterno hogar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "vamos",
+          "start": 31.44,
+          "end": 31.66
+        },
+        {
+          "word": "pronto",
+          "start": 31.66,
+          "end": 32.12
+        },
+        {
+          "word": "a",
+          "start": 32.12,
+          "end": 32.5
+        },
+        {
+          "word": "nuestro",
+          "start": 32.5,
+          "end": 32.98
+        },
+        {
+          "word": "eterno",
+          "start": 32.98,
+          "end": 35.12
+        },
+        {
+          "word": "hogar.",
+          "start": 35.12,
+          "end": 36.48
+        }
+      ],
+      "start": 31.44,
+      "end": 36.48,
+      "confidence": 1.0,
+      "time": 31.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Vamos pronto, sí, vamos pronto, sí,",
+      "words": [
+        {
+          "word": "Vamos",
+          "start": 37.18,
+          "end": 37.38
+        },
+        {
+          "word": "pronto",
+          "start": 37.38,
+          "end": 38.24
+        },
+        {
+          "word": "sin,",
+          "start": 38.24,
+          "end": 39.28
+        },
+        {
+          "word": "vamos",
+          "start": 39.54,
+          "end": 40.18
+        },
+        {
+          "word": "pronto",
+          "start": 40.18,
+          "end": 41.38
+        },
+        {
+          "word": "sin",
+          "start": 41.38,
+          "end": 42.12
+        }
+      ],
+      "start": 37.18,
+      "end": 42.12,
+      "confidence": 0.96,
+      "time": 37.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "a cruzar el fiero mar;",
+      "words": [
+        {
+          "word": "a",
+          "start": 42.12,
+          "end": 42.8
+        },
+        {
+          "word": "cruzar",
+          "start": 42.8,
+          "end": 44.34
+        },
+        {
+          "word": "el",
+          "start": 44.34,
+          "end": 44.8
+        },
+        {
+          "word": "fiero",
+          "start": 44.8,
+          "end": 45.92
+        },
+        {
+          "word": "mar.",
+          "start": 45.92,
+          "end": 47.66
+        }
+      ],
+      "start": 42.12,
+      "end": 47.66,
+      "confidence": 1.0,
+      "time": 42.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "tras la tempestad, nos veremos más alla;",
+      "words": [
+        {
+          "word": "Tras",
+          "start": 47.66,
+          "end": 48.68
+        },
+        {
+          "word": "la",
+          "start": 48.68,
+          "end": 49.1
+        },
+        {
+          "word": "tempestad",
+          "start": 49.1,
+          "end": 50.92
+        },
+        {
+          "word": "nos",
+          "start": 50.92,
+          "end": 51.56
+        },
+        {
+          "word": "veremos",
+          "start": 51.56,
+          "end": 52.5
+        },
+        {
+          "word": "más",
+          "start": 52.5,
+          "end": 52.98
+        },
+        {
+          "word": "allá,",
+          "start": 52.98,
+          "end": 54.84
+        }
+      ],
+      "start": 47.66,
+      "end": 54.84,
+      "confidence": 1.0,
+      "time": 47.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "vamos pronto a nuestro eterno hogar.",
+      "words": [
+        {
+          "word": "vamos",
+          "start": 55.56,
+          "end": 55.94
+        },
+        {
+          "word": "pronto",
+          "start": 55.94,
+          "end": 56.44
+        },
+        {
+          "word": "a",
+          "start": 56.44,
+          "end": 56.76
+        },
+        {
+          "word": "nuestro",
+          "start": 56.76,
+          "end": 57.36
+        },
+        {
+          "word": "eterno",
+          "start": 57.36,
+          "end": 59.28
+        },
+        {
+          "word": "hogar.",
+          "start": 59.28,
+          "end": 61.82
+        }
+      ],
+      "start": 55.56,
+      "end": 61.82,
+      "confidence": 1.0,
+      "time": 55.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cuanto pida Dios el fiel siervo cumplirá,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cuanto",
+          "start": 62.28,
+          "end": 62.96
+        },
+        {
+          "word": "pida",
+          "start": 62.96,
+          "end": 64.14
+        },
+        {
+          "word": "Dios,",
+          "start": 64.14,
+          "end": 65.08
+        },
+        {
+          "word": "el",
+          "start": 65.2,
+          "end": 65.46
+        },
+        {
+          "word": "fiel",
+          "start": 65.46,
+          "end": 65.76
+        },
+        {
+          "word": "siervo",
+          "start": 65.76,
+          "end": 66.48
+        },
+        {
+          "word": "cumplirá,",
+          "start": 66.48,
+          "end": 67.9
+        }
+      ],
+      "start": 62.28,
+      "end": 67.9,
+      "confidence": 1.0,
+      "time": 62.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "vamos pronto a nuestro eterno hogar;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "vamos",
+          "start": 68.32,
+          "end": 68.58
+        },
+        {
+          "word": "pronto",
+          "start": 68.58,
+          "end": 69.16
+        },
+        {
+          "word": "a",
+          "start": 69.16,
+          "end": 69.42
+        },
+        {
+          "word": "nuestro",
+          "start": 69.42,
+          "end": 70.0
+        },
+        {
+          "word": "eterno",
+          "start": 70.0,
+          "end": 71.72
+        },
+        {
+          "word": "hogar.",
+          "start": 71.72,
+          "end": 73.32
+        }
+      ],
+      "start": 68.32,
+      "end": 73.32,
+      "confidence": 1.0,
+      "time": 68.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y su Espíritu nuevas fuerzas nos dará,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Y",
+          "start": 73.32,
+          "end": 73.98
+        },
+        {
+          "word": "su",
+          "start": 73.98,
+          "end": 74.26
+        },
+        {
+          "word": "Espíritu,",
+          "start": 74.26,
+          "end": 76.52
+        },
+        {
+          "word": "nuevas",
+          "start": 76.86,
+          "end": 77.18
+        },
+        {
+          "word": "fuerzas",
+          "start": 77.18,
+          "end": 77.92
+        },
+        {
+          "word": "nos",
+          "start": 77.92,
+          "end": 78.32
+        },
+        {
+          "word": "dará,",
+          "start": 78.32,
+          "end": 79.3
+        }
+      ],
+      "start": 73.32,
+      "end": 79.3,
+      "confidence": 1.0,
+      "time": 73.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "vamos pronto a nuestro eterno hogar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "vamos",
+          "start": 79.76,
+          "end": 80.04
+        },
+        {
+          "word": "pronto",
+          "start": 80.04,
+          "end": 80.54
+        },
+        {
+          "word": "a",
+          "start": 80.54,
+          "end": 80.9
+        },
+        {
+          "word": "nuestro",
+          "start": 80.9,
+          "end": 81.38
+        },
+        {
+          "word": "eterno",
+          "start": 81.38,
+          "end": 83.4
+        },
+        {
+          "word": "hogar.",
+          "start": 83.4,
+          "end": 84.92
+        }
+      ],
+      "start": 79.76,
+      "end": 84.92,
+      "confidence": 1.0,
+      "time": 79.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Vamos pronto, sí, vamos pronto, sí,",
+      "words": [
+        {
+          "word": "Vamos",
+          "start": 85.88,
+          "end": 86.04
+        },
+        {
+          "word": "pronto",
+          "start": 86.04,
+          "end": 86.9
+        },
+        {
+          "word": "si,",
+          "start": 86.9,
+          "end": 87.7
+        },
+        {
+          "word": "vamos",
+          "start": 87.9,
+          "end": 88.54
+        },
+        {
+          "word": "pronto",
+          "start": 88.54,
+          "end": 89.6
+        },
+        {
+          "word": "si,",
+          "start": 89.6,
+          "end": 90.54
+        }
+      ],
+      "start": 85.88,
+      "end": 90.54,
+      "confidence": 1.0,
+      "time": 85.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "a cruzar el fiero mar;",
+      "words": [
+        {
+          "word": "a",
+          "start": 90.8,
+          "end": 91.2
+        },
+        {
+          "word": "cruzar",
+          "start": 91.2,
+          "end": 92.7
+        },
+        {
+          "word": "el",
+          "start": 92.7,
+          "end": 93.26
+        },
+        {
+          "word": "fiero",
+          "start": 93.26,
+          "end": 94.26
+        }
+      ],
+      "start": 90.8,
+      "end": 95.78,
+      "confidence": 0.8,
+      "time": 90.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "tras la tempestad, nos veremos más alla;",
+      "words": [
+        {
+          "word": "Tras",
+          "start": 95.78,
+          "end": 96.92
+        },
+        {
+          "word": "la",
+          "start": 96.92,
+          "end": 97.74
+        },
+        {
+          "word": "tempestad",
+          "start": 97.74,
+          "end": 99.32
+        },
+        {
+          "word": "nos",
+          "start": 99.32,
+          "end": 99.88
+        },
+        {
+          "word": "iremos",
+          "start": 99.88,
+          "end": 100.88
+        },
+        {
+          "word": "más",
+          "start": 100.88,
+          "end": 101.28
+        },
+        {
+          "word": "allá,",
+          "start": 101.28,
+          "end": 102.78
+        }
+      ],
+      "start": 95.78,
+      "end": 102.78,
+      "confidence": 0.98,
+      "time": 95.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "vamos pronto a nuestro eterno hogar.",
+      "words": [
+        {
+          "word": "vamos",
+          "start": 104.02,
+          "end": 104.38
+        },
+        {
+          "word": "pronto",
+          "start": 104.38,
+          "end": 104.94
+        },
+        {
+          "word": "a",
+          "start": 104.94,
+          "end": 105.24
+        },
+        {
+          "word": "nuestro",
+          "start": 105.24,
+          "end": 105.82
+        },
+        {
+          "word": "eterno",
+          "start": 105.82,
+          "end": 107.52
+        },
+        {
+          "word": "hogar.",
+          "start": 107.52,
+          "end": 109.78
+        }
+      ],
+      "start": 104.02,
+      "end": 109.78,
+      "confidence": 1.0,
+      "time": 104.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Id a encaminar a los extraviados pies,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Vida",
+          "start": 110.9,
+          "end": 111.36
+        },
+        {
+          "word": "en",
+          "start": 111.36,
+          "end": 111.78
+        },
+        {
+          "word": "a",
+          "start": 113.7,
+          "end": 114.12
+        },
+        {
+          "word": "los",
+          "start": 114.12,
+          "end": 114.52
+        },
+        {
+          "word": "extraviados",
+          "start": 114.52,
+          "end": 115.72
+        },
+        {
+          "word": "pies,",
+          "start": 115.72,
+          "end": 116.22
+        }
+      ],
+      "start": 110.9,
+      "end": 116.22,
+      "confidence": 0.82,
+      "time": 110.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "vamos pronto a nuestro eterno hogar;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "vamos",
+          "start": 116.92,
+          "end": 117.18
+        },
+        {
+          "word": "pronto",
+          "start": 117.18,
+          "end": 117.74
+        },
+        {
+          "word": "a",
+          "start": 117.74,
+          "end": 118.02
+        },
+        {
+          "word": "nuestro",
+          "start": 118.02,
+          "end": 118.6
+        },
+        {
+          "word": "eterno",
+          "start": 118.6,
+          "end": 120.2
+        },
+        {
+          "word": "hogar.",
+          "start": 120.2,
+          "end": 121.84
+        }
+      ],
+      "start": 116.92,
+      "end": 121.84,
+      "confidence": 1.0,
+      "time": 116.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "el amor de Cristo enseñad con sencillez,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "El",
+          "start": 121.84,
+          "end": 122.7
+        },
+        {
+          "word": "amor",
+          "start": 122.7,
+          "end": 123.66
+        },
+        {
+          "word": "de",
+          "start": 123.66,
+          "end": 124.48
+        },
+        {
+          "word": "Cristo",
+          "start": 124.48,
+          "end": 125.14
+        },
+        {
+          "word": "enseñar",
+          "start": 125.14,
+          "end": 126.14
+        },
+        {
+          "word": "con",
+          "start": 126.14,
+          "end": 126.58
+        },
+        {
+          "word": "sencillez",
+          "start": 126.58,
+          "end": 127.9
+        }
+      ],
+      "start": 121.84,
+      "end": 127.9,
+      "confidence": 0.988,
+      "time": 121.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "vamos pronto a nuestro eterno hogar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Vamos",
+          "start": 127.9,
+          "end": 128.56
+        },
+        {
+          "word": "pronto",
+          "start": 128.56,
+          "end": 129.14
+        },
+        {
+          "word": "al",
+          "start": 129.14,
+          "end": 129.5
+        },
+        {
+          "word": "nuestro",
+          "start": 129.5,
+          "end": 129.96
+        },
+        {
+          "word": "eterno",
+          "start": 129.96,
+          "end": 131.82
+        },
+        {
+          "word": "hogar",
+          "start": 131.82,
+          "end": 133.48
+        }
+      ],
+      "start": 127.9,
+      "end": 133.48,
+      "confidence": 0.967,
+      "time": 127.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Vamos pronto, sí, vamos pronto, sí,",
+      "words": [
+        {
+          "word": "Vamos",
+          "start": 133.48,
+          "end": 134.38
+        },
+        {
+          "word": "pronto",
+          "start": 134.38,
+          "end": 135.4
+        },
+        {
+          "word": "si,",
+          "start": 135.4,
+          "end": 136.48
+        },
+        {
+          "word": "vamos",
+          "start": 136.48,
+          "end": 137.66
+        },
+        {
+          "word": "pronto",
+          "start": 137.66,
+          "end": 138.36
+        },
+        {
+          "word": "si",
+          "start": 138.36,
+          "end": 139.16
+        }
+      ],
+      "start": 133.48,
+      "end": 139.16,
+      "confidence": 1.0,
+      "time": 133.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "a cruzar el fiero mar;",
+      "words": [
+        {
+          "word": "A",
+          "start": 139.16,
+          "end": 139.8
+        },
+        {
+          "word": "cruzar",
+          "start": 139.8,
+          "end": 141.3
+        },
+        {
+          "word": "el",
+          "start": 141.3,
+          "end": 141.94
+        },
+        {
+          "word": "cielo",
+          "start": 141.94,
+          "end": 142.84
+        },
+        {
+          "word": "mar",
+          "start": 142.84,
+          "end": 144.74
+        }
+      ],
+      "start": 139.16,
+      "end": 144.74,
+      "confidence": 0.952,
+      "time": 139.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "tras la tempestad, nos veremos más alla;",
+      "words": [
+        {
+          "word": "Tras",
+          "start": 144.74,
+          "end": 145.5
+        },
+        {
+          "word": "la",
+          "start": 145.5,
+          "end": 146.26
+        },
+        {
+          "word": "tempestad",
+          "start": 146.26,
+          "end": 147.88
+        },
+        {
+          "word": "nos",
+          "start": 147.88,
+          "end": 148.42
+        },
+        {
+          "word": "veremos",
+          "start": 148.42,
+          "end": 149.46
+        },
+        {
+          "word": "más",
+          "start": 149.46,
+          "end": 149.96
+        },
+        {
+          "word": "allá,",
+          "start": 149.96,
+          "end": 151.92
+        }
+      ],
+      "start": 144.74,
+      "end": 151.92,
+      "confidence": 1.0,
+      "time": 144.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "vamos pronto a nuestro eterno hogar.",
+      "words": [
+        {
+          "word": "vamos",
+          "start": 152.46,
+          "end": 152.94
+        },
+        {
+          "word": "pronto",
+          "start": 152.94,
+          "end": 153.46
+        },
+        {
+          "word": "a",
+          "start": 153.46,
+          "end": 153.76
+        },
+        {
+          "word": "nuestro",
+          "start": 153.76,
+          "end": 154.32
+        },
+        {
+          "word": "eterno",
+          "start": 154.32,
+          "end": 156.44
+        },
+        {
+          "word": "hogar.",
+          "start": 156.44,
+          "end": 158.72
+        }
+      ],
+      "start": 152.46,
+      "end": 158.72,
+      "confidence": 1.0,
+      "time": 152.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Hay perfecta paz y reposo más allá,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Ay,",
+          "start": 159.3,
+          "end": 159.76
+        },
+        {
+          "word": "perfecta",
+          "start": 160.32,
+          "end": 161.46
+        },
+        {
+          "word": "paz",
+          "start": 161.46,
+          "end": 162.2
+        },
+        {
+          "word": "y",
+          "start": 162.2,
+          "end": 162.6
+        },
+        {
+          "word": "reposo",
+          "start": 162.6,
+          "end": 163.54
+        },
+        {
+          "word": "más",
+          "start": 163.54,
+          "end": 164.22
+        },
+        {
+          "word": "allá,",
+          "start": 164.22,
+          "end": 164.86
+        }
+      ],
+      "start": 159.3,
+      "end": 164.86,
+      "confidence": 0.983,
+      "time": 159.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "vamos pronto a nuestro eterno hogar;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "vamos",
+          "start": 165.46,
+          "end": 165.72
+        },
+        {
+          "word": "pronto",
+          "start": 165.72,
+          "end": 166.32
+        },
+        {
+          "word": "a",
+          "start": 166.32,
+          "end": 166.5
+        },
+        {
+          "word": "nuestro",
+          "start": 166.5,
+          "end": 167.14
+        },
+        {
+          "word": "eterno",
+          "start": 167.14,
+          "end": 168.82
+        },
+        {
+          "word": "hogar.",
+          "start": 168.82,
+          "end": 170.4
+        }
+      ],
+      "start": 165.46,
+      "end": 170.4,
+      "confidence": 1.0,
+      "time": 165.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "en la Tierra Nueva ya lágrimas no habrá,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "¡Ven",
+          "start": 170.4,
+          "end": 171.1
+        },
+        {
+          "word": "la",
+          "start": 171.1,
+          "end": 171.46
+        },
+        {
+          "word": "tierra",
+          "start": 171.46,
+          "end": 172.88
+        },
+        {
+          "word": "nueva,",
+          "start": 172.88,
+          "end": 173.86
+        },
+        {
+          "word": "ya",
+          "start": 174.26,
+          "end": 174.44
+        },
+        {
+          "word": "lágrimas",
+          "start": 174.44,
+          "end": 175.36
+        },
+        {
+          "word": "no",
+          "start": 175.36,
+          "end": 175.8
+        },
+        {
+          "word": "habrá!",
+          "start": 175.8,
+          "end": 176.34
+        }
+      ],
+      "start": 170.4,
+      "end": 176.74,
+      "confidence": 0.985,
+      "time": 170.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "vamos pronto a nuestro eterno hogar.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "¡Vamos",
+          "start": 176.74,
+          "end": 177.24
+        },
+        {
+          "word": "pronto",
+          "start": 177.24,
+          "end": 177.72
+        },
+        {
+          "word": "a",
+          "start": 177.72,
+          "end": 178.06
+        },
+        {
+          "word": "nuestro",
+          "start": 178.06,
+          "end": 178.52
+        },
+        {
+          "word": "eterno",
+          "start": 178.52,
+          "end": 180.94
+        },
+        {
+          "word": "lugar!",
+          "start": 180.94,
+          "end": 181.76
+        }
+      ],
+      "start": 176.74,
+      "end": 181.76,
+      "confidence": 0.96,
+      "time": 176.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Vamos pronto, sí, vamos pronto, sí,",
+      "words": [
+        {
+          "word": "¡Vamos",
+          "start": 185.1,
+          "end": 186.24
+        },
+        {
+          "word": "pronto",
+          "start": 186.24,
+          "end": 186.9
+        },
+        {
+          "word": "sí!",
+          "start": 186.9,
+          "end": 187.62
+        },
+        {
+          "word": "¡Vamos",
+          "start": 187.94,
+          "end": 188.9
+        },
+        {
+          "word": "pronto",
+          "start": 188.9,
+          "end": 189.2
+        },
+        {
+          "word": "sí!",
+          "start": 189.2,
+          "end": 189.2
+        }
+      ],
+      "start": 185.1,
+      "end": 189.2,
+      "confidence": 1.0,
+      "time": 185.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "a cruzar el fiero mar;",
+      "words": [
+        {
+          "word": "el",
+          "start": 189.2,
+          "end": 190.28
+        },
+        {
+          "word": "fiel",
+          "start": 190.28,
+          "end": 191.3
+        }
+      ],
+      "start": 189.2,
+      "end": 193.08,
+      "confidence": 0.36,
+      "time": 189.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "tras la tempestad, nos veremos más alla;",
+      "words": [
+        {
+          "word": "Puntas",
+          "start": 193.08,
+          "end": 194.08
+        },
+        {
+          "word": "la",
+          "start": 194.08,
+          "end": 194.7
+        },
+        {
+          "word": "tempestad",
+          "start": 194.7,
+          "end": 196.52
+        },
+        {
+          "word": "nos",
+          "start": 196.52,
+          "end": 197.06
+        },
+        {
+          "word": "veremos",
+          "start": 197.06,
+          "end": 198.22
+        },
+        {
+          "word": "más",
+          "start": 198.22,
+          "end": 198.62
+        },
+        {
+          "word": "allá.",
+          "start": 198.62,
+          "end": 200.9
+        }
+      ],
+      "start": 193.08,
+      "end": 200.9,
+      "confidence": 0.966,
+      "time": 193.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "vamos pronto a nuestro eterno hogar.",
+      "words": [
+        {
+          "word": "Vamos",
+          "start": 201.58,
+          "end": 202.14
+        },
+        {
+          "word": "pronto",
+          "start": 202.14,
+          "end": 202.76
+        },
+        {
+          "word": "a",
+          "start": 202.76,
+          "end": 203.12
+        },
+        {
+          "word": "nuestro",
+          "start": 203.12,
+          "end": 203.76
+        },
+        {
+          "word": "eterno",
+          "start": 203.76,
+          "end": 206.36
+        }
+      ],
+      "start": 201.58,
+      "end": 206.36,
+      "confidence": 0.833,
+      "time": 201.58
+    }
+  ]
+}

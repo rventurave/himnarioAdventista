@@ -1,0 +1,1040 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.858,
+  "language": "es",
+  "model": "medium",
+  "hymn": 604,
+  "source": "604 - Bellas las manitas son.mp3",
+  "duration": 178.08,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Bellas las manitas son",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Bellas",
+          "start": 12.84,
+          "end": 14.24
+        },
+        {
+          "word": "las",
+          "start": 14.24,
+          "end": 15.04
+        },
+        {
+          "word": "manitas",
+          "start": 15.04,
+          "end": 16.44
+        },
+        {
+          "word": "son",
+          "start": 16.44,
+          "end": 17.44
+        }
+      ],
+      "start": 12.84,
+      "end": 17.44,
+      "confidence": 1.0,
+      "time": 12.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que obedecen a Jesús;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Que",
+          "start": 17.44,
+          "end": 18.18
+        },
+        {
+          "word": "obedecen",
+          "start": 18.18,
+          "end": 19.96
+        },
+        {
+          "word": "al",
+          "start": 19.96,
+          "end": 20.76
+        },
+        {
+          "word": "Jesús",
+          "start": 20.76,
+          "end": 21.86
+        }
+      ],
+      "start": 17.44,
+      "end": 21.86,
+      "confidence": 0.95,
+      "time": 17.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "bellos ojos los que están",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Bellos",
+          "start": 21.86,
+          "end": 23.42
+        },
+        {
+          "word": "ojos",
+          "start": 23.42,
+          "end": 24.28
+        },
+        {
+          "word": "los",
+          "start": 24.28,
+          "end": 25.08
+        },
+        {
+          "word": "que",
+          "start": 25.08,
+          "end": 25.56
+        },
+        {
+          "word": "están,",
+          "start": 25.56,
+          "end": 26.36
+        }
+      ],
+      "start": 21.86,
+      "end": 26.92,
+      "confidence": 1.0,
+      "time": 21.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "llenos de célica luz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "llenos",
+          "start": 26.92,
+          "end": 27.34
+        },
+        {
+          "word": "de",
+          "start": 27.34,
+          "end": 27.8
+        },
+        {
+          "word": "caluz.",
+          "start": 28.48,
+          "end": 30.68
+        }
+      ],
+      "start": 26.92,
+      "end": 30.68,
+      "confidence": 0.712,
+      "time": 26.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Bellas, sí, bellas las manos son,",
+      "words": [
+        {
+          "word": "Bellas",
+          "start": 31.32,
+          "end": 32.02
+        },
+        {
+          "word": "bellas",
+          "start": 32.36,
+          "end": 32.98
+        },
+        {
+          "word": "las",
+          "start": 32.98,
+          "end": 33.52
+        },
+        {
+          "word": "manos",
+          "start": 33.52,
+          "end": 34.38
+        },
+        {
+          "word": "son,",
+          "start": 34.38,
+          "end": 35.22
+        }
+      ],
+      "start": 31.32,
+      "end": 35.86,
+      "confidence": 0.833,
+      "time": 31.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "que obedecen a Jesús;",
+      "words": [
+        {
+          "word": "que",
+          "start": 35.86,
+          "end": 36.32
+        },
+        {
+          "word": "obedecen",
+          "start": 36.32,
+          "end": 38.12
+        },
+        {
+          "word": "a",
+          "start": 38.12,
+          "end": 38.7
+        },
+        {
+          "word": "Jesús.",
+          "start": 38.7,
+          "end": 39.7
+        }
+      ],
+      "start": 35.86,
+      "end": 39.7,
+      "confidence": 1.0,
+      "time": 35.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "bellos, los ojos que siempre están",
+      "words": [
+        {
+          "word": "Bellos",
+          "start": 40.32,
+          "end": 41.02
+        },
+        {
+          "word": "los",
+          "start": 41.02,
+          "end": 41.4
+        },
+        {
+          "word": "ojos",
+          "start": 41.4,
+          "end": 41.9
+        },
+        {
+          "word": "que",
+          "start": 41.9,
+          "end": 42.4
+        },
+        {
+          "word": "siempre",
+          "start": 42.4,
+          "end": 43.32
+        },
+        {
+          "word": "están,",
+          "start": 43.32,
+          "end": 44.26
+        }
+      ],
+      "start": 40.32,
+      "end": 44.94,
+      "confidence": 1.0,
+      "time": 40.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "llenos de célica luz.",
+      "words": [
+        {
+          "word": "llenos",
+          "start": 44.94,
+          "end": 45.32
+        },
+        {
+          "word": "de",
+          "start": 45.32,
+          "end": 45.86
+        },
+        {
+          "word": "caluz.",
+          "start": 46.5,
+          "end": 49.2
+        }
+      ],
+      "start": 44.94,
+      "end": 49.2,
+      "confidence": 0.712,
+      "time": 44.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Hizo las manitas Dios,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "las",
+          "start": 52.4,
+          "end": 53.38
+        },
+        {
+          "word": "manitas,",
+          "start": 53.38,
+          "end": 54.72
+        },
+        {
+          "word": "Dios,",
+          "start": 55.56,
+          "end": 55.56
+        }
+      ],
+      "start": 52.4,
+      "end": 56.3,
+      "confidence": 0.75,
+      "time": 52.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "porque a él podrán servir;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "porque",
+          "start": 56.3,
+          "end": 56.76
+        },
+        {
+          "word": "a",
+          "start": 56.76,
+          "end": 57.28
+        },
+        {
+          "word": "él",
+          "start": 57.28,
+          "end": 57.66
+        },
+        {
+          "word": "podrá",
+          "start": 57.66,
+          "end": 58.82
+        },
+        {
+          "word": "servir,",
+          "start": 58.82,
+          "end": 59.94
+        }
+      ],
+      "start": 56.3,
+      "end": 59.94,
+      "confidence": 0.988,
+      "time": 56.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hizo al tierno corazón",
+      "verse": 2,
+      "words": [
+        {
+          "word": "corazón,",
+          "start": 62.66,
+          "end": 64.38
+        }
+      ],
+      "start": 62.66,
+      "end": 65.08,
+      "confidence": 0.25,
+      "time": 62.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en su servicio latir.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 65.08,
+          "end": 65.3
+        },
+        {
+          "word": "su",
+          "start": 65.3,
+          "end": 65.62
+        },
+        {
+          "word": "servicio",
+          "start": 65.62,
+          "end": 66.54
+        },
+        {
+          "word": "la",
+          "start": 66.54,
+          "end": 67.26
+        }
+      ],
+      "start": 65.08,
+      "end": 68.18,
+      "confidence": 0.985,
+      "time": 65.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Bellas, sí, bellas las manos son,",
+      "words": [
+        {
+          "word": "Bellas",
+          "start": 69.4,
+          "end": 70.06
+        },
+        {
+          "word": "bellas",
+          "start": 70.58,
+          "end": 71.18
+        },
+        {
+          "word": "las",
+          "start": 71.18,
+          "end": 71.72
+        },
+        {
+          "word": "manos",
+          "start": 71.72,
+          "end": 72.66
+        },
+        {
+          "word": "son,",
+          "start": 72.66,
+          "end": 73.56
+        }
+      ],
+      "start": 69.4,
+      "end": 74.48,
+      "confidence": 0.833,
+      "time": 69.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "que obedecen a Jesús;",
+      "words": [
+        {
+          "word": "que",
+          "start": 74.48,
+          "end": 74.48
+        },
+        {
+          "word": "obedece",
+          "start": 74.48,
+          "end": 76.06
+        },
+        {
+          "word": "la",
+          "start": 76.06,
+          "end": 76.76
+        },
+        {
+          "word": "Jesús,",
+          "start": 76.76,
+          "end": 77.88
+        }
+      ],
+      "start": 74.48,
+      "end": 77.88,
+      "confidence": 0.935,
+      "time": 74.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "bellos, los ojos que siempre están",
+      "words": [
+        {
+          "word": "los",
+          "start": 79.14,
+          "end": 79.44
+        },
+        {
+          "word": "ojos",
+          "start": 79.44,
+          "end": 80.1
+        },
+        {
+          "word": "que",
+          "start": 80.1,
+          "end": 80.6
+        },
+        {
+          "word": "siempre",
+          "start": 80.6,
+          "end": 81.62
+        },
+        {
+          "word": "están",
+          "start": 81.62,
+          "end": 82.64
+        }
+      ],
+      "start": 79.14,
+      "end": 82.64,
+      "confidence": 0.833,
+      "time": 79.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "llenos de célica luz.",
+      "words": [
+        {
+          "word": "llenos",
+          "start": 82.64,
+          "end": 83.58
+        },
+        {
+          "word": "de",
+          "start": 83.58,
+          "end": 84.14
+        }
+      ],
+      "start": 82.64,
+      "end": 87.4,
+      "confidence": 0.5,
+      "time": 82.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Toda boca debe orar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Toda",
+          "start": 89.72,
+          "end": 90.92
+        },
+        {
+          "word": "boca",
+          "start": 90.92,
+          "end": 91.8
+        },
+        {
+          "word": "de",
+          "start": 91.8,
+          "end": 92.7
+        },
+        {
+          "word": "lorar,",
+          "start": 92.7,
+          "end": 94.04
+        }
+      ],
+      "start": 89.72,
+      "end": 94.88,
+      "confidence": 0.968,
+      "time": 89.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "cada día al Salvador,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "cada",
+          "start": 94.88,
+          "end": 95.38
+        },
+        {
+          "word": "día",
+          "start": 95.38,
+          "end": 96.06
+        },
+        {
+          "word": "Salvador,",
+          "start": 96.72,
+          "end": 97.7
+        }
+      ],
+      "start": 94.88,
+      "end": 97.7,
+      "confidence": 0.75,
+      "time": 94.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y los pies habrán de andar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 98.74,
+          "end": 99.46
+        },
+        {
+          "word": "los",
+          "start": 99.46,
+          "end": 99.92
+        },
+        {
+          "word": "pies",
+          "start": 99.92,
+          "end": 100.46
+        },
+        {
+          "word": "habrán",
+          "start": 100.46,
+          "end": 101.62
+        },
+        {
+          "word": "de",
+          "start": 101.62,
+          "end": 101.96
+        },
+        {
+          "word": "andar",
+          "start": 101.96,
+          "end": 102.84
+        }
+      ],
+      "start": 98.74,
+      "end": 102.84,
+      "confidence": 1.0,
+      "time": 98.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "siempre siguiendo al Señor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "siempre",
+          "start": 102.84,
+          "end": 103.74
+        },
+        {
+          "word": "siguiendo",
+          "start": 103.74,
+          "end": 104.68
+        },
+        {
+          "word": "al",
+          "start": 104.68,
+          "end": 105.02
+        },
+        {
+          "word": "Señor.",
+          "start": 105.02,
+          "end": 107.06
+        }
+      ],
+      "start": 102.84,
+      "end": 107.06,
+      "confidence": 1.0,
+      "time": 102.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Bellas, sí, bellas las manos son,",
+      "words": [
+        {
+          "word": "Bellas",
+          "start": 107.06,
+          "end": 108.4
+        },
+        {
+          "word": "bellas",
+          "start": 108.86,
+          "end": 109.48
+        },
+        {
+          "word": "las",
+          "start": 109.48,
+          "end": 110.06
+        },
+        {
+          "word": "manos",
+          "start": 110.06,
+          "end": 110.9
+        },
+        {
+          "word": "son,",
+          "start": 110.9,
+          "end": 111.98
+        }
+      ],
+      "start": 107.06,
+      "end": 112.46,
+      "confidence": 0.833,
+      "time": 107.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "que obedecen a Jesús;",
+      "words": [
+        {
+          "word": "que",
+          "start": 112.46,
+          "end": 112.82
+        },
+        {
+          "word": "obedecerá",
+          "start": 112.82,
+          "end": 115.14
+        },
+        {
+          "word": "Jesús,",
+          "start": 115.14,
+          "end": 116.26
+        }
+      ],
+      "start": 112.46,
+      "end": 117.36,
+      "confidence": 0.724,
+      "time": 112.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "bellos, los ojos que siempre están",
+      "words": [
+        {
+          "word": "los",
+          "start": 117.36,
+          "end": 117.8
+        },
+        {
+          "word": "ojos",
+          "start": 117.8,
+          "end": 118.42
+        },
+        {
+          "word": "que",
+          "start": 118.42,
+          "end": 118.88
+        },
+        {
+          "word": "siempre",
+          "start": 118.88,
+          "end": 119.88
+        },
+        {
+          "word": "están,",
+          "start": 119.88,
+          "end": 120.9
+        }
+      ],
+      "start": 117.36,
+      "end": 121.16,
+      "confidence": 0.833,
+      "time": 117.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "llenos de célica luz.",
+      "words": [
+        {
+          "word": "llenos",
+          "start": 121.16,
+          "end": 121.86
+        },
+        {
+          "word": "de",
+          "start": 121.86,
+          "end": 122.38
+        },
+        {
+          "word": "caluz.",
+          "start": 123.0,
+          "end": 125.76
+        }
+      ],
+      "start": 121.16,
+      "end": 125.76,
+      "confidence": 0.712,
+      "time": 121.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Cuanto puedas tú hacer,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Cuanto",
+          "start": 125.76,
+          "end": 127.8
+        },
+        {
+          "word": "puedas",
+          "start": 127.8,
+          "end": 129.12
+        },
+        {
+          "word": "tú",
+          "start": 129.12,
+          "end": 129.9
+        },
+        {
+          "word": "hacer,",
+          "start": 129.9,
+          "end": 130.98
+        }
+      ],
+      "start": 125.76,
+      "end": 131.82,
+      "confidence": 1.0,
+      "time": 125.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Cristo te lo exigirá;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 131.82,
+          "end": 132.14
+        },
+        {
+          "word": "te",
+          "start": 132.14,
+          "end": 133.08
+        },
+        {
+          "word": "lo",
+          "start": 133.08,
+          "end": 133.46
+        },
+        {
+          "word": "exigirá,",
+          "start": 133.46,
+          "end": 135.62
+        }
+      ],
+      "start": 131.82,
+      "end": 136.36,
+      "confidence": 1.0,
+      "time": 131.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "haz de ello tu placer",
+      "verse": 4,
+      "words": [
+        {
+          "word": "haz",
+          "start": 136.36,
+          "end": 136.74
+        },
+        {
+          "word": "de",
+          "start": 136.74,
+          "end": 137.54
+        },
+        {
+          "word": "ello",
+          "start": 137.54,
+          "end": 137.94
+        },
+        {
+          "word": "tu",
+          "start": 137.94,
+          "end": 138.62
+        },
+        {
+          "word": "placer",
+          "start": 138.62,
+          "end": 139.96
+        }
+      ],
+      "start": 136.36,
+      "end": 139.96,
+      "confidence": 1.0,
+      "time": 136.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "con el poder que él te da.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "con",
+          "start": 139.96,
+          "end": 140.74
+        },
+        {
+          "word": "el",
+          "start": 140.74,
+          "end": 141.12
+        },
+        {
+          "word": "poder",
+          "start": 141.12,
+          "end": 141.62
+        },
+        {
+          "word": "que",
+          "start": 141.62,
+          "end": 142.0
+        },
+        {
+          "word": "él",
+          "start": 142.0,
+          "end": 142.22
+        },
+        {
+          "word": "te",
+          "start": 142.22,
+          "end": 142.66
+        },
+        {
+          "word": "da.",
+          "start": 142.66,
+          "end": 144.26
+        }
+      ],
+      "start": 139.96,
+      "end": 144.26,
+      "confidence": 1.0,
+      "time": 139.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Bellas, sí, bellas las manos son,",
+      "words": [
+        {
+          "word": "Bellas",
+          "start": 144.26,
+          "end": 145.62
+        },
+        {
+          "word": "bellas",
+          "start": 146.0,
+          "end": 146.6
+        },
+        {
+          "word": "las",
+          "start": 146.6,
+          "end": 147.18
+        },
+        {
+          "word": "manos",
+          "start": 147.18,
+          "end": 147.98
+        },
+        {
+          "word": "son,",
+          "start": 147.98,
+          "end": 148.94
+        }
+      ],
+      "start": 144.26,
+      "end": 149.42,
+      "confidence": 0.833,
+      "time": 144.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "que obedecen a Jesús;",
+      "words": [
+        {
+          "word": "que",
+          "start": 149.42,
+          "end": 149.92
+        },
+        {
+          "word": "obedecerá",
+          "start": 149.92,
+          "end": 152.22
+        },
+        {
+          "word": "Jesús,",
+          "start": 152.22,
+          "end": 153.28
+        }
+      ],
+      "start": 149.42,
+      "end": 154.44,
+      "confidence": 0.724,
+      "time": 149.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "bellos, los ojos que siempre están",
+      "words": [
+        {
+          "word": "los",
+          "start": 154.44,
+          "end": 154.82
+        },
+        {
+          "word": "ojos",
+          "start": 154.82,
+          "end": 155.5
+        },
+        {
+          "word": "que",
+          "start": 155.5,
+          "end": 156.0
+        },
+        {
+          "word": "siempre",
+          "start": 156.0,
+          "end": 157.0
+        },
+        {
+          "word": "están,",
+          "start": 157.0,
+          "end": 157.92
+        }
+      ],
+      "start": 154.44,
+      "end": 158.44,
+      "confidence": 0.833,
+      "time": 154.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "llenos de célica luz.",
+      "words": [
+        {
+          "word": "llenos",
+          "start": 158.44,
+          "end": 159.0
+        },
+        {
+          "word": "de",
+          "start": 159.0,
+          "end": 159.44
+        },
+        {
+          "word": "caluz.",
+          "start": 160.26,
+          "end": 161.58
+        }
+      ],
+      "start": 158.44,
+      "end": 161.58,
+      "confidence": 0.712,
+      "time": 158.44
+    }
+  ]
+}

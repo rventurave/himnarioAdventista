@@ -1,0 +1,759 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.941,
+  "language": "es",
+  "model": "medium",
+  "hymn": 590,
+  "source": "590 - Guia a ti, Senor.mp3",
+  "duration": 200.99,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Guía a ti, Señor, guía a ti",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Música",
+          "start": 1.52,
+          "end": 2.92
+        },
+        {
+          "word": "ti",
+          "start": 20.96,
+          "end": 22.36
+        },
+        {
+          "word": "Señor,",
+          "start": 22.36,
+          "end": 24.26
+        },
+        {
+          "word": "ti",
+          "start": 26.0,
+          "end": 29.26
+        }
+      ],
+      "start": 1.52,
+      "end": 29.26,
+      "confidence": 0.537,
+      "time": 1.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "los hijos tiernos que me has dado a mí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "los",
+          "start": 29.26,
+          "end": 31.02
+        },
+        {
+          "word": "hijos",
+          "start": 31.02,
+          "end": 32.52
+        },
+        {
+          "word": "tiernos",
+          "start": 32.52,
+          "end": 33.92
+        },
+        {
+          "word": "que",
+          "start": 33.92,
+          "end": 35.32
+        },
+        {
+          "word": "me",
+          "start": 35.32,
+          "end": 35.92
+        },
+        {
+          "word": "has",
+          "start": 35.92,
+          "end": 36.74
+        },
+        {
+          "word": "dado",
+          "start": 36.74,
+          "end": 37.76
+        },
+        {
+          "word": "a",
+          "start": 37.76,
+          "end": 38.38
+        },
+        {
+          "word": "mí.",
+          "start": 38.38,
+          "end": 40.36
+        }
+      ],
+      "start": 29.26,
+      "end": 40.36,
+      "confidence": 1.0,
+      "time": 29.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh, por tu grande amor, guíalos, Dios, a ti!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 40.6,
+          "end": 42.0
+        },
+        {
+          "word": "por",
+          "start": 42.12,
+          "end": 43.04
+        },
+        {
+          "word": "tu",
+          "start": 43.04,
+          "end": 43.6
+        },
+        {
+          "word": "grande",
+          "start": 43.6,
+          "end": 44.66
+        },
+        {
+          "word": "amor",
+          "start": 44.66,
+          "end": 46.1
+        },
+        {
+          "word": "guía",
+          "start": 46.1,
+          "end": 48.56
+        },
+        {
+          "word": "Dios",
+          "start": 49.14,
+          "end": 50.04
+        },
+        {
+          "word": "a",
+          "start": 50.04,
+          "end": 50.68
+        },
+        {
+          "word": "ti,",
+          "start": 50.68,
+          "end": 51.52
+        }
+      ],
+      "start": 40.6,
+      "end": 51.52,
+      "confidence": 0.993,
+      "time": 40.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Guíalos, Dios, a ti,",
+      "words": [
+        {
+          "word": "Guía",
+          "start": 51.52,
+          "end": 53.78
+        },
+        {
+          "word": "dios",
+          "start": 54.62,
+          "end": 55.64
+        },
+        {
+          "word": "a",
+          "start": 55.64,
+          "end": 56.24
+        },
+        {
+          "word": "ti,",
+          "start": 56.24,
+          "end": 57.52
+        }
+      ],
+      "start": 51.52,
+      "end": 57.56,
+      "confidence": 0.985,
+      "time": 51.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "guíalos, sí.",
+      "words": [
+        {
+          "word": "guía",
+          "start": 57.56,
+          "end": 59.72
+        },
+        {
+          "word": "sí,",
+          "start": 60.68,
+          "end": 62.48
+        }
+      ],
+      "start": 57.56,
+      "end": 62.48,
+      "confidence": 0.97,
+      "time": 57.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cuando del mundo vean el esplendor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 63.16,
+          "end": 64.66
+        },
+        {
+          "word": "del",
+          "start": 64.66,
+          "end": 65.82
+        },
+        {
+          "word": "mundo",
+          "start": 65.82,
+          "end": 67.1
+        },
+        {
+          "word": "vean",
+          "start": 67.1,
+          "end": 69.68
+        },
+        {
+          "word": "el",
+          "start": 69.68,
+          "end": 70.88
+        },
+        {
+          "word": "esplendor,",
+          "start": 70.88,
+          "end": 73.92
+        }
+      ],
+      "start": 63.16,
+      "end": 73.92,
+      "confidence": 1.0,
+      "time": 63.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "entonces guárdalos del tentador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Entonces",
+          "start": 73.92,
+          "end": 76.68
+        },
+        {
+          "word": "guarda",
+          "start": 76.68,
+          "end": 78.4
+        },
+        {
+          "word": "del",
+          "start": 79.76,
+          "end": 81.14
+        },
+        {
+          "word": "tentador",
+          "start": 81.14,
+          "end": 84.94
+        }
+      ],
+      "start": 73.92,
+      "end": 84.94,
+      "confidence": 0.985,
+      "time": 73.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "De sus engaños ¡oh, guíalos, Dios, a ti!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 84.94,
+          "end": 86.74
+        },
+        {
+          "word": "sus",
+          "start": 86.74,
+          "end": 87.72
+        },
+        {
+          "word": "engaños",
+          "start": 87.72,
+          "end": 89.62
+        },
+        {
+          "word": "o",
+          "start": 89.62,
+          "end": 91.38
+        },
+        {
+          "word": "guía",
+          "start": 91.38,
+          "end": 92.88
+        },
+        {
+          "word": "dios",
+          "start": 93.6,
+          "end": 94.62
+        },
+        {
+          "word": "a",
+          "start": 94.62,
+          "end": 95.18
+        },
+        {
+          "word": "ti,",
+          "start": 95.18,
+          "end": 95.88
+        }
+      ],
+      "start": 84.94,
+      "end": 95.88,
+      "confidence": 0.968,
+      "time": 84.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Guíalos, Dios, a ti,",
+      "words": [
+        {
+          "word": "Guía",
+          "start": 95.88,
+          "end": 98.58
+        },
+        {
+          "word": "Dios",
+          "start": 99.1,
+          "end": 99.96
+        },
+        {
+          "word": "a",
+          "start": 99.96,
+          "end": 100.7
+        },
+        {
+          "word": "ti,",
+          "start": 100.7,
+          "end": 101.96
+        }
+      ],
+      "start": 95.88,
+      "end": 101.98,
+      "confidence": 0.985,
+      "time": 95.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "guíalos, sí.",
+      "words": [
+        {
+          "word": "guía",
+          "start": 101.98,
+          "end": 104.24
+        }
+      ],
+      "start": 101.98,
+      "end": 106.38,
+      "confidence": 0.47,
+      "time": 101.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Los niños a salvar vino Jesús,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Los",
+          "start": 106.38,
+          "end": 108.84
+        },
+        {
+          "word": "niños",
+          "start": 108.84,
+          "end": 110.16
+        },
+        {
+          "word": "a",
+          "start": 110.16,
+          "end": 111.12
+        },
+        {
+          "word": "salvar",
+          "start": 111.12,
+          "end": 112.98
+        },
+        {
+          "word": "vino",
+          "start": 112.98,
+          "end": 114.84
+        },
+        {
+          "word": "Jesús",
+          "start": 114.84,
+          "end": 117.32
+        }
+      ],
+      "start": 106.38,
+      "end": 117.32,
+      "confidence": 1.0,
+      "time": 106.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y anduvo sin pecar hasta la cruz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Ya",
+          "start": 117.32,
+          "end": 119.78
+        },
+        {
+          "word": "anduvo",
+          "start": 119.78,
+          "end": 121.32
+        },
+        {
+          "word": "sin",
+          "start": 121.32,
+          "end": 122.26
+        },
+        {
+          "word": "pecar",
+          "start": 122.26,
+          "end": 124.7
+        },
+        {
+          "word": "hasta",
+          "start": 124.7,
+          "end": 126.5
+        },
+        {
+          "word": "la",
+          "start": 126.5,
+          "end": 127.22
+        },
+        {
+          "word": "cruz",
+          "start": 127.22,
+          "end": 129.32
+        }
+      ],
+      "start": 117.32,
+      "end": 129.32,
+      "confidence": 0.971,
+      "time": 117.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Suplico por tu amor: ¡guíalos, Dios, a ti!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Suplico",
+          "start": 131.0,
+          "end": 132.4
+        },
+        {
+          "word": "por",
+          "start": 132.4,
+          "end": 133.38
+        },
+        {
+          "word": "tu",
+          "start": 133.38,
+          "end": 133.8
+        },
+        {
+          "word": "amor,",
+          "start": 133.8,
+          "end": 135.08
+        },
+        {
+          "word": "guía",
+          "start": 136.08,
+          "end": 137.4
+        },
+        {
+          "word": "Dios",
+          "start": 138.06,
+          "end": 138.9
+        },
+        {
+          "word": "a",
+          "start": 138.9,
+          "end": 139.52
+        },
+        {
+          "word": "ti,",
+          "start": 139.52,
+          "end": 140.46
+        }
+      ],
+      "start": 131.0,
+      "end": 140.64,
+      "confidence": 0.993,
+      "time": 131.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Guíalos, Dios, a ti,",
+      "words": [
+        {
+          "word": "guía",
+          "start": 140.64,
+          "end": 142.94
+        },
+        {
+          "word": "Dios",
+          "start": 143.5,
+          "end": 144.42
+        },
+        {
+          "word": "a",
+          "start": 144.42,
+          "end": 145.12
+        },
+        {
+          "word": "ti,",
+          "start": 145.12,
+          "end": 146.3
+        }
+      ],
+      "start": 140.64,
+      "end": 146.36,
+      "confidence": 0.985,
+      "time": 140.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "guíalos, sí.",
+      "words": [
+        {
+          "word": "guía",
+          "start": 146.36,
+          "end": 148.36
+        },
+        {
+          "word": "sí.",
+          "start": 149.52,
+          "end": 150.94
+        }
+      ],
+      "start": 146.36,
+      "end": 150.94,
+      "confidence": 0.97,
+      "time": 146.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Aunque me falte fe quiero creer",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Aunque",
+          "start": 150.94,
+          "end": 153.54
+        },
+        {
+          "word": "me",
+          "start": 153.54,
+          "end": 154.78
+        },
+        {
+          "word": "falte",
+          "start": 154.78,
+          "end": 156.16
+        },
+        {
+          "word": "fe",
+          "start": 156.16,
+          "end": 157.5
+        },
+        {
+          "word": "quiero",
+          "start": 157.5,
+          "end": 159.32
+        },
+        {
+          "word": "creer",
+          "start": 159.32,
+          "end": 163.1
+        }
+      ],
+      "start": 150.94,
+      "end": 163.1,
+      "confidence": 1.0,
+      "time": 150.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "que este precioso don quieres tener:",
+      "verse": 4,
+      "words": [
+        {
+          "word": "que",
+          "start": 163.1,
+          "end": 164.44
+        },
+        {
+          "word": "este",
+          "start": 164.44,
+          "end": 165.4
+        },
+        {
+          "word": "precioso",
+          "start": 165.4,
+          "end": 167.3
+        },
+        {
+          "word": "don",
+          "start": 167.3,
+          "end": 168.56
+        },
+        {
+          "word": "quieres",
+          "start": 168.56,
+          "end": 170.9
+        },
+        {
+          "word": "tener",
+          "start": 170.9,
+          "end": 173.62
+        }
+      ],
+      "start": 163.1,
+      "end": 173.62,
+      "confidence": 1.0,
+      "time": 163.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "tiernos de corazón, hoy los devuelvo a ti.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Piernos",
+          "start": 173.62,
+          "end": 176.4
+        },
+        {
+          "word": "de",
+          "start": 176.4,
+          "end": 177.28
+        },
+        {
+          "word": "corazón,",
+          "start": 177.28,
+          "end": 179.42
+        },
+        {
+          "word": "hoy",
+          "start": 179.8,
+          "end": 181.06
+        },
+        {
+          "word": "los",
+          "start": 181.06,
+          "end": 182.24
+        },
+        {
+          "word": "devuelvo",
+          "start": 182.24,
+          "end": 183.9
+        },
+        {
+          "word": "a",
+          "start": 183.9,
+          "end": 184.16
+        },
+        {
+          "word": "ti,",
+          "start": 184.16,
+          "end": 185.32
+        }
+      ],
+      "start": 173.62,
+      "end": 186.36,
+      "confidence": 0.989,
+      "time": 173.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Guíalos, Dios, a ti,",
+      "words": [
+        {
+          "word": "guíalos",
+          "start": 186.36,
+          "end": 188.1
+        },
+        {
+          "word": "Dios",
+          "start": 188.1,
+          "end": 188.94
+        },
+        {
+          "word": "a",
+          "start": 188.94,
+          "end": 189.74
+        },
+        {
+          "word": "ti,",
+          "start": 189.74,
+          "end": 190.78
+        }
+      ],
+      "start": 186.36,
+      "end": 192.14,
+      "confidence": 1.0,
+      "time": 186.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "guíalos, sí.",
+      "words": [
+        {
+          "word": "guíalos",
+          "start": 192.14,
+          "end": 194.78
+        }
+      ],
+      "start": 192.14,
+      "end": 195.7,
+      "confidence": 0.5,
+      "time": 192.14
+    }
+  ]
+}

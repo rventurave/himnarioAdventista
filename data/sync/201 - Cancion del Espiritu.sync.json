@@ -1,0 +1,612 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.811,
+  "language": "es",
+  "model": "medium",
+  "hymn": 201,
+  "source": "201 - Cancion del Espiritu.mp3",
+  "duration": 186.75,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Oh, deja que el Señor te envuelva",
+      "verse": 1,
+      "words": [
+        {
+          "word": "O",
+          "start": 8.38,
+          "end": 9.78
+        },
+        {
+          "word": "deja",
+          "start": 9.78,
+          "end": 10.8
+        },
+        {
+          "word": "que",
+          "start": 10.8,
+          "end": 12.1
+        },
+        {
+          "word": "el",
+          "start": 12.1,
+          "end": 12.22
+        },
+        {
+          "word": "Señor",
+          "start": 12.22,
+          "end": 13.28
+        },
+        {
+          "word": "te",
+          "start": 13.28,
+          "end": 13.74
+        },
+        {
+          "word": "envuelva",
+          "start": 13.74,
+          "end": 15.44
+        }
+      ],
+      "start": 8.38,
+      "end": 15.44,
+      "confidence": 0.971,
+      "time": 8.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con su Espíritu de amor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "con",
+          "start": 15.44,
+          "end": 16.0
+        },
+        {
+          "word": "su",
+          "start": 16.0,
+          "end": 16.34
+        },
+        {
+          "word": "espíritu",
+          "start": 16.34,
+          "end": 18.68
+        },
+        {
+          "word": "de",
+          "start": 18.68,
+          "end": 19.16
+        },
+        {
+          "word": "amor.",
+          "start": 19.16,
+          "end": 20.68
+        }
+      ],
+      "start": 15.44,
+      "end": 21.64,
+      "confidence": 1.0,
+      "time": 15.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "satisfaga hoy tu alma y corazón.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Satisfaga",
+          "start": 21.64,
+          "end": 23.04
+        },
+        {
+          "word": "hoy",
+          "start": 23.04,
+          "end": 24.04
+        },
+        {
+          "word": "tu",
+          "start": 24.04,
+          "end": 24.54
+        },
+        {
+          "word": "alma",
+          "start": 24.54,
+          "end": 25.24
+        },
+        {
+          "word": "y",
+          "start": 25.24,
+          "end": 25.92
+        },
+        {
+          "word": "corazón.",
+          "start": 25.92,
+          "end": 28.16
+        }
+      ],
+      "start": 21.64,
+      "end": 28.16,
+      "confidence": 1.0,
+      "time": 21.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Entrégale lo que él te indique,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Entrégale",
+          "start": 31.88,
+          "end": 33.28
+        },
+        {
+          "word": "lo",
+          "start": 33.28,
+          "end": 33.82
+        },
+        {
+          "word": "que",
+          "start": 33.82,
+          "end": 34.7
+        },
+        {
+          "word": "te",
+          "start": 34.7,
+          "end": 35.1
+        },
+        {
+          "word": "indique",
+          "start": 35.1,
+          "end": 36.48
+        }
+      ],
+      "start": 31.88,
+      "end": 36.48,
+      "confidence": 0.833,
+      "time": 31.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y su Espíritu vendrá",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 36.48,
+          "end": 37.36
+        },
+        {
+          "word": "su",
+          "start": 37.36,
+          "end": 37.66
+        },
+        {
+          "word": "espíritu",
+          "start": 37.66,
+          "end": 40.06
+        },
+        {
+          "word": "vendrá,",
+          "start": 40.06,
+          "end": 42.14
+        }
+      ],
+      "start": 36.48,
+      "end": 42.4,
+      "confidence": 1.0,
+      "time": 36.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "sobre ti y vida nueva te dará.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sobre",
+          "start": 42.4,
+          "end": 42.98
+        },
+        {
+          "word": "ti",
+          "start": 42.98,
+          "end": 44.4
+        },
+        {
+          "word": "danueva",
+          "start": 45.18,
+          "end": 47.04
+        },
+        {
+          "word": "te",
+          "start": 47.04,
+          "end": 47.92
+        },
+        {
+          "word": "dará.",
+          "start": 47.92,
+          "end": 51.14
+        }
+      ],
+      "start": 42.4,
+      "end": 51.14,
+      "confidence": 0.7,
+      "time": 42.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cristo, ¡oh, Cristo!",
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 59.76,
+          "end": 61.16
+        },
+        {
+          "word": "Cristo,",
+          "start": 61.16,
+          "end": 62.56
+        }
+      ],
+      "start": 59.76,
+      "end": 64.48,
+      "confidence": 0.667,
+      "time": 59.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Ven y llénanos.",
+      "words": [
+        {
+          "word": "venid",
+          "start": 64.48,
+          "end": 67.28
+        }
+      ],
+      "start": 64.48,
+      "end": 72.48,
+      "confidence": 0.313,
+      "time": 64.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cristo, ¡oh, Cristo!",
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 80.54,
+          "end": 81.94
+        },
+        {
+          "word": "Cristo,",
+          "start": 81.94,
+          "end": 83.34
+        }
+      ],
+      "start": 80.54,
+      "end": 85.76,
+      "confidence": 0.667,
+      "time": 80.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Llénanos de ti.",
+      "words": [
+        {
+          "word": "llévanos",
+          "start": 85.76,
+          "end": 90.4
+        },
+        {
+          "word": "de",
+          "start": 90.4,
+          "end": 91.3
+        },
+        {
+          "word": "ti.",
+          "start": 91.3,
+          "end": 94.1
+        }
+      ],
+      "start": 85.76,
+      "end": 94.1,
+      "confidence": 0.975,
+      "time": 85.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Alzamos nuestra voz con gozo,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Alzamos",
+          "start": 94.1,
+          "end": 96.74
+        },
+        {
+          "word": "nuestra",
+          "start": 96.74,
+          "end": 97.92
+        },
+        {
+          "word": "voz",
+          "start": 97.92,
+          "end": 98.98
+        },
+        {
+          "word": "con",
+          "start": 98.98,
+          "end": 99.52
+        },
+        {
+          "word": "gozo,",
+          "start": 99.52,
+          "end": 101.1
+        }
+      ],
+      "start": 94.1,
+      "end": 101.66,
+      "confidence": 1.0,
+      "time": 94.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "nuestra alabanza a ti;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "nuestra",
+          "start": 101.66,
+          "end": 102.02
+        },
+        {
+          "word": "alabanza",
+          "start": 102.02,
+          "end": 104.72
+        }
+      ],
+      "start": 101.66,
+      "end": 106.56,
+      "confidence": 0.5,
+      "time": 101.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con dulzura te entregamos nuestro ser.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "con",
+          "start": 106.56,
+          "end": 106.98
+        },
+        {
+          "word": "dulzura",
+          "start": 106.98,
+          "end": 108.6
+        },
+        {
+          "word": "te",
+          "start": 108.6,
+          "end": 109.76
+        },
+        {
+          "word": "entregamos",
+          "start": 109.76,
+          "end": 111.36
+        },
+        {
+          "word": "nuestro",
+          "start": 111.36,
+          "end": 112.38
+        },
+        {
+          "word": "ser.",
+          "start": 112.38,
+          "end": 115.28
+        }
+      ],
+      "start": 106.56,
+      "end": 115.28,
+      "confidence": 1.0,
+      "time": 106.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Entrega toda tu tristeza",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Entrega",
+          "start": 116.72,
+          "end": 118.12
+        },
+        {
+          "word": "toda",
+          "start": 118.12,
+          "end": 119.26
+        },
+        {
+          "word": "tu",
+          "start": 119.26,
+          "end": 120.34
+        },
+        {
+          "word": "tristeza",
+          "start": 120.34,
+          "end": 122.48
+        }
+      ],
+      "start": 116.72,
+      "end": 122.48,
+      "confidence": 1.0,
+      "time": 116.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en el nombre de Jesús,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 122.48,
+          "end": 123.2
+        },
+        {
+          "word": "el",
+          "start": 123.2,
+          "end": 123.64
+        },
+        {
+          "word": "nombre",
+          "start": 123.64,
+          "end": 124.68
+        },
+        {
+          "word": "de",
+          "start": 124.68,
+          "end": 125.98
+        },
+        {
+          "word": "Jesucristo",
+          "start": 125.98,
+          "end": 127.38
+        }
+      ],
+      "start": 122.48,
+      "end": 127.38,
+      "confidence": 0.96,
+      "time": 122.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y abundante vida hoy tendrás en él.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 127.38,
+          "end": 128.3
+        },
+        {
+          "word": "abundante",
+          "start": 128.3,
+          "end": 130.02
+        },
+        {
+          "word": "vida",
+          "start": 130.02,
+          "end": 131.28
+        },
+        {
+          "word": "hoy",
+          "start": 131.28,
+          "end": 132.34
+        },
+        {
+          "word": "tendrás",
+          "start": 132.34,
+          "end": 133.74
+        },
+        {
+          "word": "en",
+          "start": 133.74,
+          "end": 134.36
+        },
+        {
+          "word": "él.",
+          "start": 134.36,
+          "end": 137.62
+        }
+      ],
+      "start": 127.38,
+      "end": 137.62,
+      "confidence": 1.0,
+      "time": 127.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cristo, ¡oh, Cristo!",
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 145.5,
+          "end": 146.9
+        },
+        {
+          "word": "Cristo,",
+          "start": 146.9,
+          "end": 148.3
+        }
+      ],
+      "start": 145.5,
+      "end": 148.3,
+      "confidence": 0.667,
+      "time": 145.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Ven y llénanos.",
+      "words": [
+        {
+          "word": "llena",
+          "start": 152.78,
+          "end": 155.4
+        }
+      ],
+      "start": 152.78,
+      "end": 158.2,
+      "confidence": 0.313,
+      "time": 152.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cristo, ¡oh, Cristo!",
+      "words": [
+        {
+          "word": "Jesucristo,",
+          "start": 168.22,
+          "end": 169.62
+        },
+        {
+          "word": "Jesucristo,",
+          "start": 169.62,
+          "end": 171.02
+        }
+      ],
+      "start": 168.22,
+      "end": 171.02,
+      "confidence": 0.567,
+      "time": 168.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Llénanos de ti.",
+      "start": 171.02,
+      "end": 186.75,
+      "confidence": 0.0,
+      "time": 171.02
+    }
+  ]
+}

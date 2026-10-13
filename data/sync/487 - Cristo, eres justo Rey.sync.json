@@ -1,0 +1,548 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.726,
+  "language": "es",
+  "model": "medium",
+  "hymn": 487,
+  "source": "487 - Cristo, eres justo Rey.mp3",
+  "duration": 157.1,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo, eres justo Rey",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 21.96,
+          "end": 23.36
+        },
+        {
+          "word": "eres",
+          "start": 23.36,
+          "end": 24.76
+        },
+        {
+          "word": "rey",
+          "start": 25.64,
+          "end": 27.44
+        }
+      ],
+      "start": 21.96,
+      "end": 27.44,
+      "confidence": 0.75,
+      "time": 21.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "desde siempre y desde Edén.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Desde",
+          "start": 27.44,
+          "end": 28.84
+        },
+        {
+          "word": "siempre",
+          "start": 28.84,
+          "end": 30.2
+        },
+        {
+          "word": "y",
+          "start": 30.2,
+          "end": 30.72
+        },
+        {
+          "word": "desde",
+          "start": 30.72,
+          "end": 31.62
+        },
+        {
+          "word": "de",
+          "start": 31.62,
+          "end": 32.8
+        }
+      ],
+      "start": 27.44,
+      "end": 33.72,
+      "confidence": 0.96,
+      "time": 27.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Guardan los cielos tu santa Ley,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "guardo",
+          "start": 33.72,
+          "end": 35.34
+        },
+        {
+          "word": "los",
+          "start": 35.34,
+          "end": 36.26
+        },
+        {
+          "word": "cielos",
+          "start": 36.26,
+          "end": 38.16
+        },
+        {
+          "word": "tu",
+          "start": 38.16,
+          "end": 39.04
+        },
+        {
+          "word": "Santa",
+          "start": 39.04,
+          "end": 40.64
+        },
+        {
+          "word": "ley.",
+          "start": 40.64,
+          "end": 44.3
+        }
+      ],
+      "start": 33.72,
+      "end": 44.3,
+      "confidence": 0.977,
+      "time": 33.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues reina allá el bien.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "pues",
+          "start": 44.3,
+          "end": 46.26
+        },
+        {
+          "word": "llave",
+          "start": 47.8,
+          "end": 49.26
+        }
+      ],
+      "start": 44.3,
+      "end": 49.26,
+      "confidence": 0.36,
+      "time": 44.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Quiero en tu humilde grey",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ven,",
+          "start": 49.26,
+          "end": 50.46
+        }
+      ],
+      "start": 49.26,
+      "end": 50.46,
+      "confidence": 0.176,
+      "time": 49.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cumplir tu Ley de amor también.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cumplir",
+          "start": 56.14,
+          "end": 57.5
+        },
+        {
+          "word": "tu",
+          "start": 57.5,
+          "end": 58.04
+        },
+        {
+          "word": "ley",
+          "start": 58.04,
+          "end": 58.42
+        },
+        {
+          "word": "de",
+          "start": 58.42,
+          "end": 59.32
+        },
+        {
+          "word": "amor.",
+          "start": 59.32,
+          "end": 60.62
+        },
+        {
+          "word": "Amén.",
+          "start": 63.18,
+          "end": 64.58
+        }
+      ],
+      "start": 56.14,
+      "end": 64.58,
+      "confidence": 0.973,
+      "time": 56.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Cielos y tierra y mar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tielos",
+          "start": 66.72,
+          "end": 68.12
+        },
+        {
+          "word": "y",
+          "start": 68.12,
+          "end": 68.72
+        },
+        {
+          "word": "tierra",
+          "start": 68.72,
+          "end": 69.62
+        },
+        {
+          "word": "y",
+          "start": 69.62,
+          "end": 70.36
+        },
+        {
+          "word": "mar,",
+          "start": 70.36,
+          "end": 71.08
+        }
+      ],
+      "start": 66.72,
+      "end": 71.08,
+      "confidence": 0.98,
+      "time": 66.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "riges desde eternidad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "desde",
+          "start": 73.04,
+          "end": 74.02
+        },
+        {
+          "word": "eternidad,",
+          "start": 74.02,
+          "end": 77.02
+        }
+      ],
+      "start": 73.04,
+      "end": 77.02,
+      "confidence": 0.667,
+      "time": 73.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Ruégote quieras mi vida guiar;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mi",
+          "start": 82.26,
+          "end": 83.26
+        },
+        {
+          "word": "vida",
+          "start": 83.26,
+          "end": 85.06
+        }
+      ],
+      "start": 82.26,
+      "end": 88.08,
+      "confidence": 0.4,
+      "time": 82.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "toma mi voluntad",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Toma",
+          "start": 89.6,
+          "end": 91.0
+        },
+        {
+          "word": "mi",
+          "start": 91.0,
+          "end": 91.6
+        },
+        {
+          "word": "voluntad,",
+          "start": 91.6,
+          "end": 94.42
+        }
+      ],
+      "start": 89.6,
+      "end": 94.42,
+      "confidence": 1.0,
+      "time": 89.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y haz que en querer y obrar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ya",
+          "start": 94.42,
+          "end": 95.94
+        },
+        {
+          "word": "querendo",
+          "start": 96.7,
+          "end": 98.4
+        },
+        {
+          "word": "obrar,",
+          "start": 98.4,
+          "end": 99.38
+        }
+      ],
+      "start": 94.42,
+      "end": 99.38,
+      "confidence": 0.391,
+      "time": 94.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "acate yo tu autoridad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Acaté",
+          "start": 99.38,
+          "end": 101.72
+        },
+        {
+          "word": "yo",
+          "start": 101.72,
+          "end": 102.36
+        },
+        {
+          "word": "tu",
+          "start": 102.36,
+          "end": 102.94
+        },
+        {
+          "word": "autoridad.",
+          "start": 102.94,
+          "end": 108.5
+        }
+      ],
+      "start": 99.38,
+      "end": 108.5,
+      "confidence": 1.0,
+      "time": 99.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Oigase nuestra voz",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Oigas",
+          "start": 110.66,
+          "end": 112.06
+        },
+        {
+          "word": "nuestra",
+          "start": 112.56,
+          "end": 113.62
+        },
+        {
+          "word": "voz",
+          "start": 113.62,
+          "end": 115.18
+        }
+      ],
+      "start": 110.66,
+      "end": 115.18,
+      "confidence": 0.98,
+      "time": 110.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hasta en celestial confín:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "hasta",
+          "start": 115.18,
+          "end": 116.86
+        },
+        {
+          "word": "celestial",
+          "start": 117.54,
+          "end": 118.92
+        },
+        {
+          "word": "confín,",
+          "start": 118.92,
+          "end": 121.04
+        }
+      ],
+      "start": 115.18,
+      "end": 121.04,
+      "confidence": 0.75,
+      "time": 115.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Gloria a ti, Verbo eterno y Dios;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Glóia",
+          "start": 121.04,
+          "end": 123.32
+        },
+        {
+          "word": "a",
+          "start": 123.32,
+          "end": 124.2
+        },
+        {
+          "word": "ti,",
+          "start": 124.2,
+          "end": 125.44
+        },
+        {
+          "word": "y",
+          "start": 129.7,
+          "end": 130.0
+        }
+      ],
+      "start": 121.04,
+      "end": 133.02,
+      "confidence": 0.564,
+      "time": 121.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "gloria, loor sin fin;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "glóia",
+          "start": 133.02,
+          "end": 134.8
+        },
+        {
+          "word": "lo",
+          "start": 135.0,
+          "end": 136.02
+        },
+        {
+          "word": "sin",
+          "start": 136.26,
+          "end": 137.02
+        },
+        {
+          "word": "fin,",
+          "start": 137.02,
+          "end": 138.04
+        }
+      ],
+      "start": 133.02,
+      "end": 138.58,
+      "confidence": 0.971,
+      "time": 133.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "gloria, aleluya, oh Dios.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "glóia",
+          "start": 138.58,
+          "end": 140.7
+        },
+        {
+          "word": "a",
+          "start": 142.36,
+          "end": 142.82
+        },
+        {
+          "word": "dios,",
+          "start": 142.82,
+          "end": 143.34
+        }
+      ],
+      "start": 138.58,
+      "end": 145.64,
+      "confidence": 0.721,
+      "time": 138.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Loor a ti, loor sin fin.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 145.64,
+          "end": 145.98
+        },
+        {
+          "word": "ti,",
+          "start": 145.98,
+          "end": 146.54
+        },
+        {
+          "word": "lo",
+          "start": 147.92,
+          "end": 148.08
+        },
+        {
+          "word": "sin",
+          "start": 148.46,
+          "end": 149.96
+        },
+        {
+          "word": "fin.",
+          "start": 149.96,
+          "end": 150.72
+        }
+      ],
+      "start": 145.64,
+      "end": 150.72,
+      "confidence": 0.823,
+      "time": 145.64
+    }
+  ]
+}

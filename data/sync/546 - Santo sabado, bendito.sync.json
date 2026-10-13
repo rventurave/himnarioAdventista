@@ -1,0 +1,597 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.987,
+  "language": "es",
+  "model": "medium",
+  "hymn": 546,
+  "source": "546 - Santo sabado, bendito.mp3",
+  "duration": 113.29,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Santo sábado, bendito,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Santo",
+          "start": 14.36,
+          "end": 15.76
+        },
+        {
+          "word": "sábado",
+          "start": 15.76,
+          "end": 17.16
+        },
+        {
+          "word": "bendito,",
+          "start": 17.16,
+          "end": 19.1
+        }
+      ],
+      "start": 14.36,
+      "end": 19.1,
+      "confidence": 1.0,
+      "time": 14.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "joya de la creación,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 20.38,
+          "end": 21.06
+        },
+        {
+          "word": "la",
+          "start": 21.06,
+          "end": 21.78
+        },
+        {
+          "word": "creación,",
+          "start": 21.78,
+          "end": 23.88
+        }
+      ],
+      "start": 20.38,
+      "end": 24.46,
+      "confidence": 0.75,
+      "time": 20.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que trasciende todo cambio,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 24.46,
+          "end": 25.12
+        },
+        {
+          "word": "trasciende",
+          "start": 25.12,
+          "end": 26.48
+        },
+        {
+          "word": "todo",
+          "start": 26.48,
+          "end": 27.82
+        },
+        {
+          "word": "cambio,",
+          "start": 27.82,
+          "end": 28.82
+        }
+      ],
+      "start": 24.46,
+      "end": 29.8,
+      "confidence": 1.0,
+      "time": 24.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "es eterna bendición.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 29.8,
+          "end": 30.2
+        },
+        {
+          "word": "eterna",
+          "start": 30.2,
+          "end": 31.64
+        },
+        {
+          "word": "bendición.",
+          "start": 31.64,
+          "end": 34.06
+        }
+      ],
+      "start": 29.8,
+      "end": 34.06,
+      "confidence": 1.0,
+      "time": 29.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Santo sábado de Dios,",
+      "words": [
+        {
+          "word": "Santo",
+          "start": 34.78,
+          "end": 35.62
+        },
+        {
+          "word": "sábado",
+          "start": 35.62,
+          "end": 37.5
+        },
+        {
+          "word": "de",
+          "start": 37.5,
+          "end": 38.28
+        },
+        {
+          "word": "Dios,",
+          "start": 38.28,
+          "end": 39.18
+        }
+      ],
+      "start": 34.78,
+      "end": 39.96,
+      "confidence": 1.0,
+      "time": 34.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "para el hombre lo creó.",
+      "words": [
+        {
+          "word": "para",
+          "start": 39.96,
+          "end": 40.4
+        },
+        {
+          "word": "el",
+          "start": 40.4,
+          "end": 41.06
+        },
+        {
+          "word": "hombre",
+          "start": 41.06,
+          "end": 41.8
+        },
+        {
+          "word": "lo",
+          "start": 41.8,
+          "end": 42.86
+        },
+        {
+          "word": "creo.",
+          "start": 42.86,
+          "end": 44.44
+        }
+      ],
+      "start": 39.96,
+      "end": 44.44,
+      "confidence": 1.0,
+      "time": 39.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "El pecado y la tristeza",
+      "verse": 2,
+      "words": [
+        {
+          "word": "El",
+          "start": 44.44,
+          "end": 47.08
+        },
+        {
+          "word": "pecado",
+          "start": 47.08,
+          "end": 48.24
+        },
+        {
+          "word": "y",
+          "start": 48.24,
+          "end": 48.64
+        },
+        {
+          "word": "la",
+          "start": 48.64,
+          "end": 49.4
+        },
+        {
+          "word": "tristeza",
+          "start": 49.4,
+          "end": 51.24
+        }
+      ],
+      "start": 44.44,
+      "end": 51.24,
+      "confidence": 1.0,
+      "time": 44.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pronto no existirán.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pronto",
+          "start": 51.24,
+          "end": 52.02
+        },
+        {
+          "word": "no",
+          "start": 52.02,
+          "end": 53.5
+        },
+        {
+          "word": "existirán,",
+          "start": 53.5,
+          "end": 56.04
+        }
+      ],
+      "start": 51.24,
+      "end": 56.22,
+      "confidence": 1.0,
+      "time": 51.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Pero el sábado es eterno,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pero",
+          "start": 56.22,
+          "end": 57.28
+        },
+        {
+          "word": "el",
+          "start": 57.28,
+          "end": 57.72
+        },
+        {
+          "word": "sábado",
+          "start": 57.72,
+          "end": 58.84
+        },
+        {
+          "word": "es",
+          "start": 58.84,
+          "end": 59.84
+        },
+        {
+          "word": "eterno",
+          "start": 59.84,
+          "end": 61.32
+        }
+      ],
+      "start": 56.22,
+      "end": 61.32,
+      "confidence": 1.0,
+      "time": 56.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y por siempre durará.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 61.32,
+          "end": 61.94
+        },
+        {
+          "word": "por",
+          "start": 61.94,
+          "end": 62.56
+        },
+        {
+          "word": "siempre",
+          "start": 62.56,
+          "end": 63.7
+        },
+        {
+          "word": "durará.",
+          "start": 63.7,
+          "end": 65.44
+        }
+      ],
+      "start": 61.32,
+      "end": 65.44,
+      "confidence": 1.0,
+      "time": 61.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Santo sábado de Dios,",
+      "words": [
+        {
+          "word": "Santo",
+          "start": 65.44,
+          "end": 67.66
+        },
+        {
+          "word": "sábado",
+          "start": 67.66,
+          "end": 69.62
+        },
+        {
+          "word": "de",
+          "start": 69.62,
+          "end": 70.38
+        },
+        {
+          "word": "Dios,",
+          "start": 70.38,
+          "end": 71.46
+        }
+      ],
+      "start": 65.44,
+      "end": 71.66,
+      "confidence": 1.0,
+      "time": 65.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "para el hombre lo creó.",
+      "words": [
+        {
+          "word": "para",
+          "start": 71.66,
+          "end": 72.6
+        },
+        {
+          "word": "el",
+          "start": 72.6,
+          "end": 73.18
+        },
+        {
+          "word": "hombre",
+          "start": 73.18,
+          "end": 74.04
+        },
+        {
+          "word": "lo",
+          "start": 74.04,
+          "end": 74.96
+        },
+        {
+          "word": "creo.",
+          "start": 74.96,
+          "end": 76.7
+        }
+      ],
+      "start": 71.66,
+      "end": 76.7,
+      "confidence": 1.0,
+      "time": 71.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "El reposo verdadero",
+      "verse": 3,
+      "words": [
+        {
+          "word": "El",
+          "start": 77.76,
+          "end": 78.84
+        },
+        {
+          "word": "reposo",
+          "start": 78.84,
+          "end": 80.34
+        },
+        {
+          "word": "verdadero,",
+          "start": 80.34,
+          "end": 82.72
+        }
+      ],
+      "start": 77.76,
+      "end": 83.08,
+      "confidence": 1.0,
+      "time": 77.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "hoy buscamos, Dios, en ti.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "hoy",
+          "start": 83.08,
+          "end": 83.48
+        },
+        {
+          "word": "buscamos",
+          "start": 83.48,
+          "end": 85.32
+        },
+        {
+          "word": "Dios",
+          "start": 85.32,
+          "end": 85.98
+        },
+        {
+          "word": "en",
+          "start": 85.98,
+          "end": 86.84
+        },
+        {
+          "word": "ti,",
+          "start": 86.84,
+          "end": 87.66
+        }
+      ],
+      "start": 83.08,
+      "end": 87.66,
+      "confidence": 1.0,
+      "time": 83.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Que la paz del día santo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 87.66,
+          "end": 88.82
+        },
+        {
+          "word": "la",
+          "start": 88.82,
+          "end": 89.18
+        },
+        {
+          "word": "paz",
+          "start": 89.18,
+          "end": 89.86
+        },
+        {
+          "word": "del",
+          "start": 89.86,
+          "end": 90.58
+        },
+        {
+          "word": "día",
+          "start": 90.58,
+          "end": 91.64
+        },
+        {
+          "word": "santo",
+          "start": 91.64,
+          "end": 92.82
+        }
+      ],
+      "start": 87.66,
+      "end": 92.82,
+      "confidence": 1.0,
+      "time": 87.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "sea un remanso aquí.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "sea",
+          "start": 92.82,
+          "end": 94.08
+        },
+        {
+          "word": "un",
+          "start": 94.08,
+          "end": 95.0
+        },
+        {
+          "word": "remanso",
+          "start": 95.0,
+          "end": 96.54
+        },
+        {
+          "word": "aquí.",
+          "start": 96.54,
+          "end": 97.9
+        }
+      ],
+      "start": 92.82,
+      "end": 97.9,
+      "confidence": 1.0,
+      "time": 92.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Santo sábado de Dios,",
+      "words": [
+        {
+          "word": "Santo",
+          "start": 99.34,
+          "end": 99.42
+        },
+        {
+          "word": "sábado",
+          "start": 99.42,
+          "end": 101.32
+        },
+        {
+          "word": "de",
+          "start": 101.32,
+          "end": 102.06
+        },
+        {
+          "word": "Dios,",
+          "start": 102.06,
+          "end": 103.12
+        }
+      ],
+      "start": 99.34,
+      "end": 103.98,
+      "confidence": 1.0,
+      "time": 99.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "para el hombre lo creó.",
+      "words": [
+        {
+          "word": "para",
+          "start": 103.98,
+          "end": 104.26
+        },
+        {
+          "word": "el",
+          "start": 104.26,
+          "end": 104.84
+        },
+        {
+          "word": "hombre",
+          "start": 104.84,
+          "end": 105.66
+        },
+        {
+          "word": "lo",
+          "start": 105.66,
+          "end": 106.6
+        },
+        {
+          "word": "creo.",
+          "start": 106.6,
+          "end": 108.0
+        }
+      ],
+      "start": 103.98,
+      "end": 108.0,
+      "confidence": 1.0,
+      "time": 103.98
+    }
+  ]
+}

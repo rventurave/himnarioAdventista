@@ -1,0 +1,851 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.883,
+  "language": "es",
+  "model": "medium",
+  "hymn": 211,
+  "source": "211 - Fija tus ojos en Cristo.mp3",
+  "duration": 225.31,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Te sientes cansado y turbado,",
+      "verse": 1,
+      "start": 0.0,
+      "end": 29.98,
+      "confidence": 0.0,
+      "time": 0.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "sin luz en la oscuridad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Sin",
+          "start": 29.98,
+          "end": 29.98
+        },
+        {
+          "word": "luz",
+          "start": 29.98,
+          "end": 34.9
+        },
+        {
+          "word": "en",
+          "start": 34.9,
+          "end": 36.04
+        },
+        {
+          "word": "la",
+          "start": 36.04,
+          "end": 36.5
+        },
+        {
+          "word": "oscuridad,",
+          "start": 36.5,
+          "end": 41.12
+        }
+      ],
+      "start": 29.98,
+      "end": 42.1,
+      "confidence": 1.0,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Contempla por fe al Maestro,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "contempla",
+          "start": 42.1,
+          "end": 43.5
+        },
+        {
+          "word": "por",
+          "start": 43.5,
+          "end": 44.32
+        },
+        {
+          "word": "al",
+          "start": 45.02,
+          "end": 45.78
+        },
+        {
+          "word": "maestro,",
+          "start": 45.78,
+          "end": 49.18
+        }
+      ],
+      "start": 42.1,
+      "end": 49.52,
+      "confidence": 0.8,
+      "time": 42.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tendrás vida y libertad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tendrás",
+          "start": 49.52,
+          "end": 50.92
+        },
+        {
+          "word": "vida",
+          "start": 50.92,
+          "end": 52.16
+        },
+        {
+          "word": "y",
+          "start": 52.16,
+          "end": 52.9
+        },
+        {
+          "word": "libertad.",
+          "start": 52.9,
+          "end": 58.26
+        }
+      ],
+      "start": 49.52,
+      "end": 58.26,
+      "confidence": 1.0,
+      "time": 49.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Fija tus ojos en Cristo",
+      "words": [
+        {
+          "word": "Fija",
+          "start": 58.26,
+          "end": 60.04
+        },
+        {
+          "word": "tus",
+          "start": 60.04,
+          "end": 60.74
+        },
+        {
+          "word": "ojos",
+          "start": 60.74,
+          "end": 61.94
+        },
+        {
+          "word": "en",
+          "start": 61.94,
+          "end": 62.68
+        },
+        {
+          "word": "Cristo,",
+          "start": 62.68,
+          "end": 65.54
+        }
+      ],
+      "start": 58.26,
+      "end": 66.3,
+      "confidence": 1.0,
+      "time": 58.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "tan lleno de gracia y amor,",
+      "words": [
+        {
+          "word": "tan",
+          "start": 66.3,
+          "end": 66.72
+        },
+        {
+          "word": "lleno",
+          "start": 66.72,
+          "end": 68.0
+        },
+        {
+          "word": "de",
+          "start": 68.0,
+          "end": 68.88
+        },
+        {
+          "word": "gracia",
+          "start": 68.88,
+          "end": 70.0
+        },
+        {
+          "word": "y",
+          "start": 70.0,
+          "end": 70.58
+        },
+        {
+          "word": "amor,",
+          "start": 70.58,
+          "end": 73.72
+        }
+      ],
+      "start": 66.3,
+      "end": 73.72,
+      "confidence": 1.0,
+      "time": 66.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y lo terrenal sin valor será",
+      "words": [
+        {
+          "word": "y",
+          "start": 73.72,
+          "end": 74.62
+        },
+        {
+          "word": "lo",
+          "start": 74.62,
+          "end": 74.98
+        },
+        {
+          "word": "terrenal",
+          "start": 74.98,
+          "end": 77.3
+        },
+        {
+          "word": "sin",
+          "start": 77.3,
+          "end": 78.08
+        },
+        {
+          "word": "vanos",
+          "start": 78.08,
+          "end": 80.1
+        },
+        {
+          "word": "será",
+          "start": 80.1,
+          "end": 81.68
+        }
+      ],
+      "start": 73.72,
+      "end": 81.68,
+      "confidence": 0.96,
+      "time": 73.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "a la luz del glorioso Señor.",
+      "words": [
+        {
+          "word": "a",
+          "start": 81.68,
+          "end": 82.66
+        },
+        {
+          "word": "la",
+          "start": 82.66,
+          "end": 83.04
+        },
+        {
+          "word": "luz",
+          "start": 83.04,
+          "end": 83.86
+        },
+        {
+          "word": "de",
+          "start": 83.86,
+          "end": 84.3
+        },
+        {
+          "word": "glorioso",
+          "start": 84.3,
+          "end": 85.92
+        },
+        {
+          "word": "Señor.",
+          "start": 85.92,
+          "end": 90.3
+        }
+      ],
+      "start": 81.68,
+      "end": 90.3,
+      "confidence": 0.99,
+      "time": 81.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "De muerte a vida eterna",
+      "verse": 2,
+      "words": [
+        {
+          "word": "De",
+          "start": 91.9,
+          "end": 92.6
+        },
+        {
+          "word": "muerte",
+          "start": 92.6,
+          "end": 93.88
+        },
+        {
+          "word": "a",
+          "start": 93.88,
+          "end": 94.88
+        },
+        {
+          "word": "vida",
+          "start": 94.88,
+          "end": 95.86
+        },
+        {
+          "word": "eterna",
+          "start": 95.86,
+          "end": 99.74
+        }
+      ],
+      "start": 91.9,
+      "end": 99.74,
+      "confidence": 1.0,
+      "time": 91.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pasé al seguir a Jesús.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Pasea",
+          "start": 99.74,
+          "end": 101.92
+        },
+        {
+          "word": "al",
+          "start": 101.92,
+          "end": 102.48
+        },
+        {
+          "word": "seguir",
+          "start": 102.48,
+          "end": 103.34
+        },
+        {
+          "word": "a",
+          "start": 103.34,
+          "end": 104.08
+        },
+        {
+          "word": "Jesús",
+          "start": 104.08,
+          "end": 107.5
+        }
+      ],
+      "start": 99.74,
+      "end": 107.5,
+      "confidence": 0.988,
+      "time": 99.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Me libra de todo pecado",
+      "verse": 2,
+      "words": [
+        {
+          "word": "libra",
+          "start": 108.88,
+          "end": 109.94
+        },
+        {
+          "word": "de",
+          "start": 109.94,
+          "end": 110.78
+        },
+        {
+          "word": "todo",
+          "start": 110.78,
+          "end": 111.9
+        },
+        {
+          "word": "pecado",
+          "start": 111.9,
+          "end": 115.76
+        }
+      ],
+      "start": 108.88,
+      "end": 115.76,
+      "confidence": 0.8,
+      "time": 108.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mediante su muerte en la cruz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mediante",
+          "start": 115.76,
+          "end": 117.98
+        },
+        {
+          "word": "su",
+          "start": 117.98,
+          "end": 118.58
+        },
+        {
+          "word": "muerte",
+          "start": 118.58,
+          "end": 119.62
+        },
+        {
+          "word": "en",
+          "start": 119.62,
+          "end": 120.22
+        },
+        {
+          "word": "la",
+          "start": 120.22,
+          "end": 120.98
+        },
+        {
+          "word": "cruz.",
+          "start": 120.98,
+          "end": 124.64
+        }
+      ],
+      "start": 115.76,
+      "end": 124.64,
+      "confidence": 1.0,
+      "time": 115.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Fija tus ojos en Cristo",
+      "words": [
+        {
+          "word": "Fija",
+          "start": 124.64,
+          "end": 126.44
+        },
+        {
+          "word": "tus",
+          "start": 126.44,
+          "end": 127.12
+        },
+        {
+          "word": "ojos",
+          "start": 127.12,
+          "end": 128.32
+        },
+        {
+          "word": "en",
+          "start": 128.32,
+          "end": 129.14
+        },
+        {
+          "word": "Cristo,",
+          "start": 129.14,
+          "end": 131.88
+        }
+      ],
+      "start": 124.64,
+      "end": 132.72,
+      "confidence": 1.0,
+      "time": 124.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "tan lleno de gracia y amor,",
+      "words": [
+        {
+          "word": "tan",
+          "start": 132.72,
+          "end": 133.16
+        },
+        {
+          "word": "lleno",
+          "start": 133.16,
+          "end": 134.4
+        },
+        {
+          "word": "de",
+          "start": 134.4,
+          "end": 135.28
+        },
+        {
+          "word": "gracia",
+          "start": 135.28,
+          "end": 136.38
+        },
+        {
+          "word": "y",
+          "start": 136.38,
+          "end": 137.16
+        },
+        {
+          "word": "amor,",
+          "start": 137.16,
+          "end": 140.02
+        }
+      ],
+      "start": 132.72,
+      "end": 140.02,
+      "confidence": 1.0,
+      "time": 132.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y lo terrenal sin valor será",
+      "words": [
+        {
+          "word": "y",
+          "start": 140.02,
+          "end": 141.0
+        },
+        {
+          "word": "te",
+          "start": 141.52,
+          "end": 142.82
+        },
+        {
+          "word": "será",
+          "start": 145.94,
+          "end": 148.18
+        }
+      ],
+      "start": 140.02,
+      "end": 148.18,
+      "confidence": 0.49,
+      "time": 140.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "a la luz del glorioso Señor.",
+      "words": [
+        {
+          "word": "a",
+          "start": 148.18,
+          "end": 149.02
+        },
+        {
+          "word": "la",
+          "start": 149.02,
+          "end": 149.56
+        },
+        {
+          "word": "luz",
+          "start": 149.56,
+          "end": 150.24
+        },
+        {
+          "word": "del",
+          "start": 150.24,
+          "end": 150.9
+        },
+        {
+          "word": "Glorioso",
+          "start": 150.9,
+          "end": 152.16
+        },
+        {
+          "word": "Señor.",
+          "start": 152.16,
+          "end": 156.6
+        }
+      ],
+      "start": 148.18,
+      "end": 156.6,
+      "confidence": 1.0,
+      "time": 148.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Jamás fallará su promesa;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jamás",
+          "start": 156.6,
+          "end": 158.82
+        },
+        {
+          "word": "hallarás",
+          "start": 158.82,
+          "end": 160.62
+        },
+        {
+          "word": "su",
+          "start": 160.62,
+          "end": 161.28
+        },
+        {
+          "word": "promesa,",
+          "start": 161.28,
+          "end": 164.96
+        }
+      ],
+      "start": 156.6,
+      "end": 165.52,
+      "confidence": 0.97,
+      "time": 156.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "con fe hazle tu petición.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "confías",
+          "start": 165.52,
+          "end": 167.04
+        },
+        {
+          "word": "tu",
+          "start": 167.8,
+          "end": 168.5
+        },
+        {
+          "word": "petición.",
+          "start": 168.5,
+          "end": 172.82
+        }
+      ],
+      "start": 165.52,
+      "end": 172.82,
+      "confidence": 0.588,
+      "time": 165.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Al mundo perdido anuncia",
+      "verse": 3,
+      "words": [
+        {
+          "word": "al",
+          "start": 172.82,
+          "end": 173.7
+        },
+        {
+          "word": "mundo",
+          "start": 173.7,
+          "end": 175.06
+        },
+        {
+          "word": "perdido",
+          "start": 175.06,
+          "end": 177.3
+        },
+        {
+          "word": "anuncia",
+          "start": 177.3,
+          "end": 180.82
+        }
+      ],
+      "start": 172.82,
+      "end": 180.82,
+      "confidence": 1.0,
+      "time": 172.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "las nuevas de la salvación.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "las",
+          "start": 180.82,
+          "end": 181.86
+        },
+        {
+          "word": "nuevas",
+          "start": 181.86,
+          "end": 183.0
+        },
+        {
+          "word": "de",
+          "start": 183.0,
+          "end": 183.96
+        },
+        {
+          "word": "la",
+          "start": 183.96,
+          "end": 184.92
+        },
+        {
+          "word": "salvación.",
+          "start": 184.92,
+          "end": 189.6
+        }
+      ],
+      "start": 180.82,
+      "end": 189.6,
+      "confidence": 1.0,
+      "time": 180.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Fija tus ojos en Cristo",
+      "words": [
+        {
+          "word": "tus",
+          "start": 191.48,
+          "end": 192.16
+        },
+        {
+          "word": "ojos",
+          "start": 192.16,
+          "end": 193.46
+        },
+        {
+          "word": "en",
+          "start": 193.46,
+          "end": 194.06
+        },
+        {
+          "word": "Cristo,",
+          "start": 194.06,
+          "end": 196.88
+        }
+      ],
+      "start": 191.48,
+      "end": 197.76,
+      "confidence": 0.8,
+      "time": 191.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "tan lleno de gracia y amor,",
+      "words": [
+        {
+          "word": "tan",
+          "start": 197.76,
+          "end": 198.2
+        },
+        {
+          "word": "lleno",
+          "start": 198.2,
+          "end": 199.46
+        },
+        {
+          "word": "de",
+          "start": 199.46,
+          "end": 200.34
+        },
+        {
+          "word": "gracia",
+          "start": 200.34,
+          "end": 201.32
+        },
+        {
+          "word": "y",
+          "start": 201.32,
+          "end": 202.16
+        },
+        {
+          "word": "amor,",
+          "start": 202.16,
+          "end": 205.1
+        }
+      ],
+      "start": 197.76,
+      "end": 205.1,
+      "confidence": 1.0,
+      "time": 197.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y lo terrenal sin valor será",
+      "words": [
+        {
+          "word": "y",
+          "start": 205.1,
+          "end": 206.1
+        },
+        {
+          "word": "lo",
+          "start": 206.1,
+          "end": 206.46
+        },
+        {
+          "word": "terrenas",
+          "start": 206.46,
+          "end": 209.12
+        },
+        {
+          "word": "malo",
+          "start": 209.88,
+          "end": 212.0
+        },
+        {
+          "word": "será",
+          "start": 212.0,
+          "end": 213.48
+        }
+      ],
+      "start": 205.1,
+      "end": 213.48,
+      "confidence": 0.788,
+      "time": 205.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "a la luz del glorioso Señor.",
+      "words": [
+        {
+          "word": "a",
+          "start": 213.48,
+          "end": 214.52
+        },
+        {
+          "word": "la",
+          "start": 214.52,
+          "end": 215.08
+        },
+        {
+          "word": "luz",
+          "start": 215.08,
+          "end": 215.78
+        },
+        {
+          "word": "del",
+          "start": 215.78,
+          "end": 216.34
+        },
+        {
+          "word": "Glorioso",
+          "start": 216.34,
+          "end": 218.02
+        },
+        {
+          "word": "Señor.",
+          "start": 218.02,
+          "end": 220.14
+        }
+      ],
+      "start": 213.48,
+      "end": 220.14,
+      "confidence": 1.0,
+      "time": 213.48
+    }
+  ]
+}

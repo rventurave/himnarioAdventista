@@ -1,0 +1,481 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.811,
+  "language": "es",
+  "model": "medium",
+  "hymn": 465,
+  "source": "465 - Ven junto a mi.mp3",
+  "duration": 172.25,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Oh, Jesús, ven muy junto a mí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 6.34,
+          "end": 6.34
+        },
+        {
+          "word": "muy",
+          "start": 30.0,
+          "end": 30.58
+        },
+        {
+          "word": "junto",
+          "start": 30.58,
+          "end": 31.54
+        },
+        {
+          "word": "a",
+          "start": 31.54,
+          "end": 32.32
+        },
+        {
+          "word": "mí.",
+          "start": 32.32,
+          "end": 35.7
+        }
+      ],
+      "start": 6.34,
+      "end": 35.7,
+      "confidence": 0.697,
+      "time": 6.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Oh, Jesús, ven muy junto a mí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "muy",
+          "start": 41.48,
+          "end": 42.06
+        },
+        {
+          "word": "junto",
+          "start": 42.06,
+          "end": 43.16
+        },
+        {
+          "word": "a",
+          "start": 43.16,
+          "end": 43.96
+        },
+        {
+          "word": "mí.",
+          "start": 43.96,
+          "end": 47.7
+        }
+      ],
+      "start": 41.48,
+      "end": 47.7,
+      "confidence": 0.571,
+      "time": 41.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mientras ando por el mundo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mientras",
+          "start": 48.0,
+          "end": 49.4
+        },
+        {
+          "word": "ando",
+          "start": 49.4,
+          "end": 53.42
+        },
+        {
+          "word": "el",
+          "start": 54.66,
+          "end": 55.96
+        },
+        {
+          "word": "mundo,",
+          "start": 55.96,
+          "end": 57.6
+        }
+      ],
+      "start": 48.0,
+      "end": 57.6,
+      "confidence": 0.8,
+      "time": 48.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "oh, Jesús, ven muy junto a mí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 57.6,
+          "end": 60.14
+        },
+        {
+          "word": "Jesús",
+          "start": 62.42,
+          "end": 62.42
+        },
+        {
+          "word": "ven,",
+          "start": 62.42,
+          "end": 64.52
+        },
+        {
+          "word": "muy",
+          "start": 64.92,
+          "end": 65.4
+        },
+        {
+          "word": "junto",
+          "start": 65.4,
+          "end": 66.42
+        },
+        {
+          "word": "a",
+          "start": 66.42,
+          "end": 67.34
+        },
+        {
+          "word": "mí.",
+          "start": 67.34,
+          "end": 70.78
+        }
+      ],
+      "start": 57.6,
+      "end": 70.78,
+      "confidence": 1.0,
+      "time": 57.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "En mis pruebas ven junto a mí.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Ven",
+          "start": 72.28,
+          "end": 73.18
+        },
+        {
+          "word": "mis",
+          "start": 73.18,
+          "end": 74.06
+        },
+        {
+          "word": "pruebas,",
+          "start": 74.06,
+          "end": 77.54
+        },
+        {
+          "word": "ven",
+          "start": 77.6,
+          "end": 78.3
+        },
+        {
+          "word": "junto",
+          "start": 78.3,
+          "end": 79.38
+        },
+        {
+          "word": "a",
+          "start": 79.38,
+          "end": 80.1
+        },
+        {
+          "word": "mí.",
+          "start": 80.1,
+          "end": 83.4
+        }
+      ],
+      "start": 72.28,
+      "end": 83.4,
+      "confidence": 0.983,
+      "time": 72.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "En mis pruebas ven junto a mí.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 83.4,
+          "end": 85.2
+        },
+        {
+          "word": "mis",
+          "start": 85.2,
+          "end": 85.9
+        },
+        {
+          "word": "junto",
+          "start": 89.92,
+          "end": 90.86
+        },
+        {
+          "word": "a",
+          "start": 90.86,
+          "end": 91.72
+        },
+        {
+          "word": "mí.",
+          "start": 91.72,
+          "end": 95.08
+        }
+      ],
+      "start": 83.4,
+      "end": 95.08,
+      "confidence": 0.714,
+      "time": 83.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Si las sombras me rodean,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 95.34,
+          "end": 96.46
+        },
+        {
+          "word": "los",
+          "start": 96.46,
+          "end": 97.68
+        },
+        {
+          "word": "hombres",
+          "start": 97.68,
+          "end": 100.92
+        },
+        {
+          "word": "me",
+          "start": 100.92,
+          "end": 102.36
+        },
+        {
+          "word": "rodean,",
+          "start": 102.36,
+          "end": 106.4
+        }
+      ],
+      "start": 95.34,
+      "end": 106.4,
+      "confidence": 0.926,
+      "time": 95.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "oh, Jesús, ven muy junto a mí.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 106.4,
+          "end": 108.12
+        },
+        {
+          "word": "Jesús,",
+          "start": 110.1,
+          "end": 110.1
+        },
+        {
+          "word": "junto",
+          "start": 113.02,
+          "end": 114.48
+        },
+        {
+          "word": "a",
+          "start": 114.48,
+          "end": 115.22
+        },
+        {
+          "word": "mí.",
+          "start": 115.22,
+          "end": 118.74
+        }
+      ],
+      "start": 106.4,
+      "end": 118.74,
+      "confidence": 0.714,
+      "time": 106.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En mis penas ven junto a mí.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 120.06,
+          "end": 121.0
+        },
+        {
+          "word": "mis",
+          "start": 121.0,
+          "end": 122.02
+        },
+        {
+          "word": "penas,",
+          "start": 122.02,
+          "end": 125.44
+        },
+        {
+          "word": "en",
+          "start": 125.54,
+          "end": 126.22
+        },
+        {
+          "word": "junto",
+          "start": 126.22,
+          "end": 127.26
+        },
+        {
+          "word": "a",
+          "start": 127.26,
+          "end": 128.04
+        },
+        {
+          "word": "mí,",
+          "start": 128.04,
+          "end": 131.26
+        }
+      ],
+      "start": 120.06,
+      "end": 131.26,
+      "confidence": 0.983,
+      "time": 120.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En mis penas ven junto a mí.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 131.26,
+          "end": 132.58
+        },
+        {
+          "word": "mis",
+          "start": 132.58,
+          "end": 133.48
+        },
+        {
+          "word": "penas",
+          "start": 133.48,
+          "end": 136.78
+        },
+        {
+          "word": "ven",
+          "start": 136.78,
+          "end": 137.52
+        },
+        {
+          "word": "junto",
+          "start": 137.52,
+          "end": 138.6
+        },
+        {
+          "word": "a",
+          "start": 138.6,
+          "end": 139.3
+        },
+        {
+          "word": "mí,",
+          "start": 139.3,
+          "end": 142.96
+        }
+      ],
+      "start": 131.26,
+      "end": 142.96,
+      "confidence": 1.0,
+      "time": 131.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si en mi alma hay tristeza,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "si",
+          "start": 143.44,
+          "end": 144.08
+        },
+        {
+          "word": "en",
+          "start": 144.08,
+          "end": 144.72
+        },
+        {
+          "word": "mi",
+          "start": 144.72,
+          "end": 145.6
+        },
+        {
+          "word": "alma",
+          "start": 145.6,
+          "end": 148.8
+        },
+        {
+          "word": "hay",
+          "start": 148.8,
+          "end": 150.0
+        },
+        {
+          "word": "tristeza.",
+          "start": 150.0,
+          "end": 154.48
+        }
+      ],
+      "start": 143.44,
+      "end": 154.48,
+      "confidence": 1.0,
+      "time": 143.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "oh, Jesús, ven muy junto a mí.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Oh",
+          "start": 154.48,
+          "end": 155.9
+        },
+        {
+          "word": "Jesucristo,",
+          "start": 155.9,
+          "end": 159.66
+        },
+        {
+          "word": "junto",
+          "start": 160.92,
+          "end": 161.8
+        }
+      ],
+      "start": 154.48,
+      "end": 166.78,
+      "confidence": 0.4,
+      "time": 154.48
+    }
+  ]
+}

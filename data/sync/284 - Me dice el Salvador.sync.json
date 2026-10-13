@@ -1,0 +1,833 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.796,
+  "language": "es",
+  "model": "medium",
+  "hymn": 284,
+  "source": "284 - Me dice el Salvador.mp3",
+  "duration": 226.59,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Me dice el Salvador:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 10.86,
+          "end": 12.62
+        }
+      ],
+      "start": 10.86,
+      "end": 39.86,
+      "confidence": 0.25,
+      "time": 10.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "\"Es poco tu poder;",
+      "verse": 1,
+      "start": 39.86,
+      "end": 40.06,
+      "confidence": 0.0,
+      "time": 39.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "hijo débil, halla en mí",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hijo",
+          "start": 39.88,
+          "end": 40.04
+        },
+        {
+          "word": "de",
+          "start": 40.04,
+          "end": 44.34
+        },
+        {
+          "word": "en",
+          "start": 45.48,
+          "end": 46.06
+        },
+        {
+          "word": "mí,",
+          "start": 46.06,
+          "end": 47.2
+        }
+      ],
+      "start": 40.06,
+      "end": 40.26,
+      "confidence": 0.788,
+      "time": 40.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "todo cuanto has menester\".",
+      "verse": 1,
+      "words": [
+        {
+          "word": "todo",
+          "start": 47.68,
+          "end": 48.2
+        },
+        {
+          "word": "cuanto",
+          "start": 48.2,
+          "end": 49.74
+        },
+        {
+          "word": "has",
+          "start": 49.74,
+          "end": 50.32
+        },
+        {
+          "word": "venesté,",
+          "start": 50.32,
+          "end": 53.1
+        }
+      ],
+      "start": 47.68,
+      "end": 53.1,
+      "confidence": 0.97,
+      "time": 47.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Todo debo a él, pues ya lo pagó;",
+      "words": [
+        {
+          "word": "todo",
+          "start": 53.86,
+          "end": 55.34
+        },
+        {
+          "word": "debo",
+          "start": 55.34,
+          "end": 56.22
+        },
+        {
+          "word": "a",
+          "start": 56.22,
+          "end": 56.66
+        },
+        {
+          "word": "él,",
+          "start": 56.66,
+          "end": 58.36
+        },
+        {
+          "word": "pues",
+          "start": 58.88,
+          "end": 60.0
+        },
+        {
+          "word": "ya",
+          "start": 60.0,
+          "end": 60.6
+        },
+        {
+          "word": "lo",
+          "start": 60.6,
+          "end": 61.06
+        },
+        {
+          "word": "pagó.",
+          "start": 61.06,
+          "end": 62.88
+        }
+      ],
+      "start": 53.86,
+      "end": 62.88,
+      "confidence": 1.0,
+      "time": 53.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "de las manchas del pecar cual nieve me lavó.",
+      "words": [
+        {
+          "word": "De",
+          "start": 62.88,
+          "end": 64.96
+        },
+        {
+          "word": "las",
+          "start": 64.96,
+          "end": 65.96
+        },
+        {
+          "word": "manchas",
+          "start": 65.96,
+          "end": 66.7
+        },
+        {
+          "word": "del",
+          "start": 66.7,
+          "end": 67.2
+        },
+        {
+          "word": "pecar",
+          "start": 67.2,
+          "end": 69.24
+        },
+        {
+          "word": "cual",
+          "start": 69.24,
+          "end": 70.36
+        },
+        {
+          "word": "nieve",
+          "start": 70.36,
+          "end": 72.12
+        },
+        {
+          "word": "me",
+          "start": 72.12,
+          "end": 72.92
+        },
+        {
+          "word": "lavó.",
+          "start": 72.92,
+          "end": 74.88
+        }
+      ],
+      "start": 62.88,
+      "end": 74.88,
+      "confidence": 1.0,
+      "time": 62.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "He hallado, mi Señor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "lado",
+          "start": 77.62,
+          "end": 79.02
+        },
+        {
+          "word": "mi",
+          "start": 79.02,
+          "end": 79.64
+        },
+        {
+          "word": "Señor,",
+          "start": 79.64,
+          "end": 81.42
+        }
+      ],
+      "start": 77.62,
+      "end": 82.36,
+      "confidence": 0.709,
+      "time": 77.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que solo tu poder",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 82.36,
+          "end": 82.82
+        },
+        {
+          "word": "solo",
+          "start": 83.68,
+          "end": 84.5
+        },
+        {
+          "word": "Tu",
+          "start": 84.5,
+          "end": 84.96
+        },
+        {
+          "word": "poder,",
+          "start": 84.96,
+          "end": 85.88
+        }
+      ],
+      "start": 82.36,
+      "end": 85.88,
+      "confidence": 1.0,
+      "time": 82.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a mi duro corazón",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 85.88,
+          "end": 87.46
+        },
+        {
+          "word": "mi",
+          "start": 87.46,
+          "end": 88.16
+        },
+        {
+          "word": "duro",
+          "start": 88.16,
+          "end": 89.94
+        },
+        {
+          "word": "corazón",
+          "start": 89.94,
+          "end": 92.02
+        }
+      ],
+      "start": 85.88,
+      "end": 92.02,
+      "confidence": 1.0,
+      "time": 85.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "es capaz de enternecer.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "es",
+          "start": 92.02,
+          "end": 93.1
+        },
+        {
+          "word": "capaz",
+          "start": 93.1,
+          "end": 94.82
+        },
+        {
+          "word": "de",
+          "start": 94.82,
+          "end": 95.3
+        },
+        {
+          "word": "internecer.",
+          "start": 95.3,
+          "end": 98.34
+        }
+      ],
+      "start": 92.02,
+      "end": 98.34,
+      "confidence": 0.985,
+      "time": 92.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Todo debo a él, pues ya lo pagó;",
+      "words": [
+        {
+          "word": "Todo",
+          "start": 99.36,
+          "end": 100.56
+        },
+        {
+          "word": "debo",
+          "start": 100.56,
+          "end": 101.52
+        },
+        {
+          "word": "a",
+          "start": 101.52,
+          "end": 101.9
+        },
+        {
+          "word": "Él,",
+          "start": 101.9,
+          "end": 103.66
+        },
+        {
+          "word": "pues",
+          "start": 104.0,
+          "end": 105.16
+        },
+        {
+          "word": "ya",
+          "start": 105.16,
+          "end": 105.66
+        },
+        {
+          "word": "lo",
+          "start": 105.66,
+          "end": 106.28
+        },
+        {
+          "word": "pagó.",
+          "start": 106.28,
+          "end": 107.88
+        }
+      ],
+      "start": 99.36,
+      "end": 107.88,
+      "confidence": 1.0,
+      "time": 99.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "de las manchas del pecar cual nieve me lavó.",
+      "words": [
+        {
+          "word": "De",
+          "start": 107.88,
+          "end": 110.16
+        },
+        {
+          "word": "las",
+          "start": 110.16,
+          "end": 111.12
+        },
+        {
+          "word": "manchas",
+          "start": 111.12,
+          "end": 111.92
+        },
+        {
+          "word": "del",
+          "start": 111.92,
+          "end": 112.4
+        },
+        {
+          "word": "pecar,",
+          "start": 112.4,
+          "end": 114.46
+        },
+        {
+          "word": "cual",
+          "start": 114.9,
+          "end": 115.46
+        },
+        {
+          "word": "nieve",
+          "start": 115.46,
+          "end": 117.34
+        },
+        {
+          "word": "me",
+          "start": 117.34,
+          "end": 118.16
+        },
+        {
+          "word": "lavó.",
+          "start": 118.16,
+          "end": 119.88
+        }
+      ],
+      "start": 107.88,
+      "end": 119.88,
+      "confidence": 1.0,
+      "time": 107.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Nada bueno hay en mí:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Nada",
+          "start": 121.14,
+          "end": 122.16
+        },
+        {
+          "word": "bueno",
+          "start": 122.16,
+          "end": 124.06
+        },
+        {
+          "word": "hay",
+          "start": 124.06,
+          "end": 124.72
+        },
+        {
+          "word": "en",
+          "start": 124.72,
+          "end": 125.28
+        },
+        {
+          "word": "mí,",
+          "start": 125.28,
+          "end": 126.38
+        }
+      ],
+      "start": 121.14,
+      "end": 126.8,
+      "confidence": 1.0,
+      "time": 121.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "tu gracia buscaré,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tu",
+          "start": 126.8,
+          "end": 127.64
+        },
+        {
+          "word": "gracia",
+          "start": 127.64,
+          "end": 129.36
+        },
+        {
+          "word": "buscaré,",
+          "start": 129.36,
+          "end": 130.88
+        }
+      ],
+      "start": 126.8,
+      "end": 130.88,
+      "confidence": 1.0,
+      "time": 126.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y en la sangre de Jesús",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 130.88,
+          "end": 132.16
+        },
+        {
+          "word": "en",
+          "start": 132.16,
+          "end": 132.58
+        },
+        {
+          "word": "la",
+          "start": 132.58,
+          "end": 133.08
+        },
+        {
+          "word": "sangre",
+          "start": 133.08,
+          "end": 134.42
+        },
+        {
+          "word": "de",
+          "start": 134.42,
+          "end": 135.0
+        },
+        {
+          "word": "Jesús",
+          "start": 135.0,
+          "end": 136.72
+        }
+      ],
+      "start": 130.88,
+      "end": 136.72,
+      "confidence": 1.0,
+      "time": 130.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "mis pecados lavaré.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mis",
+          "start": 136.72,
+          "end": 137.6
+        },
+        {
+          "word": "pecados",
+          "start": 137.6,
+          "end": 139.9
+        },
+        {
+          "word": "la",
+          "start": 139.9,
+          "end": 140.54
+        }
+      ],
+      "start": 136.72,
+      "end": 143.04,
+      "confidence": 0.98,
+      "time": 136.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Todo debo a él, pues ya lo pagó;",
+      "words": [
+        {
+          "word": "Todo",
+          "start": 143.8,
+          "end": 145.2
+        },
+        {
+          "word": "debo",
+          "start": 145.2,
+          "end": 146.22
+        },
+        {
+          "word": "a",
+          "start": 146.22,
+          "end": 146.6
+        },
+        {
+          "word": "Él,",
+          "start": 146.6,
+          "end": 148.4
+        },
+        {
+          "word": "pues",
+          "start": 148.72,
+          "end": 149.94
+        },
+        {
+          "word": "ya",
+          "start": 149.94,
+          "end": 150.48
+        },
+        {
+          "word": "lo",
+          "start": 150.48,
+          "end": 151.06
+        },
+        {
+          "word": "pagó.",
+          "start": 151.06,
+          "end": 153.74
+        }
+      ],
+      "start": 143.8,
+      "end": 153.74,
+      "confidence": 1.0,
+      "time": 143.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "de las manchas del pecar cual nieve me lavó.",
+      "words": [
+        {
+          "word": "De",
+          "start": 153.74,
+          "end": 155.48
+        },
+        {
+          "word": "las",
+          "start": 155.48,
+          "end": 156.14
+        },
+        {
+          "word": "manchas",
+          "start": 156.14,
+          "end": 156.98
+        },
+        {
+          "word": "del",
+          "start": 156.98,
+          "end": 157.56
+        },
+        {
+          "word": "pegar,",
+          "start": 157.56,
+          "end": 159.48
+        },
+        {
+          "word": "cual",
+          "start": 160.24,
+          "end": 160.7
+        },
+        {
+          "word": "nieve",
+          "start": 160.7,
+          "end": 162.6
+        },
+        {
+          "word": "me",
+          "start": 162.6,
+          "end": 163.16
+        },
+        {
+          "word": "lavó.",
+          "start": 163.16,
+          "end": 166.26
+        }
+      ],
+      "start": 153.74,
+      "end": 166.26,
+      "confidence": 0.987,
+      "time": 153.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Cuando ante el trono, allá,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "el",
+          "start": 179.5,
+          "end": 179.5
+        }
+      ],
+      "start": 179.5,
+      "end": 196.24,
+      "confidence": 0.2,
+      "time": 179.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "completo en él esté,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 179.5,
+          "end": 179.5
+        }
+      ],
+      "start": 196.24,
+      "end": 196.44,
+      "confidence": 0.25,
+      "time": 196.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "a los pies de mi Jesús",
+      "verse": 4,
+      "words": [
+        {
+          "word": "la",
+          "start": 179.5,
+          "end": 179.5
+        },
+        {
+          "word": "los",
+          "start": 180.22,
+          "end": 180.22
+        },
+        {
+          "word": "de",
+          "start": 180.22,
+          "end": 180.22
+        }
+      ],
+      "start": 196.44,
+      "end": 196.64,
+      "confidence": 0.467,
+      "time": 196.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "mi tributo ofreceré.",
+      "verse": 4,
+      "start": 196.64,
+      "end": 197.4,
+      "confidence": 0.0,
+      "time": 196.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Todo debo a él, pues ya lo pagó;",
+      "words": [
+        {
+          "word": "Todo",
+          "start": 198.56,
+          "end": 199.96
+        },
+        {
+          "word": "debo",
+          "start": 199.96,
+          "end": 201.26
+        },
+        {
+          "word": "a",
+          "start": 201.26,
+          "end": 201.58
+        },
+        {
+          "word": "Él,",
+          "start": 201.58,
+          "end": 203.34
+        },
+        {
+          "word": "pues",
+          "start": 203.72,
+          "end": 204.96
+        },
+        {
+          "word": "lo",
+          "start": 205.42,
+          "end": 205.92
+        },
+        {
+          "word": "pagó,",
+          "start": 205.92,
+          "end": 208.36
+        }
+      ],
+      "start": 197.4,
+      "end": 198.56,
+      "confidence": 0.875,
+      "time": 197.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "de las manchas del pecar cual nieve me lavó.",
+      "words": [
+        {
+          "word": "de",
+          "start": 209.0,
+          "end": 209.92
+        },
+        {
+          "word": "las",
+          "start": 209.92,
+          "end": 210.46
+        },
+        {
+          "word": "manchas",
+          "start": 210.46,
+          "end": 211.12
+        },
+        {
+          "word": "del",
+          "start": 211.12,
+          "end": 211.68
+        },
+        {
+          "word": "pecar,",
+          "start": 211.68,
+          "end": 213.54
+        }
+      ],
+      "start": 209.0,
+      "end": 213.54,
+      "confidence": 0.556,
+      "time": 209.0
+    }
+  ]
+}

@@ -1,0 +1,923 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.918,
+  "language": "es",
+  "model": "medium",
+  "hymn": 380,
+  "source": "380 - Ando con Cristo.mp3",
+  "duration": 170.74,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ando con Cristo, somos amigos,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "amigos,",
+          "start": 29.98,
+          "end": 30.84
+        }
+      ],
+      "start": 29.98,
+      "end": 31.94,
+      "confidence": 0.2,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y mantenemos fiel comunión;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 31.94,
+          "end": 32.1
+        },
+        {
+          "word": "mantenemos",
+          "start": 32.1,
+          "end": 34.18
+        },
+        {
+          "word": "fiel",
+          "start": 34.18,
+          "end": 34.82
+        },
+        {
+          "word": "comunión.",
+          "start": 34.82,
+          "end": 36.66
+        }
+      ],
+      "start": 31.94,
+      "end": 37.04,
+      "confidence": 1.0,
+      "time": 31.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ya de su lado nunca me aparto;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ya",
+          "start": 37.04,
+          "end": 37.54
+        },
+        {
+          "word": "de",
+          "start": 37.54,
+          "end": 38.12
+        },
+        {
+          "word": "su",
+          "start": 38.12,
+          "end": 38.52
+        },
+        {
+          "word": "lado",
+          "start": 38.52,
+          "end": 39.64
+        },
+        {
+          "word": "nunca",
+          "start": 39.64,
+          "end": 40.5
+        },
+        {
+          "word": "me",
+          "start": 40.5,
+          "end": 41.0
+        },
+        {
+          "word": "apartó,",
+          "start": 41.0,
+          "end": 42.38
+        }
+      ],
+      "start": 37.04,
+      "end": 42.86,
+      "confidence": 1.0,
+      "time": 37.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡cuánto me alienta su comprensión!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cuanto",
+          "start": 42.86,
+          "end": 43.2
+        },
+        {
+          "word": "me",
+          "start": 43.2,
+          "end": 43.88
+        },
+        {
+          "word": "alienta",
+          "start": 43.88,
+          "end": 45.2
+        },
+        {
+          "word": "su",
+          "start": 45.2,
+          "end": 45.72
+        },
+        {
+          "word": "comprensión.",
+          "start": 45.72,
+          "end": 47.52
+        }
+      ],
+      "start": 42.86,
+      "end": 47.52,
+      "confidence": 1.0,
+      "time": 42.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Ando con Cristo, somos amigos,",
+      "words": [
+        {
+          "word": "Ando",
+          "start": 47.52,
+          "end": 48.88
+        },
+        {
+          "word": "con",
+          "start": 48.88,
+          "end": 49.34
+        },
+        {
+          "word": "Cristo,",
+          "start": 49.34,
+          "end": 50.54
+        },
+        {
+          "word": "somos",
+          "start": 50.58,
+          "end": 51.54
+        },
+        {
+          "word": "amigos,",
+          "start": 51.54,
+          "end": 53.02
+        }
+      ],
+      "start": 47.52,
+      "end": 53.86,
+      "confidence": 1.0,
+      "time": 47.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "todas mis cuitas las llevo a él.",
+      "words": [
+        {
+          "word": "todas",
+          "start": 53.86,
+          "end": 54.18
+        },
+        {
+          "word": "mis",
+          "start": 54.18,
+          "end": 54.78
+        },
+        {
+          "word": "cuitas",
+          "start": 54.78,
+          "end": 56.04
+        },
+        {
+          "word": "a",
+          "start": 57.14,
+          "end": 57.7
+        },
+        {
+          "word": "Él.",
+          "start": 57.7,
+          "end": 58.5
+        }
+      ],
+      "start": 53.86,
+      "end": 58.5,
+      "confidence": 0.714,
+      "time": 53.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Ando con Cristo, marcho a su lado,",
+      "words": [
+        {
+          "word": "Ando",
+          "start": 58.88,
+          "end": 59.72
+        },
+        {
+          "word": "con",
+          "start": 59.72,
+          "end": 60.2
+        },
+        {
+          "word": "Cristo,",
+          "start": 60.2,
+          "end": 61.38
+        },
+        {
+          "word": "marcho",
+          "start": 61.82,
+          "end": 62.44
+        },
+        {
+          "word": "a",
+          "start": 62.44,
+          "end": 62.66
+        },
+        {
+          "word": "Su",
+          "start": 62.66,
+          "end": 63.02
+        },
+        {
+          "word": "lado,",
+          "start": 63.02,
+          "end": 64.0
+        }
+      ],
+      "start": 58.88,
+      "end": 64.6,
+      "confidence": 1.0,
+      "time": 58.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "oigo la suave voz de Emanuel.",
+      "words": [
+        {
+          "word": "oigo",
+          "start": 64.6,
+          "end": 65.22
+        },
+        {
+          "word": "la",
+          "start": 65.22,
+          "end": 65.72
+        },
+        {
+          "word": "suave",
+          "start": 65.72,
+          "end": 67.0
+        },
+        {
+          "word": "voz",
+          "start": 67.0,
+          "end": 67.48
+        },
+        {
+          "word": "de",
+          "start": 67.48,
+          "end": 68.18
+        }
+      ],
+      "start": 64.6,
+      "end": 70.88,
+      "confidence": 0.833,
+      "time": 64.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Los oropeles vanos del mundo",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Los",
+          "start": 73.8,
+          "end": 75.2
+        },
+        {
+          "word": "oropeles",
+          "start": 75.2,
+          "end": 76.6
+        },
+        {
+          "word": "vanos",
+          "start": 76.6,
+          "end": 77.58
+        },
+        {
+          "word": "del",
+          "start": 77.58,
+          "end": 77.98
+        },
+        {
+          "word": "mundo,",
+          "start": 77.98,
+          "end": 79.1
+        }
+      ],
+      "start": 73.8,
+      "end": 80.0,
+      "confidence": 1.0,
+      "time": 73.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "abandonelos sin vacilar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "abandoné",
+          "start": 80.0,
+          "end": 81.54
+        },
+        {
+          "word": "invasilar,",
+          "start": 82.08,
+          "end": 84.4
+        }
+      ],
+      "start": 80.0,
+      "end": 85.0,
+      "confidence": 0.597,
+      "time": 80.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Siendo su amor tan caro y profundo,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "siendo",
+          "start": 85.0,
+          "end": 85.46
+        },
+        {
+          "word": "su",
+          "start": 85.46,
+          "end": 85.92
+        },
+        {
+          "word": "amor",
+          "start": 85.92,
+          "end": 86.9
+        },
+        {
+          "word": "tan",
+          "start": 86.9,
+          "end": 87.46
+        },
+        {
+          "word": "caro",
+          "start": 87.46,
+          "end": 88.24
+        },
+        {
+          "word": "y",
+          "start": 88.24,
+          "end": 88.5
+        },
+        {
+          "word": "profundo,",
+          "start": 88.5,
+          "end": 90.0
+        }
+      ],
+      "start": 85.0,
+      "end": 90.5,
+      "confidence": 1.0,
+      "time": 85.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "llena de encanto nuestra amistad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "llena",
+          "start": 90.5,
+          "end": 91.14
+        },
+        {
+          "word": "de",
+          "start": 91.14,
+          "end": 91.62
+        },
+        {
+          "word": "encanto",
+          "start": 91.62,
+          "end": 92.96
+        },
+        {
+          "word": "nuestra",
+          "start": 92.96,
+          "end": 93.72
+        },
+        {
+          "word": "amistad.",
+          "start": 93.72,
+          "end": 95.68
+        }
+      ],
+      "start": 90.5,
+      "end": 95.68,
+      "confidence": 1.0,
+      "time": 90.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Ando con Cristo, somos amigos,",
+      "words": [
+        {
+          "word": "Ando",
+          "start": 95.68,
+          "end": 96.58
+        },
+        {
+          "word": "con",
+          "start": 96.58,
+          "end": 97.04
+        },
+        {
+          "word": "Cristo,",
+          "start": 97.04,
+          "end": 98.24
+        },
+        {
+          "word": "somos",
+          "start": 98.8,
+          "end": 99.2
+        },
+        {
+          "word": "amigos,",
+          "start": 99.2,
+          "end": 100.76
+        }
+      ],
+      "start": 95.68,
+      "end": 101.6,
+      "confidence": 1.0,
+      "time": 95.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "todas mis cuitas las llevo a él.",
+      "words": [
+        {
+          "word": "todas",
+          "start": 101.6,
+          "end": 102.0
+        },
+        {
+          "word": "mis",
+          "start": 102.0,
+          "end": 102.54
+        },
+        {
+          "word": "cuitas",
+          "start": 102.54,
+          "end": 103.86
+        },
+        {
+          "word": "llevo",
+          "start": 103.86,
+          "end": 104.92
+        },
+        {
+          "word": "a",
+          "start": 104.92,
+          "end": 105.56
+        },
+        {
+          "word": "Él",
+          "start": 105.56,
+          "end": 106.34
+        }
+      ],
+      "start": 101.6,
+      "end": 106.34,
+      "confidence": 0.857,
+      "time": 101.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Ando con Cristo, marcho a su lado,",
+      "words": [
+        {
+          "word": "Ando",
+          "start": 106.34,
+          "end": 107.44
+        },
+        {
+          "word": "con",
+          "start": 107.44,
+          "end": 107.96
+        },
+        {
+          "word": "Cristo,",
+          "start": 107.96,
+          "end": 109.18
+        },
+        {
+          "word": "marcho",
+          "start": 109.3,
+          "end": 110.22
+        },
+        {
+          "word": "a",
+          "start": 110.22,
+          "end": 110.38
+        },
+        {
+          "word": "su",
+          "start": 110.38,
+          "end": 110.78
+        },
+        {
+          "word": "lado,",
+          "start": 110.78,
+          "end": 111.82
+        }
+      ],
+      "start": 106.34,
+      "end": 112.4,
+      "confidence": 1.0,
+      "time": 106.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "oigo la suave voz de Emanuel.",
+      "words": [
+        {
+          "word": "oigo",
+          "start": 112.4,
+          "end": 113.0
+        },
+        {
+          "word": "la",
+          "start": 113.0,
+          "end": 113.52
+        },
+        {
+          "word": "suave",
+          "start": 113.52,
+          "end": 114.86
+        },
+        {
+          "word": "voz",
+          "start": 114.86,
+          "end": 115.22
+        },
+        {
+          "word": "de",
+          "start": 115.22,
+          "end": 115.9
+        },
+        {
+          "word": "Manuel",
+          "start": 115.9,
+          "end": 117.96
+        }
+      ],
+      "start": 112.4,
+      "end": 117.96,
+      "confidence": 0.992,
+      "time": 112.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Hasta las pruebas que en mi camino",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Hasta",
+          "start": 120.84,
+          "end": 122.24
+        },
+        {
+          "word": "las",
+          "start": 122.24,
+          "end": 122.96
+        },
+        {
+          "word": "pruebas",
+          "start": 122.96,
+          "end": 124.26
+        },
+        {
+          "word": "que",
+          "start": 124.26,
+          "end": 124.64
+        },
+        {
+          "word": "en",
+          "start": 124.64,
+          "end": 125.0
+        },
+        {
+          "word": "mi",
+          "start": 125.0,
+          "end": 125.3
+        },
+        {
+          "word": "camino",
+          "start": 125.3,
+          "end": 126.68
+        }
+      ],
+      "start": 120.84,
+      "end": 126.68,
+      "confidence": 1.0,
+      "time": 120.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "quieren quitarme todo valor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "quieren",
+          "start": 126.68,
+          "end": 127.8
+        },
+        {
+          "word": "quitarme",
+          "start": 127.8,
+          "end": 129.84
+        },
+        {
+          "word": "todo",
+          "start": 129.84,
+          "end": 130.6
+        },
+        {
+          "word": "valor",
+          "start": 130.6,
+          "end": 132.16
+        }
+      ],
+      "start": 126.68,
+      "end": 132.16,
+      "confidence": 1.0,
+      "time": 126.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "solo son ayos que me conducen",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Solo",
+          "start": 132.16,
+          "end": 133.4
+        },
+        {
+          "word": "son",
+          "start": 133.4,
+          "end": 134.26
+        },
+        {
+          "word": "a",
+          "start": 134.26,
+          "end": 134.92
+        },
+        {
+          "word": "que",
+          "start": 135.18,
+          "end": 135.66
+        },
+        {
+          "word": "me",
+          "start": 135.66,
+          "end": 136.58
+        },
+        {
+          "word": "conducen",
+          "start": 136.58,
+          "end": 137.96
+        }
+      ],
+      "start": 132.16,
+      "end": 137.96,
+      "confidence": 0.99,
+      "time": 132.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "a la presencia del Salvador.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 137.96,
+          "end": 138.6
+        },
+        {
+          "word": "la",
+          "start": 138.6,
+          "end": 139.08
+        },
+        {
+          "word": "presencia",
+          "start": 139.08,
+          "end": 140.62
+        },
+        {
+          "word": "del",
+          "start": 140.62,
+          "end": 141.16
+        },
+        {
+          "word": "Salvador",
+          "start": 141.16,
+          "end": 143.02
+        }
+      ],
+      "start": 137.96,
+      "end": 143.02,
+      "confidence": 1.0,
+      "time": 137.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Ando con Cristo, somos amigos,",
+      "words": [
+        {
+          "word": "Ando",
+          "start": 143.02,
+          "end": 144.3
+        },
+        {
+          "word": "con",
+          "start": 144.3,
+          "end": 144.76
+        },
+        {
+          "word": "Cristo,",
+          "start": 144.76,
+          "end": 145.9
+        },
+        {
+          "word": "somos",
+          "start": 146.5,
+          "end": 146.92
+        },
+        {
+          "word": "amigos,",
+          "start": 146.92,
+          "end": 148.44
+        }
+      ],
+      "start": 143.02,
+      "end": 149.36,
+      "confidence": 1.0,
+      "time": 143.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "todas mis cuitas las llevo a él.",
+      "words": [
+        {
+          "word": "todas",
+          "start": 149.36,
+          "end": 149.72
+        },
+        {
+          "word": "mis",
+          "start": 149.72,
+          "end": 150.2
+        },
+        {
+          "word": "cuitas",
+          "start": 150.2,
+          "end": 151.5
+        },
+        {
+          "word": "llevo",
+          "start": 151.5,
+          "end": 152.62
+        },
+        {
+          "word": "a",
+          "start": 152.62,
+          "end": 153.2
+        },
+        {
+          "word": "Él.",
+          "start": 153.2,
+          "end": 154.02
+        }
+      ],
+      "start": 149.36,
+      "end": 154.02,
+      "confidence": 0.857,
+      "time": 149.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Ando con Cristo, marcho a su lado,",
+      "words": [
+        {
+          "word": "Ando",
+          "start": 154.52,
+          "end": 155.2
+        },
+        {
+          "word": "con",
+          "start": 155.2,
+          "end": 155.72
+        },
+        {
+          "word": "Cristo,",
+          "start": 155.72,
+          "end": 156.9
+        },
+        {
+          "word": "marcho",
+          "start": 157.32,
+          "end": 157.92
+        },
+        {
+          "word": "a",
+          "start": 157.92,
+          "end": 158.16
+        },
+        {
+          "word": "su",
+          "start": 158.16,
+          "end": 158.5
+        },
+        {
+          "word": "lado,",
+          "start": 158.5,
+          "end": 159.58
+        }
+      ],
+      "start": 154.52,
+      "end": 160.9,
+      "confidence": 1.0,
+      "time": 154.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "oigo la suave voz de Emanuel.",
+      "words": [
+        {
+          "word": "la",
+          "start": 160.9,
+          "end": 161.32
+        },
+        {
+          "word": "suave",
+          "start": 161.32,
+          "end": 162.7
+        },
+        {
+          "word": "voz",
+          "start": 162.7,
+          "end": 163.22
+        },
+        {
+          "word": "de",
+          "start": 163.22,
+          "end": 164.28
+        },
+        {
+          "word": "Manuel.",
+          "start": 164.28,
+          "end": 165.64
+        }
+      ],
+      "start": 160.9,
+      "end": 165.64,
+      "confidence": 0.826,
+      "time": 160.9
+    }
+  ]
+}

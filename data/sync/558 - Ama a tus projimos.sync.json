@@ -1,0 +1,992 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.972,
+  "language": "es",
+  "model": "medium",
+  "hymn": 558,
+  "source": "558 - Ama a tus projimos.mp3",
+  "duration": 172.04,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Ama a tus prójimos, piensa en sus almas,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Amá",
+          "start": 13.46,
+          "end": 14.74
+        },
+        {
+          "word": "tus",
+          "start": 14.74,
+          "end": 15.16
+        },
+        {
+          "word": "prójimos,",
+          "start": 15.16,
+          "end": 16.64
+        },
+        {
+          "word": "piensa",
+          "start": 17.06,
+          "end": 17.72
+        },
+        {
+          "word": "en",
+          "start": 17.72,
+          "end": 18.04
+        },
+        {
+          "word": "sus",
+          "start": 18.04,
+          "end": 18.66
+        },
+        {
+          "word": "almas,",
+          "start": 18.66,
+          "end": 19.76
+        }
+      ],
+      "start": 13.46,
+      "end": 20.7,
+      "confidence": 0.875,
+      "time": 13.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "diles la historia de Cristo, el Señor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "diles",
+          "start": 20.7,
+          "end": 21.1
+        },
+        {
+          "word": "la",
+          "start": 21.1,
+          "end": 21.5
+        },
+        {
+          "word": "historia",
+          "start": 21.5,
+          "end": 22.58
+        },
+        {
+          "word": "de",
+          "start": 22.58,
+          "end": 23.22
+        },
+        {
+          "word": "Cristo",
+          "start": 23.22,
+          "end": 24.08
+        },
+        {
+          "word": "el",
+          "start": 24.08,
+          "end": 24.52
+        },
+        {
+          "word": "Señor.",
+          "start": 24.52,
+          "end": 25.86
+        }
+      ],
+      "start": 20.7,
+      "end": 25.86,
+      "confidence": 1.0,
+      "time": 20.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cuida del huérfano, hazte su amigo.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cuida",
+          "start": 25.86,
+          "end": 27.58
+        },
+        {
+          "word": "del",
+          "start": 27.58,
+          "end": 28.02
+        },
+        {
+          "word": "huérfano,",
+          "start": 28.02,
+          "end": 29.5
+        },
+        {
+          "word": "hazte",
+          "start": 30.26,
+          "end": 30.7
+        },
+        {
+          "word": "su",
+          "start": 30.7,
+          "end": 30.98
+        },
+        {
+          "word": "amigo,",
+          "start": 30.98,
+          "end": 32.36
+        }
+      ],
+      "start": 25.86,
+      "end": 32.84,
+      "confidence": 1.0,
+      "time": 25.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo le es Padre y fiel Salvador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 32.84,
+          "end": 33.9
+        },
+        {
+          "word": "es",
+          "start": 33.9,
+          "end": 34.4
+        },
+        {
+          "word": "Padre",
+          "start": 34.4,
+          "end": 35.7
+        },
+        {
+          "word": "y",
+          "start": 35.7,
+          "end": 36.0
+        },
+        {
+          "word": "fiel",
+          "start": 36.0,
+          "end": 36.74
+        },
+        {
+          "word": "Salvador.",
+          "start": 36.74,
+          "end": 38.18
+        }
+      ],
+      "start": 32.84,
+      "end": 38.18,
+      "confidence": 0.857,
+      "time": 32.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Salva al incrédulo, mira el peligro;",
+      "words": [
+        {
+          "word": "Salva",
+          "start": 39.38,
+          "end": 40.42
+        },
+        {
+          "word": "al",
+          "start": 40.42,
+          "end": 40.74
+        },
+        {
+          "word": "incrédulo,",
+          "start": 40.74,
+          "end": 42.12
+        },
+        {
+          "word": "mira",
+          "start": 42.38,
+          "end": 43.28
+        },
+        {
+          "word": "el",
+          "start": 43.28,
+          "end": 43.74
+        },
+        {
+          "word": "peligro,",
+          "start": 43.74,
+          "end": 45.26
+        }
+      ],
+      "start": 39.38,
+      "end": 45.5,
+      "confidence": 1.0,
+      "time": 39.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Dios le perdonará, Dios le amará.",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 45.5,
+          "end": 46.32
+        },
+        {
+          "word": "le",
+          "start": 46.32,
+          "end": 47.04
+        },
+        {
+          "word": "perdonará,",
+          "start": 47.04,
+          "end": 48.5
+        },
+        {
+          "word": "Dios",
+          "start": 48.72,
+          "end": 49.46
+        },
+        {
+          "word": "le",
+          "start": 49.46,
+          "end": 49.96
+        },
+        {
+          "word": "amará.",
+          "start": 49.96,
+          "end": 51.96
+        }
+      ],
+      "start": 45.5,
+      "end": 51.96,
+      "confidence": 1.0,
+      "time": 45.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Aunque le digan \"No\", Dios los espera",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Aunque",
+          "start": 51.96,
+          "end": 53.72
+        },
+        {
+          "word": "le",
+          "start": 53.72,
+          "end": 54.58
+        },
+        {
+          "word": "digan",
+          "start": 54.58,
+          "end": 55.3
+        },
+        {
+          "word": "no,",
+          "start": 55.3,
+          "end": 55.88
+        },
+        {
+          "word": "Dios",
+          "start": 55.94,
+          "end": 56.68
+        },
+        {
+          "word": "los",
+          "start": 56.68,
+          "end": 57.4
+        },
+        {
+          "word": "espera",
+          "start": 57.4,
+          "end": 58.58
+        }
+      ],
+      "start": 51.96,
+      "end": 58.58,
+      "confidence": 1.0,
+      "time": 51.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y con amor les ofrece salud.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 58.58,
+          "end": 59.96
+        },
+        {
+          "word": "con",
+          "start": 59.96,
+          "end": 60.54
+        },
+        {
+          "word": "amor",
+          "start": 60.54,
+          "end": 61.48
+        },
+        {
+          "word": "les",
+          "start": 61.48,
+          "end": 62.1
+        },
+        {
+          "word": "ofrece",
+          "start": 62.1,
+          "end": 63.46
+        },
+        {
+          "word": "salud.",
+          "start": 63.46,
+          "end": 65.08
+        }
+      ],
+      "start": 58.58,
+      "end": 65.08,
+      "confidence": 1.0,
+      "time": 58.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si claman al Señor, él los perdona",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 65.36,
+          "end": 66.4
+        },
+        {
+          "word": "clavan",
+          "start": 66.4,
+          "end": 67.18
+        },
+        {
+          "word": "al",
+          "start": 67.18,
+          "end": 67.6
+        },
+        {
+          "word": "Señor",
+          "start": 67.6,
+          "end": 68.58
+        },
+        {
+          "word": "los",
+          "start": 69.5,
+          "end": 70.08
+        },
+        {
+          "word": "perdona",
+          "start": 70.08,
+          "end": 71.48
+        }
+      ],
+      "start": 65.36,
+      "end": 71.48,
+      "confidence": 0.843,
+      "time": 65.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y los protege con solicitud.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 71.48,
+          "end": 72.8
+        },
+        {
+          "word": "los",
+          "start": 72.8,
+          "end": 73.4
+        },
+        {
+          "word": "protege",
+          "start": 73.4,
+          "end": 74.72
+        },
+        {
+          "word": "con",
+          "start": 74.72,
+          "end": 75.32
+        },
+        {
+          "word": "solicitud,",
+          "start": 75.32,
+          "end": 77.92
+        }
+      ],
+      "start": 71.48,
+      "end": 77.92,
+      "confidence": 1.0,
+      "time": 71.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Salva al incrédulo, mira el peligro;",
+      "words": [
+        {
+          "word": "Salva",
+          "start": 77.92,
+          "end": 79.54
+        },
+        {
+          "word": "al",
+          "start": 79.54,
+          "end": 79.92
+        },
+        {
+          "word": "incrédulo,",
+          "start": 79.92,
+          "end": 81.34
+        },
+        {
+          "word": "mira",
+          "start": 81.56,
+          "end": 82.44
+        },
+        {
+          "word": "el",
+          "start": 82.44,
+          "end": 82.92
+        },
+        {
+          "word": "peligro,",
+          "start": 82.92,
+          "end": 84.46
+        }
+      ],
+      "start": 77.92,
+      "end": 84.7,
+      "confidence": 1.0,
+      "time": 77.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Dios le perdonará, Dios le amará.",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 84.7,
+          "end": 85.5
+        },
+        {
+          "word": "le",
+          "start": 85.5,
+          "end": 86.24
+        },
+        {
+          "word": "perdonará,",
+          "start": 86.24,
+          "end": 87.78
+        },
+        {
+          "word": "Dios",
+          "start": 87.92,
+          "end": 88.64
+        },
+        {
+          "word": "le",
+          "start": 88.64,
+          "end": 89.14
+        },
+        {
+          "word": "amará.",
+          "start": 89.14,
+          "end": 91.36
+        }
+      ],
+      "start": 84.7,
+      "end": 91.36,
+      "confidence": 1.0,
+      "time": 84.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Dentro del corazón triste, abatido,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Dentro",
+          "start": 92.1,
+          "end": 93.2
+        },
+        {
+          "word": "del",
+          "start": 93.2,
+          "end": 93.58
+        },
+        {
+          "word": "corazón",
+          "start": 93.58,
+          "end": 95.08
+        },
+        {
+          "word": "triste",
+          "start": 95.08,
+          "end": 96.06
+        },
+        {
+          "word": "abatido,",
+          "start": 96.06,
+          "end": 98.16
+        }
+      ],
+      "start": 92.1,
+      "end": 98.76,
+      "confidence": 1.0,
+      "time": 92.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "obra el Espíritu transformador,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "obra",
+          "start": 98.76,
+          "end": 99.34
+        },
+        {
+          "word": "el",
+          "start": 99.34,
+          "end": 99.96
+        },
+        {
+          "word": "Espíritu",
+          "start": 99.96,
+          "end": 101.58
+        },
+        {
+          "word": "transformador",
+          "start": 101.58,
+          "end": 104.24
+        }
+      ],
+      "start": 98.76,
+      "end": 104.24,
+      "confidence": 1.0,
+      "time": 98.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "que lo conducirá, arrepentido,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 104.24,
+          "end": 105.48
+        },
+        {
+          "word": "lo",
+          "start": 105.48,
+          "end": 106.24
+        },
+        {
+          "word": "conducirá",
+          "start": 106.24,
+          "end": 108.52
+        },
+        {
+          "word": "arrepentido",
+          "start": 108.52,
+          "end": 110.72
+        }
+      ],
+      "start": 104.24,
+      "end": 110.72,
+      "confidence": 1.0,
+      "time": 104.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "a Jesucristo su buen Redentor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 110.72,
+          "end": 111.96
+        },
+        {
+          "word": "Jesucristo",
+          "start": 111.96,
+          "end": 113.88
+        },
+        {
+          "word": "su",
+          "start": 113.88,
+          "end": 114.34
+        },
+        {
+          "word": "buen",
+          "start": 114.34,
+          "end": 115.08
+        },
+        {
+          "word": "Redentor.",
+          "start": 115.08,
+          "end": 117.36
+        }
+      ],
+      "start": 110.72,
+      "end": 117.36,
+      "confidence": 1.0,
+      "time": 110.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Salva al incrédulo, mira el peligro;",
+      "words": [
+        {
+          "word": "Salva",
+          "start": 117.84,
+          "end": 118.74
+        },
+        {
+          "word": "al",
+          "start": 118.74,
+          "end": 119.14
+        },
+        {
+          "word": "incrédulo,",
+          "start": 119.14,
+          "end": 120.56
+        },
+        {
+          "word": "mira",
+          "start": 120.88,
+          "end": 121.7
+        },
+        {
+          "word": "el",
+          "start": 121.7,
+          "end": 122.2
+        },
+        {
+          "word": "peligro,",
+          "start": 122.2,
+          "end": 123.68
+        }
+      ],
+      "start": 117.84,
+      "end": 123.88,
+      "confidence": 1.0,
+      "time": 117.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Dios le perdonará, Dios le amará.",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 123.88,
+          "end": 124.7
+        },
+        {
+          "word": "le",
+          "start": 124.7,
+          "end": 125.44
+        },
+        {
+          "word": "perdonará,",
+          "start": 125.44,
+          "end": 126.92
+        },
+        {
+          "word": "Dios",
+          "start": 127.1,
+          "end": 127.88
+        },
+        {
+          "word": "le",
+          "start": 127.88,
+          "end": 128.36
+        },
+        {
+          "word": "amará.",
+          "start": 128.36,
+          "end": 130.42
+        }
+      ],
+      "start": 123.88,
+      "end": 130.42,
+      "confidence": 1.0,
+      "time": 123.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Salva a tus prójimos; Cristo te ayuda;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Salva",
+          "start": 130.42,
+          "end": 132.36
+        },
+        {
+          "word": "a",
+          "start": 132.36,
+          "end": 132.52
+        },
+        {
+          "word": "tus",
+          "start": 132.52,
+          "end": 132.78
+        },
+        {
+          "word": "prójimos,",
+          "start": 132.78,
+          "end": 134.24
+        },
+        {
+          "word": "Cristo",
+          "start": 134.48,
+          "end": 135.4
+        },
+        {
+          "word": "te",
+          "start": 135.4,
+          "end": 136.0
+        },
+        {
+          "word": "ayuda,",
+          "start": 136.0,
+          "end": 137.26
+        }
+      ],
+      "start": 130.42,
+      "end": 138.08,
+      "confidence": 1.0,
+      "time": 130.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "fuerza de Dios será tuya en verdad.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "fuerza",
+          "start": 138.08,
+          "end": 138.58
+        },
+        {
+          "word": "de",
+          "start": 138.58,
+          "end": 139.2
+        },
+        {
+          "word": "Dios",
+          "start": 139.2,
+          "end": 139.9
+        },
+        {
+          "word": "será",
+          "start": 139.9,
+          "end": 140.74
+        },
+        {
+          "word": "tuya",
+          "start": 140.74,
+          "end": 141.76
+        },
+        {
+          "word": "en",
+          "start": 141.76,
+          "end": 142.16
+        },
+        {
+          "word": "verdad.",
+          "start": 142.16,
+          "end": 143.42
+        }
+      ],
+      "start": 138.08,
+      "end": 143.42,
+      "confidence": 1.0,
+      "time": 138.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Él te bendecirá en tus esfuerzos;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Él",
+          "start": 143.94,
+          "end": 144.7
+        },
+        {
+          "word": "te",
+          "start": 144.7,
+          "end": 145.24
+        },
+        {
+          "word": "bendecirá",
+          "start": 145.24,
+          "end": 147.22
+        },
+        {
+          "word": "en",
+          "start": 147.22,
+          "end": 147.98
+        },
+        {
+          "word": "tus",
+          "start": 147.98,
+          "end": 148.48
+        },
+        {
+          "word": "esfuerzos,",
+          "start": 148.48,
+          "end": 150.08
+        }
+      ],
+      "start": 143.94,
+      "end": 150.98,
+      "confidence": 1.0,
+      "time": 143.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "con él disfrutarás la eternidad.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "con",
+          "start": 150.98,
+          "end": 151.24
+        },
+        {
+          "word": "él",
+          "start": 151.24,
+          "end": 151.8
+        },
+        {
+          "word": "disfrutarás",
+          "start": 151.8,
+          "end": 153.6
+        },
+        {
+          "word": "la",
+          "start": 153.6,
+          "end": 154.36
+        },
+        {
+          "word": "eternidad.",
+          "start": 154.36,
+          "end": 156.2
+        }
+      ],
+      "start": 150.98,
+      "end": 156.2,
+      "confidence": 1.0,
+      "time": 150.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Salva al incrédulo, mira el peligro;",
+      "words": [
+        {
+          "word": "Salva",
+          "start": 156.2,
+          "end": 157.96
+        },
+        {
+          "word": "incrédulo,",
+          "start": 158.3,
+          "end": 159.84
+        },
+        {
+          "word": "mira",
+          "start": 160.78,
+          "end": 160.86
+        },
+        {
+          "word": "el",
+          "start": 160.86,
+          "end": 161.34
+        },
+        {
+          "word": "peligro,",
+          "start": 161.34,
+          "end": 162.98
+        }
+      ],
+      "start": 156.2,
+      "end": 163.48,
+      "confidence": 0.833,
+      "time": 156.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Dios le perdonará, Dios le amará.",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 163.48,
+          "end": 163.86
+        },
+        {
+          "word": "le",
+          "start": 163.86,
+          "end": 164.7
+        },
+        {
+          "word": "perdonará,",
+          "start": 164.7,
+          "end": 166.2
+        },
+        {
+          "word": "Dios",
+          "start": 166.68,
+          "end": 167.08
+        },
+        {
+          "word": "le",
+          "start": 167.08,
+          "end": 167.64
+        },
+        {
+          "word": "amará.",
+          "start": 167.64,
+          "end": 169.3
+        }
+      ],
+      "start": 163.48,
+      "end": 169.3,
+      "confidence": 1.0,
+      "time": 163.48
+    }
+  ]
+}

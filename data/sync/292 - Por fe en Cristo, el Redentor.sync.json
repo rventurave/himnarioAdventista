@@ -1,0 +1,994 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.898,
+  "language": "es",
+  "model": "medium",
+  "hymn": 292,
+  "source": "292 - Por fe en Cristo, el Redentor.mp3",
+  "duration": 147.36,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Por fe en Cristo, el Redentor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Por",
+          "start": 9.0,
+          "end": 10.4
+        },
+        {
+          "word": "Cristo",
+          "start": 11.22,
+          "end": 12.14
+        },
+        {
+          "word": "el",
+          "start": 12.14,
+          "end": 12.88
+        },
+        {
+          "word": "Redentor",
+          "start": 12.88,
+          "end": 14.1
+        }
+      ],
+      "start": 9.0,
+      "end": 14.1,
+      "confidence": 0.667,
+      "time": 9.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "se salva hoy el pecador;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "se",
+          "start": 14.1,
+          "end": 14.54
+        },
+        {
+          "word": "salva",
+          "start": 14.54,
+          "end": 15.26
+        },
+        {
+          "word": "hoy",
+          "start": 15.26,
+          "end": 16.08
+        },
+        {
+          "word": "el",
+          "start": 16.08,
+          "end": 16.74
+        },
+        {
+          "word": "pecador,",
+          "start": 16.74,
+          "end": 17.82
+        }
+      ],
+      "start": 14.1,
+      "end": 18.52,
+      "confidence": 1.0,
+      "time": 14.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "aunque sin merecer perdón,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "aunque",
+          "start": 18.52,
+          "end": 18.94
+        },
+        {
+          "word": "sin",
+          "start": 18.94,
+          "end": 19.78
+        },
+        {
+          "word": "merecer",
+          "start": 19.78,
+          "end": 21.1
+        },
+        {
+          "word": "perdón",
+          "start": 21.1,
+          "end": 22.12
+        }
+      ],
+      "start": 18.52,
+      "end": 22.12,
+      "confidence": 1.0,
+      "time": 18.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "recibe plena salvación.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "recibe",
+          "start": 22.12,
+          "end": 23.44
+        },
+        {
+          "word": "plena",
+          "start": 23.44,
+          "end": 24.84
+        },
+        {
+          "word": "salvación.",
+          "start": 24.84,
+          "end": 27.12
+        }
+      ],
+      "start": 22.12,
+      "end": 27.12,
+      "confidence": 1.0,
+      "time": 22.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, gracia excelsa del amor,",
+      "words": [
+        {
+          "word": "grasa",
+          "start": 28.94,
+          "end": 29.54
+        },
+        {
+          "word": "excelsa",
+          "start": 29.54,
+          "end": 31.08
+        },
+        {
+          "word": "del",
+          "start": 31.08,
+          "end": 31.46
+        },
+        {
+          "word": "amor",
+          "start": 31.46,
+          "end": 32.16
+        }
+      ],
+      "start": 28.94,
+      "end": 32.16,
+      "confidence": 0.767,
+      "time": 28.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "que Dios perdone al pecador!",
+      "words": [
+        {
+          "word": "que",
+          "start": 32.16,
+          "end": 32.96
+        },
+        {
+          "word": "Dios",
+          "start": 32.96,
+          "end": 33.38
+        },
+        {
+          "word": "perdoña",
+          "start": 33.38,
+          "end": 34.72
+        },
+        {
+          "word": "al",
+          "start": 34.72,
+          "end": 35.2
+        },
+        {
+          "word": "pregador,",
+          "start": 35.2,
+          "end": 36.24
+        }
+      ],
+      "start": 32.16,
+      "end": 36.24,
+      "confidence": 0.959,
+      "time": 32.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Si quiere presto confesar",
+      "words": [
+        {
+          "word": "si",
+          "start": 36.8,
+          "end": 37.12
+        },
+        {
+          "word": "quiere",
+          "start": 37.12,
+          "end": 37.76
+        },
+        {
+          "word": "presto",
+          "start": 37.76,
+          "end": 39.28
+        },
+        {
+          "word": "contestar",
+          "start": 39.28,
+          "end": 40.5
+        }
+      ],
+      "start": 36.8,
+      "end": 40.5,
+      "confidence": 0.974,
+      "time": 36.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "sus culpas, y en Jesús confiar,",
+      "words": [
+        {
+          "word": "sus",
+          "start": 40.5,
+          "end": 41.22
+        },
+        {
+          "word": "culpas",
+          "start": 41.22,
+          "end": 42.02
+        },
+        {
+          "word": "y",
+          "start": 42.02,
+          "end": 42.5
+        },
+        {
+          "word": "en",
+          "start": 42.5,
+          "end": 42.74
+        },
+        {
+          "word": "Jesús",
+          "start": 42.74,
+          "end": 43.56
+        },
+        {
+          "word": "obviar,",
+          "start": 43.56,
+          "end": 44.6
+        }
+      ],
+      "start": 40.5,
+      "end": 44.6,
+      "confidence": 0.962,
+      "time": 40.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "encontrará la salvación,",
+      "words": [
+        {
+          "word": "encontrará",
+          "start": 45.74,
+          "end": 46.96
+        },
+        {
+          "word": "la",
+          "start": 46.96,
+          "end": 47.64
+        },
+        {
+          "word": "salvación",
+          "start": 47.64,
+          "end": 48.5
+        }
+      ],
+      "start": 45.74,
+      "end": 48.5,
+      "confidence": 1.0,
+      "time": 45.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "pues él obró la redención.",
+      "words": [
+        {
+          "word": "pues",
+          "start": 48.5,
+          "end": 49.38
+        },
+        {
+          "word": "logró",
+          "start": 49.92,
+          "end": 51.12
+        },
+        {
+          "word": "la",
+          "start": 51.12,
+          "end": 51.76
+        },
+        {
+          "word": "redención.",
+          "start": 51.76,
+          "end": 54.22
+        }
+      ],
+      "start": 48.5,
+      "end": 54.22,
+      "confidence": 0.76,
+      "time": 48.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "La vida antigua ya pasó",
+      "verse": 2,
+      "words": [
+        {
+          "word": "La",
+          "start": 54.22,
+          "end": 55.42
+        },
+        {
+          "word": "vida",
+          "start": 55.42,
+          "end": 56.12
+        },
+        {
+          "word": "antigua",
+          "start": 56.12,
+          "end": 57.46
+        },
+        {
+          "word": "ya",
+          "start": 57.46,
+          "end": 57.9
+        },
+        {
+          "word": "pasó",
+          "start": 57.9,
+          "end": 58.64
+        }
+      ],
+      "start": 54.22,
+      "end": 58.64,
+      "confidence": 1.0,
+      "time": 54.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y todo en nuevo se tornó,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 58.64,
+          "end": 59.44
+        },
+        {
+          "word": "todo",
+          "start": 59.44,
+          "end": 60.02
+        },
+        {
+          "word": "en",
+          "start": 60.02,
+          "end": 60.2
+        },
+        {
+          "word": "nuevo",
+          "start": 60.2,
+          "end": 61.3
+        },
+        {
+          "word": "se",
+          "start": 61.3,
+          "end": 61.96
+        },
+        {
+          "word": "tornó,",
+          "start": 61.96,
+          "end": 62.8
+        }
+      ],
+      "start": 58.64,
+      "end": 62.84,
+      "confidence": 1.0,
+      "time": 58.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y aunque nada tenga aquí,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 62.84,
+          "end": 63.76
+        },
+        {
+          "word": "aunque",
+          "start": 63.76,
+          "end": 64.22
+        },
+        {
+          "word": "nada",
+          "start": 64.22,
+          "end": 65.5
+        },
+        {
+          "word": "tenga",
+          "start": 65.5,
+          "end": 66.1
+        },
+        {
+          "word": "aquí,",
+          "start": 66.1,
+          "end": 66.86
+        }
+      ],
+      "start": 62.84,
+      "end": 67.64,
+      "confidence": 1.0,
+      "time": 62.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "herencia eterna tiene allí.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "herencia",
+          "start": 67.64,
+          "end": 68.24
+        },
+        {
+          "word": "eterna",
+          "start": 68.24,
+          "end": 69.7
+        },
+        {
+          "word": "tiene",
+          "start": 69.7,
+          "end": 70.28
+        }
+      ],
+      "start": 67.64,
+      "end": 71.44,
+      "confidence": 0.75,
+      "time": 67.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, gracia excelsa del amor,",
+      "words": [
+        {
+          "word": "grasa",
+          "start": 73.38,
+          "end": 73.86
+        },
+        {
+          "word": "excelsa",
+          "start": 73.86,
+          "end": 75.42
+        },
+        {
+          "word": "del",
+          "start": 75.42,
+          "end": 75.76
+        },
+        {
+          "word": "amor",
+          "start": 75.76,
+          "end": 76.46
+        }
+      ],
+      "start": 73.38,
+      "end": 76.46,
+      "confidence": 0.767,
+      "time": 73.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "que Dios perdone al pecador!",
+      "words": [
+        {
+          "word": "que",
+          "start": 76.46,
+          "end": 77.34
+        },
+        {
+          "word": "Dios",
+          "start": 77.34,
+          "end": 77.72
+        },
+        {
+          "word": "pervone",
+          "start": 77.72,
+          "end": 78.84
+        },
+        {
+          "word": "al",
+          "start": 78.84,
+          "end": 79.56
+        },
+        {
+          "word": "pecador,",
+          "start": 79.56,
+          "end": 80.64
+        }
+      ],
+      "start": 76.46,
+      "end": 80.64,
+      "confidence": 0.983,
+      "time": 76.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Si quiere presto confesar",
+      "words": [
+        {
+          "word": "sin",
+          "start": 81.0,
+          "end": 81.4
+        },
+        {
+          "word": "querer",
+          "start": 81.4,
+          "end": 82.22
+        },
+        {
+          "word": "presto",
+          "start": 82.22,
+          "end": 83.52
+        },
+        {
+          "word": "confesar",
+          "start": 83.52,
+          "end": 84.64
+        }
+      ],
+      "start": 81.0,
+      "end": 84.64,
+      "confidence": 0.945,
+      "time": 81.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "sus culpas, y en Jesús confiar,",
+      "words": [
+        {
+          "word": "sus",
+          "start": 84.64,
+          "end": 85.48
+        },
+        {
+          "word": "culgas",
+          "start": 85.48,
+          "end": 86.22
+        },
+        {
+          "word": "y",
+          "start": 86.22,
+          "end": 86.78
+        },
+        {
+          "word": "en",
+          "start": 86.78,
+          "end": 87.22
+        },
+        {
+          "word": "Jesús",
+          "start": 87.22,
+          "end": 87.96
+        },
+        {
+          "word": "confiar,",
+          "start": 87.96,
+          "end": 88.74
+        }
+      ],
+      "start": 84.64,
+      "end": 88.74,
+      "confidence": 0.983,
+      "time": 84.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "encontrará la salvación,",
+      "words": [
+        {
+          "word": "encontrará",
+          "start": 89.96,
+          "end": 91.32
+        },
+        {
+          "word": "la",
+          "start": 91.32,
+          "end": 91.88
+        },
+        {
+          "word": "salvación",
+          "start": 91.88,
+          "end": 92.82
+        }
+      ],
+      "start": 89.96,
+      "end": 92.82,
+      "confidence": 1.0,
+      "time": 89.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "pues él obró la redención.",
+      "words": [
+        {
+          "word": "pues",
+          "start": 92.82,
+          "end": 93.7
+        },
+        {
+          "word": "logró",
+          "start": 94.2,
+          "end": 95.14
+        },
+        {
+          "word": "la",
+          "start": 95.14,
+          "end": 96.0
+        },
+        {
+          "word": "redención.",
+          "start": 96.0,
+          "end": 98.04
+        }
+      ],
+      "start": 92.82,
+      "end": 98.04,
+      "confidence": 0.76,
+      "time": 92.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Aquí cual peregrino es;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Aquí",
+          "start": 98.04,
+          "end": 100.18
+        },
+        {
+          "word": "cual",
+          "start": 100.18,
+          "end": 100.54
+        },
+        {
+          "word": "peregrino",
+          "start": 100.54,
+          "end": 102.68
+        },
+        {
+          "word": "es,",
+          "start": 102.68,
+          "end": 103.18
+        }
+      ],
+      "start": 98.04,
+      "end": 103.7,
+      "confidence": 1.0,
+      "time": 98.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "mansión allá tendrá después,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mansiona",
+          "start": 103.7,
+          "end": 104.44
+        },
+        {
+          "word": "atendrá",
+          "start": 105.02,
+          "end": 106.32
+        },
+        {
+          "word": "después,",
+          "start": 106.32,
+          "end": 107.2
+        }
+      ],
+      "start": 103.7,
+      "end": 107.2,
+      "confidence": 0.723,
+      "time": 103.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "arriba en gloria con Jesús,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "arriba",
+          "start": 108.06,
+          "end": 108.48
+        },
+        {
+          "word": "en",
+          "start": 108.48,
+          "end": 108.82
+        },
+        {
+          "word": "gloria",
+          "start": 108.82,
+          "end": 109.94
+        },
+        {
+          "word": "con",
+          "start": 109.94,
+          "end": 110.44
+        },
+        {
+          "word": "Jesús,",
+          "start": 110.44,
+          "end": 111.16
+        }
+      ],
+      "start": 108.06,
+      "end": 111.66,
+      "confidence": 1.0,
+      "time": 108.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "quien redimiole en la cruz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "quien",
+          "start": 111.66,
+          "end": 112.12
+        },
+        {
+          "word": "redimió",
+          "start": 112.12,
+          "end": 113.52
+        },
+        {
+          "word": "la",
+          "start": 114.36,
+          "end": 114.9
+        },
+        {
+          "word": "cruz.",
+          "start": 114.9,
+          "end": 116.38
+        }
+      ],
+      "start": 111.66,
+      "end": 116.38,
+      "confidence": 0.788,
+      "time": 111.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, gracia excelsa del amor,",
+      "words": [
+        {
+          "word": "excelsa",
+          "start": 118.2,
+          "end": 119.82
+        },
+        {
+          "word": "del",
+          "start": 119.82,
+          "end": 120.18
+        },
+        {
+          "word": "amor,",
+          "start": 120.18,
+          "end": 120.82
+        }
+      ],
+      "start": 118.2,
+      "end": 121.1,
+      "confidence": 0.6,
+      "time": 118.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "que Dios perdone al pecador!",
+      "words": [
+        {
+          "word": "que",
+          "start": 121.1,
+          "end": 121.68
+        },
+        {
+          "word": "Dios",
+          "start": 121.68,
+          "end": 122.1
+        },
+        {
+          "word": "perdoe",
+          "start": 122.1,
+          "end": 123.32
+        },
+        {
+          "word": "al",
+          "start": 123.32,
+          "end": 123.82
+        },
+        {
+          "word": "pregador,",
+          "start": 123.82,
+          "end": 124.9
+        }
+      ],
+      "start": 121.1,
+      "end": 125.36,
+      "confidence": 0.967,
+      "time": 121.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Si quiere presto confesar",
+      "words": [
+        {
+          "word": "si",
+          "start": 125.36,
+          "end": 125.86
+        },
+        {
+          "word": "quiere",
+          "start": 125.86,
+          "end": 126.48
+        },
+        {
+          "word": "presto",
+          "start": 126.48,
+          "end": 127.96
+        },
+        {
+          "word": "confesar",
+          "start": 127.96,
+          "end": 129.04
+        }
+      ],
+      "start": 125.36,
+      "end": 129.04,
+      "confidence": 1.0,
+      "time": 125.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "sus culpas, y en Jesús confiar,",
+      "words": [
+        {
+          "word": "sus",
+          "start": 129.04,
+          "end": 129.9
+        },
+        {
+          "word": "culpas",
+          "start": 129.9,
+          "end": 130.66
+        },
+        {
+          "word": "y",
+          "start": 130.66,
+          "end": 131.16
+        },
+        {
+          "word": "en",
+          "start": 131.16,
+          "end": 131.38
+        },
+        {
+          "word": "Jesús",
+          "start": 131.38,
+          "end": 132.28
+        },
+        {
+          "word": "confiar,",
+          "start": 132.28,
+          "end": 133.06
+        }
+      ],
+      "start": 129.04,
+      "end": 134.0,
+      "confidence": 1.0,
+      "time": 129.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "encontrará la salvación,",
+      "words": [
+        {
+          "word": "encontrará",
+          "start": 134.0,
+          "end": 135.48
+        },
+        {
+          "word": "la",
+          "start": 135.48,
+          "end": 136.28
+        },
+        {
+          "word": "salvación,",
+          "start": 136.28,
+          "end": 137.28
+        }
+      ],
+      "start": 134.0,
+      "end": 137.64,
+      "confidence": 1.0,
+      "time": 134.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "pues él obró la redención.",
+      "words": [
+        {
+          "word": "pues",
+          "start": 137.64,
+          "end": 138.12
+        },
+        {
+          "word": "logró",
+          "start": 138.7,
+          "end": 139.56
+        },
+        {
+          "word": "la",
+          "start": 139.56,
+          "end": 140.34
+        },
+        {
+          "word": "retención.",
+          "start": 140.34,
+          "end": 142.36
+        }
+      ],
+      "start": 137.64,
+      "end": 142.36,
+      "confidence": 0.747,
+      "time": 137.64
+    }
+  ]
+}

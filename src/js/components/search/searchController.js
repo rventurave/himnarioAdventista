@@ -13,27 +13,40 @@ import {
 } from "./searchView.js";
 
 let searchTimeout = null;
+let selectedHymn = null;
+let searchToken = 0;
 
 /**
  * Se ejecuta cuando el usuario selecciona un himno.
- * Navega a /X conservando el modo elegido en el selector.
+ * Completa el buscador; el formulario inicia la reproducción después.
  */
 function selectHymn(hymn) {
-  setInputValue(hymn.title);
+  clearTimeout(searchTimeout);
+  searchToken += 1;
+  selectedHymn = hymn;
+  setInputValue(`${hymn.number} - ${hymn.title}`);
   clearSuggestions();
 
-  navigate(getHymnPath(hymn.number, getMode()));
+  getInput().focus();
+}
+
+function openSelectedHymn() {
+  clearSuggestions();
+  navigate(getHymnPath(selectedHymn.number, getMode()));
 }
 
 /**
  * Busca y muestra las sugerencias.
  */
 async function showSuggestions(query) {
+  const token = ++searchToken;
   try {
     const results = await searchHymns(query);
+    if (token !== searchToken || query !== getInputValue()) return;
 
     renderSuggestions(results);
   } catch (error) {
+    if (token !== searchToken) return;
     console.error("Error al buscar himnos:", error);
 
     renderErrorMessage("Ocurrió un error al buscar.");
@@ -44,6 +57,8 @@ async function showSuggestions(query) {
  * Escucha lo que el usuario escribe.
  */
 function handleInput() {
+  searchToken += 1;
+  selectedHymn = null;
   const query = getInputValue();
 
   clearTimeout(searchTimeout);
@@ -68,10 +83,18 @@ function handleInput() {
  */
 async function handleSubmit(event) {
   event.preventDefault();
+  clearTimeout(searchTimeout);
+  const token = ++searchToken;
 
   const query = getInputValue();
 
   if (!query) {
+    return;
+  }
+
+  // Enter o el botón inician el himno seleccionado en el modo elegido ahora.
+  if (selectedHymn && query === `${selectedHymn.number} - ${selectedHymn.title}`) {
+    openSelectedHymn();
     return;
   }
 
@@ -81,9 +104,11 @@ async function handleSubmit(event) {
      * Si es texto, buscamos por título.
      */
     const results = await searchHymns(query);
+    if (token !== searchToken || query !== getInputValue()) return;
 
     if (results.length === 1) {
       selectHymn(results[0]);
+      openSelectedHymn();
       return;
     }
 

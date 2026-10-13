@@ -6,7 +6,7 @@ const page = await browser.newPage();
 const errors = [];
 page.on('pageerror', e => errors.push(e.message));
 const numbers = process.env.TEST_HYMNS?.split(',').map(Number) || [1, 8, 83, 379, 524, 585];
-// La app adelanta la letra al audio (LYRICS_LEAD_SECONDS en audioMode.js): para
+// La app adelanta la letra al audio (LYRICS_LEAD_SECONDS en constants.js): para
 // que una frase esté activa hay que situar currentTime ese tanto antes de su inicio.
 const LEAD = Number(process.env.TEST_LEAD ?? 1);
 for (const number of numbers) {
@@ -62,7 +62,7 @@ await page.goto(`${baseUrl}/8?mode=lyrics`);
 await page.waitForFunction(() => !document.querySelector('#hymn-nav').hidden);
 await page.keyboard.press('ArrowRight');
 assert.ok(await page.locator('#lyrics-stage').isVisible());
-assert.equal(await page.locator('#lyric-section').isVisible(), false);
+assert.equal(await page.locator('#lyric-section').isVisible(), true);
 assert.ok((await page.locator('#lyric-current').textContent()).length);
 assert.deepEqual(errors, []);
 console.log('Modo Letra y consola verificados.');

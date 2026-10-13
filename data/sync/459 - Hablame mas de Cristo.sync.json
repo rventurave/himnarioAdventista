@@ -1,0 +1,788 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.79,
+  "language": "es",
+  "model": "medium",
+  "hymn": 459,
+  "source": "459 - Hablame mas de Cristo.mp3",
+  "duration": 164.1,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Quiero escuchar de aquel grande amor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 13.38,
+          "end": 14.56
+        },
+        {
+          "word": "escuchar",
+          "start": 14.56,
+          "end": 15.74
+        },
+        {
+          "word": "que",
+          "start": 16.36,
+          "end": 16.92
+        },
+        {
+          "word": "Grande",
+          "start": 17.34,
+          "end": 17.72
+        },
+        {
+          "word": "Amor,",
+          "start": 17.72,
+          "end": 19.06
+        }
+      ],
+      "start": 13.38,
+      "end": 19.9,
+      "confidence": 0.808,
+      "time": 13.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que en el Calvario Dios nos mostró;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 19.9,
+          "end": 20.04
+        },
+        {
+          "word": "en",
+          "start": 20.04,
+          "end": 20.36
+        },
+        {
+          "word": "el",
+          "start": 20.36,
+          "end": 20.64
+        },
+        {
+          "word": "Calvario",
+          "start": 20.64,
+          "end": 22.24
+        },
+        {
+          "word": "Dios",
+          "start": 22.24,
+          "end": 23.1
+        },
+        {
+          "word": "nos",
+          "start": 23.1,
+          "end": 23.66
+        },
+        {
+          "word": "mostró,",
+          "start": 23.66,
+          "end": 24.86
+        }
+      ],
+      "start": 19.9,
+      "end": 24.86,
+      "confidence": 1.0,
+      "time": 19.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "quiero escuchar del buen Salvador,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 24.86,
+          "end": 26.36
+        },
+        {
+          "word": "escuchar",
+          "start": 26.36,
+          "end": 27.94
+        },
+        {
+          "word": "del",
+          "start": 27.94,
+          "end": 28.38
+        },
+        {
+          "word": "buen",
+          "start": 28.38,
+          "end": 29.02
+        },
+        {
+          "word": "Salvador,",
+          "start": 29.02,
+          "end": 30.8
+        }
+      ],
+      "start": 24.86,
+      "end": 30.8,
+      "confidence": 1.0,
+      "time": 24.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡háblame más de Cristo!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Habrá",
+          "start": 32.18,
+          "end": 32.64
+        },
+        {
+          "word": "más",
+          "start": 32.94,
+          "end": 33.7
+        },
+        {
+          "word": "de",
+          "start": 33.7,
+          "end": 34.5
+        },
+        {
+          "word": "Cristo.",
+          "start": 34.5,
+          "end": 36.48
+        }
+      ],
+      "start": 32.18,
+      "end": 36.48,
+      "confidence": 0.95,
+      "time": 32.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Quiero escuchar la historia fiel",
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 37.36,
+          "end": 38.52
+        },
+        {
+          "word": "escuchar",
+          "start": 38.52,
+          "end": 39.78
+        },
+        {
+          "word": "la",
+          "start": 39.78,
+          "end": 40.3
+        },
+        {
+          "word": "historia",
+          "start": 40.3,
+          "end": 41.72
+        }
+      ],
+      "start": 37.36,
+      "end": 42.9,
+      "confidence": 0.8,
+      "time": 37.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "de mi Jesús, mi Salvador;",
+      "words": [
+        {
+          "word": "De",
+          "start": 42.9,
+          "end": 44.0
+        },
+        {
+          "word": "mi",
+          "start": 44.0,
+          "end": 44.52
+        },
+        {
+          "word": "Jesucristo",
+          "start": 44.52,
+          "end": 46.3
+        },
+        {
+          "word": "Salvador",
+          "start": 46.3,
+          "end": 49.04
+        }
+      ],
+      "start": 42.9,
+      "end": 49.04,
+      "confidence": 0.76,
+      "time": 42.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "quiero vivir tan solo por él,",
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 49.04,
+          "end": 50.58
+        },
+        {
+          "word": "vivir",
+          "start": 50.58,
+          "end": 51.56
+        },
+        {
+          "word": "tan",
+          "start": 51.56,
+          "end": 52.48
+        },
+        {
+          "word": "solo",
+          "start": 52.48,
+          "end": 53.52
+        },
+        {
+          "word": "Él,",
+          "start": 54.2,
+          "end": 55.2
+        }
+      ],
+      "start": 49.04,
+      "end": 55.2,
+      "confidence": 0.833,
+      "time": 49.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡háblame más de Cristo!",
+      "words": [
+        {
+          "word": "más",
+          "start": 56.94,
+          "end": 57.58
+        },
+        {
+          "word": "de",
+          "start": 57.58,
+          "end": 58.58
+        },
+        {
+          "word": "Cristo.",
+          "start": 58.58,
+          "end": 60.98
+        }
+      ],
+      "start": 56.94,
+      "end": 60.98,
+      "confidence": 0.75,
+      "time": 56.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cuando me asalte la tentación",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 62.38,
+          "end": 63.32
+        },
+        {
+          "word": "me",
+          "start": 63.32,
+          "end": 63.74
+        },
+        {
+          "word": "asalte",
+          "start": 63.74,
+          "end": 65.08
+        },
+        {
+          "word": "la",
+          "start": 65.08,
+          "end": 65.88
+        },
+        {
+          "word": "tentación,",
+          "start": 65.88,
+          "end": 67.8
+        }
+      ],
+      "start": 62.38,
+      "end": 67.8,
+      "confidence": 1.0,
+      "time": 62.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y aviesas redes tienda a mi pie;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Y",
+          "start": 68.58,
+          "end": 68.92
+        },
+        {
+          "word": "a",
+          "start": 68.92,
+          "end": 68.98
+        },
+        {
+          "word": "veres",
+          "start": 69.88,
+          "end": 71.24
+        },
+        {
+          "word": "pierda",
+          "start": 71.24,
+          "end": 72.44
+        },
+        {
+          "word": "mi",
+          "start": 72.44,
+          "end": 72.96
+        },
+        {
+          "word": "piel,",
+          "start": 72.96,
+          "end": 73.7
+        }
+      ],
+      "start": 68.58,
+      "end": 73.7,
+      "confidence": 0.777,
+      "time": 68.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "quiero tener en él protección,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 73.7,
+          "end": 75.42
+        },
+        {
+          "word": "den",
+          "start": 76.88,
+          "end": 77.82
+        },
+        {
+          "word": "el",
+          "start": 77.82,
+          "end": 78.14
+        },
+        {
+          "word": "promesón,",
+          "start": 78.14,
+          "end": 80.06
+        }
+      ],
+      "start": 73.7,
+      "end": 80.94,
+      "confidence": 0.736,
+      "time": 73.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡háblame más de Cristo!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "háblame",
+          "start": 80.94,
+          "end": 81.66
+        },
+        {
+          "word": "más",
+          "start": 81.66,
+          "end": 82.44
+        },
+        {
+          "word": "de",
+          "start": 82.44,
+          "end": 83.16
+        },
+        {
+          "word": "Cristo.",
+          "start": 83.16,
+          "end": 85.74
+        }
+      ],
+      "start": 80.94,
+      "end": 85.74,
+      "confidence": 1.0,
+      "time": 80.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Quiero escuchar la historia fiel",
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 86.78,
+          "end": 87.28
+        },
+        {
+          "word": "escuchar",
+          "start": 87.28,
+          "end": 88.56
+        },
+        {
+          "word": "la",
+          "start": 88.56,
+          "end": 89.16
+        },
+        {
+          "word": "historia",
+          "start": 89.16,
+          "end": 90.36
+        }
+      ],
+      "start": 86.78,
+      "end": 92.5,
+      "confidence": 0.8,
+      "time": 86.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "de mi Jesús, mi Salvador;",
+      "words": [
+        {
+          "word": "de",
+          "start": 92.5,
+          "end": 92.9
+        },
+        {
+          "word": "mi",
+          "start": 92.9,
+          "end": 93.42
+        },
+        {
+          "word": "Jesús",
+          "start": 93.42,
+          "end": 94.32
+        },
+        {
+          "word": "mi",
+          "start": 94.32,
+          "end": 95.24
+        },
+        {
+          "word": "Salvador.",
+          "start": 95.24,
+          "end": 97.08
+        }
+      ],
+      "start": 92.5,
+      "end": 97.08,
+      "confidence": 1.0,
+      "time": 92.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "quiero vivir tan solo por él,",
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 97.08,
+          "end": 99.46
+        },
+        {
+          "word": "vivir",
+          "start": 99.46,
+          "end": 100.52
+        },
+        {
+          "word": "tan",
+          "start": 100.52,
+          "end": 101.36
+        },
+        {
+          "word": "solo",
+          "start": 101.36,
+          "end": 102.4
+        },
+        {
+          "word": "por",
+          "start": 102.4,
+          "end": 103.16
+        },
+        {
+          "word": "él,",
+          "start": 103.16,
+          "end": 104.12
+        }
+      ],
+      "start": 97.08,
+      "end": 106.68,
+      "confidence": 1.0,
+      "time": 97.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡háblame más de Cristo!",
+      "words": [
+        {
+          "word": "de",
+          "start": 106.68,
+          "end": 107.46
+        },
+        {
+          "word": "Cristo.",
+          "start": 107.46,
+          "end": 109.68
+        }
+      ],
+      "start": 106.68,
+      "end": 109.68,
+      "confidence": 0.5,
+      "time": 106.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cuando en la lucha falte la fe",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 111.22,
+          "end": 112.08
+        },
+        {
+          "word": "en",
+          "start": 112.08,
+          "end": 112.52
+        },
+        {
+          "word": "la",
+          "start": 112.52,
+          "end": 113.08
+        },
+        {
+          "word": "lucha",
+          "start": 113.08,
+          "end": 113.86
+        }
+      ],
+      "start": 111.22,
+      "end": 117.26,
+      "confidence": 0.571,
+      "time": 111.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y el alma sienta desfallecer;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 117.26,
+          "end": 117.84
+        },
+        {
+          "word": "el",
+          "start": 117.84,
+          "end": 118.28
+        },
+        {
+          "word": "almacén",
+          "start": 118.28,
+          "end": 119.86
+        }
+      ],
+      "start": 117.26,
+      "end": 122.08,
+      "confidence": 0.588,
+      "time": 117.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "quiero saber que ayuda tendré,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 122.42,
+          "end": 124.3
+        },
+        {
+          "word": "saber",
+          "start": 124.3,
+          "end": 125.24
+        },
+        {
+          "word": "que",
+          "start": 125.24,
+          "end": 126.1
+        },
+        {
+          "word": "ayuda",
+          "start": 126.1,
+          "end": 127.28
+        },
+        {
+          "word": "tendré",
+          "start": 127.28,
+          "end": 129.1
+        }
+      ],
+      "start": 122.42,
+      "end": 130.5,
+      "confidence": 1.0,
+      "time": 122.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡háblame más de Cristo!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "demás",
+          "start": 130.5,
+          "end": 131.38
+        },
+        {
+          "word": "de",
+          "start": 131.38,
+          "end": 132.3
+        },
+        {
+          "word": "Cristo",
+          "start": 132.3,
+          "end": 134.74
+        }
+      ],
+      "start": 130.5,
+      "end": 134.74,
+      "confidence": 0.712,
+      "time": 130.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Quiero escuchar la historia fiel",
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 134.74,
+          "end": 136.26
+        },
+        {
+          "word": "escuchar",
+          "start": 136.26,
+          "end": 137.72
+        },
+        {
+          "word": "la",
+          "start": 137.72,
+          "end": 138.2
+        },
+        {
+          "word": "historia",
+          "start": 138.2,
+          "end": 139.58
+        }
+      ],
+      "start": 134.74,
+      "end": 142.12,
+      "confidence": 0.8,
+      "time": 134.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "de mi Jesús, mi Salvador;",
+      "words": [
+        {
+          "word": "mi",
+          "start": 142.12,
+          "end": 142.42
+        },
+        {
+          "word": "Jesús",
+          "start": 142.42,
+          "end": 143.34
+        },
+        {
+          "word": "salvó",
+          "start": 144.12,
+          "end": 146.62
+        }
+      ],
+      "start": 142.12,
+      "end": 146.62,
+      "confidence": 0.572,
+      "time": 142.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "quiero vivir tan solo por él,",
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 146.62,
+          "end": 148.44
+        },
+        {
+          "word": "solo",
+          "start": 149.94,
+          "end": 151.36
+        },
+        {
+          "word": "por",
+          "start": 151.36,
+          "end": 152.04
+        },
+        {
+          "word": "él,",
+          "start": 152.04,
+          "end": 152.74
+        }
+      ],
+      "start": 146.62,
+      "end": 152.74,
+      "confidence": 0.667,
+      "time": 146.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡háblame más de Cristo!",
+      "words": [
+        {
+          "word": "trista.",
+          "start": 156.12,
+          "end": 158.72
+        }
+      ],
+      "start": 156.12,
+      "end": 158.72,
+      "confidence": 0.2,
+      "time": 156.12
+    }
+  ]
+}

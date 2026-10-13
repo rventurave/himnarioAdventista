@@ -1,0 +1,858 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.854,
+  "language": "es",
+  "model": "medium",
+  "hymn": 324,
+  "source": "324 - Pronto yo vere a Jesus.mp3",
+  "duration": 152.74,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Pronto yo veré a Jesús el Rey",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Pronto",
+          "start": 11.5,
+          "end": 12.82
+        },
+        {
+          "word": "yo",
+          "start": 12.82,
+          "end": 13.64
+        },
+        {
+          "word": "a",
+          "start": 15.08,
+          "end": 15.4
+        },
+        {
+          "word": "Jesús,",
+          "start": 15.4,
+          "end": 16.2
+        },
+        {
+          "word": "el",
+          "start": 17.02,
+          "end": 17.04
+        },
+        {
+          "word": "Rey,",
+          "start": 17.04,
+          "end": 17.42
+        }
+      ],
+      "start": 11.5,
+      "end": 18.04,
+      "confidence": 0.857,
+      "time": 11.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con su hueste angelical;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "con",
+          "start": 18.04,
+          "end": 18.18
+        },
+        {
+          "word": "su",
+          "start": 18.18,
+          "end": 18.36
+        }
+      ],
+      "start": 18.04,
+      "end": 22.62,
+      "confidence": 0.5,
+      "time": 18.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en la bella tierra do moraré,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 22.62,
+          "end": 23.52
+        },
+        {
+          "word": "la",
+          "start": 23.52,
+          "end": 23.98
+        },
+        {
+          "word": "bella",
+          "start": 23.98,
+          "end": 25.16
+        },
+        {
+          "word": "tierra",
+          "start": 25.16,
+          "end": 26.26
+        },
+        {
+          "word": "Morané,",
+          "start": 26.72,
+          "end": 28.66
+        }
+      ],
+      "start": 22.62,
+      "end": 29.0,
+      "confidence": 0.817,
+      "time": 22.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cara a cara lo veré.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cada",
+          "start": 29.0,
+          "end": 29.36
+        },
+        {
+          "word": "cara",
+          "start": 29.36,
+          "end": 30.7
+        },
+        {
+          "word": "lo",
+          "start": 30.7,
+          "end": 31.7
+        },
+        {
+          "word": "veré.",
+          "start": 31.7,
+          "end": 33.84
+        }
+      ],
+      "start": 29.0,
+      "end": 33.84,
+      "confidence": 0.77,
+      "time": 29.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "En su gloria yo veré al Rey,",
+      "words": [
+        {
+          "word": "En",
+          "start": 34.2,
+          "end": 34.64
+        },
+        {
+          "word": "su",
+          "start": 34.64,
+          "end": 35.12
+        },
+        {
+          "word": "noia",
+          "start": 35.12,
+          "end": 36.74
+        },
+        {
+          "word": "veré",
+          "start": 37.5,
+          "end": 38.24
+        },
+        {
+          "word": "al",
+          "start": 38.24,
+          "end": 38.54
+        },
+        {
+          "word": "Rey,",
+          "start": 38.54,
+          "end": 39.34
+        }
+      ],
+      "start": 34.2,
+      "end": 39.92,
+      "confidence": 0.823,
+      "time": 34.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y loores siempre cantaré;",
+      "words": [
+        {
+          "word": "y",
+          "start": 39.92,
+          "end": 40.32
+        },
+        {
+          "word": "siempre",
+          "start": 42.46,
+          "end": 43.12
+        },
+        {
+          "word": "cantaré.",
+          "start": 43.12,
+          "end": 44.76
+        }
+      ],
+      "start": 39.92,
+      "end": 44.76,
+      "confidence": 0.75,
+      "time": 39.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en la cruz murió mi Jesús por mí",
+      "words": [
+        {
+          "word": "En",
+          "start": 44.76,
+          "end": 45.6
+        },
+        {
+          "word": "la",
+          "start": 45.6,
+          "end": 46.04
+        },
+        {
+          "word": "cruz",
+          "start": 46.04,
+          "end": 47.18
+        },
+        {
+          "word": "murió",
+          "start": 47.18,
+          "end": 48.0
+        },
+        {
+          "word": "mi",
+          "start": 48.0,
+          "end": 48.4
+        },
+        {
+          "word": "Jesús",
+          "start": 48.4,
+          "end": 49.26
+        },
+        {
+          "word": "por",
+          "start": 49.26,
+          "end": 50.22
+        },
+        {
+          "word": "mí,",
+          "start": 50.22,
+          "end": 51.26
+        }
+      ],
+      "start": 44.76,
+      "end": 51.5,
+      "confidence": 1.0,
+      "time": 44.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y muy pronto lo veré.",
+      "words": [
+        {
+          "word": "y",
+          "start": 51.5,
+          "end": 51.86
+        },
+        {
+          "word": "muy",
+          "start": 51.86,
+          "end": 52.22
+        },
+        {
+          "word": "pronto",
+          "start": 52.22,
+          "end": 52.82
+        },
+        {
+          "word": "lo",
+          "start": 52.82,
+          "end": 54.6
+        },
+        {
+          "word": "veré.",
+          "start": 54.6,
+          "end": 56.86
+        }
+      ],
+      "start": 51.5,
+      "end": 56.86,
+      "confidence": 1.0,
+      "time": 51.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En aquella tierra de paz y amor",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 57.56,
+          "end": 58.2
+        },
+        {
+          "word": "aquella",
+          "start": 58.2,
+          "end": 59.64
+        },
+        {
+          "word": "tierra",
+          "start": 59.64,
+          "end": 60.64
+        },
+        {
+          "word": "de",
+          "start": 60.64,
+          "end": 61.16
+        },
+        {
+          "word": "paz",
+          "start": 61.16,
+          "end": 61.72
+        },
+        {
+          "word": "y",
+          "start": 61.72,
+          "end": 62.38
+        },
+        {
+          "word": "amor",
+          "start": 62.38,
+          "end": 62.88
+        }
+      ],
+      "start": 57.56,
+      "end": 62.88,
+      "confidence": 1.0,
+      "time": 57.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "no habrá oscuridad,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "no",
+          "start": 62.88,
+          "end": 63.82
+        },
+        {
+          "word": "habrá",
+          "start": 63.82,
+          "end": 64.96
+        },
+        {
+          "word": "oscuridad,",
+          "start": 64.96,
+          "end": 68.1
+        }
+      ],
+      "start": 62.88,
+      "end": 68.1,
+      "confidence": 1.0,
+      "time": 62.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pues el resplandor de mi Salvador",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Pues",
+          "start": 68.1,
+          "end": 69.14
+        },
+        {
+          "word": "el",
+          "start": 69.14,
+          "end": 69.56
+        },
+        {
+          "word": "resplandor",
+          "start": 69.56,
+          "end": 71.44
+        },
+        {
+          "word": "de",
+          "start": 71.44,
+          "end": 71.88
+        },
+        {
+          "word": "mi",
+          "start": 71.88,
+          "end": 72.12
+        },
+        {
+          "word": "Salvador",
+          "start": 72.12,
+          "end": 73.78
+        }
+      ],
+      "start": 68.1,
+      "end": 73.78,
+      "confidence": 1.0,
+      "time": 68.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "siempre me iluminará.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "siempre",
+          "start": 73.78,
+          "end": 74.82
+        },
+        {
+          "word": "me",
+          "start": 74.82,
+          "end": 76.02
+        },
+        {
+          "word": "iluminará.",
+          "start": 76.02,
+          "end": 79.24
+        }
+      ],
+      "start": 73.78,
+      "end": 79.24,
+      "confidence": 1.0,
+      "time": 73.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "En su gloria yo veré al Rey,",
+      "words": [
+        {
+          "word": "En",
+          "start": 79.62,
+          "end": 80.14
+        },
+        {
+          "word": "su",
+          "start": 80.14,
+          "end": 80.54
+        },
+        {
+          "word": "gloria",
+          "start": 80.54,
+          "end": 82.28
+        },
+        {
+          "word": "yo",
+          "start": 82.28,
+          "end": 83.02
+        },
+        {
+          "word": "pediré",
+          "start": 83.02,
+          "end": 83.88
+        },
+        {
+          "word": "al",
+          "start": 83.88,
+          "end": 84.02
+        },
+        {
+          "word": "Rey,",
+          "start": 84.02,
+          "end": 85.04
+        }
+      ],
+      "start": 79.62,
+      "end": 85.5,
+      "confidence": 0.966,
+      "time": 79.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y loores siempre cantaré;",
+      "words": [
+        {
+          "word": "y",
+          "start": 85.5,
+          "end": 85.84
+        },
+        {
+          "word": "lo",
+          "start": 85.84,
+          "end": 86.58
+        },
+        {
+          "word": "siempre",
+          "start": 88.06,
+          "end": 88.62
+        },
+        {
+          "word": "cantaré.",
+          "start": 88.62,
+          "end": 90.28
+        }
+      ],
+      "start": 85.5,
+      "end": 90.28,
+      "confidence": 0.985,
+      "time": 85.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en la cruz murió mi Jesús por mí",
+      "words": [
+        {
+          "word": "a",
+          "start": 93.1,
+          "end": 93.48
+        },
+        {
+          "word": "mi",
+          "start": 93.48,
+          "end": 93.82
+        },
+        {
+          "word": "Jesús",
+          "start": 93.82,
+          "end": 94.76
+        },
+        {
+          "word": "por",
+          "start": 94.76,
+          "end": 95.62
+        },
+        {
+          "word": "mí,",
+          "start": 95.62,
+          "end": 96.74
+        }
+      ],
+      "start": 93.1,
+      "end": 97.22,
+      "confidence": 0.6,
+      "time": 93.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y muy pronto lo veré.",
+      "words": [
+        {
+          "word": "y",
+          "start": 97.22,
+          "end": 97.38
+        },
+        {
+          "word": "muy",
+          "start": 97.38,
+          "end": 97.74
+        },
+        {
+          "word": "pronto",
+          "start": 97.74,
+          "end": 98.32
+        },
+        {
+          "word": "lo",
+          "start": 98.32,
+          "end": 100.1
+        },
+        {
+          "word": "veré.",
+          "start": 100.1,
+          "end": 102.58
+        }
+      ],
+      "start": 97.22,
+      "end": 102.58,
+      "confidence": 1.0,
+      "time": 97.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Redimido allí a Jesús iré",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Predimido",
+          "start": 103.58,
+          "end": 104.82
+        },
+        {
+          "word": "al",
+          "start": 104.82,
+          "end": 105.54
+        },
+        {
+          "word": "a",
+          "start": 106.3,
+          "end": 106.46
+        }
+      ],
+      "start": 103.58,
+      "end": 109.24,
+      "confidence": 0.581,
+      "time": 103.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "a rendirle adoración,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "herdirle",
+          "start": 109.24,
+          "end": 110.76
+        },
+        {
+          "word": "adoración,",
+          "start": 110.76,
+          "end": 113.7
+        }
+      ],
+      "start": 109.24,
+      "end": 113.7,
+      "confidence": 0.617,
+      "time": 109.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y feliz por siempre le cantaré",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 113.7,
+          "end": 114.58
+        },
+        {
+          "word": "feliz",
+          "start": 114.58,
+          "end": 115.54
+        },
+        {
+          "word": "por",
+          "start": 115.54,
+          "end": 116.16
+        },
+        {
+          "word": "siempre",
+          "start": 116.16,
+          "end": 117.24
+        },
+        {
+          "word": "le",
+          "start": 117.24,
+          "end": 117.64
+        },
+        {
+          "word": "cantaré,",
+          "start": 117.64,
+          "end": 119.34
+        }
+      ],
+      "start": 113.7,
+      "end": 119.88,
+      "confidence": 1.0,
+      "time": 113.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pues me dio la redención.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 119.88,
+          "end": 120.26
+        },
+        {
+          "word": "me",
+          "start": 120.26,
+          "end": 120.58
+        },
+        {
+          "word": "dio",
+          "start": 120.58,
+          "end": 121.48
+        },
+        {
+          "word": "la",
+          "start": 121.48,
+          "end": 122.36
+        },
+        {
+          "word": "redención.",
+          "start": 122.36,
+          "end": 124.84
+        }
+      ],
+      "start": 119.88,
+      "end": 124.84,
+      "confidence": 1.0,
+      "time": 119.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "En su gloria yo veré al Rey,",
+      "words": [
+        {
+          "word": "En",
+          "start": 125.14,
+          "end": 125.7
+        },
+        {
+          "word": "su",
+          "start": 125.7,
+          "end": 126.06
+        },
+        {
+          "word": "gloria",
+          "start": 126.06,
+          "end": 127.98
+        },
+        {
+          "word": "yo",
+          "start": 127.98,
+          "end": 128.52
+        },
+        {
+          "word": "al",
+          "start": 129.16,
+          "end": 129.48
+        },
+        {
+          "word": "rey,",
+          "start": 129.48,
+          "end": 130.66
+        }
+      ],
+      "start": 125.14,
+      "end": 131.02,
+      "confidence": 0.857,
+      "time": 125.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y loores siempre cantaré;",
+      "words": [
+        {
+          "word": "y",
+          "start": 131.02,
+          "end": 131.38
+        },
+        {
+          "word": "lo",
+          "start": 131.38,
+          "end": 132.12
+        },
+        {
+          "word": "siempre",
+          "start": 132.82,
+          "end": 134.08
+        },
+        {
+          "word": "cantaré.",
+          "start": 134.08,
+          "end": 135.72
+        }
+      ],
+      "start": 131.02,
+      "end": 135.72,
+      "confidence": 0.985,
+      "time": 131.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en la cruz murió mi Jesús por mí",
+      "words": [
+        {
+          "word": "En",
+          "start": 135.72,
+          "end": 136.82
+        },
+        {
+          "word": "la",
+          "start": 136.82,
+          "end": 137.1
+        },
+        {
+          "word": "cruz",
+          "start": 137.1,
+          "end": 138.18
+        },
+        {
+          "word": "Jesús",
+          "start": 139.48,
+          "end": 140.3
+        },
+        {
+          "word": "por",
+          "start": 140.3,
+          "end": 141.24
+        },
+        {
+          "word": "mí,",
+          "start": 141.24,
+          "end": 142.32
+        }
+      ],
+      "start": 135.72,
+      "end": 142.74,
+      "confidence": 0.75,
+      "time": 135.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y muy pronto lo veré.",
+      "words": [
+        {
+          "word": "y",
+          "start": 142.74,
+          "end": 142.94
+        },
+        {
+          "word": "muy",
+          "start": 142.94,
+          "end": 143.2
+        },
+        {
+          "word": "pronto",
+          "start": 143.2,
+          "end": 143.9
+        }
+      ],
+      "start": 142.74,
+      "end": 149.16,
+      "confidence": 0.6,
+      "time": 142.74
+    }
+  ]
+}

@@ -1,0 +1,735 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.731,
+  "language": "es",
+  "model": "medium",
+  "hymn": 489,
+  "source": "489 - Solo anhelo, Cristo amado.mp3",
+  "duration": 132.65,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Solo anhelo, Cristo amado,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "lo",
+          "start": 11.66,
+          "end": 12.34
+        },
+        {
+          "word": "anhelo",
+          "start": 12.34,
+          "end": 13.46
+        },
+        {
+          "word": "Cristo",
+          "start": 13.46,
+          "end": 14.26
+        },
+        {
+          "word": "amado,",
+          "start": 14.26,
+          "end": 15.66
+        }
+      ],
+      "start": 11.66,
+      "end": 16.22,
+      "confidence": 0.95,
+      "time": 11.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en tus leyes caminar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 16.22,
+          "end": 16.4
+        },
+        {
+          "word": "tus",
+          "start": 16.4,
+          "end": 17.02
+        },
+        {
+          "word": "leyes",
+          "start": 17.02,
+          "end": 18.16
+        },
+        {
+          "word": "caminar,",
+          "start": 18.16,
+          "end": 20.12
+        }
+      ],
+      "start": 16.22,
+      "end": 20.56,
+      "confidence": 1.0,
+      "time": 16.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "siempre hacer lo que es tu agrado,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "siempre",
+          "start": 20.56,
+          "end": 21.34
+        },
+        {
+          "word": "hacer",
+          "start": 21.34,
+          "end": 22.2
+        },
+        {
+          "word": "lo",
+          "start": 22.2,
+          "end": 22.96
+        },
+        {
+          "word": "que",
+          "start": 22.96,
+          "end": 23.38
+        },
+        {
+          "word": "es",
+          "start": 23.38,
+          "end": 23.7
+        },
+        {
+          "word": "tu",
+          "start": 23.7,
+          "end": 24.02
+        },
+        {
+          "word": "agrado,",
+          "start": 24.02,
+          "end": 25.0
+        }
+      ],
+      "start": 20.56,
+      "end": 25.56,
+      "confidence": 1.0,
+      "time": 20.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tus acciones imitar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tu",
+          "start": 25.56,
+          "end": 25.74
+        },
+        {
+          "word": "ilmitar.",
+          "start": 27.86,
+          "end": 29.58
+        }
+      ],
+      "start": 25.56,
+      "end": 29.58,
+      "confidence": 0.631,
+      "time": 25.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mas soy débil y cargado",
+      "verse": 1,
+      "words": [
+        {
+          "word": "soy",
+          "start": 30.9,
+          "end": 31.08
+        },
+        {
+          "word": "de",
+          "start": 31.08,
+          "end": 31.76
+        },
+        {
+          "word": "y",
+          "start": 32.82,
+          "end": 33.06
+        },
+        {
+          "word": "cargado",
+          "start": 33.06,
+          "end": 34.48
+        }
+      ],
+      "start": 30.9,
+      "end": 34.48,
+      "confidence": 0.788,
+      "time": 30.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con mi mucha iniquidad,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "con",
+          "start": 34.48,
+          "end": 35.32
+        },
+        {
+          "word": "mi",
+          "start": 37.3,
+          "end": 37.6
+        }
+      ],
+      "start": 34.48,
+      "end": 39.04,
+      "confidence": 0.5,
+      "time": 34.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues, oh Dios, yo he faltado",
+      "verse": 1,
+      "words": [
+        {
+          "word": "pues",
+          "start": 39.56,
+          "end": 39.96
+        },
+        {
+          "word": "faltado",
+          "start": 42.06,
+          "end": 43.86
+        }
+      ],
+      "start": 39.56,
+      "end": 43.86,
+      "confidence": 0.333,
+      "time": 39.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a tu santa voluntad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 43.86,
+          "end": 44.84
+        },
+        {
+          "word": "tu",
+          "start": 44.84,
+          "end": 45.12
+        },
+        {
+          "word": "santa",
+          "start": 45.12,
+          "end": 46.44
+        },
+        {
+          "word": "voluntad.",
+          "start": 46.44,
+          "end": 49.64
+        }
+      ],
+      "start": 43.86,
+      "end": 49.64,
+      "confidence": 1.0,
+      "time": 43.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Ten piedad, oh Cristo amado,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Enviedado,",
+          "start": 50.76,
+          "end": 52.16
+        },
+        {
+          "word": "Cristo",
+          "start": 52.64,
+          "end": 53.16
+        },
+        {
+          "word": "amado,",
+          "start": 53.16,
+          "end": 54.5
+        }
+      ],
+      "start": 50.76,
+      "end": 54.76,
+      "confidence": 0.56,
+      "time": 50.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "de este pobre pecador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "desde",
+          "start": 54.76,
+          "end": 55.6
+        },
+        {
+          "word": "pobre",
+          "start": 55.6,
+          "end": 56.82
+        },
+        {
+          "word": "pecado,",
+          "start": 56.82,
+          "end": 58.52
+        }
+      ],
+      "start": 54.76,
+      "end": 58.52,
+      "confidence": 0.685,
+      "time": 54.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Límpiame de mi pecado,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Límpiamé",
+          "start": 58.52,
+          "end": 61.14
+        },
+        {
+          "word": "de",
+          "start": 61.14,
+          "end": 61.72
+        },
+        {
+          "word": "mi",
+          "start": 61.72,
+          "end": 62.3
+        },
+        {
+          "word": "pecado,",
+          "start": 62.3,
+          "end": 63.82
+        }
+      ],
+      "start": 58.52,
+      "end": 66.3,
+      "confidence": 1.0,
+      "time": 58.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "oh, bendito Salvador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "salvador,",
+          "start": 66.3,
+          "end": 68.46
+        }
+      ],
+      "start": 66.3,
+      "end": 68.46,
+      "confidence": 0.333,
+      "time": 66.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "No permitas que me venza",
+      "verse": 2,
+      "words": [
+        {
+          "word": "no",
+          "start": 68.86,
+          "end": 69.44
+        },
+        {
+          "word": "gritas",
+          "start": 70.24,
+          "end": 71.02
+        },
+        {
+          "word": "que",
+          "start": 71.02,
+          "end": 71.82
+        },
+        {
+          "word": "me",
+          "start": 71.82,
+          "end": 72.34
+        },
+        {
+          "word": "venza",
+          "start": 72.34,
+          "end": 73.32
+        }
+      ],
+      "start": 68.86,
+      "end": 73.32,
+      "confidence": 0.966,
+      "time": 68.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "otra vez el tentador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "otra",
+          "start": 73.32,
+          "end": 74.6
+        },
+        {
+          "word": "vez",
+          "start": 74.6,
+          "end": 75.4
+        },
+        {
+          "word": "el",
+          "start": 75.4,
+          "end": 76.08
+        },
+        {
+          "word": "tentador.",
+          "start": 76.08,
+          "end": 77.84
+        }
+      ],
+      "start": 73.32,
+      "end": 77.84,
+      "confidence": 1.0,
+      "time": 73.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Oh mi Dios!, con gran vergüenza",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 79.6,
+          "end": 79.86
+        },
+        {
+          "word": "con",
+          "start": 79.86,
+          "end": 80.56
+        },
+        {
+          "word": "gran",
+          "start": 80.56,
+          "end": 81.44
+        }
+      ],
+      "start": 79.6,
+      "end": 84.14,
+      "confidence": 0.5,
+      "time": 79.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "te lo pido por tu amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pido",
+          "start": 84.14,
+          "end": 85.26
+        },
+        {
+          "word": "tu",
+          "start": 85.26,
+          "end": 85.94
+        },
+        {
+          "word": "favor.",
+          "start": 85.94,
+          "end": 88.08
+        }
+      ],
+      "start": 84.14,
+      "end": 88.08,
+      "confidence": 0.467,
+      "time": 84.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Al que pide, es tu promesa",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Al",
+          "start": 89.06,
+          "end": 89.3
+        },
+        {
+          "word": "que",
+          "start": 89.3,
+          "end": 90.04
+        },
+        {
+          "word": "pides",
+          "start": 90.04,
+          "end": 91.08
+        },
+        {
+          "word": "tu",
+          "start": 91.08,
+          "end": 91.74
+        },
+        {
+          "word": "promesa,",
+          "start": 91.74,
+          "end": 93.3
+        }
+      ],
+      "start": 89.06,
+      "end": 94.0,
+      "confidence": 0.823,
+      "time": 89.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "darle lo que ha menester.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "dale",
+          "start": 94.0,
+          "end": 94.44
+        },
+        {
+          "word": "que",
+          "start": 95.5,
+          "end": 95.72
+        },
+        {
+          "word": "esté,",
+          "start": 96.84,
+          "end": 97.74
+        }
+      ],
+      "start": 94.0,
+      "end": 97.74,
+      "confidence": 0.547,
+      "time": 94.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Yo anhelo tu pureza,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "yo",
+          "start": 98.48,
+          "end": 99.18
+        },
+        {
+          "word": "tu",
+          "start": 100.46,
+          "end": 101.16
+        },
+        {
+          "word": "presa,",
+          "start": 101.16,
+          "end": 102.66
+        }
+      ],
+      "start": 98.48,
+      "end": 103.2,
+      "confidence": 0.709,
+      "time": 98.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu limpieza, tuyo ser.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tu",
+          "start": 103.2,
+          "end": 103.42
+        },
+        {
+          "word": "limpieza,",
+          "start": 103.42,
+          "end": 105.18
+        },
+        {
+          "word": "tu",
+          "start": 105.42,
+          "end": 105.8
+        },
+        {
+          "word": "sé,",
+          "start": 106.52,
+          "end": 107.22
+        }
+      ],
+      "start": 103.2,
+      "end": 107.22,
+      "confidence": 0.97,
+      "time": 103.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Y en tu reino, cuando vengas,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 107.22,
+          "end": 108.12
+        },
+        {
+          "word": "en",
+          "start": 108.12,
+          "end": 108.42
+        },
+        {
+          "word": "tu",
+          "start": 108.42,
+          "end": 108.72
+        },
+        {
+          "word": "reloj,",
+          "start": 108.72,
+          "end": 110.32
+        },
+        {
+          "word": "cuando",
+          "start": 110.56,
+          "end": 111.02
+        }
+      ],
+      "start": 107.22,
+      "end": 113.02,
+      "confidence": 0.793,
+      "time": 107.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ten memoria aún de mí,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "memoria",
+          "start": 113.02,
+          "end": 114.62
+        },
+        {
+          "word": "de",
+          "start": 114.62,
+          "end": 115.8
+        }
+      ],
+      "start": 113.02,
+      "end": 116.76,
+      "confidence": 0.4,
+      "time": 113.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que por hijo tú me tengas",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 117.34,
+          "end": 117.84
+        },
+        {
+          "word": "por",
+          "start": 117.84,
+          "end": 118.34
+        },
+        {
+          "word": "hijo",
+          "start": 118.34,
+          "end": 119.26
+        },
+        {
+          "word": "tú",
+          "start": 119.26,
+          "end": 120.06
+        },
+        {
+          "word": "me",
+          "start": 120.06,
+          "end": 120.66
+        },
+        {
+          "word": "tendrás",
+          "start": 120.66,
+          "end": 121.58
+        }
+      ],
+      "start": 117.34,
+      "end": 121.58,
+      "confidence": 0.977,
+      "time": 117.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y me lleves junto a ti.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 121.58,
+          "end": 122.4
+        },
+        {
+          "word": "me",
+          "start": 122.4,
+          "end": 123.08
+        },
+        {
+          "word": "lleves",
+          "start": 123.08,
+          "end": 124.32
+        },
+        {
+          "word": "a",
+          "start": 125.3,
+          "end": 126.16
+        }
+      ],
+      "start": 121.58,
+      "end": 128.7,
+      "confidence": 0.667,
+      "time": 121.58
+    }
+  ]
+}

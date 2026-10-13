@@ -1,0 +1,629 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.998,
+  "language": "es",
+  "model": "medium",
+  "hymn": 440,
+  "source": "440 - Quiero, Jesus, contigo andar.mp3",
+  "duration": 139.89,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Quiero, Jesús, contigo andar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Quiero,",
+          "start": 16.58,
+          "end": 17.98
+        },
+        {
+          "word": "Jesús,",
+          "start": 19.58,
+          "end": 19.6
+        },
+        {
+          "word": "contigo",
+          "start": 20.46,
+          "end": 22.08
+        },
+        {
+          "word": "andar",
+          "start": 22.08,
+          "end": 23.68
+        }
+      ],
+      "start": 16.58,
+      "end": 23.68,
+      "confidence": 1.0,
+      "time": 16.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y en tu servicio trabajar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 23.68,
+          "end": 24.68
+        },
+        {
+          "word": "en",
+          "start": 24.68,
+          "end": 24.94
+        },
+        {
+          "word": "tu",
+          "start": 24.94,
+          "end": 25.44
+        },
+        {
+          "word": "servicio",
+          "start": 25.44,
+          "end": 27.4
+        },
+        {
+          "word": "trabajar.",
+          "start": 27.4,
+          "end": 31.0
+        }
+      ],
+      "start": 23.68,
+      "end": 31.0,
+      "confidence": 1.0,
+      "time": 23.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "dime el secreto de saber",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Dime",
+          "start": 31.8,
+          "end": 32.32
+        },
+        {
+          "word": "el",
+          "start": 32.32,
+          "end": 33.02
+        },
+        {
+          "word": "secreto",
+          "start": 33.02,
+          "end": 34.94
+        },
+        {
+          "word": "de",
+          "start": 34.94,
+          "end": 36.22
+        },
+        {
+          "word": "saber",
+          "start": 36.22,
+          "end": 37.64
+        }
+      ],
+      "start": 31.8,
+      "end": 37.64,
+      "confidence": 1.0,
+      "time": 31.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "llevar mis cargas con placer.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "llevar",
+          "start": 37.64,
+          "end": 39.94
+        },
+        {
+          "word": "mis",
+          "start": 39.94,
+          "end": 40.76
+        },
+        {
+          "word": "cargas",
+          "start": 40.76,
+          "end": 42.42
+        },
+        {
+          "word": "con",
+          "start": 42.42,
+          "end": 43.88
+        },
+        {
+          "word": "placer.",
+          "start": 43.88,
+          "end": 46.44
+        }
+      ],
+      "start": 37.64,
+      "end": 46.44,
+      "confidence": 1.0,
+      "time": 37.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Haz que mi lengua sepa hablar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Haz",
+          "start": 47.1,
+          "end": 47.34
+        },
+        {
+          "word": "que",
+          "start": 47.34,
+          "end": 47.82
+        },
+        {
+          "word": "mi",
+          "start": 47.82,
+          "end": 48.38
+        },
+        {
+          "word": "lengua",
+          "start": 48.38,
+          "end": 49.92
+        },
+        {
+          "word": "sepa",
+          "start": 49.92,
+          "end": 51.62
+        },
+        {
+          "word": "hablar",
+          "start": 51.62,
+          "end": 52.92
+        }
+      ],
+      "start": 47.1,
+      "end": 52.92,
+      "confidence": 1.0,
+      "time": 47.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "solo el lenguaje del amor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "solo",
+          "start": 52.92,
+          "end": 54.28
+        },
+        {
+          "word": "el",
+          "start": 54.28,
+          "end": 54.82
+        },
+        {
+          "word": "lenguaje",
+          "start": 54.82,
+          "end": 57.26
+        },
+        {
+          "word": "del",
+          "start": 57.26,
+          "end": 58.6
+        },
+        {
+          "word": "amor",
+          "start": 58.6,
+          "end": 60.28
+        }
+      ],
+      "start": 52.92,
+      "end": 60.28,
+      "confidence": 1.0,
+      "time": 52.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y al extraviado pueda guiar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 60.28,
+          "end": 61.32
+        },
+        {
+          "word": "al",
+          "start": 61.32,
+          "end": 61.82
+        },
+        {
+          "word": "extraviado",
+          "start": 61.82,
+          "end": 64.32
+        },
+        {
+          "word": "pueda",
+          "start": 64.32,
+          "end": 65.86
+        },
+        {
+          "word": "guiar",
+          "start": 65.86,
+          "end": 66.92
+        }
+      ],
+      "start": 60.28,
+      "end": 66.92,
+      "confidence": 1.0,
+      "time": 60.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "hasta el redil de mi Pastor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "hasta",
+          "start": 67.52,
+          "end": 69.08
+        },
+        {
+          "word": "el",
+          "start": 69.08,
+          "end": 69.78
+        },
+        {
+          "word": "redil",
+          "start": 69.78,
+          "end": 71.26
+        },
+        {
+          "word": "de",
+          "start": 71.26,
+          "end": 72.04
+        },
+        {
+          "word": "mi",
+          "start": 72.04,
+          "end": 73.32
+        },
+        {
+          "word": "pastor.",
+          "start": 73.32,
+          "end": 75.5
+        }
+      ],
+      "start": 67.52,
+      "end": 75.5,
+      "confidence": 1.0,
+      "time": 67.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Tenme a tu lado, enséñame",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tenme",
+          "start": 75.5,
+          "end": 77.0
+        },
+        {
+          "word": "a",
+          "start": 77.0,
+          "end": 77.32
+        },
+        {
+          "word": "tu",
+          "start": 77.32,
+          "end": 77.86
+        },
+        {
+          "word": "lado,",
+          "start": 77.86,
+          "end": 79.28
+        },
+        {
+          "word": "enséñame",
+          "start": 79.94,
+          "end": 83.02
+        }
+      ],
+      "start": 75.5,
+      "end": 83.02,
+      "confidence": 1.0,
+      "time": 75.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a ser paciente, noble y fiel;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 83.02,
+          "end": 84.2
+        },
+        {
+          "word": "ser",
+          "start": 84.2,
+          "end": 84.76
+        },
+        {
+          "word": "paciente,",
+          "start": 84.76,
+          "end": 87.14
+        },
+        {
+          "word": "noble",
+          "start": 87.74,
+          "end": 88.58
+        },
+        {
+          "word": "y",
+          "start": 88.58,
+          "end": 89.16
+        },
+        {
+          "word": "fiel",
+          "start": 89.16,
+          "end": 90.74
+        }
+      ],
+      "start": 83.02,
+      "end": 90.74,
+      "confidence": 1.0,
+      "time": 83.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que en tus pisadas pueda andar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 90.74,
+          "end": 91.58
+        },
+        {
+          "word": "en",
+          "start": 91.58,
+          "end": 91.88
+        },
+        {
+          "word": "tus",
+          "start": 91.88,
+          "end": 92.2
+        },
+        {
+          "word": "pisadas",
+          "start": 92.2,
+          "end": 94.56
+        },
+        {
+          "word": "pueda",
+          "start": 94.56,
+          "end": 96.02
+        },
+        {
+          "word": "andar",
+          "start": 96.02,
+          "end": 97.48
+        }
+      ],
+      "start": 90.74,
+      "end": 97.48,
+      "confidence": 1.0,
+      "time": 90.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y al abatido consolar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 97.48,
+          "end": 98.5
+        },
+        {
+          "word": "al",
+          "start": 98.5,
+          "end": 99.68
+        },
+        {
+          "word": "abatido",
+          "start": 99.68,
+          "end": 102.26
+        },
+        {
+          "word": "consolar.",
+          "start": 102.26,
+          "end": 106.16
+        }
+      ],
+      "start": 97.48,
+      "end": 106.16,
+      "confidence": 1.0,
+      "time": 97.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Dame del cielo aquella fe",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Dame",
+          "start": 106.44,
+          "end": 107.46
+        },
+        {
+          "word": "del",
+          "start": 107.46,
+          "end": 108.24
+        },
+        {
+          "word": "cielo",
+          "start": 108.24,
+          "end": 109.42
+        },
+        {
+          "word": "aquéña",
+          "start": 109.42,
+          "end": 111.6
+        },
+        {
+          "word": "fe",
+          "start": 111.6,
+          "end": 112.88
+        }
+      ],
+      "start": 106.44,
+      "end": 112.88,
+      "confidence": 0.972,
+      "time": 106.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "que en la tormenta ve la luz.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "que",
+          "start": 112.88,
+          "end": 113.86
+        },
+        {
+          "word": "en",
+          "start": 113.86,
+          "end": 114.32
+        },
+        {
+          "word": "la",
+          "start": 114.32,
+          "end": 114.82
+        },
+        {
+          "word": "tormenta",
+          "start": 114.82,
+          "end": 117.04
+        },
+        {
+          "word": "ve",
+          "start": 117.04,
+          "end": 117.88
+        },
+        {
+          "word": "la",
+          "start": 117.88,
+          "end": 118.96
+        },
+        {
+          "word": "luz",
+          "start": 118.96,
+          "end": 120.12
+        }
+      ],
+      "start": 112.88,
+      "end": 120.12,
+      "confidence": 1.0,
+      "time": 112.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Colme mi alma tu bondad,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Colme",
+          "start": 120.12,
+          "end": 121.74
+        },
+        {
+          "word": "mi",
+          "start": 121.74,
+          "end": 122.54
+        },
+        {
+          "word": "alma",
+          "start": 122.54,
+          "end": 123.76
+        },
+        {
+          "word": "tu",
+          "start": 123.76,
+          "end": 125.08
+        },
+        {
+          "word": "bondad",
+          "start": 125.08,
+          "end": 126.94
+        }
+      ],
+      "start": 120.12,
+      "end": 126.94,
+      "confidence": 1.0,
+      "time": 120.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "y viva siempre con tu paz.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 126.94,
+          "end": 128.04
+        },
+        {
+          "word": "viva",
+          "start": 128.04,
+          "end": 129.62
+        },
+        {
+          "word": "siempre",
+          "start": 129.62,
+          "end": 131.42
+        },
+        {
+          "word": "con",
+          "start": 131.42,
+          "end": 133.4
+        },
+        {
+          "word": "tu",
+          "start": 133.4,
+          "end": 134.26
+        },
+        {
+          "word": "paz.",
+          "start": 134.26,
+          "end": 135.58
+        }
+      ],
+      "start": 126.94,
+      "end": 135.58,
+      "confidence": 1.0,
+      "time": 126.94
+    }
+  ]
+}

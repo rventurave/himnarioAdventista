@@ -1,0 +1,878 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.898,
+  "language": "es",
+  "model": "medium",
+  "hymn": 353,
+  "source": "353 - Suenan melodias en mi ser.mp3",
+  "duration": 130.35,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús me dio un dulce canto,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 8.64,
+          "end": 10.04
+        },
+        {
+          "word": "me",
+          "start": 10.04,
+          "end": 10.6
+        },
+        {
+          "word": "dio",
+          "start": 10.6,
+          "end": 11.14
+        },
+        {
+          "word": "un",
+          "start": 11.14,
+          "end": 11.78
+        },
+        {
+          "word": "dulce",
+          "start": 11.78,
+          "end": 12.92
+        },
+        {
+          "word": "canto",
+          "start": 12.92,
+          "end": 14.54
+        }
+      ],
+      "start": 8.64,
+      "end": 14.54,
+      "confidence": 1.0,
+      "time": 8.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "desde el cielo lo envió;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "desde",
+          "start": 14.54,
+          "end": 15.18
+        },
+        {
+          "word": "el",
+          "start": 15.18,
+          "end": 15.6
+        },
+        {
+          "word": "cielo",
+          "start": 15.6,
+          "end": 16.44
+        },
+        {
+          "word": "lo",
+          "start": 16.44,
+          "end": 17.44
+        },
+        {
+          "word": "embió",
+          "start": 17.44,
+          "end": 19.14
+        }
+      ],
+      "start": 14.54,
+      "end": 19.14,
+      "confidence": 0.952,
+      "time": 14.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "jamás se oyó más dulce música",
+      "verse": 1,
+      "words": [
+        {
+          "word": "jamás",
+          "start": 19.14,
+          "end": 20.0
+        },
+        {
+          "word": "se",
+          "start": 20.0,
+          "end": 20.2
+        },
+        {
+          "word": "oyó",
+          "start": 20.2,
+          "end": 20.74
+        },
+        {
+          "word": "más",
+          "start": 20.74,
+          "end": 21.34
+        },
+        {
+          "word": "dulce",
+          "start": 21.34,
+          "end": 22.54
+        },
+        {
+          "word": "música",
+          "start": 22.54,
+          "end": 23.94
+        }
+      ],
+      "start": 19.14,
+      "end": 23.94,
+      "confidence": 1.0,
+      "time": 19.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que este canto de amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 23.94,
+          "end": 24.68
+        },
+        {
+          "word": "es",
+          "start": 24.68,
+          "end": 24.8
+        },
+        {
+          "word": "canto",
+          "start": 24.94,
+          "end": 26.14
+        },
+        {
+          "word": "de",
+          "start": 26.14,
+          "end": 26.96
+        },
+        {
+          "word": "amor",
+          "start": 26.96,
+          "end": 29.22
+        }
+      ],
+      "start": 23.94,
+      "end": 29.22,
+      "confidence": 0.988,
+      "time": 23.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Suenan melodías en mi ser.",
+      "words": [
+        {
+          "word": "Suena",
+          "start": 29.22,
+          "end": 30.86
+        },
+        {
+          "word": "melodías",
+          "start": 31.4,
+          "end": 32.66
+        },
+        {
+          "word": "en",
+          "start": 32.66,
+          "end": 33.06
+        },
+        {
+          "word": "mi",
+          "start": 33.06,
+          "end": 33.28
+        },
+        {
+          "word": "ser,",
+          "start": 33.28,
+          "end": 33.82
+        }
+      ],
+      "start": 29.22,
+      "end": 34.16,
+      "confidence": 0.988,
+      "time": 29.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Sí, suena un cantar, en tono celestial.",
+      "words": [
+        {
+          "word": "si",
+          "start": 34.16,
+          "end": 34.44
+        },
+        {
+          "word": "suena",
+          "start": 34.44,
+          "end": 35.06
+        },
+        {
+          "word": "un",
+          "start": 35.06,
+          "end": 35.46
+        },
+        {
+          "word": "cantar",
+          "start": 35.46,
+          "end": 36.48
+        },
+        {
+          "word": "en",
+          "start": 36.48,
+          "end": 37.14
+        },
+        {
+          "word": "todos",
+          "start": 37.14,
+          "end": 37.46
+        }
+      ],
+      "start": 34.16,
+      "end": 38.98,
+      "confidence": 0.829,
+      "time": 34.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Suenan melodías en mi ser.",
+      "words": [
+        {
+          "word": "Suena",
+          "start": 39.24,
+          "end": 40.28
+        },
+        {
+          "word": "melodías",
+          "start": 41.0,
+          "end": 42.24
+        },
+        {
+          "word": "en",
+          "start": 42.24,
+          "end": 42.64
+        },
+        {
+          "word": "mi",
+          "start": 42.64,
+          "end": 42.78
+        },
+        {
+          "word": "ser,",
+          "start": 42.78,
+          "end": 43.4
+        }
+      ],
+      "start": 39.24,
+      "end": 43.68,
+      "confidence": 0.988,
+      "time": 39.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Sí, suenan en mi corazón.",
+      "words": [
+        {
+          "word": "si",
+          "start": 43.68,
+          "end": 43.96
+        },
+        {
+          "word": "suena",
+          "start": 43.96,
+          "end": 44.54
+        },
+        {
+          "word": "en",
+          "start": 44.54,
+          "end": 44.96
+        },
+        {
+          "word": "mi",
+          "start": 44.96,
+          "end": 45.38
+        },
+        {
+          "word": "corazón.",
+          "start": 45.38,
+          "end": 47.56
+        }
+      ],
+      "start": 43.68,
+      "end": 47.56,
+      "confidence": 0.988,
+      "time": 43.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En el Calvario dio su vida",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 47.98,
+          "end": 48.42
+        },
+        {
+          "word": "el",
+          "start": 48.42,
+          "end": 48.74
+        },
+        {
+          "word": "calvario",
+          "start": 48.74,
+          "end": 49.8
+        },
+        {
+          "word": "Dios",
+          "start": 49.8,
+          "end": 50.76
+        },
+        {
+          "word": "vida,",
+          "start": 51.58,
+          "end": 52.74
+        }
+      ],
+      "start": 47.98,
+      "end": 53.4,
+      "confidence": 0.823,
+      "time": 47.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "por salvarme mi Jesús.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "por",
+          "start": 53.4,
+          "end": 53.58
+        },
+        {
+          "word": "salvarme",
+          "start": 53.58,
+          "end": 55.06
+        },
+        {
+          "word": "mi",
+          "start": 55.06,
+          "end": 55.58
+        },
+        {
+          "word": "Jesús.",
+          "start": 55.58,
+          "end": 57.34
+        }
+      ],
+      "start": 53.4,
+      "end": 57.34,
+      "confidence": 1.0,
+      "time": 53.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Pagó mis culpas y perdón me dio,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mis",
+          "start": 58.4,
+          "end": 58.66
+        },
+        {
+          "word": "culpas",
+          "start": 58.66,
+          "end": 59.76
+        },
+        {
+          "word": "y",
+          "start": 59.76,
+          "end": 60.48
+        },
+        {
+          "word": "perdón",
+          "start": 60.48,
+          "end": 61.4
+        },
+        {
+          "word": "me",
+          "start": 61.4,
+          "end": 61.76
+        },
+        {
+          "word": "dio",
+          "start": 61.76,
+          "end": 62.66
+        }
+      ],
+      "start": 58.4,
+      "end": 63.26,
+      "confidence": 0.857,
+      "time": 58.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "me llenó de gozo y luz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "lleno",
+          "start": 63.26,
+          "end": 64.02
+        },
+        {
+          "word": "de",
+          "start": 64.02,
+          "end": 64.9
+        },
+        {
+          "word": "gozo",
+          "start": 64.9,
+          "end": 65.72
+        },
+        {
+          "word": "y",
+          "start": 65.72,
+          "end": 66.7
+        },
+        {
+          "word": "luz.",
+          "start": 66.7,
+          "end": 67.86
+        }
+      ],
+      "start": 63.26,
+      "end": 67.86,
+      "confidence": 0.833,
+      "time": 63.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Suenan melodías en mi ser.",
+      "words": [
+        {
+          "word": "Suenan",
+          "start": 68.0,
+          "end": 69.4
+        },
+        {
+          "word": "melodías",
+          "start": 69.4,
+          "end": 71.18
+        },
+        {
+          "word": "en",
+          "start": 71.18,
+          "end": 71.66
+        },
+        {
+          "word": "mi",
+          "start": 71.66,
+          "end": 71.86
+        }
+      ],
+      "start": 68.0,
+      "end": 72.92,
+      "confidence": 0.8,
+      "time": 68.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Sí, suena un cantar, en tono celestial.",
+      "words": [
+        {
+          "word": "suena",
+          "start": 72.92,
+          "end": 73.64
+        },
+        {
+          "word": "un",
+          "start": 73.64,
+          "end": 74.0
+        },
+        {
+          "word": "entorno",
+          "start": 75.42,
+          "end": 76.0
+        },
+        {
+          "word": "celestial.",
+          "start": 76.0,
+          "end": 77.34
+        }
+      ],
+      "start": 72.92,
+      "end": 77.34,
+      "confidence": 0.548,
+      "time": 72.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Suenan melodías en mi ser.",
+      "words": [
+        {
+          "word": "Suenan",
+          "start": 77.7,
+          "end": 79.0
+        },
+        {
+          "word": "melodías",
+          "start": 79.0,
+          "end": 80.9
+        },
+        {
+          "word": "en",
+          "start": 80.9,
+          "end": 81.24
+        },
+        {
+          "word": "mi",
+          "start": 81.24,
+          "end": 81.48
+        }
+      ],
+      "start": 77.7,
+      "end": 82.6,
+      "confidence": 0.8,
+      "time": 77.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Sí, suenan en mi corazón.",
+      "words": [
+        {
+          "word": "suenan",
+          "start": 82.6,
+          "end": 83.22
+        },
+        {
+          "word": "en",
+          "start": 83.22,
+          "end": 83.68
+        },
+        {
+          "word": "mi",
+          "start": 83.68,
+          "end": 83.98
+        },
+        {
+          "word": "corazón.",
+          "start": 83.98,
+          "end": 85.62
+        }
+      ],
+      "start": 82.6,
+      "end": 85.62,
+      "confidence": 0.8,
+      "time": 82.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Será el tema allá en la gloria",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Será",
+          "start": 85.62,
+          "end": 87.24
+        },
+        {
+          "word": "el",
+          "start": 87.24,
+          "end": 87.62
+        },
+        {
+          "word": "tema",
+          "start": 87.62,
+          "end": 88.74
+        },
+        {
+          "word": "la",
+          "start": 89.26,
+          "end": 89.72
+        },
+        {
+          "word": "gloria",
+          "start": 89.72,
+          "end": 91.44
+        }
+      ],
+      "start": 85.62,
+      "end": 91.44,
+      "confidence": 0.714,
+      "time": 85.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "de mi eterna adoración.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 91.44,
+          "end": 92.12
+        },
+        {
+          "word": "mi",
+          "start": 92.12,
+          "end": 92.34
+        },
+        {
+          "word": "eterna",
+          "start": 92.34,
+          "end": 93.54
+        },
+        {
+          "word": "duración,",
+          "start": 93.54,
+          "end": 95.84
+        }
+      ],
+      "start": 91.44,
+      "end": 96.5,
+      "confidence": 0.974,
+      "time": 91.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Será gloriosa la armonía",
+      "verse": 3,
+      "words": [
+        {
+          "word": "será",
+          "start": 96.5,
+          "end": 96.78
+        },
+        {
+          "word": "gloriosa",
+          "start": 96.78,
+          "end": 98.08
+        },
+        {
+          "word": "la",
+          "start": 98.08,
+          "end": 98.76
+        },
+        {
+          "word": "armonía",
+          "start": 98.76,
+          "end": 100.64
+        }
+      ],
+      "start": 96.5,
+      "end": 100.64,
+      "confidence": 1.0,
+      "time": 96.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "con la hueste angelical.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 100.64,
+          "end": 101.5
+        },
+        {
+          "word": "la",
+          "start": 101.5,
+          "end": 101.92
+        },
+        {
+          "word": "hués",
+          "start": 101.92,
+          "end": 102.36
+        },
+        {
+          "word": "angelical.",
+          "start": 102.8,
+          "end": 105.94
+        }
+      ],
+      "start": 100.64,
+      "end": 105.94,
+      "confidence": 0.985,
+      "time": 100.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Suenan melodías en mi ser.",
+      "words": [
+        {
+          "word": "Suenan",
+          "start": 105.94,
+          "end": 107.58
+        },
+        {
+          "word": "melodías",
+          "start": 107.58,
+          "end": 109.3
+        },
+        {
+          "word": "en",
+          "start": 109.3,
+          "end": 109.72
+        },
+        {
+          "word": "mi",
+          "start": 109.72,
+          "end": 110.06
+        },
+        {
+          "word": "ser,",
+          "start": 110.06,
+          "end": 110.4
+        }
+      ],
+      "start": 105.94,
+      "end": 110.76,
+      "confidence": 1.0,
+      "time": 105.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Sí, suena un cantar, en tono celestial.",
+      "words": [
+        {
+          "word": "si",
+          "start": 110.76,
+          "end": 110.96
+        },
+        {
+          "word": "suena",
+          "start": 110.96,
+          "end": 111.72
+        },
+        {
+          "word": "un",
+          "start": 111.72,
+          "end": 112.04
+        },
+        {
+          "word": "cantar",
+          "start": 112.04,
+          "end": 113.1
+        },
+        {
+          "word": "en",
+          "start": 113.1,
+          "end": 113.6
+        },
+        {
+          "word": "todo",
+          "start": 113.6,
+          "end": 113.94
+        },
+        {
+          "word": "celestial.",
+          "start": 113.94,
+          "end": 115.28
+        }
+      ],
+      "start": 110.76,
+      "end": 115.28,
+      "confidence": 0.979,
+      "time": 110.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Suenan melodías en mi ser.",
+      "words": [
+        {
+          "word": "Suenan",
+          "start": 115.96,
+          "end": 116.98
+        },
+        {
+          "word": "melodías",
+          "start": 116.98,
+          "end": 118.74
+        },
+        {
+          "word": "en",
+          "start": 118.74,
+          "end": 119.14
+        },
+        {
+          "word": "mi",
+          "start": 119.14,
+          "end": 119.32
+        },
+        {
+          "word": "ser,",
+          "start": 119.32,
+          "end": 119.7
+        }
+      ],
+      "start": 115.96,
+      "end": 120.22,
+      "confidence": 1.0,
+      "time": 115.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Sí, suenan en mi corazón.",
+      "words": [
+        {
+          "word": "si",
+          "start": 120.22,
+          "end": 120.42
+        },
+        {
+          "word": "suenan",
+          "start": 120.42,
+          "end": 121.16
+        },
+        {
+          "word": "en",
+          "start": 121.16,
+          "end": 121.64
+        },
+        {
+          "word": "mi",
+          "start": 121.64,
+          "end": 122.4
+        },
+        {
+          "word": "corazón.",
+          "start": 122.4,
+          "end": 123.84
+        }
+      ],
+      "start": 120.22,
+      "end": 123.84,
+      "confidence": 1.0,
+      "time": 120.22
+    }
+  ]
+}

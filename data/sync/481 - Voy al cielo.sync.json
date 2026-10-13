@@ -1,0 +1,672 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.997,
+  "language": "es",
+  "model": "medium",
+  "hymn": 481,
+  "source": "481 - Voy al cielo.mp3",
+  "duration": 130.98,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Voy al cielo, soy peregrino,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Voy",
+          "start": 18.02,
+          "end": 19.42
+        },
+        {
+          "word": "al",
+          "start": 19.42,
+          "end": 19.8
+        },
+        {
+          "word": "Cielo,",
+          "start": 19.8,
+          "end": 21.56
+        },
+        {
+          "word": "soy",
+          "start": 21.56,
+          "end": 22.0
+        },
+        {
+          "word": "peregrino,",
+          "start": 22.0,
+          "end": 24.42
+        }
+      ],
+      "start": 18.02,
+      "end": 24.72,
+      "confidence": 1.0,
+      "time": 18.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a vivir eternamente con Jesús;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 24.72,
+          "end": 25.3
+        },
+        {
+          "word": "vivir",
+          "start": 25.3,
+          "end": 26.08
+        },
+        {
+          "word": "eternamente",
+          "start": 26.08,
+          "end": 27.86
+        },
+        {
+          "word": "con",
+          "start": 27.86,
+          "end": 28.38
+        },
+        {
+          "word": "Jesús.",
+          "start": 28.38,
+          "end": 29.98
+        }
+      ],
+      "start": 24.72,
+      "end": 29.98,
+      "confidence": 1.0,
+      "time": 24.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues él abrió ya amplio camino,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "pues",
+          "start": 30.0,
+          "end": 30.98
+        },
+        {
+          "word": "Él",
+          "start": 30.98,
+          "end": 31.7
+        },
+        {
+          "word": "abrió",
+          "start": 31.7,
+          "end": 32.42
+        },
+        {
+          "word": "ya",
+          "start": 32.42,
+          "end": 33.6
+        },
+        {
+          "word": "amplio",
+          "start": 33.6,
+          "end": 34.4
+        },
+        {
+          "word": "camino",
+          "start": 34.4,
+          "end": 36.18
+        }
+      ],
+      "start": 30.0,
+      "end": 36.18,
+      "confidence": 1.0,
+      "time": 30.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al expirar sobre amarga cruz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 36.18,
+          "end": 37.14
+        },
+        {
+          "word": "expirar",
+          "start": 37.14,
+          "end": 38.52
+        },
+        {
+          "word": "sobre",
+          "start": 38.52,
+          "end": 39.7
+        },
+        {
+          "word": "amarga",
+          "start": 39.7,
+          "end": 40.68
+        },
+        {
+          "word": "cruz.",
+          "start": 40.68,
+          "end": 42.0
+        }
+      ],
+      "start": 36.18,
+      "end": 42.0,
+      "confidence": 1.0,
+      "time": 36.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Voy al cielo, soy peregrino,",
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 42.62,
+          "end": 43.46
+        },
+        {
+          "word": "al",
+          "start": 43.46,
+          "end": 43.8
+        },
+        {
+          "word": "cielo",
+          "start": 43.8,
+          "end": 45.1
+        },
+        {
+          "word": "soy",
+          "start": 45.1,
+          "end": 45.9
+        },
+        {
+          "word": "peregrino",
+          "start": 45.9,
+          "end": 48.6
+        }
+      ],
+      "start": 42.62,
+      "end": 48.6,
+      "confidence": 0.96,
+      "time": 42.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "a vivir eternamente con Jesús.",
+      "words": [
+        {
+          "word": "a",
+          "start": 48.6,
+          "end": 49.46
+        },
+        {
+          "word": "vivir",
+          "start": 49.46,
+          "end": 50.14
+        },
+        {
+          "word": "eternamente",
+          "start": 50.14,
+          "end": 51.88
+        },
+        {
+          "word": "con",
+          "start": 51.88,
+          "end": 52.36
+        },
+        {
+          "word": "Jesús.",
+          "start": 52.36,
+          "end": 54.36
+        }
+      ],
+      "start": 48.6,
+      "end": 54.36,
+      "confidence": 1.0,
+      "time": 48.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Duelo, muerte, amarga pena,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Duelo,",
+          "start": 54.36,
+          "end": 56.5
+        },
+        {
+          "word": "muerte,",
+          "start": 56.5,
+          "end": 58.0
+        },
+        {
+          "word": "amarga,",
+          "start": 58.74,
+          "end": 59.48
+        },
+        {
+          "word": "pena,",
+          "start": 59.68,
+          "end": 61.14
+        }
+      ],
+      "start": 54.36,
+      "end": 61.9,
+      "confidence": 1.0,
+      "time": 54.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "nunca, nunca más se encontrarán allá;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "nunca,",
+          "start": 61.9,
+          "end": 62.38
+        },
+        {
+          "word": "nunca",
+          "start": 62.76,
+          "end": 63.02
+        },
+        {
+          "word": "más",
+          "start": 63.02,
+          "end": 63.64
+        },
+        {
+          "word": "se",
+          "start": 63.64,
+          "end": 63.98
+        },
+        {
+          "word": "encontrarán",
+          "start": 63.98,
+          "end": 65.24
+        },
+        {
+          "word": "allá.",
+          "start": 65.24,
+          "end": 66.36
+        }
+      ],
+      "start": 61.9,
+      "end": 66.36,
+      "confidence": 1.0,
+      "time": 61.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "preciosa vida, de gozo llena,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Preciosa",
+          "start": 67.36,
+          "end": 68.46
+        },
+        {
+          "word": "vida",
+          "start": 68.46,
+          "end": 70.16
+        },
+        {
+          "word": "de",
+          "start": 70.16,
+          "end": 70.86
+        },
+        {
+          "word": "gozo",
+          "start": 70.86,
+          "end": 71.56
+        },
+        {
+          "word": "llena,",
+          "start": 71.56,
+          "end": 73.04
+        }
+      ],
+      "start": 67.36,
+      "end": 73.62,
+      "confidence": 1.0,
+      "time": 67.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "el alma mía disfrutará.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 73.62,
+          "end": 73.88
+        },
+        {
+          "word": "alma",
+          "start": 73.88,
+          "end": 74.48
+        },
+        {
+          "word": "mía",
+          "start": 74.48,
+          "end": 76.4
+        },
+        {
+          "word": "disfrutará.",
+          "start": 76.4,
+          "end": 78.36
+        }
+      ],
+      "start": 73.62,
+      "end": 78.36,
+      "confidence": 1.0,
+      "time": 73.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Voy al cielo, soy peregrino,",
+      "words": [
+        {
+          "word": "Voy",
+          "start": 78.36,
+          "end": 80.14
+        },
+        {
+          "word": "al",
+          "start": 80.14,
+          "end": 80.48
+        },
+        {
+          "word": "Cielo,",
+          "start": 80.48,
+          "end": 82.28
+        },
+        {
+          "word": "soy",
+          "start": 82.28,
+          "end": 82.7
+        },
+        {
+          "word": "peregrino,",
+          "start": 82.7,
+          "end": 85.2
+        }
+      ],
+      "start": 78.36,
+      "end": 85.68,
+      "confidence": 1.0,
+      "time": 78.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "a vivir eternamente con Jesús.",
+      "words": [
+        {
+          "word": "a",
+          "start": 85.68,
+          "end": 86.18
+        },
+        {
+          "word": "vivir",
+          "start": 86.18,
+          "end": 86.92
+        },
+        {
+          "word": "eternamente",
+          "start": 86.92,
+          "end": 88.66
+        },
+        {
+          "word": "con",
+          "start": 88.66,
+          "end": 89.16
+        },
+        {
+          "word": "Jesús.",
+          "start": 89.16,
+          "end": 91.1
+        }
+      ],
+      "start": 85.68,
+      "end": 91.1,
+      "confidence": 1.0,
+      "time": 85.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡Tierra santa, hermosa y pura!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tierra",
+          "start": 91.1,
+          "end": 93.22
+        },
+        {
+          "word": "Santa,",
+          "start": 93.22,
+          "end": 94.76
+        },
+        {
+          "word": "hermosa",
+          "start": 95.38,
+          "end": 96.06
+        },
+        {
+          "word": "y",
+          "start": 96.06,
+          "end": 96.48
+        },
+        {
+          "word": "pura,",
+          "start": 96.48,
+          "end": 98.42
+        }
+      ],
+      "start": 91.1,
+      "end": 98.78,
+      "confidence": 1.0,
+      "time": 91.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "entraré en ti, salvado por Jesús;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "entraré",
+          "start": 98.78,
+          "end": 99.88
+        },
+        {
+          "word": "en",
+          "start": 99.88,
+          "end": 100.06
+        },
+        {
+          "word": "ti",
+          "start": 100.06,
+          "end": 100.32
+        },
+        {
+          "word": "salvado",
+          "start": 100.32,
+          "end": 101.36
+        },
+        {
+          "word": "por",
+          "start": 101.36,
+          "end": 101.82
+        },
+        {
+          "word": "Jesús",
+          "start": 101.82,
+          "end": 103.66
+        }
+      ],
+      "start": 98.78,
+      "end": 103.66,
+      "confidence": 1.0,
+      "time": 98.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y gozaré siempre la ventura,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 103.66,
+          "end": 104.42
+        },
+        {
+          "word": "gozaré",
+          "start": 104.42,
+          "end": 105.94
+        },
+        {
+          "word": "siempre",
+          "start": 105.94,
+          "end": 107.36
+        },
+        {
+          "word": "la",
+          "start": 107.36,
+          "end": 108.02
+        },
+        {
+          "word": "aventura",
+          "start": 108.02,
+          "end": 109.92
+        }
+      ],
+      "start": 103.66,
+      "end": 109.92,
+      "confidence": 0.992,
+      "time": 103.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "iluminado con santa luz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "iluminado",
+          "start": 109.92,
+          "end": 112.94
+        },
+        {
+          "word": "con",
+          "start": 112.94,
+          "end": 113.58
+        },
+        {
+          "word": "Santa",
+          "start": 113.58,
+          "end": 114.24
+        },
+        {
+          "word": "luz.",
+          "start": 114.24,
+          "end": 116.08
+        }
+      ],
+      "start": 109.92,
+      "end": 116.08,
+      "confidence": 1.0,
+      "time": 109.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Voy al cielo, soy peregrino,",
+      "words": [
+        {
+          "word": "Voy",
+          "start": 116.08,
+          "end": 116.92
+        },
+        {
+          "word": "al",
+          "start": 116.92,
+          "end": 117.26
+        },
+        {
+          "word": "cielo,",
+          "start": 117.26,
+          "end": 118.72
+        },
+        {
+          "word": "soy",
+          "start": 119.06,
+          "end": 119.42
+        },
+        {
+          "word": "peregrino,",
+          "start": 119.42,
+          "end": 121.78
+        }
+      ],
+      "start": 116.08,
+      "end": 122.64,
+      "confidence": 1.0,
+      "time": 116.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "a vivir eternamente con Jesús.",
+      "words": [
+        {
+          "word": "a",
+          "start": 122.64,
+          "end": 122.92
+        },
+        {
+          "word": "vivir",
+          "start": 122.92,
+          "end": 123.74
+        },
+        {
+          "word": "eternamente",
+          "start": 123.74,
+          "end": 125.62
+        },
+        {
+          "word": "con",
+          "start": 125.62,
+          "end": 126.12
+        },
+        {
+          "word": "Jesús.",
+          "start": 126.12,
+          "end": 127.62
+        }
+      ],
+      "start": 122.64,
+      "end": 127.62,
+      "confidence": 1.0,
+      "time": 122.64
+    }
+  ]
+}

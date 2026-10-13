@@ -1,0 +1,772 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.987,
+  "language": "es",
+  "model": "medium",
+  "hymn": 329,
+  "source": "329 - En la celica morada.mp3",
+  "duration": 139.89,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "En la célica morada",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 9.18,
+          "end": 10.58
+        },
+        {
+          "word": "la",
+          "start": 10.58,
+          "end": 11.0
+        },
+        {
+          "word": "célica",
+          "start": 11.0,
+          "end": 12.98
+        },
+        {
+          "word": "morada",
+          "start": 12.98,
+          "end": 14.7
+        }
+      ],
+      "start": 9.18,
+      "end": 14.7,
+      "confidence": 1.0,
+      "time": 9.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de las cumbres del Edén,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 14.7,
+          "end": 15.5
+        },
+        {
+          "word": "las",
+          "start": 15.5,
+          "end": 15.94
+        },
+        {
+          "word": "cumbres",
+          "start": 15.94,
+          "end": 17.34
+        },
+        {
+          "word": "del",
+          "start": 17.34,
+          "end": 18.02
+        },
+        {
+          "word": "Edén,",
+          "start": 18.02,
+          "end": 19.58
+        }
+      ],
+      "start": 14.7,
+      "end": 20.06,
+      "confidence": 1.0,
+      "time": 14.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "donde toda voz ensalza",
+      "verse": 1,
+      "words": [
+        {
+          "word": "donde",
+          "start": 20.06,
+          "end": 20.5
+        },
+        {
+          "word": "toda",
+          "start": 20.5,
+          "end": 22.14
+        },
+        {
+          "word": "voz",
+          "start": 22.14,
+          "end": 22.78
+        },
+        {
+          "word": "ensalza",
+          "start": 22.78,
+          "end": 24.48
+        }
+      ],
+      "start": 20.06,
+      "end": 24.48,
+      "confidence": 1.0,
+      "time": 20.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al Autor de todo bien,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 24.48,
+          "end": 25.3
+        },
+        {
+          "word": "Autor",
+          "start": 25.3,
+          "end": 26.64
+        },
+        {
+          "word": "de",
+          "start": 26.64,
+          "end": 27.18
+        },
+        {
+          "word": "todo",
+          "start": 27.18,
+          "end": 27.88
+        },
+        {
+          "word": "bien",
+          "start": 27.88,
+          "end": 28.98
+        }
+      ],
+      "start": 24.48,
+      "end": 28.98,
+      "confidence": 1.0,
+      "time": 24.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿el pesar recordaremos,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 28.98,
+          "end": 30.06
+        },
+        {
+          "word": "pesar",
+          "start": 30.06,
+          "end": 31.46
+        },
+        {
+          "word": "recordaremos",
+          "start": 31.46,
+          "end": 33.76
+        }
+      ],
+      "start": 28.98,
+      "end": 33.76,
+      "confidence": 1.0,
+      "time": 28.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y la triste nublazón,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 33.76,
+          "end": 34.94
+        },
+        {
+          "word": "la",
+          "start": 34.94,
+          "end": 35.26
+        },
+        {
+          "word": "triste",
+          "start": 35.26,
+          "end": 36.66
+        },
+        {
+          "word": "nublazón,",
+          "start": 36.66,
+          "end": 39.1
+        }
+      ],
+      "start": 33.76,
+      "end": 39.1,
+      "confidence": 1.0,
+      "time": 33.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tantas luchas del Espíritu",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tantas",
+          "start": 39.22,
+          "end": 40.12
+        },
+        {
+          "word": "luchas",
+          "start": 40.12,
+          "end": 41.66
+        },
+        {
+          "word": "del",
+          "start": 41.66,
+          "end": 42.24
+        },
+        {
+          "word": "Espíritu",
+          "start": 42.24,
+          "end": 44.02
+        }
+      ],
+      "start": 39.22,
+      "end": 44.02,
+      "confidence": 1.0,
+      "time": 39.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "con el débil corazón?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "con",
+          "start": 44.02,
+          "end": 44.72
+        },
+        {
+          "word": "el",
+          "start": 44.72,
+          "end": 44.96
+        },
+        {
+          "word": "débil",
+          "start": 44.96,
+          "end": 46.56
+        },
+        {
+          "word": "corazón.",
+          "start": 46.56,
+          "end": 48.48
+        }
+      ],
+      "start": 44.02,
+      "end": 48.48,
+      "confidence": 1.0,
+      "time": 44.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Sí, allí será gratísimo",
+      "words": [
+        {
+          "word": "Si",
+          "start": 48.74,
+          "end": 49.6
+        },
+        {
+          "word": "a",
+          "start": 49.6,
+          "end": 49.98
+        },
+        {
+          "word": "será",
+          "start": 50.92,
+          "end": 51.86
+        },
+        {
+          "word": "gratísimo",
+          "start": 51.86,
+          "end": 53.6
+        }
+      ],
+      "start": 48.74,
+      "end": 53.6,
+      "confidence": 0.985,
+      "time": 48.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "conocer y alabar",
+      "words": [
+        {
+          "word": "conocer",
+          "start": 53.6,
+          "end": 55.0
+        },
+        {
+          "word": "y",
+          "start": 55.0,
+          "end": 56.76
+        },
+        {
+          "word": "alabar,",
+          "start": 56.76,
+          "end": 58.34
+        }
+      ],
+      "start": 53.6,
+      "end": 58.34,
+      "confidence": 1.0,
+      "time": 53.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "al Pastor fiel y benéfico",
+      "words": [
+        {
+          "word": "al",
+          "start": 58.34,
+          "end": 59.28
+        },
+        {
+          "word": "pastor",
+          "start": 59.28,
+          "end": 60.56
+        },
+        {
+          "word": "fiel",
+          "start": 60.56,
+          "end": 61.24
+        },
+        {
+          "word": "y",
+          "start": 61.24,
+          "end": 61.8
+        },
+        {
+          "word": "benéfico",
+          "start": 61.8,
+          "end": 63.42
+        }
+      ],
+      "start": 58.34,
+      "end": 63.42,
+      "confidence": 1.0,
+      "time": 58.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "que nos ayudó a llegar.",
+      "words": [
+        {
+          "word": "que",
+          "start": 63.42,
+          "end": 64.12
+        },
+        {
+          "word": "nos",
+          "start": 64.12,
+          "end": 65.26
+        },
+        {
+          "word": "ayudó",
+          "start": 65.26,
+          "end": 66.38
+        },
+        {
+          "word": "a",
+          "start": 66.38,
+          "end": 66.5
+        },
+        {
+          "word": "llegar.",
+          "start": 66.5,
+          "end": 68.88
+        }
+      ],
+      "start": 63.42,
+      "end": 68.88,
+      "confidence": 1.0,
+      "time": 63.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Oración, deberes, penas,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Oración",
+          "start": 73.86,
+          "end": 75.26
+        },
+        {
+          "word": "de",
+          "start": 75.26,
+          "end": 75.92
+        },
+        {
+          "word": "penas,",
+          "start": 76.9,
+          "end": 78.14
+        }
+      ],
+      "start": 73.86,
+      "end": 78.68,
+      "confidence": 0.98,
+      "time": 73.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "vías que anduvimos ya,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "días",
+          "start": 78.68,
+          "end": 78.96
+        },
+        {
+          "word": "que",
+          "start": 78.96,
+          "end": 80.14
+        },
+        {
+          "word": "anduvimos",
+          "start": 80.14,
+          "end": 81.44
+        },
+        {
+          "word": "ya,",
+          "start": 81.44,
+          "end": 82.78
+        }
+      ],
+      "start": 78.68,
+      "end": 82.78,
+      "confidence": 0.963,
+      "time": 78.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "poseyendo las riquezas",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Poseyendo",
+          "start": 82.78,
+          "end": 85.36
+        },
+        {
+          "word": "las",
+          "start": 85.36,
+          "end": 86.08
+        },
+        {
+          "word": "riquezas",
+          "start": 86.08,
+          "end": 87.72
+        }
+      ],
+      "start": 82.78,
+      "end": 87.72,
+      "confidence": 1.0,
+      "time": 82.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que Jesús nos guarda allá,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 87.72,
+          "end": 88.46
+        },
+        {
+          "word": "Jesús",
+          "start": 88.46,
+          "end": 89.72
+        },
+        {
+          "word": "nos",
+          "start": 89.72,
+          "end": 90.32
+        },
+        {
+          "word": "guarda",
+          "start": 90.32,
+          "end": 91.24
+        }
+      ],
+      "start": 87.72,
+      "end": 92.38,
+      "confidence": 0.8,
+      "time": 87.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿la memoria retendremos",
+      "verse": 2,
+      "words": [
+        {
+          "word": "la",
+          "start": 93.0,
+          "end": 93.34
+        },
+        {
+          "word": "memoria",
+          "start": 93.34,
+          "end": 95.08
+        },
+        {
+          "word": "retendremos",
+          "start": 95.08,
+          "end": 97.32
+        }
+      ],
+      "start": 93.0,
+      "end": 97.32,
+      "confidence": 1.0,
+      "time": 93.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "del pretérito dolor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "del",
+          "start": 97.32,
+          "end": 98.26
+        },
+        {
+          "word": "pretérito",
+          "start": 98.26,
+          "end": 100.34
+        },
+        {
+          "word": "dolor,",
+          "start": 100.34,
+          "end": 101.94
+        }
+      ],
+      "start": 97.32,
+      "end": 101.94,
+      "confidence": 1.0,
+      "time": 97.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "del camino largo, aspérrimo,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "del",
+          "start": 102.52,
+          "end": 103.06
+        },
+        {
+          "word": "camino",
+          "start": 103.06,
+          "end": 104.66
+        },
+        {
+          "word": "largo",
+          "start": 104.66,
+          "end": 105.54
+        },
+        {
+          "word": "aspérrimo",
+          "start": 105.54,
+          "end": 107.24
+        }
+      ],
+      "start": 102.52,
+      "end": 107.24,
+      "confidence": 1.0,
+      "time": 102.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con sus luchas, su temor?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "con",
+          "start": 107.24,
+          "end": 107.88
+        },
+        {
+          "word": "sus",
+          "start": 107.88,
+          "end": 108.2
+        },
+        {
+          "word": "luchas,",
+          "start": 108.2,
+          "end": 109.76
+        },
+        {
+          "word": "su",
+          "start": 109.92,
+          "end": 110.34
+        },
+        {
+          "word": "temor.",
+          "start": 110.34,
+          "end": 111.82
+        }
+      ],
+      "start": 107.24,
+      "end": 111.82,
+      "confidence": 1.0,
+      "time": 107.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Sí, allí será gratísimo",
+      "words": [
+        {
+          "word": "Si",
+          "start": 111.82,
+          "end": 112.9
+        },
+        {
+          "word": "allí",
+          "start": 112.9,
+          "end": 114.12
+        },
+        {
+          "word": "será",
+          "start": 114.12,
+          "end": 115.14
+        },
+        {
+          "word": "gratísimo,",
+          "start": 115.14,
+          "end": 116.82
+        }
+      ],
+      "start": 111.82,
+      "end": 117.24,
+      "confidence": 1.0,
+      "time": 111.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "conocer y alabar",
+      "words": [
+        {
+          "word": "conocer",
+          "start": 117.24,
+          "end": 118.74
+        },
+        {
+          "word": "y",
+          "start": 118.74,
+          "end": 120.02
+        },
+        {
+          "word": "alabar",
+          "start": 120.02,
+          "end": 121.72
+        }
+      ],
+      "start": 117.24,
+      "end": 121.72,
+      "confidence": 1.0,
+      "time": 117.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "al Pastor fiel y benéfico",
+      "words": [
+        {
+          "word": "al",
+          "start": 121.72,
+          "end": 122.48
+        },
+        {
+          "word": "Pastor",
+          "start": 122.48,
+          "end": 123.64
+        },
+        {
+          "word": "fiel",
+          "start": 123.64,
+          "end": 124.48
+        },
+        {
+          "word": "y",
+          "start": 124.48,
+          "end": 125.0
+        },
+        {
+          "word": "benéfico",
+          "start": 125.0,
+          "end": 126.64
+        }
+      ],
+      "start": 121.72,
+      "end": 126.64,
+      "confidence": 1.0,
+      "time": 121.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "que nos ayudó a llegar.",
+      "words": [
+        {
+          "word": "que",
+          "start": 126.64,
+          "end": 127.42
+        },
+        {
+          "word": "nos",
+          "start": 127.42,
+          "end": 128.58
+        },
+        {
+          "word": "ayudo",
+          "start": 128.58,
+          "end": 129.54
+        },
+        {
+          "word": "a",
+          "start": 129.54,
+          "end": 129.88
+        },
+        {
+          "word": "llegar.",
+          "start": 129.88,
+          "end": 131.3
+        }
+      ],
+      "start": 126.64,
+      "end": 131.3,
+      "confidence": 1.0,
+      "time": 126.64
+    }
+  ]
+}

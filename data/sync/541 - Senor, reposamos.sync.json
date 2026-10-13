@@ -1,0 +1,642 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.931,
+  "language": "es",
+  "model": "medium",
+  "hymn": 541,
+  "source": "541 - Senor, reposamos.mp3",
+  "duration": 173.77,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Señor, reposamos en tu santo día,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 21.94,
+          "end": 21.94
+        },
+        {
+          "word": "Santos",
+          "start": 25.18,
+          "end": 25.18
+        },
+        {
+          "word": "días.",
+          "start": 29.0,
+          "end": 29.98
+        }
+      ],
+      "start": 21.94,
+      "end": 29.98,
+      "confidence": 0.48,
+      "time": 21.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cumpliendo el mandato legado por ti.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cumpliendo",
+          "start": 31.62,
+          "end": 33.02
+        },
+        {
+          "word": "el",
+          "start": 33.02,
+          "end": 33.58
+        },
+        {
+          "word": "mandado",
+          "start": 33.58,
+          "end": 35.7
+        },
+        {
+          "word": "legado",
+          "start": 35.7,
+          "end": 38.34
+        },
+        {
+          "word": "por",
+          "start": 38.34,
+          "end": 38.88
+        },
+        {
+          "word": "ti.",
+          "start": 38.88,
+          "end": 39.98
+        }
+      ],
+      "start": 31.62,
+      "end": 39.98,
+      "confidence": 0.986,
+      "time": 31.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Reposo buscamos, Dios nuestro, en tu seno;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Reposo,",
+          "start": 42.52,
+          "end": 43.92
+        },
+        {
+          "word": "buscamos",
+          "start": 43.92,
+          "end": 45.32
+        },
+        {
+          "word": "Dios",
+          "start": 45.32,
+          "end": 46.02
+        },
+        {
+          "word": "nuestro",
+          "start": 46.02,
+          "end": 47.34
+        },
+        {
+          "word": "en",
+          "start": 47.34,
+          "end": 47.88
+        },
+        {
+          "word": "tu",
+          "start": 47.88,
+          "end": 48.52
+        }
+      ],
+      "start": 42.52,
+      "end": 50.12,
+      "confidence": 0.857,
+      "time": 42.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que así ordenaste en el Sinaí,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 50.28,
+          "end": 50.8
+        },
+        {
+          "word": "así",
+          "start": 50.8,
+          "end": 52.1
+        },
+        {
+          "word": "ordenaste",
+          "start": 52.1,
+          "end": 54.74
+        },
+        {
+          "word": "en",
+          "start": 54.74,
+          "end": 55.98
+        },
+        {
+          "word": "el",
+          "start": 55.98,
+          "end": 56.8
+        },
+        {
+          "word": "Sinaí,",
+          "start": 56.8,
+          "end": 59.26
+        }
+      ],
+      "start": 50.28,
+      "end": 59.26,
+      "confidence": 1.0,
+      "time": 50.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que así ordenaste en el Sinaí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 59.26,
+          "end": 59.96
+        },
+        {
+          "word": "así",
+          "start": 59.96,
+          "end": 61.54
+        },
+        {
+          "word": "ordenaste",
+          "start": 61.54,
+          "end": 64.44
+        },
+        {
+          "word": "en",
+          "start": 64.44,
+          "end": 65.84
+        },
+        {
+          "word": "el",
+          "start": 65.84,
+          "end": 66.74
+        },
+        {
+          "word": "Silahí.",
+          "start": 66.74,
+          "end": 70.4
+        }
+      ],
+      "start": 59.26,
+      "end": 70.4,
+      "confidence": 0.973,
+      "time": 59.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Tus hijos se acercan, oh Dios, a tu trono",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tus",
+          "start": 70.98,
+          "end": 71.74
+        },
+        {
+          "word": "hijos",
+          "start": 71.74,
+          "end": 73.32
+        },
+        {
+          "word": "se",
+          "start": 73.32,
+          "end": 74.12
+        },
+        {
+          "word": "acercan,",
+          "start": 74.12,
+          "end": 75.92
+        },
+        {
+          "word": "odios",
+          "start": 76.1,
+          "end": 77.64
+        },
+        {
+          "word": "a",
+          "start": 77.64,
+          "end": 78.18
+        },
+        {
+          "word": "tu",
+          "start": 78.18,
+          "end": 78.8
+        },
+        {
+          "word": "trono,",
+          "start": 78.8,
+          "end": 80.4
+        }
+      ],
+      "start": 70.98,
+      "end": 80.4,
+      "confidence": 0.881,
+      "time": 70.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "en santa, ferviente, sincera oración,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 80.4,
+          "end": 81.44
+        },
+        {
+          "word": "santa",
+          "start": 81.44,
+          "end": 83.06
+        },
+        {
+          "word": "ferviente,",
+          "start": 83.06,
+          "end": 85.32
+        },
+        {
+          "word": "sincera",
+          "start": 85.58,
+          "end": 87.88
+        },
+        {
+          "word": "oración.",
+          "start": 87.88,
+          "end": 90.12
+        }
+      ],
+      "start": 80.4,
+      "end": 90.12,
+      "confidence": 1.0,
+      "time": 80.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "pidiéndote escuches su humilde plegaria,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Pidiéndote",
+          "start": 92.32,
+          "end": 93.72
+        },
+        {
+          "word": "escuches,",
+          "start": 93.72,
+          "end": 95.12
+        },
+        {
+          "word": "submil",
+          "start": 95.16,
+          "end": 96.82
+        },
+        {
+          "word": "plegaria,",
+          "start": 97.46,
+          "end": 99.62
+        }
+      ],
+      "start": 92.32,
+      "end": 99.62,
+      "confidence": 0.754,
+      "time": 92.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y gocen por siempre de tu protección,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 100.36,
+          "end": 100.68
+        },
+        {
+          "word": "gocen",
+          "start": 100.68,
+          "end": 102.12
+        },
+        {
+          "word": "por",
+          "start": 102.12,
+          "end": 102.92
+        },
+        {
+          "word": "siempre",
+          "start": 102.92,
+          "end": 104.24
+        },
+        {
+          "word": "de",
+          "start": 104.24,
+          "end": 105.24
+        },
+        {
+          "word": "tu",
+          "start": 105.24,
+          "end": 106.44
+        },
+        {
+          "word": "protección,",
+          "start": 106.44,
+          "end": 109.04
+        }
+      ],
+      "start": 100.36,
+      "end": 109.04,
+      "confidence": 1.0,
+      "time": 100.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y gocen por siempre de tu protección.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 109.04,
+          "end": 110.1
+        },
+        {
+          "word": "gocen",
+          "start": 110.1,
+          "end": 111.7
+        },
+        {
+          "word": "por",
+          "start": 111.7,
+          "end": 112.48
+        },
+        {
+          "word": "siempre",
+          "start": 112.48,
+          "end": 113.86
+        },
+        {
+          "word": "de",
+          "start": 113.86,
+          "end": 115.0
+        },
+        {
+          "word": "tu",
+          "start": 115.0,
+          "end": 116.18
+        },
+        {
+          "word": "protección.",
+          "start": 116.18,
+          "end": 120.48
+        }
+      ],
+      "start": 109.04,
+      "end": 120.48,
+      "confidence": 1.0,
+      "time": 109.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Alienta a tus hijos, que obtengan victoria,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Alienta",
+          "start": 121.96,
+          "end": 123.36
+        },
+        {
+          "word": "a",
+          "start": 123.36,
+          "end": 123.46
+        },
+        {
+          "word": "tus",
+          "start": 123.46,
+          "end": 124.08
+        },
+        {
+          "word": "hijos",
+          "start": 124.08,
+          "end": 125.36
+        },
+        {
+          "word": "que",
+          "start": 125.36,
+          "end": 126.08
+        },
+        {
+          "word": "obtengan",
+          "start": 126.08,
+          "end": 128.0
+        },
+        {
+          "word": "victoria,",
+          "start": 128.0,
+          "end": 130.16
+        }
+      ],
+      "start": 121.96,
+      "end": 130.16,
+      "confidence": 1.0,
+      "time": 121.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que puedan fielmente tus leyes cumplir;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 130.16,
+          "end": 130.9
+        },
+        {
+          "word": "puedan",
+          "start": 130.9,
+          "end": 132.72
+        },
+        {
+          "word": "fielmente",
+          "start": 132.72,
+          "end": 135.12
+        },
+        {
+          "word": "tus",
+          "start": 135.12,
+          "end": 135.92
+        },
+        {
+          "word": "leyes",
+          "start": 135.92,
+          "end": 137.94
+        },
+        {
+          "word": "cumplir.",
+          "start": 137.94,
+          "end": 139.74
+        }
+      ],
+      "start": 130.16,
+      "end": 139.74,
+      "confidence": 1.0,
+      "time": 130.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y cuando vinieres, Señor, en tu gloria,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 140.16,
+          "end": 140.74
+        },
+        {
+          "word": "cuando",
+          "start": 140.74,
+          "end": 142.48
+        },
+        {
+          "word": "vinieres,",
+          "start": 142.48,
+          "end": 144.96
+        },
+        {
+          "word": "Señor,",
+          "start": 144.96,
+          "end": 146.72
+        },
+        {
+          "word": "en",
+          "start": 146.94,
+          "end": 147.4
+        },
+        {
+          "word": "tu",
+          "start": 147.4,
+          "end": 147.94
+        },
+        {
+          "word": "gloria,",
+          "start": 147.94,
+          "end": 149.46
+        }
+      ],
+      "start": 140.16,
+      "end": 149.46,
+      "confidence": 1.0,
+      "time": 140.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que puedan por siempre contigo vivir,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 150.08,
+          "end": 150.34
+        },
+        {
+          "word": "puedan",
+          "start": 150.34,
+          "end": 151.94
+        },
+        {
+          "word": "por",
+          "start": 151.94,
+          "end": 152.7
+        },
+        {
+          "word": "siempre",
+          "start": 152.7,
+          "end": 154.16
+        },
+        {
+          "word": "contigo",
+          "start": 154.16,
+          "end": 156.82
+        },
+        {
+          "word": "vivir,",
+          "start": 156.82,
+          "end": 158.82
+        }
+      ],
+      "start": 150.08,
+      "end": 158.82,
+      "confidence": 1.0,
+      "time": 150.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que puedan por siempre contigo vivir.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 158.82,
+          "end": 159.82
+        },
+        {
+          "word": "puedan",
+          "start": 159.82,
+          "end": 161.48
+        },
+        {
+          "word": "por",
+          "start": 161.48,
+          "end": 162.3
+        },
+        {
+          "word": "siempre",
+          "start": 162.3,
+          "end": 163.92
+        },
+        {
+          "word": "contigo",
+          "start": 163.92,
+          "end": 167.5
+        },
+        {
+          "word": "vivir.",
+          "start": 167.5,
+          "end": 168.54
+        }
+      ],
+      "start": 158.82,
+      "end": 168.54,
+      "confidence": 1.0,
+      "time": 158.82
+    }
+  ]
+}

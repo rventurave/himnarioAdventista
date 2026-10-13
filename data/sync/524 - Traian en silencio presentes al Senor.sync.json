@@ -1,0 +1,943 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.983,
+  "language": "es",
+  "model": "medium",
+  "hymn": 524,
+  "source": "524 - Traian en silencio presentes al Senor.mp3",
+  "duration": 184.14,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Traían en silencio presentes al Señor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Traían",
+          "start": 18.24,
+          "end": 19.64
+        },
+        {
+          "word": "en",
+          "start": 19.64,
+          "end": 20.34
+        },
+        {
+          "word": "silencio",
+          "start": 20.34,
+          "end": 22.56
+        },
+        {
+          "word": "presentes",
+          "start": 22.56,
+          "end": 24.22
+        },
+        {
+          "word": "al",
+          "start": 24.22,
+          "end": 24.86
+        },
+        {
+          "word": "Señor",
+          "start": 24.86,
+          "end": 26.66
+        }
+      ],
+      "start": 18.24,
+      "end": 26.66,
+      "confidence": 1.0,
+      "time": 18.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "su amor humilde y puro les daba gran valor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Su",
+          "start": 26.66,
+          "end": 27.46
+        },
+        {
+          "word": "amor",
+          "start": 27.46,
+          "end": 28.46
+        },
+        {
+          "word": "humilde",
+          "start": 28.46,
+          "end": 29.54
+        },
+        {
+          "word": "y",
+          "start": 29.54,
+          "end": 30.56
+        },
+        {
+          "word": "puro",
+          "start": 30.56,
+          "end": 31.44
+        },
+        {
+          "word": "les",
+          "start": 31.44,
+          "end": 32.16
+        },
+        {
+          "word": "daba",
+          "start": 32.16,
+          "end": 33.14
+        },
+        {
+          "word": "gran",
+          "start": 33.14,
+          "end": 33.86
+        },
+        {
+          "word": "valor,",
+          "start": 33.86,
+          "end": 35.6
+        }
+      ],
+      "start": 26.66,
+      "end": 36.62,
+      "confidence": 1.0,
+      "time": 26.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "palabras de consuelo y hechos de bondad,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "palabras",
+          "start": 36.62,
+          "end": 37.64
+        },
+        {
+          "word": "de",
+          "start": 37.64,
+          "end": 38.52
+        },
+        {
+          "word": "consuelo",
+          "start": 38.52,
+          "end": 40.4
+        },
+        {
+          "word": "y",
+          "start": 40.4,
+          "end": 41.3
+        },
+        {
+          "word": "hechos",
+          "start": 41.3,
+          "end": 42.22
+        },
+        {
+          "word": "de",
+          "start": 42.22,
+          "end": 43.1
+        },
+        {
+          "word": "bondad.",
+          "start": 43.1,
+          "end": 44.94
+        }
+      ],
+      "start": 36.62,
+      "end": 44.94,
+      "confidence": 1.0,
+      "time": 36.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús los recibía por su sinceridad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 44.94,
+          "end": 46.02
+        },
+        {
+          "word": "los",
+          "start": 46.02,
+          "end": 47.06
+        },
+        {
+          "word": "recibía",
+          "start": 47.06,
+          "end": 49.42
+        },
+        {
+          "word": "por",
+          "start": 49.42,
+          "end": 50.04
+        },
+        {
+          "word": "su",
+          "start": 50.04,
+          "end": 50.72
+        },
+        {
+          "word": "sinceridad.",
+          "start": 50.72,
+          "end": 53.88
+        }
+      ],
+      "start": 44.94,
+      "end": 53.88,
+      "confidence": 1.0,
+      "time": 44.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¿Quisieras dar a Cristo",
+      "words": [
+        {
+          "word": "Quisieras",
+          "start": 54.22,
+          "end": 55.62
+        },
+        {
+          "word": "dar",
+          "start": 55.62,
+          "end": 56.56
+        },
+        {
+          "word": "a",
+          "start": 56.56,
+          "end": 57.04
+        },
+        {
+          "word": "Cristo",
+          "start": 57.04,
+          "end": 58.22
+        }
+      ],
+      "start": 54.22,
+      "end": 58.22,
+      "confidence": 1.0,
+      "time": 54.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "el más precioso don?",
+      "words": [
+        {
+          "word": "el",
+          "start": 58.22,
+          "end": 59.0
+        },
+        {
+          "word": "más",
+          "start": 59.0,
+          "end": 59.82
+        },
+        {
+          "word": "precioso",
+          "start": 59.82,
+          "end": 61.32
+        },
+        {
+          "word": "don.",
+          "start": 61.32,
+          "end": 62.72
+        }
+      ],
+      "start": 58.22,
+      "end": 62.72,
+      "confidence": 1.0,
+      "time": 58.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Di: \"Cristo, mi Maestro,",
+      "words": [
+        {
+          "word": "Di",
+          "start": 63.24,
+          "end": 63.56
+        },
+        {
+          "word": "Cristo,",
+          "start": 63.56,
+          "end": 64.54
+        },
+        {
+          "word": "mi",
+          "start": 64.86,
+          "end": 65.4
+        },
+        {
+          "word": "Maestro,",
+          "start": 65.4,
+          "end": 67.3
+        }
+      ],
+      "start": 63.24,
+      "end": 67.6,
+      "confidence": 1.0,
+      "time": 63.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "te doy mi corazón\".",
+      "words": [
+        {
+          "word": "te",
+          "start": 67.6,
+          "end": 68.14
+        },
+        {
+          "word": "doy",
+          "start": 68.14,
+          "end": 68.82
+        },
+        {
+          "word": "mi",
+          "start": 68.82,
+          "end": 69.38
+        },
+        {
+          "word": "corazón.",
+          "start": 69.38,
+          "end": 71.54
+        }
+      ],
+      "start": 67.6,
+      "end": 71.54,
+      "confidence": 1.0,
+      "time": 67.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Aparte de los otros un pobre viador",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Aparte",
+          "start": 71.54,
+          "end": 73.8
+        },
+        {
+          "word": "de",
+          "start": 73.8,
+          "end": 74.46
+        },
+        {
+          "word": "los",
+          "start": 74.46,
+          "end": 75.08
+        },
+        {
+          "word": "otros,",
+          "start": 75.08,
+          "end": 76.52
+        },
+        {
+          "word": "un",
+          "start": 76.64,
+          "end": 77.14
+        },
+        {
+          "word": "pobre",
+          "start": 77.14,
+          "end": 78.1
+        },
+        {
+          "word": "viador",
+          "start": 78.1,
+          "end": 80.68
+        }
+      ],
+      "start": 71.54,
+      "end": 80.68,
+      "confidence": 1.0,
+      "time": 71.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "miraba cómo daban tributos al Señor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "miraba",
+          "start": 80.68,
+          "end": 82.58
+        },
+        {
+          "word": "cómo",
+          "start": 82.58,
+          "end": 83.72
+        },
+        {
+          "word": "daban",
+          "start": 83.72,
+          "end": 85.52
+        },
+        {
+          "word": "tributos",
+          "start": 85.52,
+          "end": 87.42
+        },
+        {
+          "word": "al",
+          "start": 87.42,
+          "end": 87.94
+        },
+        {
+          "word": "Señor.",
+          "start": 87.94,
+          "end": 89.56
+        }
+      ],
+      "start": 80.68,
+      "end": 89.56,
+      "confidence": 1.0,
+      "time": 80.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Él nada poseía; sentía gran amor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Él",
+          "start": 89.56,
+          "end": 90.58
+        },
+        {
+          "word": "nada",
+          "start": 90.58,
+          "end": 91.62
+        },
+        {
+          "word": "poseía,",
+          "start": 91.62,
+          "end": 94.3
+        },
+        {
+          "word": "sentía",
+          "start": 94.96,
+          "end": 96.14
+        },
+        {
+          "word": "gran",
+          "start": 96.14,
+          "end": 96.92
+        },
+        {
+          "word": "amor,",
+          "start": 96.92,
+          "end": 98.62
+        }
+      ],
+      "start": 89.56,
+      "end": 99.28,
+      "confidence": 1.0,
+      "time": 89.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Y cuánto anhelaba dar algo de valor!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 99.28,
+          "end": 99.62
+        },
+        {
+          "word": "cuanto",
+          "start": 99.62,
+          "end": 100.72
+        },
+        {
+          "word": "anhelaba",
+          "start": 100.72,
+          "end": 103.32
+        },
+        {
+          "word": "dar",
+          "start": 103.32,
+          "end": 104.18
+        },
+        {
+          "word": "algo",
+          "start": 104.18,
+          "end": 105.04
+        },
+        {
+          "word": "de",
+          "start": 105.04,
+          "end": 105.98
+        },
+        {
+          "word": "valor.",
+          "start": 105.98,
+          "end": 107.62
+        }
+      ],
+      "start": 99.28,
+      "end": 107.62,
+      "confidence": 1.0,
+      "time": 99.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¿Quisieras dar a Cristo",
+      "words": [
+        {
+          "word": "Quisieras",
+          "start": 107.62,
+          "end": 109.64
+        },
+        {
+          "word": "dar",
+          "start": 109.64,
+          "end": 110.54
+        },
+        {
+          "word": "a",
+          "start": 110.54,
+          "end": 111.0
+        },
+        {
+          "word": "Cristo",
+          "start": 111.0,
+          "end": 112.2
+        }
+      ],
+      "start": 107.62,
+      "end": 112.2,
+      "confidence": 1.0,
+      "time": 107.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "el más precioso don?",
+      "words": [
+        {
+          "word": "el",
+          "start": 112.2,
+          "end": 112.98
+        },
+        {
+          "word": "más",
+          "start": 112.98,
+          "end": 113.8
+        },
+        {
+          "word": "precioso",
+          "start": 113.8,
+          "end": 115.36
+        },
+        {
+          "word": "don,",
+          "start": 115.36,
+          "end": 116.76
+        }
+      ],
+      "start": 112.2,
+      "end": 117.32,
+      "confidence": 1.0,
+      "time": 112.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Di: \"Cristo, mi Maestro,",
+      "words": [
+        {
+          "word": "di",
+          "start": 117.32,
+          "end": 117.54
+        },
+        {
+          "word": "Cristo",
+          "start": 117.54,
+          "end": 118.5
+        },
+        {
+          "word": "mi",
+          "start": 118.5,
+          "end": 119.4
+        },
+        {
+          "word": "maestro,",
+          "start": 119.4,
+          "end": 121.46
+        }
+      ],
+      "start": 117.32,
+      "end": 121.78,
+      "confidence": 1.0,
+      "time": 117.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "te doy mi corazón\".",
+      "words": [
+        {
+          "word": "te",
+          "start": 121.78,
+          "end": 122.2
+        },
+        {
+          "word": "doy",
+          "start": 122.2,
+          "end": 122.84
+        },
+        {
+          "word": "mi",
+          "start": 122.84,
+          "end": 123.66
+        },
+        {
+          "word": "corazón.",
+          "start": 123.66,
+          "end": 125.34
+        }
+      ],
+      "start": 121.78,
+      "end": 125.34,
+      "confidence": 1.0,
+      "time": 121.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "\"Señor\", clamó el hombre, \"acepta tú mi don,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Señor,",
+          "start": 125.34,
+          "end": 127.04
+        },
+        {
+          "word": "clamó",
+          "start": 127.4,
+          "end": 128.42
+        },
+        {
+          "word": "el",
+          "start": 128.42,
+          "end": 129.06
+        },
+        {
+          "word": "hombre,",
+          "start": 129.06,
+          "end": 130.28
+        },
+        {
+          "word": "acepta",
+          "start": 131.18,
+          "end": 132.12
+        },
+        {
+          "word": "tu",
+          "start": 132.12,
+          "end": 132.82
+        },
+        {
+          "word": "humidón,",
+          "start": 132.82,
+          "end": 134.66
+        }
+      ],
+      "start": 125.34,
+      "end": 135.62,
+      "confidence": 0.845,
+      "time": 125.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "acepta lo que tengo: mi triste corazón\".",
+      "verse": 3,
+      "words": [
+        {
+          "word": "acepta",
+          "start": 135.62,
+          "end": 136.6
+        },
+        {
+          "word": "lo",
+          "start": 136.6,
+          "end": 137.36
+        },
+        {
+          "word": "que",
+          "start": 137.36,
+          "end": 138.02
+        },
+        {
+          "word": "tengo,",
+          "start": 138.02,
+          "end": 139.2
+        },
+        {
+          "word": "mi",
+          "start": 139.62,
+          "end": 140.0
+        },
+        {
+          "word": "triste",
+          "start": 140.0,
+          "end": 141.04
+        },
+        {
+          "word": "corazón.",
+          "start": 141.04,
+          "end": 143.52
+        }
+      ],
+      "start": 135.62,
+      "end": 143.52,
+      "confidence": 1.0,
+      "time": 135.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Le dijo el buen Maestro al pobre viador:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "dijo",
+          "start": 144.52,
+          "end": 145.32
+        },
+        {
+          "word": "el",
+          "start": 145.32,
+          "end": 145.66
+        },
+        {
+          "word": "buen",
+          "start": 145.66,
+          "end": 146.36
+        },
+        {
+          "word": "Maestro",
+          "start": 146.36,
+          "end": 148.3
+        },
+        {
+          "word": "al",
+          "start": 148.3,
+          "end": 149.04
+        },
+        {
+          "word": "pobre",
+          "start": 149.04,
+          "end": 150.1
+        },
+        {
+          "word": "Viador,",
+          "start": 150.1,
+          "end": 152.66
+        }
+      ],
+      "start": 144.52,
+      "end": 153.22,
+      "confidence": 0.875,
+      "time": 144.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "\"De todos los presentes es este el mejor\".",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 153.22,
+          "end": 153.6
+        },
+        {
+          "word": "todos",
+          "start": 153.6,
+          "end": 154.56
+        },
+        {
+          "word": "los",
+          "start": 154.56,
+          "end": 155.5
+        },
+        {
+          "word": "presentes",
+          "start": 155.5,
+          "end": 157.4
+        },
+        {
+          "word": "es",
+          "start": 157.4,
+          "end": 158.28
+        },
+        {
+          "word": "éste",
+          "start": 158.28,
+          "end": 159.22
+        },
+        {
+          "word": "el",
+          "start": 159.22,
+          "end": 160.0
+        },
+        {
+          "word": "mejor.",
+          "start": 160.0,
+          "end": 161.5
+        }
+      ],
+      "start": 153.22,
+      "end": 161.5,
+      "confidence": 1.0,
+      "time": 153.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¿Quisieras dar a Cristo",
+      "words": [
+        {
+          "word": "Quisieras",
+          "start": 161.5,
+          "end": 163.58
+        },
+        {
+          "word": "dar",
+          "start": 163.58,
+          "end": 164.48
+        },
+        {
+          "word": "a",
+          "start": 164.48,
+          "end": 164.88
+        },
+        {
+          "word": "Cristo",
+          "start": 164.88,
+          "end": 166.1
+        }
+      ],
+      "start": 161.5,
+      "end": 166.1,
+      "confidence": 1.0,
+      "time": 161.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "el más precioso don?",
+      "words": [
+        {
+          "word": "el",
+          "start": 166.1,
+          "end": 166.9
+        },
+        {
+          "word": "más",
+          "start": 166.9,
+          "end": 167.74
+        },
+        {
+          "word": "precioso",
+          "start": 167.74,
+          "end": 169.24
+        },
+        {
+          "word": "don,",
+          "start": 169.24,
+          "end": 170.68
+        }
+      ],
+      "start": 166.1,
+      "end": 171.34,
+      "confidence": 1.0,
+      "time": 166.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Di: \"Cristo, mi Maestro,",
+      "words": [
+        {
+          "word": "di",
+          "start": 171.34,
+          "end": 171.56
+        },
+        {
+          "word": "Cristo,",
+          "start": 171.56,
+          "end": 172.5
+        },
+        {
+          "word": "mi",
+          "start": 172.8,
+          "end": 173.34
+        },
+        {
+          "word": "Maestro,",
+          "start": 173.34,
+          "end": 175.26
+        }
+      ],
+      "start": 171.34,
+      "end": 175.64,
+      "confidence": 1.0,
+      "time": 171.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "te doy mi corazón\".",
+      "words": [
+        {
+          "word": "te",
+          "start": 175.64,
+          "end": 176.14
+        },
+        {
+          "word": "doy",
+          "start": 176.14,
+          "end": 177.08
+        },
+        {
+          "word": "mi",
+          "start": 177.08,
+          "end": 177.36
+        },
+        {
+          "word": "corazón.",
+          "start": 177.36,
+          "end": 179.28
+        }
+      ],
+      "start": 175.64,
+      "end": 179.28,
+      "confidence": 1.0,
+      "time": 175.64
+    }
+  ]
+}

@@ -1,0 +1,737 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.954,
+  "language": "es",
+  "model": "medium",
+  "hymn": 504,
+  "source": "504 - Senor de todos.mp3",
+  "duration": 143.96,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Señor de todos, dame amor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Señor",
+          "start": 12.84,
+          "end": 14.24
+        },
+        {
+          "word": "de",
+          "start": 14.24,
+          "end": 15.0
+        },
+        {
+          "word": "todos,",
+          "start": 15.0,
+          "end": 16.36
+        },
+        {
+          "word": "dame",
+          "start": 17.0,
+          "end": 17.68
+        },
+        {
+          "word": "amor",
+          "start": 17.68,
+          "end": 19.22
+        }
+      ],
+      "start": 12.84,
+      "end": 19.22,
+      "confidence": 1.0,
+      "time": 12.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por gentes de cualquier nación;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "por",
+          "start": 19.22,
+          "end": 20.02
+        },
+        {
+          "word": "gentes",
+          "start": 20.02,
+          "end": 20.9
+        },
+        {
+          "word": "de",
+          "start": 20.9,
+          "end": 22.12
+        },
+        {
+          "word": "cualquier",
+          "start": 22.12,
+          "end": 23.36
+        },
+        {
+          "word": "nación",
+          "start": 23.36,
+          "end": 25.22
+        }
+      ],
+      "start": 19.22,
+      "end": 25.22,
+      "confidence": 1.0,
+      "time": 19.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y que en todos pueda ver",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 25.22,
+          "end": 26.02
+        },
+        {
+          "word": "que",
+          "start": 26.02,
+          "end": 26.6
+        },
+        {
+          "word": "en",
+          "start": 26.6,
+          "end": 27.76
+        },
+        {
+          "word": "todos",
+          "start": 27.76,
+          "end": 28.3
+        },
+        {
+          "word": "pueda",
+          "start": 28.3,
+          "end": 29.72
+        },
+        {
+          "word": "ver",
+          "start": 29.72,
+          "end": 31.2
+        }
+      ],
+      "start": 25.22,
+      "end": 31.2,
+      "confidence": 1.0,
+      "time": 25.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a un hermano en ti, Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "a",
+          "start": 31.2,
+          "end": 32.3
+        },
+        {
+          "word": "un",
+          "start": 32.3,
+          "end": 32.6
+        },
+        {
+          "word": "hermano",
+          "start": 32.6,
+          "end": 34.2
+        },
+        {
+          "word": "en",
+          "start": 34.2,
+          "end": 34.6
+        },
+        {
+          "word": "ti,",
+          "start": 34.6,
+          "end": 35.58
+        },
+        {
+          "word": "Señor.",
+          "start": 35.58,
+          "end": 37.76
+        }
+      ],
+      "start": 31.2,
+      "end": 37.76,
+      "confidence": 1.0,
+      "time": 31.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Derriba el muro divisor",
+      "verse": 2,
+      "words": [
+        {
+          "word": "De",
+          "start": 39.26,
+          "end": 39.6
+        },
+        {
+          "word": "el",
+          "start": 40.26,
+          "end": 40.84
+        }
+      ],
+      "start": 39.26,
+      "end": 45.3,
+      "confidence": 0.485,
+      "time": 39.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "entre tus hijos, mi Señor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "entre",
+          "start": 45.3,
+          "end": 45.94
+        },
+        {
+          "word": "tus",
+          "start": 45.94,
+          "end": 47.0
+        },
+        {
+          "word": "hijos,",
+          "start": 47.0,
+          "end": 47.86
+        },
+        {
+          "word": "mi",
+          "start": 48.52,
+          "end": 49.02
+        },
+        {
+          "word": "Señor,",
+          "start": 49.02,
+          "end": 50.64
+        }
+      ],
+      "start": 45.3,
+      "end": 50.64,
+      "confidence": 1.0,
+      "time": 45.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "que a mi vecino pueda ayudar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "que",
+          "start": 50.64,
+          "end": 51.22
+        },
+        {
+          "word": "a",
+          "start": 51.22,
+          "end": 51.74
+        },
+        {
+          "word": "mi",
+          "start": 51.74,
+          "end": 52.04
+        },
+        {
+          "word": "vecino",
+          "start": 52.04,
+          "end": 53.84
+        },
+        {
+          "word": "pueda",
+          "start": 53.84,
+          "end": 54.7
+        },
+        {
+          "word": "ayudar",
+          "start": 54.7,
+          "end": 56.34
+        }
+      ],
+      "start": 50.64,
+      "end": 56.34,
+      "confidence": 1.0,
+      "time": 50.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y que nos una tu amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 56.34,
+          "end": 57.44
+        },
+        {
+          "word": "que",
+          "start": 57.44,
+          "end": 58.02
+        },
+        {
+          "word": "no",
+          "start": 58.02,
+          "end": 58.6
+        },
+        {
+          "word": "suena",
+          "start": 58.6,
+          "end": 59.92
+        },
+        {
+          "word": "tu",
+          "start": 59.92,
+          "end": 60.98
+        },
+        {
+          "word": "valor.",
+          "start": 60.98,
+          "end": 63.18
+        }
+      ],
+      "start": 56.34,
+      "end": 63.18,
+      "confidence": 0.932,
+      "time": 56.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Perdóname si acaso erré",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Perdóname",
+          "start": 65.3,
+          "end": 66.7
+        },
+        {
+          "word": "si",
+          "start": 66.7,
+          "end": 67.24
+        },
+        {
+          "word": "acaso",
+          "start": 67.24,
+          "end": 68.62
+        },
+        {
+          "word": "erré",
+          "start": 68.62,
+          "end": 69.64
+        }
+      ],
+      "start": 65.3,
+      "end": 69.64,
+      "confidence": 1.0,
+      "time": 65.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con acto vil o insensatez;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 70.2,
+          "end": 71.22
+        },
+        {
+          "word": "acto",
+          "start": 71.22,
+          "end": 72.56
+        },
+        {
+          "word": "vil",
+          "start": 72.56,
+          "end": 73.0
+        },
+        {
+          "word": "o",
+          "start": 73.0,
+          "end": 73.24
+        },
+        {
+          "word": "insensatez,",
+          "start": 73.24,
+          "end": 75.64
+        }
+      ],
+      "start": 70.2,
+      "end": 75.64,
+      "confidence": 1.0,
+      "time": 70.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "comprenda yo que cada traspié",
+      "verse": 3,
+      "words": [
+        {
+          "word": "comprenda",
+          "start": 75.64,
+          "end": 77.96
+        },
+        {
+          "word": "yo",
+          "start": 77.96,
+          "end": 78.92
+        },
+        {
+          "word": "que",
+          "start": 78.92,
+          "end": 79.48
+        },
+        {
+          "word": "cada",
+          "start": 79.48,
+          "end": 80.46
+        },
+        {
+          "word": "traspié",
+          "start": 80.46,
+          "end": 82.3
+        }
+      ],
+      "start": 75.64,
+      "end": 82.3,
+      "confidence": 1.0,
+      "time": 75.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "te crucifica otra vez.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "te",
+          "start": 82.3,
+          "end": 83.02
+        },
+        {
+          "word": "crucifica",
+          "start": 83.02,
+          "end": 85.62
+        },
+        {
+          "word": "otra",
+          "start": 85.62,
+          "end": 87.1
+        },
+        {
+          "word": "vez.",
+          "start": 87.1,
+          "end": 88.72
+        }
+      ],
+      "start": 82.3,
+      "end": 88.72,
+      "confidence": 1.0,
+      "time": 82.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Hazme valiente para hablar",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Hazme",
+          "start": 89.76,
+          "end": 91.16
+        },
+        {
+          "word": "valiente",
+          "start": 91.16,
+          "end": 92.94
+        },
+        {
+          "word": "para",
+          "start": 92.94,
+          "end": 94.34
+        },
+        {
+          "word": "hablar",
+          "start": 94.34,
+          "end": 95.76
+        }
+      ],
+      "start": 89.76,
+      "end": 95.76,
+      "confidence": 1.0,
+      "time": 89.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "y defender del opresor;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 95.76,
+          "end": 96.94
+        },
+        {
+          "word": "defender",
+          "start": 96.94,
+          "end": 98.48
+        },
+        {
+          "word": "del",
+          "start": 98.48,
+          "end": 99.64
+        },
+        {
+          "word": "opresor,",
+          "start": 99.64,
+          "end": 101.9
+        }
+      ],
+      "start": 95.76,
+      "end": 101.9,
+      "confidence": 1.0,
+      "time": 95.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "y si yo mismo víctima soy,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Y",
+          "start": 101.9,
+          "end": 102.68
+        },
+        {
+          "word": "si",
+          "start": 102.68,
+          "end": 103.18
+        },
+        {
+          "word": "yo",
+          "start": 103.18,
+          "end": 103.84
+        },
+        {
+          "word": "mismo",
+          "start": 103.84,
+          "end": 105.14
+        },
+        {
+          "word": "víctima",
+          "start": 105.14,
+          "end": 106.56
+        },
+        {
+          "word": "soy,",
+          "start": 106.56,
+          "end": 107.9
+        }
+      ],
+      "start": 101.9,
+      "end": 108.88,
+      "confidence": 1.0,
+      "time": 101.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "ayúdame a perdonar.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "ayúdame",
+          "start": 108.88,
+          "end": 110.8
+        },
+        {
+          "word": "a",
+          "start": 110.8,
+          "end": 112.06
+        },
+        {
+          "word": "perdonar.",
+          "start": 112.06,
+          "end": 114.56
+        }
+      ],
+      "start": 108.88,
+      "end": 114.56,
+      "confidence": 1.0,
+      "time": 108.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Lléname con tu pleno amor,",
+      "verse": 5,
+      "words": [
+        {
+          "word": "Lléname",
+          "start": 115.72,
+          "end": 117.12
+        },
+        {
+          "word": "con",
+          "start": 117.12,
+          "end": 118.22
+        },
+        {
+          "word": "tu",
+          "start": 118.22,
+          "end": 118.7
+        },
+        {
+          "word": "pleno",
+          "start": 118.7,
+          "end": 120.08
+        },
+        {
+          "word": "amor,",
+          "start": 120.08,
+          "end": 121.46
+        }
+      ],
+      "start": 115.72,
+      "end": 122.08,
+      "confidence": 1.0,
+      "time": 115.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "colme tu Espíritu mi ser.",
+      "verse": 5,
+      "words": [
+        {
+          "word": "colme",
+          "start": 122.08,
+          "end": 122.64
+        },
+        {
+          "word": "tu",
+          "start": 122.64,
+          "end": 123.02
+        },
+        {
+          "word": "espíritu",
+          "start": 123.02,
+          "end": 125.62
+        },
+        {
+          "word": "miser,",
+          "start": 125.62,
+          "end": 126.74
+        }
+      ],
+      "start": 122.08,
+      "end": 126.74,
+      "confidence": 0.77,
+      "time": 122.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Que en cuanto toque con mi labor,",
+      "verse": 5,
+      "words": [
+        {
+          "word": "que",
+          "start": 126.74,
+          "end": 128.02
+        },
+        {
+          "word": "en",
+          "start": 128.02,
+          "end": 128.38
+        },
+        {
+          "word": "cuanto",
+          "start": 128.38,
+          "end": 129.08
+        },
+        {
+          "word": "toque",
+          "start": 129.08,
+          "end": 130.58
+        },
+        {
+          "word": "con",
+          "start": 130.58,
+          "end": 131.2
+        },
+        {
+          "word": "mi",
+          "start": 131.2,
+          "end": 131.66
+        },
+        {
+          "word": "labor,",
+          "start": 131.66,
+          "end": 133.24
+        }
+      ],
+      "start": 126.74,
+      "end": 133.24,
+      "confidence": 1.0,
+      "time": 126.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "tu toque el mundo pueda ver.",
+      "verse": 5,
+      "words": [
+        {
+          "word": "toque",
+          "start": 134.24,
+          "end": 135.06
+        },
+        {
+          "word": "el",
+          "start": 135.06,
+          "end": 135.78
+        },
+        {
+          "word": "mundo",
+          "start": 135.78,
+          "end": 136.72
+        },
+        {
+          "word": "pueda",
+          "start": 136.72,
+          "end": 138.3
+        },
+        {
+          "word": "ver.",
+          "start": 138.3,
+          "end": 141.1
+        }
+      ],
+      "start": 134.24,
+      "end": 141.1,
+      "confidence": 0.833,
+      "time": 134.24
+    }
+  ]
+}

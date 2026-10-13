@@ -1,0 +1,179 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.81,
+  "language": "es",
+  "model": "large-v3",
+  "hymn": 470,
+  "source": "470 - Guiame, Dios.mp3",
+  "duration": 64.7,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Guíame, Dios,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Dígame",
+          "start": 14.44,
+          "end": 15.84
+        },
+        {
+          "word": "Dios,",
+          "start": 15.84,
+          "end": 17.24
+        }
+      ],
+      "start": 14.44,
+      "end": 20.36,
+      "confidence": 0.9,
+      "time": 14.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "guía en tu justicia;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 20.36,
+          "end": 21.04
+        },
+        {
+          "word": "tu",
+          "start": 21.04,
+          "end": 21.4
+        },
+        {
+          "word": "justicia,",
+          "start": 21.4,
+          "end": 24.62
+        }
+      ],
+      "start": 20.36,
+      "end": 24.62,
+      "confidence": 0.75,
+      "time": 20.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tu senda allana frente a mí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "llana,",
+          "start": 28.22,
+          "end": 30.36
+        },
+        {
+          "word": "a",
+          "start": 33.34,
+          "end": 33.86
+        },
+        {
+          "word": "mí,",
+          "start": 33.86,
+          "end": 35.04
+        }
+      ],
+      "start": 28.22,
+      "end": 35.64,
+      "confidence": 0.491,
+      "time": 28.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Pues solo tú, Dios,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "pues",
+          "start": 35.64,
+          "end": 37.98
+        },
+        {
+          "word": "sólo",
+          "start": 37.98,
+          "end": 39.76
+        },
+        {
+          "word": "Tú,",
+          "start": 39.76,
+          "end": 40.92
+        },
+        {
+          "word": "Dios,",
+          "start": 41.1,
+          "end": 42.9
+        }
+      ],
+      "start": 35.64,
+      "end": 42.92,
+      "confidence": 1.0,
+      "time": 35.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "solo tú, Dios,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sólo",
+          "start": 42.92,
+          "end": 44.7
+        },
+        {
+          "word": "Tú,",
+          "start": 44.7,
+          "end": 46.88
+        },
+        {
+          "word": "Dios",
+          "start": 48.64,
+          "end": 49.08
+        }
+      ],
+      "start": 42.92,
+      "end": 49.08,
+      "confidence": 1.0,
+      "time": 42.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "me haces vivir confiado.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "me",
+          "start": 49.08,
+          "end": 49.36
+        },
+        {
+          "word": "hace",
+          "start": 49.36,
+          "end": 50.68
+        },
+        {
+          "word": "vivir",
+          "start": 50.68,
+          "end": 52.46
+        },
+        {
+          "word": "con",
+          "start": 52.46,
+          "end": 54.78
+        }
+      ],
+      "start": 49.08,
+      "end": 57.62,
+      "confidence": 0.97,
+      "time": 49.08
+    }
+  ]
+}

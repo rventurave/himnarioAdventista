@@ -1,0 +1,853 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.972,
+  "language": "es",
+  "model": "medium",
+  "hymn": 596,
+  "source": "596 - Edificamos familias.mp3",
+  "duration": 159.29,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "El hogar es lugar donde encontramos",
+      "verse": 1,
+      "words": [
+        {
+          "word": "El",
+          "start": 10.52,
+          "end": 11.92
+        },
+        {
+          "word": "hogar",
+          "start": 11.92,
+          "end": 13.08
+        },
+        {
+          "word": "es",
+          "start": 13.08,
+          "end": 13.36
+        },
+        {
+          "word": "lugar",
+          "start": 13.36,
+          "end": 13.98
+        },
+        {
+          "word": "donde",
+          "start": 13.98,
+          "end": 14.6
+        },
+        {
+          "word": "encontramos",
+          "start": 14.6,
+          "end": 16.68
+        }
+      ],
+      "start": 10.52,
+      "end": 16.68,
+      "confidence": 1.0,
+      "time": 10.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "un refugio de paz y aceptación.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "un",
+          "start": 16.68,
+          "end": 17.46
+        },
+        {
+          "word": "refugio",
+          "start": 17.46,
+          "end": 18.86
+        },
+        {
+          "word": "de",
+          "start": 18.86,
+          "end": 19.26
+        },
+        {
+          "word": "paz",
+          "start": 19.26,
+          "end": 19.56
+        },
+        {
+          "word": "a",
+          "start": 21.1,
+          "end": 21.14
+        }
+      ],
+      "start": 16.68,
+      "end": 22.34,
+      "confidence": 0.823,
+      "time": 16.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Aunque no compartamos opiniones,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Aunque",
+          "start": 22.34,
+          "end": 23.24
+        },
+        {
+          "word": "no",
+          "start": 23.24,
+          "end": 24.22
+        },
+        {
+          "word": "compartamos",
+          "start": 24.22,
+          "end": 25.58
+        },
+        {
+          "word": "opiniones,",
+          "start": 25.58,
+          "end": 28.16
+        }
+      ],
+      "start": 22.34,
+      "end": 28.54,
+      "confidence": 1.0,
+      "time": 22.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nos reunimos allí pues hay amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "nos",
+          "start": 28.54,
+          "end": 28.8
+        },
+        {
+          "word": "reunimos",
+          "start": 28.8,
+          "end": 30.22
+        },
+        {
+          "word": "allí",
+          "start": 30.22,
+          "end": 30.76
+        },
+        {
+          "word": "pues",
+          "start": 30.76,
+          "end": 31.32
+        },
+        {
+          "word": "hay",
+          "start": 31.32,
+          "end": 31.62
+        },
+        {
+          "word": "amor.",
+          "start": 31.62,
+          "end": 33.96
+        }
+      ],
+      "start": 28.54,
+      "end": 33.96,
+      "confidence": 1.0,
+      "time": 28.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Edificamos familias,",
+      "words": [
+        {
+          "word": "Edificamos",
+          "start": 37.26,
+          "end": 38.66
+        },
+        {
+          "word": "familias,",
+          "start": 38.66,
+          "end": 40.06
+        }
+      ],
+      "start": 37.26,
+      "end": 41.2,
+      "confidence": 1.0,
+      "time": 37.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "necesitamos del Señor.",
+      "words": [
+        {
+          "word": "necesitamos",
+          "start": 41.2,
+          "end": 42.46
+        },
+        {
+          "word": "el",
+          "start": 42.46,
+          "end": 42.94
+        },
+        {
+          "word": "Señor.",
+          "start": 42.94,
+          "end": 45.54
+        }
+      ],
+      "start": 41.2,
+      "end": 45.54,
+      "confidence": 0.96,
+      "time": 41.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Él es el único que puede",
+      "words": [
+        {
+          "word": "Él",
+          "start": 45.54,
+          "end": 46.94
+        },
+        {
+          "word": "es",
+          "start": 46.94,
+          "end": 47.42
+        },
+        {
+          "word": "el",
+          "start": 47.42,
+          "end": 47.76
+        },
+        {
+          "word": "único",
+          "start": 47.76,
+          "end": 48.44
+        },
+        {
+          "word": "que",
+          "start": 48.44,
+          "end": 49.1
+        },
+        {
+          "word": "puede",
+          "start": 49.1,
+          "end": 51.22
+        }
+      ],
+      "start": 45.54,
+      "end": 51.22,
+      "confidence": 1.0,
+      "time": 45.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "llenar nuestras vidas con amor.",
+      "words": [
+        {
+          "word": "llenar",
+          "start": 51.22,
+          "end": 52.64
+        },
+        {
+          "word": "nuestras",
+          "start": 52.64,
+          "end": 53.22
+        },
+        {
+          "word": "vidas",
+          "start": 53.22,
+          "end": 54.02
+        },
+        {
+          "word": "con",
+          "start": 54.02,
+          "end": 54.56
+        },
+        {
+          "word": "amor.",
+          "start": 54.56,
+          "end": 57.04
+        }
+      ],
+      "start": 51.22,
+      "end": 57.04,
+      "confidence": 1.0,
+      "time": 51.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Compartimos sonrisas y alegría,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Compartimos",
+          "start": 60.12,
+          "end": 61.52
+        },
+        {
+          "word": "sonrisas",
+          "start": 61.52,
+          "end": 62.58
+        },
+        {
+          "word": "alegría,",
+          "start": 62.98,
+          "end": 64.54
+        }
+      ],
+      "start": 60.12,
+      "end": 64.54,
+      "confidence": 0.75,
+      "time": 60.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "nuestros sueños se vuelven realidad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "nuestros",
+          "start": 65.82,
+          "end": 66.06
+        },
+        {
+          "word": "sueños",
+          "start": 66.06,
+          "end": 67.1
+        },
+        {
+          "word": "se",
+          "start": 67.1,
+          "end": 67.62
+        },
+        {
+          "word": "vuelven",
+          "start": 67.62,
+          "end": 68.18
+        },
+        {
+          "word": "realidad,",
+          "start": 68.18,
+          "end": 70.38
+        }
+      ],
+      "start": 65.82,
+      "end": 70.38,
+      "confidence": 1.0,
+      "time": 65.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Las palabras de aprecio nunca faltan",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Las",
+          "start": 70.38,
+          "end": 71.46
+        },
+        {
+          "word": "palabras",
+          "start": 71.46,
+          "end": 72.72
+        },
+        {
+          "word": "de",
+          "start": 72.72,
+          "end": 73.2
+        },
+        {
+          "word": "apreciar",
+          "start": 73.2,
+          "end": 73.86
+        },
+        {
+          "word": "nunca",
+          "start": 73.86,
+          "end": 74.52
+        },
+        {
+          "word": "faltan,",
+          "start": 74.52,
+          "end": 76.52
+        }
+      ],
+      "start": 70.38,
+      "end": 76.86,
+      "confidence": 0.98,
+      "time": 70.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "si Jesús es el centro del hogar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "si",
+          "start": 76.86,
+          "end": 77.04
+        },
+        {
+          "word": "Jesús",
+          "start": 77.04,
+          "end": 78.04
+        },
+        {
+          "word": "es",
+          "start": 78.04,
+          "end": 78.6
+        },
+        {
+          "word": "el",
+          "start": 78.6,
+          "end": 78.9
+        },
+        {
+          "word": "centro",
+          "start": 78.9,
+          "end": 79.52
+        },
+        {
+          "word": "del",
+          "start": 79.52,
+          "end": 80.06
+        },
+        {
+          "word": "hogar.",
+          "start": 80.06,
+          "end": 82.58
+        }
+      ],
+      "start": 76.86,
+      "end": 82.58,
+      "confidence": 1.0,
+      "time": 76.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Edificamos familias,",
+      "words": [
+        {
+          "word": "Edificamos",
+          "start": 85.74,
+          "end": 87.14
+        },
+        {
+          "word": "familias,",
+          "start": 87.14,
+          "end": 88.54
+        }
+      ],
+      "start": 85.74,
+      "end": 89.56,
+      "confidence": 1.0,
+      "time": 85.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "necesitamos del Señor.",
+      "words": [
+        {
+          "word": "necesitamos",
+          "start": 89.56,
+          "end": 90.82
+        },
+        {
+          "word": "del",
+          "start": 90.82,
+          "end": 91.3
+        },
+        {
+          "word": "Señor,",
+          "start": 91.3,
+          "end": 93.38
+        }
+      ],
+      "start": 89.56,
+      "end": 93.38,
+      "confidence": 1.0,
+      "time": 89.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Él es el único que puede",
+      "words": [
+        {
+          "word": "es",
+          "start": 93.38,
+          "end": 95.52
+        },
+        {
+          "word": "el",
+          "start": 95.52,
+          "end": 96.08
+        },
+        {
+          "word": "único",
+          "start": 96.08,
+          "end": 96.8
+        },
+        {
+          "word": "que",
+          "start": 96.8,
+          "end": 97.5
+        },
+        {
+          "word": "puede",
+          "start": 97.5,
+          "end": 99.56
+        }
+      ],
+      "start": 93.38,
+      "end": 99.56,
+      "confidence": 0.833,
+      "time": 93.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "llenar nuestras vidas con amor.",
+      "words": [
+        {
+          "word": "llenar",
+          "start": 99.56,
+          "end": 100.98
+        },
+        {
+          "word": "nuestras",
+          "start": 100.98,
+          "end": 101.54
+        },
+        {
+          "word": "vidas",
+          "start": 101.54,
+          "end": 102.3
+        },
+        {
+          "word": "con",
+          "start": 102.3,
+          "end": 102.8
+        },
+        {
+          "word": "amor.",
+          "start": 102.8,
+          "end": 105.46
+        }
+      ],
+      "start": 99.56,
+      "end": 105.46,
+      "confidence": 1.0,
+      "time": 99.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Tu iglesia, Señor, es la familia",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 107.92,
+          "end": 108.38
+        },
+        {
+          "word": "iglesia,",
+          "start": 108.38,
+          "end": 109.52
+        },
+        {
+          "word": "Señor,",
+          "start": 109.52,
+          "end": 110.42
+        },
+        {
+          "word": "es",
+          "start": 110.78,
+          "end": 110.84
+        },
+        {
+          "word": "la",
+          "start": 110.84,
+          "end": 111.2
+        },
+        {
+          "word": "familia",
+          "start": 111.2,
+          "end": 112.36
+        }
+      ],
+      "start": 107.92,
+      "end": 112.36,
+      "confidence": 1.0,
+      "time": 107.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "que nos une, alienta y da valor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 112.36,
+          "end": 113.88
+        },
+        {
+          "word": "nos",
+          "start": 113.88,
+          "end": 114.66
+        },
+        {
+          "word": "une,",
+          "start": 114.66,
+          "end": 115.32
+        },
+        {
+          "word": "alienta",
+          "start": 115.82,
+          "end": 116.3
+        },
+        {
+          "word": "y",
+          "start": 116.3,
+          "end": 116.4
+        },
+        {
+          "word": "da",
+          "start": 116.4,
+          "end": 116.72
+        },
+        {
+          "word": "valor",
+          "start": 116.72,
+          "end": 118.74
+        }
+      ],
+      "start": 112.36,
+      "end": 118.74,
+      "confidence": 1.0,
+      "time": 112.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "De distintas naciones y colores,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 118.74,
+          "end": 119.6
+        },
+        {
+          "word": "distintas",
+          "start": 119.6,
+          "end": 121.08
+        },
+        {
+          "word": "naciones",
+          "start": 121.08,
+          "end": 121.92
+        },
+        {
+          "word": "y",
+          "start": 121.92,
+          "end": 122.7
+        },
+        {
+          "word": "colores,",
+          "start": 122.7,
+          "end": 124.58
+        }
+      ],
+      "start": 118.74,
+      "end": 124.82,
+      "confidence": 1.0,
+      "time": 118.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pero todos con una misma fe.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pero",
+          "start": 124.82,
+          "end": 125.58
+        },
+        {
+          "word": "todos",
+          "start": 125.58,
+          "end": 126.58
+        },
+        {
+          "word": "con",
+          "start": 126.58,
+          "end": 127.28
+        },
+        {
+          "word": "una",
+          "start": 127.28,
+          "end": 127.72
+        },
+        {
+          "word": "misma",
+          "start": 127.72,
+          "end": 128.3
+        },
+        {
+          "word": "fe.",
+          "start": 128.3,
+          "end": 130.44
+        }
+      ],
+      "start": 124.82,
+      "end": 130.44,
+      "confidence": 1.0,
+      "time": 124.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Edificamos familias,",
+      "words": [
+        {
+          "word": "Edificamos",
+          "start": 133.9,
+          "end": 135.3
+        },
+        {
+          "word": "familias,",
+          "start": 135.3,
+          "end": 136.7
+        }
+      ],
+      "start": 133.9,
+      "end": 137.9,
+      "confidence": 1.0,
+      "time": 133.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "necesitamos del Señor.",
+      "words": [
+        {
+          "word": "necesitamos",
+          "start": 137.9,
+          "end": 139.02
+        },
+        {
+          "word": "del",
+          "start": 139.02,
+          "end": 139.42
+        },
+        {
+          "word": "Señor,",
+          "start": 139.42,
+          "end": 141.7
+        }
+      ],
+      "start": 137.9,
+      "end": 141.7,
+      "confidence": 1.0,
+      "time": 137.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Él es el único que puede",
+      "words": [
+        {
+          "word": "Él",
+          "start": 141.7,
+          "end": 143.28
+        },
+        {
+          "word": "es",
+          "start": 143.28,
+          "end": 143.8
+        },
+        {
+          "word": "el",
+          "start": 143.8,
+          "end": 144.1
+        },
+        {
+          "word": "único",
+          "start": 144.1,
+          "end": 144.8
+        },
+        {
+          "word": "que",
+          "start": 144.8,
+          "end": 145.44
+        },
+        {
+          "word": "puede",
+          "start": 145.44,
+          "end": 147.56
+        }
+      ],
+      "start": 141.7,
+      "end": 147.56,
+      "confidence": 1.0,
+      "time": 141.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "llenar nuestras vidas con amor.",
+      "words": [
+        {
+          "word": "llenar",
+          "start": 147.56,
+          "end": 149.02
+        },
+        {
+          "word": "nuestras",
+          "start": 149.02,
+          "end": 149.58
+        },
+        {
+          "word": "vidas",
+          "start": 149.58,
+          "end": 150.42
+        },
+        {
+          "word": "con",
+          "start": 150.42,
+          "end": 150.92
+        },
+        {
+          "word": "amor.",
+          "start": 150.92,
+          "end": 152.9
+        }
+      ],
+      "start": 147.56,
+      "end": 152.9,
+      "confidence": 1.0,
+      "time": 147.56
+    }
+  ]
+}

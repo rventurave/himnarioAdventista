@@ -1,0 +1,1272 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.618,
+  "language": "es",
+  "model": "medium",
+  "hymn": 593,
+  "source": "593 - Hogar de mis recuerdos.mp3",
+  "duration": 284.13,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hogar de mis recuerdos, a ti volver anhelo;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 6.38,
+          "end": 6.38
+        },
+        {
+          "word": "a",
+          "start": 32.46,
+          "end": 33.48
+        },
+        {
+          "word": "ti",
+          "start": 33.48,
+          "end": 34.5
+        },
+        {
+          "word": "volver",
+          "start": 34.5,
+          "end": 35.5
+        },
+        {
+          "word": "a",
+          "start": 35.5,
+          "end": 36.38
+        }
+      ],
+      "start": 6.38,
+      "end": 37.72,
+      "confidence": 0.618,
+      "time": 6.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "no hay sitio bajo el cielo más dulce que el hogar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "No",
+          "start": 38.46,
+          "end": 38.64
+        },
+        {
+          "word": "hay",
+          "start": 38.64,
+          "end": 38.86
+        },
+        {
+          "word": "sitio",
+          "start": 38.86,
+          "end": 40.02
+        },
+        {
+          "word": "bajo",
+          "start": 40.02,
+          "end": 41.16
+        },
+        {
+          "word": "el",
+          "start": 41.16,
+          "end": 41.74
+        },
+        {
+          "word": "cielo",
+          "start": 41.74,
+          "end": 42.96
+        },
+        {
+          "word": "más",
+          "start": 42.96,
+          "end": 43.98
+        },
+        {
+          "word": "dulce",
+          "start": 43.98,
+          "end": 45.16
+        },
+        {
+          "word": "que",
+          "start": 45.16,
+          "end": 45.86
+        },
+        {
+          "word": "hogar.",
+          "start": 46.44,
+          "end": 47.46
+        }
+      ],
+      "start": 38.46,
+      "end": 47.46,
+      "confidence": 0.909,
+      "time": 38.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Posara yo en palacios, corriendo el mundo entero,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 50.96,
+          "end": 51.44
+        },
+        {
+          "word": "palacios",
+          "start": 51.44,
+          "end": 52.46
+        },
+        {
+          "word": "corriendo",
+          "start": 54.0,
+          "end": 55.4
+        },
+        {
+          "word": "el",
+          "start": 55.4,
+          "end": 55.76
+        },
+        {
+          "word": "mundo",
+          "start": 55.76,
+          "end": 56.48
+        },
+        {
+          "word": "entero.",
+          "start": 56.48,
+          "end": 57.46
+        }
+      ],
+      "start": 50.96,
+      "end": 57.46,
+      "confidence": 0.75,
+      "time": 50.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a todos yo prefiero mi hogar, mi dulce hogar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "A",
+          "start": 57.46,
+          "end": 59.38
+        },
+        {
+          "word": "todos",
+          "start": 59.38,
+          "end": 60.72
+        },
+        {
+          "word": "yo",
+          "start": 60.72,
+          "end": 61.56
+        },
+        {
+          "word": "prefiero",
+          "start": 61.56,
+          "end": 63.9
+        },
+        {
+          "word": "llogar",
+          "start": 63.9,
+          "end": 65.7
+        },
+        {
+          "word": "mi",
+          "start": 65.7,
+          "end": 65.94
+        },
+        {
+          "word": "dulce",
+          "start": 65.94,
+          "end": 67.06
+        },
+        {
+          "word": "hogar,",
+          "start": 67.06,
+          "end": 69.74
+        }
+      ],
+      "start": 57.46,
+      "end": 70.06,
+      "confidence": 0.871,
+      "time": 57.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "[1, 2 y 3:] ¡Mi hogar, mi hogar!",
+      "words": [
+        {
+          "word": "llogar",
+          "start": 70.06,
+          "end": 72.74
+        },
+        {
+          "word": "mi",
+          "start": 72.74,
+          "end": 74.48
+        },
+        {
+          "word": "hogar.",
+          "start": 74.48,
+          "end": 76.46
+        }
+      ],
+      "start": 70.06,
+      "end": 76.46,
+      "confidence": 0.355,
+      "time": 70.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "No hay sitio bajo el cielo",
+      "words": [
+        {
+          "word": "No",
+          "start": 76.46,
+          "end": 77.62
+        },
+        {
+          "word": "hay",
+          "start": 77.62,
+          "end": 77.88
+        },
+        {
+          "word": "sitio",
+          "start": 77.88,
+          "end": 78.94
+        },
+        {
+          "word": "bajo",
+          "start": 78.94,
+          "end": 79.86
+        },
+        {
+          "word": "el",
+          "start": 79.86,
+          "end": 80.44
+        },
+        {
+          "word": "cielo",
+          "start": 80.44,
+          "end": 81.88
+        }
+      ],
+      "start": 76.46,
+      "end": 81.88,
+      "confidence": 1.0,
+      "time": 76.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "más dulce que mi hogar.",
+      "words": [
+        {
+          "word": "más",
+          "start": 81.88,
+          "end": 82.96
+        },
+        {
+          "word": "dulce",
+          "start": 82.96,
+          "end": 84.22
+        },
+        {
+          "word": "que",
+          "start": 84.22,
+          "end": 84.94
+        }
+      ],
+      "start": 81.88,
+      "end": 87.46,
+      "confidence": 0.6,
+      "time": 81.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "[4:] ¡Mi hogar, mi hogar!",
+      "start": 87.46,
+      "end": 87.66,
+      "confidence": 0.0,
+      "time": 87.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Anhelo ir al cielo,",
+      "start": 87.66,
+      "end": 87.86,
+      "confidence": 0.0,
+      "time": 87.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "mi eterno y dulce hogar.",
+      "words": [
+        {
+          "word": "mi",
+          "start": 84.94,
+          "end": 85.36
+        },
+        {
+          "word": "hogar.",
+          "start": 85.36,
+          "end": 87.46
+        }
+      ],
+      "start": 87.86,
+      "end": 88.06,
+      "confidence": 0.4,
+      "time": 87.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Allí la luz del cielo desciende más serena;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Allí",
+          "start": 90.54,
+          "end": 91.58
+        },
+        {
+          "word": "la",
+          "start": 91.58,
+          "end": 91.94
+        },
+        {
+          "word": "luz",
+          "start": 91.94,
+          "end": 92.88
+        },
+        {
+          "word": "del",
+          "start": 92.88,
+          "end": 93.42
+        },
+        {
+          "word": "cielo",
+          "start": 93.42,
+          "end": 95.02
+        },
+        {
+          "word": "siente",
+          "start": 96.04,
+          "end": 97.04
+        },
+        {
+          "word": "más",
+          "start": 97.04,
+          "end": 97.9
+        },
+        {
+          "word": "serena,",
+          "start": 97.9,
+          "end": 99.46
+        }
+      ],
+      "start": 90.54,
+      "end": 99.46,
+      "confidence": 0.975,
+      "time": 90.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de mil delicias llena la dicha del hogar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 99.46,
+          "end": 100.94
+        },
+        {
+          "word": "mil",
+          "start": 100.94,
+          "end": 101.82
+        },
+        {
+          "word": "delicias",
+          "start": 101.82,
+          "end": 103.5
+        },
+        {
+          "word": "la",
+          "start": 105.46,
+          "end": 106.44
+        },
+        {
+          "word": "dicha",
+          "start": 106.44,
+          "end": 107.5
+        },
+        {
+          "word": "del",
+          "start": 107.5,
+          "end": 108.38
+        },
+        {
+          "word": "hogar.",
+          "start": 108.38,
+          "end": 109.46
+        }
+      ],
+      "start": 99.46,
+      "end": 109.46,
+      "confidence": 0.875,
+      "time": 99.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Allí las horas corren más breves y gozosas;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Allí",
+          "start": 111.22,
+          "end": 112.18
+        },
+        {
+          "word": "las",
+          "start": 112.18,
+          "end": 112.92
+        },
+        {
+          "word": "sombras",
+          "start": 112.92,
+          "end": 113.74
+        },
+        {
+          "word": "corren,",
+          "start": 113.74,
+          "end": 115.7
+        },
+        {
+          "word": "las",
+          "start": 116.12,
+          "end": 116.76
+        },
+        {
+          "word": "bebés",
+          "start": 116.76,
+          "end": 117.96
+        },
+        {
+          "word": "y",
+          "start": 117.96,
+          "end": 118.46
+        },
+        {
+          "word": "gosostas,",
+          "start": 118.46,
+          "end": 119.46
+        }
+      ],
+      "start": 111.22,
+      "end": 119.46,
+      "confidence": 0.915,
+      "time": 111.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "memorias muy dichosas nos hablan sin cesar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Memorias",
+          "start": 121.62,
+          "end": 123.02
+        },
+        {
+          "word": "dichostas,",
+          "start": 124.06,
+          "end": 125.46
+        },
+        {
+          "word": "nos",
+          "start": 126.1,
+          "end": 126.92
+        },
+        {
+          "word": "hablan",
+          "start": 126.92,
+          "end": 128.06
+        },
+        {
+          "word": "sin",
+          "start": 128.06,
+          "end": 128.88
+        },
+        {
+          "word": "cesar.",
+          "start": 128.88,
+          "end": 131.74
+        }
+      ],
+      "start": 121.62,
+      "end": 131.74,
+      "confidence": 0.852,
+      "time": 121.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "[1, 2 y 3:] ¡Mi hogar, mi hogar!",
+      "words": [
+        {
+          "word": "Mi",
+          "start": 132.64,
+          "end": 132.64
+        },
+        {
+          "word": "hogar,",
+          "start": 132.64,
+          "end": 134.7
+        },
+        {
+          "word": "mi",
+          "start": 134.7,
+          "end": 136.66
+        },
+        {
+          "word": "hogar,",
+          "start": 136.66,
+          "end": 138.92
+        }
+      ],
+      "start": 132.64,
+      "end": 138.92,
+      "confidence": 0.5,
+      "time": 132.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "No hay sitio bajo el cielo",
+      "words": [
+        {
+          "word": "no",
+          "start": 139.38,
+          "end": 139.58
+        },
+        {
+          "word": "hay",
+          "start": 139.58,
+          "end": 139.86
+        },
+        {
+          "word": "sitio",
+          "start": 139.86,
+          "end": 140.86
+        },
+        {
+          "word": "bajo",
+          "start": 140.86,
+          "end": 141.84
+        },
+        {
+          "word": "el",
+          "start": 141.84,
+          "end": 142.72
+        },
+        {
+          "word": "cielo",
+          "start": 142.72,
+          "end": 143.92
+        }
+      ],
+      "start": 139.38,
+      "end": 143.92,
+      "confidence": 1.0,
+      "time": 139.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "más dulce que mi hogar.",
+      "words": [
+        {
+          "word": "más",
+          "start": 143.92,
+          "end": 144.9
+        },
+        {
+          "word": "dulce",
+          "start": 144.9,
+          "end": 146.18
+        },
+        {
+          "word": "que",
+          "start": 146.18,
+          "end": 146.88
+        }
+      ],
+      "start": 143.92,
+      "end": 148.82,
+      "confidence": 0.6,
+      "time": 143.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "[4:] ¡Mi hogar, mi hogar!",
+      "start": 148.82,
+      "end": 149.02,
+      "confidence": 0.0,
+      "time": 148.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Anhelo ir al cielo,",
+      "start": 149.02,
+      "end": 149.22,
+      "confidence": 0.0,
+      "time": 149.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "mi eterno y dulce hogar.",
+      "words": [
+        {
+          "word": "mi",
+          "start": 146.88,
+          "end": 147.5
+        },
+        {
+          "word": "hogar.",
+          "start": 147.5,
+          "end": 148.82
+        }
+      ],
+      "start": 149.22,
+      "end": 149.42,
+      "confidence": 0.4,
+      "time": 149.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Más quiero que placeres que brinda tierra extraña,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Más",
+          "start": 156.5,
+          "end": 157.9
+        },
+        {
+          "word": "quiero",
+          "start": 157.9,
+          "end": 159.04
+        },
+        {
+          "word": "que",
+          "start": 159.04,
+          "end": 160.1
+        },
+        {
+          "word": "plazenes",
+          "start": 160.1,
+          "end": 162.2
+        },
+        {
+          "word": "tierra",
+          "start": 164.2,
+          "end": 165.32
+        },
+        {
+          "word": "extraña,",
+          "start": 165.32,
+          "end": 167.34
+        }
+      ],
+      "start": 156.5,
+      "end": 168.14,
+      "confidence": 0.731,
+      "time": 156.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "volver a la cabaña de mi tranquilo hogar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "volver",
+          "start": 168.14,
+          "end": 168.78
+        },
+        {
+          "word": "a",
+          "start": 168.78,
+          "end": 170.02
+        },
+        {
+          "word": "la",
+          "start": 170.02,
+          "end": 170.42
+        },
+        {
+          "word": "cabaña",
+          "start": 170.42,
+          "end": 172.4
+        },
+        {
+          "word": "de",
+          "start": 172.4,
+          "end": 173.38
+        },
+        {
+          "word": "mi",
+          "start": 173.38,
+          "end": 174.18
+        },
+        {
+          "word": "tranquilo",
+          "start": 174.18,
+          "end": 176.0
+        },
+        {
+          "word": "hogar.",
+          "start": 176.0,
+          "end": 177.54
+        }
+      ],
+      "start": 168.14,
+      "end": 177.54,
+      "confidence": 1.0,
+      "time": 168.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Allí mis pajarillos me alegran con sus cantos;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Allí",
+          "start": 177.54,
+          "end": 179.42
+        },
+        {
+          "word": "mis",
+          "start": 179.42,
+          "end": 180.1
+        },
+        {
+          "word": "me",
+          "start": 182.72,
+          "end": 183.54
+        },
+        {
+          "word": "alegran",
+          "start": 183.54,
+          "end": 184.78
+        },
+        {
+          "word": "con",
+          "start": 184.78,
+          "end": 185.66
+        },
+        {
+          "word": "sus",
+          "start": 185.66,
+          "end": 186.18
+        },
+        {
+          "word": "cantos,",
+          "start": 186.18,
+          "end": 187.94
+        }
+      ],
+      "start": 177.54,
+      "end": 187.94,
+      "confidence": 0.875,
+      "time": 177.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "allí con mil encantos está la dulce paz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "allí",
+          "start": 188.38,
+          "end": 189.7
+        },
+        {
+          "word": "con",
+          "start": 189.7,
+          "end": 190.5
+        },
+        {
+          "word": "mil",
+          "start": 190.5,
+          "end": 191.04
+        },
+        {
+          "word": "encantos",
+          "start": 191.04,
+          "end": 193.3
+        },
+        {
+          "word": "está",
+          "start": 193.3,
+          "end": 194.88
+        },
+        {
+          "word": "la",
+          "start": 194.88,
+          "end": 195.4
+        },
+        {
+          "word": "dulce",
+          "start": 195.4,
+          "end": 196.56
+        },
+        {
+          "word": "paz.",
+          "start": 196.56,
+          "end": 198.56
+        }
+      ],
+      "start": 188.38,
+      "end": 198.56,
+      "confidence": 1.0,
+      "time": 188.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "[1, 2 y 3:] ¡Mi hogar, mi hogar!",
+      "words": [
+        {
+          "word": "mi",
+          "start": 198.56,
+          "end": 200.4
+        },
+        {
+          "word": "hogar,",
+          "start": 200.4,
+          "end": 201.76
+        },
+        {
+          "word": "mi",
+          "start": 201.76,
+          "end": 202.92
+        },
+        {
+          "word": "hogar.",
+          "start": 202.92,
+          "end": 205.56
+        }
+      ],
+      "start": 198.56,
+      "end": 205.56,
+      "confidence": 0.5,
+      "time": 198.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "No hay sitio bajo el cielo",
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 206.5,
+          "end": 206.86
+        },
+        {
+          "word": "sitio",
+          "start": 206.86,
+          "end": 208.08
+        },
+        {
+          "word": "bajo",
+          "start": 208.08,
+          "end": 209.02
+        },
+        {
+          "word": "el",
+          "start": 209.02,
+          "end": 209.6
+        },
+        {
+          "word": "cielo,",
+          "start": 209.6,
+          "end": 211.04
+        }
+      ],
+      "start": 206.5,
+      "end": 211.04,
+      "confidence": 0.8,
+      "time": 206.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "más dulce que mi hogar.",
+      "words": [
+        {
+          "word": "más",
+          "start": 211.78,
+          "end": 212.16
+        },
+        {
+          "word": "dulce",
+          "start": 212.16,
+          "end": 213.2
+        },
+        {
+          "word": "que",
+          "start": 213.2,
+          "end": 213.9
+        }
+      ],
+      "start": 211.78,
+      "end": 215.56,
+      "confidence": 0.6,
+      "time": 211.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "[4:] ¡Mi hogar, mi hogar!",
+      "start": 215.56,
+      "end": 215.76,
+      "confidence": 0.0,
+      "time": 215.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Anhelo ir al cielo,",
+      "start": 215.76,
+      "end": 215.96,
+      "confidence": 0.0,
+      "time": 215.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "mi eterno y dulce hogar.",
+      "words": [
+        {
+          "word": "mi",
+          "start": 213.9,
+          "end": 214.34
+        },
+        {
+          "word": "hogar.",
+          "start": 214.34,
+          "end": 215.56
+        }
+      ],
+      "start": 215.96,
+      "end": 216.16,
+      "confidence": 0.4,
+      "time": 215.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Un día muy cercano iré al hogar celeste,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Un",
+          "start": 216.8,
+          "end": 217.08
+        },
+        {
+          "word": "día",
+          "start": 217.08,
+          "end": 218.34
+        },
+        {
+          "word": "muy",
+          "start": 218.34,
+          "end": 219.34
+        },
+        {
+          "word": "cercano,",
+          "start": 219.34,
+          "end": 220.56
+        },
+        {
+          "word": "iré",
+          "start": 222.12,
+          "end": 223.26
+        },
+        {
+          "word": "al",
+          "start": 223.26,
+          "end": 223.5
+        },
+        {
+          "word": "hogar",
+          "start": 223.5,
+          "end": 224.38
+        },
+        {
+          "word": "celeste,",
+          "start": 224.38,
+          "end": 226.54
+        }
+      ],
+      "start": 216.8,
+      "end": 226.54,
+      "confidence": 1.0,
+      "time": 216.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "de dicha inefable, reposo y solaz.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "de",
+          "start": 226.54,
+          "end": 227.48
+        },
+        {
+          "word": "infable",
+          "start": 229.98,
+          "end": 231.82
+        },
+        {
+          "word": "recoso",
+          "start": 231.82,
+          "end": 233.88
+        },
+        {
+          "word": "y",
+          "start": 233.88,
+          "end": 234.8
+        },
+        {
+          "word": "solas.",
+          "start": 234.8,
+          "end": 236.94
+        }
+      ],
+      "start": 226.54,
+      "end": 236.94,
+      "confidence": 0.79,
+      "time": 226.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Allí no habrá más llanto, enfermedad, ni muerte;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Allí",
+          "start": 237.54,
+          "end": 238.94
+        },
+        {
+          "word": "no",
+          "start": 238.94,
+          "end": 239.1
+        },
+        {
+          "word": "habrá",
+          "start": 239.1,
+          "end": 239.96
+        },
+        {
+          "word": "más",
+          "start": 239.96,
+          "end": 240.54
+        },
+        {
+          "word": "llanto",
+          "start": 240.54,
+          "end": 242.12
+        },
+        {
+          "word": "enfermeras",
+          "start": 243.06,
+          "end": 244.92
+        },
+        {
+          "word": "muertes",
+          "start": 245.66,
+          "end": 247.5
+        }
+      ],
+      "start": 237.54,
+      "end": 247.5,
+      "confidence": 0.853,
+      "time": 237.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "rebosará mi mente de gozo, amor y paz.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "mi",
+          "start": 250.16,
+          "end": 250.84
+        },
+        {
+          "word": "mente,",
+          "start": 250.84,
+          "end": 252.26
+        },
+        {
+          "word": "amar",
+          "start": 254.44,
+          "end": 255.3
+        },
+        {
+          "word": "y",
+          "start": 255.3,
+          "end": 256.56
+        },
+        {
+          "word": "paz.",
+          "start": 256.56,
+          "end": 257.84
+        }
+      ],
+      "start": 250.16,
+      "end": 257.84,
+      "confidence": 0.606,
+      "time": 250.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "[1, 2 y 3:] ¡Mi hogar, mi hogar!",
+      "words": [
+        {
+          "word": "Poga",
+          "start": 257.84,
+          "end": 260.46
+        },
+        {
+          "word": "mí,",
+          "start": 261.88,
+          "end": 262.52
+        },
+        {
+          "word": "Poga,",
+          "start": 264.0,
+          "end": 265.34
+        }
+      ],
+      "start": 257.84,
+      "end": 275.74,
+      "confidence": 0.325,
+      "time": 257.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "No hay sitio bajo el cielo",
+      "start": 275.74,
+      "end": 275.94,
+      "confidence": 0.0,
+      "time": 275.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "más dulce que mi hogar.",
+      "words": [
+        {
+          "word": "mí",
+          "start": 266.52,
+          "end": 267.34
+        }
+      ],
+      "start": 275.94,
+      "end": 276.14,
+      "confidence": 0.2,
+      "time": 275.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "[4:] ¡Mi hogar, mi hogar!",
+      "start": 276.14,
+      "end": 276.34,
+      "confidence": 0.0,
+      "time": 276.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Anhelo ir al cielo,",
+      "words": [
+        {
+          "word": "irá",
+          "start": 267.86,
+          "end": 268.76
+        },
+        {
+          "word": "al",
+          "start": 268.76,
+          "end": 269.1
+        },
+        {
+          "word": "cielo",
+          "start": 269.1,
+          "end": 270.46
+        }
+      ],
+      "start": 276.34,
+      "end": 276.54,
+      "confidence": 0.72,
+      "time": 276.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "mi eterno y dulce hogar.",
+      "words": [
+        {
+          "word": "eterno",
+          "start": 271.38,
+          "end": 272.88
+        },
+        {
+          "word": "y",
+          "start": 272.88,
+          "end": 273.26
+        }
+      ],
+      "start": 276.54,
+      "end": 276.74,
+      "confidence": 0.4,
+      "time": 276.54
+    }
+  ]
+}

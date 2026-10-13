@@ -1,0 +1,746 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.893,
+  "language": "es",
+  "model": "medium",
+  "hymn": 490,
+  "source": "490 - Mejor que los sacrificios.mp3",
+  "duration": 181.37,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mejor que los sacrificios es obedecer;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mejor",
+          "start": 17.74,
+          "end": 19.14
+        },
+        {
+          "word": "que",
+          "start": 19.14,
+          "end": 19.58
+        },
+        {
+          "word": "los",
+          "start": 19.58,
+          "end": 20.04
+        },
+        {
+          "word": "sacrificios",
+          "start": 20.04,
+          "end": 21.94
+        },
+        {
+          "word": "despovedecer,",
+          "start": 21.94,
+          "end": 25.82
+        }
+      ],
+      "start": 17.74,
+      "end": 25.82,
+      "confidence": 0.803,
+      "time": 17.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "la Ley guardar y atender a Dios, que ofrendar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "guardar",
+          "start": 26.9,
+          "end": 27.9
+        },
+        {
+          "word": "y",
+          "start": 27.9,
+          "end": 28.14
+        },
+        {
+          "word": "atender",
+          "start": 28.14,
+          "end": 29.18
+        },
+        {
+          "word": "a",
+          "start": 29.18,
+          "end": 29.66
+        },
+        {
+          "word": "Dios",
+          "start": 29.66,
+          "end": 30.1
+        },
+        {
+          "word": "que",
+          "start": 30.1,
+          "end": 31.0
+        },
+        {
+          "word": "ofrenda.",
+          "start": 31.0,
+          "end": 34.36
+        }
+      ],
+      "start": 26.9,
+      "end": 34.36,
+      "confidence": 0.771,
+      "time": 26.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Vuelve al Señor; será bondadoso.",
+      "words": [
+        {
+          "word": "Vuelve",
+          "start": 34.7,
+          "end": 35.92
+        },
+        {
+          "word": "al",
+          "start": 35.92,
+          "end": 36.28
+        },
+        {
+          "word": "Señor,",
+          "start": 36.28,
+          "end": 37.86
+        },
+        {
+          "word": "será",
+          "start": 38.5,
+          "end": 39.44
+        },
+        {
+          "word": "voltadoso,",
+          "start": 39.44,
+          "end": 42.38
+        }
+      ],
+      "start": 34.7,
+      "end": 43.24,
+      "confidence": 0.96,
+      "time": 34.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Camina en sus Mandamientos.",
+      "words": [
+        {
+          "word": "camina",
+          "start": 43.24,
+          "end": 44.66
+        },
+        {
+          "word": "en",
+          "start": 44.66,
+          "end": 46.08
+        },
+        {
+          "word": "sus",
+          "start": 46.08,
+          "end": 46.56
+        },
+        {
+          "word": "mandamientos.",
+          "start": 46.56,
+          "end": 50.7
+        }
+      ],
+      "start": 43.24,
+      "end": 50.7,
+      "confidence": 1.0,
+      "time": 43.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Mejor que los sacrificios es obedecer;",
+      "words": [
+        {
+          "word": "Mejor",
+          "start": 51.98,
+          "end": 53.22
+        },
+        {
+          "word": "que",
+          "start": 53.22,
+          "end": 53.56
+        },
+        {
+          "word": "los",
+          "start": 53.56,
+          "end": 54.06
+        },
+        {
+          "word": "sacrificios",
+          "start": 54.06,
+          "end": 55.68
+        },
+        {
+          "word": "obedecer,",
+          "start": 56.22,
+          "end": 59.78
+        }
+      ],
+      "start": 51.98,
+      "end": 60.38,
+      "confidence": 0.833,
+      "time": 51.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "la Ley guardar y atender a Dios, que ofrendar.",
+      "words": [
+        {
+          "word": "la",
+          "start": 60.38,
+          "end": 60.56
+        },
+        {
+          "word": "ley",
+          "start": 60.56,
+          "end": 61.18
+        },
+        {
+          "word": "guardar",
+          "start": 61.18,
+          "end": 61.92
+        },
+        {
+          "word": "y",
+          "start": 61.92,
+          "end": 62.14
+        },
+        {
+          "word": "atender",
+          "start": 62.14,
+          "end": 63.34
+        },
+        {
+          "word": "a",
+          "start": 63.34,
+          "end": 63.66
+        },
+        {
+          "word": "Dios",
+          "start": 63.66,
+          "end": 64.04
+        },
+        {
+          "word": "ofrenda.",
+          "start": 64.82,
+          "end": 68.88
+        }
+      ],
+      "start": 60.38,
+      "end": 68.88,
+      "confidence": 0.882,
+      "time": 60.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Dirás que Cristo te dispensó; que ya pagó?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Miras",
+          "start": 68.88,
+          "end": 71.18
+        },
+        {
+          "word": "que",
+          "start": 71.18,
+          "end": 71.48
+        },
+        {
+          "word": "Cristo",
+          "start": 71.48,
+          "end": 72.02
+        },
+        {
+          "word": "te",
+          "start": 72.02,
+          "end": 72.78
+        },
+        {
+          "word": "dispensó,",
+          "start": 72.78,
+          "end": 74.02
+        },
+        {
+          "word": "que",
+          "start": 74.34,
+          "end": 74.58
+        },
+        {
+          "word": "ya",
+          "start": 74.58,
+          "end": 75.5
+        },
+        {
+          "word": "pagó.",
+          "start": 75.5,
+          "end": 77.8
+        }
+      ],
+      "start": 68.88,
+      "end": 77.8,
+      "confidence": 0.985,
+      "time": 68.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Recuerda sus Mandamientos, pues él lo ordenó.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Recuerda",
+          "start": 78.6,
+          "end": 79.46
+        },
+        {
+          "word": "sus",
+          "start": 79.46,
+          "end": 79.84
+        },
+        {
+          "word": "mandamientos",
+          "start": 79.84,
+          "end": 81.38
+        },
+        {
+          "word": "pues",
+          "start": 81.38,
+          "end": 82.22
+        },
+        {
+          "word": "el",
+          "start": 82.22,
+          "end": 83.08
+        },
+        {
+          "word": "ordenó.",
+          "start": 83.08,
+          "end": 86.08
+        }
+      ],
+      "start": 78.6,
+      "end": 86.08,
+      "confidence": 0.857,
+      "time": 78.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Vuelve al Señor; será bondadoso.",
+      "words": [
+        {
+          "word": "Vuelve",
+          "start": 86.08,
+          "end": 88.16
+        },
+        {
+          "word": "al",
+          "start": 88.16,
+          "end": 88.32
+        },
+        {
+          "word": "Señor,",
+          "start": 88.32,
+          "end": 89.88
+        },
+        {
+          "word": "será",
+          "start": 90.66,
+          "end": 91.56
+        },
+        {
+          "word": "bondadoso,",
+          "start": 91.56,
+          "end": 94.56
+        }
+      ],
+      "start": 86.08,
+      "end": 95.48,
+      "confidence": 1.0,
+      "time": 86.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Camina en sus Mandamientos.",
+      "words": [
+        {
+          "word": "camina",
+          "start": 95.48,
+          "end": 96.74
+        },
+        {
+          "word": "en",
+          "start": 96.74,
+          "end": 98.16
+        },
+        {
+          "word": "sus",
+          "start": 98.16,
+          "end": 98.74
+        },
+        {
+          "word": "mandamientos.",
+          "start": 98.74,
+          "end": 102.36
+        }
+      ],
+      "start": 95.48,
+      "end": 102.36,
+      "confidence": 1.0,
+      "time": 95.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Mejor que los sacrificios es obedecer;",
+      "words": [
+        {
+          "word": "Mejor",
+          "start": 104.34,
+          "end": 105.7
+        },
+        {
+          "word": "que",
+          "start": 105.7,
+          "end": 106.04
+        },
+        {
+          "word": "los",
+          "start": 106.04,
+          "end": 106.64
+        },
+        {
+          "word": "sacrificios",
+          "start": 106.64,
+          "end": 108.2
+        },
+        {
+          "word": "les",
+          "start": 108.2,
+          "end": 108.88
+        },
+        {
+          "word": "obedecer,",
+          "start": 108.88,
+          "end": 112.38
+        }
+      ],
+      "start": 104.34,
+      "end": 113.04,
+      "confidence": 0.98,
+      "time": 104.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "la Ley guardar y atender a Dios, que ofrendar.",
+      "words": [
+        {
+          "word": "la",
+          "start": 113.04,
+          "end": 113.46
+        },
+        {
+          "word": "arda",
+          "start": 114.22,
+          "end": 114.68
+        },
+        {
+          "word": "atender",
+          "start": 114.9,
+          "end": 115.96
+        },
+        {
+          "word": "a",
+          "start": 115.96,
+          "end": 116.38
+        },
+        {
+          "word": "Dios",
+          "start": 116.38,
+          "end": 116.9
+        },
+        {
+          "word": "que",
+          "start": 116.9,
+          "end": 117.72
+        },
+        {
+          "word": "ofrenda.",
+          "start": 117.72,
+          "end": 121.36
+        }
+      ],
+      "start": 113.04,
+      "end": 121.36,
+      "confidence": 0.753,
+      "time": 113.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Los hacedores de la Palabra vivirán.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Los",
+          "start": 121.36,
+          "end": 123.6
+        },
+        {
+          "word": "hacedores",
+          "start": 123.6,
+          "end": 125.12
+        },
+        {
+          "word": "de",
+          "start": 125.12,
+          "end": 125.7
+        },
+        {
+          "word": "la",
+          "start": 125.7,
+          "end": 126.3
+        },
+        {
+          "word": "palabra",
+          "start": 126.3,
+          "end": 127.56
+        },
+        {
+          "word": "vivida,",
+          "start": 127.56,
+          "end": 131.12
+        }
+      ],
+      "start": 121.36,
+      "end": 131.58,
+      "confidence": 0.977,
+      "time": 121.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Es bueno oír y creer a Dios, y obedecer.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "es",
+          "start": 131.58,
+          "end": 131.78
+        },
+        {
+          "word": "bueno",
+          "start": 131.78,
+          "end": 132.72
+        },
+        {
+          "word": "ir",
+          "start": 132.72,
+          "end": 133.1
+        },
+        {
+          "word": "y",
+          "start": 133.1,
+          "end": 133.58
+        },
+        {
+          "word": "creer",
+          "start": 133.58,
+          "end": 134.64
+        },
+        {
+          "word": "Dios",
+          "start": 134.82,
+          "end": 135.32
+        },
+        {
+          "word": "y",
+          "start": 135.32,
+          "end": 135.78
+        },
+        {
+          "word": "obedecer.",
+          "start": 135.78,
+          "end": 139.54
+        }
+      ],
+      "start": 131.58,
+      "end": 139.54,
+      "confidence": 0.876,
+      "time": 131.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Vuelve al Señor; será bondadoso.",
+      "words": [
+        {
+          "word": "Vuelve",
+          "start": 139.54,
+          "end": 141.66
+        },
+        {
+          "word": "al",
+          "start": 141.66,
+          "end": 141.96
+        },
+        {
+          "word": "Señor,",
+          "start": 141.96,
+          "end": 143.46
+        },
+        {
+          "word": "será",
+          "start": 143.96,
+          "end": 145.02
+        },
+        {
+          "word": "bondadoso,",
+          "start": 145.02,
+          "end": 148.1
+        }
+      ],
+      "start": 139.54,
+      "end": 148.1,
+      "confidence": 1.0,
+      "time": 139.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Camina en sus Mandamientos.",
+      "words": [
+        {
+          "word": "caminaré",
+          "start": 150.34,
+          "end": 151.74
+        },
+        {
+          "word": "sus",
+          "start": 151.74,
+          "end": 152.3
+        },
+        {
+          "word": "mandamentos.",
+          "start": 152.3,
+          "end": 156.98
+        }
+      ],
+      "start": 150.34,
+      "end": 156.98,
+      "confidence": 0.728,
+      "time": 150.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Mejor que los sacrificios es obedecer;",
+      "words": [
+        {
+          "word": "Mejor",
+          "start": 158.14,
+          "end": 159.32
+        },
+        {
+          "word": "que",
+          "start": 159.32,
+          "end": 159.68
+        },
+        {
+          "word": "los",
+          "start": 159.68,
+          "end": 160.16
+        },
+        {
+          "word": "sacrificios",
+          "start": 160.16,
+          "end": 162.16
+        },
+        {
+          "word": "desobedecer,",
+          "start": 162.16,
+          "end": 166.0
+        }
+      ],
+      "start": 158.14,
+      "end": 166.0,
+      "confidence": 0.818,
+      "time": 158.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "la Ley guardar y atender a Dios, que ofrendar.",
+      "words": [
+        {
+          "word": "la",
+          "start": 166.0,
+          "end": 166.94
+        },
+        {
+          "word": "ley",
+          "start": 166.94,
+          "end": 167.54
+        },
+        {
+          "word": "guardar",
+          "start": 167.54,
+          "end": 168.28
+        },
+        {
+          "word": "y",
+          "start": 168.28,
+          "end": 168.52
+        },
+        {
+          "word": "atender",
+          "start": 168.52,
+          "end": 169.7
+        },
+        {
+          "word": "a",
+          "start": 169.7,
+          "end": 170.06
+        },
+        {
+          "word": "Dios",
+          "start": 170.06,
+          "end": 170.52
+        },
+        {
+          "word": "que",
+          "start": 170.52,
+          "end": 171.32
+        },
+        {
+          "word": "ofrenda.",
+          "start": 171.32,
+          "end": 176.36
+        }
+      ],
+      "start": 166.0,
+      "end": 176.36,
+      "confidence": 0.993,
+      "time": 166.0
+    }
+  ]
+}

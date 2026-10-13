@@ -1,0 +1,1240 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.973,
+  "language": "es",
+  "model": "medium",
+  "hymn": 361,
+  "source": "361 - Percibe mi alma un son.mp3",
+  "duration": 188.73,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Percibe mi alma un son",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Percibe",
+          "start": 11.6,
+          "end": 13.0
+        },
+        {
+          "word": "mi",
+          "start": 13.0,
+          "end": 13.62
+        },
+        {
+          "word": "alma",
+          "start": 13.62,
+          "end": 14.28
+        },
+        {
+          "word": "un",
+          "start": 14.28,
+          "end": 14.88
+        },
+        {
+          "word": "son",
+          "start": 14.88,
+          "end": 16.48
+        }
+      ],
+      "start": 11.6,
+      "end": 16.48,
+      "confidence": 1.0,
+      "time": 11.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de dulce y alegre canción",
+      "verse": 1,
+      "words": [
+        {
+          "word": "De",
+          "start": 16.48,
+          "end": 17.42
+        },
+        {
+          "word": "dulce",
+          "start": 17.42,
+          "end": 18.36
+        },
+        {
+          "word": "y",
+          "start": 18.36,
+          "end": 18.8
+        },
+        {
+          "word": "alegre",
+          "start": 18.8,
+          "end": 19.8
+        },
+        {
+          "word": "canción",
+          "start": 19.8,
+          "end": 21.0
+        }
+      ],
+      "start": 16.48,
+      "end": 21.0,
+      "confidence": 1.0,
+      "time": 16.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que llevo en mi corazón:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Que",
+          "start": 21.82,
+          "end": 22.62
+        },
+        {
+          "word": "llevo",
+          "start": 22.62,
+          "end": 23.7
+        },
+        {
+          "word": "en",
+          "start": 23.7,
+          "end": 24.14
+        },
+        {
+          "word": "mi",
+          "start": 24.14,
+          "end": 24.78
+        },
+        {
+          "word": "corazón",
+          "start": 24.78,
+          "end": 26.86
+        }
+      ],
+      "start": 21.82,
+      "end": 26.86,
+      "confidence": 1.0,
+      "time": 21.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh paz, el don de mi Dios!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "O",
+          "start": 26.86,
+          "end": 28.02
+        },
+        {
+          "word": "paz,",
+          "start": 28.02,
+          "end": 28.92
+        },
+        {
+          "word": "el",
+          "start": 29.46,
+          "end": 29.48
+        },
+        {
+          "word": "don",
+          "start": 29.48,
+          "end": 29.94
+        },
+        {
+          "word": "de",
+          "start": 29.94,
+          "end": 30.28
+        },
+        {
+          "word": "mi",
+          "start": 30.28,
+          "end": 30.74
+        },
+        {
+          "word": "Dios",
+          "start": 30.74,
+          "end": 32.76
+        }
+      ],
+      "start": 26.86,
+      "end": 32.76,
+      "confidence": 0.971,
+      "time": 26.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Paz, paz, dulce paz,",
+      "words": [
+        {
+          "word": "Paz,",
+          "start": 32.76,
+          "end": 34.66
+        },
+        {
+          "word": "paz,",
+          "start": 35.84,
+          "end": 35.84
+        },
+        {
+          "word": "dulce",
+          "start": 36.62,
+          "end": 37.34
+        },
+        {
+          "word": "paz",
+          "start": 37.34,
+          "end": 38.36
+        }
+      ],
+      "start": 32.76,
+      "end": 38.36,
+      "confidence": 1.0,
+      "time": 32.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "don admirable de Dios!",
+      "words": [
+        {
+          "word": "Don",
+          "start": 38.36,
+          "end": 39.34
+        },
+        {
+          "word": "admirable",
+          "start": 39.34,
+          "end": 40.62
+        },
+        {
+          "word": "de",
+          "start": 40.62,
+          "end": 41.32
+        },
+        {
+          "word": "Dios",
+          "start": 41.32,
+          "end": 43.02
+        }
+      ],
+      "start": 38.36,
+      "end": 43.02,
+      "confidence": 1.0,
+      "time": 38.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, paz, maravilla de paz,",
+      "words": [
+        {
+          "word": "O",
+          "start": 43.02,
+          "end": 43.96
+        },
+        {
+          "word": "paz,",
+          "start": 43.96,
+          "end": 44.6
+        },
+        {
+          "word": "maravilla",
+          "start": 44.98,
+          "end": 46.08
+        },
+        {
+          "word": "de",
+          "start": 46.08,
+          "end": 46.7
+        },
+        {
+          "word": "paz",
+          "start": 46.7,
+          "end": 47.86
+        }
+      ],
+      "start": 43.02,
+      "end": 47.86,
+      "confidence": 0.96,
+      "time": 43.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "el don de amor de mi Dios!",
+      "words": [
+        {
+          "word": "El",
+          "start": 48.4,
+          "end": 49.4
+        },
+        {
+          "word": "don",
+          "start": 49.4,
+          "end": 50.16
+        },
+        {
+          "word": "de",
+          "start": 50.16,
+          "end": 50.54
+        },
+        {
+          "word": "amor",
+          "start": 50.54,
+          "end": 50.88
+        },
+        {
+          "word": "de",
+          "start": 51.18,
+          "end": 51.5
+        },
+        {
+          "word": "mi",
+          "start": 51.5,
+          "end": 51.86
+        },
+        {
+          "word": "Dios",
+          "start": 51.86,
+          "end": 53.84
+        }
+      ],
+      "start": 48.4,
+      "end": 53.84,
+      "confidence": 1.0,
+      "time": 48.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "La paz que en la cruz Cristo dio,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "La",
+          "start": 53.84,
+          "end": 55.36
+        },
+        {
+          "word": "paz",
+          "start": 55.36,
+          "end": 56.1
+        },
+        {
+          "word": "que",
+          "start": 56.1,
+          "end": 56.38
+        },
+        {
+          "word": "la",
+          "start": 56.38,
+          "end": 56.72
+        },
+        {
+          "word": "cruz",
+          "start": 56.72,
+          "end": 57.16
+        },
+        {
+          "word": "Cristo",
+          "start": 57.16,
+          "end": 57.76
+        },
+        {
+          "word": "dio,",
+          "start": 57.76,
+          "end": 59.9
+        }
+      ],
+      "start": 53.84,
+      "end": 60.6,
+      "confidence": 0.875,
+      "time": 53.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "do todas mis deudas pagó,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "do",
+          "start": 60.6,
+          "end": 60.6
+        },
+        {
+          "word": "todos",
+          "start": 60.6,
+          "end": 61.5
+        },
+        {
+          "word": "mis",
+          "start": 61.5,
+          "end": 61.96
+        },
+        {
+          "word": "deudas",
+          "start": 61.96,
+          "end": 63.06
+        },
+        {
+          "word": "pagó,",
+          "start": 63.06,
+          "end": 65.14
+        }
+      ],
+      "start": 60.6,
+      "end": 65.14,
+      "confidence": 0.976,
+      "time": 60.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en mí fiel cimiento echó.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 65.56,
+          "end": 65.92
+        },
+        {
+          "word": "mi",
+          "start": 65.92,
+          "end": 66.56
+        },
+        {
+          "word": "pensamiento",
+          "start": 66.56,
+          "end": 68.08
+        },
+        {
+          "word": "hecho,",
+          "start": 68.08,
+          "end": 69.94
+        }
+      ],
+      "start": 65.56,
+      "end": 71.0,
+      "confidence": 0.742,
+      "time": 65.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Oh paz, el don de mi Dios!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "oh",
+          "start": 71.0,
+          "end": 71.24
+        },
+        {
+          "word": "paz,",
+          "start": 71.24,
+          "end": 72.14
+        },
+        {
+          "word": "el",
+          "start": 72.58,
+          "end": 72.76
+        },
+        {
+          "word": "don",
+          "start": 72.76,
+          "end": 73.2
+        },
+        {
+          "word": "de",
+          "start": 73.2,
+          "end": 73.56
+        },
+        {
+          "word": "mi",
+          "start": 73.56,
+          "end": 73.92
+        },
+        {
+          "word": "Dios.",
+          "start": 73.92,
+          "end": 76.0
+        }
+      ],
+      "start": 71.0,
+      "end": 76.0,
+      "confidence": 1.0,
+      "time": 71.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Paz, paz, dulce paz,",
+      "words": [
+        {
+          "word": "¡Paz,",
+          "start": 76.0,
+          "end": 77.82
+        },
+        {
+          "word": "paz,",
+          "start": 78.64,
+          "end": 79.06
+        },
+        {
+          "word": "dulce",
+          "start": 79.62,
+          "end": 80.54
+        },
+        {
+          "word": "paz,",
+          "start": 80.54,
+          "end": 81.52
+        }
+      ],
+      "start": 76.0,
+      "end": 82.22,
+      "confidence": 1.0,
+      "time": 76.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "don admirable de Dios!",
+      "words": [
+        {
+          "word": "don",
+          "start": 82.22,
+          "end": 82.62
+        },
+        {
+          "word": "admirable",
+          "start": 82.62,
+          "end": 83.86
+        },
+        {
+          "word": "de",
+          "start": 83.86,
+          "end": 84.54
+        },
+        {
+          "word": "Dios!",
+          "start": 84.54,
+          "end": 86.22
+        }
+      ],
+      "start": 82.22,
+      "end": 86.22,
+      "confidence": 1.0,
+      "time": 82.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, paz, maravilla de paz,",
+      "words": [
+        {
+          "word": "¡Oh",
+          "start": 86.66,
+          "end": 87.16
+        },
+        {
+          "word": "paz,",
+          "start": 87.16,
+          "end": 87.82
+        },
+        {
+          "word": "maravilla",
+          "start": 88.22,
+          "end": 89.32
+        },
+        {
+          "word": "de",
+          "start": 89.32,
+          "end": 89.98
+        },
+        {
+          "word": "paz,",
+          "start": 89.98,
+          "end": 91.56
+        }
+      ],
+      "start": 86.66,
+      "end": 92.22,
+      "confidence": 1.0,
+      "time": 86.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "el don de amor de mi Dios!",
+      "words": [
+        {
+          "word": "el",
+          "start": 92.22,
+          "end": 92.66
+        },
+        {
+          "word": "don",
+          "start": 92.66,
+          "end": 93.36
+        },
+        {
+          "word": "de",
+          "start": 93.36,
+          "end": 93.8
+        },
+        {
+          "word": "amor",
+          "start": 93.8,
+          "end": 94.14
+        },
+        {
+          "word": "de",
+          "start": 94.14,
+          "end": 94.66
+        },
+        {
+          "word": "mi",
+          "start": 94.66,
+          "end": 95.06
+        },
+        {
+          "word": "Dios!",
+          "start": 95.06,
+          "end": 97.02
+        }
+      ],
+      "start": 92.22,
+      "end": 97.02,
+      "confidence": 1.0,
+      "time": 92.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Por rey al Señor coroné,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Rey",
+          "start": 98.8,
+          "end": 99.54
+        },
+        {
+          "word": "al",
+          "start": 99.54,
+          "end": 99.82
+        },
+        {
+          "word": "Señor",
+          "start": 99.82,
+          "end": 100.54
+        },
+        {
+          "word": "Coroné,",
+          "start": 100.54,
+          "end": 103.38
+        }
+      ],
+      "start": 98.8,
+      "end": 103.38,
+      "confidence": 0.8,
+      "time": 98.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y mi alma de paz se llenó",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 103.38,
+          "end": 104.08
+        },
+        {
+          "word": "mi",
+          "start": 104.08,
+          "end": 104.44
+        },
+        {
+          "word": "alma",
+          "start": 104.44,
+          "end": 104.98
+        },
+        {
+          "word": "de",
+          "start": 104.98,
+          "end": 105.58
+        },
+        {
+          "word": "paz",
+          "start": 105.58,
+          "end": 106.16
+        },
+        {
+          "word": "se",
+          "start": 106.16,
+          "end": 106.6
+        }
+      ],
+      "start": 103.38,
+      "end": 108.94,
+      "confidence": 0.857,
+      "time": 103.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y halló el don más rico mi fe:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 108.94,
+          "end": 109.32
+        },
+        {
+          "word": "halló",
+          "start": 109.32,
+          "end": 110.0
+        },
+        {
+          "word": "el",
+          "start": 110.0,
+          "end": 110.14
+        },
+        {
+          "word": "don",
+          "start": 110.14,
+          "end": 110.28
+        },
+        {
+          "word": "más",
+          "start": 110.28,
+          "end": 110.84
+        },
+        {
+          "word": "rico",
+          "start": 110.84,
+          "end": 111.48
+        },
+        {
+          "word": "mi",
+          "start": 111.48,
+          "end": 112.16
+        },
+        {
+          "word": "fe,",
+          "start": 112.16,
+          "end": 113.52
+        }
+      ],
+      "start": 108.94,
+      "end": 114.32,
+      "confidence": 1.0,
+      "time": 108.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡la paz, el don de mi Dios!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 114.32,
+          "end": 114.72
+        },
+        {
+          "word": "paz,",
+          "start": 114.72,
+          "end": 115.6
+        },
+        {
+          "word": "el",
+          "start": 115.96,
+          "end": 116.2
+        },
+        {
+          "word": "don",
+          "start": 116.2,
+          "end": 116.64
+        },
+        {
+          "word": "de",
+          "start": 116.64,
+          "end": 117.0
+        },
+        {
+          "word": "mi",
+          "start": 117.0,
+          "end": 117.38
+        },
+        {
+          "word": "Dios.",
+          "start": 117.38,
+          "end": 119.52
+        }
+      ],
+      "start": 114.32,
+      "end": 119.52,
+      "confidence": 1.0,
+      "time": 114.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Paz, paz, dulce paz,",
+      "words": [
+        {
+          "word": "Paz,",
+          "start": 119.52,
+          "end": 121.32
+        },
+        {
+          "word": "paz,",
+          "start": 121.4,
+          "end": 122.52
+        },
+        {
+          "word": "dulce",
+          "start": 123.14,
+          "end": 124.0
+        },
+        {
+          "word": "paz,",
+          "start": 124.0,
+          "end": 125.08
+        }
+      ],
+      "start": 119.52,
+      "end": 125.78,
+      "confidence": 1.0,
+      "time": 119.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "don admirable de Dios!",
+      "words": [
+        {
+          "word": "don",
+          "start": 125.78,
+          "end": 126.04
+        },
+        {
+          "word": "admirable",
+          "start": 126.04,
+          "end": 127.3
+        },
+        {
+          "word": "de",
+          "start": 127.3,
+          "end": 127.98
+        },
+        {
+          "word": "Dios,",
+          "start": 127.98,
+          "end": 129.78
+        }
+      ],
+      "start": 125.78,
+      "end": 129.78,
+      "confidence": 1.0,
+      "time": 125.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, paz, maravilla de paz,",
+      "words": [
+        {
+          "word": "oh,",
+          "start": 130.4,
+          "end": 130.68
+        },
+        {
+          "word": "paz,",
+          "start": 131.04,
+          "end": 131.3
+        },
+        {
+          "word": "maravilla",
+          "start": 131.7,
+          "end": 132.74
+        },
+        {
+          "word": "de",
+          "start": 132.74,
+          "end": 133.44
+        },
+        {
+          "word": "paz,",
+          "start": 133.44,
+          "end": 135.04
+        }
+      ],
+      "start": 130.4,
+      "end": 135.72,
+      "confidence": 1.0,
+      "time": 130.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "el don de amor de mi Dios!",
+      "words": [
+        {
+          "word": "el",
+          "start": 135.72,
+          "end": 136.1
+        },
+        {
+          "word": "don",
+          "start": 136.1,
+          "end": 136.82
+        },
+        {
+          "word": "de",
+          "start": 136.82,
+          "end": 137.2
+        },
+        {
+          "word": "amor",
+          "start": 137.2,
+          "end": 137.66
+        },
+        {
+          "word": "de",
+          "start": 137.66,
+          "end": 138.18
+        },
+        {
+          "word": "mi",
+          "start": 138.18,
+          "end": 138.54
+        },
+        {
+          "word": "Dios.",
+          "start": 138.54,
+          "end": 140.52
+        }
+      ],
+      "start": 135.72,
+      "end": 140.52,
+      "confidence": 1.0,
+      "time": 135.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "En paz con Jesús moraré,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "En",
+          "start": 140.52,
+          "end": 142.28
+        },
+        {
+          "word": "paz",
+          "start": 142.28,
+          "end": 142.94
+        },
+        {
+          "word": "con",
+          "start": 142.94,
+          "end": 143.18
+        },
+        {
+          "word": "Jesús",
+          "start": 143.18,
+          "end": 143.96
+        },
+        {
+          "word": "moraré,",
+          "start": 143.96,
+          "end": 146.7
+        }
+      ],
+      "start": 140.52,
+      "end": 147.04,
+      "confidence": 1.0,
+      "time": 140.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "y cuando a su lado esté",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 147.04,
+          "end": 147.62
+        },
+        {
+          "word": "cuando",
+          "start": 147.62,
+          "end": 148.42
+        },
+        {
+          "word": "a",
+          "start": 148.42,
+          "end": 148.66
+        },
+        {
+          "word": "su",
+          "start": 148.66,
+          "end": 148.88
+        },
+        {
+          "word": "lado",
+          "start": 148.88,
+          "end": 150.02
+        },
+        {
+          "word": "esté,",
+          "start": 150.02,
+          "end": 151.92
+        }
+      ],
+      "start": 147.04,
+      "end": 152.56,
+      "confidence": 1.0,
+      "time": 147.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "su paz inefable tendré,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "su",
+          "start": 152.56,
+          "end": 152.86
+        },
+        {
+          "word": "paz",
+          "start": 152.86,
+          "end": 153.6
+        },
+        {
+          "word": "inefable",
+          "start": 153.6,
+          "end": 154.98
+        },
+        {
+          "word": "tendré,",
+          "start": 154.98,
+          "end": 157.46
+        }
+      ],
+      "start": 152.56,
+      "end": 157.78,
+      "confidence": 1.0,
+      "time": 152.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "¡la paz, el don de mi Dios!",
+      "verse": 4,
+      "words": [
+        {
+          "word": "la",
+          "start": 157.78,
+          "end": 158.28
+        },
+        {
+          "word": "paz,",
+          "start": 158.28,
+          "end": 159.18
+        },
+        {
+          "word": "el",
+          "start": 159.24,
+          "end": 159.68
+        },
+        {
+          "word": "don",
+          "start": 159.68,
+          "end": 160.14
+        },
+        {
+          "word": "de",
+          "start": 160.14,
+          "end": 160.42
+        },
+        {
+          "word": "mi",
+          "start": 160.42,
+          "end": 160.84
+        },
+        {
+          "word": "Dios.",
+          "start": 160.84,
+          "end": 162.52
+        }
+      ],
+      "start": 157.78,
+      "end": 162.52,
+      "confidence": 1.0,
+      "time": 157.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Paz, paz, dulce paz,",
+      "words": [
+        {
+          "word": "¡Paz,",
+          "start": 162.52,
+          "end": 164.78
+        },
+        {
+          "word": "paz,",
+          "start": 165.94,
+          "end": 165.94
+        },
+        {
+          "word": "dulce",
+          "start": 166.64,
+          "end": 167.46
+        },
+        {
+          "word": "paz!",
+          "start": 167.46,
+          "end": 168.44
+        }
+      ],
+      "start": 162.52,
+      "end": 169.3,
+      "confidence": 1.0,
+      "time": 162.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "don admirable de Dios!",
+      "words": [
+        {
+          "word": "¡Don",
+          "start": 169.3,
+          "end": 169.56
+        },
+        {
+          "word": "admirable",
+          "start": 169.56,
+          "end": 170.82
+        },
+        {
+          "word": "de",
+          "start": 170.82,
+          "end": 171.46
+        },
+        {
+          "word": "Dios!",
+          "start": 171.46,
+          "end": 172.52
+        }
+      ],
+      "start": 169.3,
+      "end": 172.52,
+      "confidence": 1.0,
+      "time": 169.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Oh, paz, maravilla de paz,",
+      "words": [
+        {
+          "word": "¡Oh",
+          "start": 173.7,
+          "end": 174.1
+        },
+        {
+          "word": "paz,",
+          "start": 174.1,
+          "end": 174.74
+        },
+        {
+          "word": "maravilla",
+          "start": 175.1,
+          "end": 176.22
+        },
+        {
+          "word": "de",
+          "start": 176.22,
+          "end": 176.92
+        },
+        {
+          "word": "paz!",
+          "start": 176.92,
+          "end": 178.42
+        }
+      ],
+      "start": 173.7,
+      "end": 179.16,
+      "confidence": 1.0,
+      "time": 173.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "el don de amor de mi Dios!",
+      "words": [
+        {
+          "word": "¡El",
+          "start": 179.16,
+          "end": 179.66
+        },
+        {
+          "word": "don",
+          "start": 179.66,
+          "end": 180.32
+        },
+        {
+          "word": "de",
+          "start": 180.32,
+          "end": 180.92
+        },
+        {
+          "word": "amor",
+          "start": 180.92,
+          "end": 181.46
+        },
+        {
+          "word": "de",
+          "start": 181.46,
+          "end": 182.06
+        },
+        {
+          "word": "mi",
+          "start": 182.06,
+          "end": 182.58
+        },
+        {
+          "word": "Dios!",
+          "start": 182.58,
+          "end": 183.14
+        }
+      ],
+      "start": 179.16,
+      "end": 183.14,
+      "confidence": 1.0,
+      "time": 179.16
+    }
+  ]
+}

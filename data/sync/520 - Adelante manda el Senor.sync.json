@@ -1,0 +1,853 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.808,
+  "language": "es",
+  "model": "medium",
+  "hymn": 520,
+  "source": "520 - Adelante manda el Senor.mp3",
+  "duration": 128.73,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cristo, nuestro Jefe, nos lleva a la lid;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 17.58,
+          "end": 18.54
+        },
+        {
+          "word": "nuestro,",
+          "start": 18.54,
+          "end": 19.5
+        },
+        {
+          "word": "nos",
+          "start": 20.6,
+          "end": 20.96
+        },
+        {
+          "word": "lleva",
+          "start": 20.96,
+          "end": 21.44
+        },
+        {
+          "word": "a",
+          "start": 21.44,
+          "end": 21.74
+        }
+      ],
+      "start": 17.58,
+      "end": 22.9,
+      "confidence": 0.625,
+      "time": 17.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nunca perderemos si él nos dice: Id.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "nunca",
+          "start": 22.9,
+          "end": 23.16
+        },
+        {
+          "word": "perderemos",
+          "start": 23.16,
+          "end": 24.72
+        },
+        {
+          "word": "nos",
+          "start": 25.08,
+          "end": 25.36
+        }
+      ],
+      "start": 22.9,
+      "end": 26.54,
+      "confidence": 0.429,
+      "time": 22.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Aun su justa causa se suele ignorar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Aún",
+          "start": 26.54,
+          "end": 27.38
+        },
+        {
+          "word": "justas",
+          "start": 27.62,
+          "end": 28.1
+        },
+        {
+          "word": "causas",
+          "start": 28.1,
+          "end": 29.28
+        },
+        {
+          "word": "este",
+          "start": 29.28,
+          "end": 29.66
+        },
+        {
+          "word": "ignorar,",
+          "start": 30.0,
+          "end": 31.24
+        }
+      ],
+      "start": 26.54,
+      "end": 31.54,
+      "confidence": 0.669,
+      "time": 26.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mas yo fiel lo he de seguir.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "más",
+          "start": 31.54,
+          "end": 31.68
+        },
+        {
+          "word": "yo",
+          "start": 31.68,
+          "end": 31.92
+        },
+        {
+          "word": "lo",
+          "start": 32.08,
+          "end": 32.3
+        },
+        {
+          "word": "he",
+          "start": 32.3,
+          "end": 32.68
+        },
+        {
+          "word": "de",
+          "start": 32.68,
+          "end": 33.08
+        },
+        {
+          "word": "seguir.",
+          "start": 33.08,
+          "end": 35.02
+        }
+      ],
+      "start": 31.54,
+      "end": 35.02,
+      "confidence": 0.857,
+      "time": 31.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Adelante! Manda el Señor.",
+      "words": [
+        {
+          "word": "¡Adelante,",
+          "start": 36.84,
+          "end": 37.66
+        },
+        {
+          "word": "canta",
+          "start": 37.96,
+          "end": 38.38
+        },
+        {
+          "word": "el",
+          "start": 38.38,
+          "end": 38.68
+        },
+        {
+          "word": "Señor!",
+          "start": 38.68,
+          "end": 39.56
+        }
+      ],
+      "start": 36.84,
+      "end": 41.1,
+      "confidence": 0.94,
+      "time": 36.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Adelante! Vamos sin temor.",
+      "words": [
+        {
+          "word": "¡Adelante,",
+          "start": 41.1,
+          "end": 41.92
+        },
+        {
+          "word": "vamos",
+          "start": 42.2,
+          "end": 42.48
+        },
+        {
+          "word": "sin",
+          "start": 42.48,
+          "end": 42.94
+        },
+        {
+          "word": "temor!",
+          "start": 42.94,
+          "end": 43.84
+        }
+      ],
+      "start": 41.1,
+      "end": 43.84,
+      "confidence": 1.0,
+      "time": 41.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Adelante! Canta ya la grey;",
+      "words": [
+        {
+          "word": "¡Adelante,",
+          "start": 45.36,
+          "end": 46.18
+        },
+        {
+          "word": "canta",
+          "start": 46.54,
+          "end": 46.78
+        },
+        {
+          "word": "ya",
+          "start": 46.78,
+          "end": 47.14
+        }
+      ],
+      "start": 45.36,
+      "end": 48.6,
+      "confidence": 0.6,
+      "time": 45.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "la victoria es cierta con el Rey.",
+      "words": [
+        {
+          "word": "la",
+          "start": 48.6,
+          "end": 48.78
+        },
+        {
+          "word": "victoria",
+          "start": 48.78,
+          "end": 49.44
+        },
+        {
+          "word": "cerca",
+          "start": 49.44,
+          "end": 50.42
+        },
+        {
+          "word": "con",
+          "start": 50.42,
+          "end": 51.38
+        },
+        {
+          "word": "el",
+          "start": 51.38,
+          "end": 52.0
+        },
+        {
+          "word": "rey!",
+          "start": 52.0,
+          "end": 53.24
+        }
+      ],
+      "start": 48.6,
+      "end": 53.24,
+      "confidence": 0.834,
+      "time": 48.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Nuestro estandarte luce por doquier;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Nuestro",
+          "start": 53.24,
+          "end": 54.6
+        },
+        {
+          "word": "estandarte",
+          "start": 54.6,
+          "end": 55.9
+        },
+        {
+          "word": "luce",
+          "start": 55.9,
+          "end": 56.44
+        },
+        {
+          "word": "por",
+          "start": 56.44,
+          "end": 56.84
+        },
+        {
+          "word": "doquier,",
+          "start": 56.84,
+          "end": 57.86
+        }
+      ],
+      "start": 53.24,
+      "end": 58.3,
+      "confidence": 1.0,
+      "time": 53.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con poder y gloria siempre se ha de ver.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "con",
+          "start": 58.3,
+          "end": 58.4
+        },
+        {
+          "word": "poder",
+          "start": 58.4,
+          "end": 58.94
+        },
+        {
+          "word": "y",
+          "start": 58.94,
+          "end": 59.48
+        },
+        {
+          "word": "gloria",
+          "start": 59.48,
+          "end": 60.18
+        },
+        {
+          "word": "siempre",
+          "start": 60.18,
+          "end": 60.66
+        },
+        {
+          "word": "se",
+          "start": 60.66,
+          "end": 60.98
+        },
+        {
+          "word": "ha",
+          "start": 60.98,
+          "end": 61.22
+        },
+        {
+          "word": "de",
+          "start": 61.22,
+          "end": 61.5
+        },
+        {
+          "word": "ver,",
+          "start": 61.5,
+          "end": 61.98
+        }
+      ],
+      "start": 58.3,
+      "end": 62.66,
+      "confidence": 1.0,
+      "time": 58.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristo nuestro Jefe al mundo ya venció",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 62.66,
+          "end": 62.8
+        },
+        {
+          "word": "nuestro",
+          "start": 62.8,
+          "end": 63.34
+        },
+        {
+          "word": "jefe",
+          "start": 63.34,
+          "end": 64.22
+        },
+        {
+          "word": "al",
+          "start": 64.22,
+          "end": 64.56
+        },
+        {
+          "word": "mundo",
+          "start": 64.56,
+          "end": 64.94
+        },
+        {
+          "word": "ya",
+          "start": 64.94,
+          "end": 65.42
+        },
+        {
+          "word": "venció,",
+          "start": 65.42,
+          "end": 66.54
+        }
+      ],
+      "start": 62.66,
+      "end": 66.88,
+      "confidence": 1.0,
+      "time": 62.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y yo fiel lo he de seguir.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 66.88,
+          "end": 67.0
+        },
+        {
+          "word": "yo",
+          "start": 67.0,
+          "end": 67.22
+        },
+        {
+          "word": "de",
+          "start": 67.92,
+          "end": 68.4
+        },
+        {
+          "word": "seguir.",
+          "start": 68.4,
+          "end": 70.06
+        }
+      ],
+      "start": 66.88,
+      "end": 70.06,
+      "confidence": 0.571,
+      "time": 66.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Adelante! Manda el Señor.",
+      "words": [
+        {
+          "word": "¡Adelante,",
+          "start": 71.96,
+          "end": 73.02
+        },
+        {
+          "word": "manda",
+          "start": 73.14,
+          "end": 73.76
+        },
+        {
+          "word": "el",
+          "start": 73.76,
+          "end": 74.04
+        },
+        {
+          "word": "Señor!",
+          "start": 74.04,
+          "end": 74.88
+        }
+      ],
+      "start": 71.96,
+      "end": 76.26,
+      "confidence": 1.0,
+      "time": 71.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Adelante! Vamos sin temor.",
+      "words": [
+        {
+          "word": "¡Adelante,",
+          "start": 76.26,
+          "end": 77.32
+        },
+        {
+          "word": "vámonos",
+          "start": 77.58,
+          "end": 78.08
+        },
+        {
+          "word": "sin",
+          "start": 78.08,
+          "end": 78.34
+        },
+        {
+          "word": "temor!",
+          "start": 78.34,
+          "end": 79.22
+        }
+      ],
+      "start": 76.26,
+      "end": 79.22,
+      "confidence": 0.975,
+      "time": 76.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Adelante! Canta ya la grey;",
+      "words": [
+        {
+          "word": "¡Adelante,",
+          "start": 80.56,
+          "end": 81.62
+        },
+        {
+          "word": "canta",
+          "start": 81.92,
+          "end": 82.14
+        },
+        {
+          "word": "ya",
+          "start": 82.14,
+          "end": 82.54
+        },
+        {
+          "word": "la",
+          "start": 82.54,
+          "end": 82.98
+        }
+      ],
+      "start": 80.56,
+      "end": 83.86,
+      "confidence": 0.8,
+      "time": 80.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "la victoria es cierta con el Rey.",
+      "words": [
+        {
+          "word": "¡La",
+          "start": 83.86,
+          "end": 84.12
+        },
+        {
+          "word": "victoria",
+          "start": 84.12,
+          "end": 84.84
+        },
+        {
+          "word": "con",
+          "start": 85.84,
+          "end": 86.72
+        },
+        {
+          "word": "el",
+          "start": 86.72,
+          "end": 87.32
+        },
+        {
+          "word": "Rey!",
+          "start": 87.32,
+          "end": 88.26
+        }
+      ],
+      "start": 83.86,
+      "end": 88.26,
+      "confidence": 0.714,
+      "time": 83.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "La furiosa lucha larga no será,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "La",
+          "start": 89.04,
+          "end": 89.56
+        },
+        {
+          "word": "furiosa",
+          "start": 89.56,
+          "end": 90.26
+        },
+        {
+          "word": "lucha",
+          "start": 90.26,
+          "end": 91.24
+        },
+        {
+          "word": "larga",
+          "start": 91.24,
+          "end": 91.82
+        },
+        {
+          "word": "no",
+          "start": 91.82,
+          "end": 92.2
+        },
+        {
+          "word": "será,",
+          "start": 92.2,
+          "end": 92.94
+        }
+      ],
+      "start": 89.04,
+      "end": 93.48,
+      "confidence": 1.0,
+      "time": 89.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y a los vencedores nos congregará,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ya",
+          "start": 93.48,
+          "end": 93.7
+        },
+        {
+          "word": "los",
+          "start": 93.7,
+          "end": 94.06
+        },
+        {
+          "word": "vencedores",
+          "start": 94.06,
+          "end": 95.44
+        },
+        {
+          "word": "nos",
+          "start": 95.44,
+          "end": 95.86
+        },
+        {
+          "word": "regarán.",
+          "start": 96.2,
+          "end": 97.48
+        }
+      ],
+      "start": 93.48,
+      "end": 97.48,
+      "confidence": 0.771,
+      "time": 93.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "donde entonaremos cántico triunfal;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Donde",
+          "start": 97.48,
+          "end": 98.16
+        },
+        {
+          "word": "entonaremos",
+          "start": 98.16,
+          "end": 99.76
+        },
+        {
+          "word": "cántico",
+          "start": 99.76,
+          "end": 100.62
+        },
+        {
+          "word": "triunfar,",
+          "start": 100.62,
+          "end": 101.84
+        }
+      ],
+      "start": 97.48,
+      "end": 102.24,
+      "confidence": 0.981,
+      "time": 97.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "fieles lo hemos de seguir.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "fieles",
+          "start": 102.24,
+          "end": 102.66
+        },
+        {
+          "word": "de",
+          "start": 103.02,
+          "end": 103.76
+        },
+        {
+          "word": "seguir.",
+          "start": 103.76,
+          "end": 105.86
+        }
+      ],
+      "start": 102.24,
+      "end": 105.86,
+      "confidence": 0.6,
+      "time": 102.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Adelante! Manda el Señor.",
+      "words": [
+        {
+          "word": "¡Adelante",
+          "start": 107.1,
+          "end": 108.4
+        },
+        {
+          "word": "canta",
+          "start": 108.4,
+          "end": 109.04
+        },
+        {
+          "word": "el",
+          "start": 109.04,
+          "end": 109.4
+        },
+        {
+          "word": "Señor!",
+          "start": 109.4,
+          "end": 110.22
+        }
+      ],
+      "start": 107.1,
+      "end": 111.42,
+      "confidence": 0.94,
+      "time": 107.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Adelante! Vamos sin temor.",
+      "words": [
+        {
+          "word": "¡Adelante",
+          "start": 111.42,
+          "end": 112.72
+        },
+        {
+          "word": "vamos",
+          "start": 112.72,
+          "end": 113.24
+        },
+        {
+          "word": "sin",
+          "start": 113.24,
+          "end": 113.7
+        },
+        {
+          "word": "temor!",
+          "start": 113.7,
+          "end": 114.58
+        }
+      ],
+      "start": 111.42,
+      "end": 114.58,
+      "confidence": 1.0,
+      "time": 111.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Adelante! Canta ya la grey;",
+      "words": [
+        {
+          "word": "¡Adelante",
+          "start": 115.64,
+          "end": 116.94
+        },
+        {
+          "word": "canta",
+          "start": 116.94,
+          "end": 117.54
+        },
+        {
+          "word": "ya",
+          "start": 117.54,
+          "end": 117.92
+        },
+        {
+          "word": "la",
+          "start": 117.92,
+          "end": 118.32
+        }
+      ],
+      "start": 115.64,
+      "end": 119.22,
+      "confidence": 0.8,
+      "time": 115.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "la victoria es cierta con el Rey.",
+      "words": [
+        {
+          "word": "¡La",
+          "start": 119.22,
+          "end": 119.52
+        },
+        {
+          "word": "victoria",
+          "start": 119.52,
+          "end": 120.18
+        },
+        {
+          "word": "es",
+          "start": 120.18,
+          "end": 120.5
+        },
+        {
+          "word": "el",
+          "start": 120.5,
+          "end": 121.0
+        },
+        {
+          "word": "Rey!",
+          "start": 122.74,
+          "end": 124.02
+        }
+      ],
+      "start": 119.22,
+      "end": 124.02,
+      "confidence": 0.714,
+      "time": 119.22
+    }
+  ]
+}

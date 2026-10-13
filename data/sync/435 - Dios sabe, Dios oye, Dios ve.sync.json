@@ -1,0 +1,954 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.899,
+  "language": "es",
+  "model": "medium",
+  "hymn": 435,
+  "source": "435 - Dios sabe, Dios oye, Dios ve.mp3",
+  "duration": 202.71,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Si hoy tú te sientes pequeño",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Si",
+          "start": 16.7,
+          "end": 18.1
+        },
+        {
+          "word": "hoy",
+          "start": 18.1,
+          "end": 19.18
+        },
+        {
+          "word": "tú",
+          "start": 19.18,
+          "end": 19.64
+        },
+        {
+          "word": "te",
+          "start": 19.64,
+          "end": 20.06
+        },
+        {
+          "word": "sientes",
+          "start": 20.06,
+          "end": 21.52
+        },
+        {
+          "word": "pequeño,",
+          "start": 21.52,
+          "end": 25.1
+        }
+      ],
+      "start": 16.7,
+      "end": 25.1,
+      "confidence": 1.0,
+      "time": 16.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "dirige tu vista a Dios.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Dirige",
+          "start": 25.1,
+          "end": 27.5
+        },
+        {
+          "word": "tu",
+          "start": 27.5,
+          "end": 27.92
+        },
+        {
+          "word": "vista",
+          "start": 27.92,
+          "end": 29.4
+        },
+        {
+          "word": "a",
+          "start": 29.4,
+          "end": 30.04
+        },
+        {
+          "word": "Dios.",
+          "start": 30.04,
+          "end": 32.94
+        }
+      ],
+      "start": 25.1,
+      "end": 32.94,
+      "confidence": 1.0,
+      "time": 25.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "No dejes que sombras te envuelvan;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "No",
+          "start": 33.34,
+          "end": 33.76
+        },
+        {
+          "word": "dejes",
+          "start": 33.76,
+          "end": 35.18
+        },
+        {
+          "word": "que",
+          "start": 35.18,
+          "end": 35.52
+        },
+        {
+          "word": "sombras",
+          "start": 35.52,
+          "end": 37.0
+        },
+        {
+          "word": "te",
+          "start": 37.0,
+          "end": 37.48
+        },
+        {
+          "word": "vuelvan.",
+          "start": 37.48,
+          "end": 40.4
+        }
+      ],
+      "start": 33.34,
+      "end": 40.4,
+      "confidence": 0.987,
+      "time": 33.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "entrega tu vida a Dios.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Entrega",
+          "start": 41.1,
+          "end": 42.28
+        },
+        {
+          "word": "tu",
+          "start": 42.28,
+          "end": 42.94
+        },
+        {
+          "word": "vida",
+          "start": 42.94,
+          "end": 43.94
+        },
+        {
+          "word": "a",
+          "start": 43.94,
+          "end": 44.64
+        },
+        {
+          "word": "Dios.",
+          "start": 44.64,
+          "end": 47.6
+        }
+      ],
+      "start": 41.1,
+      "end": 47.6,
+      "confidence": 1.0,
+      "time": 41.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Dios sabe lo que hay en tu alma;",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 47.6,
+          "end": 48.54
+        },
+        {
+          "word": "sabe",
+          "start": 48.54,
+          "end": 49.88
+        },
+        {
+          "word": "lo",
+          "start": 49.88,
+          "end": 50.38
+        },
+        {
+          "word": "que",
+          "start": 50.38,
+          "end": 50.9
+        },
+        {
+          "word": "hay",
+          "start": 50.9,
+          "end": 51.22
+        },
+        {
+          "word": "en",
+          "start": 51.22,
+          "end": 52.0
+        },
+        {
+          "word": "tu",
+          "start": 52.0,
+          "end": 52.42
+        },
+        {
+          "word": "alma,",
+          "start": 52.42,
+          "end": 55.48
+        }
+      ],
+      "start": 47.6,
+      "end": 55.96,
+      "confidence": 1.0,
+      "time": 47.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Dios oye tu plegaria ferviente;",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 55.96,
+          "end": 56.42
+        },
+        {
+          "word": "oye",
+          "start": 56.42,
+          "end": 57.56
+        },
+        {
+          "word": "tu",
+          "start": 57.56,
+          "end": 57.84
+        },
+        {
+          "word": "pregada",
+          "start": 57.84,
+          "end": 59.08
+        }
+      ],
+      "start": 55.96,
+      "end": 63.18,
+      "confidence": 0.76,
+      "time": 55.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Dios ve tu angustia y te calma;",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 63.18,
+          "end": 63.92
+        },
+        {
+          "word": "ve",
+          "start": 63.92,
+          "end": 64.94
+        },
+        {
+          "word": "tu",
+          "start": 64.94,
+          "end": 65.38
+        },
+        {
+          "word": "angustia",
+          "start": 65.38,
+          "end": 66.94
+        },
+        {
+          "word": "y",
+          "start": 66.94,
+          "end": 67.24
+        },
+        {
+          "word": "te",
+          "start": 67.24,
+          "end": 67.68
+        },
+        {
+          "word": "calma.",
+          "start": 67.68,
+          "end": 70.3
+        }
+      ],
+      "start": 63.18,
+      "end": 70.3,
+      "confidence": 1.0,
+      "time": 63.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Dios hace de ti un gigante.",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 70.3,
+          "end": 71.18
+        },
+        {
+          "word": "de",
+          "start": 72.48,
+          "end": 73.06
+        },
+        {
+          "word": "ti",
+          "start": 73.06,
+          "end": 73.56
+        },
+        {
+          "word": "un",
+          "start": 73.56,
+          "end": 74.36
+        },
+        {
+          "word": "gigante,",
+          "start": 74.36,
+          "end": 77.4
+        }
+      ],
+      "start": 70.3,
+      "end": 77.94,
+      "confidence": 0.833,
+      "time": 70.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Dios sabe lo que hay en tu alma;",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 77.94,
+          "end": 78.48
+        },
+        {
+          "word": "lo",
+          "start": 79.74,
+          "end": 80.12
+        },
+        {
+          "word": "que",
+          "start": 80.12,
+          "end": 80.6
+        },
+        {
+          "word": "hay",
+          "start": 80.6,
+          "end": 80.98
+        },
+        {
+          "word": "en",
+          "start": 80.98,
+          "end": 81.64
+        },
+        {
+          "word": "tu",
+          "start": 81.64,
+          "end": 82.12
+        },
+        {
+          "word": "alma.",
+          "start": 82.12,
+          "end": 84.64
+        }
+      ],
+      "start": 77.94,
+      "end": 84.64,
+      "confidence": 0.875,
+      "time": 77.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Dios oye tu plegaria ferviente;",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 85.4,
+          "end": 85.88
+        },
+        {
+          "word": "oye",
+          "start": 85.88,
+          "end": 86.84
+        },
+        {
+          "word": "tu",
+          "start": 86.84,
+          "end": 87.16
+        },
+        {
+          "word": "plegaria",
+          "start": 87.16,
+          "end": 88.98
+        },
+        {
+          "word": "ferviente,",
+          "start": 88.98,
+          "end": 92.2
+        }
+      ],
+      "start": 85.4,
+      "end": 93.0,
+      "confidence": 1.0,
+      "time": 85.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Dios ve tu angustia y te calma;",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 93.0,
+          "end": 93.38
+        },
+        {
+          "word": "ve",
+          "start": 93.38,
+          "end": 94.4
+        },
+        {
+          "word": "tu",
+          "start": 94.4,
+          "end": 94.9
+        },
+        {
+          "word": "angustia",
+          "start": 94.9,
+          "end": 96.34
+        },
+        {
+          "word": "y",
+          "start": 96.34,
+          "end": 96.7
+        },
+        {
+          "word": "te",
+          "start": 96.7,
+          "end": 97.12
+        },
+        {
+          "word": "calma.",
+          "start": 97.12,
+          "end": 99.64
+        }
+      ],
+      "start": 93.0,
+      "end": 99.64,
+      "confidence": 1.0,
+      "time": 93.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Dios sabe, Dios oye, Dios ve.",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 99.64,
+          "end": 100.98
+        },
+        {
+          "word": "sabe,",
+          "start": 100.98,
+          "end": 102.58
+        },
+        {
+          "word": "Dios",
+          "start": 102.64,
+          "end": 103.3
+        },
+        {
+          "word": "oye,",
+          "start": 103.3,
+          "end": 104.42
+        },
+        {
+          "word": "Dios",
+          "start": 104.44,
+          "end": 105.36
+        },
+        {
+          "word": "ve",
+          "start": 105.36,
+          "end": 108.94
+        }
+      ],
+      "start": 99.64,
+      "end": 108.94,
+      "confidence": 1.0,
+      "time": 99.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si todos tus sueños se pierden;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 108.94,
+          "end": 110.42
+        },
+        {
+          "word": "todos",
+          "start": 110.42,
+          "end": 112.06
+        },
+        {
+          "word": "tus",
+          "start": 112.06,
+          "end": 112.48
+        },
+        {
+          "word": "sueños",
+          "start": 112.48,
+          "end": 114.12
+        },
+        {
+          "word": "se",
+          "start": 114.12,
+          "end": 114.66
+        },
+        {
+          "word": "pierden",
+          "start": 114.66,
+          "end": 117.86
+        }
+      ],
+      "start": 108.94,
+      "end": 117.86,
+      "confidence": 1.0,
+      "time": 108.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la vida se torna hostil;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "La",
+          "start": 117.86,
+          "end": 118.54
+        },
+        {
+          "word": "vida",
+          "start": 118.54,
+          "end": 119.88
+        },
+        {
+          "word": "se",
+          "start": 119.88,
+          "end": 120.28
+        },
+        {
+          "word": "torna",
+          "start": 120.28,
+          "end": 121.86
+        },
+        {
+          "word": "hostil",
+          "start": 122.06,
+          "end": 124.64
+        }
+      ],
+      "start": 117.86,
+      "end": 124.64,
+      "confidence": 1.0,
+      "time": 117.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "oh, nunca te des por vencido;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "O",
+          "start": 124.64,
+          "end": 125.8
+        },
+        {
+          "word": "nunca",
+          "start": 125.8,
+          "end": 127.06
+        },
+        {
+          "word": "te",
+          "start": 127.06,
+          "end": 127.74
+        },
+        {
+          "word": "des",
+          "start": 127.74,
+          "end": 128.58
+        },
+        {
+          "word": "por",
+          "start": 128.58,
+          "end": 129.04
+        },
+        {
+          "word": "vencido",
+          "start": 129.04,
+          "end": 131.64
+        }
+      ],
+      "start": 124.64,
+      "end": 131.64,
+      "confidence": 0.967,
+      "time": 124.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "entrega tus planes a Dios.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Entrega",
+          "start": 132.16,
+          "end": 133.9
+        },
+        {
+          "word": "tus",
+          "start": 133.9,
+          "end": 134.6
+        },
+        {
+          "word": "planes",
+          "start": 134.6,
+          "end": 135.82
+        },
+        {
+          "word": "a",
+          "start": 135.82,
+          "end": 136.34
+        },
+        {
+          "word": "Dios",
+          "start": 136.34,
+          "end": 138.64
+        }
+      ],
+      "start": 132.16,
+      "end": 138.64,
+      "confidence": 1.0,
+      "time": 132.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Dios sabe lo que hay en tu alma;",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 139.4,
+          "end": 140.28
+        },
+        {
+          "word": "tu",
+          "start": 143.16,
+          "end": 143.7
+        },
+        {
+          "word": "alma",
+          "start": 143.7,
+          "end": 145.64
+        }
+      ],
+      "start": 139.4,
+      "end": 145.64,
+      "confidence": 0.375,
+      "time": 139.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Dios oye tu plegaria ferviente;",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 146.36,
+          "end": 147.34
+        },
+        {
+          "word": "oye",
+          "start": 147.34,
+          "end": 148.26
+        },
+        {
+          "word": "tu",
+          "start": 148.26,
+          "end": 148.58
+        },
+        {
+          "word": "plegaria",
+          "start": 148.58,
+          "end": 150.24
+        },
+        {
+          "word": "ferviente",
+          "start": 150.24,
+          "end": 152.12
+        }
+      ],
+      "start": 146.36,
+      "end": 152.12,
+      "confidence": 1.0,
+      "time": 146.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Dios ve tu angustia y te calma;",
+      "words": [
+        {
+          "word": "Dios,",
+          "start": 152.12,
+          "end": 154.18
+        },
+        {
+          "word": "ver",
+          "start": 155.0,
+          "end": 155.36
+        },
+        {
+          "word": "tu",
+          "start": 155.36,
+          "end": 155.78
+        },
+        {
+          "word": "angustia",
+          "start": 155.78,
+          "end": 157.26
+        },
+        {
+          "word": "y",
+          "start": 157.26,
+          "end": 157.5
+        },
+        {
+          "word": "calma,",
+          "start": 157.62,
+          "end": 160.68
+        }
+      ],
+      "start": 152.12,
+      "end": 161.0,
+      "confidence": 0.84,
+      "time": 152.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Dios hace de ti un gigante.",
+      "words": [
+        {
+          "word": "Dios,",
+          "start": 161.0,
+          "end": 161.32
+        },
+        {
+          "word": "gigante,",
+          "start": 164.74,
+          "end": 166.12
+        }
+      ],
+      "start": 161.0,
+      "end": 166.12,
+      "confidence": 0.333,
+      "time": 161.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Dios sabe lo que hay en tu alma;",
+      "words": [
+        {
+          "word": "Dios,",
+          "start": 168.06,
+          "end": 168.56
+        },
+        {
+          "word": "saber",
+          "start": 169.22,
+          "end": 169.76
+        },
+        {
+          "word": "lo",
+          "start": 169.76,
+          "end": 170.28
+        },
+        {
+          "word": "que",
+          "start": 170.28,
+          "end": 170.72
+        },
+        {
+          "word": "hay",
+          "start": 170.72,
+          "end": 171.1
+        },
+        {
+          "word": "en",
+          "start": 171.1,
+          "end": 171.74
+        },
+        {
+          "word": "tu",
+          "start": 171.74,
+          "end": 172.24
+        },
+        {
+          "word": "alma,",
+          "start": 172.24,
+          "end": 174.78
+        }
+      ],
+      "start": 168.06,
+      "end": 175.54,
+      "confidence": 0.993,
+      "time": 168.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Dios oye tu plegaria ferviente;",
+      "words": [
+        {
+          "word": "Dios,",
+          "start": 175.54,
+          "end": 175.9
+        },
+        {
+          "word": "tu",
+          "start": 176.9,
+          "end": 177.2
+        },
+        {
+          "word": "plegaria",
+          "start": 177.2,
+          "end": 178.96
+        },
+        {
+          "word": "firmemente.",
+          "start": 178.96,
+          "end": 180.76
+        }
+      ],
+      "start": 175.54,
+      "end": 180.76,
+      "confidence": 0.756,
+      "time": 175.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Dios ve tu angustia y te calma;",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 180.76,
+          "end": 180.76
+        },
+        {
+          "word": "ve",
+          "start": 180.76,
+          "end": 184.14
+        },
+        {
+          "word": "tu",
+          "start": 184.14,
+          "end": 184.64
+        },
+        {
+          "word": "angustia",
+          "start": 184.64,
+          "end": 186.22
+        },
+        {
+          "word": "y",
+          "start": 186.22,
+          "end": 186.54
+        },
+        {
+          "word": "te",
+          "start": 186.54,
+          "end": 186.82
+        },
+        {
+          "word": "calma,",
+          "start": 186.82,
+          "end": 190.06
+        }
+      ],
+      "start": 180.76,
+      "end": 190.56,
+      "confidence": 1.0,
+      "time": 180.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Dios sabe, Dios oye, Dios ve.",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 190.56,
+          "end": 190.78
+        },
+        {
+          "word": "sabe,",
+          "start": 190.78,
+          "end": 192.2
+        },
+        {
+          "word": "Dios",
+          "start": 192.56,
+          "end": 193.04
+        },
+        {
+          "word": "oye,",
+          "start": 193.04,
+          "end": 194.18
+        },
+        {
+          "word": "Dios",
+          "start": 194.2,
+          "end": 195.06
+        },
+        {
+          "word": "ve.",
+          "start": 195.06,
+          "end": 196.5
+        }
+      ],
+      "start": 190.56,
+      "end": 196.5,
+      "confidence": 1.0,
+      "time": 190.56
+    }
+  ]
+}

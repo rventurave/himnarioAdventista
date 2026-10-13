@@ -1,0 +1,798 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.965,
+  "language": "es",
+  "model": "medium",
+  "hymn": 572,
+  "source": "572 - Pescadores de hombres.mp3",
+  "duration": 153.21,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Pescadores de hombres seréis,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "PESCADORES",
+          "start": 24.32,
+          "end": 25.72
+        }
+      ],
+      "start": 24.32,
+      "end": 25.72,
+      "confidence": 0.25,
+      "time": 24.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de hombres seréis,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "DE",
+          "start": 25.72,
+          "end": 25.88
+        },
+        {
+          "word": "HOMBRE",
+          "start": 25.88,
+          "end": 26.7
+        },
+        {
+          "word": "SERÉS",
+          "start": 26.7,
+          "end": 29.98
+        }
+      ],
+      "start": 25.72,
+      "end": 29.98,
+      "confidence": 0.962,
+      "time": 25.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de hombres seréis;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 29.98,
+          "end": 29.98
+        },
+        {
+          "word": "hombre",
+          "start": 29.98,
+          "end": 31.64
+        },
+        {
+          "word": "seréis,",
+          "start": 31.64,
+          "end": 33.2
+        }
+      ],
+      "start": 29.98,
+      "end": 33.36,
+      "confidence": 0.98,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pescadores de hombres seréis",
+      "verse": 1,
+      "words": [
+        {
+          "word": "pescadores",
+          "start": 33.36,
+          "end": 35.64
+        },
+        {
+          "word": "de",
+          "start": 35.64,
+          "end": 35.9
+        },
+        {
+          "word": "hombre",
+          "start": 35.9,
+          "end": 36.66
+        },
+        {
+          "word": "seréis,",
+          "start": 36.66,
+          "end": 37.64
+        }
+      ],
+      "start": 33.36,
+      "end": 37.86,
+      "confidence": 0.985,
+      "time": 33.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al seguirme a mí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 37.86,
+          "end": 38.08
+        },
+        {
+          "word": "seguirme",
+          "start": 38.08,
+          "end": 40.32
+        },
+        {
+          "word": "a",
+          "start": 40.32,
+          "end": 41.0
+        },
+        {
+          "word": "mí.",
+          "start": 41.0,
+          "end": 42.22
+        }
+      ],
+      "start": 37.86,
+      "end": 42.22,
+      "confidence": 1.0,
+      "time": 37.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Al seguirme a mí, al seguirme a mí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Al",
+          "start": 42.5,
+          "end": 42.98
+        },
+        {
+          "word": "seguirme",
+          "start": 42.98,
+          "end": 45.32
+        },
+        {
+          "word": "a",
+          "start": 45.32,
+          "end": 45.98
+        },
+        {
+          "word": "mí,",
+          "start": 45.98,
+          "end": 47.16
+        },
+        {
+          "word": "al",
+          "start": 47.64,
+          "end": 48.02
+        },
+        {
+          "word": "seguirme",
+          "start": 48.02,
+          "end": 50.4
+        },
+        {
+          "word": "a",
+          "start": 50.4,
+          "end": 51.06
+        },
+        {
+          "word": "mí.",
+          "start": 51.06,
+          "end": 52.82
+        }
+      ],
+      "start": 42.5,
+      "end": 52.82,
+      "confidence": 1.0,
+      "time": 42.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Pescadores de hombres seréis,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "pescadores",
+          "start": 54.3,
+          "end": 55.7
+        },
+        {
+          "word": "de",
+          "start": 55.7,
+          "end": 56.04
+        },
+        {
+          "word": "hombre,",
+          "start": 56.04,
+          "end": 56.66
+        },
+        {
+          "word": "seréis",
+          "start": 56.9,
+          "end": 57.64
+        }
+      ],
+      "start": 54.3,
+      "end": 57.64,
+      "confidence": 0.985,
+      "time": 54.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "al seguirme a mí.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 57.64,
+          "end": 58.14
+        },
+        {
+          "word": "seguirme",
+          "start": 58.14,
+          "end": 60.78
+        },
+        {
+          "word": "a",
+          "start": 60.78,
+          "end": 61.14
+        },
+        {
+          "word": "mí.",
+          "start": 61.14,
+          "end": 62.82
+        }
+      ],
+      "start": 57.64,
+      "end": 62.82,
+      "confidence": 1.0,
+      "time": 57.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Cristo llama: \"Venid a mí,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 65.82,
+          "end": 67.02
+        },
+        {
+          "word": "llama,",
+          "start": 67.02,
+          "end": 67.9
+        },
+        {
+          "word": "venid",
+          "start": 68.42,
+          "end": 69.36
+        },
+        {
+          "word": "a",
+          "start": 69.36,
+          "end": 69.62
+        },
+        {
+          "word": "mí,",
+          "start": 69.62,
+          "end": 70.58
+        }
+      ],
+      "start": 65.82,
+      "end": 70.82,
+      "confidence": 1.0,
+      "time": 65.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "venid a mí, venid a mí\".",
+      "verse": 2,
+      "words": [
+        {
+          "word": "venid",
+          "start": 70.82,
+          "end": 71.94
+        },
+        {
+          "word": "a",
+          "start": 71.94,
+          "end": 72.08
+        },
+        {
+          "word": "mí,",
+          "start": 72.08,
+          "end": 73.06
+        },
+        {
+          "word": "venid",
+          "start": 73.2,
+          "end": 74.44
+        },
+        {
+          "word": "a",
+          "start": 74.44,
+          "end": 74.66
+        },
+        {
+          "word": "mí.",
+          "start": 74.66,
+          "end": 75.36
+        }
+      ],
+      "start": 70.82,
+      "end": 75.36,
+      "confidence": 1.0,
+      "time": 70.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Cristo llama: \"Venid a mí,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 75.36,
+          "end": 76.98
+        },
+        {
+          "word": "llama",
+          "start": 76.98,
+          "end": 77.9
+        },
+        {
+          "word": "venida",
+          "start": 77.9,
+          "end": 79.44
+        },
+        {
+          "word": "a",
+          "start": 79.44,
+          "end": 79.72
+        },
+        {
+          "word": "mí,",
+          "start": 79.72,
+          "end": 79.9
+        }
+      ],
+      "start": 75.36,
+      "end": 80.34,
+      "confidence": 0.988,
+      "time": 75.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y descansaréis\".",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 80.34,
+          "end": 80.7
+        },
+        {
+          "word": "descansarés,",
+          "start": 80.7,
+          "end": 84.78
+        }
+      ],
+      "start": 80.34,
+      "end": 85.06,
+      "confidence": 0.987,
+      "time": 80.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "\"Y descansaréis,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 85.06,
+          "end": 85.72
+        },
+        {
+          "word": "descansarés,",
+          "start": 85.72,
+          "end": 89.82
+        }
+      ],
+      "start": 85.06,
+      "end": 90.1,
+      "confidence": 0.987,
+      "time": 85.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y descansaréis\".",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 90.1,
+          "end": 90.7
+        },
+        {
+          "word": "descansarés.",
+          "start": 90.7,
+          "end": 95.46
+        }
+      ],
+      "start": 90.1,
+      "end": 95.46,
+      "confidence": 0.987,
+      "time": 90.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Cristo llama: \"Venid a mí,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 95.46,
+          "end": 96.7
+        },
+        {
+          "word": "llama,",
+          "start": 96.7,
+          "end": 97.98
+        },
+        {
+          "word": "venid",
+          "start": 98.28,
+          "end": 99.38
+        },
+        {
+          "word": "a",
+          "start": 99.38,
+          "end": 99.72
+        },
+        {
+          "word": "mí,",
+          "start": 99.72,
+          "end": 100.08
+        }
+      ],
+      "start": 95.46,
+      "end": 100.36,
+      "confidence": 1.0,
+      "time": 95.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y descansaréis\".",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 100.36,
+          "end": 100.62
+        },
+        {
+          "word": "descansarés.",
+          "start": 100.62,
+          "end": 105.76
+        }
+      ],
+      "start": 100.36,
+      "end": 105.76,
+      "confidence": 0.987,
+      "time": 100.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristo dice: \"Yo soy la Luz,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 108.42,
+          "end": 109.48
+        },
+        {
+          "word": "dice,",
+          "start": 109.48,
+          "end": 110.52
+        },
+        {
+          "word": "yo",
+          "start": 110.86,
+          "end": 111.04
+        },
+        {
+          "word": "soy",
+          "start": 111.04,
+          "end": 111.7
+        },
+        {
+          "word": "la",
+          "start": 111.7,
+          "end": 112.22
+        },
+        {
+          "word": "luz,",
+          "start": 112.22,
+          "end": 113.18
+        }
+      ],
+      "start": 108.42,
+      "end": 113.26,
+      "confidence": 1.0,
+      "time": 108.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Yo soy la Luz, Yo soy la Luz\".",
+      "verse": 3,
+      "words": [
+        {
+          "word": "yo",
+          "start": 113.26,
+          "end": 113.46
+        },
+        {
+          "word": "soy",
+          "start": 113.46,
+          "end": 114.24
+        },
+        {
+          "word": "la",
+          "start": 114.24,
+          "end": 114.72
+        },
+        {
+          "word": "luz,",
+          "start": 114.72,
+          "end": 115.68
+        },
+        {
+          "word": "yo",
+          "start": 115.76,
+          "end": 116.02
+        },
+        {
+          "word": "soy",
+          "start": 116.02,
+          "end": 116.7
+        },
+        {
+          "word": "la",
+          "start": 116.7,
+          "end": 117.24
+        },
+        {
+          "word": "luz.",
+          "start": 117.24,
+          "end": 117.84
+        }
+      ],
+      "start": 113.26,
+      "end": 117.84,
+      "confidence": 1.0,
+      "time": 113.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristo dice: \"Yo soy la Luz,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 117.84,
+          "end": 119.36
+        },
+        {
+          "word": "dice,",
+          "start": 119.36,
+          "end": 120.52
+        },
+        {
+          "word": "yo",
+          "start": 120.82,
+          "end": 120.96
+        },
+        {
+          "word": "soy",
+          "start": 120.96,
+          "end": 121.68
+        },
+        {
+          "word": "la",
+          "start": 121.68,
+          "end": 122.12
+        },
+        {
+          "word": "luz,",
+          "start": 122.12,
+          "end": 122.6
+        }
+      ],
+      "start": 117.84,
+      "end": 122.92,
+      "confidence": 1.0,
+      "time": 117.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a la Luz venid\".",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 122.92,
+          "end": 123.08
+        },
+        {
+          "word": "la",
+          "start": 123.08,
+          "end": 123.44
+        },
+        {
+          "word": "luz",
+          "start": 123.44,
+          "end": 124.42
+        },
+        {
+          "word": "vení,",
+          "start": 124.42,
+          "end": 127.42
+        }
+      ],
+      "start": 122.92,
+      "end": 127.46,
+      "confidence": 0.985,
+      "time": 122.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "\"A la Luz venid, a la Luz venid\".",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 127.46,
+          "end": 128.1
+        },
+        {
+          "word": "la",
+          "start": 128.1,
+          "end": 128.62
+        },
+        {
+          "word": "luz",
+          "start": 128.62,
+          "end": 129.54
+        },
+        {
+          "word": "vení,",
+          "start": 129.54,
+          "end": 132.5
+        },
+        {
+          "word": "a",
+          "start": 132.52,
+          "end": 133.08
+        },
+        {
+          "word": "la",
+          "start": 133.08,
+          "end": 133.54
+        },
+        {
+          "word": "luz",
+          "start": 133.54,
+          "end": 134.6
+        },
+        {
+          "word": "vení.",
+          "start": 134.6,
+          "end": 138.02
+        }
+      ],
+      "start": 127.46,
+      "end": 138.02,
+      "confidence": 0.985,
+      "time": 127.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristo dice: \"Yo soy la Luz,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 138.02,
+          "end": 139.38
+        },
+        {
+          "word": "dice,",
+          "start": 139.38,
+          "end": 140.6
+        },
+        {
+          "word": "yo",
+          "start": 140.94,
+          "end": 141.08
+        },
+        {
+          "word": "soy",
+          "start": 141.08,
+          "end": 141.76
+        },
+        {
+          "word": "la",
+          "start": 141.76,
+          "end": 142.2
+        },
+        {
+          "word": "luz,",
+          "start": 142.2,
+          "end": 142.64
+        }
+      ],
+      "start": 138.02,
+      "end": 143.1,
+      "confidence": 1.0,
+      "time": 138.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a la Luz venid\".",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 143.1,
+          "end": 143.26
+        },
+        {
+          "word": "la",
+          "start": 143.26,
+          "end": 143.66
+        },
+        {
+          "word": "luz",
+          "start": 143.66,
+          "end": 144.82
+        },
+        {
+          "word": "vení.",
+          "start": 144.82,
+          "end": 149.94
+        }
+      ],
+      "start": 143.1,
+      "end": 149.94,
+      "confidence": 0.985,
+      "time": 143.1
+    }
+  ]
+}

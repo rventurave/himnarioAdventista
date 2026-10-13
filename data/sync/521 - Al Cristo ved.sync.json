@@ -1,0 +1,803 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.905,
+  "language": "es",
+  "model": "medium",
+  "hymn": 521,
+  "source": "521 - Al Cristo ved.mp3",
+  "duration": 184.19,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Al Cristo ved, de Dios el Hijo eterno;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 20.88,
+          "end": 21.68
+        },
+        {
+          "word": "Cristo",
+          "start": 21.68,
+          "end": 22.36
+        },
+        {
+          "word": "eterno,",
+          "start": 26.62,
+          "end": 28.54
+        }
+      ],
+      "start": 20.88,
+      "end": 28.54,
+      "confidence": 0.375,
+      "time": 20.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ved al Señor, el grande Creador;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Ven",
+          "start": 28.54,
+          "end": 29.96
+        },
+        {
+          "word": "al",
+          "start": 29.96,
+          "end": 30.4
+        },
+        {
+          "word": "Señor,",
+          "start": 30.4,
+          "end": 32.46
+        },
+        {
+          "word": "el",
+          "start": 32.94,
+          "end": 33.04
+        },
+        {
+          "word": "Grande",
+          "start": 33.04,
+          "end": 34.1
+        },
+        {
+          "word": "Creador,",
+          "start": 34.1,
+          "end": 37.04
+        }
+      ],
+      "start": 28.54,
+      "end": 38.12,
+      "confidence": 0.967,
+      "time": 28.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "todo abandona por vivir cual siervo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "todo",
+          "start": 38.12,
+          "end": 38.72
+        },
+        {
+          "word": "abandona",
+          "start": 38.72,
+          "end": 41.42
+        },
+        {
+          "word": "por",
+          "start": 41.42,
+          "end": 42.26
+        },
+        {
+          "word": "vivir",
+          "start": 42.26,
+          "end": 43.12
+        },
+        {
+          "word": "cual",
+          "start": 43.12,
+          "end": 43.72
+        },
+        {
+          "word": "sermón",
+          "start": 43.72,
+          "end": 45.84
+        }
+      ],
+      "start": 38.12,
+      "end": 45.84,
+      "confidence": 0.967,
+      "time": 38.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "del mal rodeado y presa del dolor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "del",
+          "start": 45.84,
+          "end": 47.12
+        },
+        {
+          "word": "mal",
+          "start": 47.12,
+          "end": 47.54
+        },
+        {
+          "word": "rodeado",
+          "start": 47.54,
+          "end": 48.94
+        },
+        {
+          "word": "y",
+          "start": 48.94,
+          "end": 49.3
+        },
+        {
+          "word": "presa",
+          "start": 49.3,
+          "end": 50.32
+        },
+        {
+          "word": "del",
+          "start": 50.32,
+          "end": 51.4
+        },
+        {
+          "word": "dolor.",
+          "start": 51.4,
+          "end": 54.16
+        }
+      ],
+      "start": 45.84,
+      "end": 54.16,
+      "confidence": 1.0,
+      "time": 45.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Por ti todo esto",
+      "words": [
+        {
+          "word": "Por",
+          "start": 54.16,
+          "end": 55.76
+        },
+        {
+          "word": "ti",
+          "start": 55.76,
+          "end": 56.14
+        },
+        {
+          "word": "todo",
+          "start": 56.14,
+          "end": 57.06
+        },
+        {
+          "word": "esto",
+          "start": 57.06,
+          "end": 58.38
+        }
+      ],
+      "start": 54.16,
+      "end": 58.38,
+      "confidence": 1.0,
+      "time": 54.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "hizo Jesús;",
+      "words": [
+        {
+          "word": "hizo",
+          "start": 58.38,
+          "end": 60.26
+        },
+        {
+          "word": "Jesús,",
+          "start": 60.26,
+          "end": 62.62
+        }
+      ],
+      "start": 58.38,
+      "end": 62.62,
+      "confidence": 1.0,
+      "time": 58.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¿cómo respondes",
+      "words": [
+        {
+          "word": "responde",
+          "start": 65.04,
+          "end": 67.04
+        }
+      ],
+      "start": 65.04,
+      "end": 67.04,
+      "confidence": 0.47,
+      "time": 65.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "a su divino amor?",
+      "words": [
+        {
+          "word": "a",
+          "start": 67.04,
+          "end": 67.54
+        },
+        {
+          "word": "su",
+          "start": 67.54,
+          "end": 68.06
+        },
+        {
+          "word": "divino",
+          "start": 68.06,
+          "end": 69.76
+        },
+        {
+          "word": "amor.",
+          "start": 69.76,
+          "end": 72.46
+        }
+      ],
+      "start": 67.04,
+      "end": 72.46,
+      "confidence": 1.0,
+      "time": 67.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En oración tu alma hoy derrama",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 73.56,
+          "end": 74.9
+        },
+        {
+          "word": "oración",
+          "start": 74.9,
+          "end": 77.16
+        },
+        {
+          "word": "tu",
+          "start": 77.16,
+          "end": 77.84
+        },
+        {
+          "word": "alma",
+          "start": 77.84,
+          "end": 78.74
+        },
+        {
+          "word": "hoy",
+          "start": 78.74,
+          "end": 79.48
+        },
+        {
+          "word": "derrama",
+          "start": 79.48,
+          "end": 81.6
+        }
+      ],
+      "start": 73.56,
+      "end": 81.6,
+      "confidence": 1.0,
+      "time": 73.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ante su trono por el pecador;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Ante",
+          "start": 81.6,
+          "end": 83.8
+        },
+        {
+          "word": "su",
+          "start": 83.8,
+          "end": 84.2
+        },
+        {
+          "word": "trono",
+          "start": 84.2,
+          "end": 86.14
+        },
+        {
+          "word": "por",
+          "start": 86.14,
+          "end": 87.08
+        },
+        {
+          "word": "el",
+          "start": 87.08,
+          "end": 87.56
+        },
+        {
+          "word": "pecador,",
+          "start": 87.56,
+          "end": 90.28
+        }
+      ],
+      "start": 81.6,
+      "end": 91.12,
+      "confidence": 1.0,
+      "time": 81.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "lleva la luz de su Palabra santa",
+      "verse": 2,
+      "words": [
+        {
+          "word": "lleva",
+          "start": 91.12,
+          "end": 92.0
+        },
+        {
+          "word": "la",
+          "start": 92.0,
+          "end": 92.88
+        },
+        {
+          "word": "luz",
+          "start": 92.88,
+          "end": 94.28
+        },
+        {
+          "word": "de",
+          "start": 94.28,
+          "end": 94.92
+        },
+        {
+          "word": "Su",
+          "start": 94.92,
+          "end": 95.46
+        },
+        {
+          "word": "Palabra",
+          "start": 95.46,
+          "end": 97.02
+        },
+        {
+          "word": "Santa",
+          "start": 97.02,
+          "end": 98.44
+        }
+      ],
+      "start": 91.12,
+      "end": 98.44,
+      "confidence": 1.0,
+      "time": 91.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a los que ignoran el divino amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 98.44,
+          "end": 100.2
+        },
+        {
+          "word": "los",
+          "start": 100.2,
+          "end": 100.7
+        },
+        {
+          "word": "que",
+          "start": 100.7,
+          "end": 101.34
+        },
+        {
+          "word": "ignoran",
+          "start": 101.34,
+          "end": 102.52
+        },
+        {
+          "word": "el",
+          "start": 102.52,
+          "end": 103.34
+        },
+        {
+          "word": "divino",
+          "start": 103.34,
+          "end": 105.02
+        },
+        {
+          "word": "amor.",
+          "start": 105.02,
+          "end": 107.44
+        }
+      ],
+      "start": 98.44,
+      "end": 107.44,
+      "confidence": 1.0,
+      "time": 98.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Por ti todo esto",
+      "words": [
+        {
+          "word": "Porque",
+          "start": 107.44,
+          "end": 109.36
+        },
+        {
+          "word": "todo",
+          "start": 109.36,
+          "end": 110.32
+        },
+        {
+          "word": "esto",
+          "start": 110.32,
+          "end": 111.6
+        }
+      ],
+      "start": 107.44,
+      "end": 113.46,
+      "confidence": 0.735,
+      "time": 107.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "hizo Jesús;",
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 113.46,
+          "end": 115.94
+        }
+      ],
+      "start": 113.46,
+      "end": 116.96,
+      "confidence": 0.5,
+      "time": 113.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¿cómo respondes",
+      "words": [
+        {
+          "word": "como",
+          "start": 116.96,
+          "end": 117.9
+        },
+        {
+          "word": "respondes",
+          "start": 117.9,
+          "end": 120.28
+        }
+      ],
+      "start": 116.96,
+      "end": 120.28,
+      "confidence": 1.0,
+      "time": 116.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "a su divino amor?",
+      "words": [
+        {
+          "word": "a",
+          "start": 120.28,
+          "end": 120.68
+        },
+        {
+          "word": "su",
+          "start": 120.68,
+          "end": 121.26
+        },
+        {
+          "word": "divino",
+          "start": 121.26,
+          "end": 122.98
+        },
+        {
+          "word": "amor.",
+          "start": 122.98,
+          "end": 125.76
+        }
+      ],
+      "start": 120.28,
+      "end": 125.76,
+      "confidence": 1.0,
+      "time": 120.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Consagra fiel tus bienes, mayordomo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Consagra",
+          "start": 127.32,
+          "end": 128.72
+        },
+        {
+          "word": "fiel",
+          "start": 128.72,
+          "end": 130.12
+        },
+        {
+          "word": "tus",
+          "start": 130.12,
+          "end": 130.68
+        },
+        {
+          "word": "bienes,",
+          "start": 130.68,
+          "end": 131.84
+        },
+        {
+          "word": "mayor",
+          "start": 132.2,
+          "end": 132.78
+        }
+      ],
+      "start": 127.32,
+      "end": 135.54,
+      "confidence": 0.988,
+      "time": 127.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "que del Señor manejas el caudal,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 135.54,
+          "end": 136.04
+        },
+        {
+          "word": "del",
+          "start": 136.04,
+          "end": 136.56
+        },
+        {
+          "word": "Señor",
+          "start": 136.56,
+          "end": 138.62
+        },
+        {
+          "word": "manejas",
+          "start": 138.62,
+          "end": 140.32
+        },
+        {
+          "word": "el",
+          "start": 140.32,
+          "end": 140.98
+        },
+        {
+          "word": "caudal,",
+          "start": 140.98,
+          "end": 142.76
+        }
+      ],
+      "start": 135.54,
+      "end": 142.76,
+      "confidence": 1.0,
+      "time": 135.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "para que puedan por el mundo todo",
+      "verse": 3,
+      "words": [
+        {
+          "word": "para",
+          "start": 142.76,
+          "end": 144.84
+        },
+        {
+          "word": "que",
+          "start": 144.84,
+          "end": 145.66
+        },
+        {
+          "word": "puedan",
+          "start": 145.66,
+          "end": 147.7
+        },
+        {
+          "word": "por",
+          "start": 147.7,
+          "end": 148.56
+        },
+        {
+          "word": "el",
+          "start": 148.56,
+          "end": 149.1
+        },
+        {
+          "word": "mundo",
+          "start": 149.1,
+          "end": 149.86
+        },
+        {
+          "word": "todo",
+          "start": 149.86,
+          "end": 151.66
+        }
+      ],
+      "start": 142.76,
+      "end": 151.66,
+      "confidence": 1.0,
+      "time": 142.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "salvarse almas del poder del mal.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "salvarse",
+          "start": 153.1,
+          "end": 154.5
+        },
+        {
+          "word": "almas",
+          "start": 154.5,
+          "end": 155.32
+        },
+        {
+          "word": "del",
+          "start": 155.32,
+          "end": 155.88
+        },
+        {
+          "word": "poder",
+          "start": 155.88,
+          "end": 157.5
+        },
+        {
+          "word": "del",
+          "start": 157.5,
+          "end": 158.82
+        },
+        {
+          "word": "mar.",
+          "start": 158.82,
+          "end": 160.6
+        }
+      ],
+      "start": 153.1,
+      "end": 160.6,
+      "confidence": 0.967,
+      "time": 153.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Por ti todo esto",
+      "words": [
+        {
+          "word": "Por",
+          "start": 160.6,
+          "end": 162.04
+        },
+        {
+          "word": "ti",
+          "start": 162.04,
+          "end": 162.7
+        },
+        {
+          "word": "todo",
+          "start": 162.7,
+          "end": 163.26
+        },
+        {
+          "word": "esto",
+          "start": 163.26,
+          "end": 164.68
+        }
+      ],
+      "start": 160.6,
+      "end": 166.48,
+      "confidence": 1.0,
+      "time": 160.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "hizo Jesús;",
+      "words": [
+        {
+          "word": "Jesús.",
+          "start": 166.48,
+          "end": 168.96
+        }
+      ],
+      "start": 166.48,
+      "end": 168.96,
+      "confidence": 0.5,
+      "time": 166.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¿cómo respondes",
+      "words": [
+        {
+          "word": "respondes",
+          "start": 171.48,
+          "end": 173.38
+        }
+      ],
+      "start": 171.48,
+      "end": 173.38,
+      "confidence": 0.5,
+      "time": 171.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "a su divino amor?",
+      "words": [
+        {
+          "word": "a",
+          "start": 173.38,
+          "end": 173.8
+        },
+        {
+          "word": "su",
+          "start": 173.8,
+          "end": 174.58
+        },
+        {
+          "word": "divino",
+          "start": 174.58,
+          "end": 176.4
+        },
+        {
+          "word": "amor.",
+          "start": 176.4,
+          "end": 178.42
+        }
+      ],
+      "start": 173.38,
+      "end": 178.42,
+      "confidence": 1.0,
+      "time": 173.38
+    }
+  ]
+}

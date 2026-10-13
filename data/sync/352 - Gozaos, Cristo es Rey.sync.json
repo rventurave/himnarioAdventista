@@ -1,0 +1,624 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.805,
+  "language": "es",
+  "model": "medium",
+  "hymn": 352,
+  "source": "352 - Gozaos, Cristo es Rey.mp3",
+  "duration": 171.42,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Gozaos, Cristo es Rey, brindadle todo honor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 1.08,
+          "end": 1.08
+        }
+      ],
+      "start": 1.08,
+      "end": 5.56,
+      "confidence": 0.143,
+      "time": 1.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Gozaos y cantad por siempre su loor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "canal",
+          "start": 5.56,
+          "end": 5.56
+        }
+      ],
+      "start": 5.56,
+      "end": 29.98,
+      "confidence": 0.119,
+      "time": 5.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Alzad la voz, os digo que os gocéis",
+      "verse": 1,
+      "words": [
+        {
+          "word": "alzad",
+          "start": 34.58,
+          "end": 35.98
+        },
+        {
+          "word": "la",
+          "start": 35.98,
+          "end": 37.22
+        },
+        {
+          "word": "voz,",
+          "start": 37.22,
+          "end": 38.84
+        },
+        {
+          "word": "os",
+          "start": 39.62,
+          "end": 39.96
+        },
+        {
+          "word": "digo",
+          "start": 39.96,
+          "end": 40.86
+        },
+        {
+          "word": "que",
+          "start": 40.86,
+          "end": 41.6
+        },
+        {
+          "word": "os",
+          "start": 41.6,
+          "end": 42.0
+        },
+        {
+          "word": "séis",
+          "start": 42.54,
+          "end": 43.52
+        }
+      ],
+      "start": 34.58,
+      "end": 43.52,
+      "confidence": 0.97,
+      "time": 34.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de todo corazón.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 43.52,
+          "end": 44.04
+        },
+        {
+          "word": "todo",
+          "start": 44.04,
+          "end": 45.14
+        },
+        {
+          "word": "corazón.",
+          "start": 45.14,
+          "end": 49.84
+        }
+      ],
+      "start": 43.52,
+      "end": 49.84,
+      "confidence": 1.0,
+      "time": 43.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Jesús, el Salvador, ya reina con amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 49.84,
+          "end": 52.14
+        },
+        {
+          "word": "el",
+          "start": 52.8,
+          "end": 53.16
+        },
+        {
+          "word": "salvador,",
+          "start": 53.16,
+          "end": 56.0
+        },
+        {
+          "word": "reina",
+          "start": 57.24,
+          "end": 58.22
+        },
+        {
+          "word": "con",
+          "start": 58.22,
+          "end": 59.22
+        },
+        {
+          "word": "amor,",
+          "start": 59.22,
+          "end": 61.34
+        }
+      ],
+      "start": 49.84,
+      "end": 61.34,
+      "confidence": 0.857,
+      "time": 49.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Lavó las manchas ascendió con gran honor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "lavó",
+          "start": 61.96,
+          "end": 62.96
+        },
+        {
+          "word": "las",
+          "start": 62.96,
+          "end": 63.88
+        },
+        {
+          "word": "manchas",
+          "start": 63.88,
+          "end": 65.16
+        },
+        {
+          "word": "con",
+          "start": 66.94,
+          "end": 68.04
+        }
+      ],
+      "start": 61.96,
+      "end": 72.08,
+      "confidence": 0.571,
+      "time": 61.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Alzad la voz, os digo que os gocéis",
+      "verse": 2,
+      "words": [
+        {
+          "word": "alzad",
+          "start": 73.74,
+          "end": 75.14
+        },
+        {
+          "word": "la",
+          "start": 75.14,
+          "end": 76.16
+        },
+        {
+          "word": "voz,",
+          "start": 76.16,
+          "end": 77.9
+        },
+        {
+          "word": "os",
+          "start": 78.46,
+          "end": 78.9
+        },
+        {
+          "word": "digo",
+          "start": 78.9,
+          "end": 79.66
+        },
+        {
+          "word": "que",
+          "start": 79.66,
+          "end": 80.48
+        },
+        {
+          "word": "os",
+          "start": 80.48,
+          "end": 81.0
+        },
+        {
+          "word": "doces",
+          "start": 81.0,
+          "end": 81.96
+        }
+      ],
+      "start": 73.74,
+      "end": 81.96,
+      "confidence": 0.98,
+      "time": 73.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "de todo corazón.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 81.96,
+          "end": 83.12
+        },
+        {
+          "word": "todo",
+          "start": 83.12,
+          "end": 84.0
+        },
+        {
+          "word": "corazón.",
+          "start": 84.0,
+          "end": 88.42
+        }
+      ],
+      "start": 81.96,
+      "end": 88.42,
+      "confidence": 1.0,
+      "time": 81.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Su reino es eternal y nunca fallará;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Su",
+          "start": 89.6,
+          "end": 90.48
+        },
+        {
+          "word": "reino",
+          "start": 90.48,
+          "end": 91.4
+        },
+        {
+          "word": "es",
+          "start": 91.4,
+          "end": 92.36
+        },
+        {
+          "word": "eternal",
+          "start": 92.36,
+          "end": 94.86
+        },
+        {
+          "word": "y",
+          "start": 94.86,
+          "end": 95.92
+        },
+        {
+          "word": "nunca",
+          "start": 95.92,
+          "end": 97.06
+        },
+        {
+          "word": "fallará,",
+          "start": 97.06,
+          "end": 100.04
+        }
+      ],
+      "start": 89.6,
+      "end": 100.04,
+      "confidence": 1.0,
+      "time": 89.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "la llave de la muerte en su mano está.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 100.04,
+          "end": 101.24
+        },
+        {
+          "word": "llave",
+          "start": 101.24,
+          "end": 102.54
+        },
+        {
+          "word": "de",
+          "start": 102.54,
+          "end": 103.48
+        },
+        {
+          "word": "la",
+          "start": 103.48,
+          "end": 104.06
+        },
+        {
+          "word": "muerte",
+          "start": 104.06,
+          "end": 105.26
+        },
+        {
+          "word": "en",
+          "start": 105.26,
+          "end": 106.14
+        },
+        {
+          "word": "su",
+          "start": 106.14,
+          "end": 106.72
+        },
+        {
+          "word": "mano",
+          "start": 106.72,
+          "end": 108.6
+        },
+        {
+          "word": "está.",
+          "start": 108.6,
+          "end": 110.96
+        }
+      ],
+      "start": 100.04,
+      "end": 110.96,
+      "confidence": 1.0,
+      "time": 100.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Alzad la voz, os digo que os gocéis",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Alzad",
+          "start": 112.52,
+          "end": 113.92
+        },
+        {
+          "word": "la",
+          "start": 113.92,
+          "end": 114.96
+        },
+        {
+          "word": "voz,",
+          "start": 114.96,
+          "end": 116.64
+        },
+        {
+          "word": "os",
+          "start": 117.16,
+          "end": 117.72
+        },
+        {
+          "word": "digo",
+          "start": 117.72,
+          "end": 118.58
+        },
+        {
+          "word": "que",
+          "start": 118.58,
+          "end": 119.26
+        },
+        {
+          "word": "os",
+          "start": 119.26,
+          "end": 119.88
+        },
+        {
+          "word": "goces",
+          "start": 119.88,
+          "end": 120.88
+        }
+      ],
+      "start": 112.52,
+      "end": 120.88,
+      "confidence": 0.993,
+      "time": 112.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de todo corazón.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 120.88,
+          "end": 121.84
+        },
+        {
+          "word": "todo",
+          "start": 121.84,
+          "end": 122.88
+        },
+        {
+          "word": "corazón.",
+          "start": 122.88,
+          "end": 127.0
+        }
+      ],
+      "start": 120.88,
+      "end": 127.0,
+      "confidence": 1.0,
+      "time": 120.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Gozaos y esperad, muy pronto el Juez vendrá;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "aos",
+          "start": 129.32,
+          "end": 130.58
+        },
+        {
+          "word": "esperan",
+          "start": 131.32,
+          "end": 133.92
+        },
+        {
+          "word": "muy",
+          "start": 133.92,
+          "end": 134.66
+        },
+        {
+          "word": "pronto",
+          "start": 134.66,
+          "end": 135.54
+        },
+        {
+          "word": "el",
+          "start": 135.54,
+          "end": 136.18
+        },
+        {
+          "word": "juez",
+          "start": 136.18,
+          "end": 136.74
+        },
+        {
+          "word": "vendrá",
+          "start": 136.74,
+          "end": 139.12
+        }
+      ],
+      "start": 129.32,
+      "end": 139.12,
+      "confidence": 0.839,
+      "time": 129.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "a su hogar eterno él os llevará.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "a",
+          "start": 139.12,
+          "end": 140.26
+        },
+        {
+          "word": "su",
+          "start": 140.26,
+          "end": 140.9
+        },
+        {
+          "word": "hogar",
+          "start": 140.9,
+          "end": 142.5
+        },
+        {
+          "word": "eterno",
+          "start": 142.5,
+          "end": 144.36
+        },
+        {
+          "word": "dos",
+          "start": 144.9,
+          "end": 145.6
+        }
+      ],
+      "start": 139.12,
+      "end": 150.18,
+      "confidence": 0.697,
+      "time": 139.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Alzad la voz, os digo que os gocéis",
+      "verse": 4,
+      "words": [
+        {
+          "word": "alzad",
+          "start": 150.18,
+          "end": 152.96
+        },
+        {
+          "word": "la",
+          "start": 152.96,
+          "end": 153.92
+        },
+        {
+          "word": "voz,",
+          "start": 153.92,
+          "end": 155.56
+        },
+        {
+          "word": "os",
+          "start": 156.28,
+          "end": 156.68
+        },
+        {
+          "word": "digo",
+          "start": 156.68,
+          "end": 157.46
+        },
+        {
+          "word": "que",
+          "start": 157.46,
+          "end": 158.28
+        },
+        {
+          "word": "os",
+          "start": 158.28,
+          "end": 158.76
+        },
+        {
+          "word": "goces",
+          "start": 158.76,
+          "end": 159.82
+        }
+      ],
+      "start": 150.18,
+      "end": 159.82,
+      "confidence": 0.993,
+      "time": 150.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "de todo corazón.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "de",
+          "start": 159.82,
+          "end": 160.78
+        },
+        {
+          "word": "todo",
+          "start": 160.78,
+          "end": 161.8
+        },
+        {
+          "word": "corazón.",
+          "start": 161.8,
+          "end": 165.5
+        }
+      ],
+      "start": 159.82,
+      "end": 165.5,
+      "confidence": 1.0,
+      "time": 159.82
+    }
+  ]
+}

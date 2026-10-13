@@ -1,0 +1,934 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.946,
+  "language": "es",
+  "model": "medium",
+  "hymn": 571,
+  "source": "571 - La historia de Cristo contemos.mp3",
+  "duration": 148.04,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "La historia de Cristo contemos,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "La",
+          "start": 10.04,
+          "end": 11.36
+        },
+        {
+          "word": "historia",
+          "start": 11.36,
+          "end": 12.42
+        },
+        {
+          "word": "de",
+          "start": 12.42,
+          "end": 12.9
+        },
+        {
+          "word": "Cristo",
+          "start": 12.9,
+          "end": 13.76
+        },
+        {
+          "word": "contemos,",
+          "start": 13.76,
+          "end": 15.58
+        }
+      ],
+      "start": 10.04,
+      "end": 16.14,
+      "confidence": 1.0,
+      "time": 10.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que dará al mundo la luz;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 16.14,
+          "end": 16.32
+        },
+        {
+          "word": "dará",
+          "start": 16.32,
+          "end": 17.3
+        },
+        {
+          "word": "al",
+          "start": 17.3,
+          "end": 17.62
+        },
+        {
+          "word": "mundo",
+          "start": 17.62,
+          "end": 18.42
+        },
+        {
+          "word": "la",
+          "start": 18.42,
+          "end": 18.98
+        },
+        {
+          "word": "luz,",
+          "start": 18.98,
+          "end": 20.2
+        }
+      ],
+      "start": 16.14,
+      "end": 20.86,
+      "confidence": 1.0,
+      "time": 16.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "la paz y el perdón anunciemos,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 20.86,
+          "end": 21.3
+        },
+        {
+          "word": "paz",
+          "start": 21.3,
+          "end": 21.84
+        },
+        {
+          "word": "y",
+          "start": 21.84,
+          "end": 22.12
+        },
+        {
+          "word": "el",
+          "start": 22.12,
+          "end": 22.34
+        },
+        {
+          "word": "perdón",
+          "start": 22.34,
+          "end": 23.18
+        },
+        {
+          "word": "anunciemos,",
+          "start": 23.18,
+          "end": 25.28
+        }
+      ],
+      "start": 20.86,
+      "end": 25.9,
+      "confidence": 1.0,
+      "time": 20.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "comprados en cruenta cruz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "contados",
+          "start": 25.9,
+          "end": 26.9
+        },
+        {
+          "word": "en",
+          "start": 26.9,
+          "end": 27.32
+        },
+        {
+          "word": "cuenta",
+          "start": 27.32,
+          "end": 28.32
+        },
+        {
+          "word": "cruz.",
+          "start": 28.32,
+          "end": 29.94
+        }
+      ],
+      "start": 25.9,
+      "end": 29.94,
+      "confidence": 0.944,
+      "time": 25.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "comprados en cruenta cruz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Compramos",
+          "start": 29.94,
+          "end": 31.78
+        },
+        {
+          "word": "en",
+          "start": 31.78,
+          "end": 32.18
+        },
+        {
+          "word": "cuenta",
+          "start": 32.18,
+          "end": 33.14
+        },
+        {
+          "word": "cruz,",
+          "start": 33.14,
+          "end": 34.94
+        }
+      ],
+      "start": 29.94,
+      "end": 34.94,
+      "confidence": 0.972,
+      "time": 29.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Rescatonos de las tinieblas,",
+      "words": [
+        {
+          "word": "rescatonos",
+          "start": 35.46,
+          "end": 36.52
+        },
+        {
+          "word": "de",
+          "start": 36.52,
+          "end": 36.9
+        },
+        {
+          "word": "las",
+          "start": 36.9,
+          "end": 37.72
+        }
+      ],
+      "start": 35.46,
+      "end": 39.54,
+      "confidence": 0.75,
+      "time": 35.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "disipó nuestra oscuridad;",
+      "words": [
+        {
+          "word": "nuestra",
+          "start": 41.0,
+          "end": 41.46
+        },
+        {
+          "word": "oscuridad,",
+          "start": 41.46,
+          "end": 44.38
+        }
+      ],
+      "start": 41.0,
+      "end": 44.38,
+      "confidence": 0.667,
+      "time": 41.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "él nos salvó, nuestra paz compró,",
+      "words": [
+        {
+          "word": "Él",
+          "start": 45.12,
+          "end": 45.38
+        },
+        {
+          "word": "nos",
+          "start": 45.38,
+          "end": 45.9
+        },
+        {
+          "word": "salvó",
+          "start": 45.9,
+          "end": 46.98
+        },
+        {
+          "word": "nuestra",
+          "start": 46.98,
+          "end": 47.54
+        },
+        {
+          "word": "paz,",
+          "start": 47.54,
+          "end": 48.2
+        }
+      ],
+      "start": 45.12,
+      "end": 48.2,
+      "confidence": 0.833,
+      "time": 45.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "nos dio luz y libertad.",
+      "words": [
+        {
+          "word": "nos",
+          "start": 49.48,
+          "end": 50.16
+        },
+        {
+          "word": "dio",
+          "start": 50.16,
+          "end": 50.58
+        },
+        {
+          "word": "luz",
+          "start": 50.58,
+          "end": 51.0
+        },
+        {
+          "word": "y",
+          "start": 51.0,
+          "end": 51.68
+        },
+        {
+          "word": "libertad.",
+          "start": 51.68,
+          "end": 54.84
+        }
+      ],
+      "start": 49.48,
+      "end": 54.84,
+      "confidence": 1.0,
+      "time": 49.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "La historia de Cristo daremos",
+      "verse": 2,
+      "words": [
+        {
+          "word": "La",
+          "start": 54.84,
+          "end": 55.82
+        },
+        {
+          "word": "historia",
+          "start": 55.82,
+          "end": 56.86
+        },
+        {
+          "word": "de",
+          "start": 56.86,
+          "end": 57.3
+        },
+        {
+          "word": "Cristo",
+          "start": 57.3,
+          "end": 58.02
+        },
+        {
+          "word": "daremos,",
+          "start": 58.02,
+          "end": 60.06
+        }
+      ],
+      "start": 54.84,
+      "end": 60.4,
+      "confidence": 1.0,
+      "time": 54.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al mortal que ignora su amor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 60.4,
+          "end": 60.6
+        },
+        {
+          "word": "mortal",
+          "start": 60.6,
+          "end": 61.32
+        },
+        {
+          "word": "que",
+          "start": 61.32,
+          "end": 61.98
+        },
+        {
+          "word": "ignora",
+          "start": 61.98,
+          "end": 62.8
+        },
+        {
+          "word": "su",
+          "start": 62.8,
+          "end": 63.22
+        },
+        {
+          "word": "amor.",
+          "start": 63.22,
+          "end": 64.62
+        }
+      ],
+      "start": 60.4,
+      "end": 64.62,
+      "confidence": 1.0,
+      "time": 60.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "nos dio Dios al Hijo, diremos,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Nos",
+          "start": 65.26,
+          "end": 65.58
+        },
+        {
+          "word": "dió",
+          "start": 65.58,
+          "end": 66.12
+        },
+        {
+          "word": "Dios",
+          "start": 66.12,
+          "end": 66.6
+        },
+        {
+          "word": "al",
+          "start": 66.6,
+          "end": 67.12
+        },
+        {
+          "word": "hijo,",
+          "start": 67.12,
+          "end": 67.7
+        },
+        {
+          "word": "diremos,",
+          "start": 68.12,
+          "end": 69.66
+        }
+      ],
+      "start": 65.26,
+      "end": 70.44,
+      "confidence": 1.0,
+      "time": 65.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hallamos en él favor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "hallamos",
+          "start": 70.44,
+          "end": 71.36
+        },
+        {
+          "word": "en",
+          "start": 71.36,
+          "end": 72.02
+        },
+        {
+          "word": "el",
+          "start": 72.02,
+          "end": 72.56
+        },
+        {
+          "word": "favor,",
+          "start": 72.56,
+          "end": 74.26
+        }
+      ],
+      "start": 70.44,
+      "end": 74.96,
+      "confidence": 1.0,
+      "time": 70.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hallamos en él favor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "hallamos",
+          "start": 74.96,
+          "end": 76.18
+        },
+        {
+          "word": "en",
+          "start": 76.18,
+          "end": 76.7
+        },
+        {
+          "word": "el",
+          "start": 76.7,
+          "end": 77.14
+        },
+        {
+          "word": "favor.",
+          "start": 77.14,
+          "end": 78.94
+        }
+      ],
+      "start": 74.96,
+      "end": 78.94,
+      "confidence": 1.0,
+      "time": 74.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Rescatonos de las tinieblas,",
+      "words": [
+        {
+          "word": "rescatónos",
+          "start": 78.94,
+          "end": 80.98
+        },
+        {
+          "word": "de",
+          "start": 80.98,
+          "end": 81.32
+        },
+        {
+          "word": "las",
+          "start": 81.32,
+          "end": 82.04
+        },
+        {
+          "word": "minieras",
+          "start": 82.04,
+          "end": 84.12
+        }
+      ],
+      "start": 78.94,
+      "end": 85.52,
+      "confidence": 0.956,
+      "time": 78.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "disipó nuestra oscuridad;",
+      "words": [
+        {
+          "word": "nuestra",
+          "start": 85.52,
+          "end": 85.92
+        },
+        {
+          "word": "oscuridad",
+          "start": 85.92,
+          "end": 88.72
+        }
+      ],
+      "start": 85.52,
+      "end": 88.72,
+      "confidence": 0.667,
+      "time": 85.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "él nos salvó, nuestra paz compró,",
+      "words": [
+        {
+          "word": "Él",
+          "start": 88.72,
+          "end": 89.8
+        },
+        {
+          "word": "nos",
+          "start": 89.8,
+          "end": 90.4
+        },
+        {
+          "word": "salvó,",
+          "start": 90.4,
+          "end": 91.4
+        },
+        {
+          "word": "nuestra",
+          "start": 91.7,
+          "end": 91.92
+        },
+        {
+          "word": "paz",
+          "start": 91.92,
+          "end": 92.62
+        },
+        {
+          "word": "compró,",
+          "start": 92.62,
+          "end": 93.6
+        }
+      ],
+      "start": 88.72,
+      "end": 94.38,
+      "confidence": 1.0,
+      "time": 88.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "nos dio luz y libertad.",
+      "words": [
+        {
+          "word": "nos",
+          "start": 94.38,
+          "end": 94.38
+        },
+        {
+          "word": "dio",
+          "start": 94.38,
+          "end": 94.96
+        },
+        {
+          "word": "luz",
+          "start": 94.96,
+          "end": 95.4
+        },
+        {
+          "word": "y",
+          "start": 95.4,
+          "end": 96.02
+        },
+        {
+          "word": "libertad.",
+          "start": 96.02,
+          "end": 99.3
+        }
+      ],
+      "start": 94.38,
+      "end": 99.3,
+      "confidence": 1.0,
+      "time": 94.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "A Jesús todos confesaremos,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "A",
+          "start": 99.3,
+          "end": 100.18
+        },
+        {
+          "word": "Jesús",
+          "start": 100.18,
+          "end": 100.92
+        },
+        {
+          "word": "todos",
+          "start": 100.92,
+          "end": 101.88
+        },
+        {
+          "word": "confesarénos",
+          "start": 101.88,
+          "end": 104.52
+        }
+      ],
+      "start": 99.3,
+      "end": 104.52,
+      "confidence": 0.987,
+      "time": 99.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "con sincero y fiel corazón;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 104.52,
+          "end": 104.94
+        },
+        {
+          "word": "sincero",
+          "start": 104.94,
+          "end": 106.24
+        },
+        {
+          "word": "y",
+          "start": 106.24,
+          "end": 106.4
+        },
+        {
+          "word": "fiel",
+          "start": 106.4,
+          "end": 106.94
+        },
+        {
+          "word": "corazón,",
+          "start": 106.94,
+          "end": 108.96
+        }
+      ],
+      "start": 104.52,
+      "end": 108.96,
+      "confidence": 1.0,
+      "time": 104.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "sus méritos invocaremos,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "sus",
+          "start": 109.64,
+          "end": 109.94
+        },
+        {
+          "word": "méritos",
+          "start": 109.94,
+          "end": 111.16
+        },
+        {
+          "word": "invocaremos",
+          "start": 111.16,
+          "end": 113.84
+        }
+      ],
+      "start": 109.64,
+      "end": 113.84,
+      "confidence": 1.0,
+      "time": 109.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y Dios nos dará el perdón,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 113.84,
+          "end": 114.76
+        },
+        {
+          "word": "Dios",
+          "start": 114.76,
+          "end": 115.34
+        },
+        {
+          "word": "nos",
+          "start": 115.34,
+          "end": 115.9
+        },
+        {
+          "word": "dará",
+          "start": 115.9,
+          "end": 116.5
+        },
+        {
+          "word": "el",
+          "start": 116.5,
+          "end": 117.28
+        },
+        {
+          "word": "perdón,",
+          "start": 117.28,
+          "end": 118.76
+        }
+      ],
+      "start": 113.84,
+      "end": 118.76,
+      "confidence": 1.0,
+      "time": 113.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y Dios nos dará el perdón.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 118.94,
+          "end": 119.6
+        },
+        {
+          "word": "Dios",
+          "start": 119.6,
+          "end": 120.16
+        },
+        {
+          "word": "nos",
+          "start": 120.16,
+          "end": 120.52
+        },
+        {
+          "word": "dará",
+          "start": 120.52,
+          "end": 121.28
+        },
+        {
+          "word": "el",
+          "start": 121.28,
+          "end": 121.64
+        },
+        {
+          "word": "perdón.",
+          "start": 121.64,
+          "end": 123.6
+        }
+      ],
+      "start": 118.94,
+      "end": 123.6,
+      "confidence": 1.0,
+      "time": 118.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Rescatonos de las tinieblas,",
+      "words": [
+        {
+          "word": "rescatónos",
+          "start": 123.6,
+          "end": 125.42
+        },
+        {
+          "word": "de",
+          "start": 125.42,
+          "end": 125.74
+        },
+        {
+          "word": "las",
+          "start": 125.74,
+          "end": 126.6
+        },
+        {
+          "word": "tiñeras",
+          "start": 126.6,
+          "end": 128.42
+        }
+      ],
+      "start": 123.6,
+      "end": 129.98,
+      "confidence": 0.963,
+      "time": 123.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "disipó nuestra oscuridad;",
+      "words": [
+        {
+          "word": "nuestra",
+          "start": 129.98,
+          "end": 130.3
+        },
+        {
+          "word": "obstruidad.",
+          "start": 130.3,
+          "end": 133.04
+        }
+      ],
+      "start": 129.98,
+      "end": 133.04,
+      "confidence": 0.614,
+      "time": 129.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "él nos salvó, nuestra paz compró,",
+      "words": [
+        {
+          "word": "nos",
+          "start": 134.04,
+          "end": 134.64
+        },
+        {
+          "word": "salvo",
+          "start": 134.64,
+          "end": 135.78
+        },
+        {
+          "word": "nuestra",
+          "start": 135.78,
+          "end": 136.34
+        },
+        {
+          "word": "paz",
+          "start": 136.34,
+          "end": 137.06
+        },
+        {
+          "word": "compró,",
+          "start": 137.06,
+          "end": 138.28
+        }
+      ],
+      "start": 134.04,
+      "end": 138.66,
+      "confidence": 0.833,
+      "time": 134.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "nos dio luz y libertad.",
+      "words": [
+        {
+          "word": "nos",
+          "start": 138.66,
+          "end": 139.0
+        },
+        {
+          "word": "dio",
+          "start": 139.0,
+          "end": 139.64
+        },
+        {
+          "word": "luz",
+          "start": 139.64,
+          "end": 140.2
+        },
+        {
+          "word": "y",
+          "start": 140.2,
+          "end": 141.0
+        },
+        {
+          "word": "libertad.",
+          "start": 141.0,
+          "end": 145.4
+        }
+      ],
+      "start": 138.66,
+      "end": 145.4,
+      "confidence": 1.0,
+      "time": 138.66
+    }
+  ]
+}

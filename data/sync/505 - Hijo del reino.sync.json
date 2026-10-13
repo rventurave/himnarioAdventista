@@ -1,0 +1,689 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.935,
+  "language": "es",
+  "model": "medium",
+  "hymn": 505,
+  "source": "505 - Hijo del reino.mp3",
+  "duration": 119.72,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hijo del reino, ¿por qué estás durmiendo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hijo",
+          "start": 14.42,
+          "end": 15.58
+        },
+        {
+          "word": "del",
+          "start": 15.58,
+          "end": 15.98
+        },
+        {
+          "word": "reino,",
+          "start": 15.98,
+          "end": 16.98
+        },
+        {
+          "word": "¿por",
+          "start": 17.0,
+          "end": 17.44
+        },
+        {
+          "word": "qué",
+          "start": 17.44,
+          "end": 18.02
+        },
+        {
+          "word": "estás",
+          "start": 18.02,
+          "end": 18.48
+        },
+        {
+          "word": "durviendo",
+          "start": 18.48,
+          "end": 20.0
+        }
+      ],
+      "start": 14.42,
+      "end": 20.0,
+      "confidence": 0.99,
+      "time": 14.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cuando a la vista se halla tu hogar?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 20.0,
+          "end": 21.08
+        },
+        {
+          "word": "a",
+          "start": 21.08,
+          "end": 21.58
+        },
+        {
+          "word": "la",
+          "start": 21.58,
+          "end": 21.94
+        },
+        {
+          "word": "vista",
+          "start": 21.94,
+          "end": 22.7
+        },
+        {
+          "word": "se",
+          "start": 22.7,
+          "end": 23.48
+        },
+        {
+          "word": "halla",
+          "start": 23.48,
+          "end": 24.18
+        },
+        {
+          "word": "tu",
+          "start": 24.18,
+          "end": 24.62
+        },
+        {
+          "word": "hogar?",
+          "start": 24.62,
+          "end": 25.8
+        }
+      ],
+      "start": 20.0,
+      "end": 25.8,
+      "confidence": 1.0,
+      "time": 20.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Presto levántate, ciñe tus armas;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "¡Presto",
+          "start": 25.8,
+          "end": 27.18
+        },
+        {
+          "word": "levántate",
+          "start": 27.18,
+          "end": 28.82
+        },
+        {
+          "word": "tus",
+          "start": 30.02,
+          "end": 30.64
+        },
+        {
+          "word": "armas,",
+          "start": 30.64,
+          "end": 31.46
+        }
+      ],
+      "start": 25.8,
+      "end": 31.9,
+      "confidence": 0.8,
+      "time": 25.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en el conflicto tendrás que luchar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 31.9,
+          "end": 32.68
+        },
+        {
+          "word": "el",
+          "start": 32.68,
+          "end": 33.1
+        },
+        {
+          "word": "conflicto",
+          "start": 33.1,
+          "end": 34.3
+        },
+        {
+          "word": "tendrás",
+          "start": 34.3,
+          "end": 35.4
+        },
+        {
+          "word": "que",
+          "start": 35.4,
+          "end": 35.78
+        },
+        {
+          "word": "luchar!",
+          "start": 35.78,
+          "end": 38.02
+        }
+      ],
+      "start": 31.9,
+      "end": 38.02,
+      "confidence": 1.0,
+      "time": 31.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Hijo del reino, ¿por qué tardas tanto,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Hijo",
+          "start": 39.04,
+          "end": 40.06
+        },
+        {
+          "word": "del",
+          "start": 40.06,
+          "end": 40.46
+        },
+        {
+          "word": "reino,",
+          "start": 40.46,
+          "end": 41.42
+        },
+        {
+          "word": "¿por",
+          "start": 41.42,
+          "end": 41.96
+        },
+        {
+          "word": "qué",
+          "start": 41.96,
+          "end": 42.62
+        },
+        {
+          "word": "tardas",
+          "start": 42.62,
+          "end": 43.38
+        },
+        {
+          "word": "tanto",
+          "start": 43.38,
+          "end": 44.38
+        }
+      ],
+      "start": 39.04,
+      "end": 44.38,
+      "confidence": 1.0,
+      "time": 39.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "cuando delante el premio se ve?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 44.38,
+          "end": 45.76
+        },
+        {
+          "word": "delante",
+          "start": 45.76,
+          "end": 47.32
+        },
+        {
+          "word": "el",
+          "start": 47.32,
+          "end": 47.88
+        },
+        {
+          "word": "premio",
+          "start": 47.88,
+          "end": 48.68
+        },
+        {
+          "word": "se",
+          "start": 48.68,
+          "end": 49.28
+        },
+        {
+          "word": "ve?",
+          "start": 49.28,
+          "end": 49.98
+        }
+      ],
+      "start": 44.38,
+      "end": 49.98,
+      "confidence": 1.0,
+      "time": 44.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Álzate, vístete, Cristo se acerca;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Alzate,",
+          "start": 49.98,
+          "end": 51.98
+        },
+        {
+          "word": "vistente,",
+          "start": 52.18,
+          "end": 53.22
+        },
+        {
+          "word": "Cristo",
+          "start": 53.4,
+          "end": 54.26
+        },
+        {
+          "word": "se",
+          "start": 54.26,
+          "end": 54.8
+        },
+        {
+          "word": "acerca,",
+          "start": 54.8,
+          "end": 55.96
+        }
+      ],
+      "start": 49.98,
+      "end": 55.96,
+      "confidence": 0.992,
+      "time": 49.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "sal a su encuentro, recibe a tu Rey.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "su",
+          "start": 57.26,
+          "end": 57.58
+        },
+        {
+          "word": "encuentro",
+          "start": 57.58,
+          "end": 58.9
+        },
+        {
+          "word": "recibe",
+          "start": 58.9,
+          "end": 60.04
+        },
+        {
+          "word": "a",
+          "start": 60.04,
+          "end": 60.36
+        },
+        {
+          "word": "tu",
+          "start": 60.36,
+          "end": 60.86
+        },
+        {
+          "word": "rey.",
+          "start": 60.86,
+          "end": 63.28
+        }
+      ],
+      "start": 57.26,
+      "end": 63.28,
+      "confidence": 0.75,
+      "time": 57.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "No sigas más tras placeres mundanos:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "No",
+          "start": 63.8,
+          "end": 64.2
+        },
+        {
+          "word": "sigas",
+          "start": 64.2,
+          "end": 65.06
+        },
+        {
+          "word": "más",
+          "start": 65.06,
+          "end": 65.68
+        },
+        {
+          "word": "tras",
+          "start": 65.68,
+          "end": 66.02
+        },
+        {
+          "word": "placeres",
+          "start": 66.02,
+          "end": 67.42
+        },
+        {
+          "word": "mundanos,",
+          "start": 67.42,
+          "end": 69.0
+        }
+      ],
+      "start": 63.8,
+      "end": 69.0,
+      "confidence": 1.0,
+      "time": 63.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ves que su encanto pasando se va;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ves",
+          "start": 69.64,
+          "end": 69.92
+        },
+        {
+          "word": "que",
+          "start": 69.92,
+          "end": 70.26
+        },
+        {
+          "word": "su",
+          "start": 70.26,
+          "end": 70.56
+        },
+        {
+          "word": "encanto,",
+          "start": 70.56,
+          "end": 71.66
+        },
+        {
+          "word": "pasando,",
+          "start": 71.66,
+          "end": 72.92
+        },
+        {
+          "word": "se",
+          "start": 73.3,
+          "end": 73.6
+        },
+        {
+          "word": "va.",
+          "start": 73.6,
+          "end": 74.4
+        }
+      ],
+      "start": 69.64,
+      "end": 74.4,
+      "confidence": 1.0,
+      "time": 69.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "rompe los lazos con que estás atado;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Rompe",
+          "start": 74.4,
+          "end": 76.02
+        },
+        {
+          "word": "los",
+          "start": 76.02,
+          "end": 76.56
+        },
+        {
+          "word": "lazos",
+          "start": 76.56,
+          "end": 77.5
+        },
+        {
+          "word": "porque",
+          "start": 77.5,
+          "end": 78.28
+        },
+        {
+          "word": "estás",
+          "start": 78.28,
+          "end": 78.86
+        },
+        {
+          "word": "saltado,",
+          "start": 78.86,
+          "end": 80.4
+        }
+      ],
+      "start": 74.4,
+      "end": 80.68,
+      "confidence": 0.814,
+      "time": 74.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a Cristo acude, que te amparará.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "a",
+          "start": 80.68,
+          "end": 81.52
+        },
+        {
+          "word": "Cristo",
+          "start": 81.52,
+          "end": 81.98
+        },
+        {
+          "word": "acode",
+          "start": 81.98,
+          "end": 83.12
+        },
+        {
+          "word": "que",
+          "start": 83.12,
+          "end": 83.58
+        },
+        {
+          "word": "te",
+          "start": 83.58,
+          "end": 84.16
+        },
+        {
+          "word": "aparará.",
+          "start": 84.16,
+          "end": 86.66
+        }
+      ],
+      "start": 80.68,
+      "end": 86.66,
+      "confidence": 0.973,
+      "time": 80.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Fija tu vista constante en el Cielo;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "tu",
+          "start": 89.0,
+          "end": 89.48
+        },
+        {
+          "word": "vista",
+          "start": 89.48,
+          "end": 90.32
+        },
+        {
+          "word": "constante",
+          "start": 90.32,
+          "end": 91.54
+        },
+        {
+          "word": "en",
+          "start": 91.54,
+          "end": 92.14
+        },
+        {
+          "word": "el",
+          "start": 92.14,
+          "end": 92.4
+        },
+        {
+          "word": "cielo,",
+          "start": 92.4,
+          "end": 93.36
+        }
+      ],
+      "start": 89.0,
+      "end": 94.22,
+      "confidence": 0.857,
+      "time": 89.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "pasa la noche de tribulación;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "pasa",
+          "start": 94.22,
+          "end": 94.7
+        },
+        {
+          "word": "la",
+          "start": 94.7,
+          "end": 95.32
+        },
+        {
+          "word": "noche",
+          "start": 95.32,
+          "end": 96.14
+        },
+        {
+          "word": "de",
+          "start": 96.14,
+          "end": 96.7
+        },
+        {
+          "word": "tribulación,",
+          "start": 96.7,
+          "end": 98.4
+        }
+      ],
+      "start": 94.22,
+      "end": 98.4,
+      "confidence": 1.0,
+      "time": 94.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "sobre las cúspides ya rompe el alba;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Sobre",
+          "start": 98.4,
+          "end": 100.52
+        },
+        {
+          "word": "las",
+          "start": 100.52,
+          "end": 101.1
+        },
+        {
+          "word": "cúspides",
+          "start": 101.1,
+          "end": 102.32
+        },
+        {
+          "word": "ya",
+          "start": 102.32,
+          "end": 103.12
+        },
+        {
+          "word": "rompe",
+          "start": 103.12,
+          "end": 103.72
+        },
+        {
+          "word": "el",
+          "start": 103.72,
+          "end": 104.36
+        },
+        {
+          "word": "alma,",
+          "start": 104.36,
+          "end": 105.0
+        }
+      ],
+      "start": 98.4,
+      "end": 105.7,
+      "confidence": 0.979,
+      "time": 98.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "¡hijo del reino, prorrumpe en canción!",
+      "verse": 4,
+      "words": [
+        {
+          "word": "hijo",
+          "start": 105.7,
+          "end": 106.22
+        },
+        {
+          "word": "del",
+          "start": 106.22,
+          "end": 106.86
+        },
+        {
+          "word": "reino,",
+          "start": 106.86,
+          "end": 107.8
+        },
+        {
+          "word": "prorrumpe",
+          "start": 107.8,
+          "end": 109.4
+        },
+        {
+          "word": "canción.",
+          "start": 109.4,
+          "end": 110.74
+        }
+      ],
+      "start": 105.7,
+      "end": 110.74,
+      "confidence": 0.833,
+      "time": 105.7
+    }
+  ]
+}

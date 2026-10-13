@@ -1,0 +1,810 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.865,
+  "language": "es",
+  "model": "medium",
+  "hymn": 327,
+  "source": "327 - Jerusalen, mi amado hogar.mp3",
+  "duration": 185.76,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jerusalén, mi amado hogar, anhelo en ti morar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "abadocar,",
+          "start": 13.88,
+          "end": 15.6
+        },
+        {
+          "word": "Anero",
+          "start": 16.16,
+          "end": 17.02
+        },
+        {
+          "word": "en",
+          "start": 17.02,
+          "end": 17.46
+        },
+        {
+          "word": "ti",
+          "start": 17.46,
+          "end": 18.06
+        },
+        {
+          "word": "morar,",
+          "start": 18.06,
+          "end": 20.12
+        }
+      ],
+      "start": 13.88,
+      "end": 20.12,
+      "confidence": 0.576,
+      "time": 13.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tus calles de oro recorrer, lucientes como el sol;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tus",
+          "start": 20.62,
+          "end": 20.78
+        },
+        {
+          "word": "calles",
+          "start": 20.78,
+          "end": 21.76
+        },
+        {
+          "word": "de",
+          "start": 21.76,
+          "end": 22.34
+        },
+        {
+          "word": "recorrer,",
+          "start": 22.94,
+          "end": 24.62
+        },
+        {
+          "word": "sientes",
+          "start": 25.34,
+          "end": 26.32
+        },
+        {
+          "word": "como",
+          "start": 26.32,
+          "end": 27.26
+        },
+        {
+          "word": "el",
+          "start": 27.26,
+          "end": 27.72
+        },
+        {
+          "word": "sol.",
+          "start": 27.72,
+          "end": 29.0
+        }
+      ],
+      "start": 20.62,
+      "end": 29.0,
+      "confidence": 0.872,
+      "time": 20.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tu río cristalino ver, hermoso sin igual;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tu",
+          "start": 29.0,
+          "end": 29.96
+        },
+        {
+          "word": "río",
+          "start": 29.96,
+          "end": 31.14
+        },
+        {
+          "word": "cristalino",
+          "start": 31.14,
+          "end": 33.48
+        },
+        {
+          "word": "verde,",
+          "start": 33.48,
+          "end": 34.02
+        },
+        {
+          "word": "hermoso",
+          "start": 34.54,
+          "end": 35.8
+        },
+        {
+          "word": "sin",
+          "start": 35.8,
+          "end": 36.44
+        },
+        {
+          "word": "igual,",
+          "start": 36.44,
+          "end": 38.24
+        }
+      ],
+      "start": 29.0,
+      "end": 38.24,
+      "confidence": 0.991,
+      "time": 29.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y en sus verdes márgenes tranquilo reposar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 38.62,
+          "end": 39.3
+        },
+        {
+          "word": "en",
+          "start": 39.3,
+          "end": 39.96
+        },
+        {
+          "word": "sus",
+          "start": 39.96,
+          "end": 40.3
+        },
+        {
+          "word": "verdes",
+          "start": 40.3,
+          "end": 41.46
+        },
+        {
+          "word": "márgenes",
+          "start": 41.46,
+          "end": 43.0
+        },
+        {
+          "word": "tranquilo",
+          "start": 43.0,
+          "end": 44.72
+        },
+        {
+          "word": "reposar.",
+          "start": 44.72,
+          "end": 47.0
+        }
+      ],
+      "start": 38.62,
+      "end": 47.0,
+      "confidence": 1.0,
+      "time": 38.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Jerusalén! ¡Jerusalén;",
+      "words": [
+        {
+          "word": "Jerusalén,",
+          "start": 54.02,
+          "end": 55.42
+        },
+        {
+          "word": "Jerusalén,",
+          "start": 55.42,
+          "end": 56.82
+        }
+      ],
+      "start": 54.02,
+      "end": 56.82,
+      "confidence": 1.0,
+      "time": 54.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Jerusalén, mi amado hogar!",
+      "words": [
+        {
+          "word": "Jerusalén",
+          "start": 56.82,
+          "end": 59.18
+        },
+        {
+          "word": "mi",
+          "start": 59.18,
+          "end": 59.6
+        },
+        {
+          "word": "amado",
+          "start": 59.6,
+          "end": 60.8
+        },
+        {
+          "word": "hogar,",
+          "start": 60.8,
+          "end": 61.42
+        }
+      ],
+      "start": 56.82,
+      "end": 61.42,
+      "confidence": 1.0,
+      "time": 56.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, cuándo te veré!",
+      "words": [
+        {
+          "word": "cuando",
+          "start": 62.08,
+          "end": 63.14
+        },
+        {
+          "word": "te",
+          "start": 63.14,
+          "end": 64.22
+        },
+        {
+          "word": "veré.",
+          "start": 64.22,
+          "end": 66.9
+        }
+      ],
+      "start": 62.08,
+      "end": 66.9,
+      "confidence": 0.75,
+      "time": 62.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jerusalén, mi amado hogar, en ti no habrá dolor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jerusalén,",
+          "start": 68.68,
+          "end": 70.08
+        },
+        {
+          "word": "mi",
+          "start": 70.08,
+          "end": 70.48
+        },
+        {
+          "word": "amado",
+          "start": 70.48,
+          "end": 71.5
+        },
+        {
+          "word": "hogar,",
+          "start": 71.5,
+          "end": 72.38
+        },
+        {
+          "word": "En",
+          "start": 72.38,
+          "end": 72.8
+        },
+        {
+          "word": "ti",
+          "start": 72.8,
+          "end": 73.56
+        },
+        {
+          "word": "no",
+          "start": 73.56,
+          "end": 74.0
+        },
+        {
+          "word": "habrá",
+          "start": 74.0,
+          "end": 74.72
+        },
+        {
+          "word": "dolor,",
+          "start": 74.72,
+          "end": 76.6
+        }
+      ],
+      "start": 68.68,
+      "end": 77.2,
+      "confidence": 1.0,
+      "time": 68.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "el llanto no existirá, ni muerte, ni clamor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 77.2,
+          "end": 77.36
+        },
+        {
+          "word": "llanto",
+          "start": 77.36,
+          "end": 78.44
+        },
+        {
+          "word": "no",
+          "start": 78.44,
+          "end": 79.52
+        },
+        {
+          "word": "existirá,",
+          "start": 79.52,
+          "end": 81.4
+        },
+        {
+          "word": "ni",
+          "start": 81.72,
+          "end": 81.92
+        },
+        {
+          "word": "muerte,",
+          "start": 81.92,
+          "end": 82.9
+        },
+        {
+          "word": "ni",
+          "start": 83.78,
+          "end": 83.78
+        }
+      ],
+      "start": 77.2,
+      "end": 85.82,
+      "confidence": 0.875,
+      "time": 77.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "allí no habrá enemistad, pues reinará el amor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Allí",
+          "start": 86.44,
+          "end": 87.4
+        },
+        {
+          "word": "no",
+          "start": 87.4,
+          "end": 87.8
+        },
+        {
+          "word": "habrá",
+          "start": 87.8,
+          "end": 88.78
+        },
+        {
+          "word": "denedista,",
+          "start": 88.78,
+          "end": 90.6
+        },
+        {
+          "word": "pues",
+          "start": 90.9,
+          "end": 91.4
+        },
+        {
+          "word": "reinará",
+          "start": 91.4,
+          "end": 93.0
+        },
+        {
+          "word": "el",
+          "start": 93.0,
+          "end": 93.3
+        }
+      ],
+      "start": 86.44,
+      "end": 94.96,
+      "confidence": 0.858,
+      "time": 86.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y solo habrá felicidad con nuestro Redentor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 94.96,
+          "end": 95.62
+        },
+        {
+          "word": "sólo",
+          "start": 95.62,
+          "end": 96.68
+        },
+        {
+          "word": "habrá",
+          "start": 96.68,
+          "end": 97.66
+        },
+        {
+          "word": "felicidad",
+          "start": 97.66,
+          "end": 99.68
+        },
+        {
+          "word": "con",
+          "start": 99.68,
+          "end": 100.36
+        },
+        {
+          "word": "nuestro",
+          "start": 100.36,
+          "end": 101.44
+        },
+        {
+          "word": "Redentor.",
+          "start": 101.44,
+          "end": 104.66
+        }
+      ],
+      "start": 94.96,
+      "end": 104.66,
+      "confidence": 1.0,
+      "time": 94.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Jerusalén! ¡Jerusalén;",
+      "words": [
+        {
+          "word": "salé!",
+          "start": 106.98,
+          "end": 108.92
+        },
+        {
+          "word": "salé!",
+          "start": 111.6,
+          "end": 113.4
+        }
+      ],
+      "start": 106.98,
+      "end": 113.4,
+      "confidence": 0.769,
+      "time": 106.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Jerusalén, mi amado hogar!",
+      "words": [
+        {
+          "word": "salé,",
+          "start": 115.1,
+          "end": 115.98
+        },
+        {
+          "word": "mi",
+          "start": 116.2,
+          "end": 116.4
+        },
+        {
+          "word": "amado",
+          "start": 116.4,
+          "end": 117.62
+        }
+      ],
+      "start": 115.1,
+      "end": 118.02,
+      "confidence": 0.692,
+      "time": 115.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, cuándo te veré!",
+      "words": [
+        {
+          "word": "¡Oh,",
+          "start": 118.56,
+          "end": 118.78
+        },
+        {
+          "word": "cuando",
+          "start": 118.78,
+          "end": 119.92
+        },
+        {
+          "word": "te",
+          "start": 119.92,
+          "end": 120.98
+        },
+        {
+          "word": "veré!",
+          "start": 120.98,
+          "end": 123.66
+        }
+      ],
+      "start": 118.56,
+      "end": 123.66,
+      "confidence": 1.0,
+      "time": 118.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Ansío pronto a ti llegar, mi celestial hogar;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "sido",
+          "start": 124.96,
+          "end": 126.04
+        },
+        {
+          "word": "pronto",
+          "start": 126.04,
+          "end": 127.02
+        },
+        {
+          "word": "a",
+          "start": 127.02,
+          "end": 127.74
+        },
+        {
+          "word": "ti",
+          "start": 127.74,
+          "end": 128.1
+        },
+        {
+          "word": "llegar",
+          "start": 128.1,
+          "end": 128.92
+        },
+        {
+          "word": "mis",
+          "start": 128.92,
+          "end": 129.52
+        },
+        {
+          "word": "celestias",
+          "start": 129.52,
+          "end": 131.48
+        },
+        {
+          "word": "hogar,",
+          "start": 131.8,
+          "end": 133.54
+        }
+      ],
+      "start": 124.96,
+      "end": 133.94,
+      "confidence": 0.952,
+      "time": 124.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "con mis amados que perdí, hallarme otra vez,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 133.94,
+          "end": 134.14
+        },
+        {
+          "word": "mil",
+          "start": 134.14,
+          "end": 134.76
+        },
+        {
+          "word": "sanados",
+          "start": 134.76,
+          "end": 136.16
+        },
+        {
+          "word": "que",
+          "start": 136.16,
+          "end": 137.12
+        },
+        {
+          "word": "perdí",
+          "start": 137.12,
+          "end": 138.14
+        },
+        {
+          "word": "llorarme",
+          "start": 138.74,
+          "end": 139.88
+        },
+        {
+          "word": "otra",
+          "start": 139.88,
+          "end": 141.02
+        },
+        {
+          "word": "vez.",
+          "start": 141.02,
+          "end": 142.56
+        }
+      ],
+      "start": 133.94,
+      "end": 142.56,
+      "confidence": 0.939,
+      "time": 133.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y conocer a Abraham, a Eva y Adán;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 142.56,
+          "end": 143.7
+        },
+        {
+          "word": "conocerán",
+          "start": 143.7,
+          "end": 147.14
+        },
+        {
+          "word": "a",
+          "start": 147.14,
+          "end": 148.14
+        },
+        {
+          "word": "Eva",
+          "start": 148.14,
+          "end": 148.92
+        },
+        {
+          "word": "y",
+          "start": 148.92,
+          "end": 149.9
+        },
+        {
+          "word": "a",
+          "start": 149.9,
+          "end": 150.98
+        }
+      ],
+      "start": 142.56,
+      "end": 151.7,
+      "confidence": 0.735,
+      "time": 142.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y contemplar el rostro de Jesús, mi Salvador.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 151.98,
+          "end": 152.98
+        },
+        {
+          "word": "contemplar",
+          "start": 152.98,
+          "end": 154.48
+        },
+        {
+          "word": "el",
+          "start": 154.48,
+          "end": 154.76
+        },
+        {
+          "word": "rostro",
+          "start": 154.76,
+          "end": 156.0
+        },
+        {
+          "word": "de",
+          "start": 156.0,
+          "end": 156.56
+        },
+        {
+          "word": "Jesús",
+          "start": 156.56,
+          "end": 157.6
+        },
+        {
+          "word": "mi",
+          "start": 157.6,
+          "end": 158.26
+        },
+        {
+          "word": "salvador.",
+          "start": 158.26,
+          "end": 161.04
+        }
+      ],
+      "start": 151.98,
+      "end": 161.04,
+      "confidence": 1.0,
+      "time": 151.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Jerusalén! ¡Jerusalén;",
+      "words": [
+        {
+          "word": "Jerusalem,",
+          "start": 167.18,
+          "end": 168.58
+        },
+        {
+          "word": "Jerusalem,",
+          "start": 168.58,
+          "end": 169.98
+        }
+      ],
+      "start": 167.18,
+      "end": 170.42,
+      "confidence": 0.933,
+      "time": 167.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Jerusalén, mi amado hogar!",
+      "words": [
+        {
+          "word": "Jerusalem,",
+          "start": 170.42,
+          "end": 172.54
+        },
+        {
+          "word": "mi",
+          "start": 172.7,
+          "end": 173.02
+        },
+        {
+          "word": "amado",
+          "start": 173.02,
+          "end": 174.3
+        }
+      ],
+      "start": 170.42,
+      "end": 174.92,
+      "confidence": 0.733,
+      "time": 170.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, cuándo te veré!",
+      "words": [
+        {
+          "word": "¡O",
+          "start": 174.94,
+          "end": 175.66
+        }
+      ],
+      "start": 174.94,
+      "end": 182.54,
+      "confidence": 0.2,
+      "time": 174.94
+    }
+  ]
+}

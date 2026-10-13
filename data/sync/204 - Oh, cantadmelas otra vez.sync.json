@@ -1,0 +1,979 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.963,
+  "language": "es",
+  "model": "medium",
+  "hymn": 204,
+  "source": "204 - Oh, cantadmelas otra vez.mp3",
+  "duration": 174.89,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Oh, cantádmelas otra vez,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "O",
+          "start": 22.64,
+          "end": 24.04
+        },
+        {
+          "word": "cantadme",
+          "start": 24.04,
+          "end": 25.42
+        },
+        {
+          "word": "otra",
+          "start": 26.04,
+          "end": 27.04
+        },
+        {
+          "word": "vez,",
+          "start": 27.04,
+          "end": 27.92
+        }
+      ],
+      "start": 22.64,
+      "end": 27.92,
+      "confidence": 0.935,
+      "time": 22.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "bellas palabras de vida;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Bellas",
+          "start": 27.92,
+          "end": 28.98
+        },
+        {
+          "word": "Palabras",
+          "start": 28.98,
+          "end": 30.08
+        },
+        {
+          "word": "de",
+          "start": 30.08,
+          "end": 30.56
+        },
+        {
+          "word": "Vida",
+          "start": 30.56,
+          "end": 32.6
+        }
+      ],
+      "start": 27.92,
+      "end": 32.6,
+      "confidence": 1.0,
+      "time": 27.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "hallo en ellas mi gozo y luz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "bellas,",
+          "start": 34.54,
+          "end": 34.94
+        },
+        {
+          "word": "mi",
+          "start": 34.98,
+          "end": 35.38
+        },
+        {
+          "word": "gozo",
+          "start": 35.38,
+          "end": 36.3
+        },
+        {
+          "word": "y",
+          "start": 36.3,
+          "end": 36.86
+        },
+        {
+          "word": "luz",
+          "start": 36.86,
+          "end": 37.42
+        }
+      ],
+      "start": 34.54,
+      "end": 37.42,
+      "confidence": 0.706,
+      "time": 34.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "bellas palabras de vida.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Bellas",
+          "start": 37.42,
+          "end": 38.58
+        },
+        {
+          "word": "Palabras",
+          "start": 38.58,
+          "end": 39.82
+        },
+        {
+          "word": "de",
+          "start": 39.82,
+          "end": 40.3
+        },
+        {
+          "word": "Vida",
+          "start": 40.3,
+          "end": 42.46
+        }
+      ],
+      "start": 37.42,
+      "end": 42.46,
+      "confidence": 1.0,
+      "time": 37.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Sí, de luz y vida; son sostén y guía.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Si",
+          "start": 42.46,
+          "end": 43.46
+        },
+        {
+          "word": "de",
+          "start": 43.46,
+          "end": 43.92
+        },
+        {
+          "word": "luz",
+          "start": 43.92,
+          "end": 44.54
+        },
+        {
+          "word": "y",
+          "start": 44.54,
+          "end": 45.02
+        },
+        {
+          "word": "vida",
+          "start": 45.02,
+          "end": 46.92
+        },
+        {
+          "word": "Son",
+          "start": 46.92,
+          "end": 48.04
+        },
+        {
+          "word": "sostén",
+          "start": 48.04,
+          "end": 49.32
+        },
+        {
+          "word": "y",
+          "start": 49.32,
+          "end": 50.52
+        }
+      ],
+      "start": 42.46,
+      "end": 51.72,
+      "confidence": 0.889,
+      "time": 42.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Qué bellas son! ¡Qué bellas son!",
+      "words": [
+        {
+          "word": "Que",
+          "start": 51.72,
+          "end": 52.7
+        },
+        {
+          "word": "bellas",
+          "start": 52.7,
+          "end": 53.56
+        },
+        {
+          "word": "son,",
+          "start": 53.56,
+          "end": 54.46
+        },
+        {
+          "word": "que",
+          "start": 54.52,
+          "end": 54.98
+        },
+        {
+          "word": "bellas",
+          "start": 54.98,
+          "end": 55.92
+        },
+        {
+          "word": "son",
+          "start": 55.92,
+          "end": 56.58
+        }
+      ],
+      "start": 51.72,
+      "end": 56.58,
+      "confidence": 1.0,
+      "time": 51.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Bellas palabras de vida.",
+      "words": [
+        {
+          "word": "las",
+          "start": 57.36,
+          "end": 57.74
+        },
+        {
+          "word": "palabras",
+          "start": 57.74,
+          "end": 58.88
+        },
+        {
+          "word": "de",
+          "start": 58.88,
+          "end": 59.64
+        },
+        {
+          "word": "vida.",
+          "start": 59.64,
+          "end": 61.34
+        }
+      ],
+      "start": 57.36,
+      "end": 61.34,
+      "confidence": 0.95,
+      "time": 57.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Qué bellas son! ¡Qué bellas son!",
+      "words": [
+        {
+          "word": "¡Qué",
+          "start": 61.82,
+          "end": 62.2
+        },
+        {
+          "word": "bellas",
+          "start": 62.2,
+          "end": 63.22
+        },
+        {
+          "word": "son!",
+          "start": 63.22,
+          "end": 63.94
+        },
+        {
+          "word": "¡Qué",
+          "start": 64.1,
+          "end": 64.48
+        },
+        {
+          "word": "bellas",
+          "start": 64.48,
+          "end": 65.34
+        },
+        {
+          "word": "son!",
+          "start": 65.34,
+          "end": 66.1
+        }
+      ],
+      "start": 61.82,
+      "end": 66.1,
+      "confidence": 1.0,
+      "time": 61.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Bellas palabras de vida.",
+      "words": [
+        {
+          "word": "las",
+          "start": 66.92,
+          "end": 67.38
+        },
+        {
+          "word": "palabras",
+          "start": 67.38,
+          "end": 68.44
+        },
+        {
+          "word": "de",
+          "start": 68.44,
+          "end": 69.3
+        },
+        {
+          "word": "vida.",
+          "start": 69.3,
+          "end": 71.7
+        }
+      ],
+      "start": 66.92,
+      "end": 71.7,
+      "confidence": 0.95,
+      "time": 66.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesucristo a todos da",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesucristo",
+          "start": 72.9,
+          "end": 74.2
+        },
+        {
+          "word": "a",
+          "start": 74.2,
+          "end": 74.9
+        },
+        {
+          "word": "todos",
+          "start": 74.9,
+          "end": 75.82
+        },
+        {
+          "word": "da",
+          "start": 75.82,
+          "end": 76.64
+        }
+      ],
+      "start": 72.9,
+      "end": 76.64,
+      "confidence": 1.0,
+      "time": 72.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "bellas palabras de vida;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "bellas",
+          "start": 76.64,
+          "end": 77.94
+        },
+        {
+          "word": "palabras",
+          "start": 77.94,
+          "end": 78.92
+        },
+        {
+          "word": "de",
+          "start": 78.92,
+          "end": 79.64
+        },
+        {
+          "word": "vida.",
+          "start": 79.64,
+          "end": 81.54
+        }
+      ],
+      "start": 76.64,
+      "end": 81.54,
+      "confidence": 1.0,
+      "time": 76.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hoy escúchalas pecador,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 82.44,
+          "end": 82.82
+        },
+        {
+          "word": "escúchalas,",
+          "start": 82.82,
+          "end": 84.28
+        },
+        {
+          "word": "pecador,",
+          "start": 84.28,
+          "end": 86.26
+        }
+      ],
+      "start": 82.44,
+      "end": 86.26,
+      "confidence": 1.0,
+      "time": 82.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "bellas palabras de vida.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Bellas",
+          "start": 86.26,
+          "end": 87.62
+        },
+        {
+          "word": "Palabras",
+          "start": 87.62,
+          "end": 88.76
+        },
+        {
+          "word": "de",
+          "start": 88.76,
+          "end": 89.28
+        },
+        {
+          "word": "Vida",
+          "start": 89.28,
+          "end": 91.36
+        }
+      ],
+      "start": 86.26,
+      "end": 91.36,
+      "confidence": 1.0,
+      "time": 86.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Bondadoso te salva, y al cielo te llama.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Bondadoso",
+          "start": 91.36,
+          "end": 93.48
+        },
+        {
+          "word": "te",
+          "start": 93.48,
+          "end": 94.0
+        },
+        {
+          "word": "salva",
+          "start": 94.0,
+          "end": 96.26
+        },
+        {
+          "word": "Y",
+          "start": 96.26,
+          "end": 97.26
+        },
+        {
+          "word": "al",
+          "start": 97.26,
+          "end": 97.64
+        },
+        {
+          "word": "cielo",
+          "start": 97.64,
+          "end": 98.08
+        },
+        {
+          "word": "te",
+          "start": 98.08,
+          "end": 98.86
+        },
+        {
+          "word": "llama",
+          "start": 98.86,
+          "end": 100.48
+        }
+      ],
+      "start": 91.36,
+      "end": 100.48,
+      "confidence": 1.0,
+      "time": 91.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Qué bellas son! ¡Qué bellas son!",
+      "words": [
+        {
+          "word": "¡Qué",
+          "start": 100.48,
+          "end": 101.7
+        },
+        {
+          "word": "bellas",
+          "start": 101.7,
+          "end": 102.68
+        },
+        {
+          "word": "son!",
+          "start": 102.68,
+          "end": 103.44
+        },
+        {
+          "word": "¡Qué",
+          "start": 103.6,
+          "end": 103.98
+        },
+        {
+          "word": "bellas",
+          "start": 103.98,
+          "end": 105.02
+        },
+        {
+          "word": "son!",
+          "start": 105.02,
+          "end": 105.56
+        }
+      ],
+      "start": 100.48,
+      "end": 105.56,
+      "confidence": 1.0,
+      "time": 100.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Bellas palabras de vida.",
+      "words": [
+        {
+          "word": "Bellas",
+          "start": 106.12,
+          "end": 106.8
+        },
+        {
+          "word": "Palabras",
+          "start": 106.8,
+          "end": 107.94
+        },
+        {
+          "word": "de",
+          "start": 107.94,
+          "end": 108.38
+        },
+        {
+          "word": "Vida",
+          "start": 108.38,
+          "end": 110.34
+        }
+      ],
+      "start": 106.12,
+      "end": 110.34,
+      "confidence": 1.0,
+      "time": 106.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Qué bellas son! ¡Qué bellas son!",
+      "words": [
+        {
+          "word": "¡Qué",
+          "start": 110.34,
+          "end": 111.28
+        },
+        {
+          "word": "bellas",
+          "start": 111.28,
+          "end": 112.28
+        },
+        {
+          "word": "son!",
+          "start": 112.28,
+          "end": 112.96
+        },
+        {
+          "word": "¡Qué",
+          "start": 113.1,
+          "end": 113.52
+        },
+        {
+          "word": "bellas",
+          "start": 113.52,
+          "end": 114.5
+        },
+        {
+          "word": "son!",
+          "start": 114.5,
+          "end": 115.02
+        }
+      ],
+      "start": 110.34,
+      "end": 115.02,
+      "confidence": 1.0,
+      "time": 110.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Bellas palabras de vida.",
+      "words": [
+        {
+          "word": "Bellas",
+          "start": 115.02,
+          "end": 116.38
+        },
+        {
+          "word": "Palabras",
+          "start": 116.38,
+          "end": 117.58
+        },
+        {
+          "word": "de",
+          "start": 117.58,
+          "end": 118.14
+        },
+        {
+          "word": "Vida.",
+          "start": 118.14,
+          "end": 120.66
+        }
+      ],
+      "start": 115.02,
+      "end": 120.66,
+      "confidence": 1.0,
+      "time": 115.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Grato el cántico sonará:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Grato",
+          "start": 122.18,
+          "end": 123.02
+        },
+        {
+          "word": "el",
+          "start": 123.02,
+          "end": 123.32
+        },
+        {
+          "word": "cantigo",
+          "start": 123.32,
+          "end": 124.38
+        },
+        {
+          "word": "sonará,",
+          "start": 124.38,
+          "end": 126.54
+        }
+      ],
+      "start": 122.18,
+      "end": 127.22,
+      "confidence": 0.979,
+      "time": 122.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "bellas palabras de vida;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Bellas",
+          "start": 127.22,
+          "end": 127.76
+        },
+        {
+          "word": "Palabras",
+          "start": 127.76,
+          "end": 128.88
+        },
+        {
+          "word": "de",
+          "start": 128.88,
+          "end": 129.46
+        },
+        {
+          "word": "Vida.",
+          "start": 129.46,
+          "end": 131.38
+        }
+      ],
+      "start": 127.22,
+      "end": 131.38,
+      "confidence": 1.0,
+      "time": 127.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "tus pecados perdonará,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Tus",
+          "start": 131.78,
+          "end": 132.5
+        },
+        {
+          "word": "fegados",
+          "start": 132.5,
+          "end": 133.66
+        },
+        {
+          "word": "perdonará,",
+          "start": 133.66,
+          "end": 136.06
+        }
+      ],
+      "start": 131.78,
+      "end": 136.68,
+      "confidence": 0.943,
+      "time": 131.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "bellas palabras de vida.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Bellas",
+          "start": 136.68,
+          "end": 137.36
+        },
+        {
+          "word": "Palabras",
+          "start": 137.36,
+          "end": 138.52
+        },
+        {
+          "word": "de",
+          "start": 138.52,
+          "end": 139.14
+        },
+        {
+          "word": "Vida.",
+          "start": 139.14,
+          "end": 141.02
+        }
+      ],
+      "start": 136.68,
+      "end": 141.02,
+      "confidence": 1.0,
+      "time": 136.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Sí, de luz y vida; son sostén y guía.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Sí,",
+          "start": 141.02,
+          "end": 142.24
+        },
+        {
+          "word": "de",
+          "start": 142.46,
+          "end": 142.78
+        },
+        {
+          "word": "luz",
+          "start": 142.78,
+          "end": 143.32
+        },
+        {
+          "word": "y",
+          "start": 143.32,
+          "end": 144.04
+        },
+        {
+          "word": "vida",
+          "start": 144.04,
+          "end": 145.74
+        },
+        {
+          "word": "son",
+          "start": 145.74,
+          "end": 146.84
+        },
+        {
+          "word": "sostén",
+          "start": 146.84,
+          "end": 148.32
+        },
+        {
+          "word": "y",
+          "start": 148.32,
+          "end": 149.32
+        }
+      ],
+      "start": 141.02,
+      "end": 151.08,
+      "confidence": 0.889,
+      "time": 141.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Qué bellas son! ¡Qué bellas son!",
+      "words": [
+        {
+          "word": "qué",
+          "start": 151.08,
+          "end": 151.6
+        },
+        {
+          "word": "bellas",
+          "start": 151.6,
+          "end": 152.54
+        },
+        {
+          "word": "son,",
+          "start": 152.54,
+          "end": 153.24
+        },
+        {
+          "word": "qué",
+          "start": 153.34,
+          "end": 153.8
+        },
+        {
+          "word": "bellas",
+          "start": 153.8,
+          "end": 154.62
+        },
+        {
+          "word": "son,",
+          "start": 154.62,
+          "end": 155.56
+        }
+      ],
+      "start": 151.08,
+      "end": 155.78,
+      "confidence": 1.0,
+      "time": 151.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Bellas palabras de vida.",
+      "words": [
+        {
+          "word": "bellas",
+          "start": 155.78,
+          "end": 156.62
+        },
+        {
+          "word": "palabras",
+          "start": 156.62,
+          "end": 157.64
+        },
+        {
+          "word": "de",
+          "start": 157.64,
+          "end": 158.54
+        },
+        {
+          "word": "vida,",
+          "start": 158.54,
+          "end": 159.78
+        }
+      ],
+      "start": 155.78,
+      "end": 160.54,
+      "confidence": 1.0,
+      "time": 155.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Qué bellas son! ¡Qué bellas son!",
+      "words": [
+        {
+          "word": "qué",
+          "start": 160.54,
+          "end": 161.0
+        },
+        {
+          "word": "bellas",
+          "start": 161.0,
+          "end": 162.08
+        },
+        {
+          "word": "son,",
+          "start": 162.08,
+          "end": 162.72
+        },
+        {
+          "word": "qué",
+          "start": 162.86,
+          "end": 163.42
+        },
+        {
+          "word": "bellas",
+          "start": 163.42,
+          "end": 164.18
+        },
+        {
+          "word": "son,",
+          "start": 164.18,
+          "end": 165.12
+        }
+      ],
+      "start": 160.54,
+      "end": 165.64,
+      "confidence": 1.0,
+      "time": 160.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Bellas palabras de vida.",
+      "words": [
+        {
+          "word": "bellas",
+          "start": 165.64,
+          "end": 166.26
+        },
+        {
+          "word": "palabras",
+          "start": 166.26,
+          "end": 167.52
+        },
+        {
+          "word": "de",
+          "start": 167.52,
+          "end": 168.54
+        },
+        {
+          "word": "vida.",
+          "start": 168.54,
+          "end": 170.16
+        }
+      ],
+      "start": 165.64,
+      "end": 170.16,
+      "confidence": 1.0,
+      "time": 165.64
+    }
+  ]
+}

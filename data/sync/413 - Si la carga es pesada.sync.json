@@ -1,0 +1,763 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.987,
+  "language": "es",
+  "model": "medium",
+  "hymn": 413,
+  "source": "413 - Si la carga es pesada.mp3",
+  "duration": 180.95,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Si la carga es pesada,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Si",
+          "start": 19.88,
+          "end": 21.28
+        },
+        {
+          "word": "la",
+          "start": 21.28,
+          "end": 22.46
+        },
+        {
+          "word": "carga",
+          "start": 22.46,
+          "end": 23.32
+        },
+        {
+          "word": "es",
+          "start": 23.32,
+          "end": 24.78
+        },
+        {
+          "word": "pesada,",
+          "start": 24.78,
+          "end": 26.36
+        }
+      ],
+      "start": 19.88,
+      "end": 26.36,
+      "confidence": 1.0,
+      "time": 19.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mirad a Dios;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mirad",
+          "start": 26.36,
+          "end": 28.96
+        },
+        {
+          "word": "a",
+          "start": 28.96,
+          "end": 29.56
+        },
+        {
+          "word": "Dios,",
+          "start": 29.56,
+          "end": 31.82
+        }
+      ],
+      "start": 26.36,
+      "end": 32.44,
+      "confidence": 1.0,
+      "time": 26.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "si vuestra alma está cansada,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "si",
+          "start": 32.44,
+          "end": 33.4
+        },
+        {
+          "word": "vuestra",
+          "start": 33.4,
+          "end": 34.24
+        },
+        {
+          "word": "alma",
+          "start": 34.24,
+          "end": 34.96
+        },
+        {
+          "word": "está",
+          "start": 34.96,
+          "end": 36.22
+        },
+        {
+          "word": "cansada,",
+          "start": 36.22,
+          "end": 37.92
+        }
+      ],
+      "start": 32.44,
+      "end": 39.72,
+      "confidence": 1.0,
+      "time": 32.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mirad a Dios.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "mirad",
+          "start": 39.72,
+          "end": 40.7
+        },
+        {
+          "word": "a",
+          "start": 40.7,
+          "end": 41.12
+        },
+        {
+          "word": "Dios.",
+          "start": 41.12,
+          "end": 43.4
+        }
+      ],
+      "start": 39.72,
+      "end": 43.4,
+      "confidence": 1.0,
+      "time": 39.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Levantad la vista al cielo,",
+      "words": [
+        {
+          "word": "Levantad",
+          "start": 44.88,
+          "end": 46.28
+        },
+        {
+          "word": "la",
+          "start": 46.28,
+          "end": 46.94
+        },
+        {
+          "word": "vista",
+          "start": 46.94,
+          "end": 47.9
+        },
+        {
+          "word": "al",
+          "start": 47.9,
+          "end": 48.42
+        },
+        {
+          "word": "cielo,",
+          "start": 48.42,
+          "end": 49.48
+        }
+      ],
+      "start": 44.88,
+      "end": 51.36,
+      "confidence": 1.0,
+      "time": 44.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "mirad a Dios;",
+      "words": [
+        {
+          "word": "mirad",
+          "start": 51.36,
+          "end": 52.16
+        },
+        {
+          "word": "a",
+          "start": 52.16,
+          "end": 52.76
+        },
+        {
+          "word": "Dios.",
+          "start": 52.76,
+          "end": 55.02
+        }
+      ],
+      "start": 51.36,
+      "end": 55.02,
+      "confidence": 1.0,
+      "time": 51.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "si vuestra alma está cansada,",
+      "words": [
+        {
+          "word": "Si",
+          "start": 55.52,
+          "end": 56.56
+        },
+        {
+          "word": "vuestra",
+          "start": 56.56,
+          "end": 57.34
+        },
+        {
+          "word": "alma",
+          "start": 57.34,
+          "end": 58.08
+        },
+        {
+          "word": "está",
+          "start": 58.08,
+          "end": 59.3
+        },
+        {
+          "word": "cansada,",
+          "start": 59.3,
+          "end": 61.0
+        }
+      ],
+      "start": 55.52,
+      "end": 62.28,
+      "confidence": 1.0,
+      "time": 55.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "mirad a Dios.",
+      "words": [
+        {
+          "word": "mirad",
+          "start": 62.28,
+          "end": 64.04
+        },
+        {
+          "word": "a",
+          "start": 64.04,
+          "end": 64.32
+        },
+        {
+          "word": "Dios.",
+          "start": 64.32,
+          "end": 66.5
+        }
+      ],
+      "start": 62.28,
+      "end": 66.5,
+      "confidence": 1.0,
+      "time": 62.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "El deber os llama, hermanos,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "El",
+          "start": 66.5,
+          "end": 68.18
+        },
+        {
+          "word": "deber",
+          "start": 68.18,
+          "end": 69.28
+        },
+        {
+          "word": "os",
+          "start": 69.28,
+          "end": 69.94
+        },
+        {
+          "word": "llama,",
+          "start": 69.94,
+          "end": 71.1
+        },
+        {
+          "word": "hermanos,",
+          "start": 71.56,
+          "end": 72.7
+        }
+      ],
+      "start": 66.5,
+      "end": 73.54,
+      "confidence": 1.0,
+      "time": 66.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mirad a Dios;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mirad",
+          "start": 73.54,
+          "end": 75.2
+        },
+        {
+          "word": "a",
+          "start": 75.2,
+          "end": 75.8
+        },
+        {
+          "word": "Dios,",
+          "start": 75.8,
+          "end": 78.1
+        }
+      ],
+      "start": 73.54,
+      "end": 78.8,
+      "confidence": 1.0,
+      "time": 73.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pues dejad placeres vanos,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pues",
+          "start": 78.8,
+          "end": 79.74
+        },
+        {
+          "word": "dejad",
+          "start": 79.74,
+          "end": 80.72
+        },
+        {
+          "word": "placeres",
+          "start": 80.72,
+          "end": 82.9
+        },
+        {
+          "word": "vanos,",
+          "start": 82.9,
+          "end": 84.4
+        }
+      ],
+      "start": 78.8,
+      "end": 84.74,
+      "confidence": 1.0,
+      "time": 78.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mirad a Dios.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mirad",
+          "start": 84.74,
+          "end": 87.02
+        },
+        {
+          "word": "a",
+          "start": 87.02,
+          "end": 87.46
+        },
+        {
+          "word": "Dios.",
+          "start": 87.46,
+          "end": 89.76
+        }
+      ],
+      "start": 84.74,
+      "end": 89.76,
+      "confidence": 1.0,
+      "time": 84.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Levantad la vista al cielo,",
+      "words": [
+        {
+          "word": "levantad",
+          "start": 89.76,
+          "end": 92.42
+        },
+        {
+          "word": "la",
+          "start": 92.42,
+          "end": 93.16
+        },
+        {
+          "word": "vista",
+          "start": 93.16,
+          "end": 94.16
+        },
+        {
+          "word": "al",
+          "start": 94.16,
+          "end": 94.56
+        },
+        {
+          "word": "cielo,",
+          "start": 94.56,
+          "end": 95.76
+        }
+      ],
+      "start": 89.76,
+      "end": 97.6,
+      "confidence": 1.0,
+      "time": 89.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "mirad a Dios;",
+      "words": [
+        {
+          "word": "mirad",
+          "start": 97.6,
+          "end": 98.3
+        },
+        {
+          "word": "a",
+          "start": 98.3,
+          "end": 98.94
+        },
+        {
+          "word": "Dios",
+          "start": 98.94,
+          "end": 101.28
+        }
+      ],
+      "start": 97.6,
+      "end": 101.28,
+      "confidence": 1.0,
+      "time": 97.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "si vuestra alma está cansada,",
+      "words": [
+        {
+          "word": "si",
+          "start": 101.28,
+          "end": 102.76
+        },
+        {
+          "word": "nuestra",
+          "start": 102.76,
+          "end": 103.48
+        },
+        {
+          "word": "alma",
+          "start": 103.48,
+          "end": 104.32
+        },
+        {
+          "word": "está",
+          "start": 104.32,
+          "end": 105.54
+        },
+        {
+          "word": "cansada,",
+          "start": 105.54,
+          "end": 107.32
+        }
+      ],
+      "start": 101.28,
+      "end": 108.34,
+      "confidence": 0.983,
+      "time": 101.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "mirad a Dios.",
+      "words": [
+        {
+          "word": "mirad",
+          "start": 108.34,
+          "end": 110.12
+        },
+        {
+          "word": "a",
+          "start": 110.12,
+          "end": 110.6
+        },
+        {
+          "word": "Dios.",
+          "start": 110.6,
+          "end": 112.82
+        }
+      ],
+      "start": 108.34,
+      "end": 112.82,
+      "confidence": 1.0,
+      "time": 108.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cuando el mal parece fuerte,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 115.84,
+          "end": 117.24
+        },
+        {
+          "word": "el",
+          "start": 117.24,
+          "end": 117.84
+        },
+        {
+          "word": "mal",
+          "start": 117.84,
+          "end": 118.3
+        },
+        {
+          "word": "parece",
+          "start": 118.3,
+          "end": 120.24
+        },
+        {
+          "word": "fuerte,",
+          "start": 120.24,
+          "end": 121.72
+        }
+      ],
+      "start": 115.84,
+      "end": 122.66,
+      "confidence": 1.0,
+      "time": 115.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "mirad a Dios;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mirad",
+          "start": 122.66,
+          "end": 124.4
+        },
+        {
+          "word": "a",
+          "start": 124.4,
+          "end": 124.98
+        },
+        {
+          "word": "Dios.",
+          "start": 124.98,
+          "end": 127.28
+        }
+      ],
+      "start": 122.66,
+      "end": 127.28,
+      "confidence": 1.0,
+      "time": 122.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "si os espanta aún la muerte,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 127.74,
+          "end": 128.86
+        },
+        {
+          "word": "espanta",
+          "start": 128.86,
+          "end": 130.64
+        },
+        {
+          "word": "aún",
+          "start": 130.64,
+          "end": 131.68
+        },
+        {
+          "word": "la",
+          "start": 131.68,
+          "end": 132.14
+        },
+        {
+          "word": "muerte,",
+          "start": 132.14,
+          "end": 133.28
+        }
+      ],
+      "start": 127.74,
+      "end": 133.9,
+      "confidence": 0.8,
+      "time": 127.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "mirad a Dios.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mirad",
+          "start": 133.9,
+          "end": 136.0
+        },
+        {
+          "word": "a",
+          "start": 136.0,
+          "end": 136.46
+        },
+        {
+          "word": "Dios.",
+          "start": 136.46,
+          "end": 138.78
+        }
+      ],
+      "start": 133.9,
+      "end": 138.78,
+      "confidence": 1.0,
+      "time": 133.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Levantad la vista al cielo,",
+      "words": [
+        {
+          "word": "Levantad",
+          "start": 140.24,
+          "end": 141.64
+        },
+        {
+          "word": "la",
+          "start": 141.64,
+          "end": 142.38
+        },
+        {
+          "word": "vista",
+          "start": 142.38,
+          "end": 143.32
+        },
+        {
+          "word": "al",
+          "start": 143.32,
+          "end": 143.74
+        },
+        {
+          "word": "cielo,",
+          "start": 143.74,
+          "end": 144.84
+        }
+      ],
+      "start": 140.24,
+      "end": 146.12,
+      "confidence": 1.0,
+      "time": 140.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "mirad a Dios;",
+      "words": [
+        {
+          "word": "mirad",
+          "start": 146.12,
+          "end": 147.66
+        },
+        {
+          "word": "a",
+          "start": 147.66,
+          "end": 148.24
+        },
+        {
+          "word": "Dios.",
+          "start": 148.24,
+          "end": 150.48
+        }
+      ],
+      "start": 146.12,
+      "end": 150.48,
+      "confidence": 1.0,
+      "time": 146.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "si vuestra alma está cansada,",
+      "words": [
+        {
+          "word": "Si",
+          "start": 151.04,
+          "end": 152.0
+        },
+        {
+          "word": "vuestra",
+          "start": 152.0,
+          "end": 152.92
+        },
+        {
+          "word": "alma",
+          "start": 152.92,
+          "end": 153.6
+        },
+        {
+          "word": "está",
+          "start": 153.6,
+          "end": 154.7
+        },
+        {
+          "word": "cansada,",
+          "start": 154.7,
+          "end": 156.4
+        }
+      ],
+      "start": 151.04,
+      "end": 157.44,
+      "confidence": 1.0,
+      "time": 151.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "mirad a Dios.",
+      "words": [
+        {
+          "word": "mirad",
+          "start": 157.44,
+          "end": 159.56
+        },
+        {
+          "word": "a",
+          "start": 159.56,
+          "end": 159.88
+        },
+        {
+          "word": "Dios.",
+          "start": 159.88,
+          "end": 162.54
+        }
+      ],
+      "start": 157.44,
+      "end": 162.54,
+      "confidence": 1.0,
+      "time": 157.44
+    }
+  ]
+}

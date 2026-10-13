@@ -1,0 +1,456 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.944,
+  "language": "es",
+  "model": "medium",
+  "hymn": 345,
+  "source": "345 - Canta y tus penas se iran.mp3",
+  "duration": 70.56,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Canta, y tus penas se irán,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Canta",
+          "start": 11.02,
+          "end": 12.22
+        },
+        {
+          "word": "y",
+          "start": 12.22,
+          "end": 12.7
+        },
+        {
+          "word": "tus",
+          "start": 12.7,
+          "end": 13.14
+        },
+        {
+          "word": "penas",
+          "start": 13.14,
+          "end": 13.92
+        },
+        {
+          "word": "se",
+          "start": 13.92,
+          "end": 14.22
+        },
+        {
+          "word": "irán,",
+          "start": 14.22,
+          "end": 15.14
+        }
+      ],
+      "start": 11.02,
+      "end": 15.14,
+      "confidence": 1.0,
+      "time": 11.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "canta, y tus penas se irán;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "canta",
+          "start": 15.14,
+          "end": 16.9
+        },
+        {
+          "word": "y",
+          "start": 16.9,
+          "end": 17.0
+        },
+        {
+          "word": "tus",
+          "start": 17.0,
+          "end": 17.46
+        },
+        {
+          "word": "penas",
+          "start": 17.46,
+          "end": 18.16
+        },
+        {
+          "word": "se",
+          "start": 18.16,
+          "end": 18.66
+        },
+        {
+          "word": "irán,",
+          "start": 18.66,
+          "end": 19.3
+        }
+      ],
+      "start": 15.14,
+      "end": 19.68,
+      "confidence": 1.0,
+      "time": 15.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús hoy promete quitártelas;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 19.68,
+          "end": 20.28
+        },
+        {
+          "word": "promete",
+          "start": 20.86,
+          "end": 21.6
+        },
+        {
+          "word": "quitártelas,",
+          "start": 21.6,
+          "end": 23.92
+        }
+      ],
+      "start": 19.68,
+      "end": 24.9,
+      "confidence": 0.75,
+      "time": 19.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "canta, y tus penas se irán.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "canta",
+          "start": 24.9,
+          "end": 25.94
+        },
+        {
+          "word": "y",
+          "start": 25.94,
+          "end": 26.14
+        },
+        {
+          "word": "tus",
+          "start": 26.14,
+          "end": 26.58
+        },
+        {
+          "word": "penas",
+          "start": 26.58,
+          "end": 27.48
+        },
+        {
+          "word": "se",
+          "start": 27.48,
+          "end": 27.82
+        },
+        {
+          "word": "irán.",
+          "start": 27.82,
+          "end": 29.06
+        }
+      ],
+      "start": 24.9,
+      "end": 29.06,
+      "confidence": 1.0,
+      "time": 24.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Ríe, tus cuitas se irán,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Ríe",
+          "start": 29.06,
+          "end": 31.46
+        },
+        {
+          "word": "tus",
+          "start": 31.46,
+          "end": 31.82
+        },
+        {
+          "word": "cuitas",
+          "start": 31.82,
+          "end": 32.56
+        },
+        {
+          "word": "se",
+          "start": 32.56,
+          "end": 33.02
+        },
+        {
+          "word": "irán,",
+          "start": 33.02,
+          "end": 34.02
+        }
+      ],
+      "start": 29.06,
+      "end": 34.02,
+      "confidence": 1.0,
+      "time": 29.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "ríe, tus cuitas se irán;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ríe",
+          "start": 34.02,
+          "end": 35.92
+        },
+        {
+          "word": "tus",
+          "start": 35.92,
+          "end": 36.26
+        },
+        {
+          "word": "cuitas",
+          "start": 36.26,
+          "end": 37.0
+        },
+        {
+          "word": "se",
+          "start": 37.0,
+          "end": 37.5
+        },
+        {
+          "word": "irán,",
+          "start": 37.5,
+          "end": 38.18
+        }
+      ],
+      "start": 34.02,
+      "end": 38.28,
+      "confidence": 1.0,
+      "time": 34.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Jesús hoy promete quitártelas;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 38.28,
+          "end": 39.2
+        },
+        {
+          "word": "promete",
+          "start": 39.2,
+          "end": 40.46
+        },
+        {
+          "word": "quitártelas,",
+          "start": 40.46,
+          "end": 42.74
+        }
+      ],
+      "start": 38.28,
+      "end": 43.18,
+      "confidence": 0.75,
+      "time": 38.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "ríe, tus cuitas se irán.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ríe",
+          "start": 43.18,
+          "end": 45.08
+        },
+        {
+          "word": "tus",
+          "start": 45.08,
+          "end": 45.46
+        },
+        {
+          "word": "cuitas",
+          "start": 45.46,
+          "end": 46.16
+        },
+        {
+          "word": "se",
+          "start": 46.16,
+          "end": 46.64
+        },
+        {
+          "word": "irán.",
+          "start": 46.64,
+          "end": 48.32
+        }
+      ],
+      "start": 43.18,
+      "end": 48.32,
+      "confidence": 1.0,
+      "time": 43.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Ora, y tus cargas se irán,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Ahora",
+          "start": 48.32,
+          "end": 50.14
+        },
+        {
+          "word": "y",
+          "start": 50.14,
+          "end": 50.46
+        },
+        {
+          "word": "tus",
+          "start": 50.46,
+          "end": 50.84
+        },
+        {
+          "word": "cargas",
+          "start": 50.84,
+          "end": 51.56
+        },
+        {
+          "word": "se",
+          "start": 51.56,
+          "end": 51.84
+        },
+        {
+          "word": "irán,",
+          "start": 51.84,
+          "end": 52.86
+        }
+      ],
+      "start": 48.32,
+      "end": 53.46,
+      "confidence": 0.975,
+      "time": 48.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ora, y tus cargas se irán;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ahora",
+          "start": 53.46,
+          "end": 54.6
+        },
+        {
+          "word": "y",
+          "start": 54.6,
+          "end": 54.8
+        },
+        {
+          "word": "tus",
+          "start": 54.8,
+          "end": 55.16
+        },
+        {
+          "word": "cargas",
+          "start": 55.16,
+          "end": 55.86
+        },
+        {
+          "word": "se",
+          "start": 55.86,
+          "end": 56.32
+        },
+        {
+          "word": "irán.",
+          "start": 56.32,
+          "end": 56.98
+        }
+      ],
+      "start": 53.46,
+      "end": 56.98,
+      "confidence": 0.975,
+      "time": 53.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Jesús hoy promete quitártelas;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 57.44,
+          "end": 58.06
+        },
+        {
+          "word": "promete",
+          "start": 58.46,
+          "end": 59.4
+        },
+        {
+          "word": "quitarte",
+          "start": 59.4,
+          "end": 60.96
+        }
+      ],
+      "start": 57.44,
+      "end": 63.14,
+      "confidence": 0.735,
+      "time": 57.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ora, y tus cargas se irán.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ahora",
+          "start": 63.14,
+          "end": 63.46
+        },
+        {
+          "word": "y",
+          "start": 63.46,
+          "end": 64.04
+        },
+        {
+          "word": "tus",
+          "start": 64.04,
+          "end": 64.3
+        },
+        {
+          "word": "cargas",
+          "start": 64.3,
+          "end": 65.08
+        },
+        {
+          "word": "se",
+          "start": 65.08,
+          "end": 65.72
+        },
+        {
+          "word": "irán.",
+          "start": 65.72,
+          "end": 67.9
+        }
+      ],
+      "start": 63.14,
+      "end": 67.9,
+      "confidence": 0.975,
+      "time": 63.14
+    }
+  ]
+}

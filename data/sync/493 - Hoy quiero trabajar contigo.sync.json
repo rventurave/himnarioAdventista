@@ -1,0 +1,481 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.957,
+  "language": "es",
+  "model": "medium",
+  "hymn": 493,
+  "source": "493 - Hoy quiero trabajar contigo.mp3",
+  "duration": 127.95,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Hoy quiero trabajar contigo, Dios,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 11.12,
+          "end": 12.52
+        },
+        {
+          "word": "quiero",
+          "start": 12.52,
+          "end": 13.66
+        },
+        {
+          "word": "trabajar",
+          "start": 13.66,
+          "end": 15.72
+        },
+        {
+          "word": "contigo,",
+          "start": 15.72,
+          "end": 18.2
+        },
+        {
+          "word": "Dios,",
+          "start": 18.2,
+          "end": 20.26
+        }
+      ],
+      "start": 11.12,
+      "end": 21.6,
+      "confidence": 1.0,
+      "time": 11.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "aunque indigno soy, y pecador.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "aunque",
+          "start": 21.6,
+          "end": 22.26
+        },
+        {
+          "word": "indigno",
+          "start": 22.26,
+          "end": 23.98
+        },
+        {
+          "word": "soy",
+          "start": 23.98,
+          "end": 24.92
+        },
+        {
+          "word": "y",
+          "start": 24.92,
+          "end": 26.32
+        },
+        {
+          "word": "pecador,",
+          "start": 26.32,
+          "end": 29.22
+        }
+      ],
+      "start": 21.6,
+      "end": 29.22,
+      "confidence": 1.0,
+      "time": 21.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Me rindo entero a ti, te doy mi corazón,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ritmo",
+          "start": 30.82,
+          "end": 31.66
+        },
+        {
+          "word": "entero",
+          "start": 31.66,
+          "end": 32.78
+        },
+        {
+          "word": "a",
+          "start": 32.78,
+          "end": 33.22
+        },
+        {
+          "word": "Ti",
+          "start": 33.22,
+          "end": 34.1
+        },
+        {
+          "word": "te",
+          "start": 34.1,
+          "end": 35.44
+        },
+        {
+          "word": "doy",
+          "start": 35.44,
+          "end": 35.94
+        },
+        {
+          "word": "mi",
+          "start": 35.94,
+          "end": 36.7
+        },
+        {
+          "word": "corazón",
+          "start": 36.7,
+          "end": 38.24
+        }
+      ],
+      "start": 30.82,
+      "end": 38.24,
+      "confidence": 0.862,
+      "time": 30.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "para poder vivir contigo, Dios.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "para",
+          "start": 38.24,
+          "end": 40.32
+        },
+        {
+          "word": "poder",
+          "start": 40.32,
+          "end": 41.44
+        },
+        {
+          "word": "vivir",
+          "start": 41.44,
+          "end": 43.12
+        },
+        {
+          "word": "contigo,",
+          "start": 43.12,
+          "end": 45.46
+        },
+        {
+          "word": "Dios.",
+          "start": 45.46,
+          "end": 47.68
+        }
+      ],
+      "start": 38.24,
+      "end": 47.68,
+      "confidence": 1.0,
+      "time": 38.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Al ir a trabajar contigo, Dios,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 47.68,
+          "end": 50.04
+        },
+        {
+          "word": "ir",
+          "start": 50.04,
+          "end": 50.94
+        },
+        {
+          "word": "a",
+          "start": 50.94,
+          "end": 51.6
+        },
+        {
+          "word": "trabajar",
+          "start": 51.6,
+          "end": 53.12
+        },
+        {
+          "word": "contigo,",
+          "start": 53.12,
+          "end": 55.6
+        },
+        {
+          "word": "Dios,",
+          "start": 56.36,
+          "end": 57.72
+        }
+      ],
+      "start": 47.68,
+      "end": 58.92,
+      "confidence": 0.967,
+      "time": 47.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "dame tu gracia hoy para amar;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "dame",
+          "start": 58.92,
+          "end": 59.6
+        },
+        {
+          "word": "tu",
+          "start": 59.6,
+          "end": 60.26
+        },
+        {
+          "word": "gracia",
+          "start": 60.26,
+          "end": 61.34
+        },
+        {
+          "word": "hoy",
+          "start": 61.34,
+          "end": 62.34
+        },
+        {
+          "word": "para",
+          "start": 62.34,
+          "end": 64.18
+        },
+        {
+          "word": "amar.",
+          "start": 64.18,
+          "end": 66.56
+        }
+      ],
+      "start": 58.92,
+      "end": 66.56,
+      "confidence": 1.0,
+      "time": 58.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "al pobre, ayudar; a enfermos, consolar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Al",
+          "start": 66.56,
+          "end": 68.14
+        },
+        {
+          "word": "pobre",
+          "start": 68.14,
+          "end": 69.2
+        },
+        {
+          "word": "ayudar,",
+          "start": 69.2,
+          "end": 71.16
+        },
+        {
+          "word": "al",
+          "start": 72.48,
+          "end": 72.96
+        },
+        {
+          "word": "enfermos",
+          "start": 72.96,
+          "end": 73.86
+        },
+        {
+          "word": "consolar,",
+          "start": 73.86,
+          "end": 75.68
+        }
+      ],
+      "start": 66.56,
+      "end": 76.92,
+      "confidence": 0.967,
+      "time": 66.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y almas alcanzar contigo, Dios.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 76.92,
+          "end": 77.48
+        },
+        {
+          "word": "al",
+          "start": 77.48,
+          "end": 78.0
+        },
+        {
+          "word": "alcanzar",
+          "start": 78.58,
+          "end": 80.6
+        },
+        {
+          "word": "contigo",
+          "start": 80.6,
+          "end": 82.86
+        },
+        {
+          "word": "Dios.",
+          "start": 82.86,
+          "end": 85.12
+        }
+      ],
+      "start": 76.92,
+      "end": 85.12,
+      "confidence": 0.988,
+      "time": 76.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Queremos trabajar contigo Dios,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Queremos",
+          "start": 87.62,
+          "end": 89.02
+        },
+        {
+          "word": "trabajar",
+          "start": 89.02,
+          "end": 90.42
+        },
+        {
+          "word": "contigo",
+          "start": 90.42,
+          "end": 92.94
+        },
+        {
+          "word": "Dios.",
+          "start": 92.94,
+          "end": 94.92
+        }
+      ],
+      "start": 87.62,
+      "end": 94.92,
+      "confidence": 1.0,
+      "time": 87.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "hasta poder llegar a tu hogar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "hasta",
+          "start": 94.92,
+          "end": 96.98
+        },
+        {
+          "word": "poder",
+          "start": 96.98,
+          "end": 98.1
+        },
+        {
+          "word": "llegar",
+          "start": 98.1,
+          "end": 99.58
+        },
+        {
+          "word": "a",
+          "start": 99.58,
+          "end": 101.08
+        },
+        {
+          "word": "tu",
+          "start": 101.08,
+          "end": 101.5
+        },
+        {
+          "word": "hogar.",
+          "start": 101.5,
+          "end": 104.26
+        }
+      ],
+      "start": 94.92,
+      "end": 104.26,
+      "confidence": 1.0,
+      "time": 94.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "donde la humanidad gozosa cantará",
+      "verse": 3,
+      "words": [
+        {
+          "word": "don",
+          "start": 104.98,
+          "end": 105.52
+        },
+        {
+          "word": "la",
+          "start": 106.28,
+          "end": 106.82
+        },
+        {
+          "word": "humanidad",
+          "start": 106.82,
+          "end": 108.74
+        },
+        {
+          "word": "acantana",
+          "start": 110.88,
+          "end": 113.04
+        }
+      ],
+      "start": 104.98,
+      "end": 113.04,
+      "confidence": 0.764,
+      "time": 104.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y siempre morará contigo, Dios.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 113.04,
+          "end": 114.56
+        },
+        {
+          "word": "siempre",
+          "start": 114.56,
+          "end": 115.66
+        },
+        {
+          "word": "morará",
+          "start": 115.66,
+          "end": 117.88
+        },
+        {
+          "word": "contigo",
+          "start": 117.88,
+          "end": 120.7
+        },
+        {
+          "word": "Dios.",
+          "start": 120.7,
+          "end": 122.46
+        }
+      ],
+      "start": 113.04,
+      "end": 122.46,
+      "confidence": 1.0,
+      "time": 113.04
+    }
+  ]
+}

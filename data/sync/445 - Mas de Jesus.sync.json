@@ -1,0 +1,1140 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.999,
+  "language": "es",
+  "model": "medium",
+  "hymn": 445,
+  "source": "445 - Mas de Jesus.mp3",
+  "duration": 181.37,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Más de Jesús deseo saber,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Más",
+          "start": 12.52,
+          "end": 13.92
+        },
+        {
+          "word": "de",
+          "start": 13.92,
+          "end": 14.16
+        },
+        {
+          "word": "Jesús",
+          "start": 14.16,
+          "end": 15.2
+        },
+        {
+          "word": "deseo",
+          "start": 15.2,
+          "end": 16.52
+        },
+        {
+          "word": "saber,",
+          "start": 16.52,
+          "end": 17.66
+        }
+      ],
+      "start": 12.52,
+      "end": 18.04,
+      "confidence": 1.0,
+      "time": 12.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "más de su gracia conocer,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "más",
+          "start": 18.04,
+          "end": 18.74
+        },
+        {
+          "word": "de",
+          "start": 18.74,
+          "end": 19.0
+        },
+        {
+          "word": "su",
+          "start": 19.0,
+          "end": 19.36
+        },
+        {
+          "word": "gracia",
+          "start": 19.36,
+          "end": 20.52
+        },
+        {
+          "word": "conocer,",
+          "start": 20.52,
+          "end": 22.4
+        }
+      ],
+      "start": 18.04,
+      "end": 22.4,
+      "confidence": 1.0,
+      "time": 18.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "más de su salvación gozar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "más",
+          "start": 22.4,
+          "end": 23.46
+        },
+        {
+          "word": "de",
+          "start": 23.46,
+          "end": 23.78
+        },
+        {
+          "word": "su",
+          "start": 23.78,
+          "end": 24.1
+        },
+        {
+          "word": "salvación",
+          "start": 24.1,
+          "end": 26.12
+        },
+        {
+          "word": "gozar,",
+          "start": 26.12,
+          "end": 27.3
+        }
+      ],
+      "start": 22.4,
+      "end": 28.12,
+      "confidence": 1.0,
+      "time": 22.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "más de su dulce amor gustar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "más",
+          "start": 28.12,
+          "end": 28.26
+        },
+        {
+          "word": "de",
+          "start": 28.26,
+          "end": 28.58
+        },
+        {
+          "word": "su",
+          "start": 28.58,
+          "end": 28.98
+        },
+        {
+          "word": "dulce",
+          "start": 28.98,
+          "end": 30.04
+        },
+        {
+          "word": "amor",
+          "start": 30.04,
+          "end": 30.94
+        },
+        {
+          "word": "gustar.",
+          "start": 30.94,
+          "end": 33.28
+        }
+      ],
+      "start": 28.12,
+      "end": 33.28,
+      "confidence": 1.0,
+      "time": 28.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Más quiero amarle,",
+      "words": [
+        {
+          "word": "Más",
+          "start": 33.7,
+          "end": 34.96
+        },
+        {
+          "word": "quiero",
+          "start": 34.96,
+          "end": 35.9
+        },
+        {
+          "word": "amarle,",
+          "start": 35.9,
+          "end": 38.06
+        }
+      ],
+      "start": 33.7,
+      "end": 38.48,
+      "confidence": 1.0,
+      "time": 33.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "más quiero honrarle,",
+      "words": [
+        {
+          "word": "más",
+          "start": 38.48,
+          "end": 39.56
+        },
+        {
+          "word": "quiero",
+          "start": 39.56,
+          "end": 40.64
+        },
+        {
+          "word": "honrarle,",
+          "start": 40.64,
+          "end": 42.4
+        }
+      ],
+      "start": 38.48,
+      "end": 42.4,
+      "confidence": 1.0,
+      "time": 38.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "más de su salvación gozar,",
+      "words": [
+        {
+          "word": "más",
+          "start": 42.4,
+          "end": 43.88
+        },
+        {
+          "word": "de",
+          "start": 43.88,
+          "end": 44.18
+        },
+        {
+          "word": "su",
+          "start": 44.18,
+          "end": 45.06
+        },
+        {
+          "word": "salvación",
+          "start": 45.06,
+          "end": 46.54
+        },
+        {
+          "word": "gozar,",
+          "start": 46.54,
+          "end": 47.98
+        }
+      ],
+      "start": 42.4,
+      "end": 48.54,
+      "confidence": 1.0,
+      "time": 42.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "más de su dulce amor gustar.",
+      "words": [
+        {
+          "word": "más",
+          "start": 48.54,
+          "end": 48.68
+        },
+        {
+          "word": "de",
+          "start": 48.68,
+          "end": 48.98
+        },
+        {
+          "word": "su",
+          "start": 48.98,
+          "end": 49.34
+        },
+        {
+          "word": "dulce",
+          "start": 49.34,
+          "end": 50.4
+        },
+        {
+          "word": "amor",
+          "start": 50.4,
+          "end": 51.34
+        },
+        {
+          "word": "gustar.",
+          "start": 51.34,
+          "end": 53.5
+        }
+      ],
+      "start": 48.54,
+      "end": 53.5,
+      "confidence": 1.0,
+      "time": 48.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Más de Jesús deseo oír,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Más",
+          "start": 54.16,
+          "end": 54.74
+        },
+        {
+          "word": "de",
+          "start": 54.74,
+          "end": 54.94
+        },
+        {
+          "word": "Jesús",
+          "start": 54.94,
+          "end": 56.06
+        },
+        {
+          "word": "deseo",
+          "start": 56.06,
+          "end": 57.86
+        },
+        {
+          "word": "ir,",
+          "start": 57.86,
+          "end": 58.52
+        }
+      ],
+      "start": 54.16,
+      "end": 58.9,
+      "confidence": 0.976,
+      "time": 54.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "más de su santa Ley cumplir,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "más",
+          "start": 58.9,
+          "end": 59.56
+        },
+        {
+          "word": "de",
+          "start": 59.56,
+          "end": 59.86
+        },
+        {
+          "word": "su",
+          "start": 59.86,
+          "end": 60.16
+        },
+        {
+          "word": "santa",
+          "start": 60.16,
+          "end": 61.32
+        },
+        {
+          "word": "ley",
+          "start": 61.32,
+          "end": 62.06
+        },
+        {
+          "word": "cumplir,",
+          "start": 62.06,
+          "end": 63.46
+        }
+      ],
+      "start": 58.9,
+      "end": 63.46,
+      "confidence": 1.0,
+      "time": 58.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "más de su voluntad saber,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Más",
+          "start": 63.46,
+          "end": 64.34
+        },
+        {
+          "word": "de",
+          "start": 64.34,
+          "end": 64.58
+        },
+        {
+          "word": "su",
+          "start": 64.58,
+          "end": 64.96
+        },
+        {
+          "word": "voluntad",
+          "start": 64.96,
+          "end": 66.94
+        },
+        {
+          "word": "saber,",
+          "start": 66.94,
+          "end": 68.08
+        }
+      ],
+      "start": 63.46,
+      "end": 68.96,
+      "confidence": 1.0,
+      "time": 63.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "más de su Espíritu tener.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "más",
+          "start": 68.96,
+          "end": 69.12
+        },
+        {
+          "word": "de",
+          "start": 69.12,
+          "end": 69.34
+        },
+        {
+          "word": "su",
+          "start": 69.34,
+          "end": 69.64
+        },
+        {
+          "word": "espíritu",
+          "start": 69.64,
+          "end": 71.74
+        },
+        {
+          "word": "tener.",
+          "start": 71.74,
+          "end": 73.98
+        }
+      ],
+      "start": 68.96,
+      "end": 73.98,
+      "confidence": 1.0,
+      "time": 68.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Más quiero amarle,",
+      "words": [
+        {
+          "word": "Más",
+          "start": 74.56,
+          "end": 75.68
+        },
+        {
+          "word": "quiero",
+          "start": 75.68,
+          "end": 76.66
+        },
+        {
+          "word": "amarle,",
+          "start": 76.66,
+          "end": 78.64
+        }
+      ],
+      "start": 74.56,
+      "end": 79.26,
+      "confidence": 1.0,
+      "time": 74.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "más quiero honrarle,",
+      "words": [
+        {
+          "word": "más",
+          "start": 79.26,
+          "end": 80.36
+        },
+        {
+          "word": "quiero",
+          "start": 80.36,
+          "end": 81.4
+        },
+        {
+          "word": "honrarle,",
+          "start": 81.4,
+          "end": 83.66
+        }
+      ],
+      "start": 79.26,
+      "end": 83.66,
+      "confidence": 1.0,
+      "time": 79.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "más de su salvación gozar,",
+      "words": [
+        {
+          "word": "más",
+          "start": 83.66,
+          "end": 84.66
+        },
+        {
+          "word": "de",
+          "start": 84.66,
+          "end": 85.0
+        },
+        {
+          "word": "su",
+          "start": 85.0,
+          "end": 85.8
+        },
+        {
+          "word": "salvación",
+          "start": 85.8,
+          "end": 87.26
+        },
+        {
+          "word": "gozar,",
+          "start": 87.26,
+          "end": 88.54
+        }
+      ],
+      "start": 83.66,
+      "end": 89.36,
+      "confidence": 1.0,
+      "time": 83.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "más de su dulce amor gustar.",
+      "words": [
+        {
+          "word": "más",
+          "start": 89.36,
+          "end": 89.46
+        },
+        {
+          "word": "de",
+          "start": 89.46,
+          "end": 89.8
+        },
+        {
+          "word": "su",
+          "start": 89.8,
+          "end": 90.16
+        },
+        {
+          "word": "dulce",
+          "start": 90.16,
+          "end": 91.18
+        },
+        {
+          "word": "amor",
+          "start": 91.18,
+          "end": 92.1
+        },
+        {
+          "word": "gustar.",
+          "start": 92.1,
+          "end": 94.54
+        }
+      ],
+      "start": 89.36,
+      "end": 94.54,
+      "confidence": 1.0,
+      "time": 89.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Más de Jesús, más oración,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Más",
+          "start": 95.46,
+          "end": 95.92
+        },
+        {
+          "word": "de",
+          "start": 95.92,
+          "end": 96.2
+        },
+        {
+          "word": "Jesús,",
+          "start": 96.2,
+          "end": 97.22
+        },
+        {
+          "word": "más",
+          "start": 97.66,
+          "end": 97.92
+        },
+        {
+          "word": "oración,",
+          "start": 97.92,
+          "end": 99.72
+        }
+      ],
+      "start": 95.46,
+      "end": 100.44,
+      "confidence": 1.0,
+      "time": 95.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "más cerca estar en comunión,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "más",
+          "start": 100.44,
+          "end": 100.72
+        },
+        {
+          "word": "cerca",
+          "start": 100.72,
+          "end": 101.2
+        },
+        {
+          "word": "estar",
+          "start": 101.2,
+          "end": 102.16
+        },
+        {
+          "word": "en",
+          "start": 102.16,
+          "end": 103.26
+        },
+        {
+          "word": "comunión,",
+          "start": 103.26,
+          "end": 104.54
+        }
+      ],
+      "start": 100.44,
+      "end": 104.54,
+      "confidence": 1.0,
+      "time": 100.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "más su Palabra meditar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Más",
+          "start": 104.54,
+          "end": 105.52
+        },
+        {
+          "word": "Su",
+          "start": 105.52,
+          "end": 105.78
+        },
+        {
+          "word": "Palabra",
+          "start": 105.78,
+          "end": 107.34
+        },
+        {
+          "word": "meditar,",
+          "start": 107.34,
+          "end": 109.36
+        }
+      ],
+      "start": 104.54,
+      "end": 110.02,
+      "confidence": 1.0,
+      "time": 104.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "más sus promesas alcanzar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "más",
+          "start": 110.02,
+          "end": 110.32
+        },
+        {
+          "word": "Sus",
+          "start": 110.32,
+          "end": 110.64
+        },
+        {
+          "word": "promesas",
+          "start": 110.64,
+          "end": 112.62
+        },
+        {
+          "word": "alcanzar",
+          "start": 112.62,
+          "end": 115.26
+        }
+      ],
+      "start": 110.02,
+      "end": 115.26,
+      "confidence": 1.0,
+      "time": 110.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Más quiero amarle,",
+      "words": [
+        {
+          "word": "Más",
+          "start": 115.26,
+          "end": 116.92
+        },
+        {
+          "word": "quiero",
+          "start": 116.92,
+          "end": 117.86
+        },
+        {
+          "word": "amarle,",
+          "start": 117.86,
+          "end": 120.02
+        }
+      ],
+      "start": 115.26,
+      "end": 120.52,
+      "confidence": 1.0,
+      "time": 115.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "más quiero honrarle,",
+      "words": [
+        {
+          "word": "más",
+          "start": 120.52,
+          "end": 121.58
+        },
+        {
+          "word": "quiero",
+          "start": 121.58,
+          "end": 122.6
+        },
+        {
+          "word": "honrarle",
+          "start": 122.6,
+          "end": 125.0
+        }
+      ],
+      "start": 120.52,
+      "end": 125.0,
+      "confidence": 1.0,
+      "time": 120.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "más de su salvación gozar,",
+      "words": [
+        {
+          "word": "más",
+          "start": 125.0,
+          "end": 125.92
+        },
+        {
+          "word": "de",
+          "start": 125.92,
+          "end": 126.2
+        },
+        {
+          "word": "su",
+          "start": 126.2,
+          "end": 127.08
+        },
+        {
+          "word": "salvación",
+          "start": 127.08,
+          "end": 128.48
+        },
+        {
+          "word": "gozar,",
+          "start": 128.48,
+          "end": 129.72
+        }
+      ],
+      "start": 125.0,
+      "end": 130.54,
+      "confidence": 1.0,
+      "time": 125.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "más de su dulce amor gustar.",
+      "words": [
+        {
+          "word": "más",
+          "start": 130.54,
+          "end": 130.72
+        },
+        {
+          "word": "de",
+          "start": 130.72,
+          "end": 131.02
+        },
+        {
+          "word": "su",
+          "start": 131.02,
+          "end": 131.34
+        },
+        {
+          "word": "dulce",
+          "start": 131.34,
+          "end": 132.38
+        },
+        {
+          "word": "amor",
+          "start": 132.38,
+          "end": 133.34
+        },
+        {
+          "word": "gustar.",
+          "start": 133.34,
+          "end": 135.54
+        }
+      ],
+      "start": 130.54,
+      "end": 135.54,
+      "confidence": 1.0,
+      "time": 130.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Más de Jesús allá veré,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Más",
+          "start": 136.46,
+          "end": 136.94
+        },
+        {
+          "word": "de",
+          "start": 136.94,
+          "end": 137.22
+        },
+        {
+          "word": "Jesús",
+          "start": 137.22,
+          "end": 138.28
+        },
+        {
+          "word": "allá",
+          "start": 138.28,
+          "end": 139.56
+        },
+        {
+          "word": "veré,",
+          "start": 139.56,
+          "end": 140.76
+        }
+      ],
+      "start": 136.46,
+      "end": 141.3,
+      "confidence": 1.0,
+      "time": 136.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "más semejante a él seré,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "más",
+          "start": 141.3,
+          "end": 141.82
+        },
+        {
+          "word": "semejante",
+          "start": 141.82,
+          "end": 143.32
+        },
+        {
+          "word": "a",
+          "start": 143.32,
+          "end": 143.72
+        },
+        {
+          "word": "Él",
+          "start": 143.72,
+          "end": 144.44
+        },
+        {
+          "word": "seré,",
+          "start": 144.44,
+          "end": 145.6
+        }
+      ],
+      "start": 141.3,
+      "end": 145.6,
+      "confidence": 1.0,
+      "time": 141.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "más de su gloria he de gozar,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "más",
+          "start": 145.6,
+          "end": 146.46
+        },
+        {
+          "word": "de",
+          "start": 146.46,
+          "end": 146.72
+        },
+        {
+          "word": "su",
+          "start": 146.72,
+          "end": 147.02
+        },
+        {
+          "word": "gloria",
+          "start": 147.02,
+          "end": 148.08
+        },
+        {
+          "word": "he",
+          "start": 148.08,
+          "end": 148.46
+        },
+        {
+          "word": "de",
+          "start": 148.46,
+          "end": 149.18
+        },
+        {
+          "word": "gozar,",
+          "start": 149.18,
+          "end": 150.46
+        }
+      ],
+      "start": 145.6,
+      "end": 151.12,
+      "confidence": 1.0,
+      "time": 145.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "más su gran nombre he de alabar.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "más",
+          "start": 151.12,
+          "end": 151.32
+        },
+        {
+          "word": "su",
+          "start": 151.32,
+          "end": 151.58
+        },
+        {
+          "word": "gran",
+          "start": 151.58,
+          "end": 152.02
+        },
+        {
+          "word": "nombre",
+          "start": 152.02,
+          "end": 153.06
+        },
+        {
+          "word": "he",
+          "start": 153.06,
+          "end": 153.7
+        },
+        {
+          "word": "de",
+          "start": 153.7,
+          "end": 153.9
+        },
+        {
+          "word": "alabar.",
+          "start": 153.9,
+          "end": 156.28
+        }
+      ],
+      "start": 151.12,
+      "end": 156.28,
+      "confidence": 1.0,
+      "time": 151.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Más quiero amarle,",
+      "words": [
+        {
+          "word": "Más",
+          "start": 156.74,
+          "end": 157.84
+        },
+        {
+          "word": "quiero",
+          "start": 157.84,
+          "end": 158.9
+        },
+        {
+          "word": "amarle,",
+          "start": 158.9,
+          "end": 160.98
+        }
+      ],
+      "start": 156.74,
+      "end": 161.48,
+      "confidence": 1.0,
+      "time": 156.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "más quiero honrarle,",
+      "words": [
+        {
+          "word": "más",
+          "start": 161.48,
+          "end": 162.6
+        },
+        {
+          "word": "quiero",
+          "start": 162.6,
+          "end": 163.68
+        },
+        {
+          "word": "honrarle,",
+          "start": 163.68,
+          "end": 166.02
+        }
+      ],
+      "start": 161.48,
+      "end": 166.02,
+      "confidence": 1.0,
+      "time": 161.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "más de su salvación gozar,",
+      "words": [
+        {
+          "word": "más",
+          "start": 166.02,
+          "end": 166.98
+        },
+        {
+          "word": "de",
+          "start": 166.98,
+          "end": 167.26
+        },
+        {
+          "word": "su",
+          "start": 167.26,
+          "end": 168.04
+        },
+        {
+          "word": "salvación",
+          "start": 168.04,
+          "end": 169.54
+        },
+        {
+          "word": "gozar,",
+          "start": 169.54,
+          "end": 170.7
+        }
+      ],
+      "start": 166.02,
+      "end": 171.64,
+      "confidence": 1.0,
+      "time": 166.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "más de su dulce amor gustar.",
+      "words": [
+        {
+          "word": "más",
+          "start": 171.64,
+          "end": 171.78
+        },
+        {
+          "word": "de",
+          "start": 171.78,
+          "end": 172.06
+        },
+        {
+          "word": "su",
+          "start": 172.06,
+          "end": 172.36
+        },
+        {
+          "word": "dulce",
+          "start": 172.36,
+          "end": 173.52
+        },
+        {
+          "word": "amor",
+          "start": 173.52,
+          "end": 174.62
+        },
+        {
+          "word": "gustar.",
+          "start": 174.62,
+          "end": 177.82
+        }
+      ],
+      "start": 171.64,
+      "end": 177.82,
+      "confidence": 1.0,
+      "time": 171.64
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.897,
+  "language": "es",
+  "model": "medium",
+  "hymn": 586,
+  "source": "586 - En memoria de mi.mp3",
+  "duration": 184.55,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "En memoria de mí, esto haced:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 13.7,
+          "end": 15.1
+        },
+        {
+          "word": "memoria",
+          "start": 15.1,
+          "end": 16.5
+        },
+        {
+          "word": "de",
+          "start": 16.5,
+          "end": 16.92
+        },
+        {
+          "word": "mí",
+          "start": 16.92,
+          "end": 19.28
+        },
+        {
+          "word": "es",
+          "start": 19.28,
+          "end": 19.8
+        }
+      ],
+      "start": 13.7,
+      "end": 22.82,
+      "confidence": 0.823,
+      "time": 13.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "hoy comed este pan, con unción.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 22.82,
+          "end": 23.92
+        },
+        {
+          "word": "comé",
+          "start": 23.92,
+          "end": 25.66
+        },
+        {
+          "word": "Esteban",
+          "start": 26.1,
+          "end": 27.86
+        },
+        {
+          "word": "con",
+          "start": 27.86,
+          "end": 28.52
+        },
+        {
+          "word": "unción.",
+          "start": 28.52,
+          "end": 31.7
+        }
+      ],
+      "start": 22.82,
+      "end": 31.7,
+      "confidence": 0.813,
+      "time": 22.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "En memoria de mí, todos bebed",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 32.58,
+          "end": 32.7
+        },
+        {
+          "word": "memoria",
+          "start": 32.7,
+          "end": 34.8
+        },
+        {
+          "word": "de",
+          "start": 34.8,
+          "end": 35.3
+        },
+        {
+          "word": "mí,",
+          "start": 35.3,
+          "end": 36.98
+        },
+        {
+          "word": "todos",
+          "start": 37.72,
+          "end": 38.92
+        },
+        {
+          "word": "bebés",
+          "start": 38.92,
+          "end": 40.66
+        }
+      ],
+      "start": 32.58,
+      "end": 40.66,
+      "confidence": 0.98,
+      "time": 32.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "la copa de comunión.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 40.66,
+          "end": 41.7
+        },
+        {
+          "word": "coba",
+          "start": 41.7,
+          "end": 42.98
+        },
+        {
+          "word": "de",
+          "start": 42.98,
+          "end": 44.72
+        },
+        {
+          "word": "comunión.",
+          "start": 44.72,
+          "end": 49.42
+        }
+      ],
+      "start": 40.66,
+      "end": 49.42,
+      "confidence": 0.963,
+      "time": 40.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "En memoria de mí, bien haced;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 49.42,
+          "end": 50.94
+        },
+        {
+          "word": "memoria",
+          "start": 50.94,
+          "end": 53.4
+        },
+        {
+          "word": "de",
+          "start": 53.4,
+          "end": 53.92
+        },
+        {
+          "word": "mi",
+          "start": 53.92,
+          "end": 55.96
+        },
+        {
+          "word": "nacer,",
+          "start": 55.96,
+          "end": 59.8
+        }
+      ],
+      "start": 49.42,
+      "end": 60.66,
+      "confidence": 0.793,
+      "time": 49.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "al enfermo sanad con amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "al",
+          "start": 60.66,
+          "end": 60.84
+        },
+        {
+          "word": "enfermo",
+          "start": 60.84,
+          "end": 62.8
+        },
+        {
+          "word": "sanar",
+          "start": 62.8,
+          "end": 64.58
+        },
+        {
+          "word": "con",
+          "start": 64.58,
+          "end": 65.08
+        },
+        {
+          "word": "amor.",
+          "start": 65.08,
+          "end": 68.34
+        }
+      ],
+      "start": 60.66,
+      "end": 68.34,
+      "confidence": 0.976,
+      "time": 60.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "En memoria de mí, doquiera vais",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 68.34,
+          "end": 69.26
+        },
+        {
+          "word": "memoria",
+          "start": 69.26,
+          "end": 71.5
+        },
+        {
+          "word": "de",
+          "start": 71.5,
+          "end": 72.12
+        },
+        {
+          "word": "mí,",
+          "start": 72.12,
+          "end": 73.74
+        },
+        {
+          "word": "quiera",
+          "start": 74.98,
+          "end": 76.12
+        }
+      ],
+      "start": 68.34,
+      "end": 77.44,
+      "confidence": 0.819,
+      "time": 68.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "llevad consolación, paz y perdón.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "con",
+          "start": 79.84,
+          "end": 80.86
+        },
+        {
+          "word": "Paz",
+          "start": 85.62,
+          "end": 86.38
+        },
+        {
+          "word": "y",
+          "start": 86.38,
+          "end": 87.22
+        },
+        {
+          "word": "perdón.",
+          "start": 87.22,
+          "end": 92.12
+        }
+      ],
+      "start": 79.84,
+      "end": 92.12,
+      "confidence": 0.788,
+      "time": 79.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Nuevo pacto hago hoy,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Nuevo",
+          "start": 95.42,
+          "end": 96.82
+        },
+        {
+          "word": "pacto",
+          "start": 96.82,
+          "end": 98.22
+        },
+        {
+          "word": "hago",
+          "start": 98.22,
+          "end": 98.84
+        },
+        {
+          "word": "hoy,",
+          "start": 98.84,
+          "end": 100.82
+        }
+      ],
+      "start": 95.42,
+      "end": 101.68,
+      "confidence": 1.0,
+      "time": 95.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "mi sangre y cuerpo os doy;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mi",
+          "start": 101.68,
+          "end": 102.38
+        },
+        {
+          "word": "sangre",
+          "start": 102.38,
+          "end": 102.92
+        },
+        {
+          "word": "y",
+          "start": 102.92,
+          "end": 103.42
+        },
+        {
+          "word": "cuerpo",
+          "start": 103.42,
+          "end": 104.8
+        },
+        {
+          "word": "soy.",
+          "start": 104.8,
+          "end": 108.38
+        }
+      ],
+      "start": 101.68,
+      "end": 108.38,
+      "confidence": 0.8,
+      "time": 101.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "ofrenda preciosa de salvación",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Ofrenda",
+          "start": 108.38,
+          "end": 111.0
+        },
+        {
+          "word": "preciosa",
+          "start": 111.0,
+          "end": 112.98
+        },
+        {
+          "word": "de",
+          "start": 112.98,
+          "end": 113.88
+        },
+        {
+          "word": "salvación",
+          "start": 113.88,
+          "end": 116.48
+        }
+      ],
+      "start": 108.38,
+      "end": 116.48,
+      "confidence": 1.0,
+      "time": 108.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y perdón eternal.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 116.48,
+          "end": 117.68
+        },
+        {
+          "word": "perdón",
+          "start": 117.68,
+          "end": 121.52
+        },
+        {
+          "word": "eternal.",
+          "start": 121.52,
+          "end": 126.92
+        }
+      ],
+      "start": 116.48,
+      "end": 126.92,
+      "confidence": 1.0,
+      "time": 116.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En memoria de mí, que os améis",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 126.92,
+          "end": 127.9
+        },
+        {
+          "word": "memoria",
+          "start": 127.9,
+          "end": 130.38
+        },
+        {
+          "word": "de",
+          "start": 130.38,
+          "end": 130.96
+        },
+        {
+          "word": "mí,",
+          "start": 130.96,
+          "end": 133.08
+        },
+        {
+          "word": "que",
+          "start": 133.2,
+          "end": 133.4
+        },
+        {
+          "word": "os",
+          "start": 133.4,
+          "end": 133.78
+        },
+        {
+          "word": "améis,",
+          "start": 133.78,
+          "end": 136.86
+        }
+      ],
+      "start": 126.92,
+      "end": 137.62,
+      "confidence": 1.0,
+      "time": 126.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "como yo, con amor fraternal.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "como",
+          "start": 137.62,
+          "end": 137.98
+        },
+        {
+          "word": "yo",
+          "start": 137.98,
+          "end": 138.76
+        },
+        {
+          "word": "con",
+          "start": 138.76,
+          "end": 139.94
+        },
+        {
+          "word": "amor",
+          "start": 139.94,
+          "end": 141.46
+        },
+        {
+          "word": "fraternoy.",
+          "start": 141.46,
+          "end": 145.44
+        }
+      ],
+      "start": 137.62,
+      "end": 145.44,
+      "confidence": 0.973,
+      "time": 137.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En memoria de mí, amad a Dios",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 145.44,
+          "end": 146.22
+        },
+        {
+          "word": "memoria",
+          "start": 146.22,
+          "end": 148.44
+        },
+        {
+          "word": "de",
+          "start": 148.44,
+          "end": 148.9
+        },
+        {
+          "word": "mí,",
+          "start": 148.9,
+          "end": 150.62
+        },
+        {
+          "word": "amada",
+          "start": 151.34,
+          "end": 152.94
+        },
+        {
+          "word": "Dios,",
+          "start": 152.94,
+          "end": 154.1
+        }
+      ],
+      "start": 145.44,
+      "end": 155.22,
+      "confidence": 0.849,
+      "time": 145.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de corazón, amad a Dios, a Dios.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "corazón,",
+          "start": 155.22,
+          "end": 157.98
+        },
+        {
+          "word": "Amada",
+          "start": 160.18,
+          "end": 161.58
+        },
+        {
+          "word": "a",
+          "start": 161.58,
+          "end": 162.04
+        },
+        {
+          "word": "Dios,",
+          "start": 162.04,
+          "end": 163.4
+        },
+        {
+          "word": "a",
+          "start": 164.68,
+          "end": 164.98
+        },
+        {
+          "word": "Dios,",
+          "start": 164.98,
+          "end": 168.78
+        }
+      ],
+      "start": 155.22,
+      "end": 169.7,
+      "confidence": 0.849,
+      "time": 155.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En memoria de mí.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 169.7,
+          "end": 170.08
+        },
+        {
+          "word": "memoria",
+          "start": 170.08,
+          "end": 172.48
+        },
+        {
+          "word": "de",
+          "start": 172.48,
+          "end": 173.9
+        },
+        {
+          "word": "mí.",
+          "start": 173.9,
+          "end": 176.26
+        }
+      ],
+      "start": 169.7,
+      "end": 176.26,
+      "confidence": 1.0,
+      "time": 169.7
+    }
+  ]
+}

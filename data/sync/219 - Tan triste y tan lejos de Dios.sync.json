@@ -1,0 +1,1455 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.963,
+  "language": "es",
+  "model": "medium",
+  "hymn": 219,
+  "source": "219 - Tan triste y tan lejos de Dios.mp3",
+  "duration": 279.75,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tan triste y tan lejos de Dios me sentí",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tan",
+          "start": 16.16,
+          "end": 17.56
+        },
+        {
+          "word": "triste",
+          "start": 17.56,
+          "end": 18.78
+        },
+        {
+          "word": "y",
+          "start": 18.78,
+          "end": 19.08
+        },
+        {
+          "word": "tan",
+          "start": 19.08,
+          "end": 19.76
+        },
+        {
+          "word": "lejos",
+          "start": 19.76,
+          "end": 20.94
+        },
+        {
+          "word": "de",
+          "start": 20.94,
+          "end": 21.56
+        },
+        {
+          "word": "Dios",
+          "start": 21.56,
+          "end": 22.52
+        },
+        {
+          "word": "me",
+          "start": 22.52,
+          "end": 23.08
+        },
+        {
+          "word": "sentí,",
+          "start": 23.08,
+          "end": 24.84
+        }
+      ],
+      "start": 16.16,
+      "end": 24.84,
+      "confidence": 1.0,
+      "time": 16.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y sin el perdón de Jesús.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Y",
+          "start": 24.84,
+          "end": 25.62
+        },
+        {
+          "word": "sin",
+          "start": 25.62,
+          "end": 26.6
+        },
+        {
+          "word": "el",
+          "start": 26.6,
+          "end": 27.22
+        },
+        {
+          "word": "perdón",
+          "start": 27.22,
+          "end": 28.24
+        },
+        {
+          "word": "de",
+          "start": 28.24,
+          "end": 28.9
+        },
+        {
+          "word": "Jesús",
+          "start": 28.9,
+          "end": 32.16
+        }
+      ],
+      "start": 24.84,
+      "end": 32.16,
+      "confidence": 1.0,
+      "time": 24.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mas cuando su voz amorosa oí",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mas",
+          "start": 32.84,
+          "end": 33.64
+        },
+        {
+          "word": "cuando",
+          "start": 33.64,
+          "end": 34.98
+        },
+        {
+          "word": "su",
+          "start": 34.98,
+          "end": 35.62
+        },
+        {
+          "word": "voz",
+          "start": 35.62,
+          "end": 36.78
+        },
+        {
+          "word": "amorosa",
+          "start": 36.78,
+          "end": 38.94
+        },
+        {
+          "word": "oí",
+          "start": 38.94,
+          "end": 40.72
+        }
+      ],
+      "start": 32.84,
+      "end": 40.72,
+      "confidence": 1.0,
+      "time": 32.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que dijo: \"Oh, ven a la luz\".",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Que",
+          "start": 40.72,
+          "end": 41.66
+        },
+        {
+          "word": "dijo,",
+          "start": 41.66,
+          "end": 42.96
+        },
+        {
+          "word": "ven",
+          "start": 43.7,
+          "end": 44.92
+        },
+        {
+          "word": "a",
+          "start": 44.92,
+          "end": 45.44
+        },
+        {
+          "word": "la",
+          "start": 45.44,
+          "end": 45.88
+        },
+        {
+          "word": "luz",
+          "start": 45.88,
+          "end": 48.42
+        }
+      ],
+      "start": 40.72,
+      "end": 48.42,
+      "confidence": 0.857,
+      "time": 40.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Yo todo dejé para andar en la luz,",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 48.42,
+          "end": 49.56
+        },
+        {
+          "word": "todo",
+          "start": 49.56,
+          "end": 50.9
+        },
+        {
+          "word": "dejé",
+          "start": 50.9,
+          "end": 52.8
+        },
+        {
+          "word": "para",
+          "start": 52.8,
+          "end": 53.42
+        },
+        {
+          "word": "andar",
+          "start": 53.42,
+          "end": 54.78
+        },
+        {
+          "word": "en",
+          "start": 54.78,
+          "end": 55.18
+        },
+        {
+          "word": "la",
+          "start": 55.18,
+          "end": 55.8
+        },
+        {
+          "word": "luz,",
+          "start": 55.8,
+          "end": 56.76
+        }
+      ],
+      "start": 48.42,
+      "end": 57.32,
+      "confidence": 1.0,
+      "time": 48.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "no moro en tinieblas ya más;",
+      "words": [
+        {
+          "word": "no",
+          "start": 57.32,
+          "end": 57.86
+        },
+        {
+          "word": "moro",
+          "start": 57.86,
+          "end": 58.8
+        },
+        {
+          "word": "en",
+          "start": 58.8,
+          "end": 59.16
+        },
+        {
+          "word": "ti,",
+          "start": 59.16,
+          "end": 59.6
+        },
+        {
+          "word": "llamas.",
+          "start": 60.82,
+          "end": 64.62
+        }
+      ],
+      "start": 57.32,
+      "end": 64.62,
+      "confidence": 0.79,
+      "time": 57.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "encuentro la paz en seguir a Jesús",
+      "words": [
+        {
+          "word": "Encuentro",
+          "start": 64.62,
+          "end": 67.02
+        },
+        {
+          "word": "la",
+          "start": 67.02,
+          "end": 67.74
+        },
+        {
+          "word": "paz",
+          "start": 67.74,
+          "end": 68.56
+        },
+        {
+          "word": "en",
+          "start": 68.56,
+          "end": 69.26
+        },
+        {
+          "word": "seguir",
+          "start": 69.26,
+          "end": 70.54
+        },
+        {
+          "word": "a",
+          "start": 70.54,
+          "end": 71.08
+        },
+        {
+          "word": "Jesús",
+          "start": 71.08,
+          "end": 72.6
+        }
+      ],
+      "start": 64.62,
+      "end": 72.6,
+      "confidence": 1.0,
+      "time": 64.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y vivo en la luz de su faz.",
+      "words": [
+        {
+          "word": "y",
+          "start": 72.6,
+          "end": 73.86
+        },
+        {
+          "word": "vivo",
+          "start": 73.86,
+          "end": 74.7
+        },
+        {
+          "word": "en",
+          "start": 74.7,
+          "end": 75.2
+        },
+        {
+          "word": "la",
+          "start": 75.2,
+          "end": 75.88
+        },
+        {
+          "word": "luz",
+          "start": 75.88,
+          "end": 76.96
+        },
+        {
+          "word": "de",
+          "start": 76.96,
+          "end": 77.48
+        },
+        {
+          "word": "su",
+          "start": 77.48,
+          "end": 77.8
+        },
+        {
+          "word": "faz.",
+          "start": 77.8,
+          "end": 80.18
+        }
+      ],
+      "start": 72.6,
+      "end": 80.18,
+      "confidence": 1.0,
+      "time": 72.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Qué amigo tan dulce es el tierno Jesús!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¡Qué",
+          "start": 80.18,
+          "end": 82.36
+        },
+        {
+          "word": "amigo",
+          "start": 82.36,
+          "end": 83.84
+        },
+        {
+          "word": "tan",
+          "start": 83.84,
+          "end": 84.8
+        },
+        {
+          "word": "dulce",
+          "start": 84.8,
+          "end": 85.86
+        },
+        {
+          "word": "es",
+          "start": 85.86,
+          "end": 86.22
+        },
+        {
+          "word": "el",
+          "start": 86.22,
+          "end": 86.6
+        },
+        {
+          "word": "tierno",
+          "start": 86.6,
+          "end": 87.94
+        },
+        {
+          "word": "Jesús,",
+          "start": 87.94,
+          "end": 89.62
+        }
+      ],
+      "start": 80.18,
+      "end": 90.1,
+      "confidence": 1.0,
+      "time": 80.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡Tan lleno de paz y de amor!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tan",
+          "start": 90.1,
+          "end": 90.66
+        },
+        {
+          "word": "lleno",
+          "start": 90.66,
+          "end": 91.94
+        },
+        {
+          "word": "de",
+          "start": 91.94,
+          "end": 92.6
+        },
+        {
+          "word": "paz",
+          "start": 92.6,
+          "end": 93.34
+        },
+        {
+          "word": "y",
+          "start": 93.34,
+          "end": 93.98
+        },
+        {
+          "word": "de",
+          "start": 93.98,
+          "end": 94.68
+        },
+        {
+          "word": "amor!",
+          "start": 94.68,
+          "end": 97.3
+        }
+      ],
+      "start": 90.1,
+      "end": 97.3,
+      "confidence": 1.0,
+      "time": 90.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "De todo este mundo es la fúlgida luz",
+      "verse": 2,
+      "words": [
+        {
+          "word": "De",
+          "start": 97.3,
+          "end": 98.68
+        },
+        {
+          "word": "todo",
+          "start": 98.68,
+          "end": 99.72
+        },
+        {
+          "word": "este",
+          "start": 99.72,
+          "end": 100.72
+        },
+        {
+          "word": "mundo",
+          "start": 100.72,
+          "end": 101.64
+        },
+        {
+          "word": "es",
+          "start": 101.64,
+          "end": 102.14
+        },
+        {
+          "word": "la",
+          "start": 102.14,
+          "end": 102.78
+        },
+        {
+          "word": "fulgida",
+          "start": 102.78,
+          "end": 104.6
+        },
+        {
+          "word": "luz,",
+          "start": 104.6,
+          "end": 105.64
+        }
+      ],
+      "start": 97.3,
+      "end": 106.36,
+      "confidence": 1.0,
+      "time": 97.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "el nombre del buen Salvador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 106.36,
+          "end": 106.84
+        },
+        {
+          "word": "nombre",
+          "start": 106.84,
+          "end": 107.84
+        },
+        {
+          "word": "del",
+          "start": 107.84,
+          "end": 108.6
+        },
+        {
+          "word": "buen",
+          "start": 108.6,
+          "end": 109.88
+        },
+        {
+          "word": "Salvador.",
+          "start": 109.88,
+          "end": 111.08
+        }
+      ],
+      "start": 106.36,
+      "end": 111.08,
+      "confidence": 1.0,
+      "time": 106.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Yo todo dejé para andar en la luz,",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 113.14,
+          "end": 114.54
+        },
+        {
+          "word": "todo",
+          "start": 114.54,
+          "end": 115.94
+        },
+        {
+          "word": "deje",
+          "start": 115.94,
+          "end": 117.84
+        },
+        {
+          "word": "para",
+          "start": 117.84,
+          "end": 118.42
+        },
+        {
+          "word": "andar",
+          "start": 118.42,
+          "end": 119.74
+        },
+        {
+          "word": "en",
+          "start": 119.74,
+          "end": 120.28
+        },
+        {
+          "word": "la",
+          "start": 120.28,
+          "end": 120.78
+        },
+        {
+          "word": "luz,",
+          "start": 120.78,
+          "end": 121.76
+        }
+      ],
+      "start": 113.14,
+      "end": 122.32,
+      "confidence": 1.0,
+      "time": 113.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "no moro en tinieblas ya más;",
+      "words": [
+        {
+          "word": "no",
+          "start": 122.32,
+          "end": 122.88
+        },
+        {
+          "word": "moro",
+          "start": 122.88,
+          "end": 123.78
+        },
+        {
+          "word": "en",
+          "start": 123.78,
+          "end": 124.1
+        },
+        {
+          "word": "ti,",
+          "start": 124.1,
+          "end": 124.6
+        },
+        {
+          "word": "llamas.",
+          "start": 125.78,
+          "end": 129.82
+        }
+      ],
+      "start": 122.32,
+      "end": 129.82,
+      "confidence": 0.79,
+      "time": 122.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "encuentro la paz en seguir a Jesús",
+      "words": [
+        {
+          "word": "Encuentro",
+          "start": 129.82,
+          "end": 132.06
+        },
+        {
+          "word": "la",
+          "start": 132.06,
+          "end": 132.72
+        },
+        {
+          "word": "paz",
+          "start": 132.72,
+          "end": 133.66
+        },
+        {
+          "word": "en",
+          "start": 133.66,
+          "end": 134.04
+        },
+        {
+          "word": "seguir",
+          "start": 134.04,
+          "end": 135.42
+        },
+        {
+          "word": "a",
+          "start": 135.42,
+          "end": 136.14
+        },
+        {
+          "word": "Jesús",
+          "start": 136.14,
+          "end": 137.6
+        }
+      ],
+      "start": 129.82,
+      "end": 137.6,
+      "confidence": 1.0,
+      "time": 129.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y vivo en la luz de su faz.",
+      "words": [
+        {
+          "word": "y",
+          "start": 137.6,
+          "end": 138.9
+        },
+        {
+          "word": "vivo",
+          "start": 138.9,
+          "end": 139.74
+        },
+        {
+          "word": "en",
+          "start": 139.74,
+          "end": 140.2
+        },
+        {
+          "word": "la",
+          "start": 140.2,
+          "end": 140.86
+        },
+        {
+          "word": "luz",
+          "start": 140.86,
+          "end": 141.92
+        },
+        {
+          "word": "de",
+          "start": 141.92,
+          "end": 142.46
+        },
+        {
+          "word": "su",
+          "start": 142.46,
+          "end": 142.8
+        },
+        {
+          "word": "faz.",
+          "start": 142.8,
+          "end": 145.26
+        }
+      ],
+      "start": 137.6,
+      "end": 145.26,
+      "confidence": 1.0,
+      "time": 137.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "De mi alma el anhelo por siempre será",
+      "verse": 3,
+      "words": [
+        {
+          "word": "De",
+          "start": 145.26,
+          "end": 147.52
+        },
+        {
+          "word": "mi",
+          "start": 147.52,
+          "end": 148.12
+        },
+        {
+          "word": "alma",
+          "start": 148.12,
+          "end": 148.84
+        },
+        {
+          "word": "el",
+          "start": 148.84,
+          "end": 149.58
+        },
+        {
+          "word": "anhelo",
+          "start": 149.58,
+          "end": 150.86
+        },
+        {
+          "word": "por",
+          "start": 150.86,
+          "end": 151.6
+        },
+        {
+          "word": "siempre",
+          "start": 151.6,
+          "end": 152.84
+        },
+        {
+          "word": "será",
+          "start": 152.84,
+          "end": 154.48
+        }
+      ],
+      "start": 145.26,
+      "end": 154.48,
+      "confidence": 1.0,
+      "time": 145.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "más cerca vivir de la cruz,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Más",
+          "start": 154.48,
+          "end": 155.88
+        },
+        {
+          "word": "cerca",
+          "start": 155.88,
+          "end": 156.88
+        },
+        {
+          "word": "vivir",
+          "start": 156.88,
+          "end": 158.14
+        },
+        {
+          "word": "de",
+          "start": 158.14,
+          "end": 159.04
+        },
+        {
+          "word": "la",
+          "start": 159.04,
+          "end": 159.72
+        },
+        {
+          "word": "cruz",
+          "start": 159.72,
+          "end": 162.26
+        }
+      ],
+      "start": 154.48,
+      "end": 162.26,
+      "confidence": 1.0,
+      "time": 154.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "do santo poder y pureza me da",
+      "verse": 3,
+      "words": [
+        {
+          "word": "santo",
+          "start": 163.56,
+          "end": 164.96
+        },
+        {
+          "word": "poder",
+          "start": 164.96,
+          "end": 166.6
+        },
+        {
+          "word": "y",
+          "start": 166.6,
+          "end": 167.58
+        },
+        {
+          "word": "pureza",
+          "start": 167.58,
+          "end": 168.96
+        },
+        {
+          "word": "me",
+          "start": 168.96,
+          "end": 169.7
+        },
+        {
+          "word": "da",
+          "start": 169.7,
+          "end": 170.78
+        }
+      ],
+      "start": 163.56,
+      "end": 170.78,
+      "confidence": 0.857,
+      "time": 163.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "la sangre de Cristo Jesús.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "la",
+          "start": 170.78,
+          "end": 171.66
+        },
+        {
+          "word": "sangre",
+          "start": 171.66,
+          "end": 172.84
+        },
+        {
+          "word": "de",
+          "start": 172.84,
+          "end": 173.7
+        },
+        {
+          "word": "Cristo",
+          "start": 173.7,
+          "end": 175.12
+        },
+        {
+          "word": "Jesús.",
+          "start": 175.12,
+          "end": 178.1
+        }
+      ],
+      "start": 170.78,
+      "end": 178.1,
+      "confidence": 1.0,
+      "time": 170.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Yo todo dejé para andar en la luz,",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 178.1,
+          "end": 179.5
+        },
+        {
+          "word": "todo",
+          "start": 179.5,
+          "end": 180.9
+        },
+        {
+          "word": "deje",
+          "start": 180.9,
+          "end": 182.72
+        },
+        {
+          "word": "para",
+          "start": 182.72,
+          "end": 183.42
+        },
+        {
+          "word": "andar",
+          "start": 183.42,
+          "end": 184.72
+        },
+        {
+          "word": "en",
+          "start": 184.72,
+          "end": 185.22
+        },
+        {
+          "word": "la",
+          "start": 185.22,
+          "end": 185.8
+        },
+        {
+          "word": "luz,",
+          "start": 185.8,
+          "end": 186.7
+        }
+      ],
+      "start": 178.1,
+      "end": 187.32,
+      "confidence": 1.0,
+      "time": 178.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "no moro en tinieblas ya más;",
+      "words": [
+        {
+          "word": "no",
+          "start": 187.32,
+          "end": 187.8
+        },
+        {
+          "word": "moro",
+          "start": 187.8,
+          "end": 188.8
+        },
+        {
+          "word": "en",
+          "start": 188.8,
+          "end": 189.1
+        },
+        {
+          "word": "ti,",
+          "start": 189.1,
+          "end": 189.6
+        },
+        {
+          "word": "llamas.",
+          "start": 190.8,
+          "end": 194.6
+        }
+      ],
+      "start": 187.32,
+      "end": 194.6,
+      "confidence": 0.79,
+      "time": 187.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "encuentro la paz en seguir a Jesús",
+      "words": [
+        {
+          "word": "Encuentro",
+          "start": 194.6,
+          "end": 197.02
+        },
+        {
+          "word": "la",
+          "start": 197.02,
+          "end": 197.66
+        },
+        {
+          "word": "paz",
+          "start": 197.66,
+          "end": 198.6
+        },
+        {
+          "word": "en",
+          "start": 198.6,
+          "end": 198.98
+        },
+        {
+          "word": "seguir",
+          "start": 198.98,
+          "end": 200.58
+        },
+        {
+          "word": "a",
+          "start": 200.58,
+          "end": 201.12
+        },
+        {
+          "word": "Jesús,",
+          "start": 201.12,
+          "end": 202.58
+        }
+      ],
+      "start": 194.6,
+      "end": 203.46,
+      "confidence": 1.0,
+      "time": 194.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y vivo en la luz de su faz.",
+      "words": [
+        {
+          "word": "y",
+          "start": 203.46,
+          "end": 203.88
+        },
+        {
+          "word": "vivo",
+          "start": 203.88,
+          "end": 204.7
+        },
+        {
+          "word": "en",
+          "start": 204.7,
+          "end": 205.2
+        },
+        {
+          "word": "la",
+          "start": 205.2,
+          "end": 205.86
+        },
+        {
+          "word": "luz",
+          "start": 205.86,
+          "end": 206.94
+        },
+        {
+          "word": "de",
+          "start": 206.94,
+          "end": 207.46
+        },
+        {
+          "word": "su",
+          "start": 207.46,
+          "end": 207.82
+        },
+        {
+          "word": "faz.",
+          "start": 207.82,
+          "end": 210.44
+        }
+      ],
+      "start": 203.46,
+      "end": 210.44,
+      "confidence": 1.0,
+      "time": 203.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "¡Oh! ven a Jesús, infeliz pecador;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 210.44,
+          "end": 212.66
+        },
+        {
+          "word": "ven",
+          "start": 213.74,
+          "end": 213.74
+        },
+        {
+          "word": "a",
+          "start": 213.74,
+          "end": 214.08
+        },
+        {
+          "word": "Jesús",
+          "start": 214.08,
+          "end": 215.5
+        },
+        {
+          "word": "infeliz",
+          "start": 215.5,
+          "end": 217.62
+        },
+        {
+          "word": "pecador,",
+          "start": 217.62,
+          "end": 219.8
+        }
+      ],
+      "start": 210.44,
+      "end": 220.42,
+      "confidence": 1.0,
+      "time": 210.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "no vagues a ciegas ya más.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "no",
+          "start": 220.42,
+          "end": 220.8
+        },
+        {
+          "word": "vagues",
+          "start": 220.8,
+          "end": 222.02
+        },
+        {
+          "word": "a",
+          "start": 222.02,
+          "end": 222.64
+        },
+        {
+          "word": "ciegas",
+          "start": 222.64,
+          "end": 223.9
+        },
+        {
+          "word": "llamas.",
+          "start": 223.9,
+          "end": 227.52
+        }
+      ],
+      "start": 220.42,
+      "end": 227.52,
+      "confidence": 0.8,
+      "time": 220.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Sí, ven a Jesús, tu benigno Señor,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Si",
+          "start": 227.52,
+          "end": 228.64
+        },
+        {
+          "word": "ven",
+          "start": 228.64,
+          "end": 229.68
+        },
+        {
+          "word": "a",
+          "start": 229.68,
+          "end": 229.98
+        },
+        {
+          "word": "Jesús",
+          "start": 229.98,
+          "end": 231.52
+        },
+        {
+          "word": "tu",
+          "start": 231.52,
+          "end": 232.2
+        },
+        {
+          "word": "benigno",
+          "start": 232.2,
+          "end": 234.18
+        },
+        {
+          "word": "Señor,",
+          "start": 234.18,
+          "end": 235.52
+        }
+      ],
+      "start": 227.52,
+      "end": 236.3,
+      "confidence": 1.0,
+      "time": 227.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "que en él salvación hallarás.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "que",
+          "start": 236.3,
+          "end": 236.64
+        },
+        {
+          "word": "en",
+          "start": 236.64,
+          "end": 237.18
+        },
+        {
+          "word": "el",
+          "start": 237.18,
+          "end": 237.72
+        },
+        {
+          "word": "salvación",
+          "start": 237.72,
+          "end": 239.98
+        },
+        {
+          "word": "hallarás.",
+          "start": 239.98,
+          "end": 243.4
+        }
+      ],
+      "start": 236.3,
+      "end": 243.4,
+      "confidence": 1.0,
+      "time": 236.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Yo todo dejé para andar en la luz,",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 243.4,
+          "end": 244.46
+        },
+        {
+          "word": "todo",
+          "start": 244.46,
+          "end": 245.92
+        },
+        {
+          "word": "dejé",
+          "start": 245.92,
+          "end": 247.86
+        },
+        {
+          "word": "para",
+          "start": 247.86,
+          "end": 248.4
+        },
+        {
+          "word": "andar",
+          "start": 248.4,
+          "end": 249.7
+        },
+        {
+          "word": "en",
+          "start": 249.7,
+          "end": 250.14
+        },
+        {
+          "word": "la",
+          "start": 250.14,
+          "end": 250.78
+        },
+        {
+          "word": "luz,",
+          "start": 250.78,
+          "end": 251.76
+        }
+      ],
+      "start": 243.4,
+      "end": 252.36,
+      "confidence": 1.0,
+      "time": 243.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "no moro en tinieblas ya más;",
+      "words": [
+        {
+          "word": "no",
+          "start": 252.36,
+          "end": 252.88
+        },
+        {
+          "word": "moro",
+          "start": 252.88,
+          "end": 253.78
+        },
+        {
+          "word": "en",
+          "start": 253.78,
+          "end": 254.12
+        },
+        {
+          "word": "ti,",
+          "start": 254.12,
+          "end": 254.58
+        },
+        {
+          "word": "llamas.",
+          "start": 255.8,
+          "end": 259.52
+        }
+      ],
+      "start": 252.36,
+      "end": 259.52,
+      "confidence": 0.79,
+      "time": 252.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "encuentro la paz en seguir a Jesús",
+      "words": [
+        {
+          "word": "Encuentro",
+          "start": 259.52,
+          "end": 262.08
+        },
+        {
+          "word": "la",
+          "start": 262.08,
+          "end": 262.72
+        },
+        {
+          "word": "paz",
+          "start": 262.72,
+          "end": 263.6
+        },
+        {
+          "word": "en",
+          "start": 263.6,
+          "end": 264.0
+        },
+        {
+          "word": "seguir",
+          "start": 264.0,
+          "end": 265.34
+        },
+        {
+          "word": "a",
+          "start": 265.34,
+          "end": 266.16
+        },
+        {
+          "word": "Jesús",
+          "start": 266.16,
+          "end": 267.56
+        }
+      ],
+      "start": 259.52,
+      "end": 267.56,
+      "confidence": 1.0,
+      "time": 259.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "y vivo en la luz de su faz.",
+      "words": [
+        {
+          "word": "y",
+          "start": 267.56,
+          "end": 268.9
+        },
+        {
+          "word": "vivo",
+          "start": 268.9,
+          "end": 269.76
+        },
+        {
+          "word": "en",
+          "start": 269.76,
+          "end": 270.3
+        },
+        {
+          "word": "la",
+          "start": 270.3,
+          "end": 270.94
+        },
+        {
+          "word": "luz",
+          "start": 270.94,
+          "end": 272.14
+        },
+        {
+          "word": "de",
+          "start": 272.14,
+          "end": 272.88
+        },
+        {
+          "word": "su",
+          "start": 272.88,
+          "end": 273.26
+        },
+        {
+          "word": "faz.",
+          "start": 273.26,
+          "end": 274.62
+        }
+      ],
+      "start": 267.56,
+      "end": 274.62,
+      "confidence": 1.0,
+      "time": 267.56
+    }
+  ]
+}

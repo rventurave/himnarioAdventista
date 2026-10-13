@@ -1,0 +1,534 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.939,
+  "language": "es",
+  "model": "medium",
+  "hymn": 597,
+  "source": "597 - Oracion por un nino.mp3",
+  "duration": 118.57,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Presentamos este niño;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "presentamos",
+          "start": 23.9,
+          "end": 25.3
+        },
+        {
+          "word": "este",
+          "start": 25.3,
+          "end": 26.42
+        },
+        {
+          "word": "niño,",
+          "start": 26.42,
+          "end": 27.96
+        }
+      ],
+      "start": 23.9,
+      "end": 28.82,
+      "confidence": 1.0,
+      "time": 23.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "es tan frágil cual la flor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 28.82,
+          "end": 28.9
+        },
+        {
+          "word": "tan",
+          "start": 28.9,
+          "end": 29.32
+        },
+        {
+          "word": "frágil",
+          "start": 29.32,
+          "end": 30.7
+        },
+        {
+          "word": "la",
+          "start": 31.58,
+          "end": 32.04
+        },
+        {
+          "word": "flor,",
+          "start": 32.04,
+          "end": 33.74
+        }
+      ],
+      "start": 28.82,
+      "end": 33.74,
+      "confidence": 0.833,
+      "time": 28.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "necesita de cariño,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Necesita",
+          "start": 33.74,
+          "end": 35.96
+        },
+        {
+          "word": "de",
+          "start": 35.96,
+          "end": 37.1
+        },
+        {
+          "word": "cariño,",
+          "start": 37.1,
+          "end": 39.24
+        }
+      ],
+      "start": 33.74,
+      "end": 39.82,
+      "confidence": 1.0,
+      "time": 33.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "necesita de amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "necesita",
+          "start": 39.82,
+          "end": 41.16
+        },
+        {
+          "word": "de",
+          "start": 41.16,
+          "end": 42.7
+        },
+        {
+          "word": "amor.",
+          "start": 42.7,
+          "end": 44.44
+        }
+      ],
+      "start": 39.82,
+      "end": 44.44,
+      "confidence": 1.0,
+      "time": 39.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Sus ojitos son muy puros;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Sus",
+          "start": 44.9,
+          "end": 45.36
+        },
+        {
+          "word": "ojitos",
+          "start": 45.36,
+          "end": 47.06
+        },
+        {
+          "word": "son",
+          "start": 47.06,
+          "end": 48.14
+        },
+        {
+          "word": "muy",
+          "start": 48.14,
+          "end": 48.66
+        },
+        {
+          "word": "puros,",
+          "start": 48.66,
+          "end": 50.28
+        }
+      ],
+      "start": 44.9,
+      "end": 50.66,
+      "confidence": 1.0,
+      "time": 44.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "su sonrisa es cual la luz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sus",
+          "start": 50.66,
+          "end": 50.84
+        },
+        {
+          "word": "sonrisas",
+          "start": 50.84,
+          "end": 52.48
+        },
+        {
+          "word": "la",
+          "start": 53.66,
+          "end": 54.3
+        },
+        {
+          "word": "luz",
+          "start": 54.3,
+          "end": 55.58
+        }
+      ],
+      "start": 50.66,
+      "end": 55.58,
+      "confidence": 0.637,
+      "time": 50.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y refleja la belleza",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 55.58,
+          "end": 56.46
+        },
+        {
+          "word": "refleja",
+          "start": 56.46,
+          "end": 58.1
+        },
+        {
+          "word": "la",
+          "start": 58.1,
+          "end": 59.18
+        },
+        {
+          "word": "belleza",
+          "start": 59.18,
+          "end": 61.36
+        }
+      ],
+      "start": 55.58,
+      "end": 61.36,
+      "confidence": 1.0,
+      "time": 55.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que emana de Jesús.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 61.36,
+          "end": 62.42
+        },
+        {
+          "word": "emana",
+          "start": 62.42,
+          "end": 63.52
+        },
+        {
+          "word": "de",
+          "start": 63.52,
+          "end": 64.48
+        },
+        {
+          "word": "Jesús.",
+          "start": 64.48,
+          "end": 67.1
+        }
+      ],
+      "start": 61.36,
+      "end": 67.1,
+      "confidence": 1.0,
+      "time": 61.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Guía sus pequeños pasos,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Guía",
+          "start": 67.42,
+          "end": 68.42
+        },
+        {
+          "word": "sus",
+          "start": 68.42,
+          "end": 69.18
+        },
+        {
+          "word": "pequeños",
+          "start": 69.18,
+          "end": 71.2
+        },
+        {
+          "word": "pasos",
+          "start": 71.2,
+          "end": 73.12
+        }
+      ],
+      "start": 67.42,
+      "end": 73.12,
+      "confidence": 1.0,
+      "time": 67.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y enséñale a andar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 73.12,
+          "end": 73.96
+        },
+        {
+          "word": "enséñale",
+          "start": 73.96,
+          "end": 76.4
+        },
+        {
+          "word": "a",
+          "start": 76.4,
+          "end": 76.9
+        },
+        {
+          "word": "andar",
+          "start": 76.9,
+          "end": 78.6
+        }
+      ],
+      "start": 73.12,
+      "end": 78.6,
+      "confidence": 1.0,
+      "time": 73.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "En seguro y buen camino",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 78.6,
+          "end": 79.3
+        },
+        {
+          "word": "seguro",
+          "start": 79.3,
+          "end": 80.38
+        },
+        {
+          "word": "y",
+          "start": 80.38,
+          "end": 80.98
+        },
+        {
+          "word": "buen",
+          "start": 80.98,
+          "end": 81.86
+        },
+        {
+          "word": "camino",
+          "start": 81.86,
+          "end": 83.92
+        }
+      ],
+      "start": 78.6,
+      "end": 83.92,
+      "confidence": 1.0,
+      "time": 78.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "pueda siempre continuar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Puedas",
+          "start": 83.92,
+          "end": 85.12
+        },
+        {
+          "word": "siempre",
+          "start": 85.12,
+          "end": 86.36
+        },
+        {
+          "word": "continuar",
+          "start": 86.36,
+          "end": 89.42
+        }
+      ],
+      "start": 83.92,
+      "end": 89.42,
+      "confidence": 0.98,
+      "time": 83.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Que tu ángel lo proteja",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Que",
+          "start": 89.42,
+          "end": 90.26
+        },
+        {
+          "word": "tu",
+          "start": 90.26,
+          "end": 90.8
+        },
+        {
+          "word": "ángelo",
+          "start": 90.8,
+          "end": 93.0
+        },
+        {
+          "word": "proteja",
+          "start": 93.0,
+          "end": 95.06
+        }
+      ],
+      "start": 89.42,
+      "end": 95.06,
+      "confidence": 0.788,
+      "time": 89.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "de este mundo y su maldad;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "De",
+          "start": 95.06,
+          "end": 95.7
+        },
+        {
+          "word": "este",
+          "start": 95.7,
+          "end": 96.2
+        },
+        {
+          "word": "mundo",
+          "start": 96.2,
+          "end": 97.36
+        },
+        {
+          "word": "y",
+          "start": 97.36,
+          "end": 98.12
+        },
+        {
+          "word": "su",
+          "start": 98.12,
+          "end": 98.58
+        },
+        {
+          "word": "maldad",
+          "start": 98.58,
+          "end": 100.6
+        }
+      ],
+      "start": 95.06,
+      "end": 100.6,
+      "confidence": 1.0,
+      "time": 95.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Padre amante, ya es tuyo.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Padre",
+          "start": 100.6,
+          "end": 101.52
+        },
+        {
+          "word": "amante",
+          "start": 101.52,
+          "end": 102.9
+        },
+        {
+          "word": "ya",
+          "start": 102.9,
+          "end": 104.16
+        },
+        {
+          "word": "es",
+          "start": 104.16,
+          "end": 104.62
+        },
+        {
+          "word": "tuyo",
+          "start": 104.62,
+          "end": 106.0
+        }
+      ],
+      "start": 100.6,
+      "end": 106.0,
+      "confidence": 1.0,
+      "time": 100.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "En tus brazos guárdalo.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 106.0,
+          "end": 106.74
+        },
+        {
+          "word": "Tus",
+          "start": 106.74,
+          "end": 107.12
+        },
+        {
+          "word": "brazos",
+          "start": 107.12,
+          "end": 108.66
+        },
+        {
+          "word": "guárdalo.",
+          "start": 108.66,
+          "end": 111.58
+        }
+      ],
+      "start": 106.0,
+      "end": 111.58,
+      "confidence": 1.0,
+      "time": 106.0
+    }
+  ]
+}

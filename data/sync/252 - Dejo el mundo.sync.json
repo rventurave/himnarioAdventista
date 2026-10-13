@@ -1,0 +1,971 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.793,
+  "language": "es",
+  "model": "medium",
+  "hymn": 252,
+  "source": "252 - Dejo el mundo.mp3",
+  "duration": 180.69,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Dejo el mundo y sigo a Cristo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 11.9,
+          "end": 11.9
+        },
+        {
+          "word": "la",
+          "start": 13.16,
+          "end": 13.16
+        },
+        {
+          "word": "Jesucristo",
+          "start": 13.88,
+          "end": 14.3
+        }
+      ],
+      "start": 11.9,
+      "end": 29.98,
+      "confidence": 0.379,
+      "time": 11.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues el mundo pasará;",
+      "verse": 1,
+      "start": 29.98,
+      "end": 30.18,
+      "confidence": 0.0,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "mas el tierno amor divino",
+      "verse": 1,
+      "start": 30.18,
+      "end": 30.38,
+      "confidence": 0.0,
+      "time": 30.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por los siglos durará.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "los",
+          "start": 14.3,
+          "end": 14.3
+        },
+        {
+          "word": "los",
+          "start": 14.3,
+          "end": 14.3
+        }
+      ],
+      "start": 30.38,
+      "end": 30.58,
+      "confidence": 0.45,
+      "time": 30.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, qué amor inmensurable!",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 30.0,
+          "end": 31.5
+        },
+        {
+          "word": "que",
+          "start": 31.78,
+          "end": 31.78
+        },
+        {
+          "word": "amor",
+          "start": 31.78,
+          "end": 33.2
+        },
+        {
+          "word": "inmensurable,",
+          "start": 33.2,
+          "end": 35.52
+        }
+      ],
+      "start": 30.58,
+      "end": 36.3,
+      "confidence": 1.0,
+      "time": 30.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Qué clemencia, qué bondad!",
+      "words": [
+        {
+          "word": "que",
+          "start": 36.3,
+          "end": 36.68
+        },
+        {
+          "word": "clemencia,",
+          "start": 36.68,
+          "end": 38.48
+        },
+        {
+          "word": "que",
+          "start": 38.52,
+          "end": 39.14
+        },
+        {
+          "word": "bondad,",
+          "start": 39.14,
+          "end": 41.36
+        }
+      ],
+      "start": 36.3,
+      "end": 41.36,
+      "confidence": 1.0,
+      "time": 36.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, la plenitud de gracia,",
+      "words": [
+        {
+          "word": "plenitud",
+          "start": 43.34,
+          "end": 44.6
+        },
+        {
+          "word": "de",
+          "start": 44.6,
+          "end": 45.18
+        },
+        {
+          "word": "gracia,",
+          "start": 45.18,
+          "end": 46.48
+        }
+      ],
+      "start": 43.34,
+      "end": 47.0,
+      "confidence": 0.6,
+      "time": 43.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "prenda de inmortalidad!",
+      "words": [
+        {
+          "word": "venda",
+          "start": 47.0,
+          "end": 47.4
+        },
+        {
+          "word": "de",
+          "start": 47.4,
+          "end": 48.68
+        },
+        {
+          "word": "inmortalidad.",
+          "start": 48.68,
+          "end": 51.52
+        }
+      ],
+      "start": 47.0,
+      "end": 51.52,
+      "confidence": 0.945,
+      "time": 47.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Dejo el mundo y sigo a Cristo.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Dejo",
+          "start": 51.52,
+          "end": 53.2
+        },
+        {
+          "word": "el",
+          "start": 53.2,
+          "end": 54.02
+        },
+        {
+          "word": "mundo",
+          "start": 54.02,
+          "end": 54.74
+        },
+        {
+          "word": "y",
+          "start": 54.74,
+          "end": 55.02
+        },
+        {
+          "word": "sigo",
+          "start": 55.02,
+          "end": 55.82
+        },
+        {
+          "word": "a",
+          "start": 55.82,
+          "end": 56.22
+        },
+        {
+          "word": "Cristo,",
+          "start": 56.22,
+          "end": 57.32
+        }
+      ],
+      "start": 51.52,
+      "end": 57.88,
+      "confidence": 1.0,
+      "time": 51.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mi alma en él consolaré.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mi",
+          "start": 57.88,
+          "end": 58.08
+        },
+        {
+          "word": "alma",
+          "start": 58.08,
+          "end": 58.58
+        },
+        {
+          "word": "en",
+          "start": 58.58,
+          "end": 59.02
+        },
+        {
+          "word": "Él",
+          "start": 59.02,
+          "end": 59.72
+        },
+        {
+          "word": "consolaré.",
+          "start": 59.72,
+          "end": 62.1
+        }
+      ],
+      "start": 57.88,
+      "end": 62.1,
+      "confidence": 1.0,
+      "time": 57.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Sé que él vela mis pisadas;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Sé",
+          "start": 62.6,
+          "end": 63.18
+        },
+        {
+          "word": "que",
+          "start": 63.18,
+          "end": 63.46
+        },
+        {
+          "word": "el",
+          "start": 63.46,
+          "end": 64.0
+        },
+        {
+          "word": "vela",
+          "start": 64.0,
+          "end": 65.12
+        },
+        {
+          "word": "mis",
+          "start": 65.12,
+          "end": 65.7
+        },
+        {
+          "word": "vistagas",
+          "start": 65.7,
+          "end": 67.54
+        }
+      ],
+      "start": 62.6,
+      "end": 67.54,
+      "confidence": 0.967,
+      "time": 62.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "su bondad ensalzaré.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "su",
+          "start": 67.54,
+          "end": 68.26
+        },
+        {
+          "word": "bondad",
+          "start": 68.26,
+          "end": 69.94
+        },
+        {
+          "word": "ensalzaré.",
+          "start": 69.94,
+          "end": 72.36
+        }
+      ],
+      "start": 67.54,
+      "end": 72.36,
+      "confidence": 1.0,
+      "time": 67.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, qué amor inmensurable!",
+      "words": [
+        {
+          "word": "O",
+          "start": 72.36,
+          "end": 73.18
+        },
+        {
+          "word": "que",
+          "start": 73.18,
+          "end": 73.5
+        },
+        {
+          "word": "amor",
+          "start": 73.5,
+          "end": 74.8
+        },
+        {
+          "word": "impensurable",
+          "start": 74.8,
+          "end": 77.3
+        }
+      ],
+      "start": 72.36,
+      "end": 78.36,
+      "confidence": 0.938,
+      "time": 72.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Qué clemencia, qué bondad!",
+      "words": [
+        {
+          "word": "que",
+          "start": 78.36,
+          "end": 78.66
+        },
+        {
+          "word": "vencia",
+          "start": 78.66,
+          "end": 80.22
+        },
+        {
+          "word": "bondad,",
+          "start": 80.96,
+          "end": 83.04
+        }
+      ],
+      "start": 78.36,
+      "end": 83.04,
+      "confidence": 0.7,
+      "time": 78.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, la plenitud de gracia,",
+      "words": [
+        {
+          "word": "o",
+          "start": 83.32,
+          "end": 83.78
+        },
+        {
+          "word": "la",
+          "start": 83.78,
+          "end": 84.16
+        },
+        {
+          "word": "plenitud",
+          "start": 84.16,
+          "end": 86.32
+        },
+        {
+          "word": "de",
+          "start": 86.32,
+          "end": 86.84
+        },
+        {
+          "word": "gracia",
+          "start": 86.84,
+          "end": 88.34
+        }
+      ],
+      "start": 83.32,
+      "end": 88.34,
+      "confidence": 0.96,
+      "time": 83.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "prenda de inmortalidad!",
+      "words": [
+        {
+          "word": "renda",
+          "start": 88.34,
+          "end": 89.28
+        },
+        {
+          "word": "de",
+          "start": 89.28,
+          "end": 90.4
+        },
+        {
+          "word": "mortalidad.",
+          "start": 90.4,
+          "end": 93.2
+        }
+      ],
+      "start": 88.34,
+      "end": 93.2,
+      "confidence": 0.964,
+      "time": 88.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Dejo el mundo y sigo a Cristo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "el",
+          "start": 94.78,
+          "end": 95.58
+        },
+        {
+          "word": "mundo",
+          "start": 95.58,
+          "end": 96.32
+        },
+        {
+          "word": "y",
+          "start": 96.32,
+          "end": 96.68
+        },
+        {
+          "word": "sigo",
+          "start": 96.68,
+          "end": 97.44
+        },
+        {
+          "word": "al",
+          "start": 97.44,
+          "end": 97.74
+        },
+        {
+          "word": "Cristo,",
+          "start": 97.74,
+          "end": 99.0
+        }
+      ],
+      "start": 94.78,
+      "end": 99.54,
+      "confidence": 0.829,
+      "time": 94.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "mi benigno Salvador;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mi",
+          "start": 99.54,
+          "end": 99.82
+        },
+        {
+          "word": "benito",
+          "start": 99.82,
+          "end": 101.62
+        },
+        {
+          "word": "salvador,",
+          "start": 101.62,
+          "end": 103.78
+        }
+      ],
+      "start": 99.54,
+      "end": 103.78,
+      "confidence": 0.954,
+      "time": 99.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en mis peregrinaciones",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 104.76,
+          "end": 104.92
+        },
+        {
+          "word": "mis",
+          "start": 104.92,
+          "end": 105.98
+        },
+        {
+          "word": "denominaciones",
+          "start": 105.98,
+          "end": 109.06
+        }
+      ],
+      "start": 104.76,
+      "end": 109.06,
+      "confidence": 0.938,
+      "time": 104.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "brille en mí su resplandor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ríe",
+          "start": 109.06,
+          "end": 110.2
+        },
+        {
+          "word": "en",
+          "start": 110.2,
+          "end": 110.46
+        },
+        {
+          "word": "mí",
+          "start": 110.46,
+          "end": 111.36
+        },
+        {
+          "word": "su",
+          "start": 111.36,
+          "end": 111.92
+        },
+        {
+          "word": "resplandor.",
+          "start": 111.92,
+          "end": 114.2
+        }
+      ],
+      "start": 109.06,
+      "end": 114.2,
+      "confidence": 0.96,
+      "time": 109.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, qué amor inmensurable!",
+      "words": [
+        {
+          "word": "que",
+          "start": 114.96,
+          "end": 115.24
+        },
+        {
+          "word": "amor",
+          "start": 115.24,
+          "end": 116.54
+        },
+        {
+          "word": "impensurable,",
+          "start": 116.54,
+          "end": 119.04
+        }
+      ],
+      "start": 114.96,
+      "end": 119.86,
+      "confidence": 0.737,
+      "time": 114.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Qué clemencia, qué bondad!",
+      "words": [
+        {
+          "word": "que",
+          "start": 119.86,
+          "end": 120.04
+        },
+        {
+          "word": "tenencia",
+          "start": 120.04,
+          "end": 121.74
+        },
+        {
+          "word": "bondad,",
+          "start": 122.54,
+          "end": 124.66
+        }
+      ],
+      "start": 119.86,
+      "end": 124.66,
+      "confidence": 0.706,
+      "time": 119.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, la plenitud de gracia,",
+      "words": [
+        {
+          "word": "la",
+          "start": 125.46,
+          "end": 126.06
+        },
+        {
+          "word": "plenitud",
+          "start": 126.06,
+          "end": 127.96
+        },
+        {
+          "word": "de",
+          "start": 127.96,
+          "end": 128.54
+        },
+        {
+          "word": "gracia,",
+          "start": 128.54,
+          "end": 129.9
+        }
+      ],
+      "start": 125.46,
+      "end": 130.38,
+      "confidence": 0.8,
+      "time": 125.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "prenda de inmortalidad!",
+      "words": [
+        {
+          "word": "renta",
+          "start": 130.38,
+          "end": 131.24
+        },
+        {
+          "word": "de",
+          "start": 131.24,
+          "end": 132.04
+        },
+        {
+          "word": "inmortalidad.",
+          "start": 132.04,
+          "end": 134.9
+        }
+      ],
+      "start": 130.38,
+      "end": 134.9,
+      "confidence": 0.945,
+      "time": 130.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Dejo el mundo y sigo a Cristo.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "el",
+          "start": 136.6,
+          "end": 137.04
+        },
+        {
+          "word": "mundo",
+          "start": 137.04,
+          "end": 138.1
+        },
+        {
+          "word": "y",
+          "start": 138.1,
+          "end": 138.74
+        },
+        {
+          "word": "sigo",
+          "start": 138.74,
+          "end": 139.2
+        },
+        {
+          "word": "a",
+          "start": 139.2,
+          "end": 139.52
+        },
+        {
+          "word": "Cristo,",
+          "start": 139.52,
+          "end": 140.74
+        }
+      ],
+      "start": 136.6,
+      "end": 141.44,
+      "confidence": 0.857,
+      "time": 136.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Confiaré yo en su cruz",
+      "verse": 4,
+      "words": [
+        {
+          "word": "confiaré",
+          "start": 141.44,
+          "end": 143.1
+        },
+        {
+          "word": "yo",
+          "start": 143.1,
+          "end": 143.44
+        },
+        {
+          "word": "en",
+          "start": 143.44,
+          "end": 144.1
+        },
+        {
+          "word": "su",
+          "start": 144.1,
+          "end": 144.36
+        },
+        {
+          "word": "cruz,",
+          "start": 144.36,
+          "end": 145.92
+        }
+      ],
+      "start": 141.44,
+      "end": 146.54,
+      "confidence": 1.0,
+      "time": 141.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "hasta que sin velo mire",
+      "verse": 4,
+      "words": [
+        {
+          "word": "hasta",
+          "start": 146.54,
+          "end": 146.88
+        },
+        {
+          "word": "que",
+          "start": 146.88,
+          "end": 148.1
+        },
+        {
+          "word": "lo",
+          "start": 148.88,
+          "end": 149.6
+        },
+        {
+          "word": "mire,",
+          "start": 149.6,
+          "end": 150.84
+        }
+      ],
+      "start": 146.54,
+      "end": 151.64,
+      "confidence": 0.76,
+      "time": 146.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "cara a cara a mi Jesús.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "cara",
+          "start": 151.64,
+          "end": 151.88
+        },
+        {
+          "word": "a",
+          "start": 151.88,
+          "end": 151.92
+        },
+        {
+          "word": "cara",
+          "start": 151.92,
+          "end": 153.4
+        },
+        {
+          "word": "mi",
+          "start": 153.4,
+          "end": 154.08
+        },
+        {
+          "word": "Jesús.",
+          "start": 154.08,
+          "end": 155.56
+        }
+      ],
+      "start": 151.64,
+      "end": 155.56,
+      "confidence": 0.833,
+      "time": 151.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Oh, qué amor inmensurable!",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 155.56,
+          "end": 156.68
+        },
+        {
+          "word": "que",
+          "start": 156.94,
+          "end": 156.94
+        },
+        {
+          "word": "amor",
+          "start": 156.94,
+          "end": 158.3
+        },
+        {
+          "word": "impensurable,",
+          "start": 158.3,
+          "end": 160.72
+        }
+      ],
+      "start": 155.56,
+      "end": 161.64,
+      "confidence": 0.987,
+      "time": 155.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Qué clemencia, qué bondad!",
+      "words": [
+        {
+          "word": "que",
+          "start": 161.64,
+          "end": 161.74
+        },
+        {
+          "word": "cremencia",
+          "start": 161.74,
+          "end": 163.64
+        },
+        {
+          "word": "bondad,",
+          "start": 164.34,
+          "end": 166.26
+        }
+      ],
+      "start": 161.64,
+      "end": 166.26,
+      "confidence": 0.733,
+      "time": 161.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Oh, la plenitud de gracia,",
+      "words": [
+        {
+          "word": "la",
+          "start": 167.16,
+          "end": 167.86
+        },
+        {
+          "word": "plenitud",
+          "start": 167.86,
+          "end": 169.72
+        },
+        {
+          "word": "de",
+          "start": 169.72,
+          "end": 170.3
+        },
+        {
+          "word": "gracia",
+          "start": 170.3,
+          "end": 171.7
+        }
+      ],
+      "start": 167.16,
+      "end": 171.7,
+      "confidence": 0.8,
+      "time": 167.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "prenda de inmortalidad!",
+      "words": [
+        {
+          "word": "renda",
+          "start": 171.7,
+          "end": 173.28
+        },
+        {
+          "word": "de",
+          "start": 173.28,
+          "end": 173.86
+        },
+        {
+          "word": "mortalidad.",
+          "start": 173.86,
+          "end": 177.12
+        }
+      ],
+      "start": 171.7,
+      "end": 177.12,
+      "confidence": 0.964,
+      "time": 171.7
+    }
+  ]
+}

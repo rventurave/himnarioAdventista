@@ -1,0 +1,441 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.983,
+  "language": "es",
+  "model": "medium",
+  "hymn": 383,
+  "source": "383 - Habla a tu Dios de manana.mp3",
+  "duration": 76.93,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Habla a tu Dios de mañana,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Habla",
+          "start": 10.68,
+          "end": 12.08
+        },
+        {
+          "word": "tu",
+          "start": 12.08,
+          "end": 12.46
+        },
+        {
+          "word": "Dios",
+          "start": 12.46,
+          "end": 12.88
+        },
+        {
+          "word": "de",
+          "start": 12.88,
+          "end": 13.68
+        },
+        {
+          "word": "mañana,",
+          "start": 13.68,
+          "end": 15.74
+        }
+      ],
+      "start": 10.68,
+      "end": 16.86,
+      "confidence": 0.833,
+      "time": 10.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "háblale al mediodía;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "háblale",
+          "start": 16.86,
+          "end": 17.34
+        },
+        {
+          "word": "al",
+          "start": 17.34,
+          "end": 18.22
+        },
+        {
+          "word": "mediodía,",
+          "start": 18.22,
+          "end": 21.08
+        }
+      ],
+      "start": 16.86,
+      "end": 21.08,
+      "confidence": 1.0,
+      "time": 16.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "habla a tu Dios en la noche,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Habla",
+          "start": 21.08,
+          "end": 22.36
+        },
+        {
+          "word": "a",
+          "start": 22.36,
+          "end": 22.74
+        },
+        {
+          "word": "tu",
+          "start": 22.74,
+          "end": 22.74
+        },
+        {
+          "word": "Dios",
+          "start": 22.74,
+          "end": 23.14
+        },
+        {
+          "word": "en",
+          "start": 23.14,
+          "end": 23.94
+        },
+        {
+          "word": "la",
+          "start": 23.94,
+          "end": 24.34
+        },
+        {
+          "word": "noche",
+          "start": 24.34,
+          "end": 25.68
+        }
+      ],
+      "start": 21.08,
+      "end": 25.68,
+      "confidence": 1.0,
+      "time": 21.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y dale tu corazón.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 25.68,
+          "end": 26.76
+        },
+        {
+          "word": "dale",
+          "start": 26.76,
+          "end": 27.3
+        },
+        {
+          "word": "tu",
+          "start": 27.3,
+          "end": 27.92
+        },
+        {
+          "word": "corazón.",
+          "start": 27.92,
+          "end": 31.06
+        }
+      ],
+      "start": 25.68,
+      "end": 31.06,
+      "confidence": 1.0,
+      "time": 25.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Oye a tu Dios de mañana,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Oye",
+          "start": 32.78,
+          "end": 33.12
+        },
+        {
+          "word": "a",
+          "start": 33.12,
+          "end": 33.36
+        },
+        {
+          "word": "tu",
+          "start": 33.36,
+          "end": 33.62
+        },
+        {
+          "word": "Dios",
+          "start": 33.62,
+          "end": 34.06
+        },
+        {
+          "word": "de",
+          "start": 34.06,
+          "end": 34.82
+        },
+        {
+          "word": "mañana,",
+          "start": 34.82,
+          "end": 36.88
+        }
+      ],
+      "start": 32.78,
+      "end": 37.98,
+      "confidence": 1.0,
+      "time": 32.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "óyele al mediodía;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "oyele",
+          "start": 37.98,
+          "end": 38.66
+        },
+        {
+          "word": "al",
+          "start": 38.66,
+          "end": 39.58
+        },
+        {
+          "word": "mediodía,",
+          "start": 39.58,
+          "end": 42.32
+        }
+      ],
+      "start": 37.98,
+      "end": 42.32,
+      "confidence": 1.0,
+      "time": 37.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "oye a tu Dios en la noche,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Oye",
+          "start": 42.32,
+          "end": 43.4
+        },
+        {
+          "word": "a",
+          "start": 43.4,
+          "end": 43.64
+        },
+        {
+          "word": "tu",
+          "start": 43.64,
+          "end": 43.9
+        },
+        {
+          "word": "Dios",
+          "start": 43.9,
+          "end": 44.38
+        },
+        {
+          "word": "en",
+          "start": 44.38,
+          "end": 45.16
+        },
+        {
+          "word": "la",
+          "start": 45.16,
+          "end": 45.54
+        },
+        {
+          "word": "noche",
+          "start": 45.54,
+          "end": 46.88
+        }
+      ],
+      "start": 42.32,
+      "end": 46.88,
+      "confidence": 1.0,
+      "time": 42.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y dale tu corazón.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 46.88,
+          "end": 47.98
+        },
+        {
+          "word": "dale",
+          "start": 47.98,
+          "end": 48.52
+        },
+        {
+          "word": "tu",
+          "start": 48.52,
+          "end": 49.78
+        },
+        {
+          "word": "corazón.",
+          "start": 49.78,
+          "end": 52.3
+        }
+      ],
+      "start": 46.88,
+      "end": 52.3,
+      "confidence": 1.0,
+      "time": 46.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Venga el Señor de mañana,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Venga",
+          "start": 53.78,
+          "end": 54.22
+        },
+        {
+          "word": "el",
+          "start": 54.22,
+          "end": 54.48
+        },
+        {
+          "word": "Señor",
+          "start": 54.48,
+          "end": 55.24
+        },
+        {
+          "word": "de",
+          "start": 55.24,
+          "end": 56.04
+        },
+        {
+          "word": "mañana,",
+          "start": 56.04,
+          "end": 58.0
+        }
+      ],
+      "start": 53.78,
+      "end": 59.08,
+      "confidence": 1.0,
+      "time": 53.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "venga en el mediodía;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "venga",
+          "start": 59.08,
+          "end": 59.38
+        },
+        {
+          "word": "en",
+          "start": 59.38,
+          "end": 59.86
+        },
+        {
+          "word": "el",
+          "start": 59.86,
+          "end": 60.6
+        },
+        {
+          "word": "mediodía,",
+          "start": 60.6,
+          "end": 63.44
+        }
+      ],
+      "start": 59.08,
+      "end": 63.44,
+      "confidence": 1.0,
+      "time": 59.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "venga el Señor en la noche,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "venga",
+          "start": 63.44,
+          "end": 64.44
+        },
+        {
+          "word": "el",
+          "start": 64.44,
+          "end": 64.82
+        },
+        {
+          "word": "Señor",
+          "start": 64.82,
+          "end": 65.64
+        },
+        {
+          "word": "en",
+          "start": 65.64,
+          "end": 66.28
+        },
+        {
+          "word": "la",
+          "start": 66.28,
+          "end": 66.66
+        },
+        {
+          "word": "noche,",
+          "start": 66.66,
+          "end": 68.16
+        }
+      ],
+      "start": 63.44,
+      "end": 68.96,
+      "confidence": 1.0,
+      "time": 63.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "prepara tu corazón.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "prepara",
+          "start": 68.96,
+          "end": 69.96
+        },
+        {
+          "word": "tu",
+          "start": 69.96,
+          "end": 70.34
+        },
+        {
+          "word": "corazón.",
+          "start": 70.34,
+          "end": 72.12
+        }
+      ],
+      "start": 68.96,
+      "end": 72.12,
+      "confidence": 1.0,
+      "time": 68.96
+    }
+  ]
+}

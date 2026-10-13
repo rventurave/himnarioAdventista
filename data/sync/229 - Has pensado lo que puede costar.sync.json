@@ -1,0 +1,1048 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.909,
+  "language": "es",
+  "model": "medium",
+  "hymn": 229,
+  "source": "229 - Has pensado lo que puede costar.mp3",
+  "duration": 218.25,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cuando llegue el momento de tu decisión",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 8.6,
+          "end": 10.0
+        },
+        {
+          "word": "llegue",
+          "start": 10.0,
+          "end": 11.4
+        },
+        {
+          "word": "el",
+          "start": 11.4,
+          "end": 11.78
+        },
+        {
+          "word": "momento",
+          "start": 11.78,
+          "end": 13.58
+        },
+        {
+          "word": "de",
+          "start": 13.58,
+          "end": 14.18
+        },
+        {
+          "word": "tu",
+          "start": 14.18,
+          "end": 14.82
+        },
+        {
+          "word": "decisión,",
+          "start": 14.82,
+          "end": 17.26
+        }
+      ],
+      "start": 8.6,
+      "end": 17.68,
+      "confidence": 1.0,
+      "time": 8.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "no lo dejes por alto pasar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "no",
+          "start": 17.68,
+          "end": 17.8
+        },
+        {
+          "word": "lo",
+          "start": 17.8,
+          "end": 18.8
+        },
+        {
+          "word": "dejes",
+          "start": 18.8,
+          "end": 19.48
+        },
+        {
+          "word": "por",
+          "start": 19.48,
+          "end": 20.44
+        },
+        {
+          "word": "alto",
+          "start": 20.44,
+          "end": 21.48
+        },
+        {
+          "word": "pasar.",
+          "start": 21.48,
+          "end": 23.36
+        }
+      ],
+      "start": 17.68,
+      "end": 23.36,
+      "confidence": 1.0,
+      "time": 17.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "si lo haces, estás en peligro mortal.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Si",
+          "start": 23.36,
+          "end": 25.82
+        },
+        {
+          "word": "lo",
+          "start": 25.82,
+          "end": 26.8
+        },
+        {
+          "word": "haces,",
+          "start": 26.8,
+          "end": 27.88
+        },
+        {
+          "word": "estás",
+          "start": 28.42,
+          "end": 29.26
+        },
+        {
+          "word": "en",
+          "start": 29.26,
+          "end": 30.1
+        },
+        {
+          "word": "peligro",
+          "start": 30.1,
+          "end": 31.52
+        },
+        {
+          "word": "mortal",
+          "start": 31.52,
+          "end": 32.36
+        }
+      ],
+      "start": 23.36,
+      "end": 32.36,
+      "confidence": 1.0,
+      "time": 23.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Has pensado lo que puede costar?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Has",
+          "start": 33.08,
+          "end": 33.84
+        },
+        {
+          "word": "pensado",
+          "start": 33.84,
+          "end": 35.9
+        },
+        {
+          "word": "lo",
+          "start": 35.9,
+          "end": 36.52
+        },
+        {
+          "word": "que",
+          "start": 36.52,
+          "end": 36.84
+        },
+        {
+          "word": "puede",
+          "start": 36.84,
+          "end": 38.48
+        },
+        {
+          "word": "costar",
+          "start": 38.48,
+          "end": 41.36
+        }
+      ],
+      "start": 33.08,
+      "end": 41.36,
+      "confidence": 1.0,
+      "time": 33.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "El pecado te hace tu alma perder.",
+      "words": [
+        {
+          "word": "El",
+          "start": 42.62,
+          "end": 43.26
+        },
+        {
+          "word": "pecado",
+          "start": 43.26,
+          "end": 44.7
+        },
+        {
+          "word": "te",
+          "start": 44.7,
+          "end": 45.92
+        },
+        {
+          "word": "hace",
+          "start": 45.92,
+          "end": 46.98
+        },
+        {
+          "word": "tu",
+          "start": 46.98,
+          "end": 47.58
+        },
+        {
+          "word": "alma",
+          "start": 47.58,
+          "end": 48.72
+        },
+        {
+          "word": "perder",
+          "start": 48.72,
+          "end": 49.42
+        }
+      ],
+      "start": 42.62,
+      "end": 49.42,
+      "confidence": 1.0,
+      "time": 42.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Aunque el mundo se postre a tus pies,",
+      "words": [
+        {
+          "word": "Aunque",
+          "start": 49.42,
+          "end": 51.24
+        },
+        {
+          "word": "el",
+          "start": 51.24,
+          "end": 51.84
+        },
+        {
+          "word": "mundo",
+          "start": 51.84,
+          "end": 52.7
+        },
+        {
+          "word": "se",
+          "start": 52.7,
+          "end": 53.62
+        },
+        {
+          "word": "a",
+          "start": 54.42,
+          "end": 54.9
+        },
+        {
+          "word": "tus",
+          "start": 54.9,
+          "end": 55.52
+        },
+        {
+          "word": "pies",
+          "start": 55.52,
+          "end": 57.42
+        }
+      ],
+      "start": 49.42,
+      "end": 57.42,
+      "confidence": 0.875,
+      "time": 49.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "puede ser que la puerta cerrándose esté.",
+      "words": [
+        {
+          "word": "Puede",
+          "start": 58.52,
+          "end": 59.58
+        },
+        {
+          "word": "ser",
+          "start": 59.58,
+          "end": 60.5
+        },
+        {
+          "word": "que",
+          "start": 60.5,
+          "end": 60.98
+        },
+        {
+          "word": "la",
+          "start": 60.98,
+          "end": 61.64
+        },
+        {
+          "word": "puerta",
+          "start": 61.64,
+          "end": 63.02
+        }
+      ],
+      "start": 58.52,
+      "end": 65.42,
+      "confidence": 0.714,
+      "time": 58.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¿Has pensado lo que puede costar?",
+      "words": [
+        {
+          "word": "Has",
+          "start": 66.54,
+          "end": 67.18
+        },
+        {
+          "word": "pensado",
+          "start": 67.18,
+          "end": 69.36
+        },
+        {
+          "word": "lo",
+          "start": 69.36,
+          "end": 69.96
+        },
+        {
+          "word": "que",
+          "start": 69.96,
+          "end": 70.26
+        },
+        {
+          "word": "puede",
+          "start": 70.26,
+          "end": 72.18
+        },
+        {
+          "word": "costar",
+          "start": 72.18,
+          "end": 75.8
+        }
+      ],
+      "start": 66.54,
+      "end": 75.8,
+      "confidence": 1.0,
+      "time": 66.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "La inmortal dicha tú puedes sacrificar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "La",
+          "start": 75.8,
+          "end": 76.86
+        },
+        {
+          "word": "inmortal",
+          "start": 76.86,
+          "end": 78.2
+        },
+        {
+          "word": "dicha",
+          "start": 78.2,
+          "end": 79.2
+        },
+        {
+          "word": "tu",
+          "start": 79.2,
+          "end": 80.36
+        },
+        {
+          "word": "puedes",
+          "start": 80.36,
+          "end": 81.08
+        },
+        {
+          "word": "sacrificar",
+          "start": 81.08,
+          "end": 84.38
+        }
+      ],
+      "start": 75.8,
+      "end": 84.38,
+      "confidence": 1.0,
+      "time": 75.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "por andar en la senda del mal.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "por",
+          "start": 84.38,
+          "end": 84.9
+        },
+        {
+          "word": "andar",
+          "start": 84.9,
+          "end": 86.26
+        },
+        {
+          "word": "en",
+          "start": 86.26,
+          "end": 86.9
+        },
+        {
+          "word": "la",
+          "start": 86.9,
+          "end": 87.34
+        },
+        {
+          "word": "senda",
+          "start": 87.34,
+          "end": 88.52
+        },
+        {
+          "word": "del",
+          "start": 88.52,
+          "end": 89.3
+        },
+        {
+          "word": "mar",
+          "start": 89.3,
+          "end": 91.98
+        }
+      ],
+      "start": 84.38,
+      "end": 91.98,
+      "confidence": 0.971,
+      "time": 84.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si al Espíritu ahogas, te puedes perder.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 91.98,
+          "end": 92.74
+        },
+        {
+          "word": "al",
+          "start": 92.74,
+          "end": 93.02
+        },
+        {
+          "word": "Espíritu",
+          "start": 93.02,
+          "end": 95.16
+        },
+        {
+          "word": "ahogas",
+          "start": 95.16,
+          "end": 96.9
+        },
+        {
+          "word": "te",
+          "start": 96.9,
+          "end": 97.12
+        },
+        {
+          "word": "puedes",
+          "start": 97.12,
+          "end": 98.4
+        },
+        {
+          "word": "perder,",
+          "start": 98.4,
+          "end": 100.12
+        }
+      ],
+      "start": 91.98,
+      "end": 100.7,
+      "confidence": 1.0,
+      "time": 91.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¿Has pensado lo que te ha de costar?",
+      "verse": 2,
+      "words": [
+        {
+          "word": "has",
+          "start": 100.7,
+          "end": 100.86
+        },
+        {
+          "word": "pensado",
+          "start": 100.86,
+          "end": 102.94
+        },
+        {
+          "word": "lo",
+          "start": 102.94,
+          "end": 103.58
+        },
+        {
+          "word": "que",
+          "start": 103.58,
+          "end": 103.86
+        },
+        {
+          "word": "te",
+          "start": 103.86,
+          "end": 104.58
+        },
+        {
+          "word": "ha",
+          "start": 104.58,
+          "end": 105.16
+        },
+        {
+          "word": "de",
+          "start": 105.16,
+          "end": 106.1
+        },
+        {
+          "word": "costar.",
+          "start": 106.1,
+          "end": 109.44
+        }
+      ],
+      "start": 100.7,
+      "end": 109.44,
+      "confidence": 1.0,
+      "time": 100.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "El pecado te hace tu alma perder.",
+      "words": [
+        {
+          "word": "El",
+          "start": 109.44,
+          "end": 110.18
+        },
+        {
+          "word": "pecado",
+          "start": 110.18,
+          "end": 111.66
+        },
+        {
+          "word": "te",
+          "start": 111.66,
+          "end": 112.86
+        },
+        {
+          "word": "hace",
+          "start": 112.86,
+          "end": 114.02
+        },
+        {
+          "word": "tu",
+          "start": 114.02,
+          "end": 114.68
+        },
+        {
+          "word": "alma",
+          "start": 114.68,
+          "end": 115.72
+        },
+        {
+          "word": "perder",
+          "start": 115.72,
+          "end": 117.56
+        }
+      ],
+      "start": 109.44,
+      "end": 117.56,
+      "confidence": 1.0,
+      "time": 109.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Aunque el mundo se postre a tus pies,",
+      "words": [
+        {
+          "word": "Aunque",
+          "start": 117.56,
+          "end": 118.3
+        },
+        {
+          "word": "el",
+          "start": 118.3,
+          "end": 119.12
+        },
+        {
+          "word": "mundo",
+          "start": 119.12,
+          "end": 119.7
+        },
+        {
+          "word": "se",
+          "start": 119.7,
+          "end": 120.6
+        },
+        {
+          "word": "a",
+          "start": 121.72,
+          "end": 122.0
+        },
+        {
+          "word": "tus",
+          "start": 122.0,
+          "end": 122.44
+        },
+        {
+          "word": "pies",
+          "start": 122.44,
+          "end": 125.44
+        }
+      ],
+      "start": 117.56,
+      "end": 125.44,
+      "confidence": 0.875,
+      "time": 117.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "puede ser que la puerta cerrándose esté.",
+      "words": [
+        {
+          "word": "Puede",
+          "start": 125.44,
+          "end": 126.58
+        },
+        {
+          "word": "ser",
+          "start": 126.58,
+          "end": 127.5
+        },
+        {
+          "word": "que",
+          "start": 127.5,
+          "end": 127.96
+        },
+        {
+          "word": "la",
+          "start": 127.96,
+          "end": 128.68
+        },
+        {
+          "word": "puerta",
+          "start": 128.68,
+          "end": 130.04
+        },
+        {
+          "word": "cerrando",
+          "start": 130.04,
+          "end": 131.8
+        }
+      ],
+      "start": 125.44,
+      "end": 133.74,
+      "confidence": 0.849,
+      "time": 125.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¿Has pensado lo que puede costar?",
+      "words": [
+        {
+          "word": "Has",
+          "start": 133.74,
+          "end": 134.16
+        },
+        {
+          "word": "pensado",
+          "start": 134.16,
+          "end": 136.34
+        },
+        {
+          "word": "lo",
+          "start": 136.34,
+          "end": 136.96
+        },
+        {
+          "word": "que",
+          "start": 136.96,
+          "end": 139.1
+        },
+        {
+          "word": "puede",
+          "start": 139.1,
+          "end": 139.14
+        }
+      ],
+      "start": 133.74,
+      "end": 142.16,
+      "confidence": 0.833,
+      "time": 133.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Él te llama aún en su grande amor,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Él",
+          "start": 143.0,
+          "end": 143.7
+        },
+        {
+          "word": "te",
+          "start": 143.7,
+          "end": 144.26
+        },
+        {
+          "word": "llama",
+          "start": 144.26,
+          "end": 145.52
+        },
+        {
+          "word": "aún",
+          "start": 145.52,
+          "end": 147.26
+        },
+        {
+          "word": "en",
+          "start": 147.26,
+          "end": 147.86
+        },
+        {
+          "word": "su",
+          "start": 147.86,
+          "end": 148.18
+        },
+        {
+          "word": "grande",
+          "start": 148.18,
+          "end": 149.42
+        },
+        {
+          "word": "amor",
+          "start": 149.42,
+          "end": 151.2
+        }
+      ],
+      "start": 143.0,
+      "end": 151.2,
+      "confidence": 1.0,
+      "time": 143.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "todavía te invita a entrar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Todavía",
+          "start": 151.2,
+          "end": 153.28
+        },
+        {
+          "word": "te",
+          "start": 153.28,
+          "end": 154.08
+        },
+        {
+          "word": "invita",
+          "start": 154.08,
+          "end": 155.54
+        },
+        {
+          "word": "a",
+          "start": 155.54,
+          "end": 156.12
+        },
+        {
+          "word": "entrar",
+          "start": 156.12,
+          "end": 159.02
+        }
+      ],
+      "start": 151.2,
+      "end": 159.02,
+      "confidence": 1.0,
+      "time": 151.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¿No te dejas salvar? ¿No le dices: \"Ya voy,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "No",
+          "start": 159.02,
+          "end": 159.76
+        },
+        {
+          "word": "te",
+          "start": 159.76,
+          "end": 160.36
+        },
+        {
+          "word": "dejas",
+          "start": 160.36,
+          "end": 161.54
+        },
+        {
+          "word": "salvar,",
+          "start": 161.54,
+          "end": 163.14
+        },
+        {
+          "word": "no",
+          "start": 163.72,
+          "end": 163.96
+        },
+        {
+          "word": "le",
+          "start": 163.96,
+          "end": 164.32
+        },
+        {
+          "word": "dices",
+          "start": 164.32,
+          "end": 165.38
+        },
+        {
+          "word": "ya",
+          "start": 165.38,
+          "end": 166.26
+        }
+      ],
+      "start": 159.02,
+      "end": 167.16,
+      "confidence": 0.889,
+      "time": 159.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "he contado lo que puede costar\"?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "contate",
+          "start": 167.9,
+          "end": 170.06
+        },
+        {
+          "word": "estar",
+          "start": 173.2,
+          "end": 176.3
+        }
+      ],
+      "start": 167.9,
+      "end": 176.3,
+      "confidence": 0.277,
+      "time": 167.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "El pecado te hace tu alma perder.",
+      "words": [
+        {
+          "word": "El",
+          "start": 176.3,
+          "end": 177.24
+        },
+        {
+          "word": "pecado",
+          "start": 177.24,
+          "end": 178.68
+        },
+        {
+          "word": "te",
+          "start": 178.68,
+          "end": 180.08
+        },
+        {
+          "word": "hace",
+          "start": 180.08,
+          "end": 181.02
+        },
+        {
+          "word": "tu",
+          "start": 181.02,
+          "end": 181.62
+        },
+        {
+          "word": "alma",
+          "start": 181.62,
+          "end": 182.66
+        },
+        {
+          "word": "perder",
+          "start": 182.66,
+          "end": 184.5
+        }
+      ],
+      "start": 176.3,
+      "end": 184.5,
+      "confidence": 1.0,
+      "time": 176.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Aunque el mundo se postre a tus pies,",
+      "words": [
+        {
+          "word": "Aunque",
+          "start": 184.5,
+          "end": 185.4
+        },
+        {
+          "word": "el",
+          "start": 185.4,
+          "end": 186.02
+        },
+        {
+          "word": "mundo",
+          "start": 186.02,
+          "end": 186.74
+        },
+        {
+          "word": "se",
+          "start": 186.74,
+          "end": 187.7
+        },
+        {
+          "word": "conste",
+          "start": 187.7,
+          "end": 188.5
+        },
+        {
+          "word": "a",
+          "start": 188.5,
+          "end": 188.9
+        },
+        {
+          "word": "tus",
+          "start": 188.9,
+          "end": 189.52
+        },
+        {
+          "word": "pies",
+          "start": 189.52,
+          "end": 192.38
+        }
+      ],
+      "start": 184.5,
+      "end": 192.38,
+      "confidence": 0.975,
+      "time": 184.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "puede ser que la puerta cerrándose esté.",
+      "words": [
+        {
+          "word": "Puede",
+          "start": 192.38,
+          "end": 193.54
+        },
+        {
+          "word": "ser",
+          "start": 193.54,
+          "end": 194.46
+        },
+        {
+          "word": "que",
+          "start": 194.46,
+          "end": 195.08
+        },
+        {
+          "word": "la",
+          "start": 195.08,
+          "end": 195.76
+        },
+        {
+          "word": "puerta",
+          "start": 195.76,
+          "end": 197.02
+        },
+        {
+          "word": "cerrar",
+          "start": 198.6,
+          "end": 200.4
+        }
+      ],
+      "start": 192.38,
+      "end": 200.4,
+      "confidence": 0.825,
+      "time": 192.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¿Has pensado lo que puede costar?",
+      "words": [
+        {
+          "word": "Has",
+          "start": 200.4,
+          "end": 201.12
+        },
+        {
+          "word": "pensado",
+          "start": 201.12,
+          "end": 203.38
+        },
+        {
+          "word": "lo",
+          "start": 203.38,
+          "end": 204.0
+        },
+        {
+          "word": "que",
+          "start": 204.0,
+          "end": 204.36
+        }
+      ],
+      "start": 200.4,
+      "end": 209.12,
+      "confidence": 0.667,
+      "time": 200.4
+    }
+  ]
+}

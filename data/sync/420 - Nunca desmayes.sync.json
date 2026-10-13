@@ -1,0 +1,1056 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.988,
+  "language": "es",
+  "model": "medium",
+  "hymn": 420,
+  "source": "420 - Nunca desmayes.mp3",
+  "duration": 181.84,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Nunca desmayes, que en el afán",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Nunca",
+          "start": 13.58,
+          "end": 14.86
+        },
+        {
+          "word": "desmayes,",
+          "start": 14.86,
+          "end": 15.96
+        },
+        {
+          "word": "que",
+          "start": 15.96,
+          "end": 16.32
+        },
+        {
+          "word": "en",
+          "start": 16.32,
+          "end": 16.96
+        },
+        {
+          "word": "el",
+          "start": 16.96,
+          "end": 17.42
+        },
+        {
+          "word": "afán",
+          "start": 17.42,
+          "end": 18.44
+        }
+      ],
+      "start": 13.58,
+      "end": 18.44,
+      "confidence": 1.0,
+      "time": 13.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Dios cuidará de ti;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 18.44,
+          "end": 18.98
+        },
+        {
+          "word": "cuidará",
+          "start": 18.98,
+          "end": 20.38
+        },
+        {
+          "word": "de",
+          "start": 20.38,
+          "end": 20.96
+        },
+        {
+          "word": "ti.",
+          "start": 20.96,
+          "end": 22.88
+        }
+      ],
+      "start": 18.44,
+      "end": 22.88,
+      "confidence": 1.0,
+      "time": 18.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "sus fuertes alas te cubrirán;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Sus",
+          "start": 22.88,
+          "end": 23.58
+        },
+        {
+          "word": "fuertes",
+          "start": 23.58,
+          "end": 24.56
+        },
+        {
+          "word": "alas",
+          "start": 24.56,
+          "end": 25.2
+        },
+        {
+          "word": "te",
+          "start": 25.2,
+          "end": 25.64
+        },
+        {
+          "word": "cobrirán,",
+          "start": 25.64,
+          "end": 27.88
+        }
+      ],
+      "start": 22.88,
+      "end": 27.98,
+      "confidence": 0.985,
+      "time": 22.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Dios cuidará de ti.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 27.98,
+          "end": 28.36
+        },
+        {
+          "word": "cuidará",
+          "start": 28.36,
+          "end": 29.82
+        },
+        {
+          "word": "de",
+          "start": 29.82,
+          "end": 30.4
+        },
+        {
+          "word": "ti,",
+          "start": 30.4,
+          "end": 32.8
+        }
+      ],
+      "start": 27.98,
+      "end": 32.8,
+      "confidence": 1.0,
+      "time": 27.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Dios cuidará de ti;",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 33.02,
+          "end": 34.14
+        },
+        {
+          "word": "cuidará",
+          "start": 34.14,
+          "end": 36.24
+        },
+        {
+          "word": "de",
+          "start": 36.24,
+          "end": 36.78
+        },
+        {
+          "word": "ti.",
+          "start": 36.78,
+          "end": 37.84
+        }
+      ],
+      "start": 33.02,
+      "end": 37.84,
+      "confidence": 1.0,
+      "time": 33.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "velando está su tierno amor;",
+      "words": [
+        {
+          "word": "Belando",
+          "start": 38.04,
+          "end": 39.18
+        },
+        {
+          "word": "está",
+          "start": 39.18,
+          "end": 40.3
+        },
+        {
+          "word": "su",
+          "start": 40.3,
+          "end": 40.86
+        },
+        {
+          "word": "tierno",
+          "start": 40.86,
+          "end": 41.72
+        },
+        {
+          "word": "amor,",
+          "start": 41.72,
+          "end": 42.6
+        }
+      ],
+      "start": 38.04,
+      "end": 42.6,
+      "confidence": 0.983,
+      "time": 38.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "sí, cuidará de ti, Dios cuidará de ti.",
+      "words": [
+        {
+          "word": "Si",
+          "start": 42.6,
+          "end": 44.08
+        },
+        {
+          "word": "cuidará",
+          "start": 44.08,
+          "end": 46.28
+        },
+        {
+          "word": "de",
+          "start": 46.28,
+          "end": 46.98
+        },
+        {
+          "word": "ti,",
+          "start": 46.98,
+          "end": 48.14
+        },
+        {
+          "word": "Dios",
+          "start": 48.4,
+          "end": 48.92
+        },
+        {
+          "word": "cuidará",
+          "start": 48.92,
+          "end": 50.72
+        },
+        {
+          "word": "de",
+          "start": 50.72,
+          "end": 51.5
+        },
+        {
+          "word": "ti.",
+          "start": 51.5,
+          "end": 53.82
+        }
+      ],
+      "start": 42.6,
+      "end": 53.82,
+      "confidence": 1.0,
+      "time": 42.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En duras pruebas y en aflicción,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 54.66,
+          "end": 55.28
+        },
+        {
+          "word": "duras",
+          "start": 55.28,
+          "end": 56.1
+        },
+        {
+          "word": "pruebas",
+          "start": 56.1,
+          "end": 56.92
+        },
+        {
+          "word": "y",
+          "start": 56.92,
+          "end": 57.18
+        },
+        {
+          "word": "en",
+          "start": 57.18,
+          "end": 57.74
+        },
+        {
+          "word": "aflicción,",
+          "start": 58.08,
+          "end": 59.32
+        }
+      ],
+      "start": 54.66,
+      "end": 59.52,
+      "confidence": 1.0,
+      "time": 54.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Dios cuidará de ti;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 59.52,
+          "end": 59.94
+        },
+        {
+          "word": "cuidará",
+          "start": 59.94,
+          "end": 61.4
+        },
+        {
+          "word": "de",
+          "start": 61.4,
+          "end": 62.04
+        },
+        {
+          "word": "ti.",
+          "start": 62.04,
+          "end": 63.74
+        }
+      ],
+      "start": 59.52,
+      "end": 63.74,
+      "confidence": 1.0,
+      "time": 59.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en tus conflictos y en tentación,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 63.74,
+          "end": 64.48
+        },
+        {
+          "word": "tus",
+          "start": 64.48,
+          "end": 64.88
+        },
+        {
+          "word": "conflictos",
+          "start": 64.88,
+          "end": 66.12
+        },
+        {
+          "word": "y",
+          "start": 66.12,
+          "end": 66.36
+        },
+        {
+          "word": "en",
+          "start": 66.36,
+          "end": 66.8
+        },
+        {
+          "word": "tentación,",
+          "start": 66.8,
+          "end": 68.46
+        }
+      ],
+      "start": 63.74,
+      "end": 68.86,
+      "confidence": 1.0,
+      "time": 63.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Dios cuidará de ti.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 68.86,
+          "end": 69.12
+        },
+        {
+          "word": "cuidará",
+          "start": 69.12,
+          "end": 70.48
+        },
+        {
+          "word": "de",
+          "start": 70.48,
+          "end": 71.12
+        },
+        {
+          "word": "ti.",
+          "start": 71.12,
+          "end": 73.24
+        }
+      ],
+      "start": 68.86,
+      "end": 73.24,
+      "confidence": 1.0,
+      "time": 68.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Dios cuidará de ti;",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 73.44,
+          "end": 74.64
+        },
+        {
+          "word": "cuidará",
+          "start": 74.64,
+          "end": 76.82
+        },
+        {
+          "word": "de",
+          "start": 76.82,
+          "end": 77.38
+        },
+        {
+          "word": "ti,",
+          "start": 77.38,
+          "end": 78.38
+        }
+      ],
+      "start": 73.44,
+      "end": 78.78,
+      "confidence": 1.0,
+      "time": 73.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "velando está su tierno amor;",
+      "words": [
+        {
+          "word": "melando",
+          "start": 78.78,
+          "end": 79.62
+        },
+        {
+          "word": "esta",
+          "start": 79.62,
+          "end": 80.62
+        },
+        {
+          "word": "su",
+          "start": 80.62,
+          "end": 81.34
+        },
+        {
+          "word": "tierno",
+          "start": 81.34,
+          "end": 82.16
+        },
+        {
+          "word": "amor.",
+          "start": 82.16,
+          "end": 83.08
+        }
+      ],
+      "start": 78.78,
+      "end": 83.08,
+      "confidence": 0.983,
+      "time": 78.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "sí, cuidará de ti, Dios cuidará de ti.",
+      "words": [
+        {
+          "word": "Si",
+          "start": 83.08,
+          "end": 84.52
+        },
+        {
+          "word": "cuidará",
+          "start": 84.52,
+          "end": 86.72
+        },
+        {
+          "word": "de",
+          "start": 86.72,
+          "end": 87.4
+        },
+        {
+          "word": "ti,",
+          "start": 87.4,
+          "end": 88.68
+        },
+        {
+          "word": "Dios",
+          "start": 89.06,
+          "end": 89.42
+        },
+        {
+          "word": "cuidará",
+          "start": 89.42,
+          "end": 91.24
+        },
+        {
+          "word": "de",
+          "start": 91.24,
+          "end": 92.14
+        },
+        {
+          "word": "ti.",
+          "start": 92.14,
+          "end": 94.42
+        }
+      ],
+      "start": 83.08,
+      "end": 94.42,
+      "confidence": 1.0,
+      "time": 83.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "De sus riquezas te suplirá;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "De",
+          "start": 95.46,
+          "end": 95.94
+        },
+        {
+          "word": "sus",
+          "start": 95.94,
+          "end": 96.42
+        },
+        {
+          "word": "riquezas",
+          "start": 96.42,
+          "end": 97.46
+        },
+        {
+          "word": "te",
+          "start": 97.46,
+          "end": 97.96
+        },
+        {
+          "word": "suplirá,",
+          "start": 97.96,
+          "end": 99.82
+        }
+      ],
+      "start": 95.46,
+      "end": 99.96,
+      "confidence": 1.0,
+      "time": 95.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Dios cuidará de ti;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 99.96,
+          "end": 100.38
+        },
+        {
+          "word": "cuidará",
+          "start": 100.38,
+          "end": 101.66
+        },
+        {
+          "word": "de",
+          "start": 101.66,
+          "end": 102.22
+        },
+        {
+          "word": "ti.",
+          "start": 102.22,
+          "end": 104.0
+        }
+      ],
+      "start": 99.96,
+      "end": 104.0,
+      "confidence": 1.0,
+      "time": 99.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "jamás sus bienes te negará;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "jamás",
+          "start": 104.0,
+          "end": 105.14
+        },
+        {
+          "word": "sus",
+          "start": 105.14,
+          "end": 105.48
+        },
+        {
+          "word": "bienes",
+          "start": 105.48,
+          "end": 106.24
+        },
+        {
+          "word": "te",
+          "start": 106.24,
+          "end": 106.66
+        },
+        {
+          "word": "negará,",
+          "start": 106.66,
+          "end": 108.46
+        }
+      ],
+      "start": 104.0,
+      "end": 108.72,
+      "confidence": 1.0,
+      "time": 104.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Dios cuidará de ti.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 108.72,
+          "end": 109.12
+        },
+        {
+          "word": "cuidará",
+          "start": 109.12,
+          "end": 110.46
+        },
+        {
+          "word": "de",
+          "start": 110.46,
+          "end": 111.06
+        },
+        {
+          "word": "ti.",
+          "start": 111.06,
+          "end": 113.04
+        }
+      ],
+      "start": 108.72,
+      "end": 113.04,
+      "confidence": 1.0,
+      "time": 108.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Dios cuidará de ti;",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 113.36,
+          "end": 114.5
+        },
+        {
+          "word": "cuidará",
+          "start": 114.5,
+          "end": 116.52
+        },
+        {
+          "word": "de",
+          "start": 116.52,
+          "end": 117.0
+        },
+        {
+          "word": "ti,",
+          "start": 117.0,
+          "end": 118.04
+        }
+      ],
+      "start": 113.36,
+      "end": 118.36,
+      "confidence": 1.0,
+      "time": 113.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "velando está su tierno amor;",
+      "words": [
+        {
+          "word": "velando",
+          "start": 118.36,
+          "end": 119.18
+        },
+        {
+          "word": "esta",
+          "start": 119.18,
+          "end": 120.4
+        },
+        {
+          "word": "su",
+          "start": 120.4,
+          "end": 120.84
+        },
+        {
+          "word": "tierno",
+          "start": 120.84,
+          "end": 121.68
+        },
+        {
+          "word": "amor.",
+          "start": 121.68,
+          "end": 122.64
+        }
+      ],
+      "start": 118.36,
+      "end": 122.64,
+      "confidence": 1.0,
+      "time": 118.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "sí, cuidará de ti, Dios cuidará de ti.",
+      "words": [
+        {
+          "word": "Si",
+          "start": 122.64,
+          "end": 124.22
+        },
+        {
+          "word": "cuidará",
+          "start": 124.22,
+          "end": 126.36
+        },
+        {
+          "word": "de",
+          "start": 126.36,
+          "end": 127.08
+        },
+        {
+          "word": "ti,",
+          "start": 127.08,
+          "end": 128.16
+        },
+        {
+          "word": "Dios",
+          "start": 128.44,
+          "end": 128.96
+        },
+        {
+          "word": "cuidará",
+          "start": 128.96,
+          "end": 130.96
+        },
+        {
+          "word": "de",
+          "start": 130.96,
+          "end": 131.94
+        },
+        {
+          "word": "ti.",
+          "start": 131.94,
+          "end": 134.06
+        }
+      ],
+      "start": 122.64,
+      "end": 134.06,
+      "confidence": 1.0,
+      "time": 122.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Si vienen pruebas o cruel dolor,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Si",
+          "start": 135.12,
+          "end": 135.54
+        },
+        {
+          "word": "bien",
+          "start": 135.54,
+          "end": 136.14
+        },
+        {
+          "word": "pruebas",
+          "start": 136.5,
+          "end": 137.14
+        },
+        {
+          "word": "ocre",
+          "start": 137.14,
+          "end": 137.74
+        },
+        {
+          "word": "dolor,",
+          "start": 138.42,
+          "end": 139.46
+        }
+      ],
+      "start": 135.12,
+      "end": 139.84,
+      "confidence": 0.76,
+      "time": 135.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Dios cuidará de ti;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 139.84,
+          "end": 140.26
+        },
+        {
+          "word": "cuidará",
+          "start": 140.26,
+          "end": 141.64
+        },
+        {
+          "word": "de",
+          "start": 141.64,
+          "end": 142.3
+        },
+        {
+          "word": "ti.",
+          "start": 142.3,
+          "end": 144.1
+        }
+      ],
+      "start": 139.84,
+      "end": 144.1,
+      "confidence": 1.0,
+      "time": 139.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "tus cargas pon sobre el Salvador;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Tus",
+          "start": 144.1,
+          "end": 144.86
+        },
+        {
+          "word": "cargas",
+          "start": 144.86,
+          "end": 145.6
+        },
+        {
+          "word": "pon",
+          "start": 145.6,
+          "end": 145.96
+        },
+        {
+          "word": "sobre",
+          "start": 145.96,
+          "end": 146.54
+        },
+        {
+          "word": "el",
+          "start": 146.54,
+          "end": 147.26
+        },
+        {
+          "word": "Salvador,",
+          "start": 147.26,
+          "end": 148.58
+        }
+      ],
+      "start": 144.1,
+      "end": 149.12,
+      "confidence": 1.0,
+      "time": 144.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Dios cuidará de ti.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 149.12,
+          "end": 149.42
+        },
+        {
+          "word": "cuidará",
+          "start": 149.42,
+          "end": 150.8
+        },
+        {
+          "word": "de",
+          "start": 150.8,
+          "end": 151.4
+        },
+        {
+          "word": "ti.",
+          "start": 151.4,
+          "end": 153.86
+        }
+      ],
+      "start": 149.12,
+      "end": 153.86,
+      "confidence": 1.0,
+      "time": 149.12
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Dios cuidará de ti;",
+      "words": [
+        {
+          "word": "Dios",
+          "start": 154.06,
+          "end": 155.18
+        },
+        {
+          "word": "cuidará",
+          "start": 155.18,
+          "end": 157.1
+        },
+        {
+          "word": "de",
+          "start": 157.1,
+          "end": 157.64
+        },
+        {
+          "word": "ti,",
+          "start": 157.64,
+          "end": 158.72
+        }
+      ],
+      "start": 154.06,
+      "end": 159.0,
+      "confidence": 1.0,
+      "time": 154.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "velando está su tierno amor;",
+      "words": [
+        {
+          "word": "melando",
+          "start": 159.0,
+          "end": 159.88
+        },
+        {
+          "word": "esta",
+          "start": 159.88,
+          "end": 160.98
+        },
+        {
+          "word": "su",
+          "start": 160.98,
+          "end": 161.54
+        },
+        {
+          "word": "tierno",
+          "start": 161.54,
+          "end": 162.34
+        },
+        {
+          "word": "amor.",
+          "start": 162.34,
+          "end": 163.24
+        }
+      ],
+      "start": 159.0,
+      "end": 163.24,
+      "confidence": 0.983,
+      "time": 159.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "sí, cuidará de ti, Dios cuidará de ti.",
+      "words": [
+        {
+          "word": "Si",
+          "start": 163.24,
+          "end": 164.98
+        },
+        {
+          "word": "cuidará",
+          "start": 164.98,
+          "end": 167.08
+        },
+        {
+          "word": "de",
+          "start": 167.08,
+          "end": 167.66
+        },
+        {
+          "word": "ti,",
+          "start": 167.66,
+          "end": 168.96
+        },
+        {
+          "word": "Dios",
+          "start": 169.42,
+          "end": 169.72
+        },
+        {
+          "word": "cuidará",
+          "start": 169.72,
+          "end": 172.42
+        },
+        {
+          "word": "de",
+          "start": 172.42,
+          "end": 173.66
+        },
+        {
+          "word": "ti.",
+          "start": 173.66,
+          "end": 176.34
+        }
+      ],
+      "start": 163.24,
+      "end": 176.34,
+      "confidence": 1.0,
+      "time": 163.24
+    }
+  ]
+}

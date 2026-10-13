@@ -1,0 +1,500 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.552,
+  "language": "es",
+  "model": "medium",
+  "hymn": 452,
+  "source": "452 - Contigo quiero andar.mp3",
+  "duration": 164.94,
+  "needsReview": true,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Contigo quiero andar, oh Dios,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Contigo",
+          "start": 22.86,
+          "end": 24.26
+        },
+        {
+          "word": "quiero",
+          "start": 24.26,
+          "end": 25.58
+        },
+        {
+          "word": "andar,",
+          "start": 25.58,
+          "end": 27.26
+        },
+        {
+          "word": "oh",
+          "start": 27.26,
+          "end": 27.9
+        },
+        {
+          "word": "Dios,",
+          "start": 27.9,
+          "end": 28.58
+        }
+      ],
+      "start": 22.86,
+      "end": 28.58,
+      "confidence": 1.0,
+      "time": 22.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tal como Enoc, en pos de ti.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tal",
+          "start": 28.58,
+          "end": 29.54
+        },
+        {
+          "word": "como",
+          "start": 29.54,
+          "end": 31.0
+        },
+        {
+          "word": "de",
+          "start": 33.64,
+          "end": 34.42
+        },
+        {
+          "word": "ti.",
+          "start": 34.42,
+          "end": 35.3
+        }
+      ],
+      "start": 28.58,
+      "end": 35.3,
+      "confidence": 0.571,
+      "time": 28.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mi temblorosa mano ten;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 35.36,
+          "end": 36.62
+        },
+        {
+          "word": "templo",
+          "start": 36.62,
+          "end": 37.76
+        },
+        {
+          "word": "mano",
+          "start": 39.36,
+          "end": 40.78
+        }
+      ],
+      "start": 35.36,
+      "end": 41.8,
+      "confidence": 0.694,
+      "time": 35.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tu voz ya calme el vaivén.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tu",
+          "start": 42.5,
+          "end": 42.94
+        },
+        {
+          "word": "calme",
+          "start": 44.36,
+          "end": 46.98
+        },
+        {
+          "word": "el",
+          "start": 46.98,
+          "end": 47.42
+        }
+      ],
+      "start": 42.5,
+      "end": 48.5,
+      "confidence": 0.5,
+      "time": 42.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "La senda oscura al transitar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sientas",
+          "start": 49.52,
+          "end": 51.02
+        }
+      ],
+      "start": 49.52,
+      "end": 51.02,
+      "confidence": 0.16,
+      "time": 49.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús, contigo quiero andar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "con",
+          "start": 51.02,
+          "end": 52.26
+        },
+        {
+          "word": "que",
+          "start": 55.3,
+          "end": 55.96
+        },
+        {
+          "word": "andar.",
+          "start": 60.94,
+          "end": 63.0
+        }
+      ],
+      "start": 51.02,
+      "end": 63.0,
+      "confidence": 0.685,
+      "time": 51.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "No puedo solo andar, Señor:",
+      "verse": 2,
+      "words": [
+        {
+          "word": "No",
+          "start": 64.14,
+          "end": 64.68
+        },
+        {
+          "word": "solo",
+          "start": 66.08,
+          "end": 67.36
+        },
+        {
+          "word": "andar,",
+          "start": 67.36,
+          "end": 68.72
+        },
+        {
+          "word": "Señor,",
+          "start": 68.72,
+          "end": 70.16
+        }
+      ],
+      "start": 64.14,
+      "end": 70.16,
+      "confidence": 0.8,
+      "time": 64.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "tormentas rugen en redor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "torrentas",
+          "start": 70.88,
+          "end": 72.84
+        },
+        {
+          "word": "alrededor.",
+          "start": 75.42,
+          "end": 76.54
+        }
+      ],
+      "start": 70.88,
+      "end": 76.54,
+      "confidence": 0.44,
+      "time": 70.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "rodéanme engaños mil,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 85.88,
+          "end": 86.42
+        }
+      ],
+      "start": 85.88,
+      "end": 86.42,
+      "confidence": 0.313,
+      "time": 85.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "me acosa el enemigo vil.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "el",
+          "start": 86.42,
+          "end": 87.3
+        }
+      ],
+      "start": 86.42,
+      "end": 90.4,
+      "confidence": 0.2,
+      "time": 86.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡Oh, calma el borrascoso mar!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "O",
+          "start": 90.68,
+          "end": 91.44
+        },
+        {
+          "word": "calma",
+          "start": 91.44,
+          "end": 92.52
+        },
+        {
+          "word": "el",
+          "start": 92.52,
+          "end": 93.28
+        }
+      ],
+      "start": 90.68,
+      "end": 96.6,
+      "confidence": 0.56,
+      "time": 90.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Jesús, contigo quiero andar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Jesucristo",
+          "start": 97.44,
+          "end": 99.38
+        },
+        {
+          "word": "miro",
+          "start": 99.38,
+          "end": 101.02
+        }
+      ],
+      "start": 97.44,
+      "end": 104.76,
+      "confidence": 0.39,
+      "time": 97.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mi mano ten, pues; de hoy en mas,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 105.38,
+          "end": 106.14
+        },
+        {
+          "word": "malo",
+          "start": 106.14,
+          "end": 107.78
+        },
+        {
+          "word": "pues",
+          "start": 108.6,
+          "end": 109.36
+        },
+        {
+          "word": "hay",
+          "start": 110.4,
+          "end": 110.8
+        },
+        {
+          "word": "más,",
+          "start": 110.8,
+          "end": 111.58
+        }
+      ],
+      "start": 105.38,
+      "end": 111.58,
+      "confidence": 0.581,
+      "time": 105.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "del mundo el mal dejando atrás,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 111.58,
+          "end": 112.5
+        },
+        {
+          "word": "de",
+          "start": 115.32,
+          "end": 116.18
+        },
+        {
+          "word": "atrás,",
+          "start": 117.4,
+          "end": 118.34
+        }
+      ],
+      "start": 111.58,
+      "end": 118.34,
+      "confidence": 0.48,
+      "time": 111.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "valiente seguiré tu luz,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ventes",
+          "start": 119.44,
+          "end": 121.18
+        },
+        {
+          "word": "luz,",
+          "start": 124.34,
+          "end": 124.86
+        }
+      ],
+      "start": 119.44,
+      "end": 124.86,
+      "confidence": 0.457,
+      "time": 119.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con la bandera de la cruz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 125.24,
+          "end": 125.9
+        },
+        {
+          "word": "la",
+          "start": 125.9,
+          "end": 127.26
+        },
+        {
+          "word": "bandera",
+          "start": 127.26,
+          "end": 129.1
+        },
+        {
+          "word": "de",
+          "start": 129.1,
+          "end": 130.26
+        },
+        {
+          "word": "la",
+          "start": 130.26,
+          "end": 130.9
+        }
+      ],
+      "start": 125.24,
+      "end": 131.56,
+      "confidence": 0.833,
+      "time": 125.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Espero en Sion poder entrar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "¡Espere",
+          "start": 131.56,
+          "end": 133.72
+        },
+        {
+          "word": "en",
+          "start": 133.72,
+          "end": 134.4
+        },
+        {
+          "word": "venta!",
+          "start": 137.18,
+          "end": 138.16
+        }
+      ],
+      "start": 131.56,
+      "end": 138.16,
+      "confidence": 0.547,
+      "time": 131.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "do yo contigo quiero andar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "contigo",
+          "start": 140.42,
+          "end": 142.38
+        },
+        {
+          "word": "que",
+          "start": 142.38,
+          "end": 143.64
+        },
+        {
+          "word": "andar!",
+          "start": 144.16,
+          "end": 146.2
+        }
+      ],
+      "start": 140.42,
+      "end": 146.2,
+      "confidence": 0.56,
+      "time": 140.42
+    }
+  ],
+  "reviewReasons": [
+    "Baja coincidencia de palabras con la letra oficial."
+  ],
+  "transcriptionSettings": {
+    "no_speech_threshold": null,
+    "log_prob_threshold": null
+  }
+}

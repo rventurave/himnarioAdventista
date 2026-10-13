@@ -1,0 +1,893 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.94,
+  "language": "es",
+  "model": "medium",
+  "hymn": 508,
+  "source": "508 - Contendamos siempre por nuestra fe.mp3",
+  "duration": 175.36,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Contendamos siempre por nuestra fe,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Contendamos",
+          "start": 33.94,
+          "end": 35.16
+        },
+        {
+          "word": "siempre",
+          "start": 35.16,
+          "end": 36.06
+        },
+        {
+          "word": "por",
+          "start": 36.06,
+          "end": 36.6
+        },
+        {
+          "word": "nuestra",
+          "start": 36.6,
+          "end": 37.58
+        },
+        {
+          "word": "fe,",
+          "start": 37.58,
+          "end": 38.26
+        }
+      ],
+      "start": 33.94,
+      "end": 38.74,
+      "confidence": 1.0,
+      "time": 33.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "aunque ruja el mundo en derredor;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "aunque",
+          "start": 38.74,
+          "end": 39.08
+        },
+        {
+          "word": "ruga",
+          "start": 39.08,
+          "end": 40.3
+        },
+        {
+          "word": "el",
+          "start": 40.3,
+          "end": 40.76
+        },
+        {
+          "word": "mundo",
+          "start": 40.76,
+          "end": 41.52
+        },
+        {
+          "word": "en",
+          "start": 41.52,
+          "end": 42.06
+        },
+        {
+          "word": "derredor,",
+          "start": 42.06,
+          "end": 43.7
+        }
+      ],
+      "start": 38.74,
+      "end": 43.7,
+      "confidence": 0.975,
+      "time": 38.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nunca el tentador nos podrá vencer,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "nunca",
+          "start": 44.18,
+          "end": 44.36
+        },
+        {
+          "word": "el",
+          "start": 44.36,
+          "end": 44.72
+        },
+        {
+          "word": "tentador",
+          "start": 44.72,
+          "end": 46.46
+        },
+        {
+          "word": "nos",
+          "start": 46.46,
+          "end": 46.9
+        },
+        {
+          "word": "podrá",
+          "start": 46.9,
+          "end": 47.9
+        },
+        {
+          "word": "vencer,",
+          "start": 47.9,
+          "end": 49.04
+        }
+      ],
+      "start": 44.18,
+      "end": 49.32,
+      "confidence": 1.0,
+      "time": 44.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues nos librará el Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "pues",
+          "start": 49.32,
+          "end": 49.56
+        },
+        {
+          "word": "nos",
+          "start": 49.56,
+          "end": 50.28
+        },
+        {
+          "word": "librará",
+          "start": 50.28,
+          "end": 51.62
+        },
+        {
+          "word": "el",
+          "start": 51.62,
+          "end": 52.12
+        },
+        {
+          "word": "Señor.",
+          "start": 52.12,
+          "end": 54.02
+        }
+      ],
+      "start": 49.32,
+      "end": 54.02,
+      "confidence": 1.0,
+      "time": 49.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Si vencemos aquí, reinaremos allí,",
+      "words": [
+        {
+          "word": "Si",
+          "start": 54.02,
+          "end": 54.88
+        },
+        {
+          "word": "vencemos",
+          "start": 54.88,
+          "end": 56.46
+        },
+        {
+          "word": "aquí,",
+          "start": 56.46,
+          "end": 57.16
+        },
+        {
+          "word": "reinaremos",
+          "start": 57.52,
+          "end": 59.02
+        },
+        {
+          "word": "allí,",
+          "start": 59.02,
+          "end": 59.48
+        }
+      ],
+      "start": 54.02,
+      "end": 60.0,
+      "confidence": 1.0,
+      "time": 54.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en la gloria celestial;",
+      "words": [
+        {
+          "word": "en",
+          "start": 60.0,
+          "end": 60.36
+        },
+        {
+          "word": "la",
+          "start": 60.36,
+          "end": 60.66
+        },
+        {
+          "word": "gloria",
+          "start": 60.66,
+          "end": 61.82
+        },
+        {
+          "word": "celestial.",
+          "start": 61.82,
+          "end": 64.0
+        }
+      ],
+      "start": 60.0,
+      "end": 64.0,
+      "confidence": 1.0,
+      "time": 60.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "si llevamos la cruz por amor de Jesús,",
+      "words": [
+        {
+          "word": "Si",
+          "start": 65.14,
+          "end": 65.68
+        },
+        {
+          "word": "levamos",
+          "start": 65.68,
+          "end": 66.94
+        },
+        {
+          "word": "la",
+          "start": 66.94,
+          "end": 67.34
+        },
+        {
+          "word": "cruz",
+          "start": 67.34,
+          "end": 67.86
+        },
+        {
+          "word": "por",
+          "start": 67.86,
+          "end": 68.4
+        },
+        {
+          "word": "amor",
+          "start": 68.4,
+          "end": 69.22
+        },
+        {
+          "word": "de",
+          "start": 69.22,
+          "end": 69.7
+        },
+        {
+          "word": "Jesús,",
+          "start": 69.7,
+          "end": 71.44
+        }
+      ],
+      "start": 65.14,
+      "end": 72.1,
+      "confidence": 0.995,
+      "time": 65.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "la corona él nos dará.",
+      "words": [
+        {
+          "word": "la",
+          "start": 72.1,
+          "end": 72.46
+        },
+        {
+          "word": "corona",
+          "start": 72.46,
+          "end": 73.52
+        },
+        {
+          "word": "nos",
+          "start": 74.06,
+          "end": 74.7
+        },
+        {
+          "word": "dará.",
+          "start": 74.7,
+          "end": 77.38
+        }
+      ],
+      "start": 72.1,
+      "end": 77.38,
+      "confidence": 0.8,
+      "time": 72.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "No seamos tibios de corazón,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "No",
+          "start": 79.02,
+          "end": 80.42
+        },
+        {
+          "word": "seamos",
+          "start": 80.42,
+          "end": 81.82
+        },
+        {
+          "word": "tibios",
+          "start": 81.82,
+          "end": 82.84
+        },
+        {
+          "word": "de",
+          "start": 82.84,
+          "end": 83.36
+        },
+        {
+          "word": "corazón,",
+          "start": 83.36,
+          "end": 84.94
+        }
+      ],
+      "start": 79.02,
+      "end": 85.24,
+      "confidence": 1.0,
+      "time": 79.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ni dejemos nunca el primer amor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ni",
+          "start": 85.24,
+          "end": 85.66
+        },
+        {
+          "word": "dejemos",
+          "start": 85.66,
+          "end": 87.22
+        },
+        {
+          "word": "nunca",
+          "start": 87.22,
+          "end": 88.02
+        },
+        {
+          "word": "el",
+          "start": 88.02,
+          "end": 88.24
+        },
+        {
+          "word": "primer",
+          "start": 88.24,
+          "end": 89.34
+        },
+        {
+          "word": "amor.",
+          "start": 89.34,
+          "end": 90.26
+        }
+      ],
+      "start": 85.24,
+      "end": 90.26,
+      "confidence": 1.0,
+      "time": 85.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mantengamos firme la profesión",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Mantengamos",
+          "start": 91.08,
+          "end": 92.48
+        },
+        {
+          "word": "firme",
+          "start": 92.48,
+          "end": 93.5
+        },
+        {
+          "word": "la",
+          "start": 93.5,
+          "end": 94.02
+        },
+        {
+          "word": "profesión",
+          "start": 94.02,
+          "end": 95.62
+        }
+      ],
+      "start": 91.08,
+      "end": 95.62,
+      "confidence": 1.0,
+      "time": 91.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de la fe del Salvador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "de",
+          "start": 95.62,
+          "end": 96.28
+        },
+        {
+          "word": "la",
+          "start": 96.28,
+          "end": 96.66
+        },
+        {
+          "word": "fe",
+          "start": 96.66,
+          "end": 97.2
+        },
+        {
+          "word": "del",
+          "start": 97.2,
+          "end": 97.92
+        },
+        {
+          "word": "Salvador.",
+          "start": 97.92,
+          "end": 99.76
+        }
+      ],
+      "start": 95.62,
+      "end": 99.76,
+      "confidence": 1.0,
+      "time": 95.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Si vencemos aquí, reinaremos allí,",
+      "words": [
+        {
+          "word": "Si",
+          "start": 99.76,
+          "end": 101.48
+        },
+        {
+          "word": "vencemos",
+          "start": 101.48,
+          "end": 103.12
+        },
+        {
+          "word": "aquí,",
+          "start": 103.12,
+          "end": 103.78
+        },
+        {
+          "word": "reinaremos",
+          "start": 104.16,
+          "end": 105.66
+        },
+        {
+          "word": "allí",
+          "start": 105.66,
+          "end": 106.28
+        }
+      ],
+      "start": 99.76,
+      "end": 106.28,
+      "confidence": 1.0,
+      "time": 99.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en la gloria celestial;",
+      "words": [
+        {
+          "word": "en",
+          "start": 106.28,
+          "end": 107.08
+        },
+        {
+          "word": "la",
+          "start": 107.08,
+          "end": 107.4
+        },
+        {
+          "word": "gloria",
+          "start": 107.4,
+          "end": 108.52
+        },
+        {
+          "word": "celestial.",
+          "start": 108.52,
+          "end": 110.54
+        }
+      ],
+      "start": 106.28,
+      "end": 110.54,
+      "confidence": 1.0,
+      "time": 106.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "si llevamos la cruz por amor de Jesús,",
+      "words": [
+        {
+          "word": "Si",
+          "start": 111.74,
+          "end": 112.2
+        },
+        {
+          "word": "llevamos",
+          "start": 112.2,
+          "end": 113.54
+        },
+        {
+          "word": "la",
+          "start": 113.54,
+          "end": 114.0
+        },
+        {
+          "word": "cruz",
+          "start": 114.0,
+          "end": 114.52
+        },
+        {
+          "word": "por",
+          "start": 114.52,
+          "end": 115.0
+        },
+        {
+          "word": "amor",
+          "start": 115.0,
+          "end": 115.82
+        },
+        {
+          "word": "de",
+          "start": 115.82,
+          "end": 116.32
+        },
+        {
+          "word": "Jesús,",
+          "start": 116.32,
+          "end": 118.18
+        }
+      ],
+      "start": 111.74,
+      "end": 118.82,
+      "confidence": 1.0,
+      "time": 111.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "la corona él nos dará.",
+      "words": [
+        {
+          "word": "la",
+          "start": 118.82,
+          "end": 119.02
+        },
+        {
+          "word": "dorona",
+          "start": 119.02,
+          "end": 120.28
+        },
+        {
+          "word": "el",
+          "start": 120.28,
+          "end": 120.82
+        },
+        {
+          "word": "nos",
+          "start": 120.82,
+          "end": 121.32
+        },
+        {
+          "word": "dará.",
+          "start": 121.32,
+          "end": 123.82
+        }
+      ],
+      "start": 118.82,
+      "end": 123.82,
+      "confidence": 0.98,
+      "time": 118.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Procuremos todos la santidad,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Procuremos",
+          "start": 125.92,
+          "end": 127.24
+        },
+        {
+          "word": "todos",
+          "start": 127.24,
+          "end": 128.04
+        },
+        {
+          "word": "la",
+          "start": 128.04,
+          "end": 128.46
+        },
+        {
+          "word": "santidad,",
+          "start": 128.46,
+          "end": 130.26
+        }
+      ],
+      "start": 125.92,
+      "end": 130.64,
+      "confidence": 1.0,
+      "time": 125.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "sin la cual ninguno verá al Señor;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "sin",
+          "start": 130.64,
+          "end": 130.78
+        },
+        {
+          "word": "la",
+          "start": 130.78,
+          "end": 131.22
+        },
+        {
+          "word": "cual",
+          "start": 131.22,
+          "end": 131.78
+        },
+        {
+          "word": "ninguno",
+          "start": 131.78,
+          "end": 133.34
+        },
+        {
+          "word": "verá",
+          "start": 133.34,
+          "end": 134.38
+        },
+        {
+          "word": "al",
+          "start": 134.38,
+          "end": 134.92
+        },
+        {
+          "word": "Señor,",
+          "start": 134.92,
+          "end": 135.62
+        }
+      ],
+      "start": 130.64,
+      "end": 135.62,
+      "confidence": 1.0,
+      "time": 130.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "gozo, paz y eterna felicidad",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 137.18,
+          "end": 137.8
+        },
+        {
+          "word": "eterna",
+          "start": 137.8,
+          "end": 138.78
+        },
+        {
+          "word": "felicidad,",
+          "start": 138.78,
+          "end": 140.78
+        }
+      ],
+      "start": 137.18,
+      "end": 141.44,
+      "confidence": 0.6,
+      "time": 137.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cristo da al vencedor.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 141.44,
+          "end": 141.7
+        },
+        {
+          "word": "tal",
+          "start": 141.7,
+          "end": 143.06
+        },
+        {
+          "word": "vencedor.",
+          "start": 143.06,
+          "end": 145.9
+        }
+      ],
+      "start": 141.44,
+      "end": 145.9,
+      "confidence": 0.72,
+      "time": 141.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Si vencemos aquí, reinaremos allí,",
+      "words": [
+        {
+          "word": "Silencemos",
+          "start": 145.9,
+          "end": 148.26
+        },
+        {
+          "word": "aquí,",
+          "start": 148.26,
+          "end": 149.08
+        },
+        {
+          "word": "reinaremos",
+          "start": 149.4,
+          "end": 150.94
+        },
+        {
+          "word": "allí,",
+          "start": 150.94,
+          "end": 151.58
+        }
+      ],
+      "start": 145.9,
+      "end": 151.94,
+      "confidence": 0.773,
+      "time": 145.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en la gloria celestial;",
+      "words": [
+        {
+          "word": "en",
+          "start": 151.94,
+          "end": 152.32
+        },
+        {
+          "word": "la",
+          "start": 152.32,
+          "end": 152.5
+        },
+        {
+          "word": "gloria",
+          "start": 152.5,
+          "end": 153.74
+        },
+        {
+          "word": "celestial,",
+          "start": 153.74,
+          "end": 156.4
+        }
+      ],
+      "start": 151.94,
+      "end": 156.4,
+      "confidence": 1.0,
+      "time": 151.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "si llevamos la cruz por amor de Jesús,",
+      "words": [
+        {
+          "word": "si",
+          "start": 157.32,
+          "end": 157.64
+        },
+        {
+          "word": "llevamos",
+          "start": 157.64,
+          "end": 158.9
+        },
+        {
+          "word": "la",
+          "start": 158.9,
+          "end": 159.3
+        },
+        {
+          "word": "cruz",
+          "start": 159.3,
+          "end": 159.8
+        },
+        {
+          "word": "por",
+          "start": 159.8,
+          "end": 160.32
+        },
+        {
+          "word": "amor",
+          "start": 160.32,
+          "end": 161.14
+        },
+        {
+          "word": "de",
+          "start": 161.14,
+          "end": 161.6
+        },
+        {
+          "word": "Jesús,",
+          "start": 161.6,
+          "end": 164.12
+        }
+      ],
+      "start": 157.32,
+      "end": 164.78,
+      "confidence": 1.0,
+      "time": 157.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "la corona él nos dará.",
+      "words": [
+        {
+          "word": "la",
+          "start": 164.78,
+          "end": 165.16
+        },
+        {
+          "word": "colonda",
+          "start": 165.16,
+          "end": 166.52
+        },
+        {
+          "word": "nos",
+          "start": 167.16,
+          "end": 167.68
+        }
+      ],
+      "start": 164.78,
+      "end": 172.9,
+      "confidence": 0.572,
+      "time": 164.78
+    }
+  ]
+}

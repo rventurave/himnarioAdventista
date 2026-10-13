@@ -1,0 +1,1135 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.969,
+  "language": "es",
+  "model": "medium",
+  "hymn": 240,
+  "source": "240 - Te ruego, oh Dios.mp3",
+  "duration": 196.54,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Te ruego, oh Dios: ¡Escúchame a mí!,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Te",
+          "start": 11.36,
+          "end": 12.76
+        },
+        {
+          "word": "ruego,",
+          "start": 12.76,
+          "end": 13.98
+        },
+        {
+          "word": "Dios,",
+          "start": 14.42,
+          "end": 15.3
+        },
+        {
+          "word": "escúchame",
+          "start": 15.64,
+          "end": 16.56
+        },
+        {
+          "word": "a",
+          "start": 16.56,
+          "end": 17.1
+        },
+        {
+          "word": "mí,",
+          "start": 17.1,
+          "end": 18.1
+        }
+      ],
+      "start": 11.36,
+      "end": 18.84,
+      "confidence": 0.857,
+      "time": 11.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡ven, gran Libertador!,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ven",
+          "start": 18.84,
+          "end": 19.0
+        },
+        {
+          "word": "gran",
+          "start": 19.0,
+          "end": 19.4
+        },
+        {
+          "word": "libertador,",
+          "start": 19.4,
+          "end": 22.4
+        }
+      ],
+      "start": 18.84,
+      "end": 22.4,
+      "confidence": 1.0,
+      "time": 18.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues agobiado, anhelo ir a ti.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Pues",
+          "start": 22.4,
+          "end": 23.68
+        },
+        {
+          "word": "agobiado",
+          "start": 23.68,
+          "end": 26.18
+        },
+        {
+          "word": "anhelo",
+          "start": 26.18,
+          "end": 26.94
+        },
+        {
+          "word": "ir",
+          "start": 26.94,
+          "end": 27.36
+        },
+        {
+          "word": "a",
+          "start": 27.36,
+          "end": 27.76
+        },
+        {
+          "word": "ti,",
+          "start": 27.76,
+          "end": 28.84
+        }
+      ],
+      "start": 22.4,
+      "end": 29.34,
+      "confidence": 1.0,
+      "time": 22.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡ven, gran Libertador!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ven",
+          "start": 29.34,
+          "end": 29.62
+        },
+        {
+          "word": "gran",
+          "start": 29.62,
+          "end": 30.06
+        },
+        {
+          "word": "libertador,",
+          "start": 30.06,
+          "end": 33.04
+        }
+      ],
+      "start": 29.34,
+      "end": 33.04,
+      "confidence": 1.0,
+      "time": 29.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Por áridas montañas yo vagué,",
+      "words": [
+        {
+          "word": "Por",
+          "start": 33.76,
+          "end": 34.34
+        },
+        {
+          "word": "áridas",
+          "start": 34.34,
+          "end": 35.28
+        },
+        {
+          "word": "montañas",
+          "start": 35.28,
+          "end": 36.82
+        },
+        {
+          "word": "yo",
+          "start": 36.82,
+          "end": 37.64
+        },
+        {
+          "word": "vagué,",
+          "start": 37.64,
+          "end": 39.14
+        }
+      ],
+      "start": 33.76,
+      "end": 39.4,
+      "confidence": 1.0,
+      "time": 33.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "muy lejos de mi buen Pastor.",
+      "words": [
+        {
+          "word": "muy",
+          "start": 39.4,
+          "end": 39.7
+        },
+        {
+          "word": "lejos",
+          "start": 39.7,
+          "end": 40.3
+        },
+        {
+          "word": "de",
+          "start": 40.3,
+          "end": 40.72
+        },
+        {
+          "word": "mi",
+          "start": 40.72,
+          "end": 40.94
+        },
+        {
+          "word": "buen",
+          "start": 40.94,
+          "end": 41.52
+        },
+        {
+          "word": "pastor.",
+          "start": 41.52,
+          "end": 43.94
+        }
+      ],
+      "start": 39.4,
+      "end": 43.94,
+      "confidence": 1.0,
+      "time": 39.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡Oh, sálvame y llévame al redil,",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 43.94,
+          "end": 46.14
+        },
+        {
+          "word": "sálvame",
+          "start": 46.88,
+          "end": 48.62
+        },
+        {
+          "word": "y",
+          "start": 48.62,
+          "end": 48.96
+        },
+        {
+          "word": "llévame",
+          "start": 48.96,
+          "end": 49.78
+        },
+        {
+          "word": "al",
+          "start": 49.78,
+          "end": 50.16
+        },
+        {
+          "word": "redil,",
+          "start": 50.16,
+          "end": 51.7
+        }
+      ],
+      "start": 43.94,
+      "end": 52.14,
+      "confidence": 1.0,
+      "time": 43.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "ven, gran Libertador!",
+      "words": [
+        {
+          "word": "ven",
+          "start": 52.14,
+          "end": 52.36
+        },
+        {
+          "word": "gran",
+          "start": 52.36,
+          "end": 52.72
+        },
+        {
+          "word": "libertador",
+          "start": 52.72,
+          "end": 56.14
+        }
+      ],
+      "start": 52.14,
+      "end": 56.14,
+      "confidence": 1.0,
+      "time": 52.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "No puedo abrigo en noche oscura hallar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "No",
+          "start": 56.14,
+          "end": 58.06
+        },
+        {
+          "word": "puedo",
+          "start": 58.06,
+          "end": 59.16
+        },
+        {
+          "word": "abrigo",
+          "start": 59.16,
+          "end": 60.9
+        },
+        {
+          "word": "en",
+          "start": 60.9,
+          "end": 61.12
+        },
+        {
+          "word": "noche",
+          "start": 61.12,
+          "end": 61.4
+        },
+        {
+          "word": "oscura",
+          "start": 61.4,
+          "end": 62.16
+        }
+      ],
+      "start": 56.14,
+      "end": 64.04,
+      "confidence": 0.857,
+      "time": 56.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡ven, gran Libertador!,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ven",
+          "start": 64.04,
+          "end": 64.28
+        },
+        {
+          "word": "gran",
+          "start": 64.28,
+          "end": 64.72
+        },
+        {
+          "word": "libertador",
+          "start": 64.72,
+          "end": 66.94
+        }
+      ],
+      "start": 64.04,
+      "end": 66.94,
+      "confidence": 1.0,
+      "time": 64.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mas luz y vida tú me puedes dar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Más",
+          "start": 66.94,
+          "end": 69.06
+        },
+        {
+          "word": "luz",
+          "start": 69.06,
+          "end": 69.66
+        },
+        {
+          "word": "y",
+          "start": 69.66,
+          "end": 70.3
+        },
+        {
+          "word": "vida",
+          "start": 70.3,
+          "end": 71.36
+        },
+        {
+          "word": "tú",
+          "start": 71.36,
+          "end": 71.84
+        },
+        {
+          "word": "me",
+          "start": 71.84,
+          "end": 72.3
+        },
+        {
+          "word": "puedes",
+          "start": 72.3,
+          "end": 72.86
+        },
+        {
+          "word": "dar,",
+          "start": 72.86,
+          "end": 74.12
+        }
+      ],
+      "start": 66.94,
+      "end": 74.8,
+      "confidence": 1.0,
+      "time": 66.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡ven, gran Libertador!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ven",
+          "start": 74.8,
+          "end": 74.98
+        },
+        {
+          "word": "gran",
+          "start": 74.98,
+          "end": 75.4
+        },
+        {
+          "word": "libertador.",
+          "start": 75.4,
+          "end": 78.34
+        }
+      ],
+      "start": 74.8,
+      "end": 78.34,
+      "confidence": 1.0,
+      "time": 74.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Por áridas montañas yo vagué,",
+      "words": [
+        {
+          "word": "Por",
+          "start": 79.32,
+          "end": 79.78
+        },
+        {
+          "word": "aridas",
+          "start": 79.78,
+          "end": 80.64
+        },
+        {
+          "word": "montañas",
+          "start": 80.64,
+          "end": 82.2
+        },
+        {
+          "word": "yo",
+          "start": 82.2,
+          "end": 83.08
+        },
+        {
+          "word": "vagué,",
+          "start": 83.08,
+          "end": 84.56
+        }
+      ],
+      "start": 79.32,
+      "end": 84.66,
+      "confidence": 1.0,
+      "time": 79.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "muy lejos de mi buen Pastor.",
+      "words": [
+        {
+          "word": "muy",
+          "start": 84.66,
+          "end": 84.98
+        },
+        {
+          "word": "lejos",
+          "start": 84.98,
+          "end": 85.58
+        },
+        {
+          "word": "de",
+          "start": 85.58,
+          "end": 86.02
+        },
+        {
+          "word": "mi",
+          "start": 86.02,
+          "end": 86.2
+        },
+        {
+          "word": "buen",
+          "start": 86.2,
+          "end": 86.8
+        },
+        {
+          "word": "pastor.",
+          "start": 86.8,
+          "end": 88.96
+        }
+      ],
+      "start": 84.66,
+      "end": 88.96,
+      "confidence": 1.0,
+      "time": 84.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡Oh, sálvame y llévame al redil,",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 88.96,
+          "end": 91.44
+        },
+        {
+          "word": "sálvame",
+          "start": 92.2,
+          "end": 93.88
+        },
+        {
+          "word": "y",
+          "start": 93.88,
+          "end": 94.24
+        },
+        {
+          "word": "llévame",
+          "start": 94.24,
+          "end": 95.06
+        },
+        {
+          "word": "al",
+          "start": 95.06,
+          "end": 95.5
+        },
+        {
+          "word": "redir,",
+          "start": 95.5,
+          "end": 96.96
+        }
+      ],
+      "start": 88.96,
+      "end": 97.46,
+      "confidence": 0.98,
+      "time": 88.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "ven, gran Libertador!",
+      "words": [
+        {
+          "word": "ven",
+          "start": 97.46,
+          "end": 97.68
+        },
+        {
+          "word": "gran",
+          "start": 97.68,
+          "end": 98.1
+        },
+        {
+          "word": "libertador.",
+          "start": 98.1,
+          "end": 100.96
+        }
+      ],
+      "start": 97.46,
+      "end": 100.96,
+      "confidence": 1.0,
+      "time": 97.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Atormentado, sin descanso y paz,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Atormentado,",
+          "start": 104.72,
+          "end": 106.12
+        },
+        {
+          "word": "sin",
+          "start": 106.4,
+          "end": 106.6
+        },
+        {
+          "word": "descanso",
+          "start": 106.6,
+          "end": 107.44
+        },
+        {
+          "word": "y",
+          "start": 107.44,
+          "end": 107.66
+        },
+        {
+          "word": "paz,",
+          "start": 107.66,
+          "end": 108.7
+        }
+      ],
+      "start": 104.72,
+      "end": 109.46,
+      "confidence": 1.0,
+      "time": 104.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡ven, gran Libertador!,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ven",
+          "start": 109.46,
+          "end": 109.68
+        },
+        {
+          "word": "gran",
+          "start": 109.68,
+          "end": 110.06
+        },
+        {
+          "word": "libertador.",
+          "start": 110.06,
+          "end": 111.96
+        }
+      ],
+      "start": 109.46,
+      "end": 111.96,
+      "confidence": 1.0,
+      "time": 109.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "los ojos alzo a tu benigna faz,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Dos",
+          "start": 111.96,
+          "end": 114.26
+        },
+        {
+          "word": "ojos",
+          "start": 114.26,
+          "end": 115.46
+        },
+        {
+          "word": "alzó",
+          "start": 115.46,
+          "end": 116.74
+        },
+        {
+          "word": "a",
+          "start": 116.74,
+          "end": 117.06
+        },
+        {
+          "word": "tu",
+          "start": 117.06,
+          "end": 117.36
+        },
+        {
+          "word": "benignafaz,",
+          "start": 117.36,
+          "end": 119.62
+        }
+      ],
+      "start": 111.96,
+      "end": 120.04,
+      "confidence": 0.82,
+      "time": 111.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "¡ven, gran Libertador!",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ven",
+          "start": 120.04,
+          "end": 120.28
+        },
+        {
+          "word": "gran",
+          "start": 120.28,
+          "end": 120.66
+        },
+        {
+          "word": "libertador.",
+          "start": 120.66,
+          "end": 122.96
+        }
+      ],
+      "start": 120.04,
+      "end": 122.96,
+      "confidence": 1.0,
+      "time": 120.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Por áridas montañas yo vagué,",
+      "words": [
+        {
+          "word": "Por",
+          "start": 124.28,
+          "end": 125.08
+        },
+        {
+          "word": "aridas",
+          "start": 125.08,
+          "end": 125.96
+        },
+        {
+          "word": "montañas",
+          "start": 125.96,
+          "end": 127.52
+        },
+        {
+          "word": "yo",
+          "start": 127.52,
+          "end": 128.28
+        },
+        {
+          "word": "vagué,",
+          "start": 128.28,
+          "end": 129.88
+        }
+      ],
+      "start": 124.28,
+      "end": 129.96,
+      "confidence": 1.0,
+      "time": 124.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "muy lejos de mi buen Pastor.",
+      "words": [
+        {
+          "word": "muy",
+          "start": 129.96,
+          "end": 130.3
+        },
+        {
+          "word": "lejos",
+          "start": 130.3,
+          "end": 130.88
+        },
+        {
+          "word": "de",
+          "start": 130.88,
+          "end": 131.38
+        },
+        {
+          "word": "mi",
+          "start": 131.38,
+          "end": 131.56
+        },
+        {
+          "word": "buen",
+          "start": 131.56,
+          "end": 132.18
+        },
+        {
+          "word": "pastor.",
+          "start": 132.18,
+          "end": 134.48
+        }
+      ],
+      "start": 129.96,
+      "end": 134.48,
+      "confidence": 1.0,
+      "time": 129.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡Oh, sálvame y llévame al redil,",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 136.96,
+          "end": 138.0
+        },
+        {
+          "word": "sálvame",
+          "start": 138.0,
+          "end": 139.04
+        },
+        {
+          "word": "y",
+          "start": 139.04,
+          "end": 139.54
+        },
+        {
+          "word": "llévame",
+          "start": 139.54,
+          "end": 140.38
+        },
+        {
+          "word": "al",
+          "start": 140.38,
+          "end": 140.72
+        },
+        {
+          "word": "redil,",
+          "start": 140.72,
+          "end": 142.18
+        }
+      ],
+      "start": 136.96,
+      "end": 142.62,
+      "confidence": 1.0,
+      "time": 136.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "ven, gran Libertador!",
+      "words": [
+        {
+          "word": "ven,",
+          "start": 142.62,
+          "end": 142.96
+        },
+        {
+          "word": "gran",
+          "start": 143.18,
+          "end": 143.4
+        },
+        {
+          "word": "libertador.",
+          "start": 143.4,
+          "end": 146.48
+        }
+      ],
+      "start": 142.62,
+      "end": 146.48,
+      "confidence": 1.0,
+      "time": 142.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Mi voz contrita tú no desoirás,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 148.38,
+          "end": 149.08
+        },
+        {
+          "word": "voz",
+          "start": 149.08,
+          "end": 149.58
+        },
+        {
+          "word": "contrita,",
+          "start": 149.58,
+          "end": 151.44
+        },
+        {
+          "word": "tú",
+          "start": 151.44,
+          "end": 151.96
+        },
+        {
+          "word": "no",
+          "start": 151.96,
+          "end": 152.32
+        },
+        {
+          "word": "desoyarás,",
+          "start": 152.32,
+          "end": 154.1
+        }
+      ],
+      "start": 148.38,
+      "end": 154.58,
+      "confidence": 0.982,
+      "time": 148.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "¡ven, gran Libertador!,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "ven,",
+          "start": 154.58,
+          "end": 155.02
+        },
+        {
+          "word": "gran",
+          "start": 155.28,
+          "end": 155.42
+        },
+        {
+          "word": "libertador.",
+          "start": 155.42,
+          "end": 157.48
+        }
+      ],
+      "start": 154.58,
+      "end": 157.48,
+      "confidence": 1.0,
+      "time": 154.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "mi humilde ruego pronto atenderás,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 157.48,
+          "end": 159.44
+        },
+        {
+          "word": "humilde",
+          "start": 159.44,
+          "end": 160.82
+        },
+        {
+          "word": "ruego,",
+          "start": 160.82,
+          "end": 162.14
+        },
+        {
+          "word": "pronto",
+          "start": 162.14,
+          "end": 162.74
+        },
+        {
+          "word": "atenderás,",
+          "start": 162.74,
+          "end": 164.88
+        }
+      ],
+      "start": 157.48,
+      "end": 165.28,
+      "confidence": 1.0,
+      "time": 157.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "¡ven, gran Libertador!",
+      "verse": 4,
+      "words": [
+        {
+          "word": "vendrá",
+          "start": 165.28,
+          "end": 165.94
+        },
+        {
+          "word": "Divertador.",
+          "start": 166.18,
+          "end": 168.96
+        }
+      ],
+      "start": 165.28,
+      "end": 168.96,
+      "confidence": 0.607,
+      "time": 165.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Por áridas montañas yo vagué,",
+      "words": [
+        {
+          "word": "Por",
+          "start": 169.6,
+          "end": 170.38
+        },
+        {
+          "word": "áridas",
+          "start": 170.38,
+          "end": 171.24
+        },
+        {
+          "word": "montañas",
+          "start": 171.24,
+          "end": 172.82
+        },
+        {
+          "word": "yo",
+          "start": 172.82,
+          "end": 173.66
+        },
+        {
+          "word": "vagué,",
+          "start": 173.66,
+          "end": 175.16
+        }
+      ],
+      "start": 169.6,
+      "end": 175.44,
+      "confidence": 1.0,
+      "time": 169.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "muy lejos de mi buen Pastor.",
+      "words": [
+        {
+          "word": "muy",
+          "start": 175.44,
+          "end": 175.72
+        },
+        {
+          "word": "lejos",
+          "start": 175.72,
+          "end": 176.26
+        },
+        {
+          "word": "de",
+          "start": 176.26,
+          "end": 176.72
+        },
+        {
+          "word": "mi",
+          "start": 176.72,
+          "end": 176.92
+        },
+        {
+          "word": "buen",
+          "start": 176.92,
+          "end": 177.56
+        },
+        {
+          "word": "Pastor.",
+          "start": 177.56,
+          "end": 179.76
+        }
+      ],
+      "start": 175.44,
+      "end": 179.76,
+      "confidence": 1.0,
+      "time": 175.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡Oh, sálvame y llévame al redil,",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 179.76,
+          "end": 182.48
+        },
+        {
+          "word": "sálvame",
+          "start": 182.92,
+          "end": 184.4
+        },
+        {
+          "word": "y",
+          "start": 184.4,
+          "end": 184.96
+        },
+        {
+          "word": "llévame",
+          "start": 184.96,
+          "end": 185.76
+        },
+        {
+          "word": "al",
+          "start": 185.76,
+          "end": 186.18
+        },
+        {
+          "word": "redir,",
+          "start": 186.18,
+          "end": 187.58
+        }
+      ],
+      "start": 179.76,
+      "end": 188.08,
+      "confidence": 0.98,
+      "time": 179.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "ven, gran Libertador!",
+      "words": [
+        {
+          "word": "ven",
+          "start": 188.08,
+          "end": 188.36
+        },
+        {
+          "word": "gran",
+          "start": 188.36,
+          "end": 188.8
+        },
+        {
+          "word": "libertador.",
+          "start": 188.8,
+          "end": 191.36
+        }
+      ],
+      "start": 188.08,
+      "end": 191.36,
+      "confidence": 1.0,
+      "time": 188.08
+    }
+  ]
+}

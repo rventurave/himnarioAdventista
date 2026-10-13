@@ -1,0 +1,641 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.938,
+  "language": "es",
+  "model": "medium",
+  "hymn": 612,
+  "source": "612 - Jesus te necesita hoy.mp3",
+  "duration": 93.36,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús te necesita hoy, cristiana juventud;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 10.32,
+          "end": 11.36
+        },
+        {
+          "word": "te",
+          "start": 11.36,
+          "end": 12.0
+        },
+        {
+          "word": "necesita",
+          "start": 12.0,
+          "end": 12.84
+        },
+        {
+          "word": "hoy",
+          "start": 12.84,
+          "end": 13.3
+        },
+        {
+          "word": "cristiana",
+          "start": 13.3,
+          "end": 14.08
+        },
+        {
+          "word": "juventud,",
+          "start": 14.08,
+          "end": 15.6
+        }
+      ],
+      "start": 10.32,
+      "end": 15.88,
+      "confidence": 1.0,
+      "time": 10.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tu fuerza solicita, tu celo y tu virtud.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tu",
+          "start": 15.88,
+          "end": 15.94
+        },
+        {
+          "word": "fuerza",
+          "start": 15.94,
+          "end": 16.48
+        },
+        {
+          "word": "solicita",
+          "start": 16.48,
+          "end": 17.96
+        },
+        {
+          "word": "tu",
+          "start": 17.96,
+          "end": 18.42
+        },
+        {
+          "word": "celo",
+          "start": 18.42,
+          "end": 18.86
+        },
+        {
+          "word": "y",
+          "start": 18.86,
+          "end": 18.96
+        },
+        {
+          "word": "tu",
+          "start": 18.96,
+          "end": 19.34
+        },
+        {
+          "word": "virtud,",
+          "start": 19.34,
+          "end": 20.36
+        }
+      ],
+      "start": 15.88,
+      "end": 20.36,
+      "confidence": 1.0,
+      "time": 15.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "La frente, pues, levanta y empuña con valor",
+      "verse": 1,
+      "words": [
+        {
+          "word": "frente",
+          "start": 20.82,
+          "end": 21.24
+        },
+        {
+          "word": "pues",
+          "start": 21.24,
+          "end": 21.78
+        },
+        {
+          "word": "levanta",
+          "start": 21.78,
+          "end": 22.9
+        },
+        {
+          "word": "y",
+          "start": 22.9,
+          "end": 23.12
+        },
+        {
+          "word": "encuña",
+          "start": 23.12,
+          "end": 23.68
+        },
+        {
+          "word": "con",
+          "start": 23.68,
+          "end": 24.12
+        },
+        {
+          "word": "valor,",
+          "start": 24.12,
+          "end": 25.14
+        }
+      ],
+      "start": 20.82,
+      "end": 25.14,
+      "confidence": 0.85,
+      "time": 20.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "la enseña sacrosanta de Cristo, tu Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "enseña",
+          "start": 25.78,
+          "end": 26.16
+        },
+        {
+          "word": "cruzanta",
+          "start": 26.58,
+          "end": 27.56
+        },
+        {
+          "word": "de",
+          "start": 27.56,
+          "end": 28.02
+        },
+        {
+          "word": "Cristo",
+          "start": 28.02,
+          "end": 28.48
+        },
+        {
+          "word": "tu",
+          "start": 28.48,
+          "end": 28.92
+        },
+        {
+          "word": "Señor.",
+          "start": 28.92,
+          "end": 30.12
+        }
+      ],
+      "start": 25.78,
+      "end": 30.12,
+      "confidence": 0.829,
+      "time": 25.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Adelante, cristiana juventud;",
+      "words": [
+        {
+          "word": "Adelante",
+          "start": 31.48,
+          "end": 32.46
+        },
+        {
+          "word": "cristiana",
+          "start": 32.46,
+          "end": 33.26
+        },
+        {
+          "word": "juventud,",
+          "start": 33.26,
+          "end": 34.86
+        }
+      ],
+      "start": 31.48,
+      "end": 34.86,
+      "confidence": 1.0,
+      "time": 31.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "adelante, vamos, vamos todos con valor.",
+      "words": [
+        {
+          "word": "adelante",
+          "start": 35.5,
+          "end": 36.2
+        },
+        {
+          "word": "vamos,",
+          "start": 36.2,
+          "end": 36.88
+        },
+        {
+          "word": "vamos",
+          "start": 37.08,
+          "end": 37.48
+        },
+        {
+          "word": "todos",
+          "start": 37.48,
+          "end": 38.08
+        },
+        {
+          "word": "con",
+          "start": 38.08,
+          "end": 38.5
+        },
+        {
+          "word": "valor.",
+          "start": 38.5,
+          "end": 39.5
+        }
+      ],
+      "start": 35.5,
+      "end": 39.5,
+      "confidence": 1.0,
+      "time": 35.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Adelante, cristiana juventud;",
+      "words": [
+        {
+          "word": "Adelante",
+          "start": 40.6,
+          "end": 41.98
+        },
+        {
+          "word": "cristiana",
+          "start": 41.98,
+          "end": 42.86
+        },
+        {
+          "word": "juventud,",
+          "start": 42.86,
+          "end": 44.52
+        }
+      ],
+      "start": 40.6,
+      "end": 44.52,
+      "confidence": 1.0,
+      "time": 40.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "adelante, jóvenes, ¡id a luchar!",
+      "words": [
+        {
+          "word": "adelante",
+          "start": 45.24,
+          "end": 45.82
+        },
+        {
+          "word": "jóvenes",
+          "start": 45.82,
+          "end": 46.8
+        },
+        {
+          "word": "a",
+          "start": 47.76,
+          "end": 47.76
+        },
+        {
+          "word": "luchar.",
+          "start": 47.76,
+          "end": 49.44
+        }
+      ],
+      "start": 45.24,
+      "end": 49.44,
+      "confidence": 0.8,
+      "time": 45.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "A noble lucha llama hoy Jesús tu Salvador;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 50.36,
+          "end": 50.8
+        },
+        {
+          "word": "no",
+          "start": 50.8,
+          "end": 51.2
+        },
+        {
+          "word": "lucha",
+          "start": 51.42,
+          "end": 51.9
+        },
+        {
+          "word": "llama",
+          "start": 51.9,
+          "end": 52.36
+        },
+        {
+          "word": "hoy",
+          "start": 52.36,
+          "end": 52.9
+        },
+        {
+          "word": "Jesús",
+          "start": 52.9,
+          "end": 53.4
+        },
+        {
+          "word": "tu",
+          "start": 53.4,
+          "end": 53.7
+        },
+        {
+          "word": "salvador",
+          "start": 53.7,
+          "end": 55.18
+        }
+      ],
+      "start": 50.36,
+      "end": 55.18,
+      "confidence": 0.993,
+      "time": 50.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "levántate y proclama los dones de su amor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Levantate",
+          "start": 55.18,
+          "end": 56.32
+        },
+        {
+          "word": "y",
+          "start": 56.32,
+          "end": 56.56
+        },
+        {
+          "word": "proclama",
+          "start": 56.56,
+          "end": 57.62
+        },
+        {
+          "word": "los",
+          "start": 57.62,
+          "end": 58.0
+        },
+        {
+          "word": "dones",
+          "start": 58.0,
+          "end": 58.48
+        },
+        {
+          "word": "de",
+          "start": 58.48,
+          "end": 58.84
+        },
+        {
+          "word": "su",
+          "start": 58.84,
+          "end": 59.06
+        },
+        {
+          "word": "amor",
+          "start": 59.06,
+          "end": 59.76
+        }
+      ],
+      "start": 55.18,
+      "end": 59.76,
+      "confidence": 1.0,
+      "time": 55.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si siembra desalientos el malo con su voz,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 59.76,
+          "end": 60.34
+        },
+        {
+          "word": "siembra",
+          "start": 60.34,
+          "end": 60.96
+        },
+        {
+          "word": "desalientos",
+          "start": 60.96,
+          "end": 62.48
+        },
+        {
+          "word": "malo",
+          "start": 62.92,
+          "end": 63.44
+        },
+        {
+          "word": "con",
+          "start": 63.44,
+          "end": 63.7
+        },
+        {
+          "word": "su",
+          "start": 63.7,
+          "end": 64.06
+        },
+        {
+          "word": "voz",
+          "start": 64.06,
+          "end": 64.74
+        }
+      ],
+      "start": 59.76,
+      "end": 64.74,
+      "confidence": 0.875,
+      "time": 59.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "oculta tus lamentos, que va contigo Dios.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Reculta",
+          "start": 64.74,
+          "end": 65.78
+        },
+        {
+          "word": "tus",
+          "start": 65.78,
+          "end": 66.1
+        },
+        {
+          "word": "lamentos",
+          "start": 66.1,
+          "end": 67.24
+        },
+        {
+          "word": "que",
+          "start": 67.24,
+          "end": 67.6
+        },
+        {
+          "word": "va",
+          "start": 67.6,
+          "end": 67.82
+        },
+        {
+          "word": "contigo",
+          "start": 67.82,
+          "end": 68.64
+        },
+        {
+          "word": "Dios",
+          "start": 68.64,
+          "end": 69.62
+        }
+      ],
+      "start": 64.74,
+      "end": 69.62,
+      "confidence": 0.98,
+      "time": 64.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Adelante, cristiana juventud;",
+      "words": [
+        {
+          "word": "Adelante",
+          "start": 71.04,
+          "end": 72.06
+        },
+        {
+          "word": "cristiana",
+          "start": 72.06,
+          "end": 72.9
+        },
+        {
+          "word": "juventud",
+          "start": 72.9,
+          "end": 74.54
+        }
+      ],
+      "start": 71.04,
+      "end": 74.54,
+      "confidence": 1.0,
+      "time": 71.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "adelante, vamos, vamos todos con valor.",
+      "words": [
+        {
+          "word": "Adelante",
+          "start": 74.54,
+          "end": 75.92
+        },
+        {
+          "word": "vamos,",
+          "start": 75.92,
+          "end": 76.48
+        },
+        {
+          "word": "vamos",
+          "start": 76.7,
+          "end": 77.08
+        },
+        {
+          "word": "todos",
+          "start": 77.08,
+          "end": 77.64
+        },
+        {
+          "word": "con",
+          "start": 77.64,
+          "end": 78.1
+        },
+        {
+          "word": "valor",
+          "start": 78.1,
+          "end": 79.16
+        }
+      ],
+      "start": 74.54,
+      "end": 79.16,
+      "confidence": 1.0,
+      "time": 74.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Adelante, cristiana juventud;",
+      "words": [
+        {
+          "word": "¡Adelante",
+          "start": 79.16,
+          "end": 81.6
+        },
+        {
+          "word": "cristiana",
+          "start": 81.6,
+          "end": 82.54
+        },
+        {
+          "word": "juventud!",
+          "start": 82.54,
+          "end": 84.02
+        }
+      ],
+      "start": 79.16,
+      "end": 84.54,
+      "confidence": 1.0,
+      "time": 79.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "adelante, jóvenes, ¡id a luchar!",
+      "words": [
+        {
+          "word": "¡Adelante",
+          "start": 84.54,
+          "end": 85.5
+        },
+        {
+          "word": "jóvenes",
+          "start": 85.5,
+          "end": 86.44
+        },
+        {
+          "word": "la",
+          "start": 86.94,
+          "end": 87.44
+        },
+        {
+          "word": "lucha!",
+          "start": 87.44,
+          "end": 88.42
+        }
+      ],
+      "start": 84.54,
+      "end": 88.42,
+      "confidence": 0.748,
+      "time": 84.54
+    }
+  ]
+}

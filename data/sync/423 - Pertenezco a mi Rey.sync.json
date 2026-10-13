@@ -1,0 +1,1073 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.899,
+  "language": "es",
+  "model": "medium",
+  "hymn": 423,
+  "source": "423 - Pertenezco a mi Rey.mp3",
+  "duration": 219.72,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Pertenezco a mi Rey, hijo soy de su amor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Pertenezco",
+          "start": 17.7,
+          "end": 19.02
+        },
+        {
+          "word": "a",
+          "start": 19.02,
+          "end": 19.28
+        },
+        {
+          "word": "mi",
+          "start": 19.28,
+          "end": 19.92
+        },
+        {
+          "word": "Rey,",
+          "start": 19.92,
+          "end": 21.06
+        },
+        {
+          "word": "hijo",
+          "start": 21.44,
+          "end": 21.88
+        },
+        {
+          "word": "soy",
+          "start": 21.88,
+          "end": 22.54
+        },
+        {
+          "word": "de",
+          "start": 22.54,
+          "end": 23.22
+        },
+        {
+          "word": "su",
+          "start": 23.22,
+          "end": 23.66
+        },
+        {
+          "word": "amor",
+          "start": 23.66,
+          "end": 24.94
+        }
+      ],
+      "start": 17.7,
+      "end": 24.94,
+      "confidence": 1.0,
+      "time": 17.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y a sus regias moradas iré.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 24.94,
+          "end": 25.64
+        },
+        {
+          "word": "a",
+          "start": 25.64,
+          "end": 25.84
+        },
+        {
+          "word": "sus",
+          "start": 25.84,
+          "end": 26.16
+        },
+        {
+          "word": "rejas",
+          "start": 26.16,
+          "end": 27.3
+        },
+        {
+          "word": "moradas",
+          "start": 27.3,
+          "end": 29.34
+        }
+      ],
+      "start": 24.94,
+      "end": 29.34,
+      "confidence": 0.806,
+      "time": 24.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Sus delicias sin fin revelome el Señor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sus",
+          "start": 32.66,
+          "end": 34.06
+        },
+        {
+          "word": "delicias",
+          "start": 34.06,
+          "end": 35.46
+        },
+        {
+          "word": "sin",
+          "start": 35.46,
+          "end": 36.44
+        },
+        {
+          "word": "fin,",
+          "start": 36.44,
+          "end": 37.52
+        },
+        {
+          "word": "revelóme",
+          "start": 37.9,
+          "end": 39.44
+        },
+        {
+          "word": "el",
+          "start": 39.44,
+          "end": 39.96
+        },
+        {
+          "word": "Señor,",
+          "start": 39.96,
+          "end": 41.38
+        }
+      ],
+      "start": 32.66,
+      "end": 41.9,
+      "confidence": 1.0,
+      "time": 32.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y un lugar con sus hijos tendré.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 41.9,
+          "end": 41.94
+        },
+        {
+          "word": "un",
+          "start": 41.94,
+          "end": 42.2
+        },
+        {
+          "word": "lugar",
+          "start": 42.2,
+          "end": 42.94
+        },
+        {
+          "word": "con",
+          "start": 42.94,
+          "end": 43.82
+        },
+        {
+          "word": "sus",
+          "start": 43.82,
+          "end": 44.7
+        },
+        {
+          "word": "hijos",
+          "start": 44.7,
+          "end": 45.76
+        }
+      ],
+      "start": 41.9,
+      "end": 49.14,
+      "confidence": 0.857,
+      "time": 41.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Pertenezco a mi Rey, hijo soy de su amor,",
+      "words": [
+        {
+          "word": "hijos",
+          "start": 54.24,
+          "end": 54.64
+        },
+        {
+          "word": "hoy",
+          "start": 54.64,
+          "end": 55.32
+        },
+        {
+          "word": "de",
+          "start": 55.32,
+          "end": 56.02
+        },
+        {
+          "word": "su",
+          "start": 56.02,
+          "end": 56.46
+        },
+        {
+          "word": "amor,",
+          "start": 56.46,
+          "end": 57.74
+        }
+      ],
+      "start": 54.24,
+      "end": 58.34,
+      "confidence": 0.527,
+      "time": 54.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "a los suyos jamás olvidó.",
+      "words": [
+        {
+          "word": "a",
+          "start": 58.34,
+          "end": 58.54
+        },
+        {
+          "word": "los",
+          "start": 58.54,
+          "end": 59.1
+        },
+        {
+          "word": "suyos",
+          "start": 59.1,
+          "end": 60.16
+        },
+        {
+          "word": "jamás",
+          "start": 60.16,
+          "end": 61.5
+        },
+        {
+          "word": "olvidó.",
+          "start": 62.14,
+          "end": 65.68
+        }
+      ],
+      "start": 58.34,
+      "end": 65.68,
+      "confidence": 1.0,
+      "time": 58.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "En su regia mansión he de ver al Señor,",
+      "words": [
+        {
+          "word": "En",
+          "start": 65.68,
+          "end": 66.54
+        },
+        {
+          "word": "su",
+          "start": 66.54,
+          "end": 66.98
+        },
+        {
+          "word": "regla",
+          "start": 66.98,
+          "end": 68.34
+        },
+        {
+          "word": "mansión",
+          "start": 68.34,
+          "end": 70.12
+        },
+        {
+          "word": "he",
+          "start": 70.12,
+          "end": 70.78
+        },
+        {
+          "word": "de",
+          "start": 70.78,
+          "end": 71.16
+        },
+        {
+          "word": "ver",
+          "start": 71.16,
+          "end": 71.8
+        },
+        {
+          "word": "al",
+          "start": 71.8,
+          "end": 72.36
+        },
+        {
+          "word": "Señor",
+          "start": 72.36,
+          "end": 74.06
+        }
+      ],
+      "start": 65.68,
+      "end": 74.06,
+      "confidence": 0.987,
+      "time": 65.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y a su lado, feliz, viviré.",
+      "words": [
+        {
+          "word": "y",
+          "start": 74.06,
+          "end": 74.76
+        },
+        {
+          "word": "a",
+          "start": 74.76,
+          "end": 74.94
+        },
+        {
+          "word": "su",
+          "start": 74.94,
+          "end": 75.18
+        },
+        {
+          "word": "lado",
+          "start": 75.18,
+          "end": 76.4
+        },
+        {
+          "word": "feliz",
+          "start": 76.4,
+          "end": 78.0
+        },
+        {
+          "word": "viviré.",
+          "start": 78.0,
+          "end": 82.4
+        }
+      ],
+      "start": 74.06,
+      "end": 82.4,
+      "confidence": 1.0,
+      "time": 74.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Pertenezco a mi Rey, y que me ama lo sé;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Pertenezco",
+          "start": 83.98,
+          "end": 85.26
+        },
+        {
+          "word": "a",
+          "start": 85.26,
+          "end": 85.6
+        },
+        {
+          "word": "mi",
+          "start": 85.6,
+          "end": 86.36
+        },
+        {
+          "word": "Rey,",
+          "start": 86.36,
+          "end": 87.36
+        },
+        {
+          "word": "y",
+          "start": 87.78,
+          "end": 87.98
+        },
+        {
+          "word": "que",
+          "start": 87.98,
+          "end": 88.3
+        },
+        {
+          "word": "me",
+          "start": 88.3,
+          "end": 88.88
+        },
+        {
+          "word": "ama",
+          "start": 88.88,
+          "end": 89.5
+        },
+        {
+          "word": "sé,",
+          "start": 90.36,
+          "end": 91.18
+        }
+      ],
+      "start": 83.98,
+      "end": 91.62,
+      "confidence": 0.9,
+      "time": 83.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y a sus dones de amor celestial",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 91.62,
+          "end": 91.98
+        },
+        {
+          "word": "a",
+          "start": 91.98,
+          "end": 92.14
+        },
+        {
+          "word": "sus",
+          "start": 92.14,
+          "end": 92.38
+        },
+        {
+          "word": "dones",
+          "start": 92.38,
+          "end": 93.58
+        },
+        {
+          "word": "de",
+          "start": 93.58,
+          "end": 94.34
+        },
+        {
+          "word": "amor",
+          "start": 94.34,
+          "end": 94.98
+        }
+      ],
+      "start": 91.62,
+      "end": 99.24,
+      "confidence": 0.857,
+      "time": 91.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "por doquiera que voy sin cesar hallaré",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Por",
+          "start": 99.24,
+          "end": 100.2
+        },
+        {
+          "word": "doquiera",
+          "start": 100.2,
+          "end": 101.7
+        },
+        {
+          "word": "que",
+          "start": 101.7,
+          "end": 102.68
+        },
+        {
+          "word": "voy,",
+          "start": 102.68,
+          "end": 103.78
+        },
+        {
+          "word": "sin",
+          "start": 104.18,
+          "end": 104.26
+        },
+        {
+          "word": "cesar",
+          "start": 104.26,
+          "end": 105.82
+        },
+        {
+          "word": "hallaré",
+          "start": 105.82,
+          "end": 107.54
+        }
+      ],
+      "start": 99.24,
+      "end": 107.54,
+      "confidence": 1.0,
+      "time": 99.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "como prueba de amor sin igual.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "como",
+          "start": 107.54,
+          "end": 108.64
+        },
+        {
+          "word": "prueba",
+          "start": 108.64,
+          "end": 109.86
+        },
+        {
+          "word": "de",
+          "start": 109.86,
+          "end": 110.7
+        },
+        {
+          "word": "amor",
+          "start": 110.7,
+          "end": 111.34
+        },
+        {
+          "word": "sin",
+          "start": 111.34,
+          "end": 112.52
+        },
+        {
+          "word": "igual.",
+          "start": 112.52,
+          "end": 115.34
+        }
+      ],
+      "start": 107.54,
+      "end": 115.34,
+      "confidence": 1.0,
+      "time": 107.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Pertenezco a mi Rey, hijo soy de su amor,",
+      "words": [
+        {
+          "word": "hertenezco",
+          "start": 116.54,
+          "end": 118.18
+        },
+        {
+          "word": "a",
+          "start": 118.18,
+          "end": 118.52
+        },
+        {
+          "word": "mi",
+          "start": 118.52,
+          "end": 118.96
+        },
+        {
+          "word": "Rey,",
+          "start": 118.96,
+          "end": 119.98
+        },
+        {
+          "word": "hijo,",
+          "start": 120.38,
+          "end": 120.9
+        },
+        {
+          "word": "soy",
+          "start": 121.3,
+          "end": 121.62
+        },
+        {
+          "word": "de",
+          "start": 121.62,
+          "end": 122.32
+        },
+        {
+          "word": "su",
+          "start": 122.32,
+          "end": 122.86
+        },
+        {
+          "word": "amor,",
+          "start": 122.86,
+          "end": 124.06
+        }
+      ],
+      "start": 116.54,
+      "end": 124.36,
+      "confidence": 0.993,
+      "time": 116.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "a los suyos jamás olvidó.",
+      "words": [
+        {
+          "word": "a",
+          "start": 124.36,
+          "end": 124.86
+        },
+        {
+          "word": "los",
+          "start": 124.86,
+          "end": 125.34
+        },
+        {
+          "word": "suyos",
+          "start": 125.34,
+          "end": 126.48
+        },
+        {
+          "word": "jamás",
+          "start": 126.48,
+          "end": 127.92
+        },
+        {
+          "word": "olvidó.",
+          "start": 127.92,
+          "end": 131.92
+        }
+      ],
+      "start": 124.36,
+      "end": 131.92,
+      "confidence": 1.0,
+      "time": 124.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "En su regia mansión he de ver al Señor,",
+      "words": [
+        {
+          "word": "En",
+          "start": 131.92,
+          "end": 132.86
+        },
+        {
+          "word": "su",
+          "start": 132.86,
+          "end": 133.32
+        },
+        {
+          "word": "regia",
+          "start": 133.32,
+          "end": 134.64
+        },
+        {
+          "word": "mansión",
+          "start": 134.64,
+          "end": 136.52
+        },
+        {
+          "word": "debé",
+          "start": 137.08,
+          "end": 137.42
+        },
+        {
+          "word": "ver",
+          "start": 137.42,
+          "end": 138.22
+        },
+        {
+          "word": "al",
+          "start": 138.22,
+          "end": 138.7
+        },
+        {
+          "word": "Señor",
+          "start": 138.7,
+          "end": 140.32
+        }
+      ],
+      "start": 131.92,
+      "end": 141.08,
+      "confidence": 0.867,
+      "time": 131.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y a su lado, feliz, viviré.",
+      "words": [
+        {
+          "word": "a",
+          "start": 141.08,
+          "end": 141.46
+        },
+        {
+          "word": "su",
+          "start": 141.46,
+          "end": 141.48
+        },
+        {
+          "word": "lado",
+          "start": 141.48,
+          "end": 142.66
+        },
+        {
+          "word": "feliz",
+          "start": 142.66,
+          "end": 144.26
+        },
+        {
+          "word": "viviré.",
+          "start": 144.26,
+          "end": 148.38
+        }
+      ],
+      "start": 141.08,
+      "end": 148.38,
+      "confidence": 0.833,
+      "time": 141.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Pertenezco a mi Rey, y no dudo jamás",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Pertenezco",
+          "start": 150.34,
+          "end": 151.74
+        },
+        {
+          "word": "a",
+          "start": 151.74,
+          "end": 151.94
+        },
+        {
+          "word": "mi",
+          "start": 151.94,
+          "end": 152.46
+        },
+        {
+          "word": "Rey",
+          "start": 152.46,
+          "end": 153.58
+        },
+        {
+          "word": "y",
+          "start": 153.58,
+          "end": 154.28
+        },
+        {
+          "word": "no",
+          "start": 154.28,
+          "end": 154.9
+        },
+        {
+          "word": "dudo",
+          "start": 154.9,
+          "end": 155.8
+        },
+        {
+          "word": "jamás",
+          "start": 155.8,
+          "end": 157.74
+        }
+      ],
+      "start": 150.34,
+      "end": 157.74,
+      "confidence": 1.0,
+      "time": 150.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "que reunidos los suyos serán",
+      "verse": 3,
+      "words": [
+        {
+          "word": "que",
+          "start": 157.74,
+          "end": 158.36
+        },
+        {
+          "word": "reunidos",
+          "start": 158.36,
+          "end": 159.9
+        },
+        {
+          "word": "los",
+          "start": 159.9,
+          "end": 160.86
+        },
+        {
+          "word": "suyos",
+          "start": 160.86,
+          "end": 161.96
+        },
+        {
+          "word": "serán.",
+          "start": 161.96,
+          "end": 165.84
+        }
+      ],
+      "start": 157.74,
+      "end": 165.84,
+      "confidence": 1.0,
+      "time": 157.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en la Sion celestial, que es morada de paz,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "celestial",
+          "start": 167.46,
+          "end": 169.86
+        },
+        {
+          "word": "es",
+          "start": 169.86,
+          "end": 170.62
+        },
+        {
+          "word": "dorada",
+          "start": 170.62,
+          "end": 172.14
+        },
+        {
+          "word": "de",
+          "start": 172.14,
+          "end": 173.06
+        },
+        {
+          "word": "paz,",
+          "start": 173.06,
+          "end": 174.12
+        }
+      ],
+      "start": 167.46,
+      "end": 174.76,
+      "confidence": 0.544,
+      "time": 167.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "do pesares jamás se hallarán.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pesares",
+          "start": 174.76,
+          "end": 176.36
+        },
+        {
+          "word": "jamás",
+          "start": 176.36,
+          "end": 177.7
+        },
+        {
+          "word": "hallarán.",
+          "start": 178.38,
+          "end": 182.14
+        }
+      ],
+      "start": 174.76,
+      "end": 182.14,
+      "confidence": 0.6,
+      "time": 174.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Pertenezco a mi Rey, hijo soy de su amor,",
+      "words": [
+        {
+          "word": "hertenesco",
+          "start": 182.84,
+          "end": 184.46
+        },
+        {
+          "word": "a",
+          "start": 184.46,
+          "end": 184.8
+        },
+        {
+          "word": "mi",
+          "start": 184.8,
+          "end": 185.26
+        },
+        {
+          "word": "rey,",
+          "start": 185.26,
+          "end": 186.66
+        },
+        {
+          "word": "hijo,",
+          "start": 186.94,
+          "end": 187.22
+        },
+        {
+          "word": "soy",
+          "start": 187.58,
+          "end": 187.94
+        },
+        {
+          "word": "de",
+          "start": 187.94,
+          "end": 188.64
+        },
+        {
+          "word": "su",
+          "start": 188.64,
+          "end": 189.12
+        },
+        {
+          "word": "amor,",
+          "start": 189.12,
+          "end": 190.34
+        }
+      ],
+      "start": 182.84,
+      "end": 190.92,
+      "confidence": 0.987,
+      "time": 182.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "a los suyos jamás olvidó.",
+      "words": [
+        {
+          "word": "a",
+          "start": 190.92,
+          "end": 191.14
+        },
+        {
+          "word": "los",
+          "start": 191.14,
+          "end": 191.76
+        },
+        {
+          "word": "suyos",
+          "start": 191.76,
+          "end": 192.66
+        },
+        {
+          "word": "amas",
+          "start": 192.66,
+          "end": 194.22
+        },
+        {
+          "word": "olvidó.",
+          "start": 194.22,
+          "end": 198.22
+        }
+      ],
+      "start": 190.92,
+      "end": 198.22,
+      "confidence": 0.987,
+      "time": 190.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "En su regia mansión he de ver al Señor,",
+      "words": [
+        {
+          "word": "En",
+          "start": 198.22,
+          "end": 199.18
+        },
+        {
+          "word": "su",
+          "start": 199.18,
+          "end": 199.62
+        },
+        {
+          "word": "reja",
+          "start": 199.62,
+          "end": 200.82
+        },
+        {
+          "word": "mansión,",
+          "start": 200.82,
+          "end": 202.9
+        },
+        {
+          "word": "he",
+          "start": 203.28,
+          "end": 203.44
+        },
+        {
+          "word": "de",
+          "start": 203.44,
+          "end": 203.92
+        },
+        {
+          "word": "ver",
+          "start": 203.92,
+          "end": 204.44
+        },
+        {
+          "word": "al",
+          "start": 204.44,
+          "end": 205.0
+        },
+        {
+          "word": "Señor,",
+          "start": 205.0,
+          "end": 206.68
+        }
+      ],
+      "start": 198.22,
+      "end": 207.2,
+      "confidence": 0.978,
+      "time": 198.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y a su lado, feliz, viviré.",
+      "words": [
+        {
+          "word": "y",
+          "start": 207.2,
+          "end": 207.4
+        },
+        {
+          "word": "a",
+          "start": 207.4,
+          "end": 207.58
+        },
+        {
+          "word": "su",
+          "start": 207.58,
+          "end": 207.76
+        },
+        {
+          "word": "lajo",
+          "start": 207.76,
+          "end": 209.1
+        },
+        {
+          "word": "feliz",
+          "start": 209.1,
+          "end": 210.84
+        },
+        {
+          "word": "viviré.",
+          "start": 210.84,
+          "end": 216.94
+        }
+      ],
+      "start": 207.2,
+      "end": 216.94,
+      "confidence": 0.975,
+      "time": 207.2
+    }
+  ]
+}

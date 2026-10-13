@@ -1,0 +1,706 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.949,
+  "language": "es",
+  "model": "medium",
+  "hymn": 236,
+  "source": "236 - A Jesus entrega todo.mp3",
+  "duration": 149.13,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Has corrido tras un arco iris,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Has",
+          "start": 16.58,
+          "end": 17.28
+        },
+        {
+          "word": "corrido",
+          "start": 17.28,
+          "end": 18.68
+        },
+        {
+          "word": "tras",
+          "start": 18.68,
+          "end": 19.42
+        },
+        {
+          "word": "un",
+          "start": 19.42,
+          "end": 20.16
+        },
+        {
+          "word": "arcoíris",
+          "start": 20.16,
+          "end": 24.7
+        }
+      ],
+      "start": 16.58,
+      "end": 24.7,
+      "confidence": 0.823,
+      "time": 16.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y ahora muy cansado estás.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 24.7,
+          "end": 25.64
+        },
+        {
+          "word": "ahora",
+          "start": 25.64,
+          "end": 26.54
+        },
+        {
+          "word": "muy",
+          "start": 26.54,
+          "end": 27.24
+        },
+        {
+          "word": "cansado",
+          "start": 27.24,
+          "end": 28.72
+        },
+        {
+          "word": "estás.",
+          "start": 28.72,
+          "end": 32.66
+        }
+      ],
+      "start": 24.7,
+      "end": 32.66,
+      "confidence": 1.0,
+      "time": 24.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Toma todos esos sueños rotos,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Toma",
+          "start": 33.34,
+          "end": 33.74
+        },
+        {
+          "word": "todos",
+          "start": 33.74,
+          "end": 34.68
+        },
+        {
+          "word": "esos",
+          "start": 34.68,
+          "end": 35.64
+        },
+        {
+          "word": "sueños",
+          "start": 35.64,
+          "end": 36.7
+        },
+        {
+          "word": "frotos",
+          "start": 36.7,
+          "end": 40.74
+        }
+      ],
+      "start": 33.34,
+      "end": 40.74,
+      "confidence": 0.989,
+      "time": 33.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y a los pies de Cristo ponlos ya.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 40.74,
+          "end": 41.34
+        },
+        {
+          "word": "a",
+          "start": 41.34,
+          "end": 41.54
+        },
+        {
+          "word": "los",
+          "start": 41.54,
+          "end": 41.82
+        },
+        {
+          "word": "pies",
+          "start": 41.82,
+          "end": 42.18
+        },
+        {
+          "word": "de",
+          "start": 42.18,
+          "end": 42.78
+        },
+        {
+          "word": "Cristo",
+          "start": 42.78,
+          "end": 43.7
+        },
+        {
+          "word": "colos",
+          "start": 43.7,
+          "end": 44.96
+        },
+        {
+          "word": "ya.",
+          "start": 44.96,
+          "end": 47.66
+        }
+      ],
+      "start": 40.74,
+      "end": 47.66,
+      "confidence": 0.98,
+      "time": 40.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "A Jesús, a Jesús, a Jesús entrega todo:",
+      "words": [
+        {
+          "word": "A",
+          "start": 47.66,
+          "end": 48.52
+        },
+        {
+          "word": "Jesús,",
+          "start": 48.52,
+          "end": 50.14
+        },
+        {
+          "word": "a",
+          "start": 50.24,
+          "end": 50.52
+        },
+        {
+          "word": "Jesús,",
+          "start": 50.52,
+          "end": 52.72
+        },
+        {
+          "word": "a",
+          "start": 53.18,
+          "end": 53.4
+        },
+        {
+          "word": "Jesús",
+          "start": 53.4,
+          "end": 54.0
+        },
+        {
+          "word": "entrega",
+          "start": 54.0,
+          "end": 54.68
+        },
+        {
+          "word": "todo,",
+          "start": 54.68,
+          "end": 55.9
+        }
+      ],
+      "start": 47.66,
+      "end": 56.18,
+      "confidence": 1.0,
+      "time": 47.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "sueños rotos y heridas del corazón.",
+      "words": [
+        {
+          "word": "sueños",
+          "start": 56.18,
+          "end": 56.82
+        },
+        {
+          "word": "rotos",
+          "start": 56.82,
+          "end": 57.94
+        },
+        {
+          "word": "y",
+          "start": 57.94,
+          "end": 58.4
+        },
+        {
+          "word": "heridas",
+          "start": 58.4,
+          "end": 59.38
+        },
+        {
+          "word": "corazón.",
+          "start": 59.78,
+          "end": 61.7
+        }
+      ],
+      "start": 56.18,
+      "end": 61.7,
+      "confidence": 0.833,
+      "time": 56.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "A Jesús, a Jesús, a Jesús entrega todo;",
+      "words": [
+        {
+          "word": "A",
+          "start": 61.7,
+          "end": 64.38
+        },
+        {
+          "word": "Jesús,",
+          "start": 64.38,
+          "end": 66.06
+        },
+        {
+          "word": "a",
+          "start": 66.06,
+          "end": 66.36
+        },
+        {
+          "word": "Jesús,",
+          "start": 66.36,
+          "end": 68.14
+        },
+        {
+          "word": "a",
+          "start": 69.02,
+          "end": 69.42
+        },
+        {
+          "word": "Jesús",
+          "start": 69.42,
+          "end": 69.94
+        },
+        {
+          "word": "entrega",
+          "start": 69.94,
+          "end": 70.66
+        },
+        {
+          "word": "todo",
+          "start": 70.66,
+          "end": 71.84
+        }
+      ],
+      "start": 61.7,
+      "end": 71.84,
+      "confidence": 1.0,
+      "time": 61.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y la tristeza en gozo cambiará.",
+      "words": [
+        {
+          "word": "y",
+          "start": 71.84,
+          "end": 72.76
+        },
+        {
+          "word": "la",
+          "start": 72.76,
+          "end": 73.46
+        },
+        {
+          "word": "tristeza",
+          "start": 73.46,
+          "end": 74.4
+        },
+        {
+          "word": "gozo",
+          "start": 74.74,
+          "end": 75.98
+        },
+        {
+          "word": "cambiará.",
+          "start": 75.98,
+          "end": 79.64
+        }
+      ],
+      "start": 71.84,
+      "end": 79.64,
+      "confidence": 0.833,
+      "time": 71.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Él no prometió sol todos los días;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Él",
+          "start": 79.64,
+          "end": 81.42
+        },
+        {
+          "word": "nos",
+          "start": 81.42,
+          "end": 81.82
+        },
+        {
+          "word": "prometió",
+          "start": 81.82,
+          "end": 83.18
+        },
+        {
+          "word": "sol",
+          "start": 83.18,
+          "end": 83.7
+        },
+        {
+          "word": "todos",
+          "start": 83.7,
+          "end": 84.34
+        },
+        {
+          "word": "los",
+          "start": 84.34,
+          "end": 84.96
+        },
+        {
+          "word": "días,",
+          "start": 84.96,
+          "end": 88.68
+        }
+      ],
+      "start": 79.64,
+      "end": 88.68,
+      "confidence": 0.983,
+      "time": 79.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "sé que a veces viene la tormenta.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "sé",
+          "start": 89.28,
+          "end": 89.4
+        },
+        {
+          "word": "que",
+          "start": 89.4,
+          "end": 89.66
+        },
+        {
+          "word": "a",
+          "start": 89.66,
+          "end": 89.96
+        },
+        {
+          "word": "veces",
+          "start": 89.96,
+          "end": 90.7
+        },
+        {
+          "word": "viene",
+          "start": 90.7,
+          "end": 92.06
+        },
+        {
+          "word": "la",
+          "start": 92.06,
+          "end": 92.48
+        },
+        {
+          "word": "tormenta,",
+          "start": 92.48,
+          "end": 96.84
+        }
+      ],
+      "start": 89.28,
+      "end": 96.84,
+      "confidence": 1.0,
+      "time": 89.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Pero nos ofrece un corazón nuevo,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pero",
+          "start": 97.14,
+          "end": 97.7
+        },
+        {
+          "word": "nos",
+          "start": 97.7,
+          "end": 98.42
+        },
+        {
+          "word": "ofrece",
+          "start": 98.42,
+          "end": 99.32
+        },
+        {
+          "word": "un",
+          "start": 99.32,
+          "end": 99.72
+        },
+        {
+          "word": "corazón",
+          "start": 99.72,
+          "end": 100.62
+        },
+        {
+          "word": "nuevo,",
+          "start": 100.62,
+          "end": 104.46
+        }
+      ],
+      "start": 97.14,
+      "end": 104.46,
+      "confidence": 1.0,
+      "time": 97.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que cante aún en medio del dolor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cántate",
+          "start": 105.24,
+          "end": 105.7
+        },
+        {
+          "word": "aún",
+          "start": 105.7,
+          "end": 106.34
+        },
+        {
+          "word": "en",
+          "start": 106.34,
+          "end": 106.88
+        },
+        {
+          "word": "medio",
+          "start": 106.88,
+          "end": 107.64
+        },
+        {
+          "word": "del",
+          "start": 107.64,
+          "end": 108.22
+        },
+        {
+          "word": "dolor.",
+          "start": 108.22,
+          "end": 110.28
+        }
+      ],
+      "start": 105.24,
+      "end": 110.28,
+      "confidence": 0.843,
+      "time": 105.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "A Jesús, a Jesús, a Jesús entrega todo:",
+      "words": [
+        {
+          "word": "A",
+          "start": 112.24,
+          "end": 112.56
+        },
+        {
+          "word": "Jesús,",
+          "start": 112.56,
+          "end": 114.12
+        },
+        {
+          "word": "a",
+          "start": 114.3,
+          "end": 114.44
+        },
+        {
+          "word": "Jesús,",
+          "start": 114.44,
+          "end": 116.72
+        },
+        {
+          "word": "a",
+          "start": 117.24,
+          "end": 117.4
+        },
+        {
+          "word": "Jesús",
+          "start": 117.4,
+          "end": 118.02
+        },
+        {
+          "word": "entrega",
+          "start": 118.02,
+          "end": 118.64
+        },
+        {
+          "word": "todo",
+          "start": 118.64,
+          "end": 119.9
+        }
+      ],
+      "start": 112.24,
+      "end": 119.9,
+      "confidence": 1.0,
+      "time": 112.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "sueños rotos y heridas del corazón.",
+      "words": [
+        {
+          "word": "sueños",
+          "start": 119.9,
+          "end": 120.74
+        },
+        {
+          "word": "rotos",
+          "start": 120.74,
+          "end": 121.96
+        },
+        {
+          "word": "y",
+          "start": 121.96,
+          "end": 122.34
+        },
+        {
+          "word": "heridas",
+          "start": 122.34,
+          "end": 123.38
+        },
+        {
+          "word": "del",
+          "start": 123.38,
+          "end": 123.8
+        },
+        {
+          "word": "corazón.",
+          "start": 123.8,
+          "end": 125.88
+        }
+      ],
+      "start": 119.9,
+      "end": 125.88,
+      "confidence": 1.0,
+      "time": 119.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "A Jesús, a Jesús, a Jesús entrega todo;",
+      "words": [
+        {
+          "word": "A",
+          "start": 125.88,
+          "end": 128.5
+        },
+        {
+          "word": "Jesús,",
+          "start": 128.5,
+          "end": 130.16
+        },
+        {
+          "word": "a",
+          "start": 130.18,
+          "end": 130.44
+        },
+        {
+          "word": "Jesús,",
+          "start": 130.44,
+          "end": 132.66
+        },
+        {
+          "word": "a",
+          "start": 132.88,
+          "end": 133.44
+        },
+        {
+          "word": "Jesús",
+          "start": 133.44,
+          "end": 133.88
+        },
+        {
+          "word": "entrega",
+          "start": 133.88,
+          "end": 134.66
+        },
+        {
+          "word": "todo",
+          "start": 134.66,
+          "end": 135.8
+        }
+      ],
+      "start": 125.88,
+      "end": 135.8,
+      "confidence": 1.0,
+      "time": 125.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y la tristeza en gozo cambiará.",
+      "words": [
+        {
+          "word": "y",
+          "start": 135.8,
+          "end": 136.78
+        },
+        {
+          "word": "la",
+          "start": 136.78,
+          "end": 137.52
+        },
+        {
+          "word": "tristeza",
+          "start": 137.52,
+          "end": 138.42
+        },
+        {
+          "word": "gozo",
+          "start": 138.86,
+          "end": 140.36
+        },
+        {
+          "word": "cambiará.",
+          "start": 140.36,
+          "end": 143.0
+        }
+      ],
+      "start": 135.8,
+      "end": 143.0,
+      "confidence": 0.833,
+      "time": 135.8
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.876,
+  "language": "es",
+  "model": "medium",
+  "hymn": 421,
+  "source": "421 - Carinoso Salvador.mp3",
+  "duration": 143.96,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Cariñoso Salvador, huyo de la tempestad",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cariñoso",
+          "start": 12.0,
+          "end": 13.4
+        },
+        {
+          "word": "Salvador,",
+          "start": 13.4,
+          "end": 14.8
+        },
+        {
+          "word": "Puyo",
+          "start": 15.4,
+          "end": 16.36
+        },
+        {
+          "word": "de",
+          "start": 16.36,
+          "end": 16.92
+        },
+        {
+          "word": "la",
+          "start": 16.92,
+          "end": 17.94
+        },
+        {
+          "word": "Tempestad,",
+          "start": 17.94,
+          "end": 20.8
+        }
+      ],
+      "start": 12.0,
+      "end": 20.8,
+      "confidence": 0.975,
+      "time": 12.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a tu seno protector, fiándome de tu bondad.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Protector,",
+          "start": 23.18,
+          "end": 24.9
+        },
+        {
+          "word": "fiándome",
+          "start": 24.9,
+          "end": 26.8
+        },
+        {
+          "word": "de",
+          "start": 26.8,
+          "end": 27.24
+        },
+        {
+          "word": "tu",
+          "start": 27.24,
+          "end": 28.2
+        },
+        {
+          "word": "onda.",
+          "start": 28.2,
+          "end": 30.64
+        }
+      ],
+      "start": 23.18,
+      "end": 30.64,
+      "confidence": 0.61,
+      "time": 23.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Sálvame, Señor Jesús, de las olas, del turbión;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Sálvame,",
+          "start": 31.42,
+          "end": 32.82
+        },
+        {
+          "word": "Señor",
+          "start": 32.82,
+          "end": 34.16
+        },
+        {
+          "word": "Jesús,",
+          "start": 34.16,
+          "end": 36.72
+        },
+        {
+          "word": "de",
+          "start": 37.36,
+          "end": 37.94
+        },
+        {
+          "word": "las",
+          "start": 37.94,
+          "end": 38.56
+        },
+        {
+          "word": "olas",
+          "start": 38.56,
+          "end": 39.3
+        },
+        {
+          "word": "del",
+          "start": 39.3,
+          "end": 40.2
+        },
+        {
+          "word": "turbio",
+          "start": 40.2,
+          "end": 42.76
+        }
+      ],
+      "start": 31.42,
+      "end": 42.76,
+      "confidence": 0.993,
+      "time": 31.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "hasta el puerto de salud guía tú mi embarcación.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "hasta",
+          "start": 42.76,
+          "end": 44.0
+        },
+        {
+          "word": "el",
+          "start": 44.0,
+          "end": 44.36
+        },
+        {
+          "word": "puerto",
+          "start": 44.36,
+          "end": 45.14
+        },
+        {
+          "word": "de",
+          "start": 45.14,
+          "end": 45.96
+        },
+        {
+          "word": "salud",
+          "start": 45.96,
+          "end": 46.98
+        },
+        {
+          "word": "guía",
+          "start": 46.98,
+          "end": 48.2
+        },
+        {
+          "word": "tu",
+          "start": 48.2,
+          "end": 48.8
+        },
+        {
+          "word": "mi",
+          "start": 48.8,
+          "end": 49.16
+        },
+        {
+          "word": "embarcación.",
+          "start": 49.16,
+          "end": 52.72
+        }
+      ],
+      "start": 42.76,
+      "end": 52.72,
+      "confidence": 1.0,
+      "time": 42.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Otro asilo aquí no hay, indefenso acudo a ti;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Otro",
+          "start": 52.72,
+          "end": 55.16
+        },
+        {
+          "word": "asilo",
+          "start": 55.16,
+          "end": 56.0
+        },
+        {
+          "word": "aquí",
+          "start": 56.0,
+          "end": 56.8
+        },
+        {
+          "word": "no",
+          "start": 56.8,
+          "end": 57.5
+        },
+        {
+          "word": "hay,",
+          "start": 57.5,
+          "end": 58.1
+        },
+        {
+          "word": "indefensa",
+          "start": 58.62,
+          "end": 60.1
+        },
+        {
+          "word": "cruda",
+          "start": 60.1,
+          "end": 62.1
+        },
+        {
+          "word": "ti,",
+          "start": 62.1,
+          "end": 63.58
+        }
+      ],
+      "start": 52.72,
+      "end": 64.14,
+      "confidence": 0.855,
+      "time": 52.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "mi necesidad me trae, porque mi peligro vi.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mi",
+          "start": 64.14,
+          "end": 64.88
+        },
+        {
+          "word": "necesidad",
+          "start": 64.88,
+          "end": 66.88
+        },
+        {
+          "word": "me",
+          "start": 66.88,
+          "end": 67.34
+        },
+        {
+          "word": "trae",
+          "start": 67.34,
+          "end": 68.08
+        },
+        {
+          "word": "porque",
+          "start": 68.08,
+          "end": 69.1
+        },
+        {
+          "word": "mi",
+          "start": 69.1,
+          "end": 69.86
+        },
+        {
+          "word": "peligro",
+          "start": 69.86,
+          "end": 72.16
+        },
+        {
+          "word": "vi.",
+          "start": 72.16,
+          "end": 72.86
+        }
+      ],
+      "start": 64.14,
+      "end": 72.86,
+      "confidence": 1.0,
+      "time": 64.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Solamente en ti, Señor, hallo paz, consuelo y luz;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Solamente",
+          "start": 74.6,
+          "end": 76.0
+        },
+        {
+          "word": "en",
+          "start": 76.0,
+          "end": 76.42
+        },
+        {
+          "word": "ti,",
+          "start": 76.42,
+          "end": 77.22
+        },
+        {
+          "word": "Señor,",
+          "start": 77.84,
+          "end": 79.78
+        },
+        {
+          "word": "hallo",
+          "start": 80.84,
+          "end": 81.4
+        },
+        {
+          "word": "paz,",
+          "start": 81.4,
+          "end": 81.86
+        },
+        {
+          "word": "consuelo",
+          "start": 82.02,
+          "end": 83.86
+        },
+        {
+          "word": "y",
+          "start": 83.86,
+          "end": 84.18
+        },
+        {
+          "word": "luz,",
+          "start": 84.18,
+          "end": 85.84
+        }
+      ],
+      "start": 74.6,
+      "end": 86.78,
+      "confidence": 1.0,
+      "time": 74.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "vengo lleno de temor a los pies de mi Jesús.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "vengo",
+          "start": 86.78,
+          "end": 87.12
+        },
+        {
+          "word": "lleno",
+          "start": 87.12,
+          "end": 88.24
+        },
+        {
+          "word": "de",
+          "start": 88.24,
+          "end": 88.9
+        },
+        {
+          "word": "te",
+          "start": 88.9,
+          "end": 89.4
+        },
+        {
+          "word": "palos",
+          "start": 90.04,
+          "end": 91.28
+        },
+        {
+          "word": "mi",
+          "start": 92.06,
+          "end": 93.16
+        },
+        {
+          "word": "Jesús.",
+          "start": 93.16,
+          "end": 95.9
+        }
+      ],
+      "start": 86.78,
+      "end": 95.9,
+      "confidence": 0.679,
+      "time": 86.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cristo, encuentro en ti poder,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 95.9,
+          "end": 97.92
+        },
+        {
+          "word": "encuentro",
+          "start": 98.86,
+          "end": 99.04
+        },
+        {
+          "word": "en",
+          "start": 99.04,
+          "end": 99.4
+        },
+        {
+          "word": "ti",
+          "start": 99.4,
+          "end": 99.86
+        },
+        {
+          "word": "poder",
+          "start": 99.86,
+          "end": 100.86
+        }
+      ],
+      "start": 95.9,
+      "end": 100.86,
+      "confidence": 1.0,
+      "time": 95.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y no necesito más;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 100.86,
+          "end": 101.84
+        },
+        {
+          "word": "no",
+          "start": 101.84,
+          "end": 102.62
+        },
+        {
+          "word": "necesito",
+          "start": 102.62,
+          "end": 105.14
+        },
+        {
+          "word": "más.",
+          "start": 105.14,
+          "end": 106.72
+        }
+      ],
+      "start": 100.86,
+      "end": 106.72,
+      "confidence": 1.0,
+      "time": 100.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "me levantas, al caer; débil, ánimo me das.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Me",
+          "start": 107.14,
+          "end": 107.98
+        },
+        {
+          "word": "levantas",
+          "start": 107.98,
+          "end": 109.4
+        },
+        {
+          "word": "al",
+          "start": 109.4,
+          "end": 110.0
+        },
+        {
+          "word": "caer,",
+          "start": 110.0,
+          "end": 111.16
+        },
+        {
+          "word": "debildad,",
+          "start": 111.86,
+          "end": 112.92
+        }
+      ],
+      "start": 107.14,
+      "end": 116.5,
+      "confidence": 0.618,
+      "time": 107.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Al enfermo das salud, vista das al que no ve.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "al",
+          "start": 116.5,
+          "end": 117.96
+        },
+        {
+          "word": "enfermo",
+          "start": 117.96,
+          "end": 119.32
+        },
+        {
+          "word": "da",
+          "start": 119.32,
+          "end": 120.2
+        },
+        {
+          "word": "salud,",
+          "start": 120.2,
+          "end": 122.78
+        },
+        {
+          "word": "visladas",
+          "start": 123.62,
+          "end": 124.84
+        },
+        {
+          "word": "al",
+          "start": 124.84,
+          "end": 125.46
+        },
+        {
+          "word": "que",
+          "start": 125.46,
+          "end": 126.32
+        },
+        {
+          "word": "nos",
+          "start": 126.32,
+          "end": 127.44
+        },
+        {
+          "word": "ven.",
+          "start": 127.44,
+          "end": 128.78
+        }
+      ],
+      "start": 116.5,
+      "end": 128.78,
+      "confidence": 0.847,
+      "time": 116.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Con amor y gratitud tu bondad ensalzaré.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Con",
+          "start": 129.36,
+          "end": 129.96
+        },
+        {
+          "word": "amor",
+          "start": 129.96,
+          "end": 130.88
+        },
+        {
+          "word": "y",
+          "start": 130.88,
+          "end": 131.32
+        },
+        {
+          "word": "gratitud",
+          "start": 131.32,
+          "end": 132.5
+        },
+        {
+          "word": "tu",
+          "start": 133.08,
+          "end": 133.88
+        },
+        {
+          "word": "bondad",
+          "start": 133.88,
+          "end": 134.94
+        },
+        {
+          "word": "en",
+          "start": 134.94,
+          "end": 135.46
+        }
+      ],
+      "start": 129.36,
+      "end": 137.6,
+      "confidence": 0.991,
+      "time": 129.36
+    }
+  ]
+}

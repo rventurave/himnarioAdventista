@@ -1,0 +1,1026 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.947,
+  "language": "es",
+  "model": "medium",
+  "hymn": 502,
+  "source": "502 - Brilla en el sitio donde estes.mp3",
+  "duration": 138.03,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Nunca esperes el momento de una gran acción,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "NUNCA",
+          "start": 10.48,
+          "end": 11.56
+        },
+        {
+          "word": "ESPERES",
+          "start": 11.56,
+          "end": 12.4
+        },
+        {
+          "word": "EL",
+          "start": 12.4,
+          "end": 12.62
+        },
+        {
+          "word": "MOMENTO",
+          "start": 12.62,
+          "end": 13.56
+        },
+        {
+          "word": "DE",
+          "start": 13.56,
+          "end": 13.8
+        },
+        {
+          "word": "UNA",
+          "start": 13.8,
+          "end": 14.14
+        },
+        {
+          "word": "GRAN",
+          "start": 14.14,
+          "end": 15.0
+        },
+        {
+          "word": "ACCIÓN,",
+          "start": 15.0,
+          "end": 16.04
+        }
+      ],
+      "start": 10.48,
+      "end": 16.08,
+      "confidence": 1.0,
+      "time": 10.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "ni que pueda lejos ir tu luz;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "NI",
+          "start": 16.08,
+          "end": 16.36
+        },
+        {
+          "word": "QUE",
+          "start": 16.36,
+          "end": 16.72
+        },
+        {
+          "word": "PUEDA",
+          "start": 16.72,
+          "end": 17.92
+        },
+        {
+          "word": "LEJOS",
+          "start": 17.92,
+          "end": 18.66
+        },
+        {
+          "word": "IR",
+          "start": 18.66,
+          "end": 18.82
+        },
+        {
+          "word": "TU",
+          "start": 18.82,
+          "end": 19.2
+        },
+        {
+          "word": "LUS.",
+          "start": 19.2,
+          "end": 20.7
+        }
+      ],
+      "start": 16.08,
+      "end": 21.14,
+      "confidence": 0.971,
+      "time": 16.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "tus pequeños actos pueden ser de bendición,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "TUS",
+          "start": 21.14,
+          "end": 21.46
+        },
+        {
+          "word": "PEQUEÑOS",
+          "start": 21.46,
+          "end": 22.5
+        },
+        {
+          "word": "ACTOS",
+          "start": 22.5,
+          "end": 23.0
+        },
+        {
+          "word": "PUEDEN",
+          "start": 23.0,
+          "end": 23.62
+        },
+        {
+          "word": "SER",
+          "start": 23.62,
+          "end": 23.96
+        },
+        {
+          "word": "DE",
+          "start": 23.96,
+          "end": 24.5
+        },
+        {
+          "word": "BENDICIÓN.",
+          "start": 24.5,
+          "end": 26.62
+        }
+      ],
+      "start": 21.14,
+      "end": 26.62,
+      "confidence": 1.0,
+      "time": 21.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "brilla en el sitio donde estés.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Brilla",
+          "start": 26.62,
+          "end": 27.5
+        },
+        {
+          "word": "en",
+          "start": 27.5,
+          "end": 27.9
+        },
+        {
+          "word": "el",
+          "start": 27.9,
+          "end": 28.18
+        },
+        {
+          "word": "sitio",
+          "start": 28.18,
+          "end": 29.14
+        },
+        {
+          "word": "donde",
+          "start": 29.14,
+          "end": 30.16
+        },
+        {
+          "word": "estés,",
+          "start": 30.16,
+          "end": 31.7
+        }
+      ],
+      "start": 26.62,
+      "end": 31.96,
+      "confidence": 1.0,
+      "time": 26.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Brilla en el sitio donde estés,",
+      "words": [
+        {
+          "word": "brilla",
+          "start": 31.96,
+          "end": 32.58
+        },
+        {
+          "word": "en",
+          "start": 32.58,
+          "end": 32.84
+        },
+        {
+          "word": "el",
+          "start": 32.84,
+          "end": 33.22
+        },
+        {
+          "word": "sitio",
+          "start": 33.22,
+          "end": 34.22
+        },
+        {
+          "word": "donde",
+          "start": 34.22,
+          "end": 35.18
+        },
+        {
+          "word": "estés,",
+          "start": 35.18,
+          "end": 36.76
+        }
+      ],
+      "start": 31.96,
+      "end": 36.8,
+      "confidence": 1.0,
+      "time": 31.96
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "brilla en el sitio donde estés.",
+      "words": [
+        {
+          "word": "brilla",
+          "start": 36.8,
+          "end": 37.6
+        },
+        {
+          "word": "en",
+          "start": 37.6,
+          "end": 37.94
+        },
+        {
+          "word": "el",
+          "start": 37.94,
+          "end": 38.32
+        },
+        {
+          "word": "sitio",
+          "start": 38.32,
+          "end": 39.32
+        },
+        {
+          "word": "donde",
+          "start": 39.32,
+          "end": 40.32
+        },
+        {
+          "word": "estés",
+          "start": 40.32,
+          "end": 41.78
+        }
+      ],
+      "start": 36.8,
+      "end": 41.78,
+      "confidence": 1.0,
+      "time": 36.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Puedes con tu luz algún perdido rescatar,",
+      "words": [
+        {
+          "word": "Puedes",
+          "start": 41.78,
+          "end": 42.62
+        },
+        {
+          "word": "con",
+          "start": 42.62,
+          "end": 42.94
+        },
+        {
+          "word": "tu",
+          "start": 42.94,
+          "end": 43.24
+        },
+        {
+          "word": "luz",
+          "start": 43.24,
+          "end": 43.64
+        },
+        {
+          "word": "algún",
+          "start": 43.64,
+          "end": 44.14
+        },
+        {
+          "word": "perdido",
+          "start": 44.14,
+          "end": 45.08
+        },
+        {
+          "word": "rescatar,",
+          "start": 45.08,
+          "end": 46.58
+        }
+      ],
+      "start": 41.78,
+      "end": 47.1,
+      "confidence": 1.0,
+      "time": 41.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "brilla en el sitio donde estés.",
+      "words": [
+        {
+          "word": "brilla",
+          "start": 47.1,
+          "end": 47.72
+        },
+        {
+          "word": "en",
+          "start": 47.72,
+          "end": 48.12
+        },
+        {
+          "word": "el",
+          "start": 48.12,
+          "end": 48.5
+        },
+        {
+          "word": "sitio",
+          "start": 48.5,
+          "end": 49.46
+        },
+        {
+          "word": "donde",
+          "start": 49.46,
+          "end": 50.48
+        },
+        {
+          "word": "estés",
+          "start": 50.48,
+          "end": 52.56
+        }
+      ],
+      "start": 47.1,
+      "end": 52.56,
+      "confidence": 1.0,
+      "time": 47.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Puedes en tu cielo alguna nube disipar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Puedes",
+          "start": 52.56,
+          "end": 53.58
+        },
+        {
+          "word": "en",
+          "start": 53.58,
+          "end": 53.8
+        },
+        {
+          "word": "tu",
+          "start": 53.8,
+          "end": 54.06
+        },
+        {
+          "word": "cielo",
+          "start": 54.06,
+          "end": 54.48
+        },
+        {
+          "word": "alguna",
+          "start": 54.48,
+          "end": 55.24
+        },
+        {
+          "word": "nube",
+          "start": 55.24,
+          "end": 56.02
+        },
+        {
+          "word": "disipar",
+          "start": 56.02,
+          "end": 57.74
+        }
+      ],
+      "start": 52.56,
+      "end": 58.28,
+      "confidence": 1.0,
+      "time": 52.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "haz a un lado tu egoísmo cruel.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 58.28,
+          "end": 58.52
+        },
+        {
+          "word": "un",
+          "start": 58.52,
+          "end": 59.12
+        },
+        {
+          "word": "lado",
+          "start": 59.12,
+          "end": 59.6
+        },
+        {
+          "word": "tu",
+          "start": 59.6,
+          "end": 60.0
+        },
+        {
+          "word": "egoísmo",
+          "start": 60.0,
+          "end": 61.0
+        },
+        {
+          "word": "cruel",
+          "start": 61.0,
+          "end": 62.44
+        }
+      ],
+      "start": 58.28,
+      "end": 62.44,
+      "confidence": 0.857,
+      "time": 58.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Aunque solo un corazón pudieres consolar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Aunque",
+          "start": 62.44,
+          "end": 63.36
+        },
+        {
+          "word": "solo",
+          "start": 63.36,
+          "end": 64.0
+        },
+        {
+          "word": "un",
+          "start": 64.0,
+          "end": 64.34
+        },
+        {
+          "word": "corazón",
+          "start": 64.34,
+          "end": 65.04
+        },
+        {
+          "word": "pudieras",
+          "start": 65.04,
+          "end": 66.14
+        },
+        {
+          "word": "consolar",
+          "start": 66.14,
+          "end": 68.32
+        }
+      ],
+      "start": 62.44,
+      "end": 73.36,
+      "confidence": 0.987,
+      "time": 62.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "brilla en el sitio donde estés.",
+      "verse": 2,
+      "start": 73.36,
+      "end": 73.56,
+      "confidence": 0.0,
+      "time": 73.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Brilla en el sitio donde estés,",
+      "words": [
+        {
+          "word": "Brilla",
+          "start": 68.32,
+          "end": 69.28
+        },
+        {
+          "word": "en",
+          "start": 69.28,
+          "end": 69.66
+        },
+        {
+          "word": "el",
+          "start": 69.66,
+          "end": 69.96
+        },
+        {
+          "word": "sitio",
+          "start": 69.96,
+          "end": 70.98
+        },
+        {
+          "word": "donde",
+          "start": 70.98,
+          "end": 72.0
+        },
+        {
+          "word": "estés",
+          "start": 72.0,
+          "end": 73.36
+        }
+      ],
+      "start": 73.56,
+      "end": 73.76,
+      "confidence": 1.0,
+      "time": 73.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "brilla en el sitio donde estés.",
+      "words": [
+        {
+          "word": "Brilla",
+          "start": 73.36,
+          "end": 74.42
+        },
+        {
+          "word": "en",
+          "start": 74.42,
+          "end": 74.74
+        },
+        {
+          "word": "el",
+          "start": 74.74,
+          "end": 74.98
+        },
+        {
+          "word": "sitio",
+          "start": 74.98,
+          "end": 75.9
+        },
+        {
+          "word": "donde",
+          "start": 75.9,
+          "end": 77.02
+        },
+        {
+          "word": "estés",
+          "start": 77.02,
+          "end": 83.26
+        }
+      ],
+      "start": 73.76,
+      "end": 83.26,
+      "confidence": 1.0,
+      "time": 73.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Puedes con tu luz algún perdido rescatar,",
+      "words": [
+        {
+          "word": "Puedes",
+          "start": 83.26,
+          "end": 84.36
+        },
+        {
+          "word": "con",
+          "start": 84.36,
+          "end": 84.66
+        },
+        {
+          "word": "tu",
+          "start": 84.66,
+          "end": 84.96
+        },
+        {
+          "word": "luz",
+          "start": 84.96,
+          "end": 85.34
+        },
+        {
+          "word": "algún",
+          "start": 85.34,
+          "end": 85.84
+        },
+        {
+          "word": "perdido",
+          "start": 85.84,
+          "end": 86.82
+        },
+        {
+          "word": "rescatar",
+          "start": 86.82,
+          "end": 88.58
+        }
+      ],
+      "start": 83.26,
+      "end": 88.58,
+      "confidence": 1.0,
+      "time": 83.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "brilla en el sitio donde estés.",
+      "words": [
+        {
+          "word": "Brilla",
+          "start": 88.58,
+          "end": 89.5
+        },
+        {
+          "word": "en",
+          "start": 89.5,
+          "end": 89.8
+        },
+        {
+          "word": "el",
+          "start": 89.8,
+          "end": 90.24
+        },
+        {
+          "word": "sitio",
+          "start": 90.24,
+          "end": 91.2
+        },
+        {
+          "word": "donde",
+          "start": 91.2,
+          "end": 92.2
+        },
+        {
+          "word": "estés",
+          "start": 92.2,
+          "end": 94.38
+        }
+      ],
+      "start": 88.58,
+      "end": 94.38,
+      "confidence": 1.0,
+      "time": 88.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Puede tu talento alguna cosa descubrir",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Puede",
+          "start": 94.38,
+          "end": 95.16
+        },
+        {
+          "word": "tu",
+          "start": 95.16,
+          "end": 95.52
+        },
+        {
+          "word": "talento",
+          "start": 95.52,
+          "end": 96.38
+        },
+        {
+          "word": "alguna",
+          "start": 96.38,
+          "end": 96.96
+        },
+        {
+          "word": "cosa",
+          "start": 96.96,
+          "end": 97.72
+        },
+        {
+          "word": "descubrir",
+          "start": 97.72,
+          "end": 99.5
+        }
+      ],
+      "start": 94.38,
+      "end": 99.5,
+      "confidence": 1.0,
+      "time": 94.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "do tu luz podrá resplandecer.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tu",
+          "start": 99.86,
+          "end": 100.26
+        },
+        {
+          "word": "luz",
+          "start": 100.26,
+          "end": 101.1
+        },
+        {
+          "word": "podrá",
+          "start": 101.1,
+          "end": 101.96
+        },
+        {
+          "word": "resplandecer",
+          "start": 101.96,
+          "end": 104.28
+        }
+      ],
+      "start": 99.86,
+      "end": 104.28,
+      "confidence": 0.8,
+      "time": 99.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "De tu mano el Pan de vida puede aquí venir,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "De",
+          "start": 104.28,
+          "end": 104.94
+        },
+        {
+          "word": "tu",
+          "start": 104.94,
+          "end": 105.3
+        },
+        {
+          "word": "mano",
+          "start": 105.3,
+          "end": 105.7
+        },
+        {
+          "word": "el",
+          "start": 105.7,
+          "end": 105.9
+        },
+        {
+          "word": "pan",
+          "start": 105.9,
+          "end": 106.24
+        },
+        {
+          "word": "de",
+          "start": 106.24,
+          "end": 106.72
+        },
+        {
+          "word": "vida",
+          "start": 106.72,
+          "end": 107.1
+        },
+        {
+          "word": "puede",
+          "start": 107.1,
+          "end": 107.76
+        },
+        {
+          "word": "aquí",
+          "start": 107.76,
+          "end": 108.58
+        },
+        {
+          "word": "venir",
+          "start": 108.58,
+          "end": 110.18
+        }
+      ],
+      "start": 104.28,
+      "end": 110.18,
+      "confidence": 1.0,
+      "time": 104.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "brilla en el sitio donde estés.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Brilla",
+          "start": 110.18,
+          "end": 111.08
+        },
+        {
+          "word": "en",
+          "start": 111.08,
+          "end": 111.46
+        },
+        {
+          "word": "el",
+          "start": 111.46,
+          "end": 111.74
+        },
+        {
+          "word": "sitio",
+          "start": 111.74,
+          "end": 112.56
+        },
+        {
+          "word": "donde",
+          "start": 112.56,
+          "end": 113.68
+        },
+        {
+          "word": "estés",
+          "start": 113.68,
+          "end": 115.18
+        }
+      ],
+      "start": 110.18,
+      "end": 115.18,
+      "confidence": 1.0,
+      "time": 110.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Brilla en el sitio donde estés,",
+      "words": [
+        {
+          "word": "Brilla",
+          "start": 115.18,
+          "end": 116.1
+        },
+        {
+          "word": "en",
+          "start": 116.1,
+          "end": 116.36
+        },
+        {
+          "word": "el",
+          "start": 116.36,
+          "end": 116.78
+        },
+        {
+          "word": "sitio",
+          "start": 116.78,
+          "end": 117.74
+        },
+        {
+          "word": "donde",
+          "start": 117.74,
+          "end": 118.78
+        },
+        {
+          "word": "estés",
+          "start": 118.78,
+          "end": 120.3
+        }
+      ],
+      "start": 115.18,
+      "end": 120.3,
+      "confidence": 1.0,
+      "time": 115.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "brilla en el sitio donde estés.",
+      "words": [
+        {
+          "word": "Brilla",
+          "start": 120.3,
+          "end": 121.22
+        },
+        {
+          "word": "en",
+          "start": 121.22,
+          "end": 121.56
+        },
+        {
+          "word": "el",
+          "start": 121.56,
+          "end": 121.78
+        },
+        {
+          "word": "sitio",
+          "start": 121.78,
+          "end": 122.74
+        },
+        {
+          "word": "donde",
+          "start": 122.74,
+          "end": 123.82
+        },
+        {
+          "word": "estés",
+          "start": 123.82,
+          "end": 125.2
+        }
+      ],
+      "start": 120.3,
+      "end": 125.2,
+      "confidence": 1.0,
+      "time": 120.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Puedes con tu luz algún perdido rescatar,",
+      "words": [
+        {
+          "word": "Puedes",
+          "start": 125.2,
+          "end": 126.14
+        },
+        {
+          "word": "con",
+          "start": 126.14,
+          "end": 126.48
+        },
+        {
+          "word": "tu",
+          "start": 126.48,
+          "end": 126.76
+        },
+        {
+          "word": "luz",
+          "start": 126.76,
+          "end": 127.16
+        },
+        {
+          "word": "algún",
+          "start": 127.16,
+          "end": 127.64
+        },
+        {
+          "word": "perdido",
+          "start": 127.64,
+          "end": 128.62
+        },
+        {
+          "word": "rescatar",
+          "start": 128.62,
+          "end": 130.2
+        }
+      ],
+      "start": 125.2,
+      "end": 130.2,
+      "confidence": 1.0,
+      "time": 125.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "brilla en el sitio donde estés.",
+      "words": [
+        {
+          "word": "Brilla",
+          "start": 130.2,
+          "end": 131.28
+        },
+        {
+          "word": "en",
+          "start": 131.28,
+          "end": 131.68
+        },
+        {
+          "word": "el",
+          "start": 131.68,
+          "end": 131.98
+        },
+        {
+          "word": "sitio",
+          "start": 131.98,
+          "end": 132.98
+        },
+        {
+          "word": "donde",
+          "start": 132.98,
+          "end": 134.12
+        },
+        {
+          "word": "estés",
+          "start": 134.12,
+          "end": 135.68
+        }
+      ],
+      "start": 130.2,
+      "end": 135.68,
+      "confidence": 1.0,
+      "time": 130.2
+    }
+  ]
+}

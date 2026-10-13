@@ -1,0 +1,903 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.978,
+  "language": "es",
+  "model": "medium",
+  "hymn": 507,
+  "source": "507 - Tentado, no cedas.mp3",
+  "duration": 177.97,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Tentado, no cedas; ceder es pecar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Tentado",
+          "start": 10.2,
+          "end": 11.6
+        },
+        {
+          "word": "no",
+          "start": 11.6,
+          "end": 12.38
+        },
+        {
+          "word": "cedas,",
+          "start": 12.38,
+          "end": 14.3
+        },
+        {
+          "word": "ceder",
+          "start": 15.04,
+          "end": 15.82
+        },
+        {
+          "word": "es",
+          "start": 15.82,
+          "end": 16.16
+        },
+        {
+          "word": "pecar,",
+          "start": 16.16,
+          "end": 18.44
+        }
+      ],
+      "start": 10.2,
+      "end": 19.3,
+      "confidence": 1.0,
+      "time": 10.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "más fácil sería luchando triunfar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "más",
+          "start": 19.3,
+          "end": 19.94
+        },
+        {
+          "word": "fácil",
+          "start": 19.94,
+          "end": 20.56
+        },
+        {
+          "word": "sería,",
+          "start": 20.56,
+          "end": 22.84
+        },
+        {
+          "word": "luchando",
+          "start": 24.06,
+          "end": 25.02
+        },
+        {
+          "word": "triunfar.",
+          "start": 25.02,
+          "end": 27.4
+        }
+      ],
+      "start": 19.3,
+      "end": 27.4,
+      "confidence": 1.0,
+      "time": 19.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Valor!, pues, resuelto, domina tu mal;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Valor,",
+          "start": 27.4,
+          "end": 29.32
+        },
+        {
+          "word": "pues",
+          "start": 29.5,
+          "end": 29.72
+        },
+        {
+          "word": "resuelto,",
+          "start": 29.72,
+          "end": 32.26
+        },
+        {
+          "word": "domina",
+          "start": 32.66,
+          "end": 34.08
+        },
+        {
+          "word": "tu",
+          "start": 34.08,
+          "end": 34.62
+        },
+        {
+          "word": "mal.",
+          "start": 34.62,
+          "end": 36.44
+        }
+      ],
+      "start": 27.4,
+      "end": 36.44,
+      "confidence": 1.0,
+      "time": 27.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Dios puede librarte de asalto mortal.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 37.0,
+          "end": 37.82
+        },
+        {
+          "word": "puede",
+          "start": 37.82,
+          "end": 38.64
+        },
+        {
+          "word": "librarte",
+          "start": 38.64,
+          "end": 40.9
+        },
+        {
+          "word": "de",
+          "start": 40.9,
+          "end": 42.04
+        },
+        {
+          "word": "asalto",
+          "start": 42.04,
+          "end": 43.2
+        },
+        {
+          "word": "mortal.",
+          "start": 43.2,
+          "end": 45.22
+        }
+      ],
+      "start": 37.0,
+      "end": 45.22,
+      "confidence": 1.0,
+      "time": 37.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "En Jesús, pues, confía;",
+      "words": [
+        {
+          "word": "En",
+          "start": 45.72,
+          "end": 46.5
+        },
+        {
+          "word": "Jesús,",
+          "start": 46.5,
+          "end": 47.18
+        },
+        {
+          "word": "pues",
+          "start": 47.42,
+          "end": 47.72
+        },
+        {
+          "word": "confía",
+          "start": 47.72,
+          "end": 49.94
+        }
+      ],
+      "start": 45.72,
+      "end": 49.94,
+      "confidence": 1.0,
+      "time": 45.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en sus brazos tu alma",
+      "words": [
+        {
+          "word": "en",
+          "start": 49.94,
+          "end": 50.96
+        },
+        {
+          "word": "sus",
+          "start": 50.96,
+          "end": 51.38
+        },
+        {
+          "word": "brazos",
+          "start": 51.38,
+          "end": 52.04
+        },
+        {
+          "word": "tu",
+          "start": 52.04,
+          "end": 52.68
+        },
+        {
+          "word": "alma.",
+          "start": 52.68,
+          "end": 54.38
+        }
+      ],
+      "start": 49.94,
+      "end": 54.38,
+      "confidence": 1.0,
+      "time": 49.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "hallará dulce calma;",
+      "words": [
+        {
+          "word": "hará",
+          "start": 55.78,
+          "end": 56.3
+        },
+        {
+          "word": "dulce",
+          "start": 56.3,
+          "end": 57.06
+        },
+        {
+          "word": "calma,",
+          "start": 57.06,
+          "end": 58.98
+        }
+      ],
+      "start": 55.78,
+      "end": 59.64,
+      "confidence": 0.945,
+      "time": 55.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "él te hará vencedor.",
+      "words": [
+        {
+          "word": "Él",
+          "start": 59.64,
+          "end": 60.1
+        },
+        {
+          "word": "te",
+          "start": 60.1,
+          "end": 60.42
+        },
+        {
+          "word": "hará",
+          "start": 60.42,
+          "end": 60.82
+        },
+        {
+          "word": "vencedor.",
+          "start": 60.82,
+          "end": 63.88
+        }
+      ],
+      "start": 59.64,
+      "end": 63.88,
+      "confidence": 1.0,
+      "time": 59.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Evita el pecado, procura agradar",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Evita",
+          "start": 64.82,
+          "end": 66.22
+        },
+        {
+          "word": "el",
+          "start": 66.22,
+          "end": 66.52
+        },
+        {
+          "word": "pecado,",
+          "start": 66.52,
+          "end": 68.6
+        },
+        {
+          "word": "procura",
+          "start": 69.8,
+          "end": 70.82
+        },
+        {
+          "word": "agradar,",
+          "start": 70.82,
+          "end": 73.34
+        }
+      ],
+      "start": 64.82,
+      "end": 73.34,
+      "confidence": 1.0,
+      "time": 64.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "a Dios, a quien debes por siempre ensalzar;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "adiós",
+          "start": 74.22,
+          "end": 75.22
+        },
+        {
+          "word": "a",
+          "start": 75.22,
+          "end": 75.48
+        },
+        {
+          "word": "quien",
+          "start": 75.48,
+          "end": 75.76
+        },
+        {
+          "word": "debes,",
+          "start": 75.76,
+          "end": 77.98
+        },
+        {
+          "word": "por",
+          "start": 78.18,
+          "end": 79.14
+        },
+        {
+          "word": "siempre",
+          "start": 79.14,
+          "end": 79.68
+        },
+        {
+          "word": "ensalzar.",
+          "start": 79.68,
+          "end": 82.12
+        }
+      ],
+      "start": 74.22,
+      "end": 82.12,
+      "confidence": 0.867,
+      "time": 74.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "no manche tus labios impúdica voz;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "No",
+          "start": 82.12,
+          "end": 83.66
+        },
+        {
+          "word": "manche",
+          "start": 83.66,
+          "end": 84.3
+        },
+        {
+          "word": "tus",
+          "start": 84.3,
+          "end": 84.82
+        },
+        {
+          "word": "labios,",
+          "start": 84.82,
+          "end": 87.0
+        },
+        {
+          "word": "impudica",
+          "start": 88.2,
+          "end": 89.32
+        },
+        {
+          "word": "voz",
+          "start": 89.32,
+          "end": 91.18
+        }
+      ],
+      "start": 82.12,
+      "end": 91.18,
+      "confidence": 1.0,
+      "time": 82.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "preserva tu vida de ofensas a Dios.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Preserva",
+          "start": 91.18,
+          "end": 93.36
+        },
+        {
+          "word": "tu",
+          "start": 93.36,
+          "end": 93.82
+        },
+        {
+          "word": "vida",
+          "start": 93.82,
+          "end": 95.6
+        },
+        {
+          "word": "ofensas",
+          "start": 96.92,
+          "end": 98.2
+        },
+        {
+          "word": "a",
+          "start": 98.2,
+          "end": 98.44
+        },
+        {
+          "word": "Dios",
+          "start": 98.44,
+          "end": 100.08
+        }
+      ],
+      "start": 91.18,
+      "end": 100.08,
+      "confidence": 0.857,
+      "time": 91.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "En Jesús, pues, confía;",
+      "words": [
+        {
+          "word": "En",
+          "start": 100.08,
+          "end": 101.2
+        },
+        {
+          "word": "Jesús",
+          "start": 101.2,
+          "end": 101.94
+        },
+        {
+          "word": "pues",
+          "start": 101.94,
+          "end": 102.46
+        },
+        {
+          "word": "confía,",
+          "start": 102.46,
+          "end": 104.6
+        }
+      ],
+      "start": 100.08,
+      "end": 105.46,
+      "confidence": 1.0,
+      "time": 100.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en sus brazos tu alma",
+      "words": [
+        {
+          "word": "en",
+          "start": 105.46,
+          "end": 105.84
+        },
+        {
+          "word": "sus",
+          "start": 105.84,
+          "end": 106.2
+        },
+        {
+          "word": "brazos",
+          "start": 106.2,
+          "end": 106.86
+        },
+        {
+          "word": "tu",
+          "start": 106.86,
+          "end": 107.48
+        },
+        {
+          "word": "alma",
+          "start": 107.48,
+          "end": 109.12
+        }
+      ],
+      "start": 105.46,
+      "end": 109.12,
+      "confidence": 1.0,
+      "time": 105.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "hallará dulce calma;",
+      "words": [
+        {
+          "word": "hará",
+          "start": 110.62,
+          "end": 111.1
+        },
+        {
+          "word": "dulce",
+          "start": 111.1,
+          "end": 111.82
+        },
+        {
+          "word": "calma,",
+          "start": 111.82,
+          "end": 113.76
+        }
+      ],
+      "start": 110.62,
+      "end": 114.24,
+      "confidence": 0.945,
+      "time": 110.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "él te hará vencedor.",
+      "words": [
+        {
+          "word": "Él",
+          "start": 114.24,
+          "end": 114.84
+        },
+        {
+          "word": "te",
+          "start": 114.84,
+          "end": 115.14
+        },
+        {
+          "word": "hará",
+          "start": 115.14,
+          "end": 115.58
+        },
+        {
+          "word": "vencedor.",
+          "start": 115.58,
+          "end": 118.72
+        }
+      ],
+      "start": 114.24,
+      "end": 118.72,
+      "confidence": 1.0,
+      "time": 114.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Amante, benigno y enérgico sé;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Amante",
+          "start": 119.74,
+          "end": 121.14
+        },
+        {
+          "word": "benigno",
+          "start": 121.14,
+          "end": 123.76
+        },
+        {
+          "word": "y",
+          "start": 123.76,
+          "end": 124.86
+        },
+        {
+          "word": "enérgico",
+          "start": 124.86,
+          "end": 126.0
+        },
+        {
+          "word": "sé,",
+          "start": 126.0,
+          "end": 127.92
+        }
+      ],
+      "start": 119.74,
+      "end": 127.92,
+      "confidence": 1.0,
+      "time": 119.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en Cristo, tu amigo, pon toda tu fe;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 128.86,
+          "end": 129.5
+        },
+        {
+          "word": "Cristo",
+          "start": 129.5,
+          "end": 129.98
+        },
+        {
+          "word": "tu",
+          "start": 129.98,
+          "end": 130.48
+        },
+        {
+          "word": "amigo",
+          "start": 130.48,
+          "end": 132.36
+        },
+        {
+          "word": "con",
+          "start": 132.36,
+          "end": 133.9
+        },
+        {
+          "word": "toda",
+          "start": 133.9,
+          "end": 134.58
+        },
+        {
+          "word": "tu",
+          "start": 134.58,
+          "end": 135.06
+        },
+        {
+          "word": "fe",
+          "start": 135.06,
+          "end": 136.76
+        }
+      ],
+      "start": 128.86,
+      "end": 136.76,
+      "confidence": 0.975,
+      "time": 128.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "rinde a Dios tu vida, ríndele tu ser;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Rinde",
+          "start": 136.76,
+          "end": 138.56
+        },
+        {
+          "word": "a",
+          "start": 138.56,
+          "end": 138.84
+        },
+        {
+          "word": "Dios",
+          "start": 138.84,
+          "end": 139.04
+        },
+        {
+          "word": "tu",
+          "start": 139.04,
+          "end": 139.62
+        },
+        {
+          "word": "vida,",
+          "start": 139.62,
+          "end": 141.44
+        },
+        {
+          "word": "ríndele",
+          "start": 142.4,
+          "end": 143.62
+        },
+        {
+          "word": "tu",
+          "start": 143.62,
+          "end": 144.08
+        },
+        {
+          "word": "ser.",
+          "start": 144.08,
+          "end": 145.96
+        }
+      ],
+      "start": 136.76,
+      "end": 145.96,
+      "confidence": 1.0,
+      "time": 136.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "corona te espera y vas a vencer.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Corona",
+          "start": 147.48,
+          "end": 147.92
+        },
+        {
+          "word": "te",
+          "start": 147.92,
+          "end": 148.58
+        },
+        {
+          "word": "espera",
+          "start": 148.58,
+          "end": 150.0
+        },
+        {
+          "word": "y",
+          "start": 150.0,
+          "end": 151.84
+        },
+        {
+          "word": "vas",
+          "start": 151.84,
+          "end": 152.42
+        },
+        {
+          "word": "a",
+          "start": 152.42,
+          "end": 152.78
+        },
+        {
+          "word": "vencer.",
+          "start": 152.78,
+          "end": 154.94
+        }
+      ],
+      "start": 147.48,
+      "end": 154.94,
+      "confidence": 1.0,
+      "time": 147.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "En Jesús, pues, confía;",
+      "words": [
+        {
+          "word": "En",
+          "start": 155.26,
+          "end": 155.92
+        },
+        {
+          "word": "Jesús",
+          "start": 155.92,
+          "end": 156.68
+        },
+        {
+          "word": "pues",
+          "start": 156.68,
+          "end": 157.22
+        },
+        {
+          "word": "confía,",
+          "start": 157.22,
+          "end": 159.34
+        }
+      ],
+      "start": 155.26,
+      "end": 159.88,
+      "confidence": 1.0,
+      "time": 155.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en sus brazos tu alma",
+      "words": [
+        {
+          "word": "en",
+          "start": 159.88,
+          "end": 160.6
+        },
+        {
+          "word": "sus",
+          "start": 160.6,
+          "end": 160.96
+        },
+        {
+          "word": "brazos",
+          "start": 160.96,
+          "end": 161.62
+        },
+        {
+          "word": "tu",
+          "start": 161.62,
+          "end": 162.54
+        },
+        {
+          "word": "alma",
+          "start": 162.54,
+          "end": 163.88
+        }
+      ],
+      "start": 159.88,
+      "end": 163.88,
+      "confidence": 1.0,
+      "time": 159.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "hallará dulce calma;",
+      "words": [
+        {
+          "word": "hará",
+          "start": 165.36,
+          "end": 165.86
+        },
+        {
+          "word": "dulce",
+          "start": 165.86,
+          "end": 166.7
+        },
+        {
+          "word": "calma,",
+          "start": 166.7,
+          "end": 168.68
+        }
+      ],
+      "start": 165.36,
+      "end": 169.16,
+      "confidence": 0.945,
+      "time": 165.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "él te hará vencedor.",
+      "words": [
+        {
+          "word": "él",
+          "start": 169.16,
+          "end": 169.58
+        },
+        {
+          "word": "te",
+          "start": 169.58,
+          "end": 169.96
+        },
+        {
+          "word": "hará",
+          "start": 169.96,
+          "end": 170.78
+        },
+        {
+          "word": "vencedor.",
+          "start": 170.78,
+          "end": 174.34
+        }
+      ],
+      "start": 169.16,
+      "end": 174.34,
+      "confidence": 1.0,
+      "time": 169.16
+    }
+  ]
+}

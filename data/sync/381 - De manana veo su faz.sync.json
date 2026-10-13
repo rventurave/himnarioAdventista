@@ -1,0 +1,165 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.891,
+  "language": "es",
+  "model": "medium",
+  "hymn": 381,
+  "source": "381 - De manana veo su faz.mp3",
+  "duration": 47.46,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "De mañana, veo su faz;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "De",
+          "start": 14.3,
+          "end": 15.14
+        },
+        {
+          "word": "mañana",
+          "start": 15.14,
+          "end": 16.54
+        },
+        {
+          "word": "veo",
+          "start": 16.54,
+          "end": 18.04
+        },
+        {
+          "word": "su",
+          "start": 18.04,
+          "end": 18.76
+        },
+        {
+          "word": "paz",
+          "start": 18.76,
+          "end": 20.7
+        }
+      ],
+      "start": 14.3,
+      "end": 20.7,
+      "confidence": 0.96,
+      "time": 14.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en la tarde, me da solaz",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 20.7,
+          "end": 21.64
+        },
+        {
+          "word": "la",
+          "start": 21.64,
+          "end": 22.3
+        },
+        {
+          "word": "tarde",
+          "start": 22.3,
+          "end": 24.14
+        },
+        {
+          "word": "me",
+          "start": 24.14,
+          "end": 24.84
+        },
+        {
+          "word": "das",
+          "start": 24.84,
+          "end": 25.32
+        },
+        {
+          "word": "olas",
+          "start": 25.32,
+          "end": 27.86
+        }
+      ],
+      "start": 20.7,
+      "end": 27.86,
+      "confidence": 0.947,
+      "time": 20.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "siendo oscuro, su voz da luz;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Siendo",
+          "start": 27.86,
+          "end": 28.76
+        },
+        {
+          "word": "oscuro",
+          "start": 28.76,
+          "end": 30.96
+        },
+        {
+          "word": "su",
+          "start": 30.96,
+          "end": 31.62
+        },
+        {
+          "word": "voz",
+          "start": 31.62,
+          "end": 32.08
+        },
+        {
+          "word": "da",
+          "start": 32.08,
+          "end": 32.54
+        },
+        {
+          "word": "luz",
+          "start": 32.54,
+          "end": 34.68
+        }
+      ],
+      "start": 27.86,
+      "end": 34.68,
+      "confidence": 1.0,
+      "time": 27.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por doquiera yo voy con Jesús.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "yo",
+          "start": 36.78,
+          "end": 37.32
+        },
+        {
+          "word": "voy",
+          "start": 37.32,
+          "end": 37.76
+        },
+        {
+          "word": "con",
+          "start": 37.76,
+          "end": 38.82
+        },
+        {
+          "word": "Jesús",
+          "start": 38.82,
+          "end": 40.5
+        }
+      ],
+      "start": 36.78,
+      "end": 40.5,
+      "confidence": 0.667,
+      "time": 36.78
+    }
+  ]
+}

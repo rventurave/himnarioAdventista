@@ -1,0 +1,1194 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.876,
+  "language": "es",
+  "model": "medium",
+  "hymn": 333,
+  "source": "333 - Aunque en esta vida.mp3",
+  "duration": 197.07,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Aunque en esta vida fáltenme riquezas,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 6.68,
+          "end": 8.08
+        },
+        {
+          "word": "esta",
+          "start": 8.08,
+          "end": 8.52
+        },
+        {
+          "word": "vida",
+          "start": 8.52,
+          "end": 11.22
+        },
+        {
+          "word": "faltan",
+          "start": 11.22,
+          "end": 12.12
+        },
+        {
+          "word": "riquezas,",
+          "start": 12.98,
+          "end": 15.18
+        }
+      ],
+      "start": 6.68,
+      "end": 15.72,
+      "confidence": 0.805,
+      "time": 6.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "sé que allá en la gloria tengo mi mansión.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sé",
+          "start": 15.72,
+          "end": 15.72
+        },
+        {
+          "word": "que",
+          "start": 15.72,
+          "end": 15.9
+        },
+        {
+          "word": "allá",
+          "start": 15.9,
+          "end": 16.3
+        },
+        {
+          "word": "en",
+          "start": 16.3,
+          "end": 16.54
+        },
+        {
+          "word": "la",
+          "start": 16.54,
+          "end": 16.98
+        },
+        {
+          "word": "gloria",
+          "start": 16.98,
+          "end": 18.76
+        },
+        {
+          "word": "tengo",
+          "start": 18.76,
+          "end": 19.62
+        },
+        {
+          "word": "mi",
+          "start": 19.62,
+          "end": 20.18
+        },
+        {
+          "word": "mansión.",
+          "start": 20.18,
+          "end": 22.8
+        }
+      ],
+      "start": 15.72,
+      "end": 22.8,
+      "confidence": 1.0,
+      "time": 15.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Alma tan perdida entre las pobrezas,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Alma",
+          "start": 22.8,
+          "end": 23.4
+        },
+        {
+          "word": "tan",
+          "start": 23.4,
+          "end": 24.12
+        },
+        {
+          "word": "perdida,",
+          "start": 24.12,
+          "end": 26.62
+        },
+        {
+          "word": "entre",
+          "start": 26.8,
+          "end": 27.28
+        },
+        {
+          "word": "las",
+          "start": 27.28,
+          "end": 28.0
+        },
+        {
+          "word": "pobrezas",
+          "start": 28.0,
+          "end": 30.46
+        }
+      ],
+      "start": 22.8,
+      "end": 30.46,
+      "confidence": 1.0,
+      "time": 22.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "de mi Jesucristo tuvo compasión.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "de",
+          "start": 30.46,
+          "end": 30.96
+        },
+        {
+          "word": "mi",
+          "start": 30.96,
+          "end": 31.14
+        },
+        {
+          "word": "Jesucristo,",
+          "start": 31.14,
+          "end": 34.26
+        },
+        {
+          "word": "tuvo",
+          "start": 34.36,
+          "end": 34.88
+        },
+        {
+          "word": "compasión.",
+          "start": 34.88,
+          "end": 37.92
+        }
+      ],
+      "start": 30.46,
+      "end": 37.92,
+      "confidence": 1.0,
+      "time": 30.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Más allá del sol, más allá del sol,",
+      "words": [
+        {
+          "word": "Más",
+          "start": 37.92,
+          "end": 38.72
+        },
+        {
+          "word": "allá",
+          "start": 38.72,
+          "end": 39.28
+        },
+        {
+          "word": "del",
+          "start": 39.28,
+          "end": 39.84
+        },
+        {
+          "word": "sol,",
+          "start": 39.84,
+          "end": 41.78
+        },
+        {
+          "word": "más",
+          "start": 42.02,
+          "end": 42.52
+        },
+        {
+          "word": "allá",
+          "start": 42.52,
+          "end": 43.14
+        },
+        {
+          "word": "del",
+          "start": 43.14,
+          "end": 43.76
+        },
+        {
+          "word": "sol,",
+          "start": 43.76,
+          "end": 45.54
+        }
+      ],
+      "start": 37.92,
+      "end": 46.04,
+      "confidence": 1.0,
+      "time": 37.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "yo tengo un hogar, hogar bello hogar",
+      "words": [
+        {
+          "word": "yo",
+          "start": 46.04,
+          "end": 46.34
+        },
+        {
+          "word": "tengo",
+          "start": 46.34,
+          "end": 47.06
+        },
+        {
+          "word": "un",
+          "start": 47.06,
+          "end": 47.28
+        },
+        {
+          "word": "hogar,",
+          "start": 47.28,
+          "end": 48.16
+        },
+        {
+          "word": "hogar,",
+          "start": 48.24,
+          "end": 48.92
+        },
+        {
+          "word": "bello",
+          "start": 49.02,
+          "end": 49.22
+        },
+        {
+          "word": "hogar,",
+          "start": 49.22,
+          "end": 49.72
+        }
+      ],
+      "start": 46.04,
+      "end": 50.04,
+      "confidence": 1.0,
+      "time": 46.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "más allá del sol.",
+      "words": [
+        {
+          "word": "más",
+          "start": 50.04,
+          "end": 50.16
+        },
+        {
+          "word": "allá",
+          "start": 50.16,
+          "end": 50.74
+        },
+        {
+          "word": "del",
+          "start": 50.74,
+          "end": 51.3
+        },
+        {
+          "word": "sol.",
+          "start": 51.3,
+          "end": 53.0
+        }
+      ],
+      "start": 50.04,
+      "end": 53.0,
+      "confidence": 1.0,
+      "time": 50.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Más allá del sol, más allá del sol,",
+      "words": [
+        {
+          "word": "Más",
+          "start": 53.0,
+          "end": 53.94
+        },
+        {
+          "word": "allá",
+          "start": 53.94,
+          "end": 54.52
+        },
+        {
+          "word": "del",
+          "start": 54.52,
+          "end": 54.92
+        },
+        {
+          "word": "sol,",
+          "start": 54.92,
+          "end": 56.98
+        },
+        {
+          "word": "más",
+          "start": 57.22,
+          "end": 57.72
+        },
+        {
+          "word": "allá",
+          "start": 57.72,
+          "end": 58.36
+        },
+        {
+          "word": "del",
+          "start": 58.36,
+          "end": 58.92
+        },
+        {
+          "word": "sol",
+          "start": 58.92,
+          "end": 60.76
+        }
+      ],
+      "start": 53.0,
+      "end": 60.76,
+      "confidence": 1.0,
+      "time": 53.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "yo tengo un hogar, hogar, bello hogar",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 60.76,
+          "end": 61.56
+        },
+        {
+          "word": "tengo",
+          "start": 61.56,
+          "end": 62.24
+        },
+        {
+          "word": "un",
+          "start": 62.24,
+          "end": 62.54
+        },
+        {
+          "word": "hogar,",
+          "start": 62.54,
+          "end": 63.4
+        },
+        {
+          "word": "hogar",
+          "start": 63.82,
+          "end": 64.16
+        },
+        {
+          "word": "hogar",
+          "start": 64.28,
+          "end": 64.94
+        }
+      ],
+      "start": 60.76,
+      "end": 64.94,
+      "confidence": 0.857,
+      "time": 60.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "más allá del sol.",
+      "words": [
+        {
+          "word": "más",
+          "start": 64.94,
+          "end": 65.46
+        },
+        {
+          "word": "allá",
+          "start": 65.46,
+          "end": 65.98
+        },
+        {
+          "word": "del",
+          "start": 65.98,
+          "end": 66.52
+        },
+        {
+          "word": "sol",
+          "start": 66.52,
+          "end": 68.38
+        }
+      ],
+      "start": 64.94,
+      "end": 68.38,
+      "confidence": 1.0,
+      "time": 64.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Así por el mundo yo voy caminando,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Así",
+          "start": 68.38,
+          "end": 69.2
+        },
+        {
+          "word": "por",
+          "start": 69.2,
+          "end": 69.78
+        },
+        {
+          "word": "el",
+          "start": 69.78,
+          "end": 70.38
+        },
+        {
+          "word": "mundo",
+          "start": 70.38,
+          "end": 72.2
+        },
+        {
+          "word": "yo",
+          "start": 72.2,
+          "end": 72.88
+        },
+        {
+          "word": "voy",
+          "start": 72.88,
+          "end": 73.1
+        },
+        {
+          "word": "caminando,",
+          "start": 73.1,
+          "end": 76.16
+        }
+      ],
+      "start": 68.38,
+      "end": 76.36,
+      "confidence": 1.0,
+      "time": 68.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "pruebas me rodean y hay tentación.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pruebas",
+          "start": 76.36,
+          "end": 76.9
+        },
+        {
+          "word": "me",
+          "start": 76.9,
+          "end": 77.5
+        },
+        {
+          "word": "rodean",
+          "start": 77.5,
+          "end": 79.8
+        },
+        {
+          "word": "y",
+          "start": 79.8,
+          "end": 80.54
+        },
+        {
+          "word": "rentación.",
+          "start": 80.84,
+          "end": 83.42
+        }
+      ],
+      "start": 76.36,
+      "end": 83.42,
+      "confidence": 0.822,
+      "time": 76.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Pero Jesucristo, que me está probando,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Pero",
+          "start": 83.42,
+          "end": 84.38
+        },
+        {
+          "word": "Jesucristo,",
+          "start": 84.38,
+          "end": 87.38
+        },
+        {
+          "word": "que",
+          "start": 87.72,
+          "end": 88.04
+        },
+        {
+          "word": "me",
+          "start": 88.04,
+          "end": 88.26
+        },
+        {
+          "word": "está",
+          "start": 88.26,
+          "end": 88.74
+        },
+        {
+          "word": "aprobando,",
+          "start": 88.74,
+          "end": 91.14
+        }
+      ],
+      "start": 83.42,
+      "end": 91.82,
+      "confidence": 0.994,
+      "time": 83.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "llevarame salvo hasta su mansión,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "llevará",
+          "start": 91.82,
+          "end": 92.68
+        },
+        {
+          "word": "salvo",
+          "start": 92.98,
+          "end": 95.28
+        },
+        {
+          "word": "hasta",
+          "start": 95.28,
+          "end": 95.84
+        },
+        {
+          "word": "su",
+          "start": 95.84,
+          "end": 96.44
+        },
+        {
+          "word": "mansión.",
+          "start": 96.44,
+          "end": 98.98
+        }
+      ],
+      "start": 91.82,
+      "end": 98.98,
+      "confidence": 0.988,
+      "time": 91.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Más allá del sol, más allá del sol,",
+      "words": [
+        {
+          "word": "Más",
+          "start": 98.98,
+          "end": 99.66
+        },
+        {
+          "word": "allá",
+          "start": 99.66,
+          "end": 100.22
+        },
+        {
+          "word": "del",
+          "start": 100.22,
+          "end": 100.74
+        },
+        {
+          "word": "más",
+          "start": 103.12,
+          "end": 103.48
+        },
+        {
+          "word": "allá",
+          "start": 103.48,
+          "end": 104.06
+        },
+        {
+          "word": "del",
+          "start": 104.06,
+          "end": 104.64
+        }
+      ],
+      "start": 98.98,
+      "end": 107.0,
+      "confidence": 0.75,
+      "time": 98.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "yo tengo un hogar, hogar bello hogar",
+      "words": [
+        {
+          "word": "yo",
+          "start": 107.0,
+          "end": 107.3
+        },
+        {
+          "word": "tengo",
+          "start": 107.3,
+          "end": 108.06
+        },
+        {
+          "word": "un",
+          "start": 108.06,
+          "end": 108.22
+        },
+        {
+          "word": "lugar,",
+          "start": 108.22,
+          "end": 109.0
+        },
+        {
+          "word": "lugar,",
+          "start": 109.42,
+          "end": 109.68
+        },
+        {
+          "word": "lugar",
+          "start": 109.94,
+          "end": 110.52
+        }
+      ],
+      "start": 107.0,
+      "end": 110.52,
+      "confidence": 0.754,
+      "time": 107.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "más allá del sol.",
+      "words": [
+        {
+          "word": "más",
+          "start": 110.52,
+          "end": 111.0
+        },
+        {
+          "word": "allá",
+          "start": 111.0,
+          "end": 111.6
+        },
+        {
+          "word": "del",
+          "start": 111.6,
+          "end": 112.18
+        }
+      ],
+      "start": 110.52,
+      "end": 113.94,
+      "confidence": 0.75,
+      "time": 110.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Más allá del sol, más allá del sol,",
+      "words": [
+        {
+          "word": "Más",
+          "start": 113.94,
+          "end": 114.88
+        },
+        {
+          "word": "allá",
+          "start": 114.88,
+          "end": 115.5
+        },
+        {
+          "word": "del",
+          "start": 115.5,
+          "end": 115.9
+        },
+        {
+          "word": "sol,",
+          "start": 115.9,
+          "end": 117.92
+        },
+        {
+          "word": "más",
+          "start": 118.3,
+          "end": 118.7
+        },
+        {
+          "word": "allá",
+          "start": 118.7,
+          "end": 119.36
+        },
+        {
+          "word": "del",
+          "start": 119.36,
+          "end": 119.9
+        },
+        {
+          "word": "sol,",
+          "start": 119.9,
+          "end": 121.82
+        }
+      ],
+      "start": 113.94,
+      "end": 122.26,
+      "confidence": 1.0,
+      "time": 113.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "yo tengo un hogar, hogar, bello hogar",
+      "words": [
+        {
+          "word": "yo",
+          "start": 122.26,
+          "end": 122.66
+        },
+        {
+          "word": "tengo",
+          "start": 122.66,
+          "end": 123.24
+        },
+        {
+          "word": "un",
+          "start": 123.24,
+          "end": 123.68
+        },
+        {
+          "word": "hogar,",
+          "start": 123.68,
+          "end": 124.44
+        },
+        {
+          "word": "hogar",
+          "start": 124.72,
+          "end": 125.16
+        },
+        {
+          "word": "hogar",
+          "start": 125.78,
+          "end": 125.92
+        }
+      ],
+      "start": 122.26,
+      "end": 125.92,
+      "confidence": 0.857,
+      "time": 122.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "más allá del sol.",
+      "words": [
+        {
+          "word": "más",
+          "start": 125.92,
+          "end": 126.3
+        },
+        {
+          "word": "allá",
+          "start": 126.3,
+          "end": 126.92
+        },
+        {
+          "word": "del",
+          "start": 126.92,
+          "end": 127.52
+        },
+        {
+          "word": "sol.",
+          "start": 127.52,
+          "end": 129.28
+        }
+      ],
+      "start": 125.92,
+      "end": 129.28,
+      "confidence": 1.0,
+      "time": 125.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cristo a cada raza del linaje humano",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cresó",
+          "start": 129.28,
+          "end": 130.1
+        },
+        {
+          "word": "a",
+          "start": 130.1,
+          "end": 130.36
+        },
+        {
+          "word": "cada",
+          "start": 130.36,
+          "end": 131.08
+        },
+        {
+          "word": "raza",
+          "start": 131.08,
+          "end": 133.36
+        },
+        {
+          "word": "el",
+          "start": 133.36,
+          "end": 133.86
+        },
+        {
+          "word": "linaje",
+          "start": 133.86,
+          "end": 134.72
+        },
+        {
+          "word": "humano,",
+          "start": 134.72,
+          "end": 136.78
+        }
+      ],
+      "start": 129.28,
+      "end": 137.38,
+      "confidence": 0.959,
+      "time": 129.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "puede impartirle plena salvación.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "puede",
+          "start": 137.38,
+          "end": 137.96
+        },
+        {
+          "word": "impartirle",
+          "start": 137.96,
+          "end": 141.14
+        },
+        {
+          "word": "plena",
+          "start": 141.14,
+          "end": 141.64
+        },
+        {
+          "word": "salvación.",
+          "start": 141.64,
+          "end": 144.38
+        }
+      ],
+      "start": 137.38,
+      "end": 144.38,
+      "confidence": 1.0,
+      "time": 137.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y una bella casa hecha por su mano",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Y",
+          "start": 144.38,
+          "end": 145.12
+        },
+        {
+          "word": "una",
+          "start": 145.12,
+          "end": 145.4
+        },
+        {
+          "word": "bella",
+          "start": 145.4,
+          "end": 146.26
+        },
+        {
+          "word": "casa",
+          "start": 146.26,
+          "end": 148.44
+        },
+        {
+          "word": "humanos",
+          "start": 149.68,
+          "end": 152.16
+        }
+      ],
+      "start": 144.38,
+      "end": 152.16,
+      "confidence": 0.605,
+      "time": 144.38
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "fue a prepararle a la santa Sion.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Fue",
+          "start": 152.16,
+          "end": 152.9
+        },
+        {
+          "word": "a",
+          "start": 152.9,
+          "end": 153.46
+        },
+        {
+          "word": "prepararle",
+          "start": 153.46,
+          "end": 156.12
+        },
+        {
+          "word": "a",
+          "start": 156.12,
+          "end": 156.76
+        },
+        {
+          "word": "la",
+          "start": 156.76,
+          "end": 157.02
+        },
+        {
+          "word": "santación",
+          "start": 157.02,
+          "end": 159.88
+        }
+      ],
+      "start": 152.16,
+      "end": 159.88,
+      "confidence": 0.849,
+      "time": 152.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Más allá del sol, más allá del sol,",
+      "words": [
+        {
+          "word": "Más",
+          "start": 159.88,
+          "end": 160.58
+        },
+        {
+          "word": "allá",
+          "start": 160.58,
+          "end": 161.2
+        },
+        {
+          "word": "del",
+          "start": 161.2,
+          "end": 161.8
+        },
+        {
+          "word": "más",
+          "start": 164.12,
+          "end": 164.46
+        },
+        {
+          "word": "allá",
+          "start": 164.46,
+          "end": 165.06
+        },
+        {
+          "word": "del",
+          "start": 165.06,
+          "end": 165.6
+        }
+      ],
+      "start": 159.88,
+      "end": 167.62,
+      "confidence": 0.75,
+      "time": 159.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "yo tengo un hogar, hogar bello hogar",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 167.62,
+          "end": 168.3
+        },
+        {
+          "word": "tengo",
+          "start": 168.3,
+          "end": 169.04
+        },
+        {
+          "word": "un",
+          "start": 169.04,
+          "end": 169.28
+        },
+        {
+          "word": "hogar,",
+          "start": 169.28,
+          "end": 170.1
+        },
+        {
+          "word": "hogar",
+          "start": 171.14,
+          "end": 171.78
+        }
+      ],
+      "start": 167.62,
+      "end": 171.78,
+      "confidence": 0.714,
+      "time": 167.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "más allá del sol.",
+      "words": [
+        {
+          "word": "más",
+          "start": 171.78,
+          "end": 172.0
+        },
+        {
+          "word": "allá",
+          "start": 172.0,
+          "end": 172.64
+        },
+        {
+          "word": "del",
+          "start": 172.64,
+          "end": 173.2
+        }
+      ],
+      "start": 171.78,
+      "end": 174.96,
+      "confidence": 0.75,
+      "time": 171.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Más allá del sol, más allá del sol,",
+      "words": [
+        {
+          "word": "Más",
+          "start": 175.62,
+          "end": 175.8
+        },
+        {
+          "word": "allá",
+          "start": 175.8,
+          "end": 176.38
+        },
+        {
+          "word": "del",
+          "start": 176.38,
+          "end": 177.04
+        },
+        {
+          "word": "más",
+          "start": 179.5,
+          "end": 179.66
+        },
+        {
+          "word": "allá",
+          "start": 179.66,
+          "end": 180.22
+        },
+        {
+          "word": "del",
+          "start": 180.22,
+          "end": 180.78
+        }
+      ],
+      "start": 175.62,
+      "end": 182.62,
+      "confidence": 0.75,
+      "time": 175.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "yo tengo un hogar, hogar, bello hogar",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 182.92,
+          "end": 183.46
+        },
+        {
+          "word": "tengo",
+          "start": 183.46,
+          "end": 184.16
+        },
+        {
+          "word": "un",
+          "start": 184.16,
+          "end": 184.42
+        },
+        {
+          "word": "hogar,",
+          "start": 184.42,
+          "end": 185.26
+        },
+        {
+          "word": "hogar",
+          "start": 186.34,
+          "end": 186.92
+        }
+      ],
+      "start": 182.92,
+      "end": 186.92,
+      "confidence": 0.714,
+      "time": 182.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "más allá del sol.",
+      "words": [
+        {
+          "word": "más",
+          "start": 186.92,
+          "end": 187.38
+        },
+        {
+          "word": "allá",
+          "start": 187.38,
+          "end": 188.2
+        },
+        {
+          "word": "del",
+          "start": 188.2,
+          "end": 188.96
+        }
+      ],
+      "start": 186.92,
+      "end": 190.18,
+      "confidence": 0.75,
+      "time": 186.92
+    }
+  ]
+}

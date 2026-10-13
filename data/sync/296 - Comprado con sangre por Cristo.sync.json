@@ -1,0 +1,1057 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.933,
+  "language": "es",
+  "model": "medium",
+  "hymn": 296,
+  "source": "296 - Comprado con sangre por Cristo.mp3",
+  "duration": 158.2,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Comprado con sangre por Cristo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Comprado",
+          "start": 17.88,
+          "end": 19.14
+        },
+        {
+          "word": "con",
+          "start": 19.14,
+          "end": 19.52
+        },
+        {
+          "word": "sangre",
+          "start": 19.52,
+          "end": 20.06
+        },
+        {
+          "word": "por",
+          "start": 20.06,
+          "end": 20.54
+        },
+        {
+          "word": "Cristo",
+          "start": 20.54,
+          "end": 21.9
+        }
+      ],
+      "start": 17.88,
+      "end": 21.9,
+      "confidence": 1.0,
+      "time": 17.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "gozoso al cielo ya voy;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "al",
+          "start": 23.18,
+          "end": 23.42
+        },
+        {
+          "word": "cielo",
+          "start": 23.42,
+          "end": 23.86
+        },
+        {
+          "word": "y",
+          "start": 23.86,
+          "end": 24.56
+        }
+      ],
+      "start": 23.18,
+      "end": 25.78,
+      "confidence": 0.56,
+      "time": 23.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "librado por gracia infinita,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Librado",
+          "start": 25.78,
+          "end": 26.98
+        },
+        {
+          "word": "por",
+          "start": 26.98,
+          "end": 27.44
+        },
+        {
+          "word": "gracia",
+          "start": 27.44,
+          "end": 28.06
+        },
+        {
+          "word": "infinita,",
+          "start": 28.06,
+          "end": 29.94
+        }
+      ],
+      "start": 25.78,
+      "end": 30.36,
+      "confidence": 1.0,
+      "time": 25.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cual hijo en su casa estoy.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "cual",
+          "start": 30.36,
+          "end": 30.48
+        },
+        {
+          "word": "lijo",
+          "start": 30.48,
+          "end": 30.9
+        },
+        {
+          "word": "en",
+          "start": 30.9,
+          "end": 31.2
+        },
+        {
+          "word": "su",
+          "start": 31.2,
+          "end": 31.46
+        },
+        {
+          "word": "casa",
+          "start": 31.46,
+          "end": 32.04
+        },
+        {
+          "word": "estoy.",
+          "start": 32.04,
+          "end": 33.8
+        }
+      ],
+      "start": 30.36,
+      "end": 33.8,
+      "confidence": 0.975,
+      "time": 30.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Por él, por él comprado con sangre yo soy;",
+      "words": [
+        {
+          "word": "Por",
+          "start": 34.5,
+          "end": 34.82
+        },
+        {
+          "word": "él,",
+          "start": 34.82,
+          "end": 36.08
+        },
+        {
+          "word": "por",
+          "start": 36.08,
+          "end": 36.7
+        },
+        {
+          "word": "él,",
+          "start": 36.7,
+          "end": 37.98
+        },
+        {
+          "word": "comprado",
+          "start": 38.16,
+          "end": 39.04
+        },
+        {
+          "word": "con",
+          "start": 39.04,
+          "end": 39.44
+        },
+        {
+          "word": "sangre",
+          "start": 39.44,
+          "end": 39.98
+        },
+        {
+          "word": "yo",
+          "start": 39.98,
+          "end": 40.56
+        },
+        {
+          "word": "soy.",
+          "start": 40.56,
+          "end": 41.76
+        }
+      ],
+      "start": 34.5,
+      "end": 41.76,
+      "confidence": 1.0,
+      "time": 34.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "con él, con él, con Cristo al cielo yo voy.",
+      "words": [
+        {
+          "word": "Con",
+          "start": 42.44,
+          "end": 42.9
+        },
+        {
+          "word": "él,",
+          "start": 42.9,
+          "end": 44.1
+        },
+        {
+          "word": "con",
+          "start": 44.14,
+          "end": 44.78
+        },
+        {
+          "word": "él,",
+          "start": 44.78,
+          "end": 46.96
+        },
+        {
+          "word": "con",
+          "start": 47.34,
+          "end": 47.58
+        },
+        {
+          "word": "Cristo",
+          "start": 47.58,
+          "end": 48.14
+        },
+        {
+          "word": "al",
+          "start": 48.14,
+          "end": 48.56
+        },
+        {
+          "word": "cielo",
+          "start": 48.56,
+          "end": 49.08
+        },
+        {
+          "word": "yo",
+          "start": 49.08,
+          "end": 49.82
+        },
+        {
+          "word": "voy.",
+          "start": 49.82,
+          "end": 51.16
+        }
+      ],
+      "start": 42.44,
+      "end": 51.16,
+      "confidence": 1.0,
+      "time": 42.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Soy libre de pena y culpa,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Soy",
+          "start": 51.16,
+          "end": 52.44
+        },
+        {
+          "word": "libre",
+          "start": 52.44,
+          "end": 53.14
+        },
+        {
+          "word": "de",
+          "start": 53.14,
+          "end": 53.56
+        },
+        {
+          "word": "pena",
+          "start": 53.56,
+          "end": 54.06
+        },
+        {
+          "word": "y",
+          "start": 54.06,
+          "end": 54.46
+        },
+        {
+          "word": "culpa,",
+          "start": 54.46,
+          "end": 55.82
+        }
+      ],
+      "start": 51.16,
+      "end": 56.36,
+      "confidence": 1.0,
+      "time": 51.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "su gozo él me hace sentir,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "su",
+          "start": 56.36,
+          "end": 56.52
+        },
+        {
+          "word": "gozo",
+          "start": 56.52,
+          "end": 56.98
+        },
+        {
+          "word": "él",
+          "start": 56.98,
+          "end": 57.32
+        },
+        {
+          "word": "me",
+          "start": 57.32,
+          "end": 57.54
+        },
+        {
+          "word": "hace",
+          "start": 57.54,
+          "end": 58.02
+        },
+        {
+          "word": "sentir,",
+          "start": 58.02,
+          "end": 59.8
+        }
+      ],
+      "start": 56.36,
+      "end": 60.32,
+      "confidence": 1.0,
+      "time": 56.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "él llena de gracia mi alma,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "él",
+          "start": 60.32,
+          "end": 60.52
+        },
+        {
+          "word": "llena",
+          "start": 60.52,
+          "end": 61.08
+        },
+        {
+          "word": "de",
+          "start": 61.08,
+          "end": 61.56
+        },
+        {
+          "word": "gracia",
+          "start": 61.56,
+          "end": 62.1
+        },
+        {
+          "word": "mi",
+          "start": 62.1,
+          "end": 62.5
+        },
+        {
+          "word": "alma,",
+          "start": 62.5,
+          "end": 63.84
+        }
+      ],
+      "start": 60.32,
+      "end": 64.42,
+      "confidence": 1.0,
+      "time": 60.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "con él es tan dulce vivir.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "con",
+          "start": 64.42,
+          "end": 64.66
+        },
+        {
+          "word": "él",
+          "start": 64.66,
+          "end": 65.02
+        },
+        {
+          "word": "es",
+          "start": 65.02,
+          "end": 65.26
+        },
+        {
+          "word": "tan",
+          "start": 65.26,
+          "end": 65.54
+        },
+        {
+          "word": "dulce",
+          "start": 65.54,
+          "end": 66.1
+        },
+        {
+          "word": "vivir.",
+          "start": 66.1,
+          "end": 67.16
+        }
+      ],
+      "start": 64.42,
+      "end": 67.16,
+      "confidence": 1.0,
+      "time": 64.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Por él, por él comprado con sangre yo soy;",
+      "words": [
+        {
+          "word": "Por",
+          "start": 67.16,
+          "end": 68.62
+        },
+        {
+          "word": "él,",
+          "start": 68.62,
+          "end": 70.14
+        },
+        {
+          "word": "por",
+          "start": 70.14,
+          "end": 70.74
+        },
+        {
+          "word": "él,",
+          "start": 70.74,
+          "end": 71.98
+        },
+        {
+          "word": "comprado",
+          "start": 72.12,
+          "end": 73.04
+        },
+        {
+          "word": "con",
+          "start": 73.04,
+          "end": 73.44
+        },
+        {
+          "word": "sangre",
+          "start": 73.44,
+          "end": 74.0
+        },
+        {
+          "word": "yo",
+          "start": 74.0,
+          "end": 74.54
+        },
+        {
+          "word": "soy.",
+          "start": 74.54,
+          "end": 75.16
+        }
+      ],
+      "start": 67.16,
+      "end": 75.16,
+      "confidence": 1.0,
+      "time": 67.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "con él, con él, con Cristo al cielo yo voy.",
+      "words": [
+        {
+          "word": "Con",
+          "start": 76.64,
+          "end": 76.88
+        },
+        {
+          "word": "él,",
+          "start": 76.88,
+          "end": 78.24
+        },
+        {
+          "word": "con",
+          "start": 78.56,
+          "end": 79.06
+        },
+        {
+          "word": "él,",
+          "start": 79.06,
+          "end": 80.88
+        },
+        {
+          "word": "Cristo",
+          "start": 81.52,
+          "end": 82.12
+        },
+        {
+          "word": "al",
+          "start": 82.12,
+          "end": 82.58
+        },
+        {
+          "word": "cielo",
+          "start": 82.58,
+          "end": 83.1
+        },
+        {
+          "word": "yo",
+          "start": 83.1,
+          "end": 83.8
+        },
+        {
+          "word": "voy.",
+          "start": 83.8,
+          "end": 85.28
+        }
+      ],
+      "start": 76.64,
+      "end": 85.28,
+      "confidence": 0.9,
+      "time": 76.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "En Cristo Jesús yo medito,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 86.06,
+          "end": 86.46
+        },
+        {
+          "word": "Cristo",
+          "start": 86.46,
+          "end": 87.04
+        },
+        {
+          "word": "Jesús",
+          "start": 87.04,
+          "end": 87.7
+        },
+        {
+          "word": "yo",
+          "start": 87.7,
+          "end": 88.28
+        },
+        {
+          "word": "medito,",
+          "start": 88.28,
+          "end": 89.84
+        }
+      ],
+      "start": 86.06,
+      "end": 90.3,
+      "confidence": 1.0,
+      "time": 86.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en todo momento y lugar;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 90.3,
+          "end": 90.64
+        },
+        {
+          "word": "todo",
+          "start": 90.64,
+          "end": 91.08
+        },
+        {
+          "word": "momento",
+          "start": 91.08,
+          "end": 91.86
+        }
+      ],
+      "start": 90.3,
+      "end": 93.16,
+      "confidence": 0.6,
+      "time": 90.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "por tantas mercedes de Cristo",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Por",
+          "start": 93.16,
+          "end": 94.42
+        },
+        {
+          "word": "tantas",
+          "start": 94.42,
+          "end": 95.18
+        },
+        {
+          "word": "mercedes",
+          "start": 95.18,
+          "end": 96.14
+        },
+        {
+          "word": "de",
+          "start": 96.14,
+          "end": 96.52
+        },
+        {
+          "word": "Cristo",
+          "start": 96.52,
+          "end": 97.82
+        }
+      ],
+      "start": 93.16,
+      "end": 97.82,
+      "confidence": 1.0,
+      "time": 93.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "su nombre me gozo en loar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "su",
+          "start": 97.82,
+          "end": 98.46
+        },
+        {
+          "word": "nombre",
+          "start": 98.46,
+          "end": 99.04
+        },
+        {
+          "word": "me",
+          "start": 99.04,
+          "end": 99.56
+        },
+        {
+          "word": "gozo",
+          "start": 99.56,
+          "end": 100.06
+        },
+        {
+          "word": "en",
+          "start": 100.06,
+          "end": 100.36
+        },
+        {
+          "word": "loar",
+          "start": 100.36,
+          "end": 101.16
+        }
+      ],
+      "start": 97.82,
+      "end": 101.16,
+      "confidence": 1.0,
+      "time": 97.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Por él, por él comprado con sangre yo soy;",
+      "words": [
+        {
+          "word": "Por",
+          "start": 101.92,
+          "end": 102.8
+        },
+        {
+          "word": "él,",
+          "start": 102.8,
+          "end": 104.08
+        },
+        {
+          "word": "por",
+          "start": 104.72,
+          "end": 104.74
+        },
+        {
+          "word": "él,",
+          "start": 104.74,
+          "end": 106.0
+        },
+        {
+          "word": "comprado",
+          "start": 106.32,
+          "end": 107.06
+        },
+        {
+          "word": "con",
+          "start": 107.06,
+          "end": 107.44
+        },
+        {
+          "word": "sangre",
+          "start": 107.44,
+          "end": 108.0
+        },
+        {
+          "word": "yo",
+          "start": 108.0,
+          "end": 108.62
+        },
+        {
+          "word": "soy",
+          "start": 108.62,
+          "end": 109.26
+        }
+      ],
+      "start": 101.92,
+      "end": 109.26,
+      "confidence": 1.0,
+      "time": 101.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "con él, con él, con Cristo al cielo yo voy.",
+      "words": [
+        {
+          "word": "Con",
+          "start": 109.9,
+          "end": 111.12
+        },
+        {
+          "word": "él,",
+          "start": 111.12,
+          "end": 112.18
+        },
+        {
+          "word": "con",
+          "start": 112.62,
+          "end": 112.76
+        },
+        {
+          "word": "él,",
+          "start": 112.76,
+          "end": 114.7
+        },
+        {
+          "word": "con",
+          "start": 115.2,
+          "end": 115.54
+        },
+        {
+          "word": "Cristo",
+          "start": 115.54,
+          "end": 116.18
+        },
+        {
+          "word": "al",
+          "start": 116.18,
+          "end": 116.62
+        },
+        {
+          "word": "cielo",
+          "start": 116.62,
+          "end": 117.04
+        },
+        {
+          "word": "yo",
+          "start": 117.04,
+          "end": 117.72
+        },
+        {
+          "word": "voy",
+          "start": 117.72,
+          "end": 119.1
+        }
+      ],
+      "start": 109.9,
+      "end": 119.1,
+      "confidence": 1.0,
+      "time": 109.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Yo sé que me espera corona,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 119.1,
+          "end": 120.52
+        },
+        {
+          "word": "sé",
+          "start": 120.52,
+          "end": 120.84
+        },
+        {
+          "word": "que",
+          "start": 120.84,
+          "end": 121.26
+        },
+        {
+          "word": "corona,",
+          "start": 122.4,
+          "end": 123.76
+        }
+      ],
+      "start": 119.1,
+      "end": 124.2,
+      "confidence": 0.667,
+      "time": 119.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "la cual a los fieles dará;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "la",
+          "start": 124.2,
+          "end": 124.44
+        },
+        {
+          "word": "cual",
+          "start": 124.44,
+          "end": 124.88
+        },
+        {
+          "word": "a",
+          "start": 124.88,
+          "end": 125.24
+        },
+        {
+          "word": "los",
+          "start": 125.24,
+          "end": 125.52
+        },
+        {
+          "word": "les",
+          "start": 125.84,
+          "end": 126.24
+        },
+        {
+          "word": "dará.",
+          "start": 126.24,
+          "end": 127.1
+        }
+      ],
+      "start": 124.2,
+      "end": 127.1,
+      "confidence": 0.967,
+      "time": 124.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "me entrego con fe al Maestro,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Me",
+          "start": 128.22,
+          "end": 128.44
+        },
+        {
+          "word": "entrego",
+          "start": 128.44,
+          "end": 129.12
+        },
+        {
+          "word": "con",
+          "start": 129.12,
+          "end": 129.58
+        },
+        {
+          "word": "fe",
+          "start": 129.58,
+          "end": 129.8
+        },
+        {
+          "word": "al",
+          "start": 129.8,
+          "end": 130.22
+        },
+        {
+          "word": "maestro,",
+          "start": 130.22,
+          "end": 131.92
+        }
+      ],
+      "start": 128.22,
+      "end": 132.42,
+      "confidence": 1.0,
+      "time": 128.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "sabiendo que me guardará.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "sabiendo",
+          "start": 132.42,
+          "end": 133.04
+        },
+        {
+          "word": "que",
+          "start": 133.04,
+          "end": 133.44
+        },
+        {
+          "word": "me",
+          "start": 133.44,
+          "end": 133.88
+        },
+        {
+          "word": "guardará.",
+          "start": 133.88,
+          "end": 135.1
+        }
+      ],
+      "start": 132.42,
+      "end": 135.1,
+      "confidence": 1.0,
+      "time": 132.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Por él, por él comprado con sangre yo soy;",
+      "words": [
+        {
+          "word": "Por",
+          "start": 135.1,
+          "end": 136.76
+        },
+        {
+          "word": "él,",
+          "start": 136.76,
+          "end": 138.16
+        },
+        {
+          "word": "por",
+          "start": 138.16,
+          "end": 138.78
+        },
+        {
+          "word": "él,",
+          "start": 138.78,
+          "end": 140.02
+        },
+        {
+          "word": "honrado",
+          "start": 140.4,
+          "end": 140.98
+        },
+        {
+          "word": "sangre",
+          "start": 141.4,
+          "end": 141.98
+        },
+        {
+          "word": "yo",
+          "start": 141.98,
+          "end": 142.54
+        },
+        {
+          "word": "soy.",
+          "start": 142.54,
+          "end": 143.13
+        }
+      ],
+      "start": 135.1,
+      "end": 143.13,
+      "confidence": 0.867,
+      "time": 135.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "con él, con él, con Cristo al cielo yo voy.",
+      "words": [
+        {
+          "word": "él,",
+          "start": 144.86,
+          "end": 146.22
+        },
+        {
+          "word": "él,",
+          "start": 147.1,
+          "end": 148.98
+        },
+        {
+          "word": "don",
+          "start": 149.32,
+          "end": 149.58
+        },
+        {
+          "word": "Cristo",
+          "start": 149.58,
+          "end": 150.18
+        },
+        {
+          "word": "al",
+          "start": 150.18,
+          "end": 150.66
+        },
+        {
+          "word": "cielo",
+          "start": 150.66,
+          "end": 151.3
+        },
+        {
+          "word": "yo",
+          "start": 151.3,
+          "end": 152.16
+        },
+        {
+          "word": "voy.",
+          "start": 152.16,
+          "end": 152.84
+        }
+      ],
+      "start": 144.86,
+      "end": 152.84,
+      "confidence": 0.78,
+      "time": 144.86
+    }
+  ]
+}

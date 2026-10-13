@@ -1,0 +1,645 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.877,
+  "language": "es",
+  "model": "medium",
+  "hymn": 563,
+  "source": "563 - Escuchad, Jesus nos dice.mp3",
+  "duration": 147.36,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Escuchad, Jesús nos dice: \"¿Quiénes van a trabajar?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Escuchad,",
+          "start": 12.82,
+          "end": 14.22
+        },
+        {
+          "word": "Jesús",
+          "start": 14.24,
+          "end": 15.08
+        },
+        {
+          "word": "nos",
+          "start": 15.08,
+          "end": 15.9
+        },
+        {
+          "word": "dice",
+          "start": 15.9,
+          "end": 16.88
+        },
+        {
+          "word": "que",
+          "start": 16.88,
+          "end": 17.9
+        },
+        {
+          "word": "van",
+          "start": 18.58,
+          "end": 19.7
+        },
+        {
+          "word": "a",
+          "start": 19.7,
+          "end": 20.12
+        },
+        {
+          "word": "trabajar",
+          "start": 20.12,
+          "end": 22.1
+        }
+      ],
+      "start": 12.82,
+      "end": 22.1,
+      "confidence": 0.97,
+      "time": 12.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Campos blancos hoy aguardan que los vayan a segar\".",
+      "verse": 1,
+      "words": [
+        {
+          "word": "campos",
+          "start": 22.1,
+          "end": 23.92
+        },
+        {
+          "word": "fracos",
+          "start": 23.92,
+          "end": 25.24
+        },
+        {
+          "word": "hoy",
+          "start": 25.24,
+          "end": 26.06
+        },
+        {
+          "word": "a",
+          "start": 26.06,
+          "end": 26.72
+        },
+        {
+          "word": "que",
+          "start": 27.8,
+          "end": 28.48
+        },
+        {
+          "word": "los",
+          "start": 28.48,
+          "end": 29.22
+        },
+        {
+          "word": "vayan",
+          "start": 29.22,
+          "end": 30.6
+        },
+        {
+          "word": "a",
+          "start": 30.6,
+          "end": 31.42
+        },
+        {
+          "word": "cegar.",
+          "start": 31.42,
+          "end": 33.2
+        }
+      ],
+      "start": 22.1,
+      "end": 33.2,
+      "confidence": 0.954,
+      "time": 22.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Él nos llama, cariñoso, nos constriñe con su amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "nos",
+          "start": 33.94,
+          "end": 34.66
+        },
+        {
+          "word": "llama",
+          "start": 34.66,
+          "end": 35.88
+        },
+        {
+          "word": "cariñoso,",
+          "start": 35.88,
+          "end": 38.52
+        },
+        {
+          "word": "nos",
+          "start": 38.76,
+          "end": 39.42
+        },
+        {
+          "word": "doctrinie",
+          "start": 39.42,
+          "end": 41.26
+        },
+        {
+          "word": "con",
+          "start": 41.26,
+          "end": 41.98
+        },
+        {
+          "word": "su",
+          "start": 41.98,
+          "end": 42.68
+        },
+        {
+          "word": "amor.",
+          "start": 42.68,
+          "end": 43.66
+        }
+      ],
+      "start": 33.94,
+      "end": 43.66,
+      "confidence": 0.867,
+      "time": 33.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Quién responde a su llamada:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Quien",
+          "start": 44.4,
+          "end": 45.08
+        },
+        {
+          "word": "responda",
+          "start": 45.08,
+          "end": 46.56
+        },
+        {
+          "word": "su",
+          "start": 46.56,
+          "end": 47.22
+        },
+        {
+          "word": "llamada,",
+          "start": 47.22,
+          "end": 49.12
+        }
+      ],
+      "start": 44.4,
+      "end": 49.12,
+      "confidence": 0.785,
+      "time": 44.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "\"Heme aquí, voy yo, Señor\"?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "me",
+          "start": 49.94,
+          "end": 50.6
+        },
+        {
+          "word": "yo,",
+          "start": 52.02,
+          "end": 52.64
+        },
+        {
+          "word": "Señor.",
+          "start": 52.64,
+          "end": 55.14
+        }
+      ],
+      "start": 49.94,
+      "end": 55.14,
+      "confidence": 0.56,
+      "time": 49.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Si por tierras o por mares no pudieres transitar,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 55.14,
+          "end": 56.52
+        },
+        {
+          "word": "por",
+          "start": 56.52,
+          "end": 57.24
+        },
+        {
+          "word": "tierras",
+          "start": 57.24,
+          "end": 58.62
+        },
+        {
+          "word": "o",
+          "start": 58.62,
+          "end": 59.7
+        },
+        {
+          "word": "por",
+          "start": 59.7,
+          "end": 60.38
+        },
+        {
+          "word": "mares",
+          "start": 60.38,
+          "end": 61.02
+        },
+        {
+          "word": "no",
+          "start": 61.02,
+          "end": 61.88
+        },
+        {
+          "word": "pudieres",
+          "start": 61.88,
+          "end": 63.98
+        },
+        {
+          "word": "transitar,",
+          "start": 63.98,
+          "end": 66.36
+        }
+      ],
+      "start": 55.14,
+      "end": 67.26,
+      "confidence": 1.0,
+      "time": 55.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "puedes encontrar hambrientos en tu puerta que auxiliar.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "puedes",
+          "start": 67.26,
+          "end": 67.9
+        },
+        {
+          "word": "encontrar",
+          "start": 67.9,
+          "end": 70.0
+        },
+        {
+          "word": "en",
+          "start": 71.7,
+          "end": 72.52
+        },
+        {
+          "word": "tu",
+          "start": 72.52,
+          "end": 73.26
+        },
+        {
+          "word": "puerta",
+          "start": 73.26,
+          "end": 74.48
+        },
+        {
+          "word": "que",
+          "start": 74.48,
+          "end": 75.06
+        },
+        {
+          "word": "auxiliar.",
+          "start": 75.06,
+          "end": 76.78
+        }
+      ],
+      "start": 67.26,
+      "end": 76.78,
+      "confidence": 0.875,
+      "time": 67.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Si careces de riquezas, lo que dio la viuda da;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 76.78,
+          "end": 77.88
+        },
+        {
+          "word": "careces",
+          "start": 77.88,
+          "end": 79.92
+        },
+        {
+          "word": "de",
+          "start": 79.92,
+          "end": 80.76
+        },
+        {
+          "word": "riquezas,",
+          "start": 80.76,
+          "end": 82.44
+        },
+        {
+          "word": "que",
+          "start": 83.4,
+          "end": 83.9
+        },
+        {
+          "word": "Dios",
+          "start": 83.9,
+          "end": 84.84
+        },
+        {
+          "word": "la",
+          "start": 84.84,
+          "end": 85.36
+        },
+        {
+          "word": "viudada,",
+          "start": 85.36,
+          "end": 87.56
+        }
+      ],
+      "start": 76.78,
+      "end": 87.56,
+      "confidence": 0.788,
+      "time": 76.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "pues si por Jesús lo dieres,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "pues",
+          "start": 88.18,
+          "end": 88.58
+        },
+        {
+          "word": "si",
+          "start": 88.58,
+          "end": 89.46
+        },
+        {
+          "word": "por",
+          "start": 89.46,
+          "end": 90.26
+        },
+        {
+          "word": "Jesús",
+          "start": 90.26,
+          "end": 91.1
+        },
+        {
+          "word": "lo",
+          "start": 91.1,
+          "end": 92.22
+        },
+        {
+          "word": "quieres,",
+          "start": 92.22,
+          "end": 92.98
+        }
+      ],
+      "start": 88.18,
+      "end": 93.84,
+      "confidence": 0.977,
+      "time": 88.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "él te recompensará.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Él",
+          "start": 93.84,
+          "end": 94.08
+        },
+        {
+          "word": "te",
+          "start": 94.08,
+          "end": 95.36
+        },
+        {
+          "word": "recompensará.",
+          "start": 95.36,
+          "end": 98.94
+        }
+      ],
+      "start": 93.84,
+      "end": 98.94,
+      "confidence": 1.0,
+      "time": 93.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si como elocuente apóstol no pudieres predicar,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Si",
+          "start": 98.94,
+          "end": 100.52
+        },
+        {
+          "word": "elocuente",
+          "start": 102.26,
+          "end": 103.58
+        },
+        {
+          "word": "apostón",
+          "start": 103.58,
+          "end": 104.98
+        },
+        {
+          "word": "no",
+          "start": 104.98,
+          "end": 105.9
+        },
+        {
+          "word": "pudieres",
+          "start": 105.9,
+          "end": 107.92
+        },
+        {
+          "word": "predicar,",
+          "start": 107.92,
+          "end": 110.36
+        }
+      ],
+      "start": 98.94,
+      "end": 110.36,
+      "confidence": 0.845,
+      "time": 98.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "puedes de Jesús decirles cuánto al hombre supo amar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "puedes",
+          "start": 110.96,
+          "end": 111.88
+        },
+        {
+          "word": "de",
+          "start": 111.88,
+          "end": 112.84
+        },
+        {
+          "word": "Jesús",
+          "start": 112.84,
+          "end": 113.8
+        },
+        {
+          "word": "decirles",
+          "start": 113.8,
+          "end": 115.86
+        },
+        {
+          "word": "cuanto",
+          "start": 115.86,
+          "end": 116.84
+        },
+        {
+          "word": "al",
+          "start": 116.84,
+          "end": 117.62
+        },
+        {
+          "word": "hombre",
+          "start": 117.62,
+          "end": 118.5
+        },
+        {
+          "word": "su",
+          "start": 118.5,
+          "end": 119.32
+        },
+        {
+          "word": "mamá.",
+          "start": 119.32,
+          "end": 120.82
+        }
+      ],
+      "start": 110.96,
+      "end": 120.82,
+      "confidence": 0.977,
+      "time": 110.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si no logras que sus culpas reconozca el pecador,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Si",
+          "start": 120.82,
+          "end": 122.18
+        },
+        {
+          "word": "no",
+          "start": 122.18,
+          "end": 122.8
+        },
+        {
+          "word": "lo",
+          "start": 122.8,
+          "end": 123.64
+        },
+        {
+          "word": "sus",
+          "start": 124.72,
+          "end": 125.24
+        },
+        {
+          "word": "culpas,",
+          "start": 125.24,
+          "end": 126.48
+        },
+        {
+          "word": "reconozca",
+          "start": 127.38,
+          "end": 129.26
+        },
+        {
+          "word": "el",
+          "start": 129.26,
+          "end": 129.6
+        },
+        {
+          "word": "pecador.",
+          "start": 129.6,
+          "end": 131.66
+        }
+      ],
+      "start": 120.82,
+      "end": 131.66,
+      "confidence": 0.882,
+      "time": 120.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "conducir los niños puedes al benigno Salvador.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Con",
+          "start": 132.52,
+          "end": 132.72
+        },
+        {
+          "word": "niños,",
+          "start": 134.7,
+          "end": 135.72
+        },
+        {
+          "word": "puedes,",
+          "start": 136.2,
+          "end": 137.06
+        },
+        {
+          "word": "al",
+          "start": 137.66,
+          "end": 138.1
+        },
+        {
+          "word": "salvador.",
+          "start": 140.02,
+          "end": 143.44
+        }
+      ],
+      "start": 132.52,
+      "end": 143.44,
+      "confidence": 0.706,
+      "time": 132.52
+    }
+  ]
+}

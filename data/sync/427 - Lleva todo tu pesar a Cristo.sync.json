@@ -1,0 +1,968 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.976,
+  "language": "es",
+  "model": "medium",
+  "hymn": 427,
+  "source": "427 - Lleva todo tu pesar a Cristo.mp3",
+  "duration": 158.93,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Lleva todo tu pesar a Cristo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Lleva",
+          "start": 15.28,
+          "end": 16.68
+        },
+        {
+          "word": "todo",
+          "start": 16.68,
+          "end": 17.36
+        },
+        {
+          "word": "tu",
+          "start": 17.36,
+          "end": 17.76
+        },
+        {
+          "word": "pesar",
+          "start": 17.76,
+          "end": 18.46
+        },
+        {
+          "word": "a",
+          "start": 18.46,
+          "end": 18.94
+        },
+        {
+          "word": "Cristo,",
+          "start": 18.94,
+          "end": 20.64
+        }
+      ],
+      "start": 15.28,
+      "end": 21.5,
+      "confidence": 1.0,
+      "time": 15.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "el mejor amigo para ti;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "el",
+          "start": 21.5,
+          "end": 21.74
+        },
+        {
+          "word": "mejor",
+          "start": 21.74,
+          "end": 22.5
+        },
+        {
+          "word": "amigo",
+          "start": 22.5,
+          "end": 23.26
+        },
+        {
+          "word": "para",
+          "start": 23.26,
+          "end": 24.14
+        },
+        {
+          "word": "ti.",
+          "start": 24.14,
+          "end": 26.18
+        }
+      ],
+      "start": 21.5,
+      "end": 26.18,
+      "confidence": 1.0,
+      "time": 21.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "te consuela y siempre está cercano,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Te",
+          "start": 26.18,
+          "end": 27.16
+        },
+        {
+          "word": "consuela",
+          "start": 27.16,
+          "end": 27.88
+        },
+        {
+          "word": "y",
+          "start": 27.88,
+          "end": 28.12
+        },
+        {
+          "word": "siempre",
+          "start": 28.12,
+          "end": 28.7
+        },
+        {
+          "word": "está",
+          "start": 28.7,
+          "end": 29.12
+        },
+        {
+          "word": "cercano,",
+          "start": 29.12,
+          "end": 31.62
+        }
+      ],
+      "start": 26.18,
+      "end": 32.2,
+      "confidence": 1.0,
+      "time": 26.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "quiere bendecirte en tu vivir.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "quiere",
+          "start": 32.2,
+          "end": 32.62
+        },
+        {
+          "word": "bendecirte",
+          "start": 32.62,
+          "end": 34.02
+        },
+        {
+          "word": "en",
+          "start": 34.02,
+          "end": 34.26
+        },
+        {
+          "word": "tu",
+          "start": 34.26,
+          "end": 34.52
+        },
+        {
+          "word": "vivir.",
+          "start": 34.52,
+          "end": 36.86
+        }
+      ],
+      "start": 32.2,
+      "end": 36.86,
+      "confidence": 1.0,
+      "time": 32.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Lleva tu pesar a Cristo;",
+      "words": [
+        {
+          "word": "Lleva",
+          "start": 37.78,
+          "end": 38.56
+        },
+        {
+          "word": "tu",
+          "start": 38.56,
+          "end": 39.0
+        },
+        {
+          "word": "pesar",
+          "start": 39.0,
+          "end": 39.68
+        },
+        {
+          "word": "a",
+          "start": 39.68,
+          "end": 40.18
+        },
+        {
+          "word": "Cristo,",
+          "start": 40.18,
+          "end": 41.36
+        }
+      ],
+      "start": 37.78,
+      "end": 42.64,
+      "confidence": 1.0,
+      "time": 37.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "él lo cargará y tus fuerzas repondrá.",
+      "words": [
+        {
+          "word": "Él",
+          "start": 42.64,
+          "end": 43.06
+        },
+        {
+          "word": "lo",
+          "start": 43.06,
+          "end": 43.48
+        },
+        {
+          "word": "cargará",
+          "start": 43.48,
+          "end": 44.7
+        },
+        {
+          "word": "y",
+          "start": 44.7,
+          "end": 45.0
+        },
+        {
+          "word": "tus",
+          "start": 45.0,
+          "end": 45.34
+        },
+        {
+          "word": "fuerzas",
+          "start": 45.34,
+          "end": 46.06
+        },
+        {
+          "word": "repondrá.",
+          "start": 46.06,
+          "end": 47.64
+        }
+      ],
+      "start": 42.64,
+      "end": 47.64,
+      "confidence": 1.0,
+      "time": 42.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Lleva tu pesar a Cristo;",
+      "words": [
+        {
+          "word": "Lleva",
+          "start": 47.64,
+          "end": 49.22
+        },
+        {
+          "word": "tu",
+          "start": 49.22,
+          "end": 49.68
+        },
+        {
+          "word": "pesar",
+          "start": 49.68,
+          "end": 50.34
+        },
+        {
+          "word": "a",
+          "start": 50.34,
+          "end": 50.8
+        },
+        {
+          "word": "Cristo,",
+          "start": 50.8,
+          "end": 52.58
+        }
+      ],
+      "start": 47.64,
+      "end": 53.48,
+      "confidence": 1.0,
+      "time": 47.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en las pruebas él te sostendrá.",
+      "words": [
+        {
+          "word": "en",
+          "start": 53.48,
+          "end": 53.68
+        },
+        {
+          "word": "las",
+          "start": 53.68,
+          "end": 54.1
+        },
+        {
+          "word": "pruebas",
+          "start": 54.1,
+          "end": 54.8
+        },
+        {
+          "word": "Él",
+          "start": 54.8,
+          "end": 55.14
+        },
+        {
+          "word": "te",
+          "start": 55.14,
+          "end": 55.66
+        },
+        {
+          "word": "sostendrá.",
+          "start": 55.66,
+          "end": 58.48
+        }
+      ],
+      "start": 53.48,
+      "end": 58.48,
+      "confidence": 1.0,
+      "time": 53.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si la ingratitud te hiere el alma;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 59.6,
+          "end": 60.4
+        },
+        {
+          "word": "la",
+          "start": 60.4,
+          "end": 60.72
+        },
+        {
+          "word": "ingratitud",
+          "start": 60.72,
+          "end": 61.94
+        },
+        {
+          "word": "te",
+          "start": 61.94,
+          "end": 62.12
+        },
+        {
+          "word": "el",
+          "start": 62.54,
+          "end": 63.3
+        },
+        {
+          "word": "alma,",
+          "start": 63.3,
+          "end": 64.68
+        }
+      ],
+      "start": 59.6,
+      "end": 65.28,
+      "confidence": 0.857,
+      "time": 59.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "si amargura viene al corazón;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "si",
+          "start": 65.28,
+          "end": 65.7
+        },
+        {
+          "word": "amargura",
+          "start": 65.7,
+          "end": 66.68
+        },
+        {
+          "word": "viene",
+          "start": 66.68,
+          "end": 67.22
+        },
+        {
+          "word": "al",
+          "start": 67.22,
+          "end": 67.58
+        },
+        {
+          "word": "corazón,",
+          "start": 67.58,
+          "end": 70.08
+        }
+      ],
+      "start": 65.28,
+      "end": 70.08,
+      "confidence": 1.0,
+      "time": 65.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mira que Jesús está a tu lado",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Mira",
+          "start": 70.08,
+          "end": 71.24
+        },
+        {
+          "word": "que",
+          "start": 71.24,
+          "end": 71.76
+        },
+        {
+          "word": "Jesús",
+          "start": 71.76,
+          "end": 72.4
+        },
+        {
+          "word": "está",
+          "start": 72.4,
+          "end": 73.06
+        },
+        {
+          "word": "a",
+          "start": 73.06,
+          "end": 73.06
+        },
+        {
+          "word": "tu",
+          "start": 73.06,
+          "end": 73.48
+        },
+        {
+          "word": "lado",
+          "start": 73.48,
+          "end": 75.46
+        }
+      ],
+      "start": 70.08,
+      "end": 75.46,
+      "confidence": 1.0,
+      "time": 70.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y te da consuelo en la aflicción.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 75.46,
+          "end": 76.38
+        },
+        {
+          "word": "te",
+          "start": 76.38,
+          "end": 76.78
+        },
+        {
+          "word": "da",
+          "start": 76.78,
+          "end": 77.08
+        },
+        {
+          "word": "consuero",
+          "start": 77.08,
+          "end": 77.98
+        },
+        {
+          "word": "en",
+          "start": 77.98,
+          "end": 78.44
+        },
+        {
+          "word": "aflicción.",
+          "start": 78.44,
+          "end": 80.98
+        }
+      ],
+      "start": 75.46,
+      "end": 80.98,
+      "confidence": 0.846,
+      "time": 75.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Lleva tu pesar a Cristo;",
+      "words": [
+        {
+          "word": "Lleva",
+          "start": 81.32,
+          "end": 82.62
+        },
+        {
+          "word": "tu",
+          "start": 82.62,
+          "end": 83.0
+        },
+        {
+          "word": "pesar",
+          "start": 83.0,
+          "end": 83.72
+        },
+        {
+          "word": "a",
+          "start": 83.72,
+          "end": 84.28
+        },
+        {
+          "word": "Cristo,",
+          "start": 84.28,
+          "end": 86.0
+        }
+      ],
+      "start": 81.32,
+      "end": 87.08,
+      "confidence": 1.0,
+      "time": 81.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "él lo cargará y tus fuerzas repondrá.",
+      "words": [
+        {
+          "word": "lo",
+          "start": 87.08,
+          "end": 87.48
+        },
+        {
+          "word": "cargará",
+          "start": 87.48,
+          "end": 88.76
+        },
+        {
+          "word": "y",
+          "start": 88.76,
+          "end": 89.04
+        },
+        {
+          "word": "tus",
+          "start": 89.04,
+          "end": 89.36
+        },
+        {
+          "word": "fuerzas",
+          "start": 89.36,
+          "end": 90.06
+        },
+        {
+          "word": "repondrá.",
+          "start": 90.06,
+          "end": 91.64
+        }
+      ],
+      "start": 87.08,
+      "end": 91.64,
+      "confidence": 0.857,
+      "time": 87.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Lleva tu pesar a Cristo;",
+      "words": [
+        {
+          "word": "Lleva",
+          "start": 91.64,
+          "end": 93.36
+        },
+        {
+          "word": "tu",
+          "start": 93.36,
+          "end": 93.8
+        },
+        {
+          "word": "pesar",
+          "start": 93.8,
+          "end": 94.48
+        },
+        {
+          "word": "a",
+          "start": 94.48,
+          "end": 94.96
+        },
+        {
+          "word": "Cristo,",
+          "start": 94.96,
+          "end": 96.7
+        }
+      ],
+      "start": 91.64,
+      "end": 97.58,
+      "confidence": 1.0,
+      "time": 91.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en las pruebas él te sostendrá.",
+      "words": [
+        {
+          "word": "en",
+          "start": 97.58,
+          "end": 97.82
+        },
+        {
+          "word": "las",
+          "start": 97.82,
+          "end": 98.22
+        },
+        {
+          "word": "pruebas",
+          "start": 98.22,
+          "end": 98.92
+        },
+        {
+          "word": "Él",
+          "start": 98.92,
+          "end": 99.28
+        },
+        {
+          "word": "te",
+          "start": 99.28,
+          "end": 99.72
+        },
+        {
+          "word": "sostendrá.",
+          "start": 99.72,
+          "end": 103.02
+        }
+      ],
+      "start": 97.58,
+      "end": 103.02,
+      "confidence": 1.0,
+      "time": 97.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cristo te comprende en tus dolores;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristo",
+          "start": 104.18,
+          "end": 105.38
+        },
+        {
+          "word": "te",
+          "start": 105.38,
+          "end": 105.98
+        },
+        {
+          "word": "comprende",
+          "start": 105.98,
+          "end": 106.78
+        },
+        {
+          "word": "en",
+          "start": 106.78,
+          "end": 106.96
+        },
+        {
+          "word": "tus",
+          "start": 106.96,
+          "end": 107.24
+        },
+        {
+          "word": "dolores,",
+          "start": 107.24,
+          "end": 109.7
+        }
+      ],
+      "start": 104.18,
+      "end": 110.26,
+      "confidence": 1.0,
+      "time": 104.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "quiere tu alma enferma restaurar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "quiere",
+          "start": 110.26,
+          "end": 110.62
+        },
+        {
+          "word": "tu",
+          "start": 110.62,
+          "end": 110.94
+        },
+        {
+          "word": "alma",
+          "start": 110.94,
+          "end": 111.3
+        },
+        {
+          "word": "enferma",
+          "start": 111.3,
+          "end": 112.12
+        },
+        {
+          "word": "restaurar",
+          "start": 112.12,
+          "end": 115.08
+        }
+      ],
+      "start": 110.26,
+      "end": 115.08,
+      "confidence": 1.0,
+      "time": 110.26
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Oh, confía en su amor inmenso;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "O",
+          "start": 115.08,
+          "end": 115.92
+        },
+        {
+          "word": "confía",
+          "start": 115.92,
+          "end": 116.58
+        },
+        {
+          "word": "en",
+          "start": 116.58,
+          "end": 116.82
+        },
+        {
+          "word": "su",
+          "start": 116.82,
+          "end": 117.16
+        },
+        {
+          "word": "amor",
+          "start": 117.16,
+          "end": 117.98
+        },
+        {
+          "word": "inmenso,",
+          "start": 117.98,
+          "end": 120.52
+        }
+      ],
+      "start": 115.08,
+      "end": 120.9,
+      "confidence": 0.967,
+      "time": 115.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "solo él te puede aliviar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "solo",
+          "start": 120.9,
+          "end": 121.4
+        },
+        {
+          "word": "Él",
+          "start": 121.4,
+          "end": 121.8
+        },
+        {
+          "word": "te",
+          "start": 121.8,
+          "end": 122.2
+        },
+        {
+          "word": "puede",
+          "start": 122.2,
+          "end": 122.98
+        },
+        {
+          "word": "aliviar.",
+          "start": 122.98,
+          "end": 125.86
+        }
+      ],
+      "start": 120.9,
+      "end": 125.86,
+      "confidence": 1.0,
+      "time": 120.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Lleva tu pesar a Cristo;",
+      "words": [
+        {
+          "word": "Lleva",
+          "start": 126.58,
+          "end": 127.4
+        },
+        {
+          "word": "tu",
+          "start": 127.4,
+          "end": 127.8
+        },
+        {
+          "word": "pesar",
+          "start": 127.8,
+          "end": 128.5
+        },
+        {
+          "word": "a",
+          "start": 128.5,
+          "end": 129.0
+        },
+        {
+          "word": "Cristo,",
+          "start": 129.0,
+          "end": 130.18
+        }
+      ],
+      "start": 126.58,
+      "end": 131.48,
+      "confidence": 1.0,
+      "time": 126.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "él lo cargará y tus fuerzas repondrá.",
+      "words": [
+        {
+          "word": "Él",
+          "start": 131.48,
+          "end": 131.8
+        },
+        {
+          "word": "lo",
+          "start": 131.8,
+          "end": 132.16
+        },
+        {
+          "word": "cargará",
+          "start": 132.16,
+          "end": 133.46
+        },
+        {
+          "word": "y",
+          "start": 133.46,
+          "end": 133.8
+        },
+        {
+          "word": "tus",
+          "start": 133.8,
+          "end": 134.14
+        },
+        {
+          "word": "fuerzas",
+          "start": 134.14,
+          "end": 134.8
+        },
+        {
+          "word": "pondrá.",
+          "start": 135.16,
+          "end": 136.28
+        }
+      ],
+      "start": 131.48,
+      "end": 136.28,
+      "confidence": 0.988,
+      "time": 131.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Lleva tu pesar a Cristo;",
+      "words": [
+        {
+          "word": "Lleva",
+          "start": 136.28,
+          "end": 138.06
+        },
+        {
+          "word": "tu",
+          "start": 138.06,
+          "end": 138.46
+        },
+        {
+          "word": "pesar",
+          "start": 138.46,
+          "end": 139.16
+        },
+        {
+          "word": "a",
+          "start": 139.16,
+          "end": 139.62
+        },
+        {
+          "word": "Cristo,",
+          "start": 139.62,
+          "end": 141.62
+        }
+      ],
+      "start": 136.28,
+      "end": 142.5,
+      "confidence": 1.0,
+      "time": 136.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en las pruebas él te sostendrá.",
+      "words": [
+        {
+          "word": "en",
+          "start": 142.5,
+          "end": 142.62
+        },
+        {
+          "word": "las",
+          "start": 142.62,
+          "end": 142.98
+        },
+        {
+          "word": "pruebas",
+          "start": 142.98,
+          "end": 143.76
+        },
+        {
+          "word": "Él",
+          "start": 143.76,
+          "end": 144.18
+        },
+        {
+          "word": "te",
+          "start": 144.18,
+          "end": 144.68
+        },
+        {
+          "word": "sostendrá.",
+          "start": 144.68,
+          "end": 150.42
+        }
+      ],
+      "start": 142.5,
+      "end": 150.42,
+      "confidence": 1.0,
+      "time": 142.5
+    }
+  ]
+}

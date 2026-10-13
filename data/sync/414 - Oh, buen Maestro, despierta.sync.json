@@ -1,0 +1,1611 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.842,
+  "language": "es",
+  "model": "medium",
+  "hymn": 414,
+  "source": "414 - Oh, buen Maestro, despierta.mp3",
+  "duration": 253.99,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Oh, buen Maestro, despierta!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "maestro",
+          "start": 20.36,
+          "end": 21.36
+        },
+        {
+          "word": "despierta,",
+          "start": 21.36,
+          "end": 23.48
+        }
+      ],
+      "start": 20.36,
+      "end": 24.62,
+      "confidence": 0.5,
+      "time": 20.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡Ve, ruge la tempestad!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "la",
+          "start": 24.62,
+          "end": 24.92
+        },
+        {
+          "word": "tempestad",
+          "start": 24.92,
+          "end": 27.12
+        }
+      ],
+      "start": 24.62,
+      "end": 27.12,
+      "confidence": 0.5,
+      "time": 24.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡La gran extensión de los cielos se llena de oscuridad!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "La",
+          "start": 27.12,
+          "end": 27.84
+        },
+        {
+          "word": "gran",
+          "start": 27.84,
+          "end": 28.42
+        },
+        {
+          "word": "extensión",
+          "start": 28.42,
+          "end": 29.28
+        },
+        {
+          "word": "de",
+          "start": 29.28,
+          "end": 29.68
+        },
+        {
+          "word": "los",
+          "start": 29.68,
+          "end": 30.3
+        },
+        {
+          "word": "cielos",
+          "start": 30.3,
+          "end": 31.52
+        },
+        {
+          "word": "se",
+          "start": 31.52,
+          "end": 32.04
+        },
+        {
+          "word": "llena",
+          "start": 32.04,
+          "end": 32.54
+        },
+        {
+          "word": "de",
+          "start": 32.54,
+          "end": 32.96
+        },
+        {
+          "word": "oscuridad.",
+          "start": 32.96,
+          "end": 35.82
+        }
+      ],
+      "start": 27.12,
+      "end": 35.82,
+      "confidence": 1.0,
+      "time": 27.12
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿No ves que aquí perecemos? ¿Puedes dormir así",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 36.8,
+          "end": 37.1
+        },
+        {
+          "word": "aquí",
+          "start": 37.1,
+          "end": 37.7
+        },
+        {
+          "word": "perecemos,",
+          "start": 37.7,
+          "end": 39.8
+        },
+        {
+          "word": "puedes",
+          "start": 40.48,
+          "end": 40.84
+        },
+        {
+          "word": "dormir",
+          "start": 40.84,
+          "end": 41.86
+        },
+        {
+          "word": "así.",
+          "start": 41.86,
+          "end": 43.44
+        }
+      ],
+      "start": 36.8,
+      "end": 43.44,
+      "confidence": 0.75,
+      "time": 36.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "cuando el mar agitado nos abre profundo sepulcro aquí?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 43.84,
+          "end": 44.16
+        },
+        {
+          "word": "el",
+          "start": 44.16,
+          "end": 44.46
+        },
+        {
+          "word": "mar",
+          "start": 44.46,
+          "end": 44.76
+        },
+        {
+          "word": "agitado",
+          "start": 44.76,
+          "end": 45.86
+        },
+        {
+          "word": "nos",
+          "start": 45.86,
+          "end": 46.52
+        },
+        {
+          "word": "abre,",
+          "start": 46.52,
+          "end": 47.74
+        },
+        {
+          "word": "profundo",
+          "start": 48.34,
+          "end": 49.0
+        },
+        {
+          "word": "se",
+          "start": 49.0,
+          "end": 49.44
+        },
+        {
+          "word": "aquí.",
+          "start": 50.42,
+          "end": 51.82
+        }
+      ],
+      "start": 43.84,
+      "end": 51.82,
+      "confidence": 0.993,
+      "time": 43.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Los vientos, las ondas oirán tu voz: \"Haya paz\".",
+      "words": [
+        {
+          "word": "Los",
+          "start": 51.82,
+          "end": 52.66
+        },
+        {
+          "word": "ventos,",
+          "start": 52.66,
+          "end": 53.32
+        },
+        {
+          "word": "las",
+          "start": 53.38,
+          "end": 53.82
+        },
+        {
+          "word": "ondas",
+          "start": 53.82,
+          "end": 54.36
+        },
+        {
+          "word": "oirán",
+          "start": 54.36,
+          "end": 55.44
+        },
+        {
+          "word": "tu",
+          "start": 55.44,
+          "end": 55.94
+        },
+        {
+          "word": "voz,",
+          "start": 55.94,
+          "end": 56.68
+        },
+        {
+          "word": "vaya",
+          "start": 58.88,
+          "end": 59.7
+        },
+        {
+          "word": "paz.",
+          "start": 59.94,
+          "end": 60.58
+        }
+      ],
+      "start": 51.82,
+      "end": 60.58,
+      "confidence": 0.978,
+      "time": 51.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Calmas la iras del negro mar;",
+      "words": [
+        {
+          "word": "armas,",
+          "start": 61.46,
+          "end": 61.66
+        },
+        {
+          "word": "las",
+          "start": 61.88,
+          "end": 62.16
+        },
+        {
+          "word": "iras",
+          "start": 62.16,
+          "end": 62.62
+        },
+        {
+          "word": "del",
+          "start": 62.62,
+          "end": 62.94
+        },
+        {
+          "word": "negro",
+          "start": 62.94,
+          "end": 63.82
+        },
+        {
+          "word": "mal,",
+          "start": 63.82,
+          "end": 64.34
+        }
+      ],
+      "start": 61.46,
+      "end": 64.68,
+      "confidence": 0.919,
+      "time": 61.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "las luchas del alma las haces cesar,",
+      "words": [
+        {
+          "word": "las",
+          "start": 64.68,
+          "end": 65.02
+        },
+        {
+          "word": "luchas",
+          "start": 65.02,
+          "end": 65.76
+        },
+        {
+          "word": "del",
+          "start": 65.76,
+          "end": 66.08
+        },
+        {
+          "word": "alma",
+          "start": 66.08,
+          "end": 66.58
+        },
+        {
+          "word": "las",
+          "start": 66.58,
+          "end": 67.1
+        },
+        {
+          "word": "hace",
+          "start": 67.1,
+          "end": 67.64
+        },
+        {
+          "word": "cesar,",
+          "start": 67.64,
+          "end": 68.48
+        }
+      ],
+      "start": 64.68,
+      "end": 68.48,
+      "confidence": 0.991,
+      "time": 64.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y así la barquilla do va el Señor",
+      "words": [
+        {
+          "word": "y",
+          "start": 68.78,
+          "end": 69.06
+        },
+        {
+          "word": "así",
+          "start": 69.06,
+          "end": 69.4
+        },
+        {
+          "word": "la",
+          "start": 69.4,
+          "end": 69.78
+        },
+        {
+          "word": "va",
+          "start": 71.26,
+          "end": 71.66
+        },
+        {
+          "word": "el",
+          "start": 71.66,
+          "end": 71.88
+        },
+        {
+          "word": "Señor,",
+          "start": 71.88,
+          "end": 72.58
+        }
+      ],
+      "start": 68.78,
+      "end": 73.14,
+      "confidence": 0.75,
+      "time": 68.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "hundirse no puede en el mar traidor,",
+      "words": [
+        {
+          "word": "hundirse",
+          "start": 73.14,
+          "end": 73.8
+        },
+        {
+          "word": "no",
+          "start": 73.8,
+          "end": 74.26
+        },
+        {
+          "word": "puede",
+          "start": 74.26,
+          "end": 74.78
+        },
+        {
+          "word": "en",
+          "start": 74.78,
+          "end": 75.16
+        },
+        {
+          "word": "el",
+          "start": 75.16,
+          "end": 75.68
+        },
+        {
+          "word": "mal",
+          "start": 75.68,
+          "end": 76.02
+        },
+        {
+          "word": "traidor.",
+          "start": 76.02,
+          "end": 78.42
+        }
+      ],
+      "start": 73.14,
+      "end": 78.42,
+      "confidence": 0.971,
+      "time": 73.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Doquier se cumpla tu voluntad:",
+      "words": [
+        {
+          "word": "Do",
+          "start": 78.42,
+          "end": 79.32
+        },
+        {
+          "word": "se",
+          "start": 79.98,
+          "end": 80.38
+        },
+        {
+          "word": "cumpla",
+          "start": 80.38,
+          "end": 80.96
+        },
+        {
+          "word": "tu",
+          "start": 80.96,
+          "end": 81.5
+        },
+        {
+          "word": "voluntad,",
+          "start": 81.5,
+          "end": 83.42
+        }
+      ],
+      "start": 78.42,
+      "end": 83.42,
+      "confidence": 0.988,
+      "time": 78.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "\"Haya paz, haya paz\".",
+      "words": [
+        {
+          "word": "haya",
+          "start": 84.22,
+          "end": 84.4
+        },
+        {
+          "word": "paz,",
+          "start": 84.4,
+          "end": 85.46
+        },
+        {
+          "word": "haya",
+          "start": 86.14,
+          "end": 86.42
+        },
+        {
+          "word": "paz,",
+          "start": 86.42,
+          "end": 87.0
+        }
+      ],
+      "start": 84.22,
+      "end": 87.0,
+      "confidence": 1.0,
+      "time": 84.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Tu voz resuena en la inmensidad: \"Paz, haya paz\".",
+      "words": [
+        {
+          "word": "tu",
+          "start": 87.28,
+          "end": 87.56
+        },
+        {
+          "word": "voz",
+          "start": 87.56,
+          "end": 88.28
+        },
+        {
+          "word": "resuela",
+          "start": 88.28,
+          "end": 89.06
+        },
+        {
+          "word": "en",
+          "start": 89.06,
+          "end": 89.4
+        },
+        {
+          "word": "la",
+          "start": 89.4,
+          "end": 89.72
+        },
+        {
+          "word": "inmensidad,",
+          "start": 89.72,
+          "end": 91.3
+        },
+        {
+          "word": "paz,",
+          "start": 92.64,
+          "end": 92.8
+        },
+        {
+          "word": "haya",
+          "start": 93.38,
+          "end": 93.76
+        },
+        {
+          "word": "paz.",
+          "start": 93.76,
+          "end": 95.92
+        }
+      ],
+      "start": 87.28,
+      "end": 95.92,
+      "confidence": 0.99,
+      "time": 87.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Despavorido, oh Maestro, te busco con ansiedad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Desfavorido",
+          "start": 98.68,
+          "end": 99.96
+        },
+        {
+          "word": "maestro,",
+          "start": 99.96,
+          "end": 101.24
+        },
+        {
+          "word": "te",
+          "start": 101.44,
+          "end": 101.86
+        },
+        {
+          "word": "busco",
+          "start": 101.86,
+          "end": 102.5
+        },
+        {
+          "word": "con",
+          "start": 102.5,
+          "end": 103.14
+        },
+        {
+          "word": "ansiedad,",
+          "start": 103.14,
+          "end": 105.18
+        }
+      ],
+      "start": 98.68,
+      "end": 105.18,
+      "confidence": 0.849,
+      "time": 98.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Mi alma angustiada se abate;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 105.18,
+          "end": 106.04
+        },
+        {
+          "word": "alma",
+          "start": 106.04,
+          "end": 106.62
+        },
+        {
+          "word": "agusteada",
+          "start": 106.62,
+          "end": 107.58
+        },
+        {
+          "word": "se",
+          "start": 107.58,
+          "end": 107.96
+        },
+        {
+          "word": "abate,",
+          "start": 107.96,
+          "end": 109.46
+        }
+      ],
+      "start": 105.18,
+      "end": 109.92,
+      "confidence": 0.981,
+      "time": 105.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "arrecia la tempestad.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "arrecerá",
+          "start": 109.92,
+          "end": 111.02
+        },
+        {
+          "word": "la",
+          "start": 111.02,
+          "end": 111.62
+        },
+        {
+          "word": "tempestad.",
+          "start": 111.62,
+          "end": 114.06
+        }
+      ],
+      "start": 109.92,
+      "end": 114.06,
+      "confidence": 0.96,
+      "time": 109.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Pasa el pecado a torrentes sobre mi frágil ser,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Pasa",
+          "start": 114.18,
+          "end": 114.72
+        },
+        {
+          "word": "el",
+          "start": 114.72,
+          "end": 114.94
+        },
+        {
+          "word": "precado",
+          "start": 114.94,
+          "end": 115.7
+        },
+        {
+          "word": "a",
+          "start": 115.7,
+          "end": 116.0
+        },
+        {
+          "word": "frente",
+          "start": 116.26,
+          "end": 117.82
+        },
+        {
+          "word": "sobre",
+          "start": 117.82,
+          "end": 118.8
+        },
+        {
+          "word": "mi",
+          "start": 118.8,
+          "end": 119.24
+        },
+        {
+          "word": "frágil",
+          "start": 119.24,
+          "end": 120.22
+        },
+        {
+          "word": "ser,",
+          "start": 120.22,
+          "end": 121.52
+        }
+      ],
+      "start": 114.18,
+      "end": 121.52,
+      "confidence": 0.973,
+      "time": 114.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y perezco, perezco, Maestro,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 122.04,
+          "end": 122.26
+        },
+        {
+          "word": "perezco,",
+          "start": 122.26,
+          "end": 123.02
+        },
+        {
+          "word": "perezco,",
+          "start": 123.28,
+          "end": 124.12
+        },
+        {
+          "word": "maestro,",
+          "start": 124.14,
+          "end": 125.7
+        }
+      ],
+      "start": 122.04,
+      "end": 126.22,
+      "confidence": 1.0,
+      "time": 122.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "¡oh, quiéreme socorrer!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "o",
+          "start": 126.22,
+          "end": 126.42
+        },
+        {
+          "word": "quiere",
+          "start": 126.42,
+          "end": 126.98
+        },
+        {
+          "word": "correr.",
+          "start": 128.16,
+          "end": 129.52
+        }
+      ],
+      "start": 126.22,
+      "end": 129.52,
+      "confidence": 0.885,
+      "time": 126.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Los vientos, las ondas oirán tu voz: \"Haya paz\".",
+      "words": [
+        {
+          "word": "Los",
+          "start": 130.3,
+          "end": 130.6
+        },
+        {
+          "word": "vientos,",
+          "start": 130.6,
+          "end": 131.12
+        },
+        {
+          "word": "las",
+          "start": 131.22,
+          "end": 131.66
+        },
+        {
+          "word": "ondas",
+          "start": 131.66,
+          "end": 132.16
+        },
+        {
+          "word": "oiran",
+          "start": 132.16,
+          "end": 133.1
+        },
+        {
+          "word": "tu",
+          "start": 133.1,
+          "end": 133.58
+        },
+        {
+          "word": "voz,",
+          "start": 133.58,
+          "end": 134.28
+        },
+        {
+          "word": "vaya",
+          "start": 137.0,
+          "end": 137.62
+        },
+        {
+          "word": "paz,",
+          "start": 137.62,
+          "end": 138.46
+        }
+      ],
+      "start": 130.3,
+      "end": 138.88,
+      "confidence": 0.983,
+      "time": 130.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Calmas la iras del negro mar;",
+      "words": [
+        {
+          "word": "calmas",
+          "start": 138.88,
+          "end": 139.42
+        },
+        {
+          "word": "del",
+          "start": 140.42,
+          "end": 140.76
+        },
+        {
+          "word": "negro",
+          "start": 140.76,
+          "end": 141.64
+        },
+        {
+          "word": "mar,",
+          "start": 141.64,
+          "end": 142.18
+        }
+      ],
+      "start": 138.88,
+      "end": 142.5,
+      "confidence": 0.667,
+      "time": 138.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "las luchas del alma las haces cesar,",
+      "words": [
+        {
+          "word": "las",
+          "start": 142.5,
+          "end": 142.86
+        },
+        {
+          "word": "luchas",
+          "start": 142.86,
+          "end": 143.6
+        },
+        {
+          "word": "del",
+          "start": 143.6,
+          "end": 143.9
+        },
+        {
+          "word": "alma",
+          "start": 143.9,
+          "end": 144.42
+        },
+        {
+          "word": "las",
+          "start": 144.42,
+          "end": 144.9
+        },
+        {
+          "word": "hace",
+          "start": 144.9,
+          "end": 145.36
+        },
+        {
+          "word": "cesar,",
+          "start": 145.36,
+          "end": 146.26
+        }
+      ],
+      "start": 142.5,
+      "end": 146.58,
+      "confidence": 0.991,
+      "time": 142.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y así la barquilla do va el Señor",
+      "words": [
+        {
+          "word": "y",
+          "start": 146.58,
+          "end": 146.8
+        },
+        {
+          "word": "así",
+          "start": 146.8,
+          "end": 147.16
+        },
+        {
+          "word": "la",
+          "start": 147.16,
+          "end": 147.62
+        },
+        {
+          "word": "barquilla",
+          "start": 147.62,
+          "end": 148.56
+        },
+        {
+          "word": "el",
+          "start": 149.4,
+          "end": 149.7
+        },
+        {
+          "word": "Señor,",
+          "start": 149.7,
+          "end": 150.4
+        }
+      ],
+      "start": 146.58,
+      "end": 150.4,
+      "confidence": 0.75,
+      "time": 146.58
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "hundirse no puede en el mar traidor,",
+      "words": [
+        {
+          "word": "Undirse",
+          "start": 150.4,
+          "end": 151.68
+        },
+        {
+          "word": "no",
+          "start": 151.68,
+          "end": 152.08
+        },
+        {
+          "word": "puede",
+          "start": 152.08,
+          "end": 152.62
+        },
+        {
+          "word": "en",
+          "start": 152.62,
+          "end": 152.98
+        },
+        {
+          "word": "el",
+          "start": 152.98,
+          "end": 153.46
+        },
+        {
+          "word": "mal",
+          "start": 153.46,
+          "end": 153.84
+        },
+        {
+          "word": "traidor,",
+          "start": 153.84,
+          "end": 156.4
+        }
+      ],
+      "start": 150.4,
+      "end": 156.4,
+      "confidence": 0.966,
+      "time": 150.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Doquier se cumpla tu voluntad:",
+      "words": [
+        {
+          "word": "quiere",
+          "start": 157.26,
+          "end": 157.88
+        },
+        {
+          "word": "se",
+          "start": 157.88,
+          "end": 158.4
+        },
+        {
+          "word": "cumpla",
+          "start": 158.4,
+          "end": 158.86
+        },
+        {
+          "word": "tu",
+          "start": 158.86,
+          "end": 159.44
+        },
+        {
+          "word": "voluntad.",
+          "start": 159.44,
+          "end": 161.34
+        }
+      ],
+      "start": 157.26,
+      "end": 161.34,
+      "confidence": 0.972,
+      "time": 157.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "\"Haya paz, haya paz\".",
+      "words": [
+        {
+          "word": "Paz!",
+          "start": 162.38,
+          "end": 163.36
+        },
+        {
+          "word": "Paz!",
+          "start": 164.28,
+          "end": 164.9
+        }
+      ],
+      "start": 162.38,
+      "end": 164.9,
+      "confidence": 0.5,
+      "time": 162.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Tu voz resuena en la inmensidad: \"Paz, haya paz\".",
+      "words": [
+        {
+          "word": "Tu",
+          "start": 165.0,
+          "end": 165.46
+        },
+        {
+          "word": "voz",
+          "start": 165.46,
+          "end": 166.24
+        },
+        {
+          "word": "resuena",
+          "start": 166.24,
+          "end": 166.96
+        },
+        {
+          "word": "la",
+          "start": 166.96,
+          "end": 167.4
+        },
+        {
+          "word": "inmensidad.",
+          "start": 167.4,
+          "end": 169.16
+        },
+        {
+          "word": "Paz!",
+          "start": 171.38,
+          "end": 173.9
+        }
+      ],
+      "start": 165.0,
+      "end": 173.9,
+      "confidence": 0.667,
+      "time": 165.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Vino la calma, Maestro. Los vientos no rugen ya.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Vino",
+          "start": 174.28,
+          "end": 175.18
+        },
+        {
+          "word": "la",
+          "start": 175.18,
+          "end": 175.58
+        },
+        {
+          "word": "calma",
+          "start": 175.58,
+          "end": 176.22
+        },
+        {
+          "word": "maestro,",
+          "start": 176.22,
+          "end": 177.94
+        }
+      ],
+      "start": 174.28,
+      "end": 177.94,
+      "confidence": 0.444,
+      "time": 174.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Y sobre el cristal de las aguas el sol resplandecerá.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 181.16,
+          "end": 182.24
+        },
+        {
+          "word": "sobre",
+          "start": 182.24,
+          "end": 183.2
+        },
+        {
+          "word": "el",
+          "start": 183.2,
+          "end": 183.66
+        },
+        {
+          "word": "cristal",
+          "start": 183.66,
+          "end": 184.08
+        },
+        {
+          "word": "de",
+          "start": 184.08,
+          "end": 184.48
+        },
+        {
+          "word": "las",
+          "start": 184.48,
+          "end": 185.28
+        },
+        {
+          "word": "aguas,",
+          "start": 185.28,
+          "end": 186.4
+        },
+        {
+          "word": "el",
+          "start": 186.82,
+          "end": 186.84
+        },
+        {
+          "word": "sol",
+          "start": 186.84,
+          "end": 187.14
+        },
+        {
+          "word": "resplandecerá.",
+          "start": 187.14,
+          "end": 190.84
+        }
+      ],
+      "start": 181.16,
+      "end": 190.84,
+      "confidence": 1.0,
+      "time": 181.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Cristo, prolonga esta calma;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Cristo,",
+          "start": 191.16,
+          "end": 191.64
+        },
+        {
+          "word": "prolongue",
+          "start": 191.94,
+          "end": 192.54
+        },
+        {
+          "word": "hasta",
+          "start": 192.54,
+          "end": 192.94
+        }
+      ],
+      "start": 191.16,
+      "end": 195.02,
+      "confidence": 0.674,
+      "time": 191.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "no me abandones más;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "no",
+          "start": 195.02,
+          "end": 195.28
+        },
+        {
+          "word": "me",
+          "start": 195.28,
+          "end": 195.72
+        },
+        {
+          "word": "abandones",
+          "start": 195.72,
+          "end": 196.98
+        },
+        {
+          "word": "más,",
+          "start": 196.98,
+          "end": 198.46
+        }
+      ],
+      "start": 195.02,
+      "end": 198.46,
+      "confidence": 1.0,
+      "time": 195.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "cruzaré los abismos contigo al puerto de eterna paz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "cruzaré",
+          "start": 198.82,
+          "end": 199.54
+        },
+        {
+          "word": "los",
+          "start": 199.54,
+          "end": 199.92
+        },
+        {
+          "word": "abismos",
+          "start": 199.92,
+          "end": 200.74
+        },
+        {
+          "word": "contigo,",
+          "start": 200.74,
+          "end": 202.56
+        },
+        {
+          "word": "al",
+          "start": 203.0,
+          "end": 203.22
+        },
+        {
+          "word": "puerto",
+          "start": 203.22,
+          "end": 203.88
+        },
+        {
+          "word": "de",
+          "start": 203.88,
+          "end": 204.42
+        },
+        {
+          "word": "eterna",
+          "start": 204.42,
+          "end": 205.22
+        },
+        {
+          "word": "paz.",
+          "start": 205.22,
+          "end": 206.76
+        }
+      ],
+      "start": 198.82,
+      "end": 206.76,
+      "confidence": 1.0,
+      "time": 198.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Los vientos, las ondas oirán tu voz: \"Haya paz\".",
+      "words": [
+        {
+          "word": "Los",
+          "start": 206.76,
+          "end": 207.54
+        },
+        {
+          "word": "cientos",
+          "start": 207.54,
+          "end": 208.12
+        },
+        {
+          "word": "las",
+          "start": 208.44,
+          "end": 208.68
+        },
+        {
+          "word": "oirán",
+          "start": 209.14,
+          "end": 210.36
+        },
+        {
+          "word": "tu",
+          "start": 210.36,
+          "end": 210.76
+        },
+        {
+          "word": "voz.",
+          "start": 210.76,
+          "end": 211.64
+        },
+        {
+          "word": "ay,",
+          "start": 214.9,
+          "end": 215.5
+        }
+      ],
+      "start": 206.76,
+      "end": 215.5,
+      "confidence": 0.746,
+      "time": 206.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Calmas la iras del negro mar;",
+      "words": [
+        {
+          "word": "calmas",
+          "start": 216.18,
+          "end": 216.48
+        },
+        {
+          "word": "del",
+          "start": 217.4,
+          "end": 217.92
+        },
+        {
+          "word": "mal,",
+          "start": 218.68,
+          "end": 219.26
+        }
+      ],
+      "start": 216.18,
+      "end": 219.26,
+      "confidence": 0.467,
+      "time": 216.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "las luchas del alma las haces cesar,",
+      "words": [
+        {
+          "word": "las",
+          "start": 219.5,
+          "end": 219.88
+        },
+        {
+          "word": "luchas",
+          "start": 219.88,
+          "end": 220.64
+        },
+        {
+          "word": "del",
+          "start": 220.64,
+          "end": 220.98
+        },
+        {
+          "word": "alma",
+          "start": 220.98,
+          "end": 221.46
+        },
+        {
+          "word": "las",
+          "start": 221.46,
+          "end": 221.98
+        },
+        {
+          "word": "hace",
+          "start": 221.98,
+          "end": 222.5
+        },
+        {
+          "word": "cesar,",
+          "start": 222.5,
+          "end": 223.38
+        }
+      ],
+      "start": 219.5,
+      "end": 223.38,
+      "confidence": 0.991,
+      "time": 219.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "y así la barquilla do va el Señor",
+      "words": [
+        {
+          "word": "y",
+          "start": 223.64,
+          "end": 223.92
+        },
+        {
+          "word": "así",
+          "start": 223.92,
+          "end": 224.3
+        },
+        {
+          "word": "la",
+          "start": 224.3,
+          "end": 224.7
+        },
+        {
+          "word": "barquilla",
+          "start": 224.7,
+          "end": 225.68
+        },
+        {
+          "word": "va",
+          "start": 226.22,
+          "end": 226.58
+        },
+        {
+          "word": "el",
+          "start": 226.58,
+          "end": 226.82
+        },
+        {
+          "word": "Señor.",
+          "start": 226.82,
+          "end": 227.48
+        }
+      ],
+      "start": 223.64,
+      "end": 227.48,
+      "confidence": 0.875,
+      "time": 223.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "hundirse no puede en el mar traidor,",
+      "words": [
+        {
+          "word": "Cundirse",
+          "start": 228.04,
+          "end": 228.72
+        },
+        {
+          "word": "no",
+          "start": 228.72,
+          "end": 229.14
+        },
+        {
+          "word": "puede",
+          "start": 229.14,
+          "end": 229.68
+        },
+        {
+          "word": "en",
+          "start": 229.68,
+          "end": 230.04
+        },
+        {
+          "word": "el",
+          "start": 230.04,
+          "end": 230.5
+        },
+        {
+          "word": "mal",
+          "start": 230.5,
+          "end": 230.88
+        },
+        {
+          "word": "traidor.",
+          "start": 230.88,
+          "end": 233.32
+        }
+      ],
+      "start": 228.04,
+      "end": 233.32,
+      "confidence": 0.961,
+      "time": 228.04
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Doquier se cumpla tu voluntad:",
+      "words": [
+        {
+          "word": "que",
+          "start": 234.3,
+          "end": 234.92
+        },
+        {
+          "word": "se",
+          "start": 234.92,
+          "end": 235.3
+        },
+        {
+          "word": "cumpla",
+          "start": 235.3,
+          "end": 235.94
+        },
+        {
+          "word": "tu",
+          "start": 235.94,
+          "end": 236.5
+        },
+        {
+          "word": "voluntad,",
+          "start": 236.5,
+          "end": 238.32
+        }
+      ],
+      "start": 234.3,
+      "end": 238.32,
+      "confidence": 0.952,
+      "time": 234.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "\"Haya paz, haya paz\".",
+      "start": 238.32,
+      "end": 240.26,
+      "confidence": 0.0,
+      "time": 238.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Tu voz resuena en la inmensidad: \"Paz, haya paz\".",
+      "words": [
+        {
+          "word": "Tu",
+          "start": 242.2,
+          "end": 242.46
+        },
+        {
+          "word": "voz",
+          "start": 242.46,
+          "end": 243.18
+        },
+        {
+          "word": "resuena",
+          "start": 243.18,
+          "end": 244.06
+        },
+        {
+          "word": "la",
+          "start": 244.06,
+          "end": 244.46
+        },
+        {
+          "word": "invencibilidad,",
+          "start": 244.46,
+          "end": 245.82
+        }
+      ],
+      "start": 240.26,
+      "end": 242.2,
+      "confidence": 0.533,
+      "time": 240.26
+    }
+  ]
+}

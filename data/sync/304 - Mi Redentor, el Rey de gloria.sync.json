@@ -1,0 +1,1393 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.846,
+  "language": "es",
+  "model": "medium",
+  "hymn": 304,
+  "source": "304 - Mi Redentor, el Rey de gloria.mp3",
+  "duration": 275.7,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Mi Redentor, el Rey de gloria,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 16.78,
+          "end": 17.98
+        },
+        {
+          "word": "Redentor,",
+          "start": 17.98,
+          "end": 19.18
+        },
+        {
+          "word": "el",
+          "start": 19.34,
+          "end": 19.52
+        },
+        {
+          "word": "Rey",
+          "start": 19.52,
+          "end": 20.0
+        },
+        {
+          "word": "de",
+          "start": 20.0,
+          "end": 20.42
+        },
+        {
+          "word": "gloria,",
+          "start": 20.42,
+          "end": 22.32
+        }
+      ],
+      "start": 16.78,
+      "end": 22.72,
+      "confidence": 1.0,
+      "time": 16.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "que vive yo seguro estoy;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "que",
+          "start": 22.72,
+          "end": 23.56
+        },
+        {
+          "word": "vive",
+          "start": 23.56,
+          "end": 24.88
+        },
+        {
+          "word": "yos",
+          "start": 24.88,
+          "end": 25.52
+        },
+        {
+          "word": "es",
+          "start": 26.58,
+          "end": 27.16
+        }
+      ],
+      "start": 22.72,
+      "end": 28.36,
+      "confidence": 0.764,
+      "time": 22.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y da coronas de victoria;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 28.36,
+          "end": 29.74
+        },
+        {
+          "word": "coronas",
+          "start": 31.04,
+          "end": 32.18
+        },
+        {
+          "word": "de",
+          "start": 32.18,
+          "end": 32.84
+        },
+        {
+          "word": "victoria",
+          "start": 32.84,
+          "end": 35.1
+        }
+      ],
+      "start": 28.36,
+      "end": 37.3,
+      "confidence": 0.8,
+      "time": 28.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a recibir la mía voy.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "recibir",
+          "start": 37.3,
+          "end": 38.1
+        },
+        {
+          "word": "la",
+          "start": 38.1,
+          "end": 38.78
+        },
+        {
+          "word": "mía",
+          "start": 38.78,
+          "end": 39.66
+        }
+      ],
+      "start": 37.3,
+      "end": 41.66,
+      "confidence": 0.6,
+      "time": 37.3
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Que permanezca, no pidáis,",
+      "words": [
+        {
+          "word": "Que",
+          "start": 41.7,
+          "end": 42.8
+        },
+        {
+          "word": "permanezcan",
+          "start": 42.8,
+          "end": 45.78
+        },
+        {
+          "word": "opidades",
+          "start": 45.78,
+          "end": 47.74
+        }
+      ],
+      "start": 41.7,
+      "end": 47.74,
+      "confidence": 0.692,
+      "time": 41.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "entre el bullicio y el vaivén;",
+      "words": [
+        {
+          "word": "entre",
+          "start": 47.74,
+          "end": 49.32
+        },
+        {
+          "word": "el",
+          "start": 49.32,
+          "end": 49.72
+        },
+        {
+          "word": "policío",
+          "start": 49.72,
+          "end": 52.06
+        },
+        {
+          "word": "y",
+          "start": 52.06,
+          "end": 52.6
+        },
+        {
+          "word": "el",
+          "start": 52.6,
+          "end": 52.86
+        },
+        {
+          "word": "bailén,",
+          "start": 52.86,
+          "end": 54.22
+        }
+      ],
+      "start": 47.74,
+      "end": 54.22,
+      "confidence": 0.933,
+      "time": 47.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "el mundo hoy dejar quisiera,",
+      "words": [
+        {
+          "word": "el",
+          "start": 54.22,
+          "end": 55.26
+        },
+        {
+          "word": "mundo",
+          "start": 55.26,
+          "end": 56.88
+        },
+        {
+          "word": "ordejar",
+          "start": 56.88,
+          "end": 58.4
+        },
+        {
+          "word": "quisiera,",
+          "start": 58.4,
+          "end": 60.82
+        }
+      ],
+      "start": 54.22,
+      "end": 60.82,
+      "confidence": 0.78,
+      "time": 54.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "aun cuando fuese cual Edén.",
+      "words": [
+        {
+          "word": "aun",
+          "start": 61.68,
+          "end": 62.04
+        },
+        {
+          "word": "cuando",
+          "start": 62.04,
+          "end": 63.28
+        },
+        {
+          "word": "fuese",
+          "start": 63.28,
+          "end": 64.2
+        },
+        {
+          "word": "cual",
+          "start": 64.2,
+          "end": 64.96
+        },
+        {
+          "word": "dé,",
+          "start": 65.76,
+          "end": 66.82
+        }
+      ],
+      "start": 61.68,
+      "end": 66.82,
+      "confidence": 0.96,
+      "time": 61.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "El día, nada más, aguardo en",
+      "words": [
+        {
+          "word": "el",
+          "start": 67.64,
+          "end": 68.32
+        },
+        {
+          "word": "día",
+          "start": 68.32,
+          "end": 69.6
+        },
+        {
+          "word": "nada",
+          "start": 69.6,
+          "end": 70.36
+        },
+        {
+          "word": "más",
+          "start": 70.36,
+          "end": 71.14
+        },
+        {
+          "word": "aguanto",
+          "start": 71.14,
+          "end": 73.06
+        },
+        {
+          "word": "en",
+          "start": 73.06,
+          "end": 73.74
+        }
+      ],
+      "start": 67.64,
+      "end": 73.74,
+      "confidence": 0.971,
+      "time": 67.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "que el Rey me diga: \"Hijo, ven\".",
+      "words": [
+        {
+          "word": "que",
+          "start": 73.74,
+          "end": 74.42
+        },
+        {
+          "word": "el",
+          "start": 74.42,
+          "end": 74.82
+        },
+        {
+          "word": "Rey",
+          "start": 74.82,
+          "end": 75.54
+        },
+        {
+          "word": "me",
+          "start": 75.54,
+          "end": 76.22
+        },
+        {
+          "word": "diga",
+          "start": 76.22,
+          "end": 77.02
+        },
+        {
+          "word": "Hijo,",
+          "start": 77.02,
+          "end": 77.84
+        },
+        {
+          "word": "ven.",
+          "start": 79.64,
+          "end": 79.66
+        }
+      ],
+      "start": 73.74,
+      "end": 79.66,
+      "confidence": 1.0,
+      "time": 73.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En mi Señor Jesús confío,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 82.64,
+          "end": 84.04
+        },
+        {
+          "word": "mí,",
+          "start": 84.04,
+          "end": 85.38
+        },
+        {
+          "word": "Señor",
+          "start": 85.38,
+          "end": 86.12
+        },
+        {
+          "word": "Jesús,",
+          "start": 86.12,
+          "end": 87.12
+        },
+        {
+          "word": "confío",
+          "start": 87.36,
+          "end": 89.28
+        }
+      ],
+      "start": 82.64,
+      "end": 89.28,
+      "confidence": 1.0,
+      "time": 82.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "su sangre clama a mi favor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Su",
+          "start": 89.28,
+          "end": 90.42
+        },
+        {
+          "word": "sangre",
+          "start": 90.42,
+          "end": 91.96
+        },
+        {
+          "word": "clama",
+          "start": 91.96,
+          "end": 92.9
+        },
+        {
+          "word": "mi",
+          "start": 92.9,
+          "end": 93.56
+        },
+        {
+          "word": "favor",
+          "start": 93.56,
+          "end": 95.7
+        }
+      ],
+      "start": 89.28,
+      "end": 95.7,
+      "confidence": 0.833,
+      "time": 89.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "es dueño él de mi albedrío,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Es",
+          "start": 95.7,
+          "end": 97.18
+        },
+        {
+          "word": "bueno",
+          "start": 97.18,
+          "end": 98.42
+        },
+        {
+          "word": "el",
+          "start": 98.42,
+          "end": 99.1
+        },
+        {
+          "word": "de",
+          "start": 99.1,
+          "end": 99.48
+        },
+        {
+          "word": "mi",
+          "start": 99.48,
+          "end": 99.9
+        },
+        {
+          "word": "albedrío",
+          "start": 99.9,
+          "end": 102.24
+        }
+      ],
+      "start": 95.7,
+      "end": 102.24,
+      "confidence": 0.98,
+      "time": 95.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "estar con él es lo mejor.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Estar",
+          "start": 102.24,
+          "end": 104.56
+        },
+        {
+          "word": "con",
+          "start": 104.56,
+          "end": 105.14
+        },
+        {
+          "word": "Él",
+          "start": 105.14,
+          "end": 105.5
+        },
+        {
+          "word": "es",
+          "start": 105.5,
+          "end": 105.88
+        },
+        {
+          "word": "lo",
+          "start": 105.88,
+          "end": 106.5
+        },
+        {
+          "word": "mejor",
+          "start": 106.5,
+          "end": 108.34
+        }
+      ],
+      "start": 102.24,
+      "end": 108.34,
+      "confidence": 1.0,
+      "time": 102.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Que permanezca, no pidáis,",
+      "words": [
+        {
+          "word": "que",
+          "start": 108.34,
+          "end": 109.82
+        },
+        {
+          "word": "permanezcan",
+          "start": 109.82,
+          "end": 112.96
+        },
+        {
+          "word": "opidais",
+          "start": 112.96,
+          "end": 115.16
+        }
+      ],
+      "start": 108.34,
+      "end": 115.16,
+      "confidence": 0.723,
+      "time": 108.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "entre el bullicio y el vaivén;",
+      "words": [
+        {
+          "word": "entre",
+          "start": 115.16,
+          "end": 116.44
+        },
+        {
+          "word": "el",
+          "start": 116.44,
+          "end": 116.96
+        },
+        {
+          "word": "y",
+          "start": 119.34,
+          "end": 119.8
+        },
+        {
+          "word": "el",
+          "start": 119.8,
+          "end": 120.04
+        },
+        {
+          "word": "baivé",
+          "start": 120.04,
+          "end": 121.52
+        }
+      ],
+      "start": 115.16,
+      "end": 121.52,
+      "confidence": 0.806,
+      "time": 115.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "el mundo hoy dejar quisiera,",
+      "words": [
+        {
+          "word": "el",
+          "start": 121.52,
+          "end": 122.88
+        },
+        {
+          "word": "mundo",
+          "start": 122.88,
+          "end": 124.1
+        },
+        {
+          "word": "de",
+          "start": 124.66,
+          "end": 124.92
+        }
+      ],
+      "start": 121.52,
+      "end": 127.92,
+      "confidence": 0.588,
+      "time": 121.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "aun cuando fuese cual Edén.",
+      "words": [
+        {
+          "word": "aun",
+          "start": 127.92,
+          "end": 129.16
+        },
+        {
+          "word": "cuando",
+          "start": 129.16,
+          "end": 130.42
+        },
+        {
+          "word": "fueste",
+          "start": 130.42,
+          "end": 131.34
+        },
+        {
+          "word": "cual",
+          "start": 131.34,
+          "end": 132.1
+        }
+      ],
+      "start": 127.92,
+      "end": 134.32,
+      "confidence": 0.789,
+      "time": 127.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "El día, nada más, aguardo en",
+      "words": [
+        {
+          "word": "El",
+          "start": 134.32,
+          "end": 135.32
+        },
+        {
+          "word": "día",
+          "start": 135.32,
+          "end": 136.82
+        },
+        {
+          "word": "nada",
+          "start": 136.82,
+          "end": 137.54
+        },
+        {
+          "word": "más",
+          "start": 137.54,
+          "end": 138.32
+        },
+        {
+          "word": "aguardo",
+          "start": 138.32,
+          "end": 140.16
+        },
+        {
+          "word": "en",
+          "start": 140.16,
+          "end": 141.04
+        }
+      ],
+      "start": 134.32,
+      "end": 141.04,
+      "confidence": 1.0,
+      "time": 134.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "que el Rey me diga: \"Hijo, ven\".",
+      "words": [
+        {
+          "word": "que",
+          "start": 141.04,
+          "end": 141.7
+        },
+        {
+          "word": "el",
+          "start": 141.7,
+          "end": 142.38
+        },
+        {
+          "word": "rey",
+          "start": 142.38,
+          "end": 142.86
+        },
+        {
+          "word": "me",
+          "start": 142.86,
+          "end": 143.48
+        },
+        {
+          "word": "diga,",
+          "start": 143.48,
+          "end": 144.22
+        },
+        {
+          "word": "hijo,",
+          "start": 144.76,
+          "end": 145.1
+        },
+        {
+          "word": "ven.",
+          "start": 146.5,
+          "end": 146.8
+        }
+      ],
+      "start": 141.04,
+      "end": 146.8,
+      "confidence": 1.0,
+      "time": 141.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "De tanto amor me maravillo,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "De",
+          "start": 147.56,
+          "end": 148.4
+        },
+        {
+          "word": "tanto",
+          "start": 148.4,
+          "end": 149.42
+        },
+        {
+          "word": "amor",
+          "start": 149.42,
+          "end": 150.0
+        },
+        {
+          "word": "me",
+          "start": 150.0,
+          "end": 150.44
+        }
+      ],
+      "start": 147.56,
+      "end": 152.82,
+      "confidence": 0.8,
+      "time": 147.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "y no me canso de cantar;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 152.82,
+          "end": 154.0
+        },
+        {
+          "word": "no",
+          "start": 154.0,
+          "end": 155.1
+        },
+        {
+          "word": "me",
+          "start": 155.1,
+          "end": 155.68
+        },
+        {
+          "word": "canso",
+          "start": 155.68,
+          "end": 156.28
+        },
+        {
+          "word": "de",
+          "start": 156.28,
+          "end": 156.96
+        },
+        {
+          "word": "cantar.",
+          "start": 156.96,
+          "end": 158.92
+        }
+      ],
+      "start": 152.82,
+      "end": 158.92,
+      "confidence": 1.0,
+      "time": 152.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "me libertó de mi peligro,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Me",
+          "start": 158.92,
+          "end": 159.82
+        },
+        {
+          "word": "libertó",
+          "start": 159.82,
+          "end": 161.78
+        },
+        {
+          "word": "de",
+          "start": 161.78,
+          "end": 162.16
+        },
+        {
+          "word": "mi",
+          "start": 162.16,
+          "end": 162.66
+        },
+        {
+          "word": "peligro,",
+          "start": 162.66,
+          "end": 164.8
+        }
+      ],
+      "start": 158.92,
+      "end": 165.62,
+      "confidence": 1.0,
+      "time": 158.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "sufriendo todo en mi lugar.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "sufriendo",
+          "start": 165.62,
+          "end": 167.14
+        },
+        {
+          "word": "todo",
+          "start": 167.14,
+          "end": 167.7
+        },
+        {
+          "word": "en",
+          "start": 167.7,
+          "end": 168.22
+        },
+        {
+          "word": "mi",
+          "start": 168.22,
+          "end": 168.58
+        },
+        {
+          "word": "lugar.",
+          "start": 168.58,
+          "end": 170.32
+        }
+      ],
+      "start": 165.62,
+      "end": 170.32,
+      "confidence": 1.0,
+      "time": 165.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Que permanezca, no pidáis,",
+      "words": [
+        {
+          "word": "Que",
+          "start": 170.92,
+          "end": 171.9
+        },
+        {
+          "word": "permanezcan",
+          "start": 171.9,
+          "end": 174.58
+        }
+      ],
+      "start": 170.92,
+      "end": 176.44,
+      "confidence": 0.485,
+      "time": 170.92
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "entre el bullicio y el vaivén;",
+      "words": [
+        {
+          "word": "entre",
+          "start": 176.44,
+          "end": 177.8
+        },
+        {
+          "word": "el",
+          "start": 177.8,
+          "end": 178.18
+        },
+        {
+          "word": "bullicio",
+          "start": 178.18,
+          "end": 179.9
+        },
+        {
+          "word": "y",
+          "start": 179.9,
+          "end": 180.62
+        },
+        {
+          "word": "el",
+          "start": 180.62,
+          "end": 180.9
+        },
+        {
+          "word": "vaivén.",
+          "start": 180.9,
+          "end": 182.24
+        }
+      ],
+      "start": 176.44,
+      "end": 182.24,
+      "confidence": 1.0,
+      "time": 176.44
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "el mundo hoy dejar quisiera,",
+      "words": [
+        {
+          "word": "El",
+          "start": 182.24,
+          "end": 183.3
+        },
+        {
+          "word": "mundo",
+          "start": 183.3,
+          "end": 184.66
+        },
+        {
+          "word": "hoy",
+          "start": 184.66,
+          "end": 185.22
+        },
+        {
+          "word": "de",
+          "start": 185.22,
+          "end": 185.7
+        },
+        {
+          "word": "quisiera,",
+          "start": 186.06,
+          "end": 188.28
+        }
+      ],
+      "start": 182.24,
+      "end": 188.28,
+      "confidence": 0.988,
+      "time": 182.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "aun cuando fuese cual Edén.",
+      "words": [
+        {
+          "word": "Aún",
+          "start": 189.06,
+          "end": 189.54
+        },
+        {
+          "word": "cuando",
+          "start": 189.54,
+          "end": 190.54
+        },
+        {
+          "word": "fuese",
+          "start": 190.54,
+          "end": 191.4
+        },
+        {
+          "word": "cual",
+          "start": 191.4,
+          "end": 192.0
+        },
+        {
+          "word": "dé.",
+          "start": 192.84,
+          "end": 193.64
+        }
+      ],
+      "start": 189.06,
+      "end": 193.64,
+      "confidence": 0.96,
+      "time": 189.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "El día, nada más, aguardo en",
+      "words": [
+        {
+          "word": "El",
+          "start": 194.38,
+          "end": 195.22
+        },
+        {
+          "word": "día",
+          "start": 195.22,
+          "end": 196.4
+        },
+        {
+          "word": "nada",
+          "start": 196.4,
+          "end": 197.16
+        },
+        {
+          "word": "más",
+          "start": 197.16,
+          "end": 197.84
+        },
+        {
+          "word": "aparto",
+          "start": 197.84,
+          "end": 199.72
+        },
+        {
+          "word": "en",
+          "start": 199.72,
+          "end": 200.32
+        }
+      ],
+      "start": 194.38,
+      "end": 200.32,
+      "confidence": 0.962,
+      "time": 194.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "que el Rey me diga: \"Hijo, ven\".",
+      "words": [
+        {
+          "word": "que",
+          "start": 200.32,
+          "end": 200.9
+        },
+        {
+          "word": "Me",
+          "start": 202.14,
+          "end": 202.56
+        },
+        {
+          "word": "diga",
+          "start": 202.56,
+          "end": 203.32
+        },
+        {
+          "word": "ves.",
+          "start": 204.16,
+          "end": 205.52
+        }
+      ],
+      "start": 200.32,
+      "end": 205.52,
+      "confidence": 0.543,
+      "time": 200.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Consuélome en su larga ausencia",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Consuelo",
+          "start": 209.76,
+          "end": 211.16
+        },
+        {
+          "word": "la",
+          "start": 212.32,
+          "end": 212.6
+        },
+        {
+          "word": "ausencia,",
+          "start": 212.6,
+          "end": 214.52
+        }
+      ],
+      "start": 209.76,
+      "end": 215.22,
+      "confidence": 0.576,
+      "time": 209.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "pensando: Pronto volverá;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "pensando",
+          "start": 215.22,
+          "end": 216.5
+        },
+        {
+          "word": "pronto",
+          "start": 216.5,
+          "end": 217.54
+        },
+        {
+          "word": "volverá.",
+          "start": 217.54,
+          "end": 220.14
+        }
+      ],
+      "start": 215.22,
+      "end": 220.14,
+      "confidence": 1.0,
+      "time": 215.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "entonces su gloriosa herencia",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Entonces",
+          "start": 220.14,
+          "end": 222.68
+        },
+        {
+          "word": "su",
+          "start": 222.68,
+          "end": 223.28
+        },
+        {
+          "word": "gloriosa",
+          "start": 223.28,
+          "end": 224.32
+        },
+        {
+          "word": "herencia",
+          "start": 224.32,
+          "end": 226.28
+        }
+      ],
+      "start": 220.14,
+      "end": 226.28,
+      "confidence": 1.0,
+      "time": 220.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "a cada fiel Jesús dará.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "a",
+          "start": 226.28,
+          "end": 227.44
+        },
+        {
+          "word": "cada",
+          "start": 227.44,
+          "end": 228.62
+        },
+        {
+          "word": "fe",
+          "start": 228.62,
+          "end": 229.02
+        }
+      ],
+      "start": 226.28,
+      "end": 231.84,
+      "confidence": 0.56,
+      "time": 226.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Que permanezca, no pidáis,",
+      "words": [
+        {
+          "word": "Que",
+          "start": 231.84,
+          "end": 233.22
+        },
+        {
+          "word": "permanezcan",
+          "start": 233.22,
+          "end": 235.96
+        }
+      ],
+      "start": 231.84,
+      "end": 237.98,
+      "confidence": 0.485,
+      "time": 231.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "entre el bullicio y el vaivén;",
+      "words": [
+        {
+          "word": "entre",
+          "start": 237.98,
+          "end": 239.12
+        },
+        {
+          "word": "el",
+          "start": 239.12,
+          "end": 239.54
+        },
+        {
+          "word": "bullicio",
+          "start": 239.54,
+          "end": 241.28
+        },
+        {
+          "word": "y",
+          "start": 241.28,
+          "end": 242.1
+        },
+        {
+          "word": "el",
+          "start": 242.1,
+          "end": 242.4
+        }
+      ],
+      "start": 237.98,
+      "end": 243.6,
+      "confidence": 0.833,
+      "time": 237.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "el mundo hoy dejar quisiera,",
+      "words": [
+        {
+          "word": "El",
+          "start": 243.6,
+          "end": 244.92
+        },
+        {
+          "word": "mundo",
+          "start": 244.92,
+          "end": 246.18
+        },
+        {
+          "word": "hoy",
+          "start": 246.18,
+          "end": 246.72
+        },
+        {
+          "word": "de",
+          "start": 246.72,
+          "end": 247.2
+        },
+        {
+          "word": "carquisera,",
+          "start": 247.2,
+          "end": 249.68
+        }
+      ],
+      "start": 243.6,
+      "end": 249.68,
+      "confidence": 0.961,
+      "time": 243.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "aun cuando fuese cual Edén.",
+      "words": [
+        {
+          "word": "Aún",
+          "start": 250.52,
+          "end": 251.0
+        },
+        {
+          "word": "cuando",
+          "start": 251.0,
+          "end": 252.02
+        },
+        {
+          "word": "de",
+          "start": 252.7,
+          "end": 253.12
+        }
+      ],
+      "start": 250.52,
+      "end": 255.32,
+      "confidence": 0.56,
+      "time": 250.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "El día, nada más, aguardo en",
+      "words": [
+        {
+          "word": "El",
+          "start": 256.1,
+          "end": 256.58
+        },
+        {
+          "word": "día",
+          "start": 256.58,
+          "end": 257.82
+        },
+        {
+          "word": "nada",
+          "start": 257.82,
+          "end": 258.66
+        },
+        {
+          "word": "más",
+          "start": 258.66,
+          "end": 259.3
+        },
+        {
+          "word": "aguanto",
+          "start": 259.3,
+          "end": 260.94
+        },
+        {
+          "word": "En",
+          "start": 260.94,
+          "end": 261.68
+        }
+      ],
+      "start": 256.1,
+      "end": 261.68,
+      "confidence": 0.971,
+      "time": 256.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "que el Rey me diga: \"Hijo, ven\".",
+      "words": [
+        {
+          "word": "que",
+          "start": 261.68,
+          "end": 262.18
+        },
+        {
+          "word": "el",
+          "start": 262.18,
+          "end": 262.64
+        },
+        {
+          "word": "Rey",
+          "start": 262.64,
+          "end": 263.34
+        },
+        {
+          "word": "pedida",
+          "start": 263.34,
+          "end": 264.74
+        },
+        {
+          "word": "ver",
+          "start": 275.5,
+          "end": 275.52
+        }
+      ],
+      "start": 261.68,
+      "end": 275.54,
+      "confidence": 0.651,
+      "time": 261.68
+    }
+  ]
+}

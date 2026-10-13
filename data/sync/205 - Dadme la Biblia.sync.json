@@ -1,0 +1,1340 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.964,
+  "language": "es",
+  "model": "medium",
+  "hymn": 205,
+  "source": "205 - Dadme la Biblia.mp3",
+  "duration": 185.55,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Dadme la Biblia, reluciente estrella,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Biblia",
+          "start": 12.76,
+          "end": 13.94
+        },
+        {
+          "word": "reluciente",
+          "start": 13.94,
+          "end": 15.16
+        },
+        {
+          "word": "estrella,",
+          "start": 15.16,
+          "end": 16.44
+        }
+      ],
+      "start": 12.76,
+      "end": 16.44,
+      "confidence": 0.6,
+      "time": 12.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "norte del nauta en tormentoso mar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "morte",
+          "start": 16.64,
+          "end": 17.5
+        },
+        {
+          "word": "del",
+          "start": 17.5,
+          "end": 18.04
+        },
+        {
+          "word": "auta",
+          "start": 18.04,
+          "end": 18.98
+        },
+        {
+          "word": "en",
+          "start": 18.98,
+          "end": 19.3
+        },
+        {
+          "word": "tormento",
+          "start": 19.3,
+          "end": 20.4
+        },
+        {
+          "word": "somar.",
+          "start": 20.4,
+          "end": 21.5
+        }
+      ],
+      "start": 16.64,
+      "end": 21.5,
+      "confidence": 0.934,
+      "time": 16.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "nunca el nublado esconderá su brillo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Nunca",
+          "start": 21.7,
+          "end": 22.82
+        },
+        {
+          "word": "el",
+          "start": 22.82,
+          "end": 23.0
+        },
+        {
+          "word": "nublado",
+          "start": 23.0,
+          "end": 24.12
+        },
+        {
+          "word": "escondera",
+          "start": 24.12,
+          "end": 25.44
+        },
+        {
+          "word": "su",
+          "start": 25.44,
+          "end": 25.86
+        },
+        {
+          "word": "brillo,",
+          "start": 25.86,
+          "end": 26.98
+        }
+      ],
+      "start": 21.7,
+      "end": 26.98,
+      "confidence": 1.0,
+      "time": 21.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues las tinieblas puede disipar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "pues",
+          "start": 26.98,
+          "end": 27.74
+        },
+        {
+          "word": "las",
+          "start": 27.74,
+          "end": 28.34
+        },
+        {
+          "word": "inieblas",
+          "start": 28.34,
+          "end": 29.8
+        },
+        {
+          "word": "puede",
+          "start": 29.8,
+          "end": 30.46
+        },
+        {
+          "word": "disipar.",
+          "start": 30.46,
+          "end": 32.48
+        }
+      ],
+      "start": 26.98,
+      "end": 32.48,
+      "confidence": 0.993,
+      "time": 26.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Dadme la Biblia, santa y clara nueva,",
+      "words": [
+        {
+          "word": "Dadme",
+          "start": 32.98,
+          "end": 33.52
+        },
+        {
+          "word": "la",
+          "start": 33.52,
+          "end": 34.08
+        },
+        {
+          "word": "Biblia,",
+          "start": 34.08,
+          "end": 35.0
+        },
+        {
+          "word": "santa",
+          "start": 35.06,
+          "end": 35.58
+        },
+        {
+          "word": "y",
+          "start": 35.58,
+          "end": 35.8
+        },
+        {
+          "word": "clara",
+          "start": 35.8,
+          "end": 36.3
+        },
+        {
+          "word": "nueva,",
+          "start": 36.3,
+          "end": 37.38
+        }
+      ],
+      "start": 32.98,
+      "end": 37.38,
+      "confidence": 1.0,
+      "time": 32.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "luz del camino angosto y celestial;",
+      "words": [
+        {
+          "word": "luz",
+          "start": 38.06,
+          "end": 38.32
+        },
+        {
+          "word": "del",
+          "start": 38.32,
+          "end": 38.7
+        },
+        {
+          "word": "camino",
+          "start": 38.7,
+          "end": 39.9
+        },
+        {
+          "word": "angosto",
+          "start": 39.9,
+          "end": 40.88
+        },
+        {
+          "word": "y",
+          "start": 40.88,
+          "end": 41.2
+        },
+        {
+          "word": "celestial,",
+          "start": 41.2,
+          "end": 42.42
+        }
+      ],
+      "start": 38.06,
+      "end": 42.42,
+      "confidence": 1.0,
+      "time": 38.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "regla y promesa, ley y amor unidos",
+      "words": [
+        {
+          "word": "regra",
+          "start": 43.72,
+          "end": 43.84
+        },
+        {
+          "word": "y",
+          "start": 43.84,
+          "end": 44.1
+        },
+        {
+          "word": "promesa,",
+          "start": 44.1,
+          "end": 45.4
+        },
+        {
+          "word": "ley",
+          "start": 46.0,
+          "end": 46.02
+        },
+        {
+          "word": "y",
+          "start": 46.02,
+          "end": 46.38
+        },
+        {
+          "word": "amor",
+          "start": 46.38,
+          "end": 46.76
+        },
+        {
+          "word": "unidos,",
+          "start": 46.76,
+          "end": 48.06
+        }
+      ],
+      "start": 43.72,
+      "end": 48.06,
+      "confidence": 0.983,
+      "time": 43.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "hasta que rompa el alba eternal.",
+      "words": [
+        {
+          "word": "hasta",
+          "start": 48.58,
+          "end": 49.2
+        },
+        {
+          "word": "que",
+          "start": 49.2,
+          "end": 49.64
+        },
+        {
+          "word": "rompa",
+          "start": 49.64,
+          "end": 50.74
+        },
+        {
+          "word": "el",
+          "start": 50.74,
+          "end": 51.08
+        },
+        {
+          "word": "alda",
+          "start": 51.08,
+          "end": 51.8
+        },
+        {
+          "word": "eternal.",
+          "start": 51.8,
+          "end": 53.3
+        }
+      ],
+      "start": 48.58,
+      "end": 53.3,
+      "confidence": 0.975,
+      "time": 48.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Dadme la Biblia, en mi desaliento,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Dadme",
+          "start": 53.3,
+          "end": 55.14
+        },
+        {
+          "word": "la",
+          "start": 55.14,
+          "end": 55.7
+        },
+        {
+          "word": "Biblia",
+          "start": 55.7,
+          "end": 56.66
+        },
+        {
+          "word": "en",
+          "start": 56.66,
+          "end": 57.06
+        },
+        {
+          "word": "mi",
+          "start": 57.06,
+          "end": 57.44
+        },
+        {
+          "word": "desaliento,",
+          "start": 57.44,
+          "end": 59.22
+        }
+      ],
+      "start": 53.3,
+      "end": 59.48,
+      "confidence": 1.0,
+      "time": 53.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "cuando el pecado cáuseme temor;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "cuando",
+          "start": 59.48,
+          "end": 60.08
+        },
+        {
+          "word": "el",
+          "start": 60.08,
+          "end": 60.46
+        },
+        {
+          "word": "pecado",
+          "start": 60.46,
+          "end": 61.92
+        },
+        {
+          "word": "cause",
+          "start": 61.92,
+          "end": 62.52
+        },
+        {
+          "word": "temor.",
+          "start": 62.96,
+          "end": 64.36
+        }
+      ],
+      "start": 59.48,
+      "end": 64.36,
+      "confidence": 0.988,
+      "time": 59.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "dadme los fieles dichos del Maestro;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Dadme",
+          "start": 64.98,
+          "end": 65.62
+        },
+        {
+          "word": "los",
+          "start": 65.62,
+          "end": 66.12
+        },
+        {
+          "word": "pies",
+          "start": 66.12,
+          "end": 67.22
+        },
+        {
+          "word": "dichos",
+          "start": 67.22,
+          "end": 67.92
+        },
+        {
+          "word": "del",
+          "start": 67.92,
+          "end": 68.22
+        },
+        {
+          "word": "Maestro,",
+          "start": 68.22,
+          "end": 69.72
+        }
+      ],
+      "start": 64.98,
+      "end": 69.98,
+      "confidence": 0.96,
+      "time": 64.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "siempre me encuentre junto al Salvador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "siempre",
+          "start": 69.98,
+          "end": 70.82
+        },
+        {
+          "word": "me",
+          "start": 70.82,
+          "end": 71.28
+        },
+        {
+          "word": "encuentre",
+          "start": 71.28,
+          "end": 72.5
+        },
+        {
+          "word": "junto",
+          "start": 72.5,
+          "end": 73.02
+        },
+        {
+          "word": "al",
+          "start": 73.02,
+          "end": 73.28
+        },
+        {
+          "word": "Salvador.",
+          "start": 73.28,
+          "end": 74.62
+        }
+      ],
+      "start": 69.98,
+      "end": 74.62,
+      "confidence": 1.0,
+      "time": 69.98
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Dadme la Biblia, santa y clara nueva,",
+      "words": [
+        {
+          "word": "Dadme",
+          "start": 74.62,
+          "end": 76.28
+        },
+        {
+          "word": "la",
+          "start": 76.28,
+          "end": 76.62
+        },
+        {
+          "word": "Biblia,",
+          "start": 76.62,
+          "end": 77.8
+        },
+        {
+          "word": "santa",
+          "start": 77.84,
+          "end": 78.36
+        },
+        {
+          "word": "y",
+          "start": 78.36,
+          "end": 78.66
+        },
+        {
+          "word": "clara",
+          "start": 78.66,
+          "end": 79.1
+        },
+        {
+          "word": "nueva,",
+          "start": 79.4,
+          "end": 80.22
+        }
+      ],
+      "start": 74.62,
+      "end": 80.84,
+      "confidence": 1.0,
+      "time": 74.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "luz del camino angosto y celestial;",
+      "words": [
+        {
+          "word": "luz",
+          "start": 80.84,
+          "end": 81.12
+        },
+        {
+          "word": "del",
+          "start": 81.12,
+          "end": 81.46
+        },
+        {
+          "word": "camino",
+          "start": 81.46,
+          "end": 82.74
+        },
+        {
+          "word": "angosto",
+          "start": 82.74,
+          "end": 83.6
+        },
+        {
+          "word": "y",
+          "start": 83.6,
+          "end": 83.92
+        },
+        {
+          "word": "celestial,",
+          "start": 83.92,
+          "end": 85.24
+        }
+      ],
+      "start": 80.84,
+      "end": 85.24,
+      "confidence": 1.0,
+      "time": 80.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "regla y promesa, ley y amor unidos",
+      "words": [
+        {
+          "word": "regla",
+          "start": 86.28,
+          "end": 86.68
+        },
+        {
+          "word": "y",
+          "start": 86.68,
+          "end": 86.9
+        },
+        {
+          "word": "promesa,",
+          "start": 86.9,
+          "end": 88.16
+        },
+        {
+          "word": "ley",
+          "start": 88.78,
+          "end": 88.8
+        },
+        {
+          "word": "y",
+          "start": 88.8,
+          "end": 89.1
+        },
+        {
+          "word": "amor",
+          "start": 89.1,
+          "end": 89.5
+        },
+        {
+          "word": "unidos",
+          "start": 89.5,
+          "end": 90.8
+        }
+      ],
+      "start": 86.28,
+      "end": 90.8,
+      "confidence": 1.0,
+      "time": 86.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "hasta que rompa el alba eternal.",
+      "words": [
+        {
+          "word": "hasta",
+          "start": 90.8,
+          "end": 92.02
+        },
+        {
+          "word": "que",
+          "start": 92.02,
+          "end": 92.5
+        },
+        {
+          "word": "alba",
+          "start": 94.0,
+          "end": 94.6
+        },
+        {
+          "word": "eterna.",
+          "start": 94.6,
+          "end": 96.16
+        }
+      ],
+      "start": 90.8,
+      "end": 96.16,
+      "confidence": 0.657,
+      "time": 90.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Dadme la Biblia, antorcha a mis pisadas",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Dadme",
+          "start": 96.16,
+          "end": 97.9
+        },
+        {
+          "word": "la",
+          "start": 97.9,
+          "end": 98.3
+        },
+        {
+          "word": "Biblia,",
+          "start": 98.3,
+          "end": 99.3
+        },
+        {
+          "word": "antocha",
+          "start": 99.32,
+          "end": 100.02
+        },
+        {
+          "word": "mis",
+          "start": 100.02,
+          "end": 100.4
+        },
+        {
+          "word": "pisadas,",
+          "start": 100.4,
+          "end": 101.78
+        }
+      ],
+      "start": 96.16,
+      "end": 102.4,
+      "confidence": 0.851,
+      "time": 96.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "en la insegura senda terrenal;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "en",
+          "start": 102.4,
+          "end": 102.78
+        },
+        {
+          "word": "la",
+          "start": 102.78,
+          "end": 103.04
+        },
+        {
+          "word": "insegura",
+          "start": 103.04,
+          "end": 104.66
+        },
+        {
+          "word": "senda",
+          "start": 104.66,
+          "end": 105.38
+        },
+        {
+          "word": "terrenal,",
+          "start": 105.38,
+          "end": 106.96
+        }
+      ],
+      "start": 102.4,
+      "end": 106.96,
+      "confidence": 1.0,
+      "time": 102.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "única luz constante en las tinieblas;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "única",
+          "start": 107.86,
+          "end": 108.46
+        },
+        {
+          "word": "luz",
+          "start": 108.46,
+          "end": 109.34
+        },
+        {
+          "word": "constante",
+          "start": 109.34,
+          "end": 110.36
+        },
+        {
+          "word": "en",
+          "start": 110.36,
+          "end": 110.76
+        },
+        {
+          "word": "las",
+          "start": 110.76,
+          "end": 111.16
+        },
+        {
+          "word": "dinieblas,",
+          "start": 111.16,
+          "end": 112.54
+        }
+      ],
+      "start": 107.86,
+      "end": 112.72,
+      "confidence": 0.989,
+      "time": 107.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "prenda de paz y amparo celestial.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "renda",
+          "start": 112.72,
+          "end": 113.66
+        },
+        {
+          "word": "de",
+          "start": 113.66,
+          "end": 114.12
+        },
+        {
+          "word": "paz",
+          "start": 114.12,
+          "end": 114.7
+        },
+        {
+          "word": "y",
+          "start": 114.7,
+          "end": 115.2
+        },
+        {
+          "word": "amparo",
+          "start": 115.2,
+          "end": 116.02
+        },
+        {
+          "word": "celestial.",
+          "start": 116.02,
+          "end": 116.94
+        }
+      ],
+      "start": 112.72,
+      "end": 116.94,
+      "confidence": 0.991,
+      "time": 112.72
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Dadme la Biblia, santa y clara nueva,",
+      "words": [
+        {
+          "word": "Dadme",
+          "start": 118.0,
+          "end": 119.0
+        },
+        {
+          "word": "la",
+          "start": 119.0,
+          "end": 119.44
+        },
+        {
+          "word": "Biblia,",
+          "start": 119.44,
+          "end": 120.56
+        },
+        {
+          "word": "santa",
+          "start": 120.6,
+          "end": 121.1
+        },
+        {
+          "word": "y",
+          "start": 121.1,
+          "end": 121.4
+        },
+        {
+          "word": "clara",
+          "start": 121.4,
+          "end": 121.88
+        },
+        {
+          "word": "nueva,",
+          "start": 121.88,
+          "end": 122.92
+        }
+      ],
+      "start": 118.0,
+      "end": 123.6,
+      "confidence": 1.0,
+      "time": 118.0
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "luz del camino angosto y celestial;",
+      "words": [
+        {
+          "word": "luz",
+          "start": 123.6,
+          "end": 123.8
+        },
+        {
+          "word": "del",
+          "start": 123.8,
+          "end": 124.16
+        },
+        {
+          "word": "camino",
+          "start": 124.16,
+          "end": 125.4
+        },
+        {
+          "word": "angosto",
+          "start": 125.4,
+          "end": 126.28
+        },
+        {
+          "word": "y",
+          "start": 126.28,
+          "end": 126.64
+        },
+        {
+          "word": "celestial,",
+          "start": 126.64,
+          "end": 127.94
+        }
+      ],
+      "start": 123.6,
+      "end": 127.94,
+      "confidence": 1.0,
+      "time": 123.6
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "regla y promesa, ley y amor unidos",
+      "words": [
+        {
+          "word": "regra",
+          "start": 128.8,
+          "end": 129.26
+        },
+        {
+          "word": "y",
+          "start": 129.26,
+          "end": 129.52
+        },
+        {
+          "word": "promesa,",
+          "start": 129.52,
+          "end": 130.86
+        },
+        {
+          "word": "ley",
+          "start": 131.18,
+          "end": 131.5
+        },
+        {
+          "word": "y",
+          "start": 131.5,
+          "end": 131.8
+        },
+        {
+          "word": "amor",
+          "start": 131.8,
+          "end": 132.22
+        },
+        {
+          "word": "unidos,",
+          "start": 132.22,
+          "end": 133.52
+        }
+      ],
+      "start": 128.8,
+      "end": 134.22,
+      "confidence": 0.983,
+      "time": 128.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "hasta que rompa el alba eternal.",
+      "words": [
+        {
+          "word": "hasta",
+          "start": 134.22,
+          "end": 134.72
+        },
+        {
+          "word": "que",
+          "start": 134.72,
+          "end": 135.14
+        },
+        {
+          "word": "rompa",
+          "start": 135.14,
+          "end": 136.26
+        },
+        {
+          "word": "el",
+          "start": 136.26,
+          "end": 136.68
+        },
+        {
+          "word": "alba",
+          "start": 136.68,
+          "end": 137.28
+        },
+        {
+          "word": "eterna.",
+          "start": 137.28,
+          "end": 138.16
+        }
+      ],
+      "start": 134.22,
+      "end": 138.16,
+      "confidence": 0.99,
+      "time": 134.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Dadme la Biblia, luz de vida eterna;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Dadme",
+          "start": 138.16,
+          "end": 140.46
+        },
+        {
+          "word": "la",
+          "start": 140.46,
+          "end": 140.76
+        },
+        {
+          "word": "Biblia,",
+          "start": 140.76,
+          "end": 142.02
+        },
+        {
+          "word": "luz",
+          "start": 142.02,
+          "end": 142.4
+        },
+        {
+          "word": "de",
+          "start": 142.4,
+          "end": 142.76
+        },
+        {
+          "word": "vida",
+          "start": 142.76,
+          "end": 143.16
+        },
+        {
+          "word": "eterna",
+          "start": 143.16,
+          "end": 144.48
+        }
+      ],
+      "start": 138.16,
+      "end": 144.48,
+      "confidence": 1.0,
+      "time": 138.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "junto al sepulcro su esplendor alzad;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "junto",
+          "start": 144.48,
+          "end": 145.4
+        },
+        {
+          "word": "al",
+          "start": 145.4,
+          "end": 145.78
+        },
+        {
+          "word": "sepulcro",
+          "start": 145.78,
+          "end": 147.2
+        },
+        {
+          "word": "su",
+          "start": 147.2,
+          "end": 147.54
+        },
+        {
+          "word": "esclendor",
+          "start": 147.54,
+          "end": 148.42
+        },
+        {
+          "word": "alzar",
+          "start": 148.42,
+          "end": 149.16
+        }
+      ],
+      "start": 144.48,
+      "end": 149.16,
+      "confidence": 0.969,
+      "time": 144.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "sobre el Jordán destáquense las puertas",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Sobre",
+          "start": 149.68,
+          "end": 150.74
+        },
+        {
+          "word": "el",
+          "start": 150.74,
+          "end": 151.06
+        },
+        {
+          "word": "cordán,",
+          "start": 151.06,
+          "end": 152.4
+        },
+        {
+          "word": "destaquense",
+          "start": 152.8,
+          "end": 153.52
+        },
+        {
+          "word": "las",
+          "start": 153.52,
+          "end": 154.04
+        },
+        {
+          "word": "puertas",
+          "start": 154.04,
+          "end": 155.16
+        }
+      ],
+      "start": 149.68,
+      "end": 155.16,
+      "confidence": 0.983,
+      "time": 149.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "fúlgidas de la célica ciudad.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "fugidas",
+          "start": 155.16,
+          "end": 156.62
+        },
+        {
+          "word": "de",
+          "start": 156.62,
+          "end": 157.32
+        },
+        {
+          "word": "la",
+          "start": 157.32,
+          "end": 157.92
+        },
+        {
+          "word": "sélica",
+          "start": 157.92,
+          "end": 158.82
+        },
+        {
+          "word": "ciudad",
+          "start": 158.82,
+          "end": 159.52
+        }
+      ],
+      "start": 155.16,
+      "end": 159.52,
+      "confidence": 0.972,
+      "time": 155.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Dadme la Biblia, santa y clara nueva,",
+      "words": [
+        {
+          "word": "Dadme",
+          "start": 159.52,
+          "end": 161.58
+        },
+        {
+          "word": "la",
+          "start": 161.58,
+          "end": 162.06
+        },
+        {
+          "word": "Biblia,",
+          "start": 162.06,
+          "end": 163.1
+        },
+        {
+          "word": "santa",
+          "start": 163.28,
+          "end": 163.68
+        },
+        {
+          "word": "y",
+          "start": 163.68,
+          "end": 163.92
+        },
+        {
+          "word": "clara",
+          "start": 163.92,
+          "end": 164.44
+        },
+        {
+          "word": "nueva,",
+          "start": 164.44,
+          "end": 165.58
+        }
+      ],
+      "start": 159.52,
+      "end": 166.26,
+      "confidence": 1.0,
+      "time": 159.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "luz del camino angosto y celestial;",
+      "words": [
+        {
+          "word": "luz",
+          "start": 166.26,
+          "end": 166.5
+        },
+        {
+          "word": "del",
+          "start": 166.5,
+          "end": 166.88
+        },
+        {
+          "word": "Camino",
+          "start": 166.88,
+          "end": 168.06
+        },
+        {
+          "word": "angosto",
+          "start": 168.06,
+          "end": 168.98
+        },
+        {
+          "word": "y",
+          "start": 168.98,
+          "end": 169.3
+        },
+        {
+          "word": "celestial,",
+          "start": 169.3,
+          "end": 170.58
+        }
+      ],
+      "start": 166.26,
+      "end": 170.58,
+      "confidence": 1.0,
+      "time": 166.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "regla y promesa, ley y amor unidos",
+      "words": [
+        {
+          "word": "recta",
+          "start": 171.7,
+          "end": 172.08
+        },
+        {
+          "word": "y",
+          "start": 172.08,
+          "end": 172.32
+        },
+        {
+          "word": "promesa,",
+          "start": 172.32,
+          "end": 173.56
+        },
+        {
+          "word": "ley",
+          "start": 174.2,
+          "end": 174.2
+        },
+        {
+          "word": "y",
+          "start": 174.2,
+          "end": 174.52
+        },
+        {
+          "word": "amor",
+          "start": 174.52,
+          "end": 174.92
+        },
+        {
+          "word": "únicos,",
+          "start": 174.92,
+          "end": 176.24
+        }
+      ],
+      "start": 171.7,
+      "end": 176.96,
+      "confidence": 0.951,
+      "time": 171.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "hasta que rompa el alba eternal.",
+      "words": [
+        {
+          "word": "hasta",
+          "start": 176.96,
+          "end": 177.38
+        },
+        {
+          "word": "que",
+          "start": 177.38,
+          "end": 177.84
+        },
+        {
+          "word": "rompa",
+          "start": 177.84,
+          "end": 179.0
+        },
+        {
+          "word": "el",
+          "start": 179.0,
+          "end": 179.36
+        },
+        {
+          "word": "alba",
+          "start": 179.36,
+          "end": 180.16
+        },
+        {
+          "word": "eternal.",
+          "start": 180.16,
+          "end": 182.52
+        }
+      ],
+      "start": 176.96,
+      "end": 182.52,
+      "confidence": 1.0,
+      "time": 176.96
+    }
+  ]
+}

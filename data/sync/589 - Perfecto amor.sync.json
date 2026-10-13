@@ -1,0 +1,511 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.922,
+  "language": "es",
+  "model": "medium",
+  "hymn": 589,
+  "source": "589 - Perfecto amor.mp3",
+  "duration": 152.95,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Perfecto amor del Cielo descendiendo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Perfecto",
+          "start": 14.8,
+          "end": 16.2
+        },
+        {
+          "word": "amor",
+          "start": 16.2,
+          "end": 17.6
+        },
+        {
+          "word": "del",
+          "start": 17.6,
+          "end": 18.66
+        },
+        {
+          "word": "cielo",
+          "start": 18.66,
+          "end": 20.12
+        },
+        {
+          "word": "descendiendo",
+          "start": 20.12,
+          "end": 23.84
+        }
+      ],
+      "start": 14.8,
+      "end": 23.84,
+      "confidence": 1.0,
+      "time": 14.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por ti, Señor, enviado a este hogar;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Por",
+          "start": 23.84,
+          "end": 25.4
+        },
+        {
+          "word": "ti,",
+          "start": 25.4,
+          "end": 26.2
+        },
+        {
+          "word": "Señor,",
+          "start": 26.2,
+          "end": 28.44
+        },
+        {
+          "word": "enviado",
+          "start": 29.46,
+          "end": 30.62
+        },
+        {
+          "word": "a",
+          "start": 30.62,
+          "end": 31.3
+        },
+        {
+          "word": "este",
+          "start": 31.3,
+          "end": 31.76
+        },
+        {
+          "word": "hogar.",
+          "start": 31.76,
+          "end": 34.28
+        }
+      ],
+      "start": 23.84,
+      "end": 34.28,
+      "confidence": 1.0,
+      "time": 23.84
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "por este don tan noble y venturoso",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Por",
+          "start": 34.98,
+          "end": 36.38
+        },
+        {
+          "word": "este",
+          "start": 36.38,
+          "end": 37.62
+        },
+        {
+          "word": "don",
+          "start": 37.62,
+          "end": 38.7
+        },
+        {
+          "word": "tan",
+          "start": 38.7,
+          "end": 40.22
+        },
+        {
+          "word": "noble",
+          "start": 40.22,
+          "end": 41.1
+        },
+        {
+          "word": "y",
+          "start": 41.1,
+          "end": 41.84
+        },
+        {
+          "word": "venturoso,",
+          "start": 41.84,
+          "end": 45.28
+        }
+      ],
+      "start": 34.98,
+      "end": 45.28,
+      "confidence": 1.0,
+      "time": 34.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "las gracias hoy venímoste a dar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Las",
+          "start": 45.28,
+          "end": 46.98
+        },
+        {
+          "word": "gracias",
+          "start": 46.98,
+          "end": 48.08
+        },
+        {
+          "word": "hoy",
+          "start": 48.08,
+          "end": 48.84
+        },
+        {
+          "word": "venimos",
+          "start": 48.84,
+          "end": 50.88
+        },
+        {
+          "word": "a",
+          "start": 52.52,
+          "end": 53.76
+        },
+        {
+          "word": "dar.",
+          "start": 53.76,
+          "end": 55.28
+        }
+      ],
+      "start": 45.28,
+      "end": 55.28,
+      "confidence": 0.99,
+      "time": 45.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Perfecto amor, ¡oh Dios!, tu don gratuito",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Perfecto",
+          "start": 60.18,
+          "end": 61.58
+        },
+        {
+          "word": "amor,",
+          "start": 61.58,
+          "end": 62.98
+        },
+        {
+          "word": "oh",
+          "start": 64.16,
+          "end": 64.24
+        },
+        {
+          "word": "Dios,",
+          "start": 64.24,
+          "end": 64.8
+        },
+        {
+          "word": "tu",
+          "start": 65.24,
+          "end": 65.58
+        },
+        {
+          "word": "don",
+          "start": 65.58,
+          "end": 66.14
+        },
+        {
+          "word": "gratuito",
+          "start": 66.14,
+          "end": 69.32
+        }
+      ],
+      "start": 60.18,
+      "end": 69.32,
+      "confidence": 1.0,
+      "time": 60.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "sea abundante, y de este hogar solaz;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "sea",
+          "start": 69.32,
+          "end": 71.42
+        },
+        {
+          "word": "abundante",
+          "start": 71.42,
+          "end": 74.72
+        },
+        {
+          "word": "desde",
+          "start": 74.72,
+          "end": 75.74
+        },
+        {
+          "word": "hogar",
+          "start": 75.74,
+          "end": 77.06
+        },
+        {
+          "word": "solas.",
+          "start": 77.06,
+          "end": 80.04
+        }
+      ],
+      "start": 69.32,
+      "end": 80.04,
+      "confidence": 0.669,
+      "time": 69.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "sagrado amor que sea para siempre",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Sagrado",
+          "start": 81.1,
+          "end": 82.5
+        },
+        {
+          "word": "amor",
+          "start": 82.5,
+          "end": 84.08
+        },
+        {
+          "word": "que",
+          "start": 84.08,
+          "end": 85.5
+        },
+        {
+          "word": "sea",
+          "start": 85.5,
+          "end": 86.72
+        },
+        {
+          "word": "para",
+          "start": 86.72,
+          "end": 88.18
+        },
+        {
+          "word": "siempre,",
+          "start": 88.18,
+          "end": 90.46
+        }
+      ],
+      "start": 81.1,
+      "end": 90.46,
+      "confidence": 1.0,
+      "time": 81.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "fuente de gozo, esperanza y paz.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Fuente",
+          "start": 90.46,
+          "end": 92.74
+        },
+        {
+          "word": "de",
+          "start": 92.74,
+          "end": 93.66
+        },
+        {
+          "word": "gozo,",
+          "start": 93.66,
+          "end": 95.04
+        },
+        {
+          "word": "esperanza",
+          "start": 95.5,
+          "end": 98.06
+        },
+        {
+          "word": "y",
+          "start": 98.06,
+          "end": 99.04
+        },
+        {
+          "word": "paz.",
+          "start": 99.04,
+          "end": 101.9
+        }
+      ],
+      "start": 90.46,
+      "end": 101.9,
+      "confidence": 1.0,
+      "time": 90.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Perfecto amor, ¿qué más desea el alma,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Perfecto",
+          "start": 105.44,
+          "end": 106.84
+        },
+        {
+          "word": "amor",
+          "start": 106.84,
+          "end": 108.08
+        },
+        {
+          "word": "que",
+          "start": 108.08,
+          "end": 109.6
+        },
+        {
+          "word": "más",
+          "start": 109.6,
+          "end": 110.56
+        },
+        {
+          "word": "desea",
+          "start": 110.56,
+          "end": 112.22
+        },
+        {
+          "word": "el",
+          "start": 112.22,
+          "end": 112.94
+        },
+        {
+          "word": "alma",
+          "start": 112.94,
+          "end": 114.68
+        }
+      ],
+      "start": 105.44,
+      "end": 114.68,
+      "confidence": 1.0,
+      "time": 105.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "de bendiciones rebosando ya?",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 114.68,
+          "end": 116.22
+        },
+        {
+          "word": "bendiciones,",
+          "start": 116.22,
+          "end": 120.1
+        }
+      ],
+      "start": 114.68,
+      "end": 124.8,
+      "confidence": 0.5,
+      "time": 114.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Amor que ensalce, de tu amor la gloria,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Amor",
+          "start": 126.06,
+          "end": 127.46
+        },
+        {
+          "word": "que",
+          "start": 127.46,
+          "end": 128.32
+        },
+        {
+          "word": "salse",
+          "start": 128.32,
+          "end": 130.5
+        },
+        {
+          "word": "de",
+          "start": 130.5,
+          "end": 131.32
+        },
+        {
+          "word": "tu",
+          "start": 131.32,
+          "end": 132.04
+        },
+        {
+          "word": "amor",
+          "start": 132.04,
+          "end": 132.74
+        },
+        {
+          "word": "la",
+          "start": 132.74,
+          "end": 133.46
+        },
+        {
+          "word": "gloria",
+          "start": 133.46,
+          "end": 135.82
+        }
+      ],
+      "start": 126.06,
+      "end": 135.82,
+      "confidence": 0.975,
+      "time": 126.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y que perdure por la eternidad.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "y",
+          "start": 135.82,
+          "end": 137.72
+        },
+        {
+          "word": "que",
+          "start": 137.72,
+          "end": 138.36
+        },
+        {
+          "word": "perdone",
+          "start": 138.36,
+          "end": 140.06
+        },
+        {
+          "word": "por",
+          "start": 140.06,
+          "end": 141.0
+        },
+        {
+          "word": "eterno.",
+          "start": 142.4,
+          "end": 145.94
+        }
+      ],
+      "start": 135.82,
+      "end": 145.94,
+      "confidence": 0.771,
+      "time": 135.82
+    }
+  ]
+}

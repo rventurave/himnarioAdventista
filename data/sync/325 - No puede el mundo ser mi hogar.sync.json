@@ -1,0 +1,843 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.956,
+  "language": "es",
+  "model": "medium",
+  "hymn": 325,
+  "source": "325 - No puede el mundo ser mi hogar.mp3",
+  "duration": 156.03,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "No puede el mundo ser mi hogar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "No",
+          "start": 12.0,
+          "end": 12.9
+        },
+        {
+          "word": "puede",
+          "start": 12.9,
+          "end": 13.8
+        },
+        {
+          "word": "el",
+          "start": 13.8,
+          "end": 14.08
+        },
+        {
+          "word": "mundo",
+          "start": 14.08,
+          "end": 14.52
+        },
+        {
+          "word": "ser",
+          "start": 14.52,
+          "end": 14.98
+        },
+        {
+          "word": "mi",
+          "start": 14.98,
+          "end": 15.3
+        },
+        {
+          "word": "hogar,",
+          "start": 15.3,
+          "end": 17.28
+        }
+      ],
+      "start": 12.0,
+      "end": 17.64,
+      "confidence": 1.0,
+      "time": 12.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "sus bienes han de perecer;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "sus",
+          "start": 17.64,
+          "end": 18.2
+        },
+        {
+          "word": "bienes",
+          "start": 18.2,
+          "end": 19.8
+        },
+        {
+          "word": "han",
+          "start": 19.8,
+          "end": 20.1
+        },
+        {
+          "word": "de",
+          "start": 20.1,
+          "end": 20.54
+        },
+        {
+          "word": "perecer.",
+          "start": 20.54,
+          "end": 23.08
+        }
+      ],
+      "start": 17.64,
+      "end": 23.08,
+      "confidence": 1.0,
+      "time": 17.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "anhelo pronto a Sion llegar",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Anelo",
+          "start": 23.08,
+          "end": 25.22
+        },
+        {
+          "word": "pronto",
+          "start": 25.22,
+          "end": 25.84
+        },
+        {
+          "word": "llegar",
+          "start": 26.58,
+          "end": 28.56
+        }
+      ],
+      "start": 23.08,
+      "end": 28.56,
+      "confidence": 0.589,
+      "time": 23.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y a mi Maestro ver.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Y",
+          "start": 28.56,
+          "end": 29.4
+        },
+        {
+          "word": "a",
+          "start": 29.4,
+          "end": 29.86
+        },
+        {
+          "word": "mi",
+          "start": 29.86,
+          "end": 30.34
+        },
+        {
+          "word": "Maestro",
+          "start": 30.34,
+          "end": 32.48
+        },
+        {
+          "word": "ver",
+          "start": 32.48,
+          "end": 34.3
+        }
+      ],
+      "start": 28.56,
+      "end": 34.3,
+      "confidence": 1.0,
+      "time": 28.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Iré al hogar,",
+      "words": [
+        {
+          "word": "Iré",
+          "start": 36.28,
+          "end": 37.68
+        },
+        {
+          "word": "al",
+          "start": 37.68,
+          "end": 38.0
+        },
+        {
+          "word": "hogar",
+          "start": 38.0,
+          "end": 40.02
+        }
+      ],
+      "start": 36.28,
+      "end": 40.02,
+      "confidence": 1.0,
+      "time": 36.28
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "a mi eterno y dulce hogar,",
+      "words": [
+        {
+          "word": "A",
+          "start": 40.02,
+          "end": 40.7
+        },
+        {
+          "word": "mi",
+          "start": 40.7,
+          "end": 40.94
+        },
+        {
+          "word": "eterno",
+          "start": 40.94,
+          "end": 42.36
+        },
+        {
+          "word": "y",
+          "start": 42.36,
+          "end": 42.58
+        },
+        {
+          "word": "dulce",
+          "start": 42.58,
+          "end": 43.68
+        },
+        {
+          "word": "hogar,",
+          "start": 43.68,
+          "end": 44.66
+        }
+      ],
+      "start": 40.02,
+      "end": 44.7,
+      "confidence": 1.0,
+      "time": 40.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "mi hogar;",
+      "words": [
+        {
+          "word": "mi",
+          "start": 44.7,
+          "end": 45.12
+        },
+        {
+          "word": "hogar",
+          "start": 45.12,
+          "end": 46.08
+        }
+      ],
+      "start": 44.7,
+      "end": 46.08,
+      "confidence": 1.0,
+      "time": 44.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "sí, iré al hogar que Jesús fue a preparar.",
+      "words": [
+        {
+          "word": "iré",
+          "start": 46.5,
+          "end": 49.16
+        },
+        {
+          "word": "al",
+          "start": 49.16,
+          "end": 49.5
+        },
+        {
+          "word": "hogar,",
+          "start": 49.5,
+          "end": 51.62
+        },
+        {
+          "word": "que",
+          "start": 52.0,
+          "end": 52.22
+        },
+        {
+          "word": "Jesús",
+          "start": 52.22,
+          "end": 53.5
+        },
+        {
+          "word": "fue",
+          "start": 53.5,
+          "end": 53.86
+        },
+        {
+          "word": "a",
+          "start": 53.86,
+          "end": 54.64
+        },
+        {
+          "word": "preparar",
+          "start": 54.64,
+          "end": 57.9
+        }
+      ],
+      "start": 46.5,
+      "end": 57.9,
+      "confidence": 0.889,
+      "time": 46.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "La muerte allí no existirá;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "La",
+          "start": 57.9,
+          "end": 59.18
+        },
+        {
+          "word": "muerte",
+          "start": 59.18,
+          "end": 60.52
+        },
+        {
+          "word": "allí",
+          "start": 60.52,
+          "end": 60.98
+        },
+        {
+          "word": "no",
+          "start": 60.98,
+          "end": 61.46
+        },
+        {
+          "word": "existirá,",
+          "start": 61.46,
+          "end": 64.12
+        }
+      ],
+      "start": 57.9,
+      "end": 64.94,
+      "confidence": 1.0,
+      "time": 57.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tampoco la separación;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tampoco",
+          "start": 64.94,
+          "end": 66.12
+        },
+        {
+          "word": "la",
+          "start": 66.12,
+          "end": 66.94
+        },
+        {
+          "word": "separación",
+          "start": 66.94,
+          "end": 69.7
+        }
+      ],
+      "start": 64.94,
+      "end": 69.7,
+      "confidence": 1.0,
+      "time": 64.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tristeza nunca más habrá",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tristeza",
+          "start": 69.7,
+          "end": 72.1
+        },
+        {
+          "word": "nunca",
+          "start": 72.1,
+          "end": 72.68
+        },
+        {
+          "word": "más",
+          "start": 72.68,
+          "end": 73.36
+        },
+        {
+          "word": "habrá",
+          "start": 73.36,
+          "end": 75.82
+        }
+      ],
+      "start": 69.7,
+      "end": 75.82,
+      "confidence": 1.0,
+      "time": 69.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "en la anhelada Sion.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "en",
+          "start": 75.82,
+          "end": 76.58
+        },
+        {
+          "word": "la",
+          "start": 76.58,
+          "end": 77.24
+        },
+        {
+          "word": "anheladación",
+          "start": 77.24,
+          "end": 80.94
+        }
+      ],
+      "start": 75.82,
+      "end": 80.94,
+      "confidence": 0.735,
+      "time": 75.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Iré al hogar,",
+      "words": [
+        {
+          "word": "Iré",
+          "start": 83.14,
+          "end": 84.54
+        },
+        {
+          "word": "al",
+          "start": 84.54,
+          "end": 84.86
+        },
+        {
+          "word": "hogar,",
+          "start": 84.86,
+          "end": 86.94
+        }
+      ],
+      "start": 83.14,
+      "end": 87.22,
+      "confidence": 1.0,
+      "time": 83.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "a mi eterno y dulce hogar,",
+      "words": [
+        {
+          "word": "a",
+          "start": 87.22,
+          "end": 87.58
+        },
+        {
+          "word": "mi",
+          "start": 87.58,
+          "end": 87.84
+        },
+        {
+          "word": "eterno",
+          "start": 87.84,
+          "end": 89.22
+        },
+        {
+          "word": "y",
+          "start": 89.22,
+          "end": 89.48
+        },
+        {
+          "word": "dulce",
+          "start": 89.48,
+          "end": 90.6
+        },
+        {
+          "word": "hogar,",
+          "start": 90.6,
+          "end": 91.52
+        }
+      ],
+      "start": 87.22,
+      "end": 91.54,
+      "confidence": 1.0,
+      "time": 87.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "mi hogar;",
+      "words": [
+        {
+          "word": "mi",
+          "start": 91.54,
+          "end": 91.92
+        },
+        {
+          "word": "hogar",
+          "start": 91.92,
+          "end": 92.96
+        }
+      ],
+      "start": 91.54,
+      "end": 92.96,
+      "confidence": 1.0,
+      "time": 91.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "sí, iré al hogar que Jesús fue a preparar.",
+      "words": [
+        {
+          "word": "iré",
+          "start": 93.32,
+          "end": 95.88
+        },
+        {
+          "word": "al",
+          "start": 95.88,
+          "end": 96.2
+        },
+        {
+          "word": "hogar",
+          "start": 96.2,
+          "end": 98.34
+        },
+        {
+          "word": "que",
+          "start": 98.34,
+          "end": 98.88
+        },
+        {
+          "word": "Jesús",
+          "start": 98.88,
+          "end": 100.28
+        },
+        {
+          "word": "fue",
+          "start": 100.28,
+          "end": 100.64
+        },
+        {
+          "word": "a",
+          "start": 100.64,
+          "end": 101.44
+        },
+        {
+          "word": "preparar.",
+          "start": 101.44,
+          "end": 104.4
+        }
+      ],
+      "start": 93.32,
+      "end": 104.4,
+      "confidence": 0.889,
+      "time": 93.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Deseo pronto arribar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Deseo",
+          "start": 106.18,
+          "end": 107.58
+        },
+        {
+          "word": "pronto",
+          "start": 107.58,
+          "end": 108.38
+        },
+        {
+          "word": "arribar",
+          "start": 108.38,
+          "end": 111.14
+        }
+      ],
+      "start": 106.18,
+      "end": 111.14,
+      "confidence": 1.0,
+      "time": 106.18
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "al puerto de la eterna paz.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "al",
+          "start": 111.14,
+          "end": 111.76
+        },
+        {
+          "word": "puerto",
+          "start": 111.76,
+          "end": 113.22
+        },
+        {
+          "word": "de",
+          "start": 113.22,
+          "end": 113.68
+        },
+        {
+          "word": "la",
+          "start": 113.68,
+          "end": 113.94
+        },
+        {
+          "word": "eterna",
+          "start": 113.94,
+          "end": 114.66
+        },
+        {
+          "word": "paz,",
+          "start": 114.66,
+          "end": 116.42
+        }
+      ],
+      "start": 111.14,
+      "end": 116.42,
+      "confidence": 1.0,
+      "time": 111.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Con Cristo quiero allí reinar",
+      "verse": 3,
+      "words": [
+        {
+          "word": "con",
+          "start": 116.96,
+          "end": 117.68
+        },
+        {
+          "word": "Cristo",
+          "start": 117.68,
+          "end": 118.84
+        },
+        {
+          "word": "quiero",
+          "start": 118.84,
+          "end": 119.52
+        },
+        {
+          "word": "allí",
+          "start": 119.52,
+          "end": 119.98
+        },
+        {
+          "word": "reinar.",
+          "start": 119.98,
+          "end": 122.18
+        }
+      ],
+      "start": 116.96,
+      "end": 122.18,
+      "confidence": 1.0,
+      "time": 116.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "dejando el mundo atrás.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Dejando",
+          "start": 122.18,
+          "end": 124.2
+        },
+        {
+          "word": "el",
+          "start": 124.2,
+          "end": 124.8
+        },
+        {
+          "word": "mundo",
+          "start": 124.8,
+          "end": 125.52
+        },
+        {
+          "word": "atrás",
+          "start": 125.52,
+          "end": 127.84
+        }
+      ],
+      "start": 122.18,
+      "end": 127.84,
+      "confidence": 1.0,
+      "time": 122.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Iré al hogar,",
+      "words": [
+        {
+          "word": "Iré",
+          "start": 129.84,
+          "end": 131.24
+        },
+        {
+          "word": "al",
+          "start": 131.24,
+          "end": 131.6
+        },
+        {
+          "word": "hogar",
+          "start": 131.6,
+          "end": 133.64
+        }
+      ],
+      "start": 129.84,
+      "end": 133.64,
+      "confidence": 1.0,
+      "time": 129.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "a mi eterno y dulce hogar,",
+      "words": [
+        {
+          "word": "A",
+          "start": 133.64,
+          "end": 134.3
+        },
+        {
+          "word": "mi",
+          "start": 134.3,
+          "end": 134.52
+        },
+        {
+          "word": "eterno",
+          "start": 134.52,
+          "end": 136.02
+        },
+        {
+          "word": "y",
+          "start": 136.02,
+          "end": 136.34
+        },
+        {
+          "word": "dulce",
+          "start": 136.34,
+          "end": 137.18
+        },
+        {
+          "word": "hogar",
+          "start": 137.18,
+          "end": 138.24
+        }
+      ],
+      "start": 133.64,
+      "end": 138.24,
+      "confidence": 1.0,
+      "time": 133.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "mi hogar;",
+      "words": [
+        {
+          "word": "Mi",
+          "start": 138.24,
+          "end": 138.68
+        },
+        {
+          "word": "hogar",
+          "start": 138.68,
+          "end": 139.68
+        }
+      ],
+      "start": 138.24,
+      "end": 139.68,
+      "confidence": 1.0,
+      "time": 138.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "sí, iré al hogar que Jesús fue a preparar.",
+      "words": [
+        {
+          "word": "Si",
+          "start": 139.68,
+          "end": 140.16
+        },
+        {
+          "word": "iré",
+          "start": 140.16,
+          "end": 142.6
+        },
+        {
+          "word": "al",
+          "start": 142.6,
+          "end": 142.96
+        },
+        {
+          "word": "hogar",
+          "start": 142.96,
+          "end": 145.06
+        },
+        {
+          "word": "que",
+          "start": 145.06,
+          "end": 145.76
+        },
+        {
+          "word": "Jesús",
+          "start": 145.76,
+          "end": 147.14
+        },
+        {
+          "word": "fue",
+          "start": 147.14,
+          "end": 147.5
+        },
+        {
+          "word": "a",
+          "start": 147.5,
+          "end": 148.32
+        },
+        {
+          "word": "preparar.",
+          "start": 148.32,
+          "end": 153.52
+        }
+      ],
+      "start": 139.68,
+      "end": 153.52,
+      "confidence": 1.0,
+      "time": 139.68
+    }
+  ]
+}

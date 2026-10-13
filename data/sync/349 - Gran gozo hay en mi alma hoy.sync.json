@@ -1,0 +1,1215 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.966,
+  "language": "es",
+  "model": "medium",
+  "hymn": 349,
+  "source": "349 - Gran gozo hay en mi alma hoy.mp3",
+  "duration": 179.59,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Gran gozo hay en mi alma hoy:",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Gran",
+          "start": 10.58,
+          "end": 11.98
+        },
+        {
+          "word": "gozo",
+          "start": 11.98,
+          "end": 12.9
+        },
+        {
+          "word": "hay",
+          "start": 12.9,
+          "end": 13.4
+        },
+        {
+          "word": "en",
+          "start": 13.4,
+          "end": 13.7
+        },
+        {
+          "word": "mi",
+          "start": 13.7,
+          "end": 13.98
+        },
+        {
+          "word": "alma",
+          "start": 13.98,
+          "end": 14.44
+        },
+        {
+          "word": "hoy,",
+          "start": 14.44,
+          "end": 15.94
+        }
+      ],
+      "start": 10.58,
+      "end": 16.3,
+      "confidence": 1.0,
+      "time": 10.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Jesús conmigo está;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 16.3,
+          "end": 17.5
+        },
+        {
+          "word": "conmigo",
+          "start": 17.5,
+          "end": 19.14
+        },
+        {
+          "word": "está,",
+          "start": 19.14,
+          "end": 21.0
+        }
+      ],
+      "start": 16.3,
+      "end": 21.0,
+      "confidence": 1.0,
+      "time": 16.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "contento con su amor estoy,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Contento",
+          "start": 21.0,
+          "end": 23.14
+        },
+        {
+          "word": "con",
+          "start": 23.14,
+          "end": 23.58
+        },
+        {
+          "word": "su",
+          "start": 23.58,
+          "end": 23.84
+        },
+        {
+          "word": "amor",
+          "start": 23.84,
+          "end": 24.4
+        },
+        {
+          "word": "estoy,",
+          "start": 24.4,
+          "end": 25.9
+        }
+      ],
+      "start": 21.0,
+      "end": 26.36,
+      "confidence": 1.0,
+      "time": 21.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "su dulce paz me da.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "su",
+          "start": 26.36,
+          "end": 27.04
+        },
+        {
+          "word": "dulce",
+          "start": 27.04,
+          "end": 28.24
+        },
+        {
+          "word": "paz",
+          "start": 28.24,
+          "end": 28.92
+        },
+        {
+          "word": "me",
+          "start": 28.92,
+          "end": 29.86
+        },
+        {
+          "word": "da.",
+          "start": 29.86,
+          "end": 31.12
+        }
+      ],
+      "start": 26.36,
+      "end": 31.12,
+      "confidence": 1.0,
+      "time": 26.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Brilla el sol de Cristo en mi alma;",
+      "words": [
+        {
+          "word": "Brilla",
+          "start": 31.8,
+          "end": 31.92
+        },
+        {
+          "word": "el",
+          "start": 31.92,
+          "end": 32.26
+        },
+        {
+          "word": "sol",
+          "start": 32.26,
+          "end": 33.24
+        },
+        {
+          "word": "de",
+          "start": 33.24,
+          "end": 33.94
+        },
+        {
+          "word": "Cristo",
+          "start": 33.94,
+          "end": 34.36
+        },
+        {
+          "word": "en",
+          "start": 34.36,
+          "end": 34.62
+        },
+        {
+          "word": "mi",
+          "start": 34.62,
+          "end": 35.18
+        },
+        {
+          "word": "alma,",
+          "start": 35.18,
+          "end": 36.06
+        }
+      ],
+      "start": 31.8,
+      "end": 36.74,
+      "confidence": 1.0,
+      "time": 31.8
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "cada día voy feliz así.",
+      "words": [
+        {
+          "word": "cada",
+          "start": 36.74,
+          "end": 36.98
+        },
+        {
+          "word": "día",
+          "start": 36.98,
+          "end": 38.22
+        },
+        {
+          "word": "voy",
+          "start": 38.22,
+          "end": 38.64
+        },
+        {
+          "word": "feliz",
+          "start": 38.64,
+          "end": 39.4
+        },
+        {
+          "word": "así.",
+          "start": 39.4,
+          "end": 40.94
+        }
+      ],
+      "start": 36.74,
+      "end": 40.94,
+      "confidence": 1.0,
+      "time": 36.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Su faz sonriente al contemplar,",
+      "words": [
+        {
+          "word": "sufa",
+          "start": 40.94,
+          "end": 42.64
+        },
+        {
+          "word": "sonriente",
+          "start": 42.64,
+          "end": 44.28
+        },
+        {
+          "word": "al",
+          "start": 44.28,
+          "end": 44.8
+        },
+        {
+          "word": "contemplar",
+          "start": 44.8,
+          "end": 46.44
+        }
+      ],
+      "start": 40.94,
+      "end": 46.44,
+      "confidence": 0.76,
+      "time": 40.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "¡cuánto gozo siento en mí!",
+      "words": [
+        {
+          "word": "cuánto",
+          "start": 46.44,
+          "end": 47.14
+        },
+        {
+          "word": "gozo",
+          "start": 47.14,
+          "end": 48.32
+        },
+        {
+          "word": "siento",
+          "start": 48.32,
+          "end": 49.1
+        },
+        {
+          "word": "en",
+          "start": 49.1,
+          "end": 49.94
+        },
+        {
+          "word": "mí.",
+          "start": 49.94,
+          "end": 51.98
+        }
+      ],
+      "start": 46.44,
+      "end": 51.98,
+      "confidence": 1.0,
+      "time": 46.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "En mi alma hay melodías hoy,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "En",
+          "start": 52.82,
+          "end": 53.44
+        },
+        {
+          "word": "mi",
+          "start": 53.44,
+          "end": 53.9
+        },
+        {
+          "word": "alma",
+          "start": 53.9,
+          "end": 54.58
+        },
+        {
+          "word": "melodía",
+          "start": 55.14,
+          "end": 56.12
+        },
+        {
+          "word": "soy",
+          "start": 56.12,
+          "end": 57.7
+        }
+      ],
+      "start": 52.82,
+      "end": 57.7,
+      "confidence": 0.79,
+      "time": 52.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "canciones a mi Rey.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "canciones",
+          "start": 57.7,
+          "end": 59.76
+        },
+        {
+          "word": "a",
+          "start": 59.76,
+          "end": 60.66
+        },
+        {
+          "word": "mi",
+          "start": 60.66,
+          "end": 61.3
+        },
+        {
+          "word": "Rey",
+          "start": 61.3,
+          "end": 62.68
+        }
+      ],
+      "start": 57.7,
+      "end": 62.68,
+      "confidence": 1.0,
+      "time": 57.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Feliz y libre en Cristo soy",
+      "verse": 2,
+      "words": [
+        {
+          "word": "feliz",
+          "start": 62.68,
+          "end": 64.22
+        },
+        {
+          "word": "y",
+          "start": 64.22,
+          "end": 65.04
+        },
+        {
+          "word": "libre",
+          "start": 65.04,
+          "end": 65.36
+        },
+        {
+          "word": "en",
+          "start": 65.36,
+          "end": 65.64
+        },
+        {
+          "word": "Cristo",
+          "start": 65.64,
+          "end": 66.08
+        },
+        {
+          "word": "soy",
+          "start": 66.08,
+          "end": 67.56
+        }
+      ],
+      "start": 62.68,
+      "end": 67.56,
+      "confidence": 1.0,
+      "time": 62.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y salvo por la fe.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 67.56,
+          "end": 68.66
+        },
+        {
+          "word": "salvo",
+          "start": 68.66,
+          "end": 69.9
+        },
+        {
+          "word": "por",
+          "start": 69.9,
+          "end": 70.64
+        },
+        {
+          "word": "la",
+          "start": 70.64,
+          "end": 71.3
+        },
+        {
+          "word": "fe",
+          "start": 71.3,
+          "end": 72.84
+        }
+      ],
+      "start": 67.56,
+      "end": 72.84,
+      "confidence": 1.0,
+      "time": 67.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Brilla el sol de Cristo en mi alma;",
+      "words": [
+        {
+          "word": "brilla",
+          "start": 72.84,
+          "end": 73.58
+        },
+        {
+          "word": "el",
+          "start": 73.58,
+          "end": 73.94
+        },
+        {
+          "word": "sol",
+          "start": 73.94,
+          "end": 74.88
+        },
+        {
+          "word": "de",
+          "start": 74.88,
+          "end": 75.6
+        },
+        {
+          "word": "Cristo",
+          "start": 75.6,
+          "end": 76.04
+        },
+        {
+          "word": "en",
+          "start": 76.04,
+          "end": 76.3
+        },
+        {
+          "word": "mi",
+          "start": 76.3,
+          "end": 76.88
+        },
+        {
+          "word": "alma",
+          "start": 76.88,
+          "end": 77.86
+        }
+      ],
+      "start": 72.84,
+      "end": 77.86,
+      "confidence": 1.0,
+      "time": 72.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "cada día voy feliz así.",
+      "words": [
+        {
+          "word": "cada",
+          "start": 77.86,
+          "end": 78.74
+        },
+        {
+          "word": "día",
+          "start": 78.74,
+          "end": 79.94
+        },
+        {
+          "word": "voy",
+          "start": 79.94,
+          "end": 80.3
+        },
+        {
+          "word": "feliz",
+          "start": 80.3,
+          "end": 81.06
+        },
+        {
+          "word": "así",
+          "start": 81.06,
+          "end": 82.9
+        }
+      ],
+      "start": 77.86,
+      "end": 82.9,
+      "confidence": 1.0,
+      "time": 77.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Su faz sonriente al contemplar,",
+      "words": [
+        {
+          "word": "sufa",
+          "start": 82.9,
+          "end": 84.3
+        },
+        {
+          "word": "sonriente",
+          "start": 84.3,
+          "end": 85.96
+        },
+        {
+          "word": "al",
+          "start": 85.96,
+          "end": 86.44
+        },
+        {
+          "word": "contemplar",
+          "start": 86.44,
+          "end": 88.06
+        }
+      ],
+      "start": 82.9,
+      "end": 88.06,
+      "confidence": 0.76,
+      "time": 82.9
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "¡cuánto gozo siento en mí!",
+      "words": [
+        {
+          "word": "cuanto",
+          "start": 88.06,
+          "end": 88.64
+        },
+        {
+          "word": "gozo",
+          "start": 88.64,
+          "end": 90.0
+        },
+        {
+          "word": "siento",
+          "start": 90.0,
+          "end": 90.8
+        },
+        {
+          "word": "en",
+          "start": 90.8,
+          "end": 91.58
+        },
+        {
+          "word": "mí",
+          "start": 91.58,
+          "end": 93.56
+        }
+      ],
+      "start": 88.06,
+      "end": 93.56,
+      "confidence": 1.0,
+      "time": 88.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Paz plena tengo en mi alma hoy,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Paz",
+          "start": 93.56,
+          "end": 95.36
+        },
+        {
+          "word": "plena",
+          "start": 95.36,
+          "end": 96.46
+        },
+        {
+          "word": "tengo",
+          "start": 96.46,
+          "end": 96.94
+        },
+        {
+          "word": "en",
+          "start": 96.94,
+          "end": 97.2
+        },
+        {
+          "word": "mi",
+          "start": 97.2,
+          "end": 97.46
+        },
+        {
+          "word": "alma",
+          "start": 97.46,
+          "end": 97.78
+        },
+        {
+          "word": "hoy,",
+          "start": 97.78,
+          "end": 99.28
+        }
+      ],
+      "start": 93.56,
+      "end": 99.8,
+      "confidence": 1.0,
+      "time": 93.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "pues Cristo me salvó.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "pues",
+          "start": 99.8,
+          "end": 100.34
+        },
+        {
+          "word": "Cristo",
+          "start": 100.34,
+          "end": 101.16
+        },
+        {
+          "word": "me",
+          "start": 101.16,
+          "end": 102.28
+        },
+        {
+          "word": "salvó,",
+          "start": 102.28,
+          "end": 104.46
+        }
+      ],
+      "start": 99.8,
+      "end": 104.76,
+      "confidence": 1.0,
+      "time": 99.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Mis hierros rotos quedan ya:",
+      "verse": 3,
+      "words": [
+        {
+          "word": "mis",
+          "start": 104.76,
+          "end": 105.32
+        },
+        {
+          "word": "hierros",
+          "start": 105.32,
+          "end": 106.6
+        },
+        {
+          "word": "rotos",
+          "start": 106.6,
+          "end": 107.16
+        },
+        {
+          "word": "quedan",
+          "start": 107.16,
+          "end": 107.92
+        },
+        {
+          "word": "ya,",
+          "start": 107.92,
+          "end": 109.24
+        }
+      ],
+      "start": 104.76,
+      "end": 109.64,
+      "confidence": 1.0,
+      "time": 104.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Jesús me libertó.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 109.64,
+          "end": 110.84
+        },
+        {
+          "word": "me",
+          "start": 110.84,
+          "end": 112.12
+        },
+        {
+          "word": "libertó,",
+          "start": 112.12,
+          "end": 114.44
+        }
+      ],
+      "start": 109.64,
+      "end": 115.08,
+      "confidence": 1.0,
+      "time": 109.64
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Brilla el sol de Cristo en mi alma;",
+      "words": [
+        {
+          "word": "brilla",
+          "start": 115.08,
+          "end": 115.18
+        },
+        {
+          "word": "el",
+          "start": 115.18,
+          "end": 115.54
+        },
+        {
+          "word": "sol",
+          "start": 115.54,
+          "end": 116.56
+        },
+        {
+          "word": "de",
+          "start": 116.56,
+          "end": 117.26
+        },
+        {
+          "word": "Cristo",
+          "start": 117.26,
+          "end": 117.68
+        },
+        {
+          "word": "en",
+          "start": 117.68,
+          "end": 117.96
+        },
+        {
+          "word": "mi",
+          "start": 117.96,
+          "end": 118.52
+        },
+        {
+          "word": "alma,",
+          "start": 118.52,
+          "end": 119.36
+        }
+      ],
+      "start": 115.08,
+      "end": 119.36,
+      "confidence": 1.0,
+      "time": 115.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "cada día voy feliz así.",
+      "words": [
+        {
+          "word": "Cada",
+          "start": 119.36,
+          "end": 120.4
+        },
+        {
+          "word": "día",
+          "start": 120.4,
+          "end": 121.6
+        },
+        {
+          "word": "voy",
+          "start": 121.6,
+          "end": 121.94
+        },
+        {
+          "word": "feliz",
+          "start": 121.94,
+          "end": 122.72
+        },
+        {
+          "word": "así",
+          "start": 122.72,
+          "end": 124.42
+        }
+      ],
+      "start": 119.36,
+      "end": 124.42,
+      "confidence": 1.0,
+      "time": 119.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Su faz sonriente al contemplar,",
+      "words": [
+        {
+          "word": "Sufa",
+          "start": 124.42,
+          "end": 125.98
+        },
+        {
+          "word": "sonriente",
+          "start": 125.98,
+          "end": 127.64
+        },
+        {
+          "word": "al",
+          "start": 127.64,
+          "end": 128.12
+        },
+        {
+          "word": "contemplar",
+          "start": 128.12,
+          "end": 129.74
+        }
+      ],
+      "start": 124.42,
+      "end": 129.74,
+      "confidence": 0.76,
+      "time": 124.42
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "¡cuánto gozo siento en mí!",
+      "words": [
+        {
+          "word": "Cuanto",
+          "start": 129.74,
+          "end": 130.38
+        },
+        {
+          "word": "gozo",
+          "start": 130.38,
+          "end": 131.68
+        },
+        {
+          "word": "siento",
+          "start": 131.68,
+          "end": 132.42
+        },
+        {
+          "word": "en",
+          "start": 132.42,
+          "end": 133.22
+        },
+        {
+          "word": "mí",
+          "start": 133.22,
+          "end": 135.16
+        }
+      ],
+      "start": 129.74,
+      "end": 135.16,
+      "confidence": 1.0,
+      "time": 129.74
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "En mi alma hoy reina gratitud",
+      "verse": 4,
+      "words": [
+        {
+          "word": "En",
+          "start": 135.16,
+          "end": 136.72
+        },
+        {
+          "word": "mi",
+          "start": 136.72,
+          "end": 137.2
+        },
+        {
+          "word": "alma",
+          "start": 137.2,
+          "end": 137.84
+        },
+        {
+          "word": "hoy",
+          "start": 137.84,
+          "end": 138.18
+        },
+        {
+          "word": "reina",
+          "start": 138.18,
+          "end": 138.76
+        },
+        {
+          "word": "gratitud",
+          "start": 138.76,
+          "end": 141.0
+        }
+      ],
+      "start": 135.16,
+      "end": 141.0,
+      "confidence": 1.0,
+      "time": 135.16
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "y loores a Jesús.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 141.0,
+          "end": 141.88
+        },
+        {
+          "word": "lores",
+          "start": 141.88,
+          "end": 143.18
+        },
+        {
+          "word": "a",
+          "start": 143.18,
+          "end": 143.96
+        },
+        {
+          "word": "Jesús",
+          "start": 143.96,
+          "end": 145.9
+        }
+      ],
+      "start": 141.0,
+      "end": 145.9,
+      "confidence": 0.986,
+      "time": 141.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "En su presencia hay virtud,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "en",
+          "start": 145.9,
+          "end": 146.98
+        },
+        {
+          "word": "su",
+          "start": 146.98,
+          "end": 147.72
+        },
+        {
+          "word": "presencia",
+          "start": 147.72,
+          "end": 148.82
+        },
+        {
+          "word": "hay",
+          "start": 148.82,
+          "end": 149.26
+        },
+        {
+          "word": "virtud",
+          "start": 149.26,
+          "end": 151.1
+        }
+      ],
+      "start": 145.9,
+      "end": 151.1,
+      "confidence": 1.0,
+      "time": 145.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "hay gozo en su luz.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "hay",
+          "start": 151.1,
+          "end": 152.04
+        },
+        {
+          "word": "gozo",
+          "start": 152.04,
+          "end": 153.28
+        },
+        {
+          "word": "en",
+          "start": 153.28,
+          "end": 153.92
+        },
+        {
+          "word": "su",
+          "start": 153.92,
+          "end": 154.6
+        },
+        {
+          "word": "luz",
+          "start": 154.6,
+          "end": 156.08
+        }
+      ],
+      "start": 151.1,
+      "end": 156.08,
+      "confidence": 1.0,
+      "time": 151.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Brilla el sol de Cristo en mi alma;",
+      "words": [
+        {
+          "word": "brilla",
+          "start": 156.08,
+          "end": 156.86
+        },
+        {
+          "word": "el",
+          "start": 156.86,
+          "end": 157.16
+        },
+        {
+          "word": "sol",
+          "start": 157.16,
+          "end": 158.2
+        },
+        {
+          "word": "de",
+          "start": 158.2,
+          "end": 158.96
+        },
+        {
+          "word": "Cristo",
+          "start": 158.96,
+          "end": 159.32
+        },
+        {
+          "word": "en",
+          "start": 159.32,
+          "end": 159.56
+        },
+        {
+          "word": "mi",
+          "start": 159.56,
+          "end": 160.12
+        },
+        {
+          "word": "alma",
+          "start": 160.12,
+          "end": 161.16
+        }
+      ],
+      "start": 156.08,
+      "end": 161.16,
+      "confidence": 1.0,
+      "time": 156.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "cada día voy feliz así.",
+      "words": [
+        {
+          "word": "cada",
+          "start": 161.16,
+          "end": 161.98
+        },
+        {
+          "word": "día",
+          "start": 161.98,
+          "end": 163.22
+        },
+        {
+          "word": "voy",
+          "start": 163.22,
+          "end": 163.6
+        },
+        {
+          "word": "feliz",
+          "start": 163.6,
+          "end": 164.36
+        },
+        {
+          "word": "así",
+          "start": 164.36,
+          "end": 166.22
+        }
+      ],
+      "start": 161.16,
+      "end": 166.22,
+      "confidence": 1.0,
+      "time": 161.16
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Su faz sonriente al contemplar,",
+      "words": [
+        {
+          "word": "Su",
+          "start": 166.22,
+          "end": 166.92
+        },
+        {
+          "word": "sonriente",
+          "start": 167.7,
+          "end": 169.3
+        },
+        {
+          "word": "al",
+          "start": 169.3,
+          "end": 169.88
+        },
+        {
+          "word": "contemplar",
+          "start": 169.88,
+          "end": 171.38
+        }
+      ],
+      "start": 166.22,
+      "end": 171.38,
+      "confidence": 0.8,
+      "time": 166.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "¡cuánto gozo siento en mí!",
+      "words": [
+        {
+          "word": "cuánto",
+          "start": 171.38,
+          "end": 172.24
+        },
+        {
+          "word": "gozo",
+          "start": 172.24,
+          "end": 173.5
+        },
+        {
+          "word": "siento",
+          "start": 173.5,
+          "end": 174.26
+        },
+        {
+          "word": "en",
+          "start": 174.26,
+          "end": 175.2
+        },
+        {
+          "word": "mí.",
+          "start": 175.2,
+          "end": 177.46
+        }
+      ],
+      "start": 171.38,
+      "end": 177.46,
+      "confidence": 1.0,
+      "time": 171.38
+    }
+  ]
+}

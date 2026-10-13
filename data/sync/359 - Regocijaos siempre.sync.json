@@ -1,0 +1,186 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.651,
+  "language": "es",
+  "model": "medium",
+  "hymn": 359,
+  "source": "359 - Regocijaos siempre.mp3",
+  "duration": 35.92,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Regocijaos siempre",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Regos,",
+          "start": 11.04,
+          "end": 11.88
+        }
+      ],
+      "start": 11.04,
+      "end": 21.48,
+      "confidence": 0.4,
+      "time": 11.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en Jesús, nuestro Señor.",
+      "verse": 1,
+      "start": 21.48,
+      "end": 21.68,
+      "confidence": 0.0,
+      "time": 21.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Regocijaos siempre",
+      "verse": 1,
+      "words": [
+        {
+          "word": "siempre,",
+          "start": 12.9,
+          "end": 13.8
+        }
+      ],
+      "start": 21.68,
+      "end": 21.88,
+      "confidence": 0.5,
+      "time": 21.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en Jesús, nuestro Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús,",
+          "start": 14.0,
+          "end": 14.36
+        },
+        {
+          "word": "nuestro",
+          "start": 14.58,
+          "end": 15.1
+        },
+        {
+          "word": "Señor.",
+          "start": 15.1,
+          "end": 21.48
+        }
+      ],
+      "start": 21.88,
+      "end": 22.08,
+      "confidence": 0.75,
+      "time": 21.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Gozaos, gozaos,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Gozados,",
+          "start": 21.48,
+          "end": 23.34
+        },
+        {
+          "word": "gozados,",
+          "start": 23.42,
+          "end": 24.72
+        }
+      ],
+      "start": 22.08,
+      "end": 25.06,
+      "confidence": 0.954,
+      "time": 22.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "lo vuelvo a repetir.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "lo",
+          "start": 25.06,
+          "end": 25.08
+        },
+        {
+          "word": "vuelvo",
+          "start": 25.08,
+          "end": 25.72
+        },
+        {
+          "word": "a",
+          "start": 25.72,
+          "end": 26.1
+        },
+        {
+          "word": "repetir,",
+          "start": 26.1,
+          "end": 27.36
+        }
+      ],
+      "start": 25.06,
+      "end": 28.0,
+      "confidence": 1.0,
+      "time": 25.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Gozaos, gozaos,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Gozados,",
+          "start": 28.0,
+          "end": 28.8
+        },
+        {
+          "word": "gozados,",
+          "start": 29.02,
+          "end": 30.18
+        }
+      ],
+      "start": 28.0,
+      "end": 30.48,
+      "confidence": 0.954,
+      "time": 28.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "en Jesús, nuestro Señor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Jesús",
+          "start": 30.48,
+          "end": 30.88
+        },
+        {
+          "word": "nuestro",
+          "start": 30.88,
+          "end": 31.52
+        },
+        {
+          "word": "Señor.",
+          "start": 31.52,
+          "end": 32.58
+        }
+      ],
+      "start": 30.48,
+      "end": 32.58,
+      "confidence": 0.75,
+      "time": 30.48
+    }
+  ]
+}

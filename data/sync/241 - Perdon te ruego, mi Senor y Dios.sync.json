@@ -1,0 +1,726 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.991,
+  "language": "es",
+  "model": "medium",
+  "hymn": 241,
+  "source": "241 - Perdon te ruego, mi Senor y Dios.mp3",
+  "duration": 167.55,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Si fui motivo de dolor, oh Cristo,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Si",
+          "start": 17.06,
+          "end": 18.46
+        },
+        {
+          "word": "fui",
+          "start": 18.46,
+          "end": 18.94
+        },
+        {
+          "word": "motivo",
+          "start": 18.94,
+          "end": 20.52
+        },
+        {
+          "word": "de",
+          "start": 20.52,
+          "end": 21.24
+        },
+        {
+          "word": "dolor,",
+          "start": 21.24,
+          "end": 23.16
+        },
+        {
+          "word": "oh",
+          "start": 23.38,
+          "end": 23.74
+        },
+        {
+          "word": "Cristo,",
+          "start": 23.74,
+          "end": 25.52
+        }
+      ],
+      "start": 17.06,
+      "end": 25.52,
+      "confidence": 1.0,
+      "time": 17.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "si por mi causa el débil tropezó;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "si",
+          "start": 25.52,
+          "end": 27.44
+        },
+        {
+          "word": "por",
+          "start": 27.44,
+          "end": 27.98
+        },
+        {
+          "word": "mi",
+          "start": 27.98,
+          "end": 28.34
+        },
+        {
+          "word": "causa",
+          "start": 28.34,
+          "end": 30.06
+        },
+        {
+          "word": "el",
+          "start": 30.06,
+          "end": 30.62
+        },
+        {
+          "word": "débil",
+          "start": 30.62,
+          "end": 32.02
+        },
+        {
+          "word": "tropezó,",
+          "start": 32.02,
+          "end": 34.52
+        }
+      ],
+      "start": 25.52,
+      "end": 34.52,
+      "confidence": 1.0,
+      "time": 25.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "si en tus pisadas caminar no quise,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "si",
+          "start": 36.1,
+          "end": 36.5
+        },
+        {
+          "word": "en",
+          "start": 36.5,
+          "end": 36.6
+        },
+        {
+          "word": "tus",
+          "start": 36.6,
+          "end": 36.92
+        },
+        {
+          "word": "pisadas",
+          "start": 36.92,
+          "end": 38.76
+        },
+        {
+          "word": "caminar",
+          "start": 38.76,
+          "end": 40.96
+        },
+        {
+          "word": "no",
+          "start": 40.96,
+          "end": 41.86
+        },
+        {
+          "word": "quise,",
+          "start": 41.86,
+          "end": 43.52
+        }
+      ],
+      "start": 36.1,
+      "end": 43.52,
+      "confidence": 1.0,
+      "time": 36.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "perdón te ruego, mi Señor y Dios.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "perdón",
+          "start": 45.4,
+          "end": 45.94
+        },
+        {
+          "word": "te",
+          "start": 45.94,
+          "end": 46.34
+        },
+        {
+          "word": "ruego",
+          "start": 46.34,
+          "end": 48.44
+        },
+        {
+          "word": "mi",
+          "start": 48.44,
+          "end": 49.7
+        },
+        {
+          "word": "Señor",
+          "start": 49.7,
+          "end": 50.46
+        },
+        {
+          "word": "y",
+          "start": 50.46,
+          "end": 50.88
+        },
+        {
+          "word": "Dios.",
+          "start": 50.88,
+          "end": 52.52
+        }
+      ],
+      "start": 45.4,
+      "end": 52.52,
+      "confidence": 1.0,
+      "time": 45.4
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Escucha, oh Dios, mi confesión humilde",
+      "words": [
+        {
+          "word": "Escucha",
+          "start": 52.52,
+          "end": 55.22
+        },
+        {
+          "word": "Dios",
+          "start": 55.38,
+          "end": 56.72
+        },
+        {
+          "word": "mi",
+          "start": 56.72,
+          "end": 57.56
+        },
+        {
+          "word": "confesión",
+          "start": 57.56,
+          "end": 59.5
+        },
+        {
+          "word": "humilde",
+          "start": 59.5,
+          "end": 62.02
+        }
+      ],
+      "start": 52.52,
+      "end": 62.02,
+      "confidence": 0.833,
+      "time": 52.52
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "y líbrame de tentación sutil.",
+      "words": [
+        {
+          "word": "Y",
+          "start": 62.02,
+          "end": 63.62
+        },
+        {
+          "word": "líbrame",
+          "start": 63.62,
+          "end": 65.5
+        },
+        {
+          "word": "de",
+          "start": 65.5,
+          "end": 66.58
+        },
+        {
+          "word": "tentación",
+          "start": 66.58,
+          "end": 68.36
+        },
+        {
+          "word": "sutil",
+          "start": 68.36,
+          "end": 70.52
+        }
+      ],
+      "start": 62.02,
+      "end": 70.52,
+      "confidence": 1.0,
+      "time": 62.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Preserva siempre mi alma en tu rebaño.",
+      "words": [
+        {
+          "word": "Preserva",
+          "start": 71.84,
+          "end": 73.28
+        },
+        {
+          "word": "siempre",
+          "start": 73.28,
+          "end": 75.16
+        },
+        {
+          "word": "mi",
+          "start": 75.16,
+          "end": 76.0
+        },
+        {
+          "word": "alma",
+          "start": 76.0,
+          "end": 76.78
+        },
+        {
+          "word": "en",
+          "start": 76.78,
+          "end": 77.08
+        },
+        {
+          "word": "tu",
+          "start": 77.08,
+          "end": 77.4
+        },
+        {
+          "word": "rebaño",
+          "start": 77.4,
+          "end": 79.52
+        }
+      ],
+      "start": 71.84,
+      "end": 79.52,
+      "confidence": 1.0,
+      "time": 71.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Perdón te ruego, mi Señor y Dios.",
+      "words": [
+        {
+          "word": "Perdón,",
+          "start": 79.52,
+          "end": 82.0
+        },
+        {
+          "word": "te",
+          "start": 82.3,
+          "end": 82.4
+        },
+        {
+          "word": "ruego,",
+          "start": 82.4,
+          "end": 84.36
+        },
+        {
+          "word": "mi",
+          "start": 84.42,
+          "end": 85.74
+        },
+        {
+          "word": "Señor",
+          "start": 85.74,
+          "end": 86.48
+        },
+        {
+          "word": "y",
+          "start": 86.48,
+          "end": 86.9
+        },
+        {
+          "word": "Dios",
+          "start": 86.9,
+          "end": 89.9
+        }
+      ],
+      "start": 79.52,
+      "end": 89.9,
+      "confidence": 1.0,
+      "time": 79.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Si vana y fútil mi palabra ha sido,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 89.9,
+          "end": 90.58
+        },
+        {
+          "word": "vana",
+          "start": 90.58,
+          "end": 91.16
+        },
+        {
+          "word": "y",
+          "start": 91.16,
+          "end": 91.78
+        },
+        {
+          "word": "fútil",
+          "start": 91.78,
+          "end": 92.82
+        },
+        {
+          "word": "mi",
+          "start": 92.82,
+          "end": 93.18
+        },
+        {
+          "word": "palabra",
+          "start": 93.18,
+          "end": 95.3
+        },
+        {
+          "word": "ha",
+          "start": 95.3,
+          "end": 96.06
+        },
+        {
+          "word": "sido",
+          "start": 96.06,
+          "end": 97.56
+        }
+      ],
+      "start": 89.9,
+      "end": 97.56,
+      "confidence": 1.0,
+      "time": 89.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "si al que sufría en su dolor dejé;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 97.56,
+          "end": 99.28
+        },
+        {
+          "word": "al",
+          "start": 99.28,
+          "end": 99.6
+        },
+        {
+          "word": "que",
+          "start": 99.6,
+          "end": 100.06
+        },
+        {
+          "word": "sufría",
+          "start": 100.06,
+          "end": 102.08
+        },
+        {
+          "word": "en",
+          "start": 102.08,
+          "end": 102.62
+        },
+        {
+          "word": "su",
+          "start": 102.62,
+          "end": 103.72
+        },
+        {
+          "word": "dolor",
+          "start": 103.72,
+          "end": 104.4
+        },
+        {
+          "word": "dejé",
+          "start": 104.4,
+          "end": 107.6
+        }
+      ],
+      "start": 97.56,
+      "end": 107.6,
+      "confidence": 1.0,
+      "time": 97.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "si egoísta fui en mis motivos,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Si",
+          "start": 107.6,
+          "end": 108.86
+        },
+        {
+          "word": "egoísta",
+          "start": 108.86,
+          "end": 110.72
+        },
+        {
+          "word": "fui",
+          "start": 110.72,
+          "end": 111.3
+        },
+        {
+          "word": "en",
+          "start": 111.3,
+          "end": 112.38
+        },
+        {
+          "word": "mis",
+          "start": 112.38,
+          "end": 113.08
+        },
+        {
+          "word": "motivos,",
+          "start": 113.08,
+          "end": 116.94
+        }
+      ],
+      "start": 107.6,
+      "end": 117.54,
+      "confidence": 1.0,
+      "time": 107.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "perdón te ruego, mi Señor y Dios.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "perdón,",
+          "start": 117.54,
+          "end": 117.96
+        },
+        {
+          "word": "te",
+          "start": 118.24,
+          "end": 118.4
+        },
+        {
+          "word": "ruego,",
+          "start": 118.4,
+          "end": 120.16
+        },
+        {
+          "word": "mi",
+          "start": 120.62,
+          "end": 121.74
+        },
+        {
+          "word": "Señor",
+          "start": 121.74,
+          "end": 122.5
+        },
+        {
+          "word": "y",
+          "start": 122.5,
+          "end": 122.92
+        },
+        {
+          "word": "Dios.",
+          "start": 122.92,
+          "end": 125.88
+        }
+      ],
+      "start": 117.54,
+      "end": 125.88,
+      "confidence": 1.0,
+      "time": 117.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Escucha, oh Dios, mi confesión humilde",
+      "words": [
+        {
+          "word": "Escucha,",
+          "start": 125.88,
+          "end": 127.28
+        },
+        {
+          "word": "oh",
+          "start": 127.3,
+          "end": 127.52
+        },
+        {
+          "word": "Dios,",
+          "start": 127.52,
+          "end": 128.72
+        },
+        {
+          "word": "mi",
+          "start": 129.32,
+          "end": 129.56
+        },
+        {
+          "word": "confesión",
+          "start": 129.56,
+          "end": 131.5
+        },
+        {
+          "word": "humilde",
+          "start": 131.5,
+          "end": 133.78
+        }
+      ],
+      "start": 125.88,
+      "end": 133.78,
+      "confidence": 1.0,
+      "time": 125.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "y líbrame de tentación sutil.",
+      "words": [
+        {
+          "word": "y",
+          "start": 134.88,
+          "end": 135.6
+        },
+        {
+          "word": "líbrame",
+          "start": 135.6,
+          "end": 137.14
+        },
+        {
+          "word": "de",
+          "start": 137.14,
+          "end": 138.54
+        },
+        {
+          "word": "tentación",
+          "start": 138.54,
+          "end": 140.4
+        },
+        {
+          "word": "sutil.",
+          "start": 140.4,
+          "end": 143.82
+        }
+      ],
+      "start": 134.88,
+      "end": 143.82,
+      "confidence": 1.0,
+      "time": 134.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Preserva siempre mi alma en tu rebaño.",
+      "words": [
+        {
+          "word": "Preserva",
+          "start": 144.2,
+          "end": 145.32
+        },
+        {
+          "word": "siempre",
+          "start": 145.32,
+          "end": 147.24
+        },
+        {
+          "word": "mi",
+          "start": 147.24,
+          "end": 147.98
+        },
+        {
+          "word": "alma",
+          "start": 147.98,
+          "end": 148.84
+        },
+        {
+          "word": "en",
+          "start": 148.84,
+          "end": 149.16
+        },
+        {
+          "word": "tu",
+          "start": 149.16,
+          "end": 149.44
+        },
+        {
+          "word": "rebaño,",
+          "start": 149.44,
+          "end": 152.64
+        }
+      ],
+      "start": 144.2,
+      "end": 152.64,
+      "confidence": 1.0,
+      "time": 144.2
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Perdón te ruego, mi Señor y Dios.",
+      "words": [
+        {
+          "word": "Perdón,",
+          "start": 152.64,
+          "end": 154.02
+        },
+        {
+          "word": "te",
+          "start": 154.28,
+          "end": 154.42
+        },
+        {
+          "word": "ruego,",
+          "start": 154.42,
+          "end": 156.54
+        },
+        {
+          "word": "mi",
+          "start": 156.78,
+          "end": 157.82
+        },
+        {
+          "word": "Señor",
+          "start": 157.82,
+          "end": 158.62
+        },
+        {
+          "word": "y",
+          "start": 158.62,
+          "end": 159.14
+        },
+        {
+          "word": "Dios.",
+          "start": 159.14,
+          "end": 161.2
+        }
+      ],
+      "start": 152.64,
+      "end": 161.2,
+      "confidence": 1.0,
+      "time": 152.64
+    }
+  ]
+}

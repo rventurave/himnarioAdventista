@@ -1,0 +1,888 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.959,
+  "language": "es",
+  "model": "medium",
+  "hymn": 216,
+  "source": "216 - Dios al prodigo llama.mp3",
+  "duration": 183.93,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Dios al pródigo llama que venga sin tardar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Dios",
+          "start": 13.14,
+          "end": 14.54
+        },
+        {
+          "word": "al",
+          "start": 14.54,
+          "end": 15.7
+        },
+        {
+          "word": "Prodigo",
+          "start": 15.7,
+          "end": 16.62
+        },
+        {
+          "word": "llama",
+          "start": 16.62,
+          "end": 17.06
+        },
+        {
+          "word": "que",
+          "start": 17.06,
+          "end": 17.52
+        },
+        {
+          "word": "venga",
+          "start": 17.52,
+          "end": 18.28
+        },
+        {
+          "word": "sin",
+          "start": 18.28,
+          "end": 18.92
+        },
+        {
+          "word": "tardar",
+          "start": 18.92,
+          "end": 20.8
+        }
+      ],
+      "start": 13.14,
+      "end": 20.8,
+      "confidence": 1.0,
+      "time": 13.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Oye pues su voz que hoy te llama a ti.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Oye",
+          "start": 20.8,
+          "end": 21.84
+        },
+        {
+          "word": "pues",
+          "start": 21.84,
+          "end": 22.34
+        },
+        {
+          "word": "su",
+          "start": 22.34,
+          "end": 22.78
+        },
+        {
+          "word": "voz",
+          "start": 22.78,
+          "end": 23.54
+        },
+        {
+          "word": "que",
+          "start": 23.54,
+          "end": 24.6
+        },
+        {
+          "word": "hoy",
+          "start": 24.6,
+          "end": 24.98
+        },
+        {
+          "word": "te",
+          "start": 24.98,
+          "end": 25.44
+        },
+        {
+          "word": "llama",
+          "start": 25.44,
+          "end": 26.12
+        },
+        {
+          "word": "a",
+          "start": 26.12,
+          "end": 26.72
+        },
+        {
+          "word": "ti",
+          "start": 26.72,
+          "end": 27.66
+        }
+      ],
+      "start": 20.8,
+      "end": 27.66,
+      "confidence": 1.0,
+      "time": 20.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Aunque lejos vagabas del paternal hogar,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Aunque",
+          "start": 27.66,
+          "end": 29.06
+        },
+        {
+          "word": "lejos",
+          "start": 29.06,
+          "end": 30.26
+        },
+        {
+          "word": "vagabas",
+          "start": 30.26,
+          "end": 31.2
+        },
+        {
+          "word": "del",
+          "start": 31.2,
+          "end": 31.48
+        },
+        {
+          "word": "paternal",
+          "start": 31.48,
+          "end": 32.98
+        },
+        {
+          "word": "hogar",
+          "start": 32.98,
+          "end": 34.74
+        }
+      ],
+      "start": 27.66,
+      "end": 34.74,
+      "confidence": 1.0,
+      "time": 27.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "amoroso llámate aún.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Amoroso,",
+          "start": 34.74,
+          "end": 36.6
+        },
+        {
+          "word": "llámate",
+          "start": 37.48,
+          "end": 38.34
+        },
+        {
+          "word": "aún",
+          "start": 38.34,
+          "end": 41.32
+        }
+      ],
+      "start": 34.74,
+      "end": 41.32,
+      "confidence": 1.0,
+      "time": 34.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Llámate hoy a ti,",
+      "words": [
+        {
+          "word": "Llámate",
+          "start": 43.34,
+          "end": 44.74
+        },
+        {
+          "word": "hoy",
+          "start": 44.74,
+          "end": 45.12
+        },
+        {
+          "word": "a",
+          "start": 45.12,
+          "end": 45.72
+        },
+        {
+          "word": "ti",
+          "start": 45.72,
+          "end": 47.56
+        }
+      ],
+      "start": 43.34,
+      "end": 47.56,
+      "confidence": 1.0,
+      "time": 43.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "cansado pródigo, ven;",
+      "words": [
+        {
+          "word": "Cansado,",
+          "start": 49.86,
+          "end": 51.26
+        },
+        {
+          "word": "prodigo,",
+          "start": 51.36,
+          "end": 52.14
+        },
+        {
+          "word": "ven",
+          "start": 52.24,
+          "end": 54.52
+        }
+      ],
+      "start": 49.86,
+      "end": 54.52,
+      "confidence": 1.0,
+      "time": 49.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "llámate hoy a ti,",
+      "words": [
+        {
+          "word": "Llámate,",
+          "start": 57.08,
+          "end": 58.38
+        },
+        {
+          "word": "voy",
+          "start": 58.66,
+          "end": 58.76
+        },
+        {
+          "word": "a",
+          "start": 58.76,
+          "end": 59.14
+        },
+        {
+          "word": "ti",
+          "start": 59.14,
+          "end": 60.52
+        }
+      ],
+      "start": 57.08,
+      "end": 60.52,
+      "confidence": 0.95,
+      "time": 57.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "cansado pródigo, ven.",
+      "words": [
+        {
+          "word": "Cansado,",
+          "start": 63.66,
+          "end": 64.96
+        },
+        {
+          "word": "digo",
+          "start": 65.32,
+          "end": 65.86
+        }
+      ],
+      "start": 63.66,
+      "end": 68.52,
+      "confidence": 0.612,
+      "time": 63.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Tierno, amante, paciente, tu Padre implora aún.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Tierno",
+          "start": 69.22,
+          "end": 70.78
+        },
+        {
+          "word": "amante,",
+          "start": 70.78,
+          "end": 71.96
+        },
+        {
+          "word": "paciente",
+          "start": 72.0,
+          "end": 72.78
+        },
+        {
+          "word": "tu",
+          "start": 72.78,
+          "end": 73.16
+        },
+        {
+          "word": "Padre",
+          "start": 73.16,
+          "end": 73.96
+        },
+        {
+          "word": "implora",
+          "start": 73.96,
+          "end": 74.9
+        },
+        {
+          "word": "aún",
+          "start": 74.9,
+          "end": 75.55
+        }
+      ],
+      "start": 69.22,
+      "end": 75.55,
+      "confidence": 1.0,
+      "time": 69.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Oye pues su voz que hoy te llama a ti.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Oye",
+          "start": 76.5,
+          "end": 77.54
+        },
+        {
+          "word": "pues",
+          "start": 77.54,
+          "end": 78.08
+        },
+        {
+          "word": "su",
+          "start": 78.08,
+          "end": 78.54
+        },
+        {
+          "word": "voz",
+          "start": 78.54,
+          "end": 79.18
+        },
+        {
+          "word": "que",
+          "start": 79.18,
+          "end": 80.1
+        },
+        {
+          "word": "hoy",
+          "start": 80.1,
+          "end": 80.6
+        },
+        {
+          "word": "te",
+          "start": 80.6,
+          "end": 81.08
+        },
+        {
+          "word": "llama",
+          "start": 81.08,
+          "end": 81.74
+        },
+        {
+          "word": "a",
+          "start": 81.74,
+          "end": 82.16
+        },
+        {
+          "word": "ti",
+          "start": 82.16,
+          "end": 82.81
+        }
+      ],
+      "start": 76.5,
+      "end": 82.81,
+      "confidence": 1.0,
+      "time": 76.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Vuelve mientras abogue por ti el Espíritu;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Vuelve",
+          "start": 82.81,
+          "end": 85.25
+        },
+        {
+          "word": "mientras",
+          "start": 85.25,
+          "end": 85.93
+        },
+        {
+          "word": "abogue",
+          "start": 85.93,
+          "end": 86.75
+        },
+        {
+          "word": "por",
+          "start": 86.75,
+          "end": 87.05
+        },
+        {
+          "word": "ti",
+          "start": 87.05,
+          "end": 87.55
+        },
+        {
+          "word": "el",
+          "start": 87.55,
+          "end": 87.99
+        },
+        {
+          "word": "Espíritu",
+          "start": 87.99,
+          "end": 90.53
+        }
+      ],
+      "start": 82.81,
+      "end": 90.53,
+      "confidence": 1.0,
+      "time": 82.81
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "amoroso llámate aún.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "amoroso,",
+          "start": 90.53,
+          "end": 92.27
+        },
+        {
+          "word": "llámate",
+          "start": 92.63,
+          "end": 93.99
+        },
+        {
+          "word": "aún",
+          "start": 93.99,
+          "end": 96.81
+        }
+      ],
+      "start": 90.53,
+      "end": 96.81,
+      "confidence": 1.0,
+      "time": 90.53
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Llámate hoy a ti,",
+      "words": [
+        {
+          "word": "Llámate",
+          "start": 99.01,
+          "end": 100.41
+        },
+        {
+          "word": "hoy",
+          "start": 100.41,
+          "end": 100.75
+        },
+        {
+          "word": "a",
+          "start": 100.75,
+          "end": 101.55
+        },
+        {
+          "word": "ti,",
+          "start": 101.55,
+          "end": 103.29
+        }
+      ],
+      "start": 99.01,
+      "end": 103.49,
+      "confidence": 1.0,
+      "time": 99.01
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "cansado pródigo, ven;",
+      "words": [
+        {
+          "word": "cansado",
+          "start": 103.49,
+          "end": 106.95
+        },
+        {
+          "word": "prodigo",
+          "start": 106.95,
+          "end": 107.83
+        },
+        {
+          "word": "ven",
+          "start": 107.83,
+          "end": 109.89
+        }
+      ],
+      "start": 103.49,
+      "end": 109.89,
+      "confidence": 1.0,
+      "time": 103.49
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "llámate hoy a ti,",
+      "words": [
+        {
+          "word": "Llámate,",
+          "start": 112.87,
+          "end": 114.01
+        },
+        {
+          "word": "voy",
+          "start": 114.35,
+          "end": 114.37
+        },
+        {
+          "word": "a",
+          "start": 114.37,
+          "end": 114.85
+        },
+        {
+          "word": "ti",
+          "start": 114.85,
+          "end": 115.89
+        }
+      ],
+      "start": 112.87,
+      "end": 115.89,
+      "confidence": 0.95,
+      "time": 112.87
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "cansado pródigo, ven.",
+      "words": [
+        {
+          "word": "Cansado,",
+          "start": 119.45,
+          "end": 120.59
+        },
+        {
+          "word": "dígome",
+          "start": 121.05,
+          "end": 123.89
+        }
+      ],
+      "start": 119.45,
+      "end": 123.89,
+      "confidence": 0.59,
+      "time": 119.45
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Ven, recibe el abrazo del Padre celestial.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Ven,",
+          "start": 124.41,
+          "end": 126.13
+        },
+        {
+          "word": "recibe",
+          "start": 127.15,
+          "end": 127.61
+        },
+        {
+          "word": "el",
+          "start": 127.61,
+          "end": 127.95
+        },
+        {
+          "word": "abrazo",
+          "start": 127.95,
+          "end": 128.61
+        },
+        {
+          "word": "del",
+          "start": 128.61,
+          "end": 128.89
+        },
+        {
+          "word": "Padre",
+          "start": 128.89,
+          "end": 130.19
+        },
+        {
+          "word": "Celestial",
+          "start": 130.19,
+          "end": 131.99
+        }
+      ],
+      "start": 124.41,
+      "end": 131.99,
+      "confidence": 1.0,
+      "time": 124.41
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Oye pues su voz que hoy te llama a ti.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Oye,",
+          "start": 131.99,
+          "end": 133.21
+        },
+        {
+          "word": "pues,",
+          "start": 133.73,
+          "end": 133.73
+        },
+        {
+          "word": "su",
+          "start": 133.93,
+          "end": 134.17
+        },
+        {
+          "word": "voz",
+          "start": 134.17,
+          "end": 134.87
+        },
+        {
+          "word": "que",
+          "start": 134.87,
+          "end": 135.85
+        },
+        {
+          "word": "hoy",
+          "start": 135.85,
+          "end": 136.33
+        },
+        {
+          "word": "te",
+          "start": 136.33,
+          "end": 136.79
+        },
+        {
+          "word": "llama",
+          "start": 136.79,
+          "end": 137.41
+        },
+        {
+          "word": "a",
+          "start": 137.41,
+          "end": 137.85
+        },
+        {
+          "word": "ti",
+          "start": 137.85,
+          "end": 138.42
+        }
+      ],
+      "start": 131.99,
+      "end": 138.42,
+      "confidence": 1.0,
+      "time": 131.99
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Entra alegre al banquete que brinda, sin igual;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Entra",
+          "start": 138.42,
+          "end": 140.98
+        },
+        {
+          "word": "alegre",
+          "start": 140.98,
+          "end": 141.42
+        },
+        {
+          "word": "al",
+          "start": 141.42,
+          "end": 141.62
+        },
+        {
+          "word": "banquete",
+          "start": 141.62,
+          "end": 142.42
+        },
+        {
+          "word": "que",
+          "start": 142.42,
+          "end": 142.86
+        },
+        {
+          "word": "brindas",
+          "start": 142.86,
+          "end": 143.96
+        },
+        {
+          "word": "sin",
+          "start": 143.96,
+          "end": 144.44
+        },
+        {
+          "word": "igual",
+          "start": 144.44,
+          "end": 145.84
+        }
+      ],
+      "start": 138.42,
+      "end": 145.84,
+      "confidence": 0.993,
+      "time": 138.42
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "amoroso llámate aún.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Amoroso",
+          "start": 145.84,
+          "end": 147.94
+        },
+        {
+          "word": "llámate",
+          "start": 147.94,
+          "end": 149.64
+        },
+        {
+          "word": "aún",
+          "start": 149.64,
+          "end": 152.64
+        }
+      ],
+      "start": 145.84,
+      "end": 152.64,
+      "confidence": 1.0,
+      "time": 145.84
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Llámate hoy a ti,",
+      "words": [
+        {
+          "word": "Llámate",
+          "start": 154.62,
+          "end": 156.02
+        },
+        {
+          "word": "hoy",
+          "start": 156.02,
+          "end": 156.44
+        }
+      ],
+      "start": 154.62,
+      "end": 158.84,
+      "confidence": 0.5,
+      "time": 154.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "cansado pródigo, ven;",
+      "words": [
+        {
+          "word": "Cansado",
+          "start": 161.18,
+          "end": 162.58
+        },
+        {
+          "word": "prodigo",
+          "start": 162.58,
+          "end": 163.54
+        },
+        {
+          "word": "ven",
+          "start": 163.54,
+          "end": 165.56
+        }
+      ],
+      "start": 161.18,
+      "end": 165.56,
+      "confidence": 1.0,
+      "time": 161.18
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "llámate hoy a ti,",
+      "words": [
+        {
+          "word": "Llámate,",
+          "start": 168.5,
+          "end": 169.66
+        },
+        {
+          "word": "voy",
+          "start": 170.02,
+          "end": 170.04
+        },
+        {
+          "word": "a",
+          "start": 170.04,
+          "end": 170.44
+        },
+        {
+          "word": "ti,",
+          "start": 170.44,
+          "end": 172.58
+        }
+      ],
+      "start": 168.5,
+      "end": 173.16,
+      "confidence": 0.95,
+      "time": 168.5
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "cansado pródigo, ven.",
+      "words": [
+        {
+          "word": "cansado",
+          "start": 173.16,
+          "end": 176.3
+        },
+        {
+          "word": "prodigo,",
+          "start": 176.3,
+          "end": 177.3
+        },
+        {
+          "word": "ven.",
+          "start": 177.58,
+          "end": 177.94
+        }
+      ],
+      "start": 173.16,
+      "end": 177.94,
+      "confidence": 1.0,
+      "time": 173.16
+    }
+  ]
+}

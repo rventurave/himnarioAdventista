@@ -1,0 +1,651 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.862,
+  "language": "es",
+  "model": "medium",
+  "hymn": 436,
+  "source": "436 - El vive hoy.mp3",
+  "duration": 193.46,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Dios nos envió a Jesucristo",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 17.2,
+          "end": 17.22
+        },
+        {
+          "word": "la",
+          "start": 17.32,
+          "end": 17.34
+        },
+        {
+          "word": "Jesucristo",
+          "start": 17.36,
+          "end": 22.16
+        }
+      ],
+      "start": 17.2,
+      "end": 29.98,
+      "confidence": 0.548,
+      "time": 17.2
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "para sufrir en mi lugar.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Mi",
+          "start": 32.78,
+          "end": 34.18
+        }
+      ],
+      "start": 32.78,
+      "end": 34.66,
+      "confidence": 0.2,
+      "time": 32.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Vivió y murió por rescatarme;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "murió,",
+          "start": 34.66,
+          "end": 38.48
+        },
+        {
+          "word": "por",
+          "start": 39.36,
+          "end": 39.56
+        },
+        {
+          "word": "rescatarme,",
+          "start": 39.56,
+          "end": 44.18
+        }
+      ],
+      "start": 34.66,
+      "end": 44.74,
+      "confidence": 0.6,
+      "time": 34.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "vacía está su tumba, sé que él vive hoy.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "vacía",
+          "start": 44.74,
+          "end": 46.26
+        },
+        {
+          "word": "está",
+          "start": 46.26,
+          "end": 47.34
+        },
+        {
+          "word": "su",
+          "start": 47.34,
+          "end": 47.76
+        },
+        {
+          "word": "tumba,",
+          "start": 47.76,
+          "end": 49.34
+        },
+        {
+          "word": "él",
+          "start": 50.32,
+          "end": 50.84
+        },
+        {
+          "word": "vive",
+          "start": 50.84,
+          "end": 51.78
+        },
+        {
+          "word": "hoy,",
+          "start": 51.78,
+          "end": 54.96
+        }
+      ],
+      "start": 44.74,
+      "end": 55.62,
+      "confidence": 0.778,
+      "time": 44.74
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Él vive hoy, no hay mañana incierto.",
+      "words": [
+        {
+          "word": "él",
+          "start": 55.62,
+          "end": 56.34
+        },
+        {
+          "word": "vive",
+          "start": 56.34,
+          "end": 57.5
+        },
+        {
+          "word": "hoy.",
+          "start": 57.5,
+          "end": 58.2
+        },
+        {
+          "word": "No",
+          "start": 60.0,
+          "end": 61.02
+        },
+        {
+          "word": "hay",
+          "start": 61.02,
+          "end": 61.48
+        },
+        {
+          "word": "mañana",
+          "start": 61.48,
+          "end": 62.74
+        },
+        {
+          "word": "cierto,",
+          "start": 63.66,
+          "end": 65.36
+        }
+      ],
+      "start": 55.62,
+      "end": 66.76,
+      "confidence": 0.988,
+      "time": 55.62
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Él vive hoy, ya no hay temor.",
+      "words": [
+        {
+          "word": "él",
+          "start": 66.76,
+          "end": 67.42
+        },
+        {
+          "word": "vive",
+          "start": 67.42,
+          "end": 68.46
+        },
+        {
+          "word": "hoy,",
+          "start": 68.46,
+          "end": 71.62
+        },
+        {
+          "word": "ya",
+          "start": 72.02,
+          "end": 72.68
+        },
+        {
+          "word": "no",
+          "start": 72.68,
+          "end": 73.16
+        },
+        {
+          "word": "hay",
+          "start": 73.16,
+          "end": 73.78
+        },
+        {
+          "word": "temor.",
+          "start": 73.78,
+          "end": 77.22
+        }
+      ],
+      "start": 66.76,
+      "end": 77.22,
+      "confidence": 1.0,
+      "time": 66.76
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Mi vida tiene más sentido ahora,",
+      "words": [
+        {
+          "word": "Mi",
+          "start": 77.22,
+          "end": 78.32
+        },
+        {
+          "word": "vida",
+          "start": 78.32,
+          "end": 79.54
+        },
+        {
+          "word": "sentir",
+          "start": 83.04,
+          "end": 84.58
+        },
+        {
+          "word": "ahora,",
+          "start": 84.58,
+          "end": 86.7
+        }
+      ],
+      "start": 77.22,
+      "end": 86.7,
+      "confidence": 0.644,
+      "time": 77.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "pues mi futuro en sus manos hoy está.",
+      "words": [
+        {
+          "word": "pues",
+          "start": 88.56,
+          "end": 89.1
+        },
+        {
+          "word": "mi",
+          "start": 89.1,
+          "end": 89.8
+        },
+        {
+          "word": "futuro",
+          "start": 89.8,
+          "end": 91.64
+        },
+        {
+          "word": "en",
+          "start": 91.64,
+          "end": 92.36
+        },
+        {
+          "word": "sus",
+          "start": 92.36,
+          "end": 93.24
+        },
+        {
+          "word": "manos",
+          "start": 93.24,
+          "end": 94.62
+        },
+        {
+          "word": "hoy",
+          "start": 94.62,
+          "end": 95.88
+        },
+        {
+          "word": "está.",
+          "start": 95.88,
+          "end": 97.4
+        }
+      ],
+      "start": 88.56,
+      "end": 97.4,
+      "confidence": 1.0,
+      "time": 88.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Cuán dulce es un tierno niño,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¡Cuánto",
+          "start": 99.4,
+          "end": 100.8
+        },
+        {
+          "word": "dulce",
+          "start": 100.8,
+          "end": 102.2
+        },
+        {
+          "word": "es",
+          "start": 102.2,
+          "end": 105.0
+        },
+        {
+          "word": "un",
+          "start": 105.0,
+          "end": 105.78
+        },
+        {
+          "word": "tierno",
+          "start": 105.78,
+          "end": 107.02
+        },
+        {
+          "word": "niño!",
+          "start": 107.02,
+          "end": 109.04
+        }
+      ],
+      "start": 99.4,
+      "end": 110.58,
+      "confidence": 0.99,
+      "time": 99.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "cuánta ternura y gozo da.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "¡Cuánta",
+          "start": 110.58,
+          "end": 111.98
+        },
+        {
+          "word": "ternura",
+          "start": 111.98,
+          "end": 116.22
+        },
+        {
+          "word": "y",
+          "start": 116.22,
+          "end": 117.28
+        },
+        {
+          "word": "gozada!",
+          "start": 117.28,
+          "end": 119.16
+        }
+      ],
+      "start": 110.58,
+      "end": 119.16,
+      "confidence": 0.752,
+      "time": 110.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Pero es mejor saber que él puede",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Pero",
+          "start": 120.9,
+          "end": 122.3
+        },
+        {
+          "word": "es",
+          "start": 122.3,
+          "end": 123.32
+        },
+        {
+          "word": "mejor",
+          "start": 123.32,
+          "end": 126.6
+        },
+        {
+          "word": "saber",
+          "start": 126.6,
+          "end": 128.3
+        },
+        {
+          "word": "que",
+          "start": 128.3,
+          "end": 129.04
+        },
+        {
+          "word": "el",
+          "start": 129.04,
+          "end": 129.28
+        },
+        {
+          "word": "puente",
+          "start": 129.28,
+          "end": 132.26
+        }
+      ],
+      "start": 120.9,
+      "end": 132.26,
+      "confidence": 0.977,
+      "time": 120.9
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "triunfar mañana porque Cristo vive hoy.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "triunfará",
+          "start": 132.26,
+          "end": 134.56
+        },
+        {
+          "word": "mañana",
+          "start": 134.56,
+          "end": 135.84
+        },
+        {
+          "word": "porque",
+          "start": 135.84,
+          "end": 137.22
+        },
+        {
+          "word": "Cristo",
+          "start": 137.22,
+          "end": 138.66
+        },
+        {
+          "word": "vive",
+          "start": 138.66,
+          "end": 140.1
+        },
+        {
+          "word": "hoy.",
+          "start": 140.1,
+          "end": 143.24
+        }
+      ],
+      "start": 132.26,
+      "end": 143.24,
+      "confidence": 0.99,
+      "time": 132.26
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Él vive hoy, no hay mañana incierto.",
+      "words": [
+        {
+          "word": "Él",
+          "start": 143.24,
+          "end": 144.6
+        },
+        {
+          "word": "vive",
+          "start": 144.6,
+          "end": 145.78
+        },
+        {
+          "word": "hoy,",
+          "start": 145.78,
+          "end": 148.86
+        },
+        {
+          "word": "no",
+          "start": 149.2,
+          "end": 149.4
+        },
+        {
+          "word": "hay",
+          "start": 149.4,
+          "end": 149.72
+        },
+        {
+          "word": "nada",
+          "start": 149.72,
+          "end": 150.88
+        },
+        {
+          "word": "cierto,",
+          "start": 151.48,
+          "end": 153.22
+        }
+      ],
+      "start": 143.24,
+      "end": 154.78,
+      "confidence": 0.953,
+      "time": 143.24
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Él vive hoy, ya no hay temor.",
+      "words": [
+        {
+          "word": "Él",
+          "start": 154.78,
+          "end": 155.42
+        },
+        {
+          "word": "vive",
+          "start": 155.42,
+          "end": 156.72
+        },
+        {
+          "word": "hoy,",
+          "start": 156.72,
+          "end": 160.0
+        },
+        {
+          "word": "ya",
+          "start": 160.5,
+          "end": 160.88
+        },
+        {
+          "word": "no",
+          "start": 160.88,
+          "end": 161.46
+        },
+        {
+          "word": "hay",
+          "start": 161.46,
+          "end": 161.94
+        },
+        {
+          "word": "temor.",
+          "start": 161.94,
+          "end": 165.38
+        }
+      ],
+      "start": 154.78,
+      "end": 165.38,
+      "confidence": 1.0,
+      "time": 154.78
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Mi vida tiene más sentido ahora,",
+      "words": [
+        {
+          "word": "Mi",
+          "start": 165.38,
+          "end": 166.56
+        },
+        {
+          "word": "vida",
+          "start": 166.56,
+          "end": 167.7
+        },
+        {
+          "word": "tiene",
+          "start": 167.7,
+          "end": 170.5
+        },
+        {
+          "word": "más",
+          "start": 170.5,
+          "end": 171.24
+        },
+        {
+          "word": "sentido",
+          "start": 171.24,
+          "end": 173.04
+        },
+        {
+          "word": "ahora",
+          "start": 173.04,
+          "end": 176.14
+        }
+      ],
+      "start": 165.38,
+      "end": 176.14,
+      "confidence": 1.0,
+      "time": 165.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "pues mi futuro en sus manos hoy está.",
+      "words": [
+        {
+          "word": "Pues",
+          "start": 176.14,
+          "end": 177.42
+        },
+        {
+          "word": "mi",
+          "start": 177.42,
+          "end": 178.12
+        },
+        {
+          "word": "futuro",
+          "start": 178.12,
+          "end": 180.0
+        },
+        {
+          "word": "en",
+          "start": 180.0,
+          "end": 180.66
+        },
+        {
+          "word": "sus",
+          "start": 180.66,
+          "end": 181.56
+        },
+        {
+          "word": "manos",
+          "start": 181.56,
+          "end": 182.92
+        },
+        {
+          "word": "hoy",
+          "start": 182.92,
+          "end": 184.36
+        },
+        {
+          "word": "está",
+          "start": 184.36,
+          "end": 186.32
+        }
+      ],
+      "start": 176.14,
+      "end": 186.32,
+      "confidence": 1.0,
+      "time": 176.14
+    }
+  ]
+}

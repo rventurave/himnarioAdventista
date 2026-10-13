@@ -1,0 +1,617 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.705,
+  "language": "es",
+  "model": "medium",
+  "hymn": 277,
+  "source": "277 - Amarte mas.mp3",
+  "duration": 203.23,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Amarte más, Jesús, anhelo hoy;",
+      "verse": 1,
+      "start": 0.0,
+      "end": 30.7,
+      "confidence": 0.0,
+      "time": 0.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "oye mi humilde voz, pues tuyo soy.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "es",
+          "start": 30.7,
+          "end": 31.64
+        },
+        {
+          "word": "tu",
+          "start": 31.64,
+          "end": 32.06
+        }
+      ],
+      "start": 30.7,
+      "end": 35.34,
+      "confidence": 0.249,
+      "time": 30.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Esta es mi oración:",
+      "words": [
+        {
+          "word": "Escaes",
+          "start": 37.02,
+          "end": 38.42
+        },
+        {
+          "word": "oración,",
+          "start": 39.38,
+          "end": 41.04
+        }
+      ],
+      "start": 37.02,
+      "end": 41.04,
+      "confidence": 0.44,
+      "time": 37.02
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Quiero amarte más;",
+      "words": [
+        {
+          "word": "quiero",
+          "start": 42.32,
+          "end": 43.44
+        },
+        {
+          "word": "amarte",
+          "start": 43.44,
+          "end": 45.64
+        },
+        {
+          "word": "más,",
+          "start": 45.64,
+          "end": 46.82
+        }
+      ],
+      "start": 42.32,
+      "end": 46.82,
+      "confidence": 1.0,
+      "time": 42.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "amarte más,",
+      "words": [
+        {
+          "word": "amarte",
+          "start": 49.7,
+          "end": 51.1
+        },
+        {
+          "word": "más,",
+          "start": 51.1,
+          "end": 52.5
+        }
+      ],
+      "start": 49.7,
+      "end": 52.5,
+      "confidence": 1.0,
+      "time": 49.7
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "amarte más.",
+      "words": [
+        {
+          "word": "amarte",
+          "start": 55.72,
+          "end": 57.12
+        },
+        {
+          "word": "más.",
+          "start": 57.12,
+          "end": 58.52
+        }
+      ],
+      "start": 55.72,
+      "end": 58.52,
+      "confidence": 1.0,
+      "time": 55.72
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Del mundo el placer, antes busqué;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "El",
+          "start": 59.28,
+          "end": 60.5
+        },
+        {
+          "word": "mundo",
+          "start": 60.5,
+          "end": 61.9
+        },
+        {
+          "word": "del",
+          "start": 61.9,
+          "end": 63.12
+        },
+        {
+          "word": "antes",
+          "start": 66.0,
+          "end": 66.96
+        },
+        {
+          "word": "busqué,",
+          "start": 66.96,
+          "end": 70.18
+        }
+      ],
+      "start": 59.28,
+      "end": 70.18,
+      "confidence": 0.793,
+      "time": 59.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "mas por amor a ti, todo dejé.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "las",
+          "start": 71.68,
+          "end": 72.32
+        },
+        {
+          "word": "por",
+          "start": 73.62,
+          "end": 74.9
+        },
+        {
+          "word": "todo",
+          "start": 76.28,
+          "end": 78.7
+        }
+      ],
+      "start": 71.68,
+      "end": 80.28,
+      "confidence": 0.4,
+      "time": 71.68
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Esta es mi oración:",
+      "words": [
+        {
+          "word": "Esta",
+          "start": 85.14,
+          "end": 86.54
+        },
+        {
+          "word": "exploración",
+          "start": 86.54,
+          "end": 87.94
+        }
+      ],
+      "start": 85.14,
+      "end": 87.94,
+      "confidence": 0.467,
+      "time": 85.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Quiero amarte más;",
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 87.94,
+          "end": 90.46
+        },
+        {
+          "word": "amarte",
+          "start": 90.46,
+          "end": 92.54
+        },
+        {
+          "word": "más,",
+          "start": 92.54,
+          "end": 93.86
+        }
+      ],
+      "start": 87.94,
+      "end": 95.08,
+      "confidence": 1.0,
+      "time": 87.94
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "amarte más,",
+      "words": [
+        {
+          "word": "amarte",
+          "start": 95.08,
+          "end": 97.06
+        },
+        {
+          "word": "más,",
+          "start": 97.06,
+          "end": 99.48
+        }
+      ],
+      "start": 95.08,
+      "end": 100.7,
+      "confidence": 1.0,
+      "time": 95.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "amarte más.",
+      "words": [
+        {
+          "word": "amarte",
+          "start": 100.7,
+          "end": 102.68
+        },
+        {
+          "word": "más.",
+          "start": 102.68,
+          "end": 105.32
+        }
+      ],
+      "start": 100.7,
+      "end": 105.32,
+      "confidence": 1.0,
+      "time": 100.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "En medio del dolor refinador,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "En",
+          "start": 105.32,
+          "end": 107.52
+        },
+        {
+          "word": "medio",
+          "start": 107.52,
+          "end": 108.66
+        },
+        {
+          "word": "del",
+          "start": 108.66,
+          "end": 109.9
+        },
+        {
+          "word": "dolor",
+          "start": 109.9,
+          "end": 111.34
+        }
+      ],
+      "start": 105.32,
+      "end": 117.54,
+      "confidence": 0.8,
+      "time": 105.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "más cerca iré de ti, mi Salvador.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "de",
+          "start": 120.86,
+          "end": 121.76
+        },
+        {
+          "word": "ti",
+          "start": 121.76,
+          "end": 123.14
+        },
+        {
+          "word": "mi",
+          "start": 123.14,
+          "end": 124.98
+        },
+        {
+          "word": "salvador.",
+          "start": 124.98,
+          "end": 128.66
+        }
+      ],
+      "start": 120.86,
+      "end": 128.66,
+      "confidence": 0.571,
+      "time": 120.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Esta es mi oración:",
+      "words": [
+        {
+          "word": "Esta",
+          "start": 128.66,
+          "end": 131.14
+        },
+        {
+          "word": "es",
+          "start": 131.14,
+          "end": 132.4
+        },
+        {
+          "word": "mi",
+          "start": 132.4,
+          "end": 133.24
+        },
+        {
+          "word": "oración,",
+          "start": 133.24,
+          "end": 134.82
+        }
+      ],
+      "start": 128.66,
+      "end": 136.22,
+      "confidence": 1.0,
+      "time": 128.66
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Quiero amarte más;",
+      "words": [
+        {
+          "word": "quiero",
+          "start": 136.22,
+          "end": 137.5
+        },
+        {
+          "word": "amarte",
+          "start": 137.5,
+          "end": 139.52
+        },
+        {
+          "word": "más,",
+          "start": 139.52,
+          "end": 140.6
+        }
+      ],
+      "start": 136.22,
+      "end": 142.08,
+      "confidence": 1.0,
+      "time": 136.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "amarte más,",
+      "words": [
+        {
+          "word": "amarte",
+          "start": 142.08,
+          "end": 143.78
+        },
+        {
+          "word": "más,",
+          "start": 143.78,
+          "end": 146.3
+        }
+      ],
+      "start": 142.08,
+      "end": 147.96,
+      "confidence": 1.0,
+      "time": 142.08
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "amarte más.",
+      "words": [
+        {
+          "word": "amarte",
+          "start": 147.96,
+          "end": 149.56
+        },
+        {
+          "word": "más.",
+          "start": 149.56,
+          "end": 152.1
+        }
+      ],
+      "start": 147.96,
+      "end": 152.1,
+      "confidence": 1.0,
+      "time": 147.96
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "Y mientras viva aquí te serviré;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Y",
+          "start": 152.1,
+          "end": 154.16
+        },
+        {
+          "word": "mientras",
+          "start": 154.16,
+          "end": 155.54
+        },
+        {
+          "word": "vivo",
+          "start": 155.54,
+          "end": 156.92
+        },
+        {
+          "word": "aquí,",
+          "start": 156.92,
+          "end": 158.36
+        }
+      ],
+      "start": 152.1,
+      "end": 164.46,
+      "confidence": 0.642,
+      "time": 152.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 6,
+      "text": "pues, por la eternidad, te amaré.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "es",
+          "start": 165.82,
+          "end": 166.42
+        },
+        {
+          "word": "por",
+          "start": 166.42,
+          "end": 166.8
+        },
+        {
+          "word": "la",
+          "start": 166.8,
+          "end": 167.28
+        },
+        {
+          "word": "eternidad",
+          "start": 167.28,
+          "end": 170.12
+        },
+        {
+          "word": "amaré.",
+          "start": 171.96,
+          "end": 175.46
+        }
+      ],
+      "start": 165.82,
+      "end": 175.46,
+      "confidence": 0.8,
+      "time": 165.82
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Esta es mi oración:",
+      "words": [
+        {
+          "word": "Esta",
+          "start": 175.46,
+          "end": 178.04
+        },
+        {
+          "word": "es",
+          "start": 178.04,
+          "end": 179.16
+        },
+        {
+          "word": "mi",
+          "start": 179.16,
+          "end": 180.02
+        },
+        {
+          "word": "oración,",
+          "start": 180.02,
+          "end": 181.7
+        }
+      ],
+      "start": 175.46,
+      "end": 183.14,
+      "confidence": 1.0,
+      "time": 175.46
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "Quiero amarte más;",
+      "words": [
+        {
+          "word": "quiero",
+          "start": 183.14,
+          "end": 184.34
+        },
+        {
+          "word": "amarte",
+          "start": 184.34,
+          "end": 186.28
+        },
+        {
+          "word": "más,",
+          "start": 186.28,
+          "end": 187.42
+        }
+      ],
+      "start": 183.14,
+      "end": 189.36,
+      "confidence": 1.0,
+      "time": 183.14
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "amarte más,",
+      "words": [
+        {
+          "word": "amarte",
+          "start": 189.36,
+          "end": 190.62
+        },
+        {
+          "word": "más,",
+          "start": 190.62,
+          "end": 193.14
+        }
+      ],
+      "start": 189.36,
+      "end": 194.9,
+      "confidence": 1.0,
+      "time": 189.36
+    },
+    {
+      "type": "chorus",
+      "occurrence": 7,
+      "text": "amarte más.",
+      "words": [
+        {
+          "word": "amarte",
+          "start": 194.9,
+          "end": 196.7
+        },
+        {
+          "word": "más.",
+          "start": 196.7,
+          "end": 200.58
+        }
+      ],
+      "start": 194.9,
+      "end": 200.58,
+      "confidence": 1.0,
+      "time": 194.9
+    }
+  ]
+}

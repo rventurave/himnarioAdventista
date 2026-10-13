@@ -1,0 +1,793 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.976,
+  "language": "es",
+  "model": "medium",
+  "hymn": 534,
+  "source": "534 - En tu nombre comenzamos.mp3",
+  "duration": 140.09,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "En tu nombre comenzamos",
+      "verse": 1,
+      "words": [
+        {
+          "word": "En",
+          "start": 15.46,
+          "end": 16.86
+        },
+        {
+          "word": "tu",
+          "start": 16.86,
+          "end": 17.56
+        },
+        {
+          "word": "nombre",
+          "start": 17.56,
+          "end": 18.54
+        },
+        {
+          "word": "comenzamos,",
+          "start": 18.54,
+          "end": 20.82
+        }
+      ],
+      "start": 15.46,
+      "end": 21.52,
+      "confidence": 1.0,
+      "time": 15.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "esta escuela, ¡oh Señor!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "esta",
+          "start": 21.52,
+          "end": 21.86
+        },
+        {
+          "word": "es",
+          "start": 21.86,
+          "end": 22.3
+        },
+        {
+          "word": "Señor.",
+          "start": 23.74,
+          "end": 25.24
+        }
+      ],
+      "start": 21.52,
+      "end": 25.24,
+      "confidence": 0.735,
+      "time": 21.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Con fervor te suplicamos",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Con",
+          "start": 25.24,
+          "end": 26.16
+        },
+        {
+          "word": "fe",
+          "start": 26.16,
+          "end": 26.72
+        },
+        {
+          "word": "te",
+          "start": 27.2,
+          "end": 27.84
+        },
+        {
+          "word": "suplicamos,",
+          "start": 27.84,
+          "end": 29.98
+        }
+      ],
+      "start": 25.24,
+      "end": 30.86,
+      "confidence": 0.985,
+      "time": 25.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "seas nuestro Director.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "seas",
+          "start": 30.86,
+          "end": 31.28
+        },
+        {
+          "word": "nuestro",
+          "start": 31.28,
+          "end": 32.4
+        },
+        {
+          "word": "director.",
+          "start": 32.4,
+          "end": 34.46
+        }
+      ],
+      "start": 30.86,
+      "end": 34.46,
+      "confidence": 1.0,
+      "time": 30.86
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Cada sábado venimos",
+      "words": [
+        {
+          "word": "Cada",
+          "start": 34.88,
+          "end": 35.86
+        },
+        {
+          "word": "sábado",
+          "start": 35.86,
+          "end": 37.54
+        },
+        {
+          "word": "venimos",
+          "start": 37.54,
+          "end": 39.22
+        }
+      ],
+      "start": 34.88,
+      "end": 39.22,
+      "confidence": 1.0,
+      "time": 34.88
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "a tu escuela, ¡oh Jesús!",
+      "words": [
+        {
+          "word": "a",
+          "start": 39.22,
+          "end": 40.04
+        },
+        {
+          "word": "tu",
+          "start": 40.04,
+          "end": 40.38
+        },
+        {
+          "word": "escuela,",
+          "start": 40.38,
+          "end": 41.58
+        },
+        {
+          "word": "oh,",
+          "start": 42.34,
+          "end": 42.36
+        },
+        {
+          "word": "Jesús.",
+          "start": 42.36,
+          "end": 43.7
+        }
+      ],
+      "start": 39.22,
+      "end": 43.7,
+      "confidence": 1.0,
+      "time": 39.22
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "Ven, Señor, a instruirnos",
+      "words": [
+        {
+          "word": "Ven,",
+          "start": 44.38,
+          "end": 44.92
+        },
+        {
+          "word": "Señor,",
+          "start": 44.96,
+          "end": 45.88
+        },
+        {
+          "word": "a",
+          "start": 46.24,
+          "end": 46.86
+        },
+        {
+          "word": "instruirnos",
+          "start": 46.86,
+          "end": 48.66
+        }
+      ],
+      "start": 44.38,
+      "end": 48.66,
+      "confidence": 1.0,
+      "time": 44.38
+    },
+    {
+      "type": "chorus",
+      "occurrence": 1,
+      "text": "en la ciencia de la cruz.",
+      "words": [
+        {
+          "word": "en",
+          "start": 48.66,
+          "end": 49.4
+        },
+        {
+          "word": "la",
+          "start": 49.4,
+          "end": 49.84
+        },
+        {
+          "word": "ciencia",
+          "start": 49.84,
+          "end": 50.9
+        },
+        {
+          "word": "de",
+          "start": 50.9,
+          "end": 51.74
+        },
+        {
+          "word": "la",
+          "start": 51.74,
+          "end": 52.28
+        },
+        {
+          "word": "cruz.",
+          "start": 52.28,
+          "end": 53.5
+        }
+      ],
+      "start": 48.66,
+      "end": 53.5,
+      "confidence": 1.0,
+      "time": 48.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Esta escuela nos enseña",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Esta",
+          "start": 53.5,
+          "end": 55.32
+        },
+        {
+          "word": "escuela",
+          "start": 55.32,
+          "end": 56.56
+        },
+        {
+          "word": "nos",
+          "start": 56.56,
+          "end": 57.82
+        },
+        {
+          "word": "enseña",
+          "start": 57.82,
+          "end": 59.0
+        }
+      ],
+      "start": 53.5,
+      "end": 59.0,
+      "confidence": 1.0,
+      "time": 53.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "tu Palabra a obedecer,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tu",
+          "start": 59.0,
+          "end": 59.8
+        },
+        {
+          "word": "Palabra",
+          "start": 59.8,
+          "end": 61.32
+        },
+        {
+          "word": "a",
+          "start": 61.32,
+          "end": 61.48
+        },
+        {
+          "word": "obedecer,",
+          "start": 61.48,
+          "end": 63.42
+        }
+      ],
+      "start": 59.0,
+      "end": 64.24,
+      "confidence": 1.0,
+      "time": 59.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "y tu Ley en nuestra vida",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 64.24,
+          "end": 64.32
+        },
+        {
+          "word": "tu",
+          "start": 64.32,
+          "end": 64.9
+        },
+        {
+          "word": "ley",
+          "start": 64.9,
+          "end": 65.54
+        },
+        {
+          "word": "en",
+          "start": 65.54,
+          "end": 66.32
+        },
+        {
+          "word": "nuestra",
+          "start": 66.32,
+          "end": 67.06
+        },
+        {
+          "word": "vida",
+          "start": 67.06,
+          "end": 68.06
+        }
+      ],
+      "start": 64.24,
+      "end": 68.06,
+      "confidence": 1.0,
+      "time": 64.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "ante el mundo a enaltecer.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "ante",
+          "start": 68.06,
+          "end": 69.08
+        },
+        {
+          "word": "el",
+          "start": 69.08,
+          "end": 69.68
+        },
+        {
+          "word": "mundo",
+          "start": 69.68,
+          "end": 70.16
+        },
+        {
+          "word": "a",
+          "start": 70.16,
+          "end": 70.58
+        },
+        {
+          "word": "inaltecer.",
+          "start": 70.58,
+          "end": 72.56
+        }
+      ],
+      "start": 68.06,
+      "end": 72.56,
+      "confidence": 0.987,
+      "time": 68.06
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Cada sábado venimos",
+      "words": [
+        {
+          "word": "Cada",
+          "start": 72.56,
+          "end": 73.96
+        },
+        {
+          "word": "sábado",
+          "start": 73.96,
+          "end": 75.7
+        },
+        {
+          "word": "venimos",
+          "start": 75.7,
+          "end": 77.32
+        }
+      ],
+      "start": 72.56,
+      "end": 77.32,
+      "confidence": 1.0,
+      "time": 72.56
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "a tu escuela, ¡oh Jesús!",
+      "words": [
+        {
+          "word": "a",
+          "start": 77.32,
+          "end": 78.1
+        },
+        {
+          "word": "Tu",
+          "start": 78.1,
+          "end": 78.46
+        },
+        {
+          "word": "escuela,",
+          "start": 78.46,
+          "end": 79.7
+        },
+        {
+          "word": "oh",
+          "start": 80.38,
+          "end": 80.5
+        },
+        {
+          "word": "Jesús.",
+          "start": 80.5,
+          "end": 81.78
+        }
+      ],
+      "start": 77.32,
+      "end": 81.78,
+      "confidence": 1.0,
+      "time": 77.32
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "Ven, Señor, a instruirnos",
+      "words": [
+        {
+          "word": "Ven,",
+          "start": 82.48,
+          "end": 82.92
+        },
+        {
+          "word": "señora,",
+          "start": 83.3,
+          "end": 84.2
+        },
+        {
+          "word": "a",
+          "start": 84.98,
+          "end": 84.98
+        },
+        {
+          "word": "instruirnos",
+          "start": 84.98,
+          "end": 86.56
+        }
+      ],
+      "start": 82.48,
+      "end": 86.56,
+      "confidence": 0.985,
+      "time": 82.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 3,
+      "text": "en la ciencia de la cruz.",
+      "words": [
+        {
+          "word": "en",
+          "start": 86.56,
+          "end": 87.44
+        },
+        {
+          "word": "la",
+          "start": 87.44,
+          "end": 87.94
+        },
+        {
+          "word": "ciencia",
+          "start": 87.94,
+          "end": 88.94
+        },
+        {
+          "word": "de",
+          "start": 88.94,
+          "end": 89.74
+        },
+        {
+          "word": "la",
+          "start": 89.74,
+          "end": 90.34
+        },
+        {
+          "word": "cruz.",
+          "start": 90.34,
+          "end": 91.62
+        }
+      ],
+      "start": 86.56,
+      "end": 91.62,
+      "confidence": 1.0,
+      "time": 86.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Ven, Señor, a enseñarnos",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Ven,",
+          "start": 98.66,
+          "end": 100.06
+        },
+        {
+          "word": "Señor,",
+          "start": 100.2,
+          "end": 101.28
+        },
+        {
+          "word": "a",
+          "start": 101.7,
+          "end": 102.34
+        },
+        {
+          "word": "enseñarnos,",
+          "start": 102.34,
+          "end": 103.9
+        }
+      ],
+      "start": 98.66,
+      "end": 104.22,
+      "confidence": 1.0,
+      "time": 98.66
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "tus preceptos a cumplir.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tus",
+          "start": 104.22,
+          "end": 104.7
+        },
+        {
+          "word": "preceptos",
+          "start": 104.7,
+          "end": 106.38
+        },
+        {
+          "word": "a",
+          "start": 106.38,
+          "end": 107.16
+        },
+        {
+          "word": "cumplir,",
+          "start": 107.16,
+          "end": 108.36
+        }
+      ],
+      "start": 104.22,
+      "end": 108.88,
+      "confidence": 1.0,
+      "time": 104.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "Ya reunidos, esperamos",
+      "verse": 3,
+      "words": [
+        {
+          "word": "ya",
+          "start": 108.88,
+          "end": 109.28
+        },
+        {
+          "word": "reunidos",
+          "start": 109.28,
+          "end": 111.08
+        },
+        {
+          "word": "esperamos",
+          "start": 111.08,
+          "end": 113.1
+        }
+      ],
+      "start": 108.88,
+      "end": 113.1,
+      "confidence": 1.0,
+      "time": 108.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 4,
+      "text": "tu presencia aquí sentir.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "tu",
+          "start": 113.1,
+          "end": 113.82
+        },
+        {
+          "word": "presencia",
+          "start": 113.82,
+          "end": 115.36
+        },
+        {
+          "word": "aquí",
+          "start": 115.36,
+          "end": 116.14
+        },
+        {
+          "word": "sentir.",
+          "start": 116.14,
+          "end": 117.54
+        }
+      ],
+      "start": 113.1,
+      "end": 117.54,
+      "confidence": 1.0,
+      "time": 113.1
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Cada sábado venimos",
+      "words": [
+        {
+          "word": "Cada",
+          "start": 117.54,
+          "end": 118.98
+        },
+        {
+          "word": "sábado",
+          "start": 118.98,
+          "end": 120.72
+        },
+        {
+          "word": "venimos",
+          "start": 120.72,
+          "end": 122.34
+        }
+      ],
+      "start": 117.54,
+      "end": 122.34,
+      "confidence": 1.0,
+      "time": 117.54
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "a tu escuela, ¡oh Jesús!",
+      "words": [
+        {
+          "word": "a",
+          "start": 122.34,
+          "end": 123.26
+        },
+        {
+          "word": "tu",
+          "start": 123.26,
+          "end": 123.6
+        },
+        {
+          "word": "escuela",
+          "start": 123.6,
+          "end": 124.68
+        },
+        {
+          "word": "besos.",
+          "start": 125.46,
+          "end": 126.92
+        }
+      ],
+      "start": 122.34,
+      "end": 126.92,
+      "confidence": 0.752,
+      "time": 122.34
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "Ven, Señor, a instruirnos",
+      "words": [
+        {
+          "word": "Ven,",
+          "start": 127.48,
+          "end": 127.94
+        },
+        {
+          "word": "Señor,",
+          "start": 128.0,
+          "end": 128.92
+        },
+        {
+          "word": "a",
+          "start": 129.44,
+          "end": 130.0
+        },
+        {
+          "word": "instruirnos",
+          "start": 130.0,
+          "end": 131.66
+        }
+      ],
+      "start": 127.48,
+      "end": 131.66,
+      "confidence": 1.0,
+      "time": 127.48
+    },
+    {
+      "type": "chorus",
+      "occurrence": 5,
+      "text": "en la ciencia de la cruz.",
+      "words": [
+        {
+          "word": "en",
+          "start": 131.66,
+          "end": 132.44
+        },
+        {
+          "word": "la",
+          "start": 132.44,
+          "end": 132.84
+        },
+        {
+          "word": "ciencia",
+          "start": 132.84,
+          "end": 133.96
+        },
+        {
+          "word": "de",
+          "start": 133.96,
+          "end": 134.8
+        },
+        {
+          "word": "la",
+          "start": 134.8,
+          "end": 135.46
+        },
+        {
+          "word": "cruz.",
+          "start": 135.46,
+          "end": 137.26
+        }
+      ],
+      "start": 131.66,
+      "end": 137.26,
+      "confidence": 1.0,
+      "time": 131.66
+    }
+  ]
+}

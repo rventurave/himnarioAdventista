@@ -1,0 +1,823 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.962,
+  "language": "es",
+  "model": "medium",
+  "hymn": 372,
+  "source": "372 - Como agradecer.mp3",
+  "duration": 182.94,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¿Cómo agradecer lo que hiciste en mi favor?",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Cómo",
+          "start": 14.62,
+          "end": 16.02
+        },
+        {
+          "word": "agradecer",
+          "start": 16.02,
+          "end": 17.42
+        },
+        {
+          "word": "lo",
+          "start": 17.42,
+          "end": 18.18
+        },
+        {
+          "word": "que",
+          "start": 18.18,
+          "end": 18.52
+        },
+        {
+          "word": "hiciste",
+          "start": 18.52,
+          "end": 21.6
+        },
+        {
+          "word": "en",
+          "start": 21.6,
+          "end": 22.12
+        },
+        {
+          "word": "mi",
+          "start": 22.12,
+          "end": 23.42
+        },
+        {
+          "word": "favor,",
+          "start": 23.42,
+          "end": 25.04
+        }
+      ],
+      "start": 14.62,
+      "end": 25.04,
+      "confidence": 1.0,
+      "time": 14.62
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Aunque indigno soy, me salvaste por tu gran amor.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Aunque",
+          "start": 26.52,
+          "end": 27.92
+        },
+        {
+          "word": "indigno",
+          "start": 27.92,
+          "end": 29.02
+        },
+        {
+          "word": "soy,",
+          "start": 29.02,
+          "end": 31.12
+        },
+        {
+          "word": "me",
+          "start": 32.0,
+          "end": 32.12
+        },
+        {
+          "word": "salvaste",
+          "start": 32.12,
+          "end": 35.06
+        },
+        {
+          "word": "por",
+          "start": 35.06,
+          "end": 35.62
+        },
+        {
+          "word": "tu",
+          "start": 35.62,
+          "end": 36.08
+        },
+        {
+          "word": "gran",
+          "start": 36.08,
+          "end": 37.46
+        },
+        {
+          "word": "amor.",
+          "start": 37.46,
+          "end": 38.66
+        }
+      ],
+      "start": 26.52,
+      "end": 38.66,
+      "confidence": 1.0,
+      "time": 26.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Las voces de un millón de seres",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Las",
+          "start": 38.92,
+          "end": 39.5
+        },
+        {
+          "word": "voces",
+          "start": 39.5,
+          "end": 41.2
+        },
+        {
+          "word": "de",
+          "start": 41.2,
+          "end": 41.6
+        },
+        {
+          "word": "un",
+          "start": 41.6,
+          "end": 41.82
+        },
+        {
+          "word": "millón",
+          "start": 41.82,
+          "end": 42.66
+        },
+        {
+          "word": "de",
+          "start": 42.66,
+          "end": 43.16
+        },
+        {
+          "word": "seres",
+          "start": 43.16,
+          "end": 44.78
+        }
+      ],
+      "start": 38.92,
+      "end": 44.78,
+      "confidence": 1.0,
+      "time": 38.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "no alcanzan para agradecer;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "no",
+          "start": 44.78,
+          "end": 45.34
+        },
+        {
+          "word": "alcanzan",
+          "start": 45.34,
+          "end": 46.42
+        },
+        {
+          "word": "para",
+          "start": 46.42,
+          "end": 49.08
+        },
+        {
+          "word": "agradecer,",
+          "start": 49.08,
+          "end": 51.92
+        }
+      ],
+      "start": 44.78,
+      "end": 51.92,
+      "confidence": 1.0,
+      "time": 44.78
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "pues lo que soy,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Pues",
+          "start": 51.92,
+          "end": 52.56
+        },
+        {
+          "word": "lo",
+          "start": 52.56,
+          "end": 53.08
+        },
+        {
+          "word": "que",
+          "start": 53.08,
+          "end": 53.56
+        },
+        {
+          "word": "soy,",
+          "start": 53.56,
+          "end": 54.7
+        }
+      ],
+      "start": 51.92,
+      "end": 54.94,
+      "confidence": 1.0,
+      "time": 51.92
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y lo que espero ser,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "y",
+          "start": 54.94,
+          "end": 55.38
+        },
+        {
+          "word": "lo",
+          "start": 55.38,
+          "end": 55.66
+        },
+        {
+          "word": "que",
+          "start": 55.66,
+          "end": 56.04
+        },
+        {
+          "word": "espero",
+          "start": 56.04,
+          "end": 56.86
+        },
+        {
+          "word": "ser,",
+          "start": 56.86,
+          "end": 60.04
+        }
+      ],
+      "start": 54.94,
+      "end": 61.36,
+      "confidence": 1.0,
+      "time": 54.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "lo debo todo a ti.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "lo",
+          "start": 61.36,
+          "end": 61.5
+        },
+        {
+          "word": "debo",
+          "start": 61.5,
+          "end": 62.28
+        },
+        {
+          "word": "todo",
+          "start": 62.28,
+          "end": 63.68
+        },
+        {
+          "word": "a",
+          "start": 63.68,
+          "end": 64.28
+        },
+        {
+          "word": "ti.",
+          "start": 64.28,
+          "end": 66.38
+        }
+      ],
+      "start": 61.36,
+      "end": 66.38,
+      "confidence": 1.0,
+      "time": 61.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "A Dios sea gloria,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Adiós",
+          "start": 68.88,
+          "end": 70.28
+        },
+        {
+          "word": "sea",
+          "start": 70.28,
+          "end": 70.68
+        },
+        {
+          "word": "gloria,",
+          "start": 70.68,
+          "end": 73.7
+        }
+      ],
+      "start": 68.88,
+      "end": 74.0,
+      "confidence": 0.733,
+      "time": 68.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a Dios sea gloria,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "adiós",
+          "start": 74.0,
+          "end": 77.24
+        },
+        {
+          "word": "sea",
+          "start": 77.24,
+          "end": 77.66
+        },
+        {
+          "word": "gloria,",
+          "start": 77.66,
+          "end": 80.56
+        }
+      ],
+      "start": 74.0,
+      "end": 80.8,
+      "confidence": 0.733,
+      "time": 74.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a Dios sea gloria,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "adiós",
+          "start": 80.8,
+          "end": 84.12
+        },
+        {
+          "word": "sea",
+          "start": 84.12,
+          "end": 84.54
+        },
+        {
+          "word": "gloria.",
+          "start": 84.54,
+          "end": 87.0
+        }
+      ],
+      "start": 80.8,
+      "end": 87.0,
+      "confidence": 0.733,
+      "time": 80.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡tanto hizo por mí!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tanto",
+          "start": 87.0,
+          "end": 87.98
+        },
+        {
+          "word": "hizo",
+          "start": 87.98,
+          "end": 90.62
+        },
+        {
+          "word": "por",
+          "start": 90.62,
+          "end": 91.8
+        },
+        {
+          "word": "mí.",
+          "start": 91.8,
+          "end": 93.74
+        }
+      ],
+      "start": 87.0,
+      "end": 93.74,
+      "confidence": 1.0,
+      "time": 87.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Me salvó con su sangre,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Me",
+          "start": 94.06,
+          "end": 94.8
+        },
+        {
+          "word": "salvó",
+          "start": 94.8,
+          "end": 97.7
+        },
+        {
+          "word": "con",
+          "start": 97.7,
+          "end": 98.2
+        },
+        {
+          "word": "su",
+          "start": 98.2,
+          "end": 98.64
+        },
+        {
+          "word": "sangre,",
+          "start": 98.64,
+          "end": 100.66
+        }
+      ],
+      "start": 94.06,
+      "end": 100.66,
+      "confidence": 1.0,
+      "time": 94.06
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "me libró del pecado;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "me",
+          "start": 101.52,
+          "end": 101.84
+        },
+        {
+          "word": "libró",
+          "start": 101.84,
+          "end": 104.76
+        },
+        {
+          "word": "del",
+          "start": 104.76,
+          "end": 105.22
+        },
+        {
+          "word": "pecado.",
+          "start": 105.22,
+          "end": 108.28
+        }
+      ],
+      "start": 101.52,
+      "end": 108.28,
+      "confidence": 1.0,
+      "time": 101.52
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "a Dios sea gloria,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "A",
+          "start": 108.7,
+          "end": 109.26
+        },
+        {
+          "word": "Dios",
+          "start": 109.26,
+          "end": 111.64
+        },
+        {
+          "word": "sea",
+          "start": 111.64,
+          "end": 112.38
+        },
+        {
+          "word": "gloria,",
+          "start": 112.38,
+          "end": 114.76
+        }
+      ],
+      "start": 108.7,
+      "end": 114.76,
+      "confidence": 1.0,
+      "time": 108.7
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "¡tanto hizo por mí!",
+      "verse": 1,
+      "words": [
+        {
+          "word": "tanto",
+          "start": 114.76,
+          "end": 115.9
+        },
+        {
+          "word": "hizo",
+          "start": 115.9,
+          "end": 118.44
+        },
+        {
+          "word": "por",
+          "start": 118.44,
+          "end": 119.5
+        },
+        {
+          "word": "mí.",
+          "start": 119.5,
+          "end": 121.54
+        }
+      ],
+      "start": 114.76,
+      "end": 121.54,
+      "confidence": 1.0,
+      "time": 114.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Quiero vivir, Señor,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Quiero",
+          "start": 121.54,
+          "end": 122.64
+        },
+        {
+          "word": "vivir,",
+          "start": 122.64,
+          "end": 125.1
+        },
+        {
+          "word": "Señor,",
+          "start": 127.66,
+          "end": 127.82
+        }
+      ],
+      "start": 121.54,
+      "end": 128.8,
+      "confidence": 1.0,
+      "time": 121.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "para agradarte solo a ti;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "para",
+          "start": 128.8,
+          "end": 129.46
+        },
+        {
+          "word": "agradarte",
+          "start": 129.46,
+          "end": 131.94
+        },
+        {
+          "word": "solo",
+          "start": 131.94,
+          "end": 133.04
+        },
+        {
+          "word": "a",
+          "start": 133.04,
+          "end": 133.56
+        },
+        {
+          "word": "ti.",
+          "start": 133.56,
+          "end": 135.02
+        }
+      ],
+      "start": 128.8,
+      "end": 135.02,
+      "confidence": 1.0,
+      "time": 128.8
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y si algo puedo lograr",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Y",
+          "start": 135.02,
+          "end": 135.64
+        },
+        {
+          "word": "si",
+          "start": 135.64,
+          "end": 136.04
+        },
+        {
+          "word": "algo",
+          "start": 136.04,
+          "end": 136.66
+        },
+        {
+          "word": "puedo",
+          "start": 136.66,
+          "end": 139.6
+        },
+        {
+          "word": "lograr,",
+          "start": 139.6,
+          "end": 141.7
+        }
+      ],
+      "start": 135.02,
+      "end": 142.32,
+      "confidence": 1.0,
+      "time": 135.02
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "te daré la gloria, mi Salvador.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "te",
+          "start": 142.32,
+          "end": 142.46
+        },
+        {
+          "word": "daré",
+          "start": 142.46,
+          "end": 143.32
+        },
+        {
+          "word": "la",
+          "start": 143.32,
+          "end": 143.86
+        },
+        {
+          "word": "gloria,",
+          "start": 143.86,
+          "end": 144.62
+        },
+        {
+          "word": "mi",
+          "start": 144.62,
+          "end": 145.48
+        },
+        {
+          "word": "salvador.",
+          "start": 145.48,
+          "end": 149.4
+        }
+      ],
+      "start": 142.32,
+      "end": 149.4,
+      "confidence": 1.0,
+      "time": 142.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Me salvó con su sangre,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Me",
+          "start": 149.86,
+          "end": 150.46
+        },
+        {
+          "word": "salvó",
+          "start": 150.46,
+          "end": 153.22
+        },
+        {
+          "word": "con",
+          "start": 153.22,
+          "end": 153.74
+        },
+        {
+          "word": "su",
+          "start": 153.74,
+          "end": 154.2
+        },
+        {
+          "word": "sangre,",
+          "start": 154.2,
+          "end": 156.32
+        }
+      ],
+      "start": 149.86,
+      "end": 157.04,
+      "confidence": 1.0,
+      "time": 149.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "me libró del pecado;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "me",
+          "start": 157.04,
+          "end": 157.42
+        },
+        {
+          "word": "libró",
+          "start": 157.42,
+          "end": 160.44
+        },
+        {
+          "word": "del",
+          "start": 160.44,
+          "end": 160.96
+        },
+        {
+          "word": "pecado,",
+          "start": 160.96,
+          "end": 163.38
+        }
+      ],
+      "start": 157.04,
+      "end": 163.38,
+      "confidence": 1.0,
+      "time": 157.04
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "a Dios sea gloria",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Adiós",
+          "start": 166.28,
+          "end": 167.68
+        },
+        {
+          "word": "sea",
+          "start": 167.68,
+          "end": 168.06
+        },
+        {
+          "word": "gloria,",
+          "start": 168.06,
+          "end": 170.66
+        }
+      ],
+      "start": 166.28,
+      "end": 171.34,
+      "confidence": 0.733,
+      "time": 166.28
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "¡tanto hizo por mí!",
+      "verse": 2,
+      "words": [
+        {
+          "word": "tanto",
+          "start": 171.34,
+          "end": 171.7
+        },
+        {
+          "word": "hizo",
+          "start": 171.7,
+          "end": 174.18
+        },
+        {
+          "word": "por",
+          "start": 174.18,
+          "end": 175.5
+        },
+        {
+          "word": "mí.",
+          "start": 175.5,
+          "end": 178.8
+        }
+      ],
+      "start": 171.34,
+      "end": 178.8,
+      "confidence": 1.0,
+      "time": 171.34
+    }
+  ]
+}

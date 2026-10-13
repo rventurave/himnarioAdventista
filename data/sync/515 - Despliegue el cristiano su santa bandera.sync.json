@@ -1,0 +1,659 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.87,
+  "language": "es",
+  "model": "medium",
+  "hymn": 515,
+  "source": "515 - Despliegue el cristiano su santa bandera.mp3",
+  "duration": 112.46,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Despliegue el cristiano su santa bandera",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Despegue",
+          "start": 10.76,
+          "end": 12.16
+        },
+        {
+          "word": "el",
+          "start": 12.16,
+          "end": 12.42
+        },
+        {
+          "word": "cristiano",
+          "start": 12.42,
+          "end": 13.52
+        },
+        {
+          "word": "su",
+          "start": 13.52,
+          "end": 13.92
+        },
+        {
+          "word": "santa",
+          "start": 13.92,
+          "end": 15.02
+        },
+        {
+          "word": "bandera",
+          "start": 15.02,
+          "end": 16.24
+        }
+      ],
+      "start": 10.76,
+      "end": 16.24,
+      "confidence": 0.989,
+      "time": 10.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y muéstrela ufano al mundo falaz;",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Y",
+          "start": 16.24,
+          "end": 16.7
+        },
+        {
+          "word": "muestre",
+          "start": 16.7,
+          "end": 17.7
+        },
+        {
+          "word": "alfano",
+          "start": 17.92,
+          "end": 19.08
+        },
+        {
+          "word": "al",
+          "start": 19.08,
+          "end": 19.52
+        },
+        {
+          "word": "mundo",
+          "start": 19.52,
+          "end": 20.24
+        },
+        {
+          "word": "falaz",
+          "start": 20.24,
+          "end": 21.0
+        }
+      ],
+      "start": 16.24,
+      "end": 21.0,
+      "confidence": 0.963,
+      "time": 16.24
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "soldados valientes, el triunfo os espera,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Soldados",
+          "start": 21.58,
+          "end": 23.1
+        },
+        {
+          "word": "valientes,",
+          "start": 23.1,
+          "end": 24.42
+        },
+        {
+          "word": "el",
+          "start": 24.44,
+          "end": 24.88
+        },
+        {
+          "word": "triunfo",
+          "start": 24.88,
+          "end": 25.74
+        },
+        {
+          "word": "os",
+          "start": 25.74,
+          "end": 26.0
+        },
+        {
+          "word": "espera",
+          "start": 26.0,
+          "end": 26.94
+        }
+      ],
+      "start": 21.58,
+      "end": 26.94,
+      "confidence": 1.0,
+      "time": 21.58
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "seguid vuestra lucha constante y tenaz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Seguid",
+          "start": 26.94,
+          "end": 28.16
+        },
+        {
+          "word": "vuestra",
+          "start": 28.16,
+          "end": 28.8
+        },
+        {
+          "word": "lucha",
+          "start": 28.8,
+          "end": 29.76
+        },
+        {
+          "word": "constante",
+          "start": 29.76,
+          "end": 31.0
+        },
+        {
+          "word": "internaz",
+          "start": 31.6,
+          "end": 32.94
+        }
+      ],
+      "start": 26.94,
+      "end": 32.94,
+      "confidence": 0.81,
+      "time": 26.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Despliegue el cristiano su santa bandera",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Despliegue",
+          "start": 34.0,
+          "end": 35.14
+        },
+        {
+          "word": "el",
+          "start": 35.14,
+          "end": 35.34
+        },
+        {
+          "word": "cristiano",
+          "start": 35.34,
+          "end": 36.5
+        },
+        {
+          "word": "su",
+          "start": 36.5,
+          "end": 36.92
+        },
+        {
+          "word": "santa",
+          "start": 36.92,
+          "end": 38.04
+        },
+        {
+          "word": "bandera",
+          "start": 38.04,
+          "end": 39.3
+        }
+      ],
+      "start": 34.0,
+      "end": 39.3,
+      "confidence": 1.0,
+      "time": 34.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y luzca en el frente de audaz torreón;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Y",
+          "start": 39.3,
+          "end": 39.84
+        },
+        {
+          "word": "luzca",
+          "start": 39.84,
+          "end": 40.68
+        },
+        {
+          "word": "en",
+          "start": 40.68,
+          "end": 40.96
+        },
+        {
+          "word": "el",
+          "start": 40.96,
+          "end": 41.22
+        },
+        {
+          "word": "frente",
+          "start": 41.22,
+          "end": 41.98
+        },
+        {
+          "word": "de",
+          "start": 41.98,
+          "end": 42.34
+        },
+        {
+          "word": "torreón",
+          "start": 43.04,
+          "end": 43.94
+        }
+      ],
+      "start": 39.3,
+      "end": 43.94,
+      "confidence": 0.875,
+      "time": 39.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "el monte y el valle, la hermosa pradera",
+      "verse": 2,
+      "words": [
+        {
+          "word": "El",
+          "start": 44.68,
+          "end": 45.1
+        },
+        {
+          "word": "monte",
+          "start": 45.1,
+          "end": 45.98
+        },
+        {
+          "word": "y",
+          "start": 45.98,
+          "end": 46.32
+        },
+        {
+          "word": "el",
+          "start": 46.32,
+          "end": 46.84
+        },
+        {
+          "word": "valle,",
+          "start": 46.84,
+          "end": 47.28
+        },
+        {
+          "word": "la",
+          "start": 47.28,
+          "end": 47.7
+        },
+        {
+          "word": "hermosa",
+          "start": 47.7,
+          "end": 48.88
+        },
+        {
+          "word": "pradera",
+          "start": 48.88,
+          "end": 50.08
+        }
+      ],
+      "start": 44.68,
+      "end": 50.08,
+      "confidence": 1.0,
+      "time": 44.68
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "contemplen ondeando su gran pabellón.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Contemplen",
+          "start": 50.08,
+          "end": 51.62
+        },
+        {
+          "word": "onde",
+          "start": 51.62,
+          "end": 52.08
+        },
+        {
+          "word": "su",
+          "start": 52.84,
+          "end": 53.22
+        },
+        {
+          "word": "gran",
+          "start": 53.22,
+          "end": 53.86
+        },
+        {
+          "word": "pabellón",
+          "start": 53.86,
+          "end": 56.34
+        }
+      ],
+      "start": 50.08,
+      "end": 56.34,
+      "confidence": 0.988,
+      "time": 50.08
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Despliegue el cristiano su santa bandera,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Despliegue",
+          "start": 56.94,
+          "end": 58.12
+        },
+        {
+          "word": "el",
+          "start": 58.12,
+          "end": 58.44
+        },
+        {
+          "word": "cristiano",
+          "start": 58.44,
+          "end": 59.54
+        },
+        {
+          "word": "su",
+          "start": 59.54,
+          "end": 59.84
+        },
+        {
+          "word": "santa",
+          "start": 59.84,
+          "end": 61.0
+        },
+        {
+          "word": "bandera,",
+          "start": 61.0,
+          "end": 62.26
+        }
+      ],
+      "start": 56.94,
+      "end": 62.64,
+      "confidence": 1.0,
+      "time": 56.94
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "predique a los pueblos el Libro inmortal;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "predique",
+          "start": 62.64,
+          "end": 63.5
+        },
+        {
+          "word": "a",
+          "start": 63.5,
+          "end": 63.8
+        },
+        {
+          "word": "los",
+          "start": 63.8,
+          "end": 64.08
+        },
+        {
+          "word": "libro,",
+          "start": 65.44,
+          "end": 66.22
+        }
+      ],
+      "start": 62.64,
+      "end": 67.76,
+      "confidence": 0.571,
+      "time": 62.64
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "presente a los hombres la luz verdadera",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Presente",
+          "start": 67.88,
+          "end": 68.82
+        },
+        {
+          "word": "a",
+          "start": 68.82,
+          "end": 69.26
+        },
+        {
+          "word": "los",
+          "start": 69.26,
+          "end": 69.78
+        },
+        {
+          "word": "hombres",
+          "start": 69.78,
+          "end": 70.36
+        },
+        {
+          "word": "la",
+          "start": 70.36,
+          "end": 70.74
+        },
+        {
+          "word": "luz",
+          "start": 70.74,
+          "end": 71.44
+        },
+        {
+          "word": "verdadera,",
+          "start": 71.44,
+          "end": 73.1
+        }
+      ],
+      "start": 67.88,
+      "end": 73.44,
+      "confidence": 1.0,
+      "time": 67.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "que vierte ese claro, luciente fanal.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "revierte",
+          "start": 73.44,
+          "end": 74.52
+        },
+        {
+          "word": "ese",
+          "start": 74.52,
+          "end": 74.9
+        },
+        {
+          "word": "claro",
+          "start": 74.9,
+          "end": 75.88
+        }
+      ],
+      "start": 73.44,
+      "end": 79.56,
+      "confidence": 0.486,
+      "time": 73.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Despliegue el cristiano su santa bandera",
+      "verse": 4,
+      "words": [
+        {
+          "word": "Despliegue",
+          "start": 79.56,
+          "end": 81.22
+        },
+        {
+          "word": "el",
+          "start": 81.22,
+          "end": 81.44
+        },
+        {
+          "word": "cristiano",
+          "start": 81.44,
+          "end": 82.6
+        },
+        {
+          "word": "su",
+          "start": 82.6,
+          "end": 83.14
+        },
+        {
+          "word": "santa",
+          "start": 83.14,
+          "end": 84.04
+        },
+        {
+          "word": "bandera,",
+          "start": 84.04,
+          "end": 85.28
+        }
+      ],
+      "start": 79.56,
+      "end": 85.28,
+      "confidence": 1.0,
+      "time": 79.56
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "y muéstrese bravo, batiéndose fiel;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "y",
+          "start": 85.6,
+          "end": 85.84
+        },
+        {
+          "word": "vuestres",
+          "start": 85.84,
+          "end": 86.86
+        },
+        {
+          "word": "hebrano",
+          "start": 86.86,
+          "end": 88.06
+        },
+        {
+          "word": "batiéndose",
+          "start": 88.06,
+          "end": 89.66
+        },
+        {
+          "word": "cielo,",
+          "start": 90.04,
+          "end": 90.64
+        }
+      ],
+      "start": 85.6,
+      "end": 90.64,
+      "confidence": 0.899,
+      "time": 85.6
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "ni montes ni fosos serán su barrera,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "montes",
+          "start": 91.14,
+          "end": 92.2
+        },
+        {
+          "word": "difosos",
+          "start": 92.2,
+          "end": 93.44
+        },
+        {
+          "word": "serán",
+          "start": 93.44,
+          "end": 94.44
+        },
+        {
+          "word": "su",
+          "start": 94.44,
+          "end": 94.98
+        },
+        {
+          "word": "barrera,",
+          "start": 94.98,
+          "end": 96.08
+        }
+      ],
+      "start": 91.14,
+      "end": 96.08,
+      "confidence": 0.7,
+      "time": 91.14
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "pues lucha a su lado el divino Emanuel.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "pues",
+          "start": 96.4,
+          "end": 96.52
+        },
+        {
+          "word": "lucha",
+          "start": 96.52,
+          "end": 97.48
+        },
+        {
+          "word": "su",
+          "start": 97.48,
+          "end": 97.96
+        },
+        {
+          "word": "el",
+          "start": 98.96,
+          "end": 99.28
+        },
+        {
+          "word": "divino",
+          "start": 99.28,
+          "end": 100.5
+        },
+        {
+          "word": "emarell.",
+          "start": 100.5,
+          "end": 103.88
+        }
+      ],
+      "start": 96.4,
+      "end": 103.88,
+      "confidence": 0.729,
+      "time": 96.4
+    }
+  ]
+}

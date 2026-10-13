@@ -1,0 +1,605 @@
+{
+  "syncMethod": "vocal-alignment",
+  "confidence": 0.69,
+  "language": "es",
+  "model": "medium",
+  "hymn": 537,
+  "source": "537 - Sabado santo.mp3",
+  "duration": 185.7,
+  "needsReview": false,
+  "lines": [
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "Sábado santo de Jehová",
+      "verse": 1,
+      "start": 0.0,
+      "end": 22.88,
+      "confidence": 0.0,
+      "time": 0.0
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "es este día de solaz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "Este",
+          "start": 22.88,
+          "end": 24.28
+        },
+        {
+          "word": "es",
+          "start": 24.28,
+          "end": 25.68
+        },
+        {
+          "word": "de",
+          "start": 29.98,
+          "end": 29.98
+        }
+      ],
+      "start": 22.88,
+      "end": 29.98,
+      "confidence": 0.548,
+      "time": 22.88
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "En él adoro al Hacedor,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "en",
+          "start": 29.98,
+          "end": 29.98
+        },
+        {
+          "word": "mirador",
+          "start": 30.0,
+          "end": 35.7
+        },
+        {
+          "word": "al",
+          "start": 35.7,
+          "end": 37.24
+        }
+      ],
+      "start": 29.98,
+      "end": 39.0,
+      "confidence": 0.56,
+      "time": 29.98
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y halla mi alma así la paz,",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ya",
+          "start": 40.86,
+          "end": 41.64
+        },
+        {
+          "word": "mi",
+          "start": 41.64,
+          "end": 42.18
+        },
+        {
+          "word": "alma",
+          "start": 42.18,
+          "end": 43.68
+        },
+        {
+          "word": "la",
+          "start": 44.96,
+          "end": 45.82
+        },
+        {
+          "word": "paz,",
+          "start": 45.82,
+          "end": 46.52
+        }
+      ],
+      "start": 40.86,
+      "end": 46.52,
+      "confidence": 0.686,
+      "time": 40.86
+    },
+    {
+      "type": "verse",
+      "occurrence": 0,
+      "text": "y halla mi alma así la paz.",
+      "verse": 1,
+      "words": [
+        {
+          "word": "ya",
+          "start": 48.3,
+          "end": 49.0
+        },
+        {
+          "word": "mi",
+          "start": 49.0,
+          "end": 50.48
+        },
+        {
+          "word": "alma",
+          "start": 50.48,
+          "end": 51.08
+        },
+        {
+          "word": "la",
+          "start": 52.6,
+          "end": 53.52
+        },
+        {
+          "word": "paz.",
+          "start": 53.52,
+          "end": 55.34
+        }
+      ],
+      "start": 48.3,
+      "end": 55.34,
+      "confidence": 0.686,
+      "time": 48.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "Todas sus horas santas son;",
+      "verse": 2,
+      "words": [
+        {
+          "word": "Todas",
+          "start": 55.34,
+          "end": 57.7
+        },
+        {
+          "word": "tus",
+          "start": 57.7,
+          "end": 58.68
+        },
+        {
+          "word": "horas,",
+          "start": 58.68,
+          "end": 59.94
+        },
+        {
+          "word": "santa",
+          "start": 60.18,
+          "end": 61.86
+        },
+        {
+          "word": "son,",
+          "start": 61.86,
+          "end": 63.36
+        }
+      ],
+      "start": 55.34,
+      "end": 64.3,
+      "confidence": 0.948,
+      "time": 55.34
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "nunca las vivo para mí,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "nunca",
+          "start": 64.3,
+          "end": 65.06
+        },
+        {
+          "word": "las",
+          "start": 65.06,
+          "end": 65.94
+        },
+        {
+          "word": "vivo",
+          "start": 65.94,
+          "end": 67.42
+        },
+        {
+          "word": "para",
+          "start": 67.42,
+          "end": 69.26
+        },
+        {
+          "word": "mí,",
+          "start": 69.26,
+          "end": 70.46
+        }
+      ],
+      "start": 64.3,
+      "end": 70.46,
+      "confidence": 1.0,
+      "time": 64.3
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "y nada vil perturba así",
+      "verse": 2,
+      "words": [
+        {
+          "word": "y",
+          "start": 70.46,
+          "end": 71.4
+        },
+        {
+          "word": "nada",
+          "start": 71.4,
+          "end": 73.18
+        },
+        {
+          "word": "perturban",
+          "start": 74.68,
+          "end": 77.24
+        }
+      ],
+      "start": 70.46,
+      "end": 78.76,
+      "confidence": 0.588,
+      "time": 70.46
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "mi comunión feliz con Dios,",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mi",
+          "start": 78.76,
+          "end": 80.16
+        },
+        {
+          "word": "comunión",
+          "start": 80.16,
+          "end": 82.16
+        },
+        {
+          "word": "feliz",
+          "start": 82.16,
+          "end": 83.98
+        },
+        {
+          "word": "con",
+          "start": 83.98,
+          "end": 84.66
+        },
+        {
+          "word": "Dios,",
+          "start": 84.66,
+          "end": 86.04
+        }
+      ],
+      "start": 78.76,
+      "end": 86.04,
+      "confidence": 1.0,
+      "time": 78.76
+    },
+    {
+      "type": "verse",
+      "occurrence": 1,
+      "text": "mi comunión feliz con Dios.",
+      "verse": 2,
+      "words": [
+        {
+          "word": "mi",
+          "start": 86.54,
+          "end": 87.38
+        },
+        {
+          "word": "comunión",
+          "start": 87.38,
+          "end": 89.66
+        },
+        {
+          "word": "feliz",
+          "start": 89.66,
+          "end": 91.52
+        },
+        {
+          "word": "con",
+          "start": 91.52,
+          "end": 92.36
+        },
+        {
+          "word": "Dios.",
+          "start": 92.36,
+          "end": 94.44
+        }
+      ],
+      "start": 86.54,
+      "end": 94.44,
+      "confidence": 1.0,
+      "time": 86.54
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "Esta delicia semanal",
+      "verse": 3,
+      "words": [
+        {
+          "word": "Esta",
+          "start": 94.44,
+          "end": 96.4
+        },
+        {
+          "word": "delicia",
+          "start": 96.4,
+          "end": 98.86
+        },
+        {
+          "word": "semanal,",
+          "start": 98.86,
+          "end": 102.5
+        }
+      ],
+      "start": 94.44,
+      "end": 103.1,
+      "confidence": 1.0,
+      "time": 94.44
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "es anticipo aquí de Sion;",
+      "verse": 3,
+      "words": [
+        {
+          "word": "es",
+          "start": 103.1,
+          "end": 103.68
+        },
+        {
+          "word": "anticipo",
+          "start": 103.68,
+          "end": 106.52
+        },
+        {
+          "word": "a",
+          "start": 106.52,
+          "end": 107.34
+        },
+        {
+          "word": "presión,",
+          "start": 108.22,
+          "end": 109.56
+        }
+      ],
+      "start": 103.1,
+      "end": 109.56,
+      "confidence": 0.755,
+      "time": 103.1
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "me acerca al trono celestial",
+      "verse": 3,
+      "words": [
+        {
+          "word": "asentra",
+          "start": 110.48,
+          "end": 112.18
+        },
+        {
+          "word": "todo",
+          "start": 112.84,
+          "end": 113.88
+        },
+        {
+          "word": "celestial",
+          "start": 113.88,
+          "end": 117.22
+        }
+      ],
+      "start": 110.48,
+      "end": 117.22,
+      "confidence": 0.514,
+      "time": 110.48
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al alentar mi devoción,",
+      "verse": 3,
+      "words": [
+        {
+          "word": "alentar",
+          "start": 119.22,
+          "end": 121.02
+        },
+        {
+          "word": "mi",
+          "start": 121.02,
+          "end": 122.26
+        },
+        {
+          "word": "devoción,",
+          "start": 122.26,
+          "end": 125.06
+        }
+      ],
+      "start": 119.22,
+      "end": 125.06,
+      "confidence": 0.75,
+      "time": 119.22
+    },
+    {
+      "type": "verse",
+      "occurrence": 2,
+      "text": "al alentar mi devoción.",
+      "verse": 3,
+      "words": [
+        {
+          "word": "alentar",
+          "start": 126.4,
+          "end": 128.56
+        },
+        {
+          "word": "mi",
+          "start": 128.56,
+          "end": 129.4
+        },
+        {
+          "word": "devoción.",
+          "start": 129.4,
+          "end": 133.42
+        }
+      ],
+      "start": 126.4,
+      "end": 133.42,
+      "confidence": 0.75,
+      "time": 126.4
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Todo pesar olvido hoy;",
+      "verse": 4,
+      "words": [
+        {
+          "word": "pensar,",
+          "start": 135.32,
+          "end": 137.38
+        },
+        {
+          "word": "olvidar,",
+          "start": 137.46,
+          "end": 141.16
+        }
+      ],
+      "start": 135.32,
+      "end": 143.82,
+      "confidence": 0.452,
+      "time": 135.32
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "dejo también mi cruel afán.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "bien",
+          "start": 143.82,
+          "end": 144.9
+        },
+        {
+          "word": "mi",
+          "start": 144.9,
+          "end": 145.68
+        }
+      ],
+      "start": 143.82,
+      "end": 148.5,
+      "confidence": 0.367,
+      "time": 143.82
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "Del sábado es autor Jesús:",
+      "verse": 4,
+      "words": [
+        {
+          "word": "El",
+          "start": 148.5,
+          "end": 149.46
+        },
+        {
+          "word": "sábado",
+          "start": 149.46,
+          "end": 151.82
+        },
+        {
+          "word": "salto,",
+          "start": 152.78,
+          "end": 154.34
+        },
+        {
+          "word": "Jesús,",
+          "start": 154.4,
+          "end": 156.52
+        }
+      ],
+      "start": 148.5,
+      "end": 157.36,
+      "confidence": 0.728,
+      "time": 148.5
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "ríndole entonces culto a él,",
+      "verse": 4,
+      "words": [
+        {
+          "word": "rindo",
+          "start": 157.36,
+          "end": 158.22
+        },
+        {
+          "word": "lentos",
+          "start": 158.22,
+          "end": 160.34
+        },
+        {
+          "word": "esculta",
+          "start": 160.34,
+          "end": 163.1
+        },
+        {
+          "word": "él,",
+          "start": 163.1,
+          "end": 164.04
+        }
+      ],
+      "start": 157.36,
+      "end": 164.54,
+      "confidence": 0.714,
+      "time": 157.36
+    },
+    {
+      "type": "verse",
+      "occurrence": 3,
+      "text": "ríndole entonces culto a él.",
+      "verse": 4,
+      "words": [
+        {
+          "word": "rindo",
+          "start": 164.54,
+          "end": 165.74
+        },
+        {
+          "word": "lentos",
+          "start": 165.74,
+          "end": 167.96
+        },
+        {
+          "word": "esculta",
+          "start": 167.96,
+          "end": 170.78
+        },
+        {
+          "word": "él.",
+          "start": 170.78,
+          "end": 173.16
+        }
+      ],
+      "start": 164.54,
+      "end": 173.16,
+      "confidence": 0.714,
+      "time": 164.54
+    }
+  ]
+}
