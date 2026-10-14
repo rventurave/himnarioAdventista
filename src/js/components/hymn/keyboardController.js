@@ -32,6 +32,11 @@ function handleKeydown(event) {
   const key = event.key;
 
   if (key === "Escape") {
+    if (document.body.classList.contains("is-immersive")) {
+      event.preventDefault();
+      toggleFullscreen();
+      return;
+    }
     //En pantalla completa, Escape primero sale de ella (lo maneja el navegador).
     if (document.fullscreenElement) {
       return;

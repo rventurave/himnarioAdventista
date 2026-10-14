@@ -1,3 +1,4 @@
+import { initViewportLayout } from "./utils/viewportLayout.js";
 import { initRouter } from "./core/router.js";
 import { initSearch } from "./components/search/searchController.js";
 import { initSelector } from "./components/selector/selectorController.js";
@@ -9,6 +10,7 @@ import {
 } from "./components/hymn/hymnController.js";
 import { initKeyboard } from "./components/hymn/keyboardController.js";
 
+initViewportLayout();
 initSelector();
 initSearch();
 initHymn();

@@ -4,10 +4,14 @@ import { getMode } from "../selector/selectorController.js";
 import {
   getInputValue,
   setInputValue,
+  showSelectedHymn,
+  hideSelectedHymn,
   renderSuggestions,
   renderErrorMessage,
   clearSuggestions,
   onHymnSelected,
+  onClearSelected,
+  onEditSelected,
   getForm,
   getInput,
 } from "./searchView.js";
@@ -24,9 +28,17 @@ function selectHymn(hymn) {
   clearTimeout(searchTimeout);
   searchToken += 1;
   selectedHymn = hymn;
-  setInputValue(`${hymn.number} - ${hymn.title}`);
+  setInputValue(`${hymn.number} | ${hymn.title}`);
+  showSelectedHymn(hymn);
   clearSuggestions();
+}
 
+//Vuelve al campo de texto y olvida la selección.
+function clearSelection() {
+  selectedHymn = null;
+  hideSelectedHymn();
+  setInputValue("");
+  clearSuggestions();
   getInput().focus();
 }
 
@@ -59,6 +71,7 @@ async function showSuggestions(query) {
 function handleInput() {
   searchToken += 1;
   selectedHymn = null;
+  hideSelectedHymn();
   const query = getInputValue();
 
   clearTimeout(searchTimeout);
@@ -86,15 +99,15 @@ async function handleSubmit(event) {
   clearTimeout(searchTimeout);
   const token = ++searchToken;
 
-  const query = getInputValue();
-
-  if (!query) {
+  // Enter o el botón inician el himno seleccionado en el modo elegido ahora.
+  if (selectedHymn) {
+    openSelectedHymn();
     return;
   }
 
-  // Enter o el botón inician el himno seleccionado en el modo elegido ahora.
-  if (selectedHymn && query === `${selectedHymn.number} - ${selectedHymn.title}`) {
-    openSelectedHymn();
+  const query = getInputValue();
+
+  if (!query) {
     return;
   }
 
@@ -136,6 +149,8 @@ export function initSearch() {
   const form = getForm();
 
   onHymnSelected(selectHymn);
+  onClearSelected(clearSelection);
+  onEditSelected(clearSelection);
 
   input.addEventListener("input", handleInput);
   form.addEventListener("submit", handleSubmit);

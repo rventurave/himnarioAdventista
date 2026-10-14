@@ -42,7 +42,7 @@ try {
     a.dispatchEvent(new Event('seeking'));
     return line.text;
   });
-  await page.waitForFunction(text => document.querySelector('#lyric-current').textContent === text, result);
+  await page.waitForFunction(text => document.querySelector('#lyric-current').textContent.includes(text), result);
   assert.ok(audioRequests.every(url => url.startsWith('https://pub-1ca54579e235492c815179e37558122a.r2.dev/data/audios/')));
   assert.ok(audioRequests.every(url => /\/(001|186)%20/.test(url)), 'solo audios seleccionados');
   // Respuesta 404 simulada: comprueba la UI de error, no la existencia remota.

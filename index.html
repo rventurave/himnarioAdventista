@@ -3,23 +3,32 @@
   <head>
     <meta charset="utf-8" />
     <title>Himnario Adventista del Séptimo Día | 613 Himnos</title>
-    <meta name="description" content="Himnario Adventista del Séptimo Día con 613 himnos. Consulta las letras, escucha audios cantados e instrumentales y utiliza el modo karaoke." />
+    <meta
+      name="description"
+      content="Himnario Adventista del Séptimo Día con 613 himnos. Consulta las letras, escucha audios cantados e instrumentales y utiliza el modo karaoke."
+    />
     <link rel="canonical" href="https://himnario-adventista.pages.dev/" />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:site_name" content="Himnario Adventista" />
-    <meta property="og:title" content="Himnario Adventista del Séptimo Día | 613 Himnos" />
-    <meta property="og:description" content="Himnario Adventista del Séptimo Día con 613 himnos. Consulta las letras, escucha audios cantados e instrumentales y utiliza el modo karaoke." />
+    <meta
+      property="og:title"
+      content="Himnario Adventista del Séptimo Día | 613 Himnos"
+    />
+    <meta
+      property="og:description"
+      content="Himnario Adventista del Séptimo Día con 613 himnos. Consulta las letras, escucha audios cantados e instrumentales y utiliza el modo karaoke."
+    />
     <meta property="og:url" content="https://himnario-adventista.pages.dev/" />
     <link rel="icon" href="data:," />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/src/css/index.css" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap"
       rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400&amp;family=Nunito:wght@400;600&amp;display=swap"
     />
+    <link rel="stylesheet" href="/src/css/typography.css" />
   </head>
 
   <body>
@@ -28,10 +37,33 @@
       <!-- VISTA INICIO                  -->
       <!-- ============================= -->
       <section id="view-home" class="view">
+        <button
+          id="home-fullscreen"
+          class="home-fullscreen"
+          type="button"
+          aria-label="Pantalla completa"
+          aria-pressed="false"
+        >
+          ⛶
+        </button>
+
         <h1 class="app-title">Himnario Adventista</h1>
 
         <div class="search-container">
           <form id="search-form">
+            <div id="search-selected" class="search-selected" hidden>
+              <span id="search-selected-number" class="search-selected-number"></span>
+              <span id="search-selected-title" class="search-selected-title"></span>
+              <button
+                id="search-selected-clear"
+                class="search-selected-clear"
+                type="button"
+                aria-label="Quitar selección"
+              >
+                ✕
+              </button>
+            </div>
+
             <input
               id="search-input"
               type="search"
@@ -65,8 +97,19 @@
               </div>
             </div>
 
-            <button type="submit" aria-label="Reproducir himno" title="Reproducir himno (Enter)">
-              <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" focusable="false">
+            <button
+              type="submit"
+              aria-label="Reproducir himno"
+              title="Reproducir himno (Enter)"
+            >
+              <svg
+                width="22"
+                height="22"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                aria-hidden="true"
+                focusable="false"
+              >
                 <path d="M8 5v14l11-7z" />
               </svg>
             </button>
@@ -79,7 +122,6 @@
             <a href="/himnos">Ver todos los himnos</a>
           </nav>
         </footer>
-
       </section>
 
       <!-- ============================= -->
@@ -90,8 +132,10 @@
           <button id="hymn-back" class="hymn-icon-btn" type="button">←</button>
 
           <div class="hymn-heading">
-            <span id="hymn-number" class="hymn-number"></span>
-            <h1 id="hymn-title" class="hymn-title"></h1>
+            <div class="hymn-title-row">
+              <span id="hymn-number" class="hymn-number"></span>
+              <h1 id="hymn-title" class="hymn-title"></h1>
+            </div>
             <span id="hymn-reference" class="hymn-reference"></span>
           </div>
 

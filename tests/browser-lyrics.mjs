@@ -29,8 +29,8 @@ for (const number of numbers) {
         audio.currentTime = time;
         audio.dispatchEvent(new Event('seeking'));
       }, Math.max(0, line.start - LEAD + 0.01));
-      await page.waitForFunction(text => document.querySelector('#lyric-current').textContent === text, line.text);
-      assert.equal(await page.locator('#lyric-section').textContent(), line.type === 'chorus' ? 'Coro' : `Estrofa ${line.verse}`);
+      await page.waitForFunction(text => document.querySelector('#lyric-current').textContent.includes(text), line.text);
+      assert.ok((await page.locator('#lyric-section').textContent()).startsWith(line.type === 'chorus' ? 'Coro' : `Estrofa ${line.verse}`));
     }
     // También cruza un límite con el reloj real del audio en marcha.
     if (sections.length > 1) {
@@ -40,13 +40,13 @@ for (const number of numbers) {
         audio.currentTime = time - 0.2;
         await audio.play();
       }, boundary.start);
-      await page.waitForFunction(text => document.querySelector('#lyric-current').textContent === text, boundary.text);
+      await page.waitForFunction(text => document.querySelector('#lyric-current').textContent.includes(text), boundary.text);
       await page.evaluate(() => document.querySelector('#hymn-audio').pause());
     }
     await page.keyboard.press('l');
     assert.ok(await page.locator('#lyrics-list').isVisible());
     await page.locator('#lyrics-list li').nth(2).click();
-    await page.waitForFunction(text => document.querySelector('#lyric-current').textContent === text, result.lines[2].text);
+    await page.waitForFunction(text => document.querySelector('#lyric-current').textContent.includes(text), result.lines[2].text);
     await page.keyboard.press('l');
     assert.ok(await page.locator('#lyrics-stage').isVisible());
     await page.evaluate(() => {

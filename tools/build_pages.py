@@ -4,9 +4,9 @@ import json
 import shutil
 from pathlib import Path
 try:
-    from .seo_pages import hymn_page, index_page, sitemap
+    from .seo_pages import hymn_page, index_page, sitemap, font_stylesheets
 except ImportError:
-    from seo_pages import hymn_page, index_page, sitemap
+    from seo_pages import hymn_page, index_page, sitemap, font_stylesheets
 
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT = ROOT / "dist"
@@ -38,7 +38,7 @@ def build():
     (OUTPUT / 'sitemap.xml').write_text(sitemap(catalog), encoding='utf-8')
     redirects = [f"/{h['number']} /_hymns/{h['number']} 200" for h in catalog]
     (OUTPUT / "_redirects").write_text("\n".join(redirects) + "\n")
-    (OUTPUT / "404.html").write_text('<!doctype html><html lang="es"><meta charset="utf-8"><title>No encontrado</title><p>Archivo no encontrado.</p><a href="/">Volver al himnario</a></html>')
+    (OUTPUT / "404.html").write_text(f'<!doctype html><html lang="es"><head><meta charset="utf-8"><title>No encontrado</title>{font_stylesheets()}</head><body><p>Archivo no encontrado.</p><a href="/">Volver al himnario</a></body></html>', encoding='utf-8')
     print(f"Preparado: {OUTPUT} ({len(catalog)} himnos; sin MP3)")
 
 

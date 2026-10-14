@@ -33,6 +33,7 @@ function renderButtonIcon(opcion) {
  */
 function toggleSelector() {
   selector.classList.toggle("abierto");
+  selectorBtn.setAttribute("aria-expanded", String(selector.classList.contains("abierto")));
 }
 
 /**
@@ -41,6 +42,7 @@ function toggleSelector() {
 function selectOption(opcion) {
   renderButtonIcon(opcion);
   selector.classList.remove("abierto");
+  selectorBtn.setAttribute("aria-expanded", "false");
 
   currentMode = opcion.dataset.value;
 }
@@ -51,6 +53,7 @@ function selectOption(opcion) {
 function handleClickOutside(event) {
   if (!selector.contains(event.target)) {
     selector.classList.remove("abierto");
+    selectorBtn.setAttribute("aria-expanded", "false");
   }
 }
 
@@ -66,9 +69,20 @@ export function initSelector() {
     renderButtonIcon(defaultOption);
   }
 
+  selectorBtn.setAttribute("aria-expanded", "false");
   selectorBtn.addEventListener("click", toggleSelector);
 
   opciones.forEach((opcion) => {
+    opcion.tabIndex = 0;
+    opcion.setAttribute("role", "button");
+    opcion.setAttribute("aria-label", opcion.title);
+    opcion.addEventListener("keydown", event => {
+      if (event.key === "Enter" || event.key === " ") {
+        event.preventDefault();
+        selectOption(opcion);
+        selectorBtn.focus();
+      }
+    });
     opcion.addEventListener("click", () => {
       selectOption(opcion);
     });

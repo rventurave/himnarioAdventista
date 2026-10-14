@@ -1,7 +1,7 @@
 import { findActiveIndex } from "../../utils/lyricsTimeline.js";
 import { getHymnAudioUrl } from "../../api/hymnsApi.js";
 import { MODES, LYRICS_LEAD_SECONDS } from "../../core/constants.js";
-import { getSlides, getPlaybackLyrics } from "../../services/lyricsService.js";
+import { getSlides, getPlaybackLyrics, getStructuredLyrics } from "../../services/lyricsService.js";
 import * as view from "./hymnView.js";
 
 const audio = view.getAudioElement();
@@ -24,7 +24,7 @@ let audioFailed = false;
 let syncedMode = false;
 let hasLyrics = false;
 let introReady = false;
-let state = "idle"; // "intro" | "content"
+let state = "idle"; // "intro" | "content" | "outro"
 let introEnd = INTRO_SECONDS;
 let introTimer = null;
 
@@ -55,6 +55,7 @@ export async function start(hymn, mode) {
   view.showStage(false);
   view.showList(false);
   view.showNav(false);
+  view.setPlaybackAvailable(false);
   view.showStartButton(false);
   view.clearNotice();
   view.showIntro();
@@ -94,6 +95,9 @@ export async function start(hymn, mode) {
     playback = { lines: [] };
   }
   if (token !== loadToken) return;
+  const structure = await getStructuredLyrics(hymn);
+  if (token !== loadToken) return;
+  view.prepareBlocks(structure, playback.lines);
   if (audioFailed) {
     await prepareUnsyncedContent(hymn, token);
     if (token !== loadToken) return;
@@ -119,6 +123,8 @@ export async function start(hymn, mode) {
   }
 
   introReady = true;
+  view.showNav(true);
+  view.setPlaybackAvailable(true);
 
   maybeEnterContent();
   attemptAutoplay();
@@ -138,6 +144,7 @@ export function stop() {
   hasLyrics = false;
   introReady = false;
   state = "idle";
+  view.clearBlocks();
 }
 
 export function togglePlayback() {
@@ -189,13 +196,27 @@ export function toggleLyricsList() {
 ======================================== */
 
 function maybeEnterContent() {
-  if (state !== "intro" || !introReady) {
+  if (state === "idle" || !introReady || audioFailed) return;
+  if (audio.ended || (Number.isFinite(audio.duration) && audio.currentTime >= audio.duration)) {
+    if (state !== "outro") {
+      state = "outro";
+      clearIntroTimer();
+      view.showOutro();
+    }
     return;
   }
-
-  if (audio.currentTime >= introEnd) {
-    enterContent();
+  if (audio.currentTime < introEnd) {
+    if (state !== "intro") {
+      state = "intro";
+      view.showTopbar(false);
+      view.showStage(false);
+      view.showList(false);
+      view.renderSection("");
+      view.showIntro();
+    }
+    return;
   }
+  enterContent();
 }
 
 function enterContent() {
@@ -223,8 +244,8 @@ function enterContent() {
   }
 
   if (syncedMode) {
-    view.showStage(true);
-    view.showList(false);
+    view.showStage(!listView);
+    view.showList(listView);
     updateActiveLine(true);
     return;
   }
@@ -303,6 +324,11 @@ function bindListeners() {
     if (audio.hasAttribute("src") && audio.error && state !== "idle") handleAudioError();
   });
 
+  audio.addEventListener("play", maybeEnterContent);
+  audio.addEventListener("playing", () => { if (state !== "idle") view.setPlaybackState(true); });
+  audio.addEventListener("pause", () => { if (state !== "idle") view.setPlaybackState(false); });
+  audio.addEventListener("ended", () => { if (state !== "idle") view.setPlaybackState(false); });
+
   audio.addEventListener("timeupdate", () => {
     maybeEnterContent();
     updateActiveLine(false);
@@ -373,13 +399,12 @@ function updateActiveLine(force) {
 }
 
 function renderActive() {
-  const line = lines[activeIndex];
+  if (state !== "content") return;
   const clock = audio.currentTime + LYRICS_LEAD_SECONDS;
-  const next = activeIndex < 0
-    ? lines.find(item => item.start > clock)
-    : lines[activeIndex + 1];
-  view.renderSection(line ? (line.type === "chorus" ? "Coro" : `Estrofa ${line.verse}`) : "");
-  view.renderSlide(line?.text || "", next?.text || "", lines[activeIndex - 1]?.text || "");
+  view.renderTimedBlock(activeIndex, {
+    beforeStart: clock < lines[0]?.start,
+    finished: audio.ended || clock >= lines.at(-1)?.end,
+  });
 
   if (listView) {
     view.setActiveLine(activeIndex);
@@ -411,6 +436,7 @@ function resetAudio() {
 
 function handleAudioError() {
   audioFailed = true;
+  view.setPlaybackAvailable(false);
   audio.pause();
   view.showStartButton(false);
   view.renderNotice("No se pudo reproducir el audio. Comprueba tu conexión o la disponibilidad del archivo.");

@@ -4,7 +4,7 @@ const base = process.env.TEST_BASE_URL || 'http://localhost:3000';
 const browser = await chromium.launch({ headless: true, executablePath: process.env.BROWSER_EXECUTABLE || undefined });
 try {
   for (const number of [1, 8]) {
-    const page = await browser.newPage();
+    const page = await browser.newPage({ reducedMotion: 'reduce' });
     const audioRequests = [], errors = [];
     page.on('request', r => { if (/\.mp3(?:\?|$)/.test(r.url())) audioRequests.push(r.url()); });
     page.on('pageerror', e => errors.push(e.message));
@@ -25,12 +25,12 @@ try {
       const target = Math.max(0, line.start - 1) + 0.12;
       await page.clock.runFor(Math.max(0, (target - elapsed) * 1000));
       elapsed = target;
-      assert.equal(await page.locator('#lyric-current').textContent(), line.text);
-      assert.equal(await page.locator('#lyric-section').textContent(), line.type === 'chorus' ? 'Coro' : `Estrofa ${line.verse}`);
+      assert.ok((await page.locator('#lyric-current').textContent()).includes(line.text));
+      assert.ok((await page.locator('#lyric-section').textContent()).startsWith(line.type === 'chorus' ? 'Coro' : `Estrofa ${line.verse}`));
       if (i === 0) {
         await page.keyboard.press('Space');
         await page.clock.runFor(10000);
-        assert.equal(await page.locator('#lyric-current').textContent(), line.text, 'pausa congela el reloj');
+        assert.ok((await page.locator('#lyric-current').textContent()).includes(line.text), 'pausa conserva el bloque');
         await page.keyboard.press('Space');
       }
     }
@@ -38,11 +38,11 @@ try {
     assert.equal(await page.locator('#lyric-current').textContent(), '', 'fin sin frase activa');
     await page.keyboard.press('Space');
     await page.keyboard.press('ArrowRight');
-    assert.equal(await page.locator('#lyric-current').textContent(), playback.lines[0].text);
+    assert.ok((await page.locator('#lyric-current').textContent()).includes(playback.lines[0].text));
     await page.keyboard.press('ArrowRight');
-    assert.equal(await page.locator('#lyric-current').textContent(), playback.lines[1].text);
+    assert.equal(await page.locator('#lyric-current').getAttribute('data-block-index'), '1');
     await page.keyboard.press('ArrowLeft');
-    assert.equal(await page.locator('#lyric-current').textContent(), playback.lines[0].text);
+    assert.ok((await page.locator('#lyric-current').textContent()).includes(playback.lines[0].text));
     await page.evaluate(async () => (await import('/src/js/core/router.js')).navigate('/'));
     const text = await page.locator('#lyric-current').textContent();
     await page.clock.runFor(30000);

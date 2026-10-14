@@ -84,7 +84,7 @@ auto-scroll y se puede hacer clic en cualquier línea para saltar a ese punto.
 - **Audio cantado** e **instrumental** con la misma letra sincronizada
 - **Letra sincronizada** con `.lrc` (resaltado automático de la línea activa)
 - **Modo Solo letra** para proyección
-- **Pantalla completa** optimizada para proyectores
+- **Pantalla completa** desde la portada y desde cada himno, optimizada para proyectores
 
 ## Estructura del Proyecto
 

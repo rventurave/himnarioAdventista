@@ -30,7 +30,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
 
-  font-family: Inter, sans-serif;
+  font-family: var(--font-body);
 }
 
 /* ========================================
@@ -42,9 +42,9 @@ body {
 
   color: #d4af37;
 
-  font-family: "Josefin Sans", sans-serif;
+  font-family: var(--font-heading);
   font-size: clamp(2.2rem, 5vw, 4rem);
-  font-weight: 700;
+  font-weight: 400;
 
   letter-spacing: -0.04em;
 
@@ -110,7 +110,7 @@ input[type="search"] {
 
   color: #000000;
 
-  font-family: "Josefin Sans", sans-serif;
+  font-family: var(--font-body);
   font-size: 1rem;
   font-weight: 400;
 }
@@ -122,7 +122,7 @@ input[type="search"] {
 input[type="search"]::placeholder {
   color: #9aa3a6;
 
-  font-family: "Josefin Sans", sans-serif;
+  font-family: var(--font-body);
   font-size: 1rem;
   font-weight: 400;
 }
@@ -395,11 +395,11 @@ button:active {
 .suggestion-number {
   min-width: 38px;
 
-  font-family: "Roboto", sans-serif;
+  font-family: var(--font-body);
 
   font-size: 0.9rem;
 
-  font-weight: 700;
+  font-weight: 600;
 
   color: #9d00ff;
 
@@ -413,11 +413,11 @@ button:active {
 .suggestion-title {
   overflow: hidden;
 
-  font-family: "Josefin Sans", sans-serif;
+  font-family: var(--font-body);
 
   font-size: 1rem;
 
-  font-weight: 500;
+  font-weight: 600;
 
   white-space: nowrap;
 
@@ -431,7 +431,7 @@ button:active {
 .suggestion-message {
   padding: 16px;
 
-  font-family: "Roboto", sans-serif;
+  font-family: var(--font-body);
 
   font-size: 0.95rem;
 
@@ -459,6 +459,80 @@ button:active {
     font-size: 0.95rem;
   }
 }
+/* ========================================
+   HIMNO SELECCIONADO (NÚMERO + TÍTULO)
+======================================== */
+
+.search-selected {
+  flex: 1;
+
+  min-width: 0;
+
+  height: 50px;
+
+  display: flex;
+  align-items: center;
+
+  gap: 12px;
+
+  padding: 15px 17px;
+
+  color: #000000;
+
+  font-family: var(--font-body);
+  font-size: 1rem;
+}
+
+.search-selected-number {
+  font-family: var(--font-body);
+  font-weight: 600;
+
+  color: #9d00ff;
+}
+
+.search-selected-title {
+  overflow: hidden;
+
+  font-family: var(--font-body);
+  font-weight: 600;
+
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.search-selected-clear {
+  width: 24px;
+  height: 24px;
+
+  flex-shrink: 0;
+
+  padding: 0;
+
+  border-radius: 50%;
+
+  background: transparent;
+
+  color: #7a7a7a;
+
+  font-size: 0.9rem;
+}
+
+.search-selected-clear:hover {
+  background: rgba(157, 0, 255, 0.12);
+
+  color: #9d00ff;
+
+  transform: none;
+}
+
+@media (max-width: 600px) {
+  .search-selected {
+    height: 48px;
+
+    padding: 12px 14px;
+  }
+}
+
 /* ========================================
    SELECTOR
 ======================================== */
@@ -619,6 +693,7 @@ button:active {
 }
 
 #view-hymn {
+  position: relative;
   width: 100%;
   min-height: calc(100vh - 40px);
 
@@ -645,34 +720,56 @@ button:active {
 
 .hymn-heading {
   display: flex;
+  flex: 1;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
 
-  gap: 4px;
+  gap: 2px;
+
+  min-width: 0;
+  max-width: 100%;
 
   text-align: center;
 }
 
-.hymn-number {
-  font-family: "Roboto", sans-serif;
-  font-size: 0.9rem;
-  font-weight: 700;
+/* Referencia compacta a la izquierda durante el contenido. */
+.hymn-title-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: flex-start;
 
-  color: #d4af37;
+  column-gap: 10px;
+
+  min-width: 0;
+  max-width: 100%;
 }
 
+.hymn-number {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: #9d00ff;
+  white-space: nowrap;
+}
+
+.hymn-separator { color: #d4af37; flex-shrink: 0; }
+.hymn-reference { text-transform: uppercase; text-align: left; overflow-wrap: anywhere; }
+
 .hymn-title {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: var(--font-heading);
   font-size: clamp(1.3rem, 3vw, 2.2rem);
-  font-weight: 700;
+  font-weight: 400;
 
   color: #ffffff;
 
   text-align: center;
+
+  min-width: 0;
+  overflow-wrap: break-word;
 }
 
 .hymn-reference {
-  font-family: "Roboto", sans-serif;
+  font-family: var(--font-body);
   font-size: 0.85rem;
 
   color: rgba(255, 255, 255, 0.6);
@@ -690,9 +787,9 @@ button:active {
 
   color: #ffffff;
 
-  font-family: "Josefin Sans", sans-serif;
+  font-family: var(--font-body);
   font-size: 0.9rem;
-  font-weight: 500;
+  font-weight: 600;
 
   white-space: nowrap;
 }
@@ -718,7 +815,7 @@ button:active {
 
   color: #ffe08a;
 
-  font-family: "Roboto", sans-serif;
+  font-family: var(--font-body);
   font-size: 0.9rem;
 
   text-align: center;
@@ -757,7 +854,7 @@ button:active {
   inset: 0;
 
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
 
@@ -784,28 +881,37 @@ button:active {
   transform: translateY(0);
 }
 
+.intro-composition {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: clamp(8px, 1.6vw, 18px);
+  max-width: 100%;
+  min-width: 0;
+  font-family: var(--font-heading);
+  font-size: clamp(2rem, 6vw, 5rem);
+  font-weight: 400;
+  line-height: 1.15;
+}
+
 .intro-number {
-  font-family: "Roboto", sans-serif;
-  font-size: clamp(1rem, 2.2vw, 1.6rem);
-  font-weight: 700;
-
-  letter-spacing: 0.14em;
-
-  color: #d4af37;
+  font-family: var(--font-heading);
+  font-size: inherit;
+  font-weight: 400;
+  color: #9d00ff;
+  white-space: nowrap;
 }
 
 .intro-title {
-  font-family: "Josefin Sans", sans-serif;
-  font-size: clamp(2rem, 6vw, 5rem);
-  font-weight: 700;
-
-  line-height: 1.15;
-
+  font-family: var(--font-heading);
+  font-size: inherit;
+  font-weight: 400;
+  line-height: inherit;
   color: #ffffff;
-
   text-shadow: 0 4px 28px rgba(0, 0, 0, 0.65);
-
+  min-width: 0;
   overflow-wrap: break-word;
+  text-wrap: balance;
 }
 
 /* ========================================
@@ -821,7 +927,7 @@ button:active {
 }
 
 .lyric-current {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: var(--font-body);
   font-size: clamp(2rem, 5.5vw, 4.5rem);
   font-weight: 600;
 
@@ -833,16 +939,12 @@ button:active {
   text-shadow: 0 2px 18px rgba(0, 0, 0, 0.6);
 }
 
-.lyric-current.lyric-enter {
-  animation: lyric-in 0.35s ease;
-}
-
 .lyric-next {
   margin-top: 24px;
 
-  font-family: "Josefin Sans", sans-serif;
+  font-family: var(--font-body);
   font-size: clamp(1.2rem, 3vw, 2.4rem);
-  font-weight: 500;
+  font-weight: 600;
 
   line-height: 1.25;
   white-space: pre-line;
@@ -853,17 +955,6 @@ button:active {
   transition: opacity 0.35s ease;
 }
 
-@keyframes lyric-in {
-  from {
-    opacity: 0;
-    transform: translateY(14px);
-  }
-
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
 
 /* ========================================
    LETRA COMPLETA (LISTA SINCRONIZADA)
@@ -885,9 +976,9 @@ button:active {
 }
 
 .lyric-line {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: var(--font-body);
   font-size: clamp(1.2rem, 2.6vw, 2rem);
-  font-weight: 500;
+  font-weight: 600;
 
   color: #ffffff;
   opacity: 0.4;
@@ -909,7 +1000,7 @@ button:active {
 .lyric-line.active {
   opacity: 1;
 
-  font-weight: 700;
+  font-weight: 600;
 
   color: #d4af37;
 
@@ -963,7 +1054,7 @@ button:active {
 .hymn-counter {
   min-width: 72px;
 
-  font-family: "Roboto", sans-serif;
+  font-family: var(--font-body);
   font-size: 0.9rem;
 
   color: rgba(255, 255, 255, 0.7);
@@ -996,7 +1087,7 @@ button:active {
 
   color: #ffffff;
 
-  font-family: "Josefin Sans", sans-serif;
+  font-family: var(--font-body);
   font-size: clamp(1rem, 2vw, 1.3rem);
   font-weight: 600;
 
@@ -1056,9 +1147,9 @@ button:active {
 }
 
 .hymn-notfound-title {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: var(--font-heading);
   font-size: clamp(1.6rem, 4vw, 2.6rem);
-  font-weight: 700;
+  font-weight: 400;
 
   color: #ffffff;
 }
@@ -1075,7 +1166,7 @@ button:active {
 
   color: #ffffff;
 
-  font-family: "Josefin Sans", sans-serif;
+  font-family: var(--font-body);
   font-size: 1rem;
   font-weight: 600;
 }
@@ -1088,11 +1179,44 @@ button:active {
    PANTALLA COMPLETA
 ======================================== */
 
+/* Mismo control en la portada y en el himno; discreto y fuera del flujo. */
+.home-fullscreen {
+  position: fixed;
+
+  top: 16px;
+  right: 16px;
+
+  z-index: 1100;
+
+  width: auto;
+  height: auto;
+
+  padding: 10px 14px;
+
+  border-radius: 10px;
+
+  background: rgba(0, 0, 0, 0.35);
+
+  color: #ffffff;
+
+  font-family: var(--font-body);
+  font-size: 1rem;
+}
+
+.home-fullscreen:hover {
+  background: #9d00ff;
+}
+
+.home-fullscreen.is-fullscreen,
+#hymn-fullscreen.is-fullscreen {
+  background: #9d00ff;
+}
+
 :fullscreen .lyric-current {
   font-size: clamp(2.5rem, 6vw, 6rem);
 }
 
-:fullscreen .intro-title {
+:fullscreen .intro-composition {
   font-size: clamp(2.5rem, 6.5vw, 6rem);
 }
 
@@ -1102,7 +1226,7 @@ button:active {
 
 @media (max-width: 600px) {
   .hymn-topbar {
-    flex-direction: column;
+    flex-direction: row;
     gap: 10px;
   }
 
@@ -1147,7 +1271,6 @@ button:active {
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .lyric-current.lyric-enter { animation: none; }
   .lyric-next { transition: none; }
 }
 
@@ -1166,3 +1289,153 @@ button:active {
 }
 .static-hymn { max-width: 800px; padding: 24px; background: #fff; color: #222; line-height: 1.6; }
 .static-lyrics { white-space: pre-line; }
+
+/* Bloques de versos: conserva fuentes, colores y controles existentes. */
+.lyrics-stage {
+  position: relative;
+  height: var(--lyrics-stage-height, 50vh);
+  display: grid;
+  place-items: center;
+  flex: none;
+  overflow: hidden;
+}
+.lyrics-stage .lyric-current {
+  width: 100%;
+  min-height: 0;
+  max-height: 100%;
+  padding-block: 8px;
+  overflow: hidden;
+  overflow-wrap: break-word;
+  animation: none;
+}
+.lyric-verse { display: block; }
+.lyric-verse.active { color: #d4af37; }
+.lyric-measure {
+  position: fixed;
+  left: -20000px;
+  top: 0;
+  visibility: hidden;
+  pointer-events: none;
+  white-space: pre-line;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+
+/* Títulos de himnos: conserva N | TÍTULO y permite envolver títulos largos. */
+.hymn-title, .intro-title { text-transform: uppercase; }
+
+/* Mantiene los controles en las portadas sin duplicar la información del himno. */
+.hymn-topbar.is-cover { position: absolute; top: 0; left: 0; }
+.hymn-topbar.is-cover .hymn-heading { visibility: hidden; }
+.hymn-intro:not([hidden]) ~ .hymn-start { margin-top: auto; }
+
+/* Espacio real disponible: escritorio, barras móviles y áreas seguras. */
+:root {
+  --page-gutter: clamp(12px, 2vw, 24px);
+  --page-top: max(var(--page-gutter), env(safe-area-inset-top, 0px));
+  --page-bottom: max(var(--page-gutter), env(safe-area-inset-bottom, 0px));
+  --page-left: max(var(--page-gutter), env(safe-area-inset-left, 0px));
+  --page-right: max(var(--page-gutter), env(safe-area-inset-right, 0px));
+  --viewport-height: 100vh;
+}
+@supports (height: 100dvh) { :root { --viewport-height: 100dvh; } }
+body {
+  min-height: var(--app-height, var(--viewport-height));
+  padding: var(--page-top) var(--page-right) var(--page-bottom) var(--page-left);
+}
+#app { min-width: 0; }
+#view-hymn {
+  height: calc(var(--app-height, var(--viewport-height)) - var(--page-top) - var(--page-bottom));
+  min-height: 0;
+}
+.hymn-topbar, .hymn-notice, .hymn-nav { flex: none; }
+.hymn-content {
+  min-height: 0;
+  gap: clamp(12px, 2.5vh, 30px);
+  padding-block: 36px 12px;
+}
+.hymn-icon-btn, .home-fullscreen, .hymn-arrow, .search-selected-clear {
+  min-width: 44px;
+  min-height: 44px;
+  touch-action: manipulation;
+}
+.home-fullscreen {
+  top: max(12px, env(safe-area-inset-top, 0px));
+  right: max(12px, env(safe-area-inset-right, 0px));
+}
+.hymn-arrow { width: 46px; height: 46px; }
+.hymn-nav { padding-inline: clamp(0px, 2vw, 32px); }
+.hymn-nav-center { display: flex; align-items: center; gap: clamp(8px, 2vw, 16px); }
+.hymn-counter { min-width: 0; }
+.lyric-section { position: absolute; top: 0; right: 0; max-width: 100%; }
+.lyrics-stage { flex: 0 1 auto; min-height: 0; }
+.lyrics-stage, .lyrics-list { width: 100%; max-width: 1600px; padding-inline: clamp(4px, 1.5vw, 16px); }
+.lyrics-list { max-height: var(--lyrics-stage-height, 60dvh); min-height: 0; overscroll-behavior: contain; }
+.lyric-current { font-size: clamp(1.4rem, min(4.2vw, 6.5dvh), 4.5rem); }
+:fullscreen .lyric-current, .is-immersive .lyric-current {
+  font-size: clamp(1.4rem, min(4.5vw, 7dvh), 6rem);
+}
+.lyric-line { font-size: clamp(1.1rem, 2.6vw, 2rem); overflow-wrap: anywhere; }
+.intro-composition { font-size: clamp(1.75rem, min(6vw, 10dvh), 5rem); }
+:fullscreen .intro-composition, .is-immersive .intro-composition {
+  font-size: clamp(1.75rem, min(6.5vw, 11dvh), 6rem);
+}
+.hymn-intro { padding: 4px clamp(4px, 2vw, 20px); }
+.search-container { width: min(100%, clamp(650px, 40vw, 850px)); }
+input[type="search"], input[type="search"]::placeholder { font-size: 1rem; }
+.search-selected { height: auto; min-height: 50px; padding: 8px 12px; gap: 8px; }
+.search-selected-number { flex: none; }
+.search-selected-title { min-width: 0; white-space: normal; overflow-wrap: anywhere; line-height: 1.35; }
+.search-selected-clear { width: 44px; height: 44px; margin-left: auto; }
+#search-suggestions {
+  max-height: var(--suggestions-height, 35dvh);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+.suggestion-item { height: auto; min-height: 44px; }
+.suggestion-number { flex: none; }
+.suggestion-title { white-space: normal; overflow-wrap: anywhere; line-height: 1.35; }
+.selector { flex: none; }
+.opciones { width: 60px; max-height: var(--menu-height, 45dvh); overflow-y: auto; overscroll-behavior: contain; }
+.opcion { width: 100%; min-height: 44px; flex: none; }
+.selector.menu-above .opciones { top: auto; bottom: calc(100% + 6px); }
+.home-footer { position: fixed; bottom: max(8px, env(safe-area-inset-bottom, 0px)); }
+.home-footer a { display: inline-flex; min-height: 44px; align-items: center; }
+.static-hymn { width: min(100%, 800px); padding: clamp(12px, 3vw, 24px); overflow-wrap: anywhere; }
+@media (max-width: 768px) {
+  .lyric-current, :fullscreen .lyric-current, .is-immersive .lyric-current { font-size: clamp(1.25rem, 5.5vw, 2rem); }
+}
+@media (max-width: 500px) {
+  .app-title { font-size: clamp(1.9rem, 8vw, 2.4rem); }
+  input[type="search"] { padding-inline: 8px; }
+  .search-container form:has(.search-selected:not([hidden])) {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 50px 48px;
+  }
+  .search-selected { grid-column: 1 / -1; }
+  .search-container form:has(.search-selected:not([hidden])) .selector { grid-column: 2; }
+  .search-container form:has(.search-selected:not([hidden])) > button[type="submit"] { grid-column: 3; }
+  .hymn-topbar { gap: 8px; }
+  .hymn-icon-btn { padding: 8px; }
+}
+@media (max-height: 500px) {
+  .app-title { margin-bottom: 16px; }
+  .hymn-content { padding-block: 28px 4px; gap: 10px; }
+  .hymn-topbar { margin-bottom: 8px; }
+  .hymn-notice { margin: 4px 0; padding-block: 4px; }
+  .hymn-intro { padding-block: 4px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hymn-intro, button, button img, button svg, .suggestion-item { transition: none; }
+}
+/* Alternativa voluntaria dentro del navegador si Fullscreen API no está disponible. */
+body.is-immersive {
+  --page-top: max(8px, env(safe-area-inset-top, 0px));
+  --page-bottom: max(8px, env(safe-area-inset-bottom, 0px));
+  --page-left: max(8px, env(safe-area-inset-left, 0px));
+  --page-right: max(8px, env(safe-area-inset-right, 0px));
+}
+:root:fullscreen { --page-gutter: 8px; }
+
+.hymn-content:has(.hymn-nav:not([hidden])) .hymn-start { margin-top: 0; }

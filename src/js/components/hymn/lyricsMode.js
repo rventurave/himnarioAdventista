@@ -1,13 +1,12 @@
-import { getSlides, getPlaybackLyrics } from "../../services/lyricsService.js";
+import { getPlaybackLyrics, getStructuredLyrics } from "../../services/lyricsService.js";
 import { findActiveIndex } from "../../utils/lyricsTimeline.js";
 import { LYRICS_LEAD_SECONDS } from "../../core/constants.js";
 import * as view from "./hymnView.js";
 
-let slides = [];
+let manual = false;
 let index = 0; // Presentación = 0, fragmentos manuales = 1..N.
 let lines = [];
 let activeIndex = -1;
-let navBound = false;
 let loadToken = 0;
 let controller = null;
 let timer = null;
@@ -23,17 +22,13 @@ export async function start(hymn) {
   view.showList(false);
   view.showStage(false);
   view.showNav(false);
+  view.setPlaybackAvailable(false);
   view.showTopbar(false);
   view.renderSlide("", "");
   view.renderCounter("");
   view.renderSection("");
   view.showIntro();
   view.renderNotice("Preparando sincronización…");
-
-  if (!navBound) {
-    view.bindNav({ onPrev: prev, onNext: next });
-    navBound = true;
-  }
 
   let playback;
   try {
@@ -43,8 +38,13 @@ export async function start(hymn) {
   }
   if (token !== loadToken) return;
 
+  const structure = await getStructuredLyrics(hymn);
+  if (token !== loadToken) return;
+  view.prepareBlocks(structure, playback.lines);
   if (playback.lines.length) {
     lines = playback.lines;
+    view.setPlaybackAvailable(true);
+    view.renderLyricsList(lines);
     view.showNav(true);
     view.renderNotice(playback.estimated ? "Avance automático con tiempos aproximados." : "");
     resume();
@@ -52,10 +52,12 @@ export async function start(hymn) {
     return;
   }
 
-  const fallbackSlides = await getSlides(hymn);
-  if (token !== loadToken) return;
-  slides = fallbackSlides;
-  if (!slides.length) {
+  manual = true;
+  view.renderLyricsList(structure.sequence.flatMap(section => {
+    const source = section.type === 'chorus' ? structure.chorus : structure.verses.find(v => v.number === section.number);
+    return source.lines.map(text => ({ text }));
+  }));
+  if (!view.getBlocks().length) {
     view.hideIntro();
     view.showTopbar(true);
     view.showStage(true);
@@ -70,35 +72,30 @@ export async function start(hymn) {
 }
 
 export function next() {
-  if (lines.length) {
-    const clock = currentTime() + LYRICS_LEAD_SECONDS;
-    const target = lines.findIndex(line => line.start > clock + 0.000001);
-    if (target >= 0) seekToLine(target);
-    return;
-  }
-  if (index < slides.length) {
-    index += 1;
-    renderManual();
+  if (lines.length) { navigateTimed(1); return; }
+  if (manual) {
+    if (!contentVisible && index > 0) return; // Portada final.
+    const target = contentVisible ? view.getBlockIndex() + 1 : 0;
+    if (target <= view.getBlocks().length) { index = target + 1; renderManual(); }
   }
 }
 
 export function prev() {
-  if (lines.length) {
-    const clock = currentTime() + LYRICS_LEAD_SECONDS;
-    let target = -1;
-    for (let i = 0; i < lines.length; i++) {
-      if (lines[i].start < clock - 0.000001) target = i;
-    }
-    // Durante una frase, la flecha retrocede a la frase anterior.
-    if (target === findActiveIndex(lines, clock)) target -= 1;
-    if (target >= 0) seekToLine(target);
-    else seekTo(0);
-    return;
-  }
-  if (index > 0) {
-    index -= 1;
+  if (lines.length) { navigateTimed(-1); return; }
+  if (manual && index > 0) {
+    index = contentVisible ? Math.max(0, view.getBlockIndex()) : view.getBlocks().length;
     renderManual();
   }
+}
+
+function navigateTimed(direction) {
+  const blocks = view.getBlocks();
+  let current = view.getBlockIndex();
+  if (!contentVisible) current = currentTime() + LYRICS_LEAD_SECONDS >= lines.at(-1).end ? blocks.length : -1;
+  const target = current + direction;
+  if (target < 0) { seekTo(0); return; }
+  if (target >= blocks.length) { seekTo(Math.max(0, lines.at(-1).end - LYRICS_LEAD_SECONDS)); return; }
+  if (blocks[target].firstCue !== null) seekToLine(blocks[target].firstCue);
 }
 
 export function togglePlayback() {
@@ -121,11 +118,12 @@ export function stop() {
   pause();
   elapsed = 0;
   lines = [];
-  slides = [];
+  manual = false;
   index = 0;
   activeIndex = -1;
   contentVisible = false;
   view.renderSection("");
+  view.clearBlocks();
 }
 
 function currentTime() {
@@ -133,11 +131,13 @@ function currentTime() {
 }
 
 function resume() {
+  view.setPlaybackState(true);
   startedAt = performance.now();
   timer = setInterval(() => renderTimed(false), 100);
 }
 
 function pause() {
+  view.setPlaybackState(false);
   elapsed = currentTime();
   startedAt = null;
   clearInterval(timer);
@@ -157,36 +157,43 @@ function seekTo(time) {
 function renderTimed(force) {
   const clock = currentTime() + LYRICS_LEAD_SECONDS;
   const nextIndex = findActiveIndex(lines, clock);
-  const showContent = clock >= lines[0].start;
+  const finished = clock >= lines.at(-1).end;
+  const showContent = clock >= lines[0].start && !finished;
   if (showContent !== contentVisible) {
     contentVisible = showContent;
     if (showContent) view.hideIntro();
-    else view.showIntro();
+    else if (!finished) view.showIntro();
     view.showStage(showContent);
     view.showTopbar(showContent);
   }
-  if (clock >= lines.at(-1).end && startedAt !== null) pause();
+  if (finished) {
+    view.showOutro();
+    if (startedAt !== null) pause();
+  }
   if (!force && nextIndex === activeIndex) return;
   activeIndex = nextIndex;
-  const line = lines[activeIndex];
-  const upcoming = line ? lines[activeIndex + 1] : lines.find(item => item.start > clock);
-  view.renderSection(line ? (line.type === "chorus" ? "Coro" : `Estrofa ${line.verse}`) : "");
-  view.renderSlide(line?.text || "", upcoming?.text || "", lines[activeIndex - 1]?.text || "");
-  view.renderCounter(line ? `${activeIndex + 1} / ${lines.length}` : "");
+  view.renderTimedBlock(activeIndex, { beforeStart: clock < lines[0].start, finished: clock >= lines.at(-1).end });
+
 }
 
 function renderManual() {
   view.renderSection("");
   if (index === 0) {
+    contentVisible = false;
     view.showIntro();
     view.showStage(false);
     view.showTopbar(false);
     view.renderCounter("");
     return;
   }
+  if (index > view.getBlocks().length) {
+    contentVisible = false;
+    view.showOutro();
+    return;
+  }
+  contentVisible = true;
   view.hideIntro();
   view.showStage(true);
   view.showTopbar(true);
-  view.renderSlide(slides[index - 1], slides[index] || "", slides[index - 2] || "");
-  view.renderCounter(`${index} / ${slides.length}`);
+  view.renderBlock(index - 1);
 }

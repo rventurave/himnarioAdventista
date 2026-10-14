@@ -1,6 +1,6 @@
 import { updateSeo } from "../../services/seoService.js";
 import { findHymn } from "../../api/hymnsApi.js";
-import { HOME_PATH, MODES } from "../../core/constants.js";
+import { HOME_PATH, MODES, SEEK_STEP } from "../../core/constants.js";
 import { navigate } from "../../core/router.js";
 import { resetHymnBackground, setHymnBackground } from "../../services/backgroundService.js";
 import * as audioMode from "./audioMode.js";
@@ -109,13 +109,13 @@ export function goHome() {
 export function next() {
   if (currentMode === MODES.LYRICS) {
     lyricsMode.next();
-  }
+  } else if (isAudioMode()) audioMode.seekBy(SEEK_STEP);
 }
 
 export function prev() {
   if (currentMode === MODES.LYRICS) {
     lyricsMode.prev();
-  }
+  } else if (isAudioMode()) audioMode.seekBy(-SEEK_STEP);
 }
 
 export function togglePlayback() {
@@ -139,18 +139,46 @@ export function toggleLyricsList() {
 }
 
 export function toggleFullscreen() {
+  if (document.body.classList.contains("is-immersive")) {
+    document.body.classList.remove("is-immersive");
+    syncFullscreen();
+    window.dispatchEvent(new Event("resize"));
+    return;
+  }
+  if (!document.documentElement.requestFullscreen) {
+    enterImmersive();
+    return;
+  }
   const request = document.fullscreenElement
     ? document.exitFullscreen?.()
-    : document.documentElement.requestFullscreen?.();
+    : document.documentElement.requestFullscreen();
+  request?.catch(() => { if (!document.fullscreenElement) enterImmersive(); });
+}
 
-  //Algunos navegadores rechazan la petición sin gesto del usuario.
-  request?.catch(() => {});
+function enterImmersive() {
+  document.body.classList.add("is-immersive");
+  syncFullscreen();
+  window.dispatchEvent(new Event("resize"));
 }
 
 export function initHymn() {
+  const supported = typeof document.documentElement.requestFullscreen === "function";
+
+  view.setFullscreenAvailable(supported);
   view.bindBack(goHome);
   view.bindHome(goHome);
   view.bindFullscreen(toggleFullscreen);
+  view.bindHomeFullscreen(toggleFullscreen);
+  view.bindNav({ onPrev: prev, onNext: next });
+  view.bindPlayback(togglePlayback);
+
+  document.addEventListener("fullscreenchange", syncFullscreen);
+  syncFullscreen();
+}
+
+function syncFullscreen() {
+  view.setFullscreenState(Boolean(document.fullscreenElement) || document.body.classList.contains("is-immersive"),
+    Boolean(document.documentElement.requestFullscreen) && !document.body.classList.contains("is-immersive"));
 }
 
 function isAudioMode() {

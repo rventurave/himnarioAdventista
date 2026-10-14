@@ -1,0 +1,20 @@
+/* Google Fonts oficiales; licencias en docs/fonts.md. */
+:root {
+  --font-heading: "Bebas Neue", "Arial Narrow", sans-serif;
+  --font-body: "Nunito", system-ui, sans-serif;
+}
+
+body { font-family: var(--font-body); font-weight: 400; }
+button, input, select, textarea { font-family: var(--font-body); }
+h1, h2, h3, h4, h5, h6, .lyric-section, .hymn-notfound-title {
+  font-family: var(--font-heading);
+  font-weight: 400;
+}
+strong, b, button { font-weight: 600; }
+.static-lyrics { font-family: var(--font-body); font-weight: 600; }
+
+/* Catálogo prerenderizado: adaptación independiente de los estilos del reproductor. */
+body > main:not(#app) { box-sizing: border-box; width: min(100%, 80rem); margin-inline: auto; padding: clamp(12px, 3vw, 32px); }
+body > main:not(#app) h1 { font-size: clamp(2rem, 5vw, 3.5rem); line-height: 1.15; overflow-wrap: anywhere; }
+body > main:not(#app) ol { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr)); gap: 4px 24px; padding: 0; list-style: none; }
+body > main:not(#app) a { display: inline-flex; align-items: center; min-height: 44px; padding-block: 6px; overflow-wrap: anywhere; }

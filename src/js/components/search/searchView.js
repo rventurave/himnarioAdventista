@@ -1,6 +1,10 @@
 const form = document.querySelector("#search-form");
 const input = document.querySelector("#search-input");
 const suggestions = document.querySelector("#search-suggestions");
+const selected = document.querySelector("#search-selected");
+const selectedNumber = document.querySelector("#search-selected-number");
+const selectedTitle = document.querySelector("#search-selected-title");
+const selectedClear = document.querySelector("#search-selected-clear");
 
 //obtener el valor actualidad
 export function getInputValue() {
@@ -9,6 +13,19 @@ export function getInputValue() {
 
 export function setInputValue(value) {
   input.value = value;
+}
+
+//El himno elegido se muestra aparte: número morado + título, sin separador.
+export function showSelectedHymn(hymn) {
+  selectedNumber.textContent = hymn.number;
+  selectedTitle.textContent = hymn.title;
+  input.hidden = true;
+  selected.hidden = false;
+}
+
+export function hideSelectedHymn() {
+  input.hidden = false;
+  selected.hidden = true;
 }
 
 //Mostramos sugerencias de busqueda, 8 como maximo
@@ -74,6 +91,28 @@ let onSelectHymn = null;
 export function onHymnSelected(callback) {
   onSelectHymn = callback;
 }
+
+let onClearSelection = null;
+export function onClearSelected(callback) {
+  onClearSelection = callback;
+}
+
+let onEditSelection = null;
+export function onEditSelected(callback) {
+  onEditSelection = callback;
+}
+
+selectedClear.addEventListener("click", (event) => {
+  event.stopPropagation();
+  onClearSelection?.();
+});
+
+//Pulsar el número o el título vuelve a permitir escribir una búsqueda nueva.
+selected.addEventListener("click", (event) => {
+  if (!event.target.closest("#search-selected-clear")) {
+    onEditSelection?.();
+  }
+});
 
 export function getForm() {
   return form;

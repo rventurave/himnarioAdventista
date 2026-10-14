@@ -1,0 +1,161 @@
+import assert from 'node:assert/strict';
+import { mkdir, writeFile } from 'node:fs/promises';
+const { chromium } = await import(process.env.PLAYWRIGHT_MODULE || 'playwright');
+const base = process.env.TEST_BASE_URL || 'http://127.0.0.1:3400';
+const output = process.env.RESPONSIVE_OUTPUT || '/tmp/hymn-responsive';
+await mkdir(output, { recursive: true });
+const browser = await chromium.launch({ headless: true, executablePath: process.env.BROWSER_EXECUTABLE || undefined, args: ['--autoplay-policy=no-user-gesture-required'] });
+const report = [];
+const viewports = process.env.RESPONSIVE_VIEWPORTS ? process.env.RESPONSIVE_VIEWPORTS.split(',').map(value => value.split('x').map(Number)) : [[320,568],[375,667],[390,844],[430,932],[768,1024],[1024,768],[1366,768],[1920,1080],[2560,1440],[844,390],[390,320]];
+async function geometry(page, selectors, touch = true) {
+  const errors = await page.evaluate(({ selectors, touch }) => {
+    const errors = [];
+    if (document.documentElement.scrollWidth > innerWidth + 1) errors.push('desbordamiento horizontal');
+    if (document.documentElement.scrollHeight > innerHeight + 1) errors.push('scroll de página innecesario');
+    for (const selector of selectors) {
+      const element = document.querySelector(selector);
+      const r = element.getBoundingClientRect();
+      if (r.left < -1 || r.right > innerWidth + 1 || r.top < -1 || r.bottom > innerHeight + 1) errors.push(`${selector}: fuera de pantalla`);
+      if (touch && (r.width < 43 || r.height < 43)) errors.push(`${selector}: objetivo táctil pequeño`);
+    }
+    return errors;
+  }, { selectors, touch });
+  assert.deepEqual(errors, []);
+}
+try {
+  for (const [width, height] of viewports) {
+    const context = await browser.newContext({ viewport: { width, height }, hasTouch: true, reducedMotion: 'reduce' });
+    await context.addInitScript(() => { HTMLMediaElement.prototype.play = () => Promise.reject(new DOMException('Sin audio', 'NotAllowedError')); });
+    const page = await context.newPage();
+    const errors = [], mp3 = [];
+    page.on('pageerror', e => errors.push(e.message));
+    page.on('request', r => { if (/\.mp3(?:\?|$)/.test(r.url())) mp3.push(r.url()); });
+    await page.goto(base);
+    await page.evaluate(() => document.fonts.ready);
+    assert.equal(await page.evaluate(() => Boolean(document.fullscreenElement)), false, 'no fuerza pantalla completa');
+    await geometry(page, ['.selector-btn', '#search-form > button[type="submit"]', '#home-fullscreen']);
+    await page.locator('#search-input').fill('a');
+    await page.waitForSelector('#search-suggestions.visible .suggestion-item');
+    await geometry(page, ['#search-suggestions'], false);
+    const suggestions = await page.locator('.suggestion-item').evaluateAll(items => items.map(el => ({ h: el.getBoundingClientRect().height, clipped: el.querySelector('.suggestion-title').scrollHeight > el.querySelector('.suggestion-title').clientHeight + 1 })));
+    assert.ok(suggestions.every(s => s.h >= 44 && !s.clipped));
+    await page.locator('#search-input').fill('443');
+    await page.waitForFunction(() => document.querySelector('.suggestion-number')?.textContent.trim() === '443');
+    await page.locator('.suggestion-item').first().tap();
+    assert.equal(await page.locator('#search-selected-number').textContent(), '443');
+    const selected = await page.locator('#search-selected-title').evaluate(el => ({ text: el.textContent, width: el.clientWidth, clipped: el.scrollWidth > el.clientWidth + 1 || el.scrollHeight > el.clientHeight + 1 }));
+    assert.ok(selected.width >= 100 && !selected.clipped, JSON.stringify(selected));
+    await geometry(page, ['#search-selected-clear', '.selector-btn', '#search-form > button[type="submit"]']);
+    await page.screenshot({ path: `${output}/selected-${width}x${height}.png` });
+    await page.locator('#search-selected-clear').tap();
+    assert.equal(await page.locator('#search-input').inputValue(), '');
+    await page.locator('.selector-btn').tap();
+    await geometry(page, ['.opciones'], false);
+    await page.locator('.opcion[data-value="lyrics"]').tap();
+    await page.locator('#search-input').fill('1');
+    await page.locator('#search-form > button[type="submit"]').tap();
+    await page.waitForURL('**/1?mode=lyrics');
+    await page.waitForFunction(() => !document.querySelector('#hymn-nav').hidden);
+    assert.ok(await page.locator('#hymn-intro').isVisible());
+    await geometry(page, ['#hymn-back', '#hymn-fullscreen', '#hymn-prev', '#hymn-next', '#hymn-playback']);
+    await page.locator('#hymn-playback').tap();
+    assert.equal(await page.locator('#hymn-playback').getAttribute('aria-label'), 'Reproducir');
+    await page.locator('#hymn-next').tap();
+    await page.waitForFunction(() => !document.querySelector('#lyrics-stage').hidden);
+    await page.waitForTimeout(100);
+    await geometry(page, ['#hymn-back', '#hymn-fullscreen', '#hymn-prev', '#hymn-next', '#hymn-playback']);
+    const lyrics = await page.locator('#lyric-current').evaluate(el => {
+      const r = el.getBoundingClientRect();
+      return { font: parseFloat(getComputedStyle(el).fontSize), clipped: el.scrollHeight > el.clientHeight + 2 || el.scrollWidth > el.clientWidth + 1, centered: Math.abs((r.left + r.right) / 2 - innerWidth / 2) < 2, text: el.textContent };
+    });
+    assert.ok(!lyrics.clipped && lyrics.centered && lyrics.font >= 20, JSON.stringify(lyrics));
+    await page.screenshot({ path: `${output}/lyrics-${width}x${height}.png` });
+    await page.locator('#hymn-next').tap();
+    assert.notEqual(await page.locator('#lyric-current').textContent(), lyrics.text);
+    await page.locator('#hymn-prev').tap();
+    assert.equal(await page.locator('#lyric-current').textContent(), lyrics.text);
+    await page.locator('#hymn-fullscreen').tap();
+    await page.waitForFunction(() => Boolean(document.fullscreenElement));
+    await geometry(page, ['#hymn-back', '#hymn-fullscreen', '#hymn-prev', '#hymn-next']);
+    await page.locator('#hymn-fullscreen').tap();
+    await page.waitForFunction(() => !document.fullscreenElement);
+    await page.reload();
+    await page.waitForFunction(() => !document.querySelector('#hymn-nav').hidden);
+    assert.ok(await page.locator('#hymn-intro').isVisible());
+    await page.locator('#hymn-back').tap();
+    await page.waitForURL(base + '/');
+    await page.locator('.selector-btn').focus();
+    await page.keyboard.press('Enter');
+    await page.locator('.opcion[data-value="karaoke"]').focus();
+    await page.keyboard.press('Enter');
+    assert.equal(await page.locator('.selector-btn img').getAttribute('alt'), 'Karaoke');
+    assert.deepEqual(mp3, [], 'Solo letra y portada no descargan MP3');
+    await page.goto(`${base}/himnos`);
+    assert.equal(await page.locator('ol a').count(), 613);
+    const indexErrors = await page.evaluate(() => [...document.querySelectorAll('ol a')].filter(el => el.getBoundingClientRect().height < 44 || el.scrollWidth > el.clientWidth + 1).length);
+    assert.equal(indexErrors, 0);
+    assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1));
+    await page.screenshot({ path: `${output}/index-${width}x${height}.png` });
+    assert.deepEqual(errors, []);
+    report.push({ width, height, lyricFont: lyrics.font, selectedTitleWidth: selected.width, suggestions: suggestions.length });
+    console.log(`Responsive ${width}×${height}: búsqueda, selección, menú, controles táctiles/teclado, letras, fullscreen, recarga e índice correctos.`);
+    await context.close();
+  }
+  // Emula navegador sin Fullscreen API y cambios de orientación/áreas seguras.
+  const fallback = await browser.newContext({ viewport: { width: 390, height: 844 }, hasTouch: true });
+  await fallback.addInitScript(() => { Object.defineProperty(Element.prototype, 'requestFullscreen', { configurable: true, value: undefined }); });
+  const p = await fallback.newPage();
+  await p.goto(base);
+  await p.locator('#home-fullscreen').tap();
+  assert.ok(await p.evaluate(() => document.body.classList.contains('is-immersive')));
+  await p.evaluate(async () => (await import('/src/js/core/router.js')).navigate('/1?mode=lyrics'));
+  await p.waitForFunction(() => !document.querySelector('#hymn-nav').hidden);
+  await p.locator('#hymn-playback').tap();
+  await p.locator('#hymn-next').tap();
+  const row = await p.locator('#lyric-current .active').getAttribute('data-row');
+  await p.setViewportSize({ width: 844, height: 390 });
+  await p.waitForTimeout(150);
+  assert.equal(await p.locator('#lyric-current .active').getAttribute('data-row'), row, 'orientación conserva verso');
+  await p.evaluate(() => { const s = document.body.style; s.setProperty('--page-left', '44px'); s.setProperty('--page-right', '44px'); s.setProperty('--page-bottom', '34px'); });
+  await p.waitForTimeout(150);
+  assert.equal(await p.evaluate(() => getComputedStyle(document.body).paddingLeft), '44px');
+  await geometry(p, ['#hymn-back', '#hymn-fullscreen', '#hymn-prev', '#hymn-next']);
+  await p.keyboard.press('Escape');
+  assert.equal(await p.evaluate(() => document.body.classList.contains('is-immersive')), false);
+  assert.equal(new URL(p.url()).pathname, '/1', 'Esc solo sale de vista ampliada');
+  await fallback.close();
+  // Medios reales de R2: los controles táctiles usan las mismas acciones de teclado.
+  const audioContext = await browser.newContext({ viewport: { width: 390, height: 844 }, hasTouch: true });
+  const audioPage = await audioContext.newPage();
+  const audioRequests = [], audioErrors = [];
+  audioPage.on('request', request => { if (/\.mp3(?:\?|$)/.test(request.url())) audioRequests.push(request.url()); });
+  audioPage.on('pageerror', error => audioErrors.push(error.message));
+  for (const [number, mode] of [[1,'sung'], [186,'karaoke']]) {
+    await audioPage.goto(`${base}/${number}?mode=${mode}`);
+    await audioPage.waitForFunction(() => { const a = document.querySelector('audio'); return a.readyState >= 2 && !a.paused; });
+    await audioPage.waitForFunction(() => document.querySelector('#hymn-playback').getAttribute('aria-label') === 'Pausar');
+    await audioPage.locator('#hymn-playback').tap();
+    assert.ok(await audioPage.locator('audio').evaluate(a => a.paused));
+    const before = await audioPage.locator('audio').evaluate(a => a.currentTime);
+    await audioPage.locator('#hymn-next').tap();
+    await audioPage.waitForFunction(time => Math.abs(document.querySelector('audio').currentTime - time - 5) < 0.15, before);
+    await audioPage.locator('#hymn-prev').tap();
+    await audioPage.waitForFunction(time => Math.abs(document.querySelector('audio').currentTime - time) < 0.15, before);
+    await audioPage.locator('#hymn-playback').tap();
+    await audioPage.waitForFunction(() => !document.querySelector('audio').paused);
+    await audioPage.locator('#hymn-playback').tap();
+    // Los MP3 pueden ajustar su duración al leer nuevos frames: comprueba el fin real.
+    await audioPage.evaluate(async () => { const a = document.querySelector('audio'); a.currentTime = Math.max(0, a.duration - 0.2); await a.play(); });
+    await audioPage.waitForFunction(() => document.querySelector('audio').ended && !document.querySelector('#hymn-intro').hidden);
+    await audioPage.waitForTimeout(150);
+    assert.equal(await audioPage.locator('#lyrics-stage').isVisible(), false);
+    assert.equal(await audioPage.locator('#hymn-state-icon').isVisible(), false, 'portada final sin indicadores superpuestos');
+    await audioPage.screenshot({ path: `${output}/end-${number}-${mode}.png` });
+    await geometry(audioPage, ['#hymn-back', '#hymn-fullscreen', '#hymn-prev', '#hymn-next', '#hymn-playback']);
+    console.log(`R2 ${number}/${mode}: pausa, reproducción y avance/retroceso táctil de 5 segundos; portada final correcta.`);
+  }
+  assert.ok(audioRequests.length && audioRequests.every(url => url.startsWith('https://pub-1ca54579e235492c815179e37558122a.r2.dev/data/audios/')));
+  assert.deepEqual(audioErrors, []);
+  await audioContext.close();
+  await writeFile(`${output}/report.json`, JSON.stringify(report, null, 2) + '\n');
+} finally { await browser.close(); }

@@ -12,8 +12,8 @@ def metadata(html, title, description, path):
     html = re.sub(r'<title>.*?</title>', '<title>' + escape(title) + '</title>', html)
     for key, value in [('description', description), ('og:title', title), ('og:description', description), ('og:url', ORIGIN + path)]:
         attr = 'property' if key.startswith('og:') else 'name'
-        html = re.sub(rf'(<meta {attr}="{key}" content=")[^"]*("\s*/>)', lambda m: m[1] + escape(value, quote=True) + m[2], html)
-    return re.sub(r'(<link rel="canonical" href=")[^"]*("\s*/>)', lambda m: m[1] + ORIGIN + path + m[2], html)
+        html = re.sub(rf'(<meta\s+{attr}="{key}"\s+content=")[^"]*("\s*/>)', lambda m: m[1] + escape(value, quote=True) + m[2], html)
+    return re.sub(r'(<link\s+rel="canonical"\s+href=")[^"]*("\s*/>)', lambda m: m[1] + ORIGIN + path + m[2], html)
 
 
 def hymn_page(template, hymn, root):
@@ -38,12 +38,21 @@ def hymn_page(template, hymn, root):
     return html.replace('<main id="app">', '<main id="app">' + article)
 
 
+def font_stylesheets():
+    template = (Path(__file__).resolve().parent.parent / 'index.html').read_text(encoding='utf-8')
+    return '\n'.join(tag for tag in re.findall(r'<link\b[^>]*>', template) if any(token in tag for token in (
+        'fonts.gstatic.com', 'fonts.googleapis.com', '/src/css/typography.css'
+    )))
+
+
 def index_page(catalog):
+    font_links = font_stylesheets()
     links = '\n'.join(f'<li><a href="/{h["number"]}">{h["number"]}. {escape(h["title"])}</a></li>' for h in catalog)
     return f'''<!doctype html><html lang="es"><head><meta charset="utf-8">
 <title>Índice de los 613 himnos adventistas | Himnario Adventista</title>
 <meta name="description" content="Consulta los 613 himnos adventistas por número y título y accede a sus letras, música y karaoke.">
 <link rel="canonical" href="{ORIGIN}/himnos"><meta name="viewport" content="width=device-width, initial-scale=1">
+{font_links}
 </head><body><main><a href="/">Himnario Adventista</a><h1>Índice de los 613 himnos adventistas</h1><ol>{links}</ol></main></body></html>'''
 
 
