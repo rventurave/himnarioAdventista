@@ -23,10 +23,12 @@ class PagesBuildTests(unittest.TestCase):
                 self.assertTrue((OUTPUT / verification).is_file())
                 self.assertEqual((ROOT / verification).read_bytes(), (OUTPUT / verification).read_bytes())
         rules = (OUTPUT / "_redirects").read_text().splitlines()
-        self.assertEqual(len(rules), 614)
-        self.assertIn('/1 /_hymns/1.html 200', rules)
-        self.assertIn('/613 /_hymns/613.html 200', rules)
+        self.assertEqual(len(rules), 613)
+        self.assertIn('/1 /_hymns/1 200', rules)
+        self.assertIn('/613 /_hymns/613 200', rules)
         self.assertNotIn('/* /index.html 200', rules)
+        self.assertFalse(any('.html' in rule for rule in rules), 'Pages redirige destinos HTML a URLs sin extensión')
+        self.assertFalse(any(rule.startswith('/himnos ') for rule in rules), 'Pages sirve himnos.html directamente')
         self.assertNotIn('./src/', (OUTPUT / 'index.html').read_text())
 
 

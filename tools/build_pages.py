@@ -36,8 +36,7 @@ def build():
         (OUTPUT / "_hymns" / f"{hymn['number']}.html").write_text(hymn_page(template, hymn, ROOT), encoding='utf-8')
     (OUTPUT / 'himnos.html').write_text(index_page(catalog), encoding='utf-8')
     (OUTPUT / 'sitemap.xml').write_text(sitemap(catalog), encoding='utf-8')
-    redirects = [f"/{h['number']} /_hymns/{h['number']}.html 200" for h in catalog]
-    redirects.append('/himnos /himnos.html 200')
+    redirects = [f"/{h['number']} /_hymns/{h['number']} 200" for h in catalog]
     (OUTPUT / "_redirects").write_text("\n".join(redirects) + "\n")
     (OUTPUT / "404.html").write_text('<!doctype html><html lang="es"><meta charset="utf-8"><title>No encontrado</title><p>Archivo no encontrado.</p><a href="/">Volver al himnario</a></html>')
     print(f"Preparado: {OUTPUT} ({len(catalog)} himnos; sin MP3)")

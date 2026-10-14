@@ -76,9 +76,13 @@ compila JavaScript ni introduce dependencias. Copia `index.html`, `src`, el
 catálogo, todas las letras y todas las sincronizaciones. No lee `data/audios`.
 No elimina archivos locales. `dist/` es salida generada e ignorada por Git.
 
-Genera 614 reglas `_redirects` de reescritura HTTP 200 para los números reales y el índice `/himnos`,
-con destinos HTML individuales bajo `/_hymns/` (el himno 404 no colisiona con la página de error),
-y un `404.html` para que datos ausentes respondan 404 en lugar de HTML de la SPA.
+Genera 613 reglas `_redirects` de reescritura HTTP 200 para los números reales,
+con destinos **sin extensión** bajo `/_hymns/` (el himno 404 no colisiona con la página de error).
+Por ejemplo, `/1 /_hymns/1 200` sirve internamente `/_hymns/1.html`.
+El índice `/himnos` se sirve de forma nativa desde `himnos.html`, sin reescritura.
+No uses destinos `.html`: la normalización de Pages puede producir un bucle 308
+o cambiar la URL pública a la ruta interna. El build también genera
+un `404.html` para que datos ausentes respondan 404 en lugar de HTML de la SPA.
 Los recursos de `index.html` usan `/src/`, válidos al abrir una ruta interna.
 Pages sirve directamente los TXT, LRC y JSON. No requiere Functions ni bindings
 R2. Referencia: [reescrituras de Pages](https://developers.cloudflare.com/pages/configuration/redirects/)
@@ -187,3 +191,25 @@ npx wrangler pages deploy dist --project-name=NOMBRE-REAL-DEL-PROYECTO
 
 Ese último comando publica y requiere tu autenticación: no se ejecutó. Nunca
 publiques la raíz completa del repositorio ni `data/audios` en Pages.
+
+## Validar rutas con el motor de Pages
+
+El servidor Python no reproduce la normalización de URLs HTML de Pages. Para
+comprobar las reglas reales, ejecuta después del build:
+
+```sh
+npx wrangler pages dev dist --ip 127.0.0.1 --port 3300
+# En otra terminal:
+PAGES_TEST_BASE_URL=http://127.0.0.1:3300 node tests/pages-routes.mjs
+```
+
+La prueba recorre las 615 URLs del sitemap, exige HTTP 200 sin redirecciones y
+compara cada respuesta con su HTML de dist. Comprueba robots, sitemap, modos y
+404. Para validar la publicación exacta con el mismo build local:
+
+```sh
+PAGES_TEST_BASE_URL=https://himnario-adventista.pages.dev node tests/pages-routes.mjs
+```
+
+Una diferencia puede indicar que el despliegue público corresponde a otra
+versión; no implica por sí sola que deba purgarse la caché.
