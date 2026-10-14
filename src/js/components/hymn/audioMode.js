@@ -104,6 +104,8 @@ export async function start(hymn, mode) {
   if (playback.lines.length) {
     syncedMode = true;
     lines = playback.lines;
+    // La letra completa permanece en el DOM antes de pulsar L o iniciar el audio.
+    view.renderLyricsList(lines, activeIndex);
     introEnd = Math.max(0, lines[0].start - LYRICS_LEAD_SECONDS);
     //La advertencia depende del método: con alineación vocal real no se muestra.
     view.renderNotice(playback.syncMethod === "estimated"

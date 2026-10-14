@@ -9,9 +9,6 @@ import {
 } from "./components/hymn/hymnController.js";
 import { initKeyboard } from "./components/hymn/keyboardController.js";
 
-// El HTML inicial contiene la letra; la vista interactiva toma el relevo.
-document.getElementById("static-hymn")?.remove();
-
 initSelector();
 initSearch();
 initHymn();

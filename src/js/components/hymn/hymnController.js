@@ -20,7 +20,9 @@ export async function openHymn(id, mode) {
   stopCurrentMode();
   resetHymnBackground();
 
-  view.showHymn();
+  const staticHymn = document.getElementById("static-hymn");
+  // Conserva la lectura inicial mientras se resuelve el catálogo.
+  if (!staticHymn) view.showHymn();
   view.clearNotice();
   view.showTopbar(false);
   view.showStage(false);
@@ -29,7 +31,14 @@ export async function openHymn(id, mode) {
   view.showStartButton(false);
   view.resetIntro();
 
-  const hymn = await findHymn(id);
+  let hymn;
+  try {
+    hymn = await findHymn(id);
+  } catch {
+    if (token !== loadToken) return;
+    if (!staticHymn) view.renderNotice("No se pudo cargar el himno. Inténtalo de nuevo.");
+    return;
+  }
 
   //Otra navegación ocurrió mientras cargábamos: descartamos este resultado.
   if (token !== loadToken) {
@@ -48,6 +57,16 @@ export async function openHymn(id, mode) {
   setHymnBackground(hymn);
   view.renderNotFound(false);
   view.renderHeader(hymn);
+  if (staticHymn) {
+    // Reutiliza la letra en la lista real del reproductor, accesible con L.
+    const text = staticHymn.querySelector(".static-lyrics").textContent;
+    view.renderLyricsList(text.split(/\r?\n/).map(text => text.trim()).filter(Boolean).map(text => ({ text })));
+    staticHymn.remove();
+  } else {
+    view.renderLyricsList([]);
+  }
+  view.showHymn();
+  view.showIntro();
 
   if (mode === MODES.LYRICS) {
     currentMode = MODES.LYRICS;
@@ -70,6 +89,7 @@ export function closeHymn() {
 }
 
 export function showHome() {
+  document.getElementById("static-hymn")?.remove();
   updateSeo();
   view.showHome();
 }
