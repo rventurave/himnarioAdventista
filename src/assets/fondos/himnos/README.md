@@ -9,7 +9,7 @@ En `data/himnario-api.json`, asigna el campo `backgroundImage` del himno:
 "backgroundImage": "/src/assets/fondos/himnos/001.webp"
 ```
 
-Usa `null` para mantener el fondo actual (`src/assets/fondos/fondo2.jpg`).
+Usa `null` para mantener el fondo actual (`src/assets/fondos/fondo.png`).
 También se usa ese fondo si la imagen asignada no puede cargarse. La portada
 siempre conserva el fondo predeterminado. El fondo personalizado se aplica en
 los tres modos: Letra, Cantado y Karaoke.

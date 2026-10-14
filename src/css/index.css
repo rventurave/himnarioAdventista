@@ -24,7 +24,7 @@ body {
 
   background:
     linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
-    var(--hymn-background, url("../assets/fondos/fondo2.jpg"));
+    var(--hymn-background, url("../assets/fondos/fondo.png"));
 
   background-size: cover;
   background-position: center;

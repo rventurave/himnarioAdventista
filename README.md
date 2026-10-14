@@ -172,7 +172,7 @@ Números de estrofa, opcional `Coro`, líneas de letra y líneas vacías como se
 ### Fondo propio de cada himno
 
 Cada entrada de `data/himnario-api.json` tiene un campo `backgroundImage`.
-Por defecto es `null` y se muestra el fondo actual (`src/assets/fondos/fondo2.jpg`).
+Por defecto es `null` y se muestra el fondo actual (`src/assets/fondos/fondo.png`).
 
 Para asignar una imagen, guárdala en `src/assets/fondos/himnos/` (por ejemplo,
 `001.webp`) y cambia el campo del himno correspondiente:
