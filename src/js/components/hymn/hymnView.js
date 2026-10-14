@@ -148,12 +148,12 @@ export function renderLyricsList(lines, activeIndex = -1) {
 }
 
 export function showList(visible) {
+  // Ocultar la vista no debe borrar la letra que ya se ha cargado.
   listElement.hidden = !visible;
+}
 
-  if (!visible) {
-    listElement.innerHTML = "";
-    activeListIndex = -1;
-  }
+export function hasLyricsList() {
+  return listElement.children.length > 0;
 }
 
 //Resalta la línea activa y la mantiene visible (auto scroll).

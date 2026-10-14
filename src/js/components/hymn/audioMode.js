@@ -199,7 +199,7 @@ function maybeEnterContent() {
 }
 
 function enterContent() {
-  if (state === "content") {
+  if (state === "content" && !audioFailed) {
     return;
   }
 
@@ -209,6 +209,18 @@ function enterContent() {
   view.hideIntro();
   view.showTopbar(true);
   view.showStartButton(false);
+
+  // Un fallo tardío también debe sustituir la vista de frases por la letra
+  // completa, aunque ya haya terminado la presentación inicial.
+  if (audioFailed && (lines.length || hasLyrics || view.hasLyricsList())) {
+    if (lines.length) view.renderLyricsList(lines, -1);
+    hasLyrics = true;
+    listView = true;
+    view.renderSection("");
+    view.showStage(false);
+    view.showList(true);
+    return;
+  }
 
   if (syncedMode) {
     view.showStage(true);
@@ -410,13 +422,14 @@ async function prepareUnsyncedContent(hymn, token) {
   const slides = await getSlides(hymn);
 
   if (token !== loadToken) return;
-  hasLyrics = slides.length > 0;
+  // Si también falla la descarga TXT, conserva la letra del HTML inicial.
+  hasLyrics = slides.length > 0 || view.hasLyricsList();
 
-  if (hasLyrics) {
+  if (slides.length) {
     view.renderLyricsList(
       slides.map((text) => ({ text })),
       -1,
     );
-    listView = true;
   }
+  if (hasLyrics) listView = true;
 }

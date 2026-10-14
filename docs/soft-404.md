@@ -109,3 +109,68 @@ validación según el informe disponible.
 
 Fuentes: [Soft 404 según Google](https://developers.google.com/search/docs/crawling-indexing/troubleshoot-crawling-errors)
 y [contenido en pestañas o acordeones](https://developers.google.com/search/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing).
+
+## Seguimiento: error de audio en la captura de Google
+
+Se confirmó que la corrección anterior estaba publicada: app.js,
+hymnController.js y audioMode.js públicos eran idénticos a los locales; también
+coincidían /1, CSS y sitemap. No era un despliegue pendiente de esa corrección.
+
+Se reprodujo la captura sin reproducir audio, sustituyendo play() por un rechazo:
+
+| Momento del fallo | Resultado anterior |
+|---|---|
+| Autoplay denegado (NotAllowedError) | Comenzar; lista completa en DOM, plegada |
+| Fallo antes de la sincronización | Aviso y letra completa visible |
+| Fallo después de la sincronización | Título, referencia, aviso y una frase; lista vacía |
+
+La causa confirmada era doble. enterContent() conservaba la vista sincronizada
+incluso con audioFailed: ocultaba la lista y mostraba la frase actual. A su vez,
+showList(false) borraba todos sus elementos. Si el fallo ocurría cuando ya se
+había entrado en contenido, el retorno anticipado impedía cambiar a la lectura
+completa. Las pruebas anteriores no cubrían esos dos momentos y por eso no
+bastaron para detectar el error.
+
+Se cambió únicamente audioMode.js y hymnView.js: ocultar no borra la letra y
+cualquier fallo tardío pasa a la vista completa existente, conservando título,
+referencia y aviso. Si además falla el TXT, el respaldo reutiliza la letra del
+HTML inicial. No se añadieron textos o controles, ni se cambió la presentación
+normal, los fondos, canonical, metadatos o sitemap.
+
+El MP3 de 001 respondió 200, audio/mpeg y Accept-Ranges: bytes, tanto a la
+petición normal como con User-Agent Googlebot. Esto no reproduce la IP, política
+multimedia ni recursos cargados por el renderizador de Google. No se puede
+atribuir su error a un archivo inexistente, CORS, WAF o bloqueo del bucket sin
+el detalle de recursos del intento real. El bloqueo normal de autoplay se
+maneja aparte con Comenzar; no es el mensaje reportado. Los recursos multimedia
+pueden no estar disponibles al renderizar, por lo que el texto debe ser legible
+independientemente de su carga.
+
+La prueba tests/browser-audio-fallback.mjs impide toda reproducción real de
+HTMLMediaElement y comprueba que no se produzca ningún evento playing. Cubre
+fallos antes y después de la sincronización, después de entrar en contenido,
+404, fallo de red y pérdida simultánea de audio/TXT/sincronización. También
+recorre los 613 himnos con MP3 fallido y comprueba cada línea textual, título,
+referencia y canonical. Verifica lectura sin JavaScript para 1, 2 y 613.
+
+```sh
+TEST_BASE_URL=http://127.0.0.1:3300 node tests/browser-audio-fallback.mjs
+# Prueba breve opcional, manteniendo los casos de error:
+TEST_HYMNS=1,2,613 TEST_BASE_URL=http://127.0.0.1:3300 node tests/browser-audio-fallback.mjs
+```
+
+Debe publicarse el nuevo dist para aplicar los dos módulos corregidos. Tras
+publicar, revisar el HTML y captura de la prueba de URL de Google: aun si aparece
+el aviso de audio, las estrofas completas deben estar en la vista de lectura.
+Esto corrige un fallo demostrado; la retirada de Soft 404 depende de la nueva
+evaluación de Google. No se hicieron commits, push ni despliegues.
+
+Resultados de este seguimiento: build, 11 pruebas Python y 11 Node correctos;
+615 rutas verificadas contra el motor local de Pages. La prueba de fallo MP3
+pasó en los 613 himnos, comprobando cada línea de los TXT, título, referencia
+y canonical. También pasaron bloqueo de autoplay, fallos tempranos/tardíos,
+fallo durante contenido, karaoke, alternancia L y fallo simultáneo de los
+recursos de texto. No se produjo reproducción de audio. La lectura sin
+JavaScript se comprobó en 1, 2 y 613; las pruebas Python recorrieron los 613 HTML.
+El /robots.txt del origen R2 devolvió 404, sin un archivo de exclusión que
+permita atribuir el error a una regla Disallow de ese origen.
