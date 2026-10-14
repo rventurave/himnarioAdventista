@@ -38,6 +38,28 @@ class RangeTests(unittest.TestCase):
         connection.close()
         return status, headers, data
 
+    def test_index_and_hymns_without_build(self):
+        import json
+        from html import escape
+        catalog = json.loads(Path(module.ROOT, 'data/himnario-api.json').read_text())
+        connection = HTTPConnection('127.0.0.1', self.server.server_port)
+        connection.request('GET', '/himnos')
+        response = connection.getresponse()
+        index = response.read().decode()
+        self.assertEqual(response.status, 200)
+        self.assertEqual(index.count('<li><a href="/'), 613)
+        self.assertNotIn('id="view-home"', index)
+        for hymn in catalog:
+            self.assertIn(f'<a href="/{hymn["number"]}">{hymn["number"]}. {escape(hymn["title"])}</a>', index)
+        for number in [1, 404, 613]:
+            connection.request('GET', f'/{number}?mode=lyrics')
+            response = connection.getresponse()
+            html = response.read().decode()
+            self.assertEqual(response.status, 200)
+            self.assertIn('id="static-hymn"', html)
+            self.assertIn(f'Himno {number}:', html)
+        connection.close()
+
     def test_closed_range(self):
         status, headers, data = self.request('bytes=2-9')
         self.assertEqual(status, 206)

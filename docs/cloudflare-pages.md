@@ -70,13 +70,14 @@ En Cloudflare, crea/conecta un proyecto **Pages** al repositorio GitHub:
 | Directorio de salida | `dist` |
 | Rama de producción | la rama que uses para publicar |
 
-El paso de build solo copia los archivos públicos; está justificado para excluir
+El paso de build copia los archivos públicos y genera el HTML de los himnos; está justificado para excluir
 los MP3 locales, `.venv`, herramientas y otros archivos del repositorio. No
 compila JavaScript ni introduce dependencias. Copia `index.html`, `src`, el
 catálogo, todas las letras y todas las sincronizaciones. No lee `data/audios`.
 No elimina archivos locales. `dist/` es salida generada e ignorada por Git.
 
-Genera 613 reglas `_redirects` de reescritura HTTP 200 para los números reales,
+Genera 614 reglas `_redirects` de reescritura HTTP 200 para los números reales y el índice `/himnos`,
+con destinos HTML individuales bajo `/_hymns/` (el himno 404 no colisiona con la página de error),
 y un `404.html` para que datos ausentes respondan 404 en lugar de HTML de la SPA.
 Los recursos de `index.html` usan `/src/`, válidos al abrir una ruta interna.
 Pages sirve directamente los TXT, LRC y JSON. No requiere Functions ni bindings

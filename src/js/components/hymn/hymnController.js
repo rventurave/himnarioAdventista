@@ -1,3 +1,4 @@
+import { updateSeo } from "../../services/seoService.js";
 import { findHymn } from "../../api/hymnsApi.js";
 import { HOME_PATH, MODES } from "../../core/constants.js";
 import { navigate } from "../../core/router.js";
@@ -42,6 +43,7 @@ export async function openHymn(id, mode) {
     return;
   }
 
+  updateSeo(hymn);
   open = true;
   setHymnBackground(hymn);
   view.renderNotFound(false);
@@ -68,6 +70,7 @@ export function closeHymn() {
 }
 
 export function showHome() {
+  updateSeo();
   view.showHome();
 }
 

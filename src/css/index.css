@@ -1150,3 +1150,19 @@ button:active {
   .lyric-current.lyric-enter { animation: none; }
   .lyric-next { transition: none; }
 }
+
+/* Acceso al catálogo fuera del bloque central de la portada. */
+.home-footer {
+  position: absolute;
+  bottom: 16px;
+  max-width: calc(100% - 40px);
+  font-size: 0.875rem;
+  text-align: center;
+}
+.home-footer a { color: #f6e8fc; text-decoration: none; }
+.home-footer a:hover, .home-footer a:focus-visible { text-decoration: underline; }
+@media (max-height: 360px) {
+  .home-footer { position: static; margin-top: 16px; }
+}
+.static-hymn { max-width: 800px; padding: 24px; background: #fff; color: #222; line-height: 1.6; }
+.static-lyrics { white-space: pre-line; }

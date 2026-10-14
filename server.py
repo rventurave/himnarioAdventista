@@ -1,4 +1,8 @@
 import os
+import io
+import json
+from pathlib import Path
+from tools.seo_pages import hymn_page, index_page
 import re
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 
@@ -20,6 +24,33 @@ class SPARequestHandler(SimpleHTTPRequestHandler):
     def send_head(self):
         self.range_remaining = None
         path = self.translate_path(self.path)
+        # Sirve las páginas prerenderizadas cuando ROOT apunta a dist.
+        clean_path = self.path.split("?", 1)[0].rstrip("/")
+        if re.fullmatch(r"/(?:[1-9]\d*|himnos)", clean_path):
+            relative = ("_hymns/" if clean_path != "/himnos" else "") + clean_path.lstrip("/") + ".html"
+            generated = os.path.join(ROOT, relative)
+            if os.path.isfile(generated):
+                self.path = "/" + relative
+                path = generated
+            elif Path(ROOT, 'tools/seo_pages.py').is_file():
+                # Desarrollo desde la raíz: el índice y las letras no deben
+                # caer en la portada SPA ni depender de un dist anterior.
+                catalog = json.loads(Path(ROOT, 'data/himnario-api.json').read_text(encoding='utf-8'))
+                html = None
+                if clean_path == '/himnos':
+                    html = index_page(catalog)
+                else:
+                    hymn = next((h for h in catalog if str(h['number']) == clean_path[1:]), None)
+                    if hymn:
+                        template = Path(ROOT, 'index.html').read_text(encoding='utf-8')
+                        html = hymn_page(template, hymn, Path(ROOT))
+                if html is not None:
+                    content = html.encode('utf-8')
+                    self.send_response(200)
+                    self.send_header('Content-Type', 'text/html; charset=utf-8')
+                    self.send_header('Content-Length', str(len(content)))
+                    self.end_headers()
+                    return io.BytesIO(content)
         _, extension = os.path.splitext(path)
 
         if not os.path.exists(path) and not extension and not self.path.startswith("/data"):
