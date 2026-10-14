@@ -21,7 +21,8 @@ export function parseRoute(location = window.location) {
     return { name: "home" };
   }
 
-  const match = /^\/(\d+)$/.exec(path);
+  // Compatibilidad con destinos de antiguas redirecciones 308 de Pages.
+  const match = /^\/(\d+)$/.exec(path) || /^\/_hymns\/(\d+)(?:\.html)?$/.exec(path);
 
   if (match) {
     const requested = new URLSearchParams(location.search).get("mode");
@@ -49,6 +50,10 @@ function dispatch() {
   const route = parseRoute();
 
   if (route.name === "hymn") {
+    if (window.location.pathname.startsWith("/_hymns/")) {
+      // Normaliza sin otra redirección HTTP, que podría estar en la caché.
+      window.history.replaceState(window.history.state, "", `/${route.id}${window.location.search}${window.location.hash}`);
+    }
     if (handlers.onHymn) {
       handlers.onHymn(route.id, route.mode);
     }
