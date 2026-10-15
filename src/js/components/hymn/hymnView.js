@@ -368,6 +368,7 @@ export function setFullscreenState(active, native = true) {
       ? (active ? "Salir de pantalla completa" : "Pantalla completa")
       : (active ? "Salir de vista ampliada" : "Vista ampliada"));
   }
+  homeFullscreenButton.textContent = "⛶";
 }
 
 // Ofrece la vista ampliada cuando el navegador no soporta la Fullscreen API.

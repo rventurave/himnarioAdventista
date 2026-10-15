@@ -27,12 +27,24 @@ function isTyping(target) {
 
 function handleKeydown(event) {
   if (event.defaultPrevented || event.isComposing || event.ctrlKey || event.metaKey || event.altKey ||
-      isTyping(event.target) || event.target.closest?.("dialog[open], [aria-modal='true']") ||
+      event.target.closest?.("dialog[open], [aria-modal='true']") ||
       document.querySelector("dialog[open], [aria-modal='true']")) {
     return;
   }
 
   const key = event.key;
+
+  // Tab alterna la pantalla completa desde el buscador o una zona sin controles.
+  // Shift+Tab y Tab desde otros controles conservan su navegación habitual.
+  if (key === "Tab" && !event.shiftKey &&
+      (event.target.id === "search-input" || event.target === document.body ||
+       event.target === document.documentElement)) {
+    event.preventDefault();
+    if (!event.repeat) toggleFullscreen();
+    return;
+  }
+
+  if (isTyping(event.target)) return;
 
   if (!document.querySelector("#view-home").hidden) {
     typeInHomeSearch(event);
@@ -40,17 +52,6 @@ function handleKeydown(event) {
   }
 
   if (key === "Escape") {
-    if (document.body.classList.contains("is-immersive")) {
-      event.preventDefault();
-      toggleFullscreen();
-      navigate(HOME_PATH);
-      return;
-    }
-    //En pantalla completa, Escape primero sale de ella (lo maneja el navegador).
-    if (document.fullscreenElement) {
-      return;
-    }
-
     if (window.location.pathname !== HOME_PATH) {
       event.preventDefault();
       navigate(HOME_PATH);

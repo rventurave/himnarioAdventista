@@ -173,7 +173,25 @@ export function initHymn() {
   view.bindPlayback(togglePlayback);
 
   document.addEventListener("fullscreenchange", syncFullscreen);
+  document.addEventListener("fullscreenchange", syncFullscreenKeyboard);
   syncFullscreen();
+}
+
+// Captura únicamente Escape; Tab y el botón permiten salir de pantalla completa.
+// Sin soporte o permiso, se conserva el comportamiento nativo del navegador.
+async function syncFullscreenKeyboard() {
+  if (!navigator.keyboard?.lock) return;
+  if (!document.fullscreenElement) {
+    navigator.keyboard.unlock();
+    return;
+  }
+  try {
+    await navigator.keyboard.lock(["Escape"]);
+    // La solicitud puede terminar después de que el usuario haya salido.
+    if (!document.fullscreenElement) navigator.keyboard.unlock();
+  } catch {
+    // El usuario o el navegador pueden rechazar la captura de Escape.
+  }
 }
 
 function syncFullscreen() {
