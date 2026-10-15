@@ -1,5 +1,6 @@
 import { HOME_PATH, MODES, SEEK_STEP } from "../../core/constants.js";
 import { navigate } from "../../core/router.js";
+import { typeInHomeSearch } from "../search/searchController.js";
 import {
   getCurrentMode,
   isHymnOpen,
@@ -25,16 +26,24 @@ function isTyping(target) {
 }
 
 function handleKeydown(event) {
-  if (isTyping(event.target)) {
+  if (event.defaultPrevented || event.isComposing || event.ctrlKey || event.metaKey || event.altKey ||
+      isTyping(event.target) || event.target.closest?.("dialog[open], [aria-modal='true']") ||
+      document.querySelector("dialog[open], [aria-modal='true']")) {
     return;
   }
 
   const key = event.key;
 
+  if (!document.querySelector("#view-home").hidden) {
+    typeInHomeSearch(event);
+    return;
+  }
+
   if (key === "Escape") {
     if (document.body.classList.contains("is-immersive")) {
       event.preventDefault();
       toggleFullscreen();
+      navigate(HOME_PATH);
       return;
     }
     //En pantalla completa, Escape primero sale de ella (lo maneja el navegador).

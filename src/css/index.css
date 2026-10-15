@@ -378,6 +378,10 @@ button:active {
    HOVER SUGERENCIA
 ======================================== */
 
+.suggestion-item.is-active {
+  background: rgba(157, 0, 255, 0.08);
+}
+
 .suggestion-item:hover {
   background: rgba(157, 0, 255, 0.08);
 

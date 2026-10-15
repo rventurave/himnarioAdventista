@@ -1,6 +1,6 @@
 import { initViewportLayout } from "./utils/viewportLayout.js";
 import { initRouter } from "./core/router.js";
-import { initSearch } from "./components/search/searchController.js";
+import { initSearch, resetHomeSearch } from "./components/search/searchController.js";
 import { initSelector } from "./components/selector/selectorController.js";
 import {
   closeHymn,
@@ -20,6 +20,7 @@ initRouter({
   onHome: () => {
     closeHymn();
     showHome();
+    resetHomeSearch();
   },
   onHymn: (id, mode) => {
     openHymn(id, mode);

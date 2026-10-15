@@ -14,6 +14,8 @@ import {
   onEditSelected,
   getForm,
   getInput,
+  getActiveSuggestion,
+  moveActiveSuggestion,
 } from "./searchView.js";
 
 let searchTimeout = null;
@@ -35,11 +37,40 @@ function selectHymn(hymn) {
 
 //Vuelve al campo de texto y olvida la selección.
 function clearSelection() {
+  clearTimeout(searchTimeout);
+  searchToken += 1;
   selectedHymn = null;
   hideSelectedHymn();
   setInputValue("");
   clearSuggestions();
   getInput().focus();
+}
+
+// La vista ya es visible cuando el router prepara una búsqueda nueva.
+export function resetHomeSearch() {
+  clearTimeout(searchTimeout);
+  searchToken += 1;
+  selectedHymn = null;
+  hideSelectedHymn();
+  setInputValue("");
+  clearSuggestions();
+  // No abre el teclado virtual al cargar o regresar en dispositivos táctiles.
+  if (window.matchMedia("(hover: hover) and (pointer: fine)").matches) {
+    getInput().focus({ preventScroll: true });
+  }
+}
+
+export function typeInHomeSearch(event) {
+  if (document.querySelector("#view-home").hidden || event.key.length !== 1 ||
+      event.target.closest?.("button, a, [role='button'], [role='combobox'], [role='listbox']")) return;
+
+  // Recupera el foco si se perdió al pulsar una zona vacía de la página.
+  const input = getInput();
+  if (selectedHymn) clearSelection();
+  input.focus({ preventScroll: true });
+  input.setRangeText(event.key, input.selectionStart, input.selectionEnd, "end");
+  event.preventDefault();
+  input.dispatchEvent(new Event("input", { bubbles: true }));
 }
 
 function openSelectedHymn() {
@@ -75,6 +106,7 @@ function handleInput() {
   const query = getInputValue();
 
   clearTimeout(searchTimeout);
+  clearSuggestions();
 
   if (!query) {
     clearSuggestions();
@@ -96,11 +128,19 @@ function handleInput() {
  */
 async function handleSubmit(event) {
   event.preventDefault();
+  if (document.querySelector("#view-home").hidden) return;
   clearTimeout(searchTimeout);
   const token = ++searchToken;
 
   // Enter o el botón inician el himno seleccionado en el modo elegido ahora.
   if (selectedHymn) {
+    openSelectedHymn();
+    return;
+  }
+
+  const activeHymn = getActiveSuggestion();
+  if (activeHymn) {
+    selectHymn(activeHymn);
     openSelectedHymn();
     return;
   }
@@ -119,7 +159,7 @@ async function handleSubmit(event) {
     const results = await searchHymns(query);
     if (token !== searchToken || query !== getInputValue()) return;
 
-    if (results.length === 1) {
+    if (results.length > 0) {
       selectHymn(results[0]);
       openSelectedHymn();
       return;
@@ -128,6 +168,16 @@ async function handleSubmit(event) {
     renderSuggestions(results);
   } catch (error) {
     console.error("Error al realizar la búsqueda:", error);
+  }
+}
+
+function handleSearchKeydown(event) {
+  if (event.isComposing || event.ctrlKey || event.metaKey || event.altKey) return;
+  if (event.key === "Enter" && event.repeat) {
+    event.preventDefault();
+  } else if ((event.key === "ArrowDown" || event.key === "ArrowUp") && getActiveSuggestion()) {
+    event.preventDefault();
+    moveActiveSuggestion(event.key === "ArrowDown" ? 1 : -1);
   }
 }
 
@@ -153,6 +203,7 @@ export function initSearch() {
   onEditSelected(clearSelection);
 
   input.addEventListener("input", handleInput);
+  input.addEventListener("keydown", handleSearchKeydown);
   form.addEventListener("submit", handleSubmit);
   document.addEventListener("click", handleClickOutside);
 }

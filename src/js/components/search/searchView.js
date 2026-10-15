@@ -5,6 +5,35 @@ const selected = document.querySelector("#search-selected");
 const selectedNumber = document.querySelector("#search-selected-number");
 const selectedTitle = document.querySelector("#search-selected-title");
 const selectedClear = document.querySelector("#search-selected-clear");
+let visibleHymns = [];
+let activeIndex = -1;
+
+input.setAttribute("role", "combobox");
+input.setAttribute("aria-autocomplete", "list");
+input.setAttribute("aria-controls", suggestions.id);
+input.setAttribute("aria-expanded", "false");
+suggestions.setAttribute("role", "listbox");
+suggestions.setAttribute("aria-label", "Himnos encontrados");
+
+export function getActiveSuggestion() {
+  return visibleHymns[activeIndex] || null;
+}
+
+export function moveActiveSuggestion(direction) {
+  if (!visibleHymns.length) return;
+  activeIndex = Math.max(0, Math.min(visibleHymns.length - 1, activeIndex + direction));
+  updateActiveSuggestion();
+  suggestions.children[activeIndex].scrollIntoView({ block: "nearest" });
+}
+
+function updateActiveSuggestion() {
+  [...suggestions.querySelectorAll(".suggestion-item")].forEach((item, index) => {
+    item.classList.toggle("is-active", index === activeIndex);
+    item.setAttribute("aria-selected", String(index === activeIndex));
+  });
+  if (activeIndex >= 0) input.setAttribute("aria-activedescendant", `search-result-${activeIndex}`);
+  else input.removeAttribute("aria-activedescendant");
+}
 
 //obtener el valor actualidad
 export function getInputValue() {
@@ -30,7 +59,10 @@ export function hideSelectedHymn() {
 
 //Mostramos sugerencias de busqueda, 8 como maximo
 export function renderSuggestions(results) {
-  suggestions.innerHTML = "";
+  clearSuggestions();
+  visibleHymns = results.slice(0, 8);
+  activeIndex = visibleHymns.length ? 0 : -1;
+  input.setAttribute("aria-expanded", "true");
 
   if (results.length === 0) {
     suggestions.innerHTML = `
@@ -43,11 +75,13 @@ export function renderSuggestions(results) {
     return;
   }
 
-  results.slice(0, 8).forEach((hymn) => {
+  visibleHymns.forEach((hymn, index) => {
     const item = document.createElement("button");
 
     item.type = "button";
     item.className = "suggestion-item";
+    item.id = `search-result-${index}`;
+    item.setAttribute("role", "option");
 
     item.innerHTML = `
       <span class="suggestion-number">
@@ -69,10 +103,13 @@ export function renderSuggestions(results) {
   });
 
   suggestions.classList.add("visible");
+  updateActiveSuggestion();
 }
 
 //Error
 export function renderErrorMessage(message) {
+  clearSuggestions();
+  input.setAttribute("aria-expanded", "true");
   suggestions.innerHTML = `
     <div class="suggestion-message">
       ${message}
@@ -83,6 +120,10 @@ export function renderErrorMessage(message) {
 
 //Eliminar sugerencias
 export function clearSuggestions() {
+  visibleHymns = [];
+  activeIndex = -1;
+  input.setAttribute("aria-expanded", "false");
+  input.removeAttribute("aria-activedescendant");
   suggestions.innerHTML = "";
   suggestions.classList.remove("visible");
 }
