@@ -48,6 +48,10 @@ const nextButton = document.querySelector("#hymn-next");
 const navCenter = document.createElement("div");
 navCenter.className = "hymn-nav-center";
 counterElement.before(navCenter);
+const navReference = document.createElement("div");
+navReference.className = "hymn-nav-reference";
+navReference.append(numberElement, referenceSeparator, referenceElement);
+navCenter.before(navReference);
 const playbackButton = document.createElement("button");
 playbackButton.id = "hymn-playback";
 playbackButton.className = "hymn-arrow";
@@ -93,7 +97,7 @@ export function showHymn() {
   hymnView.hidden = false;
 }
 
-//Rellena la barra superior y la presentación inicial.
+//Rellena la referencia de los controles y la presentación inicial.
 export function renderHeader(hymn) {
   numberElement.textContent = String(hymn.number);
   titleElement.textContent = hymn.title;
