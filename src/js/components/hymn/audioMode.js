@@ -27,12 +27,14 @@ let introReady = false;
 let state = "idle"; // "intro" | "content" | "outro"
 let introEnd = INTRO_SECONDS;
 let introTimer = null;
+let showClosingCoverAtLyricsEnd = false;
 
 /**
  * Inicia el modo Cantado o Karaoke: audio oculto + letra sincronizada.
  * Ambos modos comparten exactamente la misma sincronización (LRC o estimación acústica).
  */
 export async function start(hymn, mode) {
+  showClosingCoverAtLyricsEnd = Number(hymn.number) === 31;
   const token = ++loadToken;
   analysisController?.abort();
   analysisController = new AbortController();
@@ -111,6 +113,7 @@ export async function start(hymn, mode) {
     // La letra completa permanece en el DOM antes de pulsar L o iniciar el audio.
     view.renderLyricsList(lines, activeIndex);
     introEnd = Math.max(0, lines[0].start - LYRICS_LEAD_SECONDS);
+    if (showClosingCoverAtLyricsEnd && introEnd === 0) introEnd = INTRO_SECONDS;
     //La advertencia depende del método: con alineación vocal real no se muestra.
     view.renderNotice(playback.syncMethod === "estimated"
       ? "Sincronización aproximada según el audio. Para precisión vocal se requieren tiempos revisados."
@@ -197,7 +200,8 @@ export function toggleLyricsList() {
 
 function maybeEnterContent() {
   if (state === "idle" || !introReady || audioFailed) return;
-  if (audio.ended || (Number.isFinite(audio.duration) && audio.currentTime >= audio.duration)) {
+  if (audio.ended || (Number.isFinite(audio.duration) && audio.currentTime >= audio.duration)
+    || (showClosingCoverAtLyricsEnd && lines.length && audio.currentTime + LYRICS_LEAD_SECONDS >= lines.at(-1).end)) {
     if (state !== "outro") {
       state = "outro";
       clearIntroTimer();

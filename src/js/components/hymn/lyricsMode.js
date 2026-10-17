@@ -13,10 +13,13 @@ let timer = null;
 let elapsed = 0;
 let startedAt = null;
 let contentVisible = false;
+let openingTime = 0;
 
 /** Solo letra: mismo ritmo que Cantado, usando un reloj sin audio. */
 export async function start(hymn) {
   stop();
+  openingTime = Number(hymn.number) === 31 ? -5 - LYRICS_LEAD_SECONDS : 0;
+  elapsed = openingTime;
   const token = loadToken;
   controller = new AbortController();
   view.showList(false);
@@ -101,7 +104,7 @@ function navigateTimed(direction) {
 export function togglePlayback() {
   if (!lines.length) return;
   if (startedAt === null) {
-    if (elapsed + LYRICS_LEAD_SECONDS >= lines.at(-1).end) elapsed = 0;
+    if (elapsed + LYRICS_LEAD_SECONDS >= lines.at(-1).end) elapsed = openingTime;
     resume();
     renderTimed(true);
     view.flashState("▶");
@@ -149,7 +152,7 @@ function seekToLine(target) {
 }
 
 function seekTo(time) {
-  elapsed = time;
+  elapsed = time === 0 ? openingTime : time;
   if (startedAt !== null) startedAt = performance.now();
   renderTimed(true);
 }

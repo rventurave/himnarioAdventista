@@ -227,7 +227,10 @@ export function clearLyricsCache(id) {
 export async function getStructuredLyrics(hymn) {
   const entry = getEntry(hymn);
   if (!entry) return parseHymn('');
-  if (!entry.structure) entry.structure = parseHymn(await getPlainLyrics(hymn));
+  if (!entry.structure) entry.structure = {
+    ...parseHymn(await getPlainLyrics(hymn)),
+    hymnNumber: Number(hymn.number),
+  };
   return entry.structure;
 }
 

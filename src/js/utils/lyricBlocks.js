@@ -6,7 +6,9 @@ export function createVisualSections(structure, timeline = []) {
   let offset = 0, id = 0;
   const sections = structure.sequence.map((entry, occurrence) => {
     const source = entry.type === 'chorus' ? structure.chorus : structure.verses.find(v => v.number === entry.number);
-    return { type: entry.type, verse: entry.number, occurrence, rows: (source?.lines || []).map(text => {
+    return { type: entry.type, verse: entry.number, occurrence,
+      splitAfter: structure.hymnNumber === 31 && entry.type === 'verse' && entry.number === 1 ? 4 : null,
+      rows: (source?.lines || []).map(text => {
       const start = offset;
       offset += normalized(text).length;
       return { id: id++, text, start, end: offset, cues: [] };
@@ -41,7 +43,9 @@ export function groupVisualSections(sections, fits) {
     const rows = section.rows;
     if (!rows.length) return [];
     let parts;
-    if (fits(rows.map(r => r.text))) parts = [rows];
+    if (section.splitAfter && section.splitAfter < rows.length) {
+      parts = [rows.slice(0, section.splitAfter), rows.slice(section.splitAfter)];
+    } else if (fits(rows.map(r => r.text))) parts = [rows];
     else {
       const pairs = [];
       for (let cut = 1; cut < rows.length; cut++) {

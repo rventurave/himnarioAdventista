@@ -7,6 +7,21 @@ import { timelineFromSync } from '../src/js/utils/lyricsTimeline.js';
 const example = ['Traían en silencio presentes al Señor;', 'su amor humilde y puro les daba gran valor;', 'palabras de consuelo y hechos de bondad,', 'Jesús los recibía por su sinceridad.'];
 const model = text => createVisualSections(parseHymn(text));
 const originalRows = m => m.sections.flatMap(s => s.rows);
+test('solo el himno 31 divide su estrofa en dos presentaciones de cuatro líneas', () => {
+  const structure = parseHymn(readFileSync('data/letras/031 - Oh, Senor al orar.txt', 'utf8'));
+  for (const hymnNumber of [31, 32]) {
+    const m = createVisualSections({ ...structure, hymnNumber }, expandHymn(structure));
+    const blocks = groupVisualSections(m.sections, () => true);
+    assert.deepEqual(blocks.map(b => b.rows.length), hymnNumber === 31 ? [4, 4] : [8]);
+    preserve(m, blocks);
+    if (hymnNumber === 31) {
+      assert.equal(blocks[0].rows.at(-1).text, 'y tu bendición alcanzar.');
+      assert.equal(blocks[1].rows[0].text, 'Hoy mi vida transforma, Señor;');
+      assert.deepEqual(blocks.map(b => [b.verse, b.part, b.parts]), [[1, 1, 2], [1, 2, 2]]);
+      assert.equal(blockForCue(blocks, 4), 1);
+    }
+  }
+});
 function preserve(m, blocks) {
   assert.deepEqual(blocks.flatMap(b => b.rows), originalRows(m));
   for (const b of blocks) assert.ok(b.rows.every(r => m.sections[b.occurrence].rows.includes(r)));
