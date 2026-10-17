@@ -1,142 +1,98 @@
 # Himnario Adventista
 
-Aplicación web para proyectar himnos del Himnario Adventista con audio cantado, instrumental y letra.
+Aplicación web para buscar, visualizar y reproducir los **613 himnos del Himnario Adventista**, con audio cantado, instrumental y letras sincronizadas. Pensada para uso personal y proyección en iglesia.
 
-## Requisitos
-
-- Navegador moderno (Chrome, Firefox, Edge, Safari)
-- Python 3 (para el servidor local)
-
-## Ejecución
-
-```bash
-cd himnarioAdventista
-python3 server.py
-```
-
-Abrir `http://localhost:3000`
-
-Los audios se reproducen desde Cloudflare R2, también en desarrollo local.
-Para publicar en Cloudflare Pages, configurar CORS y ejecutar las pruebas,
-consulta [la guía de publicación](docs/cloudflare-pages.md).
-
-> ⚠️ `python3 -m http.server` **no** sirve rutas como `/25` (daría 404), porque no
-> reescribe rutas desconocidas a `index.html`. Usa `server.py`, que sí lo hace.
-
-## Rutas
-
-| Ruta | Descripción |
-|------|-------------|
-| `/` | Buscador de himnos |
-| `/25` | Abre el himno 25 con el modo por defecto (`sung`) |
-| `/25?mode=lyrics` | Himno 25 en modo **Solo letra** |
-| `/25?mode=sung` | Himno 25 en modo **Cantado** (audio cantado + letra sincronizada) |
-| `/25?mode=karaoke` | Himno 25 en modo **Karaoke** (audio instrumental + letra sincronizada) |
-
-El flujo es: buscar el himno y seleccionarlo para completar su número y título
-en el buscador. Puedes elegir el modo antes de iniciar. Solo al pulsar Enter o
-el botón ▶ la aplicación navega a `/X?mode=...` e inicia el modo elegido.
-
-## Modos
-
-- **Solo letra:** sin audio. Empieza en una pantalla de presentación (número + título)
-  y avanza automáticamente con los mismos tiempos guardados de Cantado. `Espacio`
-  pausa o reanuda; `←` / `→` permiten cambiar de frase. Sin tiempos disponibles,
-  conserva la navegación manual.
-- **Cantado:** audio cantado (`mp3Route`) con tiempos LRC o estimación acústica.
-- **Karaoke:** audio instrumental (`mp3RouteInstr`) con **el mismo motor y tiempos**.
-
-### Presentación inicial
-
-Al entrar a `/X` se muestra primero una pantalla grande y centrada con el número y el
-título del himno. En **Cantado** y **Karaoke** se mantiene mientras se preparan los tiempos. El audio arranca
-automáticamente al terminar la preparación y la primera frase marca el inicio de la letra. Si el navegador bloquea el
-autoplay aparece un botón **▶ Comenzar**. En **Solo letra**, un reloj interno inicia
-el avance al terminar de cargar la sincronización, sin descargar ni reproducir audio.
-La primera frase aparece con el mismo adelanto de un segundo que en Cantado.
-
-### Reproductor oculto
-
-No hay controles nativos de audio visibles (ni barra de progreso, ni play/pausa, ni
-volumen, ni tiempo). El `<audio>` existe internamente sin el atributo `controls`.
-`Espacio` reproduce o pausa y muestra un indicador momentáneo ▶ / ⏸.
-
-En Cantado y Karaoke la vista muestra la frase actual (y la siguiente, tenue).
-Con `L` se alterna a la letra completa: la línea activa se resalta, hay
-auto-scroll y se puede hacer clic en cualquier línea para saltar a ese punto.
-
-## Controles de Teclado
-
-| Tecla | Acción |
-|-------|--------|
-| `Esc` | Salir y volver a `/` (en pantalla completa, primero la cierra) |
-| `←` / `→` | Solo letra: fragmento anterior / siguiente |
-| `←` / `→` | Cantado y Karaoke: retroceder / adelantar 5 segundos |
-| `Espacio` | Cantado y Karaoke: reproducir / pausar; Solo letra: pausar / reanudar el avance |
-| `L` | Cantado y Karaoke: alternar frase actual / letra completa |
-| `F` | Pantalla completa |
+**Sitio web:** https://himnario-adventista.pages.dev/
 
 ## Funcionalidades
 
-- **Búsqueda** por número o título (con debounce)
-- **613 himnos** del Himnario Adventista
-- **Navegación por URL** (`/X?mode=...`) con router propio (History API)
-- **Audio cantado** e **instrumental** con la misma letra sincronizada
-- **Letra sincronizada** con `.lrc` (resaltado automático de la línea activa)
-- **Modo Solo letra** para proyección
-- **Pantalla completa** desde la portada y desde cada himno, optimizada para proyectores
+- Búsqueda por número o título.
+- Tres modos: Solo letra, Cantado y Karaoke.
+- Presentación de letras por bloques y vista de letra completa en los modos con audio.
+- Pantalla completa para proyección.
+- Fondos personalizados por himno.
+- Diseño adaptable a computadoras y móviles, con atajos de teclado.
 
-## Estructura del Proyecto
+## Modos de reproducción
 
-```
+| Modo | Descripción |
+| --- | --- |
+| **Solo letra** | Muestra la letra sin audio, con avance automático si hay tiempos disponibles y navegación manual por bloques. |
+| **Cantado** | Reproduce la grabación cantada y muestra la letra sincronizada. |
+| **Karaoke** | Reproduce el instrumental y muestra la letra con los tiempos de la versión cantada. |
+
+La precisión de la sincronización depende de los tiempos disponibles para cada himno.
+
+## Atajos de teclado
+
+| Tecla | Acción |
+| --- | --- |
+| `Espacio` | Reproducir o pausar el audio; en Solo letra, pausar o reanudar el avance automático si hay tiempos disponibles. |
+| `←` / `→` | Cambiar de bloque en Solo letra; retroceder o adelantar 5 segundos en Cantado y Karaoke. |
+| `L` | Alternar entre la presentación por bloques y la letra completa en Cantado y Karaoke. |
+| `F` | Alternar la pantalla completa con un himno abierto. |
+| `Tab` | Alternar la pantalla completa desde el buscador o cuando el foco está en el fondo de la página. Desde otros controles conserva la navegación habitual. |
+| `Esc` | Volver al buscador desde un himno. Según el navegador, puede salir primero de pantalla completa y requerir otra pulsación. |
+
+Los atajos del himno no se activan mientras se escribe en un campo. `Shift` + `Tab` conserva la navegación inversa entre controles.
+
+## Tecnologías utilizadas
+
+- HTML5, CSS3 y JavaScript nativo para la aplicación.
+- Python 3 para el servidor local y la preparación del sitio estático.
+- Cloudflare Pages para el alojamiento web y Cloudflare R2 para los audios.
+
+## Estructura del proyecto
+
+```text
 himnarioAdventista/
-├── server.py                  # servidor local con fallback SPA
-├── index.html                 # shell SPA (vista inicio + vista himno)
-├── sync_lyrics.py             # proceso masivo: --all / --id / --force
-├── tools/
-│   ├── vocal_sync.py          # motor de alineación vocal (Whisper) -> .sync.json
-│   └── requirements-sync.txt
+├── README.md
+├── index.html
+├── server.py                   # Servidor local
+├── sync_lyrics.py              # Herramienta de sincronización
+├── data/
+│   ├── himnario-api.json       # Catálogo de los 613 himnos
+│   ├── letras/                # Letras .txt y sincronización .lrc
+│   └── sync/                  # Archivos .sync.json
 ├── src/
 │   ├── css/
-│   │   └── index.css
-│   ├── assets/
-│   │   ├── fondos/
-│   │   └── icons/
-│   └── js/
-│       ├── app.js             # bootstrap
-│       ├── api/
-│       │   └── hymnsApi.js    # catálogo, búsqueda, URLs de audio y letra
-│       ├── core/
-│       │   ├── config.js
-│       │   ├── constants.js   # modos, atajos, campos requeridos
-│       │   └── router.js      # router History API (/X?mode=...)
-│       ├── services/
-│       │   └── lyricsService.js  # carga .txt/.lrc + caché
-│       ├── utils/
-│       │   ├── lrcParser.js       # parser .lrc
-│       │   ├── lyricsSplitter.js  # división en fragmentos
-│       │   ├── fetchWithTimeout.js
-│       │   └── validators.js
-│       └── components/
-│           ├── search/
-│           ├── selector/
-│           └── hymn/          # presentación: view, controller, modos, teclado
-└── data/
-    ├── himnario-api.json
-    ├── audios/
-    │   ├── cantadas/
-    │   └── instrumentales/
-    ├── letras/                # .txt + .lrc (mismo nombre)
-    └── sync/                  # *.sync.json (sincronización vocal)
+│   ├── js/                    # Aplicación, componentes y servicios
+│   └── assets/
+│       ├── bg/
+│       ├── icons/
+│       └── fondos/
+│           ├── fondo.png      # Fondo predeterminado
+│           └── himnos/        # Fondos personalizados
+├── tools/
+│   ├── build_pages.py         # Genera dist/ para publicación
+│   ├── seo_pages.py
+│   ├── vocal_sync.py
+│   └── requirements-sync.txt
+├── tests/
+└── dist/                      # Salida generada para Cloudflare Pages
 ```
 
-## Tecnologías
+Los MP3 se sirven desde Cloudflare R2; no hay una carpeta local de audios en el repositorio.
 
-HTML5, CSS3 y JavaScript nativo (módulos ES). Sin dependencias ni build.
+## Especificación de datos
 
-## Formato de Datos
+### Catálogo de himnos — `data/himnario-api.json`
 
-### Catálogo (`data/himnario-api.json`)
+Contiene una lista de objetos, uno por himno, con estos campos principales:
+
+| Campo | Descripción |
+| --- | --- |
+| `id` | Identificador del himno. |
+| `number` | Número del himno. |
+| `title` | Título. |
+| `mp3Route` | Ruta del audio cantado dentro del almacenamiento de audios. |
+| `mp3RouteInstr` | Ruta del audio instrumental dentro del almacenamiento de audios. |
+| `mp3Filename` | Nombre del archivo MP3. |
+| `bibleReference` | Referencia bíblica. |
+| `txtRoute` | Ruta de la letra, relativa a `data/`. |
+| `backgroundImage` | Ruta de la imagen de fondo; `null` conserva el fondo predeterminado. |
+
+Ejemplo real del catálogo, con sus nombres originales:
 
 ```json
 {
@@ -147,255 +103,109 @@ HTML5, CSS3 y JavaScript nativo (módulos ES). Sin dependencias ni build.
   "mp3RouteInstr": "/audios/instrumentales/001 - Cantad alegres al Senor.mp3",
   "mp3Filename": "001 - Cantad alegres al Senor.mp3",
   "bibleReference": "Salmos 100:1-5",
-  "txtRoute": "/letras/001 - Cantad alegres al Senor.txt"
+  "txtRoute": "/letras/001 - Cantad alegres al Senor.txt",
+  "backgroundImage": null
 }
 ```
 
-### Letra (`data/letras/*.txt`)
+### Archivos MP3
 
-Números de estrofa, opcional `Coro`, líneas de letra y líneas vacías como separadores.
-
-### Prioridad de la sincronización
-
-**Cantado** y **Karaoke** resuelven los tiempos en este orden:
-
-1. **Alineación vocal** (`data/sync/*.sync.json`, generado con `tools/vocal_sync.py`):
-   `syncMethod = "vocal-alignment"`. Tiempos por frase obtenidos de la voz real del
-   MP3. **No muestra ninguna advertencia.**
-2. **LRC revisado** (`data/letras/*.lrc`) cuyo texto cubra toda la secuencia,
-   incluidas las repeticiones del coro.
-3. **Estimación acústica de respaldo** (`syncMethod = "estimated"`): reparte la duración
-   por longitud vocal de cada frase y la ajusta a mínimos de energía. Puede venir
-   guardada en el `.sync.json` o calcularse en el navegador. Muestra
-   «Sincronización aproximada según el audio…».
-
-### Fondo propio de cada himno
-
-Cada entrada de `data/himnario-api.json` tiene un campo `backgroundImage`.
-Por defecto es `null` y se muestra el fondo actual (`src/assets/fondos/fondo.png`).
-
-Para asignar una imagen, guárdala en `src/assets/fondos/himnos/` (por ejemplo,
-`001.webp`) y cambia el campo del himno correspondiente:
-
-```json
-"backgroundImage": "/src/assets/fondos/himnos/001.webp"
-```
-
-El fondo se aplica en Letra, Cantado y Karaoke. Si la imagen no carga, se conserva
-el fondo predeterminado; al volver a la portada también se restaura. Las imágenes
-se incluyen automáticamente en la compilación estática con `tools/build_pages.py`.
-
-### Letra sincronizada (`data/letras/*.lrc`)
-
-El `.lrc` del himno se resuelve con una única función (`getHymnLrcUrls`), que prueba
-en orden estas convenciones y usa la primera que exista:
-
-1. Mismo nombre que la letra: `data/letras/001 - Cantad alegres al Senor.lrc`
-2. Mismo nombre que el mp3: `data/letras/001 - Cantad alegres al Senor.lrc`
-3. Por número con ceros: `data/letras/001.lrc`
+La aplicación reproduce los audios desde **Cloudflare R2**, usando la base configurada en `src/js/core/config.js`:
 
 ```text
-[00:00.00]Cantad alegres al Señor,
-[00:04.00]mortales todos por doquier;
+https://pub-1ca54579e235492c815179e37558122a.r2.dev/data/audios/
 ```
 
-Así, para agregar sincronización a un himno solo hay que crear el archivo; no se edita
-el JSON. **Cantado** y **Karaoke** usan exactamente el mismo `.lrc`; únicamente cambia
-el audio (`mp3Route` vs `mp3RouteInstr`). Ambas grabaciones deben compartir arreglo,
-entrada y tempo; una duración parecida no garantiza que las frases coincidan.
+En ese almacenamiento, `cantadas/` contiene las grabaciones con voz e `instrumentales/` las pistas para Karaoke. Los nombres siguen el formato `NNN - Titulo.mp3`, con el número de tres dígitos y el título tal como figura en `mp3Filename`.
 
-> Ejemplo incluido: `data/letras/001 - Cantad alegres al Senor.lrc` (timestamps aproximados).
-> El `.sync.json` del mismo himno tiene prioridad sobre este `.lrc`.
+`mp3Route` y `mp3RouteInstr` relacionan cada himno con su versión de audio. Por ejemplo, `/audios/cantadas/001 - Cantad alegres al Senor.mp3` se resuelve bajo la base de R2 como `cantadas/001%20-%20Cantad%20alegres%20al%20Senor.mp3`.
 
-### Sincronización vocal (`data/sync/*.sync.json`)
+**Cloudflare Pages aloja el sitio web y sus datos de texto e imágenes; los MP3 se alojan por separado en R2.**
 
-Archivo aparte que **no reemplaza al TXT**: solo aporta los tiempos. Vive en
-`data/sync/` y se resuelve con `getHymnSyncUrls` usando las mismas convenciones de
-nombre que el `.lrc` (nombre de la letra, nombre del mp3 o número con ceros, con
-extensión `.sync.json`).
+### Letras TXT
+
+Los 613 archivos `.txt` están en `data/letras/`. Cada himno los referencia mediante `txtRoute`: por ejemplo, `/letras/001 - Cantad alegres al Senor.txt` corresponde a `data/letras/001 - Cantad alegres al Senor.txt`.
+
+Las estrofas se identifican con números en líneas independientes (`1`, `2`, etc.) y el coro con el encabezado `Coro` o `Estribillo`. Los renglones siguientes contienen las frases de cada sección; al presentar la letra, el coro se repite después de cada estrofa. El TXT es la fuente de la letra mostrada.
+
+### Sincronización LRC
+
+Los `.lrc` están en `data/letras/` y asocian frases con marcas de tiempo en formato `[mm:ss.xx]`. Se busca primero el mismo nombre del TXT con extensión `.lrc`; también se admiten el nombre del MP3 con esa extensión y el número de tres dígitos, como `001.lrc`.
+
+Actualmente existe un solo LRC: `001 - Cantad alegres al Senor.lrc`. Este es un fragmento de su contenido:
+
+```lrc
+[00:00.00]Cantad alegres al Señor,
+[00:04.00]mortales todos por doquier;
+[00:08.00]servidle siempre con fervor,
+```
+
+Las marcas del ejemplo pertenecen al LRC y no representan los tiempos del archivo de sincronización vocal.
+
+### Sincronización vocal JSON
+
+Los archivos `data/sync/*.sync.json` guardan los tiempos de las frases para acompañar la reproducción. Se relacionan con el himno por el nombre del TXT o MP3, sustituyendo la extensión por `.sync.json`; también se admite `NNN.sync.json`.
+
+| Campo | Descripción |
+| --- | --- |
+| `hymn`, `source`, `duration` | Número del himno, archivo de audio de referencia y duración en segundos. |
+| `syncMethod` | Método: `vocal-alignment` para alineación con la voz o `estimated` para tiempos aproximados. |
+| `confidence` | Nivel de confianza de la sincronización. |
+| `needsReview` | Indicador de revisión pendiente, cuando está presente. |
+| `lines` | Lista de frases con `text`, `start` y `end` en segundos. |
+| `lines[].type`, `verse`, `occurrence` | Tipo de sección (`verse` o `chorus`), número de estrofa y posición de la sección en la secuencia. |
+| `lines[].confidence`, `words` | Confianza por frase y tiempos por palabra, cuando están disponibles. |
+
+La sincronización vocal alinea las frases con la voz de la grabación; una estimación aproximada distribuye tiempos sin garantizar esa coincidencia. Actualmente hay 613 archivos, todos marcados como `vocal-alignment`; esto no garantiza precisión perfecta.
+
+La aplicación prioriza el `.sync.json`, después un LRC que cubra la secuencia completa y, en los modos con audio, una estimación aproximada si faltan tiempos utilizables. La letra sigue procediendo del TXT.
+
+### Fondos de los himnos
+
+El fondo predeterminado es `src/assets/fondos/fondo.png`. Las imágenes propias de cada himno están en `src/assets/fondos/himnos/` y se asignan con `backgroundImage` en el catálogo.
+
+Por ejemplo, el himno 31 utiliza `31.png`; la asignación puede expresarse desde la raíz del sitio:
 
 ```json
 {
-  "syncMethod": "vocal-alignment",
-  "confidence": 0.66,
-  "needsReview": false,
-  "lines": [
-    {
-      "type": "verse",
-      "verse": 1,
-      "occurrence": 0,
-      "text": "Cantad alegres al Señor,",
-      "start": 26.86,
-      "end": 35.06,
-      "confidence": 0.735
-    }
-  ]
+  "backgroundImage": "/src/assets/fondos/himnos/31.png"
 }
 ```
 
-La letra mostrada **sigue saliendo del `.txt`**: el JSON solo aporta `start`, `end` y
-`confidence`. Si la letra cambia (distinta cantidad de fragmentos), el `.sync.json` se
-ignora por obsoleto y se cae al respaldo. Para generarlo, ver
-[Generar la sincronización vocal](#generar-la-sincronización-vocal).
+El fondo personalizado se aplica en los tres modos. Si el campo es `null` o la imagen no carga, se conserva el fondo predeterminado.
 
-`syncMethod` puede ser `vocal-alignment` (voz real) o `estimated` (respaldo aproximado).
-La web muestra la advertencia **solo** cuando es `estimated`. `needsReview` marca los
-archivos con confianza baja para revisarlos después.
+## Ejecución local
 
-### Diagnóstico de `.lrc`
-
-Para ver qué ruta se intenta y su estado HTTP, abre la URL con `?debug=lrc`
-(o ejecuta `localStorage.lrcDebug = "1"` en la consola):
-
-```text
-[LRC] himno 25 -> /data/letras/025 - Siento la presencia del Senor.lrc -> HTTP 404
-[LRC] himno 25 -> /data/letras/025.lrc -> HTTP 200
-[LRC] himno 25: 18 líneas parseadas
-```
-
-Si no existe `.sync.json` y todas las rutas `.lrc` dan `404`, se estima la
-sincronización a partir del audio (respaldo marcado como aproximado).
-
-## Generar la sincronización vocal
-
-Requiere Python 3 y `ffmpeg` en el sistema. Whisper se ejecuta **en local**; las
-grabaciones no se envían a ningún servicio. El punto de entrada es `sync_lyrics.py`
-(usa `.venv` automáticamente si falta `faster-whisper`).
+Requiere Python 3. No es necesario instalar dependencias para ejecutar el sitio.
 
 ```bash
-python3 -m venv .venv
-.venv/bin/pip install -r tools/requirements-sync.txt
-
-# Todo el himnario (omite los himnos ya sincronizados; reanudable)
-python3 sync_lyrics.py --all --workers 3
-
-# Un himno concreto, o varios
-python3 sync_lyrics.py --id 25
-python3 sync_lyrics.py --id 25 26 40
-
-# Forzar la regeneración (ignora los .sync.json existentes)
-python3 sync_lyrics.py --all --force
-python3 sync_lyrics.py --id 25 --force
+git clone https://github.com/rventurave/himnarioAdventista.git
+cd himnarioAdventista
+python3 server.py
 ```
 
-El proceso:
+Abrir **http://localhost:3000**. Los audios requieren conexión a internet para acceder a R2.
 
-```text
-MP3 cantado + TXT
-      ↓  Whisper (timestamps por palabra)
-palabras reconocidas en el audio
-      ↓  alineación (Needleman-Wunsch + Levenshtein, sin tildes ni signos)
-frases oficiales del TXT con su tiempo
-      ↓
-data/sync/<nombre>.sync.json
+Si el puerto está ocupado:
+
+```bash
+PORT=3001 python3 server.py
 ```
 
-- La letra del `.txt` es la fuente oficial: la transcripción **solo** sirve para saber
-  cuándo se canta cada frase. El texto del JSON nunca se muestra.
-- El **coro** se expande en memoria tras cada estrofa y la alineación asigna a cada
-  aparición su propia posición en el audio, aunque el TXT solo lo escriba una vez.
-- Cada frase lleva `start`, `end` y `confidence`; el archivo incluye `syncMethod`,
-  la `confidence` global y `needsReview`.
-- **Reanudable:** omite los himnos cuyo `.sync.json` ya es válido
-  (`vocal-alignment` o `estimated`). `--force` los rehace.
-- **Respaldo:** si la voz no se reconoce o la confianza queda por debajo de
-  `--min-confidence` (0.25), se escribe `syncMethod = "estimated"` con
-  `needsReview: true`. La web muestra entonces la advertencia.
-- `needsReview: true` también cuando la confianza vocal queda por debajo de
-  `--review-threshold` (0.6), aunque los tiempos sean reales.
-- Al terminar se genera `sync-report.json` con los totales y los IDs a revisar.
-  Es un reporte temporal, excluido de Git; se puede eliminar o evitar con `--no-report`.
+## Despliegue
 
-Opciones: `--model {tiny,base,small,medium,large-v3}` (por defecto `medium`; `large-v3`
-es más preciso pero mucho más lento en CPU), `--device cuda`, `--workers N` (cada
-proceso carga el modelo una sola vez), `--report RUTA`, `--no-report`.
+Con Node.js y npm disponibles, y acceso a la cuenta de Cloudflare del proyecto:
 
-Ejemplo de salida:
-
-```text
-[SKIP]    1 - ya sincronizado
-[OK]      2 - confidence: 0.97
-[WARN]    7 - confidence: 0.52 - necesita revisión
-[ERROR]  48 - archivo TXT no encontrado
+```bash
+python3 tools/build_pages.py
+npx wrangler pages deploy dist --project-name=himnario-adventista --branch=main
 ```
 
-> **WhisperX** no es instalable en Python 3.14 (fija `faster-whisper==1.0.0` →
-> `ctranslate2==4.4.0`, sin wheel para 3.14). Por eso se usa `faster-whisper`, que
-> aporta el mismo tipo de timestamps por palabra sin arrastrar PyTorch.
+El primer comando prepara `dist/` con el sitio, el catálogo, las letras, la sincronización y las imágenes, sin incluir MP3. El segundo publica esa carpeta en Cloudflare Pages.
 
-El VAD está desactivado por defecto: al estar entrenado para habla, descarta el canto.
-Actívalo con `--vad` solo si el audio tiene mucho silencio y poco acompañamiento.
 
-> El proceso masivo dura horas (≈1 min por himno y worker en CPU con `medium`).
-> Con `--workers 3` y 16 núcleos conviene vigilar la RAM: cada worker usa ~1.3 GB.
+## Uso
 
-## Licencia
+Busca un himno por número o título, selecciónalo y elige Solo letra, Cantado o Karaoke. Usa el botón de pantalla completa para proyectarlo y los controles o atajos para avanzar y manejar la reproducción.
 
 Proyecto personal para uso en iglesia.
-
-
-## Estructura y sincronización de frases
-
-`hymnParser.js` interpreta números de estrofa y marcadores `Coro`/`Estribillo`,
-ignorando espacios adicionales y tolerando saltos de línea distintos. Devuelve
-`verses`, `chorus` y `sequence`. El coro se inserta en memoria después de cada
-estrofa. Solo letra comparte esta secuencia y sus tiempos con Cantado; el divisor
-manual se conserva como respaldo cuando no hay sincronización disponible.
-
-`lyricsTimeline.js` convierte esa secuencia en fragmentos con `type`, `verse`
-(cuando corresponde), `occurrence`, `text`, `start` y `end` en segundos.
-
-- La **alineación vocal** (`.sync.json`) tiene prioridad: sus tiempos provienen del canto
-  real y no muestran advertencia. Debe cubrir exactamente los fragmentos del TXT; si no
-  coincide (por ejemplo, porque la letra cambió), se ignora.
-- Después, un LRC cuyo texto cubra toda la secuencia, incluidas las repeticiones. Se
-  respetan sus marcas, `offset` y entradas vacías para pausas. El LRC puede dividir las
-  frases de forma diferente al TXT.
-- Como último recurso, `audioAnalysis.js` decodifica la grabación localmente con Web
-  Audio. Estima límites mediante longitud vocal aproximada de las frases y mínimos de
-  energía cercanos; recorta silencio inicial y final. No divide la duración en partes
-  iguales. La envolvente se conserva en caché y se libera el audio decodificado. No se
-  envían grabaciones a servicios externos.
-- Esta estimación **no reconoce el canto**: acompañamiento, introducciones, interludios,
-  melismas o arreglos diferentes pueden desplazarla. Por eso se marca
-  `syncMethod = "estimated"` y se indica «Sincronización aproximada» en pantalla.
-- Si la descarga o decodificación falla, se conserva la letra completa como respaldo.
-  El análisis remoto requiere que el servidor de audio permita CORS.
-
-Cantado y Karaoke utilizan el mismo servicio y el mismo motor. La letra se **adelanta
-1 segundo** al audio (`LYRICS_LEAD_SECONDS` en `audioMode.js`): cada frase se muestra
-antes de cantarse. El reproductor
-consulta `currentTime` en reproducción y al adelantar/retroceder, sin acumular
-retrasos mediante temporizadores. La esquina indica la estrofa o coro actual;
-la frase anterior se atenúa y la siguiente se prepara debajo. `L` mantiene la
-vista completa y permite saltar haciendo clic en una frase.
-
-### Pruebas
-
-Con Node.js 22.18+ o 24+ (módulos ES detectados automáticamente):
-
-```bash
-node --test tests/lyrics.test.mjs
-```
-
-Se comprueban los 613 TXT de la colección, incluyendo todos los pasos de
-estrofa a coro y del coro a la siguiente estrofa, variantes de marcadores,
-LRC, pausas, búsquedas hacia atrás y límites de reproducción. Estas pruebas
-verifican estructura y lógica; no certifican coincidencia con la voz cantada.
-
-
-Pruebas del servidor y de reproducción en Chromium (servidor iniciado en otra terminal):
-
-```bash
-python3 -B -m unittest discover -s tests -p 'test_*.py'
-npm install --prefix /tmp/hymn-playwright playwright
-/tmp/hymn-playwright/node_modules/.bin/playwright install chromium
-PLAYWRIGHT_MODULE=/tmp/hymn-playwright/node_modules/playwright/index.mjs node tests/browser-lyrics.mjs
-PLAYWRIGHT_MODULE=/tmp/hymn-playwright/node_modules/playwright/index.mjs node tests/browser-lyrics-auto.mjs
-```
-
-`TEST_BASE_URL` permite usar otro puerto y `TEST_HYMNS=524` limita la prueba a un
-himno. Por defecto se prueban 1, 8, 83, 379, 524 y 585 en ambos modos, con audios
-reales, cambios de sección, saltos, reproducción, lista y fin; también Solo letra.
-El servidor local admite rangos HTTP para que adelantar y retroceder funcione.
-Reinicia `server.py` después de actualizarlo.
