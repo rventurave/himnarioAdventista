@@ -932,7 +932,7 @@ button:active {
 
 .lyric-current {
   font-family: var(--font-body);
-  font-size: clamp(2rem, 5.5vw, 4.5rem);
+  font-size: clamp(1.6rem, 4.4vw, 3.6rem);
   font-weight: 600;
 
   line-height: 1.25;
@@ -1217,7 +1217,7 @@ button:active {
 }
 
 :fullscreen .lyric-current {
-  font-size: clamp(2.5rem, 6vw, 6rem);
+  font-size: clamp(2rem, 4.8vw, 4.8rem);
 }
 
 :fullscreen .intro-composition {
@@ -1400,9 +1400,9 @@ body {
 .lyrics-stage { flex: 0 1 auto; min-height: 0; }
 .lyrics-stage, .lyrics-list { width: 100%; max-width: 1600px; padding-inline: clamp(4px, 1.5vw, 16px); }
 .lyrics-list { max-height: var(--lyrics-stage-height, 60dvh); min-height: 0; overscroll-behavior: contain; }
-.lyric-current { font-size: clamp(1.4rem, min(4.2vw, 6.5dvh), 4.5rem); }
+.lyric-current { font-size: clamp(1.15rem, min(3.4vw, 5.2dvh), 3.6rem); }
 :fullscreen .lyric-current, .is-immersive .lyric-current {
-  font-size: clamp(1.4rem, min(4.5vw, 7dvh), 6rem);
+  font-size: clamp(1.15rem, min(3.6vw, 5.6dvh), 4.8rem);
 }
 .lyric-line { font-size: clamp(1.1rem, 2.6vw, 2rem); overflow-wrap: anywhere; }
 .intro-composition { font-size: clamp(1.75rem, min(6vw, 10dvh), 5rem); }
@@ -1432,7 +1432,7 @@ input[type="search"], input[type="search"]::placeholder { font-size: 1rem; }
 .home-footer a { display: inline-flex; min-height: 44px; align-items: center; }
 .static-hymn { width: min(100%, 800px); padding: clamp(12px, 3vw, 24px); overflow-wrap: anywhere; }
 @media (max-width: 768px) {
-  .lyric-current, :fullscreen .lyric-current, .is-immersive .lyric-current { font-size: clamp(1.25rem, 5.5vw, 2rem); }
+  .lyric-current, :fullscreen .lyric-current, .is-immersive .lyric-current { font-size: clamp(1rem, 4.4vw, 1.6rem); }
 }
 @media (max-width: 500px) {
   .app-title { font-size: clamp(1.9rem, 8vw, 2.4rem); }
