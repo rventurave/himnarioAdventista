@@ -60,6 +60,14 @@ for (const number of numbers) {
 }
 await page.goto(`${baseUrl}/8?mode=lyrics`);
 await page.waitForFunction(() => !document.querySelector('#hymn-nav').hidden);
+await page.evaluate(async () => {
+  const { findHymn } = await import('/src/js/api/hymnsApi.js');
+  const { getPlaybackLyrics } = await import('/src/js/services/lyricsService.js');
+  const mode = await import('/src/js/components/hymn/lyricsMode.js');
+  mode.seekBy((await getPlaybackLyrics(await findHymn(8))).lines[0].start);
+});
+await page.waitForFunction(() => !document.querySelector('#lyrics-stage').hidden);
+await page.keyboard.press('ArrowLeft');
 await page.keyboard.press('ArrowRight');
 assert.ok(await page.locator('#lyrics-stage').isVisible());
 assert.equal(await page.locator('#lyric-section').isVisible(), true);

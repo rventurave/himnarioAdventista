@@ -134,15 +134,29 @@ try {
     p.on('request', r => { if (r.url().endsWith('.mp3')) mp3.push(r.url()); });
     if (manual) await p.route(/\.sync\.json(?:\?|$)|\.lrc(?:\?|$)/, r => r.fulfill({ status: 404, body: '' }));
     await p.goto(`${base}/1?mode=lyrics`); await p.waitForFunction(() => !document.querySelector('#hymn-nav').hidden);
-    if (!manual) await p.keyboard.press('Space');
-    await p.keyboard.press('ArrowRight'); await p.waitForTimeout(450);
-    const first = await p.locator('#lyric-current').getAttribute('data-block');
-    const full = await p.locator('#lyrics-list').textContent();
-    await p.keyboard.press('ArrowRight'); await p.waitForTimeout(450);
-    assert.notEqual(await p.locator('#lyric-current').getAttribute('data-block'), first);
-    await p.keyboard.press('ArrowLeft'); await p.waitForTimeout(450);
-    assert.equal(await p.locator('#lyric-current').getAttribute('data-block'), first);
-    assert.equal(await p.locator('#lyrics-list').textContent(), full);
+    const current = p.locator('#lyric-current');
+    if (manual) {
+      await p.keyboard.press('ArrowRight'); await p.waitForTimeout(450);
+      const first = await current.getAttribute('data-block');
+      const full = await p.locator('#lyrics-list').textContent();
+      await p.keyboard.press('ArrowRight'); await p.waitForTimeout(450);
+      assert.notEqual(await current.getAttribute('data-block'), first);
+      await p.keyboard.press('ArrowLeft'); await p.waitForTimeout(450);
+      assert.equal(await current.getAttribute('data-block'), first);
+      assert.equal(await p.locator('#lyrics-list').textContent(), full);
+    } else {
+      // Con tiempos, las flechas no saltan de bloque: mueven el reloj virtual 1 s.
+      await p.keyboard.press('Space');
+      await p.evaluate(async () => (await import('/src/js/components/hymn/lyricsMode.js')).seekBy(27));
+      await p.waitForTimeout(450);
+      const first = await current.getAttribute('data-block');
+      const full = await p.locator('#lyrics-list').textContent();
+      await p.keyboard.press('ArrowRight'); await p.waitForTimeout(450);
+      assert.equal(await current.getAttribute('data-block'), first, 'la flecha no cambia de bloque');
+      await p.keyboard.press('ArrowLeft'); await p.waitForTimeout(450);
+      assert.equal(await current.getAttribute('data-block'), first);
+      assert.equal(await p.locator('#lyrics-list').textContent(), full);
+    }
     assert.deepEqual(mp3, []);
     await ctx.close();
   }

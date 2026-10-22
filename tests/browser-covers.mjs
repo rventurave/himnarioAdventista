@@ -122,15 +122,24 @@ try {
       if (manual) await page.route(/\.sync\.json(?:\?|$)|\.lrc(?:\?|$)/, route => route.fulfill({ status: 404, body: '' }));
       await page.goto(`${base}/1?mode=lyrics`);
       await page.waitForFunction(() => !document.querySelector('#hymn-nav').hidden);
-      if (!manual) await page.evaluate(async () => (await import('/src/js/components/hymn/lyricsMode.js')).togglePlayback());
       await cover(page);
       const fullBefore = await page.locator('#lyrics-list').textContent();
-      await page.keyboard.press('ArrowRight'); await content(page);
-      await page.evaluate(async () => {
+      // Con tiempos, las flechas mueven 1 s el reloj virtual: para recorrer portada,
+      // contenido y final se adelanta el reloj directamente.
+      await page.evaluate(async manual => {
+        const mode = await import('/src/js/components/hymn/lyricsMode.js');
+        if (manual) { mode.next(); return; }
+        const { findHymn } = await import('/src/js/api/hymnsApi.js');
+        const { getPlaybackLyrics } = await import('/src/js/services/lyricsService.js');
+        mode.seekBy((await getPlaybackLyrics(await findHymn(1))).lines[0].start);
+      }, manual);
+      await content(page);
+      await page.evaluate(async manual => {
         const mode = await import('/src/js/components/hymn/lyricsMode.js');
         const view = await import('/src/js/components/hymn/hymnView.js');
-        for (let i = 0, count = view.getBlocks().length; i < count; i++) mode.next();
-      });
+        if (manual) for (let i = 0, count = view.getBlocks().length; i < count; i++) mode.next();
+        else mode.seekBy(1e6);
+      }, manual);
       await cover(page);
       assert.equal(await page.locator('#lyrics-list').textContent(), fullBefore);
       if (manual) {
@@ -139,7 +148,11 @@ try {
         await page.waitForTimeout(100);
         await cover(page);
       }
-      await page.keyboard.press('ArrowLeft'); await content(page);
+      await page.evaluate(async manual => {
+        const mode = await import('/src/js/components/hymn/lyricsMode.js');
+        if (manual) mode.prev(); else mode.seekBy(-20);
+      }, manual);
+      await content(page);
       await page.setViewportSize(viewport);
       if (manual) await page.unroute(/\.sync\.json(?:\?|$)|\.lrc(?:\?|$)/);
     }

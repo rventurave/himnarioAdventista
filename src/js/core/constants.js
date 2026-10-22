@@ -8,6 +8,9 @@ export const DEFAULT_MODE = MODES.SUNG;
 
 export const SEEK_STEP = 5;
 
+// En Solo letra el reloj es virtual: las flechas avanzan o retroceden un segundo.
+export const LYRICS_SEEK_STEP = 1;
+
 // Ambos modos muestran la frase un segundo antes de su tiempo cantado.
 export const LYRICS_LEAD_SECONDS = 1;
 

@@ -42,7 +42,13 @@ try {
         } else {
           await page.waitForFunction(() => !document.querySelector('#hymn-nav').hidden);
           assert.equal(await page.locator('audio').getAttribute('src'), null);
-          await page.keyboard.press('ArrowRight');
+          await page.evaluate(async number => {
+            const { findHymn } = await import('/src/js/api/hymnsApi.js');
+            const { getPlaybackLyrics } = await import('/src/js/services/lyricsService.js');
+            const mode = await import('/src/js/components/hymn/lyricsMode.js');
+            mode.seekBy((await getPlaybackLyrics(await findHymn(number))).lines[0].start);
+          }, number);
+          await page.waitForFunction(() => !document.querySelector('#lyrics-stage').hidden);
           assert.ok((await page.locator('#lyric-current').textContent()).length);
         }
         assert.deepEqual(errors, []);

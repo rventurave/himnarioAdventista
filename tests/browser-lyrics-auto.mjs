@@ -36,13 +36,13 @@ try {
     }
     await page.clock.runFor(Math.max(0, playback.lines.at(-1).end - 1 - elapsed + 1) * 1000);
     assert.equal(await page.locator('#lyric-current').textContent(), '', 'fin sin frase activa');
-    await page.keyboard.press('Space');
-    await page.keyboard.press('ArrowRight');
-    assert.ok((await page.locator('#lyric-current').textContent()).includes(playback.lines[0].text));
-    await page.keyboard.press('ArrowRight');
-    assert.equal(await page.locator('#lyric-current').getAttribute('data-block-index'), '1');
+    // En Solo letra las flechas mueven el reloj virtual ±1 s, no las estrofas.
     await page.keyboard.press('ArrowLeft');
-    assert.ok((await page.locator('#lyric-current').textContent()).includes(playback.lines[0].text));
+    await page.keyboard.press('ArrowLeft');
+    assert.ok((await page.locator('#lyric-current').textContent()).includes(playback.lines.at(-1).text), 'retroceder recupera la letra');
+    await page.keyboard.press('ArrowRight');
+    await page.keyboard.press('ArrowRight');
+    assert.equal(await page.locator('#lyric-current').textContent(), '', 'volver al final');
     await page.evaluate(async () => (await import('/src/js/core/router.js')).navigate('/'));
     const text = await page.locator('#lyric-current').textContent();
     await page.clock.runFor(30000);

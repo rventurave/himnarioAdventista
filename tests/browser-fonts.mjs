@@ -53,7 +53,12 @@ try {
       await page.waitForFunction(() => !document.querySelector('#hymn-nav').hidden);
       await loaded(page);
       await family(page, '#intro-title', 'Bebas Neue'); await actualFont(page, '#intro-title', 'Bebas Neue');
-      await page.keyboard.press('ArrowRight');
+      await page.evaluate(async number => {
+        const { findHymn } = await import('/src/js/api/hymnsApi.js');
+        const { getPlaybackLyrics } = await import('/src/js/services/lyricsService.js');
+        const mode = await import('/src/js/components/hymn/lyricsMode.js');
+        mode.seekBy((await getPlaybackLyrics(await findHymn(number))).lines[0].start);
+      }, number);
       await page.waitForFunction(() => !document.querySelector('#lyrics-stage').hidden);
       await family(page, '#hymn-title', 'Bebas Neue');
       for (const selector of ['#hymn-reference', '#lyric-current', '#lyric-next', '#hymn-counter', '#hymn-back']) await family(page, selector, 'Nunito');

@@ -17,7 +17,7 @@ Aplicación web para buscar, visualizar y reproducir los **613 himnos del Himnar
 
 | Modo | Descripción |
 | --- | --- |
-| **Solo letra** | Muestra la letra sin audio, con avance automático si hay tiempos disponibles y navegación manual por bloques. |
+| **Solo letra** | Muestra la letra sin audio, con avance automático si hay tiempos disponibles; las flechas adelantan o retroceden 1 segundo. Sin tiempos, las flechas cambian de bloque. |
 | **Cantado** | Reproduce la grabación cantada y muestra la letra sincronizada. |
 | **Karaoke** | Reproduce el instrumental y muestra la letra con los tiempos de la versión cantada. |
 
@@ -28,7 +28,7 @@ La precisión de la sincronización depende de los tiempos disponibles para cada
 | Tecla | Acción |
 | --- | --- |
 | `Espacio` | Reproducir o pausar el audio; en Solo letra, pausar o reanudar el avance automático si hay tiempos disponibles. |
-| `←` / `→` | Cambiar de bloque en Solo letra; retroceder o adelantar 5 segundos en Cantado y Karaoke. |
+| `←` / `→` | Retroceder o adelantar 1 segundo en Solo letra (sin tiempos, cambia de bloque); 5 segundos en Cantado y Karaoke. |
 | `L` | Alternar entre la presentación por bloques y la letra completa en Cantado y Karaoke. |
 | `F` | Alternar la pantalla completa con un himno abierto. |
 | `Tab` | Alternar la pantalla completa desde el buscador o cuando el foco está en el fondo de la página. Desde otros controles conserva la navegación habitual. |

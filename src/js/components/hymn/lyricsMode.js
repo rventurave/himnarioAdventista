@@ -1,6 +1,6 @@
 import { getPlaybackLyrics, getStructuredLyrics } from "../../services/lyricsService.js";
 import { findActiveIndex } from "../../utils/lyricsTimeline.js";
-import { LYRICS_LEAD_SECONDS } from "../../core/constants.js";
+import { LYRICS_LEAD_SECONDS, LYRICS_SEEK_STEP } from "../../core/constants.js";
 import * as view from "./hymnView.js";
 
 let manual = false;
@@ -75,7 +75,7 @@ export async function start(hymn) {
 }
 
 export function next() {
-  if (lines.length) { navigateTimed(1); return; }
+  if (lines.length) { seekBy(LYRICS_SEEK_STEP); return; }
   if (manual) {
     if (!contentVisible && index > 0) return; // Portada final.
     const target = contentVisible ? view.getBlockIndex() + 1 : 0;
@@ -84,21 +84,19 @@ export function next() {
 }
 
 export function prev() {
-  if (lines.length) { navigateTimed(-1); return; }
+  if (lines.length) { seekBy(-LYRICS_SEEK_STEP); return; }
   if (manual && index > 0) {
     index = contentVisible ? Math.max(0, view.getBlockIndex()) : view.getBlocks().length;
     renderManual();
   }
 }
 
-function navigateTimed(direction) {
-  const blocks = view.getBlocks();
-  let current = view.getBlockIndex();
-  if (!contentVisible) current = currentTime() + LYRICS_LEAD_SECONDS >= lines.at(-1).end ? blocks.length : -1;
-  const target = current + direction;
-  if (target < 0) { seekTo(0); return; }
-  if (target >= blocks.length) { seekTo(Math.max(0, lines.at(-1).end - LYRICS_LEAD_SECONDS)); return; }
-  if (blocks[target].firstCue !== null) seekToLine(blocks[target].firstCue);
+//Adelanta o retrocede el reloj virtual; los extremos se quedan en la portada.
+export function seekBy(seconds) {
+  if (!lines.length) return;
+  elapsed = Math.min(Math.max(openingTime, currentTime() + seconds), lines.at(-1).end);
+  if (startedAt !== null) startedAt = performance.now();
+  renderTimed(true);
 }
 
 export function togglePlayback() {
@@ -145,16 +143,6 @@ function pause() {
   startedAt = null;
   clearInterval(timer);
   timer = null;
-}
-
-function seekToLine(target) {
-  seekTo(Math.max(0, lines[target].start - LYRICS_LEAD_SECONDS));
-}
-
-function seekTo(time) {
-  elapsed = time === 0 ? openingTime : time;
-  if (startedAt !== null) startedAt = performance.now();
-  renderTimed(true);
 }
 
 function renderTimed(force) {

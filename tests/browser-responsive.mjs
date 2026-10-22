@@ -58,22 +58,29 @@ try {
     await page.waitForFunction(() => !document.querySelector('#hymn-nav').hidden);
     assert.ok(await page.locator('#hymn-intro').isVisible());
     await geometry(page, ['#hymn-back', '#hymn-fullscreen', '#hymn-prev', '#hymn-next', '#hymn-playback']);
+    await page.evaluate(async () => {
+      const { findHymn } = await import('/src/js/api/hymnsApi.js');
+      const { getPlaybackLyrics } = await import('/src/js/services/lyricsService.js');
+      const mode = await import('/src/js/components/hymn/lyricsMode.js');
+      mode.seekBy((await getPlaybackLyrics(await findHymn(1))).lines[0].start);
+    });
+    await page.waitForFunction(() => !document.querySelector('#lyrics-stage').hidden);
     await page.locator('#hymn-playback').tap();
     assert.equal(await page.locator('#hymn-playback').getAttribute('aria-label'), 'Reproducir');
-    await page.locator('#hymn-next').tap();
-    await page.waitForFunction(() => !document.querySelector('#lyrics-stage').hidden);
     await page.waitForTimeout(100);
     await geometry(page, ['#hymn-back', '#hymn-fullscreen', '#hymn-prev', '#hymn-next', '#hymn-playback']);
     const lyrics = await page.locator('#lyric-current').evaluate(el => {
       const r = el.getBoundingClientRect();
-      return { font: parseFloat(getComputedStyle(el).fontSize), clipped: el.scrollHeight > el.clientHeight + 2 || el.scrollWidth > el.clientWidth + 1, centered: Math.abs((r.left + r.right) / 2 - innerWidth / 2) < 2, text: el.textContent };
+      return { font: parseFloat(getComputedStyle(el).fontSize), clipped: el.scrollHeight > el.clientHeight + 2 || el.scrollWidth > el.clientWidth + 1, centered: Math.abs((r.left + r.right) / 2 - innerWidth / 2) < 2, block: el.dataset.block };
     });
     assert.ok(!lyrics.clipped && lyrics.centered && lyrics.font >= 20, JSON.stringify(lyrics));
     await page.screenshot({ path: `${output}/lyrics-${width}x${height}.png` });
+    // Las flechas mueven el reloj virtual ±1 s: avanzar y retroceder conserva el bloque.
     await page.locator('#hymn-next').tap();
-    assert.notEqual(await page.locator('#lyric-current').textContent(), lyrics.text);
+    await page.waitForTimeout(80);
     await page.locator('#hymn-prev').tap();
-    assert.equal(await page.locator('#lyric-current').textContent(), lyrics.text);
+    await page.waitForTimeout(80);
+    assert.equal(await page.locator('#lyric-current').getAttribute('data-block'), lyrics.block);
     await page.locator('#hymn-fullscreen').tap();
     await page.waitForFunction(() => Boolean(document.fullscreenElement));
     await geometry(page, ['#hymn-back', '#hymn-fullscreen', '#hymn-prev', '#hymn-next']);
@@ -110,8 +117,14 @@ try {
   assert.ok(await p.evaluate(() => document.body.classList.contains('is-immersive')));
   await p.evaluate(async () => (await import('/src/js/core/router.js')).navigate('/1?mode=lyrics'));
   await p.waitForFunction(() => !document.querySelector('#hymn-nav').hidden);
+  await p.evaluate(async () => {
+    const { findHymn } = await import('/src/js/api/hymnsApi.js');
+    const { getPlaybackLyrics } = await import('/src/js/services/lyricsService.js');
+    const mode = await import('/src/js/components/hymn/lyricsMode.js');
+    mode.seekBy((await getPlaybackLyrics(await findHymn(1))).lines[0].start);
+  });
+  await p.waitForFunction(() => !document.querySelector('#lyrics-stage').hidden);
   await p.locator('#hymn-playback').tap();
-  await p.locator('#hymn-next').tap();
   const row = await p.locator('#lyric-current .active').getAttribute('data-row');
   await p.setViewportSize({ width: 844, height: 390 });
   await p.waitForTimeout(150);
