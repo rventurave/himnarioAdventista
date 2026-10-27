@@ -1,6 +1,6 @@
 import { getPlaybackLyrics, getStructuredLyrics } from "../../services/lyricsService.js";
 import { findActiveIndex } from "../../utils/lyricsTimeline.js";
-import { LYRICS_LEAD_SECONDS, LYRICS_SEEK_STEP } from "../../core/constants.js";
+import { LYRICS_LEAD_SECONDS, LYRICS_SEEK_STEP, INTRO_SECONDS } from "../../core/constants.js";
 import * as view from "./hymnView.js";
 
 let manual = false;
@@ -18,7 +18,7 @@ let openingTime = 0;
 /** Solo letra: mismo ritmo que Cantado, usando un reloj sin audio. */
 export async function start(hymn) {
   stop();
-  openingTime = Number(hymn.number) === 31 ? -5 - LYRICS_LEAD_SECONDS : 0;
+  openingTime = 0;
   elapsed = openingTime;
   const token = loadToken;
   controller = new AbortController();
@@ -46,6 +46,10 @@ export async function start(hymn) {
   view.prepareBlocks(structure, playback.lines);
   if (playback.lines.length) {
     lines = playback.lines;
+    if (lines[0].start <= LYRICS_LEAD_SECONDS) {
+      openingTime = -(INTRO_SECONDS + LYRICS_LEAD_SECONDS);
+      elapsed = openingTime;
+    }
     view.setPlaybackAvailable(true);
     view.renderLyricsList(lines);
     view.showNav(true);

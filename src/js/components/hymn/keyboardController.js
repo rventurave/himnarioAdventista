@@ -34,11 +34,8 @@ function handleKeydown(event) {
 
   const key = event.key;
 
-  // Tab alterna la pantalla completa desde el buscador o una zona sin controles.
-  // Shift+Tab y Tab desde otros controles conservan su navegación habitual.
-  if (key === "Tab" && !event.shiftKey &&
-      (event.target.id === "search-input" || event.target === document.body ||
-       event.target === document.documentElement)) {
+  // F11 alterna la pantalla completa tanto para entrar como para salir.
+  if (key === "F11") {
     event.preventDefault();
     if (!event.repeat) toggleFullscreen();
     return;

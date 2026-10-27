@@ -13,6 +13,7 @@ try {
   const input = page.locator('#search-input');
   await input.waitFor({ state: 'visible' });
   await page.waitForFunction(() => document.activeElement?.id === 'search-input');
+  await page.locator('.selector-btn').click();
   await page.locator('.opcion[data-value="lyrics"]').click();
   for (const number of ['1', '25', '613']) {
     // Escribir con el foco fuera de los controles también activa el buscador.
@@ -35,7 +36,7 @@ try {
   await page.waitForSelector('#search-suggestions.visible .suggestion-item');
   assert.ok((await page.locator('.suggestion-title').allTextContents()).every(t => t.toLowerCase().includes('santo')));
   // Un botón enfocado conserva sus teclas; otro campo y un modal conservan la escritura.
-  await page.locator('.opcion[data-value="sung"]').focus();
+  await page.locator('.selector-btn').focus();
   await page.keyboard.press('f');
   assert.equal(await input.inputValue(), 'Santo');
   await page.evaluate(() => {

@@ -58,7 +58,7 @@ class SeoHtmlTests(unittest.TestCase):
         self.assertEqual(parser.meta["og:description"], parser.meta["description"])
         self.assertEqual(parser.meta["og:url"], parser.links["canonical"])
         self.assertNotIn('noindex', html.lower())
-        self.assertIn('<h1 class="app-title">Himnario Adventista</h1>', html)
+        self.assertIn('<h1 class="app-title">Himnario<br>Adventista</h1>', html)
         self.assertNotIn('home-description', html)
         self.assertIn('<footer class="home-footer">', html)
         self.assertIn('<a href="/himnos">Ver todos los himnos</a>', html)

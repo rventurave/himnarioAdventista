@@ -90,11 +90,13 @@ let stateIconTimer = null;
 export function showHome() {
   homeView.hidden = false;
   hymnView.hidden = true;
+  document.body.classList.add("home-open");
 }
 
 export function showHymn() {
   homeView.hidden = true;
   hymnView.hidden = false;
+  document.body.classList.remove("home-open");
 }
 
 //Rellena la referencia de los controles y la presentación inicial.

@@ -6,7 +6,6 @@ import { resetHymnBackground, setHymnBackground } from "../../services/backgroun
 import * as audioMode from "./audioMode.js";
 import * as lyricsMode from "./lyricsMode.js";
 import * as view from "./hymnView.js";
-import { setMode as setSelectorMode } from "../selector/selectorController.js";
 
 let currentMode = null;
 let open = false;
@@ -55,7 +54,6 @@ export async function openHymn(id, mode) {
 
   updateSeo(hymn);
   open = true;
-  setSelectorMode(mode);
   setHymnBackground(hymn);
   view.renderNotFound(false);
   view.renderHeader(hymn);

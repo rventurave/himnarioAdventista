@@ -33,6 +33,11 @@ body {
   font-family: var(--font-body);
 }
 
+/* Fondo sin oscurecer en la portada; la vista del himno conserva el contraste. */
+body.home-open {
+  background-image: var(--hymn-background, url("../assets/fondos/fondo.png"));
+}
+
 /* ========================================
    TITULO
 ======================================== */
@@ -43,12 +48,14 @@ body {
   color: #d4af37;
 
   font-family: var(--font-heading);
-  font-size: clamp(2.2rem, 5vw, 4rem);
+  font-size: clamp(3rem, 7vw, 5.5rem);
   font-weight: 400;
 
   letter-spacing: -0.04em;
+  line-height: 0.95;
 
   text-align: center;
+  text-transform: uppercase;
 }
 
 /* ========================================
@@ -242,7 +249,7 @@ button:active {
   .app-title {
     margin-bottom: 25px;
 
-    font-size: 2.4rem;
+    font-size: clamp(2.4rem, 9vw, 3.6rem);
   }
 
   .search-container {
@@ -538,108 +545,138 @@ button:active {
 }
 
 /* ========================================
-   SELECTOR DE MODOS
+   SELECTOR
 ======================================== */
 
 .selector {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 6px;
-
-  width: fit-content;
-  max-width: 100%;
-
-  margin-top: 20px;
-  padding: 6px;
-
-  background: #f6e8fc;
-
-  border: 1px solid #e1e1de;
-  border-radius: 999px;
-
-  box-shadow:
-    0 10px 30px rgba(38, 50, 56, 0.12),
-    0 2px 6px rgba(38, 50, 56, 0.06);
+  position: relative;
+  width: 50px;
 }
 
 /* ========================================
-   OPCIÓN DE MODO
+   BOTÓN PRINCIPAL
 ======================================== */
 
-.opcion {
-  width: auto;
-  height: auto;
-  min-height: 44px;
+.selector-btn {
+  width: 50px;
+  height: 50px;
 
-  display: inline-flex;
+  display: flex;
   align-items: center;
   justify-content: center;
-  gap: 8px;
 
-  padding: 8px 18px;
-
+  padding: 0;
   border: none;
-  border-radius: 999px;
-
-  background: transparent;
-
-  color: #4b3a52;
-
-  font-family: var(--font-body);
-  font-size: 0.95rem;
-  font-weight: 600;
-
-  white-space: nowrap;
+  background: #000000;
 
   cursor: pointer;
-
-  transition:
-    background 0.2s ease,
-    color 0.2s ease,
-    box-shadow 0.2s ease;
 }
 
-.opcion img {
-  width: 20px;
-  height: 20px;
+/* Imagen del botón principal */
+.selector-btn img {
+  width: 60px;
+  height: 60px;
 
   object-fit: contain;
 
-  filter: brightness(0);
+  padding: 0;
+  border: none;
+  background: transparent;
 
-  transition: filter 0.2s ease;
+  transition: transform 0.2s ease;
 }
 
-.opcion:hover {
-  background: rgba(157, 0, 255, 0.1);
-  transform: none;
-  box-shadow: none;
+/* Efecto al pasar el mouse */
+.selector-btn:hover img {
+  transform: scale(1.05);
 }
+
+/* ========================================
+   MENÚ DESPLEGABLE
+======================================== */
+
+.opciones {
+  display: none;
+
+  position: absolute;
+
+  top: 55px;
+  left: 0;
+
+  width: 50px;
+
+  padding: 5px;
+
+  background-color: #ffffff;
+
+  border-radius: 8px;
+
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+
+  z-index: 1000;
+}
+
+/* ========================================
+   MENÚ ABIERTO
+======================================== */
+
+.selector.abierto .opciones {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 5px;
+}
+
+/* ========================================
+   CADA OPCIÓN
+======================================== */
+
+.opcion {
+  width: 50px;
+  height: 50px;
+
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+
+  padding: 0;
+
+  cursor: pointer;
+
+  border-radius: 8px;
+}
+
+/* ========================================
+   IMAGEN DE CADA OPCIÓN
+======================================== */
+
+.opcion img {
+  width: 40px;
+  height: 40px;
+
+  object-fit: contain;
+
+  padding: 8px;
+
+  border-radius: 8px;
+
+  background-color: #9d00ff;
+
+  transition:
+    transform 0.2s ease,
+    background-color 0.2s ease;
+}
+
+/* ========================================
+   EFECTO HOVER
+======================================== */
 
 .opcion:hover img {
-  transform: none;
-}
+  transform: scale(1.1);
 
-.opcion:active {
-  transform: none;
-  box-shadow: none;
-}
-
-.opcion:focus-visible {
-  outline: 3px solid rgba(157, 0, 255, 0.45);
-  outline-offset: 2px;
-}
-
-.opcion.active {
-  background: #9d00ff;
-  color: #ffffff;
-
-  box-shadow: 0 6px 16px rgba(157, 0, 255, 0.35);
-}
-
-.opcion.active img {
-  filter: brightness(0) invert(1);
+  background-color: #9d00ff;
 }
 
 /* ========================================
@@ -1394,6 +1431,10 @@ input[type="search"], input[type="search"]::placeholder { font-size: 1rem; }
 .suggestion-item { height: auto; min-height: 44px; }
 .suggestion-number { flex: none; }
 .suggestion-title { white-space: normal; overflow-wrap: anywhere; line-height: 1.35; }
+.selector { flex: none; }
+.opciones { width: 60px; max-height: var(--menu-height, 45dvh); overflow-y: auto; overscroll-behavior: contain; }
+.opcion { width: 100%; min-height: 44px; flex: none; }
+.selector.menu-above .opciones { top: auto; bottom: calc(100% + 6px); }
 .home-footer { position: fixed; bottom: max(8px, env(safe-area-inset-bottom, 0px)); }
 .home-footer a { display: inline-flex; min-height: 44px; align-items: center; }
 .static-hymn { width: min(100%, 800px); padding: clamp(12px, 3vw, 24px); overflow-wrap: anywhere; }
@@ -1401,22 +1442,20 @@ input[type="search"], input[type="search"]::placeholder { font-size: 1rem; }
   .lyric-current, :fullscreen .lyric-current, .is-immersive .lyric-current { font-size: clamp(1.25rem, 4.4vw, 1.6rem); }
 }
 @media (max-width: 500px) {
-  .app-title { font-size: clamp(1.9rem, 8vw, 2.4rem); }
+  .app-title { font-size: clamp(2.2rem, 10vw, 3.2rem); }
   input[type="search"] { padding-inline: 8px; }
-  .selector { gap: 4px; padding: 5px; margin-top: 16px; }
-  .opcion { gap: 5px; padding: 8px 10px; font-size: 0.85rem; }
-  .opcion img { width: 16px; height: 16px; }
+  .search-container form:has(.search-selected:not([hidden])) {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 50px 48px;
+  }
+  .search-selected { grid-column: 1 / -1; }
+  .search-container form:has(.search-selected:not([hidden])) .selector { grid-column: 2; }
+  .search-container form:has(.search-selected:not([hidden])) > button[type="submit"] { grid-column: 3; }
   .hymn-topbar { gap: 8px; }
   .hymn-icon-btn { padding: 8px; }
 }
-@media (max-width: 360px) {
-  .selector { gap: 3px; padding: 4px; }
-  .opcion { gap: 4px; padding: 8px 8px; font-size: 0.8rem; }
-  .opcion img { width: 15px; height: 15px; }
-}
 @media (max-height: 500px) {
   .app-title { margin-bottom: 16px; }
-  .selector { margin-top: 10px; }
   .hymn-content { padding-block: 28px 4px; gap: 10px; }
   .hymn-topbar { margin-bottom: 8px; }
   .hymn-notice { margin: 4px 0; padding-block: 4px; }

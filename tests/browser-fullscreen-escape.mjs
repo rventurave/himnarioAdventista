@@ -29,8 +29,9 @@ try {
     }, mode);
     await page.goto(base);
     await page.waitForFunction(() => document.activeElement.id === 'search-input');
-    await page.keyboard.press('Tab');
+    await page.keyboard.press('F11');
     await page.waitForFunction(() => document.querySelector('#home-fullscreen').getAttribute('aria-pressed') === 'true');
+    await page.locator('.selector-btn').click();
     await page.locator('.opcion[data-value="lyrics"]').click();
     for (const number of ['1', '25']) {
       await page.locator('#search-input').fill(number);
@@ -44,11 +45,11 @@ try {
       assert.equal(await page.locator('#search-input').evaluate(el => el === document.activeElement), true);
     }
     if (mode !== 'immersive') assert.deepEqual(await page.evaluate(() => window.lockCalls), [['Escape']]);
-    await page.keyboard.press('Tab');
+    await page.keyboard.press('F11');
     await page.waitForFunction(() => document.querySelector('#home-fullscreen').getAttribute('aria-pressed') === 'false');
     if (mode !== 'immersive') assert.ok(await page.evaluate(() => window.unlockCalls > 0));
     assert.deepEqual(errors, []);
     await page.close();
   }
-  console.log('Esc conserva la vista ampliada, regresa al buscador limpio y enfocado; Tab sale. Integración de Keyboard Lock y rechazo de permiso comprobados con API simulada.');
+  console.log('Esc conserva la vista ampliada, regresa al buscador limpio y enfocado; F11 sale. Integración de Keyboard Lock y rechazo de permiso comprobados con API simulada.');
 } finally { await browser.close(); }

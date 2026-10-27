@@ -31,7 +31,7 @@ La precisión de la sincronización depende de los tiempos disponibles para cada
 | `←` / `→` | Retroceder o adelantar 1 segundo en Solo letra (sin tiempos, cambia de bloque); 5 segundos en Cantado y Karaoke. |
 | `L` | Alternar entre la presentación por bloques y la letra completa en Cantado y Karaoke. |
 | `F` | Alternar la pantalla completa con un himno abierto. |
-| `Tab` | Alternar la pantalla completa desde el buscador o cuando el foco está en el fondo de la página. Desde otros controles conserva la navegación habitual. |
+| `F11` | Alternar la pantalla completa (entrar y salir). |
 | `Esc` | Volver al buscador desde un himno. Según el navegador, puede salir primero de pantalla completa y requerir otra pulsación. |
 
 Los atajos del himno no se activan mientras se escribe en un campo. `Shift` + `Tab` conserva la navegación inversa entre controles.

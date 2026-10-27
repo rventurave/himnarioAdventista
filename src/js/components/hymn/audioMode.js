@@ -1,16 +1,10 @@
 import { findActiveIndex } from "../../utils/lyricsTimeline.js";
 import { getHymnAudioUrl } from "../../api/hymnsApi.js";
-import { MODES, LYRICS_LEAD_SECONDS } from "../../core/constants.js";
+import { MODES, LYRICS_LEAD_SECONDS, INTRO_SECONDS } from "../../core/constants.js";
 import { getSlides, getPlaybackLyrics, getStructuredLyrics } from "../../services/lyricsService.js";
 import * as view from "./hymnView.js";
 
 const audio = view.getAudioElement();
-
-/*
- * Presentación de respaldo cuando no hay tiempos ni audio.
- * Con sincronización, la primera frase determina el fin de la presentación.
- */
-const INTRO_SECONDS = 5;
 
 let loadToken = 0;
 let analysisController = null;
@@ -113,7 +107,7 @@ export async function start(hymn, mode) {
     // La letra completa permanece en el DOM antes de pulsar L o iniciar el audio.
     view.renderLyricsList(lines, activeIndex);
     introEnd = Math.max(0, lines[0].start - LYRICS_LEAD_SECONDS);
-    if (showClosingCoverAtLyricsEnd && introEnd === 0) introEnd = INTRO_SECONDS;
+    if (introEnd === 0) introEnd = INTRO_SECONDS;
     //La advertencia depende del método: con alineación vocal real no se muestra.
     view.renderNotice(playback.syncMethod === "estimated"
       ? "Sincronización aproximada según el audio. Para precisión vocal se requieren tiempos revisados."

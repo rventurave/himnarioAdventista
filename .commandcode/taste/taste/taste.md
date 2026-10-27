@@ -1,0 +1,17 @@
+# Taste
+- Communicates in Spanish and expects responses in Spanish. Confidence: 0.8
+- Does not want the agent to commit or push changes unless explicitly asked to do so. Confidence: 0.9
+- Wants keyboard shortcuts and on-screen controls kept in sync: a behavior change to navigation should apply to both, not just one. Confidence: 0.7
+- Reuses existing project assets, components, and logic rather than adding new dependencies or duplicating functionality. Confidence: 0.7
+- Prefers inspecting existing code to understand current behavior before making changes. Confidence: 0.6
+- Values accessibility (semantic buttons, aria-pressed, keyboard navigation, visible focus) and responsive/adaptive design. Confidence: 0.6
+- Expects the existing test suite to be run and regressions fixed when making changes. Confidence: 0.7
+- Prefers backgrounds and images kept at their original quality — does not like dark/dimming overlays applied to them. Confidence: 0.7
+- When a recent visual change is disliked, prefers reverting to the previously working design (using git history as reference) rather than inventing a new design or reinterpretation. Confidence: 0.8
+- Shares reference images/screenshots to communicate the desired visual result and expects the agent to match that visual reference when the text description is ambiguous. Confidence: 0.5
+- Prefers standard, conventional keyboard shortcuts (e.g., F11 for fullscreen) over repurposed keys like Tab for the same action. Confidence: 0.5
+- Wants changes limited to the specific files and rules required for the task, leaving unrelated components and global styles untouched. Confidence: 0.7
+- Prefers a non-destructive Git workflow: avoids destructive commands (e.g., git reset --hard, git checkout .) and never discards pre-existing uncommitted user changes. Confidence: 0.8
+- When asked to verify correctness, prefers exhaustive checking of every item in the dataset (e.g., all 613 hymns) and every mode/variant, not a spot-check of a sample. Confidence: 0.7
+- Independently verifies the agent's results and surfaces concrete counter-examples (e.g., specific hymn numbers) when a prior check was incomplete, expecting the agent to investigate those reports rather than dismiss them. Confidence: 0.5
+- Prefers uniform, consistent behavior across all hymns/entries — e.g., every hymn should show its number and title on entry/exit even when its data differs (missing intro timing), rather than special-casing individual items. Confidence: 0.7
