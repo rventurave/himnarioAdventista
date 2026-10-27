@@ -33,7 +33,7 @@ try {
     await page.goto(base);
     await page.evaluate(() => document.fonts.ready);
     assert.equal(await page.evaluate(() => Boolean(document.fullscreenElement)), false, 'no fuerza pantalla completa');
-    await geometry(page, ['.selector-btn', '#search-form > button[type="submit"]', '#home-fullscreen']);
+    await geometry(page, ['.opcion', '#search-form > button[type="submit"]', '#home-fullscreen']);
     await page.locator('#search-input').fill('a');
     await page.waitForSelector('#search-suggestions.visible .suggestion-item');
     await geometry(page, ['#search-suggestions'], false);
@@ -45,12 +45,10 @@ try {
     assert.equal(await page.locator('#search-selected-number').textContent(), '443');
     const selected = await page.locator('#search-selected-title').evaluate(el => ({ text: el.textContent, width: el.clientWidth, clipped: el.scrollWidth > el.clientWidth + 1 || el.scrollHeight > el.clientHeight + 1 }));
     assert.ok(selected.width >= 100 && !selected.clipped, JSON.stringify(selected));
-    await geometry(page, ['#search-selected-clear', '.selector-btn', '#search-form > button[type="submit"]']);
+    await geometry(page, ['#search-selected-clear', '.opcion', '#search-form > button[type="submit"]']);
     await page.screenshot({ path: `${output}/selected-${width}x${height}.png` });
     await page.locator('#search-selected-clear').tap();
     assert.equal(await page.locator('#search-input').inputValue(), '');
-    await page.locator('.selector-btn').tap();
-    await geometry(page, ['.opciones'], false);
     await page.locator('.opcion[data-value="lyrics"]').tap();
     await page.locator('#search-input').fill('1');
     await page.locator('#search-form > button[type="submit"]').tap();
@@ -91,11 +89,9 @@ try {
     assert.ok(await page.locator('#hymn-intro').isVisible());
     await page.locator('#hymn-back').tap();
     await page.waitForURL(base + '/');
-    await page.locator('.selector-btn').focus();
-    await page.keyboard.press('Enter');
     await page.locator('.opcion[data-value="karaoke"]').focus();
     await page.keyboard.press('Enter');
-    assert.equal(await page.locator('.selector-btn img').getAttribute('alt'), 'Karaoke');
+    assert.equal(await page.locator('.opcion[data-value="karaoke"]').getAttribute('aria-pressed'), 'true');
     assert.deepEqual(mp3, [], 'Solo letra y portada no descargan MP3');
     await page.goto(`${base}/himnos`);
     assert.equal(await page.locator('ol a').count(), 613);

@@ -73,30 +73,6 @@
               required
             />
 
-            <div class="selector">
-              <button
-                class="selector-btn"
-                type="button"
-                aria-label="Modo de reproducción"
-              >
-                <img src="/src/assets/icons/musica.png" alt="Cantado" />
-              </button>
-
-              <div class="opciones">
-                <div class="opcion" data-value="lyrics" title="Solo letra">
-                  <img src="/src/assets/icons/letra.png" alt="Solo letra" />
-                </div>
-
-                <div class="opcion" data-value="sung" title="Cantado">
-                  <img src="/src/assets/icons/musica.png" alt="Cantado" />
-                </div>
-
-                <div class="opcion" data-value="karaoke" title="Karaoke">
-                  <img src="/src/assets/icons/instrumental.png" alt="Karaoke" />
-                </div>
-              </div>
-            </div>
-
             <button
               type="submit"
               aria-label="Reproducir himno"
@@ -117,6 +93,42 @@
 
           <div id="search-suggestions"></div>
         </div>
+
+        <div class="selector" role="group" aria-label="Modo de reproducción">
+          <button
+            class="opcion"
+            data-value="lyrics"
+            type="button"
+            title="Solo letra"
+            aria-pressed="false"
+          >
+            <img src="/src/assets/icons/letra.png" alt="" aria-hidden="true" />
+            <span>Letra</span>
+          </button>
+
+          <button
+            class="opcion"
+            data-value="sung"
+            type="button"
+            title="Cantado"
+            aria-pressed="true"
+          >
+            <img src="/src/assets/icons/musica.png" alt="" aria-hidden="true" />
+            <span>Cantado</span>
+          </button>
+
+          <button
+            class="opcion"
+            data-value="karaoke"
+            type="button"
+            title="Karaoke"
+            aria-pressed="false"
+          >
+            <img src="/src/assets/icons/instrumental.png" alt="" aria-hidden="true" />
+            <span>Karaoke</span>
+          </button>
+        </div>
+
         <footer class="home-footer">
           <nav aria-label="Catálogo de himnos">
             <a href="/himnos">Ver todos los himnos</a>

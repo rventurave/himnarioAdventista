@@ -53,7 +53,7 @@ try {
   });
   assert.ok(rowGeometry.sameRow && rowGeometry.order, 'número y título alineados en la misma fila');
   assert.ok(await searchPage.locator('#search-form button[type="submit"]').isVisible(), 'botón reproducir');
-  assert.ok(await searchPage.locator('.selector-btn').isVisible(), 'selector de modo');
+  assert.ok(await searchPage.locator('.selector').isVisible(), 'selector de modo');
 
   // Botón de eliminar selección
   await searchPage.locator('#search-selected-clear').click();

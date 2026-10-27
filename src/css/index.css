@@ -538,138 +538,108 @@ button:active {
 }
 
 /* ========================================
-   SELECTOR
+   SELECTOR DE MODOS
 ======================================== */
 
 .selector {
-  position: relative;
-  width: 50px;
-}
-
-/* ========================================
-   BOTÓN PRINCIPAL
-======================================== */
-
-.selector-btn {
-  width: 50px;
-  height: 50px;
-
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 6px;
 
-  padding: 0;
-  border: none;
-  background: #000000;
+  width: fit-content;
+  max-width: 100%;
 
-  cursor: pointer;
-}
+  margin-top: 20px;
+  padding: 6px;
 
-/* Imagen del botón principal */
-.selector-btn img {
-  width: 60px;
-  height: 60px;
+  background: #f6e8fc;
 
-  object-fit: contain;
+  border: 1px solid #e1e1de;
+  border-radius: 999px;
 
-  padding: 0;
-  border: none;
-  background: transparent;
-
-  transition: transform 0.2s ease;
-}
-
-/* Efecto al pasar el mouse */
-.selector-btn:hover img {
-  transform: scale(1.05);
+  box-shadow:
+    0 10px 30px rgba(38, 50, 56, 0.12),
+    0 2px 6px rgba(38, 50, 56, 0.06);
 }
 
 /* ========================================
-   MENÚ DESPLEGABLE
-======================================== */
-
-.opciones {
-  display: none;
-
-  position: absolute;
-
-  top: 55px;
-  left: 0;
-
-  width: 50px;
-
-  padding: 5px;
-
-  background-color: #ffffff;
-
-  border-radius: 8px;
-
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-
-  z-index: 1000;
-}
-
-/* ========================================
-   MENÚ ABIERTO
-======================================== */
-
-.selector.abierto .opciones {
-  display: flex;
-
-  flex-direction: column;
-
-  gap: 5px;
-}
-
-/* ========================================
-   CADA OPCIÓN
+   OPCIÓN DE MODO
 ======================================== */
 
 .opcion {
-  width: 50px;
-  height: 50px;
+  width: auto;
+  height: auto;
+  min-height: 44px;
 
-  display: flex;
-
+  display: inline-flex;
   align-items: center;
   justify-content: center;
+  gap: 8px;
 
-  padding: 0;
+  padding: 8px 18px;
+
+  border: none;
+  border-radius: 999px;
+
+  background: transparent;
+
+  color: #4b3a52;
+
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 600;
+
+  white-space: nowrap;
 
   cursor: pointer;
 
-  border-radius: 8px;
+  transition:
+    background 0.2s ease,
+    color 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
-/* ========================================
-   IMAGEN DE CADA OPCIÓN
-======================================== */
-
 .opcion img {
-  width: 40px;
-  height: 40px;
+  width: 20px;
+  height: 20px;
 
   object-fit: contain;
 
-  padding: 8px;
+  filter: brightness(0);
 
-  border-radius: 8px;
-
-  background-color: #9d00ff;
-
-  transition:
-    transform 0.2s ease,
-    background-color 0.2s ease;
+  transition: filter 0.2s ease;
 }
 
-/* ========================================
-   EFECTO HOVER
-======================================== */
+.opcion:hover {
+  background: rgba(157, 0, 255, 0.1);
+  transform: none;
+  box-shadow: none;
+}
 
 .opcion:hover img {
-  transform: scale(1.1);
+  transform: none;
+}
 
-  background-color: #9d00ff;
+.opcion:active {
+  transform: none;
+  box-shadow: none;
+}
+
+.opcion:focus-visible {
+  outline: 3px solid rgba(157, 0, 255, 0.45);
+  outline-offset: 2px;
+}
+
+.opcion.active {
+  background: #9d00ff;
+  color: #ffffff;
+
+  box-shadow: 0 6px 16px rgba(157, 0, 255, 0.35);
+}
+
+.opcion.active img {
+  filter: brightness(0) invert(1);
 }
 
 /* ========================================
@@ -1424,10 +1394,6 @@ input[type="search"], input[type="search"]::placeholder { font-size: 1rem; }
 .suggestion-item { height: auto; min-height: 44px; }
 .suggestion-number { flex: none; }
 .suggestion-title { white-space: normal; overflow-wrap: anywhere; line-height: 1.35; }
-.selector { flex: none; }
-.opciones { width: 60px; max-height: var(--menu-height, 45dvh); overflow-y: auto; overscroll-behavior: contain; }
-.opcion { width: 100%; min-height: 44px; flex: none; }
-.selector.menu-above .opciones { top: auto; bottom: calc(100% + 6px); }
 .home-footer { position: fixed; bottom: max(8px, env(safe-area-inset-bottom, 0px)); }
 .home-footer a { display: inline-flex; min-height: 44px; align-items: center; }
 .static-hymn { width: min(100%, 800px); padding: clamp(12px, 3vw, 24px); overflow-wrap: anywhere; }
@@ -1437,18 +1403,20 @@ input[type="search"], input[type="search"]::placeholder { font-size: 1rem; }
 @media (max-width: 500px) {
   .app-title { font-size: clamp(1.9rem, 8vw, 2.4rem); }
   input[type="search"] { padding-inline: 8px; }
-  .search-container form:has(.search-selected:not([hidden])) {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) 50px 48px;
-  }
-  .search-selected { grid-column: 1 / -1; }
-  .search-container form:has(.search-selected:not([hidden])) .selector { grid-column: 2; }
-  .search-container form:has(.search-selected:not([hidden])) > button[type="submit"] { grid-column: 3; }
+  .selector { gap: 4px; padding: 5px; margin-top: 16px; }
+  .opcion { gap: 5px; padding: 8px 10px; font-size: 0.85rem; }
+  .opcion img { width: 16px; height: 16px; }
   .hymn-topbar { gap: 8px; }
   .hymn-icon-btn { padding: 8px; }
 }
+@media (max-width: 360px) {
+  .selector { gap: 3px; padding: 4px; }
+  .opcion { gap: 4px; padding: 8px 8px; font-size: 0.8rem; }
+  .opcion img { width: 15px; height: 15px; }
+}
 @media (max-height: 500px) {
   .app-title { margin-bottom: 16px; }
+  .selector { margin-top: 10px; }
   .hymn-content { padding-block: 28px 4px; gap: 10px; }
   .hymn-topbar { margin-bottom: 8px; }
   .hymn-notice { margin: 4px 0; padding-block: 4px; }

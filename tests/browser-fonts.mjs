@@ -44,7 +44,7 @@ try {
     await family(page, '.app-title', 'Bebas Neue'); await actualFont(page, '.app-title', 'Bebas Neue');
     await family(page, 'body', 'Nunito'); await family(page, '#search-input', 'Nunito');
     await family(page, '#search-input', 'Nunito', '::placeholder');
-    await family(page, '.selector-btn', 'Nunito'); await family(page, '.hymn-notfound-title', 'Bebas Neue'); await family(page, '.home-footer a', 'Nunito');
+    await family(page, '.opcion', 'Nunito'); await family(page, '.hymn-notfound-title', 'Bebas Neue'); await family(page, '.home-footer a', 'Nunito');
     assert.equal((await page.locator('link[href*="api.fontshare.com"]').count()), 0);
     assert.equal((await page.locator('link[href*="fonts.googleapis.com"]').count()), 1);
     assert.equal(fontFiles.length, new Set(fontFiles).size, 'sin solicitudes de fuentes duplicadas en portada');

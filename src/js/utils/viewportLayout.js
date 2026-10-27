@@ -2,7 +2,6 @@
 export function initViewportLayout() {
   const root = document.documentElement;
   const form = document.querySelector('#search-form');
-  const selector = document.querySelector('.selector');
   const footer = document.querySelector('.home-footer');
   let frame;
   function layout() {
@@ -15,12 +14,6 @@ export function initViewportLayout() {
     const rect = form.getBoundingClientRect();
     const below = Math.max(44, bottom - rect.bottom - 8);
     form.parentElement.style.setProperty('--suggestions-height', `${Math.floor(below)}px`);
-    const control = selector.getBoundingClientRect();
-    const above = Math.max(44, control.top - 12);
-    const menuBelow = Math.max(44, bottom - control.bottom - 6);
-    const openAbove = menuBelow < 175 && above > menuBelow;
-    selector.classList.toggle('menu-above', openAbove);
-    selector.style.setProperty('--menu-height', `${Math.floor(openAbove ? above : menuBelow)}px`);
   }
   const schedule = () => { cancelAnimationFrame(frame); frame = requestAnimationFrame(layout); };
   window.addEventListener('resize', schedule);

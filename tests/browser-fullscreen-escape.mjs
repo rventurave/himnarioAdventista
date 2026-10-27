@@ -31,7 +31,6 @@ try {
     await page.waitForFunction(() => document.activeElement.id === 'search-input');
     await page.keyboard.press('Tab');
     await page.waitForFunction(() => document.querySelector('#home-fullscreen').getAttribute('aria-pressed') === 'true');
-    await page.locator('.selector-btn').click();
     await page.locator('.opcion[data-value="lyrics"]').click();
     for (const number of ['1', '25']) {
       await page.locator('#search-input').fill(number);

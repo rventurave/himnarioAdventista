@@ -1,8 +1,6 @@
 import { DEFAULT_MODE } from "../../core/constants.js";
 
-const selector = document.querySelector(".selector");
-const selectorBtn = document.querySelector(".selector-btn");
-const opciones = document.querySelectorAll(".opcion");
+const opciones = [...document.querySelectorAll(".opcion")];
 
 /*
  * Modo activo del selector.
@@ -18,75 +16,42 @@ export function getMode() {
 }
 
 /**
- * Copia el ícono de una opción en el botón principal.
+ * Actualiza el estado visual y accesible de la opción activa.
  */
-function renderButtonIcon(opcion) {
-  const imagen = opcion.querySelector("img");
-  const imagenPrincipal = selectorBtn.querySelector("img");
-
-  imagenPrincipal.src = imagen.src;
-  imagenPrincipal.alt = imagen.alt;
+function renderActive(mode) {
+  opciones.forEach((opcion) => {
+    const active = opcion.dataset.value === mode;
+    opcion.classList.toggle("active", active);
+    opcion.setAttribute("aria-pressed", String(active));
+  });
 }
 
 /**
- * Abre o cierra el menú del selector.
+ * Sincroniza el selector cuando el modo cambia desde la URL o el router.
  */
-function toggleSelector() {
-  selector.classList.toggle("abierto");
-  selectorBtn.setAttribute("aria-expanded", String(selector.classList.contains("abierto")));
+export function setMode(mode) {
+  if (!opciones.some((opcion) => opcion.dataset.value === mode)) {
+    return;
+  }
+
+  currentMode = mode;
+  renderActive(mode);
 }
 
 /**
- * Selecciona una opción del menú.
+ * Selecciona una opción del selector.
  */
 function selectOption(opcion) {
-  renderButtonIcon(opcion);
-  selector.classList.remove("abierto");
-  selectorBtn.setAttribute("aria-expanded", "false");
-
-  currentMode = opcion.dataset.value;
-}
-
-/**
- * Cierra el selector si se hace clic fuera.
- */
-function handleClickOutside(event) {
-  if (!selector.contains(event.target)) {
-    selector.classList.remove("abierto");
-    selectorBtn.setAttribute("aria-expanded", "false");
-  }
+  setMode(opcion.dataset.value);
 }
 
 /**
  * Inicializa el componente selector.
  */
 export function initSelector() {
-  const defaultOption = [...opciones].find(
-    (opcion) => opcion.dataset.value === DEFAULT_MODE,
-  );
-
-  if (defaultOption) {
-    renderButtonIcon(defaultOption);
-  }
-
-  selectorBtn.setAttribute("aria-expanded", "false");
-  selectorBtn.addEventListener("click", toggleSelector);
+  renderActive(currentMode);
 
   opciones.forEach((opcion) => {
-    opcion.tabIndex = 0;
-    opcion.setAttribute("role", "button");
-    opcion.setAttribute("aria-label", opcion.title);
-    opcion.addEventListener("keydown", event => {
-      if (event.key === "Enter" || event.key === " ") {
-        event.preventDefault();
-        selectOption(opcion);
-        selectorBtn.focus();
-      }
-    });
-    opcion.addEventListener("click", () => {
-      selectOption(opcion);
-    });
+    opcion.addEventListener("click", () => selectOption(opcion));
   });
-
-  document.addEventListener("click", handleClickOutside);
 }
